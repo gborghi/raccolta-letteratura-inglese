@@ -5726,7 +5726,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_01" data-title="Sanity — ON A SENSE OF PROPORTION (part 1)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_01" data-title="Sanity — ON A SENSE OF PROPORTION (part 1)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/dreams,motif/home,motif/time,motif/well,concept/distributism,concept/hope,concept/individualism,concept/paradox,concept/truth,form/sketch,histref/spanish_inquisition"></span>
 
 
 4. On a Sense of Proportion
@@ -5885,7 +5885,7 @@ La [[Truth|verità]] è che ciò che chiamiamo Capitalismo dovrebbe chiamarsi Pr
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_02" data-title="Sanity — ON A SENSE OF PROPORTION (part 2)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_02" data-title="Sanity — ON A SENSE OF PROPORTION (part 2)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/nature,concept/distributism,concept/nature,concept/survival,concept/truth,form/fable"></span>
 
 
 Nevertheless, there is enough verbal vagueness about Socialism
@@ -6010,7 +6010,7 @@ Similmente, il primo fatto nella discussione se le piccole proprietà possano es
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_03" data-title="Sanity — ON A SENSE OF PROPORTION (part 3)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_03" data-title="Sanity — ON A SENSE OF PROPORTION (part 3)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/monster,motif/memory,motif/spring,motif/time,motif/well,concept/history,concept/truth,form/history,form/parable,histref/america,histref/french_revolution,setting/america"></span>
 
 
 The [[Truth|truth]] is that the conception that small property evolves
@@ -6129,7 +6129,7 @@ Infine, non solo è vero che l'arco della proprietà permane, è vero che la cos
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_04" data-title="Sanity — ON A SENSE OF PROPORTION (part 4)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_04" data-title="Sanity — ON A SENSE OF PROPORTION (part 4)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/prophet,motif/horse,motif/marriage,motif/nature,motif/water,concept/body,concept/distributism,concept/history,concept/honour,concept/nature,concept/self,concept/truth,form/history,setting/denmark,character/queen"></span>
 
 
 What do we mean by that "equality of pressure" as of the stones
@@ -6252,7 +6252,7 @@ La proprietà è un punto d'[[Honour|onore]]. Il vero contrario della parola «p
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_05" data-title="Sanity — ON A SENSE OF PROPORTION (part 5)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_05" data-title="Sanity — ON A SENSE OF PROPORTION (part 5)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/soul,motif/time,concept/hope,histref/america,setting/america,setting/court,setting/venice"></span>
 
 
 In the notes I have here jotted down it will be obvious, of course,
@@ -6391,7 +6391,7 @@ Dico che questa veduta è almeno sostenibile, benché non rappresenti in realtà
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_06" data-title="Sanity — ON A SENSE OF PROPORTION (part 6)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_06" data-title="Sanity — ON A SENSE OF PROPORTION (part 6)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/chains,motif/death,motif/desire,motif/time,motif/well,concept/individualism,concept/melancholy,concept/truth"></span>
 
 
 Now the reasons for regarding the present problem of Europe,
@@ -6523,7 +6523,7 @@ Così è davvero la stampa capitalista che dimostra, secondo i principi capitali
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_07" data-title="Sanity — ON A SENSE OF PROPORTION (part 7)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_07" data-title="Sanity — ON A SENSE OF PROPORTION (part 7)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/machine,motif/sleep,motif/time,motif/well,motif/wheel,concept/doubt,concept/individualism,form/riddle,setting/london,setting/orient"></span>
 
 
 But this collapse of industrial [[Individualism|individualism]], which is not
@@ -6646,7 +6646,7 @@ E io stesso talvolta sono tentato di parlare in questa maniera brusca, dopo aver
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_08" data-title="Sanity — ON A SENSE OF PROPORTION (part 8)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_08" data-title="Sanity — ON A SENSE OF PROPORTION (part 8)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/river,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/history,form/history"></span>
 
 
 For it is one of the grim and even grisly jokes of the situation
@@ -6773,7 +6773,7 @@ C'era una [[Time|volta]], o forse anche più di una volta, un uomo che entrò in
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_09" data-title="Sanity — ON A SENSE OF PROPORTION (part 9)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_09" data-title="Sanity — ON A SENSE OF PROPORTION (part 9)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/leaves,motif/pain,motif/poison,motif/road,motif/time,motif/well,concept/body,concept/doubt,concept/madness,concept/reform,concept/suffering,form/fable,form/parable,form/sketch,setting/court"></span>
 
 
 True, he had not yet submitted it to any chemical analysis;
@@ -6885,7 +6885,7 @@ Nella [[Fable|favola]] che appare qui sopra è proposto il caso che è primariam
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_10" data-title="Sanity — ON A SENSE OF PROPORTION (part 10)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_10" data-title="Sanity — ON A SENSE OF PROPORTION (part 10)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/home,motif/machine,motif/time,motif/well,concept/distributism,concept/hope,concept/original_sin,concept/pride,concept/reform"></span>
 
 
 As I [[Hope|hope]] to explain in the essays that follow, I think the question
@@ -7012,7 +7012,7 @@ Sono dunque in questo senso pieno di speranza; credo che il tracollo sia stato u
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_11" data-title="Sanity — ON A SENSE OF PROPORTION (part 11)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_11" data-title="Sanity — ON A SENSE OF PROPORTION (part 11)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/desert,motif/road,motif/ship,motif/time,motif/well,concept/courage,concept/despair,concept/education,concept/faith,concept/hope,concept/self,setting/desert,setting/ship"></span>
 
 
 A man has been led by a foolish guide or a [[Self|self]]-confident
@@ -7139,7 +7139,7 @@ Una grande nazione e civiltà ha seguito per cento anni o più una forma di prog
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_12" data-title="Sanity — ON A SENSE OF PROPORTION (part 12)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_12" data-title="Sanity — ON A SENSE OF PROPORTION (part 12)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/garden,motif/hill,motif/home,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/doubt,concept/faith,concept/individualism,concept/nature"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -7274,7 +7274,7 @@ Ciò che è davvero assai lontano è questa individualità e libertà che il Dai
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_13" data-title="Sanity — ON A SENSE OF PROPORTION (part 13)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_13" data-title="Sanity — ON A SENSE OF PROPORTION (part 13)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="motif/animals,motif/nature,motif/sleep,motif/tears,motif/uncanny,concept/ambition,concept/distributism,concept/humility,concept/imagination,concept/jealousy,concept/nature,concept/uncanny"></span>
 
 
 That is the real issue to be fought out with our serious critics; and I
@@ -7405,7 +7405,7 @@ Esiste una cosa che dovremmo chiamare [[Distributism|Distributismo]] ideale; ben
 
 
 
-<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_14" data-title="Sanity — ON A SENSE OF PROPORTION (part 14)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_a_sense_of_proportion--part_14" data-title="Sanity — ON A SENSE OF PROPORTION (part 14)" data-chapter="ON A SENSE OF PROPORTION" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/flowers,motif/garden,motif/machine,motif/well,concept/distributism,histref/catholic_church,character/monks"></span>
 
 
 We do not offer perfection; what we offer is proportion.
@@ -7497,7 +7497,7 @@ Se questo è incoerente, nulla è coerente; se questo è impraticabile, tutta la
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_01" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 1)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_01" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 1)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/flowers,motif/marriage,motif/well,concept/grotesque,concept/truth,form/comedy,character/sunday"></span>
 
 
 2. A Misunderstanding about Method
@@ -7647,7 +7647,7 @@ C'è un fatto generale ovvio ed enorme e interamente trascurato da rilevare prim
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_02" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 2)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_02" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 2)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="motif/chains,motif/childhood,motif/death,motif/home,motif/prison,motif/stars,motif/swallow,motif/time,motif/well,concept/freedom,concept/hope,concept/reform,form/tragedy"></span>
 
 
 I think such people exaggerate the extent to which it pays
@@ -7779,7 +7779,7 @@ Tratterò più avanti alcuni rimedi e reazioni pratiche contro la corsa verso ca
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_03" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 3)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_03" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 3)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/garden,motif/grave,motif/home,motif/nature,motif/road,motif/time,motif/well,motif/window,concept/distributism,concept/doubt,concept/humility,concept/nature,concept/self,concept/truth,form/sketch,character/martin_chuzzlewit,character/tolstoy"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -7955,7 +7955,7 @@ Ora, dai commenti che mi sono giunti, deduco che i suggerimenti che ho già dato
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_04" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 4)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_04" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 4)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/time,concept/distributism,concept/nature,concept/suffering,concept/truth,form/sketch,histref/industrial_revolution"></span>
 
 
 Capitalism is breaking up; and in one sense we do not pretend to be sorry
@@ -8114,7 +8114,7 @@ Ora questo abbozzo è un abbozzo; in altre parole, è un disegno, e chiunque pen
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_05" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 5)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_05" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 5)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/rose,motif/tears,concept/imagination,form/comedy,character/phantom"></span>
 
 
 = = = = = = = = = = = = = = = =
@@ -8235,7 +8235,7 @@ Ora, se un cambiamento anche così piccolo venisse fatto domani, farebbe una dif
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_06" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 6)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_06" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 6)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/uncanny,motif/well,concept/body,concept/doubt,concept/nature,concept/providence,concept/reform,concept/self,concept/uncanny"></span>
 
 
 I do not know whether the big shops are quite so weak and wobbly as their
@@ -8377,7 +8377,7 @@ La maggior parte di noi ha incontrato, nella letteratura e persino nella vita, u
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_07" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 7)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_07" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 7)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="archetype/monster,motif/nature,motif/poison,motif/prison,motif/time,motif/wheel,concept/despair,concept/doubt,concept/history,concept/hope,concept/individualism,concept/nature,concept/providence,form/history,form/parable,histref/america,setting/america"></span>
 
 
 Now I could not more conveniently sum up what I meant by this first
@@ -8533,7 +8533,7 @@ Per variare la metafora in una militare, ciò che è accaduto è che i monopolis
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_08" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 8)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_08" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 8)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="topos/world_upside_down,archetype/detective,motif/clock,motif/nature,motif/tears,concept/doubt,concept/nature,concept/paradox"></span>
 
 
 I began by enunciating the [[Paradox|paradox]] that one way of supporting small
@@ -8656,7 +8656,7 @@ Un omicidio viene di solito commesso, possiamo dedurre, quando un gentiluomo pre
 
 
 
-<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_09" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 9)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_a_misunderstanding_about_method--part_09" data-title="Sanity — A MISUNDERSTANDING ABOUT METHOD (part 9)" data-chapter="A MISUNDERSTANDING ABOUT METHOD" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/prison,motif/well,concept/democracy"></span>
 
 
 What these people really mean is that they cannot imagine
@@ -8757,7 +8757,7 @@ Ecco la ragione per cui non trattiamo i magnati dei Trust e i monopolisti come s
 
 
 
-<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="SOME ASPECTS OF THE LAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_some_aspects_of_the_land" data-title="Sanity — SOME ASPECTS OF THE LAND--" data-chapter="SOME ASPECTS OF THE LAND" data-kind="story" data-tags="concept/truth"></span>
 
 
 III SOME ASPECTS OF THE LAND
@@ -8781,7 +8781,7 @@ III ALCUNI ASPETTI DELLA TERRA
 
 
 
-<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_01" data-title="Sanity — THE SIMPLE TRUTH (part 1)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_01" data-title="Sanity — THE SIMPLE TRUTH (part 1)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt" data-tags="motif/garden,motif/machine,motif/nature,motif/rose,motif/time,motif/well,concept/nature,concept/paradox,concept/truth"></span>
 
 
 I THE SIMPLE [[Truth|TRUTH]]
@@ -8922,7 +8922,7 @@ L'argomento primario a favore del contadino è di una semplicità cruda e quasi 
 
 
 
-<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_02" data-title="Sanity — THE SIMPLE TRUTH (part 2)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_simple_truth_truth--part_02" data-title="Sanity — THE SIMPLE TRUTH (part 2)" data-chapter="THE SIMPLE Truth TRUTH" data-kind="excerpt" data-tags="archetype/artist,motif/dance,motif/well,concept/distributism,concept/pride,concept/self_sacrifice,concept/truth,setting/castle"></span>
 
 
 I shall consider these separate aspects of agricultural [[Distributism|distributism]]
@@ -9011,7 +9011,7 @@ Suppongo che ciò che si intende sia l'Arte Comunista; e questa [[Alone|parola]]
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_01" data-title="Sanity — VOWS AND VOLUNTEERS (part 1)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_01" data-title="Sanity — VOWS AND VOLUNTEERS (part 1)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt" data-tags="archetype/hero,motif/fire,motif/grave,motif/home,motif/machine,motif/nature,motif/time,concept/distributism,concept/education,concept/nature,concept/self,concept/self_sufficiency,concept/truth"></span>
 
 
 II VOWS AND VOLUNTEERS
@@ -9143,7 +9143,7 @@ Vogliamo un appello popolare per volontari che salvino la terra; esattamente com
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_02" data-title="Sanity — VOWS AND VOLUNTEERS (part 2)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_02" data-title="Sanity — VOWS AND VOLUNTEERS (part 2)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/time,motif/well,concept/exile,setting/london"></span>
 
 
 The quarrel about the Limehouse slums was a working model of the problem--
@@ -9279,7 +9279,7 @@ Ora la primissima domanda che viene sempre posta a coloro che sostengono il nost
 
 
 
-<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_03" data-title="Sanity — VOWS AND VOLUNTEERS (part 3)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_vows_and_volunteers--part_03" data-title="Sanity — VOWS AND VOLUNTEERS (part 3)" data-chapter="VOWS AND VOLUNTEERS" data-kind="excerpt" data-tags="motif/nature,motif/stars,concept/education,concept/humility,concept/nature"></span>
 
 
 Now, using words in this sensible sense, I should maintain that there
@@ -9415,7 +9415,7 @@ Finora, mi propongo semplicemente di suggerire che molti contadini sarebbero ora
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_01" data-title="Sanity — THE REAL LIFE ON THE LAND (part 1)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_01" data-title="Sanity — THE REAL LIFE ON THE LAND (part 1)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt" data-tags="archetype/hero,motif/bees,motif/home,motif/river,motif/stars,concept/doubt,concept/pride,concept/self,concept/truth,histref/dante"></span>
 
 
 III THE REAL LIFE ON THE LAND
@@ -9537,7 +9537,7 @@ Molti devono aver citato la solenne massima di Virgilio che dice: «Felice colui
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_02" data-title="Sanity — THE REAL LIFE ON THE LAND (part 2)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_02" data-title="Sanity — THE REAL LIFE ON THE LAND (part 2)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt" data-tags="archetype/monster,archetype/prophet,motif/city,motif/decay,motif/fire,motif/leaves,motif/time,motif/well,concept/education,concept/grotesque,concept/longing,concept/truth,form/fragment,histref/christianity,setting/london,character/christ"></span>
 
 
 And in saying this, the poet certainly proves once more the two
@@ -9645,7 +9645,7 @@ Fin qui il fatto fondamentale è abbastanza chiaro; e ormai, a questo [[Time|tem
 
 
 
-<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_03" data-title="Sanity — THE REAL LIFE ON THE LAND (part 3)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_real_life_on_the_land--part_03" data-title="Sanity — THE REAL LIFE ON THE LAND (part 3)" data-chapter="THE REAL LIFE ON THE LAND" data-kind="excerpt" data-tags="motif/death,motif/river,motif/well,concept/body,concept/grotesque,concept/truth"></span>
 
 
 Most of us realize in some sense that this is true; but many
@@ -9761,7 +9761,7 @@ e il compiersi della nostra piccola vita.
 
 
 
-<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="SOME ASPECTS OF MACHINERY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_some_aspects_of_machinery" data-title="Sanity — SOME ASPECTS OF MACHINERY--" data-chapter="SOME ASPECTS OF MACHINERY" data-kind="story" data-tags="motif/wheel"></span>
 
 
 IV SOME ASPECTS OF MACHINERY
@@ -9787,7 +9787,7 @@ IV ALCUNI ASPETTI DELLA MACCHINA
 
 
 
-<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_01" data-title="Sanity — THE WHEEL OF FATE (part 1)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_01" data-title="Sanity — THE WHEEL OF FATE (part 1)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/garden,motif/home,motif/machine,motif/road,motif/time,motif/water,motif/wheel,concept/body,concept/despair,concept/doubt,concept/hope,concept/resignation,concept/self,setting/paris"></span>
 
 
 I THE [[Wheel|WHEEL]] OF FATE
@@ -9900,7 +9900,7 @@ Prima di intraprendere qualsiasi discorso sul problema pratico del macchinario, 
 
 
 
-<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_02" data-title="Sanity — THE WHEEL OF FATE (part 2)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_wheel_wheel_of_fate--part_02" data-title="Sanity — THE WHEEL OF FATE (part 2)" data-chapter="THE Wheel WHEEL OF FATE" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/hill,motif/home,motif/machine,motif/nature,motif/soul,motif/time,motif/well,motif/wheel,concept/democracy,concept/doubt,concept/hope,concept/nature,concept/self,setting/london"></span>
 
 
 The aim of human polity is human happiness.  For those holding
@@ -10072,7 +10072,7 @@ Toccando l'ultimo punto, può essere [[Well|bene]] dire di sfuggita che quanto a
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_01" data-title="Sanity — THE ROMANCE OF MACHINERY (part 1)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_01" data-title="Sanity — THE ROMANCE OF MACHINERY (part 1)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/machine,motif/road,motif/secrets,motif/time,concept/fear,concept/honour,concept/wonder"></span>
 
 
 II THE [[Romance|ROMANCE]] OF MACHINERY
@@ -10216,7 +10216,7 @@ Sarebbe naturalmente lo stesso con qualsiasi avventura della medesima sciagurata
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_02" data-title="Sanity — THE ROMANCE OF MACHINERY (part 2)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_02" data-title="Sanity — THE ROMANCE OF MACHINERY (part 2)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/birds,motif/city,motif/clock,motif/machine,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/imagination,form/parable,character/speed"></span>
 
 
 Now this has a considerable relevancy to the real criticism of the modern
@@ -10329,7 +10329,7 @@ Ora, ho già spiegato che non propongo nulla in ciò che alcuni chiamano il modo
 
 
 
-<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_03" data-title="Sanity — THE ROMANCE OF MACHINERY (part 3)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_romance_romance_of_machinery--part_03" data-title="Sanity — THE ROMANCE OF MACHINERY (part 3)" data-chapter="THE Romance ROMANCE OF MACHINERY" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/soul,motif/well,concept/education,concept/nature,concept/reform,concept/self"></span>
 
 
 I have thus tried to put myself fairly in the position of
@@ -10428,7 +10428,7 @@ Vi sono difficoltà in questa concezione; ma per il momento posso [[Well|bene]] 
 
 
 
-<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_01" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 1)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_01" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 1)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt" data-tags="archetype/hero,motif/crown,motif/moon,motif/well,concept/greatness,concept/history,form/history,form/novel"></span>
 
 
 III THE HOLIDAY OF THE SLAVE
@@ -10578,7 +10578,7 @@ Il ragazzo che gioca ai ladri non è liberato ma ritardato nell'apprendimento su
 
 
 
-<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_02" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 2)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_holiday_of_the_slave--part_02" data-title="Sanity — THE HOLIDAY OF THE SLAVE (part 2)" data-chapter="THE HOLIDAY OF THE SLAVE" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/horse,motif/machine,motif/soul,motif/time,motif/well,motif/wheel,concept/self,concept/slavery"></span>
 
 
 Inventions have destroyed invention.  The big modern machines
@@ -10694,7 +10694,7 @@ Ora può darsi che alcuni sostenitori dello Stato dell'Ozio abbiano in mente qua
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_01" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 1)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_01" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 1)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/birds,motif/machine,motif/time,motif/water,motif/well,concept/charity,concept/doubt,concept/freedom,concept/truth,character/bottom"></span>
 
 
 IV THE FREE MAN AND THE FORD CAR
@@ -10846,7 +10846,7 @@ Eppure non ho mai visto il signor Ford e la sua piccola automobile lodati per qu
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_02" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 2)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_02" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 2)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/garden,motif/machine,motif/moon,motif/nature,motif/soul,motif/well,motif/wheel,concept/education,concept/history,concept/nature,concept/self,form/history"></span>
 
 
 Such are the advantages of standardization; but, as may be suspected,
@@ -10954,7 +10954,7 @@ Ora il signor Ford è un buon uomo, per quanto ciò sia compatibile con l'essere
 
 
 
-<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_03" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 3)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_free_man_and_the_ford_car--part_03" data-title="Sanity — THE FREE MAN AND THE FORD CAR (part 3)" data-chapter="THE FREE MAN AND THE FORD CAR" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/machine,motif/time,concept/exile,concept/melancholy"></span>
 
 
 Upon this point of immediate compromise with machinery, therefore, I am
@@ -11078,7 +11078,7 @@ i difetti dell'approccio.
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_01" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 1)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_01" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 1)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/moon,motif/water,motif/well,concept/despair,concept/exile,concept/faith,concept/history,concept/hope,concept/longing,concept/mercy,concept/reform,form/history"></span>
 
 
 2. The Religion of Small Property
@@ -11216,7 +11216,7 @@ La gente parla dell'ottimista che ha fretta; ma mi sembra che un pessimista come
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_02" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 2)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_02" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 2)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/home,motif/love,motif/nature,motif/time,concept/doubt,concept/faith,concept/fear,concept/nature,concept/self,form/parody"></span>
 
 
 If I do not compare the critic in question with the doctors
@@ -11373,7 +11373,7 @@ Ma mettendo da parte i miei affetti locali, e guardando la faccenda in quello ch
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_03" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 3)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_03" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 3)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="motif/desire,motif/nature,concept/doubt,concept/exile,concept/imagination,concept/madness,concept/nature,concept/pride,concept/suffering,setting/new_york,character/queen"></span>
 
 
 I do not profess to know very much about the French Canadians;
@@ -11585,7 +11585,7 @@ se non delle scuse, ogni volta che un argomento dipende da questo fatto fondamen
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_04" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 4)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_04" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 4)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="motif/city,motif/desire,concept/hope,concept/truth,histref/inquisition,histref/puritanism,character/clifford"></span>
 
 
 Now when I remark that we want a type of colonization rather
@@ -11735,7 +11735,7 @@ Naturalmente, vi sono parecchie cose di genere incidentale su cui una persona co
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_05" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 5)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_05" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 5)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/fire,motif/home,motif/journey,motif/leaves,motif/night,motif/rose,motif/soul,motif/well,concept/doubt,concept/hope,concept/imagination,concept/paradox,histref/america,setting/america"></span>
 
 
 A recent description of the Happy Factory, as it exists in [[america|America]]
@@ -11853,7 +11853,7 @@ Vale a dire, vogliamo qualcosa che sia sempre sul posto, e non solo oltre l'oriz
 
 
 
-<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_06" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 6)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_the_religion_of_small_property--part_06" data-title="Sanity — THE RELIGION OF SMALL PROPERTY (part 6)" data-chapter="THE RELIGION OF SMALL PROPERTY" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/flag,motif/time,motif/well,concept/body,concept/courage,concept/faith,concept/hope,concept/imagination,concept/truth,concept/wonder"></span>
 
 
 As I said at the beginning of this section, it is futile to pretend
@@ -11962,7 +11962,7 @@ Poiché il problema pratico è la meta. La nozione del pioniere si è indebolita
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_01" data-title="Sanity — A SUMMARY (part 1)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_01" data-title="Sanity — A SUMMARY (part 1)" data-chapter="A SUMMARY" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/time,motif/well,concept/body,concept/distributism,concept/doubt,concept/history,concept/imagination,concept/slavery,form/essay,form/history,setting/court,character/cain"></span>
 
 
 VI A SUMMARY
@@ -12080,7 +12080,7 @@ Comunque sia, la prospettiva è un progresso verso la completa combinazione di d
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_02" data-title="Sanity — A SUMMARY (part 2)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_02" data-title="Sanity — A SUMMARY (part 2)" data-chapter="A SUMMARY" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/water,concept/history,concept/imagination,concept/nature,concept/renunciation,concept/self,concept/slavery,form/history"></span>
 
 
 Many believe that humanity will be happy in this new peace;
@@ -12207,7 +12207,7 @@ In primo luogo, dico che questa è una cosa che potrebbe essere fatta dalla gent
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_03" data-title="Sanity — A SUMMARY (part 3)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_03" data-title="Sanity — A SUMMARY (part 3)" data-chapter="A SUMMARY" data-kind="excerpt" data-tags="motif/desire,motif/flag,motif/well,concept/courage,concept/doubt,concept/faith,character/monks"></span>
 
 
 Under this heading I have considered in their place, for instance,
@@ -12365,7 +12365,7 @@ E il mio secondo principio generale, che può sembrare contraddittorio ma è con
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_04" data-title="Sanity — A SUMMARY (part 4)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_04" data-title="Sanity — A SUMMARY (part 4)" data-chapter="A SUMMARY" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/home,motif/machine,motif/nature,motif/time,motif/well,concept/distributism,concept/education,concept/nature,histref/new_england"></span>
 
 
 Recurring to the second principle, however, there is another and less
@@ -12484,7 +12484,7 @@ Così, inevitabilmente, termino sulla nota di un'altra controversia--una controv
 
 
 
-<span class="atom-split" data-atom="story_17_a_summary--part_05" data-title="Sanity — A SUMMARY (part 5)" data-chapter="A SUMMARY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_a_summary--part_05" data-title="Sanity — A SUMMARY (part 5)" data-chapter="A SUMMARY" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/animals,motif/city,motif/home,motif/marriage,motif/moon,motif/time,concept/common_man,concept/democracy,concept/doubt,concept/education,concept/pride,concept/wonder,histref/catholic_church"></span>
 
 
 The thing behind Bolshevism and many other modern things is a new [[Doubt|doubt]].

@@ -239,7 +239,7 @@ I sentieri secondari piegano verso la strada maestra del [[King|Re]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="towers-of-time (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="towers-of-time (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/birds,motif/city,motif/crown,motif/dreams,motif/flowers,motif/garden,motif/home,motif/lightning,motif/mirror,motif/rose,motif/snow,motif/summer,motif/time,motif/wind,concept/freedom,concept/truth,character/queen"></span>
 
 
 THE TOWERS OF [[Time|TIME]]  

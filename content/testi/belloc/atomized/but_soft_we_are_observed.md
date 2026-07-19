@@ -2337,7 +2337,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="But Soft: We Are Observed! — Chapter 10 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="But Soft: We Are Observed! — Chapter 10 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 CHAPTER X
@@ -2387,7 +2387,7 @@ Very welcome therefore in the ears of the Manager of the T. and J. was his emplo
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="But Soft: We Are Observed! — Chapter 10 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="But Soft: We Are Observed! — Chapter 10 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 At the other end of the wire the Superintendent stepped out of the telephone box in his club, and told the servant to send for him the moment they rang him up again. He pulled out his watch.
@@ -2421,7 +2421,7 @@ I am sorry that the world should be so full of men, but here is another man comi
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="But Soft: We Are Observed! — Chapter 10 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="But Soft: We Are Observed! — Chapter 10 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/detective"></span>
 
 
 As this pleasing sight came into the Travel Bureau, a quarter of an hour after the battle-scarred one and his sinister colleague had left it, the only point in which you would have distinguished him out of a crowd of other good-looking young men, at least before he began to speak, was an expression of simplicity and timidity in his soft brown eyes, and the betrayal in his gestures of a certain nervousness and haste. When he spoke, his English also had that touch of a something foreign — one could hardly tell what — in the accent; but it was not an echo of the battle-scarred one’s accent, it was different, it was from another clime, as indeed was the young man altogether, for you could see that by blood he was in part of English lineage.
@@ -2467,7 +2467,7 @@ A new set of emotions chased themselves through Richard Mallard’s thumping hea
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="But Soft: We Are Observed! — Chapter 10 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="But Soft: We Are Observed! — Chapter 10 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/detective,motif/ship,setting/new_york,setting/ship"></span>
 
 
 “I don’t know why you shouldn’t snap me. And I don’t see why you shouldn’t know my name — what?
@@ -2525,7 +2525,7 @@ And so once again within a single hour all the world was satisfied (I repeat, th
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="But Soft: We Are Observed! — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="But Soft: We Are Observed! — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/fame_and_publicity,concept/greed_and_money,form/satire,setting/america"></span>
 
 
 CHAPTER II
@@ -2555,7 +2555,7 @@ There was a doubtful tradition that old Mr. Mallard had come from England in his
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="But Soft: We Are Observed! — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="But Soft: We Are Observed! — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 They were an established joke also, though a rather stale one, in Houston, and along the seaboard of the Gulf; with just enough interest about that joke, however ancient, to be remembered when occasion should serve, for Piræus was growing and booming.
@@ -2617,7 +2617,7 @@ With that cunning which the mildest will develop under persecution he designed M
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="But Soft: We Are Observed! — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="But Soft: We Are Observed! — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 Now he was free. The waters stretched out before him leading towards England, its quiet, its decency, its courtesy; England of the books he had read and the films he had seen, where well-bred lords wearing their coronets with unaffected simplicity pass leisurely through the vast apartments of their country palaces, all opening one out of the other like a picture gallery, and are served by hosts of gigantic liveried attendants with powdered hair. He was for England, wherein all should be ceremonial; where the sentences began with “Sir” from his equals, and ended with “Sir” from his deferential inferiors. He felt on that quiet deck, to the soft purring of the engines in the good summer night, as many a man has felt who, having been forced up against a Wagner orchestra by tyrannical women, wakes suddenly to the blessed fact that the noise has ceased.
@@ -2669,7 +2669,7 @@ About the time when the Zeeland, with the blameless Richard Mallard — Chap 2 �
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="But Soft: We Are Observed! — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="But Soft: We Are Observed! — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 His tragic watch forcibly recalled the words of our great Imperial poet, who, after surveying the perils run by His Majesty’s representatives (and those of other Powers, for that matter) in Peking, the monstrous worry of the Legation in Bucharest, and the intolerable tedium of Teheran, has yet concluded that:
@@ -2709,7 +2709,7 @@ What his real name was I cannot tell you, for this sort of man passes under ever
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="But Soft: We Are Observed! — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="But Soft: We Are Observed! — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/power_and_corruption,concept/war_and_its_cost,form/satire,form/science_fiction"></span>
 
 
 Our remote forefathers would have called him a Scythian, and he was worthy to have been suckled upon mare’s milk. He was an admirable rider, but with the short stirrup; fearless, and not so much ambitious as adventurous.
@@ -2743,7 +2743,7 @@ So there he sat on his pinnacle of rock, separated from his final action by noth
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="But Soft: We Are Observed! — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="But Soft: We Are Observed! — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/tradition,concept/democracy,form/satire"></span>
 
 
 CHAPTER III
@@ -2769,7 +2769,7 @@ He had opened the subject of Mallard’s approaching landing with the remark tha
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="But Soft: We Are Observed! — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="But Soft: We Are Observed! — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/satire_of_society,concept/deception,concept/power_and_corruption,concept/hypocrisy,form/satire"></span>
 
 
 “Many an important transaction,” continued his Chief, in solemn but clear and bell-like tones, “has been ruined by the choice of a babbler. What does history show us?” he continued, in that increasing fluency which all his dependants and associates knew and many dreaded. “History shows us that nearly every enterprise which has failed, has failed through the choice of the wrong agents. Take the case of the Armada....”
@@ -2821,7 +2821,7 @@ The official inside the little office received him with even more deference than
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="But Soft: We Are Observed! — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="But Soft: We Are Observed! — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 “I hope he won’t kick,” said jolly young Mr. Palmer.
@@ -2883,7 +2883,7 @@ He sank back for a long repose, occupying as master that small domain of which h
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="But Soft: We Are Observed! — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="But Soft: We Are Observed! — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,setting/new_york"></span>
 
 
 “I am extremely sorry,” he said. “I almost missed the train, and they put me in where best they could. It’s entirely my fault. I don’t think they saw that reserved notice. If you’ll only wait a moment I’ll find a place somewhere else.”
@@ -2963,7 +2963,7 @@ As he left the Department Big Ben was striking eleven. He got into the Tube for 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="But Soft: We Are Observed! — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="But Soft: We Are Observed! — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,concept/the_power_of_language,concept/democracy,form/satire"></span>
 
 
 CHAPTER IV
@@ -3003,7 +3003,7 @@ Now that she had occupied the Foreign Office for eight years (five under the lat
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="But Soft: We Are Observed! — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="But Soft: We Are Observed! — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/deception,concept/economics,form/satire"></span>
 
 
 * * * *
@@ -3063,7 +3063,7 @@ Higden, Permanent Civil Servant of the XVIIth class, appeared at the door.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="But Soft: We Are Observed! — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="But Soft: We Are Observed! — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/deception,concept/democracy,form/satire"></span>
 
 
 She listened to the short contralto reply, then spoke again:
@@ -3113,7 +3113,7 @@ And sure enough, towards the end of the week, the hop, skip and jump had been ta
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="But Soft: We Are Observed! — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="But Soft: We Are Observed! — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/masks_disguise,concept/satire_of_society,concept/appearance_vs_reality,concept/self_deception,form/satire"></span>
 
 
 Yet the dinner was a small and quiet one, specially designed to rope in Envoys of doubtful birth: and the Home Secretary was in familiar surroundings, which eased his nervousness. During dinner he thought it his duty to study the face of the secret Envoy of West Irania. He had always read that this was what one had to do before approaching mysterious people; indeed, he remembered a very striking passage in the Memoirs of Sir Arthur Holton — it was in the second volume, if he remembered rightly... etc., etc.
@@ -3173,7 +3173,7 @@ If Mallard had dared, he would have interrupted, but he suffered the stream to f
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="But Soft: We Are Observed! — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="But Soft: We Are Observed! — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/satire_of_society,concept/appearance_vs_reality,concept/power_and_corruption,form/satire"></span>
 
 
 “In other words, will you not tell me frankly the extent of your powers?”, “Eh, what? What powers?” gasped Mallard with wide-open eyes.
@@ -3273,7 +3273,7 @@ No, the Plain Clothes Men would do nothing without reporting. If there is one po
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="But Soft: We Are Observed! — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="But Soft: We Are Observed! — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 CHAPTER V
@@ -3313,7 +3313,7 @@ Mr. Chinny was on a Toff Stunt. He was on the Toff Stunt at the Titanic Hotel an
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="But Soft: We Are Observed! — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="But Soft: We Are Observed! — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/journey,concept/deception"></span>
 
 
 He had noticed the casual glance thrown at him as Mallard came in the night before. He noticed a more troubled look at the fifth time of crossing.
@@ -3351,7 +3351,7 @@ For Mr. Corbould’s clothes were much more subtle than Mr. Chinny’s. They sui
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="But Soft: We Are Observed! — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="But Soft: We Are Observed! — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/the_city,motif/masks_disguise,motif/concealment_hidden_identity,concept/satire_of_society,concept/deception,concept/authority,form/satire,form/novel,histref/nelson,setting/london"></span>
 
 
 Anyhow, thus was Mr. Corbould habited, when Mr. Chinny entered into conversation with him under the simple form of telling him to keep his weather eye peeled.
@@ -3403,7 +3403,7 @@ They looked round — startled, as well they might be, to hear that angry voice 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="But Soft: We Are Observed! — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="But Soft: We Are Observed! — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/imprisonment,motif/the_court,concept/justice_right_and_wrong,concept/liberty_political_freedom,concept/crime_and_punishment,concept/satire_of_society,concept/authority,form/satire,form/novel,setting/london"></span>
 
 
 If Richard Mallard had desired to investigate by personal experiment the character and quality of London police drill, he could not have had a better opportunity. It seemed to him that he had had no idea until that moment of how strong human muscles can be, or with what beautiful unity trained men can act. To the artistic eye of one onlooker at least, an aged Italian officer who had taken to coaching in his native tongue for a livelihood, it was one of the most delightful examples of military precision conceivable. He made a sketch of it which hangs in my rooms to this day, and which I have often had occasion to admire.
@@ -3437,7 +3437,7 @@ Really, to hear Mr. Service, you would have said that Divine Vengeance was revea
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="But Soft: We Are Observed! — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="But Soft: We Are Observed! — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 But as for the official side, to compare their feelings to those of a man who has suddenly received a blow on the last button of his waistcoat would give but a pale image of their consternation. For them, it was as though the world had come to an end. Who was safe?
@@ -3489,7 +3489,7 @@ The Prime Minister thought for a moment, tapping her false teeth with the nail o
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="But Soft: We Are Observed! — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="But Soft: We Are Observed! — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/detective,motif/journey"></span>
 
 
 “I’ve heard nothing,” said Delavere. “Of course, sometimes one finds with these new Asiatic establishments that there are points on which they are not allowed to yield. Moscow won’t let them.”
@@ -3577,7 +3577,7 @@ And in Downing Street Mr. Delavere had reported and Mrs. Bullar had thoughtfully
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="But Soft: We Are Observed! — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="But Soft: We Are Observed! — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/self_made_man,motif/money_gold,motif/machine,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/empire_and_imperialism,concept/materialism,form/satire,form/novel,setting/london"></span>
 
 
 CHAPTER VI
@@ -3625,7 +3625,7 @@ Lord Delisport knew all that. His mighty intelligence had concluded that the mat
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="But Soft: We Are Observed! — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="But Soft: We Are Observed! — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="histref/america,setting/america"></span>
 
 
 The Republic of West Irania was Annihilationist. Moscow was always denying responsibility when responsibility was awkward, and always affirming its protection when protection was needed. Anyhow, he would take it that this concession once granted would hold. When the Agent for the Republic of West Irania gave the concession, if the claim to territory held good, the Moscow Government would see the bargain was observed. They had done so with Tomkinson in the Manchurian affair, and they had done so with the French firm in Turkestan — they were getting a reputation for such reliability.
@@ -3659,7 +3659,7 @@ It is worth noting that whereas things of this kind when they are strictly secre
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="But Soft: We Are Observed! — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="But Soft: We Are Observed! — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/secrets,motif/concealment_hidden_identity,concept/satire_of_society,concept/democracy,concept/deception,concept/secrecy_and_concealment,form/satire,form/novel,setting/london"></span>
 
 
 He and his friend met and drank together their infusions of the oriental drug. They discussed affairs at large, the climate, the professional politicians, the murders, and the rest. But the hour for taking suburban trains was approaching, and the Minor Official and his friend lived in widely distant homes, he in Ealing, but the other on the south side of the river at the Coal Wharf Arms. It was necessary to get to the root of the matter quickly, and the friend said:
@@ -3703,7 +3703,7 @@ Then it was seen with what rapidity the British Man of Big Business (interlocked
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="But Soft: We Are Observed! — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="But Soft: We Are Observed! — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/self_made_man,motif/serpent_snake,concept/appearance_vs_reality,concept/deception,concept/capitalism,concept/greed_and_money,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 Mr. Mallard was in. What luck! But then, he always had luck! Richard Mallard was lunching gloomily by himself, wondering horribly what the day would bring forth, and lo! the day had brought forth the card of Lord Delisport, which was brought to him at his table. He looked at it at first in doubt. Then the full meaning of that famous name burst upon him. He jumped up. He must go out and see him at once. He was deeply impressed.
@@ -3769,7 +3769,7 @@ It arrived. The nobleman proceeded.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="But Soft: We Are Observed! — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="But Soft: We Are Observed! — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/secrets,motif/concealment_hidden_identity,concept/deception,concept/secrecy_and_concealment,concept/greed_and_money,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 “Ar, you’re a deep un!” answered the admiring Peer. “Naow you give me your word yer weren’t thinking of Scotland?”
@@ -3823,7 +3823,7 @@ He had been picked out quite young by Sir George Goodge, Bart., for all the qual
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="But Soft: We Are Observed! — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="But Soft: We Are Observed! — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/masks_disguise,motif/concealment_hidden_identity,concept/deception,concept/appearance_vs_reality,concept/secrecy_and_concealment,form/satire,form/novel,setting/london"></span>
 
 
 For Sleuth A was the son of a clergyman in the Midlands, long dead, who had starved himself to give the boy a good education; and when the young fellow had been thus picked out for higher work he was already articled to a good firm of solicitors in the City.
@@ -3859,7 +3859,7 @@ Lord Delisport, crouched on his low, padded chair beneath the two great Chinese 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="But Soft: We Are Observed! — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="But Soft: We Are Observed! — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/the_inn_tavern,motif/the_journey,concept/freedom,concept/alienation,concept/fear,concept/satire_of_society,form/satire,form/novel,setting/the_mountains,setting/rural_england"></span>
 
 
 CHAPTER VII
@@ -3905,7 +3905,7 @@ Richard Mallard told them all, and particularly the landlady, that he meant to g
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="But Soft: We Are Observed! — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="But Soft: We Are Observed! — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,motif/the_inn_tavern,motif/the_journey,concept/deception,concept/secrecy_and_concealment,concept/satire_of_society,form/satire,form/novel,setting/scotland"></span>
 
 
 Oh! How Richard Mallard delighted in that little inn. At last he drew the breath of freedom! It was a relief from pressure like that of a man disimprisoned. No one turned up unexpectedly with sudden demands. No one desired his favour. He did not find the same unknown face two or three times running at the corner of the street, and — too good to be true — he was free of all big houses. He was of the Middle Class again, and he thanked God for it.
@@ -3937,7 +3937,7 @@ So Richard Mallard was bound for the Clan Tarroch Hotel, the Pearl of the Highla
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="But Soft: We Are Observed! — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="But Soft: We Are Observed! — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/masks_disguise,motif/the_journey,concept/deception,concept/appearance_vs_reality,concept/secrecy_and_concealment,concept/satire_of_society,form/satire,form/novel,setting/scotland"></span>
 
 
 And at Carlisle the local train bearing Sleuth A, Sleuth B, and their distinguished protégé Richard Mallard was switched on to the express for Glasgow at 6.15, due to arrive at Glasgow Central Station at 8.20.
@@ -3981,7 +3981,7 @@ Out crept Sleuth A, and came sauntering up to the disabled car. The two gentleme
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="But Soft: We Are Observed! — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="But Soft: We Are Observed! — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_gold,concept/appearance_vs_reality,concept/greed_and_money,concept/honour,concept/materialism,concept/tradition,form/satire,form/novel,setting/scotland_the_highlands"></span>
 
 
 “No help wanted,” said the chauffeur brusquely to the proletarian Sleuth A.
@@ -4033,7 +4033,7 @@ The over-anxious and much-too-careful face, which was trying to understand his o
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="But Soft: We Are Observed! — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="But Soft: We Are Observed! — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_gold,motif/secrets,concept/deception,concept/greed_and_money,concept/capitalism,concept/secrecy_and_concealment,form/satire,form/novel,setting/scotland_the_highlands"></span>
 
 
 Richard Mallard was safe with Angus Worsing. There would be no swindling, there would not even be threats.
@@ -4079,7 +4079,7 @@ Mallard groaned in spirit — Even here! Even here in the Highlands and with thi
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="But Soft: We Are Observed! — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="But Soft: We Are Observed! — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/new_york"></span>
 
 
 He had no idea it was near him. He had thought himself five hundred miles away from the torture and the browbeating and the spying and all the sickening consequences of those detestable “Mallard Millions.” He was dazed at their sudden resurrection — and he sat silent.
@@ -4135,7 +4135,7 @@ He answered cautiously.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="But Soft: We Are Observed! — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="But Soft: We Are Observed! — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/money_gold,concept/honour,concept/greed_and_money,concept/capitalism,form/satire,form/novel,setting/scotland_the_highlands"></span>
 
 
 “I see,” said Mallard musingly, though he saw no more than a blind man in a dark tunnel at night.
@@ -4183,7 +4183,7 @@ And to a grim little Granite Pub at the gates of Glenaber proceeded by public ch
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="But Soft: We Are Observed! — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="But Soft: We Are Observed! — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/indolence,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 CHAPTER VIII
@@ -4237,7 +4237,7 @@ She lost not a moment. She tackled her miserable colleague, Harry Hardham, and m
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="But Soft: We Are Observed! — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="But Soft: We Are Observed! — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 The Home Secretary used dignity. “We have ample news of Mr. Richard Mallard, Carrie,” he answered. “We have the services of a first-rate man; in fact, a man who, when I consider the various qualifications which...
@@ -4287,7 +4287,7 @@ Thus did my Lord Delisport, the Home Office and Lady Caroline Balcombe in person
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="But Soft: We Are Observed! — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="But Soft: We Are Observed! — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/capitalism"></span>
 
 
 All was mobilised for Stratford-on-Avon. Thither would Sleuth A, Sleuth C, Sleuth D (so each assured each his own employer) follow in the very same train, and of that town were the police warned by the Home Office for action and instructions minutely prepared. The arrival of the Wanted One would be from the North. There was a careful description given and particular note was to be taken of the name under which he should register at the hotel, for he might well take another alias. Full information was at once to be telephoned to London. They would almost certainly be advised in good time of the train he had taken, and Sandy Jim would be on it. They must look out for him.
@@ -4331,7 +4331,7 @@ Her chance came again next morning at breakfast. There were only four down, and 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="But Soft: We Are Observed! — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="But Soft: We Are Observed! — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fanatic,motif/garden,concept/fanaticism,concept/fear,concept/madness,form/satire,form/novel,setting/scotland_the_highlands"></span>
 
 
 “You are in peril!”
@@ -4397,7 +4397,7 @@ He took out his ticket — it was for Glasgow only. He felt for his money and hi
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="But Soft: We Are Observed! — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="But Soft: We Are Observed! — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,motif/money_gold,concept/deception,concept/greed_and_money,concept/satire_of_society,concept/secrecy_and_concealment,form/satire,form/novel,setting/london"></span>
 
 
 He reached the Titanic the next morning, gave no explanation of his lack of hand-bags, secured a room and had his main luggage brought up to him that he might change and face the world... and his advent was duly reported.
@@ -4473,7 +4473,7 @@ There was genuine admiration in his tone, and once more he winked, and once more
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="But Soft: We Are Observed! — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="But Soft: We Are Observed! — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,concept/deception,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 “Lord Delisport,” broke in the unfortunate Mallard, in a quavering voice, “for Heaven’s sake let us stop this — eh? I mean, you know, I don’t know what you mean by all this going to Scotland; I don’t know what you mean about Worsing.”
@@ -4519,7 +4519,7 @@ He slept that night not at all. In the agony of it his mind clarified and his de
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="But Soft: We Are Observed! — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="But Soft: We Are Observed! — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER IX
@@ -4573,7 +4573,7 @@ Who or what John Bart might be Richard Mallard could not tell. But that was the 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="But Soft: We Are Observed! — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="But Soft: We Are Observed! — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_journey,motif/masks_disguise,concept/deception,concept/freedom,concept/satire_of_society,concept/indirection_and_impersonal_systems,form/satire,form/novel,setting/france"></span>
 
 
 Alas! for the unarmoured soul! Alas! for those who, to-day, underestimate the powers of the modern State!
@@ -4623,7 +4623,7 @@ He felt it in his bones that all this was uncanny. None the less, he had to bear
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="But Soft: We Are Observed! — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="But Soft: We Are Observed! — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 It was a slip of paper which he found lying on a table, mislaid with a couple of jotted notes in French. What the notes meant he could only half understand. They were composed of detailed French words, a dozen or so, and half of them technical. But one thing in them was unmistakable. He saw his own name written there very plain, and the hair of his head stood up.
@@ -4683,7 +4683,7 @@ On the boat, in a private cabin, Richard Mallard sat between two gentlemen in pl
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="But Soft: We Are Observed! — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="But Soft: We Are Observed! — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/imprisonment,motif/the_sea,motif/the_journey,concept/satire_of_society,concept/justice_right_and_wrong,concept/crime_and_punishment,form/satire,form/novel,setting/london"></span>
 
 
 On the deck above, in God’s fresh air, the Four, faster friends than ever, rejoiced in the termination of their various missions and common task. Their rewards were before them. Their work had been successfully accomplished, home was nearby, across a calm and sunlit sea. They had the right to indulge their happy mood.
@@ -4715,7 +4715,7 @@ And there was Richard Mallard; lagged, as Lady Caroline Balcombe put it; jugged,
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="But Soft: We Are Observed! — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="But Soft: We Are Observed! — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER X
@@ -4791,7 +4791,7 @@ Callingham enjoyed her excitement. He had spent three hours confirming and recon
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="But Soft: We Are Observed! — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="But Soft: We Are Observed! — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/secrets,motif/money_gold,concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,concept/the_woman_question,form/satire,form/novel,setting/london"></span>
 
 
 Caroline Balcombe was thinking. With the entry of her sex into public life all those years ago there had entered new forces. She was thinking of two things very important to her; and both connected with the saving of face. One was the saving of her own face with Mary Bullar, and the other was the saving of face for all of them with the public.
@@ -4855,7 +4855,7 @@ Richard Mallard’s heart sank. They couldn’t hang him, he supposed. What were
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="But Soft: We Are Observed! — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="But Soft: We Are Observed! — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/money_gold,concept/satire_of_society,concept/democracy,concept/secrecy_and_concealment,concept/power_and_corruption,concept/hypocrisy,form/satire,form/novel,setting/london"></span>
 
 
 “Will I accept...” began Mallard.
@@ -4917,7 +4917,7 @@ Then did Mary Bullar rise in her majesty and with her the Ancient Might of the C
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="But Soft: We Are Observed! — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="But Soft: We Are Observed! — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/serpent_snake,concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 “These accusations,” she cried, “pass from one foul lip to another in the dark, like venomous snakes, defiling what they dare not openly engage; their authors trust to the sly and secret action of suggestion and innuendo. Facts they have none. Evidence they have none. Their sole property is rabbledabble hate of the posterity of others!”

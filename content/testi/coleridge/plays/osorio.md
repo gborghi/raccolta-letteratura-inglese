@@ -19,7 +19,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="OSORIO — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="OSORIO — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/lover,archetype/prophet,archetype/rebel,archetype/shadow,motif/blood,motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/rose,motif/ship,motif/sleep,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/imprisonment,concept/jealousy,concept/mercy,concept/nature,concept/revenge,concept/self,concept/truth,histref/inquisition,setting/castle,setting/mountains,setting/ship,character/ferdinand,character/maria,character/phantom"></span>
 
 
 | Speaker | Line |
@@ -142,7 +142,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="OSORIO — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="OSORIO — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/death,motif/hill,motif/love,motif/nature,motif/night,motif/noon,motif/road,motif/soul,motif/tears,motif/water,motif/well,motif/wind,concept/faith,concept/nature,concept/suicide,concept/truth,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -214,7 +214,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="OSORIO — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="OSORIO — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/monster,archetype/villain,motif/death,motif/dust,motif/fire,motif/flowers,motif/grave,motif/journey,motif/love,motif/soul,motif/well,concept/conscience,concept/guilt,concept/imprisonment,concept/poverty,concept/truth,histref/inquisition,character/lucifer,character/maria"></span>
 
 
 | Speaker | Line |
@@ -297,7 +297,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="OSORIO — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="OSORIO — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/shadow,archetype/villain,motif/blood,motif/dance,motif/death,motif/dreams,motif/fire,motif/love,motif/nature,motif/night,motif/pain,motif/soul,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,motif/winter,concept/body,concept/conscience,concept/despair,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/hope,concept/madness,concept/melancholy,concept/mercy,concept/nature,concept/pride,concept/self,setting/castle,character/chorus,character/ferdinand,character/maria"></span>
 
 
 | Speaker | Line |
@@ -400,7 +400,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="OSORIO — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="OSORIO — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/lover,motif/blood,motif/grave,motif/love,motif/well,concept/conscience,concept/honour,setting/castle,character/speed"></span>
 
 
 | Speaker | Line |
@@ -429,7 +429,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="OSORIO — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="OSORIO — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/orphan,archetype/pilgrim,archetype/villain,motif/blood,motif/cross,motif/death,motif/frost,motif/lightning,motif/moon,motif/nature,motif/night,motif/prison,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/guilt,concept/honour,concept/nature,concept/self,concept/truth,concept/union,setting/castle,setting/court,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -509,7 +509,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="OSORIO — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="OSORIO — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,motif/autumn,motif/birds,motif/blood,motif/death,motif/flowers,motif/home,motif/love,motif/moon,motif/nature,motif/prayer,motif/river,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/faith,concept/fear,concept/guilt,concept/honour,concept/madness,concept/melancholy,concept/nature,concept/truth,concept/wonder,setting/castle,setting/mountains,character/christ,character/ferdinand,character/maria"></span>
 
 
 | Speaker | Line |
@@ -565,7 +565,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="OSORIO — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="OSORIO — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/orphan,archetype/prophet,archetype/villain,motif/blood,motif/death,motif/fire,motif/memory,motif/moon,motif/night,motif/sleep,motif/well,concept/hope,concept/revenge,concept/truth,form/fragment,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -618,7 +618,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="OSORIO — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="OSORIO — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/tyrant,motif/autumn,motif/blood,motif/decay,motif/fire,motif/love,motif/nature,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,concept/ambition,concept/beauty,concept/courage,concept/faith,concept/forgiveness,concept/freedom,concept/mercy,concept/nature,concept/revenge,concept/solitude,concept/temptation,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -672,7 +672,7 @@ Coleridge's tragedy (later 'Remorse'), set in Inquisition-era Granada: the villa
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="OSORIO — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="OSORIO — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/orphan,archetype/shadow,archetype/villain,motif/blood,motif/dance,motif/death,motif/dreams,motif/fire,motif/leaves,motif/love,motif/nature,motif/poison,motif/sleep,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/despair,concept/faith,concept/fear,concept/forgiveness,concept/friendship,concept/greatness,concept/guilt,concept/honour,concept/imprisonment,concept/madness,concept/mercy,concept/nature,concept/poverty,concept/pride,concept/revenge,concept/self,concept/solitude,concept/wonder,character/ferdinand,character/maria"></span>
 
 
 | Speaker | Line |

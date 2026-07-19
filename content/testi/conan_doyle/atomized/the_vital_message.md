@@ -193,7 +193,7 @@ July 18, 1921.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE VITAL MESSAGE — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE VITAL MESSAGE — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="histref/bible,histref/christianity,character/christ"></span>
 
 
 CHAPTER I
@@ -213,7 +213,7 @@ Before passing to the new revelation, its certain proofs and its definite teachi
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE VITAL MESSAGE — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE VITAL MESSAGE — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,histref/bible"></span>
 
 
 CHAPTER II
@@ -237,7 +237,7 @@ Before opening up this subject there is one consideration which should have due 
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE VITAL MESSAGE — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE VITAL MESSAGE — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/soul"></span>
 
 
 CHAPTER III
@@ -273,7 +273,7 @@ Let us now consider the life in the Beyond as it is shown to us by the new revel
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE VITAL MESSAGE — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE VITAL MESSAGE — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,histref/bible,character/christ"></span>
 
 
 CHAPTER IV
@@ -308,7 +308,7 @@ In the next and final chapter I will ask the reader to accompany me in an examin
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="THE VITAL MESSAGE — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="THE VITAL MESSAGE — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/spiritualism,histref/bible,histref/christianity,character/christ"></span>
 
 
 CHAPTER V
@@ -339,7 +339,7 @@ Is it not time, then, for the religious bodies to discourage their own bigots an
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="THE VITAL MESSAGE — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="THE VITAL MESSAGE — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/spiritualism"></span>
 
 
 APPENDICES

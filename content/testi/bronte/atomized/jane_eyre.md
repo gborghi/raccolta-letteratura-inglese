@@ -21019,7 +21019,7 @@ respond,—‘Amen; even so come, Lord Jesus!’”
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Jane Eyre — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Jane Eyre — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="topos/double,archetype/child,archetype/tyrant,motif/birds,motif/blood,motif/cross,motif/death,motif/frost,motif/home,motif/leaves,motif/love,motif/mirror,motif/moon,motif/pain,motif/silence,motif/snow,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/fear,concept/history,concept/melancholy,concept/suffering,concept/wonder,form/history,character/jane_eyre,character/nurse"></span>
 
 
 CHAPTER I
@@ -21251,7 +21251,7 @@ immediately laid upon me, and I was borne upstairs.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Jane Eyre — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Jane Eyre — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/cross,motif/dust,motif/fire,motif/home,motif/jewel,motif/rose,motif/spring,motif/time,concept/fear,character/jane_eyre"></span>
 
 
 CHAPTER II
@@ -21386,7 +21386,7 @@ stool.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Jane Eyre — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Jane Eyre — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/scapegoat,motif/blood,motif/clock,motif/death,motif/love,motif/mirror,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/silence,motif/soul,motif/tears,motif/well,motif/wind,motif/window,concept/beauty,concept/courage,concept/doubt,concept/endurance,concept/nature,concept/self,concept/suffering,character/jane_eyre"></span>
 
 
 Superstition was with me at that moment; but it was not yet her hour
@@ -21549,7 +21549,7 @@ the scene.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Jane Eyre — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Jane Eyre — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/bells,motif/birds,motif/clock,motif/fire,motif/flowers,motif/grave,motif/leaves,motif/night,motif/noon,motif/sleep,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/suffering,concept/truth,concept/wonder,character/jane_eyre"></span>
 
 
 CHAPTER III
@@ -21693,7 +21693,7 @@ beside the untasted tart.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Jane Eyre — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Jane Eyre — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/orphan,motif/fire,motif/ghosts,motif/home,motif/night,motif/pain,motif/stars,motif/time,motif/well,concept/hope,concept/mercy,concept/pride,concept/self,concept/suffering,form/hymn,setting/mountains,character/jane_eyre,character/nurse"></span>
 
 
 Bessie had now finished dusting and tidying the room, and having washed
@@ -21851,7 +21851,7 @@ never get away from Gateshead till I am a woman.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Jane Eyre — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Jane Eyre — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/journey,motif/night,motif/time,motif/well,concept/beauty,concept/doubt,concept/poverty,character/jane_eyre,character/nurse"></span>
 
 
 “Perhaps you may—who knows? Have you any relations besides Mrs. Reed?”
@@ -21962,7 +21962,7 @@ rabbit for supper.”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Jane Eyre — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Jane Eyre — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/love,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/truth,character/jane_eyre"></span>
 
 
 CHAPTER IV
@@ -22090,7 +22090,7 @@ preferred her to any one else at Gateshead Hall.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Jane Eyre — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Jane Eyre — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dust,motif/flowers,motif/frost,motif/garden,motif/night,motif/road,motif/water,motif/window,concept/fear,character/jane_eyre"></span>
 
 
 It was the fifteenth of January, about nine o’[[Clock|clock]] in the morning:
@@ -22199,7 +22199,7 @@ voice, “Her size is small: what is her age?”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Jane Eyre — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Jane Eyre — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/nature,motif/night,motif/soul,motif/tears,motif/well,concept/doubt,concept/hope,concept/humility,concept/nature,concept/pride,histref/bible,character/jane_eyre"></span>
 
 
 “Ten years.”
@@ -22348,7 +22348,7 @@ gown before.’”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Jane Eyre — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Jane Eyre — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/love,motif/prayer,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/freedom,concept/mercy,concept/truth,character/jane_eyre"></span>
 
 
 “This is the state of things I quite approve,” returned Mrs. Reed; “had
@@ -22475,7 +22475,7 @@ if she would cry.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Jane Eyre — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Jane Eyre — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/autumn,motif/cross,motif/desire,motif/frost,motif/leaves,motif/nature,motif/silence,motif/time,motif/water,motif/well,concept/madness,concept/nature,concept/solitude,character/jane_eyre"></span>
 
 
 “Jane, you are under a mistake: what is the matter with you? Why do you
@@ -22638,7 +22638,7 @@ sweetest [[songs]]. Even for me life had its gleams of sunshine.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Jane Eyre — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Jane Eyre — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/journey,motif/moon,motif/night,motif/road,motif/time,motif/wind,motif/window,motif/winter,concept/wonder,character/jane_eyre"></span>
 
 
 CHAPTER V
@@ -22768,7 +22768,7 @@ behind.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Jane Eyre — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Jane Eyre — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/grave,motif/night,motif/rose,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/doubt,histref/bible,character/bottom,character/jane_eyre"></span>
 
 
 The first was a tall lady with dark hair, dark eyes, and a pale and
@@ -22883,7 +22883,7 @@ taken so little the day before.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Jane Eyre — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Jane Eyre — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/night,motif/prayer,motif/rose,motif/silence,motif/spring,motif/swallow,motif/time,concept/grotesque,concept/history,form/history,form/hymn,character/bottom,character/jane_eyre,character/maria"></span>
 
 
 The refectory was a great, low-ceiled, gloomy room; on two long tables
@@ -23001,7 +23001,7 @@ struck twelve. The superintendent [[Rose|rose]]—
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Jane Eyre — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Jane Eyre — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/orphan,motif/decay,motif/flowers,motif/garden,motif/nature,motif/well,concept/charity,concept/nature,form/inscription,setting/london,character/jane_eyre"></span>
 
 
 “I have a word to address to the pupils,” said she.
@@ -23140,7 +23140,7 @@ and whose son overlooks and directs everything here.”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Jane Eyre — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Jane Eyre — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/dreams,motif/grave,motif/rose,motif/swallow,motif/water,motif/well,concept/history,concept/wonder,form/history,character/jane_eyre"></span>
 
 
 “Then this [[house]] does not belong to that tall lady who wears a watch,
@@ -23241,7 +23241,7 @@ was my first day at Lowood.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Jane Eyre — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Jane Eyre — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/memory,motif/night,motif/rose,motif/ship,motif/silence,motif/time,motif/water,motif/wind,motif/window,concept/history,form/history,histref/bible,setting/ship,character/bottom,character/jane_eyre"></span>
 
 
 CHAPTER VI
@@ -23360,7 +23360,7 @@ rise to clamour.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Jane Eyre — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Jane Eyre — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/cross,motif/crown,motif/desire,motif/fire,motif/grave,motif/nature,motif/silence,motif/well,concept/doubt,concept/education,concept/endurance,concept/hope,concept/nature,concept/wonder,histref/bible,character/helen,character/helen_burns,character/jane_eyre"></span>
 
 
 Jumping over forms, and creeping under tables, I made my way to one of
@@ -23505,7 +23505,7 @@ teach the person who struck us never to do it again.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Jane Eyre — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Jane Eyre — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/love,motif/soul,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/revenge,character/christ,character/helen,character/helen_burns,character/jane_eyre"></span>
 
 
 “You will change your mind, I [[Hope|hope]], when you grow older: as yet you are
@@ -23591,7 +23591,7 @@ without reply as without delay.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Jane Eyre — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Jane Eyre — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,topos/golden_age,archetype/child,motif/fire,motif/garden,motif/home,motif/nature,motif/road,motif/rose,motif/sleep,motif/snow,motif/tears,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/fear,concept/nature,character/jane_eyre,character/sunday"></span>
 
 
 CHAPTER VII
@@ -23698,7 +23698,7 @@ conversation was to brand me as a bad [[Child|child]] for ever: now there he was
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Jane Eyre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Jane Eyre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/garden,motif/nature,motif/time,motif/well,concept/body,concept/doubt,concept/nature,concept/self,character/jane_eyre,character/julia"></span>
 
 
 He stood at Miss Temple’s side; he was speaking low in her ear: I did
@@ -23817,7 +23817,7 @@ inside was further beyond his interference than he imagined.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Jane Eyre — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Jane Eyre — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/soul,motif/time,motif/well,concept/body,concept/honour,concept/melancholy,concept/vanity,character/helen_burns,character/jane_eyre"></span>
 
 
 He scrutinised the reverse of these living medals some five minutes,
@@ -23940,7 +23940,7 @@ Mr. Brocklehurst resumed.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Jane Eyre — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Jane Eyre — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/hero,archetype/orphan,motif/nature,motif/rose,motif/water,concept/courage,concept/nature,concept/sublime,character/helen,character/jane_eyre"></span>
 
 
 “This I learned from her benefactress; from the pious and charitable
@@ -23987,7 +23987,7 @@ minute defects, and are blind to the full brightness of the orb.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Jane Eyre — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Jane Eyre — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/crown,motif/death,motif/fire,motif/horse,motif/love,motif/moon,motif/nature,motif/pain,motif/silence,motif/tears,motif/well,motif/wind,motif/window,concept/conscience,concept/guilt,concept/nature,concept/self,character/helen,character/helen_burns,character/jane_eyre"></span>
 
 
 CHAPTER VIII
@@ -24103,7 +24103,7 @@ hearth, and herself taking another, she called me to her side.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Jane Eyre — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Jane Eyre — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/memory,motif/night,motif/pain,motif/silence,motif/soul,motif/spring,motif/time,motif/well,concept/beauty,concept/wonder,character/helen,character/helen_burns,character/jane_eyre"></span>
 
 
 “Is it all over?” she asked, looking down at my face. “Have you cried
@@ -24252,7 +24252,7 @@ a protracted existence.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Jane Eyre — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Jane Eyre — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/love,motif/memory,motif/nature,motif/night,motif/pain,motif/secrets,motif/soul,motif/tears,motif/time,motif/well,concept/imagination,concept/nature,concept/resignation,character/helen,character/helen_burns,character/jane_eyre"></span>
 
 
 They conversed of things I had never heard of; of nations and times
@@ -24333,7 +24333,7 @@ Gateshead and its daily luxuries.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Jane Eyre — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Jane Eyre — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,archetype/orphan,archetype/shadow,motif/blood,motif/cross,motif/death,motif/flowers,motif/frost,motif/garden,motif/hill,motif/home,motif/leaves,motif/nature,motif/night,motif/snow,motif/spring,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/mortality,concept/nature,character/jane_eyre"></span>
 
 
 CHAPTER IX
@@ -24438,7 +24438,7 @@ and dined sumptuously.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Jane Eyre — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Jane Eyre — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/desire,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/moon,motif/rose,motif/time,motif/water,motif/window,concept/friendship,concept/truth,character/helen,character/helen_burns,character/jane_eyre,character/nurse"></span>
 
 
 My favourite seat was a smooth and broad stone, rising white and dry
@@ -24554,7 +24554,7 @@ Miss Miller was calling the pupils to go to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Jane Eyre — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Jane Eyre — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/quest,motif/clock,motif/dawn,motif/death,motif/garden,motif/grave,motif/home,motif/love,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,character/helen,character/helen_burns,character/jane_eyre,character/nurse"></span>
 
 
 It might be two hours later, probably near eleven, when I—not having
@@ -24701,7 +24701,7 @@ tablet marks the spot, inscribed with her name, and the word
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Jane Eyre — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Jane Eyre — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/hill,motif/home,motif/marriage,motif/memory,motif/nature,motif/prayer,motif/prison,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/wind,motif/window,concept/courage,concept/education,concept/exile,concept/friendship,concept/honour,concept/nature,concept/regeneration,concept/solitude,character/jane_eyre"></span>
 
 
 CHAPTER X
@@ -24820,7 +24820,7 @@ desperate, “grant me at least a new servitude!”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Jane Eyre — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Jane Eyre — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/autumn,motif/night,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,motif/window,concept/education,character/jane_eyre"></span>
 
 
 Here a bell, ringing the hour of supper, called me downstairs.
@@ -24950,7 +24950,7 @@ initial F.; I broke it; the contents were brief.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Jane Eyre — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Jane Eyre — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/night,motif/well,concept/doubt,concept/fear,setting/london,character/jane_eyre"></span>
 
 
 “If J.E., who advertised in the _——shire Herald_ of last [[thursday|Thursday]],
@@ -25068,7 +25068,7 @@ you?” but Bobby preferred sidling over to his mother.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Jane Eyre — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Jane Eyre — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/love,motif/ship,motif/water,motif/well,motif/winter,concept/beauty,setting/london,setting/ship,character/jane_eyre"></span>
 
 
 “You’re not grown so very tall, Miss Jane, nor so very stout,”
@@ -25197,7 +25197,7 @@ to new duties and a new life in the unknown environs of Millcote.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Jane Eyre — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Jane Eyre — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/death,motif/fire,motif/horse,motif/journey,motif/night,motif/road,motif/time,motif/window,concept/fear,concept/pride,concept/wonder,form/novel,character/hamlet,character/jane_eyre"></span>
 
 
 CHAPTER XI
@@ -25329,7 +25329,7 @@ lady got up and promptly and kindly came forward to meet me.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Jane Eyre — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Jane Eyre — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/fire,motif/journey,motif/night,motif/rose,motif/sleep,motif/snow,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/fear,concept/melancholy,concept/solitude,character/jane_eyre,character/nurse"></span>
 
 
 “How do you do, my dear? I am afraid you have had a tedious ride; John
@@ -25450,7 +25450,7 @@ slept soon and soundly: when I awoke it was broad day.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Jane Eyre — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Jane Eyre — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/clock,motif/flowers,motif/hill,motif/nature,motif/rose,motif/time,motif/well,motif/window,concept/beauty,concept/fear,concept/hope,concept/nature,character/hamlet,character/jane_eyre,character/nurse"></span>
 
 
 The chamber looked such a bright little place to me as the sun shone in
@@ -25564,7 +25564,7 @@ much the better—my position was all the freer.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Jane Eyre — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Jane Eyre — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/birds,motif/childhood,motif/city,motif/dance,motif/love,motif/night,motif/ship,motif/well,concept/jealousy,concept/pride,concept/wonder,form/fable,setting/ship,character/jane_eyre,character/nurse"></span>
 
 
 As I was meditating on this discovery, a little girl, followed by her
@@ -25692,7 +25692,7 @@ himself, and I never see him.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Jane Eyre — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Jane Eyre — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/fire,motif/flowers,motif/home,motif/leaves,motif/memory,motif/night,motif/noon,motif/snow,motif/time,motif/well,motif/window,concept/identity,form/biography,character/jane_eyre,character/nurse"></span>
 
 
 After breakfast, Adèle and I withdrew to the library, which room, it
@@ -25822,7 +25822,7 @@ moonlight.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="Jane Eyre — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="Jane Eyre — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,motif/autumn,motif/hill,motif/noon,motif/road,motif/sleep,motif/time,motif/well,motif/window,concept/fear,setting/castle,character/jane_eyre"></span>
 
 
 “Do the servants [[Sleep|sleep]] in these rooms?” I asked.
@@ -25925,7 +25925,7 @@ We found dinner ready, and waiting for us in Mrs. Fairfax’s room.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Jane Eyre — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Jane Eyre — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/hill,motif/nature,motif/pain,motif/road,motif/rose,motif/silence,concept/doubt,concept/education,concept/imagination,concept/nature,concept/self,concept/solitude,concept/truth,character/jane_eyre,character/nurse"></span>
 
 
 CHAPTER XII
@@ -26030,7 +26030,7 @@ inquiry.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Jane Eyre — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Jane Eyre — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/childhood,motif/clock,motif/hill,motif/horse,motif/leaves,motif/lion,motif/moon,motif/road,motif/rose,motif/summer,motif/time,motif/well,motif/winter,concept/solitude,character/jane_eyre"></span>
 
 
 October, November, December passed away. One afternoon in January, Mrs.
@@ -26134,7 +26134,7 @@ asked him the question—
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Jane Eyre — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Jane Eyre — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/horse,motif/lightning,motif/moon,motif/pain,motif/rose,motif/time,motif/wind,concept/beauty,concept/fear,character/jane_eyre"></span>
 
 
 “Are you injured, sir?”
@@ -26288,7 +26288,7 @@ The wild [[Wind|wind]] whirls away.”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Jane Eyre — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Jane Eyre — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/fire,motif/hill,motif/home,motif/horse,motif/memory,motif/moon,motif/stars,motif/time,motif/wind,motif/window,motif/winter,character/jane_eyre"></span>
 
 
 I took up my muff and walked on. The incident had occurred and was gone
@@ -26390,7 +26390,7 @@ went upstairs to take off my things.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Jane Eyre — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Jane Eyre — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/night,motif/silence,motif/time,motif/window,concept/beauty,concept/solitude,setting/castle,character/jane_eyre"></span>
 
 
 CHAPTER XIII
@@ -26511,7 +26511,7 @@ on.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Jane Eyre — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Jane Eyre — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/horse,motif/moon,motif/nature,motif/night,motif/silence,motif/summer,motif/time,motif/well,motif/winter,concept/doubt,concept/nature,concept/providence,concept/wonder,character/jane_eyre"></span>
 
 
 He went on as a statue would, that is, he neither spoke nor moved. Mrs.
@@ -26686,7 +26686,7 @@ hardly sew.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Jane Eyre — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Jane Eyre — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/leaves,motif/rose,motif/storm,motif/time,motif/water,motif/well,motif/winter,concept/despair,concept/hope,concept/pride,form/sketch,character/jane_eyre"></span>
 
 
 “That was very false economy,” remarked Mrs. Fairfax, who now again
@@ -26833,7 +26833,7 @@ was to enjoy one of the keenest pleasures I have ever known.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Jane Eyre — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Jane Eyre — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/clock,motif/death,motif/hill,motif/nature,motif/night,motif/noon,motif/time,motif/well,motif/wind,concept/doubt,concept/nature,concept/self,concept/wonder,character/jane_eyre"></span>
 
 
 “That is not saying much. Your pleasures, by your own account, have
@@ -26943,7 +26943,7 @@ drop the subject, which I did accordingly.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Jane Eyre — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Jane Eyre — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/horse,motif/night,motif/silence,motif/water,motif/well,motif/window,motif/winter,concept/self,setting/paris,character/jane_eyre"></span>
 
 
 CHAPTER XIV
@@ -27059,7 +27059,7 @@ at least, of that feeling.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Jane Eyre — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Jane Eyre — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/fire,motif/flowers,motif/grave,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/conscience,concept/faith,concept/hope,concept/pride,character/jane_eyre"></span>
 
 
 He had been looking two minutes at the [[Fire|fire]], and I had been looking the
@@ -27194,7 +27194,7 @@ point—cankering as a rusty nail.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Jane Eyre — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Jane Eyre — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/villain,motif/memory,motif/nature,motif/secrets,motif/time,motif/water,motif/well,concept/conscience,concept/nature,concept/wonder,character/hector,character/jane_eyre"></span>
 
 
 He had deigned an explanation, almost an apology, and I did not feel
@@ -27313,7 +27313,7 @@ manifestations.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Jane Eyre — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Jane Eyre — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/pilgrim,motif/grave,motif/love,motif/memory,motif/poison,motif/rose,motif/time,motif/well,concept/conscience,concept/doubt,concept/fear,concept/reform,concept/self,concept/temptation,concept/truth,histref/reformation,character/jane_eyre"></span>
 
 
 “I know it [[Well|well]]; therefore I proceed almost as freely as if I were
@@ -27471,7 +27471,7 @@ still bent on going?”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Jane Eyre — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Jane Eyre — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/fire,motif/night,motif/rose,motif/seasons,motif/spring,character/jane_eyre"></span>
 
 
 “It has struck nine, sir.”
@@ -27525,7 +27525,7 @@ explain all this some day. Good-[[Night|night]].”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Jane Eyre — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Jane Eyre — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/chalk,motif/city,motif/flowers,motif/frost,motif/love,motif/night,motif/pain,motif/road,motif/rose,motif/soul,motif/window,concept/jealousy,concept/self,setting/paris,character/apollo,character/jane_eyre,character/macbeth"></span>
 
 
 CHAPTER XV
@@ -27638,7 +27638,7 @@ esteem but straw and rotten wood.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Jane Eyre — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Jane Eyre — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/garden,motif/love,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/jealousy,setting/italy,setting/paris,character/jane_eyre"></span>
 
 
 Adèle here ran before him with her shuttlecock. “Away!” he cried
@@ -27743,7 +27743,7 @@ and you too: it darkens.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Jane Eyre — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Jane Eyre — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/autumn,motif/clock,motif/cross,motif/fire,motif/nature,motif/night,motif/rose,motif/sleep,motif/soul,motif/spring,motif/summer,motif/time,concept/doubt,concept/education,concept/fear,concept/nature,character/jane_eyre"></span>
 
 
 But I stayed out a few minutes longer with Adèle and Pilot—ran a race
@@ -27849,7 +27849,7 @@ said, “Who is there?” Nothing answered. I was chilled with [[Fear|fear]].
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Jane Eyre — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Jane Eyre — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,concept/hope,character/jane_eyre,character/witch"></span>
 
 
 All at once I remembered that it might be Pilot, who, when the
@@ -27975,7 +27975,7 @@ he, setting his candle down on the washstand; “it is as I thought.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Jane Eyre — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Jane Eyre — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/fire,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/hope,concept/truth,form/fable,character/jane_eyre"></span>
 
 
 “How, sir?”
@@ -28069,7 +28069,7 @@ soon as day dawned.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Jane Eyre — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Jane Eyre — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/night,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/guilt,concept/mercy,concept/providence,concept/wonder,character/jane_eyre"></span>
 
 
 CHAPTER XVI
@@ -28199,7 +28199,7 @@ and uttered with the demureness of a Quakeress.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Jane Eyre — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Jane Eyre — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/nature,motif/night,motif/rose,motif/well,motif/window,concept/fear,concept/nature,concept/self,concept/truth,character/jane_eyre"></span>
 
 
 I still stood absolutely dumfoundered at what appeared to me her
@@ -28324,7 +28324,7 @@ deepening into total obscurity.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Jane Eyre — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Jane Eyre — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/crown,motif/journey,motif/love,motif/memory,motif/night,motif/poison,motif/time,motif/well,concept/beauty,concept/imagination,concept/madness,concept/self,concept/union,concept/wonder,character/jane_eyre,character/queen"></span>
 
 
 “It is fair to-[[Night|night]],” said she, as she looked through the panes,
@@ -28462,7 +28462,7 @@ there is no extrication.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Jane Eyre — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Jane Eyre — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/chalk,motif/desire,motif/love,motif/rose,motif/well,concept/self,form/sketch,character/jane_eyre"></span>
 
 
 “Listen, then, [[Jane Eyre]], to your sentence: to-morrow, place the glass
@@ -28512,7 +28512,7 @@ unequal to maintain, even externally.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Jane Eyre — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Jane Eyre — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/desert,motif/love,motif/rose,motif/soul,motif/time,motif/well,concept/self,setting/desert,setting/london,character/jane_eyre,character/nurse"></span>
 
 
 CHAPTER XVII
@@ -28626,7 +28626,7 @@ prisoner in his dungeon.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Jane Eyre — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Jane Eyre — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/grave,motif/horse,motif/road,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/window,concept/solitude,concept/wonder,character/jane_eyre"></span>
 
 
 The strangest thing of all was, that not a [[Soul|soul]] in the [[house]], except
@@ -28751,7 +28751,7 @@ get you something to eat.”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Jane Eyre — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Jane Eyre — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/hill,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/doubt,character/jane_eyre"></span>
 
 
 And issuing from my asylum with precaution, I sought a back-stairs
@@ -28869,7 +28869,7 @@ Rochester see you are there and then slip away—nobody will notice you.”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Jane Eyre — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Jane Eyre — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/birds,motif/fire,motif/flowers,motif/grave,motif/moon,motif/rose,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/pride,concept/solitude,character/jane_eyre"></span>
 
 
 “Will these people remain long, do you think?”
@@ -28985,7 +28985,7 @@ with a truly imperial dignity.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_05" data-title="Jane Eyre — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_05" data-title="Jane Eyre — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/flowers,motif/love,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/pride,concept/self,concept/wonder,character/jane_eyre"></span>
 
 
 Blanche and Mary were of equal stature,—straight and tall as poplars.
@@ -29110,7 +29110,7 @@ green and strong! He made me [[Love|love]] him without looking at me.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_06" data-title="Jane Eyre — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_06" data-title="Jane Eyre — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/nature,motif/soul,motif/window,concept/hope,concept/martyrdom,concept/melancholy,concept/nature,character/jane_eyre"></span>
 
 
 I compared him with his guests. What was the gallant grace of the
@@ -29240,7 +29240,7 @@ those merry days?”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_07" data-title="Jane Eyre — Chapter 17 (part 7)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_07" data-title="Jane Eyre — Chapter 17 (part 7)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/hero,motif/childhood,motif/cross,motif/flag,motif/horse,motif/love,motif/mirror,motif/night,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/endurance,concept/freedom,concept/history,concept/honour,form/history,character/bianca,character/jane_eyre"></span>
 
 
 “Yaas, to be sure I do,” drawled Lord Ingram; “and the poor old stick
@@ -29431,7 +29431,7 @@ stopped, bit his lip, and abruptly left me.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Jane Eyre — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Jane Eyre — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/flowers,motif/marriage,motif/rose,motif/spring,motif/well,concept/solitude,character/jane_eyre"></span>
 
 
 CHAPTER XVIII
@@ -29547,7 +29547,7 @@ whereupon the curtain again descended.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Jane Eyre — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Jane Eyre — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/hero,motif/love,motif/memory,motif/nature,motif/pain,motif/road,motif/rose,motif/well,concept/despair,concept/jealousy,concept/nature,concept/paradox,concept/pride,concept/self,concept/truth,character/jane_eyre"></span>
 
 
 On its third rising only a portion of the drawing-room was disclosed;
@@ -29673,7 +29673,7 @@ ceaseless excitation and ruthless restraint.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Jane Eyre — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Jane Eyre — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/childhood,motif/love,motif/nature,motif/secrets,motif/soul,motif/well,concept/education,concept/fear,concept/nature,form/novel,character/jane_eyre"></span>
 
 
 Because, when she failed, I saw how she might have succeeded. Arrows
@@ -29776,7 +29776,7 @@ the merriment of the billiard-players was heard from above.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Jane Eyre — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Jane Eyre — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/animals,motif/clock,motif/fire,motif/home,motif/horse,motif/journey,motif/love,motif/seasons,motif/time,motif/well,motif/window,concept/friendship,character/jane_eyre"></span>
 
 
 It was verging on dusk, and the [[Clock|clock]] had already given warning of the
@@ -29891,7 +29891,7 @@ troublesome.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="Jane Eyre — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="Jane Eyre — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/fire,motif/rose,motif/silence,motif/time,motif/well,concept/hope,concept/wonder,character/jane_eyre,character/witch"></span>
 
 
 “Tell her she shall be put in the stocks if she does not take herself
@@ -30044,7 +30044,7 @@ During all that [[Time|time]] she never turned a page
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_06" data-title="Jane Eyre — Chapter 18 (part 6)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_06" data-title="Jane Eyre — Chapter 18 (part 6)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/home,motif/time,concept/body,character/jane_eyre"></span>
 
 
 Meantime, Mary Ingram, Amy and Louisa Eshton, declared they dared not
@@ -30103,7 +30103,7 @@ I; but I was a good deal interested and excited.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Jane Eyre — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Jane Eyre — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/crone,archetype/shadow,motif/cross,motif/fire,motif/great_house,motif/night,motif/prayer,motif/well,motif/window,concept/body,concept/faith,concept/hope,concept/truth,concept/wonder,form/riddle,character/jane_eyre"></span>
 
 
 CHAPTER XIX
@@ -30265,7 +30265,7 @@ curiosity?”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Jane Eyre — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Jane Eyre — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/doubt,concept/loneliness,concept/melancholy,concept/pride,concept/solitude,concept/truth,character/jane_eyre,character/witch"></span>
 
 
 “I like to observe all the faces and all the figures.”
@@ -30407,7 +30407,7 @@ for its interlocutor. That feature too is propitious.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Jane Eyre — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Jane Eyre — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/fire,motif/grave,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/conscience,concept/self,concept/wonder,character/jane_eyre"></span>
 
 
 “I see no enemy to a fortunate issue but in the brow; and that brow
@@ -30551,7 +30551,7 @@ troubled and dreary look.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Jane Eyre — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Jane Eyre — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/time,motif/well,concept/body,character/jane_eyre"></span>
 
 
 “My little friend!” said he, “I wish I were in a quiet island with only
@@ -30644,7 +30644,7 @@ asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Jane Eyre — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Jane Eyre — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/window,concept/doubt,setting/desert,character/jane_eyre"></span>
 
 
 CHAPTER XX
@@ -30785,7 +30785,7 @@ stood at his side.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Jane Eyre — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Jane Eyre — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/fire,motif/night,motif/rose,motif/water,motif/well,concept/fear,concept/hope,character/christ,character/jane_eyre,character/richard,character/satan"></span>
 
 
 “Yes, sir.”
@@ -30930,7 +30930,7 @@ an oak?
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Jane Eyre — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Jane Eyre — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/blood,motif/dawn,motif/night,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/hope,concept/mercy,concept/suffering,character/jane_eyre,character/richard"></span>
 
 
 Oh! I could not forget his look and his paleness when he whispered:
@@ -31071,7 +31071,7 @@ little glass you will find there,—quick!”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Jane Eyre — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Jane Eyre — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/flowers,motif/lamb,motif/night,motif/rose,motif/spring,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/fear,character/jane_eyre,character/richard"></span>
 
 
 I flew thither and back, bringing the desired vessels.
@@ -31231,7 +31231,7 @@ wilfully injure you.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="Jane Eyre — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="Jane Eyre — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/blood,motif/childhood,motif/desire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/memory,motif/nature,motif/night,motif/noon,motif/rose,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/aspiration,concept/conscience,concept/exile,concept/fear,concept/hope,concept/nature,concept/regeneration,form/parable,histref/reformation,character/ariel,character/jane_eyre,character/richard"></span>
 
 
 “Oh, no! Mason will not defy me; nor, knowing it, will he hurt me—but,
@@ -31394,7 +31394,7 @@ sunrise: I [[Rose|rose]] at four to see him off.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Jane Eyre — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Jane Eyre — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/memory,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/alienation,concept/courage,concept/fear,concept/hope,concept/nature,concept/poverty,concept/pride,concept/self,setting/london,character/jane_eyre,character/phantom"></span>
 
 
 CHAPTER XXI
@@ -31530,7 +31530,7 @@ expression of her haughty lineaments.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Jane Eyre — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Jane Eyre — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/quest,motif/journey,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/suicide,setting/egypt,setting/london,character/jane_eyre"></span>
 
 
 “Does that person want you?” she inquired of Mr. Rochester; and Mr.
@@ -31724,7 +31724,7 @@ I’m not quite up to it.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Jane Eyre — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Jane Eyre — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/birds,motif/clock,motif/fire,motif/rose,motif/well,concept/hope,concept/self,character/jane_eyre"></span>
 
 
 “What must I say?”
@@ -31852,7 +31852,7 @@ the other’s looked puritanical.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Jane Eyre — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Jane Eyre — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/fire,motif/journey,motif/night,motif/rose,motif/tears,motif/time,motif/well,concept/doubt,concept/pride,character/jane_eyre"></span>
 
 
 In each of the sisters there was one trait of the mother—and only one;
@@ -31968,7 +31968,7 @@ her no generous pleasure: only a sense of mortification.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Jane Eyre — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Jane Eyre — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/death,motif/flowers,motif/marriage,motif/moon,motif/nature,motif/night,motif/pain,motif/rose,motif/ship,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/imagination,concept/nature,setting/ship,character/jane_eyre,character/nurse"></span>
 
 
 I felt [[Pain|pain]], and then I felt ire; and then I felt a determination to
@@ -32098,7 +32098,7 @@ speaking likeness: I was absorbed and content.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Jane Eyre — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Jane Eyre — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/prayer,motif/seasons,motif/time,motif/water,motif/winter,concept/indolence,form/novel,form/sketch,setting/london,character/jane_eyre"></span>
 
 
 “Is that a portrait of some one you know?” asked Eliza, who had
@@ -32210,7 +32210,7 @@ new.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_07" data-title="Jane Eyre — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_07" data-title="Jane Eyre — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/fire,motif/water,motif/well,motif/wind,motif/window,concept/eternity,concept/faith,concept/fear,concept/identity,concept/longing,concept/providence,concept/sublime,form/novel,character/helen_burns,character/jane_eyre,character/nurse,character/sunday"></span>
 
 
 She closed her lips.
@@ -32346,7 +32346,7 @@ and cursed me in a man’s voice.—Bring me some [[Water|water]]! Oh, make hast
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_08" data-title="Jane Eyre — Chapter 21 (part 8)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_08" data-title="Jane Eyre — Chapter 21 (part 8)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/fire,motif/love,motif/night,motif/pain,motif/silence,motif/soul,motif/time,motif/water,concept/forgiveness,concept/revenge,concept/suffering,character/jane_eyre,character/nurse"></span>
 
 
 “Dear Mrs. Reed,” said I, as I offered her the draught she required,
@@ -32419,7 +32419,7 @@ did I. Neither of us had dropt a tear.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Jane Eyre — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Jane Eyre — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/doubt,setting/london,character/jane_eyre"></span>
 
 
 CHAPTER XXII
@@ -32531,7 +32531,7 @@ seemed, at both her and me.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Jane Eyre — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Jane Eyre — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/rebel,archetype/shadow,motif/birds,motif/clock,motif/cross,motif/fire,motif/home,motif/road,motif/summer,motif/time,motif/well,concept/beauty,concept/fear,setting/london,character/jane_eyre,character/queen"></span>
 
 
 I had not notified to Mrs. Fairfax the exact day of my return; for I
@@ -32652,7 +32652,7 @@ shed it over me now.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Jane Eyre — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Jane Eyre — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/lover,motif/cross,motif/home,motif/marriage,motif/prayer,motif/silence,motif/time,motif/well,concept/hope,character/jane_eyre"></span>
 
 
 “Pass, Janet,” said he, making room for me to [[Cross|cross]] the stile: “go up
@@ -32717,7 +32717,7 @@ had I loved him so [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Jane Eyre — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Jane Eyre — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/flowers,motif/garden,motif/grave,motif/hill,motif/horse,motif/jewel,motif/moon,motif/night,motif/nightingale,motif/rose,motif/silence,motif/summer,motif/well,motif/window,setting/court,character/bottom,character/jane_eyre"></span>
 
 
 CHAPTER XXIII
@@ -32835,7 +32835,7 @@ Adhesiveness?”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Jane Eyre — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Jane Eyre — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/night,motif/nightingale,motif/stars,motif/tears,motif/time,motif/well,concept/education,concept/hope,concept/humility,character/jane_eyre"></span>
 
 
 “I am attached to it, indeed.”
@@ -32979,7 +32979,7 @@ impetuous wish that I had never been born, or never come to Thornfield.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Jane Eyre — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Jane Eyre — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/machine,motif/nightingale,motif/rose,motif/soul,motif/time,motif/water,motif/wind,concept/beauty,concept/doubt,concept/faith,concept/self,concept/union,character/jane_eyre"></span>
 
 
 “Because you are sorry to leave it?”
@@ -33136,7 +33136,7 @@ strong workings in the features, and strange gleams in the eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Jane Eyre — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Jane Eyre — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/grave,motif/horse,motif/lightning,motif/love,motif/moon,motif/night,motif/storm,motif/time,motif/water,motif/wind,concept/fear,concept/union,character/bottom,character/jane_eyre"></span>
 
 
 “Oh, Jane, you torture me!” he exclaimed. “With that searching and yet
@@ -33223,7 +33223,7 @@ been struck by [[Lightning|lightning]] in the [[Night|night]], and half of it sp
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Jane Eyre — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Jane Eyre — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/love,motif/nature,motif/night,motif/rose,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/fear,concept/hope,concept/nature,setting/court,setting/london,character/jane_eyre"></span>
 
 
 CHAPTER XXIV
@@ -33358,7 +33358,7 @@ with others.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Jane Eyre — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Jane Eyre — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/crown,motif/desire,motif/fire,motif/love,motif/poison,motif/soul,motif/time,motif/uncanny,motif/well,concept/doubt,concept/fear,concept/hope,concept/truth,concept/uncanny,concept/wonder,form/essay,setting/paris,setting/venice,character/jane_eyre"></span>
 
 
 “Shall I travel?—and with you, sir?”
@@ -33495,7 +33495,7 @@ wished to marry Miss Ingram?”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Jane Eyre — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Jane Eyre — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/pain,motif/rose,motif/soul,motif/tears,motif/well,concept/doubt,concept/fear,concept/jealousy,concept/pride,concept/suffering,histref/bible,character/jane_eyre"></span>
 
 
 “Is that all? Thank God it is no worse!” And now he unknit his black
@@ -33631,7 +33631,7 @@ either you or I expect.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Jane Eyre — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Jane Eyre — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/monster,motif/cave,motif/clock,motif/dust,motif/fire,motif/hill,motif/lightning,motif/moon,motif/night,motif/road,motif/time,motif/well,concept/hope,setting/mountains,character/jane_eyre,character/speed"></span>
 
 
 “Why?—am I a [[Monster|monster]]?” I said: “is it impossible that Mr. Rochester
@@ -33773,7 +33773,7 @@ as you did me, that I had no wings to fly.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="Jane Eyre — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="Jane Eyre — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/marriage,motif/moon,motif/well,concept/fear,concept/mercy,concept/pride,character/jane_eyre"></span>
 
 
 “‘Oh,’ returned the fairy, ‘that does not signify! Here is a talisman
@@ -33891,7 +33891,7 @@ gates.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_06" data-title="Jane Eyre — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_06" data-title="Jane Eyre — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/death,motif/jewel,motif/love,motif/nature,motif/pain,motif/rose,motif/time,motif/well,motif/window,concept/faith,concept/hope,concept/nature,concept/slavery,concept/suffering,concept/vanity,character/jane_eyre,character/witch"></span>
 
 
 “No, thank you, sir.”
@@ -34060,7 +34060,7 @@ yet [[Time|time]] to rescind it.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_07" data-title="Jane Eyre — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_07" data-title="Jane Eyre — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/lamb,motif/love,motif/night,motif/well,concept/doubt,concept/hope,character/jane_eyre"></span>
 
 
 “Would I be quiet and talk rationally?”
@@ -34116,7 +34116,7 @@ His creature: of whom I had made an idol.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Jane Eyre — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Jane Eyre — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/birds,motif/blood,motif/clock,motif/decay,motif/fire,motif/home,motif/leaves,motif/love,motif/moon,motif/night,motif/road,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/melancholy,setting/london,character/jane_eyre"></span>
 
 
 CHAPTER XXV
@@ -34216,7 +34216,7 @@ hall simultaneously struck ten.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Jane Eyre — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Jane Eyre — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/journey,motif/lamb,motif/moon,motif/night,motif/road,motif/rose,motif/time,motif/well,motif/wind,setting/london,character/jane_eyre,character/mermaid,character/phantom"></span>
 
 
 “How late it grows!” I said. “I will run down to the gates: it is
@@ -34363,7 +34363,7 @@ ardent and flushed.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Jane Eyre — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Jane Eyre — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dreams,motif/home,motif/journey,motif/love,motif/night,motif/pain,motif/poison,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/hope,concept/imagination,concept/pride,concept/providence,concept/self,concept/sublime,concept/truth,form/masque,setting/london,character/jane_eyre,character/witch"></span>
 
 
 “Give me your confidence, Jane,” he said: “relieve your mind of any
@@ -34475,7 +34475,7 @@ be incensed than saddened.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Jane Eyre — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Jane Eyre — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/dawn,motif/dreams,motif/ghosts,motif/horse,motif/mirror,motif/night,motif/road,motif/rose,motif/time,motif/water,motif/window,concept/melancholy,form/fragment,character/jane_eyre"></span>
 
 
 “I will tease you and vex you to your heart’s content, when I have
@@ -34613,7 +34613,7 @@ mystery of that awful visitant.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_05" data-title="Jane Eyre — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_05" data-title="Jane Eyre — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/love,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/doubt,concept/imagination,concept/truth,concept/union,concept/wonder,character/bottom,character/jane_eyre"></span>
 
 
 “And since I cannot do it, Jane, it must have been unreal.”
@@ -34698,7 +34698,7 @@ type of my unknown future day.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Jane Eyre — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Jane Eyre — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/grave,motif/love,motif/marriage,motif/mirror,motif/rose,motif/secrets,motif/silence,motif/time,motif/well,concept/pride,concept/self,concept/truth,concept/wonder,character/jane_eyre"></span>
 
 
 CHAPTER XXVI
@@ -34837,7 +34837,7 @@ asserted, and evidence of its [[Truth|truth]] or falsehood.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Jane Eyre — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Jane Eyre — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,archetype/madwoman,motif/blood,motif/fire,motif/frost,motif/marriage,motif/nature,motif/secrets,motif/time,concept/body,concept/courage,concept/despair,concept/doubt,concept/fear,concept/nature,concept/providence,concept/union,setting/london,character/bertha_mason,character/jane_eyre,character/richard"></span>
 
 
 “The ceremony is quite broken off,” subjoined the voice behind us. “I
@@ -34990,7 +34990,7 @@ and embruted partner! Come all of you—follow!”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Jane Eyre — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Jane Eyre — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/marriage,motif/nature,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/nature,concept/union,character/jane_eyre"></span>
 
 
 Still holding me fast, he left the church: the three gentlemen came
@@ -35117,7 +35117,7 @@ reproof, with his haughty parishioner; this duty done, he too departed.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Jane Eyre — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Jane Eyre — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/flowers,motif/frost,motif/love,motif/marriage,motif/night,motif/prayer,motif/river,motif/snow,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/faith,concept/fear,concept/hope,concept/longing,concept/self,concept/suffering,concept/truth,setting/egypt,setting/mountains,character/jane_eyre"></span>
 
 
 I heard him go as I stood at the half-open door of my own room, to
@@ -35200,7 +35200,7 @@ the floods overflowed me.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Jane Eyre — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Jane Eyre — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/death,motif/desire,motif/dreams,motif/fire,motif/lamb,motif/love,motif/rose,motif/silence,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/honour,concept/self,concept/solitude,concept/suffering,character/bertha_mason,character/jane_eyre"></span>
 
 
 CHAPTER XXVII
@@ -35335,7 +35335,7 @@ consider is of no use. I know you—I am on my guard.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Jane Eyre — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Jane Eyre — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/death,motif/fire,motif/love,motif/night,motif/pain,concept/conscience,concept/courage,concept/doubt,concept/solitude,character/jane_eyre,character/nurse"></span>
 
 
 “Sir, I do not wish to act against you,” I said; and my unsteady voice
@@ -35449,7 +35449,7 @@ strength, and break the entanglement like tow!”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Jane Eyre — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Jane Eyre — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/blood,motif/desire,motif/love,motif/marriage,motif/nature,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/madness,concept/nature,concept/truth,concept/union,character/jane_eyre"></span>
 
 
 He recommenced his walk, but soon again stopped, and this [[Time|time]] just
@@ -35608,7 +35608,7 @@ have—But let me remember to whom I am speaking.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Jane Eyre — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Jane Eyre — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/sleep,motif/time,motif/window,concept/despair,concept/nature,concept/self,concept/suffering,character/bertha_mason,character/jane_eyre"></span>
 
 
 “My bride’s mother I had never seen: I understood she was dead. The
@@ -35711,7 +35711,7 @@ cries.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Jane Eyre — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Jane Eyre — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/dawn,motif/desire,motif/garden,motif/home,motif/leaves,motif/love,motif/marriage,motif/night,motif/soul,motif/storm,motif/time,motif/wind,concept/despair,concept/eternity,concept/fear,concept/honour,concept/hope,concept/identity,concept/providence,concept/regeneration,concept/self,concept/suffering,concept/union,character/bottom,character/jane_eyre"></span>
 
 
 “‘This life,’ said I at last, ‘is hell: this is the air—those are the
@@ -35818,7 +35818,7 @@ was burdened.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_06" data-title="Jane Eyre — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_06" data-title="Jane Eyre — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/memory,motif/nature,motif/night,motif/snow,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/hope,concept/nature,concept/temptation,concept/truth,setting/paris,character/jane_eyre"></span>
 
 
 “[[Well]], sir?”
@@ -35951,7 +35951,7 @@ was vexed with you for getting out of my sight.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_07" data-title="Jane Eyre — Chapter 27 (part 7)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_07" data-title="Jane Eyre — Chapter 27 (part 7)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/cross,motif/lion,motif/love,motif/nature,motif/rose,motif/silence,motif/spring,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/nature,concept/self,concept/solitude,form/novel,character/jane_eyre"></span>
 
 
 “Impatiently I waited for evening, when I might summon you to my
@@ -36065,7 +36065,7 @@ the world, and to let me go another?”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_08" data-title="Jane Eyre — Chapter 27 (part 8)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_08" data-title="Jane Eyre — Chapter 27 (part 8)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/nature,motif/prayer,motif/prison,motif/rose,motif/soul,motif/well,concept/body,concept/conscience,concept/courage,concept/despair,concept/fear,concept/honour,concept/hope,concept/nature,concept/temptation,character/jane_eyre"></span>
 
 
 “I do.”
@@ -36203,7 +36203,7 @@ glance on my sufferings—think of me.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_09" data-title="Jane Eyre — Chapter 27 (part 9)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_09" data-title="Jane Eyre — Chapter 27 (part 9)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/childhood,motif/dawn,motif/death,motif/fire,motif/flowers,motif/grave,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/road,motif/rose,motif/sleep,motif/spring,motif/summer,motif/tears,motif/water,motif/well,concept/conscience,concept/courage,concept/despair,concept/fear,concept/hope,concept/nature,concept/pride,concept/self,concept/temptation,character/jane_eyre"></span>
 
 
 He turned away; he threw himself on his face on the sofa. “Oh, Jane! my
@@ -36358,7 +36358,7 @@ instrument of evil to what you wholly [[Love|love]].
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Jane Eyre — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Jane Eyre — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/hill,motif/nature,motif/night,motif/noon,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/spring,motif/summer,motif/time,motif/well,motif/wheel,motif/wind,concept/charity,concept/fear,concept/hope,concept/longing,concept/nature,concept/wonder,form/inscription,setting/mountains,character/hamlet,character/jane_eyre"></span>
 
 
 CHAPTER XXVIII
@@ -36467,7 +36467,7 @@ long in [[Sleep|sleep]] forgot sorrow.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Jane Eyre — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Jane Eyre — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/clock,motif/death,motif/decay,motif/desert,motif/garden,motif/hill,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/window,concept/suffering,setting/desert,character/bottom,character/hamlet,character/jane_eyre,character/oliver"></span>
 
 
 But next day, Want came to me pale and bare. Long after the little
@@ -36587,7 +36587,7 @@ faltering—I asked if a servant was wanted here?
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Jane Eyre — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Jane Eyre — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/home,motif/nature,motif/night,motif/time,motif/well,concept/courage,concept/doubt,concept/hope,concept/nature,concept/solitude,concept/suffering,character/jane_eyre"></span>
 
 
 “No,” said she; “we do not keep a servant.”
@@ -36722,7 +36722,7 @@ which I had been pursuing an hour or more.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Jane Eyre — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Jane Eyre — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/death,motif/fire,motif/frost,motif/grave,motif/hill,motif/leaves,motif/nature,motif/night,motif/road,motif/rose,motif/summer,motif/well,motif/wind,motif/window,motif/winter,concept/fear,concept/hope,concept/nature,concept/providence,character/jane_eyre"></span>
 
 
 “My strength is quite failing me,” I said in a soliloquy. “I feel I
@@ -36827,7 +36827,7 @@ one girl—in the lap of the other was cushioned a black cat.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_05" data-title="Jane Eyre — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_05" data-title="Jane Eyre — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/grave,motif/home,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/truth,concept/wonder,form/translation,character/diana,character/jane_eyre"></span>
 
 
 A strange place was this humble kitchen for such occupants! Who were
@@ -36954,7 +36954,7 @@ opened.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_06" data-title="Jane Eyre — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_06" data-title="Jane Eyre — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/silence,motif/time,motif/water,motif/well,concept/courage,concept/despair,concept/fear,concept/hope,concept/suffering,character/diana,character/jane_eyre"></span>
 
 
 “What do you want?” she inquired, in a voice of surprise, as she
@@ -37150,7 +37150,7 @@ grateful joy—and slept.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Jane Eyre — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Jane Eyre — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/nature,motif/night,motif/noon,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/education,concept/nature,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
 
 
 CHAPTER XXIX
@@ -37274,7 +37274,7 @@ After a pause she said, “I dunnut understand that: you’ve like no
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Jane Eyre — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Jane Eyre — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/body,concept/poverty,setting/london,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 “The want of [[house]] or brass (by which I suppose you mean money) does
@@ -37437,7 +37437,7 @@ able to come down; [[Diana]] took my hand: she shook her head at me.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Jane Eyre — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Jane Eyre — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/fire,motif/home,motif/nature,motif/well,concept/conscience,concept/nature,concept/self,character/diana,character/jane_eyre"></span>
 
 
 “You should have waited for my leave to descend,” she said. “You still
@@ -37568,7 +37568,7 @@ old, St. John,” said she.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Jane Eyre — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Jane Eyre — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/orphan,motif/death,motif/desire,motif/marriage,motif/nature,motif/tears,motif/time,motif/well,motif/wind,concept/charity,concept/despair,concept/fear,concept/history,concept/nature,form/essay,form/history,character/diana,character/jane_eyre,character/nurse,character/speed"></span>
 
 
 “I am near nineteen: but I am not married. No.”
@@ -37718,7 +37718,7 @@ present strength would permit.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Jane Eyre — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Jane Eyre — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/friendship,concept/loneliness,concept/nature,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
 
 
 CHAPTER XXX
@@ -37830,7 +37830,7 @@ thousand peaceful delights they could yield.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Jane Eyre — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Jane Eyre — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/death,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/poverty,character/diana,character/jane_eyre"></span>
 
 
 Incommunicative as he was, some [[Time|time]] elapsed before I had an
@@ -37946,7 +37946,7 @@ Himself.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Jane Eyre — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Jane Eyre — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/orphan,motif/death,motif/home,motif/nature,motif/rose,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/ambition,concept/conscience,concept/education,concept/fear,concept/hope,concept/nature,concept/solitude,concept/truth,setting/mountains,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 “[[Well]]?” I said, as he again paused—“proceed.”
@@ -38080,7 +38080,7 @@ to her fine eyes. Mary bent her head low over her work.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Jane Eyre — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Jane Eyre — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/death,motif/home,motif/silence,motif/window,concept/truth,concept/wonder,character/diana,character/jane_eyre"></span>
 
 
 “We are now without father: we shall soon be without [[Home|home]] and brother,”
@@ -38155,7 +38155,7 @@ parsonage: and so the old grange was abandoned.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Jane Eyre — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Jane Eyre — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/fool,archetype/orphan,motif/birds,motif/blood,motif/clock,motif/flowers,motif/garden,motif/grave,motif/home,motif/love,motif/rose,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/poverty,concept/providence,concept/temptation,character/jane_eyre,character/oliver"></span>
 
 
 CHAPTER XXXI
@@ -38266,7 +38266,7 @@ scholars very [[Well|well]].”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Jane Eyre — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Jane Eyre — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,archetype/lover,motif/death,motif/home,motif/nature,motif/road,motif/rose,motif/time,motif/water,motif/well,concept/beauty,concept/courage,concept/despair,concept/hope,concept/loneliness,concept/nature,concept/solitude,concept/temptation,concept/truth,concept/wonder,character/bottom,character/jane_eyre"></span>
 
 
 “But perhaps your accommodations—your cottage—your furniture—have
@@ -38378,7 +38378,7 @@ with a grand-dame’s bounty.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Jane Eyre — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Jane Eyre — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/fire,motif/flowers,motif/grave,motif/home,motif/memory,motif/nature,motif/night,motif/silence,motif/well,concept/hope,concept/nature,concept/suffering,concept/wonder,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 What did St. John Rivers think of this earthly angel? I naturally asked
@@ -38499,7 +38499,7 @@ brother “inexorable as [[Death|death]].” She had not exaggerated.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Jane Eyre — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Jane Eyre — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dreams,motif/fire,motif/love,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/despair,concept/doubt,concept/fear,concept/history,concept/hope,concept/nature,concept/pride,concept/self,form/history,character/jane_eyre,character/oliver"></span>
 
 
 CHAPTER XXXII
@@ -38604,7 +38604,7 @@ despite his reserve, had the daring to make on his confidence.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Jane Eyre — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Jane Eyre — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="topos/golden_age,archetype/artist,archetype/child,archetype/innocent,archetype/shadow,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/courage,concept/history,concept/hope,concept/nature,concept/pride,concept/union,form/history,form/sketch,form/translation,character/jane_eyre,character/oliver"></span>
 
 
 Miss [[Oliver]] already honoured me with frequent visits to my cottage. I
@@ -38723,7 +38723,7 @@ of your own meanness.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Jane Eyre — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Jane Eyre — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/rose,motif/spring,motif/time,motif/well,concept/self,concept/solitude,concept/union,character/jane_eyre,character/oliver"></span>
 
 
 While I was eagerly glancing at the bright pages of “Marmion” (for
@@ -38850,7 +38850,7 @@ nothing—my heart is full of delight—my senses are entranced—let the
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Jane Eyre — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Jane Eyre — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/desire,motif/flowers,motif/home,motif/lightning,motif/love,motif/marriage,motif/nature,motif/rose,motif/soul,motif/storm,motif/time,motif/well,concept/ambition,concept/endurance,concept/fear,concept/freedom,concept/honour,concept/hope,concept/immortality,concept/nature,concept/self,concept/temptation,concept/wonder,histref/christianity,character/jane_eyre,character/oliver"></span>
 
 
 I humoured him: the watch ticked on: he breathed fast and low: I stood
@@ -39000,7 +39000,7 @@ forgot it.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Jane Eyre — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Jane Eyre — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/fire,motif/grave,motif/love,motif/night,motif/river,motif/silence,motif/snow,motif/storm,motif/time,motif/well,motif/wind,concept/charity,concept/education,concept/fear,concept/history,concept/wonder,form/history,form/novel,setting/cathedral,setting/mountains,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 CHAPTER XXXIII
@@ -39174,7 +39174,7 @@ certain Mr. Rochester.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Jane Eyre — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Jane Eyre — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/marriage,motif/nature,motif/night,motif/silence,motif/spring,motif/well,concept/doubt,concept/hope,concept/identity,concept/nature,concept/self,setting/london,character/jane_eyre"></span>
 
 
 “Mr. Rivers!” I interrupted.
@@ -39311,7 +39311,7 @@ had never heard laugh before, laughed now.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Jane Eyre — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Jane Eyre — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/blood,motif/death,motif/fire,motif/love,motif/night,motif/rose,motif/snow,motif/time,motif/well,motif/window,concept/despair,concept/hope,character/diana,character/jane_eyre"></span>
 
 
 “[[Well]],” said he, “if you had committed a murder, and I had told you
@@ -39463,7 +39463,7 @@ clapped my hands in sudden joy—my pulse bounded, my veins thrilled.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Jane Eyre — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Jane Eyre — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/night,motif/rose,motif/stars,motif/storm,motif/time,motif/water,motif/well,concept/conscience,concept/doubt,concept/hope,concept/union,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 St. John smiled. “Did I not say you neglected essential points to
@@ -39625,7 +39625,7 @@ each became possessed of a competency.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Jane Eyre — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Jane Eyre — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/bees,motif/desert,motif/dust,motif/grave,motif/home,motif/journey,motif/time,motif/well,concept/ambition,concept/body,concept/hope,concept/self,setting/desert,character/diana,character/jane_eyre,character/queen"></span>
 
 
 CHAPTER XXXIV
@@ -39770,7 +39770,7 @@ of wintry waste and [[Desert|desert]] dreariness without.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Jane Eyre — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Jane Eyre — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/nature,concept/truth,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 The eventful [[thursday|Thursday]] at length came. They were expected about dark,
@@ -39877,7 +39877,7 @@ his mother, who was drawing away.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Jane Eyre — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Jane Eyre — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/home,motif/night,motif/noon,motif/road,motif/silence,motif/snow,motif/time,motif/wind,concept/freedom,concept/union,character/diana,character/jane_eyre,character/oliver"></span>
 
 
 “Where does she live, Hannah?”
@@ -39998,7 +39998,7 @@ the elements.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Jane Eyre — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Jane Eyre — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/snow,motif/time,motif/uncanny,motif/well,concept/nature,concept/uncanny,form/translation,character/diana,character/jane_eyre"></span>
 
 
 “Jane is not such a weakling as you would make her,” he would say: “she
@@ -40122,7 +40122,7 @@ brought nothing for me, I fell a prey to the keenest anxiety.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_05" data-title="Jane Eyre — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_05" data-title="Jane Eyre — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/dreams,motif/love,motif/road,motif/silence,motif/sleep,motif/spring,motif/summer,motif/tears,motif/well,concept/hope,concept/solitude,character/diana,character/jane_eyre"></span>
 
 
 I wrote again: there was a chance of my first letter having missed.
@@ -40244,7 +40244,7 @@ direct from God, a place in the ranks of His chosen.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_06" data-title="Jane Eyre — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_06" data-title="Jane Eyre — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/grave,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/fear,concept/humility,concept/mercy,concept/nature,concept/providence,concept/sublime,character/jane_eyre"></span>
 
 
 “If they are really qualified for the task, will not their own hearts
@@ -40382,7 +40382,7 @@ grudging.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_07" data-title="Jane Eyre — Chapter 34 (part 7)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_07" data-title="Jane Eyre — Chapter 34 (part 7)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/death,motif/love,motif/marriage,motif/nature,motif/well,concept/courage,concept/doubt,concept/martyrdom,concept/nature,concept/union,character/jane_eyre"></span>
 
 
 “Consent, then, to his demand is possible: but for one item—one
@@ -40498,7 +40498,7 @@ inclination—you will hasten to enter into that [[Union|union]] at once.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_08" data-title="Jane Eyre — Chapter 34 (part 8)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_08" data-title="Jane Eyre — Chapter 34 (part 8)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/hill,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/ambition,concept/body,concept/courage,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/loneliness,concept/nature,concept/pride,concept/reconciliation,concept/self,concept/union,character/diana,character/jane_eyre"></span>
 
 
 “Shall I?” I said briefly; and I looked at his features, beautiful in
@@ -40641,7 +40641,7 @@ down.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Jane Eyre — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Jane Eyre — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/garden,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/tears,motif/time,concept/conscience,concept/fear,concept/friendship,concept/hope,concept/nature,concept/pride,concept/reconciliation,concept/suffering,character/jane_eyre"></span>
 
 
 CHAPTER XXXV
@@ -40771,7 +40771,7 @@ conciliate you: I see I have made an eternal enemy of you.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Jane Eyre — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Jane Eyre — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/pain,motif/silence,motif/time,motif/window,concept/courage,concept/doubt,concept/fear,concept/madness,concept/nature,concept/suicide,concept/truth,character/diana,character/jane_eyre"></span>
 
 
 A fresh wrong did these words inflict: the worse, because they touched
@@ -40914,7 +40914,7 @@ refuse his hand. You do not [[Love|love]] him then, Jane?”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Jane Eyre — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Jane Eyre — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/city,motif/death,motif/fire,motif/garden,motif/journey,motif/lamb,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/prayer,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/greatness,concept/honour,concept/longing,concept/pride,concept/suffering,histref/bible,character/diana,character/jane_eyre"></span>
 
 
 “Not as a husband.”
@@ -41037,7 +41037,7 @@ from you!”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Jane Eyre — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Jane Eyre — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/death,motif/garden,motif/love,motif/marriage,motif/nature,motif/pain,motif/prayer,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/deception,concept/eternity,concept/loneliness,concept/nature,concept/sublime,character/jane_eyre"></span>
 
 
 He laid his hand on my head as he uttered the last words. He had spoken
@@ -41143,7 +41143,7 @@ lay down, unscared, enlightened—eager but for the daylight.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Jane Eyre — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Jane Eyre — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/crown,motif/dawn,motif/desert,motif/garden,motif/home,motif/journey,motif/night,motif/prison,motif/road,motif/rose,motif/silence,motif/sleep,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/body,concept/doubt,concept/hope,concept/temptation,setting/desert,character/diana,character/jane_eyre"></span>
 
 
 CHAPTER XXXVI
@@ -41263,7 +41263,7 @@ Mr. Rochester be at [[Home|home]].”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Jane Eyre — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Jane Eyre — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/hill,motif/love,motif/rose,motif/silence,motif/spring,motif/well,motif/window,motif/winter,concept/beauty,concept/despair,concept/doubt,concept/hope,concept/solitude,concept/wonder,character/jane_eyre"></span>
 
 
 The suggestion was sensible, and yet I could not force myself to act on
@@ -41371,7 +41371,7 @@ man.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Jane Eyre — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Jane Eyre — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/autumn,motif/blood,motif/cross,motif/fire,motif/grave,motif/love,motif/night,motif/time,motif/water,motif/well,concept/courage,concept/doubt,character/jane_eyre,character/witch"></span>
 
 
 “You know Thornfield Hall, of course?” I managed to say at last.
@@ -41496,7 +41496,7 @@ came to Thornfield Hall.”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Jane Eyre — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Jane Eyre — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/marriage,motif/spring,motif/well,concept/body,concept/courage,character/jane_eyre"></span>
 
 
 “Then Mr. Rochester was at [[Home|home]] when the [[Fire|fire]] broke out?”
@@ -41594,7 +41594,7 @@ you usually demand.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Jane Eyre — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Jane Eyre — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/fire,motif/flowers,motif/garden,motif/leaves,motif/night,motif/pain,motif/road,motif/summer,motif/well,concept/hope,character/jane_eyre"></span>
 
 
 CHAPTER XXXVII
@@ -41715,7 +41715,7 @@ should stay. Just at this moment the parlour-bell rang.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Jane Eyre — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Jane Eyre — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/fool,motif/dreams,motif/fire,motif/night,motif/soul,motif/water,motif/well,concept/doubt,concept/madness,concept/melancholy,concept/truth,character/jane_eyre,character/nurse"></span>
 
 
 “When you go in,” said I, “tell your master that a person wishes to
@@ -41884,7 +41884,7 @@ closer.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Jane Eyre — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Jane Eyre — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/desert,motif/desire,motif/fire,motif/lion,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/fear,concept/nature,setting/desert,character/jane_eyre,character/nurse"></span>
 
 
 “No—no—Jane; you must not go. No—I have touched you, heard you, felt
@@ -42018,7 +42018,7 @@ undiscoverable?”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Jane Eyre — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Jane Eyre — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/tyrant,motif/flowers,motif/night,motif/pain,motif/time,motif/water,motif/well,concept/despair,concept/melancholy,concept/truth,character/jane_eyre"></span>
 
 
 “Have you a pocket-comb about you, sir?”
@@ -42151,7 +42151,7 @@ up.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Jane Eyre — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Jane Eyre — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/love,motif/tears,motif/time,motif/well,motif/window,concept/hope,concept/imagination,concept/jealousy,concept/melancholy,concept/truth,character/apollo,character/jane_eyre"></span>
 
 
 “This St. John, then, is your cousin?”
@@ -42370,7 +42370,7 @@ useful mental points.—Then I must leave you, sir, to go to him?”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_06" data-title="Jane Eyre — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_06" data-title="Jane Eyre — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/clock,motif/death,motif/decay,motif/home,motif/lightning,motif/love,motif/nature,motif/night,motif/prayer,motif/wind,concept/exile,concept/guilt,concept/hope,concept/loneliness,concept/nature,character/jane_eyre"></span>
 
 
 I shuddered involuntarily, and clung instinctively closer to my blind
@@ -42536,7 +42536,7 @@ there was still [[Hope|hope]] of rejoining Jane.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_07" data-title="Jane Eyre — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_07" data-title="Jane Eyre — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/blood,motif/hill,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/soul,motif/stars,motif/supernatural,motif/time,motif/wind,motif/window,concept/doubt,concept/humility,concept/mercy,concept/wonder,setting/mountains,character/jane_eyre"></span>
 
 
 “I was in my own room, and sitting by the [[Window|window]], which was open: it
@@ -42612,7 +42612,7 @@ entered the wood, and wended homeward.
 
 
 
-<span class="atom-split" data-atom="chapter_38_conclusion" data-title="Jane Eyre — Chapter 38: CONCLUSION" data-chapter="CONCLUSION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38_conclusion" data-title="Jane Eyre — Chapter 38: CONCLUSION" data-chapter="CONCLUSION" data-kind="chapter" data-tags="archetype/child,archetype/pilgrim,motif/cross,motif/crown,motif/death,motif/fire,motif/grave,motif/home,motif/lamb,motif/love,motif/marriage,motif/nature,motif/river,motif/tears,motif/time,motif/well,concept/ambition,concept/education,concept/faith,concept/fear,concept/hope,concept/mercy,concept/nature,concept/solitude,concept/truth,concept/union,setting/london,character/christ,character/diana,character/jane_eyre"></span>
 
 
 CHAPTER XXXVIII—CONCLUSION

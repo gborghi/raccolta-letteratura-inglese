@@ -2315,7 +2315,7 @@ Qui nous met en repos.”
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="Avril: Essays on the French Renaissance — DEDICATION" data-chapter="DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="Avril: Essays on the French Renaissance — DEDICATION" data-chapter="DEDICATION" data-kind="story" data-tags="motif/spring,concept/faith,concept/tradition,histref/catholic_church,histref/rabelais,histref/renaissance,histref/voltaire,setting/france,setting/paris,character/voltaire"></span>
 
 
 DEDICATION
@@ -2379,7 +2379,7 @@ CHELSEA, January, 1904.
 
 
 
-<span class="atom-split" data-atom="story_02_charles_of_orleans" data-title="Avril: Essays on the French Renaissance — CHARLES OF ORLEANS." data-chapter="CHARLES OF ORLEANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_charles_of_orleans" data-title="Avril: Essays on the French Renaissance — CHARLES OF ORLEANS." data-chapter="CHARLES OF ORLEANS" data-kind="story" data-tags="motif/death,motif/spring,concept/beauty,histref/rabelais,histref/renaissance,setting/france,setting/paris"></span>
 
 
 CHARLES OF ORLEANS.
@@ -2471,7 +2471,7 @@ So he sat, half regal, holding a court of song in Blois and Tours, a forerunner 
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_01" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 1)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_01" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 1)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,motif/spring"></span>
 
 
 THE COMPLAINT.
@@ -2669,7 +2669,7 @@ In that “company” not only the Court at Amboise, but the men of the early wa
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_02" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 2)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_02" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 2)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,histref/renaissance,setting/paris"></span>
 
 
 He was broken with age; he was already feeling the weight of isolation from the Royal Family; he was beginning to suffer the insults of the king. But, beneath all this, his gaiety still ran like a river under ice, and in the ageing of a poet, humour and physical decline combined make a good, human thing.
@@ -2735,7 +2735,7 @@ Associated also with this wildness is a curious imperfection in our knowledge of
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_03" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 3)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_03" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 3)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/faith,concept/tradition,histref/rabelais,setting/paris"></span>
 
 
 For it is in 1461, in his thirtieth year, that Villon last writes down a verse. It is in 1463 that his signature is last discovered. Then not by [[Death|death]] or, if by [[Death|death]], then by some [[Death|death]] unrecorded, he leaves history abruptly — a most astonishing exit!... You may pursue fantastic legends, you will not find the man himself again. Some say a final quarrel got him hanged at last — it is improbable: no record or even [[Tradition|tradition]] of it remains. [[Rabelais]] thought him a wanderer in England. Poitou preserves a story of his later passage through her fields, of how still he drank and sang with boon companions, and of how, again, he killed a man.... Maybe, he only ceased to write; took to teaching soberly in the University, and lived in a decent inheritance to see new splendours growing upon Europe. It may very well be, for it is in such characters to desire in early manhood decency, honour, and repose. But for us the man ends with his last line. His body that was so very real, his personal voice, his jargon — tangible and audible things — spread outward suddenly a vast shadow upon nothingness. It was the end, also, of a world. The first Presses were creaking, Constantinople had fallen, Greek was in Italy, Leonardo lived, the stepping stones of the Azores were held — in that new light he disappears.
@@ -2835,7 +2835,7 @@ Villon’s whole surviving work is in the form of two rhymed wills — one short
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_04" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 4)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_04" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 4)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death"></span>
 
 
 Thus the last Ballade, that of the “Dead Ladies,” comes after a couple of strong stanzas upon the necessity of [[Death|death]] — and so forth.
@@ -3097,7 +3097,7 @@ Lancelot, le roy de Behaigne,
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_05" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 5)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_05" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 5)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="concept/beauty,histref/renaissance,setting/paris"></span>
 
 
 Où est il? Où est son tayon?....
@@ -3173,7 +3173,7 @@ Did you meet him to-day in the Strand you would know at once that you had to do 
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_06" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 6)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_06" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 6)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 He was short, square in the shoulders, tending in middle age to fatness. A dark hair and beard; large brown eyes of the south; a great, rounded, wrinkled forehead like Verlaine’s; a happy mouth, a nose very insignificant, completed him. When we meet somewhere, under cypress trees at last, these great poets of a better age, and find Ronsard a very happy man, Du Bellay, a gentleman; then Malherbe, for all that he was a northerner, we may mistake, if we find him, for a Catalonian. Villon, however Parisian, will appear the Bohemian that many cities have produced; Charles of Orleans may seem at first but one of that very high nobility remnants of which are still to be discovered in Europe. But when we see Marot, our first thought will certainly be, as I have said, that we have come across a Frenchman; and the more French for a touch of the commonplace.
@@ -3257,7 +3257,7 @@ In these little things of Marot, which are neither learned (and he boasted of le
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_07" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 7)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_07" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 7)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="histref/renaissance,histref/voltaire,setting/paris,character/voltaire"></span>
 
 
 That he thought “like a Southerner,” as I have maintained and as I shall show by a further example, is made the more probable from the value he lends to the feminine e. The excellent rhythm of this poem you will only get by giving the feminine e the value of a drawn out syllable:
@@ -3489,7 +3489,7 @@ IF IT BE true that words create for themselves a special atmosphere, and that th
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_08" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 8)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_08" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 8)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/beauty,histref/renaissance,setting/france"></span>
 
 
 A group of men to which allusion will be made in connection with Du Bellay set out with a programme, developed a determined school, and fixed the literary [[Renaissance|renaissance]] of [[France]] at its highest point. They steeped themselves in antiquity, and they put to the greatest value it has ever received the name of poet; they demanded that the poet should be a kind of king, or seer. Half seriously, half as a product of mere scholarship, the pagan conception of the muse and of inspiration filled them.
@@ -3513,7 +3513,7 @@ In the November of 1585 he felt [[Death|death]] upon him; he had himself borne t
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_09" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 9)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_09" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 9)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/beauty,concept/faith,histref/catholic_church"></span>
 
 
 But [[Death|death]] troubled him, and he could not remain. Within a fortnight he ordered that they should carry him southward to the Loire, to that priory of which — by a custom of privilege, nobility and royal favour — he was the nominal head, the priory which is “the eye and delight of Touraine”, — the Isle of St. Cosmo. He sickened as he went. The thirty miles or so took him three painful days; twice, all his strength failed him, and he lay half fainting in his carriage; to so much energy and to so much power of creation these episodes were an awful introduction of [[Death|death]].
@@ -3603,7 +3603,7 @@ Muses. Vela saigement dit, ceux dont la fantaisie
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_10" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 10)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_10" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 10)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/rose,concept/beauty,histref/rabelais,setting/france"></span>
 
 
 Sera religieuse et dévote envers Dieu
@@ -3735,7 +3735,7 @@ These “Sonnets for Hélène” should be common knowledge: they are (with Du B
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_11" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 11)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_11" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 11)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,motif/spring,concept/faith,concept/tradition,histref/rabelais,histref/renaissance,setting/france"></span>
 
 
 Here are two of them. One, the second, most famous, the other, the first, hardly known: both are admirable.
@@ -3827,7 +3827,7 @@ His name was famous. The three Du Bellays, the councillor, the soldier, the grea
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_12" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 12)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_12" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 12)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,histref/renaissance,setting/paris"></span>
 
 
 Of that family the Cardinal seems to have regarded him as the principal survivor. He had determined to make of the young poet the heir of its glory. It came to nothing. He accompanied his relative to Rome: but the diplomacy of the mission ill-suited him. Of the Royal ladies at court who befriended him, the marriage of one, the [[Death|death]] of another, increased his insecurity. He had inherited, to his bane, another estate — Gonor — from his elder brother. It was encumbered, the cause litigious, and he had inherited with it the tutelage of a sickly child. He never shook off the burden. A tragic error marked his end. He died, certainly broken-hearted, just when his powerful cousin, by a conversion perhaps unknown to the poet himself, had rejected calumnies, and had determined to resign to him the great Archbishopric of Bordeaux.
@@ -3893,7 +3893,7 @@ Nor is it to modern Englishmen alone that he will appeal. He powerfully affected
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_13" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 13)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_13" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 13)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="histref/renaissance,setting/france"></span>
 
 
 But his verse read will prove all this and suggest much more.
@@ -4039,7 +4039,7 @@ There is very much in the Sonnet to mark that development of French verse in whi
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_14" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 14)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_14" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 14)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="topos/beatus_ille,topos/open_road_homecoming,motif/home,motif/animals,concept/exile,concept/nostalgia,form/sonnet,form/elegy,histref/the_renaissance,setting/france,character/odysseus_ulysses"></span>
 
 
 THE SONNET “HEUREUX QUI COMME ULYSSE”
@@ -4333,7 +4333,7 @@ Les chats aux rats feront la guerre.
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_15" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 15)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_15" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 15)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,motif/spring,concept/faith,concept/tradition,histref/renaissance"></span>
 
 
 MALHERBE.
@@ -4361,7 +4361,7 @@ The man who imposed design and authority and unity upon the letters of his count
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_16" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 16)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_16" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 16)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,concept/faith,histref/renaissance,setting/paris"></span>
 
 
 He was Norman. Right of that north whence the vigour, though not the inspiration, of the [[Renaissance]] had proceeded, and into which it returned. Caen gave him birth, and still remembers him. Normans still edit his works — and dedicate these books to the town which also bred Corneille. Norman, learned with that restrained but vigorous learning of the province, he was also of the province in his blood, for he came of one of those fixed families whose heads held great estates all round Falaise, and whose cadets branched off into chances abroad: one of the Boughtons, in Kent, is still “Boughton Malherbe.”
@@ -4393,7 +4393,7 @@ To such a man the meaning of the solution at which his people had arrived after 
 
 
 
-<span class="atom-split" data-atom="story_03_the_complaint--part_17" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 17)" data-chapter="THE COMPLAINT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_complaint--part_17" data-title="Avril: Essays on the French Renaissance — THE COMPLAINT. (part 17)" data-chapter="THE COMPLAINT" data-kind="excerpt" data-tags="motif/death,motif/rose,concept/tradition,histref/renaissance,setting/france,setting/paris"></span>
 
 
 Vouloir ce que Dieu veut est la seule Science

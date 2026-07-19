@@ -6991,7 +6991,7 @@ of the truly English good [[Humour|humour]].
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="Well And Shallows — Introduction" data-chapter="Introduction" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="Well And Shallows — Introduction" data-chapter="Introduction" data-kind="story" data-tags="motif/prayer,motif/well,concept/paradox"></span>
 
 
 INTRODUCTION
@@ -7093,7 +7093,7 @@ DOV'È IL [[Paradox|PARADOSSO]]?
 
 
 
-<span class="atom-split" data-atom="story_02_introductory_note" data-title="Well And Shallows — Introductory Note" data-chapter="Introductory Note" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introductory_note" data-title="Well And Shallows — Introductory Note" data-chapter="Introductory Note" data-kind="story" data-tags="motif/memory,motif/well,concept/hope,form/essay"></span>
 
 
 INTRODUCTORY NOTE
@@ -7243,7 +7243,7 @@ al mondo.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_01" data-title="Well And Shallows — An Apology For Buffoons (part 1)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_01" data-title="Well And Shallows — An Apology For Buffoons (part 1)" data-chapter="An Apology For Buffoons" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/time,motif/water,motif/well,motif/wind,concept/disillusionment,concept/hope,concept/melancholy,concept/self,concept/truth"></span>
 
 
 AN APOLOGY FOR BUFFOONS
@@ -7364,7 +7364,7 @@ Quella citazione basta a indicare la difficoltà cui alludo. Poiché anche uno s
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_02" data-title="Well And Shallows — An Apology For Buffoons (part 2)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_02" data-title="Well And Shallows — An Apology For Buffoons (part 2)" data-chapter="An Apology For Buffoons" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/well,concept/grotesque"></span>
 
 
 To say that Bailey oped his eyes
@@ -7590,7 +7590,7 @@ più di quanto lo sia l'arte per l'arte.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_03" data-title="Well And Shallows — An Apology For Buffoons (part 3)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_03" data-title="Well And Shallows — An Apology For Buffoons (part 3)" data-chapter="An Apology For Buffoons" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/grave,motif/journey,motif/love,motif/nature,motif/poison,motif/sleep,motif/time,motif/well,motif/wind,concept/greed,concept/hope,concept/nature,form/sketch,setting/mountains,character/brutus,character/hamlet,character/julius_caesar,character/monks,character/polonius"></span>
 
 
 In any case, things of this sort do exist; coincidences or
@@ -7868,7 +7868,7 @@ di queste tentazioni alla frivolezza.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_04" data-title="Well And Shallows — An Apology For Buffoons (part 4)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_04" data-title="Well And Shallows — An Apology For Buffoons (part 4)" data-chapter="An Apology For Buffoons" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/humility,concept/truth,form/essay,form/satire,histref/america,histref/american_civil_war,setting/america,setting/oxford"></span>
 
 
 It is not an idle contradiction to say that Mr. [[Shaw]]
@@ -8094,7 +8094,7 @@ che esse sono più grandi.
 
 
 
-<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_05" data-title="Well And Shallows — An Apology For Buffoons (part 5)" data-chapter="An Apology For Buffoons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_an_apology_for_buffoons--part_05" data-title="Well And Shallows — An Apology For Buffoons (part 5)" data-chapter="An Apology For Buffoons" data-kind="excerpt" data-tags="archetype/artist,archetype/prophet,motif/animals,motif/soul,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/self,concept/suffering,form/history,form/parody,form/riddle,form/tragedy"></span>
 
 
 Now the next two steps bring us to the climax of the matter.
@@ -8362,7 +8362,7 @@ richiamo del buffone.
 
 
 
-<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="archetype/innocent,motif/cross,motif/nature,motif/prayer,motif/time,motif/well,concept/conversion,concept/doubt,concept/faith,concept/fanaticism,concept/history,concept/humility,concept/nature,concept/paradox,concept/pride,concept/truth,form/history,form/hymn,histref/bible,histref/islam,histref/reformation,setting/germany,character/christ"></span>
 
 
 MY SIX CONVERSIONS
@@ -8732,7 +8732,7 @@ e annunciando la propria prontezza a trasformarsi in qualsiasi altra cosa.
 
 
 
-<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="archetype/child,archetype/villain,motif/animals,motif/blood,motif/dawn,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/apocalypse,concept/democracy,concept/doubt,concept/faith,concept/freedom,concept/mercy,concept/nature,concept/paradox,concept/reconciliation,concept/reform,concept/truth,concept/wonder,form/melodrama,form/parody,histref/america,histref/french_revolution,setting/america,setting/germany,setting/italy"></span>
 
 
 MY SIX CONVERSIONS
@@ -9072,7 +9072,7 @@ ora mi avrebbe condotto alla porta.
 
 
 
-<span class="atom-split" data-atom="story_06_my_six_conversions--part_01" data-title="Well And Shallows — My Six Conversions (part 1)" data-chapter="My Six Conversions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_my_six_conversions--part_01" data-title="Well And Shallows — My Six Conversions (part 1)" data-chapter="My Six Conversions" data-kind="excerpt" data-tags="motif/frost,motif/marriage,motif/snow,motif/well,motif/window,concept/conversion,concept/courage,concept/democracy,concept/faith,concept/truth,histref/catholic_church,character/bottom,character/henry_viii"></span>
 
 
 MY SIX CONVERSIONS
@@ -9360,7 +9360,7 @@ e la [[Catholic Church|Chiesa Cattolica]] aveva ragione.
 
 
 
-<span class="atom-split" data-atom="story_06_my_six_conversions--part_02" data-title="Well And Shallows — My Six Conversions (part 2)" data-chapter="My Six Conversions" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_my_six_conversions--part_02" data-title="Well And Shallows — My Six Conversions (part 2)" data-chapter="My Six Conversions" data-kind="excerpt" data-tags="archetype/innocent,motif/marriage,motif/nature,motif/time,motif/well,concept/hope,concept/nature,concept/truth,histref/christianity,setting/london,character/henry_viii"></span>
 
 
 Any man with eyes in his head, whatever the ideas in his head,
@@ -9494,7 +9494,7 @@ Ed essi hanno tradito il passo.
 
 
 
-<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="archetype/detective,archetype/ghost,archetype/hero,archetype/shadow,motif/cross,motif/death,motif/home,motif/prayer,motif/well,concept/beauty,concept/education,concept/nostalgia,concept/resurrection,concept/sublime,concept/truth,concept/union,form/litany,histref/bible,histref/catholic_church,histref/milton,character/cranmer,character/milton"></span>
 
 
 MY SIX CONVERSIONS
@@ -9686,7 +9686,7 @@ Aggiungo un episodio per contrapporre lo Stile, tra uomini che erano stati catto
 
 
 
-<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="motif/desert,motif/nature,motif/time,motif/well,motif/window,concept/conversion,concept/imagination,concept/nature,concept/truth,histref/islam,setting/desert,character/queen"></span>
 
 
 MY SIX CONVERSIONS
@@ -9900,7 +9900,7 @@ Il che è tutto assai [[Well|bene]], e tutto assai saggio, e tutto assai vero ri
 
 
 
-<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="archetype/king,motif/home,motif/nature,motif/time,motif/well,concept/conversion,concept/democracy,concept/doubt,concept/freedom,concept/nature,concept/paradox,concept/reform,concept/truth,setting/court,setting/germany,setting/italy"></span>
 
 
 MY SIX CONVERSIONS
@@ -10088,7 +10088,7 @@ Ora, questo è un punto piccolo e puramente politico. Ma per me fu assai illumin
 
 
 
-<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_my_six_conversions" data-title="Well And Shallows — My Six Conversions" data-chapter="My Six Conversions" data-kind="story" data-tags="motif/desire,motif/time,motif/well,concept/democracy,concept/doubt,concept/faith,concept/freedom,concept/history,concept/honour,concept/truth,form/essay,form/history,form/novel,form/translation,character/bottom"></span>
 
 
 MY SIX CONVERSIONS
@@ -10277,7 +10277,7 @@ Vi sono, dico, un certo numero di altre più generali sconfitte dell'attacco all
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_01" data-title="Well And Shallows — The Return To Religion (part 1)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_01" data-title="Well And Shallows — The Return To Religion (part 1)" data-chapter="The Return To Religion" data-kind="excerpt" data-tags="motif/birds,motif/ghosts,motif/horse,motif/nature,motif/time,motif/well,concept/body,concept/conscience,concept/history,concept/nature,concept/slavery,concept/survival,concept/truth,form/history,histref/catholic_church,character/arthur,character/bertram,character/bottom,character/oliver"></span>
 
 
 THE RETURN TO RELIGION
@@ -10417,7 +10417,7 @@ La religione è tornata; perché tutte le varie forme di scetticismo che tentaro
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_02" data-title="Well And Shallows — The Return To Religion (part 2)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_02" data-title="Well And Shallows — The Return To Religion (part 2)" data-chapter="The Return To Religion" data-kind="excerpt" data-tags="motif/decay,motif/machine,motif/marriage,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/freedom,concept/history,concept/reform,concept/self,form/history,setting/russia"></span>
 
 
 We have of course seen just lately the most dramatic exit
@@ -10536,7 +10536,7 @@ Per prendere un esempio fra i molti; l'intera questione del [[Marriage|Matrimoni
 
 
 
-<span class="atom-split" data-atom="story_11_the_return_to_religion--part_03" data-title="Well And Shallows — The Return To Religion (part 3)" data-chapter="The Return To Religion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_return_to_religion--part_03" data-title="Well And Shallows — The Return To Religion (part 3)" data-chapter="The Return To Religion" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,motif/supernatural,motif/well,concept/history,concept/madness,concept/survival,concept/truth,form/history"></span>
 
 
 For the reply, not merely of religion but of reason and the rooted
@@ -10652,7 +10652,7 @@ e siamo ancora una volta nel mattino del mondo.
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_01" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 1)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_01" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 1)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt" data-tags="motif/city,motif/dawn,motif/desire,motif/road,motif/time,motif/well,motif/wind,concept/history,concept/reform,form/history,form/novel,form/parable,histref/american_civil_war,setting/germany"></span>
 
 
 THE REACTION OF THE INTELLECTUALS
@@ -10792,7 +10792,7 @@ Coloro che erano chiamati in modo speciale i Moderni, che ora sono per la maggio
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_02" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 2)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_02" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 2)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/time,motif/well,concept/democracy,concept/faith,concept/fear,concept/freedom,concept/hope,concept/paradox,concept/reform,form/free_verse"></span>
 
 
 Now, at this moment, the marching column of mankind is in an
@@ -11052,7 +11052,7 @@ dalla parte dei colti e degli ingegnosi.
 
 
 
-<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_03" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 3)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_reaction_of_the_intellectuals--part_03" data-title="Well And Shallows — The Reaction Of The Intellectuals (part 3)" data-chapter="The Reaction Of The Intellectuals" data-kind="excerpt" data-tags="topos/double,motif/desert,motif/well,concept/democracy,concept/doubt,concept/paradox,concept/suicide,setting/desert,character/aquinas"></span>
 
 
 Or again, it might have been that picturesque [[Paradox|paradox]];
@@ -11180,7 +11180,7 @@ di nome Pan è morto.
 
 
 
-<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Levity Or Levitation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_levity_or_levitation" data-title="Well And Shallows — Levity--Or Levitation" data-chapter="Levity Or Levitation" data-kind="story" data-tags="motif/cross,motif/well,concept/hope,concept/self,histref/catholic_church,character/witch"></span>
 
 
 LEVITY--OR LEVITATION
@@ -11312,7 +11312,7 @@ Poiché scrivo questo per divertimento, non direi gran che circa il mistero cent
 
 
 
-<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="The Case For Hermits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_case_for_hermits" data-title="Well And Shallows — The Case For Hermits" data-chapter="The Case For Hermits" data-kind="story" data-tags="archetype/child,motif/animals,motif/cross,motif/desert,motif/desire,motif/lion,motif/love,motif/machine,motif/nature,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/charity,concept/fear,concept/history,concept/nature,concept/solitude,form/history,histref/christianity,setting/desert,character/monks"></span>
 
 
 THE CASE FOR HERMITS
@@ -11482,7 +11482,7 @@ In conclusione, prenderò un caso molto moderno e persino d'attualità. Non cred
 
 
 
-<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Killing The Nerve" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_killing_the_nerve" data-title="Well And Shallows — Killing The Nerve" data-chapter="Killing The Nerve" data-kind="story" data-tags="archetype/child,archetype/king,motif/childhood,motif/city,motif/death,motif/dreams,motif/fire,motif/flowers,motif/grave,motif/memory,motif/road,motif/spring,motif/time,motif/well,concept/education,setting/castle,setting/london,setting/new_york,character/jones"></span>
 
 
 KILLING THE NERVE
@@ -11621,7 +11621,7 @@ Nelle strade di [[London|Londra]] d'oggi, in ciò che il signor Cuthbert Baines 
 
 
 
-<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="The Case Of Claudel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_case_of_claudel" data-title="Well And Shallows — The Case Of Claudel" data-chapter="The Case Of Claudel" data-kind="story" data-tags="archetype/artist,motif/garden,motif/prison,motif/time,motif/well,concept/education,concept/history,concept/hope,concept/truth,form/fable,form/history,form/inscription,form/parable,setting/court,setting/oxford"></span>
 
 
 THE CASE OF CLAUDEL
@@ -11743,7 +11743,7 @@ Non v'è qui spazio nemmeno per suggerire la sontuosa ricchezza di immagini e di
 
 
 
-<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_01" data-title="Well And Shallows — The Higher Nihilism (part 1)" data-chapter="The Higher Nihilism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_01" data-title="Well And Shallows — The Higher Nihilism (part 1)" data-chapter="The Higher Nihilism" data-kind="excerpt" data-tags="archetype/monster,motif/swallow,motif/well,concept/doubt,concept/faith,concept/freedom,concept/history,concept/paradox,concept/renunciation,concept/self,concept/suicide,form/history,histref/catholic_church,histref/reformation,character/king_john,character/monks"></span>
 
 
 THE HIGHER NIHILISM
@@ -11871,7 +11871,7 @@ Ciò che il signor Middleton Murry vuole, s'intende, è una religione vera; e in
 
 
 
-<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_02" data-title="Well And Shallows — The Higher Nihilism (part 2)" data-chapter="The Higher Nihilism" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_higher_nihilism--part_02" data-title="Well And Shallows — The Higher Nihilism (part 2)" data-chapter="The Higher Nihilism" data-kind="excerpt" data-tags="archetype/tyrant,motif/leaves,motif/well,concept/beauty,concept/distributism,concept/doubt,concept/faith,concept/fanaticism,concept/freedom,concept/history,concept/renunciation,concept/self_sacrifice,form/allegory,form/history,histref/america,histref/puritanism,setting/america,character/buckingham,character/monks"></span>
 
 
 -/-
@@ -12012,7 +12012,7 @@ Di fatto, è proprio questa sorta di distruzione radicale che l'ha resa infelice
 
 
 
-<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="The Backward Bolshie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_backward_bolshie" data-title="Well And Shallows — The Backward Bolshie" data-chapter="The Backward Bolshie" data-kind="story" data-tags="motif/desire,motif/flowers,motif/time,motif/well,concept/history,concept/hope,form/history,setting/germany,setting/oxford,setting/paris,setting/russia,character/queen"></span>
 
 
 THE BACKWARD BOLSHIE
@@ -12121,7 +12121,7 @@ Ma spingere la concorrenza a qualsiasi estremo, perché è la moda, o spingere l
 
 
 
-<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="The Last Turn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_last_turn" data-title="Well And Shallows — The Last Turn" data-chapter="The Last Turn" data-kind="story" data-tags="archetype/child,archetype/king,motif/chains,motif/childhood,motif/road,motif/sleep,motif/time,motif/well,concept/conversion,concept/democracy,concept/faith,concept/freedom,concept/history,concept/imagination,concept/reform,concept/truth,form/history,histref/reformation,character/aquinas"></span>
 
 
 THE LAST TURN
@@ -12303,7 +12303,7 @@ E tuttavia, sicuramente, questo è soltanto l'ultimo giro nella lunga corsa in c
 
 
 
-<span class="atom-split" data-atom="story_20_the_new_luther--part_01" data-title="Well And Shallows — The New Luther (part 1)" data-chapter="The New Luther" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_new_luther--part_01" data-title="Well And Shallows — The New Luther (part 1)" data-chapter="The New Luther" data-kind="excerpt" data-tags="motif/cross,motif/desert,motif/nature,motif/time,motif/well,concept/courage,concept/despair,concept/hope,concept/nature,form/essay,histref/reformation,setting/desert,setting/germany,setting/oxford"></span>
 
 
 THE NEW LUTHER
@@ -12513,7 +12513,7 @@ ma mi sembra, dal punto di vista del pensiero religioso, l'essenza stessa della 
 
 
 
-<span class="atom-split" data-atom="story_20_the_new_luther--part_02" data-title="Well And Shallows — The New Luther (part 2)" data-chapter="The New Luther" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_new_luther--part_02" data-title="Well And Shallows — The New Luther (part 2)" data-chapter="The New Luther" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/chains,motif/machine,motif/road,motif/well,concept/distributism,concept/eugenics,concept/freedom,concept/hope,concept/pride,concept/slavery,concept/temptation"></span>
 
 
 -/-
@@ -12655,7 +12655,7 @@ Ora, un [[Child|bambino]] è il segno e il sacramento stesso della [[Freedom|lib
 
 
 
-<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Three Foes Of The Family" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_three_foes_of_the_family" data-title="Well And Shallows — Three Foes Of The Family" data-chapter="Three Foes Of The Family" data-kind="story" data-tags="motif/death,motif/fire,motif/flag,motif/garden,motif/lightning,motif/love,motif/machine,motif/nature,motif/well,concept/comradeship,concept/courage,concept/doubt,concept/madness,concept/nature,concept/self_sacrifice,concept/wonder,character/miranda"></span>
 
 
 THREE FOES OF THE FAMILY
@@ -12784,7 +12784,7 @@ Ma vi è, per quanto curioso, una terza cosa del genere, che sono davvero inclin
 
 
 
-<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_01" data-title="Well And Shallows — The Don And The Cavalier (part 1)" data-chapter="The Don And The Cavalier" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_01" data-title="Well And Shallows — The Don And The Cavalier (part 1)" data-chapter="The Don And The Cavalier" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/river,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/democracy,concept/doubt,concept/history,concept/honour,concept/truth,form/history,form/satire,character/queen"></span>
 
 
 THE DON AND THE CAVALIER
@@ -13022,7 +13022,7 @@ cresta di Dryden».
 
 
 
-<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_02" data-title="Well And Shallows — The Don And The Cavalier (part 2)" data-chapter="The Don And The Cavalier" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_don_and_the_cavalier--part_02" data-title="Well And Shallows — The Don And The Cavalier (part 2)" data-chapter="The Don And The Cavalier" data-kind="excerpt" data-tags="motif/death,motif/soul,motif/time,motif/well,concept/conversion,concept/distributism,concept/doubt,concept/eternity,concept/fear,concept/greatness,concept/history,concept/truth,form/history"></span>
 
 
 I also came upon another critique of the book on Dryden;
@@ -13138,7 +13138,7 @@ Non ha nulla a che vedere con ciò che egli chiamerebbe essere religiosi; o con 
 
 
 
-<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="The Church And Agoraphobia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_church_and_agoraphobia" data-title="Well And Shallows — The Church And Agoraphobia" data-chapter="The Church And Agoraphobia" data-kind="story" data-tags="archetype/king,motif/city,motif/nature,motif/prison,motif/time,motif/well,concept/faith,concept/fear,concept/nature,concept/truth,histref/catholic_church,histref/christianity,histref/renaissance,setting/cathedral,setting/venice"></span>
 
 
 THE CHURCH AND AGORAPHOBIA
@@ -13257,7 +13257,7 @@ Ora molto è stato detto dai protestanti, com'è naturale, e non poco perfino da
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_01" data-title="Well And Shallows — Back In The Fog (part 1)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_01" data-title="Well And Shallows — Back In The Fog (part 1)" data-chapter="Back In The Fog" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/crown,motif/home,motif/lightning,motif/love,motif/memory,motif/summer,motif/time,motif/well,concept/pride,concept/self,concept/truth,concept/union,histref/america,setting/america,setting/london"></span>
 
 
 BACK IN THE FOG
@@ -13380,7 +13380,7 @@ A Dublino vi sono uomini che ucciderebbero de Valera; e vi sono uomini che morir
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_02" data-title="Well And Shallows — Back In The Fog (part 2)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_02" data-title="Well And Shallows — Back In The Fog (part 2)" data-chapter="Back In The Fog" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/desert,motif/memory,motif/time,motif/well,concept/history,concept/hope,concept/imagination,concept/self,form/history,setting/desert,setting/germany,character/cain,character/oliver"></span>
 
 
 -/-
@@ -13533,7 +13533,7 @@ FUI allevato in una parte del mondo protestante che può descriversi al meglio d
 
 
 
-<span class="atom-split" data-atom="story_24_back_in_the_fog--part_03" data-title="Well And Shallows — Back In The Fog (part 3)" data-chapter="Back In The Fog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_back_in_the_fog--part_03" data-title="Well And Shallows — Back In The Fog (part 3)" data-chapter="Back In The Fog" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/death,motif/love,motif/time,motif/well,concept/conversion,concept/faith,concept/freedom,concept/hope,concept/imagination,concept/longing,concept/truth,form/hymn,histref/catholic_church,character/aquinas,character/christ,character/queen"></span>
 
 
 I do not forget, and indeed it would be a very thankless
@@ -13668,7 +13668,7 @@ Si può ancora notare che il mondo non convertito, puritano o pagano, ma forse s
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_01" data-title="Well And Shallows — A Century Of Emancipation (part 1)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_01" data-title="Well And Shallows — A Century Of Emancipation (part 1)" data-chapter="A Century Of Emancipation" data-kind="excerpt" data-tags="archetype/monster,motif/well,concept/reform,concept/survival,concept/truth,histref/america,histref/french_revolution,setting/america,character/sunday"></span>
 
 
 A CENTURY OF EMANCIPATION
@@ -13817,7 +13817,7 @@ Se vogliamo misurare la distanza tra la data dell'emancipazione e il giorno in c
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_02" data-title="Well And Shallows — A Century Of Emancipation (part 2)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_02" data-title="Well And Shallows — A Century Of Emancipation (part 2)" data-chapter="A Century Of Emancipation" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/time,motif/well,concept/faith,concept/freedom,concept/history,form/history,form/translation,histref/bible,histref/christianity,histref/islam,histref/renaissance"></span>
 
 
 Now if you had asked an educated English Protestant in 1828
@@ -13960,7 +13960,7 @@ Ma c'è qualcosa che rimane. Rimane l'anticattolicesimo; benché non sia più pr
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_03" data-title="Well And Shallows — A Century Of Emancipation (part 3)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_03" data-title="Well And Shallows — A Century Of Emancipation (part 3)" data-chapter="A Century Of Emancipation" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/clock,motif/love,motif/nature,motif/prayer,motif/supernatural,motif/well,concept/faith,concept/madness,concept/nature,concept/truth,setting/cathedral"></span>
 
 
 This is the [[Truth|truth]] symbolised in the remark on the [[Prayer]]-Book [[debate|Debate]];
@@ -14094,7 +14094,7 @@ Ma se nessuna nuova religione diventerà tanto importante da costituire la quest
 
 
 
-<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_04" data-title="Well And Shallows — A Century Of Emancipation (part 4)" data-chapter="A Century Of Emancipation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_25_a_century_of_emancipation--part_04" data-title="Well And Shallows — A Century Of Emancipation (part 4)" data-chapter="A Century Of Emancipation" data-kind="excerpt" data-tags="motif/pain,motif/soul,motif/stars,motif/time,motif/well,concept/body,concept/conscience"></span>
 
 
 In any case, this emergence of new issues will reveal more and
@@ -14183,7 +14183,7 @@ Vi è, per esempio, un influsso che si fa più forte ogni giorno, mai menzionato
 
 
 
-<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Trade Terms" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_trade_terms" data-title="Well And Shallows — Trade Terms" data-chapter="Trade Terms" data-kind="story" data-tags="motif/death,motif/home,motif/love,motif/secrets,motif/time,motif/well,concept/doubt,concept/identity,concept/imagination,histref/america,histref/french_revolution,setting/america,setting/italy,setting/paris"></span>
 
 
 TRADE TERMS
@@ -14322,7 +14322,7 @@ Ora, se i nuovi Imperialisti insistono nel parlare di ogni cosa in termini di ba
 
 
 
-<span class="atom-split" data-atom="story_27_frozen_free_thought--part_01" data-title="Well And Shallows — Frozen Free Thought (part 1)" data-chapter="Frozen Free Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_frozen_free_thought--part_01" data-title="Well And Shallows — Frozen Free Thought (part 1)" data-chapter="Frozen Free Thought" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/crown,motif/leaves,motif/time,motif/well,concept/apocalypse,concept/despair,concept/history,concept/resurrection,form/history,form/litany,form/parody,character/buckingham"></span>
 
 
 FROZEN FREE THOUGHT
@@ -14448,7 +14448,7 @@ Prendiamo alcuni rompicapi da questa pagina su di me. «Chesterton usa i suoi ta
 
 
 
-<span class="atom-split" data-atom="story_27_frozen_free_thought--part_02" data-title="Well And Shallows — Frozen Free Thought (part 2)" data-chapter="Frozen Free Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_frozen_free_thought--part_02" data-title="Well And Shallows — Frozen Free Thought (part 2)" data-chapter="Frozen Free Thought" data-kind="excerpt" data-tags="archetype/rebel,motif/silence,motif/time,motif/well,histref/bible,setting/london"></span>
 
 
 Finally, here is one wonderful example of how the Freethinker
@@ -14702,7 +14702,7 @@ lo attacchi per averlo attaccato.
 
 
 
-<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Shocking The Modernists" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_shocking_the_modernists" data-title="Well And Shallows — Shocking The Modernists" data-chapter="Shocking The Modernists" data-kind="story" data-tags="motif/death,motif/supernatural,motif/well,concept/beauty,concept/doubt,concept/education,concept/truth,concept/wonder"></span>
 
 
 SHOCKING THE MODERNISTS
@@ -14950,7 +14950,7 @@ meramente [[Supernatural|soprannaturale]], ma è nel senso esatto super-[[Supern
 
 
 
-<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="A Grammar Of Knighthood" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_a_grammar_of_knighthood" data-title="Well And Shallows — A Grammar Of Knighthood" data-chapter="A Grammar Of Knighthood" data-kind="story" data-tags="archetype/child,motif/city,motif/nature,motif/time,motif/well,concept/honour,concept/humility,concept/nature,concept/poverty,concept/truth,form/epigram,form/melodrama,character/arthur,character/don_quixote"></span>
 
 
 A GRAMMAR OF KNIGHTHOOD
@@ -15210,7 +15210,7 @@ questa nota sul suo trascurato nome.
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_01" data-title="Well And Shallows — Reflections On A Rotten Apple (part 1)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_01" data-title="Well And Shallows — Reflections On A Rotten Apple (part 1)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/desert,motif/supernatural,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/paradox,concept/truth,form/fable,form/history,form/parable,setting/desert"></span>
 
 
 REFLECTIONS ON A ROTTEN APPLE
@@ -15448,7 +15448,7 @@ ma alla radice di tutti i meli e della coltivazione delle mele,
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_02" data-title="Well And Shallows — Reflections On A Rotten Apple (part 2)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_02" data-title="Well And Shallows — Reflections On A Rotten Apple (part 2)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/flowers,motif/hill,motif/memory,motif/nature,motif/stars,motif/time,motif/well,concept/charity,concept/doubt,concept/hope,concept/madness,concept/nature,concept/truth,form/parable"></span>
 
 
 Of course I do not mean that the practice is at present simple;
@@ -15680,7 +15680,7 @@ o il singolare episodio del Fattore Billings che acquistava un ombrello.
 
 
 
-<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_03" data-title="Well And Shallows — Reflections On A Rotten Apple (part 3)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_reflections_on_a_rotten_apple--part_03" data-title="Well And Shallows — Reflections On A Rotten Apple (part 3)" data-chapter="Reflections On A Rotten Apple" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/desire,motif/dust,motif/love,motif/storm,motif/well,concept/apocalypse,concept/despair,concept/hope,concept/paradox,concept/truth,form/epigram,setting/desert"></span>
 
 
 As I have said, I do not imagine, or [[Desire|desire]], that things would ever
@@ -15834,7 +15834,7 @@ lascia loro un solo intelligente istante in cui [[Despair|disperare]].
 
 
 
-<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Sex And Property" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_sex_and_property" data-title="Well And Shallows — Sex And Property" data-chapter="Sex And Property" data-kind="story" data-tags="motif/fire,motif/grave,motif/love,motif/nature,motif/seasons,motif/soul,motif/well,concept/hope,concept/nature,concept/reform,concept/sexuality,histref/christianity,setting/russia"></span>
 
 
 SEX AND PROPERTY
@@ -16090,7 +16090,7 @@ di George Meredith: «E mangiamo il nostro vasetto di miele sulla [[Grave|tomba]
 
 
 
-<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="St Thomas More" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_st_thomas_more" data-title="Well And Shallows — St.  Thomas More" data-chapter="St Thomas More" data-kind="story" data-tags="archetype/fool,archetype/hero,archetype/king,archetype/tyrant,motif/blood,motif/death,motif/dreams,motif/garden,motif/home,motif/jewel,motif/secrets,motif/time,motif/well,concept/body,concept/freedom,concept/hope,concept/martyrdom,concept/truth,form/comedy,form/tragedy,histref/renaissance,character/venus"></span>
 
 
 ST.  THOMAS MORE
@@ -16284,7 +16284,7 @@ Ma Tommaso Moro non discese mai quella scala. Aveva finito con tutte le discese 
 
 
 
-<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="The Return Of Caesar" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_return_of_caesar" data-title="Well And Shallows — The Return Of Caesar" data-chapter="The Return Of Caesar" data-kind="story" data-tags="motif/childhood,motif/city,motif/ghosts,motif/silence,motif/storm,motif/time,motif/well,concept/democracy,concept/doubt,concept/faith,concept/freedom,concept/history,concept/hope,concept/paradox,form/history,histref/catholic_church,histref/french_revolution,histref/spanish_inquisition,setting/germany,setting/italy"></span>
 
 
 THE RETURN OF CAESAR
@@ -16431,7 +16431,7 @@ Ora, supponiamo, per amor di discussione, che io divenissi di nuovo un semplice 
 
 
 
-<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Austria" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_austria" data-title="Well And Shallows — Austria" data-chapter="Austria" data-kind="story" data-tags="archetype/innocent,motif/blood,motif/well,concept/forgiveness,concept/history,form/history,form/tragedy,histref/thirty_years_war,setting/germany"></span>
 
 
 AUSTRIA
@@ -16549,7 +16549,7 @@ Abbiamo almeno appreso una lezione oggi: che le cose antiche ritornano. Non è c
 
 
 
-<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="The Scripture Reader" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_scripture_reader" data-title="Well And Shallows — The Scripture Reader" data-chapter="The Scripture Reader" data-kind="story" data-tags="motif/garden,motif/love,motif/tears,motif/time,motif/well,concept/faith,concept/fear,concept/truth,form/parable,histref/bible,histref/puritanism,character/sunday"></span>
 
 
 THE SCRIPTURE READER
@@ -16677,7 +16677,7 @@ Per il resto, so che vi sono molte persone semplici che consoleranno e gratifich
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_01" data-title="Well And Shallows — An Explanation (part 1)" data-chapter="An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_01" data-title="Well And Shallows — An Explanation (part 1)" data-chapter="An Explanation" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/sleep,motif/time,motif/well,concept/fear,concept/freedom,concept/self,form/epigram,histref/milton,character/milton"></span>
 
 
 AN EXPLANATION
@@ -16833,7 +16833,7 @@ PERCHÉ I PROTESTANTI PROIBISCONO (1)
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_02" data-title="Well And Shallows — An Explanation (part 2)" data-chapter="An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_02" data-title="Well And Shallows — An Explanation (part 2)" data-chapter="An Explanation" data-kind="excerpt" data-tags="topos/golden_age,motif/leaves,motif/nature,motif/well,concept/ambition,concept/democracy,concept/eugenics,concept/fear,concept/history,concept/nature,concept/pride,concept/slavery,concept/temptation,form/history,form/tragedy,histref/america,histref/puritanism,setting/america,setting/germany"></span>
 
 
 Similarly, I warmly respect Dr. Crespi for trying to free
@@ -16968,7 +16968,7 @@ Vi è stato un gran numero di cattivi cattolici che si potrebbero chiamare tiran
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_03" data-title="Well And Shallows — An Explanation (part 3)" data-chapter="An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_03" data-title="Well And Shallows — An Explanation (part 3)" data-chapter="An Explanation" data-kind="excerpt" data-tags="motif/dawn,motif/desire,motif/time,motif/well,concept/doubt,concept/faith,concept/history,concept/hope,concept/imagination,concept/paradox,form/history,form/lyric,histref/catholic_church,histref/puritanism,setting/germany"></span>
 
 
 The B.B.C., much to the credit of its own relatively sound
@@ -17113,7 +17113,7 @@ Quanto al sig. C. E. Douglas, il fiutatore di putridi paradossi, mi basta annota
 
 
 
-<span class="atom-split" data-atom="story_36_an_explanation--part_04" data-title="Well And Shallows — An Explanation (part 4)" data-chapter="An Explanation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_an_explanation--part_04" data-title="Well And Shallows — An Explanation (part 4)" data-chapter="An Explanation" data-kind="excerpt" data-tags="motif/crown,motif/well,concept/despair,concept/eugenics,concept/history,concept/paradox,concept/pride,concept/suffering,concept/truth,concept/wonder,form/history,histref/reformation,setting/germany,character/dwarf,character/henry_viii"></span>
 
 
 Now the real reason why I have taken the text of these two

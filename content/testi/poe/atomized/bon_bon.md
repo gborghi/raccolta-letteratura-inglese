@@ -765,7 +765,7 @@ lamp.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Bon-Bon (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Bon-Bon (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/pride,concept/self,concept/truth,concept/wonder,form/history"></span>
 
 
 Quand un bon vin meuble mon estomac,
@@ -880,7 +880,7 @@ of his favorite German studies.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Bon-Bon (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Bon-Bon (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/hero,motif/clock,motif/fire,motif/night,motif/soul,motif/water,motif/wind,motif/winter,concept/imagination,concept/sublime"></span>
 
 
 To enter the little _café_ in the _cul-de-sac_ Le Febre was, at the period of
@@ -977,7 +977,7 @@ stanchions of solid oak.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Bon-Bon (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Bon-Bon (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/humility,concept/nature,concept/poverty"></span>
 
 
 It was in no placid temper, I say, that the metaphysician drew up his
@@ -1091,7 +1091,7 @@ afford.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Bon-Bon (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Bon-Bon (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/hero,motif/fire,motif/home,motif/nature,motif/soul,motif/time,motif/well,concept/nature,concept/truth,character/chorus"></span>
 
 
 Actuated by these enlightened views, our [[Hero|hero]] bade the gentleman sit down,
@@ -1191,7 +1191,7 @@ know to what divine moral [[Truth|truth]] I am alluding?”
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Bon-Bon (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Bon-Bon (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/time,motif/well,concept/conscience,concept/truth,character/laertes"></span>
 
 
 “Cannot say that I—”
@@ -1356,7 +1356,7 @@ Livius was positively Polybius and none other.”
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Bon-Bon (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Bon-Bon (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,archetype/villain,motif/death,motif/soul,motif/time,motif/well,concept/body,form/epigram,character/cain"></span>
 
 
 “But if I have a penchant, Monsieur [[Bon-Bon]]—if I have a penchant, it

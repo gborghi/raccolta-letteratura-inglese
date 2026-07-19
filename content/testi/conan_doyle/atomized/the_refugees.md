@@ -3336,7 +3336,7 @@ This Gothic mystery and boxing novel features the eponymous narrator - a Sussex 
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE REFUGEES — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE REFUGEES — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,setting/court,setting/france,character/adele_catinat,character/amory_de_catinat,character/amos_green"></span>
 
 
 CHAPTER I.
@@ -3421,7 +3421,7 @@ The stranger said nothing, but he nodded, and throwing off his black coat, set t
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE REFUGEES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE REFUGEES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/canada,setting/court,setting/france"></span>
 
 
 CHAPTER II.
@@ -3567,7 +3567,7 @@ Louis sprang impatiently from his chair, and caught up his cane. “I wish,” s
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE REFUGEES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE REFUGEES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/canada,setting/court,setting/france"></span>
 
 
 CHAPTER III.
@@ -3673,7 +3673,7 @@ The monarch slipped it into the pocket of his scarlet undervest, and was advanci
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE REFUGEES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE REFUGEES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/king,setting/court,setting/france"></span>
 
 
 CHAPTER IV.
@@ -3757,7 +3757,7 @@ By this time all the court was assembled in the Grand Salon, and the huge room w
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE REFUGEES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE REFUGEES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER V.
@@ -3861,7 +3861,7 @@ It was surrounded on every side by an immense crowd.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE REFUGEES — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE REFUGEES — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/hero,archetype/king,concept/honour,setting/canada,setting/court,setting/france,character/adele_catinat,character/amos_green"></span>
 
 
 CHAPTER VI.
@@ -4016,7 +4016,7 @@ De Catinat burst out laughing again. “By my faith, you will find Paris livelie
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE REFUGEES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE REFUGEES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER VII.
@@ -4135,7 +4135,7 @@ Throwing the bridle to his brother officer, and pressing the hand of Amos Green,
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE REFUGEES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE REFUGEES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/canada,setting/court,setting/france"></span>
 
 
 CHAPTER VIII.
@@ -4196,7 +4196,7 @@ De Catinat passed out through another door, and as he did so he glanced back. Th
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE REFUGEES — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE REFUGEES — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/court,setting/france"></span>
 
 
 CHAPTER IX.
@@ -4346,7 +4346,7 @@ The door had been flung open, and Madame de Montespan, beautiful and furious, wa
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE REFUGEES — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE REFUGEES — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/hero,archetype/king,concept/honour,setting/court,setting/france"></span>
 
 
 CHAPTER X.
@@ -4465,7 +4465,7 @@ She swept out with triumph in her eyes. It had been a terrible fight, but all th
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE REFUGEES — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE REFUGEES — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/court,setting/france"></span>
 
 
 CHAPTER XI.
@@ -4567,7 +4567,7 @@ And so their double oath was taken, an oath which was to be tested in the future
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE REFUGEES — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE REFUGEES — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,setting/court,setting/france"></span>
 
 
 CHAPTER XII.
@@ -4684,7 +4684,7 @@ But, oh, if he should take me at my word!”
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE REFUGEES — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE REFUGEES — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="archetype/king,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER XIII.
@@ -4744,7 +4744,7 @@ The king looked with interest at the powerful figure, the bold features, and the
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE REFUGEES — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE REFUGEES — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/king,setting/court"></span>
 
 
 CHAPTER XIV.
@@ -4819,7 +4819,7 @@ For hours after his departure she paced up and down with noiseless steps upon th
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="THE REFUGEES — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="THE REFUGEES — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER XV.
@@ -4918,7 +4918,7 @@ He cut his horse with his whip, and they galloped together round the curve. Next
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE REFUGEES — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="THE REFUGEES — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/court,character/amos_green"></span>
 
 
 CHAPTER XVI.
@@ -4956,7 +4956,7 @@ But now the road turned a sudden curve, and there, right in front of them, not a
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="THE REFUGEES — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="THE REFUGEES — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/king,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER XVII.
@@ -5028,7 +5028,7 @@ De Catinat sprang to his feet. “At the palace!” he screamed. “Then who gav
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="THE REFUGEES — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="THE REFUGEES — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/france,character/amos_green"></span>
 
 
 CHAPTER XVIII.
@@ -5141,7 +5141,7 @@ And at the cry and at the sight of that fair pale face, De Catinat, looking down
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="THE REFUGEES — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="THE REFUGEES — Chapter 19" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/king,concept/honour,setting/court,setting/france"></span>
 
 
 CHAPTER XIX.
@@ -5235,7 +5235,7 @@ But a sudden shadow had fallen across her, and a low voice was in her ear. “Re
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="THE REFUGEES — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="THE REFUGEES — Chapter 20" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/king,setting/court,setting/france"></span>
 
 
 CHAPTER XX.
@@ -5326,7 +5326,7 @@ All her rival’s bitterness and hatred rang in the tones of her answer. “You 
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="THE REFUGEES — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="THE REFUGEES — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="archetype/king,setting/court,setting/france"></span>
 
 
 CHAPTER XXI.
@@ -5414,7 +5414,7 @@ He opened his mouth again and laughed at his own device, while she, shivering in
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="THE REFUGEES — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="THE REFUGEES — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="archetype/king,setting/france,character/amory_de_catinat,character/amos_green"></span>
 
 
 CHAPTER XXII.
@@ -5478,7 +5478,7 @@ The advice was too good to be overlooked. De Catinat, beckoning to [[Amos Green]
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="THE REFUGEES — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="THE REFUGEES — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,setting/court,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXIII.
@@ -5617,7 +5617,7 @@ And so at last it was arranged. That very night, within five minutes of the clos
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="THE REFUGEES — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="THE REFUGEES — Chapter 24" data-chapter="Chapter 24" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/france,character/amos_green"></span>
 
 
 PART II.
@@ -5694,7 +5694,7 @@ The sergeant had swung round at the sound of the crash, but Amos Green, who had 
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="THE REFUGEES — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="THE REFUGEES — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXV.
@@ -5745,7 +5745,7 @@ So they stood and talked while the shadows deepened into twilight and the first 
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="THE REFUGEES — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="THE REFUGEES — Chapter 26" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/king,concept/honour,character/amos_green"></span>
 
 
 CHAPTER XXVI.
@@ -5822,7 +5822,7 @@ Without stopping to answer his commander’s reproaches, the mate headed for the
 
 
 
-<span class="atom-split" data-atom="chapter_27" data-title="THE REFUGEES — Chapter 27" data-chapter="Chapter 27" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27" data-title="THE REFUGEES — Chapter 27" data-chapter="Chapter 27" data-kind="chapter" data-tags="setting/canada,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXVII.
@@ -5860,7 +5860,7 @@ But the three did not wait an instant. Sliding and scrambling down the wet, slip
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="THE REFUGEES — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="THE REFUGEES — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/exile,setting/canada,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXVIII.
@@ -5919,7 +5919,7 @@ It held the New Englanders, who were being conveyed to the ship which was to tak
 
 
 
-<span class="atom-split" data-atom="chapter_29" data-title="THE REFUGEES — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29" data-title="THE REFUGEES — Chapter 29" data-chapter="Chapter 29" data-kind="chapter" data-tags="archetype/king,setting/canada,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXIX.
@@ -5999,7 +5999,7 @@ They shot over to the island and landed the friar, who said nothing, but cursed 
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="THE REFUGEES — Chapter 30" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="THE REFUGEES — Chapter 30" data-chapter="Chapter 30" data-kind="chapter" data-tags="archetype/king,motif/journey,setting/canada,setting/france,character/amos_green"></span>
 
 
 CHAPTER XXX.
@@ -6042,7 +6042,7 @@ In a very few minutes they were at the other side and had landed at the edge of 
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="THE REFUGEES — Chapter 31" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="THE REFUGEES — Chapter 31" data-chapter="Chapter 31" data-kind="chapter" data-tags="archetype/king,character/amos_green"></span>
 
 
 CHAPTER XXXI.
@@ -6113,7 +6113,7 @@ And so they left him, a grotesque and yet heroic figure, staggering along throug
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="THE REFUGEES — Chapter 32" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="THE REFUGEES — Chapter 32" data-chapter="Chapter 32" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/exile,concept/honour,setting/canada,setting/court,setting/france,character/amory_de_catinat,character/amos_green"></span>
 
 
 CHAPTER XXXII.
@@ -6180,7 +6180,7 @@ The manor-house was high and strong, built of gray stone in a framework of wood.
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="THE REFUGEES — Chapter 33" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="THE REFUGEES — Chapter 33" data-chapter="Chapter 33" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,setting/canada,setting/court,setting/france"></span>
 
 
 CHAPTER XXXIII.
@@ -6336,7 +6336,7 @@ Du Lhut advanced from the bushes as he spoke, and the four men crossed the open 
 
 
 
-<span class="atom-split" data-atom="chapter_34" data-title="THE REFUGEES — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34" data-title="THE REFUGEES — Chapter 34" data-chapter="Chapter 34" data-kind="chapter" data-tags="archetype/king,motif/journey,character/amos_green"></span>
 
 
 CHAPTER XXXIV.
@@ -6410,7 +6410,7 @@ In an instant Du Lhut had scraped together a little bundle of dry twigs, and had
 
 
 
-<span class="atom-split" data-atom="chapter_35" data-title="THE REFUGEES — Chapter 35" data-chapter="Chapter 35" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35" data-title="THE REFUGEES — Chapter 35" data-chapter="Chapter 35" data-kind="chapter" data-tags="archetype/king,motif/journey,concept/honour,character/amos_green"></span>
 
 
 CHAPTER XXXV.
@@ -6474,7 +6474,7 @@ De Catinat had already rushed to the window. Du Lhut, young Achille de la Noue, 
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="THE REFUGEES — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="THE REFUGEES — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="concept/honour,character/amos_green"></span>
 
 
 CHAPTER XXXVI.
@@ -6531,7 +6531,7 @@ The words were hardly out of his mouth when a shrill yell burst from the wood, a
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="THE REFUGEES — Chapter 37" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="THE REFUGEES — Chapter 37" data-chapter="Chapter 37" data-kind="chapter" data-tags="archetype/king,setting/canada,setting/france,character/amory_de_catinat,character/amos_green"></span>
 
 
 CHAPTER XXXVII.
@@ -6625,7 +6625,7 @@ The hot blood flushed to the soldier’s head, and picking up the axe, he took a
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="THE REFUGEES — Chapter 38" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="THE REFUGEES — Chapter 38" data-chapter="Chapter 38" data-kind="chapter" data-tags="setting/canada,character/amos_green"></span>
 
 
 CHAPTER XXXVIII.
@@ -6681,7 +6681,7 @@ The little group of survivors waited in breathless anxiety while the canoe sped 
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="THE REFUGEES — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="THE REFUGEES — Chapter 39" data-chapter="Chapter 39" data-kind="chapter" data-tags="archetype/hero,setting/france"></span>
 
 
 CHAPTER XXXIX.
@@ -6719,7 +6719,7 @@ The commandant of Fort St. Louis pressed his friend’s hand in silent sympathy.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="THE REFUGEES — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="THE REFUGEES — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/journey,character/amos_green"></span>
 
 
 CHAPTER XL.
@@ -6788,7 +6788,7 @@ The manor-house of Sainte Marie was soon restored to its former prosperity, but 
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="THE REFUGEES — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="THE REFUGEES — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/king,setting/court,setting/france"></span>
 
 
 NOTE ON THE HUGUENOTS AND THEIR DISPERSION.

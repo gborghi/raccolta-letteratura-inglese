@@ -167,7 +167,7 @@ They would not be citizens.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="leisure-state (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="leisure-state (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/river,motif/time,motif/well,concept/nature,concept/pride"></span>
 
 
 The Ideal of a Leisure State
@@ -245,7 +245,7 @@ pay too much for idleness?
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="leisure-state (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="leisure-state (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/machine,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/freedom,setting/london"></span>
 
 
 Many of the idealists can only conceive of an idle humanity as

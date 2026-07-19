@@ -18824,7 +18824,7 @@ because that nook is in a Church, and she was weak and erring.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Oliver Twist — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Oliver Twist — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/child,archetype/orphan,motif/blood,motif/fire,motif/lamb,motif/nature,motif/night,motif/rose,motif/time,concept/body,concept/doubt,concept/hope,concept/mortality,concept/nature,form/biography,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER I.
@@ -18949,7 +18949,7 @@ would have cried the louder.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Oliver Twist — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Oliver Twist — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/fire,motif/garden,motif/horse,motif/nature,motif/time,motif/well,motif/window,concept/body,concept/deception,concept/education,concept/humility,concept/nature,concept/self,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER II.
@@ -19054,7 +19054,7 @@ beadle.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Oliver Twist — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Oliver Twist — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/humility,concept/loneliness,concept/pride,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 “Do you think this respectful or proper conduct, Mrs. Mann,” inquired
@@ -19197,7 +19197,7 @@ the great wide world, sank into the [[Child|child]]’s heart for the first [[Ti
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Oliver Twist — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Oliver Twist — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,archetype/orphan,motif/clock,motif/night,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/hope,form/novel,character/oliver,character/oliver_twist"></span>
 
 
 Mr. Bumble walked on with long strides; little [[Oliver]], firmly grasping
@@ -19320,7 +19320,7 @@ in ecstasies.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Oliver Twist — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Oliver Twist — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/night,motif/rose,concept/fear,concept/wonder,character/oliver,character/oliver_twist"></span>
 
 
 The room in which the boys were fed, was a large stone hall, with a
@@ -19411,7 +19411,7 @@ or no.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Oliver Twist — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Oliver Twist — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/night,motif/prayer,motif/sleep,motif/time,motif/well,concept/humility,concept/loneliness,concept/mercy,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER III.
@@ -19523,7 +19523,7 @@ his wish.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Oliver Twist — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Oliver Twist — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/love,motif/sleep,motif/tears,motif/time,motif/water,motif/well,character/oliver,character/oliver_twist"></span>
 
 
 “Young boys have been smothered in chimneys before now,” said another
@@ -19654,7 +19654,7 @@ with the cocked hat, and said aloud:
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Oliver Twist — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Oliver Twist — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,character/oliver,character/oliver_twist"></span>
 
 
 “Now, [[Oliver]], my dear, come to the gentleman.” As Mr. Bumble said this,
@@ -19795,7 +19795,7 @@ take possession of him.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Oliver Twist — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Oliver Twist — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/well,concept/honour,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER IV.
@@ -19923,7 +19923,7 @@ wretches.”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Oliver Twist — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Oliver Twist — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/crown,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/suffering,character/mr_bumble,character/oliver,character/oliver_twist"></span>
 
 
 “So they are,” said the undertaker.
@@ -20053,7 +20053,7 @@ you have the goodness to come here a moment, my dear?”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Oliver Twist — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Oliver Twist — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/night,motif/sleep,motif/well,character/oliver,character/oliver_twist"></span>
 
 
 Mrs. Sowerberry emerged from a little room behind the shop, and
@@ -20114,7 +20114,7 @@ Come; don’t keep me here all [[Night|night]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Oliver Twist — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Oliver Twist — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/ghosts,motif/grave,motif/sleep,motif/time,motif/well,concept/charity,concept/doubt,setting/court,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER V.
@@ -20243,7 +20243,7 @@ you let the boy [[Alone|alone]]?”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Oliver Twist — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Oliver Twist — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/love,motif/nature,motif/night,motif/secrets,motif/soul,motif/time,motif/well,concept/charity,concept/melancholy,concept/nature,character/oliver,character/oliver_twist"></span>
 
 
 “Let him [[Alone|alone]]!” said Noah. “Why everybody lets him [[Alone|alone]] enough, for
@@ -20380,7 +20380,7 @@ it, sir!”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Oliver Twist — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Oliver Twist — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/decay,motif/fire,motif/prison,motif/road,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/body,character/oliver,character/oliver_twist"></span>
 
 
 As the atrocity presented itself to Mr. Bumble’s mind in full force, he
@@ -20500,7 +20500,7 @@ undertaker.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Oliver Twist — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Oliver Twist — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/grave,motif/home,motif/time,motif/water,motif/well,character/oliver,character/oliver_twist"></span>
 
 
 “She was my daughter,” said the old woman, nodding her head in the
@@ -20604,7 +20604,7 @@ seen and heard.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Oliver Twist — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Oliver Twist — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/blood,motif/crown,motif/dust,motif/fire,motif/home,motif/rose,motif/silence,motif/tears,motif/time,motif/water,motif/well,concept/charity,concept/freedom,concept/history,concept/hope,concept/jealousy,concept/mercy,concept/resignation,form/history,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER VI.
@@ -20808,7 +20808,7 @@ head, and a clasp-knife at his eye.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Oliver Twist — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Oliver Twist — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/nature,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/madness,concept/nature,concept/self,concept/suffering,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER VII.
@@ -20947,7 +20947,7 @@ the kitchen ceiling: “this comes of being liberal!”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Oliver Twist — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Oliver Twist — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/garden,motif/hill,motif/memory,motif/nature,motif/night,motif/pain,motif/prison,motif/road,motif/rose,motif/silence,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/fear,concept/hope,concept/nature,concept/pride,concept/self,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 The liberality of Mrs. Sowerberry to [[Oliver]], had consisted of a profuse
@@ -21097,7 +21097,7 @@ once forgot it.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Oliver Twist — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Oliver Twist — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,archetype/orphan,motif/city,motif/clock,motif/dust,motif/hill,motif/journey,motif/night,motif/noon,motif/road,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/hope,setting/london,character/bottom,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER VIII.
@@ -21204,7 +21204,7 @@ as he sat, with bleeding feet and covered with [[Dust|dust]], upon a door-step.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Oliver Twist — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Oliver Twist — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,motif/window,concept/courage,concept/honour,setting/london,character/artful_dodger,character/oliver,character/oliver_twist"></span>
 
 
 By degrees, the shutters were opened; the [[Window|window]]-blinds were drawn up;
@@ -21345,7 +21345,7 @@ decline the [[Honour|honour]] of his farther acquaintance.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Oliver Twist — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Oliver Twist — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/hill,motif/horse,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,concept/honour,setting/court,setting/london,character/bottom,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 As John Dawkins objected to their entering [[London]] before nightfall, it
@@ -21461,7 +21461,7 @@ sacks; and then he sunk into a deep [[Sleep|sleep]].
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Oliver Twist — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Oliver Twist — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/nature,motif/sleep,motif/time,motif/water,motif/well,concept/nature,concept/self,form/inscription,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER IX.
@@ -21588,7 +21588,7 @@ and I’ll give you a basin to wash in, my dear.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Oliver Twist — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Oliver Twist — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/home,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/wonder,character/bottom,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 [[Oliver]] got up; walked across the room; and stooped for an instant to
@@ -21745,7 +21745,7 @@ the table, and was soon deeply involved in his new study.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="Oliver Twist — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="Oliver Twist — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/desert,motif/dust,motif/fire,motif/home,motif/leaves,motif/nature,motif/night,motif/road,motif/time,motif/wind,concept/history,concept/mercy,concept/nature,concept/self,form/history,setting/court,setting/desert,character/bottom,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER X.
@@ -21954,7 +21954,7 @@ triumph; and on they went.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Oliver Twist — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Oliver Twist — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/grave,motif/hill,motif/home,motif/night,motif/soul,motif/time,concept/beauty,concept/imagination,setting/court,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XI.
@@ -22081,7 +22081,7 @@ who would afford him the required information.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Oliver Twist — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Oliver Twist — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,motif/prayer,motif/water,motif/well,concept/fear,concept/hope,concept/humility,character/oliver,character/oliver_twist"></span>
 
 
 “Officer!” said Mr. Fang, throwing the paper on one side, “what’s this
@@ -22241,7 +22241,7 @@ down. Mr. Fang, you must hear me. You must not refuse, sir.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Oliver Twist — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Oliver Twist — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/soul,motif/time,motif/water,character/oliver,character/oliver_twist"></span>
 
 
 The man was right. His manner was determined; and the matter was
@@ -22315,7 +22315,7 @@ The book-stall keeper got into the coach; and away they drove.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Oliver Twist — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Oliver Twist — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/night,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/tears,motif/time,concept/body,concept/truth,setting/london,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XII.
@@ -22454,7 +22454,7 @@ prayed to Heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Oliver Twist — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Oliver Twist — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/machine,motif/pain,motif/sleep,motif/tears,motif/time,motif/well,motif/wheel,concept/hope,concept/suffering,concept/truth,character/oliver,character/oliver_twist"></span>
 
 
 Gradually, he fell into that deep tranquil [[Sleep|sleep]] which ease from recent
@@ -22584,7 +22584,7 @@ Tom White, eh?”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Oliver Twist — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Oliver Twist — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/road,motif/well,concept/doubt,concept/freedom,concept/hope,concept/imagination,concept/nature,concept/truth,setting/court,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 “My name is [[Oliver]], sir,” replied the little invalid with a look of
@@ -22741,7 +22741,7 @@ behind them.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Oliver Twist — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Oliver Twist — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/poison,motif/river,motif/time,motif/water,motif/well,motif/wind,concept/history,concept/humility,concept/truth,concept/wonder,form/history,character/bill_sikes,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XIII.
@@ -22873,7 +22873,7 @@ under the circumstances.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Oliver Twist — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Oliver Twist — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/pain,motif/tears,concept/fear,concept/honour,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 “I’m afraid,” said the Jew, “that he may say something which will get
@@ -23018,7 +23018,7 @@ listened again. Still there was no reply: so she spoke.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Oliver Twist — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Oliver Twist — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/double,motif/home,motif/prison,motif/time,motif/well,concept/doubt,concept/fear,character/bill_sikes,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 “Nolly, dear?” murmured [[Nancy]] in a gentle voice; “Nolly?”
@@ -23118,7 +23118,7 @@ yet.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Oliver Twist — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Oliver Twist — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/history,concept/hope,concept/truth,form/history,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XIV.
@@ -23233,7 +23233,7 @@ some large quartos, with a good deal of gilding about the binding.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Oliver Twist — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Oliver Twist — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/orphan,motif/death,motif/love,motif/pain,motif/time,motif/well,concept/hope,concept/mercy,concept/truth,character/bottom,character/oliver,character/oliver_twist"></span>
 
 
 “Not always those,” said the old gentleman, patting [[Oliver]] on the head,
@@ -23357,7 +23357,7 @@ thick coating of powder.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Oliver Twist — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Oliver Twist — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/garden,motif/night,motif/time,motif/well,motif/window,concept/body,concept/history,concept/hope,concept/mercy,concept/truth,form/history,character/oliver,character/oliver_twist"></span>
 
 
 “I’ll eat my head, sir,” repeated Mr. Grimwig, striking his stick upon
@@ -23494,7 +23494,7 @@ the table also.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Oliver Twist — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Oliver Twist — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/silence,motif/time,concept/history,concept/hope,concept/pride,form/history,character/oliver,character/oliver_twist"></span>
 
 
 As fate would have it, Mrs. Bedwin chanced to bring in, at this moment,
@@ -23594,7 +23594,7 @@ discernible; but there the two old gentlemen continued to sit, in
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Oliver Twist — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Oliver Twist — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/hill,motif/silence,motif/summer,motif/time,motif/well,motif/winter,concept/doubt,concept/revenge,character/bill_sikes,character/fagin,character/nancy,character/oliver_twist"></span>
 
 
 CHAPTER XV.
@@ -23731,7 +23731,7 @@ good to him.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Oliver Twist — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Oliver Twist — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,archetype/villain,motif/home,motif/time,motif/window,concept/honour,concept/truth,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 “Is anybody here, Barney?” inquired [[Fagin]]; speaking, now that
@@ -23890,7 +23890,7 @@ perseveringly, in the dark parlour, with the watch between them.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Oliver Twist — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Oliver Twist — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/snow,motif/time,motif/well,motif/window,concept/jealousy,concept/wonder,character/artful_dodger,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XVI.
@@ -24031,7 +24031,7 @@ stick.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Oliver Twist — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Oliver Twist — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/time,motif/well,concept/fear,concept/humility,concept/mercy,character/bill_sikes,character/fagin,character/nancy,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
 The young gentleman did not stop to bestow any other mark of
@@ -24161,7 +24161,7 @@ don’t keep off.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Oliver Twist — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Oliver Twist — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/blood,motif/fire,motif/home,motif/night,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/pride,concept/revenge,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 The housebreaker flung the girl from him to the further end of the
@@ -24337,7 +24337,7 @@ asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Oliver Twist — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Oliver Twist — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/garden,motif/journey,motif/leaves,motif/time,motif/well,concept/body,concept/pride,setting/castle,setting/london,character/chorus,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XVII.
@@ -24462,7 +24462,7 @@ Mann appeared quite awed by them. At length she said,
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Oliver Twist — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Oliver Twist — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/grave,motif/journey,motif/love,motif/night,motif/road,motif/time,motif/water,motif/well,concept/body,concept/hope,setting/london,character/oliver,character/oliver_twist"></span>
 
 
 “You’re going by coach, sir? I thought it was always usual to send them
@@ -24607,7 +24607,7 @@ discontent and complaining, composed himself to read the paper.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Oliver Twist — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Oliver Twist — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/fire,motif/home,motif/night,motif/silence,motif/tears,motif/time,motif/water,motif/well,concept/fear,concept/history,form/history,character/oliver,character/oliver_twist"></span>
 
 
 The very first paragraph upon which Mr. Bumble’s eye rested, was the
@@ -24774,7 +24774,7 @@ might have broken outright.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Oliver Twist — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Oliver Twist — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/crown,motif/desire,motif/dust,motif/nature,motif/noon,motif/tears,motif/time,motif/window,concept/history,concept/melancholy,concept/nature,form/history,setting/cathedral,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XVIII.
@@ -24887,7 +24887,7 @@ rendered into plain English, signifieth, cleaning his boots.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Oliver Twist — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Oliver Twist — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/silence,motif/tears,motif/time,motif/well,concept/fear,concept/freedom,concept/nature,concept/pride,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 Whether it was the sense of [[Freedom|freedom]] and independence which a rational
@@ -25024,7 +25024,7 @@ the trade long before you think of it; and you’re only losing [[Time|time]],
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Oliver Twist — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Oliver Twist — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/home,motif/poison,motif/soul,motif/time,concept/solitude,concept/truth,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 Master Bates backed this advice with sundry moral admonitions of his
@@ -25129,7 +25129,7 @@ blacken it, and change its hue for ever.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Oliver Twist — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Oliver Twist — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/grave,motif/nature,motif/night,motif/road,motif/rose,motif/well,concept/body,concept/doubt,concept/nature,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XIX.
@@ -25266,7 +25266,7 @@ a rapture of anticipation.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Oliver Twist — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Oliver Twist — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/garden,motif/night,motif/silence,motif/time,concept/providence,character/fagin,character/nancy,character/oliver_twist"></span>
 
 
 “Not at all,” replied Sikes coldly.
@@ -25423,7 +25423,7 @@ resumed his seat: as did Mr. Sikes likewise.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Oliver Twist — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Oliver Twist — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/death,motif/dust,motif/garden,motif/moon,motif/nature,motif/night,motif/prison,motif/sleep,motif/time,motif/well,concept/nature,concept/self,character/fagin,character/nancy,character/oliver,character/oliver_twist"></span>
 
 
 “Now, [[Fagin]],” said [[Nancy]] with a laugh. “Tell Bill at once, about
@@ -25577,7 +25577,7 @@ world has not had [[Time|time]] to breathe upon the changing [[Dust|dust]] it ha
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Oliver Twist — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Oliver Twist — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/leaves,motif/love,motif/night,motif/prayer,motif/time,motif/well,concept/fear,concept/guilt,concept/history,concept/suffering,concept/truth,form/history,character/bill_sikes,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XX.
@@ -25698,7 +25698,7 @@ standing by the door. “Who’s there?”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Oliver Twist — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Oliver Twist — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/horse,motif/lamb,motif/time,motif/well,concept/truth,character/nancy,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 “Me. Only me,” replied a tremulous voice.
@@ -25845,7 +25845,7 @@ himself down by the table, and stood the boy in front of him.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Oliver Twist — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Oliver Twist — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/fire,motif/time,motif/water,motif/well,motif/window,concept/hope,character/nancy,character/oliver,character/oliver_twist,character/pistol"></span>
 
 
 “Now, first: do you know wot this is?” inquired Sikes, taking up a
@@ -25946,7 +25946,7 @@ front of the [[Fire|fire]], and sat, perfectly motionless before it.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Oliver Twist — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Oliver Twist — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/clock,motif/crown,motif/journey,motif/night,motif/road,motif/time,motif/water,motif/well,setting/london,character/oliver,character/oliver_twist,character/pistol"></span>
 
 
 CHAPTER XXI.
@@ -26065,7 +26065,7 @@ manner.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Oliver Twist — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Oliver Twist — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/horse,motif/journey,motif/leaves,motif/night,motif/river,motif/road,motif/rose,motif/time,motif/water,motif/wind,motif/window,concept/fear,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 “Good-bye, boy,” said the man.
@@ -26204,7 +26204,7 @@ passed in together.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Oliver Twist — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Oliver Twist — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/hill,motif/rose,motif/sleep,motif/swallow,motif/time,concept/body,concept/honour,concept/wonder,character/bill_sikes,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXII.
@@ -26337,7 +26337,7 @@ hastily crammed into the pockets.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Oliver Twist — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Oliver Twist — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/mercy,setting/london,character/fagin,character/oliver,character/oliver_twist,character/pistol"></span>
 
 
 “Barkers for me, Barney,” said Toby Crackit.
@@ -26520,7 +26520,7 @@ and he saw or heard no more.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Oliver Twist — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Oliver Twist — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/villain,motif/fire,motif/home,motif/night,motif/snow,motif/water,motif/well,motif/wind,character/oliver_twist"></span>
 
 
 CHAPTER XXIII.
@@ -26644,7 +26644,7 @@ says the vagrant. ‘Oh no, you won’t,’ says our overseer.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Oliver Twist — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Oliver Twist — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/animals,motif/fire,motif/home,motif/night,motif/rose,motif/secrets,motif/silence,motif/time,motif/well,concept/doubt,concept/heroism,character/oliver_twist"></span>
 
 
 “Ha! ha! That was very good! So like Mr. Grannett, wasn’t it?”
@@ -26775,7 +26775,7 @@ to that in which the matron was seated.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Oliver Twist — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Oliver Twist — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/well,concept/doubt,concept/fear,character/oliver_twist"></span>
 
 
 Indeed, the two chairs touched; and when they did so, Mr. Bumble
@@ -26851,7 +26851,7 @@ inventory of the furniture.
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Oliver Twist — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Oliver Twist — Chapter 24" data-chapter="Chapter 24" data-kind="chapter" data-tags="archetype/child,archetype/crone,archetype/fool,motif/blood,motif/childhood,motif/death,motif/dust,motif/fire,motif/lamb,motif/nature,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,concept/beauty,concept/body,concept/grotesque,concept/history,concept/mercy,concept/nature,form/history,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXIV.
@@ -27095,7 +27095,7 @@ preparations for their dreadful duties to make any reply, were left
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Oliver Twist — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Oliver Twist — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/chalk,motif/crown,motif/fire,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/water,concept/history,concept/nature,form/history,character/artful_dodger,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXV.
@@ -27217,7 +27217,7 @@ and you will make your fortune.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Oliver Twist — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Oliver Twist — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/soul,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/self,character/fagin,character/oliver_twist"></span>
 
 
 “So I _do_ do as she bids me,” replied Mr. Chitling; “I shouldn’t have
@@ -27375,7 +27375,7 @@ his hands in his hair, rushed from the room, and from the [[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Oliver Twist — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Oliver Twist — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/grave,motif/hill,motif/snow,motif/time,motif/well,concept/doubt,concept/history,concept/hope,form/history,setting/court,character/fagin,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER XXVI.
@@ -27500,7 +27500,7 @@ duet, and sang it, with great applause.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Oliver Twist — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Oliver Twist — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/silence,motif/time,motif/water,concept/hope,character/fagin,character/monks,character/oliver_twist"></span>
 
 
 It was curious to observe some faces which stood out prominently from
@@ -27631,7 +27631,7 @@ and all of you.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Oliver Twist — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Oliver Twist — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dust,motif/home,motif/leaves,motif/night,motif/road,motif/silence,motif/tears,motif/time,motif/well,motif/wind,concept/hope,concept/temptation,character/fagin,character/nancy,character/oliver_twist"></span>
 
 
 “Pooh!” said the Jew, scornfully. “You’re drunk.”
@@ -27762,7 +27762,7 @@ the [[Wind|wind]] blew through him.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Oliver Twist — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Oliver Twist — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/death,motif/fire,motif/grave,motif/home,motif/night,motif/silence,motif/time,motif/well,motif/wind,concept/body,concept/imagination,character/fagin,character/monks,character/oliver_twist"></span>
 
 
 [[Fagin]] looked as if he could have willingly excused himself from taking
@@ -27919,7 +27919,7 @@ past one o’[[Clock|clock]]. And so the amiable couple parted.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Oliver Twist — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Oliver Twist — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/grave,motif/horse,motif/time,motif/well,setting/court,character/bottom,character/oliver_twist"></span>
 
 
 CHAPTER XXVII.
@@ -28044,7 +28044,7 @@ closer. “Are you a weak creetur, Mrs. Corney?”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Oliver Twist — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Oliver Twist — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/swallow,motif/time,motif/wind,motif/window,concept/beauty,concept/courage,character/oliver_twist"></span>
 
 
 “We are all weak creeturs,” said Mrs. Corney, laying down a general
@@ -28193,7 +28193,7 @@ could have sufficiently accounted.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Oliver Twist — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Oliver Twist — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/home,motif/love,motif/road,motif/silence,concept/suffering,character/oliver_twist"></span>
 
 
 “Here’s a delicious fat one, Noah, dear!” said Charlotte; “try him, do;
@@ -28258,7 +28258,7 @@ he be still lying in the ditch where Toby Crackit left him.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Oliver Twist — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Oliver Twist — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/blood,motif/home,motif/nature,motif/stars,motif/time,motif/well,motif/wind,concept/body,concept/doubt,concept/nature,concept/truth,concept/wonder,character/oliver,character/oliver_twist,character/pistol,character/speed"></span>
 
 
 CHAPTER XXVIII.
@@ -28404,7 +28404,7 @@ promising young boy still, though he was something past thirty.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Oliver Twist — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Oliver Twist — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/garden,motif/home,motif/night,motif/pain,motif/road,motif/rose,motif/time,motif/water,motif/wind,concept/fear,concept/mercy,character/oliver,character/oliver_twist"></span>
 
 
 Encouraging each other with such converse as this; but, keeping very
@@ -28517,7 +28517,7 @@ to imitate bed-clothes,) I fancied I heerd a noise.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Oliver Twist — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Oliver Twist — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/pride,character/oliver,character/oliver_twist,character/pistol,character/speed"></span>
 
 
 At this point of the narrative the cook turned pale, and asked the
@@ -28692,7 +28692,7 @@ solicitude of a woman.
 
 
 
-<span class="atom-split" data-atom="chapter_29" data-title="Oliver Twist — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29" data-title="Oliver Twist — Chapter 29" data-chapter="Chapter 29" data-kind="chapter" data-tags="archetype/shadow,motif/garden,motif/home,motif/night,motif/noon,motif/rose,motif/silence,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXIX.
@@ -28869,7 +28869,7 @@ postponed it. He is perfectly quiet and comfortable now. Allow me—Miss
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Oliver Twist — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Oliver Twist — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/home,motif/love,motif/memory,motif/pain,motif/prison,motif/rose,motif/silence,motif/sleep,motif/tears,motif/water,motif/well,concept/guilt,concept/hope,concept/mercy,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXX.
@@ -29001,7 +29001,7 @@ all events.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Oliver Twist — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Oliver Twist — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/desert,motif/night,motif/pain,motif/rose,motif/window,concept/history,concept/hope,concept/identity,concept/imagination,concept/pride,concept/suffering,concept/wonder,form/history,setting/desert,character/oliver,character/oliver_twist"></span>
 
 
 “Oh no, aunt!” entreated [[Rose]].
@@ -29160,7 +29160,7 @@ all,” said the doctor, walking away.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Oliver Twist — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Oliver Twist — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/night,motif/rose,motif/time,motif/window,concept/doubt,concept/history,form/history,character/oliver_twist"></span>
 
 
 CHAPTER XXXI.
@@ -29295,7 +29295,7 @@ story is a very doubtful one.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Oliver Twist — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Oliver Twist — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/cross,motif/home,motif/memory,motif/rose,motif/time,motif/well,motif/window,form/novel,setting/london,character/bottom,character/oliver_twist"></span>
 
 
 “You believe it, surely?” interrupted [[Rose]].
@@ -29436,7 +29436,7 @@ upon,” said Blathers. “This here Conkey Chickweed—”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Oliver Twist — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Oliver Twist — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/clock,motif/night,motif/spring,motif/time,motif/window,concept/fear,character/oliver,character/oliver_twist"></span>
 
 
 “Of course the lady knows that, don’t she?” demanded Mr. Blathers.
@@ -29540,7 +29540,7 @@ ludicrous mixture of [[Fear|fear]] and perplexity.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Oliver Twist — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Oliver Twist — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/orphan,motif/death,motif/love,motif/night,motif/rose,motif/well,concept/fear,concept/imprisonment,character/oliver,character/oliver_twist,character/pistol"></span>
 
 
 “You don’t mean to deny that, I suppose?” said the doctor, laying
@@ -29641,7 +29641,7 @@ peace and happiness.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Oliver Twist — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Oliver Twist — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/flowers,motif/journey,motif/love,motif/pain,motif/rose,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/charity,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXXII.
@@ -29778,7 +29778,7 @@ danced upon the ground, as if wild with rage.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Oliver Twist — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Oliver Twist — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/leaves,motif/nature,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/truth,setting/london,character/fagin,character/oliver,character/oliver_twist"></span>
 
 
 “Stupid enough, this,” muttered the doctor to himself; “the boy must
@@ -29906,7 +29906,7 @@ they departed to a cottage at some distance in the country, and took
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Oliver Twist — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Oliver Twist — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/death,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/pain,motif/prayer,motif/prison,motif/rose,motif/soul,motif/time,motif/water,motif/window,concept/charity,concept/fear,concept/nature,concept/pride,concept/wonder,histref/bible,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
 Who can describe the pleasure and delight, the peace of mind and soft
@@ -30020,7 +30020,7 @@ to, himself.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Oliver Twist — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Oliver Twist — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/home,motif/love,motif/moon,motif/night,motif/pain,motif/rose,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/fear,concept/hope,concept/suffering,concept/truth,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXXIII.
@@ -30145,7 +30145,7 @@ happy; she will not die. Heaven will never let her die so young.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Oliver Twist — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Oliver Twist — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/dust,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/rose,motif/time,motif/well,concept/courage,concept/hope,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 “Hush!” said Mrs. Maylie, laying her hand on [[Oliver]]’s head. “You think
@@ -30263,7 +30263,7 @@ on your heart, you imp! What are you doing here?”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Oliver Twist — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Oliver Twist — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/death,motif/garden,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/soul,motif/summer,motif/tears,motif/time,motif/window,motif/winter,concept/beauty,concept/fear,concept/freedom,concept/hope,concept/nature,concept/self,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 The man shook his fist, as he uttered these words incoherently. He
@@ -30393,7 +30393,7 @@ extended to receive her.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Oliver Twist — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Oliver Twist — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/flowers,motif/grave,motif/night,motif/road,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/fear,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER XXXIV.
@@ -30520,7 +30520,7 @@ import.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Oliver Twist — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Oliver Twist — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/pain,motif/rose,motif/soul,motif/well,motif/wind,concept/history,concept/hope,concept/nature,concept/self,concept/wonder,form/history,character/oliver,character/oliver_twist"></span>
 
 
 “And who can [[Wonder|wonder]] if it be so, mother?” rejoined the young man; “or
@@ -30654,7 +30654,7 @@ of patronage; “and sends his respectful duty, sir.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Oliver Twist — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Oliver Twist — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/garden,motif/home,motif/leaves,motif/nature,motif/rose,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/doubt,concept/hope,concept/humility,concept/melancholy,concept/nature,concept/wonder,character/oliver,character/oliver_twist"></span>
 
 
 “That’s [[Well|well]],” said the doctor. “Seeing you here, reminds me, Mr.
@@ -30758,7 +30758,7 @@ that gradually and by slow degrees, he fell asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Oliver Twist — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Oliver Twist — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/blood,motif/garden,motif/ghosts,motif/grave,motif/memory,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/fear,concept/imagination,character/oliver,character/oliver_twist"></span>
 
 
 There is a kind of [[Sleep|sleep]] that steals upon us sometimes, which, while it
@@ -30820,7 +30820,7 @@ for help.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Oliver Twist — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Oliver Twist — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/garden,motif/hill,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/history,concept/hope,concept/nature,concept/wonder,form/history,character/oliver,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER XXXV.
@@ -30945,7 +30945,7 @@ speak with her for a few moments.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Oliver Twist — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Oliver Twist — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/nature,character/oliver_twist"></span>
 
 
 “A few—a very few—will suffice, [[Rose]],” said the young man, drawing his
@@ -31066,7 +31066,7 @@ conceal that from me, at least, [[Rose]].”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Oliver Twist — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Oliver Twist — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/rose,motif/tears,motif/time,motif/well,concept/honour,concept/hope,concept/melancholy,concept/truth,character/oliver_twist"></span>
 
 
 “I could,” said [[Rose]]. “Stay!” she added, disengaging her hand, “why
@@ -31149,7 +31149,7 @@ room.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="Oliver Twist — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="Oliver Twist — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="motif/dust,motif/garden,motif/home,motif/night,motif/noon,motif/road,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/honour,concept/hope,setting/london,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER XXXVI.
@@ -31275,7 +31275,7 @@ the same direction, seemed to tell more of sorrow than of joy.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Oliver Twist — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Oliver Twist — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/shadow,motif/insects,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/melancholy,character/oliver_twist"></span>
 
 
 CHAPTER XXXVII.
@@ -31409,7 +31409,7 @@ much ease and waggishness depicted in his whole appearance.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Oliver Twist — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Oliver Twist — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/fool,motif/pain,motif/rose,motif/tears,motif/time,motif/well,concept/humility,character/oliver_twist"></span>
 
 
 Now, Mrs. Corney that was, had tried the [[Tears|tears]], because they were less
@@ -31538,7 +31538,7 @@ street.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Oliver Twist — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Oliver Twist — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/grave,motif/memory,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/body,concept/doubt,setting/london,character/oliver,character/oliver_twist"></span>
 
 
 The man who was seated there, was tall and dark, and wore a large
@@ -31681,7 +31681,7 @@ anyway.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Oliver Twist — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Oliver Twist — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/death,motif/night,motif/rose,motif/time,motif/water,motif/well,motif/winter,character/monks,character/nurse,character/oliver_twist"></span>
 
 
 “What do you mean?” demanded the stranger, sternly.
@@ -31746,7 +31746,7 @@ paper. “What name am I to ask for?”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Oliver Twist — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Oliver Twist — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/river,motif/secrets,motif/ship,motif/silence,motif/storm,motif/summer,motif/water,setting/ship,character/dwarf,character/monks,character/oliver_twist,character/speed"></span>
 
 
 CHAPTER XXXVIII.
@@ -31878,7 +31878,7 @@ understand, mistress?”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Oliver Twist — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Oliver Twist — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/lightning,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/melancholy,concept/nature,character/monks,character/oliver_twist"></span>
 
 
 Bestowing something half-way between a smile and a frown upon his two
@@ -32021,7 +32021,7 @@ hear your story.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Oliver Twist — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Oliver Twist — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/night,motif/silence,motif/soul,motif/time,motif/water,concept/body,concept/courage,concept/fear,concept/hope,character/monks,character/nurse,character/oliver_twist"></span>
 
 
 The thunder, which seemed in fact much nearer, and to shiver and break
@@ -32162,7 +32162,7 @@ to stem its headlong course.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Oliver Twist — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Oliver Twist — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/shadow,motif/river,motif/silence,motif/water,motif/well,concept/body,character/monks,character/oliver_twist"></span>
 
 
 “If you flung a man’s [[Body|body]] down there, where would it be tomorrow
@@ -32225,7 +32225,7 @@ returned to the chamber he had just quitted.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Oliver Twist — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Oliver Twist — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/time,motif/water,motif/well,motif/window,concept/poverty,character/artful_dodger,character/fagin,character/monks,character/nancy,character/oliver_twist"></span>
 
 
 CHAPTER XXXIX.
@@ -32351,7 +32351,7 @@ astonishment at their unlooked-for appearance.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Oliver Twist — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Oliver Twist — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="topos/double,motif/home,motif/sleep,motif/time,motif/water,motif/well,motif/wind,concept/honour,setting/london,character/fagin,character/nancy,character/oliver_twist"></span>
 
 
 “Why, what evil [[Wind|wind]] has blowed you here?” he asked [[Fagin]].
@@ -32487,7 +32487,7 @@ young lady’s return.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Oliver Twist — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Oliver Twist — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/lightning,motif/sleep,motif/time,concept/doubt,character/fagin,character/monks,character/nancy,character/oliver_twist"></span>
 
 
 In due course, they arrived at [[Fagin]]’s abode, where they found Toby
@@ -32616,7 +32616,7 @@ companion to the second story.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Oliver Twist — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Oliver Twist — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,concept/body,character/bottom,character/fagin,character/monks,character/nancy,character/oliver_twist"></span>
 
 
 Before the sound of their footsteps had ceased to echo through the
@@ -32750,7 +32750,7 @@ profound trance.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="Oliver Twist — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="Oliver Twist — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/rose,motif/time,setting/london,character/nancy,character/oliver_twist,character/speed"></span>
 
 
 “The laudanum has taken effect at last,” murmured the girl, as she [[Rose|rose]]
@@ -32885,7 +32885,7 @@ lighted by a lamp from the ceiling. Here he left her, and retired.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Oliver Twist — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Oliver Twist — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/nature,motif/night,motif/river,motif/rose,motif/tears,motif/time,motif/well,concept/hope,concept/identity,concept/nature,concept/poverty,concept/pride,concept/self,setting/london,character/bottom,character/fagin,character/monks,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 CHAPTER XL.
@@ -33024,7 +33024,7 @@ of him besides.”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Oliver Twist — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Oliver Twist — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/death,motif/home,motif/love,motif/night,motif/rose,motif/tears,motif/time,concept/history,concept/hope,concept/madness,concept/pride,concept/suffering,concept/truth,form/history,setting/london,character/fagin,character/monks,character/nancy,character/nurse,character/oliver,character/oliver_twist,character/rose_maylie,character/sunday"></span>
 
 
 “What is all this!” said [[Rose]].
@@ -33182,7 +33182,7 @@ into a chair, and endeavoured to collect her wandering thoughts.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Oliver Twist — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Oliver Twist — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/love,motif/night,motif/rose,motif/tears,motif/time,motif/well,concept/body,concept/history,concept/hope,concept/truth,form/history,setting/london,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 CHAPTER XLI.
@@ -33298,7 +33298,7 @@ gentleman to the one who had spoken.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Oliver Twist — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Oliver Twist — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/rose,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,concept/wonder,character/nancy,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 “That is my name,” said the old gentleman. “This is my friend, Mr.
@@ -33434,7 +33434,7 @@ testily.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Oliver Twist — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Oliver Twist — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/home,motif/night,motif/prison,motif/rose,motif/soul,motif/time,motif/well,concept/doubt,concept/history,form/history,character/bottom,character/monks,character/nancy,character/nurse,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
 “I could have told you that,” rejoined Mr. Brownlow; “but put on your
@@ -33560,7 +33560,7 @@ quiet, and keep these matters secret even from [[Oliver]] himself.”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_04" data-title="Oliver Twist — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_04" data-title="Oliver Twist — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/rose,motif/time,concept/hope,character/oliver,character/oliver_twist"></span>
 
 
 Although Mr. Losberne received with many wry faces a proposal involving
@@ -33616,7 +33616,7 @@ and the council was, for the present, effectually broken up.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Oliver Twist — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Oliver Twist — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/night,motif/road,motif/rose,motif/sleep,motif/stars,motif/well,concept/history,concept/hope,concept/self,form/history,setting/london,character/nancy,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 CHAPTER XLII.
@@ -33753,7 +33753,7 @@ his intention of putting up there, for the [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Oliver Twist — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Oliver Twist — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/cross,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/charity,character/fagin,character/oliver_twist"></span>
 
 
 “So give us the bundle,” said Noah, unstrapping it from the woman’s
@@ -33887,7 +33887,7 @@ rubbing his hands. “From the country, I see, sir?”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Oliver Twist — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Oliver Twist — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/dust,motif/time,motif/well,concept/body,concept/fear,concept/truth,setting/london,character/fagin,character/oliver_twist"></span>
 
 
 “How do yer see that?” asked Noah Claypole.
@@ -34039,7 +34039,7 @@ very much.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_04" data-title="Oliver Twist — Chapter 42 (part 4)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_04" data-title="Oliver Twist — Chapter 42 (part 4)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/time,motif/well,concept/grotesque,concept/hope,concept/truth,setting/london,character/fagin,character/oliver_twist"></span>
 
 
 “Why, I did mention that, and I shouldn’t mind turning my hand to it
@@ -34115,7 +34115,7 @@ the kinchin lay, in [[London]] and its vicinity.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Oliver Twist — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Oliver Twist — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/hope,concept/nature,concept/truth,character/artful_dodger,character/fagin,character/oliver_twist"></span>
 
 
 CHAPTER XLIII.
@@ -34258,7 +34258,7 @@ twisted into a look of semi-comical woe.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Oliver Twist — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Oliver Twist — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/soul,motif/time,motif/well,concept/honour,concept/pride,setting/court,setting/london,character/artful_dodger,character/fagin,character/oliver_twist"></span>
 
 
 “It’s all up, [[Fagin]],” said Charley, when he and his new companion had
@@ -34402,7 +34402,7 @@ he could be supposed likely to resort of his own free will.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Oliver Twist — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Oliver Twist — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/garden,motif/home,motif/silence,motif/time,motif/well,concept/fear,concept/poverty,character/artful_dodger,character/fagin,character/oliver_twist"></span>
 
 
 Persuaded, in part, by these representations, but overborne in a much
@@ -34523,7 +34523,7 @@ see ’em.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Oliver Twist — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Oliver Twist — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/prison,motif/time,concept/mercy,concept/self,setting/court,character/fagin,character/oliver_twist"></span>
 
 
 This wish was immediately gratified, for a policeman stepped forward
@@ -34596,7 +34596,7 @@ establishing for himself a glorious reputation.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Oliver Twist — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Oliver Twist — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/time,motif/well,concept/guilt,concept/wonder,character/fagin,character/nancy,character/oliver_twist,character/rose_maylie,character/sunday"></span>
 
 
 CHAPTER XLIV.
@@ -34734,7 +34734,7 @@ Wot has come over you, you jade! Wot is it?”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Oliver Twist — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Oliver Twist — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/clock,motif/home,motif/night,motif/poison,motif/time,motif/well,concept/fear,concept/history,concept/revenge,form/history,character/fagin,character/nancy,character/oliver_twist"></span>
 
 
 “Let me go,” said the girl with great earnestness; then sitting herself
@@ -34896,7 +34896,7 @@ crushed with every motion of his fingers.
 
 
 
-<span class="atom-split" data-atom="chapter_45" data-title="Oliver Twist — Chapter 45" data-chapter="Chapter 45" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_45" data-title="Oliver Twist — Chapter 45" data-chapter="Chapter 45" data-kind="chapter" data-tags="motif/clock,motif/home,motif/night,motif/time,motif/well,concept/courage,concept/fear,setting/london,character/bottom,character/fagin,character/oliver_twist,character/sunday"></span>
 
 
 CHAPTER XLV.
@@ -35071,7 +35071,7 @@ distance between them, and followed: with his eye upon her.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Oliver Twist — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Oliver Twist — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="topos/quest,archetype/child,archetype/shadow,motif/city,motif/death,motif/night,motif/river,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,setting/london,character/nancy,character/oliver_twist"></span>
 
 
 CHAPTER XLVI.
@@ -35182,7 +35182,7 @@ you see I am willing to [[Humour|humour]] you.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Oliver Twist — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Oliver Twist — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/fear,concept/history,concept/hope,concept/imagination,concept/truth,form/history,character/fagin,character/monks,character/nancy,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
 “To [[Humour|humour]] me!” cried the voice of the girl whom he had followed.
@@ -35331,7 +35331,7 @@ after a short pause.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Oliver Twist — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Oliver Twist — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/death,motif/home,motif/love,motif/night,motif/river,motif/silence,motif/spring,motif/tears,motif/time,motif/water,concept/fear,concept/hope,character/monks,character/nancy,character/oliver_twist,character/rose_maylie,character/speed"></span>
 
 
 “Never,” replied the gentleman. “The intelligence should be brought to
@@ -35504,7 +35504,7 @@ made for the Jew’s [[house]] as fast as his legs would carry him.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Oliver Twist — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Oliver Twist — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/blood,motif/death,motif/grave,motif/home,motif/night,motif/time,motif/water,motif/well,concept/fear,concept/revenge,form/riddle,setting/court,character/fagin,character/oliver_twist,character/phantom,character/pistol"></span>
 
 
 CHAPTER XLVII.
@@ -35633,7 +35633,7 @@ it.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Oliver Twist — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Oliver Twist — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/fire,motif/home,motif/love,motif/night,motif/prayer,motif/rose,motif/sleep,motif/soul,motif/time,motif/well,concept/fear,concept/mercy,concept/solitude,setting/london,character/fagin,character/monks,character/oliver_twist,character/pistol,character/rose_maylie,character/sunday"></span>
 
 
 “You would?”
@@ -35836,7 +35836,7 @@ club and struck her down.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Oliver Twist — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Oliver Twist — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/fire,motif/hill,motif/night,motif/noon,motif/road,motif/rose,motif/time,motif/window,concept/body,concept/courage,concept/honour,concept/hope,setting/cathedral,setting/london,character/oliver_twist,character/sunday"></span>
 
 
 CHAPTER XLVIII.
@@ -35951,7 +35951,7 @@ noisy entrance of a new comer.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Oliver Twist — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Oliver Twist — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/crown,motif/leaves,motif/night,motif/poison,motif/road,motif/rose,motif/sleep,motif/swallow,motif/water,motif/wind,motif/window,concept/doubt,concept/honour,concept/melancholy,concept/solitude,setting/london,character/oliver_twist,character/pistol"></span>
 
 
 This was an antic fellow, half pedlar and half mountebank, who
@@ -36073,7 +36073,7 @@ one slow [[Melancholy|melancholy]] [[Wind|wind]] that never [[Rose|rose]] or fel
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Oliver Twist — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Oliver Twist — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/grave,motif/journey,motif/memory,motif/night,motif/road,motif/rose,motif/sleep,motif/water,motif/well,motif/wind,concept/body,concept/fear,concept/providence,concept/wonder,setting/london,character/fagin,character/oliver_twist,character/phantom,character/speed"></span>
 
 
 At times, he turned, with desperate determination, resolved to beat
@@ -36217,7 +36217,7 @@ resumed his [[Journey|journey]].
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Oliver Twist — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Oliver Twist — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/marriage,motif/silence,motif/time,motif/well,concept/ambition,concept/mercy,concept/pride,concept/wonder,character/monks,character/oliver_twist"></span>
 
 
 CHAPTER XLIX.
@@ -36348,7 +36348,7 @@ and most unnatural issue.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Oliver Twist — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Oliver Twist — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/home,motif/journey,motif/love,motif/memory,motif/night,motif/soul,motif/time,motif/well,concept/friendship,concept/truth,concept/union,form/fragment,setting/london,setting/paris,character/monks,character/oliver_twist"></span>
 
 
 “I don’t care for hard names,” interrupted [[Monks]] with a jeering laugh.
@@ -36469,7 +36469,7 @@ debts as were outstanding, discharged them, and left the place by
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Oliver Twist — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Oliver Twist — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/blood,motif/death,motif/horse,motif/love,motif/night,motif/river,motif/secrets,motif/time,motif/well,concept/courage,concept/doubt,concept/history,concept/hope,concept/identity,concept/truth,form/history,setting/london,character/bottom,character/fagin,character/monks,character/oliver_twist"></span>
 
 
 [[Monks]] drew his breath yet more freely, and looked round with a smile of
@@ -36644,7 +36644,7 @@ wholly uncontrollable.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Oliver Twist — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Oliver Twist — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/river,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/honour,concept/melancholy,concept/poverty,setting/london,character/fagin,character/oliver_twist"></span>
 
 
 CHAPTER L.
@@ -36758,7 +36758,7 @@ at the top, and so they took him too.”
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Oliver Twist — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Oliver Twist — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/blood,motif/silence,motif/sleep,motif/time,motif/water,motif/window,concept/body,concept/fear,concept/hope,character/fagin,character/oliver_twist"></span>
 
 
 “And Bet?”
@@ -36900,7 +36900,7 @@ you nothing to say to me?”
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Oliver Twist — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Oliver Twist — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/monster,motif/fire,motif/rose,motif/time,motif/water,motif/wind,motif/window,concept/body,concept/fear,character/oliver_twist"></span>
 
 
 There was an uneasy movement among them, but nobody spoke.
@@ -37037,7 +37037,7 @@ and kill myself.”
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_04" data-title="Oliver Twist — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_04" data-title="Oliver Twist — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/city,motif/lightning,motif/rose,motif/spring,motif/time,motif/water,motif/window,concept/body,character/oliver_twist"></span>
 
 
 The panic-stricken men pointed to where such articles were kept; the
@@ -37152,7 +37152,7 @@ against a stone, dashed out his brains.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Oliver Twist — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Oliver Twist — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/journey,motif/love,motif/marriage,motif/nature,motif/prison,motif/road,motif/rose,motif/secrets,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/endurance,concept/fear,concept/nature,setting/london,character/monks,character/oliver,character/oliver_twist"></span>
 
 
 CHAPTER LI.
@@ -37264,7 +37264,7 @@ hear the sound of their own voices.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Oliver Twist — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Oliver Twist — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/window,concept/guilt,concept/nature,concept/truth,setting/london,setting/paris,character/fagin,character/monks,character/oliver,character/oliver_twist"></span>
 
 
 At length, when nine o’[[Clock|clock]] had come, and they began to think they
@@ -37375,7 +37375,7 @@ heart broke.”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Oliver Twist — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Oliver Twist — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/villain,motif/death,motif/grave,motif/night,motif/secrets,motif/silence,motif/time,motif/well,concept/hope,setting/london,character/monks,character/nurse,character/oliver,character/oliver_twist"></span>
 
 
 There was a short [[Silence|silence]] here, until Mr. Brownlow took up the thread
@@ -37511,7 +37511,7 @@ that, and think yourself [[Well|well]] off besides.”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Oliver Twist — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Oliver Twist — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/love,motif/pain,motif/rose,motif/silence,motif/tears,motif/time,concept/fear,concept/friendship,concept/history,concept/poverty,concept/suffering,form/history,character/monks,character/oliver,character/oliver_twist"></span>
 
 
 “It was all Mrs. Bumble. She _would_ do it,” urged Mr. Bumble; first
@@ -37647,7 +37647,7 @@ one I am proud to make; it is a pang, but one my heart shall bear.”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_05" data-title="Oliver Twist — Chapter 51 (part 5)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_05" data-title="Oliver Twist — Chapter 51 (part 5)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/blood,motif/home,motif/leaves,motif/love,motif/nature,motif/pain,motif/rose,motif/tears,motif/time,concept/honour,concept/nature,concept/pride,concept/truth,character/oliver,character/oliver_twist"></span>
 
 
 “The disclosure of tonight,”—Harry began.
@@ -37721,7 +37721,7 @@ Poor Dick was dead!
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Oliver Twist — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Oliver Twist — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/grave,motif/night,motif/prison,motif/silence,motif/time,motif/well,concept/wonder,setting/court,character/fagin,character/oliver_twist"></span>
 
 
 CHAPTER LII.
@@ -37840,7 +37840,7 @@ a few dim lamps, into the interior of the [[Prison|prison]].
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Oliver Twist — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Oliver Twist — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/night,motif/prison,motif/road,motif/rose,motif/silence,motif/soul,motif/time,concept/conscience,concept/despair,concept/fear,concept/hope,concept/mercy,concept/solitude,character/oliver,character/oliver_twist,character/sunday"></span>
 
 
 Here, he was searched, that he might not have about him the means of
@@ -37949,7 +37949,7 @@ lodge.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Oliver Twist — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Oliver Twist — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/love,motif/pain,motif/prayer,motif/prison,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/fear,concept/hope,character/fagin,character/monks,character/oliver,character/oliver_twist"></span>
 
 
 “Is the young gentleman to come too, sir?” said the man whose duty it
@@ -38094,7 +38094,7 @@ the hideous apparatus of [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="chapter_53" data-title="Oliver Twist — Chapter 53" data-chapter="Chapter 53" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_53" data-title="Oliver Twist — Chapter 53" data-chapter="Chapter 53" data-kind="chapter" data-tags="archetype/child,motif/crown,motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/noon,motif/prison,motif/rose,motif/sleep,motif/summer,motif/time,motif/well,concept/charity,concept/friendship,concept/melancholy,concept/mercy,concept/nature,character/fagin,character/monks,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 CHAPTER LIII.

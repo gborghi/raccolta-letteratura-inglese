@@ -27290,7 +27290,7 @@ Barnaby was grey, he has very probably gone on talking to the present
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Barnaby Rudge — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Barnaby Rudge — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/autumn,motif/clock,motif/fire,motif/grave,motif/leaves,motif/nature,motif/night,motif/sleep,motif/spring,motif/summer,motif/time,motif/wind,motif/window,concept/nature,concept/providence,setting/london,character/barnaby_rudge,character/queen_elizabeth"></span>
 
 
 Chapter 1
@@ -27400,7 +27400,7 @@ upon his guests:
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Barnaby Rudge — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Barnaby Rudge — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/moon,motif/nature,motif/rose,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘It’ll clear at eleven o’[[Clock|clock]]. No sooner and no later. Not before and
@@ -27511,7 +27511,7 @@ clerk very readily assigned to him.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Barnaby Rudge — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Barnaby Rudge — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/great_house,motif/love,motif/night,motif/silence,motif/time,motif/well,motif/wind,concept/honour,setting/london,character/barnaby_rudge,character/geoffrey_haredale"></span>
 
 
 ‘A highwayman!’ whispered Tom Cobb to Parkes the ranger.
@@ -27646,7 +27646,7 @@ still and silent and not dreaming of saying a word?’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Barnaby Rudge — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Barnaby Rudge — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/silence,motif/time,concept/self,concept/truth,character/barnaby_rudge,character/geoffrey_haredale,character/mermaid"></span>
 
 
 ‘Why that’s the proper [[Time|time]] for me to talk, isn’t it?’ said Joe
@@ -27774,7 +27774,7 @@ under this roof, or ever shall--that’s more.’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Barnaby Rudge — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Barnaby Rudge — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/blood,motif/clock,motif/grave,motif/home,motif/night,motif/time,motif/water,motif/wind,concept/body,concept/doubt,concept/hope,concept/truth,setting/london,character/barnaby_rudge,character/bottom"></span>
 
 
 The man glanced at the parish-clerk, whose air of consciousness and
@@ -27943,7 +27943,7 @@ in some year, sooner or later, that man will be discovered.’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Barnaby Rudge — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Barnaby Rudge — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/horse,motif/leaves,motif/lightning,motif/nature,motif/night,motif/road,motif/storm,motif/time,motif/water,motif/winter,concept/body,concept/despair,concept/fear,concept/hope,concept/madness,concept/nature,concept/self,concept/wonder,setting/london,character/barnaby_rudge,character/speed"></span>
 
 
 Chapter 2
@@ -28077,7 +28077,7 @@ become for the [[Time|time]] as wild and merciless as the elements themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Barnaby Rudge — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Barnaby Rudge — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/ghost,archetype/king,motif/cross,motif/crown,motif/death,motif/horse,motif/journey,motif/night,motif/time,motif/well,motif/wheel,form/inscription,character/barnaby_rudge,character/gabriel_varden,character/phantom"></span>
 
 
 Whether the traveller was possessed by thoughts which the fury of the
@@ -28214,7 +28214,7 @@ desperate purpose very foreign to acting, or [[Child|child]]’s play.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Barnaby Rudge — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Barnaby Rudge — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/desire,motif/fire,motif/horse,motif/night,motif/road,motif/silence,motif/stars,motif/time,motif/well,motif/wind,concept/honour,concept/hope,concept/wonder,setting/london,character/barnaby_rudge,character/gabriel_varden,character/speed"></span>
 
 
 Thus they regarded each other for some [[Time|time]], in [[Silence|silence]].
@@ -28316,7 +28316,7 @@ to his hand, and entreating him to enjoyment!
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Barnaby Rudge — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Barnaby Rudge — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/fire,motif/grave,motif/home,motif/journey,motif/night,motif/rose,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,concept/self,character/barnaby_rudge"></span>
 
 
 Chapter 3
@@ -28451,7 +28451,7 @@ interest in you, and wouldn’t have you cast yourself away. Good [[Night|night]
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Barnaby Rudge — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Barnaby Rudge — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/city,motif/death,motif/home,motif/horse,motif/night,motif/road,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/history,form/history,setting/london,character/barnaby_rudge,character/gabriel_varden"></span>
 
 
 Returning his cheery farewell with cordial goodwill, Joe Willet lingered
@@ -28577,7 +28577,7 @@ in this unfortunate being its noblest powers were wanting.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Barnaby Rudge — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Barnaby Rudge — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/silence,motif/stars,motif/time,motif/well,concept/faith,concept/grotesque,concept/nature,character/barnaby_rudge"></span>
 
 
 His dress was of green, clumsily trimmed here and there--apparently by
@@ -28642,7 +28642,7 @@ which would [[Silence|silence]] Mrs Varden on the subject of the Maypole, for th
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Barnaby Rudge — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Barnaby Rudge — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/river,motif/summer,motif/time,motif/window,concept/nature,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 4
@@ -28743,7 +28743,7 @@ clusters from the ceiling.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Barnaby Rudge — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Barnaby Rudge — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/animals,motif/lion,motif/mirror,motif/night,motif/road,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/imprisonment,concept/wonder,form/fragment,form/novel,character/barnaby_rudge,character/prometheus,character/simon_tappertit"></span>
 
 
 After a long and patient contemplation of the golden key, and many such
@@ -28863,7 +28863,7 @@ Mayor tremble on his throne.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Barnaby Rudge — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Barnaby Rudge — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/road,motif/time,motif/water,motif/well,concept/doubt,concept/endurance,concept/truth,character/barnaby_rudge,character/sunday"></span>
 
 
 In respect of dress and personal decoration, Sim Tappertit was no less
@@ -28981,7 +28981,7 @@ him, was stricken with amazement.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Barnaby Rudge — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Barnaby Rudge — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,character/barnaby_rudge"></span>
 
 
 ‘Why, what the devil’s the matter with the lad?’ cried the locksmith.
@@ -29076,7 +29076,7 @@ Whirr-r-r-r-r-r-r-r.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Barnaby Rudge — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Barnaby Rudge — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="topos/double,archetype/shadow,motif/blood,motif/death,motif/fire,motif/home,motif/jewel,motif/journey,motif/night,motif/secrets,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/doubt,concept/faith,concept/hope,concept/resignation,concept/wonder,setting/london,character/barnaby_rudge,character/speed"></span>
 
 
 Chapter 5
@@ -29279,7 +29279,7 @@ shuddered, as though the hand of [[Death|death]] were on her.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Barnaby Rudge — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Barnaby Rudge — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/fire,motif/moon,motif/night,motif/rose,motif/secrets,motif/soul,motif/well,concept/body,concept/solitude,concept/suffering,concept/wonder,form/riddle,character/barnaby_rudge,character/dwarf"></span>
 
 
 Chapter 6
@@ -29413,7 +29413,7 @@ he’s a merry fellow. Tell me--is he silly too? I think he is.’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Barnaby Rudge — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Barnaby Rudge — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dreams,motif/fire,motif/grave,motif/horse,motif/night,motif/pain,motif/silence,motif/sleep,motif/time,motif/window,concept/hope,setting/london,character/barnaby_rudge,character/edward_chester"></span>
 
 
 ‘Why?’ asked Gabriel.
@@ -29553,7 +29553,7 @@ another glance towards Barnaby, again asked what like the man was.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Barnaby Rudge — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Barnaby Rudge — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/dance,motif/grave,motif/home,motif/horse,motif/leaves,motif/memory,motif/night,motif/road,motif/rose,motif/secrets,motif/silence,motif/sleep,motif/supernatural,motif/time,concept/body,concept/doubt,concept/fear,concept/history,concept/hope,concept/temptation,concept/truth,form/history,character/barnaby_rudge,character/bottom"></span>
 
 
 ‘The [[Night|night]] was so dark,’ said Edward, ‘the attack so sudden, and he so
@@ -29714,7 +29714,7 @@ sworn.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Barnaby Rudge — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Barnaby Rudge — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/poison,motif/time,motif/well,concept/nature,concept/suffering,character/barnaby_rudge,character/bottom,character/macbeth"></span>
 
 
 Chapter 7
@@ -29837,7 +29837,7 @@ attendance upon you?’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Barnaby Rudge — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Barnaby Rudge — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/desire,motif/dreams,motif/fire,motif/home,motif/night,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/melancholy,concept/resignation,concept/wonder,character/barnaby_rudge,character/phantom"></span>
 
 
 ‘Yes!’ cried Mrs Varden, bursting into [[Tears|tears]], ‘yes, you would. I don’t
@@ -29964,7 +29964,7 @@ sound deep [[Sleep|sleep]], as by Barnaby himself in his [[Phantom|phantom]]-hau
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Barnaby Rudge — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Barnaby Rudge — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/night,motif/silence,motif/soul,motif/time,motif/water,concept/doubt,concept/truth,setting/court,character/barnaby_rudge"></span>
 
 
 Chapter 8
@@ -30096,7 +30096,7 @@ like gimlets.’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Barnaby Rudge — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Barnaby Rudge — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/home,motif/love,motif/night,motif/silence,character/barnaby_rudge"></span>
 
 
 Mr Tappertit smiled grimly at his comrade; and twisting out one more
@@ -30222,7 +30222,7 @@ daughter, and marry her at the Fleet, whether she gave consent or no--’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Barnaby Rudge — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Barnaby Rudge — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,motif/grave,motif/love,motif/silence,motif/soul,motif/time,concept/body,concept/doubt,concept/greatness,concept/truth,setting/court,character/barnaby_rudge,character/lord_mayor"></span>
 
 
 Mr Tappertit waved his grizzly truncheon as an admonition to him not to
@@ -30336,7 +30336,7 @@ his pocket, motioned to him to walk by his side.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Barnaby Rudge — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Barnaby Rudge — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/pain,motif/rose,motif/tears,motif/time,concept/honour,setting/court,character/barnaby_rudge,character/speed"></span>
 
 
 ‘And so,’ he said, when they had taken a few turns up and down, you--you
@@ -30405,7 +30405,7 @@ promenade.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Barnaby Rudge — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Barnaby Rudge — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/damsel,archetype/villain,motif/dust,motif/night,motif/sleep,motif/time,motif/wind,motif/window,concept/providence,concept/self,character/barnaby_rudge"></span>
 
 
 Chapter 9
@@ -30518,7 +30518,7 @@ is, as ever I come across!’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Barnaby Rudge — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Barnaby Rudge — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,motif/dust,motif/fire,motif/home,motif/lion,motif/love,motif/mirror,motif/nature,motif/night,motif/road,motif/silence,motif/soul,motif/stars,motif/well,motif/window,concept/beauty,concept/conscience,concept/despair,concept/nature,concept/temptation,setting/court,character/barnaby_rudge"></span>
 
 
 As she uttered this criticism, she glanced approvingly at her small
@@ -30647,7 +30647,7 @@ himself, nor couldn’t if he was twenty Simmunses!’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Barnaby Rudge — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Barnaby Rudge — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/villain,motif/fire,motif/grave,motif/home,motif/horse,motif/nature,motif/silence,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/nature,form/novel,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 10
@@ -30756,7 +30756,7 @@ and zenith of his distress. ‘Did you hear me a calling, [[Villain|villain]]?�
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Barnaby Rudge — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Barnaby Rudge — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,motif/decay,motif/fire,motif/grave,motif/home,motif/horse,motif/night,motif/road,motif/snow,motif/time,motif/wind,motif/window,concept/beauty,concept/conscience,concept/grotesque,concept/melancholy,concept/pride,concept/truth,setting/london,character/barnaby_rudge"></span>
 
 
 The figure he addressed made no answer, but putting his hand upon the
@@ -30874,7 +30874,7 @@ murdered in that [[house]].’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Barnaby Rudge — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Barnaby Rudge — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/fire,motif/ghosts,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/imagination,concept/truth,character/barnaby_rudge,character/geoffrey_haredale,character/speed"></span>
 
 
 ‘So I have heard,’ returned the guest, taking a gold toothpick from his
@@ -31003,7 +31003,7 @@ for remaining, left him to himself.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Barnaby Rudge — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Barnaby Rudge — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/fire,motif/home,motif/night,motif/spring,motif/time,motif/well,concept/wonder,character/barnaby_rudge"></span>
 
 
 Very thoughtful old John Willet was, while the dinner was preparing; and
@@ -31114,7 +31114,7 @@ his very best bow.
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Barnaby Rudge — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Barnaby Rudge — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/animals,motif/birds,motif/fire,motif/grave,motif/home,motif/horse,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/imagination,concept/nature,character/barnaby_rudge,character/geoffrey_haredale"></span>
 
 
 Chapter 11
@@ -31328,7 +31328,7 @@ than he had come up, and joined his friends below.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Barnaby Rudge — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Barnaby Rudge — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/love,motif/memory,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/self,concept/wonder,character/barnaby_rudge"></span>
 
 
 Chapter 12
@@ -31459,7 +31459,7 @@ this description. Ned and I couldn’t do it. It’s impossible.’
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Barnaby Rudge — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Barnaby Rudge — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/autumn,motif/blood,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/deception,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/pride,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 ‘Curb your tongue, in God’s name, if this conversation is to last,’
@@ -31587,7 +31587,7 @@ again.’
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Barnaby Rudge — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Barnaby Rudge — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/fire,motif/horse,motif/night,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,concept/indolence,character/barnaby_rudge"></span>
 
 
 ‘Are you going?’ said Mr Chester, rising with a graceful [[Indolence|indolence]]. ‘Let
@@ -31679,7 +31679,7 @@ out of the room, and left him to his rest in the Maypole’s ancient bed.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Barnaby Rudge — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Barnaby Rudge — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/journey,motif/lion,motif/love,motif/time,motif/water,motif/wind,concept/body,concept/doubt,concept/history,concept/hope,concept/pride,concept/self,concept/truth,form/history,setting/london,character/barnaby_rudge,character/bottom"></span>
 
 
 Chapter 13
@@ -31799,7 +31799,7 @@ you. You can’t expect me to be quiet under it.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Barnaby Rudge — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Barnaby Rudge — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/fire,motif/garden,motif/horse,motif/lion,motif/road,motif/spring,motif/water,motif/wind,motif/window,concept/body,concept/doubt,concept/history,concept/imagination,concept/melancholy,concept/temptation,form/history,setting/london,character/barnaby_rudge,character/dolly_varden,character/phantom"></span>
 
 
 ‘Let him have money!’ cried John, in a drowsy reverie. ‘What does he
@@ -31908,7 +31908,7 @@ locksmith’s [[house]], attracted by the eyes of blooming [[Dolly Varden]].
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Barnaby Rudge — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Barnaby Rudge — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/ghost,motif/flowers,motif/home,motif/mirror,motif/night,motif/well,motif/window,concept/doubt,concept/hope,concept/providence,concept/wonder,character/barnaby_rudge"></span>
 
 
 Joe was by no means a sheepish fellow, but, for all that, when he got
@@ -32040,7 +32040,7 @@ females, would please YOU.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Barnaby Rudge — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Barnaby Rudge — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dance,motif/flowers,motif/home,motif/horse,motif/lion,motif/love,motif/night,motif/time,motif/well,motif/window,concept/beauty,character/barnaby_rudge"></span>
 
 
 This pronoun was understood in the plural sense, and included both
@@ -32141,7 +32141,7 @@ and get some obliging enemy to knock his brains out as soon as possible.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Barnaby Rudge — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Barnaby Rudge — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/fool,archetype/lover,motif/blood,motif/fire,motif/garden,motif/home,motif/horse,motif/jewel,motif/leaves,motif/moon,motif/nature,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,concept/wonder,setting/london,character/barnaby_rudge,character/edward_chester"></span>
 
 
 Chapter 14
@@ -32349,7 +32349,7 @@ son, looking at each other in mute astonishment.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Barnaby Rudge — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Barnaby Rudge — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/leaves,motif/night,motif/noon,motif/river,motif/rose,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/honour,concept/indolence,concept/truth,setting/court,character/barnaby_rudge"></span>
 
 
 Chapter 15
@@ -32472,7 +32472,7 @@ But you were saying’--
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Barnaby Rudge — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Barnaby Rudge — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/childhood,motif/love,motif/night,motif/rose,motif/time,motif/window,concept/beauty,concept/endurance,concept/fear,concept/honour,concept/hope,concept/vanity,concept/wonder,setting/court,character/barnaby_rudge"></span>
 
 
 ‘I was about to say, Heaven knows how seriously and earnestly, that you
@@ -32587,7 +32587,7 @@ the door.’
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Barnaby Rudge — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Barnaby Rudge — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/memory,motif/mirror,motif/soul,motif/time,motif/well,concept/education,concept/fear,concept/truth,setting/court,character/barnaby_rudge"></span>
 
 
 Edward having obeyed him, he took an elegant little knife from his
@@ -32706,7 +32706,7 @@ devours our income. That’s the [[Truth|truth]].’
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Barnaby Rudge — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Barnaby Rudge — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/villain,motif/death,motif/night,motif/time,concept/honour,concept/self,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 ‘Why have I never known this before? Why have you encouraged me, sir, to
@@ -32758,7 +32758,7 @@ hands, in what appeared to be a kind of stupor.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Barnaby Rudge — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Barnaby Rudge — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/city,motif/home,motif/night,motif/road,motif/sleep,motif/time,motif/winter,concept/wonder,form/fragment,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 16
@@ -32857,7 +32857,7 @@ example.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Barnaby Rudge — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Barnaby Rudge — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/clock,motif/desire,motif/home,motif/night,motif/road,motif/silence,motif/sleep,motif/time,motif/water,motif/wind,setting/london,setting/oxford,character/barnaby_rudge,character/phantom,character/speed"></span>
 
 
 Among all the dangerous characters who, in such a state of society,
@@ -33001,7 +33001,7 @@ unlocked the door, carried her in, and secured it carefully behind them.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Barnaby Rudge — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Barnaby Rudge — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/fire,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/fear,concept/mercy,character/barnaby_rudge,character/pistol"></span>
 
 
 Chapter 17
@@ -33138,7 +33138,7 @@ before it is too late. I have heard a wayward step without, I know full
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Barnaby Rudge — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Barnaby Rudge — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/dreams,motif/dust,motif/fire,motif/lightning,motif/night,motif/prayer,motif/road,motif/sleep,motif/time,motif/wind,motif/window,concept/doubt,concept/fear,concept/truth,character/barnaby_rudge,character/speed"></span>
 
 
 ‘What do you mean?’
@@ -33266,7 +33266,7 @@ away. After a [[Time|time]], he raised his head and looked about him.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Barnaby Rudge — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Barnaby Rudge — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/clock,motif/fire,motif/night,motif/noon,motif/prayer,motif/road,motif/rose,motif/silence,motif/stars,motif/summer,motif/time,motif/well,motif/winter,concept/temptation,setting/london,character/barnaby_rudge"></span>
 
 
 ‘Is it gone?’
@@ -33395,7 +33395,7 @@ awake again.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Barnaby Rudge — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Barnaby Rudge — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/love,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/fear,concept/revenge,character/barnaby_rudge"></span>
 
 
 At length Barnaby slept soundly, and the bird with his bill sunk
@@ -33473,7 +33473,7 @@ through this sad world, or he is doomed, and my poor heart is broken!’
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Barnaby Rudge — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Barnaby Rudge — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="archetype/fool,archetype/ghost,motif/city,motif/dawn,motif/death,motif/desert,motif/desire,motif/dust,motif/fire,motif/night,motif/prison,motif/road,motif/sleep,motif/time,motif/wind,motif/window,concept/despair,concept/poverty,concept/self,concept/solitude,concept/suffering,concept/truth,setting/court,setting/desert,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 18
@@ -33680,7 +33680,7 @@ listening, until it was broad day.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Barnaby Rudge — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Barnaby Rudge — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/love,motif/poison,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/fear,concept/truth,character/barnaby_rudge,character/dolly_varden,character/edward_chester,character/satan"></span>
 
 
 Chapter 19
@@ -33809,7 +33809,7 @@ dear!’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Barnaby Rudge — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Barnaby Rudge — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/night,motif/soul,motif/tears,motif/water,motif/well,concept/body,concept/despair,concept/doubt,concept/forgiveness,concept/humility,concept/wonder,setting/egypt,character/barnaby_rudge"></span>
 
 
 ‘[[Well]], [[Well|well]],’ said the locksmith. ‘That’s settled then.’
@@ -33927,7 +33927,7 @@ spirits, displayed to the best advantage at her bedside.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Barnaby Rudge — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Barnaby Rudge — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/road,motif/storm,motif/tears,motif/time,concept/body,concept/forgiveness,concept/imagination,character/barnaby_rudge"></span>
 
 
 ‘Here’s master, mim,’ said Miggs. ‘Oh, what a happiness it is when man
@@ -34035,7 +34035,7 @@ matrimonial purposes.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Barnaby Rudge — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Barnaby Rudge — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/crown,motif/garden,motif/lamb,motif/pain,motif/sleep,motif/spring,motif/time,motif/well,motif/window,concept/courage,concept/doubt,character/barnaby_rudge"></span>
 
 
 In course of [[Time|time]]--and in course of a pretty long [[Time|time]] too, for these
@@ -34115,7 +34115,7 @@ were.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Barnaby Rudge — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Barnaby Rudge — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,motif/birds,motif/flowers,motif/garden,motif/love,motif/prison,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/beauty,concept/self,character/barnaby_rudge"></span>
 
 
 Chapter 20
@@ -34236,7 +34236,7 @@ her.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Barnaby Rudge — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Barnaby Rudge — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/home,motif/silence,motif/tears,motif/time,motif/well,motif/wind,concept/conscience,concept/melancholy,concept/truth,concept/wonder,character/barnaby_rudge,character/edward_chester"></span>
 
 
 Dolly bade her good bye, and tripping lightly down the stairs arrived at
@@ -34370,7 +34370,7 @@ a man came plunging through them, close before her.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Barnaby Rudge — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Barnaby Rudge — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/love,motif/silence,motif/time,motif/well,concept/beauty,concept/courage,concept/fear,form/fable,character/barnaby_rudge,character/hugh_of_the_maypole"></span>
 
 
 Chapter 21
@@ -34515,7 +34515,7 @@ minutes before she was able to raise her head and thank him.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Barnaby Rudge — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Barnaby Rudge — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/quest,archetype/fool,motif/cross,motif/death,motif/fire,motif/nature,motif/night,motif/time,motif/well,concept/courage,concept/hope,concept/nature,concept/truth,character/barnaby_rudge"></span>
 
 
 ‘What was it that frightened you?’ said Joe.
@@ -34642,7 +34642,7 @@ could give no other description of him.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Barnaby Rudge — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Barnaby Rudge — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/horse,motif/love,motif/road,motif/rose,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/wheel,concept/doubt,concept/truth,character/barnaby_rudge"></span>
 
 
 ‘You wouldn’t know him if you saw him then, belike?’ said Hugh with a
@@ -34743,7 +34743,7 @@ beside it--on Dolly’s side, no [[Doubt|doubt]], and pretty close to the [[Whee
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Barnaby Rudge — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Barnaby Rudge — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/fire,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/sleep,motif/stars,motif/time,motif/well,concept/fear,character/barnaby_rudge"></span>
 
 
 Chapter 22
@@ -34864,7 +34864,7 @@ is not at all [[Well|well]] to-[[Night|night]].’
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Barnaby Rudge — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Barnaby Rudge — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/grave,motif/lion,motif/love,motif/marriage,motif/nature,motif/stars,motif/tears,motif/time,motif/well,concept/aspiration,concept/despair,concept/endurance,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/resignation,setting/court,setting/desert,character/barnaby_rudge,character/dolly_varden"></span>
 
 
 In fact, Dolly had thrown herself upon the sofa, quite regardless of
@@ -35016,7 +35016,7 @@ afterwards repaired.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Barnaby Rudge — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Barnaby Rudge — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/horse,motif/journey,motif/night,motif/noon,motif/time,motif/well,concept/doubt,concept/honour,concept/pride,concept/sublime,concept/truth,concept/wonder,histref/milton,character/barnaby_rudge,character/milton,character/queen"></span>
 
 
 Chapter 23
@@ -35133,7 +35133,7 @@ are not kept out. How are you?’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Barnaby Rudge — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Barnaby Rudge — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/mirror,motif/silence,motif/time,motif/well,concept/courage,concept/doubt,concept/self,character/barnaby_rudge"></span>
 
 
 ‘I’m [[Well|well]] enough,’ said Hugh impatiently.
@@ -35276,7 +35276,7 @@ did? I never knew him; not I. I drink to the drink, master. Ha ha ha!’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Barnaby Rudge — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Barnaby Rudge — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/dust,motif/nature,motif/silence,motif/soul,motif/time,concept/beauty,concept/doubt,concept/nature,character/barnaby_rudge"></span>
 
 
 ‘You are an exceedingly cheerful young man,’ said Mr Chester, putting
@@ -35412,7 +35412,7 @@ They might have let her live. She was poor enough.’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Barnaby Rudge — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Barnaby Rudge — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/animals,motif/night,motif/silence,concept/doubt,concept/hope,character/barnaby_rudge"></span>
 
 
 ‘How very sad!’ exclaimed his patron, with a condescending smile. ‘I
@@ -35473,7 +35473,7 @@ fashionable tune.
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Barnaby Rudge — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Barnaby Rudge — Chapter 24" data-chapter="Chapter 24" data-kind="chapter" data-tags="archetype/monster,archetype/villain,motif/blood,motif/horse,motif/nature,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/honour,concept/hope,concept/nature,histref/bible,setting/london,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 24
@@ -35694,7 +35694,7 @@ pleasant [[Sleep|sleep]], that it was quite infantine.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Barnaby Rudge — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Barnaby Rudge — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dawn,motif/garden,motif/journey,motif/nature,motif/night,motif/road,motif/sleep,motif/summer,motif/time,motif/well,concept/courage,concept/history,concept/hope,concept/nature,concept/suffering,form/history,character/barnaby_rudge"></span>
 
 
 Chapter 25
@@ -35803,7 +35803,7 @@ bade them enter that way.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Barnaby Rudge — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Barnaby Rudge — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/night,motif/pain,motif/rose,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/truth,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘At length you have mustered heart to visit the old place,’ he said to
@@ -35935,7 +35935,7 @@ you know is yours of right, and freely yours.’
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Barnaby Rudge — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Barnaby Rudge — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/garden,motif/home,motif/time,concept/courage,concept/guilt,concept/hope,concept/mercy,concept/truth,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘What if I came, sir,’ she rejoined, ‘I who have but one other friend on
@@ -36045,7 +36045,7 @@ commonly called good company.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Barnaby Rudge — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Barnaby Rudge — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/grave,motif/home,motif/memory,motif/road,motif/sleep,motif/time,motif/well,concept/fear,form/inscription,form/satire,character/barnaby_rudge"></span>
 
 
 They were to return by the coach. As there was an interval of full two
@@ -36110,7 +36110,7 @@ all her enjoyment of life, and had entered on its hardest sorrows.
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="Barnaby Rudge — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="Barnaby Rudge — Chapter 26" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/damsel,archetype/fool,archetype/innocent,motif/flowers,motif/memory,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/hope,concept/nature,concept/self,concept/suffering,concept/truth,concept/wonder,character/barnaby_rudge,character/columbus,character/edward_chester,character/gabriel_varden"></span>
 
 
 Chapter 26
@@ -36328,7 +36328,7 @@ yours, your good-[[Nature|nature]] will excuse that, Haredale, I am certain!’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Barnaby Rudge — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Barnaby Rudge — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/night,motif/road,motif/soul,motif/well,concept/honour,concept/hope,concept/melancholy,setting/london,character/barnaby_rudge,character/gabriel_varden,character/lord_mayor"></span>
 
 
 Chapter 27
@@ -36463,7 +36463,7 @@ juvenility.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Barnaby Rudge — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Barnaby Rudge — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/leaves,motif/nature,motif/pain,motif/stars,motif/time,motif/well,concept/honour,concept/hope,concept/humility,concept/jealousy,concept/mercy,concept/nature,concept/pride,character/barnaby_rudge"></span>
 
 
 ‘Ah, Mrs Varden!’ cried the visitor. ‘Ah, ma’am--humanity is indeed a
@@ -36593,7 +36593,7 @@ something more than human.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Barnaby Rudge — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Barnaby Rudge — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/lover,archetype/rebel,motif/grave,motif/love,motif/marriage,motif/soul,motif/tears,motif/well,concept/doubt,concept/faith,concept/honour,concept/hope,concept/union,character/barnaby_rudge"></span>
 
 
 ‘Dear madam,’ he said, pressing her hand delicately to his lips; ‘be
@@ -36723,7 +36723,7 @@ it--Pullet--Mullet--’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Barnaby Rudge — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Barnaby Rudge — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/tears,concept/truth,concept/vanity,character/barnaby_rudge"></span>
 
 
 ‘There is a young man of the name of Joseph Willet, sir,’ said Mrs
@@ -36807,7 +36807,7 @@ What a very uncertain temper Mrs Varden’s was!
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Barnaby Rudge — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Barnaby Rudge — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="topos/double,archetype/king,motif/fire,motif/garden,motif/home,motif/horse,motif/jewel,motif/love,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/honour,concept/hope,concept/mercy,concept/self,character/barnaby_rudge"></span>
 
 
 Chapter 28
@@ -37034,7 +37034,7 @@ to bed again, he fell, after an hour’s uneasy watching, into a second
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Barnaby Rudge — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Barnaby Rudge — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/villain,motif/birds,motif/desire,motif/fire,motif/horse,motif/love,motif/moon,motif/nature,motif/night,motif/road,motif/rose,motif/stars,motif/summer,motif/time,motif/water,motif/wind,concept/charity,concept/hope,concept/imagination,concept/mercy,concept/nature,concept/truth,character/barnaby_rudge"></span>
 
 
 Chapter 29
@@ -37153,7 +37153,7 @@ one of the lively sort or not.’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Barnaby Rudge — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Barnaby Rudge — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/double,motif/desert,motif/desire,motif/dust,motif/love,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/imagination,setting/court,setting/desert,character/barnaby_rudge"></span>
 
 
 Hugh made no answer, but throwing the bridle to his master, and
@@ -37263,7 +37263,7 @@ close together.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Barnaby Rudge — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Barnaby Rudge — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/nature,motif/pain,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/honour,concept/hope,concept/imagination,concept/nature,concept/pride,concept/truth,character/barnaby_rudge"></span>
 
 
 He raised his hat from his head, and yielding the path, suffered her to
@@ -37391,7 +37391,7 @@ into [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Barnaby Rudge — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Barnaby Rudge — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/scapegoat,motif/blood,motif/cross,motif/death,motif/marriage,motif/night,motif/noon,motif/soul,motif/tears,motif/time,motif/well,concept/deception,concept/faith,concept/fear,concept/honour,concept/hope,concept/jealousy,concept/melancholy,concept/poverty,concept/pride,concept/self,concept/truth,concept/vanity,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘I would,’ said Mr Chester, leaning over her, and speaking in mild and
@@ -37528,7 +37528,7 @@ manner, and was his unruffled [[Self|self]] again.
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="Barnaby Rudge — Chapter 30" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="Barnaby Rudge — Chapter 30" data-chapter="Chapter 30" data-kind="chapter" data-tags="archetype/tyrant,motif/blood,motif/death,motif/fire,motif/horse,motif/nature,motif/night,motif/pain,motif/rose,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/wonder,character/barnaby_rudge,character/dolly_varden"></span>
 
 
 Chapter 30
@@ -37695,7 +37695,7 @@ evermore--it’s all over!’
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Barnaby Rudge — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Barnaby Rudge — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/clock,motif/dust,motif/lion,motif/moon,motif/nature,motif/night,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/melancholy,concept/nature,concept/truth,setting/london,character/barnaby_rudge,character/speed"></span>
 
 
 Chapter 31
@@ -37801,7 +37801,7 @@ funeral ceremony or public mourning.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Barnaby Rudge — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Barnaby Rudge — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/clock,motif/lion,motif/love,motif/memory,motif/mirror,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/body,concept/friendship,concept/hope,concept/nature,setting/london,character/barnaby_rudge"></span>
 
 
 ‘What noisy fellow is that in the next room?’ said Joe, when he had
@@ -37940,7 +37940,7 @@ taught like you, I’d have been a colonel by this [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Barnaby Rudge — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Barnaby Rudge — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/king,motif/bells,motif/chains,motif/home,motif/love,motif/moon,motif/night,motif/tears,motif/time,concept/courage,concept/friendship,concept/wonder,character/barnaby_rudge,character/dolly_varden"></span>
 
 
 ‘Tush, man!’ said Joe, ‘I’m not so young as that. Needs must when the
@@ -38058,7 +38058,7 @@ far from his thoughts that he could only look at her in silent [[Wonder|wonder]]
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Barnaby Rudge — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Barnaby Rudge — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,motif/chains,motif/home,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/storm,motif/tears,motif/water,motif/well,motif/wind,concept/courage,concept/despair,concept/doubt,concept/nature,concept/truth,setting/london,character/barnaby_rudge,character/phantom"></span>
 
 
 Dolly in the meanwhile, turned to the corners of her apron, and measured
@@ -38162,7 +38162,7 @@ favour, and they soon left [[London]] behind them, a mere dark mist--a giant
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="Barnaby Rudge — Chapter 32" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="Barnaby Rudge — Chapter 32" data-chapter="Chapter 32" data-kind="chapter" data-tags="archetype/child,archetype/fool,motif/animals,motif/blood,motif/clock,motif/desire,motif/grave,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/snow,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 32
@@ -38377,7 +38377,7 @@ usual, for five years, concerning which this Narrative is silent.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Barnaby Rudge — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Barnaby Rudge — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/ghosts,motif/night,motif/sleep,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/doubt,concept/endurance,character/barnaby_rudge"></span>
 
 
 Chapter 33
@@ -38479,7 +38479,7 @@ to try again.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Barnaby Rudge — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Barnaby Rudge — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/wind,motif/window,concept/fear,character/barnaby_rudge"></span>
 
 
 ‘Johnny’s dropped off,’ said Mr Parkes in a whisper.
@@ -38605,7 +38605,7 @@ his head.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Barnaby Rudge — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Barnaby Rudge — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/ghosts,motif/home,motif/memory,motif/night,motif/sleep,motif/soul,motif/time,motif/water,motif/well,motif/wind,character/barnaby_rudge"></span>
 
 
 ‘Tell us what’s the matter, sir,’ said John, ‘or I’ll kill you. Tell us
@@ -38722,7 +38722,7 @@ us of next?’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Barnaby Rudge — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Barnaby Rudge — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/night,motif/silence,motif/storm,motif/time,motif/wind,concept/fear,concept/truth,character/barnaby_rudge"></span>
 
 
 ‘What I saw.’
@@ -38802,7 +38802,7 @@ and rain, which had not yet abated one jot of its fury.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Barnaby Rudge — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Barnaby Rudge — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/ghosts,motif/home,motif/horse,motif/journey,motif/night,motif/pain,motif/sleep,motif/snow,motif/time,motif/well,motif/wind,motif/window,concept/longing,concept/self,concept/wonder,character/barnaby_rudge"></span>
 
 
 Chapter 34
@@ -38919,7 +38919,7 @@ the [[Garden|garden]]-walks, upon which this gate opened, Mr Haredale threw up t
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Barnaby Rudge — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Barnaby Rudge — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/night,motif/road,motif/rose,motif/silence,motif/time,motif/window,concept/doubt,concept/imagination,concept/wonder,character/barnaby_rudge,character/bottom"></span>
 
 
 ‘Begging pardon, sir,’ said John, ‘I knew you sat up late, and made bold
@@ -39050,7 +39050,7 @@ and waited for their coming up.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Barnaby Rudge — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Barnaby Rudge — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/fire,motif/grave,motif/horse,motif/night,motif/road,motif/sleep,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,form/novel,setting/london,character/barnaby_rudge,character/queen_elizabeth,character/speed"></span>
 
 
 Chapter 35
@@ -39194,7 +39194,7 @@ forward? You shall decide.’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Barnaby Rudge — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Barnaby Rudge — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/cave,motif/crown,motif/fire,motif/horse,motif/night,motif/silence,motif/supernatural,motif/time,motif/well,concept/honour,concept/melancholy,concept/providence,concept/self,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 ‘I would submit, my lord, then,’ returned the person he appealed to,
@@ -39312,7 +39312,7 @@ smiled as if for practice.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Barnaby Rudge — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Barnaby Rudge — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/fire,motif/horse,motif/night,motif/road,motif/time,concept/doubt,concept/greatness,concept/truth,character/barnaby_rudge"></span>
 
 
 Such were the guests whom old John Willet, with a fixed and leaden
@@ -39436,7 +39436,7 @@ make it swell and roar at pleasure? Not one.’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Barnaby Rudge — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Barnaby Rudge — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/lion,motif/night,motif/time,motif/well,concept/hope,setting/london,character/barnaby_rudge,character/queen"></span>
 
 
 ‘Not one,’ repeated Gashford.
@@ -39539,7 +39539,7 @@ in a very gloomy and prophetic manner until he reached his chamber.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="Barnaby Rudge — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="Barnaby Rudge — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="archetype/king,motif/crown,motif/desert,motif/fire,motif/horse,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/wind,motif/window,concept/charity,concept/doubt,concept/fear,concept/humility,concept/mercy,concept/nature,concept/union,concept/vanity,setting/desert,character/barnaby_rudge,character/lord_george_gordon,character/simon_tappertit"></span>
 
 
 Chapter 36
@@ -39765,7 +39765,7 @@ will the harvest come!’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Barnaby Rudge — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Barnaby Rudge — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/night,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/imprisonment,concept/truth,form/hymn,histref/inquisition,setting/london,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 Chapter 37
@@ -39884,7 +39884,7 @@ no harm in thinking of such things.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Barnaby Rudge — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Barnaby Rudge — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/time,motif/well,motif/wind,motif/window,concept/grotesque,form/inscription,setting/london,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 --‘“Called, and chosen, and faithful,”’ said Gashford, taking up
@@ -39995,7 +39995,7 @@ yet was not puffed up or proud.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Barnaby Rudge — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Barnaby Rudge — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/death,motif/fire,motif/hill,motif/night,motif/road,motif/swallow,motif/time,motif/well,motif/wind,concept/doubt,concept/suffering,setting/cathedral,setting/london,setting/oxford,character/barnaby_rudge,character/jones"></span>
 
 
 So they rode (to the deep and unspeakable disgust of John Grueby) the
@@ -40138,7 +40138,7 @@ the glory of England, an’t it, Muster Gashford?’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Barnaby Rudge — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Barnaby Rudge — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/innocent,motif/hill,motif/lamb,motif/silence,motif/time,motif/well,concept/body,concept/doubt,character/barnaby_rudge"></span>
 
 
 ‘Certainly,’ said the secretary.
@@ -40230,7 +40230,7 @@ features, rough attire, and reckless air, of Hugh.
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="Barnaby Rudge — Chapter 38" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="Barnaby Rudge — Chapter 38" data-chapter="Chapter 38" data-kind="chapter" data-tags="motif/dance,motif/leaves,motif/night,motif/road,motif/rose,motif/time,concept/body,concept/honour,concept/hope,concept/imagination,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 Chapter 38
@@ -40448,7 +40448,7 @@ an extemporaneous No-Popery [[Dance]].
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Barnaby Rudge — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Barnaby Rudge — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/poison,motif/silence,motif/time,motif/well,concept/faith,concept/honour,concept/self,concept/wonder,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 Chapter 39
@@ -40587,7 +40587,7 @@ with a show of great heartiness.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Barnaby Rudge — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Barnaby Rudge — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/clock,motif/home,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/body,concept/friendship,concept/honour,concept/hope,concept/nature,concept/self,character/barnaby_rudge,character/dwarf"></span>
 
 
 ‘I find,’ said Mr Tappertit, looking round on the assembled guests,
@@ -40694,7 +40694,7 @@ resounded with the dismal noise.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Barnaby Rudge — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Barnaby Rudge — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/clock,motif/death,motif/desire,motif/fire,motif/memory,motif/nature,motif/night,motif/poison,motif/road,motif/tears,motif/time,motif/well,concept/hope,concept/nature,character/barnaby_rudge"></span>
 
 
 ‘Cheer up, captain!’ cried Hugh, when they had roared themselves out of
@@ -40852,7 +40852,7 @@ he was drunk enough. It shall be done. I’ll make a note of it.’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Barnaby Rudge — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Barnaby Rudge — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/great_house,motif/night,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/humility,setting/court,character/barnaby_rudge,character/sir_john_chester"></span>
 
 
 Chapter 40
@@ -40994,7 +40994,7 @@ and here he turned his eyes upon him--‘to be more guarded. Will you?’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Barnaby Rudge — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Barnaby Rudge — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/lion,motif/night,motif/seasons,motif/secrets,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/revenge,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘I meant to give you no offence,’ said Hugh. ‘I don’t know what to say.
@@ -41156,7 +41156,7 @@ So he took another pinch of snuff, and went to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Barnaby Rudge — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Barnaby Rudge — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/prison,motif/silence,motif/time,motif/window,concept/resignation,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 41
@@ -41277,7 +41277,7 @@ savages bore off Dolly--or you?’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Barnaby Rudge — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Barnaby Rudge — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/home,motif/journey,motif/love,motif/marriage,motif/tears,motif/well,concept/fear,concept/mercy,character/barnaby_rudge,character/dolly_varden"></span>
 
 
 When he said ‘or you,’ Mrs Varden, despite herself, relaxed into a
@@ -41395,7 +41395,7 @@ upon that; and here’s dinner, which is much more to the purpose.’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Barnaby Rudge — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Barnaby Rudge — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/lion,motif/tears,motif/well,concept/conscience,concept/self,concept/suffering,histref/inquisition,setting/court,character/barnaby_rudge"></span>
 
 
 Dolly might have remonstrated against this summary dismissal of the
@@ -41502,7 +41502,7 @@ locksmith, as usual, and for the sake of peace and quietness, gave in.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_04" data-title="Barnaby Rudge — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_04" data-title="Barnaby Rudge — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/damsel,motif/crown,motif/home,motif/memory,motif/night,motif/spring,motif/tears,motif/time,motif/well,concept/body,concept/hope,setting/london,character/barnaby_rudge"></span>
 
 
 ‘What are you crying for, girl?’ he said. ‘What’s the matter with you?
@@ -41635,7 +41635,7 @@ friendly greetings like mild [[spring]] rain.
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="Barnaby Rudge — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="Barnaby Rudge — Chapter 42" data-chapter="Chapter 42" data-kind="chapter" data-tags="motif/clock,motif/death,motif/desire,motif/dreams,motif/dust,motif/fire,motif/home,motif/night,motif/silence,motif/storm,motif/time,motif/well,motif/window,concept/doubt,concept/imprisonment,concept/wonder,setting/london,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 42
@@ -41835,7 +41835,7 @@ should turn it pale and end his lonely watching.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Barnaby Rudge — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Barnaby Rudge — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/night,motif/river,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/hope,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 43
@@ -41948,7 +41948,7 @@ nod of acquiescence, and a bow of most profound respect.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Barnaby Rudge — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Barnaby Rudge — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/freedom,concept/honour,concept/self,setting/paris,character/barnaby_rudge,character/sir_john_chester,character/speed"></span>
 
 
 In the abstract there was nothing very remarkable in this pair, for
@@ -42071,7 +42071,7 @@ safety, and leave exposed posts to the duller wits.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Barnaby Rudge — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Barnaby Rudge — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/time,motif/well,concept/body,concept/charity,concept/conscience,concept/courage,concept/faith,concept/honour,concept/hope,concept/truth,character/barnaby_rudge,character/lord_george_gordon,character/sir_john_chester"></span>
 
 
 ‘Don’t apologise, for the world,’ replied Sir John sweetly; ‘old friends
@@ -42193,7 +42193,7 @@ in the same strange manner as before:
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Barnaby Rudge — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Barnaby Rudge — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/river,motif/soul,motif/storm,motif/time,motif/water,motif/well,character/barnaby_rudge,character/lord_george_gordon,character/sir_john_chester"></span>
 
 
 ‘I have nothing to say, sir, in reply, and no [[Desire|desire]] to hear anything
@@ -42300,7 +42300,7 @@ the street quite clear.
 
 
 
-<span class="atom-split" data-atom="chapter_44" data-title="Barnaby Rudge — Chapter 44" data-chapter="Chapter 44" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_44" data-title="Barnaby Rudge — Chapter 44" data-chapter="Chapter 44" data-kind="chapter" data-tags="motif/birds,motif/blood,motif/clock,motif/death,motif/desire,motif/fire,motif/grave,motif/horse,motif/love,motif/memory,motif/nature,motif/night,motif/road,motif/rose,motif/silence,motif/spring,motif/stars,motif/time,motif/well,motif/wind,concept/doubt,concept/honour,concept/mercy,concept/nature,concept/poverty,setting/court,character/barnaby_rudge"></span>
 
 
 Chapter 44
@@ -42506,7 +42506,7 @@ in a bumper.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Barnaby Rudge — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Barnaby Rudge — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/dawn,motif/desire,motif/fire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/love,motif/memory,motif/night,motif/road,motif/rose,motif/snow,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/history,concept/hope,concept/poverty,concept/resignation,form/history,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 45
@@ -42611,7 +42611,7 @@ change had caught his observation.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Barnaby Rudge — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Barnaby Rudge — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/garden,motif/love,motif/night,motif/road,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/self,concept/suffering,concept/wonder,character/barnaby_rudge"></span>
 
 
 Grip was by no means an idle or unprofitable member of the humble
@@ -42734,7 +42734,7 @@ pity.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Barnaby Rudge — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Barnaby Rudge — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/freedom,concept/honour,concept/nature,concept/self,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘Maybe, maybe,’ returned the blind man with a sigh, and yet with
@@ -42850,7 +42850,7 @@ him, she said:
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="Barnaby Rudge — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="Barnaby Rudge — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/flowers,motif/night,motif/sleep,motif/tears,motif/time,motif/well,character/barnaby_rudge"></span>
 
 
 ‘Is he near here?’
@@ -42941,7 +42941,7 @@ Barnaby’s return.
 
 
 
-<span class="atom-split" data-atom="chapter_46" data-title="Barnaby Rudge — Chapter 46" data-chapter="Chapter 46" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_46" data-title="Barnaby Rudge — Chapter 46" data-chapter="Chapter 46" data-kind="chapter" data-tags="archetype/pilgrim,motif/dance,motif/death,motif/desire,motif/dreams,motif/fire,motif/garden,motif/ghosts,motif/home,motif/journey,motif/leaves,motif/love,motif/moon,motif/night,motif/road,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/charity,concept/courage,concept/truth,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 46
@@ -43203,7 +43203,7 @@ from her own mind or from his, for the wealth of the whole wide world.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Barnaby Rudge — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Barnaby Rudge — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/dance,motif/great_house,motif/journey,motif/love,motif/nature,motif/road,motif/silence,motif/summer,motif/tears,motif/time,motif/wind,concept/charity,concept/fear,concept/hope,concept/nature,character/barnaby_rudge"></span>
 
 
 Chapter 47
@@ -43326,7 +43326,7 @@ I’d make a difference in him in ten minutes, I’ll be bound.’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Barnaby Rudge — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Barnaby Rudge — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="topos/double,archetype/rebel,motif/desire,motif/horse,motif/night,motif/road,motif/time,concept/charity,concept/jealousy,character/barnaby_rudge"></span>
 
 
 ‘Heaven has made none in more than twice ten years, sir,’ said the widow
@@ -43456,7 +43456,7 @@ set the [[dogs]] upon ‘em!’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Barnaby Rudge — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Barnaby Rudge — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/crown,motif/desire,motif/dust,motif/love,motif/night,motif/road,motif/silence,motif/storm,motif/time,concept/fear,concept/wonder,setting/london,character/barnaby_rudge"></span>
 
 
 They waited for no further dismissal, but fled precipitately, leaving
@@ -43550,7 +43550,7 @@ uncommon lustre.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Barnaby Rudge — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Barnaby Rudge — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/river,motif/road,motif/rose,motif/tears,motif/time,motif/well,concept/honour,concept/pride,concept/solitude,form/novel,character/barnaby_rudge,character/lord_george_gordon,character/speed"></span>
 
 
 Chapter 48
@@ -43678,7 +43678,7 @@ speaking to you,’ said the second gentleman mildly. ‘If you don’t know
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Barnaby Rudge — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Barnaby Rudge — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/desire,motif/lion,motif/prayer,motif/road,motif/silence,motif/time,motif/well,concept/body,concept/fear,concept/madness,concept/mercy,concept/pride,concept/self,concept/truth,character/barnaby_rudge,character/lord_george_gordon"></span>
 
 
 ‘Nay, Gashford,’ said Lord George, as Barnaby pulled off his hat again
@@ -43798,7 +43798,7 @@ lord, as I, an humble but devoted man, can render--’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Barnaby Rudge — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Barnaby Rudge — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/death,motif/flag,motif/tears,motif/time,motif/water,motif/well,form/hymn,character/barnaby_rudge,character/chorus,character/lord_george_gordon,character/simon_tappertit"></span>
 
 
 ‘What are you doing?’ cried his master, catching him by both hands;
@@ -43896,7 +43896,7 @@ more.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Barnaby Rudge — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Barnaby Rudge — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/flag,motif/love,motif/river,motif/road,motif/silence,motif/summer,motif/time,motif/well,concept/hope,concept/madness,setting/london,character/barnaby_rudge,character/lord_george_gordon,character/simon_tappertit"></span>
 
 
 Chapter 49
@@ -44023,7 +44023,7 @@ away.’
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Barnaby Rudge — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Barnaby Rudge — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/flag,motif/prison,motif/silence,motif/time,motif/well,concept/body,setting/london,character/barnaby_rudge"></span>
 
 
 ‘[[Well]] said!’ cried Hugh. ‘Ha ha! Nobly said! That’s the old stout
@@ -44123,7 +44123,7 @@ be some eighteen or twenty feet below.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Barnaby Rudge — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Barnaby Rudge — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/horse,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/freedom,concept/hope,concept/providence,character/barnaby_rudge"></span>
 
 
 Upon one of these little staircases--not that at the head of which Lord
@@ -44237,7 +44237,7 @@ people seemed to melt away as they advanced.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Barnaby Rudge — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Barnaby Rudge — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/flag,motif/horse,motif/river,motif/soul,motif/time,concept/body,concept/doubt,character/barnaby_rudge,character/speed"></span>
 
 
 The word of command to halt being given, the soldiers formed across the
@@ -44322,7 +44322,7 @@ inconvenient share of public notice.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Barnaby Rudge — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Barnaby Rudge — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/rose,motif/time,setting/london,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 50
@@ -44449,7 +44449,7 @@ boldness. Ah! I am sorry for him.’
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Barnaby Rudge — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Barnaby Rudge — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/death,motif/dust,motif/fire,motif/home,motif/nature,motif/night,motif/prison,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/nature,character/barnaby_rudge,character/lincoln,character/lord_george_gordon"></span>
 
 
 ‘Sorry, Muster Gashford!’ echoed Dennis.
@@ -44586,7 +44586,7 @@ think this looks a little more like business!’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Barnaby Rudge — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Barnaby Rudge — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/nature,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/endurance,concept/fear,concept/nature,character/barnaby_rudge,character/gabriel_varden"></span>
 
 
 Chapter 51
@@ -44695,7 +44695,7 @@ Simmuns’s knock!’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Barnaby Rudge — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Barnaby Rudge — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/dust,motif/home,motif/leaves,motif/night,motif/silence,motif/sleep,motif/storm,motif/time,motif/well,concept/body,concept/self,concept/truth,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘Me!’ cried the [[Well|well]]-known voice of Mr Tappertit. Gabriel opened the
@@ -44817,7 +44817,7 @@ writing. The locksmith took it from him, opened it, and read as follows:
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Barnaby Rudge — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Barnaby Rudge — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/rebel,archetype/shadow,motif/chalk,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/suffering,concept/wonder,character/barnaby_rudge,character/gabriel_varden,character/simon_tappertit"></span>
 
 
 ‘All good friends to our cause, I [[Hope|hope]] will be particular, and do no
@@ -44950,7 +44950,7 @@ hid the same still more, with the skirts of her dress.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Barnaby Rudge — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Barnaby Rudge — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/chalk,motif/dreams,motif/home,motif/sleep,motif/tears,motif/time,concept/hope,character/barnaby_rudge"></span>
 
 
 But it happened that the locksmith had been thinking of this very
@@ -45021,7 +45021,7 @@ astonishment at the daring conduct of master.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Barnaby Rudge — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Barnaby Rudge — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/animals,motif/bells,motif/city,motif/clock,motif/flag,motif/night,motif/time,concept/body,concept/hope,concept/union,character/barnaby_rudge,character/sunday"></span>
 
 
 Chapter 52
@@ -45129,7 +45129,7 @@ they looked on without speaking, and felt almost ashamed.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Barnaby Rudge — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Barnaby Rudge — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/innocent,motif/dust,motif/grave,motif/lion,motif/night,motif/time,motif/water,motif/well,concept/body,concept/honour,concept/wonder,character/barnaby_rudge,character/simon_tappertit,character/sunday"></span>
 
 
 ‘Ah!’ said Hugh at length, carrying it off with a laugh: ‘He’s a rare
@@ -45288,7 +45288,7 @@ secretary looked after him, both were lost in the crowd.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Barnaby Rudge — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Barnaby Rudge — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/king,motif/bells,motif/city,motif/clock,motif/cross,motif/home,motif/lamb,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/madness,concept/poverty,concept/self,character/barnaby_rudge"></span>
 
 
 Chapter 53
@@ -45410,7 +45410,7 @@ too! I am glad to see him back again, old Hugh!’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Barnaby Rudge — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Barnaby Rudge — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/king,motif/flag,motif/memory,motif/mirror,motif/night,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/friendship,concept/hope,concept/temptation,character/barnaby_rudge"></span>
 
 
 ‘I’m a Turk if he don’t give me a warmer welcome always than any man
@@ -45547,7 +45547,7 @@ planned, it must have been carried out. And now you are going, eh?’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Barnaby Rudge — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Barnaby Rudge — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/night,motif/sleep,motif/summer,motif/time,motif/well,motif/window,concept/body,concept/mercy,character/barnaby_rudge,character/lord_george_gordon,character/simon_tappertit"></span>
 
 
 ‘Quite sure, eh, Muster Gashford?’ chuckled the hangman.
@@ -45664,7 +45664,7 @@ strained his gaze and grew more eager yet.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Barnaby Rudge — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Barnaby Rudge — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/birds,motif/city,motif/home,motif/leaves,motif/love,motif/night,motif/road,motif/silence,motif/stars,motif/summer,motif/time,motif/well,concept/history,form/history,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 54
@@ -45787,7 +45787,7 @@ how beautiful it was!
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Barnaby Rudge — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Barnaby Rudge — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/villain,motif/dust,motif/fire,motif/garden,motif/insects,motif/nature,motif/road,motif/time,motif/window,concept/courage,concept/doubt,concept/fear,concept/nature,character/barnaby_rudge"></span>
 
 
 Was there no sound in the air, besides the gentle rustling of the
@@ -45902,7 +45902,7 @@ for Dennis.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Barnaby Rudge — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Barnaby Rudge — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/clock,motif/tears,motif/time,motif/well,motif/window,concept/body,character/barnaby_rudge,character/sunday"></span>
 
 
 ‘Look’ee here, Jack!’ said Hugh, striding up to him: ‘We are going to
@@ -45989,7 +45989,7 @@ companions.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Barnaby Rudge — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Barnaby Rudge — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/dreams,motif/night,motif/rose,motif/secrets,motif/ship,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/faith,concept/honour,concept/pride,setting/ship,character/barnaby_rudge,character/bottom"></span>
 
 
 Chapter 55
@@ -46124,7 +46124,7 @@ long [[Silence|silence]]--speaking the language of the dead--the Bell--the Bell!
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Barnaby Rudge — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Barnaby Rudge — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/fire,motif/garden,motif/nature,motif/nightingale,motif/pain,motif/time,motif/water,motif/window,concept/body,concept/madness,concept/nature,character/barnaby_rudge"></span>
 
 
 What hunt of spectres could surpass that dread pursuit and flight! Had
@@ -46243,7 +46243,7 @@ qualities that give delight in hell.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Barnaby Rudge — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Barnaby Rudge — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/flowers,motif/home,motif/night,motif/silence,motif/snow,motif/soul,motif/stars,motif/storm,motif/time,motif/water,motif/wind,concept/body,concept/longing,concept/mercy,concept/solitude,character/barnaby_rudge"></span>
 
 
 The burning pile, revealing rooms and passages red hot, through gaps
@@ -46326,7 +46326,7 @@ utter desolation.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Barnaby Rudge — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Barnaby Rudge — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/fire,motif/home,motif/horse,motif/journey,motif/love,motif/night,motif/prison,motif/road,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/mercy,concept/truth,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 56
@@ -46448,7 +46448,7 @@ to fade, as if for want of fuel.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Barnaby Rudge — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Barnaby Rudge — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/horse,motif/leaves,motif/stars,motif/time,motif/water,concept/conscience,concept/imagination,character/barnaby_rudge"></span>
 
 
 ‘Down--for one moment--for but one moment,’ said Mr Haredale, helping
@@ -46583,7 +46583,7 @@ being, or finding the least trace of any concealed straggler.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Barnaby Rudge — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Barnaby Rudge — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/monster,archetype/shadow,archetype/villain,motif/blood,motif/dust,motif/fire,motif/moon,motif/night,motif/time,concept/fear,concept/guilt,concept/melancholy,concept/wonder,character/barnaby_rudge,character/phantom"></span>
 
 
 After a short pause, Mr Haredale shouted twice or thrice. Then cried
@@ -46668,7 +46668,7 @@ grasp to-[[Night|night]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Barnaby Rudge — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Barnaby Rudge — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/desire,motif/grave,motif/horse,motif/secrets,motif/silence,motif/well,concept/fear,concept/honour,concept/pride,concept/solitude,character/barnaby_rudge"></span>
 
 
 Chapter 57
@@ -46787,7 +46787,7 @@ know what HE is! A bird, to be sure. My bird--my friend--Grip.’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Barnaby Rudge — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Barnaby Rudge — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/flag,motif/home,motif/horse,motif/night,motif/road,motif/silence,motif/time,motif/well,motif/wind,concept/freedom,concept/hope,setting/desert,character/barnaby_rudge"></span>
 
 
 ‘A devil, a kettle, a Grip, a Polly, a Protestant, no Popery!’ cried the
@@ -46930,7 +46930,7 @@ that the soldiers were coming up.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Barnaby Rudge — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Barnaby Rudge — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/blood,motif/flag,motif/horse,motif/silence,motif/time,motif/well,concept/body,concept/fear,character/barnaby_rudge"></span>
 
 
 At these words, Barnaby furled his [[Flag|flag]], and tied it round the pole. His
@@ -47053,7 +47053,7 @@ life run cold.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Barnaby Rudge — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Barnaby Rudge — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="topos/double,archetype/innocent,archetype/king,motif/fire,concept/body,character/barnaby_rudge"></span>
 
 
 Chapter 58
@@ -47163,7 +47163,7 @@ ragamuffins he belongs to?’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Barnaby Rudge — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Barnaby Rudge — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/birds,motif/blood,motif/clock,motif/dance,motif/night,motif/prison,motif/tears,motif/time,motif/well,concept/body,concept/revenge,concept/wonder,setting/london,character/barnaby_rudge"></span>
 
 
 ‘True enough!--I’ll tell you what. I wish, Tom Green, that I was a
@@ -47290,7 +47290,7 @@ Good bye, old Grip, good bye!
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="Barnaby Rudge — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="Barnaby Rudge — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/chains,motif/fire,motif/prison,motif/rose,motif/time,motif/well,concept/body,concept/hope,character/barnaby_rudge"></span>
 
 
 After some [[Time|time]], they came and unlocked the door, and called to him to
@@ -47351,7 +47351,7 @@ to partake, his master’s fallen fortunes.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Barnaby Rudge — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Barnaby Rudge — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/birds,motif/crown,motif/fire,motif/horse,motif/night,motif/rose,motif/silence,motif/swallow,motif/time,motif/well,concept/body,concept/truth,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 59
@@ -47476,7 +47476,7 @@ caged ‘em--one more peep!’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Barnaby Rudge — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Barnaby Rudge — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/grave,motif/home,motif/journey,motif/love,motif/night,motif/silence,motif/tears,motif/time,concept/fear,concept/pride,concept/providence,concept/self,setting/london,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 He thrust the little man aside as he spoke, and mounting on the steps,
@@ -47581,7 +47581,7 @@ shall like it all the better.’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Barnaby Rudge — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Barnaby Rudge — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/love,motif/nature,motif/soul,motif/time,concept/beauty,concept/nature,concept/wonder,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 They were proceeding at a rapid pace, and apparently with fewer
@@ -47699,7 +47699,7 @@ door. Thank God, thank God! Bless you, Sim. Heaven bless you for this!’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Barnaby Rudge — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Barnaby Rudge — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/hope,character/barnaby_rudge,character/dolly_varden,character/simon_tappertit"></span>
 
 
 [[Simon Tappertit]], who had at first implicitly believed that the
@@ -47823,7 +47823,7 @@ whose support he would certainly have rolled upon the ground.
 
 
 
-<span class="atom-split" data-atom="chapter_60" data-title="Barnaby Rudge — Chapter 60" data-chapter="Chapter 60" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_60" data-title="Barnaby Rudge — Chapter 60" data-chapter="Chapter 60" data-kind="chapter" data-tags="motif/fire,motif/leaves,motif/lion,motif/night,motif/prison,motif/road,motif/silence,motif/time,motif/well,concept/madness,concept/suicide,setting/london,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 60
@@ -48009,7 +48009,7 @@ in the [[Fire|fire]] themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Barnaby Rudge — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Barnaby Rudge — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/city,motif/dawn,motif/fire,motif/horse,motif/night,motif/prison,motif/road,motif/silence,motif/time,motif/well,concept/body,concept/mercy,setting/london,character/barnaby_rudge"></span>
 
 
 Chapter 61
@@ -48115,7 +48115,7 @@ they went on, and reached the Mansion [[house|House]] soon after sunrise.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Barnaby Rudge — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Barnaby Rudge — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/horse,motif/night,motif/prison,motif/soul,motif/time,motif/well,motif/window,concept/body,concept/guilt,concept/mercy,concept/wonder,character/barnaby_rudge,character/bottom,character/lord_mayor"></span>
 
 
 Mr Haredale threw himself from his [[Horse|horse]], but he had no need to knock
@@ -48238,7 +48238,7 @@ redress and no help. What are you going to do, sir?’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Barnaby Rudge — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Barnaby Rudge — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/city,motif/hill,motif/home,motif/night,motif/prison,motif/time,motif/well,concept/body,character/barnaby_rudge"></span>
 
 
 ‘To try elsewhere,’ answered Mr Haredale, who was by this [[Time|time]] on
@@ -48299,7 +48299,7 @@ was but another bead in the long rosary of his regrets.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Barnaby Rudge — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Barnaby Rudge — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dreams,motif/fire,motif/moon,motif/nature,motif/night,motif/pain,motif/silence,motif/sleep,motif/time,motif/water,motif/window,concept/body,concept/guilt,concept/hope,concept/nature,concept/solitude,character/barnaby_rudge,character/bottom,character/phantom"></span>
 
 
 Chapter 62
@@ -48431,7 +48431,7 @@ feet--but dead!’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Barnaby Rudge — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Barnaby Rudge — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/desire,motif/grave,motif/home,motif/leaves,motif/night,motif/seasons,motif/silence,motif/stars,motif/time,motif/water,concept/body,concept/conscience,concept/doubt,setting/london,character/barnaby_rudge,character/bottom"></span>
 
 
 The blind man, who knew that he had risen, motioned him to sit down
@@ -48559,7 +48559,7 @@ suppose--’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="Barnaby Rudge — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="Barnaby Rudge — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/home,motif/memory,motif/noon,motif/prison,motif/rose,motif/time,motif/window,concept/fear,concept/hope,concept/identity,concept/loneliness,concept/longing,setting/court,character/barnaby_rudge"></span>
 
 
 ‘--You are impatient,’ said the blind man, calmly; ‘it’s a good sign,
@@ -48697,7 +48697,7 @@ invoking all the powers of mischief.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="Barnaby Rudge — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="Barnaby Rudge — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/clock,motif/death,motif/fire,motif/flag,motif/journey,motif/nature,motif/prison,motif/time,motif/window,concept/body,concept/hope,concept/nature,setting/london,character/barnaby_rudge,character/lincoln,character/lord_mayor,character/simon_tappertit"></span>
 
 
 Chapter 63
@@ -48801,7 +48801,7 @@ street, halted before a locksmith’s [[house]]--the Golden Key.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="Barnaby Rudge — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="Barnaby Rudge — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/night,motif/rose,motif/window,concept/honour,concept/mercy,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 ‘Beat at the door,’ cried Hugh to the men about him. ‘We want one of his
@@ -48934,7 +48934,7 @@ I’ll do nothing for you.’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_03" data-title="Barnaby Rudge — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_03" data-title="Barnaby Rudge — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/night,motif/prison,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/conscience,concept/honour,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Mr Dennis was so affected by this constancy on the part of the staunch
@@ -49083,7 +49083,7 @@ halted in a dense mass before the [[Prison|prison]]-gate.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Barnaby Rudge — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Barnaby Rudge — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/animals,motif/blood,motif/death,motif/night,motif/prison,motif/silence,motif/summer,motif/well,concept/guilt,character/barnaby_rudge,character/gabriel_varden"></span>
 
 
 Chapter 64
@@ -49224,7 +49224,7 @@ those who gathered round him: ‘Give me my daughter!’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Barnaby Rudge — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Barnaby Rudge — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/desire,motif/fire,motif/lightning,motif/pain,motif/prison,motif/time,motif/water,motif/window,concept/body,form/fragment,character/barnaby_rudge"></span>
 
 
 He was down again, and up, and down once more, and buffeting with a
@@ -49328,7 +49328,7 @@ the ground, without the lips of one man being moistened.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Barnaby Rudge — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Barnaby Rudge — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/prison,motif/spring,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/fear,concept/imprisonment,concept/suffering,character/barnaby_rudge"></span>
 
 
 Meanwhile, and in the midst of all the roar and outcry, those who were
@@ -49422,7 +49422,7 @@ no need of it now, for, inside and out, the [[Prison|prison]] was in flames.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_01" data-title="Barnaby Rudge — Chapter 65 (part 1)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_01" data-title="Barnaby Rudge — Chapter 65 (part 1)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/death,motif/dreams,motif/dust,motif/fire,motif/grave,motif/prison,motif/silence,motif/sleep,motif/time,motif/water,motif/window,concept/body,concept/conscience,concept/endurance,concept/fear,concept/guilt,concept/hope,concept/self,character/barnaby_rudge,character/lucifer"></span>
 
 
 Chapter 65
@@ -49536,7 +49536,7 @@ single instant.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_02" data-title="Barnaby Rudge — Chapter 65 (part 2)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_02" data-title="Barnaby Rudge — Chapter 65 (part 2)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/love,motif/night,motif/prison,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/wonder,character/barnaby_rudge"></span>
 
 
 He was still looking down from his [[Window|window]] upon these things, when a band
@@ -49641,7 +49641,7 @@ day but one; and again implored his aid.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_03" data-title="Barnaby Rudge — Chapter 65 (part 3)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_03" data-title="Barnaby Rudge — Chapter 65 (part 3)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/night,motif/prison,motif/time,motif/well,concept/honour,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘Aid! For what!’ said Mr Dennis, playfully rapping the knuckles of the
@@ -49766,7 +49766,7 @@ WILL come in, will you, brother!’
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_04" data-title="Barnaby Rudge — Chapter 65 (part 4)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_04" data-title="Barnaby Rudge — Chapter 65 (part 4)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/chains,motif/city,motif/journey,motif/night,motif/silence,motif/time,motif/water,motif/well,concept/melancholy,concept/solitude,character/barnaby_rudge,character/bottom"></span>
 
 
 ‘I tell you, yes. What the devil ails you? Where are you going?’
@@ -49838,7 +49838,7 @@ ruins marked the spot where it had lately chafed and roared.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_01" data-title="Barnaby Rudge — Chapter 66 (part 1)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_01" data-title="Barnaby Rudge — Chapter 66 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/crown,motif/dawn,motif/fire,motif/night,motif/prison,motif/river,motif/time,motif/water,motif/window,concept/doubt,concept/faith,concept/forgiveness,concept/honour,concept/hope,setting/court,setting/london,character/barnaby_rudge,character/lord_george_gordon,character/lord_mayor"></span>
 
 
 Chapter 66
@@ -49952,7 +49952,7 @@ never intended this.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_02" data-title="Barnaby Rudge — Chapter 66 (part 2)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_02" data-title="Barnaby Rudge — Chapter 66 (part 2)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/fire,motif/hill,motif/nature,motif/night,motif/time,concept/fear,concept/nature,concept/suffering,character/barnaby_rudge,character/speed"></span>
 
 
 John Grueby added no entreaties, but he adopted a different kind of
@@ -50053,7 +50053,7 @@ ringing Lord Mansfield’s dinner-bell with all his might.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_03" data-title="Barnaby Rudge — Chapter 66 (part 3)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_03" data-title="Barnaby Rudge — Chapter 66 (part 3)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/fire,motif/horse,motif/night,motif/time,motif/window,concept/conscience,histref/christianity,setting/london,character/barnaby_rudge"></span>
 
 
 The scouts reported further, that this party meeting with some others
@@ -50105,7 +50105,7 @@ before midnight.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_01" data-title="Barnaby Rudge — Chapter 67 (part 1)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_01" data-title="Barnaby Rudge — Chapter 67 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/king,motif/chains,motif/city,motif/clock,motif/dawn,motif/desire,motif/fire,motif/horse,motif/night,motif/noon,motif/prison,motif/river,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,motif/well,concept/body,concept/imprisonment,concept/revenge,setting/court,character/barnaby_rudge"></span>
 
 
 Chapter 67
@@ -50215,7 +50215,7 @@ and refused to take anything but gold.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_02" data-title="Barnaby Rudge — Chapter 67 (part 2)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_02" data-title="Barnaby Rudge — Chapter 67 (part 2)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/chains,motif/city,motif/clock,motif/hill,motif/home,motif/nature,motif/night,motif/road,motif/rose,motif/silence,motif/snow,motif/time,concept/hope,concept/nature,setting/london,character/barnaby_rudge,character/lincoln,character/queen"></span>
 
 
 A rumour had now got into circulation, too, which diffused a greater
@@ -50321,7 +50321,7 @@ terrible [[Night|night]] seemed to be concentrated in one spot.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_03" data-title="Barnaby Rudge — Chapter 67 (part 3)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_03" data-title="Barnaby Rudge — Chapter 67 (part 3)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/fire,motif/horse,motif/road,motif/time,motif/window,concept/body,concept/madness,character/barnaby_rudge"></span>
 
 
 Full twenty times, the rioters, headed by one man who wielded an axe
@@ -50427,7 +50427,7 @@ saw but the pale faces of each other, and the red sky above them.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_04" data-title="Barnaby Rudge — Chapter 67 (part 4)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_04" data-title="Barnaby Rudge — Chapter 67 (part 4)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="topos/double,motif/horse,motif/journey,motif/silence,motif/time,motif/well,concept/fear,character/barnaby_rudge,character/bottom,character/edward_chester"></span>
 
 
 Mr Haredale yielded to the entreaties of his companion--more because he
@@ -50536,7 +50536,7 @@ were speedily stopped by one whispered word from Joe.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_01" data-title="Barnaby Rudge — Chapter 68 (part 1)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_01" data-title="Barnaby Rudge — Chapter 68 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/city,motif/death,motif/fire,motif/flowers,motif/leaves,motif/nature,motif/night,motif/sleep,motif/spring,motif/tears,motif/time,concept/nature,concept/solitude,concept/truth,concept/wonder,character/barnaby_rudge"></span>
 
 
 Chapter 68
@@ -50642,7 +50642,7 @@ attacking now, was Hugh on horseback, calling to the rest!
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_02" data-title="Barnaby Rudge — Chapter 68 (part 2)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_02" data-title="Barnaby Rudge — Chapter 68 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/city,motif/death,motif/dust,motif/fire,motif/horse,motif/moon,motif/night,motif/road,motif/stars,motif/time,motif/water,motif/well,concept/body,concept/suffering,setting/london,character/barnaby_rudge"></span>
 
 
 Sickened by the sights surrounding him on every side, and by the heat
@@ -50751,7 +50751,7 @@ led him slowly forward.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_01" data-title="Barnaby Rudge — Chapter 69 (part 1)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_01" data-title="Barnaby Rudge — Chapter 69 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/blood,motif/death,motif/desire,motif/insects,motif/night,motif/secrets,motif/silence,motif/stars,motif/tears,motif/time,motif/water,concept/doubt,concept/fear,concept/suffering,concept/truth,character/barnaby_rudge"></span>
 
 
 Chapter 69
@@ -50889,7 +50889,7 @@ without him.’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_02" data-title="Barnaby Rudge — Chapter 69 (part 2)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_02" data-title="Barnaby Rudge — Chapter 69 (part 2)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/blood,motif/death,motif/dust,motif/journey,motif/love,motif/night,motif/noon,motif/time,motif/water,motif/well,concept/body,concept/hope,setting/london,character/barnaby_rudge"></span>
 
 
 ‘Trim off these gewgaws,’ said his father, plucking the scraps of ribbon
@@ -51016,7 +51016,7 @@ and Dennis stood before them.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_03" data-title="Barnaby Rudge — Chapter 69 (part 3)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_03" data-title="Barnaby Rudge — Chapter 69 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/desert,motif/horse,motif/love,motif/night,motif/prison,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/hope,concept/resignation,concept/truth,concept/wonder,setting/desert,character/barnaby_rudge"></span>
 
 
 ‘No offence, no offence,’ said that personage in a conciliatory tone, as
@@ -51142,7 +51142,7 @@ the grass--more, when they turned him over--that was all.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_04" data-title="Barnaby Rudge — Chapter 69 (part 4)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_04" data-title="Barnaby Rudge — Chapter 69 (part 4)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/death,motif/horse,motif/road,motif/sleep,motif/time,concept/body,concept/courage,concept/hope,setting/london,character/barnaby_rudge"></span>
 
 
 ‘Stand out of the way,’ replied the officer. ‘Serjeant! see what he had
@@ -51203,7 +51203,7 @@ saw that this [[Hope|hope]] was gone, and felt that he was riding to his [[Death
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_01" data-title="Barnaby Rudge — Chapter 70 (part 1)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_01" data-title="Barnaby Rudge — Chapter 70 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/lamb,motif/lion,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/jealousy,concept/mercy,concept/nature,concept/providence,setting/court,character/barnaby_rudge,character/simon_tappertit"></span>
 
 
 Chapter 70
@@ -51316,7 +51316,7 @@ shrieked again, and evinced symptoms of faintness.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_02" data-title="Barnaby Rudge — Chapter 70 (part 2)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_02" data-title="Barnaby Rudge — Chapter 70 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/night,motif/river,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/self,concept/temptation,histref/reformation,setting/london,character/barnaby_rudge"></span>
 
 
 ‘Lovey, my dear,’ whispered Dennis, drawing his chair close to hers.
@@ -51487,7 +51487,7 @@ must have scratched her features, on the spot.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_01" data-title="Barnaby Rudge — Chapter 71 (part 1)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_01" data-title="Barnaby Rudge — Chapter 71 (part 1)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/home,motif/night,motif/prison,motif/storm,motif/summer,motif/supernatural,motif/time,motif/water,concept/conscience,concept/conversion,concept/courage,concept/doubt,concept/endurance,concept/fear,concept/resignation,concept/suffering,concept/truth,character/barnaby_rudge,character/dolly_varden,character/emma_haredale,character/nurse"></span>
 
 
 Chapter 71
@@ -51597,7 +51597,7 @@ been before.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_02" data-title="Barnaby Rudge — Chapter 71 (part 2)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_02" data-title="Barnaby Rudge — Chapter 71 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/journey,motif/night,motif/pain,motif/silence,motif/stars,motif/storm,motif/tears,motif/time,concept/hope,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 The [[Night|night]] had now come; and for the first [[Time|time]] (for their jailers had
@@ -51727,7 +51727,7 @@ the sea, and is out of Britain.’
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_03" data-title="Barnaby Rudge — Chapter 71 (part 3)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_03" data-title="Barnaby Rudge — Chapter 71 (part 3)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,character/barnaby_rudge,character/emma_haredale"></span>
 
 
 ‘I thank God for it,’ said [[Emma]], faintly.
@@ -51852,7 +51852,7 @@ mother.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_04" data-title="Barnaby Rudge — Chapter 71 (part 4)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_04" data-title="Barnaby Rudge — Chapter 71 (part 4)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/lion,motif/night,motif/rose,motif/time,concept/body,concept/humility,concept/pride,concept/truth,character/barnaby_rudge,character/edward_chester,character/emma_haredale,character/simon_tappertit"></span>
 
 
 What fainting there was, what laughing, what crying, what sobbing, what
@@ -51931,7 +51931,7 @@ heart! what a long way it was to the Black [[Lion]]!
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_01" data-title="Barnaby Rudge — Chapter 72 (part 1)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_01" data-title="Barnaby Rudge — Chapter 72 (part 1)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/lion,motif/love,motif/nature,motif/night,motif/pain,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/doubt,concept/imagination,concept/nature,character/barnaby_rudge,character/edward_chester,character/nurse"></span>
 
 
 Chapter 72
@@ -52047,7 +52047,7 @@ said, as he looked all round the board:
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_02" data-title="Barnaby Rudge — Chapter 72 (part 2)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_02" data-title="Barnaby Rudge — Chapter 72 (part 2)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/lion,motif/night,motif/summer,motif/time,motif/well,motif/winter,concept/hope,histref/america,setting/america,character/barnaby_rudge"></span>
 
 
 ‘It’s been took off!’
@@ -52170,7 +52170,7 @@ her.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_01" data-title="Barnaby Rudge — Chapter 73 (part 1)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_01" data-title="Barnaby Rudge — Chapter 73 (part 1)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/fire,motif/grave,motif/night,motif/rose,motif/time,concept/doubt,concept/fear,concept/freedom,concept/melancholy,character/barnaby_rudge,character/edward_chester,character/lord_george_gordon,character/nurse"></span>
 
 
 Chapter 73
@@ -52277,7 +52277,7 @@ over all errand-boys, servant-girls, and ‘prentices.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_02" data-title="Barnaby Rudge — Chapter 73 (part 2)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_02" data-title="Barnaby Rudge — Chapter 73 (part 2)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/death,motif/love,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/fear,concept/freedom,concept/hope,concept/melancholy,concept/self,character/barnaby_rudge"></span>
 
 
 As day deepened into evening, and darkness crept into the nooks and
@@ -52403,7 +52403,7 @@ then flung himself, sobbing, on his miserable bed.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_03" data-title="Barnaby Rudge — Chapter 73 (part 3)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_03" data-title="Barnaby Rudge — Chapter 73 (part 3)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/desire,motif/love,motif/moon,motif/night,motif/prayer,motif/prison,motif/stars,motif/time,motif/window,concept/doubt,concept/fear,concept/forgiveness,concept/guilt,concept/hope,concept/truth,form/fragment,form/hymn,setting/cathedral,setting/court,character/barnaby_rudge"></span>
 
 
 But the [[Moon|moon]] came slowly up in all her gentle glory, and the [[Stars|stars]]
@@ -52521,7 +52521,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_04" data-title="Barnaby Rudge — Chapter 73 (part 4)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_04" data-title="Barnaby Rudge — Chapter 73 (part 4)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/death,motif/horse,motif/night,motif/sleep,motif/time,motif/well,concept/fanaticism,concept/fear,concept/guilt,setting/london,character/barnaby_rudge,character/lord_george_gordon,character/lord_mayor,character/phantom"></span>
 
 
 ‘Begone!’ he cried. ‘Leave me! You plot, do you! You plot to get speech
@@ -52593,7 +52593,7 @@ on by so many for their own purposes, was desolate and [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_01" data-title="Barnaby Rudge — Chapter 74 (part 1)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_01" data-title="Barnaby Rudge — Chapter 74 (part 1)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/flowers,motif/night,motif/prison,motif/rose,motif/silence,motif/well,concept/fear,form/novel,character/barnaby_rudge,character/gabriel_varden"></span>
 
 
 Chapter 74
@@ -52718,7 +52718,7 @@ vigilance and caution.
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_02" data-title="Barnaby Rudge — Chapter 74 (part 2)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_02" data-title="Barnaby Rudge — Chapter 74 (part 2)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/rose,motif/silence,motif/sleep,motif/soul,motif/spring,motif/stars,motif/time,motif/well,concept/courage,concept/nature,concept/revenge,character/barnaby_rudge"></span>
 
 
 The sleeping man was Hugh; and perhaps it was not unnatural for Dennis
@@ -52877,7 +52877,7 @@ he could: waiting his further pleasure.
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_01" data-title="Barnaby Rudge — Chapter 75 (part 1)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_01" data-title="Barnaby Rudge — Chapter 75 (part 1)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/home,motif/memory,motif/river,motif/summer,motif/well,motif/window,concept/doubt,concept/hope,concept/pride,concept/self,setting/court,character/barnaby_rudge,character/gabriel_varden,character/lord_mayor,character/sir_john_chester"></span>
 
 
 Chapter 75
@@ -53002,7 +53002,7 @@ looking on, ‘and very pressing business.’
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_02" data-title="Barnaby Rudge — Chapter 75 (part 2)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_02" data-title="Barnaby Rudge — Chapter 75 (part 2)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/memory,motif/night,motif/prison,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,character/barnaby_rudge,character/sir_john_chester"></span>
 
 
 ‘I cannot say you are the more welcome for being independent, and having
@@ -53131,7 +53131,7 @@ to the [[Time|time]] of his being taken and put in jail.’
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_03" data-title="Barnaby Rudge — Chapter 75 (part 3)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_03" data-title="Barnaby Rudge — Chapter 75 (part 3)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/death,motif/nature,motif/night,motif/prison,motif/silence,motif/time,motif/well,concept/history,concept/nature,concept/revenge,form/history,form/sketch,character/barnaby_rudge"></span>
 
 
 ‘Very discreet of Mr Dennis,’ observed Sir John with a slight yawn,
@@ -53241,7 +53241,7 @@ perfectly trustworthy!’
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_04" data-title="Barnaby Rudge — Chapter 75 (part 4)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_04" data-title="Barnaby Rudge — Chapter 75 (part 4)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/conscience,concept/hope,concept/truth,character/barnaby_rudge,character/sir_john_chester"></span>
 
 
 ‘Sir John, Sir John,’ returned the locksmith, ‘at twelve tomorrow, these
@@ -53342,7 +53342,7 @@ many yesterdays before.
 
 
 
-<span class="atom-split" data-atom="chapter_76" data-title="Barnaby Rudge — Chapter 76" data-chapter="Chapter 76" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_76" data-title="Barnaby Rudge — Chapter 76" data-chapter="Chapter 76" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/city,motif/clock,motif/death,motif/home,motif/night,motif/pain,motif/prison,motif/river,motif/silence,motif/sleep,motif/summer,motif/time,motif/well,concept/courage,concept/despair,concept/eternity,concept/fear,concept/hope,concept/longing,concept/mercy,concept/self,setting/court,character/barnaby_rudge,character/sir_john_chester"></span>
 
 
 Chapter 76
@@ -53560,7 +53560,7 @@ on his pallet, listening for the [[Clock|clock]] to strike again.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_01" data-title="Barnaby Rudge — Chapter 77 (part 1)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_01" data-title="Barnaby Rudge — Chapter 77 (part 1)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dawn,motif/death,motif/dreams,motif/night,motif/prison,motif/road,motif/rose,motif/silence,motif/stars,motif/summer,motif/time,motif/window,concept/hope,concept/solitude,setting/cathedral,character/barnaby_rudge"></span>
 
 
 Chapter 77
@@ -53667,7 +53667,7 @@ thrusting its obscene presence upon their waking senses.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_02" data-title="Barnaby Rudge — Chapter 77 (part 2)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_02" data-title="Barnaby Rudge — Chapter 77 (part 2)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/home,motif/horse,motif/night,motif/noon,motif/prison,motif/river,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/body,concept/hope,setting/london,character/barnaby_rudge"></span>
 
 
 Five o’[[Clock|clock]] had struck--six--seven--and eight. Along the two main
@@ -53774,7 +53774,7 @@ down to it, when the sight’s over.’
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_03" data-title="Barnaby Rudge — Chapter 77 (part 3)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_03" data-title="Barnaby Rudge — Chapter 77 (part 3)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/desire,motif/lion,motif/secrets,motif/time,motif/well,concept/charity,concept/fear,concept/guilt,concept/heroism,concept/mercy,character/barnaby_rudge"></span>
 
 
 ‘I [[Fear|fear]],’ observed the clergyman, shaking his head, ‘that you are
@@ -53895,7 +53895,7 @@ between the two attendants.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_04" data-title="Barnaby Rudge — Chapter 77 (part 4)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_04" data-title="Barnaby Rudge — Chapter 77 (part 4)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/clock,motif/death,motif/memory,motif/nature,motif/night,motif/prayer,motif/prison,motif/stars,motif/time,motif/well,motif/wind,concept/body,concept/conscience,concept/faith,concept/hope,concept/mercy,concept/nature,concept/pride,concept/wonder,form/satire,character/barnaby_rudge"></span>
 
 
 It was at this moment that the [[Clock|clock]] struck the first stroke of twelve,
@@ -54029,7 +54029,7 @@ that waited for him on the spot.
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_01" data-title="Barnaby Rudge — Chapter 78 (part 1)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_01" data-title="Barnaby Rudge — Chapter 78 (part 1)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="motif/fire,motif/lion,motif/summer,motif/tears,motif/time,motif/well,concept/melancholy,histref/america,setting/america,character/barnaby_rudge,character/dolly_varden"></span>
 
 
 Chapter 78
@@ -54146,7 +54146,7 @@ Joe.’
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_02" data-title="Barnaby Rudge — Chapter 78 (part 2)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_02" data-title="Barnaby Rudge — Chapter 78 (part 2)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/grave,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/pride,concept/unattainable,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘Yes--for every kind and honest word you uttered, went to my heart. For
@@ -54266,7 +54266,7 @@ not?’ went out for a walk.
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_01" data-title="Barnaby Rudge — Chapter 79 (part 1)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_01" data-title="Barnaby Rudge — Chapter 79 (part 1)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/lion,motif/love,motif/memory,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/endurance,concept/nature,concept/pride,concept/suffering,concept/truth,character/barnaby_rudge,character/edward_chester"></span>
 
 
 Chapter 79
@@ -54398,7 +54398,7 @@ one harsh hour, since I can first remember.’
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_02" data-title="Barnaby Rudge — Chapter 79 (part 2)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_02" data-title="Barnaby Rudge — Chapter 79 (part 2)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/home,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/forgiveness,concept/honour,concept/melancholy,concept/nature,concept/solitude,character/barnaby_rudge"></span>
 
 
 ‘You speak too fondly,’ he answered, ‘and yet I cannot wish you were
@@ -54517,7 +54517,7 @@ waved his hat until the daylight shone between its brim and [[Crown|crown]].
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_03" data-title="Barnaby Rudge — Chapter 79 (part 3)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_03" data-title="Barnaby Rudge — Chapter 79 (part 3)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/blood,motif/childhood,motif/clock,motif/desire,motif/dust,motif/grave,motif/home,motif/horse,motif/night,motif/prayer,motif/silence,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/wonder,form/inscription,setting/court,character/barnaby_rudge,character/gabriel_varden"></span>
 
 
 But in all the bandyings from hand to hand, and strivings to and fro,
@@ -54643,7 +54643,7 @@ They had reached the gate by this [[Time|time]], and bidding each other good
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_01" data-title="Barnaby Rudge — Chapter 80 (part 1)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_01" data-title="Barnaby Rudge — Chapter 80 (part 1)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/flowers,motif/leaves,motif/night,motif/snow,motif/time,motif/window,concept/doubt,concept/honour,concept/misanthropy,character/barnaby_rudge"></span>
 
 
 Chapter 80
@@ -54750,7 +54750,7 @@ knock was repeated, in a yet more startling manner than before.
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_02" data-title="Barnaby Rudge — Chapter 80 (part 2)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_02" data-title="Barnaby Rudge — Chapter 80 (part 2)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="archetype/damsel,archetype/shadow,motif/desire,motif/home,motif/lion,motif/tears,motif/time,motif/well,concept/forgiveness,concept/truth,concept/wonder,setting/court,character/barnaby_rudge"></span>
 
 
 ‘Is anybody going to open that door?’ cried the locksmith. ‘Or shall I
@@ -54868,7 +54868,7 @@ distinct times.
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_03" data-title="Barnaby Rudge — Chapter 80 (part 3)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_03" data-title="Barnaby Rudge — Chapter 80 (part 3)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/storm,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/madness,concept/nature,concept/unattainable,concept/wonder,character/barnaby_rudge"></span>
 
 
 ‘You hear what your mistress says, my [[Love|love]],’ remarked the locksmith.
@@ -54965,7 +54965,7 @@ we’ll be all the merrier for this interruption!’
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_01" data-title="Barnaby Rudge — Chapter 81 (part 1)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_01" data-title="Barnaby Rudge — Chapter 81 (part 1)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/love,motif/night,motif/road,motif/rose,motif/sleep,motif/time,motif/well,motif/window,concept/fear,concept/hope,setting/london,character/barnaby_rudge,character/edward_chester,character/phantom"></span>
 
 
 Chapter 81
@@ -55077,7 +55077,7 @@ way on foot.
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_02" data-title="Barnaby Rudge — Chapter 81 (part 2)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_02" data-title="Barnaby Rudge — Chapter 81 (part 2)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/death,motif/dust,motif/fire,motif/home,motif/leaves,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/fear,concept/heroism,concept/indolence,concept/melancholy,concept/mercy,concept/nature,concept/self,concept/temptation,character/barnaby_rudge,character/sir_john_chester"></span>
 
 
 He passed so near the Maypole, that he could see its smoke rising from
@@ -55199,7 +55199,7 @@ rough companion, but I would not go so far to avoid you.’
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_03" data-title="Barnaby Rudge — Chapter 81 (part 3)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_03" data-title="Barnaby Rudge — Chapter 81 (part 3)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/fool,archetype/villain,motif/death,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/faith,concept/freedom,concept/honour,concept/hope,concept/nature,concept/suffering,concept/truth,character/barnaby_rudge"></span>
 
 
 ‘Listen to me,’ said Mr Haredale. ‘Listen to me.’
@@ -55311,7 +55311,7 @@ have we met! To-morrow would have cast us far apart for ever!’
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_04" data-title="Barnaby Rudge — Chapter 81 (part 4)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_04" data-title="Barnaby Rudge — Chapter 81 (part 4)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/home,motif/nature,motif/night,motif/prison,motif/time,motif/well,concept/body,concept/charity,concept/courage,concept/faith,concept/history,concept/honour,concept/nature,concept/suffering,form/history,setting/court,setting/london,character/barnaby_rudge,character/lord_george_gordon,character/phantom,character/queen,character/speed"></span>
 
 
 ‘That being the case,’ returned Sir John, without the least emotion, ‘it
@@ -55420,7 +55420,7 @@ poor crazy lord who died in Newgate.
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_05" data-title="Barnaby Rudge — Chapter 81 (part 5)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_05" data-title="Barnaby Rudge — Chapter 81 (part 5)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="motif/city,motif/home,motif/horse,motif/lion,motif/poison,motif/prison,motif/secrets,motif/time,motif/well,concept/beauty,concept/mercy,setting/court,character/barnaby_rudge,character/lord_george_gordon,character/simon_tappertit"></span>
 
 
 To the last, he was truly served by bluff John Grueby. John was at his
@@ -55518,7 +55518,7 @@ famous preservers of youthful looks, depend upon it.
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_06" data-title="Barnaby Rudge — Chapter 81 (part 6)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_06" data-title="Barnaby Rudge — Chapter 81 (part 6)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/chalk,motif/death,motif/garden,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/soul,motif/time,motif/well,concept/freedom,setting/london,character/barnaby_rudge,character/nurse"></span>
 
 
 It was a long [[Time|time]], too, before there was such a country inn as the

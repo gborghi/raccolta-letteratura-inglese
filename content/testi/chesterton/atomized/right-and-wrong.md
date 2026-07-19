@@ -101,7 +101,7 @@ come tormento per i nostri crimini.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="right-and-wrong (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="right-and-wrong (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/dance,motif/death,motif/poison,motif/water,motif/well,concept/honour"></span>
 
 
 The [[Song]] of Right and Wrong  

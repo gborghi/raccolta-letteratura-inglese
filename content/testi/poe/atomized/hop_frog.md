@@ -416,7 +416,7 @@ seen again.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Hop-Frog (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Hop-Frog (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/bells,motif/nature,motif/night,motif/pain,motif/road,motif/time,motif/well,concept/beauty,concept/nature,concept/self,form/novel,setting/court,character/dwarf"></span>
 
 
 I never knew anyone so keenly alive to a joke as the [[King|king]] was. He seemed
@@ -517,7 +517,7 @@ events, [[Time|time]] flew; and, as a last resort they sent for Trippetta and
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Hop-Frog (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Hop-Frog (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/monster,archetype/tyrant,motif/silence,motif/swallow,motif/tears,motif/window,concept/madness,concept/wonder,form/novel,character/dwarf"></span>
 
 
 When the two little friends obeyed the summons of the [[King|king]] they found him
@@ -639,7 +639,7 @@ what is the diversion?”
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Hop-Frog (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Hop-Frog (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/king,motif/animals,motif/blood,motif/chains,motif/clock,motif/nature,motif/night,motif/well,motif/window,concept/beauty,concept/nature,character/chorus,character/dwarf,character/flambeau"></span>
 
 
 “We call it,” replied the cripple, “the Eight Chained Ourang-Outangs, and
@@ -749,7 +749,7 @@ the floor.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Hop-Frog (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Hop-Frog (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/king,motif/chains,motif/rose,motif/silence,motif/time,motif/well,concept/revenge,character/dwarf,character/flambeau"></span>
 
 
 Soon after this, the [[King|king]] and his seven friends having reeled about the

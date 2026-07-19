@@ -2243,7 +2243,7 @@ Hilaire Belloc, 1915
 
 
 
-<span class="atom-split" data-atom="chapter_01_sixteen" data-title="The Emerald of Catherine the Great — Chapter 1: SIXTEEN" data-chapter="SIXTEEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_sixteen" data-title="The Emerald of Catherine the Great — Chapter 1: SIXTEEN" data-chapter="SIXTEEN" data-kind="chapter" data-tags="setting/russia"></span>
 
 
 CHAPTER SIXTEEN
@@ -2273,7 +2273,7 @@ Whitsun, 1926.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Emerald of Catherine the Great — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Emerald of Catherine the Great — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england,setting/russia"></span>
 
 
 CHAPTER ONE
@@ -2305,7 +2305,7 @@ His only son George, when of an age for such occupations, which was some five ye
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Emerald of Catherine the Great — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Emerald of Catherine the Great — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 William Bohun himself died somewhat prematurely in the eighth year after his transmigration, and his wife, who, though much desiring to cut a proper figure in her new world, had never properly succeeded in doing so, followed him within three months to the grave. Her younger daughters had received an excellent education; her eldest, born in her father’s earlier days, had perhaps less refinement of accent and deportment — but on the other hand, her solid worth and quite exceptional dowry had procured her alliance with the heir to Sir Philip Goole, a landed gentleman in the West of [[England]] possessed of a fine town house in Cavendish Square, but indifferent to politics.
@@ -2339,7 +2339,7 @@ If it be not blasphemy to suggest any inefficiency in our Teutonic cousins, I sh
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Emerald of Catherine the Great — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Emerald of Catherine the Great — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/great_house,motif/animals,concept/satire_of_society,form/novel,setting/england"></span>
 
 
 CHAPTER TWO
@@ -2373,7 +2373,7 @@ Aunt Amelia had made a pompous present of him three years before to her beloved 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Emerald of Catherine the Great — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Emerald of Catherine the Great — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 It happened precisely at the opening of the flat racing season, three years before the opening of the story which you now have the ecstatic pleasure of reading, that young Lord Galton, Marjorie’s cousin — recently acceded to the title by the sudden and unexpected death of his father from I know not what forms of excess — had pulled a horse.
@@ -2421,7 +2421,7 @@ The second guest at that table, next to the Home Secretary himself, was yet anot
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Emerald of Catherine the Great — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Emerald of Catherine the Great — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/gems_jewels,concept/satire_of_society,concept/economics,concept/jealousy,form/novel,form/satire"></span>
 
 
 Unmarried, with a small private income, the poor nest egg of his improvident father, amply endowed, with no pupils to speak of, and the dodekahedral hobby, he would have been as happy as it is possible for an atheist approaching death to be, had it not been for the existence of that infamous charlatan, Bertram Leader, not even a Fellow of St. Filbert’s, and mere Reader to the University in Amorphic Crystallogy.
@@ -2453,7 +2453,7 @@ Therefore was his future black; but in the little circle he was a sort of lion. 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Emerald of Catherine the Great — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Emerald of Catherine the Great — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,form/novel,form/satire"></span>
 
 
 “What train is he coming by?” said Tommy Galton, sunk into a deep chair.
@@ -2511,7 +2511,7 @@ To action, therefore — to the Emerald!
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="The Emerald of Catherine the Great — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="The Emerald of Catherine the Great — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/gems_jewels,concept/deception,concept/guilt,concept/secrecy_and_concealment,form/novel,form/detective_fiction"></span>
 
 
 CHAPTER THREE
@@ -2597,7 +2597,7 @@ Far in the Eastern Wing where, mured in stone Arrived at by a passage cold that 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Emerald of Catherine the Great — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Emerald of Catherine the Great — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/great_house"></span>
 
 
 CHAPTER FOUR
@@ -2633,7 +2633,7 @@ There is an instinct planted in man by Mr. Darwin, which impels him to pick up a
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Emerald of Catherine the Great — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Emerald of Catherine the Great — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/gems_jewels,motif/prison,concept/class_conflict,concept/crime_and_punishment,concept/fear,concept/social_injustice,concept/deception,form/novel"></span>
 
 
 But even as he thus went up by the dim candlelight in the cold dawn, along that prison-like perspective of iron-barred windows and whitewash, with stone flags ringing to his feet, a vision of judgment arose within him. His teeth chattered at the memory of the police.
@@ -2673,7 +2673,7 @@ Marjorie did not know; he was pretty sure of that by her way to him. But still .
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Emerald of Catherine the Great — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Emerald of Catherine the Great — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/gems_jewels,concept/deception,concept/guilt,concept/fear,concept/secrecy_and_concealment,form/novel"></span>
 
 
 He made his decision; he slowly picked up the small change off his dressing table and shuffled it into his trousers pocket. Then he mechanically followed it with his hand, and found something that was not a coin....
@@ -2751,7 +2751,7 @@ And the Home Secretary, glancing up hurriedly with a half-frightened look, said,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Emerald of Catherine the Great — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Emerald of Catherine the Great — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/gems_jewels,concept/ratiocination_detection,concept/deception,concept/guilt,form/novel,form/detective_fiction"></span>
 
 
 CHAPTER FIVE
@@ -2805,7 +2805,7 @@ The Home Secretary put on his expression of gravity in the third degree — the 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Emerald of Catherine the Great — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Emerald of Catherine the Great — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/gems_jewels,concept/deception,concept/appearance_vs_reality,form/novel,form/detective_fiction"></span>
 
 
 “Oh, look here,” said Lord Galton impatiently, “cut out all that! He’s not in the hall. He went off to the library, and when he gets there he strikes root. There’ll be no one about — they’re laying the table. Come with me, and I’ll prove it.”
@@ -2851,7 +2851,7 @@ It is said that under the strain of very severe emotion men do things unnatural,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Emerald of Catherine the Great — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Emerald of Catherine the Great — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/satanic_figure,motif/supernatural,concept/temptation,concept/deception,concept/sin_and_the_fall,concept/fate_and_free_will,form/novel,character/milton"></span>
 
 
 It must be got rid of!
@@ -2899,7 +2899,7 @@ to the University.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Emerald of Catherine the Great — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Emerald of Catherine the Great — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/trickster,motif/gems_jewels,motif/the_supernatural,motif/concealment_hidden_identity,concept/deception,concept/crime_and_punishment,form/detective_fiction"></span>
 
 
 It was in the Professor’s conception of things that when one is deceiving a fellow being one must talk the whole time. He is not the only one to suffer from that delusion.
@@ -2935,7 +2935,7 @@ Now there happened to be in the room at that moment an Angel. He had come to Pau
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="The Emerald of Catherine the Great — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="The Emerald of Catherine the Great — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/gems_jewels,motif/the_supernatural,motif/concealment_hidden_identity,concept/deception,concept/guilt,concept/satire_of_society,form/detective_fiction"></span>
 
 
 “Don’t pull out that lump of chocolate! It will make you look a fool. The great don’t eat chocolate, except out of large expensive wooden boxes with Japanese pictures outside; elaborate boxes. The rich do not carry half-broken slabs of chocolate in their pockets — still less in their tobacco pouches!”
@@ -2955,7 +2955,7 @@ Next he tortured himself as to what he should do; obviously he must keep it upon
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="The Emerald of Catherine the Great — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="The Emerald of Catherine the Great — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="setting/england"></span>
 
 
 CHAPTER SIX
@@ -3043,7 +3043,7 @@ Such was the plan of George Whaley. Once more he recited, but in an undertone, a
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Emerald of Catherine the Great — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Emerald of Catherine the Great — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/deception,form/detective_fiction,form/satire"></span>
 
 
 CHAPTER SEVEN
@@ -3099,7 +3099,7 @@ Within twenty minutes more the great statesman was in his official palace of Whi
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Emerald of Catherine the Great — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Emerald of Catherine the Great — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 “Morden,” said the Home Secretary.
@@ -3171,7 +3171,7 @@ Morden nodded mysteriously, and whispered again: “Yes, there is! He was only e
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Emerald of Catherine the Great — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Emerald of Catherine the Great — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/great_house"></span>
 
 
 CHAPTER EIGHT
@@ -3243,7 +3243,7 @@ He searched in his pocket. Humphrey de Bohun looked to see the jewel appear. Not
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Emerald of Catherine the Great — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Emerald of Catherine the Great — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/gems_jewels,concept/deception,concept/ratiocination_detection,concept/satire_of_society,form/detective_fiction"></span>
 
 
 “Now, my dear Humphrey,” said the Professor, “let us take two chairs; yes ... two chairs ... two chairs. Ah! yes, two chairs.” They took two chairs. “And let me pull up this little table....” He had become almost businesslike, not to say sprightly, in concentrating upon what he was about to do.
@@ -3307,7 +3307,7 @@ But wait! Should he tell the great detective when he arrived? No. It would be on
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Emerald of Catherine the Great — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Emerald of Catherine the Great — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER NINE
@@ -3379,7 +3379,7 @@ The call on Marjorie’s intelligence woke her to action.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Emerald of Catherine the Great — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Emerald of Catherine the Great — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/detective,motif/concealment_hidden_identity,motif/masks_disguise,motif/the_supernatural,motif/gems_jewels,concept/deception,concept/satire_of_society,form/detective_fiction"></span>
 
 
 “Because,” replied the young lady, a little acidly, “one of our guests, Miss Victoria Mosel, has just come back from Japan. She was there in September staying with our Ambassadress at Tokio.”
@@ -3433,7 +3433,7 @@ He saw the Home Secretary go off with a very changed expression in the gloom of 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Emerald of Catherine the Great — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Emerald of Catherine the Great — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/detective,motif/gems_jewels,motif/concealment_hidden_identity,motif/the_supernatural,motif/wine_and_drink,concept/deception,form/detective_fiction"></span>
 
 
 “Mr. Collop,” he said without hesitation, “you know me? Hamish McTaggart — the Daily Sun? ... You’ll excuse me for not using your real name?” And he smiled.
@@ -3495,7 +3495,7 @@ Had she had tears she would have wept. What would come of all this?
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Emerald of Catherine the Great — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Emerald of Catherine the Great — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/class_conflict,concept/deception,form/detective_fiction,form/satire"></span>
 
 
 CHAPTER TEN
@@ -3553,7 +3553,7 @@ McTaggart was tired of standing up. He sat down in another chair, and said “Ye
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Emerald of Catherine the Great — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Emerald of Catherine the Great — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="concept/deception,concept/appearance_vs_reality,concept/superstition_and_omen,concept/guilt,concept/satire_of_society,form/detective_fiction"></span>
 
 
 “Well, Mr. McTaggart,” went on the great statesman at last desperately, like a man who has determined to take a plunge. “You will excuse my being quite blunt and straightforward, won’t you?”
@@ -3625,7 +3625,7 @@ The Home Secretary, as he moved by the young man’s side towards the big drawin
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Emerald of Catherine the Great — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Emerald of Catherine the Great — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/satanic_figure,motif/the_supernatural,concept/good_vs_evil,form/detective_fiction,form/satire"></span>
 
 
 But side by side with that relief rose an immense wave of apprehension, for he remembered what manner of deep-sea beast Collop was, and he sickened at the coming ordeal of the dinner.
@@ -3657,7 +3657,7 @@ With which words he transferred himself into the sixth dimension, and the Devil,
 
 
 
-<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="ELEVEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_eleven" data-title="The Emerald of Catherine the Great — Chapter 12: ELEVEN" data-chapter="ELEVEN" data-kind="chapter" data-tags="archetype/detective,motif/food_and_feasting,concept/satire_of_society,concept/deception,form/detective_fiction,form/satire"></span>
 
 
 CHAPTER ELEVEN
@@ -3753,7 +3753,7 @@ With a sigh he turned towards the door of the library, within which room, alone,
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_01" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_01" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER TWELVE
@@ -3821,7 +3821,7 @@ And those sham-ancient polished parquet squares, their very base modern pitch pi
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_02" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_02" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt" data-tags="archetype/detective,motif/gems_jewels,concept/ratiocination_detection,concept/satire_of_society,form/detective_fiction,form/satire"></span>
 
 
 But to my tale....
@@ -3893,7 +3893,7 @@ With clamouring echo which shook those ancient walls, square after square of Aus
 
 
 
-<span class="atom-split" data-atom="chapter_13_twelve--part_03" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_twelve--part_03" data-title="The Emerald of Catherine the Great — Chapter 13: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt" data-tags="archetype/detective,motif/wine_and_drink,motif/gems_jewels,concept/ratiocination_detection,concept/satire_of_society,form/detective_fiction"></span>
 
 
 A few moments later, when the Master of the House peeped out into the hall, he found all dark and deserted. He was pleased to think that his guests had suspected nothing.
@@ -3945,7 +3945,7 @@ And de Bohun left him to it, ardently praying with what was left of his childhoo
 
 
 
-<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="THIRTEEN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_thirteen" data-title="The Emerald of Catherine the Great — Chapter 14: THIRTEEN" data-chapter="THIRTEEN" data-kind="chapter" data-tags="archetype/detective,motif/gems_jewels,motif/birds,motif/snow,motif/moon,concept/deception,concept/ratiocination_detection,form/detective_fiction"></span>
 
 
 CHAPTER THIRTEEN
@@ -4029,7 +4029,7 @@ So true it is that once in every man’s life comes an opportunity and that in e
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="motif/snow,motif/winter,motif/sun,concept/satire_of_society,concept/deception,form/detective_fiction"></span>
 
 
 CHAPTER FOURTEEN
@@ -4133,7 +4133,7 @@ He repeated that phrase three times and fixed them to their stations; then he ra
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="motif/great_house"></span>
 
 
 He found the deliverer at the door of the West Room.
@@ -4217,7 +4217,7 @@ Collop stepped in between. “Pay no attention, Mr. Dee Boe Hun. I got my clue, 
 
 
 
-<span class="atom-split" data-atom="chapter_15_fourteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fourteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 15: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="archetype/detective,motif/snow,motif/birds,concept/ratiocination_detection,concept/deception,concept/satire_of_society,form/detective_fiction"></span>
 
 
 “Look here, Boy,” said de Bohun, fatigued with such recitals: “if you’ve got anything to say, say it. Mr. Collop and I are pressed.”
@@ -4313,7 +4313,7 @@ Nor did Lord Galton wince — though that parrot had suddenly revealed to him a 
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="archetype/detective,motif/gems_jewels,motif/birds,motif/snow,concept/deception,concept/ratiocination_detection,form/detective_fiction"></span>
 
 
 CHAPTER FIFTEEN
@@ -4365,7 +4365,7 @@ There were no little marks — but no matter. He had done his best to suggest th
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="archetype/detective,motif/gems_jewels,concept/ratiocination_detection,concept/deception,concept/satire_of_society,form/detective_fiction"></span>
 
 
 The guests looked — or at least, most of them did — at their host. But he was modestly regarding the carpet.
@@ -4415,7 +4415,7 @@ The Home Secretary had detained McTaggart, catching his arm as he turned to go, 
 
 
 
-<span class="atom-split" data-atom="chapter_16_fifteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_fifteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 16: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/class_conflict,form/detective_fiction,form/satire"></span>
 
 
 Mr. Collop bowed again in the aforesaid manner.
@@ -4455,7 +4455,7 @@ De Bohun had sunk back into his chair, now at last at rest. There were still ine
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_01" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/deception,concept/crime_and_punishment,form/detective_fiction,form/satire"></span>
 
 
 CHAPTER SIXTEEN
@@ -4523,7 +4523,7 @@ Let me not do Humphrey de Bohun injustice. He had never yet in his life taken an
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_02" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/class_conflict,form/detective_fiction,form/satire"></span>
 
 
 “The emerald!” he kept on shouting, as George Whaley, groaning, pulled himself up miserably, like a wounded sea lion. “When the hell am I to hear the last of the emerald ... you and your emerald! ... all of you and your emeralds! ... I wish to God! ...” A blasphemy was almost on his lips; he had almost said that he wished the emerald had been strangled at birth, and by such a phrase would he have forfeited the luck of the Boneses.
@@ -4585,7 +4585,7 @@ The butler put his hand upon the old red brick wall. His adventures were beginni
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_03" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/class_conflict,concept/power_and_corruption,form/satire,form/novel"></span>
 
 
 “Yes, yer did!” came again from the uplifted purple face. “Yer told me with yer own lips that you knew yerself it was in the ‘ands of the ‘ighest.”
@@ -4641,7 +4641,7 @@ George Whaley, with his accumulated savings, purchased immediately upon his leav
 
 
 
-<span class="atom-split" data-atom="chapter_17_sixteen--part_04" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_sixteen--part_04" data-title="The Emerald of Catherine the Great — Chapter 17: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Ethelbert, a bright lad of nineteen, ordered by his master into the special constabulary during the third General Strike — I use the conventional numeration — was so unfortunate as to crack smartly upon the head a high dignitary of the Church of [[England]], and was thereupon put in prison at the instance of Lady Sophia — the eminent cleric’s wife — who would take no denial. Upon release, the General Strike being still in progress — it was the first of the really long General Strikes, as you will remember, he joined the regular police force, which is ever ready to welcome men of varied experience and initiative. But he never developed the intelligence required for the agent provocateur, in which capacity such members of the service as have had personal experience of the cells are commonly employed. He is now past thirty and doing clerical work in the Lost Property Department.

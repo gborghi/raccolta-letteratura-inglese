@@ -1516,7 +1516,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard III — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard III — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,archetype/shadow,archetype/villain,motif/cross,motif/dreams,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/doubt,concept/fear,concept/hope,concept/imprisonment,concept/melancholy,concept/mercy,concept/nature,setting/court,character/clarence,character/duke_of_gloucester,character/gloucester,character/hastings,character/queen,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -1563,7 +1563,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard III — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard III — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/ghost,archetype/king,archetype/shadow,archetype/villain,motif/blood,motif/death,motif/grave,motif/lightning,motif/love,motif/nature,motif/night,motif/poison,motif/sleep,motif/soul,motif/supernatural,motif/swallow,motif/tears,motif/well,concept/beauty,concept/body,concept/charity,concept/conscience,concept/despair,concept/doubt,concept/fear,concept/guilt,concept/honour,concept/hope,concept/nature,concept/revenge,concept/self,concept/truth,character/duke_of_gloucester,character/gloucester,character/lady_anne,character/queen_margaret,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -1675,7 +1675,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard III — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard III — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,archetype/villain,motif/blood,motif/crown,motif/death,motif/desert,motif/fire,motif/love,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/nature,concept/revenge,concept/self,concept/truth,setting/desert,character/buckingham,character/clarence,character/duke_of_buckingham,character/duke_of_gloucester,character/gloucester,character/hastings,character/queen,character/queen_elizabeth,character/queen_margaret,character/richard,character/richard_iii,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1802,7 +1802,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard III — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard III — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/quest,archetype/ghost,archetype/innocent,archetype/king,archetype/shadow,motif/blood,motif/cross,motif/death,motif/dreams,motif/love,motif/night,motif/pain,motif/seasons,motif/secrets,motif/sleep,motif/snow,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/friendship,concept/honour,concept/hope,concept/melancholy,character/bottom,character/christ,character/clarence,character/costard,character/duke_of_gloucester,character/gloucester,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -1919,7 +1919,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard III — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard III — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/desert,motif/desire,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/charity,concept/fear,concept/humility,concept/revenge,setting/desert,setting/oxford,character/buckingham,character/clarence,character/duke_of_buckingham,character/gloucester,character/hastings,character/queen,character/queen_elizabeth,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -1969,7 +1969,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Richard III — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Richard III — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/prophet,motif/death,motif/home,motif/leaves,motif/love,motif/moon,motif/night,motif/soul,motif/tears,motif/well,concept/charity,concept/despair,concept/mercy,concept/revenge,concept/self,setting/london,character/buckingham,character/clarence,character/duke_of_gloucester,character/gloucester,character/hastings,character/nurse,character/queen,character/queen_elizabeth,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2020,7 +2020,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard III — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard III — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/king,motif/death,motif/grave,motif/leaves,motif/night,motif/storm,motif/water,motif/well,motif/winter,concept/doubt,concept/fear,concept/hope,setting/paris,character/duke_of_gloucester,character/queen,character/richard_iii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2053,7 +2053,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Richard III — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Richard III — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/innocent,motif/blood,motif/crown,motif/death,motif/night,motif/well,concept/doubt,concept/faith,concept/hope,concept/self,character/buckingham,character/duke_of_york,character/gloucester,character/nurse,character/queen_elizabeth,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2110,7 +2110,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard III — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard III — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/cross,motif/death,motif/poison,motif/sleep,motif/spring,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/melancholy,concept/self,concept/truth,setting/castle,setting/london,character/buckingham,character/clarence,character/duke_of_york,character/gloucester,character/hastings,character/julius_caesar,character/lord_mayor,character/queen,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2210,7 +2210,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Richard III — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Richard III — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/clock,motif/crown,motif/death,motif/dreams,motif/horse,motif/night,motif/sleep,motif/soul,motif/well,concept/faith,concept/fear,concept/honour,concept/self,concept/truth,concept/wonder,form/tragedy,setting/london,character/buckingham,character/hastings,character/queen,character/richard,character/richard_iii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2276,7 +2276,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Richard III — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Richard III — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/death,motif/prayer,motif/prison,concept/truth,character/buckingham,character/hastings,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2298,7 +2298,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Richard III — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Richard III — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/clock,motif/crown,motif/death,motif/garden,motif/horse,motif/love,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/guilt,concept/history,concept/hope,form/history,setting/castle,character/buckingham,character/clarence,character/duke_of_buckingham,character/duke_of_gloucester,character/gloucester,character/hastings,character/lord_mayor,character/richard,character/richard_iii,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2380,7 +2380,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Richard III — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Richard III — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/well,character/hastings,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2392,7 +2392,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Richard III — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Richard III — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/desert,motif/desire,motif/grave,motif/love,motif/prayer,motif/silence,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/fear,concept/greatness,concept/hope,concept/humility,concept/poverty,concept/self,concept/truth,concept/vanity,setting/desert,character/buckingham,character/duke_of_buckingham,character/duke_of_gloucester,character/gloucester,character/king_of_france,character/lord_mayor,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2467,7 +2467,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard III — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard III — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/cross,motif/death,motif/dreams,motif/grave,motif/love,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/doubt,character/clarence,character/gloucester,character/lady_anne,character/queen,character/queen_elizabeth,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2517,7 +2517,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Richard III — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Richard III — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/prophet,motif/blood,motif/clock,motif/death,motif/love,motif/sleep,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,setting/castle,character/buckingham,character/clarence,character/duke_of_buckingham,character/hastings,character/queen,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2599,7 +2599,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Richard III — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Richard III — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/villain,motif/crown,motif/death,motif/desire,motif/marriage,motif/nature,motif/sleep,motif/summer,concept/beauty,concept/conscience,concept/nature,concept/truth,character/buckingham,character/clarence,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2630,7 +2630,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Richard III — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Richard III — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/ghost,archetype/king,archetype/shadow,archetype/tyrant,archetype/villain,motif/blood,motif/crown,motif/death,motif/decay,motif/dust,motif/flag,motif/flowers,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/faith,concept/fear,concept/friendship,concept/honour,concept/melancholy,concept/mercy,concept/nature,concept/revenge,concept/self,form/riddle,character/buckingham,character/clarence,character/duke_of_buckingham,character/earl_of_richmond,character/hastings,character/kent,character/queen,character/queen_elizabeth,character/queen_margaret,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2835,7 +2835,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Richard III — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Richard III — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/well,concept/fear,setting/london,setting/oxford,character/queen,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2851,7 +2851,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard III — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard III — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/prayer,motif/soul,motif/time,concept/body,concept/faith,concept/revenge,character/buckingham,character/duke_of_buckingham,character/hastings,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2867,7 +2867,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard III — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard III — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/summer,concept/conscience,concept/doubt,concept/fear,concept/hope,setting/oxford,character/earl_of_richmond,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2883,7 +2883,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard III — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard III — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/well,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2906,7 +2906,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard III — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard III — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/desire,motif/night,motif/well,setting/oxford,character/earl_of_richmond,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -2923,7 +2923,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard III — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard III — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/tyrant,archetype/villain,motif/blood,motif/cave,motif/clock,motif/crown,motif/death,motif/dreams,motif/ghosts,motif/home,motif/horse,motif/love,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/despair,concept/doubt,concept/fear,concept/hope,concept/melancholy,concept/mercy,concept/pride,concept/revenge,character/buckingham,character/clarence,character/duke_of_buckingham,character/earl_of_richmond,character/earl_of_surrey,character/hastings,character/lady_anne,character/richard,character/richard_iii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -3009,7 +3009,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Richard III — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Richard III — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,motif/blood,motif/clock,motif/dreams,motif/horse,motif/snow,motif/tears,motif/well,concept/conscience,concept/courage,concept/truth,character/earl_of_surrey,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -3046,7 +3046,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Richard III — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Richard III — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/death,motif/horse,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |
@@ -3065,7 +3065,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Third
 
 
 
-<span class="atom-split" data-atom="act_5--scene_8" data-title="Richard III — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_8" data-title="Richard III — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="topos/double,archetype/child,archetype/hero,archetype/king,archetype/rebel,archetype/shadow,motif/animals,motif/blood,motif/crown,motif/death,motif/grave,motif/home,motif/horse,motif/love,motif/marriage,motif/night,motif/pain,motif/rose,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/ambition,concept/beauty,concept/body,concept/doubt,concept/fear,concept/freedom,concept/honour,concept/hope,form/comedy,setting/castle,setting/london,setting/orient,character/adonis,character/apollo,character/arthur,character/buckingham,character/clifford,character/earl_of_richmond,character/gloucester,character/hastings,character/nurse,character/queen,character/queen_elizabeth,character/queen_margaret,character/richard,character/richard_iii,character/speed,character/venus"></span>
 
 
 | Speaker | Line |

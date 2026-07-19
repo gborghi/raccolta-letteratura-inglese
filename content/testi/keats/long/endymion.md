@@ -4282,7 +4282,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="section_01_book_i" data-title="Endymion — Book I" data-chapter="book i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_book_i" data-title="Endymion — Book I" data-chapter="book i" data-kind="section" data-tags="archetype/child,archetype/damsel,archetype/innocent,archetype/king,archetype/shadow,motif/autumn,motif/bees,motif/bells,motif/blood,motif/cave,motif/city,motif/crown,motif/dawn,motif/death,motif/dreams,motif/fire,motif/flowers,motif/ghosts,motif/grave,motif/hill,motif/home,motif/lamb,motif/leaves,motif/lion,motif/love,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/nightingale,motif/pain,motif/river,motif/rose,motif/silence,motif/sleep,motif/soul,motif/spring,motif/stars,motif/summer,motif/swallow,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/ambition,concept/beauty,concept/body,concept/fear,concept/freedom,concept/friendship,concept/grotesque,concept/history,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/nature,concept/pride,concept/self,concept/truth,concept/wonder,form/history,form/novel,setting/mountains,character/apollo,character/chorus,character/endymion,character/lucifer,character/nurse,character/speed,character/venus"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK I
@@ -5312,7 +5312,7 @@ They stept into the boat, and launch’d from land.
 
 
 
-<span class="atom-split" data-atom="section_02_book_ii" data-title="Endymion — Book II" data-chapter="book II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_book_ii" data-title="Endymion — Book II" data-chapter="book II" data-kind="section" data-tags="topos/golden_age,archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/shadow,motif/autumn,motif/bees,motif/blood,motif/cave,motif/city,motif/crown,motif/dawn,motif/death,motif/desert,motif/dreams,motif/fire,motif/flowers,motif/ghosts,motif/hill,motif/journey,motif/leaves,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/night,motif/pain,motif/prayer,motif/prison,motif/river,motif/rose,motif/silence,motif/sleep,motif/snow,motif/soul,motif/spring,motif/stars,motif/storm,motif/summer,motif/swallow,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/doubt,concept/exile,concept/fear,concept/freedom,concept/history,concept/honour,concept/imagination,concept/immortality,concept/indolence,concept/loneliness,concept/madness,concept/melancholy,concept/mercy,concept/pride,concept/self,concept/solitude,concept/truth,concept/wonder,form/history,setting/desert,character/adonis,character/apollo,character/cynthia,character/endymion,character/juliet,character/nurse,character/queen,character/saturn,character/troilus,character/ulysses,character/venus,character/woodcutter"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK II
@@ -6374,7 +6374,7 @@ He saw the giant sea above his head.
 
 
 
-<span class="atom-split" data-atom="section_03_book_iii" data-title="Endymion — Book III" data-chapter="book III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_book_iii" data-title="Endymion — Book III" data-chapter="book III" data-kind="section" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/king,archetype/lover,archetype/monster,archetype/rebel,motif/bees,motif/birds,motif/blood,motif/cave,motif/cross,motif/crown,motif/dance,motif/dawn,motif/death,motif/desert,motif/desire,motif/dreams,motif/fire,motif/flowers,motif/grave,motif/home,motif/jewel,motif/leaves,motif/lightning,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/prayer,motif/prison,motif/river,motif/rose,motif/secrets,motif/silence,motif/sleep,motif/snow,motif/soul,motif/spring,motif/stars,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/despair,concept/fear,concept/freedom,concept/hope,concept/imagination,concept/immortality,concept/melancholy,concept/mercy,concept/mortality,concept/nature,concept/pride,concept/self,concept/sublime,concept/temptation,concept/truth,concept/wonder,form/fragment,form/hymn,setting/desert,setting/mountains,character/adonis,character/apollo,character/bottom,character/cynthia,character/endymion,character/nurse,character/queen,character/saturn,character/speed,character/venus,character/witch"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK III
@@ -7491,7 +7491,7 @@ How happy once again in grassy nest!
 
 
 
-<span class="atom-split" data-atom="section_04_book_iv" data-title="Endymion — Book IV" data-chapter="book IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_book_iv" data-title="Endymion — Book IV" data-chapter="book IV" data-kind="section" data-tags="archetype/child,archetype/damsel,archetype/king,archetype/lover,archetype/shadow,archetype/tyrant,motif/autumn,motif/birds,motif/blood,motif/cave,motif/crown,motif/dance,motif/dawn,motif/death,motif/decay,motif/dreams,motif/fire,motif/flag,motif/flowers,motif/garden,motif/hill,motif/home,motif/horse,motif/jewel,motif/journey,motif/leaves,motif/lightning,motif/lion,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/nightingale,motif/pain,motif/prison,motif/river,motif/rose,motif/seasons,motif/silence,motif/sleep,motif/soul,motif/spring,motif/stars,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,concept/body,concept/despair,concept/doubt,concept/fear,concept/forgiveness,concept/guilt,concept/identity,concept/immortality,concept/longing,concept/madness,concept/melancholy,concept/mortality,concept/nature,concept/pride,concept/revenge,concept/self,concept/solitude,concept/sublime,concept/suffering,concept/truth,concept/wonder,form/hymn,setting/egypt,setting/mountains,character/apollo,character/bottom,character/cynthia,character/endymion,character/hamlet,character/lucifer,character/nurse,character/queen,character/speed,character/venus"></span>
 
 
 ## [[Endymion|ENDYMION]] BOOK IV

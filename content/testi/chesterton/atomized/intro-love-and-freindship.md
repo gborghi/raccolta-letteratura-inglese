@@ -228,7 +228,7 @@ to notice the [[French Revolution]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="intro-love-and-freindship (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="intro-love-and-freindship (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/fable,form/fragment,form/history,form/satire,character/kent"></span>
 
 
 Introduction to Jane Austen's "[[Love]] and Freindship",
@@ -389,7 +389,7 @@ camera dei bambini.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="intro-love-and-freindship (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="intro-love-and-freindship (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/greatness,concept/nature,character/fanny_price"></span>
 
 
 For "[[Love]] and Freindship," with some similar passages in the
@@ -568,7 +568,7 @@ avuto l'ingegno.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="intro-love-and-freindship (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="intro-love-and-freindship (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/love,motif/mirror,motif/window,histref/french_revolution"></span>
 
 
 There is therefore, in considering even her crudest early experiments,

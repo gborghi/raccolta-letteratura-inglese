@@ -107,7 +107,7 @@ was he enlisting as a soldier?
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="methuselahite (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="methuselahite (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/soul,motif/time,concept/courage,concept/history,concept/nature,concept/paradox,concept/pride,form/history,form/riddle"></span>
 
 
 The [[methuselahite|Methuselahite]]

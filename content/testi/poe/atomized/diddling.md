@@ -917,7 +917,7 @@ of the Proverbs of Solomon.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Diddling (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Diddling (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/night,motif/well,concept/fear,concept/self"></span>
 
 
 CONSIDERED AS ONE OF THE EXACT SCIENCES.
@@ -1145,7 +1145,7 @@ dreamed of by our thick-headed progenitors. Without pausing to
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Diddling (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Diddling (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/home,motif/leaves,motif/night,motif/ship,motif/soul,motif/time,motif/well,concept/doubt,concept/self,setting/ship,character/speed"></span>
 
 
 speak of the “old saws,” therefore, I shall content myself with a
@@ -1367,7 +1367,7 @@ be quite enough, I am sure—”
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Diddling (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Diddling (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/city,motif/home,motif/time,motif/water,motif/well,histref/america,setting/america"></span>
 
 
 _you_ had better—”
@@ -1595,7 +1595,7 @@ rather than to that pointed out by the rightful proprietor. The
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Diddling (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Diddling (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/clock,motif/home,motif/time,motif/well,concept/charity,concept/doubt,concept/faith,concept/union,form/essay,histref/bible"></span>
 
 
 former pays the reward, pockets the treasure and decamps.

@@ -145,7 +145,7 @@ G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="titanic (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="titanic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/nature,motif/ship,motif/time,concept/doubt,concept/nature,form/tragedy,setting/london,setting/ship"></span>
 
 
 The Great Shipwreck as Analogy
@@ -263,7 +263,7 @@ Ma che i nostri infelici simili sul [[titanic|TITANIC]] abbiano sofferto o no pi
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="titanic (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="titanic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/death,motif/ship,motif/well,concept/conscience,concept/courage,form/tragedy,setting/ship"></span>
 
 
 But, indeed, a real rule can do without such exceptions as

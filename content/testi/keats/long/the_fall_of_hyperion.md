@@ -559,7 +559,7 @@ And made their dove wings tremble. On he flared.
 
 
 
-<span class="atom-split" data-atom="section_01_canto_i" data-title="The Fall of Hyperion — Canto I" data-chapter="canto i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_canto_i" data-title="The Fall of Hyperion — Canto I" data-chapter="canto i" data-kind="section" data-tags="topos/golden_age,archetype/child,archetype/king,archetype/rebel,archetype/shadow,motif/bells,motif/birds,motif/blood,motif/chains,motif/death,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/grave,motif/home,motif/leaves,motif/lightning,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/poison,motif/rose,motif/seasons,motif/silence,motif/sleep,motif/snow,motif/soul,motif/stars,motif/summer,motif/swallow,motif/tears,motif/time,motif/well,motif/wind,concept/despair,concept/fear,concept/hope,concept/imagination,concept/melancholy,concept/mortality,concept/nature,concept/self,concept/solitude,concept/sublime,concept/truth,concept/wonder,form/tragedy,character/apollo,character/hyperion,character/saturn,character/speed"></span>
 
 
 CANTO I  
@@ -1041,7 +1041,7 @@ Of her high phrase: perhaps no further dare.
 
 
 
-<span class="atom-split" data-atom="section_02_canto_ii" data-title="The Fall of Hyperion — Canto II" data-chapter="canto II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_canto_ii" data-title="The Fall of Hyperion — Canto II" data-chapter="canto II" data-kind="section" data-tags="motif/blood,motif/fire,motif/prison,motif/tears,motif/wind,concept/fear,concept/melancholy,concept/self,character/hyperion,character/saturn"></span>
 
 
 CANTO II  

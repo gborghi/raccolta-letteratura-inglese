@@ -1419,7 +1419,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/quest,archetype/child,archetype/king,motif/blood,motif/death,motif/grave,motif/leaves,motif/love,motif/nature,motif/night,motif/spring,motif/time,motif/well,concept/beauty,concept/faith,concept/freedom,concept/history,concept/honour,concept/nature,concept/pride,concept/self,concept/truth,form/history,form/tragedy,setting/court,character/apollo,character/cordelia,character/duke_of_gloucester,character/gloucester,character/goneril,character/kent,character/king_lear,character/king_of_france,character/queen,character/regan"></span>
 
 
 | Speaker | Line |
@@ -1526,7 +1526,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/monster,archetype/villain,motif/love,motif/moon,motif/nature,motif/night,motif/sleep,motif/stars,motif/time,motif/well,motif/wind,concept/fear,concept/friendship,concept/honour,concept/hope,concept/melancholy,concept/nature,form/comedy,form/tragedy,character/duke_of_gloucester,character/edgar,character/gloucester,character/kent,character/king_lear,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1586,7 +1586,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/night,motif/well,form/tragedy,character/goneril,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1604,7 +1604,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/monster,archetype/shadow,motif/crown,motif/death,motif/fire,motif/horse,motif/love,motif/nature,motif/sleep,motif/spring,motif/tears,motif/well,motif/wind,concept/body,concept/fear,concept/honour,concept/mercy,concept/nature,concept/truth,form/tragedy,setting/court,character/cordelia,character/goneril,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1752,7 +1752,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/monster,motif/nature,motif/sleep,motif/stars,motif/time,concept/nature,form/tragedy,character/gloucester,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1796,7 +1796,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,archetype/rebel,archetype/villain,motif/blood,motif/childhood,motif/death,motif/desert,motif/fire,motif/hill,motif/home,motif/horse,motif/love,motif/moon,motif/nakedness,motif/nature,motif/night,motif/noon,motif/sleep,motif/snow,motif/storm,motif/time,motif/water,motif/well,motif/wheel,motif/window,motif/winter,concept/beauty,concept/body,concept/charity,concept/faith,concept/fear,concept/forgiveness,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,concept/vanity,form/tragedy,setting/desert,character/ajax,character/cordelia,character/duke_of_gloucester,character/edgar,character/gloucester,character/goneril,character/kent,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2053,7 +2053,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/pain,motif/stars,motif/storm,motif/wind,concept/fear,form/tragedy,character/cordelia,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2080,7 +2080,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/fire,motif/love,motif/nature,motif/night,motif/sleep,motif/storm,motif/time,motif/water,motif/wind,concept/fear,concept/friendship,concept/nature,form/tragedy,setting/court,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2110,7 +2110,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/home,motif/night,motif/pain,concept/charity,form/tragedy,character/duke_of_gloucester,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2124,7 +2124,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/shadow,motif/blood,motif/death,motif/fire,motif/grave,motif/hill,motif/home,motif/horse,motif/lion,motif/nature,motif/night,motif/seasons,motif/sleep,motif/storm,motif/water,motif/well,motif/wind,concept/body,concept/charity,concept/madness,concept/mercy,concept/nature,concept/poverty,form/tragedy,character/dauphin,character/duke_of_gloucester,character/edgar,character/gloucester,character/goneril,character/kent,character/king_lear,character/regan,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2206,7 +2206,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/love,motif/nature,concept/nature,concept/revenge,form/tragedy,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2225,7 +2225,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,motif/death,motif/nature,motif/noon,motif/tears,concept/nature,form/tragedy,character/duke_of_gloucester,character/edgar,character/gloucester,character/kent,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2259,7 +2259,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="The Tragedy of King Lear (Folio Text) — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/nature,motif/night,motif/storm,motif/time,motif/well,concept/body,concept/nature,concept/truth,form/tragedy,character/duke_of_gloucester,character/edgar,character/gloucester,character/goneril,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2339,7 +2339,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/love,motif/night,motif/soul,motif/storm,motif/time,concept/fear,form/tragedy,character/duke_of_gloucester,character/edgar,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2385,7 +2385,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/death,motif/dust,motif/home,motif/love,motif/well,motif/wind,concept/body,concept/honour,concept/revenge,concept/suffering,form/tragedy,character/gloucester,character/goneril,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2429,7 +2429,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/flowers,motif/love,motif/nature,motif/secrets,motif/spring,motif/tears,concept/ambition,concept/nature,form/tragedy,character/cordelia,character/king_lear,character/nurse,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2451,7 +2451,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/desire,motif/home,motif/love,motif/well,concept/faith,form/tragedy,character/gloucester,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2481,7 +2481,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="The Tragedy of King Lear (Folio Text) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/tyrant,archetype/villain,motif/crown,motif/death,motif/desire,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/horse,motif/jewel,motif/love,motif/moon,motif/nature,motif/night,motif/poison,motif/sleep,motif/snow,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/honour,concept/imagination,concept/madness,concept/mercy,concept/mortality,concept/nature,concept/self,concept/truth,concept/wonder,form/riddle,form/tragedy,character/cordelia,character/costard,character/duke_of_gloucester,character/edgar,character/gloucester,character/goneril,character/kent,character/king_lear,character/queen,character/regan,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2682,7 +2682,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/shadow,form/tragedy,character/cordelia,character/duke_of_gloucester,character/edgar,character/gloucester,character/king_lear,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2701,7 +2701,7 @@ The [[Tragedy]] of [[King Lear]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="The Tragedy of King Lear (Folio Text) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/villain,motif/autumn,motif/birds,motif/blood,motif/death,motif/decay,motif/dust,motif/fire,motif/flowers,motif/ghosts,motif/horse,motif/journey,motif/lightning,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/pain,motif/prison,motif/soul,motif/time,motif/well,motif/wheel,concept/beauty,concept/body,concept/charity,concept/despair,concept/forgiveness,concept/grotesque,concept/history,concept/honour,concept/nature,concept/truth,concept/wonder,form/history,form/masque,form/tragedy,form/tragicomedy,setting/castle,setting/court,character/arviragus,character/belarius,character/christ,character/cloten,character/cordelia,character/cymbeline,character/edgar,character/gloucester,character/goneril,character/guiderius,character/helen,character/innogen,character/kent,character/king_lear,character/lucius,character/posthumus,character/queen,character/regan"></span>
 
 
 | Speaker | Line |

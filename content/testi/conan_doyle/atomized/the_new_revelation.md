@@ -143,7 +143,7 @@ THE VITAL MESSAGE
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE NEW REVELATION — Chapter 4" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE NEW REVELATION — Chapter 4" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/revelation"></span>
 
 
 CHAPTER IV.
@@ -163,7 +163,7 @@ A. C. D.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE NEW REVELATION — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE NEW REVELATION — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/revelation,concept/spiritualism"></span>
 
 
 CHAPTER I.
@@ -198,7 +198,7 @@ There are some theologians who are not only opposed to such a cult, but who go t
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE NEW REVELATION — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE NEW REVELATION — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/prophet,motif/soul,concept/revelation,concept/spiritualism,histref/christianity"></span>
 
 
 CHAPTER II.
@@ -219,7 +219,7 @@ When I read the New Testament with the knowledge which I have of [[Spiritualism]
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE NEW REVELATION — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE NEW REVELATION — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/revelation,histref/christianity"></span>
 
 
 CHAPTER III.
@@ -246,7 +246,7 @@ We have now to consider the case of yet another stratum of life, which is as muc
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE NEW REVELATION — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE NEW REVELATION — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/revelation,concept/spiritualism"></span>
 
 
 CHAPTER IV.

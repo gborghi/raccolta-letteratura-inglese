@@ -3183,7 +3183,7 @@ This novella was first published in 1891 and features a mysterious millionaire a
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE FIRM OF GIRDLESTONE — Chapter 50" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE FIRM OF GIRDLESTONE — Chapter 50" data-chapter="Chapter 01" data-kind="chapter" data-tags="form/novel"></span>
 
 
 CHAPTER L.
@@ -3207,7 +3207,7 @@ THE FIRM OF GIRDLESTONE.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE FIRM OF GIRDLESTONE — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE FIRM OF GIRDLESTONE — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER I.
@@ -3315,7 +3315,7 @@ The African merchant kept his appointment in the City, but long before he reache
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE FIRM OF GIRDLESTONE — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE FIRM OF GIRDLESTONE — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/money_and_gold,motif/city,concept/capitalism,concept/greed_and_money,concept/hypocrisy,form/novel,setting/london"></span>
 
 
 CHAPTER II.
@@ -3372,7 +3372,7 @@ Edwards turned as he passed him and clapped him on the shoulder.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE FIRM OF GIRDLESTONE — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE FIRM OF GIRDLESTONE — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/ship,setting/africa,setting/ship"></span>
 
 
 CHAPTER III.
@@ -3401,7 +3401,7 @@ When she got into the open air she stared around her like one dazed. The senior 
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE FIRM OF GIRDLESTONE — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE FIRM OF GIRDLESTONE — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER IV.
@@ -3515,7 +3515,7 @@ As he passed out through the office, Ezra rejoined his father.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE FIRM OF GIRDLESTONE — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE FIRM OF GIRDLESTONE — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER V.
@@ -3563,7 +3563,7 @@ One hurried glance showed him the struggle which was going on. There was no time
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE FIRM OF GIRDLESTONE — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE FIRM OF GIRDLESTONE — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="concept/education,concept/friendship,form/novel,setting/edinburgh"></span>
 
 
 CHAPTER VI.
@@ -3619,7 +3619,7 @@ He glanced from one to the other, and it was so evident from the expression of t
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE FIRM OF GIRDLESTONE — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE FIRM OF GIRDLESTONE — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER VII.
@@ -3664,7 +3664,7 @@ Well, the breaking of a collar-bone is a small price to pay for the saving of su
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE FIRM OF GIRDLESTONE — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE FIRM OF GIRDLESTONE — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/window,concept/romantic_love,concept/unrequited_love,concept/education,concept/maturation_and_growth,form/novel,setting/edinburgh"></span>
 
 
 CHAPTER VIII.
@@ -3727,7 +3727,7 @@ This Tom’s sharp eye at once detected, and he departed well pleased, for he kn
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE FIRM OF GIRDLESTONE — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE FIRM OF GIRDLESTONE — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="concept/education,form/novel,setting/edinburgh"></span>
 
 
 CHAPTER IX.
@@ -3774,7 +3774,7 @@ The good physician read the letter over several times before he finally put it a
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE FIRM OF GIRDLESTONE — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE FIRM OF GIRDLESTONE — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER X.
@@ -3862,7 +3862,7 @@ Mrs. Robbins was in the habit of furnishing her lodgers with an evening meal at 
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE FIRM OF GIRDLESTONE — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE FIRM OF GIRDLESTONE — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XI.
@@ -3920,7 +3920,7 @@ Ezra stroked his dark moustache complacently, and took a momentary glance at his
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE FIRM OF GIRDLESTONE — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE FIRM OF GIRDLESTONE — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/ship,setting/london,setting/ship"></span>
 
 
 CHAPTER XII.
@@ -3995,7 +3995,7 @@ These two epistles having been sealed, addressed, and despatched, the elder Gird
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE FIRM OF GIRDLESTONE — Chapter 13" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE FIRM OF GIRDLESTONE — Chapter 13" data-chapter="Chapter 14" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XIII.
@@ -4090,7 +4090,7 @@ They shook hands and parted, he hurrying away with the glad tidings to Phillimor
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="THE FIRM OF GIRDLESTONE — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="THE FIRM OF GIRDLESTONE — Chapter 14" data-chapter="Chapter 15" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XIV.
@@ -4185,7 +4185,7 @@ The young merchant gave him a malignant glance from his dark eyes and was turnin
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE FIRM OF GIRDLESTONE — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="THE FIRM OF GIRDLESTONE — Chapter 15" data-chapter="Chapter 16" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XV.
@@ -4221,7 +4221,7 @@ A dark shadow passed over Ezra’s handsome face, and his cruel lip tightened in
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="THE FIRM OF GIRDLESTONE — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="THE FIRM OF GIRDLESTONE — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="setting/africa,setting/london"></span>
 
 
 CHAPTER XVI.
@@ -4263,7 +4263,7 @@ As she stood beside him in her white dress, with a single red ribbon round her n
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="THE FIRM OF GIRDLESTONE — Chapter 17" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="THE FIRM OF GIRDLESTONE — Chapter 17" data-chapter="Chapter 18" data-kind="chapter" data-tags="motif/ship,setting/africa,setting/london,setting/ship"></span>
 
 
 CHAPTER XVII.
@@ -4320,7 +4320,7 @@ It may be well to remark, that this and succeeding incidents occurred in the old
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="THE FIRM OF GIRDLESTONE — Chapter 18" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="THE FIRM OF GIRDLESTONE — Chapter 18" data-chapter="Chapter 19" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XVIII.
@@ -4415,7 +4415,7 @@ Having effected this transformation, the friends retraced their steps to Verdi�
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="THE FIRM OF GIRDLESTONE — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="THE FIRM OF GIRDLESTONE — Chapter 19" data-chapter="Chapter 20" data-kind="chapter" data-tags="setting/africa,setting/london"></span>
 
 
 CHAPTER XIX.
@@ -4448,7 +4448,7 @@ The ordinary British paterfamilias, glancing over his morning paper, bestowed pr
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="THE FIRM OF GIRDLESTONE — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="THE FIRM OF GIRDLESTONE — Chapter 20" data-chapter="Chapter 21" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XX.
@@ -4540,7 +4540,7 @@ Ezra pulled on his coat and ran out. A little group of miners were walking slowl
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="THE FIRM OF GIRDLESTONE — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="THE FIRM OF GIRDLESTONE — Chapter 21" data-chapter="Chapter 22" data-kind="chapter" data-tags="setting/africa,setting/london"></span>
 
 
 CHAPTER XXI.
@@ -4641,7 +4641,7 @@ The moon, as it rose over the veldt that night, shone on three horsemen spurring
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="THE FIRM OF GIRDLESTONE — Chapter 22" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="THE FIRM OF GIRDLESTONE — Chapter 22" data-chapter="Chapter 23" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXII.
@@ -4716,7 +4716,7 @@ A vague feeling of impending misfortune stole over Ezra. He shook his head.
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="THE FIRM OF GIRDLESTONE — Chapter 23" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="THE FIRM OF GIRDLESTONE — Chapter 23" data-chapter="Chapter 24" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XXIII.
@@ -4754,7 +4754,7 @@ This letter was a rude shock to the African merchant. Within a week of the recei
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="THE FIRM OF GIRDLESTONE — Chapter 24" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="THE FIRM OF GIRDLESTONE — Chapter 24" data-chapter="Chapter 25" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XXIV.
@@ -4802,7 +4802,7 @@ All the morning he was engaged in superintending the stowing of great slabs of i
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="THE FIRM OF GIRDLESTONE — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="THE FIRM OF GIRDLESTONE — Chapter 25" data-chapter="Chapter 26" data-kind="chapter" data-tags="setting/africa,setting/london"></span>
 
 
 CHAPTER XXV.
@@ -4888,7 +4888,7 @@ At which reassuring speech the old man laughed, and slapped his son approvingly 
 
 
 
-<span class="atom-split" data-atom="chapter_27" data-title="THE FIRM OF GIRDLESTONE — Chapter 26" data-chapter="Chapter 27" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27" data-title="THE FIRM OF GIRDLESTONE — Chapter 26" data-chapter="Chapter 27" data-kind="chapter" data-tags="concept/hypocrisy,setting/africa,setting/london"></span>
 
 
 CHAPTER XXVI.
@@ -4937,7 +4937,7 @@ Ezra said with an oath.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="THE FIRM OF GIRDLESTONE — Chapter 27" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="THE FIRM OF GIRDLESTONE — Chapter 27" data-chapter="Chapter 28" data-kind="chapter" data-tags="motif/window,motif/wine_and_drink,motif/tobacco_and_cigars,concept/romantic_love,form/novel"></span>
 
 
 CHAPTER XXVII.
@@ -5019,7 +5019,7 @@ Now, this narrative not only surprised the widow, which was not unnatural, seein
 
 
 
-<span class="atom-split" data-atom="chapter_29" data-title="THE FIRM OF GIRDLESTONE — Chapter 28" data-chapter="Chapter 29" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29" data-title="THE FIRM OF GIRDLESTONE — Chapter 28" data-chapter="Chapter 29" data-kind="chapter" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER XXVIII.
@@ -5062,7 +5062,7 @@ Never was there such a brushing and scrubbing in the bedroom of a couple of quie
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="THE FIRM OF GIRDLESTONE — Chapter 29" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="THE FIRM OF GIRDLESTONE — Chapter 29" data-chapter="Chapter 30" data-kind="chapter" data-tags="motif/dance,motif/food_and_feasting,motif/wine_and_drink,concept/satire_of_society,form/novel"></span>
 
 
 CHAPTER XXIX.
@@ -5134,7 +5134,7 @@ Everything in the world must have an end, and Mrs. Scully’s dance was no excep
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="THE FIRM OF GIRDLESTONE — Chapter 30" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="THE FIRM OF GIRDLESTONE — Chapter 30" data-chapter="Chapter 31" data-kind="chapter" data-tags="archetype/villain,motif/ship,setting/africa,setting/london,setting/ship"></span>
 
 
 CHAPTER XXX.
@@ -5239,7 +5239,7 @@ In spite of this assurance Captain Hamilton Miggs continued to be very sore upon
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="THE FIRM OF GIRDLESTONE — Chapter 31" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="THE FIRM OF GIRDLESTONE — Chapter 31" data-chapter="Chapter 32" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXI.
@@ -5309,7 +5309,7 @@ Tom Dimsdale stood upon the doorstep looking blankly into the night. He felt daz
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="THE FIRM OF GIRDLESTONE — Chapter 32" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="THE FIRM OF GIRDLESTONE — Chapter 32" data-chapter="Chapter 33" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXII.
@@ -5390,7 +5390,7 @@ The old couple listened very attentively to his narrative, and were silent some 
 
 
 
-<span class="atom-split" data-atom="chapter_34" data-title="THE FIRM OF GIRDLESTONE — Chapter 33" data-chapter="Chapter 34" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34" data-title="THE FIRM OF GIRDLESTONE — Chapter 33" data-chapter="Chapter 34" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXIII.
@@ -5452,7 +5452,7 @@ When supper was over the crone, who was addressed by Girdlestone as Jorrocks, le
 
 
 
-<span class="atom-split" data-atom="chapter_35" data-title="THE FIRM OF GIRDLESTONE — Chapter 34" data-chapter="Chapter 35" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35" data-title="THE FIRM OF GIRDLESTONE — Chapter 34" data-chapter="Chapter 35" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXIV.
@@ -5514,7 +5514,7 @@ Kate tried for a moment to make some brave retort, but it was a useless attempt.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="THE FIRM OF GIRDLESTONE — Chapter 35" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="THE FIRM OF GIRDLESTONE — Chapter 35" data-chapter="Chapter 36" data-kind="chapter" data-tags="setting/africa,setting/london"></span>
 
 
 CHAPTER XXXV.
@@ -5571,7 +5571,7 @@ Stevens, the gatekeeper, is a very worthy fellow.”
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="THE FIRM OF GIRDLESTONE — Chapter 36" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="THE FIRM OF GIRDLESTONE — Chapter 36" data-chapter="Chapter 37" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXVI.
@@ -5611,7 +5611,7 @@ She saw it moving as a dark formless mass at the further end. It passed through 
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="THE FIRM OF GIRDLESTONE — Chapter 37" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="THE FIRM OF GIRDLESTONE — Chapter 37" data-chapter="Chapter 38" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXVII.
@@ -5644,7 +5644,7 @@ Tom opened the letter and glanced his eye over the contents, with a face which h
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="THE FIRM OF GIRDLESTONE — Chapter 38" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="THE FIRM OF GIRDLESTONE — Chapter 38" data-chapter="Chapter 39" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXVIII.
@@ -5713,7 +5713,7 @@ Kate handed it over without a murmur. At last a small ray of light seemed to be 
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="THE FIRM OF GIRDLESTONE — Chapter 39" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="THE FIRM OF GIRDLESTONE — Chapter 39" data-chapter="Chapter 40" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XXXIX.
@@ -5752,7 +5752,7 @@ It was Mrs. Scully’s turn to blush now. “Never mind that,” she said. “I 
 
 
 
-<span class="atom-split" data-atom="chapter_41" data-title="THE FIRM OF GIRDLESTONE — Chapter 40" data-chapter="Chapter 41" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_41" data-title="THE FIRM OF GIRDLESTONE — Chapter 40" data-chapter="Chapter 41" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XL.
@@ -5806,7 +5806,7 @@ The letter was a thunderbolt to Tom, In his worst dreams he had never imagined a
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="THE FIRM OF GIRDLESTONE — Chapter 41" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="THE FIRM OF GIRDLESTONE — Chapter 41" data-chapter="Chapter 42" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XLI.
@@ -5900,7 +5900,7 @@ Kate watched him stroll down the lane. He paused at the bottom as if irresolute,
 
 
 
-<span class="atom-split" data-atom="chapter_43" data-title="THE FIRM OF GIRDLESTONE — Chapter 42" data-chapter="Chapter 43" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_43" data-title="THE FIRM OF GIRDLESTONE — Chapter 42" data-chapter="Chapter 43" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XLII.
@@ -5981,7 +5981,7 @@ Kate, glancing up, saw the three cruel faces surveying her.
 
 
 
-<span class="atom-split" data-atom="chapter_44" data-title="THE FIRM OF GIRDLESTONE — Chapter 43" data-chapter="Chapter 44" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_44" data-title="THE FIRM OF GIRDLESTONE — Chapter 43" data-chapter="Chapter 44" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XLIII.
@@ -6025,7 +6025,7 @@ Our heroine was so surprised at this epistle that she sat for some time dangling
 
 
 
-<span class="atom-split" data-atom="chapter_45" data-title="THE FIRM OF GIRDLESTONE — Chapter 44" data-chapter="Chapter 45" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_45" data-title="THE FIRM OF GIRDLESTONE — Chapter 44" data-chapter="Chapter 45" data-kind="chapter" data-tags="archetype/villain,archetype/crone,concept/hypocrisy,concept/jealousy,concept/deception,concept/greed_and_money,form/novel"></span>
 
 
 CHAPTER XLIV.
@@ -6111,7 +6111,7 @@ Girdlestone raised up the head of the murdered girl, and Burt took her feet. Ezr
 
 
 
-<span class="atom-split" data-atom="chapter_46" data-title="THE FIRM OF GIRDLESTONE — Chapter 45" data-chapter="Chapter 46" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_46" data-title="THE FIRM OF GIRDLESTONE — Chapter 45" data-chapter="Chapter 46" data-kind="chapter" data-tags="concept/socialism,concept/anarchism,concept/exile,form/novel,setting/london"></span>
 
 
 CHAPTER XLV.
@@ -6167,7 +6167,7 @@ For a few moments she stood there without either party moving a foot or uttering
 
 
 
-<span class="atom-split" data-atom="chapter_47" data-title="THE FIRM OF GIRDLESTONE — Chapter 46" data-chapter="Chapter 47" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_47" data-title="THE FIRM OF GIRDLESTONE — Chapter 46" data-chapter="Chapter 47" data-kind="chapter" data-tags="motif/ship,setting/london,setting/ship"></span>
 
 
 CHAPTER XLVI.
@@ -6279,7 +6279,7 @@ And so through the long cold winter’s night they sat together while the boat p
 
 
 
-<span class="atom-split" data-atom="chapter_48" data-title="THE FIRM OF GIRDLESTONE — Chapter 47" data-chapter="Chapter 48" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_48" data-title="THE FIRM OF GIRDLESTONE — Chapter 47" data-chapter="Chapter 48" data-kind="chapter" data-tags="motif/ship,setting/london,setting/ship"></span>
 
 
 CHAPTER XLVII.
@@ -6329,7 +6329,7 @@ Kate told her story as well as she could, and the inspector made notes of it.
 
 
 
-<span class="atom-split" data-atom="chapter_49" data-title="THE FIRM OF GIRDLESTONE — Chapter 48" data-chapter="Chapter 49" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_49" data-title="THE FIRM OF GIRDLESTONE — Chapter 48" data-chapter="Chapter 49" data-kind="chapter" data-tags="motif/ship,setting/africa,setting/london,setting/ship"></span>
 
 
 CHAPTER XLVIII.
@@ -6415,7 +6415,7 @@ After they had disappeared into the cabin, McPherson trod the deck for the remai
 
 
 
-<span class="atom-split" data-atom="chapter_50" data-title="THE FIRM OF GIRDLESTONE — Chapter 49" data-chapter="Chapter 50" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_50" data-title="THE FIRM OF GIRDLESTONE — Chapter 49" data-chapter="Chapter 50" data-kind="chapter" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER XLIX.
@@ -6522,7 +6522,7 @@ His son brought down his heavy heel upon the bloodless hands. The old African tr
 
 
 
-<span class="atom-split" data-atom="chapter_51" data-title="THE FIRM OF GIRDLESTONE — Chapter 50" data-chapter="Chapter 51" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_51" data-title="THE FIRM OF GIRDLESTONE — Chapter 50" data-chapter="Chapter 51" data-kind="chapter" data-tags="archetype/villain"></span>
 
 
 CHAPTER L.

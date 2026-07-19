@@ -2683,7 +2683,7 @@ Full of these thoughts and greatly relieved by their metrical expression, I went
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Four Men (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Four Men (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/journey"></span>
 
 
 CONTENTS
@@ -2773,7 +2773,7 @@ I saw then, sitting beyond the table, a tall man and spare, well on in years, vi
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Four Men (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Four Men (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/journey,concept/friendship"></span>
 
 
 Then he answered, in the same grave way that he had spoken before:
@@ -2841,7 +2841,7 @@ When I had asked for breakfast for us two as well as for him, I said to the Sail
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Four Men (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Four Men (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/inn_tavern,motif/journey,concept/nationalism_and_patriotism,concept/satire_of_society,concept/tradition,form/travel_writing,setting/rural_england"></span>
 
 
 Grizzlebeard. “I see that you will make a good companion.”
@@ -2879,7 +2879,7 @@ Myself. “That is so, and, God willing, as he went he sang the song ‘Golier! 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Four Men (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Four Men (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/artist,motif/journey,motif/road,concept/nationalism_and_patriotism,concept/friendship,form/travel_writing,setting/rural_england,character/jack_cade"></span>
 
 
 “‘Do you think I care for you, you insignificant little man in the wig? Take that!’ And with these words he snapped his fingers in the face of the bunch of them, and walked out of the Commons House, and got into his great coach with its six powerful horses, and ordering their heads to be set southwards he at last regained his own land, where he was received as such a man should be, with bells ringing and guns firing, little boys cheering, and all ducks, hens, and pigs flying from before his approach to the left and to the right of the road. Ever since that day it has been held a singular honour and one surpassing all others to be a squire of Brightling, but no honour whatsoever to be a member of the Commons House. He spent all his great fortune upon the poor of Sussex and of his own parish, bidding them drink deep and eat hearty as being habits the best preservative of life, until at last he also died. There is the story of Fuller of Brightling, and may we all deserve as well as he.”
@@ -2923,7 +2923,7 @@ The Sailor (with a groan). “He has forgotten his own name!” — (Then more l
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Four Men (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Four Men (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 The Poet. “I do not understand you.”
@@ -2973,7 +2973,7 @@ Now St. Dunstan was not the fool he looked, in spite of his round face, and roun
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Four Men (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Four Men (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/satanic_figure,motif/the_supernatural,motif/chalk,concept/faith,concept/good_vs_evil,form/travel_writing,setting/rural_england"></span>
 
 
 “Why, Devil, I think if we must all pass, it would be pleasanter to die by way of sea-water than any other, for out of the sea came our land, and so into the sea should it go again. Only I doubt your power to do it, for we are defended against the sea by these great hills called The Downs, which will take a woundy lot of cutting through.”
@@ -3009,7 +3009,7 @@ So they went together towards the little workshop, St. Dunstan blithely as befit
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Four Men (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Four Men (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/satanic_figure,motif/the_supernatural,motif/journey,concept/satire_of_society,concept/nature_vs_civilization,form/travel_writing,setting/rural_england"></span>
 
 
 “Yes! Yes! Proceed!... But I have an argument against all of this!” Until at last the Devil, stung by so simple a reply repeated, said:
@@ -3047,7 +3047,7 @@ Not until all this had been done did the Sailor tell us that he had hired in tha
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Four Men (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Four Men (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="concept/friendship"></span>
 
 
 So we climbed into his cart, and we were driven through the night by cross roads, passing no village except Fletching, until, quite at midnight, we were on the edge of the high woods, and there the driver was paid so much that he could put up and pass the night, but for our part we went on into the trees, led by the Sailor, who said he knew more of these woods than any other man.
@@ -3093,7 +3093,7 @@ The Poet. “When I said ‘it’ was the worst thing in the world just now so a
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Four Men (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Four Men (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/ruins,motif/winter,concept/friendship,concept/grief_and_loss,concept/transience,concept/mortality,character/shakespeare"></span>
 
 
 The Sailor (eagerly and contemptuously). “Then there you are utterly wrong, for the earache is much worse.”
@@ -3133,7 +3133,7 @@ Myself. “I read once in a book of a man who was crossing a heath in a wild cou
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Four Men (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Four Men (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 “This story which I read went on to say that the man went on his [[Journey|journey]] under that new and unhappy light of a stormy winter dawn, on over the heath in the wild country. But though he had made just such a [[Journey|journey]] the day before, yet his mind was changed. In the interlude he had lost something great; therefore the world was worth much less to him than it had been the day before, though if he had heard no singing in between, nor had seen no lights at evening, the [[Journey|journey]] would have seemed the same. This advantage first, and then that loss succeeding, had utterly impoverished him, and his journey meant nothing to him any more. This is the story which I read, and I take it you mean something of the kind.”
@@ -3167,7 +3167,7 @@ The Sailor. “You are right! I had forgotten that! It is indeed an admirable pa
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Four Men (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Four Men (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/home,motif/journey"></span>
 
 
 Myself. “Yes, indeed, for consider how we drink to thirst again, and eat to hunger again, and love for disappointment, and [[Journey|journey]] in order to return. And consider with what elaborate care we cut, clip, shave, remove and prune our hair and beard, which none the less will steadfastly re-grow, and how we earn money to spend it, and black boots before walking in the mire, and do penance before sinning, and sleep to wake, and wake to sleep; and very elaborately do pin, button, tie, hook, hang, lace, draw, pull up, be-tighten, and in diverse ways fasten about ourselves our very complicated clothes of a morning, only to unbutton, unpin, untie, unhook, let down, be-loosen, and in a thousand operations put them off again when midnight comes. Then there is the soiling of things for their cleansing, and the building of houses to pull them down again, and the making of wars for defeat or for barren victories, and the painting of pictures for the rich blind, and the singing of songs for the wealthy deaf, and the living of all life to the profit of others, and the begetting of children who may perpetuate all that same round. The more I think of it the more I see that the digging of holes and the filling of them up again is the true end of man and his felicity.”
@@ -3225,7 +3225,7 @@ Our talk had awakened Grizzlebeard. That older man rose painfully from sleep, as
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Four Men (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Four Men (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 “You are wonderful company, Sailor!” said I.
@@ -3277,7 +3277,7 @@ No exiles who have seen them thus, coming back after many years, and following t
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Four Men (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Four Men (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 Then, wishing to leave them no time for wrangling, I took them down away through Shelley Plain, and when I had gone a mile or so I said:
@@ -3385,7 +3385,7 @@ For even as I spoke we had come to that little shelf on which the Crabtree stand
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Four Men (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Four Men (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="motif/music_and_song,motif/inn_tavern,concept/heresy_and_schism,concept/original_sin,concept/faith,concept/satire_of_society,form/travel_writing,form/song"></span>
 
 
 Grizzlebeard. “In what places, Myself, do you find that you can sing?”
@@ -3491,7 +3491,7 @@ At the end of this second verse the crowd had grown greater, and not a few of th
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Four Men (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Four Men (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/the_supernatural,motif/wine_and_drink,concept/faith,concept/doubt,form/song,character/oberon"></span>
 
 
 Now the Faith is old and the Devil is bold,
@@ -3559,7 +3559,7 @@ The Sailor. “Then you were lucky! For it is well known that those who come upo
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Four Men (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Four Men (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 Grizzlebeard. “So it may be for those who have the great misfortune to see the Little People, but, as I told you, I have never seen them, and with me it has been the other way about. Year after year have I picked up the dead leaves, until all the leaves of my life were dead, and year after year I have found between my hands gold and more gold.”
@@ -3599,7 +3599,7 @@ Some paint and brushes and a tube of sepia.
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Four Men (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Four Men (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="motif/animals,motif/food_and_feasting,concept/providence,concept/faith,form/travel_writing,form/comic_verse_song,character/mahound"></span>
 
 
 Six pencils, running from BB. to 4H.
@@ -3723,7 +3723,7 @@ Grizzlebeard (rising). “Enough! Enough! These songs, which rival the sea-serpe
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Four Men (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Four Men (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="topos/ubi_sunt,motif/the_inn_tavern,motif/moon,motif/nightingale,concept/memory,concept/nostalgia,concept/transience,form/travel_writing,setting/rural_england"></span>
 
 
 I answered him, getting up also as he had, and making ready for the road. “Why, Grizzlebeard, this is not very kind of you, for though you had allowed me but fifteen verses more I could have got through the Greater Camivorae, and perhaps, before the closure, we could have brought in the Wart Hog, who loves not war, but is a Pacifist.”
@@ -3751,7 +3751,7 @@ The Sailor. “There is not upon earth so good a thing as an inn; but even among
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Four Men (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Four Men (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 “Is not the world full of other inns wherein a man can sleep deeply and wake as it were in a new world? Has not heaven set for us, like stars in the sky, these points of isolation and repose all up and down the fields of Christendom? Is there not an inn at the Land’s End where you can lie awake in a rest that is better than slumber, listening to the noise of the sea upon the Longships and to the Atlantic wind? And is there not another inn at John o’ Groats to which you may bicycle if you choose (but so shall not I)? Is there not the nameless inn famous for its burgundy in Llanidloes? Is there no Unicom in Machynlleth? Are there not in Dolgelly forty thousand curious inns and strong? And what of the Feathers at Ludlow, where men drink so often and so deeply after the extinguishing of fires, and of its sister inn at Ledbury? And what of the New Inn at Gloucester, which is older than the New College at Oxford or the New Bridge at Paris? And by the way, if Oxford itself have no true inns, are there not inns hanging like planets in a circle round the town? The inns of Eynsham, of Shillingford, of Dorchester, of Abingdon, the remarkable inn at Nuneham, and the detestable inn at Wheatley which fell from grace some sixty years ago, and now clearly stands for a mark of reprobation to show what inns may become, when, though possessed of free will and destined to eternal joy, they fail to fulfil their hostelarian destiny.
@@ -3787,7 +3787,7 @@ With the fire humanity returned; we talked, we spread our hands; one pulled the 
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Four Men (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Four Men (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="topos/tempus_fugit,motif/the_inn_tavern,motif/wine_and_drink,motif/moon,motif/autumn,motif/music_and_song,concept/transience,form/travel_writing,form/dirge,setting/rural_england"></span>
 
 
 Next we would send to the Fountain for drink. For the inn of Ashurst is called the Fountain Inn. It is not the Fountain called the “Fount of Gold” of which it is written —
@@ -3939,7 +3939,7 @@ The moon stood over Chanctonbury, so removed and cold in her silver that you mig
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Four Men (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Four Men (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="motif/the_road,motif/wine_and_drink,concept/the_body,concept/tradition,form/travel_writing,setting/rural_england,character/simon_de_montfort"></span>
 
 
 When I had seen all this I went back within doors, as noiselessly as I had come out, and I picked through the sleepers to my own place, and I wrapped myself in my cloak before the fire. Sleep came at last to me also; but that night dead friends visited me in dreams.
@@ -3981,7 +3981,7 @@ The Sailor. “What all this may have to do with the Body I know not. But this I
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Four Men (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Four Men (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/the_soul,motif/the_inn_tavern,motif/fire,motif/wine_and_drink,concept/self_and_soul,concept/the_body,form/travel_writing,setting/rural_england,character/queen_elizabeth"></span>
 
 
 The Poet. “All this is quite beside the mark, and you have vented upon me nothing but your temper for lack of breakfast. Never in my life have I believed the things which you would have me believe, nor said a word against this vessel which holds my soul as tight as a bottle does a cork, and of which I know so much, but of my soul so little, though my soul is my only companion.” Grizzlebeard. “The Body is a business which we all know too well, but the Soul is another matter. For I knew a man once (not of this county) who said there was no soul, and would have proved it. He had once long ago by an apparatus of his tried to prove there was a soul — but the proof was lacking. So next he naturally thought there could be no soul, and he set out to prove that on his four fingers and his thumb, without gimcracks, pragmatically, and in a manner convincing to the blind. And he set out with an apparatus to find proof that there was no soul — but that proof was also lacking. So let us have done with all this, and find our way through this tall screen of trees to Steyning, and to the good house that is there, and have something Christian to prepare us for our road. For the Lord knows that Myself and Queen Elizabeth were wrong in making small, stale beer and bread a proper breakfast for a man. Strong beer and beef are the staple.”
@@ -4023,7 +4023,7 @@ You are wishing, therefore—”
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Four Men (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Four Men (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="motif/money_and_gold,motif/the_inn_tavern,concept/money_and_avarice,concept/materialism,concept/charity,form/travel_writing,setting/rural_england"></span>
 
 
 “He didn’t say it,” I murmured. “I said it.”
@@ -4095,7 +4095,7 @@ The Sailor. “Why, then, you mean that autumn days, such as these, are not to b
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Four Men (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Four Men (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,motif/the_road,motif/the_inn_tavern,concept/superstition_and_omen,concept/death,form/travel_writing,setting/rural_england"></span>
 
 
 The Poet. “No, I say it aloud, there are days for everything, although we do not know the reason why, and that is why I never will be shaved on a Sunday, for I count it unlucky.
@@ -4155,7 +4155,7 @@ The Poet. “For what, then, is the inn of Washington famous?”
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="The Four Men (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="The Four Men (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/the_inn_tavern,concept/wit,concept/paradox,form/travel_writing,form/mock_epic,setting/rural_england"></span>
 
 
 The Sailor. “Not for a song, but for the breeder of songs. You shall soon learn.”
@@ -4207,7 +4207,7 @@ Myself. “Oh, Poet! will you also be teasing us with logic, or have you not lea
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="The Four Men (part 26)" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="The Four Men (part 26)" data-chapter="part 26" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 The Sailor. “It is interesting that you should know so much, dear Grizzlebeard, but those are far-off things, and we have no true record of them.”
@@ -4263,7 +4263,7 @@ Will blarst un to the de-e-vil.’
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="The Four Men (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="The Four Men (part 27)" data-chapter="part 27" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/letters_writing,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/mock_epic,form/satire,setting/rural_england"></span>
 
 
 “So he very courteously sent a herald mounted upon a little brown donkey and beautifully apparelled, who came to the King of Kent, where he sat or rather sprawled at meat in Canterbury. And this herald, blowing his trumpet loudly in the King of Kent’s ear, delivered him the letter of the King of Sussex, and spurring round his steed, very gallantly capered away.
@@ -4297,7 +4297,7 @@ The Poet. “I should like to hear the Kentish version of this tale.”
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="The Four Men (part 28)" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="The Four Men (part 28)" data-chapter="part 28" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/swords_weapons,concept/war_and_its_cost,concept/nationalism_and_patriotism,form/mock_epic,form/satire,setting/rural_england"></span>
 
 
 “When the men of Kent felt the steepness of the hill, their song died away; they began to puff and to blow; and their line, which they had ordered like so many cattle drovers, was all to pieces, so that while the first of their men, and the leanest, were already approaching the men of Sussex, the last were still tying up their shoe-laces at the bridge, or arguing with the little old man in green corduroy who kept the level-crossing over the railway. For he was assuring them that a train was signalled, and that their advance was most dangerous; but they were protesting that if he would but let them through the wicket gate, which stands by the side of the great railway gates, they could pop across before it came.
@@ -4323,7 +4323,7 @@ The Poet. “I should like to hear the Kentish version of this tale.”
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="The Four Men (part 29)" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="The Four Men (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 “When the King of Sussex had done all these things he went back [[Home|home]] to his castle of Lewes, but not before he had most royally dined and entertained his army in the inn at Battle, and caused to be broached for them 1732 barrels of that exceedingly old ale, called Audit Ale, the memory of which is preserved in those parts most wonderfully.
@@ -4373,7 +4373,7 @@ He sat down again and thought considerably about the horse. There was a sort of 
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="The Four Men (part 30)" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="The Four Men (part 30)" data-chapter="part 30" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 The tall lean man wanted to be silent after his explosion, but Grizzlebeard drew him on, and the young man’s own straightforwardness forbade him to be silent. He was bottling up the tale and it must out, so he burst forth again.
@@ -4403,7 +4403,7 @@ Then we all went out with him to the stables to see his beast. There was a half-
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="The Four Men (part 31)" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="The Four Men (part 31)" data-chapter="part 31" data-kind="excerpt" data-tags="motif/home,motif/journey"></span>
 
 
 As we stood there in the stable yard talking, a very short ostler of a hard appearance, with the straw of ages in his teeth, came up, and, believing us to be wealthy, hit his forehead hard with the forefinger of his right hand. Grizzlebeard, who loved his country like his soul and was always sincere, and never allowed enough for the follies and vices of men, but believed them better or wiser than they were, said to the ostler with great curiosity: “I ought to know that young man. He was a nephew of Sir John Powler’s, I believe?” The ostler said as smartly as a serpent: “Yessir! I don’t know about that, sir. He’s Master Battie, of The Kennels, sir, where his father ‘lows him to live, sir. He’s back from abroad, sir.”
@@ -4447,7 +4447,7 @@ Myself. “We shall go past and onwards; we shall not be content, we shall not b
 
 
 
-<span class="atom-split" data-atom="part--part_32" data-title="The Four Men (part 32)" data-chapter="part 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_32" data-title="The Four Men (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 The Poet. “Nevertheless we know it in dreams. There are dreams in which men do attain to a complete satisfaction, reaching the [[Home|home]] within the [[Home|home]] and the place inside the mind. And such a man it was, remembering such dreams, who wrote that he had forgotten the name of his own country and could not find his way to it. But this man had in him a sense that soon the name of his own country would be revealed to him, and he knew that when he heard the name he should find the place well enough; it would come back at once to him, as the memory of his love and of the Dovrefjeld came to that man who had brought [[Home|home]] the master-maid in the story. He had brought her home from over seas; but later he had forgotten her, from eating human food.
@@ -4529,7 +4529,7 @@ Then we looked at that river a little while, and blessed it, and felt each of us
 
 
 
-<span class="atom-split" data-atom="part--part_33" data-title="The Four Men (part 33)" data-chapter="part 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_33" data-title="The Four Men (part 33)" data-chapter="part 33" data-kind="excerpt" data-tags="motif/home,concept/friendship"></span>
 
 
 ······
@@ -4579,7 +4579,7 @@ An enthusiasm came into Grizzlebeard’s eyes, something at once brilliant and d
 
 
 
-<span class="atom-split" data-atom="part--part_34" data-title="The Four Men (part 34)" data-chapter="part 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_34" data-title="The Four Men (part 34)" data-chapter="part 34" data-kind="excerpt" data-tags="topos/unattainable_beloved,concept/unrequited_love,concept/grief_and_loss,concept/disillusionment,concept/maturation_and_growth,form/travel_writing"></span>
 
 
 “When spirits fall it is not as when bodies fall; they are not killed or broken; but I had fallen in those moments from an immeasurable height, and the rest of my way so long as I might live was to be passed under the burden to which we all are doomed. Then strong, and at last (at such a price) mature, I noted the hour and went towards the doors through which she had entered perhaps an hour ago in the company of the man with whose name she had mingled her own.” Myself. “What did he manufacture?” Grizzlebeard. “Rectified lard; and so well, let me tell you, that no one could compete with him.” Then he resumed: “I entered and was received. Her voice gave me again for a moment some echoes of the Divine: they faded; and meanwhile her face, her person, with every moment took on before me a less pleasing form.
@@ -4623,7 +4623,7 @@ And the Sailor said, “By all means if you will,” and very rapidly began: “
 
 
 
-<span class="atom-split" data-atom="part--part_35" data-title="The Four Men (part 35)" data-chapter="part 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_35" data-title="The Four Men (part 35)" data-chapter="part 35" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 Joan!... Unless it was that curious and rather unpleasant woman who lived on the far side of Foulness, with her father, and used to row out with fruit and things when the tide was off the mud, and just before the boats waiting to get through the Swin had water enough to weigh anchor.... It was one of the two I am fairly sure. The younger woman in Goole (for when I was young, though few things of any size went up river as far as that, we did) was, if I remember right, not a Love at all but a mere Consoler—”
@@ -4697,7 +4697,7 @@ Then I put back the sovereign in my pocket, gently and reverently, and taking up
 
 
 
-<span class="atom-split" data-atom="part--part_36" data-title="The Four Men (part 36)" data-chapter="part 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_36" data-title="The Four Men (part 36)" data-chapter="part 36" data-kind="excerpt" data-tags="motif/the_road,motif/the_inn_tavern,motif/ruins,motif/spring,motif/music_and_song,concept/mortality,form/travel_writing,setting/rural_england,character/king_charles_ii"></span>
 
 
 “You see what I have done. I have quite drained this tankard, It is empty now. I did it chiefly because I felt inclined; since it is commonsense that we should never forego any one of the few pleasures which we may find to hand. But I did it also for a symbol of what jolly satisfaction a man may get if he will do what every man should do; that is, take life and its ladies as he finds them during his little passage through the daylight, and his limping across the stage of this world. So now you know.”
@@ -4773,7 +4773,7 @@ The Sailor (gaily). “Why, I can do these things in my sleep. I have written th
 
 
 
-<span class="atom-split" data-atom="part--part_37" data-title="The Four Men (part 37)" data-chapter="part 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_37" data-title="The Four Men (part 37)" data-chapter="part 37" data-kind="excerpt" data-tags="motif/music_and_song,motif/birds,motif/christmas,concept/forgiveness,form/travel_writing,form/comic_verse_song,histref/elizabethan_england,setting/rural_england"></span>
 
 
 Grizzlebeard. “Yes, but you have not taken up the challenge.”
@@ -4895,7 +4895,7 @@ They sat down not very well pleased, but I assured them that when they had heard
 
 
 
-<span class="atom-split" data-atom="part--part_38" data-title="The Four Men (part 38)" data-chapter="part 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_38" data-title="The Four Men (part 38)" data-chapter="part 38" data-kind="excerpt" data-tags="motif/the_inn_tavern,concept/justice,concept/satire_of_society,concept/the_common_man,form/travel_writing,form/satire,setting/rural_england"></span>
 
 
 “Well, then, Mr. Justice Honeybubble was a man full of sane humour, my friends. He was of a healthy habit of body. He was a man, as are many of the law, who preserved a vigorous gait into old age, and an expression of alertness in his limbs and his eyes. His face was ruddy, his eyebrows were thick, his white hair was close, and there was plenty of it.
@@ -4933,7 +4933,7 @@ They sat down not very well pleased, but I assured them that when they had heard
 
 
 
-<span class="atom-split" data-atom="part--part_39" data-title="The Four Men (part 39)" data-chapter="part 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_39" data-title="The Four Men (part 39)" data-chapter="part 39" data-kind="excerpt" data-tags="motif/the_inn_tavern,motif/wine_and_drink,motif/the_road,concept/justice,concept/satire_of_society,form/travel_writing,form/satire,setting/rural_england"></span>
 
 
 “Mr. Justice Honeybubble drank again, and as he was evidently reposing his voice for the moment, the now terrified but fascinated agriculturists murmured profound applause. Their patriotism was moved, the tradition of centuries rose in their blood, and had an appeal been made to them at that moment they would have shed it willingly, however clumsily, in defence of that vast fabric of the Law.... In a low, regular and impressive voice which marked the change of subject, Mr. Justice Honeybubble continued:
@@ -4977,7 +4977,7 @@ There they sat, hardly noticing our entry, and were at it hammer and tongs in an
 
 
 
-<span class="atom-split" data-atom="part--part_40" data-title="The Four Men (part 40)" data-chapter="part 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_40" data-title="The Four Men (part 40)" data-chapter="part 40" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/music_and_song,concept/reason_and_rationalism,concept/being_and_existence,form/travel_writing,form/satire,setting/rural_england,character/william_the_conqueror"></span>
 
 
 The Stranger was a measly sort of fellow in a cloak, tall, and with a high voice and words of a cultured kind, and his eyes were like dead oysters, which are unpleasing things; and he and Grizzlebeard, though they had so recently met, were already in the midst of as terrible a balderdash of argument as ever the good angels have permitted on this sad earth.
@@ -5095,7 +5095,7 @@ For he stopped outside the door behind which we could hear the voices of the dis
 
 
 
-<span class="atom-split" data-atom="part--part_41" data-title="The Four Men (part 41)" data-chapter="part 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_41" data-title="The Four Men (part 41)" data-chapter="part 41" data-kind="excerpt" data-tags="motif/the_soul,motif/wine_and_drink,concept/self_and_soul,concept/satire_of_society,concept/power_and_corruption,form/travel_writing,form/satire,setting/rural_england"></span>
 
 
 The Sailor. “Have you not seen two dogs wrangling in the street, and how they will Gna! Gna! and Wurrer-Wurrer all to no purpose whatsoever, but solely because it is the nature of dogs thus dog-like to be-dog the wholesome air with dogged and canicular noise of no purport, value, or conclusion? And when this is on have you not seen how good housewives, running from their doors, best stop the noisome noise and drown it altogether by slop, bang, douches of cold wet from a pail, which does dis-spirit the empty disputants, and, causing them immediately to unclinch, humps them off to more useful things? So it is with philosophers, who will snarl and yowl and worry the clean world to no purpose, not even intending a solution of any sort or a discovery, but only the exercise of their vain clapper and clang. Also they have made for this same game as infernal a set of barbaric words as ever were blathered and stumbled over by Attila the king when the Emperor of Constantinople’s Court Dentist pulled out his great back teeth for the enlargement of his jaw. Now this kind of man can be cured only by baptism, which is of four kinds, by water, by blood, and by desire: and the fourth kind is of beer. So watch me and what I will do.”
@@ -5137,7 +5137,7 @@ The Sailor. “You must know, then, that Peter the Politician, after having sold
 
 
 
-<span class="atom-split" data-atom="part--part_42" data-title="The Four Men (part 42)" data-chapter="part 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_42" data-title="The Four Men (part 42)" data-chapter="part 42" data-kind="excerpt" data-tags="archetype/satanic_figure,motif/the_soul,concept/self_and_soul,concept/temptation,concept/satire_of_society,form/travel_writing,form/satire,form/allegory,setting/the_underworld"></span>
 
 
 “Well, then, I say it was this third or working secretary who had done up Peter the Politician’s soul in a pretty little parcel, in brown paper paid out of the taxes, with fine red seals paid out of the taxes, and with strong, thin, and splendid string paid out of the taxes; and since the politician was very careful about his soul and it did not weigh much, he took it with him himself and set off to the Devil’s office to sell it; and where that office was he knew very well, for he had spent most of his time there while he was a young man, and had served his apprenticeship in another part of the same building.
@@ -5195,7 +5195,7 @@ Grizzlebeard. “No, not on that account; it is immoral because it makes out tha
 
 
 
-<span class="atom-split" data-atom="part--part_43" data-title="The Four Men (part 43)" data-chapter="part 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_43" data-title="The Four Men (part 43)" data-chapter="part 43" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 The Sailor. “Yes, but not in the four first Councils, and still less at Nicea, so that stumps you!”
@@ -5255,7 +5255,7 @@ Myself. “After that every man shall call for his own, and the Poet shall drink
 
 
 
-<span class="atom-split" data-atom="part--part_44" data-title="The Four Men (part 44)" data-chapter="part 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_44" data-title="The Four Men (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="motif/the_inn_tavern,motif/food_and_feasting,motif/music_and_song,motif/wine_and_drink,concept/comradeship,concept/nostalgia,form/travel_writing,setting/rural_england"></span>
 
 
 As we thus decided upon the nature of the feast, the last of the light, long declined, had faded upon the horizon behind the latticework of bare branches. The air was pure and cold, as befitted All-Hallows, and the far edges of the Downs toward the Hampshire border had level lines of light above them, deeply coloured, full of departure and of rest. There was a little mist upon the meadows of the Rother, and a white line of it in the growing darkness under the edges of the hills. It was not yet quite dark, but the first stars had come into the sky, and the pleasant scent of the wood fires was already strong upon the evening air when we found ourselves outside a large inn standing to the north of the road, behind a sort of green recess or common. Here were several carts standing out in the open, and a man stood with a wagon and a landaulette or two, and dogcarts as well, drawn up in the great courtyard.
@@ -5357,7 +5357,7 @@ Zo zhall ee not be,
 
 
 
-<span class="atom-split" data-atom="part--part_45" data-title="The Four Men (part 45)" data-chapter="part 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_45" data-title="The Four Men (part 45)" data-chapter="part 45" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 Zo zhall ee not be wi’ me!”
@@ -5489,7 +5489,7 @@ When we had come to Treyford, Grizzlebeard, who was by dumb assent at this momen
 
 
 
-<span class="atom-split" data-atom="part--part_46" data-title="The Four Men (part 46)" data-chapter="part 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_46" data-title="The Four Men (part 46)" data-chapter="part 46" data-kind="excerpt" data-tags="motif/home,motif/journey,concept/comradeship,concept/mortality"></span>
 
 
 “Here we will break a loaf, and pledge each other for the last time.”
@@ -5531,7 +5531,7 @@ It is the great platform just over Barl’ton, whence all the world lies out bef
 
 
 
-<span class="atom-split" data-atom="part--part_47" data-title="The Four Men (part 47)" data-chapter="part 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_47" data-title="The Four Men (part 47)" data-chapter="part 47" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 The haze had gone; the sky was faint and wintry, but pure throughout its circle, and above the Channel hung largely the round of the moon, still pale, because the dark had not yet come.

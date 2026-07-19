@@ -1307,7 +1307,7 @@ The Jew’s Breastplate
 
 
 
-<span class="atom-split" data-atom="story_01_danger_being_the_log_of_captain_john_sir" data-title="DANGER! AND OTHER STORIES — DANGER! BEING THE LOG OF CAPTAIN JOHN SIRIUS" data-chapter="DANGER BEING THE LOG OF CAPTAIN JOHN SIR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_danger_being_the_log_of_captain_john_sir" data-title="DANGER! AND OTHER STORIES — DANGER! BEING THE LOG OF CAPTAIN JOHN SIRIUS" data-chapter="DANGER BEING THE LOG OF CAPTAIN JOHN SIR" data-kind="story" data-tags="motif/ship,setting/london,setting/ship"></span>
 
 
 DANGER! BEING THE LOG OF CAPTAIN JOHN SIRIUS
@@ -1430,7 +1430,7 @@ I cannot end this account better than by quoting the first few paragraphs of a l
 
 
 
-<span class="atom-split" data-atom="story_02_danger_story_ii_one_crowded_hour" data-title="DANGER! AND OTHER STORIES — DANGER STORY II.  ONE CROWDED HOUR" data-chapter="DANGER STORY II ONE CROWDED HOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_danger_story_ii_one_crowded_hour" data-title="DANGER! AND OTHER STORIES — DANGER STORY II.  ONE CROWDED HOUR" data-chapter="DANGER STORY II ONE CROWDED HOUR" data-kind="story" data-tags="setting/london"></span>
 
 
 DANGER STORY II.  ONE CROWDED HOUR
@@ -1549,7 +1549,7 @@ A telephone rang sharply upon the table, and the baronet put the receiver to his
 
 
 
-<span class="atom-split" data-atom="story_03_danger_story_iii_a_point_of_view" data-title="DANGER! AND OTHER STORIES — DANGER STORY III.  A POINT OF VIEW" data-chapter="DANGER STORY III A POINT OF VIEW" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_danger_story_iii_a_point_of_view" data-title="DANGER! AND OTHER STORIES — DANGER STORY III.  A POINT OF VIEW" data-chapter="DANGER STORY III A POINT OF VIEW" data-kind="story" data-tags="setting/london"></span>
 
 
 DANGER STORY III.  A POINT OF VIEW
@@ -1605,7 +1605,7 @@ The American was suddenly aware that he was in the presence of a very ugly propo
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_01" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 1)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_01" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 1)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 DANGER STORY IV.  THE FALL OF LORD BARRYMORE
@@ -1781,7 +1781,7 @@ The two females tittered loudly.
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_02" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 2)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_02" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 2)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 DANGER STORY V.  THE HORROR OF THE HEIGHTS
@@ -1827,7 +1827,7 @@ Such in its entirety is the Joyce-Armstrong Statement.  Of the man nothing has 
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_03" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 3)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_03" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 3)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 DANGER STORY VI.  BORROWED SCENES
@@ -1960,7 +1960,7 @@ I again asked for my coat, but it was clear now that before offering to fight th
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_04" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 4)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_04" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 4)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/ruins,motif/house_mansion,concept/solitude,concept/asceticism,concept/the_supernatural,form/short_story,setting/rural_england"></span>
 
 
 DANGER STORY VII.  THE SURGEON OF GASTER FELL
@@ -1983,7 +1983,7 @@ Mrs. Adams, my landlady, was wont to carry up my frugal breakfast; yet it was ve
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_05" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 5)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_05" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 5)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/night,motif/flowers,concept/secrecy_and_concealment,concept/solitude,form/short_story,setting/rural_england,setting/the_mountains"></span>
 
 
 II — HOW I WENT FORTH TO GASTER FELL
@@ -2055,7 +2055,7 @@ There was no mistaking those dark eyes, that tall, graceful figure.  It was she
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_06" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 6)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_06" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 6)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/door,motif/concealment_hidden_identity,concept/solitude,concept/secrecy_and_concealment,form/short_story,setting/rural_england"></span>
 
 
 III — OF THE GREY COTTAGE IN THE GLEN
@@ -2088,7 +2088,7 @@ I caught no glimpse of the surgeon upon my homeward journey; but when I reached 
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_07" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 7)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_07" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 7)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="archetype/villain,setting/london"></span>
 
 
 IV — OF THE MAN WHO CAME IN THE NIGHT
@@ -2114,7 +2114,7 @@ And what was the meaning of it all? you ask.  Many a drama which I have come ac
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_08" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 8)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_08" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 8)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 DANGER STORY VIII.  HOW IT HAPPENED
@@ -2155,7 +2155,7 @@ He looked at me with the same old gentle, wistful smile.
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_09" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 9)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_09" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 9)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 DANGER STORY IX.  THE PRISONER’S DEFENCE
@@ -2217,7 +2217,7 @@ It was urged at the trial in the police-court that jealousy was the cause of the
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_10" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 10)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_10" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 10)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 DANGER STORY X.  THREE OF THEM
@@ -2321,7 +2321,7 @@ Children don’t like silences.
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_11" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 11)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_11" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 11)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/childhood,concept/childhood_and_growth,concept/family,form/sketch"></span>
 
 
 II — ABOUT CRICKET
@@ -2447,7 +2447,7 @@ A step was heard coming along the passage.
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_12" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 12)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_12" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 12)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="motif/animals,concept/childhood_and_growth,concept/faith,concept/heaven_and_the_afterlife,concept/fate_and_free_will,form/sketch,histref/the_bible,character/noah,character/jesus"></span>
 
 
 III — SPECULATIONS
@@ -2555,7 +2555,7 @@ They got up resignedly, for they were really very good children.  “Say your p
 
 
 
-<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_13" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 13)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_danger_story_iv_the_fall_of_lord_barrymo--part_13" data-title="DANGER! AND OTHER STORIES — DANGER STORY IV.  THE FALL OF LORD BARRYMORE (part 13)" data-chapter="DANGER STORY IV THE FALL OF LORD BARRYMO" data-kind="excerpt" data-tags="archetype/villain"></span>
 
 
 IV — THE LEATHERSKIN TRIBE

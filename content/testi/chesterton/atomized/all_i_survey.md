@@ -6200,7 +6200,7 @@ of Beelzebub has the meaning of the Lord of Flies.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="All I Survey — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="All I Survey — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/king,archetype/monster,motif/horse,motif/storm,motif/time,concept/conscience,concept/democracy,concept/honour,concept/pride,concept/reform,concept/slavery,concept/truth,concept/wonder,setting/castle,character/bottom"></span>
 
 
 I
@@ -6361,7 +6361,7 @@ Vero è che, per ora, l'uomo che tratta i [[dogs|cani]] altrui come se fossero s
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="All I Survey — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="All I Survey — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/innocent,archetype/lover,motif/desert,motif/desire,motif/time,motif/well,concept/beauty,concept/doubt,form/literary_criticism,form/tragedy,histref/renaissance,setting/desert,character/cranmer,character/ophelia,character/queen"></span>
 
 
 II
@@ -6521,7 +6521,7 @@ Ciò che Stevenson possedeva, e ciò che i critici di Stevenson spesso non possi
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="All I Survey — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="All I Survey — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/love,motif/road,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/hope,concept/melancholy,concept/paradox,concept/self,form/history,histref/dante,setting/london,setting/oxford,setting/paris"></span>
 
 
 III
@@ -6771,7 +6771,7 @@ il quale è probabilmente un relitto del medievalismo.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="All I Survey — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="All I Survey — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/chains,motif/childhood,motif/city,motif/desert,motif/dreams,motif/hill,motif/ship,motif/time,motif/well,concept/history,concept/imagination,concept/reform,concept/truth,form/history,form/parable,histref/america,setting/america,setting/desert,setting/egypt,setting/ship,character/abraham_lincoln"></span>
 
 
 IV
@@ -6928,7 +6928,7 @@ C'è un altro modo in cui la [[Parable|parabola]] è davvero una schietta [[Trut
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="All I Survey — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="All I Survey — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/hero,archetype/monster,motif/city,motif/desert,motif/horse,motif/lion,motif/memory,motif/nature,motif/night,concept/greatness,concept/imagination,concept/nature,setting/castle,setting/cathedral,setting/desert,character/michael"></span>
 
 
 V
@@ -7087,7 +7087,7 @@ Ecco perché l'arte tradizionale è l'arte veramente creativa. Ecco perché essa
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="All I Survey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="All I Survey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/nature,motif/time,motif/window,concept/history,concept/hope,concept/nature,concept/reform,concept/self,concept/wonder,form/history,form/tragedy,histref/french_revolution,histref/reformation"></span>
 
 
 VI
@@ -7242,7 +7242,7 @@ Ritengo che valga la pena di rilevarlo ora, per una ragione semplice. Stiamo gi�
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="All I Survey — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="All I Survey — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/artist,motif/animals,motif/desert,motif/fire,motif/ghosts,motif/love,motif/stars,motif/well,concept/greatness,concept/greed,concept/grotesque,concept/history,concept/humility,concept/imagination,form/history,histref/america,histref/puritanism,setting/america,setting/desert,setting/mountains"></span>
 
 
 VII
@@ -7510,7 +7510,7 @@ col Bravo Ragazzo qualunque.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="All I Survey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="All I Survey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/king,archetype/prophet,archetype/rebel,motif/dawn,motif/flag,motif/love,motif/moon,motif/rose,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/resurrection,concept/truth,form/melodrama,form/satire,character/queen"></span>
 
 
 VIII
@@ -7804,7 +7804,7 @@ dell'Età Vittoriana.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="All I Survey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="All I Survey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/home,motif/leaves,motif/well,motif/wheel,concept/freedom,concept/individualism,concept/reform,concept/self,character/diana"></span>
 
 
 IX
@@ -7961,7 +7961,7 @@ Sentiamo parlare a profusione delle malvagie passioni della Guerra di Classe e d
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="All I Survey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="All I Survey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/shadow,motif/death,motif/decay,motif/horse,motif/road,motif/time,motif/well,concept/doubt,concept/education,concept/fanaticism,concept/greatness,concept/history,concept/paradox,concept/truth,form/history,histref/america,histref/christianity,histref/french_revolution,histref/reformation,setting/america,character/aquinas,character/queen,character/queen_elizabeth"></span>
 
 
 X
@@ -8139,7 +8139,7 @@ Poiché la cosa successiva che udimmo fu che tutta l'Europa e l'[[america|Americ
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="All I Survey — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="All I Survey — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/nature,motif/river,motif/silence,motif/time,concept/doubt,concept/history,concept/nature,form/history,histref/america,setting/america,character/gertrude"></span>
 
 
 XI
@@ -8309,7 +8309,7 @@ Nessuno sa quale sarà la moda fra un centinaio d'anni, salvo che quasi certamen
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="All I Survey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="All I Survey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="archetype/hero,motif/birds,motif/blood,motif/memory,motif/nightingale,motif/storm,motif/time,concept/beauty,concept/courage,concept/history,concept/self_deception,concept/temptation,concept/vanity,form/history,histref/milton,character/achilles,character/christ,character/milton,character/oliver,character/satan"></span>
 
 
 XII
@@ -8623,7 +8623,7 @@ Perfino la loro cattiva poesia può essere feconda di buona [[philosophy|filosof
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="All I Survey — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="All I Survey — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/animals,motif/leaves,motif/love,motif/marriage,motif/time,concept/doubt,concept/education,concept/fear,concept/grotesque,concept/pride,form/satire,histref/puritanism,setting/castle,character/christ,character/oliver_twist,character/smike"></span>
 
 
 XIII
@@ -8776,7 +8776,7 @@ Ora, se prendiamo un satirico del momento moderno, anche un uomo di genio o di g
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="All I Survey — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="All I Survey — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/love,motif/time,motif/well,concept/charity,concept/fear,concept/greatness,concept/history,concept/honour,concept/imagination,concept/purification,concept/truth,form/essay,form/history,form/parody,form/satire,character/satan"></span>
 
 
 XIV
@@ -8920,7 +8920,7 @@ Vale forse la pena di rilevare questa incongruenza a proposito della leggenda le
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="All I Survey — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="All I Survey — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/animals,motif/blood,motif/death,motif/nature,concept/imagination,concept/nature,concept/self,form/tragedy,character/lady_macbeth"></span>
 
 
 XV
@@ -9075,7 +9075,7 @@ Ed è qui, a quanto mi pare, che l'intera teoria dell'arte creativa incritica e 
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="All I Survey — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="All I Survey — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/lover,motif/birds,motif/city,motif/crown,motif/nature,motif/spring,motif/time,motif/well,concept/fear,concept/freedom,concept/history,concept/hope,concept/nature,concept/paradox,concept/self,concept/truth,form/history,histref/america,histref/spanish_inquisition,setting/america,setting/russia"></span>
 
 
 XVI
@@ -9369,7 +9369,7 @@ si siano tramutati in Giudei tedeschi.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="All I Survey — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="All I Survey — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="topos/dance_of_death,motif/cross,motif/decay,motif/nature,motif/swallow,motif/well,concept/fear,concept/nature,form/epigram,form/essay,form/riddle,histref/milton,histref/renaissance,setting/mountains,character/bottom,character/diana,character/gertrude,character/milton"></span>
 
 
 XVII
@@ -9554,7 +9554,7 @@ Stando così le cose, credo che vi siano difficoltà assai più profonde di quan
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="All I Survey — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="All I Survey — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="archetype/detective,archetype/ghost,motif/dust,motif/nature,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/education,concept/friendship,concept/imagination,concept/nature,concept/paradox,concept/pride,concept/sublime,concept/vanity,form/translation"></span>
 
 
 XVIII
@@ -9723,7 +9723,7 @@ Attualmente, perfino i buoni poeti spesso non scrivono buone [[Poems|poesie]], m
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="All I Survey — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="All I Survey — Chapter 19" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/artist,archetype/detective,archetype/innocent,archetype/king,archetype/tyrant,motif/cross,motif/desert,motif/garden,motif/horse,motif/love,motif/secrets,motif/sleep,motif/well,concept/democracy,concept/self_deception,concept/truth,concept/union,form/novel,histref/america,setting/america,setting/court,setting/desert,setting/orient,setting/russia"></span>
 
 
 XIX
@@ -10029,7 +10029,7 @@ ad essere enigmi a noi stessi.
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="All I Survey — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="All I Survey — Chapter 20" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/lover,archetype/rebel,motif/animals,motif/birds,motif/cross,motif/road,motif/time,motif/well,concept/freedom,concept/history,concept/paradox,concept/truth,form/essay,form/history,histref/america,setting/america"></span>
 
 
 XX
@@ -10190,7 +10190,7 @@ Poiché ciò di cui davvero mi lagno in questo scrittore brillante e ingegnoso �
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="All I Survey — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="All I Survey — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="motif/death,motif/hill,motif/home,motif/road,motif/secrets,motif/time,motif/well,concept/doubt,concept/history,concept/self,form/history,character/apollonius,character/silas_wegg"></span>
 
 
 XXI
@@ -10340,7 +10340,7 @@ Supponiamo, per esempio, che il soldato Giorgio avesse letto qualcuna delle sati
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="All I Survey — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="All I Survey — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="motif/time,motif/well,concept/doubt,concept/education,concept/paradox,concept/wonder,histref/america,setting/america,character/christ,character/sunday"></span>
 
 
 XXII
@@ -10507,7 +10507,7 @@ Poi lo scrittore adduce un esempio sbalorditivo. «La leva forzata era ancora un
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="All I Survey — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="All I Survey — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/fool,motif/death,motif/desert,motif/poison,motif/time,motif/water,motif/well,concept/democracy,concept/original_sin,concept/self,concept/truth,histref/renaissance,setting/desert,character/bottom,character/satan"></span>
 
 
 XXIII
@@ -10655,7 +10655,7 @@ Sfortunatamente, l'[[Humanitarianism|umanitarismo]] è stato il marchio di un [[
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="All I Survey — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="All I Survey — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/death,motif/home,motif/time,concept/doubt,concept/hope,concept/imagination,concept/longing,concept/melancholy,concept/resignation,form/elegy,form/riddle,character/speed"></span>
 
 
 XXIV
@@ -10812,7 +10812,7 @@ Qualche [[Time|tempo]] più tardi, forse assai lungo [[Time|tempo]] più tardi, 
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="All I Survey — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="All I Survey — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/death,motif/garden,motif/machine,motif/memory,motif/time,motif/uncanny,concept/ambition,concept/democracy,concept/history,concept/truth,concept/uncanny,form/elegy,form/history,histref/milton,character/milton"></span>
 
 
 Now, it is possible--nay, it is probable--that there
@@ -10980,7 +10980,7 @@ Ma bisogna prendere il ruvido con il liscio in quella nobile storia aristocratic
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="All I Survey — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="All I Survey — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/dance,motif/desert,motif/dreams,motif/garden,motif/love,motif/moon,motif/road,motif/rose,motif/spring,motif/stars,motif/time,motif/well,motif/wind,concept/beauty,concept/charity,concept/history,concept/hope,concept/paradox,concept/truth,form/history,setting/desert"></span>
 
 
 XXV
@@ -11132,7 +11132,7 @@ Per prendere un caso: il libro che ho letto ripeteva per la milionesima [[Time|v
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="All I Survey — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="All I Survey — Chapter 26" data-chapter="Chapter 26" data-kind="chapter" data-tags="motif/cave,motif/time,motif/well,concept/history,concept/self,concept/wonder,form/history,setting/cathedral,setting/germany,character/arthur,character/faust"></span>
 
 
 XXVI
@@ -11397,7 +11397,7 @@ si arrotolerà davvero come un verme sul pavimento e giacerà immobile per sempr
 
 
 
-<span class="atom-split" data-atom="chapter_27" data-title="All I Survey — Chapter 27" data-chapter="Chapter 27" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27" data-title="All I Survey — Chapter 27" data-chapter="Chapter 27" data-kind="chapter" data-tags="archetype/fool,archetype/king,motif/crown,motif/grave,motif/love,motif/time,motif/well,concept/history,concept/melancholy,concept/truth,form/epigram,form/history,character/arthur,character/queen"></span>
 
 
 XXVII
@@ -11667,7 +11667,7 @@ quel manicomio e rimase almeno il più assennato dei Re inglesi.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="All I Survey — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="All I Survey — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="motif/city,motif/death,motif/flowers,motif/supernatural,concept/despair,concept/doubt,concept/heroism,concept/history,concept/imagination,concept/melancholy,concept/self,concept/sublime,concept/suicide,form/history,histref/christianity,character/brutus,character/cleopatra"></span>
 
 
 XXVIII
@@ -11817,7 +11817,7 @@ No; la prova del contrasto tra i Latini moderni e i Teutoni moderni è esattamen
 
 
 
-<span class="atom-split" data-atom="chapter_29" data-title="All I Survey — Chapter 29" data-chapter="Chapter 29" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29" data-title="All I Survey — Chapter 29" data-chapter="Chapter 29" data-kind="chapter" data-tags="archetype/fool,archetype/innocent,motif/birds,motif/dust,motif/garden,motif/grave,motif/love,motif/silence,motif/supernatural,motif/well,concept/doubt,concept/fear,concept/truth,concept/wonder,histref/bible,histref/christianity,setting/oxford,setting/paris,character/oliver,character/richard_iii"></span>
 
 
 XXIX
@@ -11967,7 +11967,7 @@ Non sono la prima generazione di ribelli a essere Pagani. Sono la prima generazi
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="All I Survey — Chapter 30" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="All I Survey — Chapter 30" data-chapter="Chapter 30" data-kind="chapter" data-tags="motif/fire,motif/horse,motif/soul,motif/time,motif/window,concept/body,concept/paradox,concept/truth,form/epic,form/free_verse,form/lyric,form/sketch,form/tragedy"></span>
 
 
 XXX
@@ -12231,7 +12231,7 @@ non oserò, sul mio solo isolato esempio, decidere.
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="All I Survey — Chapter 31" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="All I Survey — Chapter 31" data-chapter="Chapter 31" data-kind="chapter" data-tags="archetype/child,archetype/monster,motif/desire,motif/fire,motif/horse,motif/nature,motif/night,motif/poison,motif/time,concept/education,concept/individualism,concept/nature,concept/poverty,concept/pride,concept/self,concept/solitude,character/christ"></span>
 
 
 XXXI
@@ -12379,7 +12379,7 @@ Perché, come ho già osato accennare molto delicatamente, il moderno Stato vers
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="All I Survey — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="All I Survey — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/cross,motif/dawn,motif/love,motif/marriage,motif/road,motif/soul,motif/well,concept/democracy,concept/faith,concept/freedom,concept/immortality,concept/jealousy,concept/truth,form/novel,histref/america,histref/dante,setting/america,character/arthur,character/beatrice"></span>
 
 
 XXXII
@@ -12527,7 +12527,7 @@ Ora, per quanto strano possa sembrare, lo stesso accadde con la Libertà come co
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="All I Survey — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="All I Survey — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desert,motif/dust,motif/fire,motif/flowers,motif/love,motif/time,motif/well,concept/beauty,concept/despair,concept/faith,concept/freedom,concept/history,concept/loneliness,concept/truth,form/history,form/inscription,form/literary_criticism,form/satire,form/sketch,histref/milton,setting/desert,setting/paris,character/milton,character/pistol"></span>
 
 
 Mr. Philip Carr recently published a picturesque and interesting
@@ -12661,7 +12661,7 @@ Più ironico del teschio ghignante, più dissolvente della [[Dust|polvere]] e de
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="All I Survey — Chapter 33" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="All I Survey — Chapter 33" data-chapter="Chapter 33" data-kind="chapter" data-tags="archetype/artist,motif/supernatural,motif/time,concept/doubt,concept/fear,concept/history,concept/self,form/comedy,form/history,form/lyric,form/tragedy,histref/dante,histref/milton,histref/reformation,histref/renaissance,setting/court,setting/italy,character/milton,character/richard_ii"></span>
 
 
 XXXIII
@@ -12817,7 +12817,7 @@ Chaucer era abbastanza ampio da poter essere ristretto; vale a dire, sapeva reca
 
 
 
-<span class="atom-split" data-atom="chapter_34" data-title="All I Survey — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34" data-title="All I Survey — Chapter 34" data-chapter="Chapter 34" data-kind="chapter" data-tags="archetype/hero,archetype/monster,motif/animals,motif/cave,motif/death,motif/horse,motif/uncanny,motif/well,motif/wind,concept/eugenics,concept/suffering,concept/uncanny,concept/wonder"></span>
 
 
 XXXIV
@@ -12984,7 +12984,7 @@ Potrei addurre un numero qualsiasi di altri casi; di altre controversie con cose
 
 
 
-<span class="atom-split" data-atom="chapter_35" data-title="All I Survey — Chapter 35" data-chapter="Chapter 35" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35" data-title="All I Survey — Chapter 35" data-chapter="Chapter 35" data-kind="chapter" data-tags="archetype/rebel,motif/death,motif/love,motif/time,concept/education,concept/history,concept/honour,concept/romantic_love,concept/truth,form/history,form/novel,character/isabella,character/maria,character/queen"></span>
 
 
 XXXV
@@ -13272,7 +13272,7 @@ di vermi di [[Death|morte]].
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="All I Survey — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="All I Survey — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="archetype/artist,archetype/monster,motif/horse,motif/rose,motif/silence,motif/time,motif/well,concept/individualism,concept/paradox,histref/dante,character/beatrice,character/helen"></span>
 
 
 XXXVI
@@ -13430,7 +13430,7 @@ Forse ciò che chiamiamo descrizioni realistiche è destinato a essere convenzio
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="All I Survey — Chapter 37" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="All I Survey — Chapter 37" data-chapter="Chapter 37" data-kind="chapter" data-tags="archetype/outsider,motif/horse,motif/moon,motif/time,concept/history,concept/sublime,concept/truth,form/essay,form/history,form/sketch,setting/oxford,setting/venice,character/king_arthur,character/queen"></span>
 
 
 XXXVII
@@ -13696,7 +13696,7 @@ in cerca di qualcosa con cui trastullarsi.
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="All I Survey — Chapter 38" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="All I Survey — Chapter 38" data-chapter="Chapter 38" data-kind="chapter" data-tags="motif/city,motif/cross,motif/journey,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/greatness,concept/history,concept/self,concept/wonder,form/biography,form/history,setting/cathedral,setting/london,character/kent"></span>
 
 
 XXXVIII
@@ -13846,7 +13846,7 @@ Frattanto, nulla se non questa nebbia di una frase, come una vera nebbia di [[Lo
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="All I Survey — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="All I Survey — Chapter 39" data-chapter="Chapter 39" data-kind="chapter" data-tags="archetype/fool,motif/nature,motif/silence,motif/time,concept/charity,concept/doubt,concept/honour,concept/nature,concept/self"></span>
 
 
 XXXIX
@@ -14097,7 +14097,7 @@ nel modo più inequivocabile «fatto male».
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="All I Survey — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="All I Survey — Chapter 40" data-chapter="Chapter 40" data-kind="chapter" data-tags="archetype/lover,motif/love,motif/marriage,motif/memory,motif/mutability,motif/tears,concept/ambition,concept/beauty,concept/doubt,concept/freedom,concept/history,concept/jealousy,concept/mortality,concept/slavery,form/fragment,form/history,character/portia"></span>
 
 
 XL
@@ -14363,7 +14363,7 @@ e di [[Slavery|schiavitù]], e rigida come le mummie dei morti.
 
 
 
-<span class="atom-split" data-atom="chapter_41" data-title="All I Survey — Chapter 41" data-chapter="Chapter 41" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_41" data-title="All I Survey — Chapter 41" data-chapter="Chapter 41" data-kind="chapter" data-tags="motif/dawn,motif/desire,motif/dreams,motif/love,motif/marriage,motif/night,motif/sleep,motif/time,concept/fear,concept/hope,concept/reconciliation,character/apollo"></span>
 
 
 XLI
@@ -14643,7 +14643,7 @@ abitudine dell'umanità di sposarsi e di aver figli.
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="All I Survey — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="All I Survey — Chapter 42" data-chapter="Chapter 42" data-kind="chapter" data-tags="archetype/king,motif/death,motif/fire,motif/marriage,motif/time,motif/well,concept/courage,concept/greatness,concept/honour,concept/truth,setting/court,character/king_arthur"></span>
 
 
 XLII
@@ -14795,7 +14795,7 @@ Una cosa la trovò davvero nel passato, non ancora del tutto distrutta nel prese
 
 
 
-<span class="atom-split" data-atom="chapter_43" data-title="All I Survey — Chapter 43" data-chapter="Chapter 43" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_43" data-title="All I Survey — Chapter 43" data-chapter="Chapter 43" data-kind="chapter" data-tags="archetype/child,motif/dreams,motif/flowers,motif/garden,motif/love,motif/moon,motif/prayer,motif/spring,motif/stars,motif/summer,motif/time,concept/history,concept/imagination,concept/truth,concept/wonder,form/essay,form/history,histref/america,setting/america,setting/germany,character/apollo"></span>
 
 
 XLIII
@@ -14962,7 +14962,7 @@ Che nessuno se ne vada in giro a dire che l'ho fatta io, quell'osservazione. Che
 
 
 
-<span class="atom-split" data-atom="chapter_44" data-title="All I Survey — Chapter 44" data-chapter="Chapter 44" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_44" data-title="All I Survey — Chapter 44" data-chapter="Chapter 44" data-kind="chapter" data-tags="motif/death,motif/insects,motif/silence,motif/time,motif/well,concept/courage,concept/despair,concept/doubt,concept/history,concept/indolence,concept/paradox,concept/self,concept/temptation,concept/truth,form/history,character/queen,character/sir_thomas_more"></span>
 
 
 XLIV

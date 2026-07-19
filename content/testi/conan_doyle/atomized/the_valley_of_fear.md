@@ -1595,7 +1595,7 @@ This is a collection of eight Sherlock Holmes stories. Originally published in 1
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_warning" data-title="THE VALLEY OF FEAR — Chapter 1: The Warning" data-chapter="The Warning" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_warning" data-title="THE VALLEY OF FEAR — Chapter 1: The Warning" data-chapter="The Warning" data-kind="chapter" data-tags="archetype/detective,motif/city,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 CHAPTER 1 — The Warning
@@ -1681,7 +1681,7 @@ The inspector looked from one to the other of us in dazed astonishment. “Just 
 
 
 
-<span class="atom-split" data-atom="chapter_02_sherlock_holmes_discourses" data-title="THE VALLEY OF FEAR — Chapter 2: Sherlock Holmes Discourses" data-chapter="Sherlock Holmes Discourses" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_sherlock_holmes_discourses" data-title="THE VALLEY OF FEAR — Chapter 2: Sherlock Holmes Discourses" data-chapter="Sherlock Holmes Discourses" data-kind="chapter" data-tags="archetype/detective,setting/london,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 CHAPTER 2 — [[Sherlock Holmes]] Discourses
@@ -1778,7 +1778,7 @@ Inspector MacDonald had grown steadily more impressed as the conversation procee
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_tragedy_of_birlstone" data-title="THE VALLEY OF FEAR — Chapter 3: The Tragedy of Birlstone" data-chapter="The Tragedy of Birlstone" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_tragedy_of_birlstone" data-title="THE VALLEY OF FEAR — Chapter 3: The Tragedy of Birlstone" data-chapter="The Tragedy of Birlstone" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER 3 — The Tragedy of Birlstone
@@ -1857,7 +1857,7 @@ The worthy country policeman shook his head. “Seems to me the sooner we get [[
 
 
 
-<span class="atom-split" data-atom="chapter_04_darkness" data-title="THE VALLEY OF FEAR — Chapter 4: Darkness" data-chapter="Darkness" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_darkness" data-title="THE VALLEY OF FEAR — Chapter 4: Darkness" data-chapter="Darkness" data-kind="chapter" data-tags="archetype/detective"></span>
 
 
 CHAPTER 4 — Darkness
@@ -1972,7 +1972,7 @@ We found three or four grooms and idlers standing in the drive inspecting a bicy
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_people_of_the_drama" data-title="THE VALLEY OF FEAR — Chapter 5: The People of the Drama" data-chapter="The People of the Drama" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_people_of_the_drama" data-title="THE VALLEY OF FEAR — Chapter 5: The People of the Drama" data-chapter="The People of the Drama" data-kind="chapter" data-tags="archetype/detective,motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 5 — The People of the Drama
@@ -2113,7 +2113,7 @@ White Mason chuckled and rubbed his fat hands together in his professional satis
 
 
 
-<span class="atom-split" data-atom="chapter_06_a_dawning_light" data-title="THE VALLEY OF FEAR — Chapter 6: A Dawning Light" data-chapter="A Dawning Light" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_a_dawning_light" data-title="THE VALLEY OF FEAR — Chapter 6: A Dawning Light" data-chapter="A Dawning Light" data-kind="chapter" data-tags="archetype/detective,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 6 — A Dawning Light
@@ -2213,7 +2213,7 @@ He stood beside me in silence, his candle in his hand. Then the tall, lean figur
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_solution" data-title="THE VALLEY OF FEAR — Chapter 7: The Solution" data-chapter="The Solution" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_the_solution" data-title="THE VALLEY OF FEAR — Chapter 7: The Solution" data-chapter="The Solution" data-kind="chapter" data-tags="archetype/detective,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 7 — The Solution
@@ -2341,7 +2341,7 @@ Do not think that I intrude one story before another is finished. As you read on
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_man" data-title="THE VALLEY OF FEAR — Chapter 1: The Man" data-chapter="The Man" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_the_man" data-title="THE VALLEY OF FEAR — Chapter 1: The Man" data-chapter="The Man" data-kind="chapter" data-tags="motif/secrets,concept/crime_and_punishment,concept/secrecy_and_concealment,concept/class_conflict,form/detective_fiction,setting/america,setting/industrial_city,character/bill_scanlan"></span>
 
 
 PART 2 — The Scowrers
@@ -2443,7 +2443,7 @@ So it was that McMurdo, the self-confessed fugitive from justice, took up his ab
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_bodymaster" data-title="THE VALLEY OF FEAR — Chapter 2: The Bodymaster" data-chapter="The Bodymaster" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_bodymaster" data-title="THE VALLEY OF FEAR — Chapter 2: The Bodymaster" data-chapter="The Bodymaster" data-kind="chapter" data-tags="motif/city"></span>
 
 
 CHAPTER 2 — The Bodymaster
@@ -2656,7 +2656,7 @@ McGinty clapped them both on the shoulders. “Tut! These girls! These girls!”
 
 
 
-<span class="atom-split" data-atom="chapter_10_lodge_341_vermissa" data-title="THE VALLEY OF FEAR — Chapter 3: Lodge 341, Vermissa" data-chapter="Lodge 341 Vermissa" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_lodge_341_vermissa" data-title="THE VALLEY OF FEAR — Chapter 3: Lodge 341, Vermissa" data-chapter="Lodge 341 Vermissa" data-kind="chapter" data-tags="motif/secrets,motif/money_gold,concept/crime_and_punishment,concept/secrecy_and_concealment,form/detective_fiction,setting/america,setting/industrial_city,character/bill_scanlan"></span>
 
 
 CHAPTER 3 — Lodge 341, Vermissa
@@ -2806,7 +2806,7 @@ There was indeed the sound of shouting in the street, and a little group of comp
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_valley_of_fear" data-title="THE VALLEY OF FEAR — Chapter 4: The Valley of Fear" data-chapter="The Valley of Fear" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_the_valley_of_fear" data-title="THE VALLEY OF FEAR — Chapter 4: The Valley of Fear" data-chapter="The Valley of Fear" data-kind="chapter" data-tags="archetype/villain"></span>
 
 
 CHAPTER 4 — The Valley of Fear
@@ -2911,7 +2911,7 @@ The verdict was greeted with loud applause by a court in which McMurdo saw many 
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_darkest_hour" data-title="THE VALLEY OF FEAR — Chapter 5: The Darkest Hour" data-chapter="The Darkest Hour" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_the_darkest_hour" data-title="THE VALLEY OF FEAR — Chapter 5: The Darkest Hour" data-chapter="The Darkest Hour" data-kind="chapter" data-tags="archetype/detective"></span>
 
 
 CHAPTER 5 — The Darkest Hour
@@ -3017,7 +3017,7 @@ Darkly the shadow lay upon the Valley of Fear. The spring had come with running 
 
 
 
-<span class="atom-split" data-atom="chapter_13_danger" data-title="THE VALLEY OF FEAR — Chapter 6: Danger" data-chapter="Danger" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_danger" data-title="THE VALLEY OF FEAR — Chapter 6: Danger" data-chapter="Danger" data-kind="chapter" data-tags="archetype/detective"></span>
 
 
 CHAPTER 6 — Danger
@@ -3125,7 +3125,7 @@ The usual revelry of the lodge was short and subdued: for there was a cloud upon
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_trapping_of_birdy_edwards" data-title="THE VALLEY OF FEAR — Chapter 7: The Trapping of Birdy Edwards" data-chapter="The Trapping of Birdy Edwards" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_the_trapping_of_birdy_edwards" data-title="THE VALLEY OF FEAR — Chapter 7: The Trapping of Birdy Edwards" data-chapter="The Trapping of Birdy Edwards" data-kind="chapter" data-tags="archetype/detective,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 7 — The Trapping of Birdy Edwards

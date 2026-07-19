@@ -4821,7 +4821,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_on_seriousness" data-title="The Uses of Diversity — On Seriousness" data-chapter="On Seriousness" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_seriousness" data-title="The Uses of Diversity — On Seriousness" data-chapter="On Seriousness" data-kind="story" data-tags="archetype/lover,motif/animals,motif/death,motif/grave,motif/horse,motif/love,motif/time,motif/well,concept/fear,concept/grotesque,concept/history,concept/hope,concept/truth,form/history,form/satire,setting/egypt,setting/london,character/helen"></span>
 
 
 On Seriousness
@@ -5017,7 +5017,7 @@ s'informano, e comprendono.
 
 
 
-<span class="atom-split" data-atom="story_02_lamp_posts" data-title="The Uses of Diversity — Lamp-Posts" data-chapter="Lamp Posts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_lamp_posts" data-title="The Uses of Diversity — Lamp-Posts" data-chapter="Lamp Posts" data-kind="story" data-tags="archetype/child,archetype/lover,archetype/tyrant,motif/fire,motif/journey,motif/memory,motif/moon,motif/nature,motif/sleep,motif/swallow,motif/time,motif/well,motif/window,concept/beauty,concept/conscience,concept/democracy,concept/nature,concept/wonder,histref/french_revolution,setting/london,setting/paris"></span>
 
 
 Lamp-Posts
@@ -5181,7 +5181,7 @@ La nuova [[Wonder|meraviglia]] che ha mutato il mondo sotto i nostri occhi è ch
 
 
 
-<span class="atom-split" data-atom="story_03_the_spirits" data-title="The Uses of Diversity — The Spirits" data-chapter="The Spirits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_spirits" data-title="The Uses of Diversity — The Spirits" data-chapter="The Spirits" data-kind="story" data-tags="archetype/king,motif/animals,motif/death,motif/desire,motif/fire,motif/ghosts,motif/night,motif/prison,motif/soul,motif/supernatural,motif/well,concept/conversion,concept/doubt,concept/faith,concept/freedom,concept/history,concept/hope,concept/self,concept/self_deception,form/history,form/novel,histref/dante"></span>
 
 
 The Spirits
@@ -5325,7 +5325,7 @@ Il signor Basil [[King]] chiese allo spirito, che gli aveva detto che gli [[Anim
 
 
 
-<span class="atom-split" data-atom="story_04_tennyson" data-title="The Uses of Diversity — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_tennyson" data-title="The Uses of Diversity — Tennyson" data-chapter="Tennyson" data-kind="story" data-tags="archetype/child,motif/city,motif/decay,motif/fire,motif/silence,motif/tears,motif/time,motif/well,concept/beauty,concept/democracy,concept/despair,concept/freedom,concept/history,concept/hope,concept/survival,concept/truth,form/history,histref/french_revolution,histref/reformation,histref/renaissance,setting/paris,character/pericles,character/queen"></span>
 
 
 Tennyson
@@ -5506,7 +5506,7 @@ Questo particolare compromesso tra disprezzo e [[Hope|speranza]] fu un accidente
 
 
 
-<span class="atom-split" data-atom="story_05_the_domesticity_of_detectives" data-title="The Uses of Diversity — The Domesticity of Detectives" data-chapter="The Domesticity of Detectives" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_domesticity_of_detectives" data-title="The Uses of Diversity — The Domesticity of Detectives" data-chapter="The Domesticity of Detectives" data-kind="story" data-tags="archetype/artist,archetype/detective,archetype/hero,motif/home,motif/nature,motif/poison,motif/time,concept/doubt,concept/madness,concept/nature,concept/truth,form/novel,histref/french_revolution,setting/castle,setting/germany,setting/paris"></span>
 
 
 The Domesticity of Detectives
@@ -5756,7 +5756,7 @@ stessa è stata--un capolavoro francese; Gesta Dei per Francos.
 
 
 
-<span class="atom-split" data-atom="story_06_george_meredith" data-title="The Uses of Diversity — George Meredith" data-chapter="George Meredith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_george_meredith" data-title="The Uses of Diversity — George Meredith" data-chapter="George Meredith" data-kind="story" data-tags="motif/dawn,motif/death,motif/nature,motif/time,motif/well,concept/common_man,concept/doubt,concept/faith,concept/greatness,concept/hope,concept/nature,concept/paradox,concept/pride,concept/reform,character/chorus"></span>
 
 
 George Meredith
@@ -5887,7 +5887,7 @@ Questo è il segno dell'uomo veramente grande: che egli scorge da lontano l'[[Co
 
 
 
-<span class="atom-split" data-atom="story_07_the_irishman" data-title="The Uses of Diversity — The Irishman" data-chapter="The Irishman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_irishman" data-title="The Uses of Diversity — The Irishman" data-chapter="The Irishman" data-kind="story" data-tags="archetype/fool,motif/childhood,motif/dawn,motif/death,motif/fire,motif/garden,motif/love,motif/rose,motif/soul,concept/courage,concept/identity,concept/truth,histref/bible,character/sunday"></span>
 
 
 The Irishman
@@ -6065,7 +6065,7 @@ Questo mi sembra il vero valore di schizzi nazionali così vividi come quelli di
 
 
 
-<span class="atom-split" data-atom="story_08_ireland_and_the_domestic_drama" data-title="The Uses of Diversity — Ireland and the Domestic Drama" data-chapter="Ireland and the Domestic Drama" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_ireland_and_the_domestic_drama" data-title="The Uses of Diversity — Ireland and the Domestic Drama" data-chapter="Ireland and the Domestic Drama" data-kind="story" data-tags="archetype/child,motif/cross,motif/home,motif/journey,motif/memory,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/madness,concept/nature,concept/pride,concept/reconciliation,concept/self,form/apologetics,form/satire,histref/america,setting/america"></span>
 
 
 Ireland and the Domestic Drama
@@ -6214,7 +6214,7 @@ Poiché il dramma della [[Home|casa]] è davvero assai drammatico. È uno di que
 
 
 
-<span class="atom-split" data-atom="story_09_the_japanese" data-title="The Uses of Diversity — The Japanese" data-chapter="The Japanese" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_japanese" data-title="The Uses of Diversity — The Japanese" data-chapter="The Japanese" data-kind="story" data-tags="archetype/king,motif/death,motif/home,motif/mirror,motif/moon,motif/time,motif/well,concept/beauty,concept/courage,concept/democracy,concept/doubt,concept/honour,concept/sublime,form/tragedy,histref/dante,histref/french_revolution,setting/orient,setting/russia"></span>
 
 
 The Japanese
@@ -6374,7 +6374,7 @@ I fatti nudi e crudi, naturalmente, sono perfettamente semplici. Il Giappone ha 
 
 
 
-<span class="atom-split" data-atom="story_10_christian_science" data-title="The Uses of Diversity — Christian Science" data-chapter="Christian Science" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_christian_science" data-title="The Uses of Diversity — Christian Science" data-chapter="Christian Science" data-kind="story" data-tags="motif/dance,motif/prayer,motif/time,motif/water,motif/well,concept/faith,concept/hope,concept/reconciliation,concept/truth,concept/union,histref/bible"></span>
 
 
 Christian Science
@@ -6517,7 +6517,7 @@ Sembra proprio, in questo momento, che stia per farsi una [[Reconciliation|ricon
 
 
 
-<span class="atom-split" data-atom="story_11_the_lawlessness_of_lawyers" data-title="The Uses of Diversity — The Lawlessness of Lawyers" data-chapter="The Lawlessness of Lawyers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_lawlessness_of_lawyers" data-title="The Uses of Diversity — The Lawlessness of Lawyers" data-chapter="The Lawlessness of Lawyers" data-kind="story" data-tags="archetype/innocent,motif/chains,motif/nature,motif/time,motif/well,concept/history,concept/hope,concept/nature,concept/paradox,concept/truth,form/epic,form/fable,form/history,histref/bible,histref/dante,histref/milton,histref/renaissance,setting/court,setting/mountains,character/milton,character/satan"></span>
 
 
 The Lawlessness of Lawyers
@@ -6810,7 +6810,7 @@ non hanno mai perso quella cosa rara e persino terribile, il rispetto dei poveri
 
 
 
-<span class="atom-split" data-atom="story_12_our_latin_relations" data-title="The Uses of Diversity — Our Latin Relations" data-chapter="Our Latin Relations" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_our_latin_relations" data-title="The Uses of Diversity — Our Latin Relations" data-chapter="Our Latin Relations" data-kind="story" data-tags="archetype/king,motif/hill,motif/stars,motif/time,motif/well,concept/history,concept/paradox,concept/truth,form/history,setting/court,setting/italy,character/don_john_of_austria,character/lucifer,character/michael"></span>
 
 
 Our Latin Relations
@@ -6951,7 +6951,7 @@ Persino dopo lo spettrale illuminarsi della guerra vi sono persone che non riesc
 
 
 
-<span class="atom-split" data-atom="story_13_on_pigs_as_pets" data-title="The Uses of Diversity — On Pigs as Pets" data-chapter="On Pigs as Pets" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_pigs_as_pets" data-title="The Uses of Diversity — On Pigs as Pets" data-chapter="On Pigs as Pets" data-kind="story" data-tags="archetype/artist,archetype/innocent,archetype/king,motif/animals,motif/chalk,motif/horse,motif/nature,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/humility,concept/nature,histref/christianity,setting/london,character/falstaff,character/monks"></span>
 
 
 On Pigs as Pets
@@ -7106,7 +7106,7 @@ Che cos'è che vi fa sembrare così increduli? Perché vi sentite ancora leggerm
 
 
 
-<span class="atom-split" data-atom="story_14_the_romance_of_rostand" data-title="The Uses of Diversity — The Romance of Rostand" data-chapter="The Romance of Rostand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_romance_of_rostand" data-title="The Uses of Diversity — The Romance of Rostand" data-chapter="The Romance of Rostand" data-kind="story" data-tags="archetype/hero,archetype/shadow,motif/birds,motif/blood,motif/grave,motif/night,motif/rose,motif/time,motif/well,concept/greatness,concept/truth,form/comedy,form/epic,form/riddle,form/tragedy"></span>
 
 
 The [[Romance]] of Rostand
@@ -7228,7 +7228,7 @@ Il teatro di Rostand era pieno di risposte, per quanto ai superficiali possano s
 
 
 
-<span class="atom-split" data-atom="story_15_wishes" data-title="The Uses of Diversity — Wishes" data-chapter="Wishes" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_wishes" data-title="The Uses of Diversity — Wishes" data-chapter="Wishes" data-kind="story" data-tags="archetype/child,archetype/king,motif/desire,motif/fire,motif/home,motif/lightning,motif/moon,motif/night,motif/nightingale,motif/pain,motif/stars,motif/supernatural,motif/time,motif/well,motif/wind,concept/fear,concept/identity,concept/self,concept/wonder,form/parody,character/ajax,character/satan,character/witch"></span>
 
 
 Wishes
@@ -7378,7 +7378,7 @@ Ora potete, se scegliete così, trascorrere la vostra vita in un sogno stregato,
 
 
 
-<span class="atom-split" data-atom="story_16_the_futurists" data-title="The Uses of Diversity — The Futurists" data-chapter="The Futurists" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_futurists" data-title="The Uses of Diversity — The Futurists" data-chapter="The Futurists" data-kind="story" data-tags="archetype/fool,motif/flowers,motif/leaves,motif/love,motif/moon,motif/nature,motif/soul,motif/tears,motif/time,concept/conscience,concept/friendship,concept/immortality,concept/nature,concept/reform,concept/truth,form/sonnet,histref/milton,character/milton"></span>
 
 
 The Futurists
@@ -7535,7 +7535,7 @@ Il signor Nevinson mi strapperà una lacrima esibendo un motivo decorativo e chi
 
 
 
-<span class="atom-split" data-atom="story_17_the_evolution_of_emma" data-title="The Uses of Diversity — The Evolution of Emma" data-chapter="The Evolution of Emma" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_evolution_of_emma" data-title="The Uses of Diversity — The Evolution of Emma" data-chapter="The Evolution of Emma" data-kind="story" data-tags="archetype/hero,archetype/lover,archetype/prophet,archetype/shadow,motif/love,motif/nature,motif/spring,motif/time,motif/well,concept/beauty,concept/doubt,concept/eugenics,concept/freedom,concept/greatness,concept/history,concept/madness,concept/nature,concept/pride,concept/reform,concept/truth,concept/wonder,form/comedy,form/history,form/satire,histref/french_revolution,setting/cathedral,character/catherine_morland,character/emma_woodhouse,character/henry_tilney,character/jones"></span>
 
 
 The Evolution of [[Emma]]
@@ -7711,7 +7711,7 @@ Si nota che vi sono poche tracce della [[French Revolution|Rivoluzione Francese]
 
 
 
-<span class="atom-split" data-atom="story_18_the_pseudo_scientific_books" data-title="The Uses of Diversity — The Pseudo-Scientific Books" data-chapter="The Pseudo Scientific Books" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_pseudo_scientific_books" data-title="The Uses of Diversity — The Pseudo-Scientific Books" data-chapter="The Pseudo Scientific Books" data-kind="story" data-tags="archetype/innocent,archetype/rebel,motif/insects,motif/marriage,motif/nature,motif/road,motif/supernatural,motif/time,motif/well,concept/conscience,concept/doubt,concept/history,concept/nature,concept/self,concept/suicide,form/fable,form/history,setting/mountains,character/queen"></span>
 
 
 The Pseudo-Scientific Books
@@ -7864,7 +7864,7 @@ I Cristiani incoraggiano il vino come qualcosa che gioverà agli uomini. Gli ast
 
 
 
-<span class="atom-split" data-atom="story_19_the_humour_of_king_herod" data-title="The Uses of Diversity — The Humour of King Herod" data-chapter="The Humour of King Herod" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_humour_of_king_herod" data-title="The Uses of Diversity — The Humour of King Herod" data-chapter="The Humour of King Herod" data-kind="story" data-tags="archetype/child,archetype/detective,archetype/innocent,archetype/king,motif/crown,motif/time,motif/well,concept/doubt,concept/history,concept/identity,concept/paradox,form/comedy,form/history,form/satire,form/tragedy,character/claudius,character/macbeth"></span>
 
 
 The [[Humour]] of [[King]] Herod
@@ -8014,7 +8014,7 @@ Abbiamo visto un vero [[King|re]] Erode reclamare i tuoni del trono di Dio, e ri
 
 
 
-<span class="atom-split" data-atom="story_20_the_silver_goblets" data-title="The Uses of Diversity — The Silver Goblets" data-chapter="The Silver Goblets" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_silver_goblets" data-title="The Uses of Diversity — The Silver Goblets" data-chapter="The Silver Goblets" data-kind="story" data-tags="motif/blood,motif/death,motif/flowers,motif/mirror,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/history,concept/imagination,concept/nature,form/history,histref/america,setting/america,character/buckingham,character/henry_viii,character/othello,character/shylock,character/vincent_crummles"></span>
 
 
 The Silver Goblets
@@ -8176,7 +8176,7 @@ Il metodo moderno è vendere Shakespeare per trenta pezzi d'argento.
 
 
 
-<span class="atom-split" data-atom="story_21_the_duty_of_the_historian" data-title="The Uses of Diversity — The Duty of the Historian" data-chapter="The Duty of the Historian" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_duty_of_the_historian" data-title="The Uses of Diversity — The Duty of the Historian" data-chapter="The Duty of the Historian" data-kind="story" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/cross,motif/decay,motif/desire,motif/dust,motif/fire,motif/lion,motif/machine,motif/stars,motif/time,motif/water,concept/despair,concept/education,concept/history,concept/pride,concept/truth,form/history,histref/french_revolution,histref/puritanism,character/eleanor"></span>
 
 
 The Duty of the Historian
@@ -8339,7 +8339,7 @@ Ma quando le profondità vengono smosse in una società, e le anime di tutti gli
 
 
 
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_01" data-title="The Uses of Diversity — Questions of Divorce (part 1)" data-chapter="Questions of divorce Divorce" data-kind="excerpt" data-tags="archetype/monster,motif/crown,motif/dance,motif/marriage,motif/pain,motif/soul,motif/well,concept/democracy,concept/doubt,concept/fanaticism,concept/union"></span>
 
 
 Questions of [[divorce|Divorce]]
@@ -8472,7 +8472,7 @@ La difficoltà è semplicemente questa: che, quando si tratta di reclamare un tr
 
 
 
-<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Questions of divorce Divorce" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_questions_of_divorce_divorce--part_02" data-title="The Uses of Diversity — Questions of Divorce (part 2)" data-chapter="Questions of divorce Divorce" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,archetype/monster,motif/desire,motif/horse,motif/love,motif/marriage,motif/nature,motif/soul,motif/time,motif/well,concept/eternity,concept/faith,concept/fear,concept/freedom,concept/honour,concept/nature,concept/paradox,concept/pride,concept/truth,form/tragedy,character/mermaid"></span>
 
 
 So, if you say that [[Marriage|marriage]] is for common people, but [[divorce]]
@@ -8623,7 +8623,7 @@ L'[[Soul|anima]] di un uomo è piena di voci come una foresta; vi sono là dieci
 
 
 
-<span class="atom-split" data-atom="story_23_mormonism" data-title="The Uses of Diversity — Mormonism" data-chapter="Mormonism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_mormonism" data-title="The Uses of Diversity — Mormonism" data-chapter="Mormonism" data-kind="story" data-tags="motif/desert,motif/soul,motif/time,motif/well,concept/doubt,concept/history,concept/self,concept/slavery,concept/truth,form/history,histref/bible,histref/crusades,setting/desert,character/oliver"></span>
 
 
 [[Mormonism]]
@@ -8770,7 +8770,7 @@ Non ho lo spazio, anche se ne avessi la conoscenza, per descrivere le teorie fon
 
 
 
-<span class="atom-split" data-atom="story_24_pageants_and_dress" data-title="The Uses of Diversity — Pageants and Dress" data-chapter="Pageants and Dress" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_pageants_and_dress" data-title="The Uses of Diversity — Pageants and Dress" data-chapter="Pageants and Dress" data-kind="story" data-tags="archetype/fool,motif/crown,motif/dawn,motif/dust,motif/garden,motif/lion,motif/love,motif/time,motif/well,concept/courage,concept/honour,concept/humility,concept/pride,concept/truth,form/allegory,character/cardinal_wolsey,character/monks"></span>
 
 
 Pageants and Dress
@@ -8929,7 +8929,7 @@ Il guaio moderno non è che la gente non veda colori splendidi o effetti sorpren
 
 
 
-<span class="atom-split" data-atom="story_25_on_stage_costume" data-title="The Uses of Diversity — On Stage Costume" data-chapter="On Stage Costume" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_stage_costume" data-title="The Uses of Diversity — On Stage Costume" data-chapter="On Stage Costume" data-kind="story" data-tags="motif/animals,motif/city,motif/nature,motif/night,motif/supernatural,motif/well,concept/history,concept/imagination,concept/jealousy,concept/madness,concept/nature,form/epic,form/history,character/bottom,character/duncan,character/helena,character/hermia,character/hippolyta,character/lady_macbeth,character/macbeth,character/portia,character/rosalind,character/theseus"></span>
 
 
 On Stage Costume
@@ -9113,7 +9113,7 @@ Questo difetto o falsità in Peter Pan è, naturalmente, ripetuto nello strano e
 
 
 
-<span class="atom-split" data-atom="story_26_the_yule_log_and_the_democrat" data-title="The Uses of Diversity — The Yule Log and the Democrat" data-chapter="The Yule Log and the Democrat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_yule_log_and_the_democrat" data-title="The Uses of Diversity — The Yule Log and the Democrat" data-chapter="The Yule Log and the Democrat" data-kind="story" data-tags="motif/dust,motif/fire,motif/home,motif/night,motif/prison,motif/time,motif/water,motif/well,motif/winter,concept/democracy,concept/imagination,concept/truth,form/fable,form/parody,character/prometheus"></span>
 
 
 The Yule Log and the Democrat
@@ -9294,7 +9294,7 @@ Shakespeare, egli stesso simile a un grande e liberale [[Fire|fuoco]] attorno al
 
 
 
-<span class="atom-split" data-atom="story_27_more_thoughts_on_christmas" data-title="The Uses of Diversity — More Thoughts on Christmas" data-chapter="More Thoughts on Christmas" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_more_thoughts_on_christmas" data-title="The Uses of Diversity — More Thoughts on Christmas" data-chapter="More Thoughts on Christmas" data-kind="story" data-tags="archetype/child,archetype/king,motif/childhood,motif/city,motif/dust,motif/garden,motif/home,motif/marriage,motif/seasons,motif/snow,motif/summer,motif/well,motif/winter,concept/body,concept/doubt,concept/freedom,concept/hope,concept/truth"></span>
 
 
 More Thoughts on Christmas
@@ -9439,7 +9439,7 @@ Egli si rende conto che c'è qualcosa nel suo stesso [[Garden|giardino]] che non
 
 
 
-<span class="atom-split" data-atom="story_28_dickens_again" data-title="The Uses of Diversity — Dickens Again" data-chapter="Dickens Again" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_dickens_again" data-title="The Uses of Diversity — Dickens Again" data-chapter="Dickens Again" data-kind="story" data-tags="motif/bells,motif/desire,motif/garden,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/melancholy,concept/nature,concept/suicide,concept/truth,form/biography,form/riddle,histref/milton,character/apollo,character/arthur,character/milton,character/uriah_heep"></span>
 
 
 Dickens Again
@@ -9570,7 +9570,7 @@ Le condizioni sono ulteriormente complicate dal fatto che, mentre leggere Dicken
 
 
 
-<span class="atom-split" data-atom="story_29_taffy" data-title="The Uses of Diversity — Taffy" data-chapter="Taffy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_taffy" data-title="The Uses of Diversity — Taffy" data-chapter="Taffy" data-kind="story" data-tags="archetype/artist,archetype/tyrant,motif/animals,motif/leaves,motif/supernatural,motif/time,concept/faith,concept/history,concept/self,concept/temptation,form/history,histref/america,setting/america"></span>
 
 
 Taffy
@@ -9719,7 +9719,7 @@ Poiché si è fatto cenno al curioso episodio delle liti tra gallesi ed ebrei, c
 
 
 
-<span class="atom-split" data-atom="story_30_ego_et_shavius_meus" data-title="The Uses of Diversity — &quot;Ego et Shavius Meus&quot;" data-chapter="Ego et Shavius Meus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_ego_et_shavius_meus" data-title="The Uses of Diversity — &quot;Ego et Shavius Meus&quot;" data-chapter="Ego et Shavius Meus" data-kind="story" data-tags="archetype/fool,archetype/innocent,archetype/monster,motif/birds,motif/dawn,motif/machine,motif/marriage,motif/soul,motif/supernatural,motif/well,concept/hope,concept/paradox,concept/resurrection,concept/vanity,form/epigram,setting/court,setting/london,character/chorus,character/speed"></span>
 
 
 "Ego et Shavius Meus"
@@ -9875,7 +9875,7 @@ Qualche giusta rivoluzione insegnerà ai banchieri e ai fornitori che i piccoli 
 
 
 
-<span class="atom-split" data-atom="story_31_the_plan_for_a_new_universe" data-title="The Uses of Diversity — The Plan for a New Universe" data-chapter="The Plan for a New Universe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_plan_for_a_new_universe" data-title="The Uses of Diversity — The Plan for a New Universe" data-chapter="The Plan for a New Universe" data-kind="story" data-tags="archetype/child,archetype/tyrant,motif/animals,motif/birds,motif/desire,motif/home,motif/lion,motif/love,motif/nature,motif/supernatural,motif/time,motif/well,motif/window,concept/doubt,concept/eugenics,concept/faith,concept/freedom,concept/hope,concept/nature,concept/paradox,form/novel,histref/christianity,histref/dante"></span>
 
 
 The Plan for a New Universe
@@ -10069,7 +10069,7 @@ Anche qui, sembra ovvio che tutti i dubbi che legittimamente si annettono all'id
 
 
 
-<span class="atom-split" data-atom="story_32_george_wyndham" data-title="The Uses of Diversity — George Wyndham" data-chapter="George Wyndham" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_george_wyndham" data-title="The Uses of Diversity — George Wyndham" data-chapter="George Wyndham" data-kind="story" data-tags="archetype/child,motif/death,motif/desire,motif/lightning,motif/love,motif/nature,motif/pain,motif/prison,motif/spring,motif/time,motif/well,motif/wind,concept/ambition,concept/beauty,concept/courage,concept/democracy,concept/honour,concept/humility,concept/nature,concept/reform,concept/resurrection,concept/truth,setting/mountains"></span>
 
 
 George Wyndham
@@ -10228,7 +10228,7 @@ Poiché l'Inghilterra, ahimè!, ha fatto oggi il peggior compromesso possibile t
 
 
 
-<span class="atom-split" data-atom="story_33_stupidities" data-title="The Uses of Diversity — Stupidities" data-chapter="Stupidities" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_stupidities" data-title="The Uses of Diversity — Stupidities" data-chapter="Stupidities" data-kind="story" data-tags="archetype/king,motif/flag,motif/ship,motif/time,motif/water,motif/well,concept/fanaticism,concept/fear,concept/madness,concept/reform,setting/ship"></span>
 
 
 Four Stupidities
@@ -10371,7 +10371,7 @@ Quarta Stupidità. Oltre a questa generale mortezza, vi è una strana speciale m
 
 
 
-<span class="atom-split" data-atom="story_34_on_historical_novels" data-title="The Uses of Diversity — On Historical Novels" data-chapter="On Historical Novels" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_on_historical_novels" data-title="The Uses of Diversity — On Historical Novels" data-chapter="On Historical Novels" data-kind="story" data-tags="archetype/hero,archetype/lover,motif/blood,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/history,concept/imagination,form/historical_novel,form/history,form/novel,histref/french_revolution,histref/renaissance,setting/court,setting/italy,setting/paris,character/queen"></span>
 
 
 On Historical Novels
@@ -10556,7 +10556,7 @@ Ora, considerando il numero di pittoresche lotte che ci sono state nel mondo, mi
 
 
 
-<span class="atom-split" data-atom="story_35_on_monsters" data-title="The Uses of Diversity — On Monsters" data-chapter="On Monsters" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_on_monsters" data-title="The Uses of Diversity — On Monsters" data-chapter="On Monsters" data-kind="story" data-tags="archetype/monster,motif/fire,motif/horse,motif/love,motif/time,concept/beauty,concept/body,concept/eternity,concept/hope,concept/identity,concept/sublime,concept/truth,setting/london,setting/mountains,character/jones,character/mermaid,character/queen"></span>
 
 
 On Monsters

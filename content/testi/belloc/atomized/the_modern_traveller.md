@@ -2551,7 +2551,7 @@ but they are dead!
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Modern Traveller (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Modern Traveller (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 CONTENTS
@@ -2963,7 +2963,7 @@ And paid for by an Anglo-Saxon
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Modern Traveller (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Modern Traveller (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 Who bore the sterling name of Jackson.
@@ -3351,7 +3351,7 @@ That has great influence at Court,
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Modern Traveller (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Modern Traveller (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/ship,setting/africa,setting/ship"></span>
 
 
 Assured him it was so;
@@ -3739,7 +3739,7 @@ Like old Æneas — in a word
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Modern Traveller (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Modern Traveller (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="setting/africa"></span>
 
 
 To [[Africa]] we came.
@@ -4137,7 +4137,7 @@ We could afford with perfect ease
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Modern Traveller (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Modern Traveller (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/animals,concept/empire_and_imperialism,concept/satire_of_society,concept/mesmerism,form/narrative_poem,form/satire,setting/africa"></span>
 
 
 To spare one here and there.
@@ -4519,7 +4519,7 @@ It saved the situation.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Modern Traveller (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Modern Traveller (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/disease_and_contagion,motif/imprisonment,concept/empire_and_imperialism,concept/superstition_and_omen,form/narrative_poem,form/satire,setting/africa"></span>
 
 
 “If such a man as that” (said they)
@@ -4905,7 +4905,7 @@ Poor William! The suspense and pain
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Modern Traveller (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Modern Traveller (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/cannibalism,motif/suffering,motif/money_and_gold,concept/satire_of_society,concept/empire_and_imperialism,form/narrative_poem,form/satire"></span>
 
 
 Had touched the fibre of his brain;

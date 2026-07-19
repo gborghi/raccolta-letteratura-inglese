@@ -153,7 +153,7 @@ proprio come il suo peso, è corto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="grocer (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="grocer (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/dust,motif/soul,motif/time"></span>
 
 
 The [[Song]] Against Grocers  

@@ -8397,7 +8397,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="New Jerusalem — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="New Jerusalem — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/cross,motif/garden,motif/home,motif/memory,motif/road,motif/time,motif/well,concept/fear,concept/grotesque,concept/history,concept/honour,concept/truth,concept/union,concept/wonder,form/history"></span>
 
 
 CHAPTER I
@@ -8516,7 +8516,7 @@ Vi era una nube di tempo natalizio sui grandi boschi grigi di faggi e sull'argen
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="New Jerusalem — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="New Jerusalem — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/city,motif/cross,motif/desire,motif/time,concept/democracy,concept/freedom,concept/history,concept/truth,form/history,form/riddle,setting/egypt,setting/london,setting/paris"></span>
 
 
 It was at the [[Time|time]] when people were talking about some menace
@@ -8655,7 +8655,7 @@ In [[Truth|verità]] tutto ciò che vedevo mi diceva che vi era ovunque un grand
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="New Jerusalem — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="New Jerusalem — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dance,motif/dawn,motif/love,motif/river,motif/road,motif/rose,motif/time,motif/well,concept/democracy,concept/history,concept/slavery,concept/solitude,concept/truth,form/history,histref/french_revolution,setting/london,setting/paris"></span>
 
 
 As I looked at that sculptured goddess on that classical column,
@@ -8787,7 +8787,7 @@ Che cosa fece la differenza? Che cosa era accaduto tra il sorgere della Repubbli
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="New Jerusalem — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="New Jerusalem — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/home,motif/journey,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/stars,motif/water,motif/well,concept/despair,concept/faith,concept/history,concept/imagination,concept/nature,concept/pride,concept/slavery,concept/truth,form/history,setting/london,setting/mountains,setting/orient,setting/paris"></span>
 
 
 I have taken but this one text or label, out of a hundred such,
@@ -8943,7 +8943,7 @@ Poiché la visione era quella di una forma che appariva e riappariva fra cose in
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="New Jerusalem — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="New Jerusalem — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/city,motif/crown,motif/desert,motif/lion,motif/road,concept/doubt,concept/history,concept/mercy,concept/paradox,concept/pride,concept/truth,form/history,histref/crusades,histref/french_revolution,histref/islam,setting/desert,setting/egypt,setting/italy,setting/paris"></span>
 
 
 CHAPTER II
@@ -9116,7 +9116,7 @@ La posizione degli inglesi in [[Egypt|Egitto]] o persino in Palestina è qualcos
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="New Jerusalem — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="New Jerusalem — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/prophet,motif/birds,motif/chalk,motif/city,motif/desert,motif/garden,motif/love,motif/mirror,motif/moon,motif/nature,concept/faith,concept/imagination,concept/nature,concept/solitude,concept/truth,histref/islam,setting/cathedral,setting/desert,setting/egypt"></span>
 
 
 Every one has heard the great story of the Greeks who cried aloud
@@ -9241,7 +9241,7 @@ Nel rosso cerchio del [[Desert|deserto]], nel luogo oscuro e segreto, il [[Proph
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="New Jerusalem — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="New Jerusalem — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,motif/desert,motif/road,motif/soul,motif/well,concept/beauty,concept/conscience,concept/education,concept/faith,concept/fanaticism,concept/imagination,concept/pride,concept/self,concept/self_deception,concept/truth,histref/islam,setting/desert,setting/egypt"></span>
 
 
 But though this human sentiment is rather rudimentary it is very real.
@@ -9351,7 +9351,7 @@ In Oriente è il maschio a essere dignitoso e persino cerimonioso. Forse è per 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="New Jerusalem — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="New Jerusalem — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/orphan,motif/desert,motif/fire,motif/nature,motif/well,concept/beauty,concept/greatness,concept/nature,concept/revenge,concept/self,concept/truth,form/comedy,histref/ancient_rome,histref/dante,histref/islam,setting/ancient_rome,setting/desert,character/venus"></span>
 
 
 This fact is familiar enough in talk about Moslem and oriental
@@ -9456,7 +9456,7 @@ L'[[Islam]] fu un movimento; ecco perché ha cessato di muoversi. Poiché un mov
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="New Jerusalem — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="New Jerusalem — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/death,motif/desert,motif/flowers,motif/grave,motif/home,motif/nature,motif/night,motif/soul,motif/stars,motif/time,motif/well,concept/body,concept/nature,concept/self,concept/truth,setting/desert,setting/industrial_city,character/aquinas,character/chorus"></span>
 
 
 An idealistic intellectual remarked recently that there were
@@ -9584,7 +9584,7 @@ La [[philosophy|filosofia]] del [[Desert|deserto]] può soltanto ricominciare da
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="New Jerusalem — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="New Jerusalem — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/pilgrim,motif/blood,motif/city,motif/cross,motif/desert,motif/flowers,motif/garden,motif/hill,motif/home,motif/journey,motif/memory,motif/road,motif/rose,motif/water,motif/window,concept/faith,concept/grotesque,concept/history,form/history,setting/desert,setting/london"></span>
 
 
 There is indeed another aspect of the [[Desert|desert]], yet more ancient
@@ -9682,7 +9682,7 @@ Poiché all'improvviso, tra un montante del carro e uno straccio di nube piovosa
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="New Jerusalem — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="New Jerusalem — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/city,motif/dreams,motif/hill,motif/home,motif/memory,motif/prison,motif/silence,motif/time,motif/well,concept/charity,concept/exile,concept/freedom,concept/paradox,concept/truth,histref/crusades,character/michael"></span>
 
 
 CHAPTER III
@@ -9890,7 +9890,7 @@ la [[Hill|collina]] di Rye e la [[Home|casa]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="New Jerusalem — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="New Jerusalem — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/book_of_nature,motif/city,motif/cross,motif/hill,motif/horse,motif/secrets,motif/sleep,motif/snow,motif/well,concept/fear,concept/history,concept/truth,form/history,form/sketch,setting/egypt"></span>
 
 
 I do not forget, of course, that all these visible walls and towers
@@ -9998,7 +9998,7 @@ Perciò la mia immediata impressione delle mura e delle porte non era contraddet
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="New Jerusalem — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="New Jerusalem — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/cave,motif/city,motif/hill,motif/horse,motif/memory,motif/road,motif/soul,motif/well,motif/window,concept/doubt,concept/freedom,concept/mercy,concept/wonder,histref/dante,setting/castle,setting/london,setting/mountains"></span>
 
 
 And from this standpoint the holy [[City|city]] was a happy [[City|city]];
@@ -10113,7 +10113,7 @@ Un tale sistema di mura e di porte, come molte altre cose ritenute rozze e primi
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="New Jerusalem — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="New Jerusalem — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/memory,motif/road,motif/time,motif/well,concept/conversion,concept/hope,concept/truth,setting/court"></span>
 
 
 Scholars, I may say here, object to calling it the Mosque of Omar;
@@ -10228,7 +10228,7 @@ Sul lato settentrionale la valle si muta in un fossato artificiale, poiché il t
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="New Jerusalem — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="New Jerusalem — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/cross,motif/memory,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/freedom,concept/history,concept/humility,concept/nature,concept/pride,concept/temptation,form/history,form/parable,setting/court,character/kent"></span>
 
 
 I have heard that there is a low doorway at the entrance to a famous
@@ -10340,7 +10340,7 @@ Lo squarcio resta come uno sfregio, una sorta di ferita nelle mura; ma esso non 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="New Jerusalem — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="New Jerusalem — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/frost,motif/night,motif/rose,motif/snow,motif/supernatural,motif/time,motif/water,motif/well,motif/window,setting/court,setting/paris,character/christ"></span>
 
 
 And just then there happened a coincidence that was also something
@@ -10478,7 +10478,7 @@ come una figlia dei Crociati.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="New Jerusalem — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="New Jerusalem — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,motif/city,motif/desert,motif/grave,motif/lion,motif/time,concept/charity,concept/doubt,concept/fear,concept/pride,form/riddle,histref/bible,setting/desert,setting/egypt,character/christ,character/julius_caesar"></span>
 
 
 CHAPTER IV
@@ -10636,7 +10636,7 @@ O fui particolarmente fortunato, o altri sono particolarmente schizzinosi. La gu
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="New Jerusalem — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="New Jerusalem — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,archetype/pilgrim,archetype/shadow,motif/childhood,motif/desire,motif/garden,motif/home,motif/time,motif/well,concept/fear,concept/grotesque,concept/hope,concept/self,concept/truth,concept/wonder,setting/london,setting/new_york,setting/paris,character/christ"></span>
 
 
 When the critic says that Jerusalem is disappointing he generally
@@ -10780,7 +10780,7 @@ Vi sono innumerevoli altri esempi, s'intende, di questo principio dell'auto[[Sel
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="New Jerusalem — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="New Jerusalem — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,motif/death,motif/decay,motif/fire,motif/garden,motif/memory,motif/time,motif/well,concept/courage,concept/faith,concept/grotesque,concept/history,form/history,histref/christianity,histref/french_revolution,histref/islam,setting/cathedral,setting/london,setting/mountains,character/christ"></span>
 
 
 But all these misunderstandings are merely convenient illustrations and
@@ -10934,7 +10934,7 @@ Ma oltre a questa necessità di fare degli strani culti la prova non di se stess
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="New Jerusalem — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="New Jerusalem — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/fire,motif/hill,motif/home,motif/journey,motif/nature,motif/nightingale,concept/doubt,concept/hope,concept/humility,concept/imagination,concept/madness,concept/nature,character/christ"></span>
 
 
 It has seemed worth while to insert here this note on the [[philosophy]]
@@ -11017,7 +11017,7 @@ Si può aggiungere ancora una parola di natura più pratica. Il luogo in cui si 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="New Jerusalem — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="New Jerusalem — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/city,motif/desert,motif/fire,motif/frost,motif/lightning,motif/memory,motif/nature,motif/river,motif/seasons,motif/snow,motif/summer,motif/winter,concept/history,concept/nature,concept/truth,form/history,setting/desert,setting/london,character/christ,character/kent"></span>
 
 
 CHAPTER V
@@ -11241,7 +11241,7 @@ anche se stava soltanto spalando via la [[Snow|neve]].
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="New Jerusalem — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="New Jerusalem — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/death,motif/desert,motif/snow,motif/well,concept/democracy,concept/doubt,concept/education,concept/self,histref/bible,histref/islam,setting/desert,setting/egypt"></span>
 
 
 It would be far from a bad thing, I fancy, if the rights and wrongs
@@ -11357,7 +11357,7 @@ E di questo problema vi è una sorta di modello operativo nella presenza della [
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="New Jerusalem — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="New Jerusalem — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/autumn,motif/city,motif/leaves,motif/prison,motif/snow,motif/well,concept/truth,form/comedy,setting/cathedral"></span>
 
 
 The problem of the [[Snow|snow]] proved indeed the text for a tale touching
@@ -11467,7 +11467,7 @@ Per esempio, la tradizione del dominio turco è semplicemente uno scherzo. Tutte
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="New Jerusalem — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="New Jerusalem — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/blood,motif/city,motif/grave,motif/snow,motif/well,concept/apocalypse,concept/fanaticism,concept/freedom,concept/truth,form/sketch,histref/america,setting/america"></span>
 
 
 In the last chapter I have attempted to suggest a background
@@ -11583,7 +11583,7 @@ L'intera scena, invero, serietà a parte, potrebbe essere considerata una fantas
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="New Jerusalem — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="New Jerusalem — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/crown,motif/memory,motif/nature,motif/well,concept/beauty,concept/faith,concept/history,concept/nature,concept/pride,concept/sublime,concept/survival,concept/truth,form/comedy,form/history,histref/christianity,histref/crusades,histref/islam,setting/russia,character/monks"></span>
 
 
 Here again of course even a superficial glance at the pageant
@@ -11721,7 +11721,7 @@ Di nuovo l'alto copricapo bianco delle donne di Betlemme, o per parlare più pre
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="New Jerusalem — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="New Jerusalem — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/birds,motif/cross,motif/garden,motif/home,motif/road,motif/well,concept/faith,concept/history,concept/melancholy,concept/truth,form/history,form/satire,setting/london,character/richard"></span>
 
 
 She may be put last among the local figures I have here described,
@@ -11844,7 +11844,7 @@ Quando i Crociati vennero in Palestina, e vennero cavalcando su per quella [[Roa
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="New Jerusalem — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="New Jerusalem — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/dust,motif/snow,motif/wind,concept/fear,concept/melancholy,concept/paradox,character/angelo,character/michael"></span>
 
 
 Perhaps it is only when civilisation becomes a disease that it
@@ -11932,7 +11932,7 @@ Solo mentre uscivo dalla Porta di Giaffa un uomo mi disse che l'albero dei cento
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="New Jerusalem — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="New Jerusalem — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dawn,motif/love,motif/well,concept/history,concept/hope,concept/imagination,concept/truth,form/history,form/parable,histref/catholic_church,histref/christianity,setting/egypt,setting/london,setting/oxford"></span>
 
 
 CHAPTER VI
@@ -12086,7 +12086,7 @@ Ho già spiegato il senso in cui dico che i Musulmani sono astorici o persino an
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="New Jerusalem — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="New Jerusalem — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,motif/death,motif/hill,motif/love,motif/night,motif/time,motif/well,concept/faith,concept/history,concept/hope,concept/truth,form/history,setting/industrial_city,setting/london,setting/paris"></span>
 
 
 For instance, the critic generally begins by dismissing these conflicts
@@ -12217,7 +12217,7 @@ Gerusalemme è una piccola città di grandi cose; e la media [[City|città]] mod
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="New Jerusalem — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="New Jerusalem — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/tyrant,motif/city,motif/prison,motif/silence,motif/time,motif/well,concept/conversion,concept/doubt,concept/fanaticism,concept/history,concept/hope,concept/paradox,concept/truth,form/history,form/satire,setting/battlefield,character/nurse"></span>
 
 
 This is an aspect of the interest of Jerusalem which can easily
@@ -12327,7 +12327,7 @@ In seguito divenne un ecclesiastico della Chiesa episcopaliana, e servì come ca
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="New Jerusalem — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="New Jerusalem — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/memory,motif/time,concept/education,concept/fear,concept/jealousy,form/sketch,setting/court"></span>
 
 
 If the mention of the American Consul refers back to the oppression
@@ -12443,7 +12443,7 @@ Il gruppo che sta più vicino a quello ufficiale è quello dei Sionisti; i quali
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="New Jerusalem — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="New Jerusalem — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/desert,motif/home,motif/soul,motif/storm,motif/well,concept/doubt,concept/eternity,concept/fear,concept/history,concept/hope,concept/truth,form/history,form/inscription,histref/christianity,histref/crusades,setting/desert"></span>
 
 
 This group of Arab Anti-Semites may be taken next,
@@ -12553,7 +12553,7 @@ Vidi dapprima dal balcone dell'albergo la folla dei rivoltosi venire [[rolling|r
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="New Jerusalem — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="New Jerusalem — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,motif/flag,motif/home,motif/night,motif/prayer,motif/road,motif/rose,motif/ship,motif/storm,motif/time,motif/window,concept/fanaticism,concept/hope,histref/islam,setting/mountains,setting/ship"></span>
 
 
 The [[Storm|storm]] was certainly rising.  Outside the Jaffa Gate the [[Road|road]]
@@ -12634,7 +12634,7 @@ Sentii la piena pressione del problema quando per la prima volta girai attorno a
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="New Jerusalem — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="New Jerusalem — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/prophet,archetype/shadow,motif/city,motif/crown,motif/desire,motif/love,motif/snow,motif/time,concept/charity,concept/faith,concept/history,concept/imagination,form/history,form/sketch,histref/islam,setting/london,setting/mountains,character/michael,character/tony_weller"></span>
 
 
 CHAPTER VII
@@ -12794,7 +12794,7 @@ Tutto ciò, riguardo a un decoroso indugio e rispetto per la religione o persino
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="New Jerusalem — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="New Jerusalem — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/time,concept/democracy,concept/doubt,concept/education,concept/fanaticism,concept/temptation,histref/christianity,histref/crusades,histref/islam"></span>
 
 
 But there is another cause for my being content for the moment,
@@ -12912,7 +12912,7 @@ I miti costituzionalisti nel nostro paese discutono spesso la possibilità di un
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="New Jerusalem — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="New Jerusalem — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/flag,motif/home,motif/supernatural,concept/conversion,concept/democracy,concept/self,histref/christianity,setting/egypt"></span>
 
 
 There is one small thing neglected in all our talk
@@ -13033,7 +13033,7 @@ Non possiamo sottomettere il mondo al compromesso inglese più di quanto possiam
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="New Jerusalem — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="New Jerusalem — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/home,motif/snow,motif/stars,motif/time,motif/well,concept/beauty,concept/faith,concept/fear,concept/hope,concept/identity,concept/truth,setting/desert,setting/london,setting/mountains,setting/orient,setting/oxford"></span>
 
 
 Now I take it we retain enough realism and common sense not to
@@ -13183,7 +13183,7 @@ Un'onda fredda mi passò addosso, come quel mutamento irragionevole e quel gelo 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="New Jerusalem — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="New Jerusalem — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/death,motif/desert,motif/lightning,motif/moon,motif/silence,motif/stars,motif/time,motif/water,motif/well,concept/charity,concept/despair,concept/pride,concept/truth,form/epic,setting/cathedral,setting/desert,setting/london,character/nurse"></span>
 
 
 CHAPTER VIII
@@ -13324,7 +13324,7 @@ Ho detto che vi è un altro lato del [[Desert|deserto]]; benché ci sia qualcosa
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="New Jerusalem — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="New Jerusalem — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/garden,motif/ghosts,motif/hill,motif/home,motif/love,motif/moon,motif/time,motif/water,motif/well,motif/wind,concept/truth,form/fragment,histref/islam,setting/mountains"></span>
 
 
 And I thought that the symbol was a sound one, apart from all vanities;
@@ -13450,7 +13450,7 @@ In queste terre un'impressione cresce costantemente sulla mente, troppo vasta pe
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="New Jerusalem — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="New Jerusalem — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/lover,motif/animals,motif/clock,motif/desert,motif/nature,motif/rose,motif/sleep,motif/supernatural,motif/time,motif/well,motif/wind,concept/nature,concept/truth,setting/desert"></span>
 
 
 The feeling that fills the traveller may be faintly suggested thus;
@@ -13602,7 +13602,7 @@ Gli agnostici sono stati respinti sull'agnosticismo; e già si stanno riprendend
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="New Jerusalem — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="New Jerusalem — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/garden,motif/memory,motif/mirror,motif/rose,motif/time,motif/well,motif/window,concept/doubt,concept/self,character/bottom"></span>
 
 
 For things are rather different when the man in the bed
@@ -13716,7 +13716,7 @@ Non sarà del tutto sorprendente se la storia si conclude con l'uomo che ricuper
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="New Jerusalem — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="New Jerusalem — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,motif/ghosts,motif/hill,motif/nature,concept/doubt,concept/identity,concept/imagination,concept/nature,concept/truth,form/fable,histref/christianity,setting/oxford"></span>
 
 
 As soon as the men of science began to [[Doubt|doubt]] the rules of the game,
@@ -13832,7 +13832,7 @@ Vi è lo stesso segno moderno nello Spiritismo. Anche lo Spiritismo ha la tenden
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="New Jerusalem — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="New Jerusalem — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/desert,motif/well,concept/body,concept/faith,concept/truth,histref/bible,setting/desert,setting/mountains"></span>
 
 
 In a word, the modern world will probably end exactly where the
@@ -13934,7 +13934,7 @@ sui [[Mountains|monti]], visto dagli uomini e vedente; un dio visibile.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="New Jerusalem — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="New Jerusalem — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/monster,motif/cross,motif/desert,motif/lion,motif/supernatural,motif/well,concept/body,concept/doubt,concept/heroism,concept/honour,concept/paradox,concept/truth,form/apologetics,form/tragedy,histref/christianity,setting/desert,character/christ,character/richard"></span>
 
 
 CHAPTER IX
@@ -14066,7 +14066,7 @@ Qualunque cosa pensiamo di San Giorgio, la maggior parte delle persone vedrebbe 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="New Jerusalem — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="New Jerusalem — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/cave,motif/ghosts,motif/hill,motif/journey,motif/memory,motif/river,motif/stars,motif/time,concept/humility,concept/mercy,concept/pride,concept/self,concept/sublime,concept/suicide,concept/truth,histref/christianity,character/christ,character/speed"></span>
 
 
 Going down from Jerusalem to Jericho I was more than once
@@ -14182,7 +14182,7 @@ Huxley non era soltanto un uomo di genio nella [[logic|logica]] e nella retorica
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="New Jerusalem — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="New Jerusalem — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/ghost,archetype/hero,archetype/king,archetype/monster,motif/dance,motif/desert,motif/nature,motif/soul,motif/supernatural,motif/time,motif/well,concept/grotesque,concept/identity,concept/nature,concept/pride,concept/self,histref/christianity,setting/desert,character/arthur"></span>
 
 
 But while the world was mocking the [[morality]] he had assumed,
@@ -14331,7 +14331,7 @@ In altre parole, non abbiamo trovato San Giorgio; ma abbiamo trovato il Drago. A
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="New Jerusalem — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="New Jerusalem — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/prophet,motif/city,motif/desert,motif/dreams,motif/flowers,motif/love,motif/soul,motif/time,concept/beauty,concept/history,concept/madness,concept/paradox,concept/truth,concept/wonder,form/fragment,form/history,form/tragedy,histref/christianity,setting/desert,setting/orient,character/adonis,character/christ,character/tolstoy"></span>
 
 
 That is the coil or tangle, at least, which the dragon has reached
@@ -14499,7 +14499,7 @@ Ma questo potere ancora persistente eppure vivo nella leggenda, anche per coloro
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="New Jerusalem — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="New Jerusalem — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/flowers,motif/lightning,motif/memory,motif/nature,motif/pain,motif/road,motif/rose,motif/silence,motif/well,concept/imagination,concept/madness,concept/nature,concept/pride,form/tragedy,setting/denmark,character/christ,character/hamlet,character/michael,character/satan"></span>
 
 
 In short, I would here only hint delicately that perhaps
@@ -14631,7 +14631,7 @@ Allora levai lo sguardo e vidi nelle lunghe linee frastagliate di [[Road|strada]
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="New Jerusalem — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="New Jerusalem — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,archetype/innocent,motif/clock,motif/cross,motif/fire,motif/garden,motif/home,motif/time,motif/well,concept/ambition,concept/courage,concept/history,concept/hope,concept/jealousy,form/history,histref/islam,setting/egypt,setting/germany,setting/russia,character/christ,character/lincoln"></span>
 
 
 CHAPTER X
@@ -14780,7 +14780,7 @@ Questo è l'elemento riguardo all'influenza araba che la rende, dopo le sue età
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="New Jerusalem — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="New Jerusalem — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/decay,motif/flag,motif/lion,motif/time,motif/well,concept/survival,concept/truth,setting/germany,character/monks"></span>
 
 
 When Heracleius rode homewards from the rout of Ispahan With
@@ -14926,7 +14926,7 @@ E i leoni scolpiti sopra la porta di Santo Stefano potrebbero [[Well|bene]] esse
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="New Jerusalem — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="New Jerusalem — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/king,archetype/prophet,motif/lion,motif/memory,motif/time,motif/well,motif/wind,concept/doubt,concept/grotesque,concept/honour,concept/hope,concept/paradox,histref/crusades,histref/islam,character/richard"></span>
 
 
 The answer might be put somewhat defiantly by saying that the very name
@@ -15040,7 +15040,7 @@ Ma questo è anticipare ciò che accadde più tardi e che più tardi dovrà esse
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="New Jerusalem — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="New Jerusalem — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/king,motif/animals,motif/chains,motif/dust,motif/grave,motif/marriage,motif/stars,concept/history,concept/hope,concept/humility,concept/immortality,concept/mortality,concept/sublime,concept/truth,form/history,form/parable,setting/court,character/christ,character/venus"></span>
 
 
 Almost any traveller could select out of the countless things
@@ -15190,7 +15190,7 @@ Vi sono alcuni che risentono la presenza di tanta porpora accanto alla nuda stal
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="New Jerusalem — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="New Jerusalem — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/cave,motif/death,motif/desire,motif/journey,motif/love,motif/nature,concept/doubt,concept/eternity,concept/faith,concept/nature,concept/poverty,concept/resurrection,histref/christianity"></span>
 
 
 This dull type of [[Doubt|doubt]] clouds the consideration of many
@@ -15298,7 +15298,7 @@ Ora, sul primo esempio del tentativo della teologia di rispondere alle pretese d
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="New Jerusalem — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="New Jerusalem — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/birds,motif/death,motif/flowers,motif/garden,motif/hill,motif/nature,motif/prison,motif/stars,motif/well,concept/beauty,concept/fear,concept/imagination,concept/nature,concept/paradox,concept/pride,concept/truth,character/bottom,character/christ"></span>
 
 
 CHAPTER XI
@@ -15501,7 +15501,7 @@ sulla [[Hill|collina]].
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="New Jerusalem — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="New Jerusalem — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/blood,motif/cross,motif/flowers,motif/hill,motif/leaves,motif/nature,motif/time,motif/well,motif/wind,concept/democracy,concept/doubt,concept/faith,concept/fanaticism,concept/madness,concept/nature,concept/truth,form/allegory,form/parody,histref/christianity,histref/crusades,setting/germany,character/bottom"></span>
 
 
 And this is as true of the moral as of the artistic elements
@@ -15633,7 +15633,7 @@ Da allora, per quanto ne so, l'unica persona che sia stata abbastanza paziente d
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="New Jerusalem — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="New Jerusalem — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/grave,motif/love,motif/nature,motif/stars,motif/time,motif/well,motif/wheel,concept/conversion,concept/faith,concept/nature,concept/paradox,concept/survival,concept/truth,concept/vanity,histref/dante,setting/new_york"></span>
 
 
 In plain words, this sort of theory is a blasphemy against
@@ -15748,7 +15748,7 @@ La Cristianità sarebbe stata pienamente giustificata in astratto nell'allarmars
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="New Jerusalem — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="New Jerusalem — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/animals,motif/bees,motif/birds,motif/cross,motif/hill,motif/insects,concept/democracy,concept/history,concept/self,concept/truth,form/fragment,form/history,histref/america,histref/french_revolution,setting/america,setting/paris"></span>
 
 
 Christendom might quite reasonably have been alarmed if it had not
@@ -15858,7 +15858,7 @@ La Prima Crociata non fu una migrazione razziale; fu qualcosa di assai più inte
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="New Jerusalem — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="New Jerusalem — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/crown,motif/flag,motif/time,concept/conscience,concept/conversion,concept/democracy,concept/history,concept/honour,concept/truth,form/fable,form/history,histref/french_revolution,character/aquinas,character/christ"></span>
 
 
 What is peculiar about the First Crusade is that it was in quite
@@ -15974,7 +15974,7 @@ Questa folla marciò contro la disciplina militare dei Musulmani e fu massacrata
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="New Jerusalem — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="New Jerusalem — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/dust,motif/fire,motif/nature,motif/pain,motif/road,motif/secrets,motif/summer,motif/water,motif/well,concept/faith,concept/fanaticism,concept/imagination,concept/nature,concept/self,concept/truth,concept/wonder,histref/french_revolution,histref/islam,character/dwarf,character/monks"></span>
 
 
 Allied with Godfrey were Tancred the Italian, Raymond of Toulouse
@@ -16103,7 +16103,7 @@ L'intera tensione dell'assedio era stata invero di alta e persino orribile eccit
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_07" data-title="New Jerusalem — Chapter 11 (part 7)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_07" data-title="New Jerusalem — Chapter 11 (part 7)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/cross,motif/dawn,motif/death,motif/dust,motif/fire,motif/night,motif/time,motif/well,motif/wind,concept/despair,concept/self,form/allegory"></span>
 
 
 All that [[Night|night]] Godfrey was toiling to retrieve the disaster.
@@ -16186,7 +16186,7 @@ Quando l'[[Dawn|alba]] fu giunta, tutti quei contadini affamati poterono [[Well|
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="New Jerusalem — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="New Jerusalem — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/golden_age,motif/city,motif/road,motif/time,motif/well,concept/history,concept/truth,form/history,form/parable"></span>
 
 
 CHAPTER XII
@@ -16315,7 +16315,7 @@ Ma c'è un altro modo in cui quella metafora della [[Road|strada]] biforcuta ren
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="New Jerusalem — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="New Jerusalem — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/frost,motif/spring,motif/well,concept/grotesque,concept/history,concept/truth,form/history"></span>
 
 
 Medievalism died, but it died young.  It was at once energetic
@@ -16430,7 +16430,7 @@ Gli uomini con simpatie medievali sono talvolta accusati, abbastanza assurdament
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="New Jerusalem — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="New Jerusalem — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/city,motif/decay,motif/mirror,motif/moon,motif/pain,motif/time,motif/well,concept/despair,concept/history,concept/hope,concept/imagination,concept/revenge,concept/truth,form/history,histref/america,histref/christianity,histref/crusades,histref/islam,histref/reformation,histref/thirty_years_war,setting/america,setting/castle,character/vincent_crummles"></span>
 
 
 I have said that it died young; but perhaps it would be truer to say that
@@ -16573,7 +16573,7 @@ L'unica cosa da fare con le cose inconquistabili è conquistarle. Questo [[Alone
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="New Jerusalem — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="New Jerusalem — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/chains,motif/cross,motif/crown,motif/garden,motif/road,motif/time,concept/ambition,concept/charity,concept/despair,form/fragment,histref/crusades,setting/court"></span>
 
 
 A curious cloud of confusion rests on the details of that defeat.
@@ -16702,7 +16702,7 @@ Con la rottura della tregua, o anche solo il racconto di essa, il comune pericol
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="New Jerusalem — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="New Jerusalem — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,motif/blood,motif/desert,motif/well,concept/fear,concept/history,concept/honour,concept/paradox,concept/self,form/history,histref/christianity,histref/crusades,histref/islam,setting/desert,character/apollo,character/christ"></span>
 
 
 Raymond of Tripoli had hewn his way through the enemy and ridden
@@ -16835,7 +16835,7 @@ Il vero errore dei musulmani è qualcosa di assai più moderno nella sua applica
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="New Jerusalem — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="New Jerusalem — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/last_stand,archetype/hero,archetype/shadow,motif/cross,motif/crown,motif/dance,motif/death,motif/desert,motif/desire,motif/dust,motif/hill,motif/horse,motif/lion,motif/love,motif/nature,motif/silence,motif/time,motif/water,motif/wind,concept/faith,concept/history,concept/nature,concept/truth,form/history,histref/french_revolution,histref/islam,setting/desert,character/phantom,character/richard"></span>
 
 
 But all this [[history]] has been hidden by a prejudice more
@@ -16989,7 +16989,7 @@ Entrò attraverso il tortuoso passaggio accanto al grande varco nelle mura un al
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="New Jerusalem — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="New Jerusalem — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/desire,motif/nature,motif/storm,motif/time,concept/fear,concept/nature,concept/revenge,concept/union"></span>
 
 
 CHAPTER XIII
@@ -17130,7 +17130,7 @@ Confesserò, tuttavia, di non avere alcuna piena simpatia per il nuovo antisemit
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="New Jerusalem — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="New Jerusalem — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,archetype/pilgrim,motif/love,motif/nature,concept/fear,concept/grotesque,concept/history,concept/nature,concept/sublime,concept/truth,form/history,setting/cathedral,character/lord_chief_justice"></span>
 
 
 But in order to judge this Jewish possibility, we must understand
@@ -17257,7 +17257,7 @@ Questo è un mero simbolo, ma è un simbolo tanto adatto che l'ho spesso offerto
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="New Jerusalem — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="New Jerusalem — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/blood,motif/cross,motif/home,motif/nature,motif/silence,motif/time,concept/fear,concept/grotesque,concept/nature,concept/self,form/parable,form/satire,character/macbeth,character/nurse,character/shylock"></span>
 
 
 This is but a parenthesis and a [[Parable|parable]], but it brings us to
@@ -17384,7 +17384,7 @@ Tutto questo, ripeto, è un fatto che va affrontato, ma vi è un altro lato dell
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="New Jerusalem — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="New Jerusalem — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/leaves,motif/road,motif/well,concept/faith,concept/self,concept/truth,histref/america,setting/america,setting/germany,setting/venice,character/antonio,character/fagin,character/shylock"></span>
 
 
 To recognise the reality of the Jewish problem is very vital for
@@ -17497,7 +17497,7 @@ Ma, naturalmente, perfino questo confronto tra i due popoli erranti fallisce al 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="New Jerusalem — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="New Jerusalem — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/nature,motif/prison,motif/well,concept/democracy,concept/exile,concept/fanaticism,concept/nature,concept/self,concept/truth,histref/america,setting/america,setting/desert,setting/egypt,setting/paris"></span>
 
 
 In short, the Jewish problem differs from anything like the gipsy
@@ -17643,7 +17643,7 @@ Sarà [[Well|bene]], tuttavia, notare brevemente come il principio si applichi a
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="New Jerusalem — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="New Jerusalem — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/monster,motif/city,motif/grave,motif/tears,concept/doubt,concept/exile,concept/faith,concept/sublime,concept/truth,form/tragedy,histref/america,setting/america,setting/castle,setting/germany,character/antiochus,character/queen"></span>
 
 
 Patriotism is not merely dying for the nation.  It is dying
@@ -17757,7 +17757,7 @@ Quei due possibili usi del nome di Giuda ci darebbero un'ulteriore compatta inca
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_07" data-title="New Jerusalem — Chapter 13 (part 7)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_07" data-title="New Jerusalem — Chapter 13 (part 7)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/desire,concept/doubt,concept/education,concept/fear,concept/self,concept/truth,histref/america,setting/america,character/shylock"></span>
 
 
 Unfortunately they are not always reasonable about their own
@@ -17875,7 +17875,7 @@ Ma il caso è ancora più curioso di così. Queste tribù semplici hanno paura n
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_08" data-title="New Jerusalem — Chapter 13 (part 8)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_08" data-title="New Jerusalem — Chapter 13 (part 8)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dust,motif/love,motif/rose,motif/water,motif/well,concept/conversion,concept/doubt,concept/fear,concept/hope,concept/temptation,concept/truth,setting/russia,character/bottom"></span>
 
 
 In short the [[Fear|fear]] of the Jews in Palestine, reasonable or unreasonable,
@@ -18083,7 +18083,7 @@ Quanto tutto ciò possa realmente accadere è molto difficile da scoprire per ch
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_09" data-title="New Jerusalem — Chapter 13 (part 9)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_09" data-title="New Jerusalem — Chapter 13 (part 9)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/double,motif/desert,motif/memory,motif/nature,motif/well,concept/exile,concept/nature,concept/paradox,concept/self,concept/truth,setting/desert"></span>
 
 
 I have tried to state fairly the case for Zionism, for the reason
@@ -18195,7 +18195,7 @@ Ma qualunque cosa la nazione ebraica volesse fare riguardo a un santuario nazion
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_10" data-title="New Jerusalem — Chapter 13 (part 10)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_10" data-title="New Jerusalem — Chapter 13 (part 10)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/pilgrim,motif/cross,motif/desire,motif/fire,motif/garden,motif/hill,motif/home,motif/journey,motif/stars,motif/time,motif/uncanny,motif/well,concept/faith,concept/hope,concept/truth,concept/uncanny,histref/crusades,setting/london,character/cain,character/christ,character/kent"></span>
 
 
 There is one word to be added; it will be noted that inevitably

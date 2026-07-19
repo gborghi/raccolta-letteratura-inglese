@@ -1267,7 +1267,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="All Is True (Henry VIII) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="All Is True (Henry VIII) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/usurper,motif/crown,motif/journey,motif/love,motif/nature,motif/night,motif/prison,motif/rose,motif/soul,motif/time,motif/well,concept/charity,concept/fear,concept/freedom,concept/honour,concept/longing,concept/mercy,concept/nature,concept/revenge,concept/truth,character/buckingham,character/cardinal_wolsey,character/duke_of_buckingham,character/duke_of_suffolk,character/henry_viii,character/queen,character/queen_katherine,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1327,7 +1327,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="All Is True (Henry VIII) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="All Is True (Henry VIII) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/death,motif/night,motif/spring,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,histref/reformation,setting/court,character/henry_viii"></span>
 
 
 | Speaker | Line |
@@ -1364,7 +1364,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="All Is True (Henry VIII) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="All Is True (Henry VIII) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/blood,motif/dance,motif/death,motif/grave,motif/home,motif/leaves,motif/love,motif/mirror,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/revenge,concept/truth,setting/court,character/buckingham,character/cardinal_wolsey,character/duke_of_buckingham,character/henry_viii,character/lord_mayor,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1484,7 +1484,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="All Is True (Henry VIII) — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="All Is True (Henry VIII) — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/jewel,motif/love,motif/marriage,motif/soul,motif/time,motif/well,concept/conscience,concept/fear,concept/pride,concept/self,concept/slavery,setting/court,setting/london,character/cardinal_wolsey,character/henry_viii,character/nurse,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1552,7 +1552,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="All Is True (Henry VIII) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="All Is True (Henry VIII) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/monster,motif/blood,motif/crown,motif/soul,motif/time,motif/well,concept/beauty,concept/conscience,concept/faith,concept/honour,concept/hope,concept/truth,setting/court,setting/egypt,character/henry_viii,character/marchioness,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1596,7 +1596,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="All Is True (Henry VIII) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="All Is True (Henry VIII) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/cross,motif/death,motif/desire,motif/fire,motif/flowers,motif/grave,motif/love,motif/marriage,motif/nature,motif/silence,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/pride,concept/truth,setting/court,character/cardinal_wolsey,character/cranmer,character/ferdinand,character/henry_viii,character/lincoln,character/monks,character/queen,character/queen_katherine"></span>
 
 
 | Speaker | Line |
@@ -1684,7 +1684,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="All Is True (Henry VIII) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="All Is True (Henry VIII) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,motif/blood,motif/cross,motif/crown,motif/death,motif/frost,motif/home,motif/leaves,motif/lion,motif/love,motif/marriage,motif/memory,motif/moon,motif/nature,motif/pain,motif/poison,motif/river,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/ambition,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/hope,concept/mercy,concept/nature,concept/pride,concept/self,concept/truth,concept/wonder,setting/court,character/arthur,character/buckingham,character/cardinal_wolsey,character/cranmer,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/lady_anne,character/lucifer,character/marchioness,character/queen,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1826,7 +1826,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="All Is True (Henry VIII) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="All Is True (Henry VIII) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,motif/crown,motif/dance,motif/death,motif/dreams,motif/flowers,motif/grave,motif/jewel,motif/love,motif/marriage,motif/nature,motif/pain,motif/rose,motif/sleep,motif/soul,motif/stars,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/nature,concept/poverty,concept/truth,setting/court,setting/london,setting/oxford,character/cardinal_wolsey,character/cranmer,character/duke_of_buckingham,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/lady_anne,character/lord_mayor,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1944,7 +1944,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="All Is True (Henry VIII) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="All Is True (Henry VIII) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/clock,motif/dance,motif/death,motif/desire,motif/fire,motif/jewel,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/ambition,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/nature,concept/self,concept/truth,histref/reformation,setting/germany,character/cranmer,character/duke_of_suffolk,character/earl_of_surrey,character/henry_viii,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2109,7 +2109,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="All Is True (Henry VIII) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="All Is True (Henry VIII) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/dance,motif/fire,motif/garden,motif/hill,motif/sleep,motif/well,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/mercy,setting/court,setting/paris,character/henry_viii"></span>
 
 
 | Speaker | Line |
@@ -2146,7 +2146,7 @@ Exeunt ⌈Norfolk at one door, [[Buckingham]] and Abergavenny under guard at ano
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="All Is True (Henry VIII) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="All Is True (Henry VIII) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/desire,motif/horse,motif/love,motif/marriage,motif/night,motif/prison,motif/sleep,motif/soul,motif/time,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/truth,concept/wonder,form/masque,form/tragicomedy,setting/london,character/arcite,character/cranmer,character/duke_of_suffolk,character/emilia,character/henry_viii,character/hippolyta,character/lord_mayor,character/madeline,character/marchioness,character/nurse,character/palamon,character/queen,character/theseus"></span>
 
 
 | Speaker | Line |

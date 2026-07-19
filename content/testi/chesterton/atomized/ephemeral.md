@@ -190,7 +190,7 @@ greatly on which side we fought.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="ephemeral (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="ephemeral (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/soul,motif/time,motif/well,form/epigram,histref/catholic_church,setting/germany,setting/new_york,setting/paris"></span>
 
 
 -=[ THE CASE FOR THE [[ephemeral|EPHEMERAL]] ]=-
@@ -358,7 +358,7 @@ indietro rispetto alla moda.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="ephemeral (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="ephemeral (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/tyrant,motif/nature,motif/well,concept/democracy,concept/mercy,concept/nature,concept/pride,concept/suffering,histref/french_revolution,histref/puritanism"></span>
 
 
 Similarly I find that I have tried in these pages to express

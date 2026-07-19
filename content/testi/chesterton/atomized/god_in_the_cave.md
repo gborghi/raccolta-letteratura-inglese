@@ -375,7 +375,7 @@ in quel primo festino di Natale banchettarono anch'essi a modo loro.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="God_in_the_Cave (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="God_in_the_Cave (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/cave,motif/dreams,motif/home,motif/nature,motif/seasons,motif/soul,motif/time,motif/water,motif/well,concept/imagination,concept/nature,concept/paradox,concept/slavery,form/fable,form/parody,setting/mountains,character/christ"></span>
 
 
 # God in the [[Cave]]
@@ -557,7 +557,7 @@ delle [[Mountains|montagne]]. I pastori avevano trovato il loro Pastore.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="God_in_the_Cave (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="God_in_the_Cave (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/cave,motif/dreams,motif/night,motif/stars,motif/supernatural,motif/time,motif/well,concept/history,concept/imagination,concept/pride,concept/reconciliation,concept/truth,form/history,setting/orient"></span>
 
 
 And the thing they found was of a kind with the things they sought.

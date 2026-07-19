@@ -203,7 +203,7 @@ con le ruote.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Song_of_the_Wheels (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Song_of_the_Wheels (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/flowers,motif/garden,motif/lightning,motif/silence,motif/sleep,motif/soul,motif/spring,concept/doubt,concept/fear,concept/greed,concept/hope,concept/reform"></span>
 
 
 # The [[Song]] of the Wheels

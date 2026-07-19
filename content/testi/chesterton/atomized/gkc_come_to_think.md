@@ -6114,7 +6114,7 @@ time in such cases the modern curiosity is not an intrusion.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="GKC Come to Think — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="GKC Come to Think — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="topos/golden_age,motif/childhood,motif/horse,motif/well,concept/endurance,concept/faith,concept/fear,concept/individualism,concept/resignation,concept/self,concept/suffering,form/satire,histref/christianity,setting/london"></span>
 
 
 Introduction
@@ -6247,7 +6247,7 @@ COME TO THINK OF IT
 
 
 
-<span class="atom-split" data-atom="story_02_on_essays" data-title="GKC Come to Think — ON ESSAYS" data-chapter="ON ESSAYS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_essays" data-title="GKC Come to Think — ON ESSAYS" data-chapter="ON ESSAYS" data-kind="story" data-tags="motif/home,concept/hope,form/essay"></span>
 
 
 I. On Essays
@@ -6519,7 +6519,7 @@ sicuro se avrebbe scritto saggi altrettanto buoni.
 
 
 
-<span class="atom-split" data-atom="story_03_on_what_we_would_do_with_two_million_if" data-title="GKC Come to Think — ON WHAT WE WOULD DO WITH TWO MILLION (IF WE HAD IT)" data-chapter="ON WHAT WE WOULD DO WITH TWO MILLION IF" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_what_we_would_do_with_two_million_if" data-title="GKC Come to Think — ON WHAT WE WOULD DO WITH TWO MILLION (IF WE HAD IT)" data-chapter="ON WHAT WE WOULD DO WITH TWO MILLION IF" data-kind="story" data-tags="motif/marriage,motif/poison,concept/history,form/history"></span>
 
 
 II.  On What We Would Do with Two Million (If We Had It)
@@ -6679,7 +6679,7 @@ Insomma, se dobbiamo avere tutta questa nuova patologia morale, la si deve front
 
 
 
-<span class="atom-split" data-atom="story_04_on_boys" data-title="GKC Come to Think — ON BOYS" data-chapter="ON BOYS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_boys" data-title="GKC Come to Think — ON BOYS" data-chapter="ON BOYS" data-kind="story" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/cross,motif/crown,motif/mutability,motif/road,motif/stars,motif/time,concept/doubt,concept/pride,concept/truth"></span>
 
 
 III.  On Boys
@@ -6836,7 +6836,7 @@ Ci viene sempre detto, di questi tempi, di fare le debite concessioni agli impul
 
 
 
-<span class="atom-split" data-atom="story_05_on_literary_parallels" data-title="GKC Come to Think — ON LITERARY PARALLELS" data-chapter="ON LITERARY PARALLELS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_on_literary_parallels" data-title="GKC Come to Think — ON LITERARY PARALLELS" data-chapter="ON LITERARY PARALLELS" data-kind="story" data-tags="archetype/monster,motif/dust,motif/moon,motif/nightingale,motif/sleep,motif/time,concept/doubt,form/translation,setting/italy"></span>
 
 
 IV.  On Literary Parallels
@@ -7002,7 +7002,7 @@ Che senso ha essere poeta, se non ti è concesso di domandare, tutto da solo, se
 
 
 
-<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_01" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 1)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_01" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 1)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt" data-tags="archetype/tyrant,motif/home,motif/love,motif/prison,motif/time,motif/well,concept/history,concept/truth,form/history,histref/bible,histref/spanish_inquisition"></span>
 
 
 V. On a Censorship for Literature
@@ -7216,7 +7216,7 @@ di quasi tutte le tentative repressioni e rimostranze del nostro tempo.
 
 
 
-<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_02" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 2)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_on_a_censorship_for_literature--part_02" data-title="GKC Come to Think — ON A CENSORSHIP FOR LITERATURE (part 2)" data-chapter="ON A CENSORSHIP FOR LITERATURE" data-kind="excerpt" data-tags="archetype/detective,motif/love,concept/hope,concept/pride,form/novel,character/agatha,character/edgar"></span>
 
 
 The plain truth is that modern society must have a morality
@@ -7526,7 +7526,7 @@ il suo Ultimo Caso e ha rifiutato di riprovare.
 
 
 
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_01" data-title="GKC Come to Think — ON THE NEW POETRY (part 1)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_01" data-title="GKC Come to Think — ON THE NEW POETRY (part 1)" data-chapter="ON THE NEW POETRY" data-kind="excerpt" data-tags="motif/insects,motif/time,motif/well,concept/beauty,concept/truth"></span>
 
 
 VII.  On the New Poetry
@@ -7740,7 +7740,7 @@ più campanile.
 
 
 
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_02" data-title="GKC Come to Think — ON THE NEW POETRY (part 2)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_02" data-title="GKC Come to Think — ON THE NEW POETRY (part 2)" data-chapter="ON THE NEW POETRY" data-kind="excerpt" data-tags="motif/leaves,motif/marriage,motif/time,motif/well,concept/faith,concept/paradox,concept/union,form/novel,form/sonnet,histref/milton,histref/renaissance,setting/court,character/milton"></span>
 
 
 So, with the great lines of poetry, it would, of course, be possible
@@ -7938,7 +7938,7 @@ I ragazzi saranno ragazzi; ma non saranno necessariamente uomini migliori.
 
 
 
-<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_03" data-title="GKC Come to Think — ON THE NEW POETRY (part 3)" data-chapter="ON THE NEW POETRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_on_the_new_poetry--part_03" data-title="GKC Come to Think — ON THE NEW POETRY (part 3)" data-chapter="ON THE NEW POETRY" data-kind="excerpt" data-tags="archetype/artist,motif/well,motif/wind,concept/doubt,concept/fear,concept/history,concept/pride,concept/truth,form/history,form/novel,form/tragedy,histref/renaissance"></span>
 
 
 There are at least two things to be said for this theory of change,
@@ -8170,7 +8170,7 @@ dire «Grunk», o «Quoggle».
 
 
 
-<span class="atom-split" data-atom="story_08_on_the_classics" data-title="GKC Come to Think — ON THE CLASSICS" data-chapter="ON THE CLASSICS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_on_the_classics" data-title="GKC Come to Think — ON THE CLASSICS" data-chapter="ON THE CLASSICS" data-kind="story" data-tags="archetype/child,archetype/king,motif/love,motif/nature,motif/time,concept/beauty,concept/body,concept/education,concept/imagination,concept/madness,concept/nature,concept/paradox,concept/pride,concept/truth,character/julius_caesar"></span>
 
 
 VIII.  On the Classics
@@ -8327,7 +8327,7 @@ Essere della compagnia di tali uomini, avere la mente colma di tali parole, rico
 
 
 
-<span class="atom-split" data-atom="story_09_on_psycho_analysis" data-title="GKC Come to Think — ON PSYCHO-ANALYSIS" data-chapter="ON PSYCHO ANALYSIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_psycho_analysis" data-title="GKC Come to Think — ON PSYCHO-ANALYSIS" data-chapter="ON PSYCHO ANALYSIS" data-kind="story" data-tags="archetype/prophet,motif/well,form/tragedy,histref/greek_tragedy,character/chorus"></span>
 
 
 IX.  On Psycho-analysis
@@ -8496,7 +8496,7 @@ Persino in questo unico racconto sul padre della psicoanalisi potrei trovare una
 
 
 
-<span class="atom-split" data-atom="story_10_on_egoists_and_egoists" data-title="GKC Come to Think — ON EGOISTS AND EGOISTS" data-chapter="ON EGOISTS AND EGOISTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_on_egoists_and_egoists" data-title="GKC Come to Think — ON EGOISTS AND EGOISTS" data-chapter="ON EGOISTS AND EGOISTS" data-kind="story" data-tags="concept/pride,concept/vanity,concept/paradox,form/essay"></span>
 
 
 X. On Egoists and Egoists
@@ -8619,7 +8619,7 @@ Ora, gli uomini semplici e sinceri, per quanto possano sembrare parlare di sé s
 
 
 
-<span class="atom-split" data-atom="story_11_on_mr_epstein--part_01" data-title="GKC Come to Think — ON MR. EPSTEIN (part 1)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_mr_epstein--part_01" data-title="GKC Come to Think — ON MR. EPSTEIN (part 1)" data-chapter="ON MR EPSTEIN" data-kind="excerpt" data-tags="archetype/artist,motif/swallow"></span>
 
 
 XI On Mr. Epstein
@@ -8831,7 +8831,7 @@ che essi ora non hanno alcuna religione da esprimere.
 
 
 
-<span class="atom-split" data-atom="story_11_on_mr_epstein--part_02" data-title="GKC Come to Think — ON MR. EPSTEIN (part 2)" data-chapter="ON MR EPSTEIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_on_mr_epstein--part_02" data-title="GKC Come to Think — ON MR. EPSTEIN (part 2)" data-chapter="ON MR EPSTEIN" data-kind="excerpt" data-tags="motif/leaves,motif/night,motif/pain,concept/education,character/queen"></span>
 
 
 Being myself a man in the street, and a mere casual figure in
@@ -9111,7 +9111,7 @@ essi anelano a linee rette, ma non sanno andarvi dritti.
 
 
 
-<span class="atom-split" data-atom="story_12_on_who_killed_john_keats" data-title="GKC Come to Think — ON `WHO KILLED JOHN KEATS?'" data-chapter="ON WHO KILLED JOHN KEATS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_on_who_killed_john_keats" data-title="GKC Come to Think — ON `WHO KILLED JOHN KEATS?'" data-chapter="ON WHO KILLED JOHN KEATS" data-kind="story" data-tags="archetype/king,archetype/prophet,motif/city,motif/cross,motif/time,motif/well,concept/poverty,concept/union,form/tragedy,histref/french_revolution"></span>
 
 
 XII On ‘Who Killed John Keats?'
@@ -9269,7 +9269,7 @@ Questi uomini erano, mi pare, incatenati da qualcosa di gelido e persino di vile
 
 
 
-<span class="atom-split" data-atom="story_13_on_ingeland" data-title="GKC Come to Think — ON Ingeland" data-chapter="ON Ingeland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_ingeland" data-title="GKC Come to Think — ON Ingeland" data-chapter="ON Ingeland" data-kind="story" data-tags="motif/nature,motif/well,concept/charity,concept/history,concept/nature,concept/temptation,concept/truth,form/history,histref/french_revolution"></span>
 
 
 XIII.  On Ingeland
@@ -9417,7 +9417,7 @@ Sono così calorosamente d'accordo con il Decano di St. Paul in pura simpatia pe
 
 
 
-<span class="atom-split" data-atom="story_14_on_loneliness" data-title="GKC Come to Think — ON LONELINESS" data-chapter="ON LONELINESS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_on_loneliness" data-title="GKC Come to Think — ON LONELINESS" data-chapter="ON LONELINESS" data-kind="story" data-tags="concept/loneliness,concept/solitude,concept/alienation,concept/nationalism_and_patriotism,form/essay,histref/puritanism,histref/calvinism"></span>
 
 
 XIV.  On Loneliness
@@ -9572,7 +9572,7 @@ Ciò che c'è di sbagliato nel mondo d'oggi è che esso ci sta troppo addosso; t
 
 
 
-<span class="atom-split" data-atom="story_15_on_the_importance_of_why_we_do_or_don_t" data-title="GKC Come to Think — ON THE IMPORTANCE OF WHY WE DO (OR DON'T)" data-chapter="ON THE IMPORTANCE OF WHY WE DO OR DON T" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_on_the_importance_of_why_we_do_or_don_t" data-title="GKC Come to Think — ON THE IMPORTANCE OF WHY WE DO (OR DON'T)" data-chapter="ON THE IMPORTANCE OF WHY WE DO OR DON T" data-kind="story" data-tags="motif/decay,motif/leaves,concept/mercy,concept/reform,concept/self,concept/truth,histref/bible"></span>
 
 
 XV.  On the Importance of Why We Do (or Don't)
@@ -9714,7 +9714,7 @@ Come è per la crudeltà o la rapacità commerciale, così è per le idee basila
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_open_conspiracy" data-title="GKC Come to Think — ON THE OPEN CONSPIRACY" data-chapter="ON THE OPEN CONSPIRACY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_on_the_open_conspiracy" data-title="GKC Come to Think — ON THE OPEN CONSPIRACY" data-chapter="ON THE OPEN CONSPIRACY" data-kind="story" data-tags="motif/leaves,concept/history,concept/self,form/history,form/sketch"></span>
 
 
 XVI.  On the Open Conspiracy
@@ -9864,7 +9864,7 @@ Vi sono altre due difficoltà che avverto in questa glorificazione del [[governm
 
 
 
-<span class="atom-split" data-atom="story_17_on_the_closed_conspiracy" data-title="GKC Come to Think — ON THE CLOSED CONSPIRACY" data-chapter="ON THE CLOSED CONSPIRACY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_on_the_closed_conspiracy" data-title="GKC Come to Think — ON THE CLOSED CONSPIRACY" data-chapter="ON THE CLOSED CONSPIRACY" data-kind="story" data-tags="motif/childhood,motif/supernatural,motif/wind,motif/window,concept/self,concept/truth,form/allegory,form/parable"></span>
 
 
 XVII.  On the Closed Conspiracy
@@ -9996,7 +9996,7 @@ Questo è il principio che sta dietro la filosofia delle Recinzioni; e non c'è 
 
 
 
-<span class="atom-split" data-atom="story_18_on_current_claptrap" data-title="GKC Come to Think — ON CURRENT CLAPTRAP" data-chapter="ON CURRENT CLAPTRAP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_on_current_claptrap" data-title="GKC Come to Think — ON CURRENT CLAPTRAP" data-chapter="ON CURRENT CLAPTRAP" data-kind="story" data-tags="motif/blood,motif/nature,motif/time,concept/charity,concept/despair,concept/hope,concept/nature,concept/self_sacrifice"></span>
 
 
 XVIII.  On Current Claptrap
@@ -10136,7 +10136,7 @@ Ora, se qualcuno prenderà in mano un giornale o una pagina di scrittura moderna
 
 
 
-<span class="atom-split" data-atom="story_19_on_evil_euphemisms" data-title="GKC Come to Think — ON EVIL EUPHEMISMS" data-chapter="ON EVIL EUPHEMISMS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_on_evil_euphemisms" data-title="GKC Come to Think — ON EVIL EUPHEMISMS" data-chapter="ON EVIL EUPHEMISMS" data-kind="story" data-tags="motif/marriage,motif/road,motif/time,concept/freedom,concept/self,concept/truth"></span>
 
 
 XIX.  On Evil Euphemisms
@@ -10404,7 +10404,7 @@ e io per primo preferisco il linguaggio grossolano dei nostri padri.
 
 
 
-<span class="atom-split" data-atom="story_20_on_encyclopaedias" data-title="GKC Come to Think — ON ENCYCLOPAEDIAS" data-chapter="ON ENCYCLOPAEDIAS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_encyclopaedias" data-title="GKC Come to Think — ON ENCYCLOPAEDIAS" data-chapter="ON ENCYCLOPAEDIAS" data-kind="story" data-tags="motif/poison,motif/time,motif/water,motif/well,concept/education,concept/history,concept/hope,concept/truth,form/history,setting/paris"></span>
 
 
 XX.  On Encyclopaedias
@@ -10684,7 +10684,7 @@ contro i Whig.
 
 
 
-<span class="atom-split" data-atom="story_21_on_preaching" data-title="GKC Come to Think — ON PREACHING" data-chapter="ON PREACHING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_on_preaching" data-title="GKC Come to Think — ON PREACHING" data-chapter="ON PREACHING" data-kind="story" data-tags="concept/pride"></span>
 
 
 XXI.  On Preaching
@@ -10970,7 +10970,7 @@ e poi di fare il contrario.
 
 
 
-<span class="atom-split" data-atom="story_22_on_the_timid_thinkers" data-title="GKC Come to Think — ON THE TIMID THINKERS" data-chapter="ON THE TIMID THINKERS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_on_the_timid_thinkers" data-title="GKC Come to Think — ON THE TIMID THINKERS" data-chapter="ON THE TIMID THINKERS" data-kind="story" data-tags="concept/doubt,concept/optimism_and_pessimism,concept/materialism,concept/rationalism,form/essay,character/karl_marx"></span>
 
 
 XXII.  On the Timid Thinkers
@@ -11238,7 +11238,7 @@ della vecchia frase, aderito alla religione di tutti gli uomini assennati.
 
 
 
-<span class="atom-split" data-atom="story_23_on_the_mythology_of_scientists" data-title="GKC Come to Think — ON THE MYTHOLOGY OF SCIENTISTS" data-chapter="ON THE MYTHOLOGY OF SCIENTISTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_on_the_mythology_of_scientists" data-title="GKC Come to Think — ON THE MYTHOLOGY OF SCIENTISTS" data-chapter="ON THE MYTHOLOGY OF SCIENTISTS" data-kind="story" data-tags="archetype/prophet,motif/clock,motif/dawn,motif/love,motif/nature,motif/time,motif/well,concept/imagination,concept/nature,concept/pride,concept/survival,concept/truth"></span>
 
 
 XXIII.  On the Mythology of Scientists
@@ -11490,7 +11490,7 @@ Sono certo che gioverebbe alla digestione intellettuale.
 
 
 
-<span class="atom-split" data-atom="story_24_on_change" data-title="GKC Come to Think — ON CHANGE" data-chapter="ON CHANGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_change" data-title="GKC Come to Think — ON CHANGE" data-chapter="ON CHANGE" data-kind="story" data-tags="archetype/lover,archetype/prophet,motif/animals,motif/well,concept/body,concept/conscience,concept/hope,concept/martyrdom,concept/renunciation,concept/suffering,concept/truth"></span>
 
 
 XXIV.  On Change
@@ -11690,7 +11690,7 @@ Benché talvolta ci vada assai vicino.
 
 
 
-<span class="atom-split" data-atom="story_25_on_twilight_sleep" data-title="GKC Come to Think — ON TWILIGHT SLEEP" data-chapter="ON TWILIGHT SLEEP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_twilight_sleep" data-title="GKC Come to Think — ON TWILIGHT SLEEP" data-chapter="ON TWILIGHT SLEEP" data-kind="story" data-tags="motif/blood,motif/cross,motif/decay,motif/ghosts,motif/grave,motif/sleep,concept/doubt,concept/eugenics,concept/honour,concept/identity,concept/truth,concept/wonder,histref/america,setting/america,setting/court,character/witch"></span>
 
 
 XXV.  On Twilight [[Sleep]]
@@ -11952,7 +11952,7 @@ riguardo alla superstizione.
 
 
 
-<span class="atom-split" data-atom="story_26_on_vulgarity" data-title="GKC Come to Think — ON VULGARITY" data-chapter="ON VULGARITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_on_vulgarity" data-title="GKC Come to Think — ON VULGARITY" data-chapter="ON VULGARITY" data-kind="story" data-tags="motif/home,motif/nature,concept/body,concept/nature,concept/self,character/dwarf"></span>
 
 
 XXVI.  On Vulgarity
@@ -12065,7 +12065,7 @@ Ce n'è un numero sterminato di esempi minori e spesso più scusabili, ma è que
 
 
 
-<span class="atom-split" data-atom="story_27_on_a_humiliating_heresy" data-title="GKC Come to Think — ON A HUMILIATING HERESY" data-chapter="ON A HUMILIATING HERESY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_on_a_humiliating_heresy" data-title="GKC Come to Think — ON A HUMILIATING HERESY" data-chapter="ON A HUMILIATING HERESY" data-kind="story" data-tags="archetype/child,motif/wheel,concept/charity,concept/democracy,concept/doubt,concept/education,concept/self,concept/vanity,form/tragedy,histref/christianity,character/chorus,character/christ,character/duncan,character/hamlet,character/macbeth,character/ophelia,character/three_witches"></span>
 
 
 XXVII.  On a Humiliating Heresy
@@ -12202,7 +12202,7 @@ of moral liberty; and it has murdered many things besides [[Duncan]].
 
 
 
-<span class="atom-split" data-atom="story_28_on_original_sin" data-title="GKC Come to Think — ON ORIGINAL SIN" data-chapter="ON ORIGINAL SIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_on_original_sin" data-title="GKC Come to Think — ON ORIGINAL SIN" data-chapter="ON ORIGINAL SIN" data-kind="story" data-tags="archetype/king,motif/animals,motif/blood,motif/dance,motif/memory,motif/poison,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/original_sin,concept/pride,concept/truth,form/allegory,form/fragment"></span>
 
 
 XXVIII.  On [[Original Sin]]
@@ -12331,7 +12331,7 @@ Suggerisco pertanto, con grande rispetto, che non si tratta neppure ora di dover
 
 
 
-<span class="atom-split" data-atom="story_29_on_the_new_religion_coming" data-title="GKC Come to Think — ON THE NEW RELIGION COMING" data-chapter="ON THE NEW RELIGION COMING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_on_the_new_religion_coming" data-title="GKC Come to Think — ON THE NEW RELIGION COMING" data-chapter="ON THE NEW RELIGION COMING" data-kind="story" data-tags="concept/faith,concept/paganism_and_classical_revival,concept/satire_of_society,concept/wit,form/essay"></span>
 
 
 XXIX.  On the New Religion Coming
@@ -12452,7 +12452,7 @@ Non suggerisco per un istante che la Nuova Religione non possa esistere.  Il mon
 
 
 
-<span class="atom-split" data-atom="story_30_on_the_great_god_namse" data-title="GKC Come to Think — ON THE GREAT GOD NAMSE" data-chapter="ON THE GREAT GOD NAMSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_on_the_great_god_namse" data-title="GKC Come to Think — ON THE GREAT GOD NAMSE" data-chapter="ON THE GREAT GOD NAMSE" data-kind="story" data-tags="motif/dance,motif/death,motif/rose,concept/hope,concept/truth,character/chorus,character/monks"></span>
 
 
 XXX.  On the Great God Namse
@@ -12579,7 +12579,7 @@ Quanto più malinconica è la condizione di coloro che, nelle comunità occident
 
 
 
-<span class="atom-split" data-atom="story_31_on_the_innocence_of_macaulay" data-title="GKC Come to Think — ON THE INNOCENCE OF MACAULAY" data-chapter="ON THE INNOCENCE OF MACAULAY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_on_the_innocence_of_macaulay" data-title="GKC Come to Think — ON THE INNOCENCE OF MACAULAY" data-chapter="ON THE INNOCENCE OF MACAULAY" data-kind="story" data-tags="archetype/child,archetype/shadow,motif/flowers,motif/hill,motif/lightning,motif/ship,motif/soul,motif/well,concept/beauty,concept/body,concept/faith,concept/history,concept/imagination,concept/paradox,concept/truth,concept/union,form/essay,form/history,setting/italy,setting/london,setting/ship,character/michael"></span>
 
 
 XXXI.  On the Innocence of Macaulay
@@ -12734,7 +12734,7 @@ Ai tempi di Macaulay esso era diviso in cento sette, e perciò la sua arte pubbl
 
 
 
-<span class="atom-split" data-atom="story_32_on_jane_austen_in_the_general_election" data-title="GKC Come to Think — ON JANE AUSTEN IN THE GENERAL ELECTION" data-chapter="ON JANE AUSTEN IN THE GENERAL ELECTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_on_jane_austen_in_the_general_election" data-title="GKC Come to Think — ON JANE AUSTEN IN THE GENERAL ELECTION" data-chapter="ON JANE AUSTEN IN THE GENERAL ELECTION" data-kind="story" data-tags="motif/dance,motif/marriage,motif/nature,motif/rose,motif/time,motif/well,concept/fear,concept/madness,concept/nature,concept/solitude,concept/truth,form/novel,character/emma_woodhouse"></span>
 
 
 XXXII.  On Jane Austen in the General Election
@@ -12892,7 +12892,7 @@ Tanto vividamente vedo il signor Wickham come un politico che mi sento incline a
 
 
 
-<span class="atom-split" data-atom="story_33_on_dictatorships" data-title="GKC Come to Think — ON DICTATORSHIPS" data-chapter="ON DICTATORSHIPS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_on_dictatorships" data-title="GKC Come to Think — ON DICTATORSHIPS" data-chapter="ON DICTATORSHIPS" data-kind="story" data-tags="motif/well,concept/democracy,concept/reform,concept/truth,histref/america,histref/french_revolution,setting/america,character/columbus"></span>
 
 
 XXXIII.  On Dictatorships
@@ -13025,7 +13025,7 @@ Alla fine del diciottesimo secolo ogni persona ragionevole sapeva che moltissime
 
 
 
-<span class="atom-split" data-atom="story_34_on_abolishing_sunday" data-title="GKC Come to Think — ON ABOLISHING SUNDAY" data-chapter="ON ABOLISHING SUNDAY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_on_abolishing_sunday" data-title="GKC Come to Think — ON ABOLISHING SUNDAY" data-chapter="ON ABOLISHING SUNDAY" data-kind="story" data-tags="character/sunday"></span>
 
 
 XXXIV.  On Abolishing Sunday
@@ -13171,7 +13171,7 @@ Ma, anche prescindendo dal fatto che la festa solitaria non riesce a essere una 
 
 
 
-<span class="atom-split" data-atom="story_35_on_prohibition" data-title="GKC Come to Think — ON PROHIBITION" data-chapter="ON PROHIBITION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_on_prohibition" data-title="GKC Come to Think — ON PROHIBITION" data-chapter="ON PROHIBITION" data-kind="story" data-tags="archetype/fool,motif/crown,motif/sleep,concept/education,concept/fanaticism,concept/madness,concept/slavery,form/fable,setting/germany"></span>
 
 
 XXXV.  On Prohibition
@@ -13314,7 +13314,7 @@ Poi vi è l'argomento che molti ritengono il più plausibile e che io ritengo di
 
 
 
-<span class="atom-split" data-atom="story_36_on_america" data-title="GKC Come to Think — ON AMERICA" data-chapter="ON AMERICA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_on_america" data-title="GKC Come to Think — ON AMERICA" data-chapter="ON AMERICA" data-kind="story" data-tags="archetype/king,concept/history,form/history,histref/america,histref/american_civil_war,setting/america"></span>
 
 
 XXXVI.  On [[America]]
@@ -13467,7 +13467,7 @@ In altre parole, ciò che più manca alla psicologia moderna è il sentimento de
 
 
 
-<span class="atom-split" data-atom="story_37_on_bigness_and_america" data-title="GKC Come to Think — ON BIGNESS AND AMERICA" data-chapter="ON BIGNESS AND AMERICA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_on_bigness_and_america" data-title="GKC Come to Think — ON BIGNESS AND AMERICA" data-chapter="ON BIGNESS AND AMERICA" data-kind="story" data-tags="motif/well,concept/body,concept/fear,concept/self,histref/america,setting/america"></span>
 
 
 XXXVII.  On Bigness and America
@@ -13617,7 +13617,7 @@ Tutti i sinceri ammiratori dell'[[America]], compresi tutti i sinceri americani,
 
 
 
-<span class="atom-split" data-atom="story_38_on_the_american_revolt_against_americani" data-title="GKC Come to Think — ON THE AMERICAN REVOLT AGAINST AMERICANISM" data-chapter="ON THE AMERICAN REVOLT AGAINST AMERICANI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_on_the_american_revolt_against_americani" data-title="GKC Come to Think — ON THE AMERICAN REVOLT AGAINST AMERICANISM" data-chapter="ON THE AMERICAN REVOLT AGAINST AMERICANI" data-kind="story" data-tags="concept/realism,concept/literary_criticism,concept/satire_of_society,form/essay,setting/america"></span>
 
 
 XXXVIII.  On the American Revolt against Americanism
@@ -13750,7 +13750,7 @@ Ora, il guaio di quasi tutte le moderne discussioni su queste questioni morali n
 
 
 
-<span class="atom-split" data-atom="story_39_on_abraham_lincoln" data-title="GKC Come to Think — ON ABRAHAM LINCOLN" data-chapter="ON ABRAHAM LINCOLN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_on_abraham_lincoln" data-title="GKC Come to Think — ON ABRAHAM LINCOLN" data-chapter="ON ABRAHAM LINCOLN" data-kind="story" data-tags="archetype/hero,motif/death,motif/desert,motif/time,concept/conscience,concept/history,concept/paradox,concept/truth,form/history,setting/desert,character/abraham_lincoln,character/lincoln,character/tolstoy"></span>
 
 
 XXXIX.  On Abraham Lincoln
@@ -13892,7 +13892,7 @@ La grande gloria di Lincoln è che, quasi solo fra i politici, egli sapeva davve
 
 
 
-<span class="atom-split" data-atom="story_40_on_myself_on_abraham_lincoln" data-title="GKC Come to Think — ON MYSELF ON ABRAHAM LINCOLN" data-chapter="ON MYSELF ON ABRAHAM LINCOLN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_on_myself_on_abraham_lincoln" data-title="GKC Come to Think — ON MYSELF ON ABRAHAM LINCOLN" data-chapter="ON MYSELF ON ABRAHAM LINCOLN" data-kind="story" data-tags="concept/humility,concept/self,concept/slavery,character/lincoln"></span>
 
 
 XL.  On Myself on Abraham Lincoln
@@ -14154,7 +14154,7 @@ o di Bayard o di Giovanna d'Arco, o di qualunque eroe o eroina della storia.
 
 
 
-<span class="atom-split" data-atom="story_41_on_foch" data-title="GKC Come to Think — ON FOCH" data-chapter="ON FOCH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_on_foch" data-title="GKC Come to Think — ON FOCH" data-chapter="ON FOCH" data-kind="story" data-tags="concept/nationalism_and_patriotism,concept/tradition,concept/war_and_its_cost,form/essay,histref/the_first_world_war,histref/battle_of_the_marne,character/ferdinand_foch,character/voltaire"></span>
 
 
 XLI.  On Foch
@@ -14354,7 +14354,7 @@ che liberò l'Europa con un solo colpo.
 
 
 
-<span class="atom-split" data-atom="story_42_on_dickens_and_after--part_01" data-title="GKC Come to Think — ON DICKENS AND AFTER (part 1)" data-chapter="ON DICKENS AND AFTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_42_on_dickens_and_after--part_01" data-title="GKC Come to Think — ON DICKENS AND AFTER (part 1)" data-chapter="ON DICKENS AND AFTER" data-kind="excerpt" data-tags="archetype/prophet,motif/home"></span>
 
 
 XLII.  On Dickens and After
@@ -14594,7 +14594,7 @@ da simile fama, semplicemente perché nessun altro ha conseguito simile fama.
 
 
 
-<span class="atom-split" data-atom="story_42_on_dickens_and_after--part_02" data-title="GKC Come to Think — ON DICKENS AND AFTER (part 2)" data-chapter="ON DICKENS AND AFTER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_42_on_dickens_and_after--part_02" data-title="GKC Come to Think — ON DICKENS AND AFTER (part 2)" data-chapter="ON DICKENS AND AFTER" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/blood,motif/city,motif/dawn,motif/death,motif/dreams,motif/stars,motif/time,concept/democracy,concept/self,concept/sublime,concept/truth,form/comedy,form/epic,histref/america,histref/milton,histref/puritanism,histref/reformation,histref/renaissance,setting/america,setting/mountains,character/bottom,character/milton"></span>
 
 
 There has never been a popular author since Dickens.
@@ -14872,7 +14872,7 @@ nello scrigno di un credo.
 
 
 
-<span class="atom-split" data-atom="story_43_on_the_king--part_01" data-title="GKC Come to Think — ON THE KING (part 1)" data-chapter="ON THE KING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_43_on_the_king--part_01" data-title="GKC Come to Think — ON THE KING (part 1)" data-chapter="ON THE KING" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/chains,motif/death,motif/moon,motif/nature,motif/seasons,motif/time,concept/democracy,concept/history,concept/honour,concept/imagination,concept/jealousy,concept/nature,concept/reconciliation,concept/survival,form/history,form/tragedy,character/queen"></span>
 
 
 XLIII.  On The [[King]]
@@ -15084,7 +15084,7 @@ e languide difficilmente direbbero lo stesso di Vittoria.
 
 
 
-<span class="atom-split" data-atom="story_43_on_the_king--part_02" data-title="GKC Come to Think — ON THE KING (part 2)" data-chapter="ON THE KING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_43_on_the_king--part_02" data-title="GKC Come to Think — ON THE KING (part 2)" data-chapter="ON THE KING" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/death,motif/night,motif/time,motif/well,concept/history,concept/madness,concept/pride,concept/reform,form/history,histref/french_revolution"></span>
 
 
 It is needless to note what is obvious enough--that the next reign

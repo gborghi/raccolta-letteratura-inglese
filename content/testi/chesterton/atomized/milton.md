@@ -647,7 +647,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Milton (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Milton (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/king,motif/leaves,motif/silence,motif/time,motif/well,concept/fear,concept/humility,concept/truth,concept/wonder,form/epic,histref/milton,setting/orient,character/milton"></span>
 
 
 [[Milton]]: Man and Poet
@@ -1043,7 +1043,7 @@ Non fu particolarmente lucido; ma fu moderatamente intelligibile
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Milton (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Milton (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/nature,motif/time,motif/well,concept/democracy,concept/freedom,concept/nature,concept/self,form/riddle,histref/milton,histref/puritanism,histref/reformation,histref/renaissance,histref/thirty_years_war,character/apollo,character/milton"></span>
 
 
 in an age when nearly all poets were proud of being unintelligible;
@@ -1411,7 +1411,7 @@ sulla monarchia, ma il suo trionfo sulla [[democracy|democrazia]]; il fatto
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Milton (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Milton (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/soul,concept/democracy,concept/pride,concept/slavery,histref/french_revolution,histref/milton,histref/puritanism,histref/reformation,character/chorus,character/milton,character/satan"></span>
 
 
 that he somehow kept the enormous crowd called England quiet.
@@ -1779,7 +1779,7 @@ al germe democratico nel [[Puritanism|Puritanesimo]].  Fu la sventura
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Milton (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Milton (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/nature,concept/democracy,concept/nature,histref/french_revolution,histref/milton,character/milton"></span>
 
 
 of that age that the synodic or debating club idea was applied,

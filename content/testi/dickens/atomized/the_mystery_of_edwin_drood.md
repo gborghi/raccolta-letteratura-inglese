@@ -11680,7 +11680,7 @@ avail me? Or if I was to deny—’
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Mystery of Edwin Drood — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Mystery of Edwin Drood — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/dawn,motif/flowers,motif/lightning,motif/sleep,motif/soul,motif/well,motif/window,concept/self,setting/cathedral,setting/court,character/edwin_drood,character/phantom"></span>
 
 
 CHAPTER I.
@@ -11824,7 +11824,7 @@ awakening muttered thunder.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Mystery of Edwin Drood — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Mystery of Edwin Drood — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/fire,motif/flag,motif/home,motif/leaves,motif/memory,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/hope,setting/cathedral,character/edwin_drood"></span>
 
 
 CHAPTER II.
@@ -11954,7 +11954,7 @@ to the gatehouse, on his way [[Home|home]] to his early tea.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Mystery of Edwin Drood — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Mystery of Edwin Drood — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/night,motif/well,concept/beauty,concept/doubt,form/sketch,setting/cathedral,character/edwin_drood"></span>
 
 
 “Sorry to hear from Tope that you have not been [[Well|well]], Jasper.”
@@ -12100,7 +12100,7 @@ that turned an old man to clay.—Halloa, Jack! Don’t drink.”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Mystery of Edwin Drood — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Mystery of Edwin Drood — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/memory,motif/pain,motif/silence,motif/time,motif/well,form/sketch,setting/cathedral,character/edwin_drood"></span>
 
 
 “Why not?”
@@ -12254,7 +12254,7 @@ desks. What shall I do? Must I take to carving them out of my heart?”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Mystery of Edwin Drood — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Mystery of Edwin Drood — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/love,motif/night,motif/time,motif/well,concept/ambition,concept/aspiration,concept/doubt,concept/hope,concept/self,concept/suffering,character/edwin_drood"></span>
 
 
 “I thought you had so exactly found your niche in life, Jack,” Edwin
@@ -12384,7 +12384,7 @@ Mr. Jasper dissolves his attitude, and they go out together.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Mystery of Edwin Drood — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Mystery of Edwin Drood — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/garden,motif/ghosts,motif/nature,motif/night,motif/summer,motif/time,motif/wind,concept/faith,concept/nature,setting/cathedral,character/edwin_drood"></span>
 
 
 CHAPTER III.
@@ -12496,7 +12496,7 @@ from race to race, that the departed Tisher was a hairdresser.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Mystery of Edwin Drood — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Mystery of Edwin Drood — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/orphan,motif/dance,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,character/edwin_drood,character/rosa_bud"></span>
 
 
 The pet pupil of the Nuns’ [[house|House]] is Miss [[Rosa Bud]], of course called
@@ -12643,7 +12643,7 @@ game to be their brothers. It _was_ so droll!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Mystery of Edwin Drood — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Mystery of Edwin Drood — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/ghost,motif/dust,motif/leaves,motif/love,motif/rose,motif/silence,motif/well,motif/window,concept/doubt,concept/hope,setting/egypt,character/edwin_drood"></span>
 
 
 Edwin scarcely seems to see the force of this; begs to know if he may
@@ -12814,7 +12814,7 @@ undeveloped country.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Mystery of Edwin Drood — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Mystery of Edwin Drood — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/leaves,motif/nature,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/wonder,character/edwin_drood"></span>
 
 
 “Lor!” says Rosa, shrugging her shoulders, with a little laugh of
@@ -12928,7 +12928,7 @@ don’t see my way to what I want to say, but I must say it before we
 
 
 
-<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_there_is_not_any_other_young" data-title="The Mystery of Edwin Drood — Part 4: there is not any other young—”" data-chapter="there is not any other young" data-kind="chapter" data-tags="motif/night,setting/cathedral,character/edwin_drood"></span>
 
 
 part—there is not any other young—”
@@ -12975,7 +12975,7 @@ and closes, and one goes in, and the other goes away.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Mystery of Edwin Drood — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Mystery of Edwin Drood — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/autumn,motif/clock,motif/fire,motif/garden,motif/home,motif/leaves,motif/memory,motif/time,motif/well,concept/honour,concept/self,setting/egypt,setting/paris,character/edwin_drood"></span>
 
 
 CHAPTER IV.
@@ -13101,7 +13101,7 @@ of Esquimaux make, for half a pint of pale sherry!’”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Mystery of Edwin Drood — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Mystery of Edwin Drood — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/desert,motif/fire,motif/memory,motif/time,motif/well,concept/honour,form/inscription,setting/desert,character/durdles,character/edwin_drood"></span>
 
 
 “Really? A very remarkable way, Mr. Sapsea, of acquiring a knowledge of
@@ -13237,7 +13237,7 @@ wine (handing the same), for it will warm him.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Mystery of Edwin Drood — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Mystery of Edwin Drood — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/death,motif/fire,motif/leaves,motif/sleep,motif/time,motif/well,motif/winter,concept/hope,concept/identity,form/inscription,setting/cathedral,character/durdles,character/edwin_drood"></span>
 
 
 [[Durdles]] is a stonemason; chiefly in the gravestone, tomb, and monument
@@ -13407,7 +13407,7 @@ the present, to ponder on the instalment he carries away.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Mystery of Edwin Drood — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Mystery of Edwin Drood — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/night,motif/road,motif/silence,motif/well,concept/education,concept/wonder,character/durdles,character/edwin_drood,character/john_jasper"></span>
 
 
 CHAPTER V.
@@ -13561,7 +13561,7 @@ pillar, and other inanimate object, by the deserted way.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Mystery of Edwin Drood — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Mystery of Edwin Drood — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/cross,motif/desert,motif/fire,motif/garden,motif/home,motif/night,motif/road,motif/time,motif/well,setting/cathedral,setting/desert,character/durdles,character/edwin_drood,character/john_jasper"></span>
 
 
 “Anything old, I think you mean,” growls [[Durdles]]. “It ain’t a spot for
@@ -13720,7 +13720,7 @@ invokes at midnight.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Mystery of Edwin Drood — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Mystery of Edwin Drood — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/grave,motif/prayer,motif/silence,motif/time,motif/water,motif/wind,motif/window,setting/cathedral,setting/london,character/edwin_drood,character/monks"></span>
 
 
 CHAPTER VI.
@@ -13850,7 +13850,7 @@ worse and worse daily.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Mystery of Edwin Drood — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Mystery of Edwin Drood — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/nature,motif/road,motif/time,motif/well,concept/doubt,concept/education,concept/honour,concept/nature,form/fragment,setting/london,character/edwin_drood,character/helena,character/helena_landless"></span>
 
 
 “‘I write,’” his mother went on, reading very perspicuously and
@@ -13978,7 +13978,7 @@ corner: “Beware of the Dog.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Mystery of Edwin Drood — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Mystery of Edwin Drood — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/love,motif/nature,motif/night,motif/pain,motif/road,concept/body,concept/hope,concept/nature,setting/castle,setting/cathedral,setting/court,character/edwin_drood,character/helena,character/helena_landless"></span>
 
 
 To this ignominious avenue of approach, Mr. Crisparkle repaired,
@@ -14120,7 +14120,7 @@ as possible about them, without being at all particular as to facts.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Mystery of Edwin Drood — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Mystery of Edwin Drood — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/horse,motif/tears,motif/time,concept/mercy,setting/cathedral,character/edwin_drood"></span>
 
 
 The dinner was a most doleful breakdown. The philanthropist deranged
@@ -14167,7 +14167,7 @@ half-an-hour to spare.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Mystery of Edwin Drood — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Mystery of Edwin Drood — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/death,motif/grave,motif/moon,motif/rose,motif/tears,motif/time,motif/well,concept/education,concept/honour,concept/hope,concept/truth,concept/wonder,setting/cathedral,character/edwin_drood"></span>
 
 
 CHAPTER VII.
@@ -14325,7 +14325,7 @@ allowance for me.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Mystery of Edwin Drood — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Mystery of Edwin Drood — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/nature,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/nature,concept/truth,concept/wonder,setting/cathedral,character/edwin_drood,character/helena"></span>
 
 
 “Of that, Mr. Neville, you may be sure,” returned the Minor Canon. “I
@@ -14464,7 +14464,7 @@ too cold.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Mystery of Edwin Drood — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Mystery of Edwin Drood — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/lover,archetype/shadow,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/courage,concept/fear,concept/hope,concept/wonder,character/edwin_drood,character/helena,character/helena_landless"></span>
 
 
 Miss Twinkleton now opining that indeed these were late hours, Mrs.
@@ -14612,7 +14612,7 @@ it most concerned look [[Well|well]] to it!
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Mystery of Edwin Drood — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Mystery of Edwin Drood — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/road,motif/time,concept/hope,concept/nature,concept/wonder,setting/egypt,setting/london,character/edwin_drood,character/helena,character/neville_landless"></span>
 
 
 CHAPTER VIII.
@@ -14749,7 +14749,7 @@ or, be it said once again, not quite so carelessly perhaps.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Mystery of Edwin Drood — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Mystery of Edwin Drood — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/fire,motif/love,motif/soul,concept/self,character/diana,character/edwin_drood,character/neville_landless,character/venus"></span>
 
 
 “All over then! Now, my bachelor gatehouse is a few yards from here,
@@ -14890,7 +14890,7 @@ Mr. Jasper quickly looks to the other for his retort.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Mystery of Edwin Drood — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Mystery of Edwin Drood — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/home,motif/leaves,motif/moon,motif/night,motif/river,motif/time,motif/wind,concept/doubt,concept/endurance,concept/fear,concept/mercy,concept/self,concept/unattainable,concept/vanity,setting/cathedral,character/edwin_drood"></span>
 
 
 “And what have they made you sensible of?”
@@ -15076,7 +15076,7 @@ up; and goes thoughtfully to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Mystery of Edwin Drood — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Mystery of Edwin Drood — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/orphan,motif/birds,motif/desire,motif/dust,motif/flowers,motif/home,motif/nature,motif/road,motif/summer,motif/well,concept/beauty,concept/despair,concept/nature,character/edwin_drood"></span>
 
 
 CHAPTER IX.
@@ -15187,7 +15187,7 @@ an end of the subject.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Mystery of Edwin Drood — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Mystery of Edwin Drood — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/marriage,motif/nature,motif/night,motif/river,motif/rose,motif/time,motif/water,motif/well,motif/wheel,motif/window,concept/honour,concept/nature,character/edwin_drood,character/ferdinand,character/helena,character/queen"></span>
 
 
 It was reserved for Miss Twinkleton to tone down the public mind of the
@@ -15300,7 +15300,7 @@ her to sit down, sat down himself.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Mystery of Edwin Drood — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Mystery of Edwin Drood — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/marriage,motif/nature,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/honour,concept/imagination,concept/nature,character/edwin_drood"></span>
 
 
 “My visits,” said Mr. Grewgious, “are, like those of the angels—not
@@ -15435,7 +15435,7 @@ at last: “and should only blunder.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Mystery of Edwin Drood — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Mystery of Edwin Drood — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/marriage,motif/tears,motif/time,motif/window,concept/doubt,concept/hope,concept/wonder,character/edwin_drood"></span>
 
 
 Rosa sat still and silent. Perhaps her mind had not got quite so far as
@@ -15569,7 +15569,7 @@ business responsibilities towards the accomplished lady in the corner
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="The Mystery of Edwin Drood — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="The Mystery of Edwin Drood — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/marriage,motif/river,motif/rose,motif/time,concept/doubt,concept/honour,setting/cathedral,character/edwin_drood,character/ferdinand"></span>
 
 
 “Could I,” said Rosa, rising, as he jerked out of his chair in his
@@ -15743,7 +15743,7 @@ shoulder.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Mystery of Edwin Drood — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Mystery of Edwin Drood — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/home,motif/river,motif/well,motif/wind,concept/hope,concept/self,form/fragment,character/edwin_drood,character/helena"></span>
 
 
 CHAPTER X.
@@ -15898,7 +15898,7 @@ of his life?
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Mystery of Edwin Drood — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Mystery of Edwin Drood — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/double,motif/bees,motif/home,motif/lamb,motif/leaves,motif/night,motif/river,motif/rose,motif/storm,motif/swallow,motif/time,motif/water,form/fragment,setting/cathedral,setting/court,character/edwin_drood,character/helena,character/macbeth,character/neville_landless"></span>
 
 
 As, whenever the Reverend Septimus fell a-musing, his good mother took
@@ -15997,7 +15997,7 @@ sea?”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Mystery of Edwin Drood — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Mystery of Edwin Drood — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/silence,motif/time,concept/courage,concept/doubt,concept/fear,concept/nature,concept/truth,concept/wonder,character/edwin_drood,character/helena"></span>
 
 
 “It is very retired,” assented Mr. Crisparkle, laying hold of his
@@ -16129,7 +16129,7 @@ sister crossed to his side, and caught his arm, remonstrating,
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Mystery of Edwin Drood — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Mystery of Edwin Drood — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/forgiveness,concept/honour,setting/cathedral,character/edwin_drood,character/helena"></span>
 
 
 Thus recalled to himself, he quickly became sensible of having lost the
@@ -16253,7 +16253,7 @@ the matter? Who did it?”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="The Mystery of Edwin Drood — Chapter 10 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="The Mystery of Edwin Drood — Chapter 10 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/leaves,motif/love,motif/night,motif/silence,motif/sleep,motif/well,concept/hope,character/edwin_drood,character/neville_landless"></span>
 
 
 “It is only I, Jasper. I am sorry to have disturbed you.”
@@ -16398,7 +16398,7 @@ no more about it.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Mystery of Edwin Drood — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Mystery of Edwin Drood — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/fire,motif/garden,motif/marriage,motif/wind,concept/ambition,concept/history,form/history,form/inscription,setting/london,character/bottom,character/edwin_drood,character/pistol"></span>
 
 
 CHAPTER XI.
@@ -16511,7 +16511,7 @@ nevertheless, treated him with unaccountable consideration.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Mystery of Edwin Drood — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Mystery of Edwin Drood — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/night,motif/time,motif/well,motif/wind,concept/wonder,character/edwin_drood"></span>
 
 
 “Now, Bazzard,” said Mr. Grewgious, on the entrance of his clerk:
@@ -16696,7 +16696,7 @@ the flying waiter before him out of the room.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Mystery of Edwin Drood — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Mystery of Edwin Drood — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/fire,motif/memory,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/charity,concept/faith,concept/imagination,concept/nature,concept/self,concept/wonder,character/duncan,character/edwin_drood,character/macbeth"></span>
 
 
 It was like a highly-finished miniature painting representing My Lords
@@ -16832,7 +16832,7 @@ Which, to the best of my belief, is not the case.”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Mystery of Edwin Drood — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Mystery of Edwin Drood — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/dust,motif/fire,motif/marriage,motif/rose,motif/silence,motif/spring,motif/time,motif/well,concept/beauty,concept/charity,concept/doubt,concept/faith,concept/hope,concept/imagination,character/bottom,character/edwin_drood"></span>
 
 
 Edwin had turned red and turned white, as certain points of this
@@ -16972,7 +16972,7 @@ are going to her, to make the last irrevocable preparations for your
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="The Mystery of Edwin Drood — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="The Mystery of Edwin Drood — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/orphan,motif/night,motif/sleep,motif/time,motif/well,concept/hope,concept/wonder,character/edwin_drood"></span>
 
 
 The young man took the little case, and placed it in his breast.
@@ -17055,7 +17055,7 @@ times, in or about seventeen-forty-seven.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Mystery of Edwin Drood — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Mystery of Edwin Drood — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/night,motif/well,concept/honour,concept/hope,concept/providence,concept/truth,form/inscription,setting/cathedral,character/durdles,character/edwin_drood"></span>
 
 
 CHAPTER XII.
@@ -17179,7 +17179,7 @@ might be worth my while?”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Mystery of Edwin Drood — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Mystery of Edwin Drood — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/shadow,motif/city,motif/dust,motif/fire,motif/grave,motif/home,motif/moon,motif/night,motif/time,character/durdles,character/edwin_drood,character/monks"></span>
 
 
 “I remember!” replies the auctioneer. And the solemn idiot really
@@ -17324,7 +17324,7 @@ of [[Durdles]], stopping him where he stands.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Mystery of Edwin Drood — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Mystery of Edwin Drood — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dust,motif/fire,motif/garden,motif/ghosts,motif/night,motif/noon,motif/time,form/fragment,setting/cathedral,character/durdles,character/dwarf,character/edwin_drood"></span>
 
 
 At that end of Minor Canon Corner the [[Shadow|shadow]] is profound in the
@@ -17435,7 +17435,7 @@ turn to one another, as though their faces could commune together.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Mystery of Edwin Drood — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Mystery of Edwin Drood — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/ghost,motif/dust,motif/fire,motif/ghosts,motif/grave,motif/night,motif/river,motif/sleep,motif/time,motif/well,motif/window,concept/hope,setting/cathedral,character/durdles,character/edwin_drood"></span>
 
 
 “This is good stuff, Mister Jarsper!”
@@ -17558,7 +17558,7 @@ appeals to his companion for forty winks of a second each.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Mystery of Edwin Drood — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Mystery of Edwin Drood — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/blood,motif/dance,motif/dreams,motif/dust,motif/fire,motif/home,motif/moon,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/body,setting/cathedral,character/bottom,character/durdles,character/edwin_drood"></span>
 
 
 “If you will have it so, or must have it so,” replies Jasper, “I’ll not
@@ -17716,7 +17716,7 @@ to an end, the unaccountable expedition comes to an end—for the [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Mystery of Edwin Drood — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Mystery of Edwin Drood — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/ghosts,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/time,concept/friendship,concept/honour,concept/hope,concept/nature,concept/wonder,form/tragedy,character/edwin_drood,character/ferdinand,character/helena,character/helena_landless"></span>
 
 
 CHAPTER XIII.
@@ -17836,7 +17836,7 @@ Cloisterham was itself again.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Mystery of Edwin Drood — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Mystery of Edwin Drood — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/river,motif/silence,motif/tears,motif/time,motif/well,concept/beauty,concept/conscience,concept/fear,concept/honour,concept/hope,concept/self,concept/truth,setting/cathedral,character/edwin_drood,character/queen"></span>
 
 
 [Illustration: “Good-bye, Rosebud darling”]
@@ -17975,7 +17975,7 @@ been gliding towards a life-long bondage?
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Mystery of Edwin Drood — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Mystery of Edwin Drood — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/flowers,motif/grave,motif/lightning,motif/nature,motif/river,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/hope,concept/nature,form/satire,setting/london,character/edwin_drood"></span>
 
 
 “All this that I say of you is true of me as [[Well|well]], Eddy. Unless it was,
@@ -18112,7 +18112,7 @@ again, to repeat their former round.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Mystery of Edwin Drood — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Mystery of Edwin Drood — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/chains,motif/city,motif/home,motif/night,motif/river,motif/time,motif/water,setting/cathedral,character/edwin_drood,character/helena"></span>
 
 
 Let them be. Let them lie unspoken of, in his breast. However
@@ -18200,7 +18200,7 @@ you understand?” And out of that look he vanished from her view.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Mystery of Edwin Drood — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Mystery of Edwin Drood — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/desire,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/noon,motif/time,motif/well,motif/window,concept/nature,setting/cathedral,character/edwin_drood,character/helena,character/neville_landless"></span>
 
 
 CHAPTER XIV.
@@ -18318,7 +18318,7 @@ I say?—my infatuation.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Mystery of Edwin Drood — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Mystery of Edwin Drood — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/pilgrim,motif/city,motif/clock,motif/night,motif/river,motif/silence,motif/spring,motif/time,motif/well,motif/wind,concept/body,concept/hope,concept/self,concept/vanity,setting/cathedral,character/edwin_drood,character/helena"></span>
 
 
 “Had you not better avoid it, Neville? You know that I can hear
@@ -18455,7 +18455,7 @@ mind.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Mystery of Edwin Drood — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Mystery of Edwin Drood — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/night,motif/soul,motif/time,motif/well,concept/beauty,setting/cathedral,setting/london,character/edwin_drood,character/monks"></span>
 
 
 That was a curious look of Rosa’s when they parted at the gate. Did it
@@ -18599,7 +18599,7 @@ he adds: “You were to tell me something; you may as [[Well|well]] do so.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="The Mystery of Edwin Drood — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="The Mystery of Edwin Drood — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/decay,motif/night,motif/river,motif/time,motif/water,motif/well,motif/wind,concept/eternity,concept/hope,concept/self,setting/cathedral,character/edwin_drood,character/john_jasper"></span>
 
 
 “So I was, so I was. [[Well]], then. Whisper. You be thankful that your
@@ -18742,7 +18742,7 @@ the next volume with a clearer vision.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="The Mystery of Edwin Drood — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="The Mystery of Edwin Drood — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/dust,motif/night,motif/river,motif/stars,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/body,concept/hope,setting/cathedral,character/durdles,character/edwin_drood"></span>
 
 
 “This is better,” says Mr. Crisparkle, stopping at the steps of his own
@@ -18851,7 +18851,7 @@ the rail before the Minor Canon’s [[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Mystery of Edwin Drood — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Mystery of Edwin Drood — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/fire,motif/hill,motif/road,motif/rose,motif/tears,motif/time,motif/water,concept/body,concept/doubt,character/edwin_drood,character/neville_landless,character/speed"></span>
 
 
 CHAPTER XV.
@@ -18979,7 +18979,7 @@ there released him, as an act of deference to that gentleman.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Mystery of Edwin Drood — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Mystery of Edwin Drood — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/grave,motif/home,motif/night,motif/river,motif/silence,motif/well,motif/wind,setting/london,character/edwin_drood,character/john_jasper,character/neville_landless"></span>
 
 
 “What is all this, sir? What is the matter? I feel as if I had lost my
@@ -19114,7 +19114,7 @@ Each was bowed down and broken.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Mystery of Edwin Drood — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Mystery of Edwin Drood — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/night,motif/river,motif/tears,motif/time,motif/water,concept/faith,character/edwin_drood,character/john_jasper"></span>
 
 
 With the earliest light of the next morning, men were at work upon the
@@ -19262,7 +19262,7 @@ hands as he warmed them, and looked down at it.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Mystery of Edwin Drood — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Mystery of Edwin Drood — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/marriage,motif/noon,motif/pain,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/wonder,character/edwin_drood,character/john_jasper"></span>
 
 
 CHAPTER XVI.
@@ -19402,7 +19402,7 @@ him to present the question in a new light.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Mystery of Edwin Drood — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Mystery of Edwin Drood — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/storm,motif/time,motif/water,motif/well,concept/body,concept/hope,concept/jealousy,concept/truth,character/edwin_drood,character/neville_landless"></span>
 
 
 “I stated to Mr. Sapsea, when we waited on him,” said Jasper: as he
@@ -19515,7 +19515,7 @@ would come back early in the morning.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Mystery of Edwin Drood — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Mystery of Edwin Drood — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/fire,motif/grave,motif/nature,motif/night,motif/river,motif/rose,motif/sleep,motif/water,motif/well,concept/body,concept/nature,setting/london,character/edwin_drood"></span>
 
 
 The Weir ran through his broken [[Sleep|sleep]], all [[Night|night]], and he was back again
@@ -19620,7 +19620,7 @@ gentleman appeared.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="The Mystery of Edwin Drood — Chapter 16 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="The Mystery of Edwin Drood — Chapter 16 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/night,motif/well,concept/doubt,concept/hope,character/edwin_drood,character/john_jasper,character/neville_landless"></span>
 
 
 On the suspicions thus urged and supported, Neville was detained, and
@@ -19711,7 +19711,7 @@ murderer. And, That I devote myself to his destruction.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Mystery of Edwin Drood — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Mystery of Edwin Drood — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,motif/well,concept/mercy,setting/london,character/cain,character/edwin_drood"></span>
 
 
 CHAPTER XVII.
@@ -19844,7 +19844,7 @@ explanation—when you begin it.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Mystery of Edwin Drood — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Mystery of Edwin Drood — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/rose,motif/soul,motif/time,motif/well,concept/faith,concept/guilt,concept/self,character/edwin_drood"></span>
 
 
 “The Commandments say, no murder. NO murder, sir!” proceeded Mr.
@@ -19986,7 +19986,7 @@ into private life, it becomes an unendurable nuisance.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Mystery of Edwin Drood — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Mystery of Edwin Drood — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/city,motif/leaves,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/courage,concept/guilt,concept/hope,concept/solitude,concept/vanity,setting/cathedral,character/edwin_drood,character/neville_landless"></span>
 
 
 “These are strong words, sir!” exclaimed the Philanthropist.
@@ -20126,7 +20126,7 @@ they were precious to [[Neville Landless]].
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Mystery of Edwin Drood — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Mystery of Edwin Drood — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/body,concept/courage,concept/doubt,concept/nature,concept/pride,concept/truth,setting/cathedral,character/edwin_drood,character/helena"></span>
 
 
 When they had got through such studies as they had in hand, they stood
@@ -20275,7 +20275,7 @@ you know?”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="The Mystery of Edwin Drood — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="The Mystery of Edwin Drood — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/garden,motif/home,motif/night,motif/ship,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/charity,concept/hope,concept/identity,setting/ship,character/edwin_drood"></span>
 
 
 Mr. Crisparkle, with a significant nod complied; and rejoining Neville,
@@ -20419,7 +20419,7 @@ alphabets are mastered.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Mystery of Edwin Drood — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Mystery of Edwin Drood — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/dance,motif/desire,motif/time,motif/window,concept/doubt,form/fragment,setting/cathedral,character/edwin_drood"></span>
 
 
 CHAPTER XVIII.
@@ -20600,7 +20600,7 @@ Verger’s hole-in-the-wall was an appanage or subsidiary part.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Mystery of Edwin Drood — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Mystery of Edwin Drood — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/nature,motif/prison,motif/secrets,motif/time,motif/well,motif/winter,concept/doubt,concept/honour,concept/nature,setting/cathedral,character/edwin_drood,character/john_jasper"></span>
 
 
 The poor dear gentleman was very solitary and very sad, Mrs. Tope said,
@@ -20743,7 +20743,7 @@ among our townsmen own to being a little vain of it.”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Mystery of Edwin Drood — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Mystery of Edwin Drood — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/night,motif/time,concept/beauty,concept/honour,setting/cathedral,character/apollo,character/durdles,character/edwin_drood"></span>
 
 
 All this [[Time|time]] Mr. Datchery had walked with his hat under his arm, and
@@ -20841,7 +20841,7 @@ living idly on his means, I have had a rather busy afternoon!”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Mystery of Edwin Drood — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Mystery of Edwin Drood — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dust,motif/fire,motif/garden,motif/home,motif/love,motif/night,motif/summer,motif/time,motif/well,motif/wind,concept/fear,concept/self,setting/cathedral,character/edwin_drood,character/helena_landless"></span>
 
 
 CHAPTER XIX.
@@ -20970,7 +20970,7 @@ will confess—”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Mystery of Edwin Drood — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Mystery of Edwin Drood — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/wind,concept/beauty,concept/guilt,concept/truth,concept/wonder,character/edwin_drood,character/witch"></span>
 
 
 “I do not wish to hear you, sir,” cries Rosa, rising.
@@ -21103,7 +21103,7 @@ lip.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Mystery of Edwin Drood — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Mystery of Edwin Drood — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/dust,motif/love,motif/night,motif/soul,concept/despair,concept/hope,concept/self,concept/truth,concept/wonder,character/edwin_drood"></span>
 
 
 “I was going to show you how madly I [[Love|love]] you. More madly now than
@@ -21193,7 +21193,7 @@ maids say, and the hot and stifling air has overset the pretty dear: no
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Mystery of Edwin Drood — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Mystery of Edwin Drood — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/memory,motif/nature,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/despair,concept/imagination,concept/nature,concept/self,concept/vanity,concept/wonder,setting/london,character/edwin_drood,character/helena"></span>
 
 
 CHAPTER XX.
@@ -21304,7 +21304,7 @@ must on no account endeavour to lift.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Mystery of Edwin Drood — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Mystery of Edwin Drood — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/city,motif/dust,motif/journey,motif/love,motif/night,motif/summer,motif/tears,motif/time,motif/wind,motif/window,setting/london,character/edwin_drood"></span>
 
 
 “Can you go round when you get back, and tell Miss Twinkleton that you
@@ -21446,7 +21446,7 @@ jumble of all meals.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Mystery of Edwin Drood — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Mystery of Edwin Drood — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,form/tragedy,character/edwin_drood"></span>
 
 
 Rosa thanked him, but said she could only take a cup of tea. Mr.
@@ -21597,7 +21597,7 @@ expected.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="The Mystery of Edwin Drood — Chapter 20 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="The Mystery of Edwin Drood — Chapter 20 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/fire,motif/grave,motif/night,motif/road,motif/sleep,motif/time,motif/window,concept/history,concept/hope,form/history,form/tragedy,character/edwin_drood,character/helena"></span>
 
 
 “Is the [[Tragedy|tragedy]] named, sir?” asked Rosa.
@@ -21677,7 +21677,7 @@ lions, and had it on his mind that she might tumble out.
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="The Mystery of Edwin Drood — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="The Mystery of Edwin Drood — Chapter 21" data-chapter="Chapter 22" data-kind="chapter" data-tags="archetype/ghost,motif/clock,motif/flowers,motif/garden,motif/nature,motif/night,motif/river,motif/soul,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/honour,concept/hope,concept/identity,concept/nature,concept/truth,concept/wonder,character/edwin_drood,character/helena"></span>
 
 
 CHAPTER XXI.
@@ -21948,7 +21948,7 @@ May it flourish for ever!
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="The Mystery of Edwin Drood — Chapter 22" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="The Mystery of Edwin Drood — Chapter 22" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/birds,motif/flowers,motif/garden,motif/home,motif/leaves,motif/love,motif/mirror,motif/moon,motif/nature,motif/ship,motif/silence,motif/stars,motif/summer,motif/time,motif/window,concept/beauty,concept/nature,setting/london,setting/ship,character/edwin_drood,character/helena,character/helena_landless,character/john_jasper,character/queen"></span>
 
 
 CHAPTER XXII.
@@ -22155,7 +22155,7 @@ that has restricted us to this interview for the present, and will
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_01" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_01" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="topos/quest,motif/flowers,motif/home,motif/leaves,motif/love,motif/nature,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/nature,setting/london,character/edwin_drood,character/helena"></span>
 
 
 part. I hear Neville moving too. Are you going back?”
@@ -22300,7 +22300,7 @@ is best that it should be made known to you.”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_02" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_02" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="motif/fire,motif/time,motif/well,motif/window,concept/deception,concept/doubt,character/edwin_drood"></span>
 
 
 Mr. Grewgious and Rosa exchanged looks of some dismay, though they had
@@ -22429,7 +22429,7 @@ back to Furnival’s Inn on her guardian’s arm.
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_03" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_03" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 3)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/death,motif/garden,motif/river,motif/tears,motif/time,motif/well,concept/identity,concept/slavery,concept/wonder,character/edwin_drood"></span>
 
 
 Behold Mr. Tartar walking up and down Furnival’s Inn, checking himself
@@ -22540,7 +22540,7 @@ pupil, whatever she,” meaning Rosa, “may be, poor thing!”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_04" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 4)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_04" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 4)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/desire,motif/lamb,motif/love,motif/time,motif/well,concept/doubt,concept/poverty,character/edwin_drood"></span>
 
 
 Miss Twinkleton, on the other hand, having changed her dress and
@@ -22666,7 +22666,7 @@ fowl.”
 
 
 
-<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_05" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_hear_neville_moving_too_are_yo--part_05" data-title="The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 5)" data-chapter="hear Neville moving too Are yo" data-kind="excerpt" data-tags="motif/dawn,motif/lamb,motif/love,motif/well,setting/london,character/edwin_drood"></span>
 
 
 On which the Billickin would retort (Rosa not having spoken a word),
@@ -22741,7 +22741,7 @@ heart. So they both did better than before.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Mystery of Edwin Drood — Chapter 23 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Mystery of Edwin Drood — Chapter 23 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/dawn,motif/fire,motif/love,motif/nature,motif/night,motif/silence,motif/spring,motif/time,motif/water,motif/well,concept/history,concept/imagination,concept/nature,concept/revenge,form/history,form/novel,setting/cathedral,setting/court,setting/london,character/edwin_drood,character/helena,character/john_jasper,character/neville_landless"></span>
 
 
 CHAPTER XXIII.
@@ -22862,7 +22862,7 @@ takes me, I shall cough out twenty matches afore I gets a light.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Mystery of Edwin Drood — Chapter 23 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Mystery of Edwin Drood — Chapter 23 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/death,motif/journey,motif/leaves,motif/night,motif/silence,motif/soul,motif/spring,motif/time,motif/well,character/bottom,character/edwin_drood"></span>
 
 
 But she finds the candle, and lights it, before the cough comes on. It
@@ -23029,7 +23029,7 @@ often?”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Mystery of Edwin Drood — Chapter 23 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Mystery of Edwin Drood — Chapter 23 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/leaves,motif/road,motif/silence,motif/sleep,motif/time,concept/beauty,concept/body,setting/court,character/edwin_drood"></span>
 
 
 “No, always in one way.”
@@ -23176,7 +23176,7 @@ and holds him in view.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Mystery of Edwin Drood — Chapter 23 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Mystery of Edwin Drood — Chapter 23 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/journey,motif/noon,motif/soul,motif/stars,motif/time,setting/cathedral,character/edwin_drood,character/john_jasper,character/monks"></span>
 
 
 He repairs to the back of Aldersgate Street, where a door immediately
@@ -23332,7 +23332,7 @@ honest to the last brass farden again, upon my [[Soul|soul]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Mystery of Edwin Drood — Chapter 23 (part 5)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Mystery of Edwin Drood — Chapter 23 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/home,motif/night,motif/sleep,motif/well,concept/honour,setting/cathedral,setting/london,character/durdles,character/edwin_drood,character/john_jasper"></span>
 
 
 “What’s the medicine?”
@@ -23482,7 +23482,7 @@ inner side.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_06" data-title="The Mystery of Edwin Drood — Chapter 23 (part 6)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_06" data-title="The Mystery of Edwin Drood — Chapter 23 (part 6)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/birds,motif/chalk,motif/city,motif/clock,motif/dust,motif/garden,motif/leaves,motif/night,motif/time,motif/well,concept/poverty,concept/resurrection,form/biography,form/fragment,setting/cathedral,character/bottom,character/edwin_drood,character/john_jasper"></span>
 
 
 “I like,” says Mr. Datchery, “the old tavern way of keeping scores.
@@ -23608,7 +23608,7 @@ of man, wholly destitute of dignity or knowledge of the world.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_07" data-title="The Mystery of Edwin Drood — Chapter 23 (part 7)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_07" data-title="The Mystery of Edwin Drood — Chapter 23 (part 7)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/grave,motif/moon,motif/rose,motif/time,motif/well,motif/window,concept/self,character/edwin_drood"></span>
 
 
 As I entered the Club-room, Kimber was making the remark: ‘And he still

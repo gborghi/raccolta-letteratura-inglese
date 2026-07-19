@@ -1351,6 +1351,26 @@ async function main() {
     const { _subwork, _source, _drop, _base, ...clean } = r
     return clean
   }
+  // Cluster inheritance fallback: a leaf fragment row (e.g. an Emma chapter, an
+  // Orthodoxy part) has no cluster of its own — leaf frontmatter tags (Opus/
+  // wikilink-derived) carry no cluster/ entries — so it inherits its parent
+  // work's clusters. Sonnets (and any leaf whose own tags DO include a cluster,
+  // via sourceTagAxes) already have clusters and are left untouched — no
+  // override. Key off readHref, not href: a work's `href` is its KG-note slug
+  // (e.g. "works/ortho14-(chesterton)"), while a leaf row's href is
+  // `${workSlug}#${atomId}` where workSlug is the Testi reading-page slug —
+  // that's rec.readHref (set just above), not rec.href.
+  const workClustersByHref = new Map()
+  for (const rec of works) {
+    if (rec._drop) continue
+    const key = rec.readHref || rec.href
+    if (key) workClustersByHref.set(key, rec.clusters || [])
+  }
+  for (const row of leafFragRows) {
+    if (row.clusters && row.clusters.length) continue // sonnets: keep their own
+    const parentWorkHref = row.href.split("#")[0]
+    row.clusters = workClustersByHref.get(parentWorkHref) || []
+  }
   const worksOut = [
     ...works.filter((r) => !r._drop).map(stripTagFields),
     ...leafFragRows.map(stripTagFields),

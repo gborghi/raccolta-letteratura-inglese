@@ -217,7 +217,7 @@ as the thunder of heaven and the [[Blood|blood]] of men.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="penny-dreadfuls (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="penny-dreadfuls (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/prison,motif/soul,concept/conscience,concept/courage,concept/pride,concept/sublime,form/novel,setting/london,character/robin_hood"></span>
 
 
 A DEFENCE OF PENNY DREADFULS
@@ -348,7 +348,7 @@ Per quanto io li abbia visti, in rapporto con le più sudicie bancarelle di libr
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="penny-dreadfuls (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="penny-dreadfuls (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/grave,motif/soul,motif/time,concept/courage,concept/doubt,concept/history,concept/revenge,concept/suicide,form/epigram,form/history"></span>
 
 
 Among these stories there are a certain number which deal

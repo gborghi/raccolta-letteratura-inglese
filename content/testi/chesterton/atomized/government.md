@@ -113,7 +113,7 @@ are to leave anything whatever of the rights of man.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="government (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="government (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/villain,motif/love,motif/marriage,motif/poison,motif/soul,motif/well,concept/democracy,concept/freedom,concept/reform,concept/self,concept/unattainable,form/parable,setting/london,character/jones"></span>
 
 
 [[government|Government]] and the Rights of Man

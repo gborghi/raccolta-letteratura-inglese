@@ -11690,7 +11690,7 @@ Gutenberg, and is not included in this eText.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Hard Times — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Hard Times — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/education"></span>
 
 
 CHAPTER I
@@ -11699,7 +11699,7 @@ _The One Thing Needful_                3
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Hard Times — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Hard Times — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/education"></span>
 
 
 CHAPTER II
@@ -11717,7 +11717,7 @@ _A Loophole_                           8
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Hard Times — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Hard Times — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="character/josiah_bounderby"></span>
 
 
 CHAPTER IV
@@ -11744,7 +11744,7 @@ _Sleary’s Horsemanship_               23
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Hard Times — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Hard Times — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="character/mrs_sparsit"></span>
 
 
 CHAPTER VII
@@ -11753,7 +11753,7 @@ _Mrs. Sparsit_                        33
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Hard Times — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Hard Times — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="concept/wonder"></span>
 
 
 CHAPTER VIII
@@ -11762,7 +11762,7 @@ _Never Wonder_                        38
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Hard Times — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Hard Times — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="character/sissy_jupe"></span>
 
 
 CHAPTER IX
@@ -11771,7 +11771,7 @@ _Sissy’s Progress_                    43
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="Hard Times — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="Hard Times — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="character/stephen_blackpool"></span>
 
 
 CHAPTER X
@@ -11816,7 +11816,7 @@ _The Great Manufacturer_              69
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="Hard Times — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="Hard Times — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="character/thomas_gradgrind,character/louisa_gradgrind"></span>
 
 
 CHAPTER XV
@@ -11825,7 +11825,7 @@ _Father and Daughter_                 73
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Hard Times — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Hard Times — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/marriage,character/louisa_gradgrind"></span>
 
 
 CHAPTER XVI
@@ -11844,7 +11844,7 @@ _Effects in the Bank_                 84
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Hard Times — Chapter 2" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Hard Times — Chapter 2" data-chapter="Chapter 18" data-kind="chapter" data-tags="character/james_harthouse"></span>
 
 
 CHAPTER II
@@ -11853,7 +11853,7 @@ _Mr. James Harthouse_                 94
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Hard Times — Chapter 3" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Hard Times — Chapter 3" data-chapter="Chapter 19" data-kind="chapter" data-tags="character/tom_gradgrind"></span>
 
 
 CHAPTER III
@@ -11862,7 +11862,7 @@ _The Whelp_                          101
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="Hard Times — Chapter 4" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="Hard Times — Chapter 4" data-chapter="Chapter 20" data-kind="chapter" data-tags="concept/class_conflict"></span>
 
 
 CHAPTER IV
@@ -11871,7 +11871,7 @@ _Men and Brothers_                   111
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Hard Times — Chapter 5" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Hard Times — Chapter 5" data-chapter="Chapter 21" data-kind="chapter" data-tags="concept/class_conflict"></span>
 
 
 CHAPTER V
@@ -11889,7 +11889,7 @@ _Fading Away_                        116
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="Hard Times — Chapter 7" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="Hard Times — Chapter 7" data-chapter="Chapter 23" data-kind="chapter" data-tags="character/james_harthouse"></span>
 
 
 CHAPTER VII
@@ -12016,7 +12016,7 @@ _Philosophical_                      216
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="Hard Times — Chapter 9" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="Hard Times — Chapter 9" data-chapter="Chapter 37" data-kind="chapter" data-tags="character/tom_gradgrind"></span>
 
 
 CHAPTER IX
@@ -12033,7 +12033,7 @@ _Stephen Blackpool recovered from the Old Hell Shaft_         206
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="Hard Times — Chapter 1" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="Hard Times — Chapter 1" data-chapter="Chapter 38" data-kind="chapter" data-tags="motif/animals,motif/wind"></span>
 
 
 BOOK THE FIRST
@@ -12076,7 +12076,7 @@ gallons of facts poured into them until they were full to the brim.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/animals,motif/childhood,motif/horse,motif/insects,motif/nature,motif/spring,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,concept/nature,concept/self,character/sissy_jupe,character/thomas_gradgrind"></span>
 
 
 CHAPTER II
@@ -12204,7 +12204,7 @@ Commissioners should reign upon earth.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/horse,motif/time,motif/water,motif/well,concept/hope,form/biography,setting/mountains,character/chorus,character/sissy_jupe,character/thomas_gradgrind"></span>
 
 
 ‘Very [[Well|well]],’ said this gentleman, briskly smiling, and folding his arms.
@@ -12331,7 +12331,7 @@ lurking within—or sometimes only maim him and distort him!
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="Hard Times — Chapter 3" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="Hard Times — Chapter 3" data-chapter="Chapter 40" data-kind="chapter" data-tags="archetype/child,archetype/monster,motif/childhood,motif/desire,motif/fire,motif/flag,motif/garden,motif/grave,motif/home,motif/horse,motif/insects,motif/journey,motif/machine,motif/moon,motif/nature,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/education,concept/imagination,concept/nature,concept/pride,concept/self,concept/wonder,form/novel,setting/castle,character/bottom,character/sissy_jupe,character/thomas_gradgrind"></span>
 
 
 CHAPTER III
@@ -12524,7 +12524,7 @@ Bounderby had been Mrs. Grundy.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/ghost,archetype/self_made_man,motif/clock,motif/fire,motif/night,motif/spring,motif/swallow,motif/time,motif/water,motif/well,concept/education,concept/humility,concept/poverty,concept/pride,setting/london,character/josiah_bounderby"></span>
 
 
 CHAPTER IV
@@ -12644,7 +12644,7 @@ facts of his life.’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/hope,concept/humility,concept/imagination,concept/nature,concept/truth,concept/wonder,character/josiah_bounderby"></span>
 
 
 Being heated when he arrived at this climax, [[Josiah Bounderby]] of Coketown
@@ -12772,7 +12772,7 @@ them when such was the fact!’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/tears,motif/well,motif/window"></span>
 
 
 ‘Now I tell you what, Gradgrind!’ said Mr. Bounderby.  ‘Turn this girl to
@@ -12833,7 +12833,7 @@ wouldn’t cry!’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/river,motif/well,concept/madness,concept/melancholy,form/fable,character/sunday"></span>
 
 
 CHAPTER V
@@ -12935,7 +12935,7 @@ unmanageable.  In short, it was the moral of the old nursery [[Fable|fable]]:
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/self_made_man,motif/dance,motif/home,motif/horse,motif/road,motif/time,motif/well,concept/wonder,character/speed"></span>
 
 
 There was an old woman, and what do you think?
@@ -13072,7 +13072,7 @@ metallic laugh.  ‘Pretty [[Well|well]] this, for a [[Self-Made Man|self-made m
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/quest,motif/crown,motif/horse,motif/leaves,motif/night,motif/stars,motif/time,concept/honour,form/inscription"></span>
 
 
 CHAPTER VI
@@ -13192,7 +13192,7 @@ Bounderby for assistance.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/leaves,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/pride,character/jones"></span>
 
 
 ‘Missed his tip.’
@@ -13334,7 +13334,7 @@ to apprentice young persons to—’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/desire,motif/grave,motif/horse,motif/night,motif/well,concept/doubt,concept/education,concept/hope,character/nurse,character/sissy_jupe"></span>
 
 
 ‘Idleness,’ Mr. Bounderby put in with a loud laugh.  ‘No, by the Lord
@@ -13454,7 +13454,7 @@ and to weep over her.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Hard Times — Chapter 6 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Hard Times — Chapter 6 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/silence,motif/tears,motif/time,motif/well,concept/education,character/thomas_gradgrind"></span>
 
 
 ‘Ith an internal thame, upon my thoul it ith,’ said Sleary.
@@ -13574,7 +13574,7 @@ daughter Josephine’s performance.  He wanted nothing but his whip.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Hard Times — Chapter 6 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Hard Times — Chapter 6 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/horse,motif/nature,motif/silence,motif/tears,motif/well,concept/hope,concept/nature"></span>
 
 
 The basket packed in [[Silence|silence]], they brought her bonnet to her, and
@@ -13643,7 +13643,7 @@ figures and the basket in the darkness of the street.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Hard Times — Chapter 7 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Hard Times — Chapter 7 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/horse,motif/marriage,motif/night,motif/sleep,concept/body,concept/faith,concept/humility,concept/union,setting/castle,setting/court,character/queen,character/tom_gradgrind"></span>
 
 
 CHAPTER VII
@@ -13767,7 +13767,7 @@ the infernal gods.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Hard Times — Chapter 7 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Hard Times — Chapter 7 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/fire,motif/tears,motif/time,motif/well,concept/history,concept/hope,concept/humility,concept/resignation,form/history,setting/london,character/dwarf,character/tom_gradgrind"></span>
 
 
 ‘If you had said I was another father to Tom—young Tom, I mean, not my
@@ -13925,7 +13925,7 @@ evening.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/spring,motif/time,motif/well,concept/body,concept/hope,concept/melancholy,concept/nature,concept/wonder,character/thomas_gradgrind"></span>
 
 
 CHAPTER VIII
@@ -14044,7 +14044,7 @@ unfortunate for both of us.’
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/sleep,motif/time,motif/well,concept/education,concept/hope,concept/imagination,concept/revenge,concept/wonder"></span>
 
 
 ‘Oh!  You,’ said Tom; ‘you are a girl, Loo, and a girl comes out of it
@@ -14174,7 +14174,7 @@ family, and then you would have known what it was to do without me!’
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Hard Times — Chapter 9 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Hard Times — Chapter 9 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/death,motif/night,motif/tears,motif/time,concept/faith,concept/hope,concept/self,character/sissy_jupe"></span>
 
 
 CHAPTER IX
@@ -14314,7 +14314,7 @@ error; ‘I said it was nothing.’
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/courage,concept/hope"></span>
 
 
 ‘Nothing, Sissy?’
@@ -14449,7 +14449,7 @@ don’t, there’s none.’
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/fire,concept/honour,concept/hope"></span>
 
 
 ‘I’ll come directly.’
@@ -14520,7 +14520,7 @@ again.
 
 
 
-<span class="atom-split" data-atom="chapter_47" data-title="Hard Times — Chapter 10" data-chapter="Chapter 47" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_47" data-title="Hard Times — Chapter 10" data-chapter="Chapter 47" data-kind="chapter" data-tags="archetype/shadow,motif/dance,motif/death,motif/home,motif/moon,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/body,concept/mercy,concept/nature,concept/providence,concept/truth,form/fragment,character/stephen_blackpool"></span>
 
 
 CHAPTER X
@@ -14747,7 +14747,7 @@ as if his hands were not enough to hide her, even in the darkness.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/hill,motif/horse,motif/love,motif/nature,motif/noon,motif/soul,motif/well,motif/wind,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/self,character/stephen_blackpool"></span>
 
 
 CHAPTER XI
@@ -14864,7 +14864,7 @@ bad—soon.  Not along of me.  Gonnows I were not a unkind husband to her.’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Hard Times — Chapter 11 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Hard Times — Chapter 11 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/blood,motif/death,motif/home,motif/marriage,motif/night,motif/time,motif/well,concept/fear,concept/suffering,character/stephen_blackpool"></span>
 
 
 ‘I have heard all this before,’ said Mr. Bounderby.  ‘She took to
@@ -15004,7 +15004,7 @@ will be so good—t’ know the law that helps me.’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/well,setting/court"></span>
 
 
 ‘Now, I tell you what!’ said Mr. Bounderby, putting his hands in his
@@ -15074,7 +15074,7 @@ looking quite cast down by the popular vices.
 
 
 
-<span class="atom-split" data-atom="chapter_49" data-title="Hard Times — Chapter 12" data-chapter="Chapter 49" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_49" data-title="Hard Times — Chapter 12" data-chapter="Chapter 49" data-kind="chapter" data-tags="motif/clock,motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/road,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/despair,concept/honour,concept/melancholy,concept/nature,concept/pride,concept/self,character/stephen_blackpool"></span>
 
 
 CHAPTER XII
@@ -15279,7 +15279,7 @@ light turn red—he went [[Home|home]] for shelter.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Hard Times — Chapter 13 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Hard Times — Chapter 13 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/fire,motif/home,motif/night,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/self"></span>
 
 
 CHAPTER XIII
@@ -15417,7 +15417,7 @@ never!’
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Hard Times — Chapter 13 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Hard Times — Chapter 13 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/silence,motif/sleep,motif/time,motif/wind,motif/window,concept/eternity,concept/fear,concept/hope,concept/self"></span>
 
 
 He had a violent fit of trembling, and then sunk into his chair.  After a
@@ -15521,7 +15521,7 @@ real, and her allotted [[Time|time]] be not yet come, wake, Rachael, wake!
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Hard Times — Chapter 13 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Hard Times — Chapter 13 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/poison,motif/road,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/wind,motif/window,concept/hope"></span>
 
 
 She thought of that, too.  She looked at Rachael, and very slowly, very
@@ -15614,7 +15614,7 @@ the rugged fancy of this man, to the common experiences of his life.
 
 
 
-<span class="atom-split" data-atom="chapter_51" data-title="Hard Times — Chapter 14" data-chapter="Chapter 51" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_51" data-title="Hard Times — Chapter 14" data-chapter="Chapter 51" data-kind="chapter" data-tags="motif/fire,motif/home,motif/horse,motif/night,motif/seasons,motif/tears,motif/time,motif/well,concept/fear,concept/hope"></span>
 
 
 CHAPTER XIV
@@ -15837,7 +15837,7 @@ secret place, his work is noiseless, and his Hands are mutes.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Hard Times — Chapter 15 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Hard Times — Chapter 15 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/marriage,motif/night,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/education,concept/hope"></span>
 
 
 CHAPTER XV
@@ -15972,7 +15972,7 @@ but disappears.’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Hard Times — Chapter 15 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Hard Times — Chapter 15 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/dust,motif/fire,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/nature"></span>
 
 
 ‘What do you recommend, father,’ asked Louisa, her reserved composure not
@@ -16107,7 +16107,7 @@ my dear girl.’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Hard Times — Chapter 15 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Hard Times — Chapter 15 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/noon,motif/time,motif/well,concept/doubt,concept/hope,concept/wonder"></span>
 
 
 So, his daughter kissed him.  Detaining her in his embrace, he said, ‘I
@@ -16170,7 +16170,7 @@ and cold—held Sissy at a distance—changed to her altogether.
 
 
 
-<span class="atom-split" data-atom="chapter_53" data-title="Hard Times — Chapter 16" data-chapter="Chapter 53" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_53" data-title="Hard Times — Chapter 16" data-chapter="Chapter 53" data-kind="chapter" data-tags="motif/desire,motif/home,motif/journey,motif/love,motif/marriage,motif/mirror,motif/nature,motif/rose,motif/seasons,motif/time,motif/well,concept/honour,concept/hope,concept/melancholy,concept/nature,character/josiah_bounderby,character/thomas_gradgrind,character/tom_gradgrind"></span>
 
 
 CHAPTER XVI
@@ -16393,7 +16393,7 @@ END OF THE FIRST BOOK
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/death,motif/desert,motif/frost,motif/home,motif/insects,motif/night,motif/river,motif/road,motif/rose,motif/summer,motif/water,motif/wind,motif/window,concept/melancholy,concept/self,concept/wonder,setting/desert"></span>
 
 
 BOOK THE SECOND
@@ -16503,7 +16503,7 @@ her as the Bank Dragon keeping watch over the treasures of the mine.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Hard Times — Chapter 1 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Hard Times — Chapter 1 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/horse,motif/night,motif/secrets,motif/time,motif/well,motif/window"></span>
 
 
 What those treasures were, Mrs. Sparsit knew as little as they did.  Gold
@@ -16628,7 +16628,7 @@ part of man’s duty, but the whole.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Hard Times — Chapter 1 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Hard Times — Chapter 1 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/melancholy,concept/wonder,setting/court"></span>
 
 
 ‘Pretty fair, ma’am.  With the usual exception, ma’am,’ repeated Bitzer.
@@ -16770,7 +16770,7 @@ Bitzer.’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Hard Times — Chapter 1 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Hard Times — Chapter 1 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/city,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/eternity,concept/faith,concept/honour,concept/indolence,setting/london,character/lucifer"></span>
 
 
 Here the visitor, all unconscious of Mrs. Sparsit’s magnanimous words,
@@ -16901,7 +16901,7 @@ that—[[Honour|honour]].’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Hard Times — Chapter 1 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Hard Times — Chapter 1 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/night,motif/soul,motif/time,motif/window,concept/honour"></span>
 
 
 ‘Indeed, sir,’ said Mrs. Sparsit.  ‘_Is_ she?’
@@ -16974,7 +16974,7 @@ sweetbread.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/window,concept/doubt,concept/sublime,concept/wonder,character/james_harthouse,character/josiah_bounderby,character/thomas_gradgrind,character/tom_gradgrind"></span>
 
 
 CHAPTER II
@@ -17091,7 +17091,7 @@ of dirty riff-raff, and a genuine scrap of tag, rag, and bobtail.’
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/well,concept/honour,concept/hope,concept/humility,concept/self,concept/truth,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
 
 
 If anything could have exalted Jem’s interest in Mr. Bounderby, it would
@@ -17205,7 +17205,7 @@ with a charming Italian motto.  What will be, will be.  It’s the only
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Hard Times — Chapter 2 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Hard Times — Chapter 2 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/love,motif/night,motif/rose,motif/silence,motif/water,motif/well,concept/solitude,character/james_harthouse"></span>
 
 
 This vicious assumption of honesty in dishonesty—a vice so dangerous, so
@@ -17307,7 +17307,7 @@ out with him to escort him thither.
 
 
 
-<span class="atom-split" data-atom="chapter_56" data-title="Hard Times — Chapter 3" data-chapter="Chapter 56" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_56" data-title="Hard Times — Chapter 3" data-chapter="Chapter 56" data-kind="chapter" data-tags="archetype/ghost,archetype/lover,archetype/monster,motif/fire,motif/home,motif/night,motif/river,motif/road,motif/soul,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/imagination,character/james_harthouse"></span>
 
 
 CHAPTER III
@@ -17529,7 +17529,7 @@ waters.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/fire,motif/flag,motif/nature,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/freedom,concept/honour,concept/hope,concept/nature,concept/wonder"></span>
 
 
 CHAPTER IV
@@ -17639,7 +17639,7 @@ and Castlereagh existed, and this man exists!’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/nature,motif/road,motif/time,concept/doubt,concept/hope,concept/nature,concept/truth,character/stephen_blackpool"></span>
 
 
 Here, a brief press and confusion near the stage, ended in the man
@@ -17759,7 +17759,7 @@ nothing, Old Stephen, with all his troubles on his head, left the scene.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/window,concept/conscience,concept/endurance,concept/solitude,setting/castle,character/brutus,character/stephen_blackpool"></span>
 
 
 Then Slackbridge, who had kept his oratorical arm extended during the
@@ -17839,7 +17839,7 @@ Bounderby.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/death,motif/soul,motif/time,motif/well,motif/wind,concept/self,concept/truth,setting/london,character/josiah_bounderby,character/stephen_blackpool"></span>
 
 
 CHAPTER V
@@ -17975,7 +17975,7 @@ wi’ us.’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/desire,motif/ship,motif/time,motif/well,concept/hope,concept/union,setting/london,setting/ship,character/james_harthouse"></span>
 
 
 ‘Now, my friend,’ said Mr. Bounderby, whom he could not have exasperated
@@ -18129,7 +18129,7 @@ us aw in this world!’ he departed.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/noon,motif/rose,motif/time,motif/well,motif/window,concept/endurance,concept/self,concept/truth"></span>
 
 
 CHAPTER VI
@@ -18250,7 +18250,7 @@ and the grayer hair upon his head.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/insects,motif/pain,motif/rose,motif/time,motif/water,motif/well"></span>
 
 
 He lighted a candle, set out his little tea-board, got hot [[Water|water]] from
@@ -18380,7 +18380,7 @@ probably be rejected by all?  I thought he said as much?’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/tears,motif/well,concept/honour,concept/self"></span>
 
 
 ‘The chances are very small, young lady—next to nothing—for a man who
@@ -18519,7 +18519,7 @@ you?  You understand all about it?  Very [[Well|well]] then.  Come along, Loo!�
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Hard Times — Chapter 6 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Hard Times — Chapter 6 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/dust,motif/hill,motif/night,motif/road,motif/rose,motif/silence,motif/summer,motif/time,motif/well,motif/window,character/bottom,character/stephen_blackpool"></span>
 
 
 He pushed the door open as he called to her, but did not return into the
@@ -18659,7 +18659,7 @@ arched over him, whispering that he left a true and loving heart behind.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="Hard Times — Chapter 7 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="Hard Times — Chapter 7 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/garden,motif/leaves,motif/memory,motif/nature,motif/night,motif/soul,motif/spring,motif/summer,motif/time,concept/aspiration,concept/faith,concept/humility,concept/nature,concept/self,concept/self_reliance,concept/truth,character/james_harthouse,character/josiah_bounderby,character/thomas_gradgrind,character/tom_gradgrind"></span>
 
 
 CHAPTER VII
@@ -18766,7 +18766,7 @@ they were empty for a farthing a-piece, and glad to get it!’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="Hard Times — Chapter 7 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="Hard Times — Chapter 7 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/leaves,motif/nature,motif/summer,motif/time,concept/doubt,concept/nature,concept/self,character/josiah_bounderby"></span>
 
 
 Then he would address Mr. Harthouse in the same style.
@@ -18901,7 +18901,7 @@ fainter voice, ‘I do not think that likely, either.’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="Hard Times — Chapter 7 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="Hard Times — Chapter 7 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/rose,motif/secrets,motif/silence,motif/tears,motif/time,motif/well,concept/conscience,concept/doubt,concept/faith,concept/honour,concept/hope,concept/self,character/james_harthouse"></span>
 
 
 ‘Mrs. Bounderby,’ said Harthouse, after a short [[Silence|silence]], ‘may there be a
@@ -19013,7 +19013,7 @@ pastime, and his colour changed.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_04" data-title="Hard Times — Chapter 7 (part 4)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_04" data-title="Hard Times — Chapter 7 (part 4)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/cross,motif/garden,motif/nature,motif/rose,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/body,concept/fear,concept/humility,concept/nature,concept/wonder,character/james_harthouse,character/thomas_gradgrind,character/tom_gradgrind"></span>
 
 
 ‘Halloa!’ he stammered; ‘I didn’t know you were here.’
@@ -19196,7 +19196,7 @@ knowledge of her pretty face.  ‘So much the less, so much the less.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/fire,motif/horse,motif/lion,motif/night,motif/road,motif/rose,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/honour,concept/hope,character/james_harthouse,character/tom_gradgrind"></span>
 
 
 CHAPTER VIII
@@ -19336,7 +19336,7 @@ there was a hundred and fifty odd pound.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/crown,motif/nature,motif/night,motif/time,motif/well,motif/wheel,motif/winter,concept/hope,concept/nature,concept/pride,concept/truth,character/josiah_bounderby"></span>
 
 
 ‘A hundred and fifty-four, seven, one,’ said Bitzer.
@@ -19463,7 +19463,7 @@ his tambourine on his head.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Hard Times — Chapter 8 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Hard Times — Chapter 8 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/night,motif/time,concept/honour,concept/renunciation,character/james_harthouse"></span>
 
 
 ‘Suspicious,’ said [[James Harthouse]], ‘certainly.’
@@ -19566,7 +19566,7 @@ condescend.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_04" data-title="Hard Times — Chapter 8 (part 4)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_04" data-title="Hard Times — Chapter 8 (part 4)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/dust,motif/fire,motif/garden,motif/home,motif/love,motif/night,motif/silence,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/melancholy,concept/truth,concept/wonder"></span>
 
 
 They played near a [[Window|window]], opening on the [[Garden|garden]].  It was a fine [[Night|night]]:
@@ -19739,7 +19739,7 @@ spurning all the good in the world.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Hard Times — Chapter 9 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Hard Times — Chapter 9 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/garden,motif/memory,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/honour,concept/nature"></span>
 
 
 CHAPTER IX
@@ -19857,7 +19857,7 @@ believe.’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Hard Times — Chapter 9 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/childhood,motif/death,motif/dreams,motif/dust,motif/garden,motif/home,motif/marriage,motif/night,motif/spring,motif/time,motif/well,concept/alienation,concept/charity,concept/history,concept/self,concept/suffering,form/history,setting/london,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
 
 
 ‘Don’t say that, sir,’ returned Mrs. Sparsit, almost with severity,
@@ -19969,7 +19969,7 @@ the land where grapes are gathered from thorns, and figs from thistles.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="Hard Times — Chapter 9 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/home,motif/night,motif/pain,motif/time,motif/water,motif/well,concept/hope,concept/truth,character/bottom"></span>
 
 
 She went, with a heavy, hardened kind of sorrow upon her, into the [[house]]
@@ -20089,7 +20089,7 @@ patriarchs.
 
 
 
-<span class="atom-split" data-atom="chapter_63" data-title="Hard Times — Chapter 10" data-chapter="Chapter 63" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_63" data-title="Hard Times — Chapter 10" data-chapter="Chapter 63" data-kind="chapter" data-tags="motif/cross,motif/death,motif/garden,motif/nature,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/greatness,concept/melancholy,concept/nature,concept/solitude,character/bottom,character/james_harthouse,character/josiah_bounderby,character/nurse"></span>
 
 
 CHAPTER X
@@ -20274,7 +20274,7 @@ the figure coming down.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Hard Times — Chapter 11 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/journey,motif/lamb,motif/nature,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/nature,concept/self,concept/wonder,setting/london,character/bottom,character/james_harthouse,character/sunday"></span>
 
 
 CHAPTER XI
@@ -20410,7 +20410,7 @@ when he said, ‘[[Well]], Mrs. Sparsit, I must be off!’ and went off.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Hard Times — Chapter 11 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Hard Times — Chapter 11 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/cross,motif/dust,motif/garden,motif/home,motif/horse,motif/journey,motif/leaves,motif/love,motif/road,motif/spring,motif/summer,motif/time,motif/window,concept/body,character/bottom"></span>
 
 
 Next day, Saturday, Mrs. Sparsit sat at her [[Window|window]] all day long looking
@@ -20533,7 +20533,7 @@ that its master is at [[Home|home]] and will be charmed to receive me?’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Hard Times — Chapter 11 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/shadow,motif/desert,motif/fire,motif/horse,motif/leaves,motif/lightning,motif/love,motif/night,motif/road,motif/tears,motif/water,motif/well,concept/body,concept/fear,concept/renunciation,setting/desert"></span>
 
 
 ‘No!’
@@ -20645,7 +20645,7 @@ bitterness and say, ‘I have lost her!’
 
 
 
-<span class="atom-split" data-atom="chapter_65" data-title="Hard Times — Chapter 12" data-chapter="Chapter 65" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_65" data-title="Hard Times — Chapter 12" data-chapter="Chapter 65" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/lover,motif/clock,motif/death,motif/fire,motif/frost,motif/garden,motif/home,motif/lightning,motif/love,motif/marriage,motif/night,motif/pain,motif/rose,motif/secrets,motif/soul,motif/spring,motif/storm,motif/summer,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/pride"></span>
 
 
 CHAPTER XII
@@ -20845,7 +20845,7 @@ END OF THE SECOND BOOK
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_01" data-title="Hard Times — Chapter 1 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/home,motif/nature,motif/night,motif/pain,motif/silence,motif/tears,motif/time,motif/well,concept/nature,concept/suffering"></span>
 
 
 BOOK THE THIRD
@@ -20979,7 +20979,7 @@ in [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_02" data-title="Hard Times — Chapter 1 (part 2)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_02" data-title="Hard Times — Chapter 1 (part 2)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/rose,motif/tears,motif/water,motif/well,concept/honour,concept/hope"></span>
 
 
 ‘Some persons hold,’ he pursued, still hesitating, ‘that there is a
@@ -21121,7 +21121,7 @@ me lay this head of mine upon a loving heart!’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_01" data-title="Hard Times — Chapter 2 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/dawn,motif/home,motif/horse,motif/nature,motif/night,motif/sleep,motif/storm,motif/time,motif/well,motif/window,concept/courage,concept/nature,character/james_harthouse"></span>
 
 
 CHAPTER II
@@ -21242,7 +21242,7 @@ bristling indignation, what the Devil he meant by ‘wanted’?
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_02" data-title="Hard Times — Chapter 2 (part 2)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/birds,motif/blood,motif/home,motif/love,motif/machine,motif/marriage,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/doubt,concept/exile,concept/honour,concept/hope,concept/nature,character/james_harthouse"></span>
 
 
 ‘Beg your pardon, sir.  Young lady outside, sir, wishes to see you.’
@@ -21378,7 +21378,7 @@ several volumes.’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_03" data-title="Hard Times — Chapter 2 (part 3)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_03" data-title="Hard Times — Chapter 2 (part 3)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/soul,concept/doubt,concept/faith,concept/self,concept/truth,character/james_harthouse,character/sissy_jupe"></span>
 
 
 Though he said all this in his frivolous way, the way seemed, for that
@@ -21533,7 +21533,7 @@ made him ashamed of himself.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_01" data-title="Hard Times — Chapter 3 (part 1)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_01" data-title="Hard Times — Chapter 3 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/suffering,character/james_harthouse,character/josiah_bounderby,character/tom_gradgrind"></span>
 
 
 CHAPTER III
@@ -21660,7 +21660,7 @@ this candid remark, you had better let it [[Alone|alone]].’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_02" data-title="Hard Times — Chapter 3 (part 2)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_02" data-title="Hard Times — Chapter 3 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/fear,concept/honour,concept/hope,concept/humility,concept/nature,character/josiah_bounderby,character/tom_gradgrind"></span>
 
 
 Mr. Gradgrind, it will be observed, being much softened, Mr. Bounderby
@@ -21786,7 +21786,7 @@ speaking, I [[Hope|hope]].’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_03" data-title="Hard Times — Chapter 3 (part 3)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_03" data-title="Hard Times — Chapter 3 (part 3)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/noon,motif/well,concept/fear,concept/hope,concept/truth,concept/wonder,character/josiah_bounderby,character/stephen_blackpool,character/tom_gradgrind"></span>
 
 
 ‘Bounderby,’ urged Mr. Gradgrind, ‘this is unreasonable.’
@@ -21895,7 +21895,7 @@ retreat for sale by private contract; and resumed a bachelor life.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_01" data-title="Hard Times — Chapter 4 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/self_made_man,motif/bells,motif/dust,motif/fire,motif/garden,motif/night,concept/courage,concept/self,concept/union,concept/wonder,character/stephen_blackpool,character/venus"></span>
 
 
 CHAPTER IV
@@ -22001,7 +22001,7 @@ panting at them.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_02" data-title="Hard Times — Chapter 4 (part 2)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/night,motif/tears,motif/well,concept/hope,concept/pride,concept/truth,character/stephen_blackpool,character/tom_gradgrind"></span>
 
 
 These men and women were yet in the streets, passing quietly to their
@@ -22148,7 +22148,7 @@ never wrote any.’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_03" data-title="Hard Times — Chapter 4 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="topos/quest,archetype/innocent,archetype/shadow,motif/home,motif/night,motif/road,motif/soul,motif/tears,motif/time,concept/courage,concept/doubt,concept/faith,concept/fear,concept/hope,concept/mercy,character/stephen_blackpool"></span>
 
 
 ‘He hadn’t been gone from here, young lady,’ said Rachael, turning
@@ -22290,7 +22290,7 @@ in the daytime, came back instead, and abided by him until morning.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_01" data-title="Hard Times — Chapter 5 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/journey,motif/night,motif/road,motif/time,motif/window,concept/doubt,concept/hope,concept/melancholy,concept/wonder,character/stephen_blackpool,character/sunday"></span>
 
 
 CHAPTER V
@@ -22422,7 +22422,7 @@ them at the same moment, called to them to stop.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_02" data-title="Hard Times — Chapter 5 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/time,concept/body,concept/providence,concept/self,concept/temptation"></span>
 
 
 ‘It’s a coincidence,’ exclaimed Mrs. Sparsit, as she was released by the
@@ -22546,7 +22546,7 @@ was born.  May you repent of it, sir, and live to know better!’
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_03" data-title="Hard Times — Chapter 5 (part 3)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_03" data-title="Hard Times — Chapter 5 (part 3)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/night,motif/well,concept/fear,concept/humility,concept/pride,concept/self,concept/truth,character/josiah_bounderby,character/stephen_blackpool,character/tom_gradgrind"></span>
 
 
 She was so very earnest and injured, that Mr. Gradgrind, shocked by the
@@ -22654,7 +22654,7 @@ the man, and why did he not come back?
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_01" data-title="Hard Times — Chapter 6 (part 1)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/autumn,motif/blood,motif/love,motif/rose,motif/summer,motif/tears,motif/time,motif/wheel,concept/despair,concept/solitude,form/fragment,character/bottom,character/stephen_blackpool,character/sunday"></span>
 
 
 CHAPTER VI
@@ -22779,7 +22779,7 @@ ran as she had never run before.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_02" data-title="Hard Times — Chapter 6 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/grave,motif/horse,motif/insects,motif/leaves,motif/machine,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/wind,character/bottom,character/sunday"></span>
 
 
 Run, Sissy, run, in Heaven’s name!  Don’t stop for breath.  Run, run!
@@ -22889,7 +22889,7 @@ dark now, and torches were kindled.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_03" data-title="Hard Times — Chapter 6 (part 3)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/innocent,motif/chains,motif/home,motif/journey,motif/night,motif/pain,motif/prayer,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/forgiveness,concept/hope,concept/humility,concept/truth,character/christ,character/stephen_blackpool"></span>
 
 
 It appeared from the little this man said to those about him, which was
@@ -23062,7 +23062,7 @@ Redeemer’s rest.
 
 
 
-<span class="atom-split" data-atom="chapter_72" data-title="Hard Times — Chapter 7" data-chapter="Chapter 72" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_72" data-title="Hard Times — Chapter 7" data-chapter="Chapter 72" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/home,motif/journey,motif/memory,motif/night,motif/time,concept/beauty,concept/courage,concept/faith,concept/fear,concept/truth,character/stephen_blackpool"></span>
 
 
 CHAPTER VII
@@ -23188,7 +23188,7 @@ Bounderby himself, in a bullying vein of public zeal, might play a Roman
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_01" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 1)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_01" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 1)" data-chapter="it was consented that Sissy an" data-kind="excerpt" data-tags="motif/clock,motif/flag,motif/horse,motif/love,motif/night,motif/noon,motif/road,motif/time,motif/water,motif/well,concept/self,concept/wonder,form/allegory,form/inscription"></span>
 
 
 part—it was consented that Sissy and Louisa should repair to the place in
@@ -23309,7 +23309,7 @@ Overtheer and makin’ a fortun.’
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_02" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 2)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_02" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 2)" data-chapter="it was consented that Sissy an" data-kind="excerpt" data-tags="motif/love,motif/night,motif/ship,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/wonder,histref/america,setting/america,setting/ship"></span>
 
 
 These various changes, Mr. Sleary, very short of breath now, related with
@@ -23433,7 +23433,7 @@ but I didn’t.  Now you know all about it.’
 
 
 
-<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_03" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 3)" data-chapter="it was consented that Sissy an" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73_it_was_consented_that_sissy_an--part_03" data-title="Hard Times — Part 73: it was consented that Sissy and Louisa should repair to the place in (part 3)" data-chapter="it was consented that Sissy an" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/night,motif/tears,motif/time"></span>
 
 
 ‘If a thunderbolt had fallen on me,’ said the father, ‘it would have
@@ -23534,7 +23534,7 @@ By the collar, too, it seemed.  For, so he took possession of him.
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_01" data-title="Hard Times — Chapter 8 (part 1)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/time,motif/well,concept/doubt,concept/self,concept/wonder"></span>
 
 
 CHAPTER VIII
@@ -23660,7 +23660,7 @@ As he locked the door, he said excitedly:
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_02" data-title="Hard Times — Chapter 8 (part 2)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/night,motif/time,motif/water,motif/well,motif/wheel,motif/window,concept/honour,concept/hope"></span>
 
 
 ‘The Thquire thtood by you, Thethilia, and I’ll thtand by the Thquire.
@@ -23803,7 +23803,7 @@ door again to say it, ‘that I wath tho muth of a Cackler!’
 
 
 
-<span class="atom-split" data-atom="chapter_75" data-title="Hard Times — Chapter 9" data-chapter="Chapter 75" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_75" data-title="Hard Times — Chapter 9" data-chapter="Chapter 75" data-kind="chapter" data-tags="archetype/innocent,motif/childhood,motif/death,motif/fire,motif/home,motif/love,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/charity,concept/education,concept/faith,concept/guilt,concept/hope,concept/melancholy,concept/temptation,character/josiah_bounderby,character/stephen_blackpool"></span>
 
 
 CHAPTER IX

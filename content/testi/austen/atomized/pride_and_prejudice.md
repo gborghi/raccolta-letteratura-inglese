@@ -14547,7 +14547,7 @@ TOOKS [[Court|COURT]], CHANCERY LANE, [[London|LONDON]].
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Pride and Prejudice — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Pride and Prejudice — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/desire,motif/love,motif/well,concept/beauty,concept/hope,concept/truth"></span>
 
 
 Chapter I.]
@@ -14687,7 +14687,7 @@ daughters married: its solace was visiting and news.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Pride and Prejudice — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Pride and Prejudice — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/dance,motif/horse,motif/love,motif/time,motif/well,concept/honour,concept/hope"></span>
 
 
 CHAPTER II.
@@ -14811,7 +14811,7 @@ dinner.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Pride and Prejudice — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Pride and Prejudice — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/king,motif/crown,motif/dance,motif/horse,motif/love,motif/time,motif/well,motif/window,concept/beauty,concept/fear,concept/honour,setting/london,character/elizabeth_bennet,character/maria"></span>
 
 
 CHAPTER III.
@@ -15005,7 +15005,7 @@ dear, to have given him one of your set-downs. I quite detest the man.”
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Pride and Prejudice — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Pride and Prejudice — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/dance,motif/home,motif/silence,motif/time,motif/well,concept/beauty,concept/friendship,concept/wonder"></span>
 
 
 CHAPTER IV.
@@ -15130,7 +15130,7 @@ commendation to think of her as he chose.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Pride and Prejudice — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Pride and Prejudice — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/king,motif/dance,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,concept/pride,concept/self,concept/vanity,concept/wonder"></span>
 
 
 CHAPTER V.
@@ -15260,7 +15260,7 @@ would; and the argument ended only with the visit.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Pride and Prejudice — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Pride and Prejudice — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/love,motif/marriage,motif/nature,motif/well,concept/nature,concept/vanity"></span>
 
 
 CHAPTER VI.
@@ -15376,7 +15376,7 @@ assembled.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Pride and Prejudice — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Pride and Prejudice — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/love,motif/well,concept/beauty,concept/doubt,concept/honour,concept/imagination,concept/self,concept/vanity,concept/wonder,setting/london,character/elizabeth_bennet"></span>
 
 
 “What does Mr. Darcy mean,” said she to Charlotte, “by listening to my
@@ -15552,7 +15552,7 @@ that all was safe, her wit flowed along.
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Pride and Prejudice — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Pride and Prejudice — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/clock,motif/home,motif/love,motif/night,motif/time,motif/well,motif/winter,concept/doubt,concept/fear,concept/hope,concept/wonder,setting/london,character/jones"></span>
 
 
 CHAPTER VII.
@@ -15811,7 +15811,7 @@ back a supply of clothes.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Pride and Prejudice — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Pride and Prejudice — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/clock,motif/spring,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/pride,concept/truth,concept/wonder,character/elizabeth_bennet,character/jane_bennet,character/jones"></span>
 
 
 CHAPTER VIII.
@@ -16074,7 +16074,7 @@ M^{rs} Bennet and her two youngest girls
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Pride and Prejudice — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Pride and Prejudice — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,concept/self,concept/wonder,form/sonnet,setting/london,character/charlotte_lucas,character/jones"></span>
 
 
 CHAPTER IX.
@@ -16279,7 +16279,7 @@ all Miss Bingley’s witticisms on _fine eyes_.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Pride and Prejudice — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Pride and Prejudice — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/horse,motif/leaves,motif/night,motif/time,motif/well,concept/friendship,concept/honour,concept/humility"></span>
 
 
 CHAPTER X.
@@ -16435,7 +16435,7 @@ with the [[Desire|desire]], without waiting to be argued into it?”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Pride and Prejudice — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Pride and Prejudice — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/fire,motif/home,motif/marriage,motif/pain,motif/silence,motif/well,concept/hope,character/sunday"></span>
 
 
 “Will it not be advisable, before we proceed on this subject, to arrange
@@ -16585,7 +16585,7 @@ as to intend leaving her room for a couple of hours that evening.
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Pride and Prejudice — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Pride and Prejudice — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="topos/quest,motif/dance,motif/desire,motif/fire,motif/love,motif/silence,motif/sleep,motif/well,concept/education,concept/honour,concept/hope,concept/pride,concept/vanity"></span>
 
 
 CHAPTER XI.
@@ -16782,7 +16782,7 @@ it. He began to feel the danger of paying Elizabeth too much attention.
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="Pride and Prejudice — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="Pride and Prejudice — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/home,motif/nature,motif/time,motif/well,concept/hope,concept/jealousy,concept/nature,character/sunday"></span>
 
 
 CHAPTER XII.
@@ -16863,7 +16863,7 @@ had actually been hinted that Colonel Forster was going to be married.
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="Pride and Prejudice — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="Pride and Prejudice — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/clock,motif/grave,motif/hill,motif/home,motif/love,motif/marriage,motif/memory,motif/nature,motif/time,motif/well,concept/beauty,concept/doubt,concept/guilt,concept/hope,concept/nature,concept/self,concept/truth,character/charlotte_lucas,character/kent,character/lady_catherine_de_bourgh,character/sunday"></span>
 
 
 CHAPTER XIII
@@ -17058,7 +17058,7 @@ quarter of an hour.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Pride and Prejudice — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Pride and Prejudice — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/garden,motif/time,concept/beauty,concept/education,concept/honour,setting/court,character/richard"></span>
 
 
 CHAPTER XIV
@@ -17197,7 +17197,7 @@ for backgammon.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="Pride and Prejudice — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="Pride and Prejudice — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="topos/quest,motif/fire,motif/garden,motif/home,motif/nature,motif/time,motif/well,motif/window,concept/beauty,concept/education,concept/humility,concept/nature,concept/pride,concept/reconciliation,concept/self,setting/london,character/jones"></span>
 
 
 CHAPTER XV.
@@ -17372,7 +17372,7 @@ much attention in the whole course of his life.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Pride and Prejudice — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Pride and Prejudice — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/night,motif/summer,motif/well,concept/history,concept/hope,concept/pride,form/history"></span>
 
 
 CHAPTER XVI.
@@ -17495,7 +17495,7 @@ him more favourably spoken of by anyone.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Pride and Prejudice — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Pride and Prejudice — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/memory,motif/pain,motif/soul,motif/time,concept/doubt,concept/honour,concept/hope,concept/jealousy,concept/revenge,concept/solitude,concept/wonder"></span>
 
 
 “I cannot pretend to be sorry,” said Wickham, after a short
@@ -17630,7 +17630,7 @@ to be as much a debt of gratitude to _him_ as of affection to myself.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Pride and Prejudice — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Pride and Prejudice — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/pain,motif/time,motif/well,concept/education,concept/friendship,concept/pride,concept/self,concept/wonder,setting/london,character/lady_anne,character/lady_catherine_de_bourgh"></span>
 
 
 “How strange!” cried Elizabeth. “How abominable! I [[Wonder|wonder]] that the very
@@ -17769,7 +17769,7 @@ before the carriage stopped at Longbourn [[house|House]].
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Pride and Prejudice — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Pride and Prejudice — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/dance,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/history,concept/hope,concept/nature,concept/truth,form/history,character/lady_catherine_de_bourgh,character/sunday"></span>
 
 
 CHAPTER XVII.
@@ -17912,7 +17912,7 @@ endurable to Kitty and Lydia.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Pride and Prejudice — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Pride and Prejudice — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/time,motif/well,concept/doubt,concept/temptation,character/charlotte_lucas"></span>
 
 
 CHAPTER XVIII.
@@ -18034,7 +18034,7 @@ been forming a new acquaintance.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Pride and Prejudice — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Pride and Prejudice — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/well,concept/doubt,concept/fear,concept/friendship,concept/guilt,concept/hope,concept/wonder,form/sketch"></span>
 
 
 The effect was immediate. A deeper shade of _hauteur_ overspread his
@@ -18171,7 +18171,7 @@ assure you, he informed me himself.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Pride and Prejudice — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Pride and Prejudice — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,motif/well,concept/conscience,concept/doubt,concept/education,concept/freedom,concept/history,concept/honour,concept/hope,concept/humility,concept/wonder,form/history,character/lady_catherine_de_bourgh"></span>
 
 
 “I beg your pardon,” replied Miss Bingley, turning away with a sneer.
@@ -18288,7 +18288,7 @@ Collins then returned to Elizabeth.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Pride and Prejudice — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Pride and Prejudice — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/grave,motif/home,motif/marriage,motif/night,motif/time,motif/well,concept/hope,concept/self"></span>
 
 
 “I have no reason, I assure you,” said he, “to be dissatisfied with my
@@ -18409,7 +18409,7 @@ Lucas, that he was a remarkably clever, good kind of young man.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="Pride and Prejudice — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="Pride and Prejudice — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/time,concept/hope,setting/london"></span>
 
 
 To Elizabeth it appeared, that had her family made an agreement to
@@ -18490,7 +18490,7 @@ was eclipsed by Mr. Bingley and Netherfield.
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Pride and Prejudice — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Pride and Prejudice — Chapter 19" data-chapter="Chapter 19" data-kind="chapter" data-tags="motif/death,motif/desire,motif/love,motif/marriage,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/self,concept/self_deception,concept/truth,character/lady_catherine_de_bourgh"></span>
 
 
 CHAPTER XIX.
@@ -18692,7 +18692,7 @@ not be mistaken for the affectation and coquetry of an elegant female.
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="Pride and Prejudice — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="Pride and Prejudice — Chapter 20" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/child,motif/love,motif/marriage,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/melancholy,concept/pride,concept/resignation,concept/solitude,character/charlotte_lucas"></span>
 
 
 CHAPTER XX.
@@ -18892,7 +18892,7 @@ has been at all reprehensible, I here beg leave to apologize.”
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Pride and Prejudice — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Pride and Prejudice — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="topos/double,motif/love,motif/marriage,motif/nature,motif/pain,motif/silence,motif/time,motif/well,motif/winter,concept/beauty,concept/despair,concept/doubt,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/london"></span>
 
 
 CHAPTER XXI.
@@ -19114,7 +19114,7 @@ care to have two full courses.
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="Pride and Prejudice — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="Pride and Prejudice — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="motif/desire,motif/fire,motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/friendship,concept/hope,concept/longing,concept/nature,concept/self,concept/wonder,character/elizabeth_bennet"></span>
 
 
 CHAPTER XXII.
@@ -19311,7 +19311,7 @@ she had chosen.
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="Pride and Prejudice — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="Pride and Prejudice — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/lover,motif/desire,motif/love,motif/marriage,motif/time,motif/well,motif/winter,concept/conscience,concept/fear,concept/hope,concept/self,concept/truth,setting/london,character/charlotte_lucas"></span>
 
 
 CHAPTER XXIII.
@@ -19501,7 +19501,7 @@ Why should _he_ have it more than anybody else?”
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Pride and Prejudice — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Pride and Prejudice — Chapter 24" data-chapter="Chapter 24" data-kind="chapter" data-tags="motif/love,motif/marriage,motif/memory,motif/pain,motif/summer,motif/time,motif/well,motif/winter,concept/courage,concept/doubt,concept/fear,concept/hope,concept/pride,concept/vanity,concept/wonder,setting/london,character/charlotte_lucas"></span>
 
 
 CHAPTER XXIV.
@@ -19716,7 +19716,7 @@ Mr. Darcy was condemned as the worst of men.
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="Pride and Prejudice — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="Pride and Prejudice — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="motif/dance,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/education,concept/hope,concept/nature,setting/london"></span>
 
 
 CHAPTER XXV.
@@ -19896,7 +19896,7 @@ ill-natured boy.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Pride and Prejudice — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Pride and Prejudice — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/rose,motif/time,motif/well,concept/honour,concept/hope,setting/london,character/kent,character/maria"></span>
 
 
 CHAPTER XXVI.
@@ -20018,7 +20018,7 @@ would be in her power to say something of the Bingleys.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Pride and Prejudice — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Pride and Prejudice — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/love,motif/pain,motif/time,motif/well,concept/vanity,concept/wonder,setting/london,character/maria"></span>
 
 
 Her impatience for this second letter was as [[Well|well]] rewarded as impatience
@@ -20149,7 +20149,7 @@ plain.”
 
 
 
-<span class="atom-split" data-atom="chapter_27" data-title="Pride and Prejudice — Chapter 27" data-chapter="Chapter 27" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27" data-title="Pride and Prejudice — Chapter 27" data-chapter="Chapter 27" data-kind="chapter" data-tags="archetype/king,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/night,motif/noon,motif/pain,motif/summer,motif/time,motif/well,motif/window,concept/hope,form/sketch,setting/london,setting/mountains,character/lady_catherine_de_bourgh,character/maria"></span>
 
 
 CHAPTER XXVII.
@@ -20304,7 +20304,7 @@ insupportable than those of the generality of travellers.”
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Pride and Prejudice — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Pride and Prejudice — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="topos/quest,motif/cross,motif/frost,motif/garden,motif/home,motif/journey,motif/marriage,motif/road,motif/time,motif/well,motif/wind,concept/beauty,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/imagination,concept/solitude,concept/wonder,setting/london,character/maria,character/sunday"></span>
 
 
 CHAPTER XXVIII.
@@ -20477,7 +20477,7 @@ to dine at Rosings the next day.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Pride and Prejudice — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Pride and Prejudice — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/desire,motif/silence,motif/summer,concept/beauty,concept/courage,concept/self,setting/court,character/bottom,character/maria,character/sunday"></span>
 
 
 CHAPTER XXIX.
@@ -20606,7 +20606,7 @@ and the gentlemen did nothing but eat and admire.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Pride and Prejudice — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Pride and Prejudice — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/memory,motif/spring,motif/time,motif/well,concept/doubt,concept/education,concept/honour,setting/london,character/maria"></span>
 
 
 When the ladies returned to the drawing-room, there was little to be
@@ -20759,7 +20759,7 @@ praise into his own hands.
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="Pride and Prejudice — Chapter 30" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="Pride and Prejudice — Chapter 30" data-chapter="Chapter 30" data-kind="chapter" data-tags="motif/garden,motif/home,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/honour"></span>
 
 
 CHAPTER XXX.
@@ -20908,7 +20908,7 @@ away.
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="Pride and Prejudice — Chapter 31" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="Pride and Prejudice — Chapter 31" data-chapter="Chapter 31" data-kind="chapter" data-tags="motif/home,motif/love,motif/pain,motif/time,motif/well,concept/courage,concept/education,concept/honour,setting/london,character/kent"></span>
 
 
 CHAPTER XXXI.
@@ -21090,7 +21090,7 @@ ready to take them all [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="Pride and Prejudice — Chapter 32" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="Pride and Prejudice — Chapter 32" data-chapter="Chapter 32" data-kind="chapter" data-tags="motif/journey,motif/love,motif/road,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/temptation,setting/london,character/kent,character/maria"></span>
 
 
 CHAPTER XXXII.
@@ -21276,7 +21276,7 @@ in the church, and his cousin could have none at all.
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="Pride and Prejudice — Chapter 33" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="Pride and Prejudice — Chapter 33" data-chapter="Chapter 33" data-kind="chapter" data-tags="motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/silence,motif/summer,motif/tears,motif/time,motif/well,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,concept/vanity,concept/wonder,setting/london,character/kent"></span>
 
 
 CHAPTER XXXIII.
@@ -21500,7 +21500,7 @@ displeased by her staying at [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Pride and Prejudice — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Pride and Prejudice — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/rose,motif/silence,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/suffering,character/kent"></span>
 
 
 CHAPTER XXXIV.
@@ -21610,7 +21610,7 @@ happiness of a most beloved sister?”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Pride and Prejudice — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Pride and Prejudice — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/desert,motif/love,motif/marriage,motif/time,concept/friendship,concept/hope,concept/poverty,concept/pride,setting/desert"></span>
 
 
 As she pronounced these words, Mr. Darcy changed colour; but the emotion
@@ -21741,7 +21741,7 @@ Charlotte’s observation, and hurried her away to her room.
 
 
 
-<span class="atom-split" data-atom="chapter_35" data-title="Pride and Prejudice — Chapter 35" data-chapter="Chapter 35" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35" data-title="Pride and Prejudice — Chapter 35" data-chapter="Chapter 35" data-kind="chapter" data-tags="archetype/child,motif/clock,motif/dance,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/road,motif/summer,motif/time,motif/well,concept/doubt,concept/education,concept/freedom,concept/honour,concept/hope,concept/nature,concept/revenge,concept/truth,concept/wonder,setting/london,character/kent"></span>
 
 
 CHAPTER XXXV.
@@ -22009,7 +22009,7 @@ course of the morning. I will only add, God bless you.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Pride and Prejudice — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Pride and Prejudice — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/memory,motif/time,motif/well,concept/history,concept/pride,concept/truth,form/history"></span>
 
 
 CHAPTER XXXVI.
@@ -22115,7 +22115,7 @@ Mr. Darcy would never have hazarded such a proposal, if he had not been
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Pride and Prejudice — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Pride and Prejudice — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/love,motif/memory,motif/well,concept/fear,concept/friendship,concept/self,concept/vanity"></span>
 
 
 She perfectly remembered everything that had passed in conversation
@@ -22229,7 +22229,7 @@ longer an object. She could think only of her letter.
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="Pride and Prejudice — Chapter 37" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="Pride and Prejudice — Chapter 37" data-chapter="Chapter 37" data-kind="chapter" data-tags="motif/home,motif/journey,motif/summer,motif/time,concept/melancholy,concept/self,setting/london,character/lady_anne,character/maria"></span>
 
 
 CHAPTER XXXVII.
@@ -22396,7 +22396,7 @@ her hand to both.
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="Pride and Prejudice — Chapter 38" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="Pride and Prejudice — Chapter 38" data-chapter="Chapter 38" data-kind="chapter" data-tags="motif/garden,motif/home,motif/journey,motif/marriage,motif/silence,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/melancholy,concept/temptation,concept/truth,concept/vanity,character/maria"></span>
 
 
 CHAPTER XXXVIII.
@@ -22529,7 +22529,7 @@ further.
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="Pride and Prejudice — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="Pride and Prejudice — Chapter 39" data-chapter="Chapter 39" data-kind="chapter" data-tags="archetype/fool,archetype/king,motif/dance,motif/home,motif/soul,motif/summer,motif/time,motif/well,concept/beauty,concept/hope,character/maria"></span>
 
 
 CHAPTER XXXIX.
@@ -22705,7 +22705,7 @@ disheartened, had never yet despaired of succeeding at last.
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="Pride and Prejudice — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="Pride and Prejudice — Chapter 40" data-chapter="Chapter 40" data-kind="chapter" data-tags="motif/death,motif/home,motif/love,motif/secrets,motif/summer,motif/time,motif/well,concept/doubt,concept/education,concept/hope,setting/london"></span>
 
 
 CHAPTER XL.
@@ -22912,7 +22912,7 @@ ashamed of having one that was only entailed on me.”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Pride and Prejudice — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Pride and Prejudice — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/sleep,motif/well,concept/friendship,concept/hope"></span>
 
 
 CHAPTER XLI.
@@ -23042,7 +23042,7 @@ of her life.”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Pride and Prejudice — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Pride and Prejudice — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/nature,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/imagination,concept/melancholy,concept/nature,concept/pride,concept/vanity"></span>
 
 
 With this answer Elizabeth was forced to be content; but her own opinion
@@ -23186,7 +23186,7 @@ Gardiners
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="Pride and Prejudice — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="Pride and Prejudice — Chapter 42" data-chapter="Chapter 42" data-kind="chapter" data-tags="topos/double,motif/desire,motif/home,motif/love,motif/marriage,motif/night,motif/pain,motif/road,motif/summer,motif/tears,motif/time,motif/winter,concept/beauty,concept/hope,setting/london,setting/oxford"></span>
 
 
 CHAPTER XLII.
@@ -23383,7 +23383,7 @@ To Pemberley, therefore, they were to go.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Pride and Prejudice — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Pride and Prejudice — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/hill,motif/journey,motif/nature,motif/river,motif/road,motif/time,motif/well,motif/window,concept/beauty,concept/courage,concept/nature,concept/pride,concept/wonder"></span>
 
 
 CHAPTER XLIII.
@@ -23509,7 +23509,7 @@ master and his sister.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Pride and Prejudice — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Pride and Prejudice — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/quest,motif/cross,motif/nature,motif/pain,motif/river,motif/road,motif/summer,motif/time,concept/nature,concept/truth"></span>
 
 
 “Is your master much at Pemberley in the course of the year?”
@@ -23643,7 +23643,7 @@ of perfect civility.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Pride and Prejudice — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Pride and Prejudice — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/horse,motif/pain,motif/river,motif/silence,motif/time,motif/water,concept/beauty"></span>
 
 
 She had instinctively turned away; but stopping on his approach,
@@ -23752,7 +23752,7 @@ no more.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Pride and Prejudice — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Pride and Prejudice — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/honour,concept/pride,concept/truth,concept/wonder"></span>
 
 
 Mrs. Gardiner was standing a little behind; and on her pausing, he asked
@@ -23861,7 +23861,7 @@ _I_ have seen nothing of it.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Pride and Prejudice — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Pride and Prejudice — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/quest,motif/well,concept/wonder,character/kent"></span>
 
 
 “I was never more surprised than by his behaviour to us. It was more
@@ -23928,7 +23928,7 @@ all, of his wishing her to be acquainted with his sister.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Pride and Prejudice — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Pride and Prejudice — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/time,motif/window,concept/doubt,concept/honour"></span>
 
 
 CHAPTER XLIV.
@@ -24042,7 +24042,7 @@ gave them meaning.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Pride and Prejudice — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Pride and Prejudice — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/noon,motif/river,motif/time,motif/well,concept/fear,concept/nature,concept/pride,concept/self"></span>
 
 
 It was not often that she could turn her eyes on Mr. Darcy himself; but
@@ -24174,7 +24174,7 @@ some of the gentlemen at Pemberley by [[Noon|noon]].
 
 
 
-<span class="atom-split" data-atom="chapter_45" data-title="Pride and Prejudice — Chapter 45" data-chapter="Chapter 45" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_45" data-title="Pride and Prejudice — Chapter 45" data-chapter="Chapter 45" data-kind="chapter" data-tags="motif/night,motif/pain,motif/river,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/courage,concept/fear,concept/jealousy,concept/longing,concept/self_sufficiency,setting/london"></span>
 
 
 CHAPTER XLV.
@@ -24362,7 +24362,7 @@ beginning the subject.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Pride and Prejudice — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Pride and Prejudice — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/hope,concept/nature,concept/truth,concept/wonder,setting/london"></span>
 
 
 Chapter XLVI.
@@ -24470,7 +24470,7 @@ comprehend what I must feel, and I rely upon his goodness.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Pride and Prejudice — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Pride and Prejudice — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/self,concept/truth,concept/wonder,setting/london,character/sunday"></span>
 
 
 “Oh! where, where is my uncle?” cried Elizabeth, darting from her seat
@@ -24597,7 +24597,7 @@ formerly have rejoiced in its termination.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Pride and Prejudice — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Pride and Prejudice — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/marriage,motif/road,motif/tears,motif/time,motif/well,concept/hope,concept/truth"></span>
 
 
 If gratitude and esteem are good foundations of affection, Elizabeth’s
@@ -24685,7 +24685,7 @@ have supposed, seated in the carriage, and on the [[Road|road]] to Longbourn.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Pride and Prejudice — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Pride and Prejudice — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/road,motif/tears,motif/time,motif/well,concept/deception,concept/doubt,concept/fear,concept/honour,concept/hope,concept/indolence,concept/temptation,concept/truth,concept/vanity,setting/london,character/kent"></span>
 
 
 CHAPTER XLVII.
@@ -24809,7 +24809,7 @@ enough from my thoughts.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Pride and Prejudice — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Pride and Prejudice — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/journey,motif/marriage,motif/night,motif/road,motif/tears,motif/well,concept/hope,concept/self,setting/london"></span>
 
 
 “When they all removed to Brighton, therefore, you had no reason, I
@@ -24940,7 +24940,7 @@ kind you are! I know you will contrive it all.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Pride and Prejudice — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Pride and Prejudice — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/journey,motif/love,motif/marriage,motif/night,motif/well,concept/doubt,concept/hope"></span>
 
 
 But Mr. Gardiner, though he assured her again of his earnest endeavours
@@ -25073,7 +25073,7 @@ drink to our good [[Journey|journey]].
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Pride and Prejudice — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Pride and Prejudice — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/time,motif/well,concept/hope,setting/london,character/lydia_bennet"></span>
 
 
 “Your affectionate friend,
@@ -25147,7 +25147,7 @@ The Post
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Pride and Prejudice — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Pride and Prejudice — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/nature,motif/time,concept/freedom,concept/nature,concept/suffering,setting/london,character/sunday"></span>
 
 
 CHAPTER XLVIII.
@@ -25261,7 +25261,7 @@ of behaviour in your
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Pride and Prejudice — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Pride and Prejudice — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/courage,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/nature,setting/london"></span>
 
 
 [Illustration:
@@ -25407,7 +25407,7 @@ them.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Pride and Prejudice — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Pride and Prejudice — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/hill,motif/time,motif/well,concept/hope,concept/temptation,setting/london"></span>
 
 
 CHAPTER XLIX.
@@ -25558,7 +25558,7 @@ distressed himself. A small sum could not do all this.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Pride and Prejudice — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Pride and Prejudice — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/fool,motif/hill,motif/home,motif/time,motif/well,concept/fear,concept/freedom,concept/hope"></span>
 
 
 “No,” said her father. “Wickham’s a [[Fool|fool]] if he takes her with a farthing
@@ -25692,7 +25692,7 @@ two hours ago, she felt all the advantages of what they had gained.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Pride and Prejudice — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Pride and Prejudice — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/great_house,motif/love,motif/marriage,motif/well,concept/honour,concept/indolence,character/lydia_bennet,character/speed"></span>
 
 
 CHAPTER L.
@@ -25803,7 +25803,7 @@ took place.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Pride and Prejudice — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Pride and Prejudice — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/leaves,motif/marriage,motif/time,motif/well,concept/fear,concept/hope,concept/pride,concept/union,concept/wonder"></span>
 
 
 Elizabeth was now most heartily sorry that she had, from the distress of
@@ -25933,7 +25933,7 @@ would have been the last object of her wishes.
 
 
 
-<span class="atom-split" data-atom="chapter_51" data-title="Pride and Prejudice — Chapter 51" data-chapter="Chapter 51" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_51" data-title="Pride and Prejudice — Chapter 51" data-chapter="Chapter 51" data-kind="chapter" data-tags="motif/birds,motif/clock,motif/grave,motif/hill,motif/home,motif/love,motif/marriage,motif/pain,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/honour,concept/hope,concept/temptation,setting/london"></span>
 
 
 CHAPTER LI.
@@ -26172,7 +26172,7 @@ satisfaction, she had rather be without a confidante.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Pride and Prejudice — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Pride and Prejudice — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/love,motif/marriage,motif/pain,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/temptation,concept/truth,setting/london,character/sunday"></span>
 
 
 CHAPTER LII.
@@ -26343,7 +26343,7 @@ children have been wanting me this half hour.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Pride and Prejudice — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Pride and Prejudice — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/marriage,motif/pain,motif/time,motif/well,concept/honour,concept/hope,concept/pride,concept/vanity,concept/wonder,character/kent"></span>
 
 
 “Yours, very sincerely,
@@ -26503,7 +26503,7 @@ he hardly knew how to look, and they entered the [[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Pride and Prejudice — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Pride and Prejudice — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/night,motif/pain,motif/time,motif/well,concept/hope,concept/truth"></span>
 
 
 CHAPTER LIII.
@@ -26636,7 +26636,7 @@ _they_ did. As the day of his arrival drew near,--
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Pride and Prejudice — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Pride and Prejudice — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/well,motif/window,concept/courage"></span>
 
 
 “I begin to be sorry that he comes at all,” said Jane to her sister. “It
@@ -26754,7 +26754,7 @@ She inquired after his sister, but could do no more.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Pride and Prejudice — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Pride and Prejudice — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/rose,motif/time,motif/well,motif/winter,concept/beauty,concept/hope,concept/pride,concept/wonder,character/lydia_bennet"></span>
 
 
 He readily agreed to it.
@@ -26848,7 +26848,7 @@ of one who had ten thousand a year.
 
 
 
-<span class="atom-split" data-atom="chapter_54" data-title="Pride and Prejudice — Chapter 54" data-chapter="Chapter 54" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_54" data-title="Pride and Prejudice — Chapter 54" data-chapter="Chapter 54" data-kind="chapter" data-tags="motif/desire,motif/grave,motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/beauty,concept/hope"></span>
 
 
 CHAPTER LIV.
@@ -27051,7 +27051,7 @@ confidante.”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Pride and Prejudice — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Pride and Prejudice — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/home,motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/fear,concept/hope,setting/london"></span>
 
 
 CHAPTER LV.
@@ -27183,7 +27183,7 @@ said, for the present.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Pride and Prejudice — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Pride and Prejudice — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/night,motif/sleep,motif/spring,motif/time,motif/well,motif/winter,concept/doubt,concept/hope,concept/wonder"></span>
 
 
 “I must go instantly to my mother,” she cried. “I would not on any
@@ -27340,7 +27340,7 @@ they had been generally proved to be marked out for misfortune.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Pride and Prejudice — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Pride and Prejudice — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/journey,motif/nature,motif/night,motif/silence,motif/summer,motif/well,motif/window,concept/conscience,concept/honour,concept/hope,concept/nature,concept/truth,concept/wonder,character/elizabeth_bennet,character/lady_catherine_de_bourgh"></span>
 
 
 CHAPTER LVI.
@@ -27485,7 +27485,7 @@ report is spread abroad?”
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Pride and Prejudice — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Pride and Prejudice — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/marriage,motif/silence,motif/spring,motif/well,concept/honour,concept/union"></span>
 
 
 “I never heard that it was.”
@@ -27622,7 +27622,7 @@ subject.”
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Pride and Prejudice — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Pride and Prejudice — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/rose,motif/well,concept/ambition,concept/honour"></span>
 
 
 “Not so hasty, if you please. I have by no means done. To all the
@@ -27704,7 +27704,7 @@ acknowledge the substance of their conversation was impossible.
 
 
 
-<span class="atom-split" data-atom="chapter_57" data-title="Pride and Prejudice — Chapter 57" data-chapter="Chapter 57" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_57" data-title="Pride and Prejudice — Chapter 57" data-chapter="Chapter 57" data-kind="chapter" data-tags="motif/desire,motif/journey,motif/marriage,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/forgiveness,concept/hope,concept/wonder,character/lady_catherine_de_bourgh"></span>
 
 
 CHAPTER LVII.
@@ -27888,7 +27888,7 @@ his seeing too _little_, she might have fancied too _much_.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Pride and Prejudice — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Pride and Prejudice — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/silence,motif/time,motif/well,concept/courage,concept/hope,setting/london,character/maria"></span>
 
 
 CHAPTER LVIII.
@@ -28004,7 +28004,7 @@ confess, before I was reasonable enough to allow their justice.”
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Pride and Prejudice — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Pride and Prejudice — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/home,motif/pain,motif/spring,motif/time,motif/winter,concept/charity,concept/conscience,concept/doubt,concept/forgiveness,concept/hope,concept/pride,concept/vanity,concept/wonder,setting/london"></span>
 
 
 “I was certainly very far from expecting them to make so strong an
@@ -28177,7 +28177,7 @@ parted.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Pride and Prejudice — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Pride and Prejudice — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/truth"></span>
 
 
 CHAPTER LIX.
@@ -28311,7 +28311,7 @@ him except just now and then; so do not put yourself to inconvenience.”
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Pride and Prejudice — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Pride and Prejudice — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/grave,motif/love,motif/marriage,motif/night,motif/pain,motif/storm,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/pride,concept/wonder"></span>
 
 
 During their walk, it was resolved that Mr. Bennet’s consent should be
@@ -28469,7 +28469,7 @@ as Jane’s.”
 
 
 
-<span class="atom-split" data-atom="chapter_60" data-title="Pride and Prejudice — Chapter 60" data-chapter="Chapter 60" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_60" data-title="Pride and Prejudice — Chapter 60" data-chapter="Chapter 60" data-kind="chapter" data-tags="motif/cross,motif/desire,motif/grave,motif/jewel,motif/love,motif/marriage,motif/pain,motif/storm,motif/time,motif/well,concept/beauty,concept/courage,concept/hope,concept/imagination,concept/truth,concept/wonder"></span>
 
 
 CHAPTER LX.
@@ -28653,7 +28653,7 @@ family party at Pemberley.
 
 
 
-<span class="atom-split" data-atom="chapter_61" data-title="Pride and Prejudice — Chapter 61" data-chapter="Chapter 61" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_61" data-title="Pride and Prejudice — Chapter 61" data-chapter="Chapter 61" data-kind="chapter" data-tags="topos/quest,motif/city,motif/desire,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/beauty,concept/hope,concept/pride,concept/reconciliation,setting/court,setting/london"></span>
 
 
 CHAPTER LXI.

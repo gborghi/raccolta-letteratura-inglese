@@ -7904,7 +7904,7 @@ to contradict the black warning in his eyes.
 
 
 
-<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_01" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 1)" data-chapter="The Absence of Mr Glass" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_01" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 1)" data-chapter="The Absence of Mr Glass" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/home,motif/poison,motif/time,motif/well,motif/window,concept/fear,concept/self,character/lord_mayor"></span>
 
 
 The Absence of Mr Glass
@@ -8046,7 +8046,7 @@ I trionfi scientifici del grande Orion Hood lo avevano privato di molte cose —
 
 
 
-<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_02" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 2)" data-chapter="The Absence of Mr Glass" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_02" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 2)" data-chapter="The Absence of Mr Glass" data-kind="excerpt" data-tags="motif/garden,motif/night,motif/well,motif/window,histref/catholic_church,character/father_brown"></span>
 
 
 The little clergyman called Brown thanked him with
@@ -8176,7 +8176,7 @@ Prima che lo scienziato potesse concludere la frase, un altro e più impaziente 
 
 
 
-<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_03" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 3)" data-chapter="The Absence of Mr Glass" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_03" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 3)" data-chapter="The Absence of Mr Glass" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/garden,motif/time,motif/window,concept/doubt,character/father_brown"></span>
 
 
 "I'm sorry to interrupt you, sir," she said, "but I had to follow
@@ -8329,7 +8329,7 @@ Il dottor Orion Hood si arrestò per un istante sullo zerbino e s'imbevve dell'i
 
 
 
-<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_04" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 4)" data-chapter="The Absence of Mr Glass" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_04" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 4)" data-chapter="The Absence of Mr Glass" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/crime_and_punishment,concept/deception,concept/appearance_vs_reality,form/detective_fiction,character/father_brown"></span>
 
 
 "By the way," said Father Brown, "might it not be as well
@@ -8492,7 +8492,7 @@ Sfrecciò attraverso la stanza piuttosto come un coniglio, e scrutò con una del
 
 
 
-<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_05" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 5)" data-chapter="The Absence of Mr Glass" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_absence_of_mr_glass--part_05" data-title="The Wisdom of Father Brown — The Absence of Mr Glass (part 5)" data-chapter="The Absence of Mr Glass" data-kind="excerpt" data-tags="motif/clock"></span>
 
 
 Both the Professor and the girl followed the direction of his glance. 
@@ -8732,7 +8732,7 @@ DUE
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_01" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 1)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_01" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 1)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/rose,motif/well,concept/beauty,concept/body,form/melodrama,histref/dante,setting/italy,character/dwarf"></span>
 
 
 The Paradise of Thieves
@@ -8892,7 +8892,7 @@ Questa figura era vestita di un tweed a quadri pezzati, con una cravatta rosa, u
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_02" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 2)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_02" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 2)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/dawn,motif/garden,motif/journey,motif/nature,motif/rose,motif/time,concept/beauty,concept/despair,concept/fear,concept/history,concept/nature,concept/pride,form/fable,form/history,form/satire,setting/italy,setting/mountains,character/robin_hood"></span>
 
 
 Mr Harrogate, the great financier, did indeed enter the room,
@@ -9052,7 +9052,7 @@ Un giorno o due dopo, una vettura che conteneva la comitiva arrancava e sobbalza
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_03" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 3)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_03" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 3)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/desert,motif/flowers,motif/garden,motif/horse,motif/poison,motif/road,motif/rose,motif/ship,motif/silence,motif/stars,motif/well,motif/wind,concept/suicide,concept/wonder,setting/desert,setting/ship,character/kent"></span>
 
 
 The coach was a kind of commodious wagonette, invented by
@@ -9199,7 +9199,7 @@ E davvero ella si [[Rose|levò]] dal mare di colori come una visione così bella
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_04" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 4)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_04" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 4)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="archetype/king,motif/flowers,motif/road,motif/summer,concept/history,form/history"></span>
 
 
 Muscari set the lady lightly on her feet, made her an absurdly
@@ -9347,7 +9347,7 @@ Il banchiere lo guardò da sotto le sopracciglia abbassate, rosso in volto e imb
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_05" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 5)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_05" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 5)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="archetype/king,motif/flowers,motif/nature,motif/road,motif/well,concept/fear,concept/nature,form/comedy,setting/mountains,character/father_brown"></span>
 
 
 "Excellent!" cried that outlaw gaily; "so far we are all cosy. 
@@ -9491,7 +9491,7 @@ Nello stesso momento, e molto prima che la vibrazione avesse toccato le meno esp
 
 
 
-<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_06" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 6)" data-chapter="The Paradise of Thieves" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_paradise_of_thieves--part_06" data-title="The Wisdom of Father Brown — The Paradise of Thieves (part 6)" data-chapter="The Paradise of Thieves" data-kind="excerpt" data-tags="topos/last_stand,archetype/king,motif/blood,motif/death,motif/fire,motif/grave,motif/poison,motif/road,motif/silence,motif/time,motif/well,concept/courage,concept/freedom,concept/friendship,setting/italy,character/father_brown"></span>
 
 
 The next moment he turned his olive, sneering face and made
@@ -9725,7 +9725,7 @@ TRE
 
 
 
-<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_01" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 1)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_01" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 1)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/silence,motif/summer,motif/time,motif/well,concept/body,concept/education,setting/court,character/chorus,character/tolstoy"></span>
 
 
 The Duel of Dr Hirsch
@@ -9967,7 +9967,7 @@ francesi qui?», come se invocasse cristiani alla Mecca.
 
 
 
-<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_02" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 2)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_02" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 2)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt" data-tags="motif/leaves,motif/time"></span>
 
 
 Armagnac and Brun instantly stood up; but they were too late. 
@@ -10187,7 +10187,7 @@ e il suo amico Flambeau si sedette di fronte a lui. Flambeau era cupo.
 
 
 
-<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_03" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 3)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_03" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 3)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt" data-tags="concept/deception,concept/ratiocination_detection,concept/nationalism_and_patriotism,form/detective_fiction,setting/france,character/father_brown,character/flambeau"></span>
 
 
 "I'm afraid I must chuck this business," said he heavily. 
@@ -10455,7 +10455,7 @@ Credo sia psicologicamente possibile... in un'epoca illuminata, sai».
 
 
 
-<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_04" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 4)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_04" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 4)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt" data-tags="archetype/shadow,motif/journey,motif/time,motif/well,motif/wind,concept/ambition,setting/paris,character/father_brown,character/flambeau"></span>
 
 
 "It may be psychologically possible," answered Flambeau,
@@ -10721,7 +10721,7 @@ fuggendo dall'albergo.
 
 
 
-<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_05" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 5)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_duel_of_dr_hirsch--part_05" data-title="The Wisdom of Father Brown — The Duel of Dr Hirsch (part 5)" data-chapter="The Duel of Dr Hirsch" data-kind="excerpt" data-tags="archetype/detective,motif/chalk,motif/cross,motif/garden,motif/well,motif/window,concept/body,concept/suicide,setting/mountains,setting/paris,character/father_brown,character/flambeau,character/michael"></span>
 
 
 The lane down which they followed him was one of those that
@@ -11005,7 +11005,7 @@ QUATTRO
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_01" data-title="The Wisdom of Father Brown — The Man in the Passage (part 1)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_01" data-title="The Wisdom of Father Brown — The Man in the Passage (part 1)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/mirror,motif/night,motif/river,motif/silence,motif/well,concept/honour,concept/jealousy,concept/madness,concept/reform,character/apollo,character/oberon,character/queen,character/speed,character/titania"></span>
 
 
 The Man in the Passage
@@ -11255,7 +11255,7 @@ in quella che era ancora piena luce del giorno, un uomo guardava soltanto il vol
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_02" data-title="The Wisdom of Father Brown — The Man in the Passage (part 2)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_02" data-title="The Wisdom of Father Brown — The Man in the Passage (part 2)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/frost,motif/love,motif/rose,motif/time,motif/well,character/hippolyta,character/oberon,character/theseus"></span>
 
 
 She greeted both men with the beaming and baffling smile
@@ -11461,7 +11461,7 @@ facendogli girare la testa di qua e di là come un mastino sconcertato.
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_03" data-title="The Wisdom of Father Brown — The Man in the Passage (part 3)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_03" data-title="The Wisdom of Father Brown — The Man in the Passage (part 3)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/blood,motif/cross,motif/time,concept/fear,setting/cathedral,character/father_brown,character/oberon,character/speed"></span>
 
 
 "I must show this stupid man where to go," said Aurora
@@ -11695,7 +11695,7 @@ il prigioniero mezzo selvaggio fissò il [[Blood|sangue]] che colava con un sorr
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_04" data-title="The Wisdom of Father Brown — The Man in the Passage (part 4)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_04" data-title="The Wisdom of Father Brown — The Man in the Passage (part 4)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/blood,motif/cross,motif/crown,motif/death,motif/flowers,motif/road,motif/silence,motif/time,motif/well,concept/body,concept/self,concept/truth,concept/vanity,setting/london,character/father_brown"></span>
 
 
 "Looks a cannibal sort of chap, don't he?" said the constable
@@ -11977,7 +11977,7 @@ Sì; vide qualcosa nell'andito.
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_05" data-title="The Wisdom of Father Brown — The Man in the Passage (part 5)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_05" data-title="The Wisdom of Father Brown — The Man in the Passage (part 5)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/nature,motif/silence,motif/time,motif/well,concept/nature,setting/court,character/father_brown"></span>
 
 
 Sir Walter Cowdray allowed an impressive interval,
@@ -12235,7 +12235,7 @@ su ciascun lato della testa o della sommità, piuttosto simili a corna, e--»
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_06" data-title="The Wisdom of Father Brown — The Man in the Passage (part 6)" data-chapter="The Man in the Passage" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_man_in_the_passage--part_06" data-title="The Wisdom of Father Brown — The Man in the Passage (part 6)" data-chapter="The Man in the Passage" data-kind="excerpt" data-tags="motif/cross,motif/mirror,motif/silence,motif/time,motif/well,concept/doubt,concept/truth,setting/court,character/father_brown"></span>
 
 
 "Oh! the devil with horns, no [[Doubt|doubt]]," ejaculated Cowdray,
@@ -12435,7 +12435,7 @@ CINQUE
 
 
 
-<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_01" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 1)" data-chapter="The Mistake of the Machine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_01" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 1)" data-chapter="The Mistake of the Machine" data-kind="excerpt" data-tags="archetype/detective,archetype/pilgrim,motif/blood,motif/city,motif/cross,motif/dawn,motif/home,motif/love,motif/machine,motif/prison,motif/silence,motif/well,concept/body,concept/disillusionment,form/parody,histref/america,setting/america,character/father_brown,character/flambeau"></span>
 
 
 The Mistake of the [[Machine]]
@@ -12684,7 +12684,7 @@ per aver preso d'assalto un simile muro a dispetto di un uomo armato.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_02" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 2)" data-chapter="The Mistake of the Machine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_02" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 2)" data-chapter="The Mistake of the Machine" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 "Well, the literary style is somewhat improved," admitted the priest
@@ -13002,7 +13002,7 @@ la figlia del milionario.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_03" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 3)" data-chapter="The Mistake of the Machine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_03" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 3)" data-chapter="The Mistake of the Machine" data-kind="excerpt" data-tags="archetype/lover,motif/clock,motif/machine,motif/well,motif/window,concept/body,concept/truth,histref/america,setting/america,character/father_brown"></span>
 
 
 "She retraced her steps in equal secrecy and the door
@@ -13218,7 +13218,7 @@ con un sorriso. «E quasi altrettanto freddi quanto te.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_04" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 4)" data-chapter="The Mistake of the Machine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_04" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 4)" data-chapter="The Mistake of the Machine" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/clock,motif/machine,motif/poison,motif/storm,motif/time,motif/well,concept/self,character/father_brown"></span>
 
 
 "I'm sorry," said the other.  "I only point out what seems
@@ -13444,7 +13444,7 @@ che tu non abbia mai avuto vizi tuoi.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_05" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 5)" data-chapter="The Mistake of the Machine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mistake_of_the_machine--part_05" data-title="The Wisdom of Father Brown — The Mistake of the Machine (part 5)" data-chapter="The Mistake of the Machine" data-kind="excerpt" data-tags="archetype/monster,motif/machine,motif/well,concept/fear,character/father_brown"></span>
 
 
 The amazed American had already parted his lips in protest
@@ -13722,7 +13722,7 @@ SEI
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_01" data-title="The Wisdom of Father Brown — The Head of Caesar (part 1)" data-chapter="The Head of Caesar" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_01" data-title="The Wisdom of Father Brown — The Head of Caesar (part 1)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="motif/masks_disguise,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,setting/london,character/father_brown,character/flambeau"></span>
 
 
 The Head of Caesar
@@ -13889,7 +13889,7 @@ Egli proseguì il suo monologo sognante. «Non può essere entrata a far visita 
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_02" data-title="The Wisdom of Father Brown — The Head of Caesar (part 2)" data-chapter="The Head of Caesar" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_02" data-title="The Wisdom of Father Brown — The Head of Caesar (part 2)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="motif/money_and_gold,concept/asceticism,concept/family_and_lineage,concept/money_and_avarice,concept/love_romantic,form/detective_fiction,histref/ancient_rome,character/father_brown"></span>
 
 
 He looked at her steadily for the first time, and said: 
@@ -14072,7 +14072,7 @@ Ella prese a stuzzicare la tovaglia rammendata e proseguì: «Lei ha l'aria di s
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_03" data-title="The Wisdom of Father Brown — The Head of Caesar (part 3)" data-chapter="The Head of Caesar" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_03" data-title="The Wisdom of Father Brown — The Head of Caesar (part 3)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/water,concept/imagination"></span>
 
 
 "Nature is older than the Carstairs Collection.  As I ran
@@ -14200,7 +14200,7 @@ to the bottom.  I saw him crawling out below, covered with sand.
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_04" data-title="The Wisdom of Father Brown — The Head of Caesar (part 4)" data-chapter="The Head of Caesar" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_04" data-title="The Wisdom of Father Brown — The Head of Caesar (part 4)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="motif/masks_disguise,concept/crime_and_punishment,concept/fear,concept/appearance_vs_reality,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "This stroke comforted me somehow, though it might well increase
@@ -14345,7 +14345,7 @@ La porta della taverna si aprì e l'ombra gigantesca dell'investigatore Flambeau
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_05" data-title="The Wisdom of Father Brown — The Head of Caesar (part 5)" data-chapter="The Head of Caesar" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_05" data-title="The Wisdom of Father Brown — The Head of Caesar (part 5)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/money_and_avarice,concept/deception,concept/suicide,concept/crime_and_punishment,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "I've got only one thing to say.  I don't deserve to be helped;
@@ -14563,7 +14563,7 @@ SETTE
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_01" data-title="The Wisdom of Father Brown — The Purple Wig (part 1)" data-chapter="The Purple Wig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_01" data-title="The Wisdom of Father Brown — The Purple Wig (part 1)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="archetype/tyrant,motif/the_supernatural,concept/superstition_and_omen,concept/class_conflict,concept/secrecy_and_concealment,concept/fame_and_publicity,form/detective_fiction,setting/england"></span>
 
 
 The Purple Wig
@@ -14795,7 +14795,7 @@ proclamazioni --verranno alla fine.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_02" data-title="The Wisdom of Father Brown — The Purple Wig (part 2)" data-chapter="The Purple Wig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_02" data-title="The Wisdom of Father Brown — The Purple Wig (part 2)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="archetype/tyrant,motif/inn_tavern,concept/superstition_and_omen,concept/secrecy_and_concealment,form/detective_fiction,setting/england,character/father_brown"></span>
 
 
 I was walking along a public path that threads through
@@ -15023,7 +15023,7 @@ con altrettanta calma, ma con l'aria di mettere ordine nelle cose:
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_03" data-title="The Wisdom of Father Brown — The Purple Wig (part 3)" data-chapter="The Purple Wig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_03" data-title="The Wisdom of Father Brown — The Purple Wig (part 3)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="archetype/tyrant,concept/secrecy_and_concealment,concept/superstition_and_omen,concept/deception,form/detective_fiction,character/father_brown"></span>
 
 
 "But," I stammered, "if that is the Duke, why does he damn all
@@ -15261,7 +15261,7 @@ contro il Duca di Exmoor.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_04" data-title="The Wisdom of Father Brown — The Purple Wig (part 4)" data-chapter="The Purple Wig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_04" data-title="The Wisdom of Father Brown — The Purple Wig (part 4)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="concept/superstition_and_omen,concept/pride,concept/secrecy_and_concealment,form/detective_fiction,character/father_brown,character/midas,character/lord_byron"></span>
 
 
 Mr Nutt, of the Daily Reformer, wrote some highly incongruous
@@ -15507,7 +15507,7 @@ riempiendo dolcemente, nel silenzio, di demoni anziché d'uccelli.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_05" data-title="The Wisdom of Father Brown — The Purple Wig (part 5)" data-chapter="The Purple Wig" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_05" data-title="The Wisdom of Father Brown — The Purple Wig (part 5)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="concept/deception,concept/appearance_vs_reality,concept/faith,concept/class_conflict,concept/satire_of_society,form/detective_fiction,character/father_brown,character/satan"></span>
 
 
 "I spare you," said the Duke in a voice of inhuman pity. 
@@ -15715,7 +15715,7 @@ OTTO
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_01" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 1)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_01" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 1)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/sea_and_voyage,motif/journey,form/detective_fiction,histref/elizabethan_england,setting/the_sea,character/father_brown,character/flambeau,character/king_arthur"></span>
 
 
 The Perishing of the Pendragons
@@ -15837,7 +15837,7 @@ L'acqua parve allargarsi e dividersi, fessa dal cuneo scuro di un isolotto bosco
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_02" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 2)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_02" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 2)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/sea_and_voyage,concept/superstition_and_omen,concept/revenge,form/detective_fiction,histref/elizabethan_england,character/father_brown,character/flambeau"></span>
 
 
 Father Brown, even when he was mystified, was clever in analysing
@@ -15976,7 +15976,7 @@ E infatti la giovane dama dai capelli neri lasciava scivolare la propria canoa l
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_03" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 3)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_03" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 3)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/swords_and_weapons,motif/garden,form/detective_fiction,setting/england,character/father_brown,character/flambeau,character/nelson"></span>
 
 
 "Many years ago," replied Fanshaw; "he hasn't been to sea for
@@ -16133,7 +16133,7 @@ Il semicerchio di prato davanti alla casa era variato da tre aiuole circolari, u
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_04" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 4)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_04" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 4)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/fire,concept/superstition_and_omen,concept/reason_and_rationalism,form/detective_fiction,setting/england,character/father_brown,character/flambeau"></span>
 
 
 As they passed indoors, the little cleric hopped suddenly
@@ -16295,7 +16295,7 @@ La sala da pranzo era marinaresca come la cabina di una nave; ma la sua nota era
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_05" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 5)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_05" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 5)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/sea_and_voyage,concept/superstition_and_omen,concept/fate_and_free_will,concept/doubt,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "I don't believe in anything," answered Pendragon very briskly,
@@ -16454,7 +16454,7 @@ Lo seguirono, ridendo e in parte protestando; ma egli rispose con la massima sol
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_06" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 6)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_06" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 6)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/fire,motif/flowers,motif/garden,motif/river,motif/rose,motif/water,motif/well,concept/wonder,character/father_brown,character/flambeau"></span>
 
 
 "Always some little thing to be done," he said with
@@ -16630,7 +16630,7 @@ Non voltò mai il capo a guardare la strana battaglia che seguì tra i nemici e 
 
 
 
-<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_07" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 7)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_perishing_of_the_pendragons--part_07" data-title="The Wisdom of Father Brown — The Perishing of the Pendragons (part 7)" data-chapter="The Perishing of the Pendragons" data-kind="excerpt" data-tags="motif/garden,motif/pain,motif/river,concept/fear,character/flambeau"></span>
 
 
 Then came a cry that very nearly made him turn his head. 
@@ -16758,7 +16758,7 @@ NOVE
 
 
 
-<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_01" data-title="The Wisdom of Father Brown — The God of the Gongs (part 1)" data-chapter="The God of the Gongs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_01" data-title="The Wisdom of Father Brown — The God of the Gongs (part 1)" data-chapter="The God of the Gongs" data-kind="excerpt" data-tags="motif/winter,motif/snow,motif/lamp_post,form/detective_fiction,setting/england,character/father_brown,character/flambeau"></span>
 
 
 The God of the Gongs
@@ -16996,7 +16996,7 @@ posato sulle assi di sopra, senza alcuna testa clericale dentro.
 
 
 
-<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_02" data-title="The Wisdom of Father Brown — The God of the Gongs (part 2)" data-chapter="The God of the Gongs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_02" data-title="The Wisdom of Father Brown — The God of the Gongs (part 2)" data-chapter="The God of the Gongs" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/secrecy_and_concealment,form/detective_fiction,setting/england,character/father_brown,character/flambeau"></span>
 
 
 Flambeau looked once more inland and out to sea, and once more
@@ -17268,7 +17268,7 @@ forse, artificiale.
 
 
 
-<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_03" data-title="The Wisdom of Father Brown — The God of the Gongs (part 3)" data-chapter="The God of the Gongs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_03" data-title="The Wisdom of Father Brown — The God of the Gongs (part 3)" data-chapter="The God of the Gongs" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/crime_and_punishment,form/detective_fiction,setting/england,character/father_brown,character/flambeau"></span>
 
 
 The silence that ensued was broken by their host saying quietly: 
@@ -17504,7 +17504,7 @@ nella sua sciarpa purpurea, ma nel suo cuore.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_04" data-title="The Wisdom of Father Brown — The God of the Gongs (part 4)" data-chapter="The God of the Gongs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_04" data-title="The Wisdom of Father Brown — The God of the Gongs (part 4)" data-chapter="The God of the Gongs" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/crime_and_punishment,form/detective_fiction,setting/england,character/father_brown,character/flambeau"></span>
 
 
 "And I suppose," said the other in a lower voice, "that glass-eyed guy
@@ -17760,7 +17760,7 @@ a rispondere.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_05" data-title="The Wisdom of Father Brown — The God of the Gongs (part 5)" data-chapter="The God of the Gongs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_god_of_the_gongs--part_05" data-title="The Wisdom of Father Brown — The God of the Gongs (part 5)" data-chapter="The God of the Gongs" data-kind="excerpt" data-tags="motif/blood,motif/moon,motif/ship,motif/silence,motif/spring,motif/storm,motif/time,motif/well,concept/body,concept/fear,setting/ship,character/father_brown,character/flambeau"></span>
 
 
 The nobleman struck the bell on the table with an odd air
@@ -18108,7 +18108,7 @@ DIECI
 
 
 
-<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_01" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 1)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_01" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 1)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/chalk,motif/clock,motif/fire,motif/garden,motif/home,motif/time,motif/water,character/father_brown,character/pistol"></span>
 
 
 The Salad of Colonel Cray
@@ -18245,7 +18245,7 @@ Il maggiore parve intervenire piuttosto in fretta. «Questo è il mio amico [[Fa
 
 
 
-<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_02" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 2)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_02" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 2)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/dust,motif/garden,motif/night,motif/snow,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/paradox,character/father_brown"></span>
 
 
 "Did he--" asked Major Putnam in a lowered voice, "did he fall
@@ -18480,7 +18480,7 @@ vecchia oliera fuori moda.»
 
 
 
-<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_03" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 3)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_03" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 3)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt" data-tags="motif/city,motif/home,motif/journey,motif/time,motif/well,concept/beauty,form/tragedy,character/father_brown,character/oliver,character/sunday"></span>
 
 
 "I prefer it," said Putnam, placably.  "I'm old-fashioned myself;
@@ -18637,7 +18637,7 @@ Dopo una pausa disse: «Sentite, non vi ho mai visto prima; ma sarete voi a giud
 
 
 
-<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_04" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 4)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_04" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 4)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt" data-tags="concept/mercy"></span>
 
 
 "‘If you had only seen the Monkey's Feet,' he said, smiling steadily,
@@ -18801,7 +18801,7 @@ Cray sgusciò di sopra a cambiarsi; il dottor Oman e Miss Watson si avviarono so
 
 
 
-<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_05" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 5)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_salad_of_colonel_cray--part_05" data-title="The Wisdom of Father Brown — The Salad of Colonel Cray (part 5)" data-chapter="The Salad of Colonel Cray" data-kind="excerpt" data-tags="motif/poison,concept/ratiocination_detection,concept/crime_and_punishment,concept/faith,concept/deception,form/detective_fiction,character/father_brown"></span>
 
 
 The priest looked puzzled.  "He can't have been at the dustbin,"
@@ -18970,7 +18970,7 @@ UNDICI
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_01" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 1)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_01" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 1)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt" data-tags="concept/darwinism_evolutionary_theory,concept/fame_and_publicity,concept/pragmatism_method_of_the_hypothesis,form/detective_fiction,setting/oxford,character/charles_darwin"></span>
 
 
 The Strange Crime of John Boulnois
@@ -19128,7 +19128,7 @@ Sir Claude Champion era noto ai lettori del Western Sun quanto il signor Boulnoi
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_02" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 2)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_02" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 2)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt" data-tags="motif/night,motif/moon,motif/road,concept/jealousy,concept/ambition,concept/fame_and_publicity,form/detective_fiction,form/short_story,setting/rural_england"></span>
 
 
 That faultless falcon profile with purple-black Italian eye,
@@ -19297,7 +19297,7 @@ Più d'una volta, mentre saliva per quella strana strada nera d'artificio tragic
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_03" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 3)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_03" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 3)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt" data-tags="motif/blood,motif/swords_weapons,motif/moon,motif/night,concept/crime_and_punishment,concept/jealousy,concept/death,form/detective_fiction,form/short_story"></span>
 
 
 More pines, more pathway slid past him, and then he stood rooted
@@ -19466,7 +19466,7 @@ Il dottore lo fissò cupamente con la fronte che si arrossava, ma non lo contrad
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_04" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 4)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_04" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 4)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt" data-tags="motif/love,motif/silence,motif/time,motif/well,concept/body,character/father_brown,character/romeo"></span>
 
 
 "Does Mrs Boulnois know?" asked James Dalroy, and again Kidd
@@ -19665,7 +19665,7 @@ Un'espressione straordinaria le balenò sul volto, assai diversa dalla pietà, d
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_05" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 5)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_strange_crime_of_john_boulnois--part_05" data-title="The Wisdom of Father Brown — The Strange Crime of John Boulnois (part 5)" data-chapter="The Strange Crime of John Boulnois" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/garden,motif/lion,motif/silence,motif/well,concept/despair,concept/fear,concept/greatness,concept/jealousy,concept/truth,character/father_brown,character/juliet"></span>
 
 
 Mrs Boulnois drew near once more with the same contained
@@ -19888,7 +19888,7 @@ DODICI
 
 
 
-<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_01" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 1)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_01" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 1)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt" data-tags="character/father_brown"></span>
 
 
 The Fairy Tale of Father Brown
@@ -20136,7 +20136,7 @@ una pistola giocattolo a Heiligwaldenstein.»
 
 
 
-<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_02" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 2)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_02" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 2)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/grave,motif/moon,motif/spring,motif/time,motif/well,concept/body,concept/doubt,concept/fear,form/riddle,setting/castle,setting/court,setting/paris,character/father_brown,character/flambeau"></span>
 
 
 "Human science can never be quite certain of things like that,"
@@ -20350,7 +20350,7 @@ della popolazione che al perseguimento di una qualche indagine privata su --»
 
 
 
-<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_03" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 3)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_03" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 3)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/blood,motif/cross,motif/crown,motif/death,motif/desire,motif/flowers,motif/home,motif/night,motif/rose,motif/well,concept/doubt,concept/grotesque,concept/suicide,concept/truth,setting/castle,character/father_brown,character/flambeau,character/pistol"></span>
 
 
 [[Flambeau]] stared at him.  "What an odd person you are!" he said. 
@@ -20606,7 +20606,7 @@ e per ottenerlo a buon mercato.
 
 
 
-<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_04" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 4)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_04" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 4)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt" data-tags="archetype/ghost,motif/cave,motif/city,motif/dawn,motif/frost,motif/hill,motif/river,motif/time,motif/wind,concept/courage,concept/fear,histref/bible,character/father_brown"></span>
 
 
 "Away at the upper end of a rambling mountain path to which
@@ -20826,7 +20826,7 @@ finché giunse all'Epistola di San Giacomo, e allora cominciò a leggere:
 
 
 
-<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_05" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 5)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_fairy_tale_of_father_brown--part_05" data-title="The Wisdom of Father Brown — The Fairy Tale of Father Brown (part 5)" data-chapter="The Fairy Tale of Father Brown" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/flowers,motif/hill,motif/home,motif/moon,motif/night,motif/soul,motif/well,concept/body,concept/hope,concept/mercy,concept/wonder,setting/castle,setting/mountains,character/father_brown"></span>
 
 
 "Something in the very voice made the Prince turn suddenly

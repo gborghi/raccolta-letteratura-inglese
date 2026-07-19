@@ -750,7 +750,7 @@ And, in its [[Marriage|marriage]] robe, the heavy [[Body|body]] wound.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Lamia — Part I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Lamia — Part I" data-chapter="part i" data-kind="section" data-tags="archetype/ghost,archetype/king,motif/bees,motif/blood,motif/city,motif/crown,motif/death,motif/desire,motif/dreams,motif/fire,motif/flowers,motif/home,motif/love,motif/memory,motif/moon,motif/night,motif/pain,motif/prison,motif/river,motif/rose,motif/soul,motif/spring,motif/stars,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/body,concept/doubt,concept/fear,concept/immortality,concept/madness,concept/melancholy,concept/self,concept/truth,concept/wonder,setting/mountains,character/apollo,character/apollonius,character/lamia,character/lycius,character/oberon,character/speed,character/venus"></span>
 
 
 ## [[Lamia|LAMIA]] PART I
@@ -1166,7 +1166,7 @@ Shut from the busy world of more incredulous.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="Lamia — Part II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="Lamia — Part II" data-chapter="part II" data-kind="section" data-tags="topos/double,archetype/fool,archetype/ghost,motif/childhood,motif/cross,motif/death,motif/dust,motif/flowers,motif/hill,motif/home,motif/leaves,motif/love,motif/marriage,motif/mirror,motif/nature,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/soul,motif/spring,motif/summer,motif/swallow,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/conscience,concept/honour,concept/nature,concept/pride,concept/self,concept/solitude,concept/truth,character/apollo,character/apollonius,character/lamia,character/lycius"></span>
 
 
 ## [[Lamia|LAMIA]] PART II

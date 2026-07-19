@@ -342,7 +342,7 @@ of Grünninger.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Man of the Crowd (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Man of the Crowd (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/chains,motif/city,motif/grave,motif/pain,motif/secrets,motif/time,motif/well,motif/window,concept/conscience,concept/despair,concept/solitude,setting/london"></span>
 
 
 Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
@@ -442,7 +442,7 @@ wristband, with an air of excessive frankness, should betray them at once.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Man of the Crowd (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Man of the Crowd (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/blood,motif/chains,motif/death,motif/desire,motif/home,motif/night,motif/well,motif/window,concept/ambition,concept/beauty,concept/charity,concept/despair,concept/history,concept/hope,concept/humility,form/history"></span>
 
 
 The gamblers, of whom I descried not a few, were still more easily
@@ -538,7 +538,7 @@ him closely, yet cautiously, so as not to attract his attention.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Man of the Crowd (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Man of the Crowd (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/cross,motif/death,motif/night,motif/noon,motif/river,motif/silence,motif/time,motif/well,concept/despair,concept/fear,concept/poverty,setting/london"></span>
 
 
 I had now a good opportunity of examining his person. He was short in

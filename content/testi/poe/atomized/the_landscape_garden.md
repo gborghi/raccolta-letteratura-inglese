@@ -715,7 +715,7 @@ Staël.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Landscape Garden (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Landscape Garden (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/love,motif/nature,motif/stars,motif/well,concept/ambition,concept/beauty,concept/nature,concept/suffering,form/essay"></span>
 
 
 The [[Garden|garden]] like a lady fair was cut
@@ -903,7 +903,7 @@ thousand things. With riches merely surpassing those of any
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Landscape Garden (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Landscape Garden (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/time,concept/ambition,concept/beauty,concept/charity,concept/education,concept/imagination,concept/nature,form/novel,histref/milton,character/milton"></span>
 
 
 citizen, it would have been easy to suppose him engaging to
@@ -1085,7 +1085,7 @@ the fact (which none but the ignorant dispute) that no such
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Landscape Garden (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Landscape Garden (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/nature,motif/time,motif/well,concept/beauty,concept/nature,concept/truth"></span>
 
 
 combinations of scenery exist in [[Nature]] as the painter of genius
@@ -1267,7 +1267,7 @@ This is partly pleasing to the eye, by the show of order and
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Landscape Garden (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Landscape Garden (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/dreams,motif/garden,motif/nature,motif/nightingale,concept/ambition,concept/beauty,concept/nature,concept/sublime,concept/truth,concept/unattainable,concept/wonder,character/prometheus"></span>
 
 
 design, and partly moral. A terrace, with an old moss-covered

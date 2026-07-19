@@ -67,7 +67,7 @@ ti imparerò, ti suonerò, e le [[Stars|stelle]] si fermeranno ad ascoltare.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="strange-music (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="strange-music (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/soul,motif/stars,motif/time,concept/fear,concept/hope,concept/pride"></span>
 
 
 The Strange Music  

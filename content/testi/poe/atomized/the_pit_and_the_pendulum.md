@@ -615,7 +615,7 @@ that of General Lasalle. The French army had entered Toledo. The
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Pit and the Pendulum (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Pit and the Pendulum (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/grave,motif/memory,motif/night,motif/silence,motif/soul,motif/wheel,concept/charity,concept/immortality,concept/madness,form/novel"></span>
 
 
 Impia tortorum longos hic turba furores
@@ -726,7 +726,7 @@ recall.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Pit and the Pendulum (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Pit and the Pendulum (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/death,motif/night,motif/prison,motif/sleep,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/hope,form/fragment"></span>
 
 
 So far, I had not opened my eyes. I felt that I lay upon my back,
@@ -834,7 +834,7 @@ legs. I stepped on it, and fell violently on my face.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Pit and the Pendulum (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Pit and the Pendulum (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,motif/death,motif/prison,motif/sleep,motif/soul,motif/time,motif/water,concept/body,concept/courage,concept/imagination,concept/suffering,concept/truth,form/fragment,histref/inquisition,character/monks"></span>
 
 
 In the confusion attending my fall, I did not immediately
@@ -944,7 +944,7 @@ food in the dish was meat pungently seasoned.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Pit and the Pendulum (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Pit and the Pendulum (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/machine,motif/nature,motif/prayer,motif/prison,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/nature,concept/suffering,concept/wonder"></span>
 
 
 Looking upward, I surveyed the ceiling of my [[Prison|prison]]. It was some
@@ -1048,7 +1048,7 @@ frivolity until my teeth were on edge.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Pit and the Pendulum (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Pit and the Pendulum (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/animals,motif/death,motif/pain,motif/time,motif/well,concept/body,concept/despair,concept/hope,histref/inquisition"></span>
 
 
 Down—steadily down it crept. I took a frenzied pleasure in
@@ -1158,7 +1158,7 @@ free.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Pit and the Pendulum (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Pit and the Pendulum (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/fire,motif/machine,motif/prison,motif/soul,motif/time,motif/well,concept/body,concept/despair,concept/doubt,concept/imagination,histref/inquisition"></span>
 
 
 Free!—and in the grasp of the [[Inquisition]]! I had scarcely stepped

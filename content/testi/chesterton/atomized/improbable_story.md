@@ -214,7 +214,7 @@ the restaurant withdrew.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="improbable_story (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="improbable_story (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock"></span>
 
 
 # improbable story
@@ -388,7 +388,7 @@ e gli altri organi sono messi altrettanto male."
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="improbable_story (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="improbable_story (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/hill,motif/home,motif/horse,motif/road,motif/silence,motif/stars,motif/time,concept/democracy,concept/honour,setting/london"></span>
 
 
 "No, I mean another street gone wrong," and he said heavily

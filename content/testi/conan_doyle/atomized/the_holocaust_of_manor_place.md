@@ -137,7 +137,7 @@ Mrs. Harris and the elder Cox were carried across the seas, and passed the short
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE HOLOCAUST OF MANOR PLACE (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE HOLOCAUST OF MANOR PLACE (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,concept/madness,setting/london"></span>
 
 
 THE HOLOCAUST OF MANOR PLACE
@@ -249,7 +249,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE HOLOCAUST OF MANOR PLACE (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE HOLOCAUST OF MANOR PLACE (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/villain,motif/blood,setting/london"></span>
 
 
 THE BRAVOES OF MARKET-DRAYTON

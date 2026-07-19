@@ -91,7 +91,7 @@ ché il Progresso viene presto, e la [[Freedom|Libertà]] troppo presto."
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="songs (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/sleep,motif/time,motif/wheel,concept/education,concept/faith,concept/freedom"></span>
 
 
 [[songs|Songs]] of [[Education]]  

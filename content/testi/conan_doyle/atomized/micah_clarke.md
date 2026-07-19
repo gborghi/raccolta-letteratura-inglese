@@ -2642,7 +2642,7 @@ This historical adventure novel is set during the Hundred Years’ War, in Engla
 
 
 
-<span class="atom-split" data-atom="chapter_01_of_cornet_joseph_clarke_of_the" data-title="MICAH CLARKE — Chapter 1: Of Cornet Joseph Clarke of the Ironsides" data-chapter="Of Cornet Joseph Clarke of the" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_of_cornet_joseph_clarke_of_the" data-title="MICAH CLARKE — Chapter 1: Of Cornet Joseph Clarke of the Ironsides" data-chapter="Of Cornet Joseph Clarke of the" data-kind="chapter" data-tags="archetype/fanatic,motif/journey,concept/fanaticism,histref/oliver_cromwell,character/oliver_cromwell"></span>
 
 
 CHAPTER I. Of Cornet Joseph Clarke of the Ironsides
@@ -2667,7 +2667,7 @@ Such were my parents as I remember them in my childhood. As to myself, I shall l
 
 
 
-<span class="atom-split" data-atom="chapter_02_of_my_going_to_school_and_of_m" data-title="MICAH CLARKE — Chapter 2: Of my going to school and of my coming thence" data-chapter="Of my going to school and of m" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_of_my_going_to_school_and_of_m" data-title="MICAH CLARKE — Chapter 2: Of my going to school and of my coming thence" data-chapter="Of my going to school and of m" data-kind="chapter" data-tags="concept/tolerance"></span>
 
 
 CHAPTER II. Of my going to school and of my coming thence.
@@ -2696,7 +2696,7 @@ By this time I had grown into a sturdy, broad-shouldered lad, and every month ad
 
 
 
-<span class="atom-split" data-atom="chapter_03_of_two_friends_of_my_youth" data-title="MICAH CLARKE — Chapter 3: Of Two Friends of my Youth" data-chapter="Of Two Friends of my Youth" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_of_two_friends_of_my_youth" data-title="MICAH CLARKE — Chapter 3: Of Two Friends of my Youth" data-chapter="Of Two Friends of my Youth" data-kind="chapter" data-tags="topos/fortunes_wheel,archetype/wise_old_man_sage,motif/book_reading,concept/faith,concept/virtue,concept/history,form/historical_novel,setting/rural_england,character/plato"></span>
 
 
 CHAPTER III. Of Two Friends of my Youth
@@ -2712,7 +2712,7 @@ Stirring as were Solomon Sprent’s accounts of his old commanders, their effect
 
 
 
-<span class="atom-split" data-atom="chapter_04_of_the_strange_fish_that_we_ca" data-title="MICAH CLARKE — Chapter 4: Of the Strange Fish that we Caught at Spithead" data-chapter="Of the Strange Fish that we Ca" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_of_the_strange_fish_that_we_ca" data-title="MICAH CLARKE — Chapter 4: Of the Strange Fish that we Caught at Spithead" data-chapter="Of the Strange Fish that we Ca" data-kind="chapter" data-tags="archetype/outcast_wanderer,motif/the_sea,motif/ship,concept/friendship,form/historical_novel,form/adventure_fiction,setting/the_sea,setting/england"></span>
 
 
 CHAPTER IV. Of the Strange Fish that we Caught at Spithead
@@ -2780,7 +2780,7 @@ All this time Reuben had been swinging away at his oars, and we had made our way
 
 
 
-<span class="atom-split" data-atom="chapter_05_of_the_man_with_the_drooping_l" data-title="MICAH CLARKE — Chapter 5: Of the Man with the Drooping Lids" data-chapter="Of the Man with the Drooping L" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_of_the_man_with_the_drooping_l" data-title="MICAH CLARKE — Chapter 5: Of the Man with the Drooping Lids" data-chapter="Of the Man with the Drooping L" data-kind="chapter" data-tags="motif/prayer"></span>
 
 
 CHAPTER V. Of the Man with the Drooping Lids
@@ -2823,7 +2823,7 @@ My father willingly agreed, and we sang ‘Oh, happy land!’ after which our vi
 
 
 
-<span class="atom-split" data-atom="chapter_06_of_the_letter_that_came_from_t" data-title="MICAH CLARKE — Chapter 6: Of the Letter that came from the Lowlands" data-chapter="Of the Letter that came from t" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_of_the_letter_that_came_from_t" data-title="MICAH CLARKE — Chapter 6: Of the Letter that came from the Lowlands" data-chapter="Of the Letter that came from t" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER VI. Of the Letter that came from the Lowlands
@@ -2922,7 +2922,7 @@ And so, my dear grandsons, the great resolution was taken, and I found myself co
 
 
 
-<span class="atom-split" data-atom="chapter_07_of_the_horseman_who_rode_from" data-title="MICAH CLARKE — Chapter 7: Of the Horseman who rode from the West" data-chapter="Of the Horseman who rode from" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_of_the_horseman_who_rode_from" data-title="MICAH CLARKE — Chapter 7: Of the Horseman who rode from the West" data-chapter="Of the Horseman who rode from" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER VII. Of the Horseman who rode from the West
@@ -2953,7 +2953,7 @@ We made our way across the fields to the house of Whittier, the Whig farmer, whe
 
 
 
-<span class="atom-split" data-atom="chapter_08_of_our_start_for_the_wars" data-title="MICAH CLARKE — Chapter 8: Of our Start for the Wars" data-chapter="Of our Start for the Wars" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_of_our_start_for_the_wars" data-title="MICAH CLARKE — Chapter 8: Of our Start for the Wars" data-chapter="Of our Start for the Wars" data-kind="chapter" data-tags="archetype/trickster,motif/the_journey,motif/the_road,motif/swords_and_weapons,motif/fire,concept/deception,form/historical_novel,histref/islam,setting/the_orient"></span>
 
 
 CHAPTER VIII. Of our Start for the Wars
@@ -3040,7 +3040,7 @@ This speech, combined with my companion’s haughty manner and fierce face, had 
 
 
 
-<span class="atom-split" data-atom="chapter_09_of_a_passage_of_arms_at_the_bl" data-title="MICAH CLARKE — Chapter 9: Of a Passage of Arms at the Blue Boar" data-chapter="Of a Passage of Arms at the Bl" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_of_a_passage_of_arms_at_the_bl" data-title="MICAH CLARKE — Chapter 9: Of a Passage of Arms at the Blue Boar" data-chapter="Of a Passage of Arms at the Bl" data-kind="chapter" data-tags="motif/prayer"></span>
 
 
 CHAPTER IX. Of a Passage of Arms at the Blue Boar
@@ -3094,7 +3094,7 @@ The sudden gush of tenderness in the last few lines made the tears spring to my 
 
 
 
-<span class="atom-split" data-atom="chapter_10_of_our_perilous_adventure_on_t" data-title="MICAH CLARKE — Chapter 10: Of our Perilous Adventure on the Plain" data-chapter="Of our Perilous Adventure on t" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_of_our_perilous_adventure_on_t" data-title="MICAH CLARKE — Chapter 10: Of our Perilous Adventure on the Plain" data-chapter="Of our Perilous Adventure on t" data-kind="chapter" data-tags="archetype/fool,motif/the_road,motif/night,motif/horse,concept/friendship,concept/comradeship,form/historical_novel,form/adventure_fiction,setting/england"></span>
 
 
 CHAPTER X. Of our Perilous Adventure on the Plain
@@ -3203,7 +3203,7 @@ As we approached we saw that the light did indeed come from a small cottage, whi
 
 
 
-<span class="atom-split" data-atom="chapter_11_of_the_lonely_man_and_the_gold" data-title="MICAH CLARKE — Chapter 11: Of the Lonely Man and the Gold Chest" data-chapter="Of the Lonely Man and the Gold" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_of_the_lonely_man_and_the_gold" data-title="MICAH CLARKE — Chapter 11: Of the Lonely Man and the Gold Chest" data-chapter="Of the Lonely Man and the Gold" data-kind="chapter" data-tags="archetype/wise_old_man_sage,motif/the_supernatural,motif/fire,concept/superstition_and_omen,concept/reason_and_rationalism,form/historical_novel,form/adventure_fiction,setting/england"></span>
 
 
 CHAPTER XI. Of the Lonely Man and the Gold Chest
@@ -3274,7 +3274,7 @@ With many grumbles Saxon consented at last to curl his long limbs up upon a mat,
 
 
 
-<span class="atom-split" data-atom="chapter_12_of_certain_passages_upon_the_m" data-title="MICAH CLARKE — Chapter 12: Of certain Passages upon the Moor" data-chapter="Of certain Passages upon the M" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_of_certain_passages_upon_the_m" data-title="MICAH CLARKE — Chapter 12: Of certain Passages upon the Moor" data-chapter="Of certain Passages upon the M" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XII. Of certain Passages upon the Moor
@@ -3359,7 +3359,7 @@ We pushed on our way accordingly, passing at a safe distance from Mere, which is
 
 
 
-<span class="atom-split" data-atom="chapter_13_of_sir_gervas_jerome_knight_ba" data-title="MICAH CLARKE — Chapter 13: Of Sir Gervas Jerome, Knight Banneret of the County of Surrey" data-chapter="Of Sir Gervas Jerome Knight Ba" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_of_sir_gervas_jerome_knight_ba" data-title="MICAH CLARKE — Chapter 13: Of Sir Gervas Jerome, Knight Banneret of the County of Surrey" data-chapter="Of Sir Gervas Jerome Knight Ba" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XIII. Of Sir Gervas Jerome, Knight Banneret of the County of Surrey
@@ -3444,7 +3444,7 @@ The soldier of fortune’s great brown grip enclosed the delicate hand of our ne
 
 
 
-<span class="atom-split" data-atom="chapter_14_of_the_stiff_legged_parson_and" data-title="MICAH CLARKE — Chapter 14: Of the Stiff-legged Parson and his Flock" data-chapter="Of the Stiff legged Parson and" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_of_the_stiff_legged_parson_and" data-title="MICAH CLARKE — Chapter 14: Of the Stiff-legged Parson and his Flock" data-chapter="Of the Stiff legged Parson and" data-kind="chapter" data-tags="motif/journey,histref/reformation"></span>
 
 
 CHAPTER XIV. Of the Stiff-legged Parson and his Flock
@@ -3538,7 +3538,7 @@ Saxon ceased, but the Reverend Joshua Pettigrue waved his long arms and repeated
 
 
 
-<span class="atom-split" data-atom="chapter_15_of_our_brush_with_the_kings_dr" data-title="MICAH CLARKE — Chapter 15: Of our Brush with the King’s Dragoons" data-chapter="Of our Brush with the Kings Dr" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_of_our_brush_with_the_kings_dr" data-title="MICAH CLARKE — Chapter 15: Of our Brush with the King’s Dragoons" data-chapter="Of our Brush with the Kings Dr" data-kind="chapter" data-tags="motif/prayer,concept/fanaticism"></span>
 
 
 CHAPTER XV. Of our Brush with the King’s Dragoons
@@ -3617,7 +3617,7 @@ Even Master Joshua saw that the matter was too pressing to permit of any spiritu
 
 
 
-<span class="atom-split" data-atom="chapter_16_of_our_coming_to_taunton" data-title="MICAH CLARKE — Chapter 16: Of our Coming to Taunton" data-chapter="Of our Coming to Taunton" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_of_our_coming_to_taunton" data-title="MICAH CLARKE — Chapter 16: Of our Coming to Taunton" data-chapter="Of our Coming to Taunton" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER XVI. Of our Coming to Taunton
@@ -3657,7 +3657,7 @@ The footpaths and causeway were black with throngs of the townsfolk, men, women,
 
 
 
-<span class="atom-split" data-atom="chapter_17_of_the_gathering_in_the_market" data-title="MICAH CLARKE — Chapter 17: Of the Gathering in the Market-square" data-chapter="Of the Gathering in the Market" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_of_the_gathering_in_the_market" data-title="MICAH CLARKE — Chapter 17: Of the Gathering in the Market-square" data-chapter="Of the Gathering in the Market" data-kind="chapter" data-tags="archetype/fanatic,motif/prayer,histref/puritanism"></span>
 
 
 CHAPTER XVII. Of the Gathering in the Market-square
@@ -3709,7 +3709,7 @@ The old Puritan gravely rolled up his papers, and having stood for a few moments
 
 
 
-<span class="atom-split" data-atom="chapter_18_of_master_stephen_timewell_may" data-title="MICAH CLARKE — Chapter 18: Of Master Stephen Timewell, Mayor of Taunton" data-chapter="Of Master Stephen Timewell May" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_of_master_stephen_timewell_may" data-title="MICAH CLARKE — Chapter 18: Of Master Stephen Timewell, Mayor of Taunton" data-chapter="Of Master Stephen Timewell May" data-kind="chapter" data-tags="motif/prayer"></span>
 
 
 CHAPTER XVIII. Of Master Stephen Timewell, Mayor of Taunton
@@ -3840,7 +3840,7 @@ As Saxon was firm in this resolution the Mayor forbore to press it upon him, but
 
 
 
-<span class="atom-split" data-atom="chapter_19_of_a_brawl_in_the_night" data-title="MICAH CLARKE — Chapter 19: Of a Brawl in the Night" data-chapter="Of a Brawl in the Night" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_of_a_brawl_in_the_night" data-title="MICAH CLARKE — Chapter 19: Of a Brawl in the Night" data-chapter="Of a Brawl in the Night" data-kind="chapter" data-tags="motif/swords_and_weapons,concept/fanaticism,concept/religious_sectarianism,concept/ambition,form/historical_novel,histref/puritanism,setting/the_military_camp"></span>
 
 
 CHAPTER XIX. Of a Brawl in the Night
@@ -3910,7 +3910,7 @@ As he spoke a group of gaily dressed cavaliers broke away from the main body and
 
 
 
-<span class="atom-split" data-atom="chapter_20_of_the_muster_of_the_men_of_th" data-title="MICAH CLARKE — Chapter 20: Of the Muster of the Men of the West" data-chapter="Of the Muster of the Men of th" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_of_the_muster_of_the_men_of_th" data-title="MICAH CLARKE — Chapter 20: Of the Muster of the Men of the West" data-chapter="Of the Muster of the Men of th" data-kind="chapter" data-tags="archetype/fanatic,motif/prayer"></span>
 
 
 CHAPTER XX. Of the Muster of the Men of the West
@@ -3962,7 +3962,7 @@ As I spoke we were riding into the market-place, which was now crowded with our 
 
 
 
-<span class="atom-split" data-atom="chapter_21_of_my_hand_grips_with_the_bran" data-title="MICAH CLARKE — Chapter 21: Of my Hand-grips with the Brandenburger" data-chapter="Of my Hand grips with the Bran" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_of_my_hand_grips_with_the_bran" data-title="MICAH CLARKE — Chapter 21: Of my Hand-grips with the Brandenburger" data-chapter="Of my Hand grips with the Bran" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER XXI. Of my Hand-grips with the Brandenburger
@@ -4082,7 +4082,7 @@ The council rose at the King’s salutation, and bowing to him they began to fil
 
 
 
-<span class="atom-split" data-atom="chapter_22_of_the_news_from_havant" data-title="MICAH CLARKE — Chapter 22: Of the News from Havant" data-chapter="Of the News from Havant" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_of_the_news_from_havant" data-title="MICAH CLARKE — Chapter 22: Of the News from Havant" data-chapter="Of the News from Havant" data-kind="chapter" data-tags="archetype/cavalier,motif/letters_and_writing,motif/clothing_and_costume,concept/money_and_avarice,form/historical_novel,setting/england"></span>
 
 
 CHAPTER XXII. Of the News from Havant
@@ -4159,7 +4159,7 @@ Sir Gervas had been chuckling to himself during the reading of this epistle, but
 
 
 
-<span class="atom-split" data-atom="chapter_23_of_the_snare_on_the_weston_roa" data-title="MICAH CLARKE — Chapter 23: Of the Snare on the Weston Road" data-chapter="Of the Snare on the Weston Roa" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_of_the_snare_on_the_weston_roa" data-title="MICAH CLARKE — Chapter 23: Of the Snare on the Weston Road" data-chapter="Of the Snare on the Weston Roa" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XXIII. Of the Snare on the Weston Road
@@ -4262,7 +4262,7 @@ I descended the steep stairs which led down into the low-roofed cabin of the lug
 
 
 
-<span class="atom-split" data-atom="chapter_24_of_the_welcome_that_met_me_at" data-title="MICAH CLARKE — Chapter 24: Of the Welcome that met me at Badminton" data-chapter="Of the Welcome that met me at" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24_of_the_welcome_that_met_me_at" data-title="MICAH CLARKE — Chapter 24: Of the Welcome that met me at Badminton" data-chapter="Of the Welcome that met me at" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XXIV. Of the Welcome that met me at Badminton
@@ -4385,7 +4385,7 @@ Here was the ‘vultus instantis tyranni,’ in this stout, be-wigged, lace-cove
 
 
 
-<span class="atom-split" data-atom="chapter_25_of_strange_doings_in_the_botel" data-title="MICAH CLARKE — Chapter 25: Of Strange Doings in the Boteler Dungeon" data-chapter="Of Strange Doings in the Botel" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_of_strange_doings_in_the_botel" data-title="MICAH CLARKE — Chapter 25: Of Strange Doings in the Boteler Dungeon" data-chapter="Of Strange Doings in the Botel" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XXV. Of Strange Doings in the Boteler Dungeon
@@ -4480,7 +4480,7 @@ The troopers turned their horses and trotted slowly back to Taunton, while I rod
 
 
 
-<span class="atom-split" data-atom="chapter_26_of_the_strife_in_the_council" data-title="MICAH CLARKE — Chapter 26: Of the Strife in the Council" data-chapter="Of the Strife in the Council" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_of_the_strife_in_the_council" data-title="MICAH CLARKE — Chapter 26: Of the Strife in the Council" data-chapter="Of the Strife in the Council" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER XXVI. Of the Strife in the Council
@@ -4524,7 +4524,7 @@ You know old Samuel’s couplet. I tell you, I would rather see them thus employ
 
 
 
-<span class="atom-split" data-atom="chapter_27_of_the_affair_near_keynsham_br" data-title="MICAH CLARKE — Chapter 27: Of the Affair near Keynsham Bridge" data-chapter="Of the Affair near Keynsham Br" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_of_the_affair_near_keynsham_br" data-title="MICAH CLARKE — Chapter 27: Of the Affair near Keynsham Bridge" data-chapter="Of the Affair near Keynsham Br" data-kind="chapter" data-tags="motif/rain,motif/drums_and_bugles,motif/flags_and_banners,motif/the_journey,concept/superstition_and_omen,form/historical_novel,setting/england"></span>
 
 
 CHAPTER XXVII. Of the Affair near Keynsham Bridge
@@ -4594,7 +4594,7 @@ The council broke up forthwith, every man riding off to his own regiment. The wh
 
 
 
-<span class="atom-split" data-atom="chapter_28_of_the_fight_in_wells_cathedra" data-title="MICAH CLARKE — Chapter 28: Of the Fight in Wells Cathedral" data-chapter="Of the Fight in Wells Cathedra" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28_of_the_fight_in_wells_cathedra" data-title="MICAH CLARKE — Chapter 28: Of the Fight in Wells Cathedral" data-chapter="Of the Fight in Wells Cathedra" data-kind="chapter" data-tags="archetype/fanatic,motif/prayer"></span>
 
 
 CHAPTER XXVIII. Of the Fight in Wells Cathedral
@@ -4641,7 +4641,7 @@ The enemy’s horse hovered about us during these days, but the foot had been de
 
 
 
-<span class="atom-split" data-atom="chapter_29_of_the_great_cry_from_the_lone" data-title="MICAH CLARKE — Chapter 29: Of the Great Cry from the Lonely House" data-chapter="Of the Great Cry from the Lone" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29_of_the_great_cry_from_the_lone" data-title="MICAH CLARKE — Chapter 29: Of the Great Cry from the Lonely House" data-chapter="Of the Great Cry from the Lone" data-kind="chapter" data-tags="concept/liberty_political_freedom,concept/conscience,concept/religious_persecution,concept/reason_and_rationalism,concept/authority,concept/nationalism_and_patriotism,form/historical_novel,histref/catholic_church,setting/england"></span>
 
 
 CHAPTER XXIX. Of the Great Cry from the Lonely House
@@ -4685,7 +4685,7 @@ A dark mass loomed in front of us, which proved as we approached to be four hors
 
 
 
-<span class="atom-split" data-atom="chapter_30_of_the_swordsman_with_the_brow--part_01" data-title="MICAH CLARKE — Chapter 30: Of the Swordsman with the Brown Jacket (part 1)" data-chapter="Of the Swordsman with the Brow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_of_the_swordsman_with_the_brow--part_01" data-title="MICAH CLARKE — Chapter 30: Of the Swordsman with the Brown Jacket (part 1)" data-chapter="Of the Swordsman with the Brow" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 CHAPTER XXX. Of the Swordsman with the Brown Jacket
@@ -4767,7 +4767,7 @@ Leaving the ill-omened farmhouse behind us we set off with all military precauti
 
 
 
-<span class="atom-split" data-atom="chapter_30_of_the_swordsman_with_the_brow--part_02" data-title="MICAH CLARKE — Chapter 30: Of the Swordsman with the Brown Jacket (part 2)" data-chapter="Of the Swordsman with the Brow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_of_the_swordsman_with_the_brow--part_02" data-title="MICAH CLARKE — Chapter 30: Of the Swordsman with the Brown Jacket (part 2)" data-chapter="Of the Swordsman with the Brow" data-kind="excerpt" data-tags="archetype/fanatic"></span>
 
 
 CHAPTER XXXI. Of the Maid of the Marsh and the Bubble which rose from the Bog
@@ -4890,7 +4890,7 @@ I soothed the little trembling thing as best I might, and bore her off with me u
 
 
 
-<span class="atom-split" data-atom="chapter_31_of_the_onfall_at_sedgemoor" data-title="MICAH CLARKE — Chapter 32: Of the Onfall at Sedgemoor" data-chapter="Of the Onfall at Sedgemoor" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_of_the_onfall_at_sedgemoor" data-title="MICAH CLARKE — Chapter 32: Of the Onfall at Sedgemoor" data-chapter="Of the Onfall at Sedgemoor" data-kind="chapter" data-tags="motif/journey,motif/prayer,setting/battlefield"></span>
 
 
 CHAPTER XXXII. Of the Onfall at Sedgemoor
@@ -5034,7 +5034,7 @@ It was now going on to mid-day, and I began to feel very hungry, for I had taste
 
 
 
-<span class="atom-split" data-atom="chapter_32_of_my_perilous_adventure_at_th" data-title="MICAH CLARKE — Chapter 33: Of my Perilous Adventure at the Mill" data-chapter="Of my Perilous Adventure at th" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32_of_my_perilous_adventure_at_th" data-title="MICAH CLARKE — Chapter 33: Of my Perilous Adventure at the Mill" data-chapter="Of my Perilous Adventure at th" data-kind="chapter" data-tags="motif/prayer"></span>
 
 
 CHAPTER XXXIII. Of my Perilous Adventure at the Mill
@@ -5128,7 +5128,7 @@ During the whole of our long ride I found the worthy sergeant a true follower of
 
 
 
-<span class="atom-split" data-atom="chapter_33_of_the_coming_of_solomon_spren" data-title="MICAH CLARKE — Chapter 34: Of the Coming of Solomon Sprent" data-chapter="Of the Coming of Solomon Spren" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33_of_the_coming_of_solomon_spren" data-title="MICAH CLARKE — Chapter 34: Of the Coming of Solomon Sprent" data-chapter="Of the Coming of Solomon Spren" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER XXXIV. Of the Coming of Solomon Sprent
@@ -5185,7 +5185,7 @@ It was on a Monday evening that the Lord Chief Justice made his entry. From one 
 
 
 
-<span class="atom-split" data-atom="chapter_34_of_the_devil_in_wig_and_gown" data-title="MICAH CLARKE — Chapter 35: Of the Devil in Wig and Gown" data-chapter="Of the Devil in Wig and Gown" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34_of_the_devil_in_wig_and_gown" data-title="MICAH CLARKE — Chapter 35: Of the Devil in Wig and Gown" data-chapter="Of the Devil in Wig and Gown" data-kind="chapter" data-tags="motif/journey,motif/prayer,setting/battlefield"></span>
 
 
 CHAPTER XXXV. Of the Devil in Wig and Gown
@@ -5352,7 +5352,7 @@ I pressed the rough soldier’s horny hand, and descended into the fishing-boat.
 
 
 
-<span class="atom-split" data-atom="chapter_35_of_the_end_of_it_all" data-title="MICAH CLARKE — Chapter 36: Of the End of it All" data-chapter="Of the End of it All" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35_of_the_end_of_it_all" data-title="MICAH CLARKE — Chapter 36: Of the End of it All" data-chapter="Of the End of it All" data-kind="chapter" data-tags="motif/journey,motif/prayer"></span>
 
 
 CHAPTER XXXVI. Of the End of it All

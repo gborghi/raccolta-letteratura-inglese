@@ -1083,7 +1083,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Henry V — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Henry V — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,motif/clock,motif/crown,motif/desire,motif/night,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/honour,concept/self,concept/wonder,histref/reformation,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1115,7 +1115,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Henry V — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Henry V — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/tyrant,archetype/usurper,motif/bees,motif/blood,motif/crown,motif/fire,motif/flag,motif/grave,motif/hill,motif/home,motif/lion,motif/marriage,motif/nature,motif/river,motif/soul,motif/summer,motif/time,motif/well,concept/conscience,concept/courage,concept/fear,concept/greatness,concept/history,concept/hope,concept/mortality,concept/nature,concept/pride,concept/truth,form/history,form/tragedy,setting/germany,character/bottom,character/clarence,character/dauphin,character/edward_the_black_prince,character/gloucester,character/henry_v,character/queen_isabel"></span>
 
 
 | Speaker | Line |
@@ -1163,7 +1163,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_0" data-title="Henry V — Act II, Scene 0" data-chapter="Scene 0" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_0" data-title="Henry V — Act II, Scene 0" data-chapter="Scene 0" data-kind="scene" data-tags="archetype/king,motif/fire,motif/horse,motif/mirror,motif/ship,concept/body,concept/fear,concept/greatness,concept/guilt,concept/honour,setting/london,setting/ship,character/chorus,character/henry_v,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1174,7 +1174,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Henry V — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Henry V — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/fire,motif/grave,motif/home,motif/sleep,motif/time,motif/well,concept/faith,concept/friendship,character/doll_tearsheet,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1236,7 +1236,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Henry V — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Henry V — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/desert,motif/grave,motif/lion,motif/love,motif/soul,motif/well,motif/wind,concept/body,concept/doubt,concept/faith,concept/honour,concept/hope,concept/jealousy,concept/mercy,concept/revenge,concept/truth,concept/wonder,setting/desert,character/bottom,character/gloucester,character/henry_v,character/king_of_france,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1283,7 +1283,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Henry V — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Henry V — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/fire,motif/flowers,motif/love,motif/soul,motif/well,concept/courage,character/arthur,character/falstaff,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1315,7 +1315,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Henry V — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Henry V — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/desire,motif/dust,motif/love,motif/nature,motif/night,motif/ship,motif/spring,motif/tears,motif/time,motif/well,motif/wind,concept/courage,concept/fear,concept/mercy,concept/nature,concept/self,concept/vanity,concept/wonder,setting/court,setting/paris,setting/ship,character/brutus,character/chorus,character/dauphin,character/duke_of_exeter,character/henry_v,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1356,7 +1356,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Henry V — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Henry V — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/nature,concept/doubt,concept/humility,concept/nature,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1368,7 +1368,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Henry V — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Henry V — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/fire,concept/honour,setting/london,character/fluellen,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1394,7 +1394,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Henry V — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Henry V — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/death,motif/hill,motif/soul,motif/time,motif/well,motif/wind,motif/winter,concept/conscience,concept/faith,concept/mercy,character/dauphin,character/duke_of_gloucester,character/fluellen,character/gower,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1437,7 +1437,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Henry V — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Henry V — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="character/henry_v,character/princess_catherine"></span>
 
 
 | Speaker | Line |
@@ -1482,7 +1482,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Henry V — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Henry V — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/blood,motif/river,motif/snow,motif/water,concept/faith,concept/fear,concept/honour,character/dauphin,character/henry_v,character/jaques,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1507,7 +1507,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Henry V — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Henry V — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/desire,motif/fire,motif/love,motif/mutability,motif/night,motif/river,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/wheel,concept/conscience,concept/friendship,concept/honour,concept/hope,concept/truth,setting/london,character/agamemnon,character/duke_of_exeter,character/fluellen,character/gloucester,character/gower,character/henry_v,character/mark_antony,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1563,7 +1563,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry V — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry V — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/clock,motif/desert,motif/fire,motif/horse,motif/lamb,motif/lion,motif/nature,motif/night,motif/stars,motif/time,motif/water,motif/well,concept/courage,concept/faith,concept/fear,concept/friendship,concept/honour,concept/hope,concept/nature,concept/wonder,form/sonnet,setting/desert,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1634,7 +1634,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_0" data-title="Henry V — Act IV, Scene 0" data-chapter="Scene 0" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_0" data-title="Henry V — Act IV, Scene 0" data-chapter="Scene 0" data-kind="scene" data-tags="motif/fire,motif/ghosts,motif/moon,motif/night,motif/soul,motif/time,concept/fear,character/chorus,character/henry_v,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1645,7 +1645,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Henry V — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Henry V — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,motif/blood,motif/crown,motif/dawn,motif/death,motif/desire,motif/grave,motif/horse,motif/love,motif/nakedness,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/doubt,concept/fear,concept/greatness,concept/guilt,concept/mercy,setting/court,character/christ,character/clarence,character/duke_of_gloucester,character/fluellen,character/gloucester,character/gower,character/henry_v,character/hyperion,character/michael,character/pistol,character/pompey,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1744,7 +1744,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Henry V — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Henry V — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/death,motif/horse,motif/tears,concept/courage,concept/fear,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1775,7 +1775,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Henry V — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Henry V — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/home,motif/lion,motif/night,motif/soul,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/mortality,concept/truth,character/clarence,character/duke_of_york,character/earl_of_salisbury,character/gloucester,character/henry_v,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1819,7 +1819,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Henry V — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Henry V — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/blood,concept/mercy,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1862,7 +1862,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Henry V — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Henry V — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/home,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -1881,7 +1881,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Henry V — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Henry V — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/love,motif/soul,motif/tears,motif/well,concept/honour,character/duke_of_exeter,character/duke_of_york,character/earl_of_suffolk,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1900,7 +1900,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry V — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry V — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/garden,motif/hill,motif/love,motif/memory,motif/night,motif/river,motif/water,motif/well,concept/conscience,concept/honour,concept/mercy,setting/castle,character/falstaff,character/fluellen,character/gloucester,character/gower,character/henry_v,character/lucifer"></span>
 
 
 | Speaker | Line |
@@ -1970,7 +1970,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_8" data-title="Henry V — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_8" data-title="Henry V — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/death,motif/desire,motif/night,motif/summer,concept/charity,concept/common_man,concept/conscience,concept/honour,concept/hope,character/dauphin,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/fluellen,character/gower,character/henry_v,character/jaques,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2021,7 +2021,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_0" data-title="Henry V — Act V, Scene 0" data-chapter="Scene 0" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_0" data-title="Henry V — Act V, Scene 0" data-chapter="Scene 0" data-kind="scene" data-tags="archetype/king,motif/city,motif/desire,motif/home,motif/time,concept/pride,concept/self,setting/london,character/chorus,character/henry_v"></span>
 
 
 | Speaker | Line |
@@ -2036,7 +2036,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Henry V — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Henry V — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/desire,motif/love,motif/time,motif/well,concept/doubt,concept/honour,concept/revenge,concept/truth,character/fluellen,character/gower,character/henry_v,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -2078,7 +2078,7 @@ Gently to hear, kindly to judge, our play. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Henry V — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Henry V — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/death,motif/garden,motif/home,motif/horse,motif/love,motif/marriage,motif/moon,motif/night,motif/summer,motif/time,motif/well,concept/ambition,concept/beauty,concept/body,concept/faith,concept/history,concept/honour,concept/hope,concept/jealousy,concept/pride,concept/revenge,concept/self,concept/wonder,form/history,form/tragedy,form/translation,histref/roman_history,character/brutus,character/cassius,character/chorus,character/clarence,character/dauphin,character/earl_of_warwick,character/gloucester,character/henry_v,character/julius_caesar,character/king_of_france,character/lepidus,character/lucrece,character/nurse,character/octavius_caesar,character/princess_catherine,character/queen,character/queen_isabel,character/speed,character/titus_andronicus"></span>
 
 
 | Speaker | Line |

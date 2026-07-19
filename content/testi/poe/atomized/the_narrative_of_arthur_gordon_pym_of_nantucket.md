@@ -13045,7 +13045,7 @@ transcription.]
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/home,motif/memory,motif/night,motif/tears,motif/time,motif/well,concept/deception,concept/despair,concept/imagination,concept/longing,concept/melancholy,concept/suffering,character/ariel"></span>
 
 
 CHAPTER II.
@@ -13229,7 +13229,7 @@ straight to Augustus, who was waiting for me at the corner of a street.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/nature,motif/rose,motif/ship,motif/soul,motif/time,motif/water,motif/well,concept/nature,setting/ship,character/edmund"></span>
 
 
 It had been our original plan that I should keep out of the way until
@@ -13415,7 +13415,7 @@ removed at pleasure. He slipped it aside and displayed the interior, at
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/sleep,motif/time,motif/water,motif/well,concept/fear,concept/suffering,character/bottom"></span>
 
 
 which I was excessively amused. A mattress from one of the cabin berths
@@ -13601,7 +13601,7 @@ in my books. I was overpowered, too, with a [[Desire|desire]] to [[Sleep|sleep]]
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/death,motif/dreams,motif/lion,motif/love,motif/memory,motif/rose,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/mercy,concept/solitude,concept/suffering"></span>
 
 
 trembled at the thought of indulging it, lest there might exist some
@@ -13775,7 +13775,7 @@ certainly, did any creature more truly deserve it. For seven years he
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/villain,motif/death,motif/journey,motif/ship,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/hope,setting/ship,character/bottom"></span>
 
 
 had been my inseparable companion, and in a multitude of instances had
@@ -13959,7 +13959,7 @@ that it had formerly required little or no effort to remove it. I
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/nature,concept/body,concept/despair,concept/nature,concept/suffering"></span>
 
 
 pushed it strongly--it was nevertheless firm: with all my strength--it
@@ -14067,7 +14067,7 @@ beneath the left shoulder of the animal.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/journey,motif/prison,motif/sleep,motif/time,motif/water,motif/well,concept/wonder"></span>
 
 
 CHAPTER III.
@@ -14257,7 +14257,7 @@ From the worst part of this dilemma I was relieved by the sagacity of
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/night,motif/prison,motif/soul,motif/time,motif/water,concept/courage,concept/despair,concept/doubt,concept/imprisonment,concept/suffering"></span>
 
 
 Tiger. Having got, after a long search, a small piece of the note, I
@@ -14437,7 +14437,7 @@ skin; and all the biscuit, except a few fragments of one, had been
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/prison,motif/rose,motif/time,motif/water,concept/body,concept/despair,concept/doubt,concept/fear,concept/hope"></span>
 
 
 eaten by Tiger. To add to my troubles, I found that my headache was
@@ -14663,7 +14663,7 @@ board during my incarceration.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/nature,motif/time,motif/water,motif/well,concept/body,concept/nature,concept/wonder,character/pistol"></span>
 
 
 CHAPTER IV.
@@ -14847,7 +14847,7 @@ for a moment it seemed possible that the brig might be retaken. The
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/nature,motif/river,motif/rose,motif/time,motif/well,concept/doubt,concept/nature"></span>
 
 
 mutineers, however, succeeded at last in closing the forecastle
@@ -15027,7 +15027,7 @@ set him adrift, but to return to their duty, and promising to land them
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/moon,motif/night,motif/ship,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/friendship,concept/hope,setting/ship"></span>
 
 
 wherever they chose, and to take no steps for bringing them to justice.
@@ -15157,7 +15157,7 @@ the ultimate means of my relief, as will presently appear.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/dawn,motif/night,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/doubt"></span>
 
 
 CHAPTER V.
@@ -15343,7 +15343,7 @@ it was that the idea occurred to him as it did: for, had it not been
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/ship,motif/time,motif/water,motif/well,concept/beauty,concept/freedom,concept/grotesque,setting/ship"></span>
 
 
 for the receipt of the note, I should undoubtedly have fallen upon some
@@ -15527,7 +15527,7 @@ period breathing so oppressive an air. He called my name repeatedly,
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/despair,concept/doubt,concept/faith,concept/friendship,concept/nature,concept/truth"></span>
 
 
 but I made him no reply, and his apprehensions seemed thus to be
@@ -15679,7 +15679,7 @@ the box in a state of utter exhaustion.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/nature"></span>
 
 
 CHAPTER VI.
@@ -15869,7 +15869,7 @@ Upon these boards strong temporary stanchions should be erected,
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/double,motif/nature,motif/night,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/doubt,concept/freedom,concept/nature,concept/wonder,setting/ship,character/bottom"></span>
 
 
 reaching to the timbers above, and thus securing everything in its
@@ -16055,7 +16055,7 @@ was cut adrift; and used other language of a consolatory [[Nature|nature]], whic
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/night,motif/noon,motif/ship,motif/sleep,motif/time,motif/water,motif/wind,concept/doubt,concept/madness,setting/ship,character/jones,character/richard"></span>
 
 
 occasioned me no less surprise than pleasure. Indeed, I began to
@@ -16307,7 +16307,7 @@ Augustus had no opportunity of speaking with him privately.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/night,motif/time,motif/water,motif/well,motif/wind,concept/fear,character/jones"></span>
 
 
 CHAPTER VII.
@@ -16495,7 +16495,7 @@ stand-still, to wait for another vessel, or any similar object. If the
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,motif/death,motif/nature,motif/storm,motif/water,motif/well,motif/wind,concept/conscience,concept/doubt,concept/mercy,concept/nature"></span>
 
 
 vessel which lies to is under full sail, the manoeuvre is usually
@@ -16683,7 +16683,7 @@ whiteness, except where relieved by two or three glaring red splotches,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/chalk,motif/noon,motif/time,motif/water,motif/well,concept/body"></span>
 
 
 like those occasioned by the erysipelas: one of these splotches
@@ -16795,7 +16795,7 @@ and presented a most shocking appearance.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/time,motif/well,motif/wind,concept/body,form/fragment,character/jones"></span>
 
 
 CHAPTER VIII.
@@ -16991,7 +16991,7 @@ once, as it was too horrible a sight to see it floundering about in the
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,archetype/villain,motif/nature,motif/time,concept/deception,concept/despair,concept/doubt,concept/hope,concept/nature,concept/suffering,concept/wonder,character/bottom,character/jones,character/richard"></span>
 
 
 scuppers. At this the [[Villain|villain]] absolutely gasped for breath, and turned
@@ -17167,7 +17167,7 @@ The only person of our opponents who was left alive was [[Richard]] Parker.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/crown,motif/night,motif/noon,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,concept/mercy,setting/ship,character/jones"></span>
 
 
 This man, it will be remembered, I had knocked down with a blow from
@@ -17385,7 +17385,7 @@ hatchways, and filling every inch of the vessel with [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/pain,motif/silence,motif/time,motif/water,motif/wind,concept/body,concept/courage,concept/hope,concept/mercy,concept/nature"></span>
 
 
 CHAPTER IX.
@@ -17567,7 +17567,7 @@ severe gale. I had not heard any of my companions speak for hours, and
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/blood,motif/death,motif/night,motif/pain,motif/time,motif/water,motif/wind,concept/body,concept/courage,concept/doubt,concept/hope,concept/imagination"></span>
 
 
 now called to Augustus. He replied, although very feebly, so that I
@@ -17745,7 +17745,7 @@ this, they felt remarkably warm and pleasant, and served to invigorate
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/tears,motif/time,motif/water,concept/body,concept/despair,concept/freedom,concept/hope"></span>
 
 
 us in no little degree. We helped Augustus off with his, and wrung them
@@ -17939,7 +17939,7 @@ mortal means towards accomplishing our deliverance.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 10" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 10" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/death,motif/nature,motif/poison,motif/soul,motif/tears,motif/time,motif/water,concept/body,concept/despair,concept/doubt,concept/hope,concept/nature"></span>
 
 
 CHAPTER X.
@@ -18269,7 +18269,7 @@ mystery.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/chains,motif/death,motif/nature,motif/spring,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/hope,concept/nature"></span>
 
 
 CHAPTER XI.
@@ -18467,7 +18467,7 @@ it. With my knife I cut off a small portion of the leather trunk, and
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/childhood,motif/night,motif/noon,motif/spring,motif/swallow,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/hope,concept/melancholy,concept/suffering"></span>
 
 
 endeavoured to eat it, but found it utterly impossible to [[Swallow|swallow]] a
@@ -18651,7 +18651,7 @@ too [[Well|well]] aware that we were far from any land to indulge in a [[Hope|ho
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/ship,motif/swallow,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/madness,concept/nature,concept/self,setting/ship"></span>
 
 
 that [[Nature|nature]]. It was a long [[Time|time]], nevertheless, before I could convince
@@ -18769,7 +18769,7 @@ should die to preserve the existence of the others.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/death,motif/memory,motif/nature,motif/ship,motif/time,motif/well,concept/fear,concept/hope,concept/nature,form/tragedy,setting/ship"></span>
 
 
 CHAPTER XII.
@@ -18965,7 +18965,7 @@ lots. There are few conditions into which man can possibly fall where
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/death,motif/nature,motif/storm,motif/time,motif/water,motif/wind,concept/body,concept/hope,concept/nature,form/tragedy"></span>
 
 
 he will not feel a deep interest in the preservation of his existence;
@@ -19157,7 +19157,7 @@ in the cabin, the opening being much smaller, for it will be remembered
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/animals,motif/desert,motif/moon,motif/night,motif/noon,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/hope,setting/desert"></span>
 
 
 that the whole framework about the cabin companion-hatch had been
@@ -19389,7 +19389,7 @@ as we could, we threw on his back, and otherwise carefully fastened.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/monster,motif/chains,motif/lightning,motif/night,motif/noon,motif/pain,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/doubt,concept/mercy,character/bottom"></span>
 
 
 CHAPTER XIII.
@@ -19585,7 +19585,7 @@ _July 30._ An excessively hot day, with no [[Wind|wind]]. An enormous shark kept
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/death,motif/lightning,motif/night,motif/swallow,motif/time,motif/water,motif/well,concept/body,concept/courage,concept/doubt,concept/melancholy"></span>
 
 
 close by the hulk during the whole of the forenoon. We made several
@@ -19767,7 +19767,7 @@ thrust themselves directly upon us, swimming up to leeward. No shouts
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/chains,motif/night,motif/sleep,motif/water,motif/well,concept/body,concept/despair,concept/doubt,character/bottom"></span>
 
 
 or exertions on our part seemed to alarm them. Even when one of the
@@ -19959,7 +19959,7 @@ position, we being much more at our ease, and in infinitely less
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/flag,motif/home,motif/night,motif/noon,motif/sleep,motif/time,motif/water,motif/wind,concept/mercy,concept/suffering"></span>
 
 
 danger, than before.
@@ -20143,7 +20143,7 @@ their fate._"]
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/cross,motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/nature,concept/suffering"></span>
 
 
 CHAPTER XIV.
@@ -20341,7 +20341,7 @@ very much, and brought down upon us one of the most tremendous seas I
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/home,motif/ship,motif/snow,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/hope,setting/ship,character/bottom"></span>
 
 
 had then ever beheld. Everything had been made as snug as possible, but
@@ -20533,7 +20533,7 @@ palatable food. In flying they sometimes sail very close to the surface
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/leaves,motif/nature,motif/time,motif/water,motif/well,concept/friendship,concept/nature"></span>
 
 
 of the [[Water|water]], with the wings expanded, without appearing to move them
@@ -20757,7 +20757,7 @@ regard to the sending a jollyboat from the schooner to take them off.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 15" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 15" data-chapter="Chapter 14" data-kind="chapter" data-tags="topos/double,motif/animals,motif/birds,motif/home,motif/moon,motif/nightingale,motif/ship,motif/snow,motif/time,motif/water,motif/well,motif/wind,concept/hope,setting/london,setting/ship"></span>
 
 
 CHAPTER XV.
@@ -21091,7 +21091,7 @@ with the same result as in our own.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 16" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 16" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/birds,motif/ship,motif/snow,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/body,concept/honour,concept/hope,setting/london,setting/mountains,setting/russia,setting/ship,character/queen"></span>
 
 
 CHAPTER XVI.
@@ -21459,7 +21459,7 @@ resolution of pushing boldly to the southward.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 17" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 17" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/monster,motif/animals,motif/birds,motif/blood,motif/noon,motif/secrets,motif/snow,motif/water,motif/well,motif/wind,concept/body,concept/doubt,concept/honour,concept/hope,setting/mountains,character/bottom"></span>
 
 
 CHAPTER XVII.
@@ -21825,7 +21825,7 @@ in opening to the eye of science one of the most intensely exciting
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/memory,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/body,character/bottom"></span>
 
 
 CHAPTER XVIII.
@@ -22017,7 +22017,7 @@ admit no more than twenty of his men on deck at one [[Time|time]]. With this
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/hope,concept/self,concept/wonder,character/bottom"></span>
 
 
 arrangement he appeared perfectly satisfied, and gave some directions
@@ -22201,7 +22201,7 @@ board as hostages, a party of us, twelve in all, got in readiness to
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/mirror,motif/nature,motif/time,motif/water,motif/well,concept/nature,form/novel"></span>
 
 
 attend the chief. We took care to be [[Well|well]] armed, yet without evincing
@@ -22309,7 +22309,7 @@ apparent miracles with which I was destined to be at length encircled.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 19" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 19" data-chapter="Chapter 18" data-kind="chapter" data-tags="motif/animals,motif/birds,motif/cross,motif/death,motif/home,motif/leaves,motif/road,motif/silence,motif/water,motif/well,concept/beauty,concept/body,concept/faith,concept/freedom,concept/friendship,character/bottom"></span>
 
 
 CHAPTER XIX.
@@ -22667,7 +22667,7 @@ village.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/birds,motif/nature,motif/seasons,motif/swallow,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/history,concept/nature,form/history,character/bottom"></span>
 
 
 CHAPTER XX.
@@ -22859,7 +22859,7 @@ pressure, and they are much like those of any other small tenant of the
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/spring,motif/time,motif/water,motif/well,concept/faith,setting/london"></span>
 
 
 deep. The article is then washed, and afterward boiled to a certain
@@ -23051,7 +23051,7 @@ penetrate. The general width was about forty feet, and occasionally it
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/fire,motif/hill,concept/body,concept/friendship"></span>
 
 
 diminished so as not to allow the passage of more than five or six
@@ -23135,7 +23135,7 @@ and that the day of universal dissolution was at hand.
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 21" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 21" data-chapter="Chapter 20" data-kind="chapter" data-tags="motif/hill,motif/nature,motif/prison,motif/time,motif/well,concept/body,concept/courage,concept/despair,concept/doubt,concept/hope,concept/nature,character/bottom"></span>
 
 
 CHAPTER XXI.
@@ -23433,7 +23433,7 @@ We were the only living white men upon the island.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/double,motif/death,motif/time,motif/water,motif/winter,concept/honour,concept/hope,character/bottom,character/pistol"></span>
 
 
 CHAPTER XXII.
@@ -23627,7 +23627,7 @@ swimming about in every direction, screaming and yelling for aid. This
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/chains,motif/fire,motif/hill,motif/spring,motif/time,motif/water"></span>
 
 
 great [[success]], however, came too late for the salvation of our devoted
@@ -23817,7 +23817,7 @@ bowels, arose a tall stream of vivid [[Fire|fire]] to the height, apparently, of
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 22 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/time,concept/body"></span>
 
 
 a quarter of a mile--then there came a sudden circular expansion of the
@@ -23907,7 +23907,7 @@ with loud screams of _Tekeli-li! Tekeli-li!_
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 23" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 23" data-chapter="Chapter 22" data-kind="chapter" data-tags="motif/dust,motif/fire,motif/hill,motif/leaves,motif/nature,motif/prison,motif/time,motif/water,motif/well,concept/hope,concept/imagination,concept/nature,character/bottom"></span>
 
 
 CHAPTER XXIII.
@@ -24277,7 +24277,7 @@ preceding page.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/desire,motif/hill,motif/nature,motif/soul,motif/time,motif/well,concept/imagination,concept/longing,concept/nature,character/bottom,character/phantom,character/pistol"></span>
 
 
 CHAPTER XXIV.
@@ -24465,7 +24465,7 @@ I had swooned, and Peters had caught me as I fell. He had observed my
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/hill,motif/time,motif/water,concept/courage,character/bottom,character/speed"></span>
 
 
 proceedings from his station at the [[Bottom|bottom]] of the cliff; and,
@@ -24661,7 +24661,7 @@ we became sufficiently calm to perceive the great oversight of which we
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well,concept/body,concept/hope,concept/mercy,concept/truth,character/pistol,character/speed"></span>
 
 
 had been guilty in leaving the other canoe in the power of the savages,
@@ -24769,7 +24769,7 @@ despairing to overtake us.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/king,motif/water,motif/well,motif/wind,motif/winter,concept/body,concept/hope,concept/wonder,setting/court"></span>
 
 
 CHAPTER XXV.
@@ -24961,7 +24961,7 @@ accident, from some large island to the southwest--that his own name
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/death,motif/hill,motif/nature,motif/snow,motif/water,motif/well,motif/wind,motif/winter,concept/body,concept/nature,character/bottom"></span>
 
 
 was Nu-Nu--that he had no knowledge of Bennet's Islet--and that the
@@ -25171,7 +25171,7 @@ were to have completed his narrative, and which were retained by him,
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/dust,motif/well,concept/body,concept/doubt,concept/truth"></span>
 
 
 while the above were in type, for the purpose of revision, have been

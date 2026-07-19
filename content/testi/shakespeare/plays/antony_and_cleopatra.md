@@ -1690,7 +1690,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Antony and Cleopatra — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Antony and Cleopatra — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/desire,motif/love,motif/night,motif/pain,motif/time,concept/hope,setting/egypt,character/cleopatra,character/demetrius,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1724,7 +1724,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Antony and Cleopatra — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Antony and Cleopatra — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/blood,motif/death,motif/desire,motif/grave,motif/home,motif/love,motif/nature,motif/poison,motif/prayer,motif/tears,motif/time,motif/water,motif/well,concept/nature,concept/truth,setting/italy,character/charmian,character/cleopatra,character/enobarbus,character/lucius,character/octavius_caesar,character/pompey,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1844,7 +1844,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Antony and Cleopatra — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Antony and Cleopatra — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/cross,motif/death,motif/fire,motif/love,motif/nature,motif/tears,motif/time,motif/water,motif/well,concept/eternity,concept/fear,concept/freedom,concept/honour,concept/madness,concept/nature,setting/egypt,setting/italy,character/charmian,character/cleopatra,character/pompey,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1899,7 +1899,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Antony and Cleopatra — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Antony and Cleopatra — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/rebel,motif/blood,motif/flag,motif/love,motif/night,motif/noon,motif/snow,motif/time,concept/body,concept/doubt,concept/honour,setting/italy,character/cleopatra,character/lepidus,character/pompey,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1928,7 +1928,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Antony and Cleopatra — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Antony and Cleopatra — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/blood,motif/horse,motif/love,motif/poison,motif/sleep,motif/time,motif/well,setting/egypt,setting/orient,character/charmian,character/cleopatra,character/mark_antony,character/pompey,character/queen,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1972,7 +1972,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Antony and Cleopatra — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Antony and Cleopatra — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/dreams,motif/love,motif/sleep,motif/well,concept/beauty,concept/fear,concept/honour,concept/hope,setting/egypt,character/cleopatra,character/lepidus,character/mark_antony,character/pompey,character/silvius"></span>
 
 
 | Speaker | Line |
@@ -2002,7 +2002,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Antony and Cleopatra — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Antony and Cleopatra — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/city,motif/love,motif/marriage,motif/nature,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/friendship,concept/greatness,concept/honour,concept/nature,concept/truth,setting/egypt,character/antonio,character/cleopatra,character/enobarbus,character/lepidus,character/mark_antony,character/mermaid,character/octavia,character/pompey,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2104,7 +2104,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Antony and Cleopatra — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Antony and Cleopatra — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/marriage,motif/night,motif/time,setting/egypt,character/cleopatra,character/octavia"></span>
 
 
 | Speaker | Line |
@@ -2134,7 +2134,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Antony and Cleopatra — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Antony and Cleopatra — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/journey,character/cleopatra,character/lepidus,character/mark_antony,character/octavia"></span>
 
 
 | Speaker | Line |
@@ -2153,7 +2153,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Antony and Cleopatra — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Antony and Cleopatra — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/innocent,archetype/villain,motif/love,motif/night,motif/river,motif/time,motif/well,setting/egypt,setting/italy,character/antonio,character/charmian,character/cleopatra,character/octavia"></span>
 
 
 | Speaker | Line |
@@ -2231,7 +2231,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="Antony and Cleopatra — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="Antony and Cleopatra — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/fire,motif/love,motif/marriage,motif/time,motif/water,motif/well,concept/fear,concept/freedom,concept/friendship,concept/greed,concept/hope,setting/egypt,character/brutus,character/cassius,character/cleopatra,character/enobarbus,character/julius_caesar,character/lepidus,character/mark_antony,character/octavia,character/pompey,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2310,7 +2310,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7" data-title="Antony and Cleopatra — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="Antony and Cleopatra — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/child,motif/dance,motif/night,motif/tears,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/honour,setting/egypt,character/cleopatra,character/enobarbus,character/lepidus,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2402,7 +2402,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Antony and Cleopatra — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Antony and Cleopatra — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/horse,motif/well,concept/ambition,concept/body,character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -2420,7 +2420,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Antony and Cleopatra — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Antony and Cleopatra — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/horse,motif/love,motif/spring,motif/stars,motif/time,motif/well,concept/fear,concept/wonder,character/brutus,character/cleopatra,character/enobarbus,character/julius_caesar,character/lepidus,character/mark_antony,character/octavia,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2471,7 +2471,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Antony and Cleopatra — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Antony and Cleopatra — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/well,concept/body,setting/egypt,character/charmian,character/cleopatra,character/mark_antony,character/octavia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2524,7 +2524,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Antony and Cleopatra — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Antony and Cleopatra — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/love,motif/prayer,concept/honour,character/cleopatra,character/octavia,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2540,7 +2540,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Antony and Cleopatra — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Antony and Cleopatra — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/death,motif/garden,setting/italy,character/cleopatra,character/enobarbus,character/lepidus,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2561,7 +2561,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Antony and Cleopatra — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Antony and Cleopatra — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,motif/dust,motif/horse,motif/love,motif/time,motif/wind,concept/longing,setting/egypt,character/cleopatra,character/lepidus,character/mark_antony,character/octavia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2601,7 +2601,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Antony and Cleopatra — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Antony and Cleopatra — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/horse,motif/ship,motif/time,motif/well,concept/doubt,setting/ship,character/cleopatra,character/enobarbus,character/pompey,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2658,7 +2658,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_8" data-title="Antony and Cleopatra — Act III, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_8" data-title="Antony and Cleopatra — Act III, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -2671,7 +2671,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_9" data-title="Antony and Cleopatra — Act III, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_9" data-title="Antony and Cleopatra — Act III, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/hill,character/cleopatra,character/enobarbus"></span>
 
 
 | Speaker | Line |
@@ -2683,7 +2683,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_10" data-title="Antony and Cleopatra — Act III, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_10" data-title="Antony and Cleopatra — Act III, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/death,motif/horse,motif/night,motif/well,motif/wind,concept/honour,setting/egypt,character/cleopatra,character/enobarbus"></span>
 
 
 | Speaker | Line |
@@ -2711,7 +2711,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_11" data-title="Antony and Cleopatra — Act III, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_11" data-title="Antony and Cleopatra — Act III, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/death,motif/leaves,motif/love,motif/ship,motif/well,concept/despair,concept/fear,setting/egypt,setting/ship,character/brutus,character/cassius,character/charmian,character/cleopatra,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2756,7 +2756,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_12" data-title="Antony and Cleopatra — Act III, Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_12" data-title="Antony and Cleopatra — Act III, Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="motif/desire,motif/time,concept/greatness,setting/egypt,character/cleopatra,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2782,7 +2782,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_13" data-title="Antony and Cleopatra — Act III, Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_13" data-title="Antony and Cleopatra — Act III, Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/child,motif/blood,motif/crown,motif/death,motif/hill,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/night,motif/poison,motif/rose,motif/stars,motif/storm,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/self,form/fragment,setting/egypt,character/charmian,character/cleopatra,character/enobarbus,character/mark_antony,character/pompey,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2876,7 +2876,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Antony and Cleopatra — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Antony and Cleopatra — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="setting/egypt,character/cleopatra,character/mark_antony"></span>
 
 
 | Speaker | Line |
@@ -2890,7 +2890,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Antony and Cleopatra — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Antony and Cleopatra — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/death,motif/desire,motif/night,motif/well,concept/honour,concept/hope,character/charmian,character/cleopatra,character/enobarbus,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2920,7 +2920,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Antony and Cleopatra — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Antony and Cleopatra — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/leaves,motif/night,motif/well,concept/hope,character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -2959,7 +2959,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Antony and Cleopatra — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Antony and Cleopatra — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/love,motif/sleep,motif/storm,motif/well,character/charmian,character/cleopatra,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2992,7 +2992,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Antony and Cleopatra — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Antony and Cleopatra — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="character/cleopatra,character/enobarbus"></span>
 
 
 | Speaker | Line |
@@ -3014,7 +3014,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Antony and Cleopatra — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Antony and Cleopatra — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/villain,motif/crown,motif/time,character/cleopatra,character/enobarbus"></span>
 
 
 | Speaker | Line |
@@ -3040,7 +3040,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Antony and Cleopatra — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Antony and Cleopatra — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -3052,7 +3052,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_8" data-title="Antony and Cleopatra — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_8" data-title="Antony and Cleopatra — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="motif/home,character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -3074,7 +3074,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_9" data-title="Antony and Cleopatra — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_9" data-title="Antony and Cleopatra — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/nightingale,motif/tears,character/cleopatra,character/queen"></span>
 
 
 | Speaker | Line |
@@ -3096,7 +3096,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_10" data-title="Antony and Cleopatra — Act IV, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_10" data-title="Antony and Cleopatra — Act IV, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="archetype/rebel,motif/death,motif/memory,motif/moon,motif/night,motif/prayer,motif/sleep,concept/body,concept/melancholy,setting/court,character/cleopatra,character/enobarbus"></span>
 
 
 | Speaker | Line |
@@ -3127,7 +3127,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_11" data-title="Antony and Cleopatra — Act IV, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_11" data-title="Antony and Cleopatra — Act IV, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/city,motif/fire,character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -3141,7 +3141,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_12" data-title="Antony and Cleopatra — Act IV, Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_12" data-title="Antony and Cleopatra — Act IV, Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/monster,motif/death,motif/grave,motif/home,motif/love,motif/moon,motif/soul,motif/well,concept/fear,concept/hope,concept/self,setting/egypt,character/cleopatra,character/octavia,character/witch"></span>
 
 
 | Speaker | Line |
@@ -3168,7 +3168,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_14" data-title="Antony and Cleopatra — Act IV, Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_14" data-title="Antony and Cleopatra — Act IV, Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="motif/death,motif/soul,concept/body,concept/greatness,character/charmian,character/cleopatra"></span>
 
 
 | Speaker | Line |
@@ -3182,7 +3182,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_15" data-title="Antony and Cleopatra — Act IV, Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_15" data-title="Antony and Cleopatra — Act IV, Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="archetype/lover,motif/death,motif/flowers,motif/ghosts,motif/horse,motif/lion,motif/sleep,motif/time,motif/water,concept/body,concept/courage,concept/fear,concept/truth,setting/egypt,character/ajax,character/cleopatra,character/queen"></span>
 
 
 | Speaker | Line |
@@ -3262,7 +3262,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_16" data-title="Antony and Cleopatra — Act IV, Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_16" data-title="Antony and Cleopatra — Act IV, Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="motif/crown,motif/death,motif/jewel,motif/moon,motif/wheel,concept/body,concept/honour,setting/egypt,character/charmian,character/cleopatra,character/octavia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -3304,7 +3304,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Antony and Cleopatra — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Antony and Cleopatra — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/death,motif/mirror,motif/nature,motif/stars,motif/tears,motif/time,concept/body,concept/courage,concept/greatness,concept/honour,concept/nature,concept/self,character/cleopatra,character/mark_antony,character/queen"></span>
 
 
 | Speaker | Line |
@@ -3344,7 +3344,7 @@ The [[Tragedy]] of Antony and [[Cleopatra]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Antony and Cleopatra — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Antony and Cleopatra — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/lover,archetype/orphan,archetype/villain,motif/autumn,motif/blood,motif/chains,motif/crown,motif/death,motif/desire,motif/dreams,motif/fire,motif/grave,motif/journey,motif/leaves,motif/love,motif/marriage,motif/moon,motif/nature,motif/pain,motif/poison,motif/sleep,motif/well,motif/winter,concept/courage,concept/deception,concept/fear,concept/greatness,concept/honour,concept/mercy,concept/nature,concept/truth,form/comedy,setting/court,setting/egypt,character/bertram,character/charmian,character/cleopatra,character/diana,character/helen,character/isabella,character/king_of_france,character/mariana,character/mark_antony,character/nurse,character/octavia,character/queen"></span>
 
 
 | Speaker | Line |

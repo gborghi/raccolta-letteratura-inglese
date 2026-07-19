@@ -258,7 +258,7 @@ G. K. CHESTERTON.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="United_States (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="United_States (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/memory,concept/democracy,concept/history,form/history"></span>
 
 
 # United States
@@ -293,7 +293,7 @@ L'autore di questo libro, mio fratello, morì in un ospedale militare francese p
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="United_States (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="United_States (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/love,motif/time,motif/well,concept/courage,concept/fear,concept/reform,concept/truth"></span>
 
 
 Cecil Edward Chesterton was born on November 12, 1879; and there
@@ -453,7 +453,7 @@ perdute per favore.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="United_States (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="United_States (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/conversion,concept/freedom,concept/nature,concept/reform,concept/slavery,concept/truth,concept/union,form/sketch,histref/catholic_church"></span>
 
 
 Thus he came to suspect that Socialism was merely social [[Reform|reform]],
@@ -642,7 +642,7 @@ persona più interessante.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="United_States (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="United_States (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,archetype/hero,motif/death,motif/prison,motif/time,concept/courage,concept/fear,concept/freedom,concept/friendship,concept/history,concept/truth,form/history,histref/america,setting/america"></span>
 
 
 In any suggestion of his personality, indeed, the point does not

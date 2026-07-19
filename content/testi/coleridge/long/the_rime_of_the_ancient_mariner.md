@@ -1076,7 +1076,7 @@ L. B. 1798.
 
 
 
-<span class="atom-split" data-atom="section_00_argument" data-title="The Rime of the Ancient Mariner — Argument" data-chapter="argument" data-kind="section"></span>
+<span class="atom-split" data-atom="section_00_argument" data-title="The Rime of the Ancient Mariner — Argument" data-chapter="argument" data-kind="section" data-tags="motif/ship,setting/ship,character/ancient_mariner"></span>
 
 
 IN SEVEN PARTS
@@ -1103,7 +1103,7 @@ his own Country. [L. B. 1798.]
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Rime of the Ancient Mariner — Part I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Rime of the Ancient Mariner — Part I" data-chapter="part i" data-kind="section" data-tags="archetype/child,archetype/shadow,motif/cross,motif/hill,motif/moon,motif/night,motif/noon,motif/rose,motif/ship,motif/snow,motif/soul,motif/storm,motif/wind,setting/ship,character/ancient_mariner"></span>
 
 
 PART I  
@@ -1211,7 +1211,7 @@ I shot the ALBATROSS.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Rime of the Ancient Mariner — Part II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Rime of the Ancient Mariner — Part II" data-chapter="part II" data-kind="section" data-tags="motif/birds,motif/cross,motif/death,motif/dreams,motif/moon,motif/night,motif/noon,motif/rose,motif/ship,motif/silence,motif/snow,motif/water,motif/well,motif/wind,concept/guilt,setting/ship,character/ancient_mariner,character/christ,character/michael,character/witch"></span>
 
 
 PART II  
@@ -1295,7 +1295,7 @@ About my neck was hung.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Rime of the Ancient Mariner — Part III" data-chapter="part III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Rime of the Ancient Mariner — Part III" data-chapter="part III" data-kind="section" data-tags="motif/blood,motif/cross,motif/death,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/fear,setting/ship,character/ancient_mariner"></span>
 
 
 PART III  
@@ -1404,7 +1404,7 @@ Like the whizz of my [[Cross|cross]]-bow!
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Rime of the Ancient Mariner — Part IV" data-chapter="part IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Rime of the Ancient Mariner — Part IV" data-chapter="part IV" data-kind="section" data-tags="archetype/orphan,archetype/shadow,motif/dust,motif/fire,motif/frost,motif/love,motif/moon,motif/prayer,motif/ship,motif/soul,motif/spring,motif/stars,motif/water,concept/beauty,concept/body,concept/fear,concept/loneliness,concept/self,setting/ship,character/ancient_mariner"></span>
 
 
 PART IV  
@@ -1498,7 +1498,7 @@ Like lead into the sea.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Rime of the Ancient Mariner — Part V" data-chapter="part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Rime of the Ancient Mariner — Part V" data-chapter="part v" data-kind="section" data-tags="archetype/ghost,motif/birds,motif/blood,motif/cross,motif/dreams,motif/fire,motif/horse,motif/lightning,motif/moon,motif/night,motif/noon,motif/pain,motif/river,motif/rose,motif/ship,motif/sleep,motif/snow,motif/soul,motif/stars,motif/wind,concept/body,concept/fear,setting/ship,character/ancient_mariner,character/queen"></span>
 
 
 PART V  
@@ -1640,7 +1640,7 @@ And penance more will do.’
 
 
 
-<span class="atom-split" data-atom="section_06_part_vi" data-title="The Rime of the Ancient Mariner — Part VI" data-chapter="part VI" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_part_vi" data-title="The Rime of the Ancient Mariner — Part VI" data-chapter="part VI" data-kind="section" data-tags="archetype/shadow,motif/blood,motif/hill,motif/moon,motif/night,motif/road,motif/ship,motif/silence,motif/sleep,motif/soul,motif/spring,motif/supernatural,motif/wind,concept/fear,setting/ship,character/ancient_mariner,character/christ"></span>
 
 
 PART VI  
@@ -1765,7 +1765,7 @@ The Albatross’s [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="section_07_part_vii" data-title="The Rime of the Ancient Mariner — Part VII" data-chapter="part VII" data-kind="section"></span>
+<span class="atom-split" data-atom="section_07_part_vii" data-title="The Rime of the Ancient Mariner — Part VII" data-chapter="part VII" data-kind="section" data-tags="motif/autumn,motif/blood,motif/death,motif/dreams,motif/garden,motif/hill,motif/leaves,motif/love,motif/marriage,motif/moon,motif/night,motif/noon,motif/pain,motif/prayer,motif/rose,motif/ship,motif/snow,motif/soul,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/wonder,setting/ship,character/ancient_mariner,character/christ"></span>
 
 
 PART VII  

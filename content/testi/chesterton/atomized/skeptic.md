@@ -141,7 +141,7 @@ am one myself. . .
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="skeptic (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="skeptic (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/tears,motif/well,concept/doubt,concept/faith,concept/nature,form/essay,form/sonnet,setting/london"></span>
 
 
 Skepticism and Spiritualism
@@ -248,7 +248,7 @@ Il problema, dunque, dello scetticismo e delle estasi spirituali è un problema 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="skeptic (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="skeptic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/flowers,motif/supernatural,concept/faith,concept/fear"></span>
 
 
 For my own part, what little I resent in what little I have

@@ -149,7 +149,7 @@ da «You Ask Me, Why, Tho' Ill at Ease» di Tennyson
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Jones (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Jones (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/pain,motif/silence,concept/body,concept/doubt,concept/freedom,concept/history,concept/mercy,form/history,character/jones,character/speed"></span>
 
 
 The Horrible [[history|History]] of [[Jones]]  

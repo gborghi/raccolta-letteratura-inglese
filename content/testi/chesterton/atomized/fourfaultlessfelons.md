@@ -11994,7 +11994,7 @@ Lee Pinion as a member of the Club."
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_01" data-title="FourFaultlessFelons — Clue Of The Pressman (part 1)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_01" data-title="FourFaultlessFelons — Clue Of The Pressman (part 1)" data-chapter="Clue Of The Pressman" data-kind="excerpt" data-tags="archetype/innocent,motif/dust,motif/fire,motif/nature,motif/night,motif/silence,motif/stars,motif/well,concept/nature,form/fable,form/novel,histref/america,setting/america,setting/london"></span>
 
 
 CLUE OF THE PRESSMAN
@@ -12352,7 +12352,7 @@ di pretese alla moda; un uomo basso e squadrato, dal viso squadrato e
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_02" data-title="FourFaultlessFelons — Clue Of The Pressman (part 2)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_02" data-title="FourFaultlessFelons — Clue Of The Pressman (part 2)" data-chapter="Clue Of The Pressman" data-kind="excerpt" data-tags="motif/nature,motif/silence,motif/well,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/paradox,concept/self,concept/truth,histref/christianity"></span>
 
 
 spectacles, who looked like what he was, an ordinary busy suburban
@@ -12724,7 +12724,7 @@ gli Stiliti e alcuni dei primi eremiti possano essere stati sfiorati dallo
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_03" data-title="FourFaultlessFelons — Clue Of The Pressman (part 3)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_03" data-title="FourFaultlessFelons — Clue Of The Pressman (part 3)" data-chapter="Clue Of The Pressman" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/silence,motif/soul,motif/time,motif/well,concept/truth,concept/wonder"></span>
 
 
 same danger. But our friend is a Christian anchorite; and understands the
@@ -13104,7 +13104,7 @@ amici, e così egli divenne una sorta di Presidente del nostro piccolo club.»
 
 
 
-<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_04" data-title="FourFaultlessFelons — Clue Of The Pressman (part 4)" data-chapter="Clue Of The Pressman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_clue_of_the_pressman--part_04" data-title="FourFaultlessFelons — Clue Of The Pressman (part 4)" data-chapter="Clue Of The Pressman" data-kind="excerpt" data-tags="archetype/detective,motif/silence,motif/time,motif/well,concept/truth,histref/dante"></span>
 
 
 "[[Well]], we are four men with a common bond at least. We have all had
@@ -13316,7 +13316,7 @@ stravagante conte Raoul de Marillac.
 
 
 
-<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="The Moderate Murderer" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_moderate_murderer" data-title="FourFaultlessFelons — The Moderate Murderer" data-chapter="The Moderate Murderer" data-kind="story" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/blood,motif/cross,motif/desert,motif/flowers,motif/garden,motif/home,motif/time,motif/uncanny,motif/well,motif/wind,concept/despair,concept/grotesque,concept/imagination,concept/solitude,concept/uncanny,form/novel,setting/desert,setting/egypt"></span>
 
 
 THE MODERATE MURDERER
@@ -13651,7 +13651,7 @@ face of Medea in the [[Garden|garden]], gathering the poisonous [[Flowers|flower
 
 
 
-<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_01" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 1)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_01" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 1)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/flowers,motif/garden,motif/nature,motif/snow,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,form/tragedy,histref/bible,setting/egypt,character/arthur"></span>
 
 
 II THE BOY WHO MADE A SCENE
@@ -14007,7 +14007,7 @@ ascoltarne un'altra.
 
 
 
-<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_02" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 2)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_ii_the_boy_who_made_a_scene--part_02" data-title="FourFaultlessFelons — II The Boy Who Made A Scene (part 2)" data-chapter="II The Boy Who Made A Scene" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/garden,motif/grave,motif/leaves,motif/nature,motif/silence,motif/snow,motif/well,motif/wind,concept/education,concept/nature,form/fragment,setting/desert,setting/egypt"></span>
 
 
 in question, had (for all his mildness) not a little gentle pertinacity.
@@ -14495,7 +14495,7 @@ angolo del muro.
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_01" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 1)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_01" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 1)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="topos/double,motif/dance,motif/desert,motif/garden,motif/hill,motif/night,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/freedom,concept/wonder,setting/desert"></span>
 
 
 III THE MAN WHO COULD NOT HATE
@@ -14671,7 +14671,7 @@ she said. "I'm very sorry. How do you think he is getting on?"
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_02" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 2)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_02" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 2)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/prison,motif/silence,motif/time,motif/well,concept/self,concept/truth,setting/desert,setting/germany"></span>
 
 
 "I think most people would say," he said slowly at last, "that I ought to
@@ -14865,7 +14865,7 @@ found a very deep [[Well|well]], and found it dry.
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_03" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 3)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_03" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 3)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/childhood,motif/flowers,motif/garden,motif/hill,motif/home,motif/leaves,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/silence,motif/time,motif/wheel,concept/fear,concept/grotesque,concept/hope,concept/nature"></span>
 
 
 When she went out on to the veranda the steep [[Garden|garden]] and plantation were
@@ -15039,7 +15039,7 @@ IV THE [[Detective|DETECTIVE]] AND THE PARSON
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_04" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 4)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_04" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 4)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/hill,motif/night,motif/time,concept/doubt,concept/solitude,character/arthur,character/brutus,character/pistol"></span>
 
 
 IT was not until the following evening, as already noted, that the news
@@ -15225,7 +15225,7 @@ arrested him before he heard of the attempt on Lord Tallboys. He had just
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_05" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 5)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_05" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 5)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/flowers,motif/garden,motif/hill,motif/memory,motif/poison,motif/road,motif/time,motif/water,motif/well,concept/fear,concept/identity,form/tragedy"></span>
 
 
 arrested him for holding a seditious meeting five miles away at
@@ -15403,7 +15403,7 @@ of Euclid? Being a dog is not a disease. Being a [[Child|child]] is not a diseas
 
 
 
-<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_06" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 6)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_iii_the_man_who_could_not_hate--part_06" data-title="FourFaultlessFelons — III The Man Who Could Not Hate (part 6)" data-chapter="III The Man Who Could Not Hate" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,archetype/shadow,motif/blood,motif/death,motif/desert,motif/garden,motif/moon,motif/road,motif/snow,motif/time,motif/well,form/riddle,setting/desert,setting/london"></span>
 
 
 Even remaining a [[Child|child]] is not a disease; don't you sometimes wish we
@@ -15583,7 +15583,7 @@ like a wild cry for [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_01" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 1)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_01" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 1)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/fool,motif/desert,motif/garden,motif/grave,motif/leaves,motif/love,motif/silence,motif/snow,motif/time,motif/well,concept/self,setting/desert"></span>
 
 
 V THE THEORY OF MODERATE MURDER
@@ -15769,7 +15769,7 @@ Governor rudely.
 
 
 
-<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_02" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 2)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_v_the_theory_of_moderate_murder--part_02" data-title="FourFaultlessFelons — V The Theory Of Moderate Murder (part 2)" data-chapter="V The Theory Of Moderate Murder" data-kind="excerpt" data-tags="archetype/shadow,motif/desert,motif/garden,motif/nature,motif/silence,motif/well,concept/nature,concept/reform,concept/truth,form/comedy,form/riddle,setting/desert"></span>
 
 
 Sir Harry, you have yourself provided the apparatus of demonstration, and
@@ -15981,7 +15981,7 @@ with interest.
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_01" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 1)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_01" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 1)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/prison,motif/silence,motif/storm,motif/time,motif/well,concept/body,concept/fear,concept/history,concept/imprisonment,concept/solitude,concept/truth,form/history"></span>
 
 
 VI THE THING THAT REALLY HAPPENED
@@ -16159,7 +16159,7 @@ voice. "Didn't St. Paul say something? . . . Wherefore, O [[King]] Agrippa, I
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_02" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 2)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_02" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 2)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/blood,motif/garden,motif/love,motif/night,motif/prison,motif/time,motif/well,motif/wind,concept/doubt,concept/fear,concept/hope,concept/wonder"></span>
 
 
 was not disobedient to the heavenly vision. ... I have seen that heavenly
@@ -16337,7 +16337,7 @@ came to the corner.
 
 
 
-<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_03" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 3)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_vi_the_thing_that_really_happened--part_03" data-title="FourFaultlessFelons — VI The Thing That Really Happened (part 3)" data-chapter="VI The Thing That Really Happened" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/dreams,motif/fire,motif/garden,motif/home,motif/well,concept/grotesque,concept/history,concept/imagination,concept/resignation,form/history,setting/london"></span>
 
 
 of fate. I saw his lean, pompous figure with the absurd top-hat riding on
@@ -16467,7 +16467,7 @@ after all.
 
 
 
-<span class="atom-split" data-atom="story_07_the_honest_quack--part_01" data-title="FourFaultlessFelons — The Honest Quack (part 1)" data-chapter="The Honest Quack" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_honest_quack--part_01" data-title="FourFaultlessFelons — The Honest Quack (part 1)" data-chapter="The Honest Quack" data-kind="excerpt" data-tags="motif/crown,motif/garden,motif/rose,motif/silence,motif/spring,motif/water,motif/wind,concept/grotesque,setting/london"></span>
 
 
 THE HONEST QUACK
@@ -16829,7 +16829,7 @@ visto, in tutte le mie peregrinazioni, un luogo dove desiderassi fermarmi e fare
 
 
 
-<span class="atom-split" data-atom="story_07_the_honest_quack--part_02" data-title="FourFaultlessFelons — The Honest Quack (part 2)" data-chapter="The Honest Quack" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_honest_quack--part_02" data-title="FourFaultlessFelons — The Honest Quack (part 2)" data-chapter="The Honest Quack" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/monster,motif/blood,motif/city,motif/desert,motif/garden,motif/home,motif/moon,motif/nature,motif/night,motif/river,motif/time,motif/water,concept/fear,concept/history,concept/hope,concept/imagination,concept/nature,concept/solitude,form/history,form/novel,form/tragedy,histref/milton,setting/desert,setting/london,setting/venice,character/milton"></span>
 
 
 [[Home|home]]. There cannot be anywhere in the world anything like that fantasia
@@ -17205,7 +17205,7 @@ recinto se non il suo solitario padrone che girava e rigirava attorno al suo alb
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_01" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 1)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_01" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 1)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/city,motif/grave,motif/hill,motif/road,motif/rose,motif/spring,motif/time,motif/well"></span>
 
 
 II THE MAN WITH THE BLACK BAG
@@ -17565,7 +17565,7 @@ sarcasticamente.
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_02" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 2)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_02" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 2)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="motif/garden,motif/hill,motif/road,motif/time,concept/beauty,concept/faith,concept/loneliness,concept/slavery,concept/sublime"></span>
 
 
 away," said the other.
@@ -17913,7 +17913,7 @@ Che [[Beauty|bellezza]] c'è in un solo squallido vecchio albero piantato in mez
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_03" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 3)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_03" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 3)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="archetype/monster,motif/garden,motif/home,motif/horse,motif/love,motif/road,motif/rose,motif/soul,motif/storm,motif/well,concept/ambition,concept/body,concept/courage,concept/temptation,form/riddle"></span>
 
 
 mortar? Why, if you abolished it, you'd have room for a garage and you
@@ -18265,7 +18265,7 @@ altro giovane. Non gli piaceva il modo in cui due ciocche dei suoi lunghi,
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_04" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 4)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_04" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 4)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="archetype/artist,motif/cross,motif/time"></span>
 
 
 fair hair lay on his cheek in a suggestion of incipient side whiskers; he
@@ -18621,7 +18621,7 @@ dei miei punti, se non con quell'assurdo cavillo sulla parola Eocene.
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_05" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 5)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_05" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 5)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/leaves,motif/moon,motif/night,motif/prison,motif/road,motif/time,motif/uncanny,motif/well,motif/wind,concept/grotesque,concept/uncanny"></span>
 
 
 Branders was better; Branders had made some real contribution in his
@@ -18973,7 +18973,7 @@ e prosaica vita. Lei attendeva, un po' come sarebbe rimasta a osservare una
 
 
 
-<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_06" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 6)" data-chapter="II The Man With The Black Bag" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ii_the_man_with_the_black_bag--part_06" data-title="FourFaultlessFelons — II The Man With The Black Bag (part 6)" data-chapter="II The Man With The Black Bag" data-kind="excerpt" data-tags="motif/garden,motif/night,motif/silence,motif/wind,motif/window,concept/solitude"></span>
 
 
 round, black bomb that was ticking and smoking in the parlour.
@@ -19257,7 +19257,7 @@ accaduto tra l'una e l'altra.
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_01" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 1)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_01" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 1)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt" data-tags="archetype/artist,motif/cross,motif/home,motif/nature,motif/night,motif/silence,motif/time,motif/wheel,motif/window,concept/grotesque,concept/melancholy,concept/nature,concept/suffering"></span>
 
 
 IV THE DISEASE OF DUODIAPSYCHOSIS
@@ -19625,7 +19625,7 @@ continuità, a una rottura del controllo morale responsabile e di una coordinata
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_02" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 2)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_02" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 2)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/lightning,motif/machine,motif/night,motif/silence,motif/storm,motif/time,motif/well,concept/hope,concept/revenge"></span>
 
 
 consecutive conservation--"
@@ -19993,7 +19993,7 @@ in maniera più impersonale, e chiese se egli potesse dare qualche consiglio a u
 
 
 
-<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_03" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 3)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_iv_the_disease_of_duodiapsychosis--part_03" data-title="FourFaultlessFelons — IV The Disease Of Duodiapsychosis (part 3)" data-chapter="IV The Disease Of Duodiapsychosis" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/death,motif/grave,motif/soul,motif/time,motif/well,motif/window,concept/deception,concept/truth,form/tragedy"></span>
 
 
 friend of hers, who had been warned of a disease called Duodiapsychosis.
@@ -20293,7 +20293,7 @@ arresto di Walter Windrush con l'accusa di omicidio.
 
 
 
-<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="V The Secret Of The Tree" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_v_the_secret_of_the_tree" data-title="FourFaultlessFelons — V The Secret Of The Tree" data-chapter="V The Secret Of The Tree" data-kind="story" data-tags="archetype/villain,motif/memory,motif/nature,motif/road,motif/silence,motif/soul,motif/time,motif/well,concept/grotesque,concept/hope,concept/nature"></span>
 
 
 V THE SECRET OF THE TREE
@@ -20633,7 +20633,7 @@ parole: NON FARE NULLA RIGUARDO A W. W. FINCHÉ NON ARRIVO. SARÒ LÌ TRA MEZZ'
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_01" data-title="FourFaultlessFelons — An Hour. Harrington. (part 1)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_01" data-title="FourFaultlessFelons — An Hour. Harrington. (part 1)" data-chapter="An Hour Harrington" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/blood,motif/garden,motif/grave,motif/time,motif/well,concept/body,concept/imagination,setting/london,character/cain"></span>
 
 
 AN HOUR. HARRINGTON.
@@ -20997,7 +20997,7 @@ chiami, le abbia detto che l'[[Artist|artista]] ammetteva di essere ambidestro..
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_02" data-title="FourFaultlessFelons — An Hour. Harrington. (part 2)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_02" data-title="FourFaultlessFelons — An Hour. Harrington. (part 2)" data-chapter="An Hour Harrington" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/innocent,motif/rose,motif/silence,motif/time,motif/well,concept/fear,setting/london"></span>
 
 
 things with his left hand as [[Well|well]] as his right."
@@ -21195,7 +21195,7 @@ Harrington calmly; "I do say I am certain now."
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_03" data-title="FourFaultlessFelons — An Hour. Harrington. (part 3)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_03" data-title="FourFaultlessFelons — An Hour. Harrington. (part 3)" data-chapter="An Hour Harrington" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/detective,archetype/monster,motif/birds,motif/garden,motif/leaves,motif/spring,motif/well"></span>
 
 
 "Doctor Judson says--" began the Inspector.
@@ -21381,7 +21381,7 @@ knew was that I had found a murdered man you had hidden in your [[Garden|garden]
 
 
 
-<span class="atom-split" data-atom="story_11_an_hour_harrington--part_04" data-title="FourFaultlessFelons — An Hour. Harrington. (part 4)" data-chapter="An Hour Harrington" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_an_hour_harrington--part_04" data-title="FourFaultlessFelons — An Hour. Harrington. (part 4)" data-chapter="An Hour Harrington" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/shadow,motif/birds,motif/dawn,motif/death,motif/garden,motif/grave,motif/night,motif/poison,motif/rose,motif/silence,motif/time,motif/well,motif/wind,concept/suicide,form/fable"></span>
 
 
 didn't know how far you might have been provoked or justified. Indeed,
@@ -21619,7 +21619,7 @@ new [[Garden|garden]] and they stood alive on the first foundations of the world
 
 
 
-<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_01" data-title="FourFaultlessFelons — The Ecstatic Thief (part 1)" data-chapter="The Ecstatic Thief" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_01" data-title="FourFaultlessFelons — The Ecstatic Thief (part 1)" data-chapter="The Ecstatic Thief" data-kind="excerpt" data-tags="archetype/innocent,motif/dreams,motif/machine,motif/spring,motif/time,motif/well,concept/body,concept/education,concept/reform,concept/sublime,histref/milton,character/milton"></span>
 
 
 THE ECSTATIC THIEF
@@ -21794,7 +21794,7 @@ shaking the brown brick chapel to its foundations by announcing his
 
 
 
-<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_02" data-title="FourFaultlessFelons — The Ecstatic Thief (part 2)" data-chapter="The Ecstatic Thief" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_ecstatic_thief--part_02" data-title="FourFaultlessFelons — The Ecstatic Thief (part 2)" data-chapter="The Ecstatic Thief" data-kind="excerpt" data-tags="motif/chalk,motif/garden,motif/hill,motif/home,motif/moon,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/grotesque,concept/hope,histref/milton,character/milton"></span>
 
 
 intention of being a Curate in the Church of England-nay, in the High
@@ -22048,7 +22048,7 @@ secret.
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_01" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 1)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_01" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 1)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/horse,motif/love,motif/silence,motif/time,motif/well,concept/courage,form/inscription,histref/milton,character/milton,character/mowbray"></span>
 
 
 II THE BURGLAR AND THE BROOCH
@@ -22228,7 +22228,7 @@ or that there was "some mistake". What she really meant (to the [[Grave|grave]]
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_02" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 2)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_02" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 2)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/desert,motif/grave,motif/silence,motif/spring,motif/well,concept/grotesque,concept/pride,concept/truth,form/tragedy,setting/desert"></span>
 
 
 disadvantage of all her culture and her world) was that there were some
@@ -22414,7 +22414,7 @@ other sons are ashamed of you? Look at their faces!"
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_03" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 3)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_03" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 3)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="archetype/orphan,motif/crown,motif/garden,motif/leaves,motif/love,motif/night,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/despair,form/satire,histref/milton,histref/reformation,character/milton,character/mowbray"></span>
 
 
 It was enough that the other two sons involuntarily turned their faces
@@ -22778,7 +22778,7 @@ trespolo.
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_04" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 4)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_04" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 4)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/animals,motif/desert,motif/fire,motif/garden,motif/home,motif/moon,motif/road,motif/silence,motif/time,motif/well,concept/grotesque,form/fable,form/parable,setting/desert,character/sunday"></span>
 
 
 popular lecturer, "is to get over the [[Garden|garden]] wall. It sounds simple, but
@@ -22958,7 +22958,7 @@ small craft. He wasn't a particularly nice man and I wasn't particularly
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_05" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 5)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_05" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 5)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/city,motif/desert,motif/fire,motif/garden,motif/home,motif/night,motif/rose,motif/ship,motif/silence,motif/time,motif/well,concept/exile,concept/suicide,form/parable,histref/milton,setting/court,setting/desert,setting/ship,character/milton,character/mowbray"></span>
 
 
 comfortable, but it was not [[suicide]] but a sea-wave that swept me off
@@ -23314,7 +23314,7 @@ lasci il tuo portasigari con dentro un biglietto?»
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_06" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 6)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_06" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 6)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="motif/garden,motif/grave,motif/prayer,motif/road,motif/rose,motif/silence,motif/stars,motif/time,motif/well,concept/reconciliation,concept/reform"></span>
 
 
 his pockets. "You must remember I am only at the beginning of my career
@@ -23686,7 +23686,7 @@ tu fossi un ladro e irrompessi nelle case dei ricchi. Ma quando dici di essere u
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_07" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 7)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_07" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 7)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="archetype/detective,motif/jewel,motif/leaves,motif/silence,motif/stars,motif/well,concept/truth,histref/milton,character/milton,character/mowbray"></span>
 
 
 pickpocket who pinches sixpences off poor people coming out of the
@@ -24054,7 +24054,7 @@ il tabacco. Sicché devono essere piuttosto poveri, e di certo saprebbero se
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_08" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 8)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_08" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 8)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="archetype/detective,motif/dust,motif/night,concept/conscience,concept/poverty,concept/truth,histref/milton,setting/court,setting/london,character/milton,character/mowbray,character/pistol"></span>
 
 
 they've lost anything of great value."
@@ -24402,7 +24402,7 @@ cinico, ma aveva scelto i poveri del quartiere stesso dove suo
 
 
 
-<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_09" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 9)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_ii_the_burglar_and_the_brooch--part_09" data-title="FourFaultlessFelons — II The Burglar And The Brooch (part 9)" data-chapter="II The Burglar And The Brooch" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/death,motif/garden,motif/love,motif/pain,motif/silence,motif/stars,motif/time,motif/well,motif/window,concept/friendship,concept/suffering,concept/truth,form/riddle"></span>
 
 
 brother, the Rev. Norman Nadoway, had recently become a charitable and
@@ -24754,7 +24754,7 @@ era una lunatica.
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_01" data-title="FourFaultlessFelons — V The Thief On Trial (part 1)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_01" data-title="FourFaultlessFelons — V The Thief On Trial (part 1)" data-chapter="V The Thief On Trial" data-kind="excerpt" data-tags="motif/cross,motif/prison,motif/silence,motif/well,concept/charity,concept/doubt,setting/court"></span>
 
 
 V THE THIEF ON TRIAL
@@ -25122,7 +25122,7 @@ Isidor Green, debba rendere la propria testimonianza più tardi. L'accusa aveva
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_02" data-title="FourFaultlessFelons — V The Thief On Trial (part 2)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_02" data-title="FourFaultlessFelons — V The Thief On Trial (part 2)" data-chapter="V The Thief On Trial" data-kind="excerpt" data-tags="motif/cross,motif/time,motif/well,motif/wind,concept/hope,concept/pride"></span>
 
 
 better begin calling their witnesses as soon as possible."
@@ -25318,7 +25318,7 @@ There was no official difficulty, of course, about the prisoner appearing
 
 
 
-<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_03" data-title="FourFaultlessFelons — V The Thief On Trial (part 3)" data-chapter="V The Thief On Trial" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_v_the_thief_on_trial--part_03" data-title="FourFaultlessFelons — V The Thief On Trial (part 3)" data-chapter="V The Thief On Trial" data-kind="excerpt" data-tags="motif/silence,motif/well,concept/doubt,setting/court"></span>
 
 
 in both capacities.
@@ -25502,7 +25502,7 @@ gli occhiali, che parevano poter essere psicologi.
 
 
 
-<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_01" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 1)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_01" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 1)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/desert,motif/rose,motif/silence,motif/time,motif/uncanny,motif/well,concept/doubt,concept/grotesque,concept/uncanny,histref/bible,histref/milton,setting/court,setting/desert,character/milton"></span>
 
 
 VI THE CLEANSING OF THE NAME
@@ -25874,7 +25874,7 @@ che suonavano l'arpa uscito dalla [[Bible|Bibbia]] di famiglia? Ciò che vidi, p
 
 
 
-<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_02" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 2)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_vi_the_cleansing_of_the_name--part_02" data-title="FourFaultlessFelons — VI The Cleansing Of The Name (part 2)" data-chapter="VI The Cleansing Of The Name" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/garden,motif/love,motif/marriage,motif/prayer,motif/time,motif/water,motif/well,concept/despair,concept/freedom,concept/history,concept/solitude,concept/suffering,form/history,character/theseus"></span>
 
 
 said to have merely seen anything, was my father sitting at the head of
@@ -26370,7 +26370,7 @@ era sempre parso custodire un segreto ed essere in attesa di una sorpresa.
 
 
 
-<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="The Loyal Traitor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_loyal_traitor" data-title="FourFaultlessFelons — The Loyal Traitor" data-chapter="The Loyal Traitor" data-kind="story" data-tags="archetype/child,motif/childhood,motif/cross,motif/crown,motif/desire,motif/nature,motif/spring,motif/stars,motif/time,motif/well,concept/beauty,concept/history,concept/hope,concept/identity,concept/nature,concept/sublime,concept/truth,form/history,form/lyric,form/riddle,form/tragedy,setting/court,character/aaron,character/edmund,character/sebastian"></span>
 
 
 THE LOYAL TRAITOR
@@ -26964,7 +26964,7 @@ E la principessa proseguì in corsa in uno stato di collera montante.
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_01" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 1)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_01" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 1)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/time,motif/well,concept/melancholy,character/sebastian"></span>
 
 
 II THE PROCESSION OF THE PLOTTERS
@@ -27308,7 +27308,7 @@ Mercato, nella parte più povera della città. È un ebreo, naturalmente, ma non
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_02" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 2)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_02" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 2)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/grave,motif/moon,motif/silence,motif/time,motif/well,concept/doubt,concept/greed,concept/madness,character/sebastian"></span>
 
 
 so much disliked as some Jews of his trade, and such thousands of people
@@ -27492,7 +27492,7 @@ the sudden lighting-up of the dark [[house]] from within, or rather of the
 
 
 
-<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_03" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 3)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_ii_the_procession_of_the_plotters--part_03" data-title="FourFaultlessFelons — II The Procession Of The Plotters (part 3)" data-chapter="II The Procession Of The Plotters" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/city,motif/dawn,motif/garden,motif/horse,motif/moon,motif/road,motif/stars,motif/time,motif/well,character/sebastian"></span>
 
 
 one room in it presumably reserved for the feast; the drawing down of the
@@ -27690,7 +27690,7 @@ the man was General Case, the Dictator from beyond the frontier.
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_01" data-title="FourFaultlessFelons — III The Princess Intervenes (part 1)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_01" data-title="FourFaultlessFelons — III The Princess Intervenes (part 1)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/moon,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/self"></span>
 
 
 III THE PRINCESS INTERVENES
@@ -27864,7 +27864,7 @@ and see that Hart is watching the [[house]] at the back. They can't be far
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_02" data-title="FourFaultlessFelons — III The Princess Intervenes (part 2)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_02" data-title="FourFaultlessFelons — III The Princess Intervenes (part 2)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/blood,motif/moon,motif/night,motif/well,motif/window,form/comedy,character/sebastian"></span>
 
 
 off yet; this coffee is still quite hot and I think he was just going to
@@ -28042,7 +28042,7 @@ Word will be spoken to-[[Night|night]]". The brief paragraphs that followed were
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_03" data-title="FourFaultlessFelons — III The Princess Intervenes (part 3)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_03" data-title="FourFaultlessFelons — III The Princess Intervenes (part 3)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/flag,motif/silence,motif/time,motif/window,concept/paradox,concept/wonder"></span>
 
 
 the effect that all was now ready for the blow at the [[government|Government]] which
@@ -28222,7 +28222,7 @@ blinds of the palace. But the conspirators may be flamboyant. The
 
 
 
-<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_04" data-title="FourFaultlessFelons — III The Princess Intervenes (part 4)" data-chapter="III The Princess Intervenes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_iii_the_princess_intervenes--part_04" data-title="FourFaultlessFelons — III The Princess Intervenes (part 4)" data-chapter="III The Princess Intervenes" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/king,motif/time,concept/wonder"></span>
 
 
 republicans may be royal. That's why they appeal to the people; because
@@ -28328,7 +28328,7 @@ from Domremy when she demanded audience of a [[King]].
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_01" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 1)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_01" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 1)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/city,motif/cross,motif/flag,motif/night,motif/prison,motif/silence,motif/snow,motif/time,motif/water,motif/well,concept/poverty"></span>
 
 
 IV THE UNREASONABLENESS OF WOMAN
@@ -28510,7 +28510,7 @@ when I had hardly a rag on my back; I suppose the [[Flag]] of Pavonia, flying
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_02" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 2)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_02" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 2)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/prison,motif/rose,motif/time,motif/well,concept/pride,concept/self,form/epigram"></span>
 
 
 on the top of the palace, would have come down off its pole to wrap me up
@@ -28696,7 +28696,7 @@ she had received a personal insult.
 
 
 
-<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_03" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 3)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_iv_the_unreasonableness_of_woman--part_03" data-title="FourFaultlessFelons — IV The Unreasonableness Of Woman (part 3)" data-chapter="IV The Unreasonableness Of Woman" data-kind="excerpt" data-tags="motif/lightning,motif/prison,motif/well,concept/beauty"></span>
 
 
 absolutely to speak."
@@ -28790,7 +28790,7 @@ the rest of their interview was too wonderful to be believed.
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_01" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 1)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_01" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 1)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,archetype/shadow,motif/city,motif/grave,motif/rose,motif/spring,motif/time,concept/doubt,concept/honour,concept/hope,concept/reform,concept/truth,setting/court,character/sebastian"></span>
 
 
 V THE TERMS OF A TRAITOR
@@ -28968,7 +28968,7 @@ The Prime Minister [[Rose|rose]] to his feet in uncontrollable agitation, for
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_02" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 2)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_02" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 2)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/fire,motif/grave,motif/mirror,motif/prison,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/reform,concept/self,setting/court,setting/mountains,character/sebastian"></span>
 
 
 professional reformers do not like to hear about drastic [[Reform|reform]].
@@ -29142,7 +29142,7 @@ brevity: "[[Well]], I suppose we had better leave the next step to you."
 
 
 
-<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_03" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 3)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_v_the_terms_of_a_traitor--part_03" data-title="FourFaultlessFelons — V The Terms Of A Traitor (part 3)" data-chapter="V The Terms Of A Traitor" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/garden,motif/lion,motif/moon,motif/night,motif/road,motif/time,motif/well,concept/courage,concept/fear"></span>
 
 
 The next step led them together down the long poplar avenue, past the
@@ -29304,7 +29304,7 @@ was nothing so extraordinary as what he found.
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_01" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 1)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_01" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 1)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/garden,motif/moon,motif/night,motif/silence,motif/stars,motif/time,motif/well,motif/window,concept/grotesque,character/aaron,character/hamlet,character/sebastian"></span>
 
 
 VI THE SPEAKING OF THE WORD
@@ -29482,7 +29482,7 @@ Then after a pause he added: "But before we seek them out in their
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_02" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 2)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_02" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 2)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt" data-tags="archetype/king,motif/stars,motif/time,motif/well,concept/history,concept/hope,concept/imagination,form/history,character/sebastian"></span>
 
 
 separate suites of apartments, I want to talk to you about something. I
@@ -29670,7 +29670,7 @@ newspapers and all that. It was only necessary for each person to have a
 
 
 
-<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_03" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 3)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_vi_the_speaking_of_the_word--part_03" data-title="FourFaultlessFelons — VI The Speaking Of The Word (part 3)" data-chapter="VI The Speaking Of The Word" data-kind="excerpt" data-tags="archetype/king,motif/time,concept/history,concept/honour,concept/wonder,form/history,setting/germany,character/sebastian"></span>
 
 
 vast, vague reputation, more or less foreign. When Professor Phocus wrote
@@ -29772,7 +29772,7 @@ deal to do with it.
 
 
 
-<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Epilogue Of The Pressman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_epilogue_of_the_pressman" data-title="FourFaultlessFelons — Epilogue Of The Pressman" data-chapter="Epilogue Of The Pressman" data-kind="story" data-tags="motif/home,motif/secrets,motif/silence,motif/time,motif/well,concept/honour,concept/hope"></span>
 
 
 EPILOGUE OF THE PRESSMAN

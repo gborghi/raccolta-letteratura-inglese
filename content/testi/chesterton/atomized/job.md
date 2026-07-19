@@ -427,7 +427,7 @@ or say what is prefigured in the wounds of Job.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="job (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="job (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/time,motif/well,concept/history,concept/honour,concept/individualism,concept/truth,concept/wonder,form/epic,form/history,form/riddle,histref/bible,setting/cathedral,setting/denmark,character/bottom,character/hamlet"></span>
 
 
 Introduction to THE BOOK OF JOB
@@ -579,7 +579,7 @@ Coloro, per esempio, che si lagnano delle atrocità e dei tradimenti dei giudici
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="job (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="job (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/city,motif/desire,motif/moon,motif/nature,motif/silence,motif/stars,motif/time,motif/well,concept/doubt,concept/loneliness,concept/nature,concept/truth,form/riddle,histref/christianity"></span>
 
 
 The central idea of the great part of the Old Testament may be called
@@ -701,7 +701,7 @@ L'importanza attuale del Libro di Giobbe non può essere espressa adeguatamente 
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="job (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="job (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/monster,motif/cross,motif/desert,motif/horse,motif/marriage,motif/nature,motif/river,motif/snow,motif/time,concept/doubt,concept/faith,concept/humility,concept/nature,concept/wonder,setting/desert,character/christ"></span>
 
 
 When, at the end of the poem, God enters (somewhat abruptly), is struck
@@ -835,7 +835,7 @@ Questo è il primo grande fatto da notare a proposito del discorso di Dio, che �
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="job (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="job (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/decay,motif/soul,motif/well,concept/doubt,concept/history,concept/humility,concept/paradox,concept/resignation,form/epic,form/history,histref/christianity,character/hector"></span>
 
 
 Nothing could be better, artistically speaking, than this optimism

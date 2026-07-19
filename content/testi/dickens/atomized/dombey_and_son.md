@@ -39725,7 +39725,7 @@ chapter in which my little friend and I parted company.
 
 
 
-<span class="atom-split" data-atom="chapter_01_dombey_and_son" data-title="Dombey and Son — Chapter 1: Dombey and Son" data-chapter="Dombey and Son" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_dombey_and_son" data-title="Dombey and Son — Chapter 1: Dombey and Son" data-chapter="Dombey and Son" data-kind="chapter" data-tags="motif/home"></span>
 
 
 CHAPTER I. Dombey and Son
@@ -39736,7 +39736,7 @@ CHAPTER IV. In which some more First Appearances are made on the Stage of these 
 
 
 
-<span class="atom-split" data-atom="chapter_02_pauls_second_deprivation" data-title="Dombey and Son — Chapter 6: Paul’s Second Deprivation" data-chapter="Pauls Second Deprivation" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_pauls_second_deprivation" data-title="Dombey and Son — Chapter 6: Paul’s Second Deprivation" data-chapter="Pauls Second Deprivation" data-kind="chapter" data-tags="motif/childhood,form/social_novel,character/paul_dombey"></span>
 
 
 CHAPTER V. Paul’s Progress and Christening
@@ -39746,7 +39746,7 @@ CHAPTER VII. A Bird’s-eye Glimpse of Miss Tox’s Dwelling-place: also of the 
 
 
 
-<span class="atom-split" data-atom="chapter_03_in_which_the_wooden_midshipman" data-title="Dombey and Son — Chapter 9: In which the Wooden Midshipman gets into Trouble" data-chapter="In which the Wooden Midshipman" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_in_which_the_wooden_midshipman" data-title="Dombey and Son — Chapter 9: In which the Wooden Midshipman gets into Trouble" data-chapter="In which the Wooden Midshipman" data-kind="chapter" data-tags="form/social_novel,character/paul_dombey"></span>
 
 
 CHAPTER VIII. Paul’s Further Progress, Growth and Character
@@ -39755,7 +39755,7 @@ CHAPTER IX. In which the Wooden Midshipman gets into Trouble
 
 
 
-<span class="atom-split" data-atom="chapter_04_pauls_introduction_to_a_new_sc" data-title="Dombey and Son — Chapter 11: Paul’s Introduction to a New Scene" data-chapter="Pauls Introduction to a New Sc" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_pauls_introduction_to_a_new_sc" data-title="Dombey and Son — Chapter 11: Paul’s Introduction to a New Scene" data-chapter="Pauls Introduction to a New Sc" data-kind="chapter" data-tags="form/social_novel,character/paul_dombey"></span>
 
 
 CHAPTER X. Containing the Sequel of the Midshipman’s Disaster
@@ -39764,7 +39764,7 @@ CHAPTER XI. Paul’s Introduction to a New Scene
 
 
 
-<span class="atom-split" data-atom="chapter_05_shipping_intelligence_and_offi" data-title="Dombey and Son — Chapter 13: Shipping Intelligence and Office Business" data-chapter="Shipping Intelligence and Offi" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_shipping_intelligence_and_offi" data-title="Dombey and Son — Chapter 13: Shipping Intelligence and Office Business" data-chapter="Shipping Intelligence and Offi" data-kind="chapter" data-tags="motif/home,concept/education,character/captain_cuttle,character/walter_gay"></span>
 
 
 CHAPTER XII.  Paul’s [[Education]]
@@ -39775,7 +39775,7 @@ CHAPTER XV. Amazing Artfulness of [[Captain Cuttle]], and a new Pursuit for [[Wa
 
 
 
-<span class="atom-split" data-atom="chapter_06_what_the_waves_were_always_say" data-title="Dombey and Son — Chapter 16: What the Waves were always saying" data-chapter="What the Waves were always say" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_what_the_waves_were_always_say" data-title="Dombey and Son — Chapter 16: What the Waves were always saying" data-chapter="What the Waves were always say" data-kind="chapter" data-tags="character/captain_cuttle"></span>
 
 
 CHAPTER XVI. What the Waves were always saying
@@ -39784,7 +39784,7 @@ CHAPTER XVII. [[Captain Cuttle]] does a little Business for the Young People
 
 
 
-<span class="atom-split" data-atom="chapter_07_walter_goes_away" data-title="Dombey and Son — Chapter 19: Walter goes away" data-chapter="Walter goes away" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_walter_goes_away" data-title="Dombey and Son — Chapter 19: Walter goes away" data-chapter="Walter goes away" data-kind="chapter" data-tags="form/social_novel,character/walter_gay,character/florence_dombey"></span>
 
 
 CHAPTER XVIII. Father and Daughter
@@ -39793,7 +39793,7 @@ CHAPTER XIX. Walter goes away
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_trifle_of_management_by_mr_c" data-title="Dombey and Son — Chapter 22: A Trifle of Management by Mr Carker the Manager" data-chapter="A Trifle of Management by Mr C" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_a_trifle_of_management_by_mr_c" data-title="Dombey and Son — Chapter 22: A Trifle of Management by Mr Carker the Manager" data-chapter="A Trifle of Management by Mr C" data-kind="chapter" data-tags="motif/journey"></span>
 
 
 CHAPTER XX. Mr Dombey goes upon a [[Journey]]
@@ -39803,7 +39803,7 @@ CHAPTER XXII. A Trifle of Management by Mr Carker the Manager
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_study_of_a_loving_heart" data-title="Dombey and Son — Chapter 24: The Study of a Loving Heart" data-chapter="The Study of a Loving Heart" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_study_of_a_loving_heart" data-title="Dombey and Son — Chapter 24: The Study of a Loving Heart" data-chapter="The Study of a Loving Heart" data-kind="chapter" data-tags="form/social_novel,character/florence_dombey"></span>
 
 
 CHAPTER XXIII. Florence solitary, and the Midshipman mysterious
@@ -39812,7 +39812,7 @@ CHAPTER XXIV. The Study of a Loving Heart
 
 
 
-<span class="atom-split" data-atom="chapter_10_shadows_of_the_past_and_future" data-title="Dombey and Son — Chapter 26: Shadows of the Past and Future" data-chapter="Shadows of the Past and Future" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_shadows_of_the_past_and_future" data-title="Dombey and Son — Chapter 26: Shadows of the Past and Future" data-chapter="Shadows of the Past and Future" data-kind="chapter" data-tags="form/social_novel,character/solomon_gills"></span>
 
 
 CHAPTER XXV. Strange News of Uncle Sol
@@ -39821,7 +39821,7 @@ CHAPTER XXVI. Shadows of the Past and Future
 
 
 
-<span class="atom-split" data-atom="chapter_11_alterations" data-title="Dombey and Son — Chapter 28: Alterations" data-chapter="Alterations" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_alterations" data-title="Dombey and Son — Chapter 28: Alterations" data-chapter="Alterations" data-kind="chapter" data-tags="form/social_novel"></span>
 
 
 CHAPTER XXVII. Deeper Shadows
@@ -39830,7 +39830,7 @@ CHAPTER XXVIII. Alterations
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the [[Marriage" data-chapter="The interval before the Marria" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_the_interval_before_the_marria" data-title="Dombey and Son — Chapter 30: The interval before the [[Marriage" data-chapter="The interval before the Marria" data-kind="chapter" data-tags="motif/marriage,form/social_novel"></span>
 
 
 CHAPTER XXIX. The Opening of the Eyes of Mrs Chick
@@ -39839,7 +39839,7 @@ CHAPTER XXX. The interval before the [[Marriage]]
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_wooden_midshipman_goes_to" data-title="Dombey and Son — Chapter 32: The Wooden Midshipman goes to Pieces" data-chapter="The Wooden Midshipman goes to" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_wooden_midshipman_goes_to" data-title="Dombey and Son — Chapter 32: The Wooden Midshipman goes to Pieces" data-chapter="The Wooden Midshipman goes to" data-kind="chapter" data-tags="motif/marriage,form/social_novel"></span>
 
 
 CHAPTER XXXI. The Wedding
@@ -39848,7 +39848,7 @@ CHAPTER XXXII. The Wooden Midshipman goes to Pieces
 
 
 
-<span class="atom-split" data-atom="chapter_14_another_mother_and_daughter" data-title="Dombey and Son — Chapter 34: Another Mother and Daughter" data-chapter="Another Mother and Daughter" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_another_mother_and_daughter" data-title="Dombey and Son — Chapter 34: Another Mother and Daughter" data-chapter="Another Mother and Daughter" data-kind="chapter" data-tags="concept/family,form/social_novel"></span>
 
 
 CHAPTER XXXIII. Contrasts
@@ -39857,7 +39857,7 @@ CHAPTER XXXIV. Another Mother and Daughter
 
 
 
-<span class="atom-split" data-atom="chapter_15_housewarming" data-title="Dombey and Son — Chapter 36: Housewarming" data-chapter="Housewarming" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_housewarming" data-title="Dombey and Son — Chapter 36: Housewarming" data-chapter="Housewarming" data-kind="chapter" data-tags="motif/marriage,form/social_novel"></span>
 
 
 CHAPTER XXXV. The Happy Pair
@@ -39875,7 +39875,7 @@ CHAPTER XXXVIII. Miss Tox improves an Old Acquaintance
 
 
 
-<span class="atom-split" data-atom="chapter_17_domestic_relations" data-title="Dombey and Son — Chapter 40: Domestic Relations" data-chapter="Domestic Relations" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_domestic_relations" data-title="Dombey and Son — Chapter 40: Domestic Relations" data-chapter="Domestic Relations" data-kind="chapter" data-tags="character/captain_cuttle"></span>
 
 
 CHAPTER XXXIX. Further Adventures of Captain Edward Cuttle, Mariner
@@ -39893,7 +39893,7 @@ CHAPTER XLII. Confidential and Accidental
 
 
 
-<span class="atom-split" data-atom="chapter_19_a_separation" data-title="Dombey and Son — Chapter 44: A Separation" data-chapter="A Separation" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_a_separation" data-title="Dombey and Son — Chapter 44: A Separation" data-chapter="A Separation" data-kind="chapter" data-tags="motif/night"></span>
 
 
 CHAPTER XLIII. The Watches of the [[Night]]
@@ -39911,7 +39911,7 @@ CHAPTER XLVI. Recognizant and Reflective
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_flight_of_florence" data-title="Dombey and Son — Chapter 48: The Flight of Florence" data-chapter="The Flight of Florence" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_the_flight_of_florence" data-title="Dombey and Son — Chapter 48: The Flight of Florence" data-chapter="The Flight of Florence" data-kind="chapter" data-tags="character/florence_dombey"></span>
 
 
 CHAPTER XLVII. The Thunderbolt
@@ -39920,7 +39920,7 @@ CHAPTER XLVIII. The Flight of Florence
 
 
 
-<span class="atom-split" data-atom="chapter_22_mr_tootss_complaint" data-title="Dombey and Son — Chapter 50: Mr Toots’s Complaint" data-chapter="Mr Tootss Complaint" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_mr_tootss_complaint" data-title="Dombey and Son — Chapter 50: Mr Toots’s Complaint" data-chapter="Mr Tootss Complaint" data-kind="chapter" data-tags="character/mr_toots"></span>
 
 
 CHAPTER XLIX. The Midshipman makes a Discovery
@@ -39956,7 +39956,7 @@ CHAPTER LVI. Several People delighted, and the Game Chicken disgusted
 
 
 
-<span class="atom-split" data-atom="chapter_26_after_a_lapse" data-title="Dombey and Son — Chapter 58: After a Lapse" data-chapter="After a Lapse" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_after_a_lapse" data-title="Dombey and Son — Chapter 58: After a Lapse" data-chapter="After a Lapse" data-kind="chapter" data-tags="motif/marriage"></span>
 
 
 CHAPTER LVII. Another Wedding
@@ -39965,7 +39965,7 @@ CHAPTER LVIII. After a Lapse
 
 
 
-<span class="atom-split" data-atom="chapter_27_chiefly_matrimonial" data-title="Dombey and Son — Chapter 60: Chiefly Matrimonial" data-chapter="Chiefly Matrimonial" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_chiefly_matrimonial" data-title="Dombey and Son — Chapter 60: Chiefly Matrimonial" data-chapter="Chiefly Matrimonial" data-kind="chapter" data-tags="motif/marriage,concept/marriage_and_fidelity"></span>
 
 
 CHAPTER LIX. Retribution
@@ -39985,7 +39985,7 @@ PREFACE OF 1867
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Dombey and Son — Chapter 1 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Dombey and Son — Chapter 1 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/flowers,motif/moon,motif/nature,motif/stars,motif/time,motif/well,concept/ambition,concept/endurance,concept/hope,concept/nature"></span>
 
 
 CHAPTER I.
@@ -40101,7 +40101,7 @@ piece of base coin that couldn’t be invested—a bad Boy—nothing more.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Dombey and Son — Chapter 1 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Dombey and Son — Chapter 1 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/dust,motif/fire,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/nature,concept/self,setting/court,character/hubert,character/nurse"></span>
 
 
 Mr Dombey’s cup of satisfaction was so full at this moment, however,
@@ -40238,7 +40238,7 @@ regret. Though it would be a cool, business-like, gentlemanly,
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Dombey and Son — Chapter 1 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Dombey and Son — Chapter 1 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/flowers,motif/love,motif/nature,motif/rose,motif/soul,motif/tears,motif/well,motif/window,motif/winter,concept/doubt,concept/honour,concept/nature"></span>
 
 
 His meditations on the subject were soon interrupted, first by the
@@ -40362,7 +40362,7 @@ astonishment, saying, “My dear Paul, what have you been doing!”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Dombey and Son — Chapter 1 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Dombey and Son — Chapter 1 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/well,concept/courage,concept/faith,concept/hope,character/duke_of_york"></span>
 
 
 “Miss Tox, Paul,” pursued Mrs Chick, still retaining her hand, “knowing
@@ -40499,7 +40499,7 @@ of one who endeavours to awaken a sleeper:
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_05" data-title="Dombey and Son — Chapter 1 (part 5)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_05" data-title="Dombey and Son — Chapter 1 (part 5)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/silence,motif/time"></span>
 
 
 “Fanny! Fanny!”
@@ -40566,7 +40566,7 @@ world.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Dombey and Son — Chapter 2 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Dombey and Son — Chapter 2 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/nature,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/resignation,character/nurse"></span>
 
 
 CHAPTER II.
@@ -40700,7 +40700,7 @@ running into the room in a breathless condition.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Dombey and Son — Chapter 2 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Dombey and Son — Chapter 2 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/home,motif/marriage,motif/soul,motif/time,motif/well,concept/despair,concept/education,concept/friendship,concept/hope,concept/jealousy,concept/pride,character/bottom,character/nurse,character/queen"></span>
 
 
 “My dear Louisa,” said Miss Tox, “is the vacancy still unsupplied?”
@@ -40834,7 +40834,7 @@ many commendations on the indefatigable [[Friendship|friendship]] of Miss Tox.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Dombey and Son — Chapter 2 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Dombey and Son — Chapter 2 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/desire,motif/dust,motif/well,concept/doubt,concept/hope,character/nurse"></span>
 
 
 “These children look healthy,” said Mr Dombey. “But my God, to think of
@@ -40980,7 +40980,7 @@ saying anything to you.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Dombey and Son — Chapter 2 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Dombey and Son — Chapter 2 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/dust,motif/home,motif/memory,motif/tears,motif/time,concept/hope,concept/pride,concept/temptation"></span>
 
 
 “Mostly underground, Sir, “till I got married. I come to the level
@@ -41101,7 +41101,7 @@ young person has made me many dresses. The very best materials, too!”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_05" data-title="Dombey and Son — Chapter 2 (part 5)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_05" data-title="Dombey and Son — Chapter 2 (part 5)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/well,motif/window"></span>
 
 
 “Lor, you’ll be so smart,” said Miss Tox, “that your husband won’t know
@@ -41179,7 +41179,7 @@ was best accustomed.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Dombey and Son — Chapter 3 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Dombey and Son — Chapter 3 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/home,motif/leaves,motif/rose,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/melancholy,setting/russia,character/paul_dombey"></span>
 
 
 CHAPTER III.
@@ -41284,7 +41284,7 @@ girl looked in.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Dombey and Son — Chapter 3 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Dombey and Son — Chapter 3 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/flowers,motif/home,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/truth,character/nurse"></span>
 
 
 “It’s Miss Florence come [[Home|home]] from her aunt’s, no [[Doubt|doubt]],” thought
@@ -41429,7 +41429,7 @@ will be so pleased to see her dear Papa tonight.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Dombey and Son — Chapter 3 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Dombey and Son — Chapter 3 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/home,motif/lightning,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/nature,concept/self,setting/london,character/nurse,character/susan_nipper"></span>
 
 
 “Lork, Mrs Richards!” cried Miss Nipper, taking up her words with a
@@ -41554,7 +41554,7 @@ dropped her eyes and her curtsey at the same [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Dombey and Son — Chapter 3 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Dombey and Son — Chapter 3 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/courage,concept/fear,concept/hope,concept/nature,concept/pride,concept/truth,character/bottom"></span>
 
 
 “Quite thriving, Sir, and [[Well|well]].”
@@ -41688,7 +41688,7 @@ within the door.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_05" data-title="Dombey and Son — Chapter 3 (part 5)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_05" data-title="Dombey and Son — Chapter 3 (part 5)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/tears,motif/time,motif/well,concept/freedom,concept/hope,character/susan_nipper"></span>
 
 
 “Come here, Florence,” said her father, coldly. “Do you know who I am?”
@@ -41779,7 +41779,7 @@ notwithstanding!”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Dombey and Son — Chapter 4 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Dombey and Son — Chapter 4 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/city,motif/desert,motif/night,motif/ship,concept/doubt,setting/desert,setting/london,setting/ship,character/solomon_gills"></span>
 
 
 CHAPTER IV.
@@ -41883,7 +41883,7 @@ guns.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Dombey and Son — Chapter 4 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Dombey and Son — Chapter 4 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/clock,motif/dust,motif/home,motif/road,motif/ship,motif/time,motif/well,motif/window,concept/wonder,setting/ship,character/lord_mayor,character/solomon_gills"></span>
 
 
 It is half-past five o’[[Clock|clock]], and an [[Autumn|autumn]] afternoon, when the reader
@@ -42035,7 +42035,7 @@ covered with [[Dust|dust]] and dirt.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Dombey and Son — Chapter 4 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Dombey and Son — Chapter 4 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/home,motif/lightning,motif/love,motif/road,motif/ship,motif/silence,motif/storm,motif/tears,motif/time,motif/well,concept/honour,concept/truth,form/fragment,setting/ship,character/solomon_gills"></span>
 
 
 “Why, Uncle Sol!” said the boy, “what are you about? that’s the
@@ -42165,7 +42165,7 @@ and pitches, like mad!” cried his nephew.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Dombey and Son — Chapter 4 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Dombey and Son — Chapter 4 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/love,motif/night,motif/ship,motif/well,motif/wind,concept/despair,concept/honour,concept/truth,concept/wonder,setting/ship,character/captain_cuttle,character/chorus"></span>
 
 
 “Exactly so,” said Solomon: “has gone on, over the old cask that held
@@ -42291,7 +42291,7 @@ the dial.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_05" data-title="Dombey and Son — Chapter 4 (part 5)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_05" data-title="Dombey and Son — Chapter 4 (part 5)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/water,motif/well,setting/london,character/captain_cuttle,character/lord_mayor,character/richard,character/sunday"></span>
 
 
 “But he’s chock-full of science,” he observed, waving his hook towards
@@ -42373,7 +42373,7 @@ So here’s to Dombey—and Son—and Daughter!”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Dombey and Son — Chapter 5 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Dombey and Son — Chapter 5 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/blood,motif/death,motif/well,concept/conversion,concept/doubt,concept/history,concept/honour,concept/suffering,form/history"></span>
 
 
 CHAPTER V.
@@ -42500,7 +42500,7 @@ crushing argument until now, “I never did think it was.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Dombey and Son — Chapter 5 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Dombey and Son — Chapter 5 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/cross,motif/fire,motif/nature,motif/soul,motif/time,motif/well,motif/window,concept/ambition,concept/hope,concept/jealousy,concept/nature,concept/solitude,character/susan_nipper"></span>
 
 
 Mr Dombey walked to the [[Window|window]] and back again.
@@ -42610,7 +42610,7 @@ much.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Dombey and Son — Chapter 5 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Dombey and Son — Chapter 5 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/memory,motif/nature,motif/night,motif/sleep,motif/tears,motif/time,motif/wind,concept/nature,concept/truth,character/nurse"></span>
 
 
 A tone of most extraordinary compassion Miss Tox said it in, though she
@@ -42750,7 +42750,7 @@ before you go to bed, and not to distress yourself!”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Dombey and Son — Chapter 5 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Dombey and Son — Chapter 5 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/autumn,motif/cross,motif/decay,motif/fire,motif/garden,motif/leaves,motif/sleep,motif/water,motif/wind,concept/honour,concept/hope,concept/melancholy,concept/unattainable,character/chorus,character/susan_nipper"></span>
 
 
 It was with extreme difficulty that Nipper, the black-eyed, who looked
@@ -42872,7 +42872,7 @@ that he was perfectly comfortable.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_05" data-title="Dombey and Son — Chapter 5 (part 5)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_05" data-title="Dombey and Son — Chapter 5 (part 5)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/grave,motif/leaves,motif/love,motif/road,motif/silence,motif/time,motif/window,concept/honour,character/hamlet,character/nurse,character/susan_nipper"></span>
 
 
 He added in a low voice, “With my tiddle tol toor rul”—when he was
@@ -42993,7 +42993,7 @@ hoped he had enjoyed himself since.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_06" data-title="Dombey and Son — Chapter 5 (part 6)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_06" data-title="Dombey and Son — Chapter 5 (part 6)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/fire,motif/home,motif/marriage,motif/nature,motif/prayer,motif/silence,motif/time,motif/water,motif/well,concept/doubt,concept/history,concept/honour,concept/nature,form/history,character/bottom"></span>
 
 
 The very wedding looked dismal as they passed in front of the altar.
@@ -43110,7 +43110,7 @@ position, in public, may impose upon him.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_07" data-title="Dombey and Son — Chapter 5 (part 7)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_07" data-title="Dombey and Son — Chapter 5 (part 7)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/home,motif/leaves,motif/nature,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/education,concept/hope,concept/melancholy,concept/nature,concept/self,form/fragment,character/bottom"></span>
 
 
 The tone in which this was said admitting of nothing more, Mr Chick
@@ -43270,7 +43270,7 @@ fellow closer to her breast, the withered [[Leaves|leaves]] came showering down.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Dombey and Son — Chapter 6 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Dombey and Son — Chapter 6 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/hill,motif/leaves,motif/road,motif/seasons,motif/summer,motif/time,motif/water,setting/london,character/bottom"></span>
 
 
 CHAPTER VI.
@@ -43376,7 +43376,7 @@ cheers from the chimney-pots.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Dombey and Son — Chapter 6 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Dombey and Son — Chapter 6 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="topos/double,archetype/damsel,motif/clock,motif/cross,motif/home,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/fear,concept/friendship,concept/nature,setting/castle,character/susan_nipper"></span>
 
 
 To this unhallowed spot, the very name of which had hitherto been
@@ -43510,7 +43510,7 @@ evinced a disposition to swear eternal [[Friendship|friendship]].
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Dombey and Son — Chapter 6 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Dombey and Son — Chapter 6 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/city,motif/grave,motif/home,motif/nature,motif/road,motif/soul,motif/time,concept/body,concept/nature,concept/self,character/bottom,character/nurse"></span>
 
 
 Little Florence herself was not behind-hand in improving the occasion;
@@ -43629,7 +43629,7 @@ tight. “Come along with me.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Dombey and Son — Chapter 6 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Dombey and Son — Chapter 6 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/city,motif/clock,motif/dust,motif/home,motif/road,motif/soul,motif/tears,motif/time,motif/well,concept/history,form/history,character/bottom"></span>
 
 
 “I—I don’t know you. What’s your name?” asked Florence.
@@ -43766,7 +43766,7 @@ faithfully and earnestly to observe.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_05" data-title="Dombey and Son — Chapter 6 (part 5)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_05" data-title="Dombey and Son — Chapter 6 (part 5)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/journey,motif/river,motif/tears,motif/time,motif/well,concept/self_reliance,character/florence_dombey,character/lord_mayor,character/solomon_gills"></span>
 
 
 At length, Mrs Brown, issuing forth, conducted her changed and ragged
@@ -43898,7 +43898,7 @@ Instrument-maker in general.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_06" data-title="Dombey and Son — Chapter 6 (part 6)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_06" data-title="Dombey and Son — Chapter 6 (part 6)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/desert,motif/fire,motif/home,motif/leaves,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/faith,concept/humility,concept/melancholy,setting/desert,character/richard,character/walter_gay"></span>
 
 
 Mr Clark stood rapt in amazement: observing under his breath, I never
@@ -44026,7 +44026,7 @@ about him as I am.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_07" data-title="Dombey and Son — Chapter 6 (part 7)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_07" data-title="Dombey and Son — Chapter 6 (part 7)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/horse,motif/journey,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/hope,setting/london,character/lord_mayor,character/richard,character/solomon_gills,character/witch"></span>
 
 
 As Florence could hardly be expected to understand much about it,
@@ -44162,7 +44162,7 @@ her?”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_08" data-title="Dombey and Son — Chapter 6 (part 8)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_08" data-title="Dombey and Son — Chapter 6 (part 8)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/nature,motif/night,motif/sleep,motif/storm,motif/tears,motif/time,motif/well,concept/education,concept/nature,concept/pride,character/nurse,character/solomon_gills,character/susan_nipper,character/walter_gay"></span>
 
 
 “Why, I believe I found Miss Dombey, Sir,” said Walter modestly, “at
@@ -44297,7 +44297,7 @@ that is quite beside the question. Let us waste no words about it.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Dombey and Son — Chapter 7 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Dombey and Son — Chapter 7 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/journey,motif/lion,motif/memory,motif/well,motif/winter,concept/history,concept/vanity,form/fragment,form/history,setting/court,character/bottom,character/macbeth,character/major_bagstock,character/sunday"></span>
 
 
 CHAPTER VII.
@@ -44404,7 +44404,7 @@ strained and started convulsively.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Dombey and Son — Chapter 7 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Dombey and Son — Chapter 7 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,motif/blood,motif/dreams,motif/home,motif/moon,motif/nature,motif/night,motif/stars,motif/time,motif/well,motif/window,concept/nature,concept/truth,concept/wonder,character/nurse"></span>
 
 
 Notwithstanding his very liberal laudation of himself, however, the
@@ -44562,7 +44562,7 @@ earth contained a Dombey or a Son.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Dombey and Son — Chapter 8 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Dombey and Son — Chapter 8 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desire,motif/dreams,motif/fire,motif/home,motif/journey,motif/love,motif/nature,motif/road,motif/time,concept/doubt,concept/greatness,concept/history,concept/nature,form/history,character/major_bagstock,character/nurse"></span>
 
 
 CHAPTER VIII.
@@ -44689,7 +44689,7 @@ and yet so monstrously contrasted.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Dombey and Son — Chapter 8 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Dombey and Son — Chapter 8 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/fire,motif/jewel,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/melancholy,concept/wonder,character/nurse"></span>
 
 
 On one of these occasions, when they had both been perfectly quiet for
@@ -44827,7 +44827,7 @@ it; and remained, addressed towards the flickering blaze, until the
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Dombey and Son — Chapter 8 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Dombey and Son — Chapter 8 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/love,motif/moon,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/melancholy,concept/self_sacrifice,setting/court,character/nurse"></span>
 
 
 “I want Florence to come for me,” said Paul.
@@ -44961,7 +44961,7 @@ Towlinson can make!”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Dombey and Son — Chapter 8 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Dombey and Son — Chapter 8 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/leaves,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/history,form/history"></span>
 
 
 “Surely you must know, Louisa,” observed Mr Dombey, “that I don’t
@@ -45098,7 +45098,7 @@ human kindness, had been pumped out dry, instead of the mines.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_05" data-title="Dombey and Son — Chapter 8 (part 5)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_05" data-title="Dombey and Son — Chapter 8 (part 5)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/chalk,motif/clock,motif/fire,motif/home,motif/journey,motif/leaves,motif/nature,motif/night,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/nature,concept/truth,setting/castle"></span>
 
 
 The [[Castle]] of this ogress and [[Child|child]]-queller was in a steep by-street at
@@ -45212,7 +45212,7 @@ nodding too.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_06" data-title="Dombey and Son — Chapter 8 (part 6)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_06" data-title="Dombey and Son — Chapter 8 (part 6)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/clock,motif/cross,motif/death,motif/fire,motif/home,motif/lion,motif/night,motif/noon,motif/secrets,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,concept/doubt,concept/grotesque,concept/melancholy,setting/castle,character/falstaff,character/sunday,character/witch"></span>
 
 
 At last it was the children’s bedtime, and after prayers they went to
@@ -45343,7 +45343,7 @@ the party if they had all sprung up the chimney in a high [[Wind|wind]] one
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_07" data-title="Dombey and Son — Chapter 8 (part 7)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_07" data-title="Dombey and Son — Chapter 8 (part 7)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/fire,motif/night,motif/sleep,motif/time,motif/wind,concept/conscience,concept/hope,character/paul_dombey"></span>
 
 
 This, however, never came to pass. The cat, and Paul, and Mrs Pipchin,
@@ -45474,7 +45474,7 @@ being so free—in this jail of a [[house]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_08" data-title="Dombey and Son — Chapter 8 (part 8)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_08" data-title="Dombey and Son — Chapter 8 (part 8)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/love,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/melancholy,character/nurse"></span>
 
 
 Miss Berry’s emotion might have led to her patting Paul too hard on the
@@ -45606,7 +45606,7 @@ away.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Dombey and Son — Chapter 9 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Dombey and Son — Chapter 9 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/love,motif/memory,motif/nature,motif/road,motif/time,motif/well,concept/hope,concept/imagination,concept/nature,character/captain_cuttle,character/richard,character/solomon_gills,character/sunday,character/walter_gay"></span>
 
 
 CHAPTER IX.
@@ -45708,7 +45708,7 @@ boarders, and lighted him to bring up the Madeira.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Dombey and Son — Chapter 9 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Dombey and Son — Chapter 9 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/secrets,motif/ship,motif/time,motif/well,motif/wind,motif/window,concept/melancholy,setting/ship,character/solomon_gills"></span>
 
 
 “Uncle Sol,” said Walter, “I don’t think you’re [[Well|well]]. You haven’t eaten
@@ -45849,7 +45849,7 @@ eternal perspective of bankruptcy and ruin.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Dombey and Son — Chapter 9 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Dombey and Son — Chapter 9 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/monster,motif/rose,motif/ship,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/imagination,concept/wonder,setting/ship,character/captain_cuttle,character/solomon_gills,character/speed"></span>
 
 
 Mr Brogley himself was a moist-eyed, pink-complexioned, crisp-haired
@@ -45974,7 +45974,7 @@ it.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Dombey and Son — Chapter 9 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Dombey and Son — Chapter 9 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,motif/city,motif/crown,motif/fire,motif/home,motif/journey,motif/tears,motif/time,motif/well,motif/window,concept/courage,concept/hope,setting/castle,character/captain_cuttle,character/solomon_gills"></span>
 
 
 “[[Captain Cuttle]]’s at [[Home|home]], I know,” said Walter with a conciliatory
@@ -46100,7 +46100,7 @@ search of some friend to help him out of his difficulty.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Dombey and Son — Chapter 9 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Dombey and Son — Chapter 9 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/road,motif/time,motif/well,motif/wind,concept/despair,concept/friendship,concept/hope,concept/nature,character/captain_cuttle,character/solomon_gills"></span>
 
 
 “Gills!” said the Captain, hurrying into the back parlour, and taking
@@ -46237,7 +46237,7 @@ on the [[Road|road]], that he would stick by him to the last.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Dombey and Son — Chapter 10 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Dombey and Son — Chapter 10 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="topos/double,motif/death,motif/desire,motif/storm,motif/time,concept/freedom,concept/history,concept/honour,form/history,character/duke_of_york,character/major_bagstock"></span>
 
 
 CHAPTER X.
@@ -46356,7 +46356,7 @@ Mr Dombey.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Dombey and Son — Chapter 10 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Dombey and Son — Chapter 10 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/fire,motif/love,motif/nature,motif/soul,motif/time,motif/well,motif/window,motif/winter,concept/friendship,concept/honour,concept/madness,concept/nature,character/major_bagstock"></span>
 
 
 Mr Dombey seemed to intimate that he would endeavour to do so.
@@ -46483,7 +46483,7 @@ Joey B., now.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Dombey and Son — Chapter 10 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Dombey and Son — Chapter 10 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/well,motif/wheel,concept/courage,concept/doubt,concept/hope,character/captain_cuttle,character/sunday"></span>
 
 
 “Miss Tox is good enough to take a great deal of interest in Paul,
@@ -46607,7 +46607,7 @@ and—”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Dombey and Son — Chapter 10 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Dombey and Son — Chapter 10 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/silence,motif/tears,motif/well,concept/courage,character/captain_cuttle"></span>
 
 
 “[[Well]]!” said Mr Dombey, following his eyes as he glanced at the
@@ -46735,7 +46735,7 @@ Dombey and Son, now, and lend this money to young Gay’s Uncle?”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_05" data-title="Dombey and Son — Chapter 10 (part 5)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_05" data-title="Dombey and Son — Chapter 10 (part 5)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/flowers,motif/noon,motif/supernatural,motif/tears,motif/time,motif/wind,concept/beauty,character/captain_cuttle"></span>
 
 
 “Oh! if you please, Papa!” said Paul: “and so would Florence.”
@@ -46873,7 +46873,7 @@ in the [[City]], Sir, you’d do!”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Dombey and Son — Chapter 11 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Dombey and Son — Chapter 11 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/fire,motif/home,motif/memory,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/beauty,concept/hope,concept/melancholy,form/fragment,setting/castle"></span>
 
 
 CHAPTER XI.
@@ -46997,7 +46997,7 @@ subject, Mrs Pipchin?”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Dombey and Son — Chapter 11 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Dombey and Son — Chapter 11 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/time,motif/well,concept/doubt,concept/education,concept/fear,concept/hope,concept/melancholy,setting/castle"></span>
 
 
 “Brighton has proved very beneficial, Sir,” returned Mrs Pipchin. “Very
@@ -47115,7 +47115,7 @@ degrees on a former occasion.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Dombey and Son — Chapter 11 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Dombey and Son — Chapter 11 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/dreams,motif/ghosts,motif/love,motif/nature,motif/seasons,motif/time,motif/well,motif/window,concept/education,concept/hope,concept/melancholy,concept/nature,concept/wonder"></span>
 
 
 Mr Dombey finished the interview by expressing his [[Hope|hope]] that Mrs
@@ -47232,7 +47232,7 @@ world.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Dombey and Son — Chapter 11 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Dombey and Son — Chapter 11 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dawn,motif/grave,motif/home,motif/tears,motif/time,motif/well,concept/wonder"></span>
 
 
 But he went on blow, blow, blowing, in the Doctor’s hothouse, all the
@@ -47372,7 +47372,7 @@ have liked to tackle him with the Greek alphabet, on the spot.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="Dombey and Son — Chapter 11 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="Dombey and Son — Chapter 11 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,archetype/pilgrim,motif/flowers,motif/garden,motif/lamb,motif/love,motif/silence,motif/time,concept/forgiveness,concept/hope"></span>
 
 
 “That circumstance, indeed, Doctor Blimber,” pursued Mr Dombey,
@@ -47507,7 +47507,7 @@ upon the table. “Good-bye.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_06" data-title="Dombey and Son — Chapter 11 (part 6)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_06" data-title="Dombey and Son — Chapter 11 (part 6)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/tears,motif/time"></span>
 
 
 “Good-bye, Papa.”
@@ -47575,7 +47575,7 @@ and the upholsterer were never coming.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Dombey and Son — Chapter 12 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Dombey and Son — Chapter 12 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/grave,motif/time,motif/water,motif/well,motif/window,concept/despair,concept/education,character/paul_dombey"></span>
 
 
 CHAPTER XII.
@@ -47702,7 +47702,7 @@ quite cold.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Dombey and Son — Chapter 12 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Dombey and Son — Chapter 12 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/clock,motif/horse,motif/journey,motif/nature,motif/sleep,motif/time,motif/window,concept/nature,setting/castle,character/bottom"></span>
 
 
 Paul having been already introduced to Toots, that pupil merely
@@ -47838,7 +47838,7 @@ like a little elephant and [[Castle|castle]].
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Dombey and Son — Chapter 12 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Dombey and Son — Chapter 12 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/water,concept/doubt,concept/honour"></span>
 
 
 Grace having been said by the Doctor, dinner began. There was some nice
@@ -47983,7 +47983,7 @@ him, and what they were all about at Mrs Pipchin’s.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Dombey and Son — Chapter 12 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Dombey and Son — Chapter 12 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/fire,motif/home,motif/journey,motif/night,motif/silence,motif/sleep,motif/time,concept/body,concept/wonder,character/bottom"></span>
 
 
 Mr Toots, who had been detained by an important letter from the Duke of
@@ -48105,7 +48105,7 @@ upstairs.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="Dombey and Son — Chapter 12 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="Dombey and Son — Chapter 12 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/clock,motif/dreams,motif/home,motif/love,motif/night,motif/noon,motif/swallow,motif/time,motif/well,motif/wheel,concept/education,concept/history,concept/wonder,form/history,character/nurse,character/sunday"></span>
 
 
 “Now, Dombey,” said Miss Blimber. “How have you got on with those
@@ -48223,7 +48223,7 @@ tired. I copied them last [[Night|night]] while he was writing.”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_06" data-title="Dombey and Son — Chapter 12 (part 6)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_06" data-title="Dombey and Son — Chapter 12 (part 6)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="topos/quest,motif/fire,motif/home,motif/love,motif/night,motif/well,concept/faith,concept/vanity,character/susan_nipper"></span>
 
 
 “Don’t show ’em to me, Miss Floy, if you please,” returned Nipper, “I’d
@@ -48361,7 +48361,7 @@ helping hand at the bellows, and to stir the [[Fire|fire]].
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_07" data-title="Dombey and Son — Chapter 12 (part 7)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_07" data-title="Dombey and Son — Chapter 12 (part 7)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/clock,motif/ghosts,motif/moon,motif/night,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/hope,concept/melancholy"></span>
 
 
 Such spirits as he had in the outset, Paul soon lost of course. But he
@@ -48485,7 +48485,7 @@ as if he would have emulated them, and soared away!
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Dombey and Son — Chapter 13 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Dombey and Son — Chapter 13 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/artist,archetype/monster,motif/clock,motif/fire,motif/nature,motif/soul,motif/time,motif/well,motif/window,concept/honour,concept/jealousy,concept/nature,setting/court,character/bottom"></span>
 
 
 CHAPTER XIII.
@@ -48600,7 +48600,7 @@ been more explicit than he was.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Dombey and Son — Chapter 13 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Dombey and Son — Chapter 13 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/orphan,motif/fire,motif/memory,motif/night,motif/rose,motif/seasons,motif/time,motif/well,concept/doubt,concept/greatness,concept/hope,concept/humility,character/bottom"></span>
 
 
 This was Carker the Manager. Mr Carker the Junior, Walter’s friend, was
@@ -48745,7 +48745,7 @@ purposely selected it from all the rest.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Dombey and Son — Chapter 13 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Dombey and Son — Chapter 13 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/fire,motif/pain,motif/time,concept/suffering,concept/truth,character/captain_cuttle"></span>
 
 
 “You can leave the room, Sir!” said Mr Dombey, haughtily.
@@ -48900,7 +48900,7 @@ have stood before the executioner.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_04" data-title="Dombey and Son — Chapter 13 (part 4)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_04" data-title="Dombey and Son — Chapter 13 (part 4)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/memory,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/hope,concept/self,concept/truth,form/history,character/james_carker,character/walter_gay"></span>
 
 
 Generous and quick in all his emotions, and regarding himself as the
@@ -49028,7 +49028,7 @@ door.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_05" data-title="Dombey and Son — Chapter 13 (part 5)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_05" data-title="Dombey and Son — Chapter 13 (part 5)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/home,motif/tears,motif/time,concept/fear,concept/history,concept/hope,form/history,character/captain_cuttle,character/walter_gay"></span>
 
 
 “That’s all,” he said. “I watched him with such trembling and such
@@ -49115,7 +49115,7 @@ in the course of her recovery from her next confinement?
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Dombey and Son — Chapter 14 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Dombey and Son — Chapter 14 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/desire,motif/grave,motif/home,motif/night,motif/rose,motif/sleep,motif/time,motif/water,motif/well,concept/jealousy,concept/melancholy,concept/resignation,form/essay,setting/london,character/dwarf"></span>
 
 
 CHAPTER XIV.
@@ -49221,7 +49221,7 @@ hard at him, through the spectacles.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Dombey and Son — Chapter 14 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Dombey and Son — Chapter 14 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/soul,motif/time,motif/well"></span>
 
 
 “No, Ma’am,” said Paul.
@@ -49346,7 +49346,7 @@ said on that occasion, “Bring him on, Cornelia! Bring him on!”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Dombey and Son — Chapter 14 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Dombey and Son — Chapter 14 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/clock,motif/love,motif/nature,motif/night,motif/time,motif/wind,motif/window,concept/honour,concept/nature,concept/self,setting/london"></span>
 
 
 Cornelia had always brought him on as vigorously as she could; and Paul
@@ -49463,7 +49463,7 @@ the least idea of what was in the [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_04" data-title="Dombey and Son — Chapter 14 (part 4)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_04" data-title="Dombey and Son — Chapter 14 (part 4)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/night,motif/time,motif/water,motif/well,motif/window,concept/pride,setting/london,character/bottom"></span>
 
 
 Paul thanked Mr Feeder for these hints, and pocketing his invitation,
@@ -49602,7 +49602,7 @@ to be submitted to, he believed, was it? Oh! Ah!
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_05" data-title="Dombey and Son — Chapter 14 (part 5)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_05" data-title="Dombey and Son — Chapter 14 (part 5)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/clock,motif/grave,motif/home,motif/love,motif/night,motif/time,motif/well,concept/grotesque,concept/wonder,histref/king_alfred,character/bottom"></span>
 
 
 Before the weak-eyed young man performed on the gong next morning, he
@@ -49717,7 +49717,7 @@ upward.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_06" data-title="Dombey and Son — Chapter 14 (part 6)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_06" data-title="Dombey and Son — Chapter 14 (part 6)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/fire,motif/home,motif/rose,motif/soul,motif/stars,motif/time,motif/wind,motif/window,concept/freedom,character/bottom"></span>
 
 
 At his own bedroom [[Window|window]], there were crowds of thoughts that mixed
@@ -49829,7 +49829,7 @@ find the incessant execution it demanded, quite bewildering.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_07" data-title="Dombey and Son — Chapter 14 (part 7)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_07" data-title="Dombey and Son — Chapter 14 (part 7)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/city,motif/dance,motif/death,motif/flowers,motif/grave,motif/home,motif/love,motif/time,motif/well,concept/honour,character/nurse,character/sunday"></span>
 
 
 All the young gentlemen, tightly cravatted, curled, and pumped, and
@@ -49963,7 +49963,7 @@ ended, he looked on very happily indeed.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_08" data-title="Dombey and Son — Chapter 14 (part 8)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_08" data-title="Dombey and Son — Chapter 14 (part 8)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/night,motif/silence,motif/summer,motif/tears,motif/well,concept/beauty,concept/self,concept/truth,setting/russia"></span>
 
 
 Florence would have sat by him all [[Night|night]], and would not have danced at
@@ -50080,7 +50080,7 @@ that soothed and touched him.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_09" data-title="Dombey and Son — Chapter 14 (part 9)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_09" data-title="Dombey and Son — Chapter 14 (part 9)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/birds,motif/home,motif/night,motif/time,motif/well,motif/window"></span>
 
 
 He did not know why. For all that the [[Child|child]] observed, and felt, and
@@ -50223,7 +50223,7 @@ Don’t tell them that I asked.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Dombey and Son — Chapter 15 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Dombey and Son — Chapter 15 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/despair,concept/hope,concept/nature,concept/union,character/captain_cuttle,character/speed,character/sunday,character/walter_gay"></span>
 
 
 CHAPTER XV.
@@ -50328,7 +50328,7 @@ that were no business of his. Therefore Walter gave two knocks.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Dombey and Son — Chapter 15 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Dombey and Son — Chapter 15 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,motif/window,concept/doubt,concept/faith,concept/honour,concept/hope,concept/pride,character/captain_cuttle"></span>
 
 
 “Cuttle,” he heard the Captain say upon that; and immediately
@@ -50460,7 +50460,7 @@ kindly inclined towards me then, and it certainly is not now.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Dombey and Son — Chapter 15 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Dombey and Son — Chapter 15 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/grave,motif/time,motif/water,motif/window,concept/despair,character/bottom,character/captain_cuttle,character/chorus"></span>
 
 
 “Turn again, Whittington,” muttered the disconsolate Captain, after
@@ -50595,7 +50595,7 @@ all right—and come away triumphant!
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Dombey and Son — Chapter 15 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Dombey and Son — Chapter 15 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/flowers,motif/memory,motif/night,motif/noon,motif/time,concept/doubt,concept/truth,concept/unattainable,character/captain_cuttle"></span>
 
 
 As these reflections presented themselves to the Captain’s mind, and by
@@ -50709,7 +50709,7 @@ angel’s hand from anything unworthy.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Dombey and Son — Chapter 15 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Dombey and Son — Chapter 15 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/monster,motif/bells,motif/birds,motif/blood,motif/city,motif/cross,motif/desert,motif/home,motif/journey,motif/nature,motif/night,motif/summer,motif/time,motif/window,concept/despair,concept/nature,setting/desert,setting/mountains,character/nurse,character/speed,character/sunday"></span>
 
 
 It was a long stroll in the fields that Walter took that day, listening
@@ -50823,7 +50823,7 @@ them, and strong purposes not yet achieved.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_06" data-title="Dombey and Son — Chapter 15 (part 6)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_06" data-title="Dombey and Son — Chapter 15 (part 6)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/home,motif/tears,motif/time,motif/well,motif/window,concept/aspiration,concept/hope,character/captain_cuttle,character/nurse,character/speed,character/susan_nipper"></span>
 
 
 But Staggs’s Gardens had been cut up root and branch. Oh woe the day
@@ -50909,7 +50909,7 @@ foreboding.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Dombey and Son — Chapter 16 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Dombey and Son — Chapter 16 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dawn,motif/grave,motif/night,motif/pain,motif/river,motif/rose,motif/stars,motif/time,motif/water,concept/fear,concept/wonder,character/bottom"></span>
 
 
 CHAPTER XVI.
@@ -51030,7 +51030,7 @@ he was a great deal better, and that they were to tell his father so.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Dombey and Son — Chapter 16 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Dombey and Son — Chapter 16 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/death,motif/fire,motif/flowers,motif/love,motif/night,motif/river,motif/tears,motif/water,concept/body,concept/immortality,concept/wonder,character/nurse"></span>
 
 
 How many times the golden [[Water|water]] danced upon the wall; how many nights
@@ -51175,7 +51175,7 @@ Daughter after all!”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Dombey and Son — Chapter 17 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Dombey and Son — Chapter 17 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/nature,motif/night,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,concept/nature,character/captain_cuttle,character/solomon_gills,character/sunday"></span>
 
 
 CHAPTER XVII.
@@ -51283,7 +51283,7 @@ began to think he ought to be transported with joy.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Dombey and Son — Chapter 17 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Dombey and Son — Chapter 17 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/pain,motif/time,motif/water,motif/well,concept/conscience,concept/fear,concept/friendship,concept/hope,concept/self,form/allegory,setting/court,character/bottom,character/captain_cuttle"></span>
 
 
 “But I’m behind the [[Time|time]], you understand,” he observed in apology,
@@ -51400,7 +51400,7 @@ respect.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Dombey and Son — Chapter 17 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Dombey and Son — Chapter 17 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/rose,motif/time,motif/well,motif/wind,motif/winter,concept/doubt,concept/honour,character/captain_cuttle,character/walter_gay"></span>
 
 
 The Captain’s equanimity was so impenetrable, and he was altogether so
@@ -51558,7 +51558,7 @@ out for each other.”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="Dombey and Son — Chapter 17 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="Dombey and Son — Chapter 17 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/home,motif/night,motif/time,motif/water,motif/wind,concept/body,concept/deception,concept/honour,concept/self,setting/court,character/captain_cuttle,character/walter_gay"></span>
 
 
 A cat, or a monkey, or a hyena, or a [[Death|death]]’s-head, could not have shown
@@ -51728,7 +51728,7 @@ his own room.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Dombey and Son — Chapter 18 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Dombey and Son — Chapter 18 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/home,motif/night,motif/river,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/melancholy,form/inscription,character/nurse"></span>
 
 
 CHAPTER XVIII.
@@ -51846,7 +51846,7 @@ rule, the words, “beloved and only [[Child|child]].”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Dombey and Son — Chapter 18 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Dombey and Son — Chapter 18 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/grave,motif/love,motif/nature,motif/sleep,motif/tears,motif/time,concept/eternity,concept/nature,concept/solitude,concept/suffering,setting/oxford,character/sunday"></span>
 
 
 “It should be, ‘son,’ I think, Sir?”
@@ -51970,7 +51970,7 @@ gush from her eyes, without waiting for a lead from that wise matron.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Dombey and Son — Chapter 18 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Dombey and Son — Chapter 18 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/home,motif/time,motif/well,concept/doubt,concept/fear,concept/hope"></span>
 
 
 Mrs Chick herself lost, for a moment, the presence of mind on which she
@@ -52094,7 +52094,7 @@ first, a place of agony.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_04" data-title="Dombey and Son — Chapter 18 (part 4)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_04" data-title="Dombey and Son — Chapter 18 (part 4)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/fire,motif/flowers,motif/home,motif/love,motif/nature,motif/night,motif/summer,motif/tears,motif/time,motif/water,motif/window,concept/beauty,concept/nature,concept/self,concept/solitude,character/nurse"></span>
 
 
 But it is not in the [[Nature|nature]] of pure [[Love|love]] to burn so fiercely and
@@ -52198,7 +52198,7 @@ breast hold any other secret? Yes. One more.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_05" data-title="Dombey and Son — Chapter 18 (part 5)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_05" data-title="Dombey and Son — Chapter 18 (part 5)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/journey,motif/love,motif/night,motif/silence,motif/tears,motif/well,concept/endurance,concept/hope,concept/melancholy,concept/wonder,character/bottom,character/susan_nipper"></span>
 
 
 When no one in the [[house]] was stirring, and the lights were all
@@ -52345,7 +52345,7 @@ know,” said Mr Toots, “but you won’t mind that, will you?”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_06" data-title="Dombey and Son — Chapter 18 (part 6)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_06" data-title="Dombey and Son — Chapter 18 (part 6)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/love,motif/night,motif/rose,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/doubt"></span>
 
 
 In fact, Diogenes was at that moment, as they presently ascertained
@@ -52459,7 +52459,7 @@ with boundless contempt. “If he’s a change, give me a constancy.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_07" data-title="Dombey and Son — Chapter 18 (part 7)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_07" data-title="Dombey and Son — Chapter 18 (part 7)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/death,motif/great_house,motif/home,motif/love,motif/night,motif/pain,motif/poison,motif/silence,motif/time,motif/well,motif/wind,concept/beauty,concept/fear,concept/hope,concept/imagination,concept/jealousy,concept/loneliness,concept/melancholy,concept/pride"></span>
 
 
 “Good-[[Night|night]], Susan,” said Florence.
@@ -52623,7 +52623,7 @@ himself, and dreamed, with gruff barks, of his enemy.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Dombey and Son — Chapter 19 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Dombey and Son — Chapter 19 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/dust,motif/grave,motif/home,motif/lamb,motif/night,motif/ship,motif/sleep,motif/tears,motif/time,motif/well,concept/fear,concept/hope,setting/ship,character/captain_cuttle"></span>
 
 
 CHAPTER XIX.
@@ -52752,7 +52752,7 @@ fell off, that [[Night|night]]—and took them away with me as a remembrance!”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Dombey and Son — Chapter 19 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Dombey and Son — Chapter 19 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/dreams,motif/love,motif/secrets,motif/silence,motif/spring,motif/time,motif/well,concept/slavery,concept/truth,character/ancient_mariner,character/susan_nipper"></span>
 
 
 They were at that very moment going out at the door in one of Walter’s
@@ -52884,7 +52884,7 @@ to you? Will you, Walter’s Uncle?”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Dombey and Son — Chapter 19 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Dombey and Son — Chapter 19 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/home,motif/night,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/honour,concept/pride,concept/truth,character/susan_nipper"></span>
 
 
 The sweet face looking into his, the gentle pleading eyes, the soft
@@ -53018,7 +53018,7 @@ in that direction, and very confidently too.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Dombey and Son — Chapter 19 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Dombey and Son — Chapter 19 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/night,motif/pain,motif/road,motif/rose,motif/tears,motif/well,concept/friendship,concept/hope,concept/melancholy,concept/truth,character/captain_cuttle,character/susan_nipper"></span>
 
 
 “You may come back very soon,” said Florence, “perhaps, Walter.”
@@ -53145,7 +53145,7 @@ little likely to make any.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_05" data-title="Dombey and Son — Chapter 19 (part 5)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_05" data-title="Dombey and Son — Chapter 19 (part 5)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/grave,motif/night,motif/river,motif/ship,motif/stars,motif/summer,motif/time,motif/water,motif/wind,concept/forgiveness,concept/self,setting/ship,character/bottom,character/captain_cuttle"></span>
 
 
 “I wish,” said Walter, “you had suffered me to be your friend indeed. I
@@ -53244,7 +53244,7 @@ the meanwhile, undisturbed.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Dombey and Son — Chapter 20 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Dombey and Son — Chapter 20 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/villain,motif/city,motif/horse,motif/journey,motif/nature,motif/night,motif/time,motif/well,concept/freedom,concept/honour,concept/nature,concept/poverty,concept/pride,concept/truth,character/bottom,character/major_bagstock"></span>
 
 
 CHAPTER XX.
@@ -53364,7 +53364,7 @@ you seen our friend?”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Dombey and Son — Chapter 20 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Dombey and Son — Chapter 20 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/flowers,motif/horse,motif/time,motif/well,motif/window,concept/ambition,concept/body,concept/hope,character/duke_of_york,character/lucifer,character/major_bagstock"></span>
 
 
 “Charming woman, Sir,” said the Major, with a fat laugh rising in his
@@ -53491,7 +53491,7 @@ coughs, which held him for a long [[Time|time]]. On recovering he added:
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Dombey and Son — Chapter 20 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Dombey and Son — Chapter 20 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="topos/double,motif/dust,motif/journey,motif/time,motif/water,motif/well,motif/window,concept/body,concept/honour,concept/hope,character/major_bagstock"></span>
 
 
 “And now, Dombey, as you have invited Joe—old Joe, who has no other
@@ -53604,7 +53604,7 @@ round and round in the man’s hand.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_04" data-title="Dombey and Son — Chapter 20 (part 4)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_04" data-title="Dombey and Son — Chapter 20 (part 4)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/chalk,motif/death,motif/dust,motif/fire,motif/garden,motif/home,motif/journey,motif/river,motif/sleep,motif/time,motif/well,concept/exile,concept/hope,setting/cathedral,character/speed"></span>
 
 
 “No, Sir, up’ard of three years ago, but all the rest is hearty. And in
@@ -53722,7 +53722,7 @@ in the track of the remorseless [[Monster|monster]], [[Death]]!
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_05" data-title="Dombey and Son — Chapter 20 (part 5)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_05" data-title="Dombey and Son — Chapter 20 (part 5)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,archetype/monster,archetype/shadow,motif/death,motif/decay,motif/dust,motif/journey,motif/love,motif/memory,motif/night,motif/soul,motif/storm,motif/tears,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/hope,concept/jealousy,concept/pride"></span>
 
 
 Breasting the [[Wind|wind]] and light, the shower and sunshine, away, and still
@@ -53822,7 +53822,7 @@ ready.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_06" data-title="Dombey and Son — Chapter 20 (part 6)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_06" data-title="Dombey and Son — Chapter 20 (part 6)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/road,motif/rose,motif/time,motif/well,concept/honour,character/nurse"></span>
 
 
 “Dombey,” said the Major, rapping him on the arm with his cane, “don’t
@@ -53907,7 +53907,7 @@ Major arm-in-arm.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Dombey and Son — Chapter 21 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Dombey and Son — Chapter 21 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/garden,motif/horse,motif/mirror,motif/nature,motif/soul,motif/time,concept/beauty,concept/honour,concept/nature,concept/wonder,form/sketch,character/cleopatra,character/major_bagstock"></span>
 
 
 CHAPTER XXI.
@@ -54038,7 +54038,7 @@ Mama likes change.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Dombey and Son — Chapter 21 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Dombey and Son — Chapter 21 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/marriage,motif/nature,motif/soul,motif/time,concept/beauty,concept/body,concept/despair,concept/doubt,concept/fear,concept/honour,concept/nature,character/cleopatra,character/edith_granger,character/major_bagstock"></span>
 
 
 “Edith of course does not,” said Mrs Skewton, with a ghastly archness.
@@ -54170,7 +54170,7 @@ five years old.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Dombey and Son — Chapter 21 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Dombey and Son — Chapter 21 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/night,motif/well,motif/window,concept/beauty,concept/history,concept/honour,concept/hope,concept/pride,concept/self,form/history,character/cleopatra,character/edith_granger,character/major_bagstock,character/nurse"></span>
 
 
 “Indeed?” said Mr Dombey, raising his head.
@@ -54296,7 +54296,7 @@ wouldn’t do.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Dombey and Son — Chapter 21 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Dombey and Son — Chapter 21 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/dreams,motif/home,motif/night,motif/road,motif/rose,motif/sleep,motif/time,concept/beauty,concept/faith,concept/hope,concept/self,character/cleopatra,character/edith_granger"></span>
 
 
 “[[Cleopatra]] commands,” returned the Major, kissing his hand, “and Antony
@@ -54458,7 +54458,7 @@ to discharge themselves in hail!
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Dombey and Son — Chapter 22 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Dombey and Son — Chapter 22 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/crown,motif/dust,motif/summer,motif/well"></span>
 
 
 CHAPTER XXII.
@@ -54596,7 +54596,7 @@ never could say again that her name was strange in your ears. Never!”
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Dombey and Son — Chapter 22 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Dombey and Son — Chapter 22 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/city,motif/nature,motif/ship,motif/silence,motif/time,motif/well,concept/body,concept/fear,concept/humility,concept/nature,concept/self,setting/court,setting/ship,character/captain_cuttle"></span>
 
 
 Again the Manager inclined his head and showed his teeth, and seemed to
@@ -54725,7 +54725,7 @@ could take my affidavit easy.”
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Dombey and Son — Chapter 22 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Dombey and Son — Chapter 22 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="topos/quest,archetype/innocent,motif/birds,motif/fire,motif/home,motif/nature,motif/silence,concept/body,concept/doubt,concept/nature,concept/self,concept/wonder,setting/court,setting/london,character/cain"></span>
 
 
 “Let me see this fellow, Perch,” said Mr Carker. “Bring him in!”
@@ -54860,7 +54860,7 @@ removing his eyes from his face—and rang the bell.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_04" data-title="Dombey and Son — Chapter 22 (part 4)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_04" data-title="Dombey and Son — Chapter 22 (part 4)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/home,motif/horse,motif/road,motif/time,motif/water,concept/body,concept/hope,setting/court"></span>
 
 
 “Tell Mr Gills to come here.”
@@ -54985,7 +54985,7 @@ proper to go.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_05" data-title="Dombey and Son — Chapter 22 (part 5)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_05" data-title="Dombey and Son — Chapter 22 (part 5)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/horse,motif/road,motif/tears,motif/time,motif/well,concept/hope,concept/truth,character/chorus"></span>
 
 
 This attention, however flattering, being one of an unusual kind, and
@@ -55109,7 +55109,7 @@ repentant hug.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_06" data-title="Dombey and Son — Chapter 22 (part 6)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_06" data-title="Dombey and Son — Chapter 22 (part 6)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/desert,motif/home,motif/horse,motif/soul,motif/spring,motif/well,concept/body,setting/desert"></span>
 
 
 “I’ll try hard, dear mother, now. Upon my [[Soul|soul]] I will!” said Rob.
@@ -55239,7 +55239,7 @@ a week, for the small consideration of ten and six per visit.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_07" data-title="Dombey and Son — Chapter 22 (part 7)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_07" data-title="Dombey and Son — Chapter 22 (part 7)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/spring,motif/tears,motif/time,motif/well,concept/history,concept/hope,concept/imagination,concept/wonder,form/history,character/apollo,character/susan_nipper"></span>
 
 
 The Game Chicken, who was quite the [[Apollo]] of Mr Toots’s Pantheon, had
@@ -55418,7 +55418,7 @@ Di,—cats, boy, cats!
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Dombey and Son — Chapter 23 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Dombey and Son — Chapter 23 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/bells,motif/dust,motif/ghosts,motif/leaves,motif/memory,motif/night,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/solitude,concept/wonder,character/phantom,character/susan_nipper"></span>
 
 
 CHAPTER XXIII.
@@ -55532,7 +55532,7 @@ again, with the air of a dog who had done a public service.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Dombey and Son — Chapter 23 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Dombey and Son — Chapter 23 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/soul,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/fear,concept/hope,concept/nature,concept/solitude"></span>
 
 
 So Florence lived in her wilderness of a [[Home|home]], within the circle of her
@@ -55634,7 +55634,7 @@ thought.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Dombey and Son — Chapter 23 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Dombey and Son — Chapter 23 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/home,motif/pain,motif/ship,motif/silence,motif/sleep,motif/time,motif/wind,concept/beauty,concept/fear,concept/hope,concept/pride,setting/ship,character/captain_cuttle,character/susan_nipper"></span>
 
 
 Thus Florence lived [[Alone|alone]] in the deserted [[house]], and day succeeded day,
@@ -55766,7 +55766,7 @@ made her [[Fear|fear]] there was a tempest blowing at that moment on the ocean.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Dombey and Son — Chapter 23 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Dombey and Son — Chapter 23 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/road,motif/rose,motif/time,motif/wheel,motif/window,concept/conscience,concept/honour,character/captain_cuttle,character/susan_nipper"></span>
 
 
 [[Susan Nipper]] may or may not have been affected similarly, but having
@@ -55897,7 +55897,7 @@ Cuttle.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_05" data-title="Dombey and Son — Chapter 23 (part 5)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_05" data-title="Dombey and Son — Chapter 23 (part 5)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dawn,motif/garden,motif/nature,motif/night,motif/water,concept/fear,concept/nature,concept/self,character/captain_cuttle,character/susan_nipper"></span>
 
 
 It happened by evil chance to be one of Mrs MacStinger’s great cleaning
@@ -56018,7 +56018,7 @@ discomfited.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_06" data-title="Dombey and Son — Chapter 23 (part 6)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_06" data-title="Dombey and Son — Chapter 23 (part 6)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/dust,motif/home,motif/ship,motif/tears,motif/well,concept/courage,setting/desert,setting/ship,character/captain_cuttle,character/susan_nipper"></span>
 
 
 “Have you any fears for Walter’s safety?” inquired Florence, from whose
@@ -56133,7 +56133,7 @@ apprehension of Mrs MacStinger’s giving chase yet.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_07" data-title="Dombey and Son — Chapter 23 (part 7)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_07" data-title="Dombey and Son — Chapter 23 (part 7)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/home,motif/river,motif/ship,motif/time,motif/window,concept/pride,concept/self,setting/desert,setting/ship,character/captain_cuttle"></span>
 
 
 However, they got to the corner of Brig Place without any molestation
@@ -56260,7 +56260,7 @@ indignation) with his pilot-coated arm, like a blue bear.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_08" data-title="Dombey and Son — Chapter 23 (part 8)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_08" data-title="Dombey and Son — Chapter 23 (part 8)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/time,motif/well,motif/wind,motif/window,concept/freedom,concept/hope,setting/london,character/captain_cuttle"></span>
 
 
 The Captain put his oracle inside, and gloried so much in having
@@ -56392,7 +56392,7 @@ himself.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_09" data-title="Dombey and Son — Chapter 23 (part 9)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_09" data-title="Dombey and Son — Chapter 23 (part 9)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/city,motif/home,motif/night,motif/noon,motif/storm,motif/window,concept/body,character/captain_cuttle"></span>
 
 
 The philosopher seemed to have left Uncle Sol pretty much where he had
@@ -56474,7 +56474,7 @@ for Brig Place, resolving to weigh anchor betimes in the morning.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Dombey and Son — Chapter 24 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Dombey and Son — Chapter 24 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/birds,motif/great_house,motif/home,motif/love,motif/nature,motif/river,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/friendship,concept/hope,concept/nature"></span>
 
 
 CHAPTER XXIV.
@@ -56591,7 +56591,7 @@ patient [[Hope|hope]], to gain the knowledge that she wearied for.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Dombey and Son — Chapter 24 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Dombey and Son — Chapter 24 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/flowers,motif/garden,motif/love,motif/memory,motif/night,motif/pain,motif/rose,motif/silence,motif/tears,motif/time,motif/well,motif/wind,concept/fear,concept/hope,concept/imagination,concept/truth"></span>
 
 
 Ah! how to gain it! how to know the charm in its beginning! There were
@@ -56730,7 +56730,7 @@ many here, just now—should make her sorrowful in secret?”
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Dombey and Son — Chapter 24 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Dombey and Son — Chapter 24 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/orphan,archetype/shadow,motif/dust,motif/fire,motif/flowers,motif/garden,motif/love,motif/pain,motif/river,motif/spring,motif/time,motif/water,motif/well,motif/wind,concept/courage,character/bottom,character/queen"></span>
 
 
 “Yes, dear aunt,” said the [[Child|child]], “I understand that very [[Well|well]]. Poor
@@ -56857,7 +56857,7 @@ say a word to the pretty young lady?”
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_04" data-title="Dombey and Son — Chapter 24 (part 4)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_04" data-title="Dombey and Son — Chapter 24 (part 4)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/grave,motif/home,motif/horse,motif/love,motif/night,motif/river,motif/ship,motif/time,motif/water,concept/courage,concept/honour,concept/hope,concept/truth,concept/wonder,setting/ship"></span>
 
 
 The girl made an impatient gesture with her cowering shoulders, and
@@ -57028,7 +57028,7 @@ to do it.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Dombey and Son — Chapter 25 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Dombey and Son — Chapter 25 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/well,motif/window,concept/honour,concept/wonder,setting/court,character/captain_cuttle,character/solomon_gills"></span>
 
 
 CHAPTER XXV.
@@ -57156,7 +57156,7 @@ have I done to be looked at, like that?”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Dombey and Son — Chapter 25 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Dombey and Son — Chapter 25 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="topos/quest,motif/clock,motif/night,motif/time,concept/body,concept/doubt,concept/fear,concept/hope,concept/madness,concept/suicide,character/captain_cuttle,character/solomon_gills"></span>
 
 
 “My lad,” said [[Captain Cuttle]], “don’t you sing out afore you’re hurt.
@@ -57272,7 +57272,7 @@ forth upon a dismal [[Quest|quest]] after the mortal remains of [[Solomon Gills]
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Dombey and Son — Chapter 25 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Dombey and Son — Chapter 25 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/crown,motif/home,motif/lamb,motif/night,motif/poison,motif/river,motif/ship,motif/silence,motif/time,motif/well,concept/body,concept/conscience,form/epic,setting/ship,character/captain_cuttle,character/solomon_gills"></span>
 
 
 Not a station-[[house]], or bone-[[house]], or work-[[house]] in the metropolis
@@ -57398,7 +57398,7 @@ him, and took to his heels.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="Dombey and Son — Chapter 25 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="Dombey and Son — Chapter 25 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/city,motif/home,motif/night,motif/ship,motif/stars,motif/time,motif/well,motif/window,concept/self,setting/ship,character/captain_cuttle,character/lord_mayor,character/solomon_gills"></span>
 
 
 Pursued by the image of Mrs MacStinger springing out of bed, and,
@@ -57473,7 +57473,7 @@ things that had been.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Dombey and Son — Chapter 26 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Dombey and Son — Chapter 26 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/nature,concept/self,character/major_bagstock"></span>
 
 
 CHAPTER XXVI.
@@ -57625,7 +57625,7 @@ insured, from her keel to her masthead.”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Dombey and Son — Chapter 26 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Dombey and Son — Chapter 26 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/ship,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/nature,concept/self,setting/ship,character/cleopatra,character/major_bagstock,character/phantom"></span>
 
 
 “Carker,” said Mr Dombey, taking a chair near him, “I cannot say that
@@ -57749,7 +57749,7 @@ as if to identify the emotion in question.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Dombey and Son — Chapter 26 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Dombey and Son — Chapter 26 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/death,motif/nature,motif/soul,motif/well,concept/faith,concept/honour,concept/hope,concept/nature,concept/suffering,concept/truth,character/cleopatra,character/major_bagstock"></span>
 
 
 “I feel that I am weak. I feel that I am wanting in that energy, which
@@ -57879,7 +57879,7 @@ tell me something to the purpose?”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Dombey and Son — Chapter 26 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Dombey and Son — Chapter 26 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/grave,motif/love,motif/well,motif/wheel,motif/wind,motif/window,concept/beauty,concept/honour,concept/self,setting/castle,character/cleopatra,character/edith_granger,character/lucifer,character/major_bagstock,character/paul_dombey"></span>
 
 
 The Major laughed, and kissed the hand she had bestowed upon him, and
@@ -58020,7 +58020,7 @@ Major discharged, with much submission and devotion.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Dombey and Son — Chapter 26 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Dombey and Son — Chapter 26 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/blood,motif/fire,motif/horse,motif/love,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/honour,character/major_bagstock"></span>
 
 
 “Your regards, Edith, my dear?” said Mrs Skewton, pausing, pen in hand,
@@ -58146,7 +58146,7 @@ suffered it to merge into both, as occasion arose.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_06" data-title="Dombey and Son — Chapter 26 (part 6)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_06" data-title="Dombey and Son — Chapter 26 (part 6)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/grave,motif/mirror,motif/night,motif/time,motif/well,concept/hope,concept/humility,concept/truth,character/major_bagstock"></span>
 
 
 During the first course or two, the Major was usually [[Grave|grave]]; for the
@@ -58275,7 +58275,7 @@ maliciously enough: but trod upon no upturned face—as yet.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Dombey and Son — Chapter 27 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Dombey and Son — Chapter 27 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/monster,motif/death,motif/dust,motif/river,motif/rose,motif/silence,motif/summer,motif/tears,motif/time,concept/beauty,concept/self"></span>
 
 
 CHAPTER XXVII.
@@ -58391,7 +58391,7 @@ of her wrath, “give me something, or I’ll call it after you!”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Dombey and Son — Chapter 27 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Dombey and Son — Chapter 27 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/cross,motif/crown,motif/pain,motif/silence,concept/doubt,concept/honour,form/sketch,character/witch"></span>
 
 
 “After me, old lady!” returned the Manager, putting his hand in his
@@ -58515,7 +58515,7 @@ now, is, to lead you into table!”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Dombey and Son — Chapter 27 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Dombey and Son — Chapter 27 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/shadow,motif/birds,motif/flowers,motif/journey,motif/leaves,motif/love,motif/road,motif/time,motif/well,motif/wind,concept/faith,concept/hope,concept/humility,concept/wonder,setting/castle,character/cleopatra,character/major_bagstock"></span>
 
 
 With this, the Major gave his arm to Edith; Mr Dombey led the way with
@@ -58654,7 +58654,7 @@ before.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_04" data-title="Dombey and Son — Chapter 27 (part 4)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_04" data-title="Dombey and Son — Chapter 27 (part 4)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/nature,motif/soul,motif/time,motif/well,concept/faith,concept/greatness,concept/history,concept/hope,concept/humility,concept/martyrdom,concept/nature,concept/pride,concept/self,concept/suffering,concept/truth,form/history,setting/castle,character/cleopatra,character/queen"></span>
 
 
 Mrs Skewton was bent on taking charge of Mr Carker herself, and showing
@@ -58775,7 +58775,7 @@ twilight smile stole over her face, not as a light, but as a deep black
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_05" data-title="Dombey and Son — Chapter 27 (part 5)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_05" data-title="Dombey and Son — Chapter 27 (part 5)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/horse,motif/love,motif/well,form/sketch,setting/castle,character/cleopatra"></span>
 
 
 Warwick [[Castle]] being at length pretty [[Well|well]] exhausted, and the Major
@@ -58900,7 +58900,7 @@ Dombey is dying to hear you, I know.”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_06" data-title="Dombey and Son — Chapter 27 (part 6)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_06" data-title="Dombey and Son — Chapter 27 (part 6)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/clock,motif/death,motif/home,motif/horse,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/self,setting/london,character/cleopatra"></span>
 
 
 “Mr Dombey has life enough left to say so for himself, Mama, I have no
@@ -59032,7 +59032,7 @@ tonight of all nights in my life!”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_07" data-title="Dombey and Son — Chapter 27 (part 7)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_07" data-title="Dombey and Son — Chapter 27 (part 7)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/well,concept/education,concept/hope,concept/pride,concept/self,character/cleopatra"></span>
 
 
 “You might have been [[Well|well]] married,” said her mother, “twenty times at
@@ -59094,7 +59094,7 @@ ready for tomorrow’s revivification.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Dombey and Son — Chapter 28 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Dombey and Son — Chapter 28 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/home,motif/leaves,motif/love,motif/road,motif/ship,motif/well,motif/window,concept/doubt,concept/fear,concept/wonder,setting/ship,character/nurse,character/susan_nipper"></span>
 
 
 CHAPTER XXVIII.
@@ -59215,7 +59215,7 @@ bleeding feet along that stony [[Road|road]] which ended in her father’s heart
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Dombey and Son — Chapter 28 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Dombey and Son — Chapter 28 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/death,motif/dreams,motif/garden,motif/home,motif/love,motif/night,motif/noon,motif/river,motif/sleep,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/courage,concept/doubt,concept/freedom,concept/hope"></span>
 
 
 Thus, with no one to advise her—for she could advise with no one
@@ -59329,7 +59329,7 @@ her in the drawing-room.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Dombey and Son — Chapter 28 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Dombey and Son — Chapter 28 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/tears,motif/water,motif/well,motif/window,concept/courage,concept/history,concept/hope,concept/nature,form/history,character/chorus,character/susan_nipper"></span>
 
 
 “Oh, how de do, Miss Dombey?” said the stricken Toots, always
@@ -59464,7 +59464,7 @@ trowel: all at work together, in full [[Chorus|chorus]]!
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_04" data-title="Dombey and Son — Chapter 28 (part 4)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_04" data-title="Dombey and Son — Chapter 28 (part 4)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="topos/quest,motif/chalk,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/tears,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/longing,concept/nature,character/susan_nipper"></span>
 
 
 Florence descended from the coach, half doubting if it were, or could
@@ -59606,7 +59606,7 @@ beautiful Mama, how to gain her father’s [[Love|love]]; and in her [[Sleep|sle
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Dombey and Son — Chapter 29 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Dombey and Son — Chapter 29 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/birds,motif/chains,motif/childhood,motif/dust,motif/flowers,motif/home,motif/leaves,motif/nature,motif/stars,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/hope,concept/nature"></span>
 
 
 CHAPTER XXIX.
@@ -59715,7 +59715,7 @@ sort of primer, or easy introduction to the art of coughing.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Dombey and Son — Chapter 29 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Dombey and Son — Chapter 29 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/leaves,motif/love,motif/nature,motif/time,concept/doubt,concept/fear,concept/hope,concept/nature"></span>
 
 
 “Thank you, Lucretia,” said Mrs Chick, “I have. I took an early
@@ -59851,7 +59851,7 @@ eyebrows at the carpet:
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Dombey and Son — Chapter 29 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Dombey and Son — Chapter 29 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/leaves,motif/marriage,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/hope,concept/resignation,character/paul_dombey"></span>
 
 
 “When I speak, Lucretia, of her being worthy of the name, I speak of my
@@ -59960,7 +59960,7 @@ spectacle of mental and bodily distress.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_04" data-title="Dombey and Son — Chapter 29 (part 4)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_04" data-title="Dombey and Son — Chapter 29 (part 4)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/love,motif/marriage,motif/tears,motif/water,motif/well,concept/endurance,concept/exile,concept/resignation,concept/self,setting/denmark"></span>
 
 
 For some moments, this afflicted foreigner remained clasping Miss Tox
@@ -60085,7 +60085,7 @@ else but good morning.”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_05" data-title="Dombey and Son — Chapter 29 (part 5)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_05" data-title="Dombey and Son — Chapter 29 (part 5)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/grave,motif/marriage,motif/tears,motif/time,motif/winter,concept/doubt,concept/friendship,concept/hope,concept/providence,concept/wonder"></span>
 
 
 These words, delivered with cutting suavity, tempered and chastened by
@@ -60163,7 +60163,7 @@ Dombey—while poor excommunicated Miss Tox watered her plants with her
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Dombey and Son — Chapter 30 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Dombey and Son — Chapter 30 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/courage,concept/fear,concept/hope"></span>
 
 
 CHAPTER XXX.
@@ -60291,7 +60291,7 @@ concerning poor Paul; and when they had sat in conversation for some
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Dombey and Son — Chapter 30 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Dombey and Son — Chapter 30 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/beauty,concept/nature,concept/pride,concept/self,concept/truth,setting/court,setting/london,character/cleopatra"></span>
 
 
 “We have come to [[London]] now, my mother and I,” said Edith, “and you
@@ -60411,7 +60411,7 @@ Skewton’s ear.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="Dombey and Son — Chapter 30 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="Dombey and Son — Chapter 30 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/city,motif/home,motif/nature,motif/night,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/nature,concept/self,concept/wonder,character/cleopatra"></span>
 
 
 “And you have heard, no [[Doubt|doubt]], my darling pet,” said Mrs Skewton,
@@ -60545,7 +60545,7 @@ been a rich one to reward her!
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_04" data-title="Dombey and Son — Chapter 30 (part 4)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_04" data-title="Dombey and Son — Chapter 30 (part 4)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/fire,motif/love,motif/marriage,motif/night,motif/rose,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/self,character/cleopatra"></span>
 
 
 “And so your preparations are nearly finished at last, my dear Dombey?”
@@ -60658,7 +60658,7 @@ pitied for her sorrow; and in her pity, sobbed herself to [[Sleep|sleep]].
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_05" data-title="Dombey and Son — Chapter 30 (part 5)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_05" data-title="Dombey and Son — Chapter 30 (part 5)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/home,motif/marriage,motif/night,motif/rose,motif/time,motif/window,concept/fear,concept/self,concept/solitude,concept/suffering,concept/wonder,setting/paris,character/cleopatra"></span>
 
 
 The week fled fast. There were drives to milliners, dressmakers,
@@ -60778,7 +60778,7 @@ and undutiful.”
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_06" data-title="Dombey and Son — Chapter 30 (part 6)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_06" data-title="Dombey and Son — Chapter 30 (part 6)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/home,motif/nature,motif/night,motif/tears,motif/time,motif/window,concept/beauty,concept/nature,concept/truth,concept/wonder,character/edith_granger"></span>
 
 
 “Listen to me, mother,” returned Edith, passing these words by with a
@@ -60904,7 +60904,7 @@ found her on her bridal morning.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Dombey and Son — Chapter 31 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Dombey and Son — Chapter 31 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/dust,motif/fire,motif/marriage,motif/nature,motif/night,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/window,concept/beauty,concept/nature,setting/paris,character/captain_cuttle"></span>
 
 
 CHAPTER XXXI.
@@ -61035,7 +61035,7 @@ Rob the Grinder, with sonorous satisfaction.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Dombey and Son — Chapter 31 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Dombey and Son — Chapter 31 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/clock,motif/flowers,motif/leaves,motif/marriage,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/poverty,character/duke_of_york,character/dwarf,character/edith_granger,character/kent,character/major_bagstock,character/paul_dombey"></span>
 
 
 Besides all this, and much more, twenty nursery-maids in Mr Dombey’s
@@ -61167,7 +61167,7 @@ and magnificent;” with a strange glance at his patron; “I [[Hope|hope]] the 
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Dombey and Son — Chapter 31 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Dombey and Son — Chapter 31 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/city,motif/death,motif/home,motif/love,motif/night,motif/time,motif/wind,concept/conscience,concept/fear,concept/honour,concept/suffering,character/captain_cuttle,character/major_bagstock"></span>
 
 
 “Mrs Dombey, that is to be,” returns Mr Dombey, condescendingly, “will
@@ -61293,7 +61293,7 @@ than to taste the sweets that linger on her lips.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Dombey and Son — Chapter 31 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Dombey and Son — Chapter 31 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/childhood,motif/flowers,motif/home,motif/leaves,motif/love,motif/memory,motif/nature,motif/night,motif/snow,motif/water,concept/beauty,concept/body,concept/nature,concept/revenge,concept/union,character/cleopatra"></span>
 
 
 There is a glow upon her proud cheek, and a flashing in her eyes, that
@@ -61403,7 +61403,7 @@ seldom meets it.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_05" data-title="Dombey and Son — Chapter 31 (part 5)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_05" data-title="Dombey and Son — Chapter 31 (part 5)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/marriage,motif/time,motif/well,concept/history,concept/honour,concept/self,concept/union,form/fragment,form/history"></span>
 
 
 Cousin Feenix rises, when the company have breakfasted, and the
@@ -61542,7 +61542,7 @@ her departure.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_06" data-title="Dombey and Son — Chapter 31 (part 6)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_06" data-title="Dombey and Son — Chapter 31 (part 6)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/clock,motif/dawn,motif/death,motif/home,motif/love,motif/marriage,motif/night,motif/tears,motif/time,motif/wheel,concept/guilt,concept/madness,character/cleopatra"></span>
 
 
 The chariot is at the door; the Bride is descending to the hall, where
@@ -61647,7 +61647,7 @@ stretched to the utmost, as he picks his dainty way.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="Dombey and Son — Chapter 32 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="Dombey and Son — Chapter 32 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/night,motif/pain,motif/road,motif/ship,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,concept/imagination,concept/resignation,setting/ship,character/captain_cuttle"></span>
 
 
 CHAPTER XXXII.
@@ -61768,7 +61768,7 @@ visit from Florence, than from Mrs MacStinger herself.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="Dombey and Son — Chapter 32 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="Dombey and Son — Chapter 32 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/autumn,motif/fire,motif/ship,motif/time,motif/well,motif/wind,concept/conscience,concept/hope,concept/melancholy,concept/providence,concept/truth,setting/ship,character/bottom,character/captain_cuttle,character/richard"></span>
 
 
 It was a chill dark [[Autumn|autumn]] evening, and [[Captain Cuttle]] had ordered a
@@ -61877,7 +61877,7 @@ affectionate and cordial manner.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="Dombey and Son — Chapter 32 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="Dombey and Son — Chapter 32 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/night,motif/ship,motif/time,motif/well,motif/wind,concept/friendship,concept/honour,concept/hope,setting/ship,character/captain_cuttle"></span>
 
 
 “I say! I should like to speak a word to you, Mr Gills, if you please,”
@@ -62021,7 +62021,7 @@ myself there, why—why I call.”
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_04" data-title="Dombey and Son — Chapter 32 (part 4)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_04" data-title="Dombey and Son — Chapter 32 (part 4)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/city,motif/death,motif/fire,motif/home,motif/night,motif/soul,motif/well,concept/body,concept/doubt,concept/honour,concept/hope,setting/london,character/captain_cuttle,character/solomon_gills"></span>
 
 
 “Nat’rally,” observed the Captain.
@@ -62143,7 +62143,7 @@ mine now!”
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_05" data-title="Dombey and Son — Chapter 32 (part 5)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_05" data-title="Dombey and Son — Chapter 32 (part 5)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/death,motif/fire,motif/home,motif/love,motif/pain,motif/rose,motif/ship,motif/well,concept/honour,setting/ship,character/captain_cuttle"></span>
 
 
 Mr Toots sat silent: folding and refolding the newspaper as small as
@@ -62257,7 +62257,7 @@ before the fireplace, and keeping on his hat, “this is a bad business.”
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_06" data-title="Dombey and Son — Chapter 32 (part 6)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_06" data-title="Dombey and Son — Chapter 32 (part 6)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/night,motif/sleep,motif/water,motif/well,motif/wind,concept/nature,character/captain_cuttle"></span>
 
 
 “You have received the news as was in print yesterday, Sir?” said the
@@ -62385,7 +62385,7 @@ Captain, holding up his hook, “if we live.”
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_07" data-title="Dombey and Son — Chapter 32 (part 7)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_07" data-title="Dombey and Son — Chapter 32 (part 7)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/fire,motif/memory,motif/night,motif/prayer,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/friendship,concept/truth,concept/wonder,setting/london,setting/mountains,character/captain_cuttle"></span>
 
 
 “It will be anything but shrewd in you, my good fellow, if we do,”
@@ -62483,7 +62483,7 @@ committed Walter’s [[Body|body]] to the deep.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Dombey and Son — Chapter 33 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Dombey and Son — Chapter 33 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/flowers,motif/garden,motif/home,motif/nature,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/beauty,concept/greatness,concept/heroism,concept/humility,concept/nature,concept/self,setting/london"></span>
 
 
 CHAPTER XXXIII.
@@ -62601,7 +62601,7 @@ hopefully upon his barren way.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Dombey and Son — Chapter 33 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Dombey and Son — Chapter 33 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/mirror,motif/rose,motif/tears,motif/time,concept/hope,concept/melancholy,concept/truth"></span>
 
 
 “It is early, John,” she said. “Why do you go so early?”
@@ -62735,7 +62735,7 @@ mind. That is my mind; and so you see me for the second [[Time|time]].”
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Dombey and Son — Chapter 33 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Dombey and Son — Chapter 33 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/love,motif/pain,motif/silence,motif/tears,motif/time,motif/window,concept/conscience,concept/courage,concept/doubt,concept/fear,concept/honour,concept/hope,concept/humility,concept/pride,concept/self,form/fragment"></span>
 
 
 “There is a kind of [[Pride|pride]], Sir,” she returned, after a moment’s
@@ -62859,7 +62859,7 @@ brother.”
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_04" data-title="Dombey and Son — Chapter 33 (part 4)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_04" data-title="Dombey and Son — Chapter 33 (part 4)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/monster,motif/chalk,motif/clock,motif/death,motif/dust,motif/night,motif/river,motif/spring,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/beauty,concept/doubt,concept/forgiveness,concept/history,concept/loneliness,concept/madness,concept/truth,form/history,setting/london"></span>
 
 
 “You touch upon a subject that is never breathed between us; not even
@@ -62974,7 +62974,7 @@ her.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_05" data-title="Dombey and Son — Chapter 33 (part 5)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_05" data-title="Dombey and Son — Chapter 33 (part 5)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/fire,motif/home,motif/night,motif/road,motif/rose,motif/well,motif/wind,concept/charity,concept/doubt,concept/hope,setting/london"></span>
 
 
 Her fallen sister came on, looking far before her, trying with her
@@ -63110,7 +63110,7 @@ fluttering round her reckless face.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Dombey and Son — Chapter 34 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Dombey and Son — Chapter 34 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/fire,motif/night,motif/time,motif/wind,concept/grotesque,concept/truth,character/witch"></span>
 
 
 CHAPTER XXXIV.
@@ -63248,7 +63248,7 @@ all these years, and all the wretched life I’ve led!”
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Dombey and Son — Chapter 34 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Dombey and Son — Chapter 34 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/death,motif/desert,motif/fire,motif/grave,motif/nature,motif/rose,motif/time,motif/well,concept/history,concept/nature,concept/poverty,form/history,setting/court,setting/desert"></span>
 
 
 “Why, mother!” said Alice, shaking her ragged skirts to detach the old
@@ -63377,7 +63377,7 @@ our [[history]], like the gentlemen in the [[Court]]. We know all about it,
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="Dombey and Son — Chapter 34 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="Dombey and Son — Chapter 34 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/love,motif/marriage,motif/memory,motif/silence,motif/soul,motif/time,concept/beauty,concept/body,concept/charity,concept/fear,concept/history,form/history"></span>
 
 
 Lost and degraded as she was, there was a [[Beauty|beauty]] in her, both of face
@@ -63519,7 +63519,7 @@ money in her daughter’s hand, with the same sharp [[Desire|desire]].
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_04" data-title="Dombey and Son — Chapter 34 (part 4)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_04" data-title="Dombey and Son — Chapter 34 (part 4)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/fire,motif/love,motif/marriage,motif/road,motif/silence,motif/wind,concept/pride,setting/london,character/speed"></span>
 
 
 “What joy is to come to us of this [[Marriage|marriage]], mother?” asked the
@@ -63670,7 +63670,7 @@ whose name I spit upon!”
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_05" data-title="Dombey and Son — Chapter 34 (part 5)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_05" data-title="Dombey and Son — Chapter 34 (part 5)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/fire,motif/journey,motif/night,motif/poison,motif/road,motif/well,concept/greed,character/cleopatra"></span>
 
 
 The old woman, with a malevolence that made her ugliness quite awful,
@@ -63734,7 +63734,7 @@ testimony!
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="Dombey and Son — Chapter 35 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="Dombey and Son — Chapter 35 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/flowers,motif/home,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,motif/wind,concept/nature,concept/truth,concept/wonder,character/speed"></span>
 
 
 CHAPTER XXXV.
@@ -63843,7 +63843,7 @@ hurried on to Florence and embraced her.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="Dombey and Son — Chapter 35 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="Dombey and Son — Chapter 35 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/grave,motif/lightning,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/greatness,concept/hope,concept/pride,concept/self,setting/paris,character/cleopatra"></span>
 
 
 “How do you do, Florence?” said Mr Dombey, putting out his hand.
@@ -63970,7 +63970,7 @@ her father, who was walking to and fro, in dreary magnificence.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_03" data-title="Dombey and Son — Chapter 35 (part 3)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_03" data-title="Dombey and Son — Chapter 35 (part 3)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/death,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/beauty,concept/nature,concept/pride,concept/suffering"></span>
 
 
 “I beg your pardon. Shall I go away, Papa?” said Florence faintly,
@@ -64081,7 +64081,7 @@ knew that face and manner very [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_04" data-title="Dombey and Son — Chapter 35 (part 4)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_04" data-title="Dombey and Son — Chapter 35 (part 4)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/love,motif/marriage,motif/night,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/beauty,concept/friendship,concept/history,concept/truth,form/history"></span>
 
 
 “I scarcely thought you could be here, Florence.”
@@ -64214,7 +64214,7 @@ you than mine does.”
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_05" data-title="Dombey and Son — Chapter 35 (part 5)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_05" data-title="Dombey and Son — Chapter 35 (part 5)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/grave,motif/home,motif/love,motif/night,motif/river,motif/silence,motif/sleep,motif/tears,motif/time,concept/fear,concept/imagination,concept/suffering,concept/truth,character/bottom"></span>
 
 
 “I know it, dear Mama!” cried Florence. “From that first most happy day
@@ -64300,7 +64300,7 @@ So passed the [[Night|night]] on which the happy pair came [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Dombey and Son — Chapter 36 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Dombey and Son — Chapter 36 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/fire,motif/home,motif/marriage,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth,character/major_bagstock"></span>
 
 
 CHAPTER XXXVI.
@@ -64410,7 +64410,7 @@ least heed of him.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Dombey and Son — Chapter 36 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Dombey and Son — Chapter 36 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/flowers,motif/marriage,motif/memory,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/union,character/major_bagstock"></span>
 
 
 The arrivals quickly became numerous. More directors, chairmen of
@@ -64537,7 +64537,7 @@ as regularly sold!’”
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Dombey and Son — Chapter 36 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Dombey and Son — Chapter 36 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,archetype/monster,motif/decay,motif/fire,motif/grave,motif/home,motif/pain,motif/rose,motif/silence,motif/water,concept/solitude,setting/mountains,character/cleopatra,character/duke_of_york,character/major_bagstock"></span>
 
 
 In his full enjoyment of this culminating point of his story, the
@@ -64653,7 +64653,7 @@ among other precious things, we are indebted to your Lucretia Tox.”
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_04" data-title="Dombey and Son — Chapter 36 (part 4)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_04" data-title="Dombey and Son — Chapter 36 (part 4)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/death,motif/flowers,motif/home,motif/nature,motif/night,motif/rose,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/fear,concept/honour,concept/hope,concept/nature,concept/pride,character/cleopatra,character/speed"></span>
 
 
 “_My_ Lucretia Tox, my dear!” said Mr Chick, astounded.
@@ -64831,7 +64831,7 @@ on it now, as he looked up.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_01" data-title="Dombey and Son — Chapter 37 (part 1)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_01" data-title="Dombey and Son — Chapter 37 (part 1)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/flowers,motif/leaves,motif/love,motif/night,motif/soul,motif/time,motif/water,motif/well,motif/wheel,motif/window,concept/honour,concept/humility,concept/pride,concept/self,concept/truth,character/cleopatra"></span>
 
 
 CHAPTER XXXVII.
@@ -64960,7 +64960,7 @@ expressed, with so much [[Truth|truth]] and feeling last [[Night|night]], it is 
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_02" data-title="Dombey and Son — Chapter 37 (part 2)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_02" data-title="Dombey and Son — Chapter 37 (part 2)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/hope,concept/nature,concept/pride,concept/self"></span>
 
 
 Edith could not look at him, but she said after a few moments.
@@ -65083,7 +65083,7 @@ went on.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_03" data-title="Dombey and Son — Chapter 37 (part 3)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_03" data-title="Dombey and Son — Chapter 37 (part 3)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/childhood,motif/flowers,motif/home,motif/horse,motif/marriage,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/alienation,concept/beauty,concept/conscience,concept/fear,concept/humility,concept/pride,character/cleopatra"></span>
 
 
 “You say that as I describe them, they are perverted. I [[Fear|fear]] not—I [[Fear|fear]]
@@ -65198,7 +65198,7 @@ to make a will, or write some last request; and Mrs Dombey being from
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_04" data-title="Dombey and Son — Chapter 37 (part 4)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_04" data-title="Dombey and Son — Chapter 37 (part 4)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/love,motif/marriage,motif/memory,motif/mirror,motif/rose,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/humility,concept/self,character/cleopatra"></span>
 
 
 After much painful scrawling and erasing, and putting in of wrong
@@ -65352,7 +65352,7 @@ stern [[Beauty|beauty]].
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_01" data-title="Dombey and Son — Chapter 38 (part 1)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_01" data-title="Dombey and Son — Chapter 38 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/dust,motif/nature,motif/tears,motif/time,motif/well,concept/melancholy,concept/nature"></span>
 
 
 CHAPTER XXXVIII.
@@ -65474,7 +65474,7 @@ anxiously.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_02" data-title="Dombey and Son — Chapter 38 (part 2)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_02" data-title="Dombey and Son — Chapter 38 (part 2)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/innocent,motif/water,motif/well,motif/wind,concept/friendship,concept/wonder,setting/court"></span>
 
 
 “Polly, old “ooman,” said Mr Toodle, “I don’t know as I said it
@@ -65601,7 +65601,7 @@ and kiss her.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_03" data-title="Dombey and Son — Chapter 38 (part 3)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_03" data-title="Dombey and Son — Chapter 38 (part 3)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/innocent,motif/time,motif/well,concept/doubt,concept/hope,concept/imagination"></span>
 
 
 [Illustration]
@@ -65731,7 +65731,7 @@ it.”
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_04" data-title="Dombey and Son — Chapter 38 (part 4)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_04" data-title="Dombey and Son — Chapter 38 (part 4)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/night,motif/road,motif/time,motif/well,concept/education,concept/honour,concept/hope"></span>
 
 
 The bargain was ratified on the spot; and Miss Tox found herself so
@@ -65796,7 +65796,7 @@ hand, and established the glory of the Grinders’ Institution.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_01" data-title="Dombey and Son — Chapter 39 (part 1)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_01" data-title="Dombey and Son — Chapter 39 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/night,motif/time,motif/wind,concept/honour,concept/self,character/captain_cuttle,character/sunday"></span>
 
 
 CHAPTER XXXIX.
@@ -65905,7 +65905,7 @@ nearest to his heart.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_02" data-title="Dombey and Son — Chapter 39 (part 2)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_02" data-title="Dombey and Son — Chapter 39 (part 2)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/crown,motif/garden,motif/jewel,motif/night,motif/silence,motif/time,motif/well,concept/charity,concept/honour,concept/wonder,character/captain_cuttle"></span>
 
 
 “Captain Gills,” blurted out Mr Toots, one day all at once, as his
@@ -66026,7 +66026,7 @@ pigeons, may you, Sir?”
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_03" data-title="Dombey and Son — Chapter 39 (part 3)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_03" data-title="Dombey and Son — Chapter 39 (part 3)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/desert,motif/fire,motif/night,motif/ship,motif/time,motif/well,concept/wonder,setting/desert,setting/ship,character/captain_cuttle"></span>
 
 
 “No, my lad,” replied the Captain.
@@ -66152,7 +66152,7 @@ very great concern.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_04" data-title="Dombey and Son — Chapter 39 (part 4)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_04" data-title="Dombey and Son — Chapter 39 (part 4)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/rose,motif/ship,motif/time,motif/water,motif/well,motif/window,concept/history,form/history,setting/castle,setting/ship,character/captain_cuttle"></span>
 
 
 Therefore [[Captain Cuttle]] read the newspaper with profound attention and
@@ -66264,7 +66264,7 @@ fortunes; and concluded by placing the packet on the table.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_05" data-title="Dombey and Son — Chapter 39 (part 5)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_05" data-title="Dombey and Son — Chapter 39 (part 5)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/self,character/captain_cuttle,character/solomon_gills"></span>
 
 
 After a long pause, Mr Bunsby nodded his head.
@@ -66390,7 +66390,7 @@ scratches to the interposing Bunsby.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_06" data-title="Dombey and Son — Chapter 39 (part 6)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_06" data-title="Dombey and Son — Chapter 39 (part 6)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/madwoman,motif/blood,motif/childhood,motif/home,motif/love,motif/memory,motif/silence,motif/sleep,motif/tears,motif/time,motif/water,concept/conscience,concept/courage,concept/faith,concept/fear,concept/honour,character/captain_cuttle"></span>
 
 
 The cries of the two elder MacStingers, and the wailing of young
@@ -66509,7 +66509,7 @@ Captain into a wondering trance.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_07" data-title="Dombey and Son — Chapter 39 (part 7)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_07" data-title="Dombey and Son — Chapter 39 (part 7)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="topos/double,motif/city,motif/home,motif/night,motif/time,motif/wind,concept/honour,character/captain_cuttle,character/speed,character/sunday"></span>
 
 
 Still, as [[Time|time]] wore on, and Bunsby failed to reappear, the Captain
@@ -66583,7 +66583,7 @@ looking up and down the street.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_01" data-title="Dombey and Son — Chapter 40 (part 1)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_01" data-title="Dombey and Son — Chapter 40 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/storm,concept/alienation,concept/beauty,concept/greatness,concept/honour,concept/nature,concept/pride,concept/self,concept/solitude"></span>
 
 
 CHAPTER XL.
@@ -66688,7 +66688,7 @@ him to call her wife.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_02" data-title="Dombey and Son — Chapter 40 (part 2)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_02" data-title="Dombey and Son — Chapter 40 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/marriage,motif/mirror,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/melancholy,concept/pride,concept/self,setting/london"></span>
 
 
 Mr Dombey was resolved to show her that he was supreme. There must be
@@ -66816,7 +66816,7 @@ making it.—To Me—To Me!” he added, with emphasis.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_03" data-title="Dombey and Son — Chapter 40 (part 3)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_03" data-title="Dombey and Son — Chapter 40 (part 3)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/tears,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/humility,concept/nature,concept/pride,concept/truth,form/history,setting/london"></span>
 
 
 No word from her. No change in her. Her eyes upon him.
@@ -66945,7 +66945,7 @@ involve ourselves [[Alone|alone]] (that might not be much) but others.”
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_04" data-title="Dombey and Son — Chapter 40 (part 4)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_04" data-title="Dombey and Son — Chapter 40 (part 4)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/flowers,motif/marriage,motif/memory,motif/mirror,motif/nature,motif/rose,motif/time,motif/well,concept/friendship,concept/hope,concept/nature,character/cleopatra"></span>
 
 
 Others! He knew at whom that word pointed, and frowned heavily.
@@ -67067,7 +67067,7 @@ breakfast to perform that duty.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_05" data-title="Dombey and Son — Chapter 40 (part 5)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_05" data-title="Dombey and Son — Chapter 40 (part 5)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/orphan,motif/flowers,motif/horse,motif/love,motif/memory,motif/nature,motif/tears,motif/well,concept/despair,concept/fear,concept/hope,concept/nature,character/cleopatra"></span>
 
 
 “Now, my dearest Grangeby,” said Mrs Skewton, “you must posively prom,”
@@ -67202,7 +67202,7 @@ is shaken.”
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_06" data-title="Dombey and Son — Chapter 40 (part 6)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_06" data-title="Dombey and Son — Chapter 40 (part 6)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/rose,motif/soul,motif/time,motif/wind,concept/beauty,concept/fear,concept/hope,concept/pride,concept/self,character/cleopatra"></span>
 
 
 “Don’t believe it, Sir,” returned the Major. “Damme, Sir, she never
@@ -67346,7 +67346,7 @@ save us. We had need to know each other when we meet again!”
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_01" data-title="Dombey and Son — Chapter 41 (part 1)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_01" data-title="Dombey and Son — Chapter 41 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/dust,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/doubt,concept/melancholy,setting/london"></span>
 
 
 CHAPTER XLI.
@@ -67479,7 +67479,7 @@ that.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_02" data-title="Dombey and Son — Chapter 41 (part 2)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_02" data-title="Dombey and Son — Chapter 41 (part 2)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/desire,motif/grave,motif/home,motif/love,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/hope"></span>
 
 
 Briggs is still grinding in the mill of knowledge; and Tozer, too; and
@@ -67604,7 +67604,7 @@ Feeder says he has no [[Doubt|doubt]] of it.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_03" data-title="Dombey and Son — Chapter 41 (part 3)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_03" data-title="Dombey and Son — Chapter 41 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/decay,motif/dreams,motif/dust,motif/home,motif/jewel,motif/night,motif/wind,motif/window,concept/doubt,concept/friendship,concept/honour"></span>
 
 
 Mr Feeder, however, as an intimate friend, is not excluded from the
@@ -67728,7 +67728,7 @@ watches [[Alone|alone]] by the bedside.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_04" data-title="Dombey and Son — Chapter 41 (part 4)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_04" data-title="Dombey and Son — Chapter 41 (part 4)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dust,motif/grave,motif/journey,motif/marriage,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/doubt,concept/honour,concept/melancholy,character/cleopatra"></span>
 
 
 A [[Shadow|shadow]] even on that shadowed face, a sharpening even of the sharpened
@@ -67849,7 +67849,7 @@ cast up at her feet, to strew her path in life withal.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_01" data-title="Dombey and Son — Chapter 42 (part 1)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_01" data-title="Dombey and Son — Chapter 42 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/time,motif/well,concept/conscience,concept/doubt,concept/fear,concept/honour,concept/self,character/captain_cuttle"></span>
 
 
 CHAPTER XLII.
@@ -67986,7 +67986,7 @@ Sir.”
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_02" data-title="Dombey and Son — Chapter 42 (part 2)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_02" data-title="Dombey and Son — Chapter 42 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/garden,motif/home,motif/horse,motif/silence,motif/time,motif/well,concept/education,concept/humility,concept/truth,character/nurse"></span>
 
 
 “You had better not” You have been used, too, to babbling and
@@ -68111,7 +68111,7 @@ everything belonging to you, that—”
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_03" data-title="Dombey and Son — Chapter 42 (part 3)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_03" data-title="Dombey and Son — Chapter 42 (part 3)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/death,motif/lightning,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/hope,concept/pride,concept/self"></span>
 
 
 He stopped again, as if to discover whether he had led Mr Dombey far
@@ -68241,7 +68241,7 @@ respects, to—”
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_04" data-title="Dombey and Son — Chapter 42 (part 4)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_04" data-title="Dombey and Son — Chapter 42 (part 4)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/chains,motif/city,motif/fire,motif/silence,motif/water,concept/greatness,concept/honour,concept/hope"></span>
 
 
 “To do credit even to your choice,” suggested Carker, with a yawning
@@ -68369,7 +68369,7 @@ so.”
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_05" data-title="Dombey and Son — Chapter 42 (part 5)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_05" data-title="Dombey and Son — Chapter 42 (part 5)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/city,motif/desert,motif/home,motif/horse,motif/nature,motif/night,motif/road,motif/time,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/pride,setting/desert,character/speed"></span>
 
 
 “And—pardon me—do I misconceive you,” said Carker, “when I think you
@@ -68478,7 +68478,7 @@ hushed, crouched manner, and his ivory smile, as he best could.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_06" data-title="Dombey and Son — Chapter 42 (part 6)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_06" data-title="Dombey and Son — Chapter 42 (part 6)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/horse,motif/night,motif/rose,motif/tears,motif/time,concept/beauty,concept/courage,concept/honour,concept/truth"></span>
 
 
 He rode direct to Mr Dombey’s [[house]], alighted at the door, and begged
@@ -68603,7 +68603,7 @@ figure marshalled them against her. And that figure was her husband.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_01" data-title="Dombey and Son — Chapter 43 (part 1)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_01" data-title="Dombey and Son — Chapter 43 (part 1)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/grave,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/hope,concept/jealousy,concept/nature,concept/pride,concept/suffering,concept/wonder,character/susan_nipper"></span>
 
 
 CHAPTER XLIII.
@@ -68725,7 +68725,7 @@ possible occasions, that she had nothing to say against her.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_02" data-title="Dombey and Son — Chapter 43 (part 2)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_02" data-title="Dombey and Son — Chapter 43 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/clock,motif/fire,motif/love,motif/night,motif/pain,motif/rose,motif/sleep,motif/tears,motif/time,concept/courage,concept/hope,concept/self,concept/suffering"></span>
 
 
 “Susan,” said Florence, who was sitting thoughtfully at her table, “it
@@ -68835,7 +68835,7 @@ going to do; and it might fall something lighter upon her.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_03" data-title="Dombey and Son — Chapter 43 (part 3)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_03" data-title="Dombey and Son — Chapter 43 (part 3)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/fire,motif/love,motif/moon,motif/night,motif/prayer,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,concept/hope,concept/longing,concept/pride,concept/self,concept/suffering,concept/truth"></span>
 
 
 She stole close to the bed, and drawing in her breath, bent down, and
@@ -69011,7 +69011,7 @@ Florence. I have no [[Hope|hope]] but in you!”
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_01" data-title="Dombey and Son — Chapter 44 (part 1)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_01" data-title="Dombey and Son — Chapter 44 (part 1)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/fire,motif/love,motif/night,motif/tears,motif/time,concept/greatness,concept/hope,concept/loneliness,concept/self,character/susan_nipper"></span>
 
 
 CHAPTER XLIV.
@@ -69139,7 +69139,7 @@ up to it till last [[Night|night]], but last [[Night|night]] decided of me.”
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_02" data-title="Dombey and Son — Chapter 44 (part 2)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_02" data-title="Dombey and Son — Chapter 44 (part 2)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/night,motif/time,motif/well,concept/hope,concept/pride,concept/self,concept/truth,setting/castle,character/susan_nipper"></span>
 
 
 Mr Dombey, in a paroxysm of rage, made another grasp at the bell-rope
@@ -69267,7 +69267,7 @@ except that they were much too good for her.
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_03" data-title="Dombey and Son — Chapter 44 (part 3)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_03" data-title="Dombey and Son — Chapter 44 (part 3)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="motif/love,motif/soul,motif/time,motif/well,concept/despair,concept/doubt,concept/melancholy,character/susan_nipper"></span>
 
 
 “But you needn’t trouble yourself to make a noise at my door,” said
@@ -69394,7 +69394,7 @@ sentiment, “I have long been a stranger.”
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_04" data-title="Dombey and Son — Chapter 44 (part 4)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_04" data-title="Dombey and Son — Chapter 44 (part 4)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/window,concept/body,concept/courage,concept/heroism,concept/honour,character/susan_nipper"></span>
 
 
 “Susan, who is an old friend of mine, the oldest friend I have,” said
@@ -69506,7 +69506,7 @@ no consequence, thank’ee!”
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_01" data-title="Dombey and Son — Chapter 45 (part 1)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_01" data-title="Dombey and Son — Chapter 45 (part 1)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/flowers,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/honour,concept/nature,concept/pride,concept/self,character/bottom"></span>
 
 
 CHAPTER XLV.
@@ -69642,7 +69642,7 @@ And he then spoke, looking straight into her kindling eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_02" data-title="Dombey and Son — Chapter 45 (part 2)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_02" data-title="Dombey and Son — Chapter 45 (part 2)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/blood,motif/time,concept/fear,concept/greatness,concept/pride"></span>
 
 
 “Madam,” he said, “I know, and knew before today, that I have found no
@@ -69767,7 +69767,7 @@ gathered himself.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_03" data-title="Dombey and Son — Chapter 45 (part 3)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_03" data-title="Dombey and Son — Chapter 45 (part 3)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/death,motif/home,motif/night,motif/prayer,motif/time,motif/well,concept/beauty,concept/honour,concept/hope,concept/truth"></span>
 
 
 “Mr Dombey, though a most honourable gentleman,” he said, “is so prone
@@ -69925,7 +69925,7 @@ upon the ground.
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_01" data-title="Dombey and Son — Chapter 46 (part 1)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_01" data-title="Dombey and Son — Chapter 46 (part 1)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/horse,motif/poison,motif/time,motif/well"></span>
 
 
 CHAPTER XLVI.
@@ -70047,7 +70047,7 @@ take them from him, and use them. Come away. Its no good looking at his
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_02" data-title="Dombey and Son — Chapter 46 (part 2)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_02" data-title="Dombey and Son — Chapter 46 (part 2)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/birds,motif/horse,motif/time,motif/water,motif/well,concept/despair,setting/court"></span>
 
 
 But the old woman, for whom the spectacle of Rob the Grinder returning
@@ -70166,7 +70166,7 @@ from a neighbouring public-[[house]] with a pewter measure and a glass.
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_03" data-title="Dombey and Son — Chapter 46 (part 3)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_03" data-title="Dombey and Son — Chapter 46 (part 3)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/soul,motif/supernatural,motif/tears,motif/well,concept/body,concept/hope"></span>
 
 
 “Here’s master—Mr Carker, [[Child|child]]!” said the old woman, slowly, as her
@@ -70321,7 +70321,7 @@ he might not be the subject of their discourse.
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_04" data-title="Dombey and Son — Chapter 46 (part 4)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_04" data-title="Dombey and Son — Chapter 46 (part 4)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="motif/time,motif/well,concept/history,concept/imagination,concept/wonder,form/history,character/captain_cuttle"></span>
 
 
 With the present consolation that they were gone, and with the
@@ -70460,7 +70460,7 @@ the closer to him, the farther from him. That’s the creed here!”
 
 
 
-<span class="atom-split" data-atom="chapter_74--part_05" data-title="Dombey and Son — Chapter 46 (part 5)" data-chapter="Chapter 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_74--part_05" data-title="Dombey and Son — Chapter 46 (part 5)" data-chapter="Chapter 74" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/fire,motif/horse,motif/rose,motif/soul,motif/storm,motif/time,motif/well,motif/window,concept/beauty,concept/pride,concept/suffering,concept/truth,character/phantom,character/queen"></span>
 
 
 “I don’t know,” said his brother, whose roused feelings had soon
@@ -70556,7 +70556,7 @@ footprint did she mark upon it, but he set his own there, straight.
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_01" data-title="Dombey and Son — Chapter 47 (part 1)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_01" data-title="Dombey and Son — Chapter 47 (part 1)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/dust,motif/fire,motif/leaves,motif/marriage,motif/nature,motif/night,motif/road,motif/spring,motif/time,concept/eternity,concept/guilt,concept/honour,concept/nature,concept/pride,concept/suffering,concept/truth"></span>
 
 
 CHAPTER XLVII.
@@ -70670,7 +70670,7 @@ world a better place!
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_02" data-title="Dombey and Son — Chapter 47 (part 2)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_02" data-title="Dombey and Son — Chapter 47 (part 2)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/cave,motif/childhood,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/silence,motif/spring,motif/tears,motif/time,concept/fear,concept/hope,concept/humility,concept/nature,concept/pride,concept/union,concept/wonder"></span>
 
 
 Not the less bright and blest would that day be for rousing some who
@@ -70804,7 +70804,7 @@ Yes, and she would have done it, if she had had the charm.
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_03" data-title="Dombey and Son — Chapter 47 (part 3)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_03" data-title="Dombey and Son — Chapter 47 (part 3)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,archetype/shadow,motif/death,motif/flowers,motif/home,motif/love,motif/nature,motif/night,motif/spring,motif/summer,motif/time,motif/well,concept/beauty,concept/body,concept/imagination,concept/loneliness,concept/nature,concept/self_reliance,concept/solitude"></span>
 
 
 “Mama,” said Florence, anxiously, “there is a change in you, in more
@@ -70917,7 +70917,7 @@ pretty, but a little delicate and thoughtful in appearance!”
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_04" data-title="Dombey and Son — Chapter 47 (part 4)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_04" data-title="Dombey and Son — Chapter 47 (part 4)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/death,motif/home,motif/marriage,motif/rose,concept/ambition,concept/hope,concept/self,character/major_bagstock"></span>
 
 
 None the less so, certainly, for her life of the last six months.
@@ -71055,7 +71055,7 @@ word,” she repeated, exactly as before, “if the room were burning.”
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_05" data-title="Dombey and Son — Chapter 47 (part 5)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_05" data-title="Dombey and Son — Chapter 47 (part 5)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/child,motif/marriage,motif/soul,motif/time,motif/well,concept/doubt,concept/greatness,concept/honour,concept/self"></span>
 
 
 “It may be natural enough, Mrs Dombey,” he pursued, “that you should be
@@ -71175,7 +71175,7 @@ you—”
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_06" data-title="Dombey and Son — Chapter 47 (part 6)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_06" data-title="Dombey and Son — Chapter 47 (part 6)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/bells,motif/blood,motif/death,motif/fire,motif/time,concept/beauty,concept/self"></span>
 
 
 Mr Carker, who had sat and listened all this [[Time|time]], now raised his eyes,
@@ -71287,7 +71287,7 @@ somewhere near her.
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_07" data-title="Dombey and Son — Chapter 47 (part 7)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_07" data-title="Dombey and Son — Chapter 47 (part 7)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/fire,motif/home,motif/moon,motif/night,motif/ship,motif/silence,motif/sleep,motif/storm,motif/tears,motif/time,motif/wind,motif/window,concept/doubt,concept/wonder,setting/castle,setting/ship"></span>
 
 
 It invaded her [[Dreams|dreams]] and disturbed the whole [[Night|night]]. Rising in the
@@ -71414,7 +71414,7 @@ wanted at [[Night|night]]. She had just come from her mistress’s rooms, but—
 
 
 
-<span class="atom-split" data-atom="chapter_75--part_08" data-title="Dombey and Son — Chapter 47 (part 8)" data-chapter="Chapter 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_75--part_08" data-title="Dombey and Son — Chapter 47 (part 8)" data-chapter="Chapter 75" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/mirror,motif/nature,motif/tears,motif/time,concept/beauty,concept/fear,concept/freedom,concept/nature,concept/truth"></span>
 
 
 “But what! what was it?” Florence heard her father demand like a
@@ -71502,7 +71502,7 @@ head bent down to hide her agony of [[Tears|tears]], was in the streets.
 
 
 
-<span class="atom-split" data-atom="chapter_76--part_01" data-title="Dombey and Son — Chapter 48 (part 1)" data-chapter="Chapter 76" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_76--part_01" data-title="Dombey and Son — Chapter 48 (part 1)" data-chapter="Chapter 76" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dreams,motif/fire,motif/home,motif/journey,motif/night,motif/river,motif/road,motif/time,motif/water,motif/well,motif/winter,concept/hope,concept/poverty,concept/wonder,setting/london,character/captain_cuttle"></span>
 
 
 CHAPTER XLVIII.
@@ -71623,7 +71623,7 @@ with a better heart.
 
 
 
-<span class="atom-split" data-atom="chapter_76--part_02" data-title="Dombey and Son — Chapter 48 (part 2)" data-chapter="Chapter 76" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_76--part_02" data-title="Dombey and Son — Chapter 48 (part 2)" data-chapter="Chapter 76" data-kind="excerpt" data-tags="topos/double,motif/home,motif/memory,motif/pain,motif/time,motif/well,concept/beauty,concept/friendship,concept/history,concept/honour,concept/suffering,form/history,character/bottom,character/captain_cuttle"></span>
 
 
 “Cheerily,” said the Captain. “Cheerily! Stand by, my pretty one, stand
@@ -71753,7 +71753,7 @@ morsel.
 
 
 
-<span class="atom-split" data-atom="chapter_76--part_03" data-title="Dombey and Son — Chapter 48 (part 3)" data-chapter="Chapter 76" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_76--part_03" data-title="Dombey and Son — Chapter 48 (part 3)" data-chapter="Chapter 76" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/desire,motif/ship,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/hope,concept/imagination,setting/cathedral,setting/ship,character/captain_cuttle"></span>
 
 
 “If there should be someone listening and watching,” whispered
@@ -71885,7 +71885,7 @@ discomposure.
 
 
 
-<span class="atom-split" data-atom="chapter_76--part_04" data-title="Dombey and Son — Chapter 48 (part 4)" data-chapter="Chapter 76" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_76--part_04" data-title="Dombey and Son — Chapter 48 (part 4)" data-chapter="Chapter 76" data-kind="excerpt" data-tags="topos/quest,motif/desert,motif/pain,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/fear,concept/honour,concept/hope,concept/truth,setting/desert,character/captain_cuttle"></span>
 
 
 “But I was going to say, Captain Gills,” said Mr Toots. “Happening to
@@ -72065,7 +72065,7 @@ slept more peacefully, and the Captain’s watch was undisturbed.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_01" data-title="Dombey and Son — Chapter 49 (part 1)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_01" data-title="Dombey and Son — Chapter 49 (part 1)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dreams,motif/fire,motif/grave,motif/hill,motif/home,motif/mirror,motif/night,motif/pain,motif/river,motif/tears,motif/time,motif/water,motif/window,concept/beauty,concept/body,concept/education,concept/pride,concept/self,character/captain_cuttle,character/florence_dombey"></span>
 
 
 CHAPTER XLIX.
@@ -72183,7 +72183,7 @@ they appeared; and went down to her kind protector.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_02" data-title="Dombey and Son — Chapter 49 (part 2)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_02" data-title="Dombey and Son — Chapter 49 (part 2)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="motif/fire,motif/rose,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/wonder,character/captain_cuttle"></span>
 
 
 The Captain had spread the cloth with great care, and was making some
@@ -72307,7 +72307,7 @@ Captain’s eyes, and made them blink and [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_03" data-title="Dombey and Son — Chapter 49 (part 3)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_03" data-title="Dombey and Son — Chapter 49 (part 3)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,archetype/monster,motif/home,motif/nature,motif/tears,motif/time,motif/wind,motif/window,concept/beauty,concept/charity,concept/faith,concept/hope,concept/nature,concept/pride,concept/wonder,character/captain_cuttle"></span>
 
 
 The manner in which the Captain tried to make believe that the cause of
@@ -72413,7 +72413,7 @@ terrible dream she had once called [[Home]].
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_04" data-title="Dombey and Son — Chapter 49 (part 4)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_04" data-title="Dombey and Son — Chapter 49 (part 4)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/grave,motif/home,motif/love,motif/night,motif/prayer,motif/time,character/captain_cuttle"></span>
 
 
 When they were [[Alone|alone]] again, the Captain insisted on her eating a slice
@@ -72543,7 +72543,7 @@ distressed condition.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_05" data-title="Dombey and Son — Chapter 49 (part 5)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_05" data-title="Dombey and Son — Chapter 49 (part 5)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/lightning,motif/love,motif/ship,motif/silence,motif/storm,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/courage,concept/mercy,setting/london,setting/ship,character/captain_cuttle"></span>
 
 
 It was not until the twilight that [[Captain Cuttle]], fairly dropping
@@ -72667,7 +72667,7 @@ thought it nothing but his good looks, bless him!”
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_06" data-title="Dombey and Son — Chapter 49 (part 6)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_06" data-title="Dombey and Son — Chapter 49 (part 6)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/fire,motif/grave,motif/home,motif/night,motif/ship,motif/soul,motif/time,concept/beauty,concept/courage,concept/fear,concept/honour,concept/hope,concept/mercy,concept/pride,concept/suffering,form/fragment,setting/ship,character/captain_cuttle,character/walter_gay"></span>
 
 
 “And was he saved!” cried Florence. “Was he saved!”
@@ -72793,7 +72793,7 @@ his head, and danced about it.
 
 
 
-<span class="atom-split" data-atom="chapter_77--part_07" data-title="Dombey and Son — Chapter 49 (part 7)" data-chapter="Chapter 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_77--part_07" data-title="Dombey and Son — Chapter 49 (part 7)" data-chapter="Chapter 77" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/dreams,motif/home,motif/love,motif/night,motif/rose,motif/tears,motif/time,concept/beauty,concept/history,concept/pride,concept/suffering,form/history,character/captain_cuttle"></span>
 
 
 How they talked of poor old Uncle Sol, and dwelt on every little
@@ -72910,7 +72910,7 @@ short allowance of victuals.
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_01" data-title="Dombey and Son — Chapter 50 (part 1)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_01" data-title="Dombey and Son — Chapter 50 (part 1)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/rose,motif/ship,motif/time,motif/well,motif/wind,motif/window,concept/wonder,setting/london,setting/ship,character/captain_cuttle,character/solomon_gills"></span>
 
 
 CHAPTER L.
@@ -73019,7 +73019,7 @@ pretty taut opinion too.
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_02" data-title="Dombey and Son — Chapter 50 (part 2)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_02" data-title="Dombey and Son — Chapter 50 (part 2)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/innocent,motif/dreams,motif/home,motif/night,motif/ship,motif/well,motif/wind,concept/doubt,concept/guilt,concept/honour,concept/hope,setting/ship,character/bottom,character/captain_cuttle"></span>
 
 
 “If my Uncle had been a heedless young man, likely to be entrapped by
@@ -73148,7 +73148,7 @@ discomfiture, “ain’t there no other character as—”
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_03" data-title="Dombey and Son — Chapter 50 (part 3)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_03" data-title="Dombey and Son — Chapter 50 (part 3)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/melancholy,setting/castle,character/captain_cuttle"></span>
 
 
 “Oh!” returned Walter, “would you have me die in her esteem—in such
@@ -73275,7 +73275,7 @@ glad to see you!”
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_04" data-title="Dombey and Son — Chapter 50 (part 4)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_04" data-title="Dombey and Son — Chapter 50 (part 4)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/despair,concept/hope,concept/self,character/captain_cuttle"></span>
 
 
 “Thank you, heartily,” said Walter. “I couldn’t [[Desire|desire]] a more genuine
@@ -73399,7 +73399,7 @@ proudly took the commission upon himself for immediate execution.
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_05" data-title="Dombey and Son — Chapter 50 (part 5)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_05" data-title="Dombey and Son — Chapter 50 (part 5)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desire,motif/love,motif/night,motif/pain,motif/tears,motif/time,motif/window,concept/greatness,concept/hope,concept/truth,character/bottom,character/captain_cuttle,character/sunday"></span>
 
 
 “Miss Dombey,” said Mr Toots, touching her proffered hand, with a pang
@@ -73509,7 +73509,7 @@ Walter was.
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_06" data-title="Dombey and Son — Chapter 50 (part 6)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_06" data-title="Dombey and Son — Chapter 50 (part 6)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/suffering,concept/truth,concept/wonder,character/bottom,character/captain_cuttle,character/sunday"></span>
 
 
 “I think he’s down below, my lady lass,” returned the Captain.
@@ -73645,7 +73645,7 @@ much. I had no one to advise me. I am quite [[Alone|alone]].”
 
 
 
-<span class="atom-split" data-atom="chapter_78--part_07" data-title="Dombey and Son — Chapter 50 (part 7)" data-chapter="Chapter 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_78--part_07" data-title="Dombey and Son — Chapter 50 (part 7)" data-chapter="Chapter 78" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/bells,motif/love,motif/memory,motif/stars,motif/tears,motif/time,concept/beauty,concept/fear,concept/honour,concept/hope,concept/truth,character/sunday"></span>
 
 
 “Florence!” said Walter, passionately. “I am hurried on to say, what I
@@ -73763,7 +73763,7 @@ than when you made that there little property over, jintly!”
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_01" data-title="Dombey and Son — Chapter 51 (part 1)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_01" data-title="Dombey and Son — Chapter 51 (part 1)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/desire,motif/fire,motif/home,motif/leaves,motif/night,motif/silence,motif/spring,motif/time,concept/fear,concept/friendship,concept/honour,concept/imagination,concept/truth,concept/wonder,character/duke_of_york,character/major_bagstock,character/phantom"></span>
 
 
 CHAPTER LI.
@@ -73891,7 +73891,7 @@ very easily got at.”
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_02" data-title="Dombey and Son — Chapter 51 (part 2)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_02" data-title="Dombey and Son — Chapter 51 (part 2)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/horse,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/friendship,concept/hope,concept/melancholy,concept/self,character/major_bagstock"></span>
 
 
 “Undoubtedly,” says Cousin Feenix. “In point of fact, it’s quite a
@@ -74023,7 +74023,7 @@ wants her back, I should think!”
 
 
 
-<span class="atom-split" data-atom="chapter_79--part_03" data-title="Dombey and Son — Chapter 51 (part 3)" data-chapter="Chapter 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_79--part_03" data-title="Dombey and Son — Chapter 51 (part 3)" data-chapter="Chapter 79" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/water,motif/well,concept/hope,concept/reconciliation,concept/wonder,character/chorus,character/sunday"></span>
 
 
 This hint of the Peruvian Mines, causes Miss Tox to rise to go away;
@@ -74146,7 +74146,7 @@ in [[Chorus|chorus]]. Mr Dombey and the world are [[Alone|alone]] together.
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_01" data-title="Dombey and Son — Chapter 52 (part 1)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_01" data-title="Dombey and Son — Chapter 52 (part 1)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/death,motif/silence,motif/spring,motif/time,motif/well,character/witch"></span>
 
 
 CHAPTER LII.
@@ -74282,7 +74282,7 @@ you have for yours, and its object is the same man.”
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_02" data-title="Dombey and Son — Chapter 52 (part 2)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_02" data-title="Dombey and Son — Chapter 52 (part 2)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/tears,motif/well"></span>
 
 
 He started, in spite of himself, and looked at her with astonishment.
@@ -74426,7 +74426,7 @@ Misses Brown?”
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_03" data-title="Dombey and Son — Chapter 52 (part 3)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_03" data-title="Dombey and Son — Chapter 52 (part 3)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/night,motif/well,concept/imagination,concept/wonder"></span>
 
 
 “Ah! Not here since this [[Night|night]] week!” said the old woman, contemplating
@@ -74573,7 +74573,7 @@ you please.”
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_04" data-title="Dombey and Son — Chapter 52 (part 4)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_04" data-title="Dombey and Son — Chapter 52 (part 4)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/lightning,motif/love,motif/night,motif/secrets,motif/well,concept/despair"></span>
 
 
 “I won’t talk at all,” said Mrs Brown, with an action of her crooked
@@ -74713,7 +74713,7 @@ unwilling Grinder.
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_05" data-title="Dombey and Son — Chapter 52 (part 5)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_05" data-title="Dombey and Son — Chapter 52 (part 5)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/chalk,motif/fire,motif/night,motif/soul,motif/well,motif/window,concept/grotesque,concept/hope"></span>
 
 
 “[[Well]], Rob? [[Well]]?” said the old woman, drawing his arm yet tighter
@@ -74846,7 +74846,7 @@ to [[chalk]], slowly and laboriously, on the table.
 
 
 
-<span class="atom-split" data-atom="chapter_80--part_06" data-title="Dombey and Son — Chapter 52 (part 6)" data-chapter="Chapter 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_80--part_06" data-title="Dombey and Son — Chapter 52 (part 6)" data-chapter="Chapter 80" data-kind="excerpt" data-tags="motif/chalk,motif/cross,motif/fire,motif/time,motif/well,concept/hope,concept/jealousy,concept/pride"></span>
 
 
 “Will you hold your tongue, Misses Brown?” he exclaimed, covering it
@@ -74920,7 +74920,7 @@ was wild to force a passage out, and fly away to warn him of it.
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_01" data-title="Dombey and Son — Chapter 53 (part 1)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_01" data-title="Dombey and Son — Chapter 53 (part 1)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/blood,motif/clock,motif/grave,motif/nature,motif/night,motif/time,motif/window,concept/doubt,concept/guilt,concept/history,concept/nature,concept/pride,concept/revenge,concept/self,form/history,setting/court,character/sunday"></span>
 
 
 CHAPTER LIII.
@@ -75039,7 +75039,7 @@ worked up in print, in a most surprising manner.”
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_02" data-title="Dombey and Son — Chapter 53 (part 2)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_02" data-title="Dombey and Son — Chapter 53 (part 2)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/love,motif/noon,motif/tears,motif/well,concept/friendship,concept/history,concept/hope,concept/melancholy,concept/pride,form/history,setting/london"></span>
 
 
 Mr Perch resorted to his breast pocket, as if to produce the paragraph
@@ -75179,7 +75179,7 @@ would remember him. Then his name was to be no secret.”
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_03" data-title="Dombey and Son — Chapter 53 (part 3)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_03" data-title="Dombey and Son — Chapter 53 (part 3)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/ghost,motif/desire,motif/garden,motif/leaves,motif/machine,motif/nature,motif/night,motif/time,motif/well,concept/nature,concept/pride,setting/court,character/lucifer,character/walter_gay"></span>
 
 
 “Harriet,” said her brother, who had listened with close attention,
@@ -75294,7 +75294,7 @@ and to our relative positions in the [[house|House]].”
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_04" data-title="Dombey and Son — Chapter 53 (part 4)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_04" data-title="Dombey and Son — Chapter 53 (part 4)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/garden,motif/marriage,motif/rose,motif/time,concept/ambition,concept/conscience,concept/history,concept/hope,concept/suffering,concept/truth,concept/vanity,form/history"></span>
 
 
 “Its matter was not new to me, but was presented in a new aspect. It
@@ -75410,7 +75410,7 @@ his. “Pray tell me all the worst at once.”
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_05" data-title="Dombey and Son — Chapter 53 (part 5)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_05" data-title="Dombey and Son — Chapter 53 (part 5)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/home,motif/night,motif/noon,motif/ship,motif/time,motif/well,motif/wind,motif/window,concept/imagination,concept/resignation,setting/ship"></span>
 
 
 “Latterly, he appears to have devoted the greatest pains to making
@@ -75537,7 +75537,7 @@ and lame, with the fierce [[Wind|wind]] and weather beating on my head?”
 
 
 
-<span class="atom-split" data-atom="chapter_81--part_06" data-title="Dombey and Son — Chapter 53 (part 6)" data-chapter="Chapter 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_81--part_06" data-title="Dombey and Son — Chapter 53 (part 6)" data-chapter="Chapter 81" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/dreams,motif/fire,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/beauty,concept/fear,concept/forgiveness"></span>
 
 
 “Yes.”
@@ -75689,7 +75689,7 @@ where she had been was empty.
 
 
 
-<span class="atom-split" data-atom="chapter_82--part_01" data-title="Dombey and Son — Chapter 54 (part 1)" data-chapter="Chapter 82" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_82--part_01" data-title="Dombey and Son — Chapter 54 (part 1)" data-chapter="Chapter 82" data-kind="excerpt" data-tags="motif/animals,motif/dust,motif/mirror,motif/night,motif/prison,motif/time,motif/window,concept/despair,concept/honour,concept/melancholy,setting/court"></span>
 
 
 CHAPTER LIV.
@@ -75809,7 +75809,7 @@ supper came.
 
 
 
-<span class="atom-split" data-atom="chapter_82--part_02" data-title="Dombey and Son — Chapter 54 (part 2)" data-chapter="Chapter 82" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_82--part_02" data-title="Dombey and Son — Chapter 54 (part 2)" data-chapter="Chapter 82" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/love,motif/marriage,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/revenge,concept/slavery,concept/solitude,setting/cathedral"></span>
 
 
 The hot dishes were on a chafing-dish; the cold already set forth, with
@@ -75946,7 +75946,7 @@ tempted me to take a desperate [[Revenge|revenge]], when it has most tortured me
 
 
 
-<span class="atom-split" data-atom="chapter_82--part_03" data-title="Dombey and Son — Chapter 54 (part 3)" data-chapter="Chapter 82" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_82--part_03" data-title="Dombey and Son — Chapter 54 (part 3)" data-chapter="Chapter 82" data-kind="excerpt" data-tags="archetype/innocent,archetype/villain,motif/blood,motif/childhood,motif/dust,motif/love,motif/marriage,motif/memory,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/honour,character/queen"></span>
 
 
 “I have no [[Doubt|doubt]], Ma’am,” he replied, “that you have kept a good
@@ -76071,7 +76071,7 @@ undeceive you!”
 
 
 
-<span class="atom-split" data-atom="chapter_82--part_04" data-title="Dombey and Son — Chapter 54 (part 4)" data-chapter="Chapter 82" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_82--part_04" data-title="Dombey and Son — Chapter 54 (part 4)" data-chapter="Chapter 82" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/tyrant,motif/fire,motif/night,motif/road,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/doubt,concept/mercy,concept/revenge,setting/court"></span>
 
 
 Her flashing eyes, uplifted for a moment, lighted again on Carker, and
@@ -76225,7 +76225,7 @@ in a corner, went out where the [[Stars|stars]] were shining.
 
 
 
-<span class="atom-split" data-atom="chapter_83--part_01" data-title="Dombey and Son — Chapter 55 (part 1)" data-chapter="Chapter 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_83--part_01" data-title="Dombey and Son — Chapter 55 (part 1)" data-chapter="Chapter 83" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,archetype/villain,motif/bells,motif/blood,motif/city,motif/death,motif/dust,motif/night,motif/road,motif/rose,motif/soul,motif/stars,motif/time,motif/wind,concept/doubt,concept/fear,concept/guilt,concept/self_reliance,setting/court,setting/italy,setting/paris"></span>
 
 
 CHAPTER LV.
@@ -76347,7 +76347,7 @@ upon his [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="chapter_83--part_02" data-title="Dombey and Son — Chapter 55 (part 2)" data-chapter="Chapter 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_83--part_02" data-title="Dombey and Son — Chapter 55 (part 2)" data-chapter="Chapter 83" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/cross,motif/dance,motif/dust,motif/home,motif/horse,motif/journey,motif/marriage,motif/night,motif/road,motif/rose,motif/stars,motif/time,motif/wheel,concept/fear,concept/hope"></span>
 
 
 The lamps, gleaming on the medley of horses’ heads, jumbled with the
@@ -76475,7 +76475,7 @@ torment.
 
 
 
-<span class="atom-split" data-atom="chapter_83--part_03" data-title="Dombey and Son — Chapter 55 (part 3)" data-chapter="Chapter 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_83--part_03" data-title="Dombey and Son — Chapter 55 (part 3)" data-chapter="Chapter 83" data-kind="excerpt" data-tags="motif/bells,motif/dawn,motif/hill,motif/journey,motif/moon,motif/night,motif/noon,motif/river,motif/road,motif/time,motif/water,setting/paris"></span>
 
 
 It was a vision of long roads, that stretched away to an horizon,
@@ -76583,7 +76583,7 @@ was a quiet Inn. Here, he indistinctly resolved to tarry and rest.
 
 
 
-<span class="atom-split" data-atom="chapter_83--part_04" data-title="Dombey and Son — Chapter 55 (part 4)" data-chapter="Chapter 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_83--part_04" data-title="Dombey and Son — Chapter 55 (part 4)" data-chapter="Chapter 83" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/dawn,motif/death,motif/desert,motif/fire,motif/garden,motif/hill,motif/journey,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/hope,concept/imagination,setting/desert"></span>
 
 
 With this purpose he slunk into a railway carriage as quickly as he
@@ -76724,7 +76724,7 @@ any one of them.
 
 
 
-<span class="atom-split" data-atom="chapter_83--part_05" data-title="Dombey and Son — Chapter 55 (part 5)" data-chapter="Chapter 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_83--part_05" data-title="Dombey and Son — Chapter 55 (part 5)" data-chapter="Chapter 83" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/death,motif/grave,motif/journey,motif/night,motif/road,motif/rose,motif/time,motif/water,motif/window,concept/beauty,setting/london"></span>
 
 
 “At what [[Time|time]],” he asked the man who had waited on him over-[[Night|night]], now
@@ -76802,7 +76802,7 @@ train of ashes.
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_01" data-title="Dombey and Son — Chapter 56 (part 1)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_01" data-title="Dombey and Son — Chapter 56 (part 1)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/journey,motif/love,motif/nature,motif/pain,motif/tears,motif/time,concept/nature,concept/pride"></span>
 
 
 CHAPTER LVI.
@@ -76948,7 +76948,7 @@ be honoured with your confidence.”
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_02" data-title="Dombey and Son — Chapter 56 (part 2)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_02" data-title="Dombey and Son — Chapter 56 (part 2)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/nature,motif/ship,motif/time,concept/honour,concept/hope,concept/nature,setting/ship,character/captain_cuttle"></span>
 
 
 “Mr Toots,” returned Florence, “if you, who are so old and true a
@@ -77071,7 +77071,7 @@ sacrifice of a considerable portion of my property.”
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_03" data-title="Dombey and Son — Chapter 56 (part 3)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_03" data-title="Dombey and Son — Chapter 56 (part 3)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/tears,motif/time,motif/well,concept/honour,concept/self,character/captain_cuttle,character/susan_nipper,character/walter_gay"></span>
 
 
 “My lad,” returned the Captain, “say no more. There ain’t a colour you
@@ -77195,7 +77195,7 @@ chuckling, at the expiration of as many hours.
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_04" data-title="Dombey and Son — Chapter 56 (part 4)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_04" data-title="Dombey and Son — Chapter 56 (part 4)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/grave,motif/great_house,motif/home,motif/love,motif/marriage,motif/night,motif/river,motif/rose,motif/ship,motif/time,motif/well,concept/hope,concept/melancholy,setting/ship,character/kent,character/susan_nipper"></span>
 
 
 Walter was busy and away all day, but came there every morning early to
@@ -77343,7 +77343,7 @@ observable in his behaviour.
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_05" data-title="Dombey and Son — Chapter 56 (part 5)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_05" data-title="Dombey and Son — Chapter 56 (part 5)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/nature,motif/river,motif/time,motif/wind,motif/window,concept/doubt,concept/honour,concept/hope,concept/nature,character/florence_dombey,character/sunday,character/susan_nipper,character/walter_gay"></span>
 
 
 One of Mr Toots’s hardest trials, however, was of his own seeking. On
@@ -77460,7 +77460,7 @@ vanished.
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_06" data-title="Dombey and Son — Chapter 56 (part 6)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_06" data-title="Dombey and Son — Chapter 56 (part 6)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/marriage,motif/memory,motif/rose,motif/silence,motif/time,motif/well,concept/fear,concept/hope,form/fragment,character/captain_cuttle,character/susan_nipper"></span>
 
 
 These proceedings on the part of Mr Toots, and the strong individual
@@ -77580,7 +77580,7 @@ breaking off, and rubbing his hands in his old dreamy way.
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_07" data-title="Dombey and Son — Chapter 56 (part 7)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_07" data-title="Dombey and Son — Chapter 56 (part 7)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/home,motif/memory,motif/ship,motif/time,motif/well,concept/honour,concept/melancholy,concept/resignation,setting/ship,character/captain_cuttle"></span>
 
 
 “Hear him!” cried the Captain gravely. “’Tis woman as seduces all
@@ -77716,7 +77716,7 @@ Number nine Brig Place.”
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_08" data-title="Dombey and Son — Chapter 56 (part 8)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_08" data-title="Dombey and Son — Chapter 56 (part 8)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/road,motif/time,motif/well,concept/hope,concept/self,character/captain_cuttle"></span>
 
 
 The Captain took his glazed hat off his hook, looked into it, put it
@@ -77839,7 +77839,7 @@ it, or whether you’re a going in to win?”
 
 
 
-<span class="atom-split" data-atom="chapter_84--part_09" data-title="Dombey and Son — Chapter 56 (part 9)" data-chapter="Chapter 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_84--part_09" data-title="Dombey and Son — Chapter 56 (part 9)" data-chapter="Chapter 84" data-kind="excerpt" data-tags="motif/love,motif/night,motif/sleep,motif/time,motif/wind"></span>
 
 
 “Why then, here’s all about it, Master,” said the Chicken. “I ain’t a
@@ -77900,7 +77900,7 @@ her maiden life, and who had sent him her dear [[Love|love]].
 
 
 
-<span class="atom-split" data-atom="chapter_85--part_01" data-title="Dombey and Son — Chapter 57 (part 1)" data-chapter="Chapter 85" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_85--part_01" data-title="Dombey and Son — Chapter 57 (part 1)" data-chapter="Chapter 85" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/garden,motif/grave,motif/home,motif/horse,motif/love,motif/memory,motif/road,motif/rose,motif/spring,motif/summer,motif/tears,motif/time,motif/well"></span>
 
 
 CHAPTER LVII.
@@ -78031,7 +78031,7 @@ cellar.
 
 
 
-<span class="atom-split" data-atom="chapter_85--part_02" data-title="Dombey and Son — Chapter 57 (part 2)" data-chapter="Chapter 85" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_85--part_02" data-title="Dombey and Son — Chapter 57 (part 2)" data-chapter="Chapter 85" data-kind="excerpt" data-tags="motif/dust,motif/hill,motif/home,motif/love,motif/tears,motif/window,form/inscription,character/captain_cuttle,character/macbeth,character/sunday,character/susan_nipper"></span>
 
 
 The shabby little old man, ringer of the disappointed bell, is standing
@@ -78157,7 +78157,7 @@ state of insensibility, and is taken into a baker’s shop to recover.
 
 
 
-<span class="atom-split" data-atom="chapter_85--part_03" data-title="Dombey and Son — Chapter 57 (part 3)" data-chapter="Chapter 85" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_85--part_03" data-title="Dombey and Son — Chapter 57 (part 3)" data-chapter="Chapter 85" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/love,motif/marriage,motif/moon,motif/night,motif/ship,motif/silence,motif/tears,motif/time,motif/wind,concept/hope,setting/ship,character/captain_cuttle,character/susan_nipper"></span>
 
 
 Uncle Sol and Mr Toots wait patiently in the churchyard, sitting on the
@@ -78280,7 +78280,7 @@ invisible country far away!
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_01" data-title="Dombey and Son — Chapter 58 (part 1)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_01" data-title="Dombey and Son — Chapter 58 (part 1)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/fire,motif/grave,motif/great_house,motif/marriage,motif/nature,motif/night,motif/ship,motif/sleep,motif/storm,motif/summer,motif/tears,motif/time,motif/well,concept/conscience,concept/honour,concept/nature,concept/truth,setting/court,setting/ship,character/kent,character/major_bagstock"></span>
 
 
 CHAPTER LVIII.
@@ -78393,7 +78393,7 @@ to-morrow, to show his contempt for mankind!
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_02" data-title="Dombey and Son — Chapter 58 (part 2)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_02" data-title="Dombey and Son — Chapter 58 (part 2)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/pain,motif/time,concept/ambition,concept/melancholy,concept/self,setting/court"></span>
 
 
 Of all this, and many variations of the same tune, the Major would
@@ -78517,7 +78517,7 @@ has fallen, never to be built up any more.”
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_03" data-title="Dombey and Son — Chapter 58 (part 3)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_03" data-title="Dombey and Son — Chapter 58 (part 3)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/tears,motif/time,motif/well,concept/history,concept/honour,concept/hope,concept/melancholy,concept/pride,form/history"></span>
 
 
 “And Mr Dombey, is he personally ruined?”
@@ -78637,7 +78637,7 @@ the inheritance available for your good purpose, as [[Well|well]] as John’s?�
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_04" data-title="Dombey and Son — Chapter 58 (part 4)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_04" data-title="Dombey and Son — Chapter 58 (part 4)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/home,motif/night,motif/soul,motif/time,motif/well,concept/fear,concept/history,concept/honour,concept/hope,concept/loneliness,concept/self,concept/truth,form/history,character/nurse"></span>
 
 
 “Oh, yes,” she returned “When we have shared everything together for so
@@ -78759,7 +78759,7 @@ being particularly commended by an admiring and numerous connexion.
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_05" data-title="Dombey and Son — Chapter 58 (part 5)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_05" data-title="Dombey and Son — Chapter 58 (part 5)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/grave,motif/night,motif/rose,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/vanity,setting/london,character/bottom"></span>
 
 
 Mrs Wickam, with her eyebrows elevated, and her head on one side,
@@ -78899,7 +78899,7 @@ Ally’s father, longest of the two.”
 
 
 
-<span class="atom-split" data-atom="chapter_86--part_06" data-title="Dombey and Son — Chapter 58 (part 6)" data-chapter="Chapter 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_86--part_06" data-title="Dombey and Son — Chapter 58 (part 6)" data-chapter="Chapter 86" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/summer,motif/time,motif/wind,concept/history,concept/pride,concept/suffering,form/history"></span>
 
 
 She raised her head a little, and peered at her daughter’s face; as if
@@ -79000,7 +79000,7 @@ wintry [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_01" data-title="Dombey and Son — Chapter 59 (part 1)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_01" data-title="Dombey and Son — Chapter 59 (part 1)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="topos/quest,motif/childhood,motif/garden,motif/great_house,motif/soul,motif/spring,motif/tears,motif/time,motif/wind,concept/doubt,concept/honour,concept/loneliness,concept/pride,concept/resignation,setting/oxford"></span>
 
 
 CHAPTER LIX.
@@ -79111,7 +79111,7 @@ thousands of impressions of their shoes upon the hall and staircase.
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_02" data-title="Dombey and Son — Chapter 59 (part 2)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_02" data-title="Dombey and Son — Chapter 59 (part 2)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/tears,motif/time,concept/body,concept/hope"></span>
 
 
 The council downstairs are in full conclave all this [[Time|time]], and, having
@@ -79229,7 +79229,7 @@ days. The Capital Modern Household Furniture, &c., is on view.
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_03" data-title="Dombey and Son — Chapter 59 (part 3)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_03" data-title="Dombey and Son — Chapter 59 (part 3)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/home,motif/leaves,motif/marriage,motif/rose,motif/spring,motif/time,motif/window,concept/doubt,concept/honour"></span>
 
 
 Then there is a palisade of tables made in the best drawing-room; and
@@ -79343,7 +79343,7 @@ be the end of it?”
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_04" data-title="Dombey and Son — Chapter 59 (part 4)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_04" data-title="Dombey and Son — Chapter 59 (part 4)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="motif/bells,motif/home,motif/journey,motif/leaves,motif/night,motif/soul,motif/time,motif/well,concept/history,form/history,setting/castle"></span>
 
 
 “I know what’s to be the end of it, as far as I am concerned,” replies
@@ -79479,7 +79479,7 @@ him, unknown to all the world but one poor simple woman.
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_05" data-title="Dombey and Son — Chapter 59 (part 5)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_05" data-title="Dombey and Son — Chapter 59 (part 5)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,motif/childhood,motif/dawn,motif/dust,motif/grave,motif/home,motif/marriage,motif/memory,motif/nature,motif/night,motif/soul,motif/time,motif/wind,concept/despair,concept/doubt,concept/hope,concept/loneliness,concept/melancholy,concept/nature,concept/pride,concept/purification,concept/self"></span>
 
 
 The Major knows it; but no one is the wiser for that, though the Major
@@ -79584,7 +79584,7 @@ another [[Night|night]], and in the [[Night|night]] to ramble through the rooms 
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_06" data-title="Dombey and Son — Chapter 59 (part 6)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_06" data-title="Dombey and Son — Chapter 59 (part 6)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/blood,motif/death,motif/love,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/pride,concept/solitude,concept/suffering,concept/wonder,character/bottom"></span>
 
 
 He came out of his [[Solitude|solitude]] when it was the dead of [[Night|night]], and with a
@@ -79695,7 +79695,7 @@ murderous that hand looked.
 
 
 
-<span class="atom-split" data-atom="chapter_87--part_07" data-title="Dombey and Son — Chapter 59 (part 7)" data-chapter="Chapter 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_87--part_07" data-title="Dombey and Son — Chapter 59 (part 7)" data-chapter="Chapter 87" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/blood,motif/home,motif/love,motif/night,motif/rose,motif/soul,motif/tears,motif/time,motif/well,concept/forgiveness,concept/honour,concept/hope,concept/madness"></span>
 
 
 Now it was thinking again! What was it thinking?
@@ -79881,7 +79881,7 @@ this desirable Family Mansion was to be disposed of.
 
 
 
-<span class="atom-split" data-atom="chapter_88--part_01" data-title="Dombey and Son — Chapter 60 (part 1)" data-chapter="Chapter 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_88--part_01" data-title="Dombey and Son — Chapter 60 (part 1)" data-chapter="Chapter 88" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/marriage,motif/time,motif/well,motif/window,concept/honour"></span>
 
 
 CHAPTER LX.
@@ -79997,7 +79997,7 @@ Mr Feeder, B.A., into a [[Window|window]].
 
 
 
-<span class="atom-split" data-atom="chapter_88--part_02" data-title="Dombey and Son — Chapter 60 (part 2)" data-chapter="Chapter 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_88--part_02" data-title="Dombey and Son — Chapter 60 (part 2)" data-chapter="Chapter 88" data-kind="excerpt" data-tags="motif/desire,motif/flowers,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/friendship,concept/honour,concept/hope,concept/union"></span>
 
 
 Mr Feeder, B.A., being in great spirits, made a spar at Mr Toots, and
@@ -80138,7 +80138,7 @@ post-chaise, with the man of her heart.
 
 
 
-<span class="atom-split" data-atom="chapter_88--part_03" data-title="Dombey and Son — Chapter 60 (part 3)" data-chapter="Chapter 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_88--part_03" data-title="Dombey and Son — Chapter 60 (part 3)" data-chapter="Chapter 88" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/ship,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/melancholy,concept/nature,setting/ship"></span>
 
 
 Mr and Mrs Toots withdrew to the Bedford (Mrs Toots had been there
@@ -80262,7 +80262,7 @@ Cuttle.”
 
 
 
-<span class="atom-split" data-atom="chapter_88--part_04" data-title="Dombey and Son — Chapter 60 (part 4)" data-chapter="Chapter 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_88--part_04" data-title="Dombey and Son — Chapter 60 (part 4)" data-chapter="Chapter 88" data-kind="excerpt" data-tags="archetype/child,motif/marriage,motif/night,motif/spring,motif/time,motif/well,concept/hope,concept/self,setting/court,character/captain_cuttle"></span>
 
 
 The short gentleman in the tall hat, who it appeared was the husband of
@@ -80412,7 +80412,7 @@ paving-stone in the [[Court|court]], greatly flushed, and loudly lamenting.
 
 
 
-<span class="atom-split" data-atom="chapter_88--part_05" data-title="Dombey and Son — Chapter 60 (part 5)" data-chapter="Chapter 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_88--part_05" data-title="Dombey and Son — Chapter 60 (part 5)" data-chapter="Chapter 88" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/love,motif/marriage,motif/tears,concept/faith,concept/fear,setting/london,character/nurse"></span>
 
 
 The procession being then in a condition to form itself once more, and
@@ -80476,7 +80476,7 @@ you’ll remember the medical man, and not exert yourself too much!”
 
 
 
-<span class="atom-split" data-atom="chapter_89--part_01" data-title="Dombey and Son — Chapter 61 (part 1)" data-chapter="Chapter 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_89--part_01" data-title="Dombey and Son — Chapter 61 (part 1)" data-chapter="Chapter 89" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/grave,motif/leaves,motif/love,motif/night,motif/rose,motif/summer,motif/tears,motif/time,motif/window,concept/body"></span>
 
 
 CHAPTER LXI.
@@ -80595,7 +80595,7 @@ of some peculiarity in his legs, and was only stopped by the table.
 
 
 
-<span class="atom-split" data-atom="chapter_89--part_02" data-title="Dombey and Son — Chapter 61 (part 2)" data-chapter="Chapter 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_89--part_02" data-title="Dombey and Son — Chapter 61 (part 2)" data-chapter="Chapter 89" data-kind="excerpt" data-tags="archetype/innocent,motif/leaves,motif/love,motif/marriage,motif/storm,motif/time,motif/well,motif/window,concept/honour,concept/pride,concept/wonder,setting/london"></span>
 
 
 Florence then remembered Cousin Feenix, whom she had not at first
@@ -80720,7 +80720,7 @@ rested on her.
 
 
 
-<span class="atom-split" data-atom="chapter_89--part_03" data-title="Dombey and Son — Chapter 61 (part 3)" data-chapter="Chapter 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_89--part_03" data-title="Dombey and Son — Chapter 61 (part 3)" data-chapter="Chapter 89" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/marriage,motif/memory,motif/rose,motif/silence,motif/summer,motif/tears,motif/time,motif/window,concept/doubt,concept/fear,concept/forgiveness,concept/hope,concept/pride,concept/wonder,setting/london"></span>
 
 
 “I will leave,” said Cousin Feenix, “a card for my friend Dombey,
@@ -80851,7 +80851,7 @@ help doing this (if it is wrong), when I remember what you used to be!”
 
 
 
-<span class="atom-split" data-atom="chapter_89--part_04" data-title="Dombey and Son — Chapter 61 (part 4)" data-chapter="Chapter 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_89--part_04" data-title="Dombey and Son — Chapter 61 (part 4)" data-chapter="Chapter 89" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/love,motif/soul,motif/time,concept/honour,concept/hope,concept/truth,setting/italy,setting/london"></span>
 
 
 Edith, as if she fell beneath her touch, sunk down on her knees, and
@@ -80970,7 +80970,7 @@ shall say to him from you?”
 
 
 
-<span class="atom-split" data-atom="chapter_89--part_05" data-title="Dombey and Son — Chapter 61 (part 5)" data-chapter="Chapter 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_89--part_05" data-title="Dombey and Son — Chapter 61 (part 5)" data-chapter="Chapter 89" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/grave,motif/love,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/eternity,concept/honour,concept/hope,concept/nature"></span>
 
 
 “Did you tell me,” asked Edith, “that you were very dear to him?”
@@ -81080,7 +81080,7 @@ acquainted—that its like the [[Shadow|shadow]] of [[A Dream|a dream]].”
 
 
 
-<span class="atom-split" data-atom="chapter_90--part_01" data-title="Dombey and Son — Chapter 62 (part 1)" data-chapter="Chapter 90" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_90--part_01" data-title="Dombey and Son — Chapter 62 (part 1)" data-chapter="Chapter 90" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/desire,motif/dust,motif/home,motif/marriage,motif/ship,motif/storm,motif/time,motif/well,concept/doubt,concept/history,concept/pride,concept/suffering,concept/truth,form/history,setting/london,setting/ship,character/captain_cuttle"></span>
 
 
 CHAPTER LXII.
@@ -81213,7 +81213,7 @@ ever so many more!”
 
 
 
-<span class="atom-split" data-atom="chapter_90--part_02" data-title="Dombey and Son — Chapter 62 (part 2)" data-chapter="Chapter 90" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_90--part_02" data-title="Dombey and Son — Chapter 62 (part 2)" data-chapter="Chapter 90" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/dust,motif/home,motif/memory,motif/night,motif/rose,motif/time,motif/well,concept/honour,setting/london,character/chorus,character/lord_mayor"></span>
 
 
 “Thank’ee, Captain Gills,” says the delighted Mr Toots. “I echo the
@@ -81341,7 +81341,7 @@ in his, and holding it, forgets to answer. Then the [[Child|child]] says:
 
 
 
-<span class="atom-split" data-atom="chapter_90--part_03" data-title="Dombey and Son — Chapter 62 (part 3)" data-chapter="Chapter 90" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_90--part_03" data-title="Dombey and Son — Chapter 62 (part 3)" data-chapter="Chapter 90" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/love,motif/nature,motif/night,motif/river,motif/sleep,motif/window,motif/winter,concept/hope,concept/nature,setting/mountains,setting/paris,character/captain_cuttle"></span>
 
 
 And so they range away again, busily, for the white-haired gentleman

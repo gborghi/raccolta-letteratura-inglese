@@ -331,7 +331,7 @@ DURING THE YEARS 1881-1884
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE PARASITE (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE PARASITE (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/mesmerism,character/agatha_marden,character/austin_gilroy,character/miss_penclosa"></span>
 
 
 THE PARASITE
@@ -436,7 +436,7 @@ And why should I not investigate it? I see that under yesterday’s date I said:
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE PARASITE (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE PARASITE (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/mesmerism,character/austin_gilroy,character/miss_penclosa"></span>
 
 
 II
@@ -507,7 +507,7 @@ Let me try to reason it out! This woman, by her own explanation, can dominate my
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="THE PARASITE (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="THE PARASITE (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="character/miss_penclosa"></span>
 
 
 III
@@ -584,7 +584,7 @@ But she has left a weight upon my heart. Vague presentiments of coming misfortun
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="THE PARASITE (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="THE PARASITE (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="character/miss_penclosa"></span>
 
 
 IV

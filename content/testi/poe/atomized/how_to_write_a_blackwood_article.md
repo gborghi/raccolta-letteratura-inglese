@@ -833,7 +833,7 @@ the substance and result.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="How to Write a Blackwood Article (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="How to Write a Blackwood Article (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/soul,motif/well,concept/truth,concept/wonder,character/queen"></span>
 
 
 “In the name of the [[Prophet]]—figs!!”
@@ -1025,7 +1025,7 @@ composition. This method is very simple, but not so much so as
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="How to Write a Blackwood Article (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="How to Write a Blackwood Article (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/sleep,motif/soul,motif/water,motif/well,concept/body,concept/faith,concept/history,concept/imagination,concept/truth,form/history"></span>
 
 
 the politics. Upon my calling at Mr. B.‘s, and making known to
@@ -1225,7 +1225,7 @@ And never a paragraph.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="How to Write a Blackwood Article (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="How to Write a Blackwood Article (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/memory,motif/nature,motif/river,motif/soul,motif/well,concept/nature,form/novel,form/tragedy"></span>
 
 
 Some of our best novelists patronize this tone. The words must be
@@ -1431,7 +1431,7 @@ French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="How to Write a Blackwood Article (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="How to Write a Blackwood Article (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,archetype/villain,motif/death,motif/tears,motif/well,concept/hope,form/translation,character/diana,character/pompey"></span>
 
 
 only your knowledge of the language, but your general reading and

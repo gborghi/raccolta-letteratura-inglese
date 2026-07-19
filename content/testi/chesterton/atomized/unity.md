@@ -88,7 +88,7 @@ of the [[Nancy]] Bell» di Gilbert.]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="unity (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="unity (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/nancy"></span>
 
 
 THE HIGHER [[unity|UNITY]]  

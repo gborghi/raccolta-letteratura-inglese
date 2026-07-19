@@ -147,7 +147,7 @@ attraverso la [[Snow|neve]] e la pioggia.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="the_wise_men (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="the_wise_men (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/hill,motif/lion,motif/moon,motif/road,motif/snow,concept/eternity,concept/honour,concept/mercy,concept/truth"></span>
 
 
 # the wise men

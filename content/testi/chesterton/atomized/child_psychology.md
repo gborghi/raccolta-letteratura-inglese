@@ -142,7 +142,7 @@ or other normal amusements of mankind.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Child (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Child (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/lover,motif/dance,motif/desert,motif/garden,motif/moon,concept/education,concept/imagination,concept/sublime,form/essay,form/novel,setting/desert,setting/london"></span>
 
 
 [[Child]] Psychology and Nonsense
@@ -285,7 +285,7 @@ Tutto in ciò è poetico; dalla scura figura ultraterrena dell'uomo del [[Desert
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Child (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Child (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,concept/beauty"></span>
 
 
 Our fathers added a touch of [[Beauty|beauty]] to all practical things, so they

@@ -1556,7 +1556,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Coriolanus — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/city,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/moon,motif/nature,motif/noon,motif/time,motif/well,concept/body,concept/doubt,concept/greatness,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -1693,7 +1693,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Coriolanus — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Coriolanus — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/blood,motif/city,motif/love,motif/night,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/truth,character/aufidius,character/cominius,character/coriolanus,character/hector,character/ulysses,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -1747,7 +1747,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Coriolanus — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Coriolanus — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/horse,concept/fear,character/aufidius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1782,7 +1782,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Coriolanus — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Coriolanus — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/city,motif/home,motif/jewel,motif/wind,concept/fear,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1809,7 +1809,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_6" data-title="Coriolanus — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_6" data-title="Coriolanus — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/blood,motif/city,motif/love,motif/soul,motif/well,character/aufidius,character/cominius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1834,7 +1834,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_7" data-title="Coriolanus — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_7" data-title="Coriolanus — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/blood,motif/death,motif/love,motif/time,motif/well,motif/wheel,concept/doubt,concept/exile,concept/fear,concept/hope,concept/truth,character/aufidius,character/cominius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1876,7 +1876,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_8" data-title="Coriolanus — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_8" data-title="Coriolanus — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="concept/fear,character/cominius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1892,7 +1892,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_9" data-title="Coriolanus — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_9" data-title="Coriolanus — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,concept/revenge,character/aufidius,character/coriolanus,character/hector"></span>
 
 
 | Speaker | Line |
@@ -1911,7 +1911,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_10" data-title="Coriolanus — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_10" data-title="Coriolanus — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/blood,motif/city,motif/death,motif/grave,motif/memory,motif/silence,motif/tears,motif/time,motif/well,motif/wind,concept/freedom,character/aufidius,character/cominius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1943,7 +1943,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_11" data-title="Coriolanus — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_11" data-title="Coriolanus — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/city,motif/home,motif/journey,motif/sleep,concept/honour,concept/mercy,character/aufidius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -1958,7 +1958,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Coriolanus — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Coriolanus — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/city,motif/crown,motif/death,motif/desire,motif/fire,motif/flag,motif/grave,motif/home,motif/horse,motif/lamb,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/prayer,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/doubt,concept/faith,concept/honour,concept/humility,concept/nature,concept/pride,concept/truth,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/nurse,character/sicinius,character/tarquin,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -2071,7 +2071,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Coriolanus — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Coriolanus — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/death,motif/desire,motif/grave,motif/home,motif/leaves,motif/love,motif/time,motif/well,concept/body,concept/faith,concept/honour,concept/hope,concept/self,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/tarquin"></span>
 
 
 | Speaker | Line |
@@ -2131,7 +2131,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Coriolanus — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Coriolanus — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/monster,motif/desert,motif/desire,motif/dust,motif/love,motif/nature,motif/time,motif/water,motif/well,concept/body,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/humility,concept/nature,concept/pride,concept/truth,setting/desert,character/brutus,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -2242,7 +2242,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Coriolanus — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Coriolanus — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/monster,motif/blood,motif/city,motif/death,motif/decay,motif/desire,motif/dust,motif/grave,motif/home,motif/love,motif/nature,motif/poison,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/nature,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -2441,7 +2441,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Coriolanus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/home,motif/love,motif/nature,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/courage,concept/despair,concept/exile,concept/fear,concept/honour,concept/mercy,concept/nature,concept/pride,concept/truth,concept/wonder,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -2573,7 +2573,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Coriolanus — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Coriolanus — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/home,motif/tears,motif/time,motif/well,concept/courage,character/cominius,character/coriolanus,character/menenius,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -2595,7 +2595,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Coriolanus — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Coriolanus — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/home,motif/love,motif/well,character/brutus,character/coriolanus,character/menenius,character/sicinius,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -2641,7 +2641,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Coriolanus — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Coriolanus — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/home,motif/journey,motif/time,motif/well,concept/hope,character/aufidius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -2670,7 +2670,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Coriolanus — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Coriolanus — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,motif/city,motif/love,motif/night,motif/sleep,character/aufidius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -2692,7 +2692,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Coriolanus — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Coriolanus — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/city,motif/death,motif/leaves,motif/love,motif/memory,motif/moon,motif/night,motif/sleep,motif/well,concept/body,concept/faith,concept/hope,concept/revenge,concept/truth,character/aufidius,character/bottom,character/coriolanus,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2802,7 +2802,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Coriolanus — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Coriolanus — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/city,motif/fire,motif/home,motif/nature,motif/prison,motif/summer,motif/time,motif/well,concept/exile,concept/faith,concept/fear,concept/mercy,concept/nature,concept/pride,concept/revenge,concept/self,concept/truth,character/aufidius,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius"></span>
 
 
 | Speaker | Line |
@@ -2898,7 +2898,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Coriolanus — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Coriolanus — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/nature,concept/pride,character/aufidius,character/coriolanus"></span>
 
 
 | Speaker | Line |
@@ -2916,7 +2916,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Coriolanus — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Coriolanus — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,motif/blood,motif/fire,motif/home,motif/love,motif/memory,motif/moon,motif/road,motif/time,motif/well,concept/faith,concept/hope,concept/mercy,character/brutus,character/cominius,character/coriolanus,character/menenius,character/sicinius,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2950,7 +2950,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Coriolanus — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Coriolanus — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/lover,motif/blood,motif/city,motif/death,motif/fire,motif/home,motif/love,motif/poison,motif/water,motif/well,motif/wind,concept/faith,concept/greatness,concept/revenge,concept/suffering,character/aufidius,character/coriolanus,character/menenius"></span>
 
 
 | Speaker | Line |
@@ -2998,7 +2998,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Coriolanus — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Coriolanus — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/city,motif/dance,motif/desire,motif/frost,motif/home,motif/love,motif/moon,motif/nature,motif/snow,motif/stars,motif/time,concept/exile,concept/fear,concept/honour,concept/mercy,concept/nature,concept/pride,concept/revenge,setting/italy,character/aufidius,character/coriolanus,character/nurse,character/queen,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -3057,7 +3057,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Coriolanus — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/horse,motif/time,motif/well,concept/doubt,concept/eternity,concept/hope,concept/mercy,character/coriolanus,character/menenius,character/sicinius,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |
@@ -3100,7 +3100,7 @@ The [[Tragedy]] of [[Coriolanus]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Coriolanus — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/city,motif/dance,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/charity,concept/honour,concept/jealousy,concept/nature,concept/pride,concept/self,concept/suffering,concept/truth,form/masque,setting/court,character/aufidius,character/autolycus,character/chorus,character/coriolanus,character/cymbeline,character/emilia,character/florizel,character/hermione,character/leontes,character/nurse,character/oberon,character/paulina,character/perdita,character/polixenes"></span>
 
 
 | Speaker | Line |

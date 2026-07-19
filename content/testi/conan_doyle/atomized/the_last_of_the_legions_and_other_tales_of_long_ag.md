@@ -660,7 +660,7 @@ THE TERROR OF BLUE JOHN GAP
 
 
 
-<span class="atom-split" data-atom="story_01_the_last_of_the_legions" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE LAST OF THE LEGIONS" data-chapter="THE LAST OF THE LEGIONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_last_of_the_legions" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE LAST OF THE LEGIONS" data-chapter="THE LAST OF THE LEGIONS" data-kind="story" data-tags="concept/empire_and_imperialism,concept/order_vs_chaos,form/short_story,histref/ancient_rome,setting/england"></span>
 
 
 THE LAST OF THE LEGIONS
@@ -728,7 +728,7 @@ And even as he said, so was it, for before the spring had ripened into summer, t
 
 
 
-<span class="atom-split" data-atom="story_02_the_last_galley" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE LAST GALLEY" data-chapter="THE LAST GALLEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_last_galley" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE LAST GALLEY" data-chapter="THE LAST GALLEY" data-kind="story" data-tags="topos/sic_transit_gloria_mundi,motif/ship,motif/sea,motif/chains,concept/war_and_its_cost,form/short_story,histref/punic_wars,histref/carthage"></span>
 
 
 THE LAST GALLEY
@@ -777,7 +777,7 @@ For in that year a great cloud hung for seventeen days over the African coast, a
 
 
 
-<span class="atom-split" data-atom="story_03_through_the_veil" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THROUGH THE VEIL" data-chapter="THROUGH THE VEIL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_through_the_veil" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THROUGH THE VEIL" data-chapter="THROUGH THE VEIL" data-kind="story" data-tags="motif/supernatural,motif/ruins,concept/the_supernatural,concept/the_uncanny,concept/eternal_return,form/short_story,histref/roman_history,setting/scotland"></span>
 
 
 THROUGH THE VEIL
@@ -827,7 +827,7 @@ They never talk about that strange isolated incident in their married life. For 
 
 
 
-<span class="atom-split" data-atom="story_04_the_coming_of_the_huns" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE COMING OF THE HUNS" data-chapter="THE COMING OF THE HUNS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_coming_of_the_huns" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE COMING OF THE HUNS" data-chapter="THE COMING OF THE HUNS" data-kind="story" data-tags="concept/heresy_and_schism,concept/religious_sectarianism,concept/fanaticism,concept/asceticism,concept/religious_persecution,form/short_story,histref/christianity"></span>
 
 
 THE COMING OF THE HUNS
@@ -875,7 +875,7 @@ But the hermit could only point at the rising sun. “To arms!” he croaked. �
 
 
 
-<span class="atom-split" data-atom="story_05_the_contest" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE CONTEST" data-chapter="THE CONTEST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_contest" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE CONTEST" data-chapter="THE CONTEST" data-kind="story" data-tags="archetype/tyrant,archetype/artist,motif/music_and_song,concept/the_artist_and_society,form/short_story,histref/ancient_rome,setting/ancient_greece"></span>
 
 
 THE CONTEST
@@ -905,7 +905,7 @@ The cloud cleared from Nero’s brow. “Of course, Arsenius! You are right! No 
 
 
 
-<span class="atom-split" data-atom="story_06_the_first_cargo" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE FIRST CARGO" data-chapter="THE FIRST CARGO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_first_cargo" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE FIRST CARGO" data-chapter="THE FIRST CARGO" data-kind="story" data-tags="motif/ship,form/epistle,form/short_story,histref/roman_history,setting/england"></span>
 
 
 THE FIRST CARGO
@@ -933,7 +933,7 @@ His eyes sparkled as he gazed. “Perhaps,” he cried; and then suddenly correc
 
 
 
-<span class="atom-split" data-atom="story_07_an_iconoclast" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — AN ICONOCLAST" data-chapter="AN ICONOCLAST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_an_iconoclast" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — AN ICONOCLAST" data-chapter="AN ICONOCLAST" data-kind="story" data-tags="motif/wine_and_drink,concept/slavery,concept/beauty,form/short_story,histref/ancient_rome,setting/ancient_rome"></span>
 
 
 AN ICONOCLAST
@@ -995,7 +995,7 @@ Emilius Flaccus wiped the sweat from his brow. “He is yours, great Cæsar. Do 
 
 
 
-<span class="atom-split" data-atom="story_08_giant_maximin" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — GIANT MAXIMIN" data-chapter="GIANT MAXIMIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_giant_maximin" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — GIANT MAXIMIN" data-chapter="GIANT MAXIMIN" data-kind="story" data-tags="topos/fortunes_wheel,archetype/self_made_man,concept/ambition,concept/self_made_man_theme,concept/greatness,form/short_story,histref/roman_history,setting/ancient_rome"></span>
 
 
 GIANT MAXIMIN
@@ -1087,7 +1087,7 @@ I sit in my study, and upon the table before me lies a denarius of Maximin, as f
 
 
 
-<span class="atom-split" data-atom="story_09_the_red_star" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE RED STAR" data-chapter="THE RED STAR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_red_star" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE RED STAR" data-chapter="THE RED STAR" data-kind="story" data-tags="motif/stars,motif/desert,concept/superstition_and_omen,form/short_story,histref/islam,setting/the_orient"></span>
 
 
 THE RED STAR
@@ -1124,7 +1124,7 @@ The night was cool, the light was soothing, and the three men talked freely, let
 
 
 
-<span class="atom-split" data-atom="story_10_the_silver_mirror" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE SILVER MIRROR" data-chapter="THE SILVER MIRROR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_silver_mirror" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE SILVER MIRROR" data-chapter="THE SILVER MIRROR" data-kind="story" data-tags="motif/mirror,motif/eyes_sight,motif/ghosts,concept/the_supernatural,concept/the_uncanny,concept/perception_and_consciousness,form/short_story"></span>
 
 
 THE SILVER MIRROR
@@ -1170,7 +1170,7 @@ Later. — He has just left me. Let me set down his words as closely as I can re
 
 
 
-<span class="atom-split" data-atom="story_11_the_home_coming" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_home_coming" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="story" data-tags="archetype/fallen_woman,motif/sea_and_voyage,motif/journey,concept/the_fallen_woman,concept/family_and_lineage,form/short_story,setting/the_city"></span>
 
 
 THE HOME-COMING
@@ -1256,7 +1256,7 @@ The old man and the boy hurried in horror from the vault. As they glanced back t
 
 
 
-<span class="atom-split" data-atom="story_12_a_point_of_contact" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — A POINT OF CONTACT" data-chapter="A POINT OF CONTACT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_point_of_contact" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — A POINT OF CONTACT" data-chapter="A POINT OF CONTACT" data-kind="story" data-tags="motif/sea_and_voyage,concept/history,form/short_story,histref/ancient_greece,histref/greek_mythology,character/helen_of_troy,character/hector,character/achilles,character/agamemnon"></span>
 
 
 A POINT OF CONTACT
@@ -1304,7 +1304,7 @@ So he turned and went forth into the darkened streets where his spearmen were aw
 
 
 
-<span class="atom-split" data-atom="story_13_the_centurion" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE CENTURION" data-chapter="THE CENTURION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_centurion" data-title="THE LAST OF THE LEGIONS AND OTHER TALES OF LONG AGO — THE CENTURION" data-chapter="THE CENTURION" data-kind="story" data-tags="motif/fire,concept/war_and_its_cost,form/short_story,form/letter,histref/ancient_rome,histref/the_bible,setting/jerusalem,character/christ"></span>
 
 
 THE CENTURION

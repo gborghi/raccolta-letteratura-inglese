@@ -5604,7 +5604,7 @@ has rather increased than diminished.
 
 
 
-<span class="atom-split" data-atom="story_01_the_case_for_the_ephemeral_ephemeral" data-title="AllThingsConsidered-8 — THE CASE FOR THE EPHEMERAL" data-chapter="THE CASE FOR THE ephemeral EPHEMERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_case_for_the_ephemeral_ephemeral" data-title="AllThingsConsidered-8 — THE CASE FOR THE EPHEMERAL" data-chapter="THE CASE FOR THE ephemeral EPHEMERAL" data-kind="story" data-tags="archetype/tyrant,motif/dance,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/democracy,concept/mercy,concept/nature,concept/pride,concept/suffering,form/epigram,histref/catholic_church,histref/french_revolution,histref/puritanism,setting/germany,setting/paris"></span>
 
 
 THE CASE FOR THE [[ephemeral|EPHEMERAL]]
@@ -5794,7 +5794,7 @@ L'ultima accusa contro questo libro è la peggiore di tutte. È semplicemente qu
 
 
 
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_01" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 1)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/home,motif/lamb,motif/leaves,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/democracy,concept/mercy,concept/nature,concept/paradox,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,character/mermaid"></span>
 
 
 [[cockneys|COCKNEYS]] AND THEIR JOKES
@@ -5905,7 +5905,7 @@ Credo fermamente nel valore di tutte le nozioni volgari, e specialmente delle fa
 
 
 
-<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_cockneys_cockneys_and_their_jokes--part_02" data-title="AllThingsConsidered-8 — COCKNEYS AND THEIR JOKES (part 2)" data-chapter="cockneys COCKNEYS AND THEIR JOKES" data-kind="excerpt" data-tags="archetype/monster,motif/love,motif/marriage,motif/time,motif/well,motif/wind,concept/democracy,concept/grotesque,concept/truth"></span>
 
 
 Quite equally subtle and spiritual is the idea at the back
@@ -6061,7 +6061,7 @@ Ma c'è un altro caso più piacevole e più attuale. I giornali popolari si osti
 
 
 
-<span class="atom-split" data-atom="story_03_the_fallacy_of_success_success" data-title="AllThingsConsidered-8 — THE FALLACY OF SUCCESS" data-chapter="THE FALLACY OF success SUCCESS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_fallacy_of_success_success" data-title="AllThingsConsidered-8 — THE FALLACY OF SUCCESS" data-chapter="THE FALLACY OF success SUCCESS" data-kind="story" data-tags="archetype/king,motif/desire,motif/leaves,motif/love,motif/rose,motif/soul,motif/time,motif/wind,concept/doubt,concept/hope,concept/mercy,concept/pride,concept/suicide,concept/truth,histref/america,histref/christianity,setting/america,character/bottom"></span>
 
 
 THE FALLACY OF [[success|SUCCESS]]
@@ -6317,7 +6317,7 @@ per le sue virtù, ma dichiaratamente per i suoi vizi?
 
 
 
-<span class="atom-split" data-atom="story_04_on_running_after_one_s_hat" data-title="AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT" data-chapter="ON RUNNING AFTER ONE S HAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_running_after_one_s_hat" data-title="AllThingsConsidered-8 — ON RUNNING AFTER ONE'S HAT" data-chapter="ON RUNNING AFTER ONE S HAT" data-kind="story" data-tags="archetype/king,motif/fire,motif/love,motif/moon,motif/pain,motif/road,motif/soul,motif/water,motif/well,concept/doubt,concept/wonder,setting/london,setting/venice"></span>
 
 
 ON RUNNING AFTER ONE'S HAT
@@ -6565,7 +6565,7 @@ l'[[Water|acqua]] è buona con ogni cosa tranne che col vino.
 
 
 
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_01" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/decay,motif/hill,motif/silence,motif/time,motif/well,concept/doubt,setting/cathedral,character/nurse"></span>
 
 
 THE VOTE AND THE [[house|HOUSE]]
@@ -6698,7 +6698,7 @@ La maggioranza delle persone raffinate dei nostri giorni si può generalmente ud
 
 
 
-<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vote_and_the_house_house--part_02" data-title="AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 2)" data-chapter="THE VOTE AND THE house HOUSE" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/love,motif/nature,concept/nature,concept/reform,histref/inquisition,setting/court"></span>
 
 
 If it is true that the Commons' [[house|House]] will not hold all the Commons,
@@ -6801,7 +6801,7 @@ E lo stesso avviene nei rapporti tra un'anomalia e la mente logica. Il pessimist
 
 
 
-<span class="atom-split" data-atom="story_06_conceit_and_caricature" data-title="AllThingsConsidered-8 — CONCEIT AND CARICATURE" data-chapter="CONCEIT AND CARICATURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_conceit_and_caricature" data-title="AllThingsConsidered-8 — CONCEIT AND CARICATURE" data-chapter="CONCEIT AND CARICATURE" data-kind="story" data-tags="archetype/innocent,motif/blood,motif/desert,motif/desire,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/wind,concept/charity,concept/fear,concept/nature,concept/pride,concept/self,concept/survival,concept/truth,concept/vanity,form/satire,histref/america,histref/renaissance,setting/america,setting/desert"></span>
 
 
 CONCEIT AND CARICATURE
@@ -6997,7 +6997,7 @@ Affine a questa questione è quella consimile su cui tanto spesso udiamo un [[In
 
 
 
-<span class="atom-split" data-atom="story_07_patriotism_and_sport" data-title="AllThingsConsidered-8 — PATRIOTISM AND SPORT" data-chapter="PATRIOTISM AND SPORT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_patriotism_and_sport" data-title="AllThingsConsidered-8 — PATRIOTISM AND SPORT" data-chapter="PATRIOTISM AND SPORT" data-kind="story" data-tags="motif/soul,motif/well,concept/body,concept/self,concept/truth,form/satire,histref/america,setting/america"></span>
 
 
 PATRIOTISM AND SPORT.
@@ -7173,7 +7173,7 @@ Nell'epoca di Waterloo esisteva un generale atletismo alla buona, alla carlona, 
 
 
 
-<span class="atom-split" data-atom="story_08_an_essay_essay_on_two_cities" data-title="AllThingsConsidered-8 — AN ESSAY ON TWO CITIES" data-chapter="AN Essay ESSAY ON TWO CITIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_an_essay_essay_on_two_cities" data-title="AllThingsConsidered-8 — AN ESSAY ON TWO CITIES" data-chapter="AN Essay ESSAY ON TWO CITIES" data-kind="story" data-tags="archetype/child,archetype/hero,motif/city,motif/cross,motif/home,motif/moon,motif/prison,motif/well,concept/beauty,concept/doubt,concept/education,concept/reform,concept/wonder,form/essay,form/riddle,setting/london,setting/paris,character/buckingham,character/duke_of_buckingham"></span>
 
 
 AN [[Essay|ESSAY]] ON TWO CITIES.
@@ -7319,7 +7319,7 @@ Purtroppo, ho notato in molti aspetti della nostra [[Education|istruzione]] popo
 
 
 
-<span class="atom-split" data-atom="story_09_french_and_english" data-title="AllThingsConsidered-8 — FRENCH AND ENGLISH" data-chapter="FRENCH AND ENGLISH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_french_and_english" data-title="AllThingsConsidered-8 — FRENCH AND ENGLISH" data-chapter="FRENCH AND ENGLISH" data-kind="story" data-tags="topos/golden_age,archetype/fool,archetype/king,archetype/shadow,motif/desire,motif/home,motif/love,motif/soul,motif/time,concept/courage,concept/democracy,concept/freedom,concept/indolence,setting/paris,character/sam_weller"></span>
 
 
 FRENCH AND ENGLISH
@@ -7487,7 +7487,7 @@ Quando mi trovavo a [[Paris|Parigi]] non molto [[Time|tempo]] fa, andai con un m
 
 
 
-<span class="atom-split" data-atom="story_10_the_zola_controversy" data-title="AllThingsConsidered-8 — THE ZOLA CONTROVERSY" data-chapter="THE ZOLA CONTROVERSY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_zola_controversy" data-title="AllThingsConsidered-8 — THE ZOLA CONTROVERSY" data-chapter="THE ZOLA CONTROVERSY" data-kind="story" data-tags="motif/death,motif/flowers,motif/ghosts,motif/grave,motif/night,motif/pain,motif/prison,motif/time,motif/well,concept/body,concept/education,concept/fear,concept/honour,concept/mercy,concept/suicide,concept/truth,form/short_story,setting/battlefield,setting/cathedral"></span>
 
 
 THE ZOLA CONTROVERSY
@@ -7670,7 +7670,7 @@ Questa è, s'intende, l'intera questione di Zola. Sono adulto, e non mi tormento
 
 
 
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_01" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 1)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt" data-tags="motif/road,motif/time,motif/well,concept/education,concept/fear,concept/truth,setting/germany,setting/london,setting/oxford"></span>
 
 
 [[Oxford|OXFORD]] FROM WITHOUT
@@ -7829,7 +7829,7 @@ Naturalmente la [[Truth|verità]] è esattamente come l'ha esposta il Vescovo di
 
 
 
-<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_oxford_oxford_from_without--part_02" data-title="AllThingsConsidered-8 — OXFORD FROM WITHOUT (part 2)" data-chapter="Oxford OXFORD FROM WITHOUT" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/desire,motif/garden,motif/love,motif/soul,motif/stars,motif/time,concept/education,concept/honour,concept/poverty,concept/pride,concept/truth,setting/oxford"></span>
 
 
 To pretend that the [[aristocrat]] meets all classes at [[Oxford]] is too
@@ -7936,7 +7936,7 @@ L'umanità, sognando da sempre una razza felice, libera, fantasiosa e serena, l'
 
 
 
-<span class="atom-split" data-atom="story_12_woman" data-title="AllThingsConsidered-8 — WOMAN" data-chapter="WOMAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_woman" data-title="AllThingsConsidered-8 — WOMAN" data-chapter="WOMAN" data-kind="story" data-tags="motif/dance,motif/desire,motif/flowers,motif/grave,motif/nature,motif/time,concept/fear,concept/nature,concept/suicide,concept/truth,histref/bible,setting/mountains"></span>
 
 
 WOMAN
@@ -8132,7 +8132,7 @@ Ho anch'io le mie piccole idee sulla possibile emancipazione della donna; ma sup
 
 
 
-<span class="atom-split" data-atom="story_13_the_modern_martyr" data-title="AllThingsConsidered-8 — THE MODERN MARTYR" data-chapter="THE MODERN MARTYR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_modern_martyr" data-title="AllThingsConsidered-8 — THE MODERN MARTYR" data-chapter="THE MODERN MARTYR" data-kind="story" data-tags="archetype/fool,motif/chains,motif/crown,motif/death,motif/fire,motif/lion,motif/pain,motif/soul,motif/time,motif/well,concept/ambition,concept/faith,concept/freedom,concept/history,concept/madness,concept/martyrdom,concept/paradox,concept/suffering,concept/truth,form/allegory,form/history,histref/christianity,character/agatha,character/clifford,character/queen,character/witch"></span>
 
 
 THE MODERN MARTYR
@@ -8306,7 +8306,7 @@ Oppure, di nuovo, la cosa potrebbe essere posta in questo modo. I martirî moder
 
 
 
-<span class="atom-split" data-atom="story_14_on_political_secrecy" data-title="AllThingsConsidered-8 — ON POLITICAL SECRECY" data-chapter="ON POLITICAL SECRECY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_on_political_secrecy" data-title="AllThingsConsidered-8 — ON POLITICAL SECRECY" data-chapter="ON POLITICAL SECRECY" data-kind="story" data-tags="archetype/child,archetype/detective,archetype/innocent,archetype/shadow,motif/death,motif/dreams,motif/machine,motif/road,motif/secrets,motif/time,motif/well,concept/courage,concept/democracy,concept/truth,form/novel,setting/germany,setting/london"></span>
 
 
 ON POLITICAL SECRECY
@@ -8658,7 +8658,7 @@ In verità non ci manca nulla, tranne la religione.
 
 
 
-<span class="atom-split" data-atom="story_15_edward_vii_and_scotland" data-title="AllThingsConsidered-8 — EDWARD VII.  AND SCOTLAND" data-chapter="EDWARD VII AND SCOTLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_edward_vii_and_scotland" data-title="AllThingsConsidered-8 — EDWARD VII.  AND SCOTLAND" data-chapter="EDWARD VII AND SCOTLAND" data-kind="story" data-tags="archetype/king,motif/crown,motif/ghosts,motif/time,motif/well,concept/beauty,concept/faith,concept/history,concept/truth,concept/union,form/history,setting/london,setting/oxford"></span>
 
 
 EDWARD VII.  AND SCOTLAND
@@ -9016,7 +9016,7 @@ quelli che pure più facilmente collegavamo alla terra.
 
 
 
-<span class="atom-split" data-atom="story_16_thoughts_around_koepenick" data-title="AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK" data-chapter="THOUGHTS AROUND KOEPENICK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_thoughts_around_koepenick" data-title="AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK" data-chapter="THOUGHTS AROUND KOEPENICK" data-kind="story" data-tags="archetype/king,motif/dance,motif/desire,motif/fire,motif/flag,motif/love,motif/nature,motif/prayer,motif/secrets,motif/time,motif/well,concept/education,concept/nature,setting/germany"></span>
 
 
 THOUGHTS AROUND KOEPENICK
@@ -9213,7 +9213,7 @@ La nostra tendenza, da molti secoli a questa parte, è stata non tanto quella di
 
 
 
-<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="THE BOY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_boy--part_01" data-title="AllThingsConsidered-8 — THE BOY (part 1)" data-chapter="THE BOY" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/death,motif/nature,motif/prison,motif/stars,concept/beauty,concept/doubt,concept/fear,concept/nature,form/epic,setting/germany"></span>
 
 
 THE BOY
@@ -9348,7 +9348,7 @@ Un esempio si può trovare in casi come quello della bravata del ragazzo e della
 
 
 
-<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="THE BOY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_boy--part_02" data-title="AllThingsConsidered-8 — THE BOY (part 2)" data-chapter="THE BOY" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/leaves,motif/time,concept/democracy,concept/doubt,concept/history,concept/truth,form/history"></span>
 
 
 There is another case of the thing that I mean.  Why on earth do
@@ -9458,7 +9458,7 @@ Se qualcuno nutre il minimo [[Doubt|dubbio]] su questa negligenza della [[Truth|
 
 
 
-<span class="atom-split" data-atom="story_18_limericks_and_counsels_of_perfection" data-title="AllThingsConsidered-8 — LIMERICKS AND COUNSELS OF PERFECTION" data-chapter="LIMERICKS AND COUNSELS OF PERFECTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_limericks_and_counsels_of_perfection" data-title="AllThingsConsidered-8 — LIMERICKS AND COUNSELS OF PERFECTION" data-chapter="LIMERICKS AND COUNSELS OF PERFECTION" data-kind="story" data-tags="motif/dawn,motif/death,motif/home,motif/love,motif/nature,motif/prison,motif/silence,motif/time,motif/well,concept/body,concept/democracy,concept/fear,concept/grotesque,concept/guilt,concept/nature,concept/reform,concept/self_sacrifice,concept/sublime,concept/truth,histref/crusades,setting/cathedral"></span>
 
 
 LIMERICKS AND COUNSELS OF PERFECTION
@@ -9629,7 +9629,7 @@ Terzo: farei del mio meglio per introdurre dovunque la pratica degli articoli fi
 
 
 
-<span class="atom-split" data-atom="story_19_anonymity_and_further_counsels" data-title="AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS" data-chapter="ANONYMITY AND FURTHER COUNSELS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_anonymity_and_further_counsels" data-title="AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS" data-chapter="ANONYMITY AND FURTHER COUNSELS" data-kind="story" data-tags="archetype/artist,motif/animals,motif/time,motif/well,concept/democracy,concept/fanaticism,concept/hope"></span>
 
 
 ANONYMITY AND FURTHER COUNSELS
@@ -9776,7 +9776,7 @@ Infine, si dovrebbe imporre in pratica per consuetudine (giacché si dà il caso
 
 
 
-<span class="atom-split" data-atom="story_20_on_the_cryptic_and_the_elliptic" data-title="AllThingsConsidered-8 — ON THE CRYPTIC AND THE ELLIPTIC" data-chapter="ON THE CRYPTIC AND THE ELLIPTIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_the_cryptic_and_the_elliptic" data-title="AllThingsConsidered-8 — ON THE CRYPTIC AND THE ELLIPTIC" data-chapter="ON THE CRYPTIC AND THE ELLIPTIC" data-kind="story" data-tags="motif/crown,motif/flowers,motif/leaves,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/ambition,concept/fear,concept/self,concept/truth,concept/vanity,concept/wonder,histref/french_revolution,histref/milton,setting/london,character/brutus,character/casca,character/mark_antony,character/milton"></span>
 
 
 ON THE CRYPTIC AND THE ELLIPTIC
@@ -10160,7 +10160,7 @@ che riporta un discorso con troppa abilità fa sì che esso non significhi più 
 
 
 
-<span class="atom-split" data-atom="story_21_the_worship_of_the_wealthy" data-title="AllThingsConsidered-8 — THE WORSHIP OF THE WEALTHY" data-chapter="THE WORSHIP OF THE WEALTHY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_worship_of_the_wealthy" data-title="AllThingsConsidered-8 — THE WORSHIP OF THE WEALTHY" data-chapter="THE WORSHIP OF THE WEALTHY" data-kind="story" data-tags="archetype/king,archetype/prophet,motif/crown,motif/death,motif/grave,motif/home,motif/love,motif/well,motif/wheel,concept/fear,concept/self,concept/truth,histref/america,setting/america,character/apollo"></span>
 
 
 THE WORSHIP OF THE WEALTHY
@@ -10309,7 +10309,7 @@ Ma questo procedimento, già abbastanza assurdo quando applicato alla vita ordin
 
 
 
-<span class="atom-split" data-atom="story_22_science_and_religion" data-title="AllThingsConsidered-8 — SCIENCE AND RELIGION" data-chapter="SCIENCE AND RELIGION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_science_and_religion" data-title="AllThingsConsidered-8 — SCIENCE AND RELIGION" data-chapter="SCIENCE AND RELIGION" data-kind="story" data-tags="archetype/ghost,motif/love,motif/nature,concept/faith,concept/honour,concept/immortality,concept/nature,concept/original_sin,concept/paradox,concept/truth"></span>
 
 
 SCIENCE AND RELIGION
@@ -10473,7 +10473,7 @@ Naturalmente la vera [[Truth|verità]] è che la scienza non ha introdotto nella
 
 
 
-<span class="atom-split" data-atom="story_23_the_methuselahite_methuselahite" data-title="AllThingsConsidered-8 — THE METHUSELAHITE" data-chapter="THE methuselahite METHUSELAHITE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_methuselahite_methuselahite" data-title="AllThingsConsidered-8 — THE METHUSELAHITE" data-chapter="THE methuselahite METHUSELAHITE" data-kind="story" data-tags="archetype/tyrant,motif/nature,motif/soul,motif/time,concept/courage,concept/history,concept/nature,concept/paradox,concept/pride,form/history,form/riddle"></span>
 
 
 THE [[methuselahite|METHUSELAHITE]]
@@ -10580,7 +10580,7 @@ Poiché, in verità, la debolezza di questo culto della mera vita naturale (che 
 
 
 
-<span class="atom-split" data-atom="story_24_spiritualism" data-title="AllThingsConsidered-8 — SPIRITUALISM" data-chapter="SPIRITUALISM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_spiritualism" data-title="AllThingsConsidered-8 — SPIRITUALISM" data-chapter="SPIRITUALISM" data-kind="story" data-tags="archetype/fool,motif/birds,motif/grave,motif/love,motif/road,motif/snow,motif/stars,motif/supernatural,motif/time,motif/well,concept/democracy,concept/faith,concept/grotesque,concept/truth,concept/vanity,histref/christianity,histref/french_revolution,character/maria"></span>
 
 
 SPIRITUALISM.
@@ -10742,7 +10742,7 @@ Questa è la vera distinzione fra l'indagine in questo dipartimento e l'indagine
 
 
 
-<span class="atom-split" data-atom="story_25_the_error_of_impartiality" data-title="AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY" data-chapter="THE ERROR OF IMPARTIALITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_error_of_impartiality" data-title="AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY" data-chapter="THE ERROR OF IMPARTIALITY" data-kind="story" data-tags="archetype/fool,motif/well,concept/history,concept/truth,form/history"></span>
 
 
 THE ERROR OF IMPARTIALITY
@@ -10861,7 +10861,7 @@ Non pareva venire in mente a simili polemisti che, se il cardinale Newman era da
 
 
 
-<span class="atom-split" data-atom="story_26_phonetic_spelling" data-title="AllThingsConsidered-8 — PHONETIC SPELLING" data-chapter="PHONETIC SPELLING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_phonetic_spelling" data-title="AllThingsConsidered-8 — PHONETIC SPELLING" data-chapter="PHONETIC SPELLING" data-kind="story" data-tags="motif/city,motif/machine,motif/well,concept/courage,concept/fear,concept/history,concept/reform,concept/sublime,concept/temptation,form/history,setting/court,setting/london"></span>
 
 
 PHONETIC SPELLING
@@ -10997,7 +10997,7 @@ Ecco un caso appena accaduto. Un certo magistrato disse a qualcuno che stava int
 
 
 
-<span class="atom-split" data-atom="story_27_humanitarianism_humanitarianism_and_stre" data-title="AllThingsConsidered-8 — HUMANITARIANISM AND STRENGTH" data-chapter="Humanitarianism HUMANITARIANISM AND STRE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_humanitarianism_humanitarianism_and_stre" data-title="AllThingsConsidered-8 — HUMANITARIANISM AND STRENGTH" data-chapter="Humanitarianism HUMANITARIANISM AND STRE" data-kind="story" data-tags="archetype/shadow,motif/blood,motif/hill,motif/machine,motif/nature,motif/night,motif/time,motif/well,concept/history,concept/imagination,concept/nature,concept/slavery,concept/truth,form/history,histref/america,setting/america,setting/egypt,character/bottom,character/lord_chief_justice,character/robin_hood"></span>
 
 
 [[Humanitarianism|HUMANITARIANISM]] AND STRENGTH
@@ -11204,7 +11204,7 @@ Non posso fare a meno di pensare che vi sia qualche [[Shadow|ombra]] di questo i
 
 
 
-<span class="atom-split" data-atom="story_28_wine_when_it_is_red" data-title="AllThingsConsidered-8 — WINE WHEN IT IS RED" data-chapter="WINE WHEN IT IS RED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_wine_when_it_is_red" data-title="AllThingsConsidered-8 — WINE WHEN IT IS RED" data-chapter="WINE WHEN IT IS RED" data-kind="story" data-tags="archetype/innocent,motif/animals,motif/dust,motif/road,motif/soul,motif/summer,motif/water,concept/body,concept/courage,concept/fear,concept/hope,concept/slavery,concept/truth,histref/christianity"></span>
 
 
 WINE WHEN IT IS RED
@@ -11345,7 +11345,7 @@ Il medico, naturalmente, dovrebbe poter fare molto per frenare quei casi individ
 
 
 
-<span class="atom-split" data-atom="story_29_demagogues_and_mystagogues" data-title="AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES" data-chapter="DEMAGOGUES AND MYSTAGOGUES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_demagogues_and_mystagogues" data-title="AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES" data-chapter="DEMAGOGUES AND MYSTAGOGUES" data-kind="story" data-tags="motif/blood,motif/fire,motif/secrets,motif/tears,motif/time,motif/well,concept/courage,concept/democracy,concept/faith,concept/history,concept/individualism,concept/truth,form/history,character/jones"></span>
 
 
 DEMAGOGUES AND MYSTAGOGUES
@@ -11516,7 +11516,7 @@ L'unica cosa da fare o da dire in risposta, suppongo, sarebbe applicare a nostra
 
 
 
-<span class="atom-split" data-atom="story_30_the_eatanswill_gazette" data-title="AllThingsConsidered-8 — THE &quot;EATANSWILL GAZETTE&quot;" data-chapter="THE EATANSWILL GAZETTE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_eatanswill_gazette" data-title="AllThingsConsidered-8 — THE &quot;EATANSWILL GAZETTE&quot;" data-chapter="THE EATANSWILL GAZETTE" data-kind="story" data-tags="archetype/outsider,motif/city,motif/journey,motif/prison,motif/road,motif/well,concept/body,concept/fear,concept/honour,concept/resurrection,concept/wonder_and_terror,form/novel,form/satire,form/sketch,setting/london,setting/paris,character/oliver_twist,character/sam_weller,character/tony_weller"></span>
 
 
 THE "EATANSWILL GAZETTE."
@@ -11694,7 +11694,7 @@ Devo confessare, tuttavia, che propendo per la parte di Sudbury nella disputa. C
 
 
 
-<span class="atom-split" data-atom="story_31_fairy_tales" data-title="AllThingsConsidered-8 — FAIRY TALES" data-chapter="FAIRY TALES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_fairy_tales" data-title="AllThingsConsidered-8 — FAIRY TALES" data-chapter="FAIRY TALES" data-kind="story" data-tags="archetype/innocent,archetype/king,motif/clock,motif/garden,motif/grave,motif/hill,motif/love,motif/prison,motif/rose,motif/silence,motif/soul,motif/supernatural,motif/well,motif/wind,concept/beauty,concept/doubt,concept/freedom,concept/slavery,concept/wonder,character/dwarf"></span>
 
 
 FAIRY TALES
@@ -11830,7 +11830,7 @@ Questa grande idea, dunque, è la spina dorsale di tutto il folklore: l'idea che
 
 
 
-<span class="atom-split" data-atom="story_32_tom_jones_jones_and_morality_morality" data-title="AllThingsConsidered-8 — TOM JONES AND MORALITY" data-chapter="TOM Jones JONES AND morality MORALITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_tom_jones_jones_and_morality_morality" data-title="AllThingsConsidered-8 — TOM JONES AND MORALITY" data-chapter="TOM Jones JONES AND morality MORALITY" data-kind="story" data-tags="motif/decay,motif/leaves,motif/rose,motif/soul,motif/spring,motif/time,motif/well,concept/courage,concept/freedom,concept/history,concept/melancholy,concept/truth,form/history,character/arthur,character/bottom,character/jones"></span>
 
 
 TOM [[Jones|JONES]] AND [[morality|MORALITY]]
@@ -12014,7 +12014,7 @@ Questa concezione più antica e più salda del giusto come qualcosa che esiste a
 
 
 
-<span class="atom-split" data-atom="story_33_the_maid_of_orleans" data-title="AllThingsConsidered-8 — THE MAID OF ORLEANS" data-chapter="THE MAID OF ORLEANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_maid_of_orleans" data-title="AllThingsConsidered-8 — THE MAID OF ORLEANS" data-chapter="THE MAID OF ORLEANS" data-kind="story" data-tags="archetype/fool,archetype/hero,motif/dreams,motif/leaves,motif/love,motif/nature,motif/night,motif/stars,motif/supernatural,motif/time,concept/doubt,concept/history,concept/nature,concept/unattainable,concept/union,concept/wonder,form/history,histref/christianity,setting/london,character/christ,character/witch"></span>
 
 
 THE MAID OF ORLEANS
@@ -12173,7 +12173,7 @@ Non spetta a noi spiegare questa figura fiammeggiante nei termini della nostra c
 
 
 
-<span class="atom-split" data-atom="story_34_a_dead_poet" data-title="AllThingsConsidered-8 — A DEAD POET" data-chapter="A DEAD POET" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_a_dead_poet" data-title="AllThingsConsidered-8 — A DEAD POET" data-chapter="A DEAD POET" data-kind="story" data-tags="motif/cross,motif/death,motif/memory,motif/time,motif/well,concept/doubt,concept/faith,concept/greatness,concept/truth,concept/union,character/christ"></span>
 
 
 A DEAD POET
@@ -12322,7 +12322,7 @@ Ora, le persone di indole poetica come Francis Thompson, stando così le cose, t
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_01" data-title="AllThingsConsidered-8 — CHRISTMAS (part 1)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_01" data-title="AllThingsConsidered-8 — CHRISTMAS (part 1)" data-chapter="CHRISTMAS" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/dance,motif/home,motif/soul,motif/time,concept/body,histref/america,setting/america,character/sunday"></span>
 
 
 CHRISTMAS
@@ -12455,7 +12455,7 @@ Un altro esempio della stessa illogicità l'ho osservato l'altro giorno a una sp
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_02" data-title="AllThingsConsidered-8 — CHRISTMAS (part 2)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_02" data-title="AllThingsConsidered-8 — CHRISTMAS (part 2)" data-chapter="CHRISTMAS" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/love,motif/nature,motif/ship,motif/soul,motif/time,concept/body,concept/charity,concept/doubt,concept/melancholy,concept/nature,concept/suffering,setting/court,setting/ship,character/bob_cratchit,character/sunday"></span>
 
 
 Let us be consistent, therefore, about Christmas, and either keep
@@ -12568,7 +12568,7 @@ Non è raro oggigiorno che gli estremi folli, nella realtà, si incontrino. Cos�
 
 
 
-<span class="atom-split" data-atom="story_35_christmas--part_03" data-title="AllThingsConsidered-8 — CHRISTMAS (part 3)" data-chapter="CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_christmas--part_03" data-title="AllThingsConsidered-8 — CHRISTMAS (part 3)" data-chapter="CHRISTMAS" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/love,motif/night,motif/well,concept/conscience,concept/doubt"></span>
 
 
 Now, whether torturing an animal is or is not an immoral thing, it is,

@@ -2845,7 +2845,7 @@ He returned. She tottered. And fifty fell into the arms of sixty years. But ther
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Haunted House — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Haunted House — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,motif/home,concept/tradition,concept/family_and_lineage,concept/nostalgia,form/novel,setting/rural_england"></span>
 
 
 CHAPTER I
@@ -2877,7 +2877,7 @@ There was Rackham; and (one would have said) the benediction of God upon it. I k
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Haunted House — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Haunted House — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/family_and_lineage,concept/materialism,concept/tradition,form/novel,setting/rural_england"></span>
 
 
 The first thing that began to threaten such unchangeable things with change was an unaccountable creeping oddity in the relation of income to expenditure. Henry Maple, in the intervals of his reading and his quiet entertainment, heard of it vaguely as “these times.” It might also be called certain new habits of a changing age; rather more travel, a few more visitors, farmers coming shamefacedly and very privately to ask for some small reduction in rent, or rather heavy piece of repair, which was granted as a matter of course; coming again a year or two later to ask for another, which was also granted as a matter of course, but at last with a little misgiving.
@@ -2911,7 +2911,7 @@ William Maple had prospered; he had bought one of the dignified old freehold hou
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Haunted House — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Haunted House — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/greed_and_money,concept/deception,concept/hypocrisy,concept/family_and_lineage,concept/economics,form/novel,setting/rural_england"></span>
 
 
 “Henry will never marry again,” she had said. “The longer he keeps that place the more it will go to pieces. I don’t believe that boy, John, will come to any good with it. He’s a nice bright child and I am as fond of him as you are; but I see what the end of it will be.”
@@ -2963,7 +2963,7 @@ What had floated in Henry’s mind for so long was a fixed figure in large print
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Haunted House — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Haunted House — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/greed_and_money,concept/deception,concept/self_deception,concept/family_and_lineage,form/novel"></span>
 
 
 “Yes,” he said gently, looking up a little timidly, “yes, William, I am sure you’re right. I’ll look up my figures.” He had not an idea where they were, nor whether he had them all. “£17,324. I’m sure you are right.”
@@ -3015,7 +3015,7 @@ There was a very long silence. By the end of it the elder brother had taken one 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Haunted House — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Haunted House — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/great_house,concept/economics,concept/family_and_lineage,concept/tradition,concept/self_deception,concept/nostalgia,form/novel"></span>
 
 
 He simply said:
@@ -3059,7 +3059,7 @@ And that was the way in which Rackham began its fourth transfer — but, after a
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Haunted House — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Haunted House — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/great_house,concept/family_and_lineage,concept/war_and_its_cost,concept/mortality,concept/self_deception,concept/nostalgia,form/novel,histref/first_world_war,histref/battle_of_the_marne"></span>
 
 
 CHAPTER II
@@ -3093,7 +3093,7 @@ The shock fell on a man much nearer death than either he or his child had imagin
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Haunted House — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Haunted House — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/great_house,concept/family_and_lineage,concept/greed_and_money,concept/deception,concept/hypocrisy,concept/mortality,concept/economics,form/novel"></span>
 
 
 But there was a good side even to that, and it put some light into the mind of the dying man — for dying he now was, though slowly. After all, John was the heir. William had died childless. John was the heir: not only to dear Rackham and its impoverished fields, but to that solid fortune which William had created — always subject, of course, to Hilda’s life-rights: that was only just.
@@ -3133,7 +3133,7 @@ Such men postpone: but now there could be no postponement. He spoke to the boy.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Haunted House — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Haunted House — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/great_house,motif/home,concept/family_and_lineage,concept/death,concept/grief_and_loss,concept/economics,form/novel"></span>
 
 
 “Yes, Papa,” said John. He took his father’s hand where it lay upon the rug of the invalid chair, as a woman might have done. “But you will get better.”
@@ -3215,7 +3215,7 @@ And next morning young John Maple, waking late, alarmed that his father had not 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Haunted House — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Haunted House — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/decay"></span>
 
 
 * * *
@@ -3267,7 +3267,7 @@ It was not a courteous beginning in her ears, for she felt she was being enormou
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Haunted House — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Haunted House — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/great_house,concept/family_and_lineage,concept/greed_and_money,concept/aspiration,concept/appearance_vs_reality,concept/deception,concept/tradition,form/novel,setting/london"></span>
 
 
 “Good heavens, boy! Do you understand that you’re not yet nineteen. D’you think you are of age? What can one do with three … really, I don’t understand what you mean!”
@@ -3319,7 +3319,7 @@ At his age 20,000 is like a million, but at his age, also, a million may be foun
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Haunted House — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Haunted House — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 CHAPTER III
@@ -3349,7 +3349,7 @@ Now Hamilcar, being an American, knew all about such things. The Press of his na
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Haunted House — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Haunted House — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/self_made_man,concept/satire_of_society,concept/power_and_corruption,concept/materialism,concept/romantic_love,form/novel,form/satire"></span>
 
 
 The next attack was delivered in his club. It was delivered by an old gentleman who had bothered him about a lot of other things. This cadger was (to change the metaphor) deftly cut through the slips. But the third attack came, only two days later, in the shape of a florid young man in the Government, with whom he got on like a house on fire. It was quite late in the evening during a party in Merton Street, when this under-secretary suddenly asked him whether he would meet yet another politician at lunch next day. Hellup very foolishly consented; and there suffered a most brutal hammering, a torture of direct insistence that he should pay. But there was plenty of hard wood in Hamilcar Hellup, and he stood firm. There was nothing doing.
@@ -3385,7 +3385,7 @@ It had amused the Little God to bring Bo up against John Maple, and John Maple u
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Haunted House — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Haunted House — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/satire_of_society,concept/romantic_love,concept/greed_and_money,concept/family_and_lineage,concept/power_and_corruption,concept/aspiration,form/novel,form/satire"></span>
 
 
 As for John, he knew she was the daughter of one of these American lords, and he did not honestly try to distinguish between them. But he had liked her father. He liked the crispness, the exceedingly well-brushed close short white hair; the equally well-groomed short white moustache; the humorous, keen eyes and all the rest that goes with the type. He liked the short sentences, the lively metaphor, and he liked the man’s certitude in himself. It was as well. For considering how fiercely John Maple loved that tall infant he might have hated the rival affection even of her father. And considering how much Lord Hellup doted on his daughter, he might most furiously have disliked anyone else claiming her.
@@ -3405,7 +3405,7 @@ Such was the ambiguous situation — John on the fringes of Aunt Hilda’s push;
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Haunted House — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Haunted House — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/great_house,concept/deception,concept/appearance_vs_reality,concept/family_and_lineage,concept/greed,concept/money_and_avarice,concept/vulgarity,concept/satire_of_society,concept/antisemitism,form/satire,form/novel,character/shakespeare"></span>
 
 
 That fixed idea of his that he would be master of Rackham sooner or later led him to tolerate every grotesque purchase and addition, and to help her whole-heartedly. It made him know more about the place … and he was free to be rid of the whole mass of that rubbish when he should reign.
@@ -3447,7 +3447,7 @@ Let me return to the adventures of John, and these shall be brief.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Haunted House — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Haunted House — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/trickster,motif/the_supernatural,motif/sea,motif/ship,concept/deception,concept/superstition_and_omen,concept/self_made_man_theme,form/novel,form/satire,setting/the_sea"></span>
 
 
 CHAPTER IV
@@ -3497,7 +3497,7 @@ The Old Man heard very clearly a voice from his own bunk. He was on the other si
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Haunted House — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Haunted House — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/concealment_hidden_identity,motif/animals,concept/deception,concept/identity,concept/self_made_man_theme,form/novel,form/satire"></span>
 
 
 His face did not go as white as the Mate’s had done, for it started with a handicap of fixed mahogany, but it was changed when he looked round at John and asked him, as the Mate had asked him, those few days before, whether he had heard anything; and once more John truthfully said he had. Then the Old Man asked him point-blank whether he minded — as after all, he had done him the favour of taking him aboard, and he was only a young chap — whether he minded sleeping in his, the Captain’s, bunk that night, and giving him his own bunk. And John had accepted with all the goodwill in the world. He even said it was an honour.
@@ -3527,7 +3527,7 @@ Had John Maple known more of the world, and wholly lost his innocence, he could 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Haunted House — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Haunted House — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/great_house,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/vulgarity,concept/capitalism,concept/satire_of_society,form/satire,form/novel"></span>
 
 
 Either Aunt Hilda was spending money wantonly, or she was desperate for money.
@@ -3567,7 +3567,7 @@ If you desire to know the amount of Aunt Hilda’s embarrassment, I can tell it 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Haunted House — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Haunted House — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,concept/deception,concept/money_and_avarice,concept/greed,concept/antisemitism,concept/class_conflict,concept/identity,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 It is unfortunately true that men pursuing various trades will conceal their activities under various names. The Esthonian gentleman, Mr. Curzon, who had sold Aunt Hilda her Ancestor and so much more, had already (as plain Charles Blunt of Bristol) advanced her money on note of hand, and as Mr. de Vere of Jermyn Street advanced her more money to satisfy the clamourings of plain Charles Blunt. Now Mr. de Vere of Jermyn Street was beginning to press. But she would sell Rackham and all would be well.
@@ -3595,7 +3595,7 @@ In John Maple’s mind, more prominent even than Bo, stood dominating and overwh
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Haunted House — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Haunted House — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/great_house,concept/deception,concept/money_and_avarice,concept/satire_of_society,concept/class_conflict,concept/romantic_love,concept/ambition,form/novel,form/satire"></span>
 
 
 CHAPTER V
@@ -3717,7 +3717,7 @@ A cataract of consequences was pouring before John Maple’s mind. Aunt Hilda as
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Haunted House — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Haunted House — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_writing,concept/deception,concept/money_and_avarice,concept/capitalism,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 “She is. Lady Mere de Beaurivage is — Amathea is. She doesn’t hide it. She’s talked of it all around. That’s how Aunt Hilda knows.”
@@ -3817,7 +3817,7 @@ She wrote on another sheet, again murmuring her words:
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Haunted House — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Haunted House — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/ghosts,concept/deception,concept/the_supernatural,concept/satire_of_society,concept/class_conflict,concept/self_made_man_theme,concept/hypocrisy,form/novel,form/satire"></span>
 
 
 Isabeau Hellup leant back in her chair gazing away from the papers before her through the club window at the park with folded hands. Her face had changed and taken on religion.
@@ -3877,7 +3877,7 @@ But it is time that I dissipated in my reader’s mind John’s misapprehension 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Haunted House — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Haunted House — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/tradition,histref/boer_war"></span>
 
 
 CHAPTER VI
@@ -3911,7 +3911,7 @@ It was impossible that some rumour of his good fortune should not have spread. H
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Haunted House — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Haunted House — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/self_made_man,concept/self_made_man_theme,concept/money_and_avarice,concept/capitalism,concept/class_conflict,concept/hypocrisy,concept/ambition,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 He extended his operations. He became the Providence of Barrow - men in South - East London, and soon extended his activities to shopkeepers.
@@ -3943,7 +3943,7 @@ For once the great man was bewildered. The first huge sum had come so simply, so
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Haunted House — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Haunted House — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 He shared the meal, and when it was over and she had heard the full news, she made him his plan of campaign.
@@ -3969,7 +3969,7 @@ One way and another, Rackham Catchings was half a home in her mind already. She 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Haunted House — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Haunted House — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/great_house,motif/childhood,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/nostalgia,concept/antisemitism,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 CHAPTER VII
@@ -4009,7 +4009,7 @@ She had not answered the letter. She had temporised. And that made her mood more
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Haunted House — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Haunted House — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/deception,concept/satire_of_society,concept/class_conflict,concept/hypocrisy,form/novel,form/satire"></span>
 
 
 It was in such a state of human tempers — Aunt Hilda exasperated and John, as he believed, quiet and firm, but really more exasperated still — that the meeting between them took place. She poured out tea for him. He spoke vaguely of London and, knowing well that he was applying an irritant, he told her with what anxiety to be under her roof he had put off his engagement upon the Halls. She in her turn had exploded at him and told him that she wanted to hear nothing about that horrible side of life, and he had said:
@@ -4091,7 +4091,7 @@ The effect of this remark upon Aunt Hilda may be compared to that produced by th
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Haunted House — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Haunted House — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/satire_of_society,concept/class_conflict,concept/hypocrisy,concept/appearance_vs_reality,form/novel,form/satire"></span>
 
 
 “Twenty thousand pounds? Why, you haven’t got twenty thousand pence!”
@@ -4169,7 +4169,7 @@ And it did; as it always does to the young.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Haunted House — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Haunted House — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/tradition,histref/boer_war"></span>
 
 
 CHAPTER VIII
@@ -4209,7 +4209,7 @@ He was a very sensible man. He kept very careful accounts. He calculated that th
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Haunted House — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Haunted House — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/great_house,motif/animals,concept/appearance_vs_reality,concept/deception,concept/satire_of_society,concept/class_conflict,concept/hypocrisy,concept/fame_and_publicity,form/novel,form/satire"></span>
 
 
 “I ran down to Rackham Catchings this week-end, Mrs. Hilda Maple’s charming place in Sussex. It is a fifteenth-century house, quite unspoiled, a rare thing nowadays. Mrs. Hilda Maple is, of course, the widow of Mr. William Maple, and she was famous some years ago in London during her distinguished husband’s lifetime for her salons to which all the great lights of the day had the entrée.…”
@@ -4241,7 +4241,7 @@ Now with the appearance of this father and daughter the air changed, as it does 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Haunted House — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Haunted House — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/ghosts,motif/great_house,motif/the_supernatural,concept/vulgarity,concept/appearance_vs_reality,concept/deception,concept/satire_of_society,concept/class_conflict,form/novel,form/satire,histref/elizabethan_england,character/ben_jonson"></span>
 
 
 However, as I have — said, affection mellowed things, and the air was kindly when in half an hour after the Hellups an enormous machine, the size of a cottage, driven by a gentleman whose uniform vaguely recalled the General Officers of Central American States, and having by his side yet another uniformed gentleman of a more moderate type, purred, roared, halted and panted grandly before the door.
@@ -4283,7 +4283,7 @@ Not till those few weeks ago had John heard of that Ghost: and quite certain was
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Haunted House — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Haunted House — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/ghosts,motif/great_house,concept/deception,concept/the_supernatural,concept/appearance_vs_reality,concept/greed,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 He was astonished at her power of fiction; for she held them all really interested in their various ways, with the story of the unfortunate boy who had been beheaded by the first James, and but for whose premature cutting off — in the fullest sense of that term — his sister would not have inherited and the Maples would never have possessed the broad mud-fields and the rather stunted oaks of Rackham.
@@ -4303,7 +4303,7 @@ And get to work they did.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Haunted House — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Haunted House — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/ghosts"></span>
 
 
 CHAPTER IX
@@ -4361,7 +4361,7 @@ He nodded.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Haunted House — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Haunted House — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/ghosts,concept/deception,concept/the_supernatural,concept/superstition_and_omen,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 “You’re not going to tell him our plan?” said John in alarm.
@@ -4435,7 +4435,7 @@ He shook his head.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Haunted House — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Haunted House — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/ghosts,motif/garden,motif/childhood,concept/deception,concept/the_supernatural,concept/superstition_and_omen,form/novel,form/satire"></span>
 
 
 She resumed rapidly to John:
@@ -4483,7 +4483,7 @@ He saw the old rough again clearly in his mind. It hardened him to his duty. He 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Haunted House — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Haunted House — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/ghosts,concept/fear,concept/deception,concept/the_supernatural,concept/guilt,concept/temptation,concept/superstition_and_omen,form/novel,form/satire,character/hamlet"></span>
 
 
 “Course it was, boy. Course it was, Mr. Miple, I mean.” He wheezed into an uncomfortable laugh. “Yer know that as well as I does!”
@@ -4575,7 +4575,7 @@ He agreed.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Haunted House — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Haunted House — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/great_house,concept/vulgarity,concept/satire_of_society,concept/class_conflict,concept/greed,concept/money_and_avarice,concept/deception,form/novel,form/satire"></span>
 
 
 CHAPTER X
@@ -4615,7 +4615,7 @@ There was a pause upon the gravel, and the two ladies made their majestic progre
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Haunted House — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Haunted House — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/great_house,motif/rose,concept/deception,concept/money_and_avarice,concept/greed,concept/satire_of_society,concept/class_conflict,concept/romantic_love,form/novel,form/satire"></span>
 
 
 So the song ended — as the poet Longfellow somewhere remarks — and the two ladies strolled into the hall. Amathea, with an agility worthy of a better cause, rapidly performed the pounding gymnastics which she called “popping upstairs.” She had certain calculations to make, certain notes.
@@ -4663,7 +4663,7 @@ They were now off the lawn and upon that gravel path going back to the door, aft
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Haunted House — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Haunted House — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/deception,concept/antisemitism,concept/satire_of_society,concept/vulgarity,concept/class_conflict,form/novel,form/satire"></span>
 
 
 “When once I’m certain it’s my duty to sell, I shall do it,” she said. She shook her head again sadly. “But I can’t bear to think of myself without Rackham.”
@@ -4703,7 +4703,7 @@ Meanwhile her nephew was making history with her butler, Isabeau Hellup concurri
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Haunted House — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Haunted House — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/ghosts,concept/deception,concept/the_supernatural,concept/superstition_and_omen,concept/class_conflict,concept/justice,form/novel,form/satire"></span>
 
 
 CHAPTER XI
@@ -4777,7 +4777,7 @@ The bell rang twice.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Haunted House — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Haunted House — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/ghosts,concept/deception,concept/the_supernatural,concept/superstition_and_omen,concept/satire_of_society,concept/class_conflict,form/novel,form/satire"></span>
 
 
 * * *
@@ -4865,7 +4865,7 @@ She was a determined woman, and a clear-headed woman; and also by nature as hope
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Haunted House — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Haunted House — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/deception,concept/satire_of_society,concept/class_conflict,concept/vulgarity,form/novel,form/satire,character/king_lear"></span>
 
 
 Bruvvish therefore she boarded, taking him aside immediately after she had given him tea, as the sacrificial victim is taken aside after a draught of honeyed wine. She got him into the library, alone, and fired a broadside under which he reeled, and from which he could not recover. She told him that she had divined his desire to purchase Rackham; she loyally swore that his wife had never breathed a word of it, but she admitted that Amathea had not been able to conceal her very natural feeling about the place. They were old friends, were they not? and dear friends — or she would not be speaking so frankly.
@@ -4921,7 +4921,7 @@ Hilda Maple, singularly composed after her recital, not unlike King Lear or any 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Haunted House — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Haunted House — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/deception,concept/satire_of_society,concept/class_conflict,form/novel,form/satire"></span>
 
 
 * * *
@@ -5003,7 +5003,7 @@ Bo popped her cigarette out of her mouth between her fingers and spoke short wor
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="The Haunted House — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="The Haunted House — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/deception,concept/satire_of_society,concept/ambition,concept/class_conflict,form/novel,form/satire,character/napoleon"></span>
 
 
 “I don’t want it, Bo,” her father said, sitting up and speaking very earnestly.
@@ -5067,7 +5067,7 @@ Lord Hellup, as befitted a man who had just been shot, hesitated. He had too muc
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Haunted House — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Haunted House — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/masks_disguise,motif/ghosts,motif/great_house,concept/deception,concept/the_supernatural,concept/fear,concept/money_and_avarice,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 CHAPTER XII
@@ -5137,7 +5137,7 @@ But George Huggins, first Baron de Beaurivage was in a hurry.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Haunted House — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Haunted House — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/great_house,concept/money_and_avarice,concept/greed,concept/vulgarity,concept/satire_of_society,concept/class_conflict,concept/self_made_man_theme,concept/power_and_corruption,concept/marriage_and_fidelity,form/novel,form/satire"></span>
 
 
 He begged her pardon very humbly.
@@ -5217,7 +5217,7 @@ He had never learned the silly little social habits of a class which he both env
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Haunted House — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Haunted House — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,concept/terror_and_horror,concept/fear,concept/deception,concept/greed_and_money,form/satire,form/novel,setting/rural_england"></span>
 
 
 CHAPTER XIII
@@ -5277,7 +5277,7 @@ Bo kindly determined to bear him company in his loneliness.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Haunted House — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Haunted House — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,motif/animals,concept/terror_and_horror,concept/fear,concept/deception,form/satire,form/novel"></span>
 
 
 And once again, a little less remote, a little less evanescent, a little more defined, came the sneering chuckle of something evil.
@@ -5371,7 +5371,7 @@ The bridge party looked round: that excellent wife broke off in the middle of a 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Haunted House — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Haunted House — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts"></span>
 
 
 “What’s the matter, George?” she said. What’s the matter?”
@@ -5471,7 +5471,7 @@ This was too much for Lady de Beaurivage.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Haunted House — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Haunted House — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/blood,concept/terror_and_horror,concept/fear,concept/deception,concept/superstition_and_omen,form/satire,form/novel,histref/elizabethan_england"></span>
 
 
 Lord Hellup remarked that if it was anything about the hip, he knew a bone setter in Park Lane … Mrs. Maple in despair tried to put an end to it all by saying, “No, no, no. Lord Hambourne means hypnotic, or something of that sort. Don’t you, Lord Hambourne?”
@@ -5539,7 +5539,7 @@ The others followed her, and in a rapid, thrusting group they all rushed through
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="The Haunted House — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="The Haunted House — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/ghost,motif/ghosts,motif/the_supernatural,motif/wine_and_drink,concept/terror_and_horror,concept/fear,concept/deception,form/novel,histref/elizabethan_england"></span>
 
 
 CHAPTER XIV
@@ -5591,7 +5591,7 @@ Three of the menservants hoisted the motionless form and got it on to the bed. H
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Haunted House — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Haunted House — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/greed_and_money,concept/deception,concept/vulgarity,form/satire,form/novel"></span>
 
 
 CHAPTER XV
@@ -5641,7 +5641,7 @@ In the grey light of morning Lord Hambourne had taken up the telephone again. He
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Haunted House — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Haunted House — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/deception,concept/vulgarity,concept/greed_and_money,form/satire,form/novel"></span>
 
 
 He gave rapid advice to Lord Toronto’s other serfs. The old boy was very bad indeed, he thought he would be moved that morning. He advised someone from The Howl to be sent to photograph the house and if possible the scene when the ambulance left. It would make a good picture. But he warned them that Mrs. Maple had got a policeman in plain clothes on the place, and there were orders to allow no one to come near. She didn’t want it in the papers — he laughed, gently, and there was another much louder laugh at the other end of the wire. No, he could not send a sketch of the ghost. They must do that. They could get that little drunken artist of their’s to make a line sketch — just a long black cloak and a sword and a big Elizabethan ruff, and no head, and an old curtained bed close by.
@@ -5681,7 +5681,7 @@ No servant appeared. But what did at last saunter into the bright circle framed 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Haunted House — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Haunted House — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/animals,concept/fame_and_publicity,concept/deception,concept/vulgarity,form/satire,form/novel"></span>
 
 
 With a fine nonchalance Mr. Pretherton strolled across the green, as one taking the morning air. He came up to Columbus, still distracted, still, as it were, careless of mundane things. He lifted a corner of the black cloth and whispered in the ear of the stooping expert:
@@ -5727,7 +5727,7 @@ Columbus came back extending a large hand towards Bo with the self-possession of
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="The Haunted House — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="The Haunted House — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/ghosts,concept/fame_and_publicity,concept/deception,concept/greed_and_money,concept/vulgarity,form/satire,form/novel,histref/elizabethan_england"></span>
 
 
 “D’you know what edition of your two-cent’ll carry the picture of Rackham Catchings? Have ye’ seen the story that’s to flare it?”
@@ -5773,7 +5773,7 @@ It would be all over London by one o’clock and the market for Rackham ruined.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Haunted House — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Haunted House — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed_and_money,concept/fame_and_publicity,form/satire,form/novel"></span>
 
 
 CHAPTER XVI
@@ -5863,7 +5863,7 @@ Bringing up the rear from the head of the stairs and commanding all things, his 
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Haunted House — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Haunted House — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="concept/greed_and_money,concept/deception,concept/class_conflict,concept/vulgarity,concept/pride,form/satire,form/novel"></span>
 
 
 The foremost of the bearers had reached the bottom stair, Amathea, presiding from above, was half-way down, the doors were fully open, Corton was flinging wide the entry to the ambulance, when poor Hilda Maple, a wreck from lack of sleep and all the attention which women of her age need before they can appear before human kind, made the error of attempting a pacification.
@@ -5943,7 +5943,7 @@ And the other current was her pride — after having stood out for so long, and 
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Haunted House — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Haunted House — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/ghosts,motif/the_supernatural,concept/deception,concept/greed_and_money,concept/guilt,form/satire,form/novel"></span>
 
 
 John put the papers down upon the table, and his fountain-pen by the side.

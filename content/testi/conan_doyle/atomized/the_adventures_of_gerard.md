@@ -1305,7 +1305,7 @@ This collection of short stories was published in 1908.
 
 
 
-<span class="atom-split" data-atom="story_01_how_brigadier_gerard_lost_his_ear" data-title="THE ADVENTURES OF GERARD — How Brigadier Gerard Lost His Ear" data-chapter="How Brigadier Gerard Lost His Ear" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_how_brigadier_gerard_lost_his_ear" data-title="THE ADVENTURES OF GERARD — How Brigadier Gerard Lost His Ear" data-chapter="How Brigadier Gerard Lost His Ear" data-kind="story" data-tags="motif/journey,motif/prison,concept/honour,histref/napoleon,setting/france,character/brigadier_gerard,character/napoleon"></span>
 
 
 How [[Brigadier Gerard]] Lost His Ear
@@ -1498,7 +1498,7 @@ There may still be times when the peace of the cloister is broken by the memory 
 
 
 
-<span class="atom-split" data-atom="story_02_how_the_brigadier_captured_saragossa" data-title="THE ADVENTURES OF GERARD — How the Brigadier Captured Saragossa" data-chapter="How the Brigadier Captured Saragossa" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_how_the_brigadier_captured_saragossa" data-title="THE ADVENTURES OF GERARD — How the Brigadier Captured Saragossa" data-chapter="How the Brigadier Captured Saragossa" data-kind="story" data-tags="archetype/hero,motif/journey,concept/honour,setting/france"></span>
 
 
 How the Brigadier Captured Saragossa
@@ -1669,7 +1669,7 @@ Something seemed to take me by the throat and choke me. And then in an instant O
 
 
 
-<span class="atom-split" data-atom="story_03_how_the_brigadier_slew_the_fox" data-title="THE ADVENTURES OF GERARD — How the Brigadier Slew the Fox [*]" data-chapter="How the Brigadier Slew the Fox" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_how_the_brigadier_slew_the_fox" data-title="THE ADVENTURES OF GERARD — How the Brigadier Slew the Fox [*]" data-chapter="How the Brigadier Slew the Fox" data-kind="story" data-tags="concept/honour,setting/france,character/brigadier_gerard"></span>
 
 
 How the Brigadier Slew the Fox [*]
@@ -1767,7 +1767,7 @@ But they would not leave me so easily, these gallant huntsmen. I was the fox now
 
 
 
-<span class="atom-split" data-atom="story_04_how_the_brigadier_saved_the_army" data-title="THE ADVENTURES OF GERARD — How the Brigadier Saved the Army" data-chapter="How the Brigadier Saved the Army" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_how_the_brigadier_saved_the_army" data-title="THE ADVENTURES OF GERARD — How the Brigadier Saved the Army" data-chapter="How the Brigadier Saved the Army" data-kind="story" data-tags="motif/journey,motif/prison,concept/honour,setting/france"></span>
 
 
 How the Brigadier Saved the Army
@@ -1953,7 +1953,7 @@ De Pombal knew how the outposts were placed and all the paths which led through 
 
 
 
-<span class="atom-split" data-atom="story_05_how_the_brigadier_triumphed_in_england" data-title="THE ADVENTURES OF GERARD — How the Brigadier Triumphed in England" data-chapter="How the Brigadier Triumphed in England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_how_the_brigadier_triumphed_in_england" data-title="THE ADVENTURES OF GERARD — How the Brigadier Triumphed in England" data-chapter="How the Brigadier Triumphed in England" data-kind="story" data-tags="archetype/fool,concept/honour,setting/france"></span>
 
 
 How the Brigadier Triumphed in England
@@ -2098,7 +2098,7 @@ When I think of my beautiful Lady Jane it is at that moment that I recall her. T
 
 
 
-<span class="atom-split" data-atom="story_06_how_the_brigadier_rode_to_minsk" data-title="THE ADVENTURES OF GERARD — How the Brigadier Rode to Minsk" data-chapter="How the Brigadier Rode to Minsk" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_how_the_brigadier_rode_to_minsk" data-title="THE ADVENTURES OF GERARD — How the Brigadier Rode to Minsk" data-chapter="How the Brigadier Rode to Minsk" data-kind="story" data-tags="archetype/fool,motif/journey,concept/honour,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 How the Brigadier Rode to Minsk
@@ -2275,7 +2275,7 @@ Enough, my friends; I would not re-awaken the memory of those days of misery and
 
 
 
-<span class="atom-split" data-atom="story_07_how_the_brigadier_bore_himself_at_waterl" data-title="THE ADVENTURES OF GERARD — How the Brigadier Bore Himself at Waterloo" data-chapter="How the Brigadier Bore Himself at Waterl" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_how_the_brigadier_bore_himself_at_waterl" data-title="THE ADVENTURES OF GERARD — How the Brigadier Bore Himself at Waterloo" data-chapter="How the Brigadier Bore Himself at Waterl" data-kind="story" data-tags="archetype/fool,motif/journey,concept/honour,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 How the Brigadier Bore Himself at Waterloo
@@ -2510,7 +2510,7 @@ Alas! that all my efforts could only give the Emperor a few weeks more liberty, 
 
 
 
-<span class="atom-split" data-atom="story_08_the_last_adventure_of_the_brigadier" data-title="THE ADVENTURES OF GERARD — The Last Adventure of the Brigadier" data-chapter="The Last Adventure of the Brigadier" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_last_adventure_of_the_brigadier" data-title="THE ADVENTURES OF GERARD — The Last Adventure of the Brigadier" data-chapter="The Last Adventure of the Brigadier" data-kind="story" data-tags="archetype/fool,motif/journey,motif/prison,concept/honour,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 The Last Adventure of the Brigadier

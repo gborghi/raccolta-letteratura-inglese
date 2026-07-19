@@ -145,7 +145,7 @@ they added polygamy.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Mormonism (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Mormonism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/time,concept/doubt,concept/slavery,concept/truth"></span>
 
 
 [[Mormonism]]
@@ -261,7 +261,7 @@ Il nostro vero errore in un caso simile è che non conosciamo né ci curiamo del
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Mormonism (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Mormonism (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/desert,motif/soul,motif/time,motif/well,concept/history,concept/self,concept/truth,form/history,histref/bible,histref/crusades,setting/desert,character/oliver"></span>
 
 
 About half the [[history]] now taught in schools and colleges is made windy

@@ -1139,7 +1139,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Much Ado About Nothing — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Much Ado About Nothing — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/lover,archetype/tyrant,motif/blood,motif/fire,motif/home,motif/horse,motif/jewel,motif/lamb,motif/lion,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/honour,concept/hope,concept/wonder,setting/venice,character/beatrice,character/benedick,character/claudio,character/don_john,character/don_pedro,character/leonato,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1264,7 +1264,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Much Ado About Nothing — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Much Ado About Nothing — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/dance,motif/night,motif/time,motif/well,concept/mercy,character/antonio,character/claudio,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -1279,7 +1279,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Much Ado About Nothing — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Much Ado About Nothing — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/hero,archetype/villain,motif/blood,motif/cross,motif/death,motif/love,motif/marriage,motif/rose,motif/sleep,motif/time,concept/wonder,character/claudio,character/don_john,character/leonato,character/saturn"></span>
 
 
 | Speaker | Line |
@@ -1314,7 +1314,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Much Ado About Nothing — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Much Ado About Nothing — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/hero,motif/blood,motif/dance,motif/desire,motif/dust,motif/fire,motif/grave,motif/love,motif/marriage,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/doubt,concept/endurance,concept/faith,concept/friendship,concept/hope,concept/melancholy,concept/mercy,character/antonio,character/beatrice,character/benedick,character/claudio,character/don_john,character/don_pedro,character/leonato,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1467,7 +1467,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Much Ado About Nothing — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Much Ado About Nothing — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/hero,motif/cross,motif/death,motif/love,motif/marriage,motif/night,motif/poison,motif/time,motif/window,concept/honour,concept/jealousy,concept/truth,character/claudio,character/don_john,character/don_pedro,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -1494,7 +1494,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Much Ado About Nothing — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Much Ado About Nothing — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/hero,archetype/villain,motif/blood,motif/love,motif/marriage,motif/night,motif/soul,motif/summer,motif/tears,motif/well,motif/wind,motif/window,concept/body,concept/faith,concept/fear,concept/truth,concept/wonder,character/beatrice,character/benedick,character/claudio,character/don_pedro,character/hector,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -1590,7 +1590,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Much Ado About Nothing — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Much Ado About Nothing — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/hero,motif/death,motif/fire,motif/love,motif/nature,motif/well,concept/fear,concept/nature,concept/pride,concept/self,concept/truth,setting/italy,character/beatrice,character/benedick,character/claudio"></span>
 
 
 | Speaker | Line |
@@ -1631,7 +1631,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Much Ado About Nothing — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Much Ado About Nothing — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,motif/blood,motif/crown,motif/love,motif/marriage,motif/night,motif/well,motif/window,concept/honour,concept/hope,concept/melancholy,concept/wonder,character/beatrice,character/benedick,character/claudio,character/don_john,character/don_pedro,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -1702,7 +1702,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Much Ado About Nothing — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Much Ado About Nothing — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,motif/home,motif/lamb,motif/nature,motif/night,motif/sleep,motif/soul,motif/well,motif/window,concept/body,concept/nature,concept/vanity,concept/wonder,character/claudio,character/dogberry,character/don_john,character/leonato,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -1775,7 +1775,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Much Ado About Nothing — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Much Ado About Nothing — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/hero,motif/clock,motif/dance,motif/desire,motif/horse,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/faith,character/beatrice,character/benedick,character/don_john"></span>
 
 
 | Speaker | Line |
@@ -1825,7 +1825,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Much Ado About Nothing — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Much Ado About Nothing — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/city,motif/desire,motif/horse,motif/soul,motif/time,motif/well,concept/faith,concept/truth,character/dogberry,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -1865,7 +1865,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Much Ado About Nothing — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Much Ado About Nothing — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/villain,motif/animals,motif/blood,motif/death,motif/desire,motif/fire,motif/love,motif/marriage,motif/nakedness,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/faith,concept/friendship,concept/honour,concept/imagination,concept/mercy,concept/nature,concept/truth,concept/wonder,character/beatrice,character/benedick,character/claudio,character/don_john,character/don_pedro,character/leonato,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1994,7 +1994,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Much Ado About Nothing — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Much Ado About Nothing — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/hero,archetype/villain,motif/well,concept/hope,character/claudio,character/dogberry,character/don_john,character/leonato,character/prince_john"></span>
 
 
 | Speaker | Line |
@@ -2043,7 +2043,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Much Ado About Nothing — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Much Ado About Nothing — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/villain,motif/blood,motif/cross,motif/death,motif/desire,motif/garden,motif/leaves,motif/love,motif/night,motif/poison,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/courage,concept/doubt,concept/faith,concept/fear,concept/honour,concept/madness,concept/melancholy,concept/revenge,setting/court,setting/italy,character/antonio,character/beatrice,character/benedick,character/claudio,character/dogberry,character/don_john,character/don_pedro,character/leonato"></span>
 
 
 | Speaker | Line |
@@ -2174,7 +2174,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Much Ado About Nothing — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Much Ado About Nothing — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/hero,archetype/innocent,motif/home,motif/love,motif/road,motif/time,motif/well,motif/wind,concept/beauty,concept/conscience,concept/self,concept/truth,form/blank_verse,form/sonnet,character/beatrice,character/benedick,character/claudio,character/don_john,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2219,7 +2219,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Much Ado About Nothing — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Much Ado About Nothing — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/hero,motif/death,motif/night,motif/well,form/hymn,character/claudio,character/don_pedro,character/leonato,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2241,7 +2241,7 @@ Much Ado About Nothing
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Much Ado About Nothing — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Much Ado About Nothing — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,archetype/hero,archetype/innocent,archetype/king,motif/city,motif/dance,motif/death,motif/desire,motif/frost,motif/love,motif/marriage,motif/memory,motif/mirror,motif/spring,motif/storm,motif/time,motif/well,concept/faith,concept/fear,concept/history,concept/truth,concept/wonder,form/epic,form/epigram,form/history,form/satire,form/sonnet,character/antonio,character/beatrice,character/benedick,character/chorus,character/claudio,character/dauphin,character/don_pedro,character/fluellen,character/gower,character/henry_iv,character/henry_v,character/leonato,character/mistress_quickly,character/pistol,character/queen_elizabeth"></span>
 
 
 | Speaker | Line |

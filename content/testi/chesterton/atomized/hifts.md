@@ -221,7 +221,7 @@ Email: martin@gkc.org.uk
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="HIFTS (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="HIFTS (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/tears,motif/well,concept/democracy,concept/eugenics,concept/history,concept/hope,concept/union,concept/vanity,form/epigram,form/history,character/apollo"></span>
 
 
 How I Found the Superman
@@ -384,7 +384,7 @@ Marito e moglie si erano entrambi alzati pesantemente in piedi, e stavano imbara
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="HIFTS (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="HIFTS (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/night,motif/well,motif/wind"></span>
 
 
 '[[Well]], of course, you know,' said Lady Hypatia, with the really

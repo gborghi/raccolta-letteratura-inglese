@@ -154,7 +154,7 @@ Footnote 1:  This is the title of a collection of Swinburne's [[Poems|poems]]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Myths_and_Metaphors (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Myths_and_Metaphors (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/nature,concept/nature,concept/pride,concept/survival,concept/truth,setting/london"></span>
 
 
 # Myths and Metaphors
@@ -322,7 +322,7 @@ tralasceranno la loro mitologia?
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Myths_and_Metaphors (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Myths_and_Metaphors (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/love,motif/time,motif/well,concept/imagination"></span>
 
 
 But the mythological habit is not entirely and exclusively

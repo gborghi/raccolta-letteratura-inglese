@@ -310,7 +310,7 @@ in G.K. Chesterton, The [[Catholic Church]] and [[conversion|Conversion]] (1960)
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="upon-this-rock (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="upon-this-rock (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/home,motif/nature,concept/conscience,concept/history,concept/nature,concept/survival,concept/truth,form/history,histref/bible,histref/catholic_church,histref/christianity,setting/russia,character/christ"></span>
 
 
 UPON THIS ROCK
@@ -429,7 +429,7 @@ Ora, è purtroppo impossibile per un cattolico romano enunciare il principio sen
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="upon-this-rock (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="upon-this-rock (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/democracy,concept/faith,concept/nature,concept/pride,concept/truth,histref/christianity,character/christ,character/henry_viii"></span>
 
 
 Nevertheless, in making so short a summary in a world still Protestant
@@ -529,7 +529,7 @@ Per scopi pratici nella civiltà protestante è un altro fatto quello che si inn
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="upon-this-rock (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="upon-this-rock (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/secrets,motif/water,concept/body,concept/divine_love,concept/heroism,concept/history,concept/madness,form/history,histref/catholic_church"></span>
 
 
 Probably the Protestant world would count as the next outstanding
@@ -610,7 +610,7 @@ C'è appena spazio per accennare ad altre due di queste cose che sono annoverate
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="upon-this-rock (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="upon-this-rock (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/conversion,concept/doubt,concept/honour,concept/truth,histref/catholic_church,histref/christianity,setting/london,character/christ"></span>
 
 
 Of the most popular, the most poetical and the most practically inspiring

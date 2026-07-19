@@ -2237,7 +2237,7 @@ see the light.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Superstition of Divorce — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Superstition of Divorce — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/machine,motif/marriage,motif/nature,motif/well,motif/window,concept/nature,concept/paradox,concept/reform,histref/america,histref/bible,setting/america,character/arthur,character/bottom,character/cain"></span>
 
 
 I
@@ -2355,7 +2355,7 @@ in his opinion, [[The Professor|the professor]] seems to require a keeper.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Superstition of Divorce — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Superstition of Divorce — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dawn,motif/fire,motif/flag,motif/love,motif/machine,motif/marriage,motif/nature,motif/well,concept/honour,concept/nature,concept/poverty,concept/suffering"></span>
 
 
 And that is doubtless the situation in the controversies about [[divorce]]
@@ -2449,7 +2449,7 @@ national loyalty, some of us would have deserted our nation long ago.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Superstition of Divorce — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Superstition of Divorce — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/city,motif/desert,motif/flag,motif/love,motif/marriage,motif/ship,motif/soul,motif/time,concept/doubt,concept/hope,concept/reform,concept/self,concept/truth,concept/wonder,form/tragedy,histref/bible,setting/court,setting/desert,setting/ship"></span>
 
 
 II
@@ -2562,7 +2562,7 @@ but it may be true of Mrs. Brown that she might have been a Robinson.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Superstition of Divorce — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Superstition of Divorce — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/desire,motif/home,motif/love,motif/nature,motif/well,concept/despair,concept/fear,concept/freedom,concept/hope,concept/nature,concept/slavery,concept/suicide,concept/survival,form/comedy,form/novel,form/tragedy,setting/london"></span>
 
 
 Now it is not at all hard to see why this small community,
@@ -2694,7 +2694,7 @@ Why must he [[Love|love]] as he pleases; when he may not even live as he pleases
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Superstition of Divorce — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Superstition of Divorce — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/home,concept/freedom,concept/hope,concept/individualism,concept/pride,concept/union"></span>
 
 
 The answer is, I regret to say, that this social campaign,
@@ -2800,7 +2800,7 @@ fugace come una visione è reso permanente come un voto.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="The Superstition of Divorce — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="The Superstition of Divorce — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/artist,archetype/child,motif/city,motif/decay,motif/home,motif/love,motif/machine,motif/marriage,motif/water,motif/well,concept/body,concept/doubt,concept/freedom,concept/history,concept/honour,concept/self,concept/truth,form/history,histref/dante,setting/castle,setting/paris,character/hamlet"></span>
 
 
 III
@@ -2974,7 +2974,7 @@ And the experience of mankind points the other way.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="The Superstition of Divorce — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/king,archetype/orphan,archetype/pilgrim,archetype/tyrant,motif/blood,motif/crown,motif/flowers,motif/garden,motif/home,motif/marriage,motif/spring,motif/well,concept/democracy,concept/doubt,concept/eugenics,concept/exile,concept/faith,concept/paradox,concept/reform,concept/slavery,form/sketch,form/tragedy,histref/america,setting/america,setting/germany,setting/orient,setting/russia,character/cain,character/mermaid,character/ulysses"></span>
 
 
 IV
@@ -3132,7 +3132,7 @@ of what the latest enlightenment can only slowly discover in the end.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Superstition of Divorce — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Superstition of Divorce — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/water,concept/beauty,concept/fear,concept/history,concept/nature,concept/self,concept/truth,form/history,setting/court"></span>
 
 
 V
@@ -3319,7 +3319,7 @@ di bambini è un tocco elegante e legittimo del discorso.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Superstition of Divorce — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Superstition of Divorce — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/world_upside_down,archetype/child,archetype/king,motif/childhood,motif/city,motif/hill,motif/marriage,motif/time,motif/well,concept/freedom,concept/reform,concept/truth,form/novel"></span>
 
 
 This triangle of truisms, of father, mother and [[Child|child]], cannot
@@ -3428,7 +3428,7 @@ resistance to tyranny.  A man must be not only free, but free-born.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Superstition of Divorce — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Superstition of Divorce — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dreams,motif/home,motif/love,motif/mirror,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/faith,concept/fear,concept/history,concept/nature,concept/paradox,concept/reform,concept/slavery,form/history,form/sketch,histref/bible,character/king_lear"></span>
 
 
 Indeed, there is something in the family that might loosely
@@ -3579,7 +3579,7 @@ to the human family of father, mother and [[Child|child]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Superstition of Divorce — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Superstition of Divorce — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/dance,motif/lamb,motif/love,motif/marriage,motif/nature,motif/well,concept/ambition,concept/charity,concept/doubt,concept/history,concept/imagination,concept/nature,concept/paradox,concept/truth,form/allegory,form/history,histref/christianity,setting/cathedral,character/orlando,character/valentine"></span>
 
 
 VI
@@ -3690,7 +3690,7 @@ or rather has tried to be, and has failed.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Superstition of Divorce — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Superstition of Divorce — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/birds,motif/love,motif/marriage,motif/memory,motif/time,motif/well,concept/charity,concept/doubt,concept/freedom,concept/friendship,concept/history,concept/slavery,form/history,histref/christianity,character/monks"></span>
 
 
 The outstanding example of status was [[Slavery|slavery]].  Needless to say
@@ -3797,7 +3797,7 @@ vows at any ordinary wedding in any ordinary church.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Superstition of Divorce — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Superstition of Divorce — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/desire,motif/home,motif/leaves,motif/marriage,motif/nature,motif/rose,motif/ship,motif/soul,motif/time,motif/well,concept/democracy,concept/doubt,concept/fanaticism,concept/fear,concept/freedom,concept/history,concept/nature,concept/paradox,concept/reform,concept/self,concept/slavery,form/history,histref/milton,setting/ship,character/milton"></span>
 
 
 Such, in very vague outline, has been the historical [[Nature|nature]]
@@ -3929,7 +3929,7 @@ against [[Slavery|slavery]] has not always been the breaking up of families.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Superstition of Divorce — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Superstition of Divorce — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,motif/marriage,motif/supernatural,motif/well,concept/body,concept/greed,concept/poverty,concept/truth,histref/christianity,setting/london"></span>
 
 
 VII
@@ -4073,7 +4073,7 @@ is the veil that makes the bride.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Superstition of Divorce — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Superstition of Divorce — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/dreams,motif/flag,motif/love,motif/marriage,motif/pain,motif/rose,motif/soul,motif/well,concept/freedom,concept/heroism,concept/honour,concept/poverty,concept/truth,form/tragedy,histref/crusades,setting/court"></span>
 
 
 What is respected, in short, is the fidelity to the ancient
@@ -4169,7 +4169,7 @@ and even dishonour is not always a remedy for remorse.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Superstition of Divorce — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Superstition of Divorce — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/leaves,motif/love,motif/marriage,concept/doubt,concept/exile,concept/freedom,concept/history,concept/honour,concept/truth,form/history,form/sketch,form/tragedy"></span>
 
 
 The next limitation to be laid down in the matter affects certain
@@ -4298,7 +4298,7 @@ gone into [[Exile|exile]] from the oldest of earthly cities.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Superstition of Divorce — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Superstition of Divorce — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,archetype/tyrant,motif/city,motif/dance,motif/death,motif/desire,motif/dust,motif/grave,motif/home,motif/leaves,motif/love,motif/marriage,motif/memory,motif/nature,motif/time,motif/well,concept/democracy,concept/doubt,concept/individualism,concept/nature,concept/reform,concept/truth,setting/court,character/nurse"></span>
 
 
 VIII
@@ -4424,7 +4424,7 @@ by pointing to one infant.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Superstition of Divorce — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Superstition of Divorce — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/marriage,motif/well,concept/beauty,concept/courage,concept/hope,form/satire,histref/america,histref/catholic_church,histref/christianity,setting/america"></span>
 
 
 I take it, however, that the advocates of [[divorce]] do not mean that
@@ -4526,7 +4526,7 @@ and a little French.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Superstition of Divorce — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Superstition of Divorce — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fool,motif/animals,motif/clock,motif/machine,motif/memory,motif/supernatural,motif/time,motif/well,concept/truth,character/queen"></span>
 
 
 A short [[Time|time]] ago, as I am [[Well|well]] aware, it would have sounded very
@@ -4604,7 +4604,7 @@ has age after age sought refuge in the high [[Sanity|sanity]] of a sacrament.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="The Superstition of Divorce — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="The Superstition of Divorce — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="topos/dance_of_death,motif/dance,motif/desire,motif/love,motif/marriage,motif/moon,motif/nature,motif/sleep,motif/time,motif/well,concept/ambition,concept/endurance,concept/faith,concept/imagination,concept/nature,concept/self"></span>
 
 
 IX

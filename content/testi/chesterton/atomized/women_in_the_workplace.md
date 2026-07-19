@@ -163,7 +163,7 @@ division of labour.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Women_in_the_Workplace (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Women_in_the_Workplace (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/ship,motif/time,motif/well,concept/honour,concept/hope,concept/jealousy,concept/nature,setting/ship"></span>
 
 
 # Women in the Workplace
@@ -267,7 +267,7 @@ Ora, di fatto, non sono poi molti i lavori che le persone normali e ordinarie po
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Women_in_the_Workplace (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Women_in_the_Workplace (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/home,motif/ship,motif/time,concept/fear,concept/imagination,concept/self,setting/london,setting/ship"></span>
 
 
 To take a hundred women out of a hundred houses and give them

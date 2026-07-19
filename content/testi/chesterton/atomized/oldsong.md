@@ -141,7 +141,7 @@ Aveva mostrato sotto il cielo in frantumi un popolo che era libero.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="oldsong (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="oldsong (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/horse,motif/lightning,motif/road,motif/time,motif/well,concept/apocalypse,setting/london"></span>
 
 
 The Old [[Song]]  

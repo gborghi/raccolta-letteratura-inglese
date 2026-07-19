@@ -99,7 +99,7 @@ still be in everything and not merely in all.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="strange-city (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="strange-city (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/nature,motif/soul,motif/time,concept/common_man,concept/eternity,concept/imagination,concept/nature,character/witch"></span>
 
 
 Concerning a Strange [[City]]

@@ -90,7 +90,7 @@ boasting of avarice.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="how-not-to-do-it (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="how-not-to-do-it (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/honour,concept/individualism,concept/nature,concept/self,form/sketch"></span>
 
 
 How Not To Do It

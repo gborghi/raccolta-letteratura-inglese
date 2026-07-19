@@ -291,7 +291,7 @@ Dopo queste due prime espressioni, lo scherzo pratico del racconto popolare e il
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Humour (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Humour (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/time,motif/well,concept/body,concept/humility,character/falstaff"></span>
 
 
 [[Humour]]
@@ -401,7 +401,7 @@ Nondimeno, alla parola Humour resta attaccata, specie quando la si contrappone a
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Humour (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Humour (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/moon,motif/nature,motif/pain,motif/well,concept/doubt,concept/history,concept/nature,concept/self,concept/truth,form/comedy,form/history,form/satire,setting/mountains"></span>
 
 
 If there be so much of enlightenment to be gathered from the [[history]]
@@ -498,7 +498,7 @@ In ogni caso, l'[[Humour|umorismo]] è alle fondamenta stesse della nostra lette
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Humour (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Humour (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,motif/well,concept/beauty,concept/grotesque,concept/history,concept/pride,concept/truth,form/comedy,form/essay,form/history,form/novel,form/parody,form/satire,histref/renaissance"></span>
 
 
 After these two early expressions, the practical joke of the folk-tale

@@ -1453,7 +1453,7 @@ We’re mortgaging the rest to build it.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Lambkin’s Remains (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Lambkin’s Remains (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 CONTENTS
@@ -1815,7 +1815,7 @@ To break the worst of fortune’s rub?
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Lambkin’s Remains (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Lambkin’s Remains (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/vanity,setting/oxford"></span>
 
 
 I give the toast across the world,
@@ -1855,7 +1855,7 @@ The world knows nothing of its greatest men! Josiah Lambkin! from whatever Cypre
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Lambkin’s Remains (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Lambkin’s Remains (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 Josiah Abraham Lambkin was born of well-to-do and gentlemanly parents in Bayswater6 on January 19th, 1843. His father, at the time of his birth, entertained objections to the great Public Schools, largely founded upon his religious leanings, which were at that time opposed to the ritual of those institutions. In spite therefore of the vehement protestations of his mother (who was distantly connected on the maternal side with the Cromptons of Cheshire) the boy passed his earlier years under the able tutorship of a Nonconformist divine, and later passed into the academy of Dr. Whortlebury at Highgate.7
@@ -1889,7 +1889,7 @@ He was by no means a snob — snobbishness was not in him. On the other hand, he
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Lambkin’s Remains (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Lambkin’s Remains (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/satire_of_society,concept/hypocrisy,form/satire,form/parody,histref/voltaire"></span>
 
 
 His attitude was this: that we are compelled to admit the aristocratic quality of the English polity and should, while decently veiling its cruder aspects, enjoy to the full the benefits which such a constitution confers upon society and upon our individual selves.
@@ -2003,7 +2003,7 @@ The proper study of mankind is men.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Lambkin’s Remains (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Lambkin’s Remains (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/nationalism_and_patriotism,form/parody,form/mock_epic,form/heroic_couplet,histref/napoleon"></span>
 
 
 Third Invocation to the Muse
@@ -2197,7 +2197,7 @@ The nervous strain of so much anxiety about his literary work wearied both mind 
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Lambkin’s Remains (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Lambkin’s Remains (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="concept/satire_of_society,form/satire,character/aristotle,character/charles_dickens,character/george_meredith,character/robert_browning"></span>
 
 
 He agreed with Aristotle in regarding lucidity as the main virtue of style. And if he sometimes failed to attain his ideal in this matter, the obscurity was due to none of those mannerisms which are so deplorable in a Meredith or a Browning, but rather to the fact that he found great difficulty in ending a sentence as he had begun it. His mind outran his pen; and the sentence from his University sermon, “England must do her duty, or what will the harvest be?” stirring and patriotic as it is, certainly suffers from some such fault, though I cannot quite see where.
@@ -2249,7 +2249,7 @@ But here we are met at the outset of our examination by a difficulty of enormous
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="Lambkin’s Remains (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Lambkin’s Remains (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/sleep,concept/satire_of_society,concept/paradox,concept/nonsense,form/satire"></span>
 
 
 Second much greater Difficulty
@@ -2289,7 +2289,7 @@ As to the Muses, we know well that Sleep has been their favourite theme for ages
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="Lambkin’s Remains (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="Lambkin’s Remains (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 “It is a pleasant thing to go to sleep!”
@@ -2341,7 +2341,7 @@ Lambkin was so justly touched by the incident as to purchase the volume, asking 
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="Lambkin’s Remains (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="Lambkin’s Remains (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/education,concept/classical_education,concept/hypocrisy,form/satire,setting/oxford"></span>
 
 
 [The Tutor makes a note of this and resumes....]
@@ -2387,7 +2387,7 @@ So far so good. But there is something more. No one can proceed indefinitely in 
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="Lambkin’s Remains (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="Lambkin’s Remains (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 It is impossible to say. It is the duty of the lecturer to set forth the scheme of truth: to make (as it were) a map or plan of Epistemology. He is not concerned to demonstrate a point; he is not bound to dispute the attitude of opponents. Let them fall of their own weight (Ruant mole suâ). It is mine to show that things may be thus or thus, and I will most steadily refuse to be drawn into sterile argument and profitless discussion with mere affirmations.
@@ -2423,7 +2423,7 @@ When Lambkin sailed, the British Fleet had already occupied a deep and commodiou
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="Lambkin’s Remains (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="Lambkin’s Remains (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 He therefore found upon landing at Leghorn47 a telegram from the newspaper, saying that his services were not required, but that the monetary engagements entered into by the proprietors would be strictly adhered to.
@@ -2471,7 +2471,7 @@ The white curling tips (white horses) come at one if one looks to windward, or i
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="Lambkin’s Remains (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="Lambkin’s Remains (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/sea,concept/satire_of_society,concept/nationalism_and_patriotism,concept/hypocrisy,concept/reform,form/satire"></span>
 
 
 He turned from me thoroughly ashamed, and told a man to swab the decks. The passengers appeared absorbed in their various occupations, but I felt I had “scored a point” and I retired to my cabin.
@@ -2509,7 +2509,7 @@ Before reciting it I must detain the reader with one fine anecdote concerning th
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="Lambkin’s Remains (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="Lambkin’s Remains (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 After their departure Mr. Large entered Lambkin’s room with an envelope, wishing to add a personal courtesy to a pleasant duty, and said:
@@ -2545,7 +2545,7 @@ At a poor lodging-house in Lafayette, Pa., U.S.A., three well-educated men from 
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="Lambkin’s Remains (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="Lambkin’s Remains (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 (Applause, which was only checked by a consideration for the respect due to the Sacred edifice.)
@@ -2581,7 +2581,7 @@ In the past term (I think I can answer for some of you) a much deeper meaning ha
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="Lambkin’s Remains (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="Lambkin’s Remains (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 You arrived sure of a number of things which you had learnt at school or at your mother’s knee. Of what are you certain now? Of nothing! It is necessary in the mysterious scheme of education that this blind faith or certitude should be laid as a foundation in early youth. But it is imperative that a man — if he is to be a man and not a monster — should lose it at the outset of his career. My young friends, I have given you the pearl of great price. You have begun to doubt.
@@ -2613,7 +2613,7 @@ If further proof were needed of Mr. Lambkin’s deep and minute scholarship in t
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="Lambkin’s Remains (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="Lambkin’s Remains (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="concept/satire_of_society,concept/nationalism_and_patriotism,concept/argument_from_authority,form/satire,histref/ancient_rome"></span>
 
 
 Any doubts as to Lambkin’s full claim to detailed-knowledge in those matters, will, however, be set at rest by the one thing he has left us of the kind — his article in the Revue Intellectuelle, which was translated for him by a Belgian friend, but of which I have preserved the original MSS.63 It is as follows:
@@ -2645,7 +2645,7 @@ A MAN NOT over-given to mere words, Lambkin was always also somewhat diffident o
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="Lambkin’s Remains (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="Lambkin’s Remains (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="concept/satire_of_society,concept/reform,concept/tradition,concept/nationalism_and_patriotism,form/satire"></span>
 
 
 But just as he was in politics a liberal in the truest sense (not in the narrow party definition of the word), so in the religious sphere he descried the necessity of gentle but persistent reform. “The present,” he would often say, “is inseparable from the past,” but he would add “continual modification to suit the necessities of a changing environment is a cardinal condition of vitality.”
@@ -2685,7 +2685,7 @@ Consider the over-charges in hotels. The economist may explain, the utilitarian 
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="Lambkin’s Remains (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="Lambkin’s Remains (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="concept/satire_of_society,concept/nationalism_and_patriotism,concept/hypocrisy,concept/class_conflict,form/satire"></span>
 
 
 Consider again the many examples of social and moral degradation which we meet with in our journeyings! We pass from the coarse German, to the inconstant Gaul. We fly the indifference and ribald scoffing of Milan only to fall into the sink of idolatory and superstition which men call Naples; we observe in our rapid flight the indolent Spaniard, the disgusting Slav, the uncouth Frisian and the frightful Hun. Our travels will not be without profit if they teach us to thank Heaven that our fathers preserved us from such a lot as theirs.
@@ -2721,7 +2721,7 @@ My Dear Burfle,
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="Lambkin’s Remains (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="Lambkin’s Remains (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/clothing,concept/heresy_and_schism,concept/religious_sectarianism,concept/tradition,form/satire,form/letter,histref/the_bible,setting/italy"></span>
 
 
 You have asked my advice on a matter of deep import, a matter upon which every self-respecting Englishman is asking himself the question “Am I a sheep or a goat?” My dear Burfle, I will answer you straight out, and I know you will not be angry with me if I answer also in the agora, “before the people,” as Paul would have done. Are you a sheep or a goat? Let us think.
@@ -2753,7 +2753,7 @@ It may seem strange that under such circumstances our unhappy neighbours across 
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="Lambkin’s Remains (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="Lambkin’s Remains (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="concept/vanity,setting/oxford"></span>
 
 
 Mr. Lambkin had but one close friend in France, a man who had from cosmopolitan experience acquired a breadth and humour which the Frenchman so conspicuously lacks; he united, therefore, the charm of the French character to that general experience which Lambkin invariably demanded of his friends, and the fact that he belonged to a small political minority and had so long associated with foreigners had winnowed from that fine soul the grossness and one-sidedness, the mingled [[Vanity|vanity]] and ferocity, which seems so fatal a part of the Gallic temper. In some ways this friend reminded one of the great Huguenots whom France to her eternal loss banished by the revocation of the Edict of Nantes, and of whom a bare twenty thousand are now to be found in the town of Nîmes. In other ways this gifted mind recalled — and this would be in his moments of just indignation — the manner and appearance of a Major Prophet.
@@ -2789,7 +2789,7 @@ A REPRESENTATIVE OF The J. C. R. had, but a short while before his death, the pr
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="Lambkin’s Remains (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="Lambkin’s Remains (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 “Ringing the bell” (writes our representative) “at a neat villa in the Banbury Road, the door was answered by a trim serving-maid in a chintz gown and with a white cap on her head. The whole aspect of Mr. Lambkin’s household without and within breathes repose and decent merriment. I was ushered into a well-ordered study, and noticed upon the walls a few handsome prints, chosen in perfect taste and solidly mounted in fine frames, ‘The meeting of Wellington and Blucher at Waterloo,’ ‘John Knox preaching before Mary Queen of Scots,’ ‘The trial of Lord William Russell,’ and two charming pictures of a child and a dog: ‘Can ‘oo talk?’ and ‘Me too!’ completed the little gallery. I noticed also a fine photograph of the Marquis of Llanidloes, whose legal attainments and philological studies had formed a close bond between him and Mr. Lambkin. A faded daguerreotype of Mr. Lambkin’s mother and a pencil sketch of his father’s country seat possessed a pathetic interest.
@@ -2857,7 +2857,7 @@ We’re mortgaging the rest to build it.
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="Lambkin’s Remains (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="Lambkin’s Remains (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/letters_writing,concept/classical_education,form/satire"></span>
 
 
 7 The old school house has been pulled down to make room for a set of villas called “Whortlebury Gardens.” I believe No. 35 to be the exact spot, but was unable to determine it accurately on account of the uncourteous action of the present proprietor.
@@ -2979,7 +2979,7 @@ We’re mortgaging the rest to build it.
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="Lambkin’s Remains (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="Lambkin’s Remains (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="concept/classical_education,concept/religious_persecution,form/satire"></span>
 
 
 65 Professor of Micro-graphy at Bonn.

@@ -910,7 +910,7 @@ XII.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE WAR IN SOUTH AFRICA — Chapter 11" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE WAR IN SOUTH AFRICA — Chapter 11" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/empire_and_imperialism,concept/nationalism_and_patriotism,concept/honour,concept/war_and_its_cost,form/nonfiction,histref/boer_war,setting/south_africa"></span>
 
 
 CHAPTER XI
@@ -930,7 +930,7 @@ THE WAR: ITS CAUSE AND CONDUCT
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE WAR IN SOUTH AFRICA — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE WAR IN SOUTH AFRICA — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/flag,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER I
@@ -969,7 +969,7 @@ In 1884 a deputation from the Transvaal visited England, and at their solicitati
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE WAR IN SOUTH AFRICA — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE WAR IN SOUTH AFRICA — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/flag,setting/south_africa"></span>
 
 
 CHAPTER II
@@ -1075,7 +1075,7 @@ From the date of this direct petition from our ill-used people to their Sovereig
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE WAR IN SOUTH AFRICA — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE WAR IN SOUTH AFRICA — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/fire,motif/flag,histref/british_empire,setting/battlefield,setting/south_africa"></span>
 
 
 CHAPTER III
@@ -1132,7 +1132,7 @@ It was on October 9 that the somewhat leisurely proceedings of the British Colon
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE WAR IN SOUTH AFRICA — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE WAR IN SOUTH AFRICA — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/flag,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER IV
@@ -1188,7 +1188,7 @@ Here is, in itself, as it seems to me, evidence of that great conspiracy, not of
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE WAR IN SOUTH AFRICA — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE WAR IN SOUTH AFRICA — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/fire,motif/flag,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER V
@@ -1259,7 +1259,7 @@ This severity did not, however, stop the movement, but gave it a fiercer turn. T
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE WAR IN SOUTH AFRICA — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE WAR IN SOUTH AFRICA — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/fire,motif/flag,setting/south_africa"></span>
 
 
 CHAPTER VI
@@ -1303,7 +1303,7 @@ It must be confessed that the case of these houses is entirely different from th
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE WAR IN SOUTH AFRICA — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE WAR IN SOUTH AFRICA — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/flag,setting/south_africa"></span>
 
 
 CHAPTER VII
@@ -1390,7 +1390,7 @@ It is worthy of record that the portrait of an emaciated child has been circulat
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE WAR IN SOUTH AFRICA — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE WAR IN SOUTH AFRICA — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/fire,motif/flag,setting/south_africa"></span>
 
 
 CHAPTER VIII
@@ -1493,7 +1493,7 @@ But Mr. Stead says that it must be so because there are 250,000 men in Africa. C
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE WAR IN SOUTH AFRICA — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE WAR IN SOUTH AFRICA — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/fire,motif/flag,setting/south_africa"></span>
 
 
 CHAPTER IX
@@ -1661,7 +1661,7 @@ He adds: ‘I can only repeat that the English officers and the English soldiers
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE WAR IN SOUTH AFRICA — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE WAR IN SOUTH AFRICA — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/fire,motif/flag"></span>
 
 
 CHAPTER X
@@ -1785,7 +1785,7 @@ So long as an excuse could be found for a brave enemy we found it. But the day i
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE WAR IN SOUTH AFRICA — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE WAR IN SOUTH AFRICA — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/flag,setting/south_africa"></span>
 
 
 CHAPTER XI

@@ -6082,7 +6082,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_01" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_01" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/death,motif/fire,motif/nature,motif/silence,motif/stars,motif/time,motif/well,concept/freedom,concept/nature,concept/pride,concept/truth,form/epigram,histref/inquisition"></span>
 
 
 I. Introductory Remarks on the Importance of Orthodoxy
@@ -6316,7 +6316,7 @@ le medesime cose per cui lo fece un galeotto per averle praticate.
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_02" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_02" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt" data-tags="topos/paradise_lost,motif/journey,motif/moon,motif/time,concept/body,concept/freedom,form/comedy,histref/catholic_church,histref/milton,character/milton,character/satan"></span>
 
 
 Now, in our [[Time|time]], [[philosophy]] or religion, our theory,
@@ -6546,7 +6546,7 @@ Non c'è nulla che fallisca quanto il [[success|successo]].
 
 
 
-<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_03" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introductory_remarks_on_the_importance_o--part_03" data-title="Heretics — Introductory Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Introductory Remarks on the Importance o" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/night,concept/body,concept/education,concept/hope"></span>
 
 
 And having discovered that opportunism does fail, I have
@@ -6660,7 +6660,7 @@ al buio.
 
 
 
-<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_01" data-title="Heretics — On the Negative Spirit (part 1)" data-chapter="On the Negative Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_01" data-title="Heretics — On the Negative Spirit (part 1)" data-chapter="On the Negative Spirit" data-kind="excerpt" data-tags="motif/fire,motif/ghosts,motif/love,motif/prayer,motif/silence,motif/uncanny,motif/well,concept/body,concept/courage,concept/doubt,concept/self,concept/truth,concept/uncanny,form/comedy,histref/bible,histref/dante,histref/puritanism,character/christ,character/virgin_mary"></span>
 
 
 II.  On the Negative Spirit
@@ -6800,7 +6800,7 @@ Ora, è questa grande lacuna dell'etica moderna, l'assenza di vivide immagini di
 
 
 
-<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_02" data-title="Heretics — On the Negative Spirit (part 2)" data-chapter="On the Negative Spirit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_the_negative_spirit--part_02" data-title="Heretics — On the Negative Spirit (part 2)" data-chapter="On the Negative Spirit" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/ghosts,motif/love,motif/time,motif/well,concept/beauty,concept/deception,concept/education,concept/faith,concept/freedom,concept/truth,histref/milton,character/milton,character/pistol,character/tolstoy"></span>
 
 
 I do not wish the reader to confuse me for a moment with those vague
@@ -6963,7 +6963,7 @@ Il caso del discorso generale sul «progresso» è, in verità, un caso estremo.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_01" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 1)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_01" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 1)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/dawn,motif/death,motif/fire,motif/leaves,motif/nature,motif/rose,motif/time,motif/well,motif/wheel,concept/doubt,concept/history,concept/nature,form/history"></span>
 
 
 III.  On Mr. Rudyard Kipling and Making the World Small
@@ -7191,7 +7191,7 @@ Poiché, dal momento in cui abbiamo una visione dell'universo, lo possediamo.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_02" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 2)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_02" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 2)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/horse,motif/love,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,histref/ancient_rome,setting/ancient_rome"></span>
 
 
 Now, the message of Rudyard Kipling, that upon which he has
@@ -7407,7 +7407,7 @@ lo stato d'animo dell'uomo cosmopolita che ha veduto uomini e città.
 
 
 
-<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_03" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 3)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_on_mr_rudyard_kipling_and_making_the_wor--part_03" data-title="Heretics — On Mr. Rudyard Kipling and Making the World Small (part 3)" data-chapter="On Mr Rudyard Kipling and Making the Wor" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/dust,motif/garden,motif/love,motif/stars,motif/time,motif/well,concept/beauty,concept/doubt,concept/melancholy,concept/self,concept/truth,form/epigram,setting/london,setting/venice,character/ulysses"></span>
 
 
 "For to admire and for to see,
@@ -7627,7 +7627,7 @@ solo per trovare il sole plebeo e le [[Stars|stelle]] suburbane.
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_01" data-title="Heretics — Mr. Bernard Shaw (part 1)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_01" data-title="Heretics — Mr. Bernard Shaw (part 1)" data-chapter="Mr Bernard Shaw" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/love,motif/machine,motif/marriage,motif/night,motif/soul,motif/stars,motif/well,concept/faith,concept/fear,concept/truth,form/melodrama,character/brutus,character/mark_antony,character/michael"></span>
 
 
 IV.  Mr. Bernard [[Shaw]]
@@ -7747,7 +7747,7 @@ Vi è nel mondo moderno un altro uomo che potrebbe dirsi l'antitesi del signor C
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_02" data-title="Heretics — Mr. Bernard Shaw (part 2)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_02" data-title="Heretics — Mr. Bernard Shaw (part 2)" data-chapter="Mr Bernard Shaw" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/dreams,motif/fire,motif/time,concept/fear,concept/freedom,concept/grotesque,concept/madness,concept/truth,character/julius_caesar"></span>
 
 
 The [[Truth|truth]] is, that it is quite an error to suppose that absence
@@ -7898,7 +7898,7 @@ Ché la [[Truth|verità]] è che il signor [[Shaw]] non ha mai visto le cose com
 
 
 
-<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_03" data-title="Heretics — Mr. Bernard Shaw (part 3)" data-chapter="Mr Bernard Shaw" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_mr_bernard_shaw--part_03" data-title="Heretics — Mr. Bernard Shaw (part 3)" data-chapter="Mr Bernard Shaw" data-kind="excerpt" data-tags="motif/window,concept/doubt,concept/greatness,concept/humility,concept/truth,setting/mountains,character/christ,character/nurse"></span>
 
 
 The [[Truth|truth]] is, that all genuine appreciation rests on a certain
@@ -7966,7 +7966,7 @@ Ora questo è, lo dico deliberatamente, l'unico difetto nella [[Greatness|grande
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_01" data-title="Heretics — Mr. H. G. Wells and the Giants (part 1)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_01" data-title="Heretics — Mr. H. G. Wells and the Giants (part 1)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,archetype/prophet,motif/birds,motif/desire,motif/love,motif/soul,motif/stars,motif/well,concept/charity,concept/history,concept/humility,concept/pride,concept/self,concept/truth,concept/vanity,form/essay,form/history,setting/mountains,character/king_of_france,character/sempronius"></span>
 
 
 V. Mr. H. G. Wells and the Giants
@@ -8126,7 +8126,7 @@ L'esempio più citato ai giorni nostri è ciò che si chiama l'[[Humility|umilt�
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_02" data-title="Heretics — Mr. H. G. Wells and the Giants (part 2)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_02" data-title="Heretics — Mr. H. G. Wells and the Giants (part 2)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/marriage,motif/night,motif/road,motif/soul,concept/body,concept/courage,concept/education,concept/humility,concept/original_sin,concept/self,concept/union,concept/vanity,setting/mountains"></span>
 
 
 Now, this arresting, mental [[Humility|humility]] in Mr. H. G. Wells may be,
@@ -8276,7 +8276,7 @@ Il signor Wells, tuttavia, non è abbastanza sciolto dalla più angusta veduta s
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_03" data-title="Heretics — Mr. H. G. Wells and the Giants (part 3)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_03" data-title="Heretics — Mr. H. G. Wells and the Giants (part 3)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="archetype/shadow,motif/road,concept/doubt,concept/greatness,concept/loneliness,concept/truth,concept/unattainable,form/allegory,form/novel"></span>
 
 
 But I think the main mistake of Mr. Wells's [[philosophy]] is a somewhat
@@ -8397,7 +8397,7 @@ E ora mi torna alla mente che il signor H. G. Wells ha in effetti scritto un del
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_04" data-title="Heretics — Mr. H. G. Wells and the Giants (part 4)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_04" data-title="Heretics — Mr. H. G. Wells and the Giants (part 4)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/hill,motif/nature,motif/time,concept/conscience,concept/courage,concept/despair,concept/doubt,concept/hope,concept/nature,concept/paradox,concept/pride,character/achilles,character/bottom,character/robin_hood"></span>
 
 
 "The Food of the Gods" is the tale of "Jack the Giant-Killer"
@@ -8524,7 +8524,7 @@ Torno per un'ultima parola a Jack l'ammazzagiganti. Mi sono soffermato su questa
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_05" data-title="Heretics — Mr. H. G. Wells and the Giants (part 5)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_05" data-title="Heretics — Mr. H. G. Wells and the Giants (part 5)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="motif/cross,motif/stars,concept/doubt,concept/faith,concept/history,concept/truth,form/history,histref/christianity,histref/milton,character/milton"></span>
 
 
 VI.  Christmas and the Aesthetes
@@ -8643,7 +8643,7 @@ E la medesima antitesi esiste a proposito di un'altra religione moderna — inte
 
 
 
-<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_06" data-title="Heretics — Mr. H. G. Wells and the Giants (part 6)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_mr_h_g_wells_and_the_giants--part_06" data-title="Heretics — Mr. H. G. Wells and the Giants (part 6)" data-chapter="Mr H G Wells and the Giants" data-kind="excerpt" data-tags="archetype/fool,motif/childhood,motif/dance,motif/death,motif/dreams,motif/ghosts,motif/nature,motif/snow,motif/supernatural,motif/time,motif/well,motif/winter,concept/beauty,concept/doubt,concept/faith,concept/honour,concept/nature,concept/truth,form/fragment,form/hymn,histref/catholic_church,histref/christianity,character/angelo,character/michael"></span>
 
 
 But if the wisdom of Comte was insufficient, the folly of Comte
@@ -8763,7 +8763,7 @@ E ora devo toccare una faccenda assai triste. Vi è nel mondo moderno una classe
 
 
 
-<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_01" data-title="Heretics — Omar and the Sacred Vine (part 1)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_01" data-title="Heretics — Omar and the Sacred Vine (part 1)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/city,motif/death,motif/horse,motif/rose,motif/time,motif/well,concept/paradox,concept/self,concept/temptation,form/epigram,form/translation,setting/italy"></span>
 
 
 VII.  Omar and the Sacred Vine
@@ -8888,7 +8888,7 @@ Poiché questa [[Song|canzone]] fu intonata da uomini felici per esprimere il va
 
 
 
-<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_02" data-title="Heretics — Omar and the Sacred Vine (part 2)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_omar_and_the_sacred_vine--part_02" data-title="Heretics — Omar and the Sacred Vine (part 2)" data-chapter="Omar and the Sacred Vine" data-kind="excerpt" data-tags="topos/carpe_diem,archetype/lover,motif/blood,motif/dance,motif/death,motif/flag,motif/love,motif/marriage,motif/nature,motif/rose,motif/soul,motif/stars,motif/time,concept/eternity,concept/history,concept/hope,concept/immortality,concept/nature,concept/self,form/history,histref/christianity,histref/dante,character/christ,character/tolstoy"></span>
 
 
 "The ball no question makes of Ayes or Noes,
@@ -9025,7 +9025,7 @@ L'effetto di Omar (o di Fitzgerald) sull'altro mondo possiamo lasciarlo perdere;
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_01" data-title="Heretics — The Mildness of the Yellow Press (part 1)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_01" data-title="Heretics — The Mildness of the Yellow Press (part 1)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/leaves,motif/nature,motif/well,concept/courage,concept/democracy,concept/nature,histref/america,histref/christianity,setting/america"></span>
 
 
 VIII.  The Mildness of the Yellow Press
@@ -9146,7 +9146,7 @@ Del vero giornalismo sensazionalistico, quale esiste in Francia, in Irlanda e in
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_02" data-title="Heretics — The Mildness of the Yellow Press (part 2)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_02" data-title="Heretics — The Mildness of the Yellow Press (part 2)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/desire,motif/nature,motif/soul,motif/stars,motif/time,concept/hope,concept/nature,concept/paradox,concept/self,concept/wonder,character/apollo,character/arthur"></span>
 
 
 Some hold that such papers as these are scarcely the proper
@@ -9273,7 +9273,7 @@ Non voglio insozzare questa cosa perfetta con un commento; le parole di Mercurio
 
 
 
-<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_03" data-title="Heretics — The Mildness of the Yellow Press (part 3)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_mildness_of_the_yellow_press--part_03" data-title="Heretics — The Mildness of the Yellow Press (part 3)" data-chapter="The Mildness of the Yellow Press" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/fire,motif/home,motif/love,motif/road,motif/time,motif/well,concept/deception,concept/doubt,concept/greatness,concept/reform,concept/sublime,concept/truth,form/epigram,form/parable,form/tragedy,histref/america,setting/america"></span>
 
 
 "A little common sense impresses American working-men more than
@@ -9392,7 +9392,7 @@ L'unica domanda ora è quanto più a lungo durerà la finzione che i giornalisti
 
 
 
-<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="The Moods of Mr George Moore" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_moods_of_mr_george_moore" data-title="Heretics — The Moods of Mr. George Moore" data-chapter="The Moods of Mr George Moore" data-kind="story" data-tags="archetype/artist,motif/mirror,motif/time,motif/well,concept/charity,concept/comradeship,concept/doubt,concept/faith,concept/hope,concept/humility,concept/paradox,concept/pride,concept/self,concept/truth,concept/vanity,concept/wonder,histref/catholic_church,histref/christianity,histref/crusades,histref/milton,character/milton"></span>
 
 
 IX.  The Moods of Mr. George Moore
@@ -9540,7 +9540,7 @@ Se paragoniamo questa solenne follia con la lieta follia con cui Stevenson tesse
 
 
 
-<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="On Sandals and Simplicity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_sandals_and_simplicity" data-title="Heretics — On Sandals and Simplicity" data-chapter="On Sandals and Simplicity" data-kind="story" data-tags="archetype/child,motif/desire,motif/love,motif/nature,motif/supernatural,motif/tears,concept/beauty,concept/doubt,concept/fear,concept/nature,concept/wonder,character/tolstoy,character/venus"></span>
 
 
 X. On Sandals and Simplicity
@@ -9838,7 +9838,7 @@ una faccenda tanto pratica quanto la salute.
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_savages--part_01" data-title="Heretics — Science and the Savages (part 1)" data-chapter="Science and the Savages" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_savages--part_01" data-title="Heretics — Science and the Savages (part 1)" data-chapter="Science and the Savages" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/flowers,motif/grave,motif/journey,motif/love,motif/moon,motif/nature,motif/secrets,motif/time,concept/history,concept/immortality,concept/nature,concept/truth,form/history,form/riddle,setting/london"></span>
 
 
 XI.  Science and the Savages
@@ -9961,7 +9961,7 @@ L'ovvia [[Truth|verità]] è che, nel momento in cui una qualsiasi materia è pa
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_savages--part_02" data-title="Heretics — Science and the Savages (part 2)" data-chapter="Science and the Savages" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_savages--part_02" data-title="Heretics — Science and the Savages (part 2)" data-chapter="Science and the Savages" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,archetype/tyrant,motif/lightning,motif/nature,motif/night,motif/supernatural,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/truth,form/fable,form/history,character/arthur"></span>
 
 
 As one of the enormous follies of folk-lore, let us take
@@ -10093,7 +10093,7 @@ Forse la più patetica di tutte le illusioni dei moderni studiosi della credenza
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_01" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 1)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_01" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 1)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt" data-tags="motif/desire,motif/flowers,motif/grave,motif/stars,motif/time,concept/charity,concept/despair,concept/faith,concept/history,concept/hope,form/history,histref/christianity,histref/french_revolution,character/christ"></span>
 
 
 XII.  Paganism and Mr. Lowes Dickinson
@@ -10315,7 +10315,7 @@ irragionevoli quanto è possibile esserlo.
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_02" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 2)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_02" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 2)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt" data-tags="topos/golden_age,motif/death,motif/desire,motif/home,motif/love,motif/nature,motif/soul,motif/time,concept/charity,concept/faith,concept/hope,concept/humility,concept/nature,concept/paradox,concept/truth,form/novel,histref/christianity,character/ulysses"></span>
 
 
 As the word "unreasonable" is open to misunderstanding, the matter
@@ -10544,7 +10544,7 @@ cioè perché la civiltà cristiana doveva scoprirla o morire.
 
 
 
-<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_03" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 3)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_paganism_and_mr_lowes_dickinson--part_03" data-title="Heretics — Paganism and Mr. Lowes Dickinson (part 3)" data-chapter="Paganism and Mr Lowes Dickinson" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/lightning,motif/nature,motif/stars,motif/tears,motif/time,motif/water,concept/charity,concept/faith,concept/history,concept/honour,concept/humility,concept/nature,concept/original_sin,concept/pride,concept/resignation,concept/self,concept/truth,form/history,histref/christianity,setting/venice,character/christ"></span>
 
 
 The great psychological discovery of Paganism, which turned it
@@ -10872,7 +10872,7 @@ finiremo nel [[Christianity|cristianesimo]].
 
 
 
-<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Celts and Celtophiles" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_celts_and_celtophiles" data-title="Heretics — Celts and Celtophiles" data-chapter="Celts and Celtophiles" data-kind="story" data-tags="archetype/shadow,motif/blood,motif/dreams,motif/flag,motif/love,motif/night,motif/soul,motif/time,motif/water,concept/history,concept/honour,concept/truth,form/history,histref/america,setting/america,setting/italy"></span>
 
 
 XIII.  Celts and Celtophiles
@@ -11190,7 +11190,7 @@ In materia di visioni, l'Irlanda è più di una nazione:
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_01" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 1)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_01" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 1)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/garden,motif/soul,motif/well,concept/loneliness,concept/self,histref/christianity,setting/london,setting/venice,character/lucullus"></span>
 
 
 XIV.  On Certain Modern Writers and the Institution of the Family
@@ -11420,7 +11420,7 @@ Di fatto, la odiano per la sua forza.
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_02" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 2)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_02" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 2)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt" data-tags="motif/city,motif/death,motif/garden,motif/home,motif/love,motif/nature,motif/stars,concept/imagination,concept/martyrdom,concept/nature,concept/truth,setting/london"></span>
 
 
 Of course, this shrinking from the brutal vivacity and brutal
@@ -11646,7 +11646,7 @@ Il nonno è stupido, come il mondo; è vecchio, come il mondo.
 
 
 
-<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_03" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 3)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_on_certain_modern_writers_and_the_instit--part_03" data-title="Heretics — On Certain Modern Writers and the Institution of the Family (part 3)" data-chapter="On Certain Modern Writers and the Instit" data-kind="excerpt" data-tags="archetype/hero,motif/love,motif/nature,motif/well,concept/beauty,concept/doubt,concept/nature,concept/sublime,concept/wonder,form/novel,character/aquinas,character/bottom"></span>
 
 
 Those who wish, rightly or wrongly, to step out of all this, do definitely
@@ -11904,7 +11904,7 @@ universo debole come loro stessi.
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_01" data-title="Heretics — On Smart Novelists and the Smart Set (part 1)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_01" data-title="Heretics — On Smart Novelists and the Smart Set (part 1)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt" data-tags="archetype/hero,motif/bells,motif/blood,motif/soul,motif/stars,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/epigram,form/history,form/melodrama,form/novel"></span>
 
 
 XV.  On Smart Novelists and the Smart Set
@@ -12118,7 +12118,7 @@ altro giovane possiede le [[Stars|stelle]].
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_02" data-title="Heretics — On Smart Novelists and the Smart Set (part 2)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_02" data-title="Heretics — On Smart Novelists and the Smart Set (part 2)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt" data-tags="motif/autumn,motif/decay,motif/desire,motif/stars,motif/well,concept/beauty,concept/courage,concept/fear,concept/hope,form/comedy,setting/london,character/apollo"></span>
 
 
 Mr. [[Hope]], however, is a very mild case, and in him there
@@ -12326,7 +12326,7 @@ mi sia consentito di affrontarlo per una via più tortuosa.
 
 
 
-<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_03" data-title="Heretics — On Smart Novelists and the Smart Set (part 3)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_smart_novelists_and_the_smart_set--part_03" data-title="Heretics — On Smart Novelists and the Smart Set (part 3)" data-chapter="On Smart Novelists and the Smart Set" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/death,motif/silence,motif/spring,motif/tears,motif/well,concept/beauty,concept/courage,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/melancholy,concept/self,form/comedy,histref/milton,character/achilles,character/buckingham,character/little_nell,character/milton,character/oliver"></span>
 
 
 The haunting element of ineffectualness which runs through so much
@@ -12716,7 +12716,7 @@ delle cui glorie fu che non seppe descrivere un gentiluomo.
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_01" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 1)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_01" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 1)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/grave,motif/hill,motif/nature,motif/road,motif/time,concept/nature,concept/truth,concept/wonder,form/essay,histref/christianity,setting/desert,character/queen"></span>
 
 
 XVI.  On Mr. McCabe and a Divine Frivolity
@@ -12835,7 +12835,7 @@ Cito questo passo con particolare piacere, perché il signor McCabe non può cer
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_02" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 2)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_02" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 2)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt" data-tags="concept/paradox,concept/wit,concept/satire_of_society,concept/hypocrisy,form/essay,character/mccabe,character/bernard_shaw,character/jonathan_swift"></span>
 
 
 Mr. McCabe thinks that I am not serious but only funny,
@@ -12980,7 +12980,7 @@ Sono, in verità, lieto di scoprire che il signor McCabe annovera il signor Shaw
 
 
 
-<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_03" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 3)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_on_mr_mccabe_and_a_divine_frivolity--part_03" data-title="Heretics — On Mr. McCabe and a Divine Frivolity (part 3)" data-chapter="On Mr McCabe and a Divine Frivolity" data-kind="excerpt" data-tags="motif/dance,concept/materialism,concept/critique_of_progress,concept/democracy,concept/common_man,concept/paradox,form/essay,character/mccabe"></span>
 
 
 All this, however, is a parenthesis.  The thing with which I am
@@ -13139,7 +13139,7 @@ Quando, dunque, il signor McCabe dice di dare alle danze dell'Alhambra (e ai mie
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_01" data-title="Heretics — On the Wit of Whistler (part 1)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_01" data-title="Heretics — On the Wit of Whistler (part 1)" data-chapter="On the Wit of Whistler" data-kind="excerpt" data-tags="concept/decadence_and_aestheticism,concept/the_artist_and_society,concept/beauty,form/essay,histref/aestheticism_and_the_decadent_movement,character/whistler,character/john_ruskin,character/robert_browning"></span>
 
 
 XVII.  On the Wit of Whistler
@@ -13363,7 +13363,7 @@ e di equivoco, in quei versi di ‘The Ring and the Book‘—
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_02" data-title="Heretics — On the Wit of Whistler (part 2)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_02" data-title="Heretics — On the Wit of Whistler (part 2)" data-chapter="On the Wit of Whistler" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/love,motif/nature,motif/pain,motif/well,concept/fear,concept/greatness,concept/humility,concept/nature,concept/self,concept/truth,concept/vanity,form/satire,form/tragedy,histref/christianity,character/bottom"></span>
 
 
 "‘[[Well]], British Public, ye who like me not,
@@ -13583,7 +13583,7 @@ aiutarlo a essere un avvocato eccezionale.
 
 
 
-<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_03" data-title="Heretics — On the Wit of Whistler (part 3)" data-chapter="On the Wit of Whistler" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_on_the_wit_of_whistler--part_03" data-title="Heretics — On the Wit of Whistler (part 3)" data-chapter="On the Wit of Whistler" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,motif/night,concept/history,form/history,form/lyric,character/christ"></span>
 
 
 Whistler never ceased to be an [[Artist|artist]].  As Mr. Max Beerbohm pointed
@@ -13691,7 +13691,7 @@ uomo di terz'ordine è superiore agli altri uomini, come Whistler.
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_01" data-title="Heretics — The Fallacy of the Young Nation (part 1)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_01" data-title="Heretics — The Fallacy of the Young Nation (part 1)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/soul,motif/well,concept/ambition,concept/fanaticism,concept/truth"></span>
 
 
 XVIII.  The Fallacy of the Young Nation
@@ -13833,7 +13833,7 @@ Coloro che dicono che un ideale è una cosa pericolosa, che illude e inebria, ha
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_02" data-title="Heretics — The Fallacy of the Young Nation (part 2)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_02" data-title="Heretics — The Fallacy of the Young Nation (part 2)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt" data-tags="motif/time,concept/deception,concept/doubt,concept/education,concept/history,concept/hope,concept/identity,concept/union,form/history,histref/america,setting/america"></span>
 
 
 The matter may, perhaps, be illustrated by a parallel from our
@@ -14004,7 +14004,7 @@ Naturalmente possiamo usare la metafora della giovinezza a proposito dell'[[Amer
 
 
 
-<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_03" data-title="Heretics — The Fallacy of the Young Nation (part 3)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_fallacy_of_the_young_nation--part_03" data-title="Heretics — The Fallacy of the Young Nation (part 3)" data-chapter="The Fallacy of the Young Nation" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/love,motif/silence,concept/beauty,concept/body,concept/imagination,concept/melancholy,concept/truth,concept/vanity,form/novel,histref/america,setting/america,setting/venice"></span>
 
 
 A similar attempt is made, and with even less [[success]], to represent
@@ -14153,7 +14153,7 @@ Ma quando veniamo all'ultima prova della nazionalità, la prova dell'arte e dell
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_01" data-title="Heretics — Slum Novelists and the Slums (part 1)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_01" data-title="Heretics — Slum Novelists and the Slums (part 1)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/home,motif/nature,motif/time,concept/body,concept/common_man,concept/democracy,concept/fear,concept/nature,concept/reform,concept/slavery,concept/sublime"></span>
 
 
 XIX.  Slum Novelists and the Slums
@@ -14278,7 +14278,7 @@ Il dispotismo ereditario è dunque, nella sua essenza e nel suo sentimento, demo
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_02" data-title="Heretics — Slum Novelists and the Slums (part 2)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_02" data-title="Heretics — Slum Novelists and the Slums (part 2)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt" data-tags="archetype/innocent,archetype/prophet,motif/death,motif/garden,motif/nature,motif/time,motif/water,motif/well,concept/democracy,concept/faith,concept/nature,concept/pride,concept/suffering"></span>
 
 
 But the thing which is really required for the proper working of [[democracy]]
@@ -14384,7 +14384,7 @@ Siamo dunque antidemocratici nella nostra religione, come è provato dai nostri 
 
 
 
-<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_03" data-title="Heretics — Slum Novelists and the Slums (part 3)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_slum_novelists_and_the_slums--part_03" data-title="Heretics — Slum Novelists and the Slums (part 3)" data-chapter="Slum Novelists and the Slums" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/grave,motif/mirror,motif/nature,motif/night,motif/road,motif/secrets,motif/soul,motif/time,motif/water,concept/history,concept/imagination,concept/nature,concept/poverty,concept/vanity,concept/wonder,form/history,form/melodrama,character/arthur,character/bottom"></span>
 
 
 A poor man is a man who has not got much money.  This may seem
@@ -14558,7 +14558,7 @@ Un enorme ostacolo si frappone alla sua realtà. Gli uomini che la scrivono, e g
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_01" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_01" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 1)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt" data-tags="archetype/artist,motif/animals,motif/desire,motif/grave,motif/machine,motif/stars,motif/time,concept/imagination,concept/truth,histref/christianity,setting/london"></span>
 
 
 XX.  Concluding Remarks on the Importance of Orthodoxy
@@ -14715,7 +14715,7 @@ La ragione, in verità, è semplicissima. Un uomo non può essere abbastanza sag
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_02" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_02" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 2)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/fire,motif/pain,motif/well,concept/fanaticism,concept/history,concept/truth,form/history,form/sketch,histref/dante"></span>
 
 
 In concluding this book, therefore, I would ask, first and foremost,
@@ -14833,7 +14833,7 @@ Una comune esitazione dei nostri giorni, riguardo all'uso di convinzioni estreme
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_03" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_03" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 3)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt" data-tags="motif/fire,motif/lion,motif/nature,motif/time,motif/well,concept/beauty,concept/doubt,concept/fanaticism,concept/hope,concept/nature,concept/truth,setting/cathedral"></span>
 
 
 There are people, however, who dig somewhat deeper than this
@@ -14958,7 +14958,7 @@ In breve, dunque, liquidiamo i due pericoli opposti del bigottismo e del [[Fanat
 
 
 
-<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_04" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 4)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_concluding_remarks_on_the_importance_of--part_04" data-title="Heretics — Concluding Remarks on the Importance of Orthodoxy (part 4)" data-chapter="Concluding Remarks on the Importance of" data-kind="excerpt" data-tags="motif/journey,motif/leaves,motif/summer,motif/time,concept/body,concept/courage,concept/doubt,concept/faith,concept/fear,concept/immortality,histref/crusades,character/christ"></span>
 
 
 This latter situation is certainly possible; in fact, it is the situation

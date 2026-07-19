@@ -470,7 +470,7 @@ region of the shadows?
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Mesmeric Revelation (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Mesmeric Revelation (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/night,motif/pain,motif/sleep,motif/soul,motif/time,motif/well,concept/doubt,concept/immortality,concept/mesmerism,concept/self,concept/suffering,setting/germany,character/trinculo"></span>
 
 
 Whatever [[Doubt|doubt]] may still envelop the _rationale_ of [[Mesmerism|mesmerism]], its
@@ -573,7 +573,7 @@ and P. myself.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Mesmeric Revelation (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Mesmeric Revelation (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/sleep,motif/water,concept/beauty,concept/nature,concept/self,concept/truth"></span>
 
 
 _P._ Are you asleep?
@@ -713,7 +713,7 @@ the progress of a star than would an ether of adamant or of iron.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Mesmeric Revelation (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Mesmeric Revelation (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/sleep,motif/time,motif/well,concept/body,concept/nature"></span>
 
 
 _V._ Your objection is answered with an ease which is nearly in
@@ -858,7 +858,7 @@ necessary to confine them until fledged.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Mesmeric Revelation (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Mesmeric Revelation (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/secrets,motif/sleep,motif/stars,motif/well,concept/immortality,character/venus"></span>
 
 
 _P._ You speak of rudimental “beings.” Are there other rudimental

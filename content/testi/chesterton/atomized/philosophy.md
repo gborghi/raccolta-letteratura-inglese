@@ -92,7 +92,7 @@ the three or four sanities and certainties of human free thought.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="philosophy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="philosophy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,motif/time,concept/doubt,concept/hope,concept/self,setting/cathedral,setting/london"></span>
 
 
 [[philosophy|Philosophy]] for the Schoolroom

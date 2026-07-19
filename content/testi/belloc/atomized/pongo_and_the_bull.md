@@ -2649,7 +2649,7 @@ A month later when the General Election had given an enormous majority in Dolly�
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Pongo and the Bull — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Pongo and the Bull — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER I
@@ -2689,7 +2689,7 @@ There were not a dozen of them staying in the house, and of that dozen only four
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Pongo and the Bull — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Pongo and the Bull — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/democracy,form/satire,form/novel,histref/british_empire,setting/rural_england"></span>
 
 
 Dolly found himself walking in these early days of a late and cold spring upon the Sunday morning just before lunch with the Leader of the Opposition. Both men had just risen after a long and much-needed rest, the mind of each was fresh for the extreme beauty of the Somersetshire hills around them, and a companionship of sympathy, even closer than that which they had so long enjoyed, united them as they slowly paced down one of those avenues of Marayahs for which historic but cosy Habberton is famous. It was a long avenue, and the glorious Caucasian flowers now breaking into bloom framed each side of it with a deep crimson which almost made one forget the powerful and slightly offensive odour of that foreign but fashionable shrub. A soft moss had long been allowed to cover the gravel of the broad walk, and the footsteps of the two statesmen passed over it as noiselessly and as easily as did in their minds the progress of their common thoughts.
@@ -2721,7 +2721,7 @@ Now, that peril had threatened so long — for twelve years at least, and for ne
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Pongo and the Bull — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Pongo and the Bull — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 That spring day, as the two men turned again on the broad walk at Habberton, the Prime Minister told his companion that he thought it had broken. It might be a week or ten days or a fortnight, or it might be a month, but it was coming. He gave his reasons.
@@ -2757,7 +2757,7 @@ Pongo answered vaguely that of course he knew about the Straights. He made some 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Pongo and the Bull — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Pongo and the Bull — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/democracy,concept/power_and_corruption,concept/empire_and_imperialism,concept/socialism,concept/antisemitism,form/satire,form/novel"></span>
 
 
 But Dolly was very grave. “You know how much the Straights think of my wife?” said Dolly bluntly.
@@ -2847,7 +2847,7 @@ As they neared it Pennybunt said a few words that all the inner ring had repeate
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Pongo and the Bull — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Pongo and the Bull — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/food_and_feasting,concept/satire_of_society,concept/hypocrisy,form/satire,form/novel,setting/rural_england"></span>
 
 
 CHAPTER II
@@ -2927,7 +2927,7 @@ There was a silence until Victoria Mosel, having thoroughly finished her plate o
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Pongo and the Bull — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Pongo and the Bull — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/money_and_avarice,concept/materialism,form/satire,form/novel"></span>
 
 
 The Prime Minister, who loved a reputation for cunning, looked quizzical and said nothing.
@@ -3003,7 +3003,7 @@ G. Quinlan Smith had grown with the times. He commanded as many millions as you 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Pongo and the Bull — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Pongo and the Bull — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/democracy,form/satire,form/novel"></span>
 
 
 For G. Quinlan’s deafness was the one reality he could not bear to face, and the one truth the presentment of which disturbed his admirable self-control.
@@ -3033,7 +3033,7 @@ Mary Smith shut the atlas and bore it away.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Pongo and the Bull — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Pongo and the Bull — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER III
@@ -3069,7 +3069,7 @@ It was, as Dolly himself must have felt, an experiment, but it had thoroughly su
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Pongo and the Bull — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Pongo and the Bull — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/socialism,concept/democracy,concept/power_and_corruption,concept/class_conflict,form/satire,form/novel,histref/irish_question"></span>
 
 
 Now she was enthroned as the leader of the whole political world; not because she was the Prime Minister’s wife — she had, with the rare and beautiful self-sacrifice of women, married him just before he had arranged with Pongo to go into Opposition — but because among the women who were relatives or wives of the chief politicians of the time she was so much the most intelligent.
@@ -3097,7 +3097,7 @@ The Straights returned to Westminster after the election of 1918 only twenty-thr
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Pongo and the Bull — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Pongo and the Bull — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The Premier (for Dolly was Premier now by their support) was, on his side, not only willing as a politician, but naturally inclined as a thinker to follow their advice upon the details of social reform. It seemed an unbreakable arrangement, and it was further strengthened by judicious patronage.
@@ -3131,7 +3131,7 @@ Her energy was more impressive than ever after the comparative quiet of Habberto
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Pongo and the Bull — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Pongo and the Bull — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/deception,concept/socialism,concept/hypocrisy,concept/democracy,form/satire,form/novel"></span>
 
 
 “Besides which, one doesn’t see the Whip — one sees the leader of the party.”
@@ -3195,7 +3195,7 @@ His next business was the redoubtable interview with the Duke, but between that 
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Pongo and the Bull — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Pongo and the Bull — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/materialism,concept/deception,concept/vanity,concept/money_and_avarice,concept/appearance_vs_reality,form/satire,form/novel"></span>
 
 
 CHAPTER IV
@@ -3295,7 +3295,7 @@ As usual! — Pickles hadn’t come up to time!... Peggy cursed them gently and 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Pongo and the Bull — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/power_and_corruption,concept/antisemitism,concept/empire_and_imperialism,form/satire,form/novel"></span>
 
 
 CHAPTER V
@@ -3337,7 +3337,7 @@ All that was ancient history, but the Duke saw fit to bring it in. Then he spoke
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Pongo and the Bull — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Pongo and the Bull — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/capitalism,concept/power_and_corruption,concept/antisemitism,concept/nationalism_and_patriotism,form/satire,form/novel"></span>
 
 
 What a dull lecture it was, except for the man who was listening!
@@ -3381,7 +3381,7 @@ It is not often that a statesman has to think really hard, but Dolly was thinkin
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Pongo and the Bull — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Pongo and the Bull — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/antisemitism,concept/nationalism_and_patriotism,concept/power_and_corruption,concept/capitalism,form/satire,form/novel"></span>
 
 
 There was a certain hand — oh, he began to know the very shape of it now and the very curl of its fat fingers I — there was a certain hand which held the stem of the chalice: it had been forced to his lips and he had sipped it — the savour of it was terrible!
@@ -3431,7 +3431,7 @@ And with that she said she was determined to go to bed, and she sent him off as 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Pongo and the Bull — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Pongo and the Bull — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/capitalism,concept/money_and_avarice,concept/satire_of_society,concept/deception,form/satire,form/novel"></span>
 
 
 CHAPTER VI
@@ -3491,7 +3491,7 @@ Then, when the servant had shut the door behind him, and when she heard the oute
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Pongo and the Bull — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Pongo and the Bull — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/antisemitism,concept/nationalism_and_patriotism,concept/capitalism,form/satire,form/novel"></span>
 
 
 “It’s all right, Dolly!”
@@ -3537,7 +3537,7 @@ As for the Duke of Battersea, he lay in Battersea House not yet asleep. He was f
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Pongo and the Bull — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Pongo and the Bull — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="concept/deception,concept/crime_and_punishment,concept/materialism,form/satire,form/novel,setting/france"></span>
 
 
 CHAPTER VII
@@ -3581,7 +3581,7 @@ When the aged Duke of Battersea heard by a telegram the next day of what had hap
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Pongo and the Bull — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Pongo and the Bull — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/providence,concept/materialism,concept/wit,form/satire,form/novel"></span>
 
 
 CHAPTER VIII
@@ -3641,7 +3641,7 @@ By this time there were tears in her eyes: it was a damned shame of Mary to have
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Pongo and the Bull — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Pongo and the Bull — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “It’s called Villefranche!” she began — and at that word the old fellow’s faculty for hearing what concerned him awoke. Had he had his ear-trumpet in his pocket I verily believe he would so far have forgotten his conventions as to have pulled it out. As it was he did not disdain to put up a curved hand to his right ear, to lean to his companion and say:
@@ -3715,7 +3715,7 @@ So it was. By the time Dolly had read the two threatening letters that awaited h
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Pongo and the Bull — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Pongo and the Bull — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER IX
@@ -3757,7 +3757,7 @@ He read the paragraphs again, and was a little relieved at the second reading. A
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Pongo and the Bull — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Pongo and the Bull — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/animals,concept/satire_of_society,concept/democracy,form/satire,form/novel,setting/france"></span>
 
 
 “Arraytay! Arraytay!” he shouted, as he ran up to them upon his insufficient shanks. “Vous away lar une homme traize important!” The two leading policemen stopped and stared, the rear of the column bunched up against its head, one of the humbler prisoners tried to make a bolt of it, was caught and thrown; and altogether the scramble and confusion did nothing to improve the temper of the officials. The Brigadier, who was leading the whole, asked Pongo in the coarsest terms what he was at and whether he was mad.
@@ -3813,7 +3813,7 @@ Nothing, he said, had shocked him during his tenure of office more deeply than t
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Pongo and the Bull — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Pongo and the Bull — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/trickster,motif/bullfighting,concept/satire_of_society,concept/hypocrisy,concept/nationalism_and_patriotism,concept/democracy,concept/deception,form/satire"></span>
 
 
 When he had got so far there were murmurs in the mass of the deputation, and Tallant got nervous. Of course if nothing else were left to them they might have to contemplate so serious a step.... The deputation simmered down again. But surely it was premature.... The deputation started again to bubble. One moment... surely it was premature, just when the negotiations with Madrid were upon the very eve of conclusion, to take violent action?
@@ -3857,7 +3857,7 @@ He sank all party differences, he took the astonished and rather pompous Belcher
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Pongo and the Bull — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Pongo and the Bull — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 As a politician, merely as a politician, Dolly was, perhaps, Pongo’s superior; he could chisel the experts, and the very rich had been known to fear him — after all he had advantages. But politics is a very complicated game, and there were parts of that game in which Pongo knew his way about better than Dolly. Every man to his trade.
@@ -3943,7 +3943,7 @@ Mr. Moss took a chair and put his hands upon his knees; he was full of assurance
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Pongo and the Bull — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Pongo and the Bull — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/hypocrisy,concept/power_and_corruption,concept/money_and_avarice,concept/antisemitism,concept/deception,form/satire"></span>
 
 
 “Nobody is,” said Dolly grimly.
@@ -4019,7 +4019,7 @@ As he went home he remembered Pongo’s phrase, “Battersea has!” and it trou
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Pongo and the Bull — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Pongo and the Bull — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/masks_disguise,motif/money_and_gold,motif/journey,concept/deception,concept/feminism,concept/greed,form/satire,setting/france"></span>
 
 
 CHAPTER X
@@ -4059,7 +4059,7 @@ The hot southern sun, though the afternoon was well worn, was beating strongly u
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Pongo and the Bull — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Pongo and the Bull — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/trickster,motif/horse,motif/journey,motif/road,concept/deception,form/satire,setting/france,setting/the_mountains,character/napoleon"></span>
 
 
 Then, with extraordinary suddenness, there happened one of those incidents which come with such violent shock upon those who are imperfectly acquainted with their causes. Madame rose suddenly in her place, leaned over the driver’s empty box, seized the reins and whip, and gave the animal a cut that started it galloping full speed down the street of the little place!
@@ -4099,7 +4099,7 @@ G. Quinlan Smith found himself in a long low room, at one end of which a fowl wa
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Pongo and the Bull — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Pongo and the Bull — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/food_and_feasting,motif/sleep,concept/feminism,concept/deception,form/satire,setting/france"></span>
 
 
 CHAPTER XI
@@ -4135,7 +4135,7 @@ George Quinlan Smith, stupid after such a night, watched unintelligently though 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Pongo and the Bull — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Pongo and the Bull — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/imprisonment,concept/crime_and_punishment,concept/justice,concept/deception,form/satire,setting/france"></span>
 
 
 Then suddenly a very loud and authoritative bang, instinct with that sense of authority which is so deplorably developed in your Latin, was heard upon the door by which they had both entered the evening before.
@@ -4165,7 +4165,7 @@ When it came to the turn of that strong woman who had met defeat at last she gav
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Pongo and the Bull — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Pongo and the Bull — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/prison,concept/crime_and_punishment,concept/justice,concept/imprisonment,form/satire,setting/france"></span>
 
 
 “Is there anything I can say now?” she volunteered.
@@ -4199,7 +4199,7 @@ He did not ponder. He was very old and very tired. If he had been younger he wou
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Pongo and the Bull — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Pongo and the Bull — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER XII
@@ -4269,7 +4269,7 @@ Then did the Prime Minister of England go upstairs with his charming and elderly
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Pongo and the Bull — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Pongo and the Bull — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He reappeared in five minutes a trifle red and not at all pleased.
@@ -4321,7 +4321,7 @@ No, Peggy didn’t know. But she’d ask old Battersea. She came back to the tel
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Pongo and the Bull — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Pongo and the Bull — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 * * *
@@ -4369,7 +4369,7 @@ Dolly did not read the papers. It was a habit he had formed twenty years before 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Pongo and the Bull — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Pongo and the Bull — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He felt dazed and uncomfortable as he opened the Capon. He had slept ill and it weighed upon him... the headlines were dull; he did vaguely wonder whether he should see the name of Smith among the movements of the rich, but there was nothing there. Then a phrase caught his eye quite by accident. It was under a standing column called “Political Notes,” which he vaguely remembered Eddie had told him was written by some cousin or other of Charlie Webster’s... the man had been pointed out to him at a dinner... he had been in the House once, and he knew quite a lot of people.
@@ -4399,7 +4399,7 @@ The evening papers were out. The tapes in the Club were all agog, all that is gr
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Pongo and the Bull — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Pongo and the Bull — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “O Lord!” groaned Dolly in spirit. He thought how all these things get worse with every passing hour. If Smith could be back here now, it would be bad enough; if he could not get him back till to-morrow it would be worse; the day after to-morrow might be ruin.
@@ -4439,7 +4439,7 @@ And Dolly asked, since there was no time to lose, and he had no fear of her putt
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="Pongo and the Bull — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="Pongo and the Bull — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="concept/satire_of_society,concept/hypocrisy,concept/deception,concept/friendship,concept/nationalism_and_patriotism,form/satire"></span>
 
 
 They were gloomy in the taxi; she was really annoyed with him. Of course he was an old man; she knew that when she married him; but his way of getting suddenly abstracted like a dreamy child was really very irritating! She dropped him at Pongo’s and thought no more about it.
@@ -4487,7 +4487,7 @@ And Pongo consented; he was given Villefranche for cue, and the whole story of t
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Pongo and the Bull — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Pongo and the Bull — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/prison,concept/justice,concept/crime_and_punishment,concept/deception,form/satire,setting/france"></span>
 
 
 CHAPTER XIII
@@ -4541,7 +4541,7 @@ Old G. Quinlan Smith so far forgot himself as to say “Rats!” The interpreter
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Pongo and the Bull — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Pongo and the Bull — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “When you were restored to society,” continued the imperturbable magistrate in his grave monotone, “having purged your pain, your first act was to murder, under the most brutal circumstances, an aged woman in Nogent-le-Rotrou, where again her SILVER formed part of your booty. With this you escaped. You appear to have been in hiding under a false name in the British Colonies, in the United States of America, and in [[London]] for many years, and when the period of criminal limitation was past you returned to France in the year 1921. Translate,” he added, turning to the interpreter.
@@ -4605,7 +4605,7 @@ In the early afternoon, at about three o’clock, he was summoned once again to 
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Pongo and the Bull — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Pongo and the Bull — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/bullfighting,concept/nationalism_and_patriotism,concept/empire_and_imperialism,concept/satire_of_society,form/satire,setting/france"></span>
 
 
 CHAPTER XIV
@@ -4645,7 +4645,7 @@ He had come at the right moment, at least as far as the spectacle was concerned.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Pongo and the Bull — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Pongo and the Bull — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 At the moment when he took his place the bull, or, to speak more accurately, the bullock, was standing in a sheepish attitude in the middle of the arena, looking not unlike a medical student who approaches his examiners for oral questions. The dumb beast had his eyes modestly fixed upon the ground, his tail hung limp, and there seemed to be added to his obvious embarrassment a touch of boredom.
@@ -4671,7 +4671,7 @@ Just as the whole scheme was at its climax of energy, the four gentlemen in plus
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Pongo and the Bull — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Pongo and the Bull — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/bullfighting,motif/imprisonment,concept/social_injustice,concept/crime_and_punishment,concept/labor,form/satire,setting/france"></span>
 
 
 Then (as a large placard announced) was to come the Feast of Flowers, and Pongo rose. He looked at his watch; he had half an hour to take the train.
@@ -4707,7 +4707,7 @@ Another quarter of an hour he so passed, relieving his feelings now and then by 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Pongo and the Bull — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Pongo and the Bull — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/hypocrisy"></span>
 
 
 CHAPTER XV
@@ -4769,7 +4769,7 @@ And while Pennybunt fumed, he wrote upon a scrap of paper, the policeman shouted
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Pongo and the Bull — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Pongo and the Bull — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/democracy"></span>
 
 
 Pennybunt brought his stiffened arms round in front of him, looked indignantly at his swollen hands and the deep red marks round his wrists, dipped into a pocket and brought out a card-case.
@@ -4847,7 +4847,7 @@ It did not take long to confirm that conviction. A perfect hail of telegrams beg
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Pongo and the Bull — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Pongo and the Bull — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Within a few hours the Prefect himself had come at post-haste in a gorgeous motor and was rating all his underlings like a parcel of schoolboys.
@@ -4903,7 +4903,7 @@ In Paris at the office of Smith, Fischer and Co., in the big new building in the
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Pongo and the Bull — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Pongo and the Bull — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER XVI
@@ -4969,7 +4969,7 @@ They were in the billiard-room, Pongo was walking round the table, and Victoria 
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Pongo and the Bull — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Pongo and the Bull — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Dolly was occupied with other things. He answered with indifference, “Oh yes!” He was careless (perfidious friend!) to the future that might open for Pongo should her dreadful scheme be accomplished.
@@ -5069,7 +5069,7 @@ Victoria Mosel had upset her glass across the cloth of the billiard table, and t
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Pongo and the Bull — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Pongo and the Bull — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="concept/religious_sectarianism,concept/satire_of_society,concept/hypocrisy,concept/deception,form/satire,setting/rural_england,setting/england"></span>
 
 
 CHAPTER XVII
@@ -5125,7 +5125,7 @@ Between them the two men arranged their programme very clearly; Pongo took it to
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Pongo and the Bull — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Pongo and the Bull — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Yes — then you,” said Dolly.
@@ -5183,7 +5183,7 @@ So passed that Sunday night. By noon of the next day Dolly was preparing, up in 
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Pongo and the Bull — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Pongo and the Bull — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Nor was the Duke of Battersea idle. He had got hold of the whole thing by now, and his spleen was abroad. He also sat with his secretary alone all that morning; he was not beaten yet, but he could see no opening by which defeat might be avoided. He would take a revenge later on, but revenge isn’t money. Revenge isn’t the handling of an Indian Loan.
@@ -5255,7 +5255,7 @@ He showed the little man out himself, and then went back to his unfinished break
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Pongo and the Bull — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Pongo and the Bull — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/nature,motif/animals,concept/fear,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 CHAPTER XVIII
@@ -5293,7 +5293,7 @@ Between him and the wood was a double line of wire, such a thing as one can bend
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Pongo and the Bull — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Pongo and the Bull — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/animals,motif/prayer,concept/fear,concept/fate_and_free_will,form/satire,setting/rural_england"></span>
 
 
 Then it was that Mr. Pennybunt, Leader of the Official Opposition, wholly forgetting all maxims, whether of prudence or of art, whether rational or empyric, bolted like a hare — or rather, if the proportion of his limbs be considered, like an ape or an aquatic bird!
@@ -5333,7 +5333,7 @@ It was late in the afternoon, how late he did not know, but not yet dark, when P
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Pongo and the Bull — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Pongo and the Bull — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/animals,motif/money_and_gold,concept/fear,concept/class_conflict,form/satire,setting/rural_england"></span>
 
 
 He filled his lungs (not without a sharp spasm lower down) and gave a vigorous yell.
@@ -5387,7 +5387,7 @@ The bull-reeve was sincerely disappointed, and so were all his men. They desired
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Pongo and the Bull — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Pongo and the Bull — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/clothing,motif/the_clock,motif/journey,concept/ambition,form/satire,setting/london,character/napoleon"></span>
 
 
 Upstairs in his room at Habberton, in what had been his room at Habberton till that morning, Pongo was in a fever... could he, oh I could he be in time to save that vote — more it was too late to do!
@@ -5417,7 +5417,7 @@ He reached his room: it was empty. He tore up from it toward the lobbies, and ca
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Pongo and the Bull — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Pongo and the Bull — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/empire_and_imperialism,concept/power_and_corruption,form/satire,setting/london"></span>
 
 
 CHAPTER XIX
@@ -5465,7 +5465,7 @@ The House was very crowded. Every one was waiting for the announcement of the po
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Pongo and the Bull — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Pongo and the Bull — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 At about half-past four the slanging of Pongo began — and it was magnificent! Never was a better preparation made by a Prime Minister for a great sacrifice on the part of a Leader of the Official Opposition. He slanged Pongo up hill and down dale, loaded him with the responsibility of the crisis, banged him about the walls and wiped the floor with him with an increasing vigour and at last, crashing out the word “assassination,” halted an imperceptible moment for the villain to enter, L.C. — but no Pongo came!
@@ -5505,7 +5505,7 @@ The speech went phut; it concluded in a few half-murmured sentences, a little sh
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Pongo and the Bull — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Pongo and the Bull — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/antisemitism,form/satire,setting/london"></span>
 
 
 It was six o’clock — Dolly had been speaking for two hours — when Mr. Moss rose with the calm that always marked him, and the contempt of men which had endeared him to the mass of mankind.
@@ -5535,7 +5535,7 @@ The Chair gave him the fullest latitude, almost to the North Pole of latitude; h
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Pongo and the Bull — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Pongo and the Bull — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clothing,concept/satire_of_society,concept/democracy,concept/power_and_corruption,concept/money_and_avarice,concept/antisemitism,form/satire,setting/london"></span>
 
 
 At Madame de Schahrr’s the professional politicians were drowning their sorrows in wine. In the House, when Worston sat down, the cranks talked on and on. About ten the House began to fill again. The two Front Benches dribbled in beautifully dressed and amply filled — but no Pongo!

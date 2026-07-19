@@ -37467,7 +37467,7 @@ parting, and uplifts ye both to Heaven!
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Martin Chuzzlewit — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Martin Chuzzlewit — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/home,motif/well,concept/courage,concept/doubt,concept/history,concept/hope,concept/pride,form/history,character/martin_chuzzlewit"></span>
 
 
 CHAPTER ONE
@@ -37593,7 +37593,7 @@ on the part of a commentator.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Martin Chuzzlewit — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Martin Chuzzlewit — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/grave,motif/nature,motif/time,motif/well,concept/faith,concept/history,concept/nature,form/history,setting/court,character/martin_chuzzlewit"></span>
 
 
 It has been said that there is no instance, in modern times, of a
@@ -37714,7 +37714,7 @@ are remarkable for taking uncommon good care of themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Martin Chuzzlewit — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Martin Chuzzlewit — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/city,motif/dance,motif/decay,motif/fire,motif/hill,motif/home,motif/journey,motif/leaves,motif/memory,motif/nature,motif/night,motif/spring,motif/wheel,motif/wind,motif/winter,concept/melancholy,concept/nature,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWO
@@ -37826,7 +37826,7 @@ them on and followed at their heels!
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Martin Chuzzlewit — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Martin Chuzzlewit — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/hill,motif/leaves,motif/nature,motif/night,motif/time,motif/water,motif/wind,concept/humility,concept/nature,form/novel,character/bottom,character/martin_chuzzlewit"></span>
 
 
 The scared [[Leaves|leaves]] only flew the faster for all this, and a giddy chase
@@ -37944,7 +37944,7 @@ of a provincial newspaper), was the youngest Miss Pecksniff!
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Martin Chuzzlewit — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Martin Chuzzlewit — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/damsel,motif/blood,motif/grave,motif/love,motif/nature,motif/well,concept/body,concept/charity,concept/deception,concept/mercy,concept/nature,form/inscription,setting/cathedral,character/martin_chuzzlewit"></span>
 
 
 Mr Pecksniff was a moral man--a [[Grave|grave]] man, a man of noble sentiments and
@@ -38050,7 +38050,7 @@ substituted ‘flesh and [[Blood|blood]].’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Martin Chuzzlewit — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Martin Chuzzlewit — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/monster,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/charity,concept/education,concept/hope,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 ‘Which,’ cried Mr Pecksniff after a pause, during which he seemed to
@@ -38177,7 +38177,7 @@ of that gentleman’s leg.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Martin Chuzzlewit — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Martin Chuzzlewit — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/love,motif/nature,motif/well,concept/charity,concept/forgiveness,concept/melancholy,concept/mercy,concept/nature,concept/self,character/martin_chuzzlewit"></span>
 
 
 ‘Aye, aye,’ returned her father, raising his hand mildly: ‘it is
@@ -38311,7 +38311,7 @@ dear at seventeen! Here’s a martyr!’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Martin Chuzzlewit — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Martin Chuzzlewit — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/garden,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/forgiveness,concept/self,character/martin_chuzzlewit"></span>
 
 
 ‘Money, John,’ said Mr Pecksniff, ‘is the root of all evil. I grieve
@@ -38432,7 +38432,7 @@ that are of no use or service to anybody.’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="Martin Chuzzlewit — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="Martin Chuzzlewit — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/nature,motif/road,motif/soul,motif/summer,motif/time,motif/well,concept/faith,concept/madness,concept/nature,concept/pride,setting/london,character/martin_chuzzlewit"></span>
 
 
 He said this with so much earnestness, and in a tone so full of feeling,
@@ -38540,7 +38540,7 @@ cruelly unjust to Pecksniff!’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Martin Chuzzlewit — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Martin Chuzzlewit — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/home,motif/night,motif/pain,motif/road,motif/snow,motif/storm,motif/time,motif/well,concept/endurance,concept/history,concept/suffering,form/history,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THREE
@@ -38648,7 +38648,7 @@ that it suggested hardly less alarm than his actual [[Endurance|endurance]] had 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Martin Chuzzlewit — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Martin Chuzzlewit — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/sleep,motif/time,motif/well,concept/doubt,concept/pride,concept/providence,concept/self,character/martin_chuzzlewit"></span>
 
 
 It was in one of his intervals of repose, when, looking round with
@@ -38760,7 +38760,7 @@ miss?’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Martin Chuzzlewit — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Martin Chuzzlewit — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/marriage,motif/night,motif/sleep,motif/time,motif/well,concept/hope,concept/temptation,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘I have been very much alarmed to-[[Night|night]]. He--he is not my grandfather.’
@@ -38888,7 +38888,7 @@ snug privacy beyond, murmured:
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Martin Chuzzlewit — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Martin Chuzzlewit — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/orphan,motif/fire,motif/nature,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/well,concept/conscience,concept/doubt,concept/hope,concept/melancholy,concept/nature,character/martin_chuzzlewit"></span>
 
 
 ‘Good evening, Mrs Lupin!’
@@ -39021,7 +39021,7 @@ anybody else.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Martin Chuzzlewit — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Martin Chuzzlewit — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/garden,motif/rose,motif/silence,motif/sleep,motif/time,motif/water,concept/hope,concept/self,setting/court,character/martin_chuzzlewit,character/nurse"></span>
 
 
 Full half an hour elapsed before the old man stirred, but at length he
@@ -39144,7 +39144,7 @@ expression of his face.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Martin Chuzzlewit — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Martin Chuzzlewit — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/desire,motif/nature,motif/pain,concept/honour,concept/nature,concept/poverty,character/martin_chuzzlewit"></span>
 
 
 ‘You wish me to speak to you as to a total stranger,’ said the old man,
@@ -39272,7 +39272,7 @@ me, to return no more.’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Martin Chuzzlewit — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Martin Chuzzlewit — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/love,motif/nature,motif/night,motif/road,motif/rose,motif/time,concept/conscience,concept/fear,concept/history,concept/nature,concept/self,concept/wonder,form/history,character/martin_chuzzlewit"></span>
 
 
 With these words, the old man fell slowly back upon his pillow. Mr
@@ -39364,7 +39364,7 @@ and in the [[history]] of [[Martin Chuzzlewit]], on his own showing?
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Martin Chuzzlewit — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Martin Chuzzlewit — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/seasons,motif/tears,motif/water,motif/well,concept/jealousy,concept/nature,concept/union,concept/wonder,character/martin_chuzzlewit,character/old_martin_chuzzlewit"></span>
 
 
 CHAPTER FOUR
@@ -39486,7 +39486,7 @@ gentleman upstairs. Wait a bit.’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Martin Chuzzlewit — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Martin Chuzzlewit — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/desire,motif/fire,motif/time,concept/doubt,concept/honour,concept/vanity,character/lucifer,character/martin_chuzzlewit,character/montague_tigg"></span>
 
 
 As he said this, he touched the tip of his high nose, by way of
@@ -39608,7 +39608,7 @@ stealthily with his elbow, and whispered in his ear.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Martin Chuzzlewit — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Martin Chuzzlewit — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/honour,form/riddle,character/hamlet,character/martin_chuzzlewit"></span>
 
 
 ‘Chiv,’ said Mr Tigg aloud, in the high tone of one who was not to
@@ -39718,7 +39718,7 @@ and another nephew for you, already.’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Martin Chuzzlewit — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Martin Chuzzlewit — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/grave,motif/memory,motif/moon,motif/night,motif/rose,motif/stars,motif/time,concept/honour,concept/hope,concept/resurrection,concept/union,character/martin_chuzzlewit"></span>
 
 
 ‘This is the whole thing, sir,’ said Mr Tigg; ‘this is the point and
@@ -39848,7 +39848,7 @@ quiet parts since the earliest record of their civilized existence.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Martin Chuzzlewit — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Martin Chuzzlewit — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/lamb,motif/leaves,motif/noon,motif/time,motif/well,concept/charity,concept/despair,concept/faith,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 At length, in utter [[Despair|despair]] and hopelessness, some few of the
@@ -39946,7 +39946,7 @@ upon any subject.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="Martin Chuzzlewit — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="Martin Chuzzlewit — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/rose,motif/silence,motif/tears,motif/time,concept/charity,concept/doubt,concept/hope,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 ‘This,’ said Mr Pecksniff, rising and looking round upon them with
@@ -40059,7 +40059,7 @@ praying for Mr Anthony Chuzzlewit; who has done me an injustice.’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="Martin Chuzzlewit — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="Martin Chuzzlewit — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/home,motif/marriage,motif/nature,motif/poison,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/conscience,concept/doubt,concept/hope,concept/mercy,concept/nature,concept/truth,character/martin_chuzzlewit"></span>
 
 
 This was said in a very bland voice, and aside, as being addressed to
@@ -40186,7 +40186,7 @@ miles away.’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_08" data-title="Martin Chuzzlewit — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_08" data-title="Martin Chuzzlewit — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/dust,motif/love,motif/memory,motif/silence,motif/snow,motif/window,concept/charity,character/martin_chuzzlewit"></span>
 
 
 ‘I might have been prepared for this!’ cried the strong-minded woman,
@@ -40291,7 +40291,7 @@ failure and disappointment.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Martin Chuzzlewit — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Martin Chuzzlewit — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/dust,motif/fire,motif/home,motif/horse,motif/leaves,motif/love,motif/moon,motif/night,motif/road,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/despair,concept/hope,concept/melancholy,concept/truth,character/chorus,character/martin_chuzzlewit,character/speed,character/tom_pinch"></span>
 
 
 CHAPTER FIVE
@@ -40392,7 +40392,7 @@ For who minded poor Mr Pinch? There was no harm in HIM.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Martin Chuzzlewit — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Martin Chuzzlewit — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/silence,motif/water,motif/well,motif/winter,concept/body,concept/doubt,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 And now the morning grew so fair, and all things were so wide awake and
@@ -40520,7 +40520,7 @@ He knew a dozen himself.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Martin Chuzzlewit — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Martin Chuzzlewit — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/garden,motif/grave,motif/horse,motif/love,motif/road,motif/soul,motif/time,motif/well,character/martin_chuzzlewit"></span>
 
 
 ‘That’s probable enough,’ said Mr Pinch, ‘but I am not at all sure that
@@ -40645,7 +40645,7 @@ kept it up tremendously.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Martin Chuzzlewit — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Martin Chuzzlewit — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/ghost,motif/cave,motif/childhood,motif/fire,motif/grave,motif/home,motif/horse,motif/memory,motif/soul,motif/time,motif/well,motif/window,concept/wonder,setting/cathedral,setting/london,setting/russia,character/martin_chuzzlewit"></span>
 
 
 But the shops. First of all there were the jewellers’ shops, with all
@@ -40757,7 +40757,7 @@ at first to put the [[Fire|fire]] out.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Martin Chuzzlewit — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Martin Chuzzlewit — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/frost,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/friendship,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘Very hard [[Frost|frost]] to-[[Night|night]], sir,’ said the newcomer, courteously
@@ -40892,7 +40892,7 @@ consciousness of the splendour of his offer. ‘You shall, if you wish.’
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="Martin Chuzzlewit — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="Martin Chuzzlewit — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/shadow,motif/frost,motif/home,motif/horse,motif/memory,motif/moon,motif/rose,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/pride,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Why, that depends, Mr Pinch,’ said Martin, laughing, ‘upon what sort
@@ -41025,7 +41025,7 @@ she liked that!’
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="Martin Chuzzlewit — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="Martin Chuzzlewit — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/home,motif/horse,motif/night,motif/time,motif/well,concept/charity,concept/friendship,concept/hope,concept/mercy,concept/pride,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 The new pupil was clearly very much amazed by Mr Pinch’s weakness, and
@@ -41142,7 +41142,7 @@ would instantly leap out of bed, and fix it for ever.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_08" data-title="Martin Chuzzlewit — Chapter 5 (part 8)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_08" data-title="Martin Chuzzlewit — Chapter 5 (part 8)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/desire,motif/home,motif/love,motif/night,motif/sleep,motif/summer,motif/time,motif/well,motif/white_and_red,concept/charity,concept/honour,concept/mercy,setting/cathedral,character/lord_mayor,character/martin_chuzzlewit"></span>
 
 
 Mr Pecksniff opened another door on the same floor, and shut it again,
@@ -41258,7 +41258,7 @@ intolerable to be serious about.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_09" data-title="Martin Chuzzlewit — Chapter 5 (part 9)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_09" data-title="Martin Chuzzlewit — Chapter 5 (part 9)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/rose,motif/sleep,motif/soul,motif/time,motif/well,concept/history,concept/hope,form/history,character/martin_chuzzlewit"></span>
 
 
 At length it became high [[Time|time]] to remember the first clause of that great
@@ -41318,7 +41318,7 @@ head.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Martin Chuzzlewit — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Martin Chuzzlewit — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desert,motif/home,motif/night,motif/rose,motif/time,motif/well,concept/friendship,concept/hope,concept/melancholy,concept/mercy,concept/self,concept/wonder,setting/castle,setting/desert,setting/london,character/martin_chuzzlewit"></span>
 
 
 CHAPTER SIX
@@ -41435,7 +41435,7 @@ the way to that hotbed of architectural genius, the two-pair front.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Martin Chuzzlewit — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Martin Chuzzlewit — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/garden,motif/road,motif/time,motif/water,motif/window,concept/charity,concept/hope,concept/imagination,concept/melancholy,concept/mercy,setting/london,character/lord_mayor,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Let me see,’ he said, searching among the papers, ‘how you can best
@@ -41546,7 +41546,7 @@ lane belonged to him.’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Martin Chuzzlewit — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Martin Chuzzlewit — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/home,motif/journey,motif/night,motif/silence,motif/time,motif/well,concept/charity,concept/doubt,concept/honour,concept/hope,concept/melancholy,concept/mercy,concept/truth,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 In [[Truth|truth]], the new pupil, not at all disconcerted by the [[Honour|honour]] of having
@@ -41663,7 +41663,7 @@ griffin, could have withstood these things in Thomas Pinch.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Martin Chuzzlewit — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Martin Chuzzlewit — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/doubt,concept/nature,concept/self,concept/truth,character/martin_chuzzlewit"></span>
 
 
 Some men would have slapped him on the back, and pledged him in a bumper
@@ -41799,7 +41799,7 @@ Her heart was mine, I found.’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Martin Chuzzlewit — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Martin Chuzzlewit — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/jealousy,concept/poverty,concept/truth,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Just what I supposed,’ said Tom. ‘Quite natural!’ and, in his great
@@ -41932,7 +41932,7 @@ spoilt [[Child|child]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Martin Chuzzlewit — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Martin Chuzzlewit — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/fire,motif/leaves,motif/sleep,motif/time,motif/well,concept/beauty,concept/doubt,concept/mercy,concept/truth,concept/wonder,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 [[Tom Pinch]]’s heart was very tender, and he could not bear to see the
@@ -42035,7 +42035,7 @@ Do call for some coals. What a fellow you are, Pinch!’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Martin Chuzzlewit — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Martin Chuzzlewit — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/grave,motif/soul,motif/time,motif/well,motif/wind,concept/endurance,concept/fear,concept/friendship,concept/honour,concept/hope,concept/pride,concept/suffering,setting/court,setting/london,character/lord_mayor,character/martin_chuzzlewit"></span>
 
 
 CHAPTER SEVEN
@@ -42170,7 +42170,7 @@ acquainted.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Martin Chuzzlewit — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Martin Chuzzlewit — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/home,motif/moon,motif/nature,motif/night,motif/road,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/nature,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 Martin and Mr Pinch looked, first at each other, and afterwards at Mr
@@ -42296,7 +42296,7 @@ whether he’s a disagreeable-looking chap or not!’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Martin Chuzzlewit — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Martin Chuzzlewit — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/nature,motif/soul,concept/doubt,concept/faith,concept/greatness,concept/honour,concept/nature,concept/self,form/novel,character/martin_chuzzlewit"></span>
 
 
 ‘Let me inquire,’ said Martin, interposing between this candid speech
@@ -42413,7 +42413,7 @@ aspect immediately.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Martin Chuzzlewit — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Martin Chuzzlewit — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/chains,motif/home,motif/nature,motif/sleep,motif/soul,motif/time,motif/water,concept/doubt,concept/greatness,concept/honour,concept/nature,concept/self,character/martin_chuzzlewit"></span>
 
 
 ‘Obliged to two strangers for a tavern bill, eh!’ repeated Mr Slyme,
@@ -42544,7 +42544,7 @@ this week, I feel that you will blame me for that sordid stipulation.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Martin Chuzzlewit — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Martin Chuzzlewit — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/blood,motif/desert,motif/grave,motif/home,motif/night,motif/time,motif/water,motif/well,concept/hope,setting/desert,setting/london,character/mark_tapley,character/martin_chuzzlewit,character/seth_pecksniff"></span>
 
 
 Mr Pinch took from his pocket an old-fashioned red-leather purse with
@@ -42683,7 +42683,7 @@ then, bodily in that bar, the very pink and pineapple.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Martin Chuzzlewit — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Martin Chuzzlewit — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/garden,motif/grave,motif/love,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/wonder,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Why, I tell you what,’ said Mark, throwing off all his constraint in an
@@ -42802,7 +42802,7 @@ wish to be, but very near. Good-b’ye! good-b’ye!’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Martin Chuzzlewit — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Martin Chuzzlewit — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/cross,motif/desire,motif/dust,motif/journey,motif/nature,motif/sleep,motif/tears,motif/well,concept/charity,concept/identity,concept/nature,setting/london,character/martin_chuzzlewit"></span>
 
 
 CHAPTER EIGHT
@@ -42935,7 +42935,7 @@ openly. You’re not offended, Pecksniff?’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Martin Chuzzlewit — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Martin Chuzzlewit — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/damsel,motif/birds,motif/grave,motif/home,motif/love,motif/silence,motif/time,motif/well,concept/charity,concept/education,concept/mercy,concept/wonder,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘Offended, my good sir!’ cried that gentleman, as if he had received the
@@ -43073,7 +43073,7 @@ pleasant to contemplate.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Martin Chuzzlewit — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Martin Chuzzlewit — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/night,motif/sleep,motif/snow,motif/water,motif/well,motif/window,concept/doubt,concept/nature,form/inscription,form/sketch,character/martin_chuzzlewit"></span>
 
 
 When they could eat no more, Mr Pecksniff and Mr Jonas subscribed for
@@ -43188,7 +43188,7 @@ portrait of Jinkins himself.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Martin Chuzzlewit — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Martin Chuzzlewit — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/memory,motif/time,motif/well,concept/hope,concept/truth,setting/london,character/martin_chuzzlewit"></span>
 
 
 M. Todgers’s Commercial Boarding-[[house|House]] was a [[house]] of that sort which is
@@ -43324,7 +43324,7 @@ worthy man’s phraseology, ‘all in good [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Martin Chuzzlewit — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Martin Chuzzlewit — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/chains,motif/city,motif/fire,motif/home,motif/leaves,motif/night,motif/river,motif/silence,motif/sleep,motif/time,concept/charity,concept/greatness,concept/melancholy,setting/court,setting/london,character/hamlet,character/martin_chuzzlewit,character/sunday"></span>
 
 
 CHAPTER NINE
@@ -43431,7 +43431,7 @@ had decayed amain with barbers.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Martin Chuzzlewit — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Martin Chuzzlewit — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/fire,motif/memory,motif/nature,motif/time,motif/well,motif/window,concept/nature,setting/london,character/martin_chuzzlewit"></span>
 
 
 As to Todgers’s itself--speaking of it only as a [[house]] in that
@@ -43539,7 +43539,7 @@ shaking her head, ‘no one would believe!’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Martin Chuzzlewit — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Martin Chuzzlewit — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/desire,motif/horse,motif/love,motif/stars,motif/time,motif/well,concept/charity,concept/education,concept/history,concept/honour,concept/hope,concept/mercy,concept/self,form/history,setting/castle,character/martin_chuzzlewit,character/sunday,character/tom_pinch"></span>
 
 
 ‘Just like Mr Pinch, Merry!’ said [[Charity]]. ‘We have always noticed it in
@@ -43658,7 +43658,7 @@ and friends.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Martin Chuzzlewit — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Martin Chuzzlewit — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/love,motif/road,motif/rose,motif/time,motif/well,concept/history,concept/melancholy,concept/mercy,concept/pride,concept/truth,form/history,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Visitors for Miss Pinch!’ said the footman. He must have been
@@ -43778,7 +43778,7 @@ syrup’--meaning, possibly, young sylph, or seraph.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Martin Chuzzlewit — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Martin Chuzzlewit — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/nature,motif/silence,motif/tears,motif/well,motif/window,concept/charity,concept/doubt,concept/hope,concept/nature,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘If you will give that to your distinguished parents, my amiable little
@@ -43915,7 +43915,7 @@ epithets before it.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Martin Chuzzlewit — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Martin Chuzzlewit — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/desire,motif/fire,motif/night,motif/tears,motif/time,motif/water,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 Perhaps Miss Pinch was scarcely so much to blame in the matter as the
@@ -44032,7 +44032,7 @@ cleaning boots and brushing clothes until the [[Night|night]] was far advanced.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_07" data-title="Martin Chuzzlewit — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_07" data-title="Martin Chuzzlewit — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/desire,motif/garden,motif/memory,motif/nature,motif/time,motif/window,concept/charity,concept/history,concept/honour,concept/mercy,concept/nature,form/history,setting/germany,character/martin_chuzzlewit,character/sunday"></span>
 
 
 Benjamin was supposed to be the real name of this young retainer but he
@@ -44131,7 +44131,7 @@ splendidly, until dinner was announced by Bailey junior in these terms:
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_08" data-title="Martin Chuzzlewit — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_08" data-title="Martin Chuzzlewit — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well,concept/mercy,concept/providence,concept/truth,setting/london,character/bottom,character/diana,character/martin_chuzzlewit"></span>
 
 
 ‘The wittles is up!’
@@ -44235,7 +44235,7 @@ in the pink scarf for his daughter.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_09" data-title="Martin Chuzzlewit — Chapter 9 (part 9)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_09" data-title="Martin Chuzzlewit — Chapter 9 (part 9)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/childhood,motif/grave,motif/leaves,motif/memory,motif/soul,motif/tears,motif/time,motif/window,concept/beauty,concept/charity,concept/despair,concept/doubt,concept/honour,concept/hope,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 What saith Mr Pecksniff in reply? Or rather let the question be, What
@@ -44362,7 +44362,7 @@ Todgers! What a world this is!’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_10" data-title="Martin Chuzzlewit — Chapter 9 (part 10)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_10" data-title="Martin Chuzzlewit — Chapter 9 (part 10)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/desire,motif/grave,motif/home,motif/nature,motif/road,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/education,concept/loneliness,concept/melancholy,concept/nature,concept/self,concept/truth,character/bottom,character/martin_chuzzlewit"></span>
 
 
 ‘Ah! Indeed you may say that!’ cried Mrs Todgers.
@@ -44533,7 +44533,7 @@ letters to his friends from Todgers’s for nothing.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Martin Chuzzlewit — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Martin Chuzzlewit — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/death,motif/dust,motif/nature,motif/noon,motif/silence,motif/time,motif/water,motif/well,concept/friendship,concept/history,concept/hope,concept/nature,form/history,setting/london,character/martin_chuzzlewit,character/seth_pecksniff"></span>
 
 
 CHAPTER TEN
@@ -44655,7 +44655,7 @@ didn’t at all know why.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Martin Chuzzlewit — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Martin Chuzzlewit — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/silence,motif/storm,motif/time,motif/well,concept/charity,concept/fear,concept/mercy,setting/court,character/martin_chuzzlewit"></span>
 
 
 ‘You are right,’ repeated Martin. ‘It is not a caprice. It is built up
@@ -44791,7 +44791,7 @@ every one about you in the worst light!’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Martin Chuzzlewit — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Martin Chuzzlewit — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/nature,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/hope,concept/humility,concept/mercy,concept/nature,concept/truth,concept/wonder,form/history,character/martin_chuzzlewit"></span>
 
 
 ‘True,’ replied the other. ‘You are very lenient with me.’
@@ -44931,7 +44931,7 @@ were?’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Martin Chuzzlewit — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Martin Chuzzlewit — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/artist,archetype/orphan,motif/desire,motif/home,motif/love,motif/night,motif/time,motif/well,concept/conscience,concept/doubt,concept/friendship,concept/hope,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 Where was the [[Orphan|orphan]] whom the two Miss Pecksniffs would not have
@@ -45051,7 +45051,7 @@ constructed on the best models.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Martin Chuzzlewit — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Martin Chuzzlewit — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/soul,motif/time,motif/well,concept/charity,concept/doubt,concept/hope,concept/mercy,concept/solitude,form/tragedy,character/martin_chuzzlewit"></span>
 
 
 ‘She seems to have a lively disposition,’ observed Martin.
@@ -45172,7 +45172,7 @@ on nobody else’s account, on mine.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="Martin Chuzzlewit — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="Martin Chuzzlewit — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,motif/jewel,motif/nature,motif/rose,motif/tears,concept/nature,concept/self,character/martin_chuzzlewit"></span>
 
 
 ‘There’s Jinkins,’ said the youngest gentleman, moodily. ‘Your
@@ -45287,7 +45287,7 @@ the golden calf for eighteen shillings a week! oh pitiful, pitiful!
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_01" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 1)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_01" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 1)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="archetype/damsel,motif/journey,motif/love,motif/nature,motif/noon,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/charity,concept/doubt,concept/faith,concept/hope,concept/nature,concept/pride,character/martin_chuzzlewit"></span>
 
 
 CHAPTER ELEVEN
@@ -45407,7 +45407,7 @@ know. What a cruel girl you are!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_02" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 2)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_02" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 2)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/home,motif/nature,motif/time,motif/well,motif/window,concept/charity,concept/conscience,concept/doubt,concept/mercy,concept/nature,concept/self,concept/union,histref/bible,character/martin_chuzzlewit"></span>
 
 
 ‘[[Well]], perhaps it is,’ said Mr Jonas. ‘I say--Did you think I was lost?
@@ -45555,7 +45555,7 @@ at his own superior wisdom.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_03" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 3)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_03" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 3)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="archetype/ghost,archetype/monster,motif/desire,motif/fire,motif/home,motif/love,motif/nature,motif/rose,motif/summer,motif/time,motif/well,concept/charity,concept/mercy,concept/nature,character/martin_chuzzlewit"></span>
 
 
 When they had been out for some hours and were thoroughly fatigued, it
@@ -45674,7 +45674,7 @@ century before, and somebody had just found him in a lumber-closet.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_04" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_04" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 4)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="archetype/shadow,motif/horse,motif/nature,motif/rose,motif/time,motif/well,concept/nature,character/martin_chuzzlewit"></span>
 
 
 Such as he was, he came slowly creeping on towards the table, until at
@@ -45802,7 +45802,7 @@ him!’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_05" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 5)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_05" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 5)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/nature,motif/night,motif/poison,motif/seasons,motif/silence,motif/sleep,motif/water,motif/well,concept/charity,concept/doubt,concept/faith,concept/melancholy,concept/mercy,concept/nature,character/bottom,character/martin_chuzzlewit"></span>
 
 
 Mr Jonas considered this so particularly childish (perhaps with some
@@ -45917,7 +45917,7 @@ evil, when virtue might have sought to hold him back in vain.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_06" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 6)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_06" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 6)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,motif/wind,concept/charity,concept/despair,concept/doubt,concept/freedom,concept/honour,concept/melancholy,concept/mercy,concept/nature,form/dirge,character/chorus,character/martin_chuzzlewit"></span>
 
 
 By the [[Time|time]] he had unfolded all the peddling schemes he knew upon the
@@ -46035,7 +46035,7 @@ you most.
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_07" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 7)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_07" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 7)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="archetype/artist,archetype/villain,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/charity,concept/friendship,concept/imagination,concept/mercy,concept/nature,character/apollo,character/martin_chuzzlewit"></span>
 
 
 There were several of these concerted pieces; perhaps two or three too
@@ -46157,7 +46157,7 @@ Pecksniff; but together we are something. Eh?’
 
 
 
-<span class="atom-split" data-atom="chapter_11_eleven--part_08" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)" data-chapter="ELEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_eleven--part_08" data-title="Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)" data-chapter="ELEVEN" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/rose,motif/time,motif/well,concept/charity,concept/doubt,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 ‘Unanimity, my good sir,’ rejoined Mr Pecksniff, ‘is always delightful.’
@@ -46274,7 +46274,7 @@ hearth, and was a sacrilege upon the altars of his household gods.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_01" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_01" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 1)" data-chapter="TWELVE" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/summer,motif/time,motif/well,motif/window,concept/friendship,concept/honour,concept/hope,concept/self,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER TWELVE
@@ -46412,7 +46412,7 @@ she and I will sit and listen to you, Tom; be sure of that!’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_02" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_02" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 2)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dust,motif/fire,motif/hill,motif/horse,motif/nature,motif/road,motif/time,motif/well,motif/wind,concept/hope,concept/nature,concept/self,concept/truth,form/novel,character/bottom,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 It may have required a stronger effort on [[Tom Pinch]]’s part to leave the
@@ -46531,7 +46531,7 @@ times more fiercely to a man in a gig, wouldn’t it? A fig for gigs!
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_03" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_03" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 3)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/fire,motif/nature,motif/snow,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/body,concept/nature,concept/self,setting/cathedral,setting/court,character/bottom,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Better than the gig! When were travellers by wheels and hoofs seen with
@@ -46644,7 +46644,7 @@ didn’t know; and went off into a perfect shout.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_04" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 4)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_04" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 4)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/time,motif/well,concept/doubt,concept/truth,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 They were very merry and full of enjoyment the whole [[Time|time]], but not the
@@ -46783,7 +46783,7 @@ again?’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_05" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 5)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_05" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 5)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/time,motif/well,concept/doubt,concept/friendship,concept/self,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘No.’
@@ -46909,7 +46909,7 @@ and the voice of John himself.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_06" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 6)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_06" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 6)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/nature,motif/night,motif/sleep,motif/time,motif/well,motif/wind,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘You’re not asleep yet, are you, Tom?’
@@ -47038,7 +47038,7 @@ to go to bed early.
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_07" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 7)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_07" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 7)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/horse,motif/silence,motif/time,motif/water,motif/window,motif/winter,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 They were not quite so glad to get up again at half-past four o’[[Clock|clock]],
@@ -47164,7 +47164,7 @@ looked at him for the first [[Time|time]], ‘presently.’
 
 
 
-<span class="atom-split" data-atom="chapter_12_twelve--part_08" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 8)" data-chapter="TWELVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_twelve--part_08" data-title="Martin Chuzzlewit — Chapter 12: TWELVE (part 8)" data-chapter="TWELVE" data-kind="excerpt" data-tags="motif/garden,motif/journey,motif/nature,motif/tears,motif/well,concept/nature,histref/america,setting/america,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘You are very obliging,’ returned Martin; ‘presently will not do. I must
@@ -47280,7 +47280,7 @@ cheeks; and they parted hurriedly upon their separate ways.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_01" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 1)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_01" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 1)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="topos/double,motif/chains,motif/fire,motif/home,motif/horse,motif/love,motif/nature,motif/road,motif/time,motif/water,motif/well,motif/window,concept/body,concept/hope,concept/imagination,concept/nature,concept/pride,concept/self,concept/truth,form/inscription,setting/london,character/martin_chuzzlewit,character/speed,character/tom_pinch"></span>
 
 
 CHAPTER THIRTEEN
@@ -47384,7 +47384,7 @@ distant [[London]], retreating among the fragments of the burning wood.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_02" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 2)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_02" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 2)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/animals,motif/crown,motif/fire,motif/horse,motif/road,motif/time,motif/water,motif/well,motif/window,setting/london,character/martin_chuzzlewit"></span>
 
 
 He had repeated this process in just the same order, many times, as
@@ -47537,7 +47537,7 @@ course they wos very glad to see him in the U-nited States.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_03" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_03" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 3)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/crown,motif/dawn,motif/home,motif/night,motif/road,motif/ship,motif/soul,motif/time,concept/endurance,concept/longing,setting/court,setting/london,setting/new_york,setting/ship,character/martin_chuzzlewit"></span>
 
 
 ‘What do you mean?’ asked Martin, with some scorn.
@@ -47652,7 +47652,7 @@ Going at two-and-six! For the last [[Time|time]] at two-and-six!’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_04" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_04" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/time,motif/window,concept/body,concept/charity,concept/history,concept/honour,form/history,character/martin_chuzzlewit"></span>
 
 
 ‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
@@ -47783,7 +47783,7 @@ half-a-[[Crown|crown]].’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_05" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 5)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_05" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 5)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/home,motif/nature,motif/sleep,motif/soul,motif/spring,motif/time,motif/well,concept/conversion,concept/hope,concept/nature,concept/pride,concept/self,histref/america,setting/america,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Martin drew that piece of money from his pocket, and tossed it towards
@@ -47892,7 +47892,7 @@ provisions upon the voyage.
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_06" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_06" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/fire,motif/noon,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/pride,form/inscription,histref/america,setting/america,setting/london,character/martin_chuzzlewit"></span>
 
 
 It is an illustration of a very common tendency in the mind of man, that
@@ -48007,7 +48007,7 @@ a man jolly, sir--I see you a-buying that.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_07" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 7)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_07" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 7)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/fire,motif/love,motif/ship,motif/silence,motif/time,motif/well,concept/doubt,concept/faith,histref/america,setting/america,setting/london,setting/ship,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 Martin reddened as he pointed to the table, and said, somewhat hastily:
@@ -48157,7 +48157,7 @@ enclosed, and fixing his eyes on Mark as he put it in his hands, said:
 
 
 
-<span class="atom-split" data-atom="chapter_13_thirteen--part_08" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 8)" data-chapter="THIRTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_thirteen--part_08" data-title="Martin Chuzzlewit — Chapter 13: THIRTEEN (part 8)" data-chapter="THIRTEEN" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/love,motif/time,motif/well,concept/body,concept/doubt,concept/history,concept/truth,form/history,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘Now tell me the [[Truth|truth]]. Do you know anything about that?’
@@ -48301,7 +48301,7 @@ too strong, sir!’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_01" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_01" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 1)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/silence,motif/tears,motif/time,motif/well,concept/endurance,concept/hope,concept/nature,concept/self,concept/temptation,concept/wonder,histref/america,setting/america,character/martin_chuzzlewit,character/speed"></span>
 
 
 CHAPTER FOURTEEN
@@ -48423,7 +48423,7 @@ thought of all this?’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_02" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_02" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 2)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/history,concept/nature,form/history,histref/america,setting/america,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Thought of it!’ cried Martin, abating, in his fondness--and he WAS very
@@ -48557,7 +48557,7 @@ thinks an angel.’
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_03" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_03" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 3)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="motif/clock,motif/horse,motif/love,motif/nature,motif/night,motif/road,motif/soul,motif/time,motif/well,concept/courage,concept/endurance,concept/fear,concept/honour,concept/nature,concept/self,histref/america,setting/america,setting/london,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Mr Pecksniff again?’ asked Mary.
@@ -48686,7 +48686,7 @@ incredulous and blind.
 
 
 
-<span class="atom-split" data-atom="chapter_14_fourteen--part_04" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 4)" data-chapter="FOURTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_fourteen--part_04" data-title="Martin Chuzzlewit — Chapter 14: FOURTEEN (part 4)" data-chapter="FOURTEEN" data-kind="excerpt" data-tags="archetype/lover,motif/childhood,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/summer,motif/time,motif/well,motif/winter,concept/doubt,concept/forgiveness,concept/history,concept/nature,concept/pride,form/history,form/satire,setting/new_york,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘The quarter’s gone!’ cried Mr Tapley, in a voice of admonition.
@@ -48823,7 +48823,7 @@ lips, to release himself of this word:
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_01" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_01" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 1)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="motif/dawn,motif/desert,motif/fire,motif/grave,motif/moon,motif/night,motif/prison,motif/ship,motif/sleep,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/charity,concept/eternity,concept/madness,setting/desert,setting/mountains,setting/ship,character/bottom,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FIFTEEN
@@ -48938,7 +48938,7 @@ much of me to swear by. How do you find yourself this morning, sir?’
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_02" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_02" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 2)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/rose,motif/ship,motif/soul,motif/time,motif/well,concept/hope,concept/poverty,concept/suffering,setting/ship,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Very miserable,’ said Martin, with a peevish groan. ‘Ugh. This is
@@ -49068,7 +49068,7 @@ commonest in the world.
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_03" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_03" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 3)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/nature,motif/night,motif/seasons,motif/ship,motif/water,motif/well,concept/doubt,concept/nature,concept/poverty,concept/wonder,setting/ship,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 It cannot be said that as his illness wore off, his cheerfulness and
@@ -49186,7 +49186,7 @@ little quieter to-[[Night|night]] than she did last [[Night|night]]; that’s a 
 
 
 
-<span class="atom-split" data-atom="chapter_15_fifteen--part_04" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 4)" data-chapter="FIFTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_fifteen--part_04" data-title="Martin Chuzzlewit — Chapter 15: FIFTEEN (part 4)" data-chapter="FIFTEEN" data-kind="excerpt" data-tags="archetype/monster,motif/city,motif/death,motif/night,motif/ship,motif/time,motif/water,motif/well,concept/freedom,form/hymn,histref/america,setting/america,setting/new_york,setting/ship,character/martin_chuzzlewit,character/speed"></span>
 
 
 Mr Tapley set himself to obey these orders with great alacrity, and
@@ -49250,7 +49250,7 @@ is it? Very [[Well|well]]. I’m agreeable. Any land will do for me, after so mu
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_01" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_01" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 1)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/home,motif/night,motif/ship,motif/water,motif/well,concept/beauty,concept/freedom,histref/america,setting/america,setting/new_york,setting/ship,character/martin_chuzzlewit,character/nurse"></span>
 
 
 CHAPTER SIXTEEN
@@ -49364,7 +49364,7 @@ generally, in this remark.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_02" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_02" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 2)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/memory,motif/nature,motif/ship,motif/time,motif/well,concept/honour,concept/hope,concept/madness,concept/nature,concept/poverty,concept/truth,setting/new_york,setting/ship,character/martin_chuzzlewit,character/nurse"></span>
 
 
 ‘Really,’ said Martin, ‘I don’t know. Yes. I think I was.’
@@ -49512,7 +49512,7 @@ own importation.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_03" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_03" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 3)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/dust,motif/time,concept/doubt,concept/freedom,concept/greatness,concept/hope,concept/melancholy,concept/truth,setting/court,character/martin_chuzzlewit"></span>
 
 
 All this was so extremely kind and hospitable, that Martin, though it
@@ -49629,7 +49629,7 @@ mighty influence upon the cabinets of Europe. Yes?’
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_04" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_04" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 4)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="archetype/shadow,motif/journey,motif/time,motif/well,motif/window,concept/slavery,concept/truth,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 ‘That’s what I was about to observe, certainly,’ said Martin.
@@ -49770,7 +49770,7 @@ down sociably in the gutter.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_05" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 5)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_05" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 5)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/fire,motif/home,motif/night,motif/time,motif/water,motif/well,motif/window,concept/faith,concept/hope,concept/union,setting/new_york,character/martin_chuzzlewit"></span>
 
 
 ‘Is the major indoors?’ inquired the colonel, as he entered.
@@ -49899,7 +49899,7 @@ Pawkins rather ‘loafed’ his [[Time|time]] away than otherwise.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_06" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 6)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_06" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 6)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/fire,motif/garden,motif/journey,motif/lion,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/nature,concept/self,histref/america,setting/america,character/bottom,character/martin_chuzzlewit"></span>
 
 
 ‘You have come to visit our country, sir, at a season of great
@@ -50028,7 +50028,7 @@ But she had one comfort. It was very soon over.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_07" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 7)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_07" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 7)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/flag,motif/rose,motif/ship,motif/silence,motif/soul,motif/time,motif/well,concept/education,concept/freedom,concept/honour,concept/truth,concept/union,setting/ship,character/brutus,character/martin_chuzzlewit"></span>
 
 
 When the colonel had finished his dinner, which event took place while
@@ -50168,7 +50168,7 @@ heaven of Fame.
 
 
 
-<span class="atom-split" data-atom="chapter_16_sixteen--part_08" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 8)" data-chapter="SIXTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_sixteen--part_08" data-title="Martin Chuzzlewit — Chapter 16: SIXTEEN (part 8)" data-chapter="SIXTEEN" data-kind="excerpt" data-tags="motif/dreams,motif/memory,motif/rose,motif/spring,motif/time,motif/well,concept/courage,concept/doubt,concept/faith,concept/hope,concept/truth,form/essay,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 Once or twice, when there was a pause, Martin asked such questions as
@@ -50315,7 +50315,7 @@ Her fruits would fall before her [[spring]] were o’er!’
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_01" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_01" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 1)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/city,motif/home,motif/leaves,motif/nature,motif/rose,motif/time,motif/well,concept/education,concept/history,concept/nature,concept/truth,form/comedy,form/history,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 CHAPTER SEVENTEEN
@@ -50438,7 +50438,7 @@ his friend would give him.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_02" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 2)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_02" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 2)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/time,motif/water,concept/doubt,concept/freedom,concept/hope,setting/new_york,character/martin_chuzzlewit"></span>
 
 
 It would not have been very difficult for any one to see; but it was
@@ -50575,7 +50575,7 @@ ever! Hurrah! Hail, Columbia!’
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_03" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 3)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_03" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 3)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/wonder,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Hush!’ cried Martin, clapping his hand upon his mouth; ‘and don’t be an
@@ -50694,7 +50694,7 @@ by the whole family.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_04" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 4)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_04" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 4)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/time,motif/well,concept/friendship,concept/grotesque,concept/honour,concept/nature,concept/slavery,concept/suffering,form/novel,setting/court,character/hamlet,character/marchioness,character/martin_chuzzlewit,character/mrs_norris"></span>
 
 
 Another delightful circumstance turned up before the first cup of tea
@@ -50796,7 +50796,7 @@ insanity in five minutes.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_05" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 5)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_05" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 5)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/love,motif/ship,motif/time,motif/well,concept/doubt,concept/history,concept/imagination,concept/melancholy,concept/pride,concept/truth,form/history,setting/court,setting/new_york,setting/ship,character/martin_chuzzlewit"></span>
 
 
 Martin felt his reason going; and as a means of saving himself, besought
@@ -50926,7 +50926,7 @@ almost laid his hand upon his [[Sword|sword]].
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_06" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 6)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_06" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 6)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/silence,motif/snow,motif/soul,motif/stars,motif/water,motif/well,motif/wind,concept/faith,concept/hope,form/comedy,histref/america,setting/america,setting/new_york,character/martin_chuzzlewit"></span>
 
 
 A [[Death|death]]-like stillness fell upon the Norisses. If this story should get
@@ -51057,7 +51057,7 @@ friend, turning again to Mrs Brick.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_07" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_07" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 7)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘On Mondays?’
@@ -51190,7 +51190,7 @@ that agency by the enraptured drinker.
 
 
 
-<span class="atom-split" data-atom="chapter_17_seventeen--part_08" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 8)" data-chapter="SEVENTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_seventeen--part_08" data-title="Martin Chuzzlewit — Chapter 17: SEVENTEEN (part 8)" data-chapter="SEVENTEEN" data-kind="excerpt" data-tags="motif/cross,motif/dreams,motif/home,motif/night,motif/sleep,motif/time,motif/water,motif/well,histref/america,setting/america,setting/new_york,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Martin took the glass with an astonished look; applied his lips to the
@@ -51255,7 +51255,7 @@ ocean to the English shore.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_01" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_01" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 1)" data-chapter="EIGHTEEN" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dust,motif/fire,motif/grave,motif/soul,motif/spring,motif/time,motif/well,concept/hope,form/satire,character/martin_chuzzlewit"></span>
 
 
 CHAPTER EIGHTEEN
@@ -51389,7 +51389,7 @@ this twenty year.’
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_02" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_02" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 2)" data-chapter="EIGHTEEN" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/time,motif/well,concept/doubt,concept/honour,concept/suffering,concept/truth,setting/london,character/martin_chuzzlewit,character/phantom"></span>
 
 
 ‘That’s a good sign!’ cried Chuffey. ‘Ha! ha! The best sign in the
@@ -51515,7 +51515,7 @@ old man.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_03" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_03" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 3)" data-chapter="EIGHTEEN" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/truth,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘Oh! YOU were? What was it?’
@@ -51643,7 +51643,7 @@ another minute, quite regardless or forgetful of his presence.
 
 
 
-<span class="atom-split" data-atom="chapter_18_eighteen--part_04" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 4)" data-chapter="EIGHTEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_eighteen--part_04" data-title="Martin Chuzzlewit — Chapter 18: EIGHTEEN (part 4)" data-chapter="EIGHTEEN" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/clock,motif/death,motif/home,motif/journey,motif/nature,motif/night,motif/prison,motif/silence,motif/time,motif/well,motif/window,concept/body,concept/charity,concept/melancholy,concept/mercy,concept/nature,character/martin_chuzzlewit"></span>
 
 
 Uncouth and unsatisfactory as this short interview had been, it had
@@ -51820,7 +51820,7 @@ shall not close on one!
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_01" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 1)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_01" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 1)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="topos/double,topos/quest,motif/fire,motif/home,motif/night,motif/poison,motif/time,motif/water,motif/window,concept/despair,concept/imagination,setting/court,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/nurse"></span>
 
 
 CHAPTER NINETEEN
@@ -51945,7 +51945,7 @@ off, overwhelmed with popular execration.
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_02" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 2)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_02" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 2)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,concept/nature,concept/truth,character/martin_chuzzlewit"></span>
 
 
 Mrs Gamp had a large bundle with her, a pair of pattens, and a species
@@ -52063,7 +52063,7 @@ something absolutely gorgeous.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_03" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 3)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_03" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 3)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/flowers,motif/nature,motif/secrets,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,concept/nature,concept/self,form/fragment,character/martin_chuzzlewit"></span>
 
 
 ‘My friend Mr Jonas is an excellent man,’ said Mr Pecksniff.
@@ -52187,7 +52187,7 @@ names, it’s only done to rouse ‘em.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_04" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 4)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_04" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 4)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="archetype/shadow,motif/dawn,motif/death,motif/fire,motif/grave,motif/night,motif/rose,motif/sleep,motif/time,concept/melancholy,character/martin_chuzzlewit"></span>
 
 
 Whatever epithets she had bestowed on the old clerk, they had not
@@ -52302,7 +52302,7 @@ Mould emphatically said, ‘Everything that money could do was done.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_05" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_05" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 5)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/love,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/providence,character/martin_chuzzlewit,character/nurse"></span>
 
 
 ‘And what can do more, Mrs Gamp?’ exclaimed the undertaker as he emptied
@@ -52428,7 +52428,7 @@ an exchange. Thank you. [[Well]], sir, I was going to tell you--’
 
 
 
-<span class="atom-split" data-atom="chapter_19_nineteen--part_06" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 6)" data-chapter="NINETEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_nineteen--part_06" data-title="Martin Chuzzlewit — Chapter 19: NINETEEN (part 6)" data-chapter="NINETEEN" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/grave,motif/home,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/hope,concept/pride,concept/self,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘Ready, eh?’ said the doctor. ‘Very good, Mr Pecksniff, I’ll take an
@@ -52546,7 +52546,7 @@ throwing up another heap of earth. And that was all.
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_01" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 1)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_01" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 1)" data-chapter="TWENTY" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/conscience,concept/nature,concept/providence,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWENTY
@@ -52685,7 +52685,7 @@ sacrifice.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_02" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 2)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_02" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 2)" data-chapter="TWENTY" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/garden,motif/journey,motif/leaves,motif/nature,motif/night,motif/road,motif/silence,motif/spring,motif/time,motif/well,concept/endurance,concept/faith,concept/hope,concept/melancholy,concept/nature,concept/providence,setting/london,character/martin_chuzzlewit"></span>
 
 
 A question of [[philosophy]] arises here, whether Mr Pecksniff had or had
@@ -52793,7 +52793,7 @@ man go [[Melancholy|melancholy]] mad.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_03" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 3)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_03" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 3)" data-chapter="TWENTY" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/snow,motif/time,motif/well,motif/window,concept/nature,concept/resignation,concept/truth,setting/desert,character/martin_chuzzlewit,character/speed"></span>
 
 
 ‘We shall need ‘em by the [[Time|time]] we get there,’ said Jonas. ‘Why the devil
@@ -52930,7 +52930,7 @@ fright! [[Well]], I’m very thankful that you won’t trouble ME much!’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_04" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 4)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_04" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 4)" data-chapter="TWENTY" data-kind="excerpt" data-tags="archetype/monster,motif/city,motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/charity,concept/mercy,concept/truth,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘What! you’re as lively as ever, are you?’ said Jonas. ‘Oh! You’re a
@@ -53072,7 +53072,7 @@ were by.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_05" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 5)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_05" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 5)" data-chapter="TWENTY" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/home,motif/time,motif/well,concept/charity,concept/fear,concept/honour,concept/mercy,concept/self,concept/truth,concept/wonder,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘There’s no accounting for tastes,’ said Merry; ‘at least I didn’t mean
@@ -53204,7 +53204,7 @@ and never could express my sense of them sufficiently.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_twenty--part_06" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 6)" data-chapter="TWENTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_twenty--part_06" data-title="Martin Chuzzlewit — Chapter 20: TWENTY (part 6)" data-chapter="TWENTY" data-kind="excerpt" data-tags="motif/road,motif/soul,motif/time,motif/winter,concept/charity,concept/mercy,character/martin_chuzzlewit"></span>
 
 
 ‘That,’ said Mr Pecksniff, ‘was very, very wrong. Take your [[Time|time]], Mr
@@ -53257,7 +53257,7 @@ But at that moment a loud knocking was heard at the hall door.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_01" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 1)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_01" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 1)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/blood,motif/lion,motif/road,motif/spring,motif/stars,motif/time,motif/well,concept/endurance,concept/freedom,concept/history,concept/revenge,form/history,setting/new_york,character/bottom,character/mark_tapley,character/martin_chuzzlewit,character/speed"></span>
 
 
 CHAPTER TWENTY-ONE
@@ -53381,7 +53381,7 @@ down, for he means wenom.”’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_02" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 2)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_02" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 2)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="topos/double,motif/grave,motif/lion,motif/love,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,setting/london,character/martin_chuzzlewit,character/queen"></span>
 
 
 ‘Why didn’t you tell me this before!’ cried Martin, with an expression
@@ -53529,7 +53529,7 @@ the shores of green Co-lumbia!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_03" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 3)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_03" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 3)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/grave,motif/lion,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/hope,setting/court,setting/london,character/lord_mayor,character/martin_chuzzlewit,character/queen"></span>
 
 
 Here the lank gentleman sat down again, amidst a great sensation; and
@@ -53668,7 +53668,7 @@ brother man?’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_04" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 4)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_04" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 4)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/journey,motif/well,concept/body,concept/hope,concept/regeneration,setting/new_york,character/martin_chuzzlewit,character/speed,character/tom_pinch"></span>
 
 
 Martin tried to look convinced, but he thought of [[New York]], and found it
@@ -53792,7 +53792,7 @@ profits, as long as it is carried on, shall be yours.’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_05" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 5)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_05" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 5)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/doubt,concept/nature,concept/self,concept/truth,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 Poor Martin! For ever building castles in the air. For ever, in his very
@@ -53919,7 +53919,7 @@ selling Eden off too cheap. That’s human natur’! [[Well]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_06" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 6)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_06" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 6)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/nature,motif/rose,motif/silence,motif/snow,motif/spring,motif/time,motif/well,concept/hope,concept/nature,character/martin_chuzzlewit"></span>
 
 
 ‘Mr Scadder,’ said the General, assuming his oratorical deportment.
@@ -54069,7 +54069,7 @@ pierced the very centre of the main wharf, through and through.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_07" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 7)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_07" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 7)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/city,motif/clock,motif/death,motif/grave,motif/horse,motif/lion,motif/love,motif/road,motif/rose,motif/time,motif/water,motif/well,concept/doubt,concept/freedom,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘There!’ he said, leaving his knife quivering in the wall; ‘that’s where
@@ -54192,7 +54192,7 @@ written.
 
 
 
-<span class="atom-split" data-atom="chapter_21_twenty_one--part_08" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 8)" data-chapter="TWENTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_twenty_one--part_08" data-title="Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 8)" data-chapter="TWENTY ONE" data-kind="excerpt" data-tags="motif/city,motif/flag,motif/home,motif/lion,motif/memory,motif/nature,motif/soul,motif/time,motif/window,concept/body,concept/freedom,concept/history,concept/honour,concept/nature,concept/wonder,form/history,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 ‘Thus,’ said the General, ‘thus, my friends and fellow-citizens, it
@@ -54310,7 +54310,7 @@ and you are but sorry fustian!’
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_01" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_01" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 1)" data-chapter="TWENTY TWO" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/hill,motif/lion,motif/time,motif/well,concept/doubt,concept/self,form/epic,histref/america,setting/america,setting/london,character/cain,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWENTY-TWO
@@ -54478,7 +54478,7 @@ again; winked, and walked out.
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_02" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_02" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)" data-chapter="TWENTY TWO" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/time,concept/hope,concept/mercy,character/chorus,character/martin_chuzzlewit"></span>
 
 
 ‘Upon my life, now!’ said Martin, bringing his hand heavily upon the
@@ -54596,7 +54596,7 @@ p’raps, acquainted, sir, with Mrs Hominy’s writings.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_03" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 3)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_03" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 3)" data-chapter="TWENTY TWO" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/night,motif/rose,motif/well,concept/body,concept/melancholy,concept/truth,histref/america,setting/america,character/bottom,character/kent,character/martin_chuzzlewit"></span>
 
 
 Martin couldn’t say he was.
@@ -54731,7 +54731,7 @@ yet busied with dried beef and a saucer-full of pickled fixings.
 
 
 
-<span class="atom-split" data-atom="chapter_22_twenty_two--part_04" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 4)" data-chapter="TWENTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_twenty_two--part_04" data-title="Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 4)" data-chapter="TWENTY TWO" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/lion,motif/night,motif/noon,motif/water,concept/conscience,form/riddle,character/martin_chuzzlewit"></span>
 
 
 It would be difficult to give an adequate idea of Mrs Hominy’s freshness
@@ -54829,7 +54829,7 @@ upon the dark [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_01" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_01" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)" data-chapter="TWENTY THREE" data-kind="excerpt" data-tags="archetype/prophet,motif/hill,motif/home,motif/journey,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/well,concept/courage,concept/hope,concept/melancholy,setting/new_york,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWENTY-THREE
@@ -54953,7 +54953,7 @@ boat who are bound for Eden?’
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_02" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_02" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)" data-chapter="TWENTY THREE" data-kind="excerpt" data-tags="motif/journey,motif/nature,motif/night,motif/pain,motif/poison,motif/water,concept/body,concept/despair,concept/hope,concept/nature,character/martin_chuzzlewit"></span>
 
 
 ‘None at all, sir. Most of ‘em, as you know, have stopped short; and
@@ -55083,7 +55083,7 @@ the most auspicious and cheerful of all imaginable circumstances.
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_03" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 3)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_03" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 3)" data-chapter="TWENTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/time,motif/water,concept/doubt,concept/forgiveness,concept/nature,concept/truth,setting/castle,character/martin_chuzzlewit"></span>
 
 
 But many a man who would have stood within a [[Home|home]] dismantled, strong in
@@ -55195,7 +55195,7 @@ went sadly off upon their several tasks.
 
 
 
-<span class="atom-split" data-atom="chapter_23_twenty_three--part_04" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 4)" data-chapter="TWENTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_twenty_three--part_04" data-title="Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 4)" data-chapter="TWENTY THREE" data-kind="excerpt" data-tags="motif/city,motif/home,motif/night,motif/road,motif/time,form/inscription,character/martin_chuzzlewit,character/speed"></span>
 
 
 Martin was by this [[Time|time]] stirring; but he had greatly changed, even in
@@ -55293,7 +55293,7 @@ to come out strong; or Never!’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_01" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 1)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_01" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 1)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,archetype/villain,motif/death,motif/desire,motif/garden,motif/grave,motif/love,motif/memory,motif/nature,motif/silence,motif/time,motif/well,motif/window,concept/charity,concept/conscience,concept/hope,concept/jealousy,concept/melancholy,concept/nature,concept/revenge,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWENTY-FOUR
@@ -55423,7 +55423,7 @@ dispassionately; ‘and I never expected to be a legatee. I knew better!’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_02" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 2)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_02" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 2)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/grave,motif/home,motif/nature,motif/night,motif/road,motif/tears,motif/time,motif/well,motif/window,concept/charity,concept/doubt,concept/fear,concept/hope,concept/madness,concept/nature,concept/truth,concept/wonder,setting/london,character/martin_chuzzlewit,character/mary_graham"></span>
 
 
 ‘His son a pattern!’ cried old Martin. ‘How can you tell me that? My
@@ -55555,7 +55555,7 @@ when old Martin, looking at his watch, announced that it was [[Time|time]] to go
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_03" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 3)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_03" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 3)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/home,motif/nature,motif/night,motif/soul,concept/hope,concept/nature,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/tom_pinch,character/witch"></span>
 
 
 ‘We have rooms,’ he said, ‘at the Dragon, for the present. I have a
@@ -55695,7 +55695,7 @@ me to pass. The less I say, the better.’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_04" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 4)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_04" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 4)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/blood,motif/home,motif/night,motif/pain,motif/road,motif/rose,motif/time,motif/water,concept/charity,concept/honour,concept/mercy,concept/truth,concept/wonder,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/mary_graham,character/seth_pecksniff,character/tom_pinch"></span>
 
 
 ‘The less you say!’ retorted Jonas, dangling his legs the more, and
@@ -55827,7 +55827,7 @@ trust, and run away with [[Mary Graham]].
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_05" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 5)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_05" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 5)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/desire,motif/garden,motif/love,motif/night,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/hope,concept/self,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 It must be acknowledged that, asleep or awake, Tom’s position in
@@ -55954,7 +55954,7 @@ ask by whom; by any one?’
 
 
 
-<span class="atom-split" data-atom="chapter_24_twenty_four--part_06" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 6)" data-chapter="TWENTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_twenty_four--part_06" data-title="Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 6)" data-chapter="TWENTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/monster,motif/cross,motif/home,motif/silence,motif/soul,motif/time,motif/well,motif/wheel,concept/honour,concept/hope,concept/mercy,concept/vanity,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘No,’ said Merry, shrugging her shoulders. ‘I don’t know that I am.’
@@ -56114,7 +56114,7 @@ sun shines. Take your own way as long as it’s in your power, my lady!’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_01" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 1)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_01" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 1)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/city,motif/death,motif/home,motif/insects,motif/love,motif/nature,motif/rose,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/nature,setting/court,character/martin_chuzzlewit,character/sunday"></span>
 
 
 CHAPTER TWENTY-FIVE
@@ -56232,7 +56232,7 @@ here,’ said Mr Mould. ‘Like their impudence to propose it. Who is it?’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_02" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_02" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/truth,character/martin_chuzzlewit,character/nurse,character/phantom,character/sairey_gamp"></span>
 
 
 ‘Why,’ returned Tacker, pausing, ‘that’s where it is, you see. It’s the
@@ -56359,7 +56359,7 @@ brought reg’lar and draw’d mild.”’
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_03" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 3)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_03" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 3)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/rose,motif/time,motif/well,motif/wind,concept/hope,character/martin_chuzzlewit,character/nurse"></span>
 
 
 The precise connection between these observations and the glass of rum,
@@ -56478,7 +56478,7 @@ in Holborn, which she reached as the clocks were striking eight.
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_04" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 4)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_04" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 4)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,setting/london,character/martin_chuzzlewit,character/nurse,character/speed"></span>
 
 
 As she turned into the yard, she stopped; for the landlord, landlady,
@@ -56620,7 +56620,7 @@ chamber.
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_05" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 5)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_05" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 5)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/city,motif/fire,motif/love,motif/night,motif/sleep,motif/time,motif/water,motif/window,concept/body,concept/deception,concept/fear,concept/self,character/cain,character/martin_chuzzlewit"></span>
 
 
 ‘A little dull, but not so bad as might be,’ Mrs Gamp remarked.
@@ -56732,7 +56732,7 @@ wanderings of [[Cain]], to these!
 
 
 
-<span class="atom-split" data-atom="chapter_25_twenty_five--part_06" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 6)" data-chapter="TWENTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_twenty_five--part_06" data-title="Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 6)" data-chapter="TWENTY FIVE" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/fire,motif/flag,motif/night,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/suffering,character/martin_chuzzlewit,character/nurse"></span>
 
 
 Still, without a moment’s interval, the burning head tossed to and fro.
@@ -56891,7 +56891,7 @@ laying her hand upon her arm--‘try the cowcumbers, God bless you!’
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_01" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 1)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_01" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 1)" data-chapter="TWENTY SIX" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/clock,motif/crown,motif/nature,motif/night,motif/time,motif/well,concept/honour,concept/nature,character/martin_chuzzlewit,character/sunday"></span>
 
 
 CHAPTER TWENTY-SIX
@@ -57008,7 +57008,7 @@ state of spirits with himself.
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_02" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 2)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_02" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 2)" data-chapter="TWENTY SIX" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/grave,motif/hill,motif/home,motif/horse,motif/night,motif/time,motif/well,concept/hope,concept/melancholy,concept/self,setting/london,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/nurse"></span>
 
 
 ‘I wouldn’t have believed it,’ said Poll. ‘What! You’ve left your old
@@ -57145,7 +57145,7 @@ Gamp.
 
 
 
-<span class="atom-split" data-atom="chapter_26_twenty_six--part_03" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 3)" data-chapter="TWENTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_twenty_six--part_03" data-title="Martin Chuzzlewit — Chapter 26: TWENTY SIX (part 3)" data-chapter="TWENTY SIX" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/death,motif/home,motif/horse,motif/journey,motif/love,motif/rose,motif/time,motif/well,concept/charity,concept/fear,concept/self,concept/wonder,form/inscription,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/nurse"></span>
 
 
 Paul knocked at [[Jonas Chuzzlewit]]’s; and, on the door being opened by
@@ -57310,7 +57310,7 @@ It was her welcome--[[Home|HOME]].
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 1)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 1)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/chains,motif/cross,motif/flowers,motif/horse,motif/noon,motif/summer,character/martin_chuzzlewit,character/montague_tigg"></span>
 
 
 CHAPTER TWENTY-SEVEN
@@ -57418,7 +57418,7 @@ to-day, in my capacity as chairman.’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 2)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/fire,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,concept/self,form/inscription,setting/court,character/martin_chuzzlewit"></span>
 
 
 The secretary smiled again; laughed, indeed, this [[Time|time]]; and said,
@@ -57588,7 +57588,7 @@ the Board of Management for its permanence and stability.
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 3)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 3)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/grave,motif/horse,motif/time,motif/water,concept/doubt,concept/hope,character/martin_chuzzlewit"></span>
 
 
 This gentleman’s name, by the way, had been originally Crimp; but as
@@ -57706,7 +57706,7 @@ this. In Mr Crimple’s leg--’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 4)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 4)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/secrets,motif/snow,motif/tears,concept/honour,concept/nature,character/martin_chuzzlewit"></span>
 
 
 The resident Director gave an involuntary start, for the doctor, in the
@@ -57824,7 +57824,7 @@ comfortable fellows you ever saw in your life!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_05" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 5)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_05" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 5)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 Jobling was for many reasons, and not last in the list because his
@@ -57944,7 +57944,7 @@ furniture. They had a very decided influence on Jonas.
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_06" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_06" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/faith,concept/honour,concept/hope,concept/nature,concept/revenge,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘Now you two gentlemen have business to discuss, I know,’ said the
@@ -58074,7 +58074,7 @@ quite right. Sweet, silly, fluttering little simpletons!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_07" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_07" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 7)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/hill,motif/home,motif/horse,motif/time,motif/well,motif/window,concept/charity,concept/honour,concept/hope,concept/self,concept/truth,character/martin_chuzzlewit,character/sunday"></span>
 
 
 ‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
@@ -58234,7 +58234,7 @@ thoroughbred [[Horse|horse]] he is. Ha, ha, ha!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_twenty_seven--part_08" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)" data-chapter="TWENTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_twenty_seven--part_08" data-title="Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 8)" data-chapter="TWENTY SEVEN" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/fire,motif/secrets,motif/time,motif/well,concept/body,concept/honour,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 Jonas enjoyed this joke very much indeed. It was quite in his peculiar
@@ -58365,7 +58365,7 @@ up, for they flowed in gayly.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 1)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 1)" data-chapter="TWENTY EIGHT" data-kind="excerpt" data-tags="archetype/tyrant,motif/home,motif/well,concept/doubt,concept/honour,concept/hope,concept/self,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 CHAPTER TWENTY-EIGHT
@@ -58493,7 +58493,7 @@ dinner was done full justice to, by all parties.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 2)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 2)" data-chapter="TWENTY EIGHT" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/nature,motif/night,motif/soul,motif/well,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/nature,character/desdemona,character/juliet,character/lady_macbeth,character/martin_chuzzlewit"></span>
 
 
 It was a good a one as money (or credit, no matter which) could produce.
@@ -58633,7 +58633,7 @@ grew talkative.
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 3)" data-chapter="TWENTY EIGHT" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/fire,motif/home,motif/nature,motif/night,motif/road,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/honour,concept/nature,concept/self,setting/london,character/martin_chuzzlewit"></span>
 
 
 It does not follow in the case of such a person that the more talkative
@@ -58757,7 +58757,7 @@ us?’
 
 
 
-<span class="atom-split" data-atom="chapter_28_twenty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 4)" data-chapter="TWENTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_twenty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 28: TWENTY EIGHT (part 4)" data-chapter="TWENTY EIGHT" data-kind="excerpt" data-tags="archetype/fool,archetype/villain,motif/home,motif/nature,motif/night,motif/silence,motif/tears,motif/time,concept/nature,concept/truth,form/fragment,character/bottom,character/martin_chuzzlewit"></span>
 
 
 ‘No,’ she said, faintly.
@@ -58895,7 +58895,7 @@ endure, in bearing heavy evidence against us, on the Day of Judgment!
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 1)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 1)" data-chapter="TWENTY NINE" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/nature,motif/tears,motif/time,motif/well,concept/honour,concept/nature,concept/wonder,character/martin_chuzzlewit,character/sairey_gamp"></span>
 
 
 CHAPTER TWENTY-NINE
@@ -59037,7 +59037,7 @@ do assure you, sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 2)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 2)" data-chapter="TWENTY NINE" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/cross,motif/crown,motif/desire,motif/ghosts,motif/home,motif/journey,motif/night,motif/sleep,motif/time,motif/well,concept/body,concept/hope,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘You’re so full of zeal, you see!’ said Poll. ‘You worrit yourself so.’
@@ -59173,7 +59173,7 @@ wants to be tittivated, you must pay accordin’.’
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 3)" data-chapter="TWENTY NINE" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/night,motif/pain,motif/soul,concept/courage,concept/melancholy,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘Oh dear me!’ cried the patient, ‘oh dear, dear!’
@@ -59301,7 +59301,7 @@ to the [[house|House]] of Commons.
 
 
 
-<span class="atom-split" data-atom="chapter_29_twenty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)" data-chapter="TWENTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_twenty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)" data-chapter="TWENTY NINE" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/time,concept/doubt,concept/hope,concept/melancholy,character/martin_chuzzlewit,character/nurse"></span>
 
 
 At last, her bundle, and her pattens, and her basket, and everything
@@ -59389,7 +59389,7 @@ a little behind his [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_01" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 1)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_01" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 1)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/nature,motif/rose,concept/charity,concept/conscience,concept/history,concept/mercy,concept/nature,concept/wonder,form/history,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY
@@ -59520,7 +59520,7 @@ for her. I know the fate that’s in store for her, with that Wretch.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_02" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 2)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_02" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 2)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/birds,motif/death,motif/decay,motif/desire,motif/home,motif/nature,motif/night,motif/storm,motif/time,motif/well,concept/charity,concept/doubt,concept/melancholy,concept/nature,concept/resignation,concept/self,character/martin_chuzzlewit,character/old_martin_chuzzlewit"></span>
 
 
 ‘Mr Jonas will survive your calling him a wretch, my [[Child|child]], I dare say,’
@@ -59649,7 +59649,7 @@ process of [[Decay|decay]].
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_03" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 3)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_03" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 3)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/nature,motif/pain,motif/soul,motif/well,concept/conscience,concept/hope,concept/nature,concept/reconciliation,setting/london,character/martin_chuzzlewit,character/mary_graham"></span>
 
 
 To a gentleman of Mr Pecksniff’s tenderness, this was a very mournful
@@ -59771,7 +59771,7 @@ from being congenial to a delicate mind.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_04" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 4)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_04" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 4)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/birds,motif/desire,motif/leaves,motif/memory,motif/nature,motif/silence,motif/summer,motif/time,motif/well,motif/wind,concept/hope,concept/nature,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘It’s an amusement of the vulgar,’ said old Martin, ‘certainly.’
@@ -59900,7 +59900,7 @@ immediately.
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_05" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 5)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_05" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 5)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/lamb,motif/love,motif/nature,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/self,concept/truth,character/martin_chuzzlewit"></span>
 
 
 She said the morning was so beautiful that she had walked further than
@@ -60030,7 +60030,7 @@ could! How little did she know his heart!’
 
 
 
-<span class="atom-split" data-atom="chapter_30_thirty--part_06" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 6)" data-chapter="THIRTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_thirty--part_06" data-title="Martin Chuzzlewit — Chapter 30: THIRTY (part 6)" data-chapter="THIRTY" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/nature,motif/night,motif/sleep,motif/summer,motif/time,motif/well,concept/charity,concept/doubt,concept/faith,concept/friendship,concept/hope,concept/nature,concept/self,character/bottom,character/martin_chuzzlewit,character/sunday"></span>
 
 
 Little, indeed! Her mind was so strangely constituted that she would
@@ -60175,7 +60175,7 @@ thanksgiving at church next [[Sunday]].
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_01" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_01" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 1)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/leaves,motif/prayer,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/charity,concept/self,setting/london,setting/new_york,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER THIRTY-ONE
@@ -60292,7 +60292,7 @@ opportunity.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_02" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 2)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_02" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 2)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/time,motif/well,concept/courage,concept/doubt,concept/friendship,concept/history,concept/hope,concept/mercy,form/history,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘I have sometimes been almost afraid,’ said Mary, ‘that you might
@@ -60431,7 +60431,7 @@ brother but a [[Child|child]], who saw it, he would instinctively have helped me
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_03" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 3)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_03" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 3)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/lover,archetype/villain,motif/cross,motif/death,motif/desire,motif/love,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/melancholy,concept/self,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘He is a scoundrel!’ exclaimed Tom. ‘Whoever he may be, he is a
@@ -60540,7 +60540,7 @@ have had you deserve my old opinion of you; nothing!’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_04" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 4)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_04" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 4)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/tears,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/faith,concept/hope,concept/suicide,setting/cathedral,character/martin_chuzzlewit"></span>
 
 
 Mr Pecksniff sat upon the hassock pulling up his shirt-collar, while
@@ -60679,7 +60679,7 @@ vestry-[[Window|window]], Mr Pinch, and then come back to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_05" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_05" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 5)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="motif/death,motif/love,motif/pain,motif/spring,motif/time,motif/window,concept/fear,concept/guilt,concept/honour,concept/melancholy,concept/self,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 No physiognomist that ever dwelt on earth could have construed Tom’s
@@ -60806,7 +60806,7 @@ strangers from this [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_06" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 6)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_06" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 6)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="topos/double,motif/dreams,motif/fire,motif/garden,motif/love,motif/nature,motif/seasons,motif/soul,motif/summer,motif/tears,motif/time,motif/well,motif/window,motif/winter,concept/deception,concept/hope,concept/nature,setting/castle,character/martin_chuzzlewit"></span>
 
 
 Something without a name; compassion, sorrow, old tenderness, mistaken
@@ -60921,7 +60921,7 @@ hand for Tom to shake.
 
 
 
-<span class="atom-split" data-atom="chapter_31_thirty_one--part_07" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)" data-chapter="THIRTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_thirty_one--part_07" data-title="Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)" data-chapter="THIRTY ONE" data-kind="excerpt" data-tags="motif/city,motif/night,motif/road,motif/sleep,motif/soul,motif/time,motif/window,character/martin_chuzzlewit"></span>
 
 
 ‘You’re coming to the Dragon, Mr Pinch?’
@@ -61057,7 +61057,7 @@ afterwards, and went to [[Sleep|sleep]], and dreamed about him as he Never Was.
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_01" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 1)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_01" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 1)" data-chapter="THIRTY TWO" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/childhood,motif/decay,motif/fire,motif/home,motif/marriage,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/window,concept/charity,concept/fear,concept/greatness,concept/hope,concept/melancholy,concept/nature,concept/self,concept/truth,setting/london,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY-TWO
@@ -61189,7 +61189,7 @@ door, and ardent to shut it again; and she waited at table in a bonnet.
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_02" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 2)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_02" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 2)" data-chapter="THIRTY TWO" data-kind="excerpt" data-tags="motif/home,motif/lamb,motif/love,motif/night,motif/seasons,motif/tears,motif/time,motif/well,concept/charity,concept/honour,character/martin_chuzzlewit"></span>
 
 
 This was the only great change over and above the change which had
@@ -61315,7 +61315,7 @@ comes and sits [[Alone|alone]] with me.’
 
 
 
-<span class="atom-split" data-atom="chapter_32_thirty_two--part_03" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 3)" data-chapter="THIRTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_thirty_two--part_03" data-title="Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 3)" data-chapter="THIRTY TWO" data-kind="excerpt" data-tags="motif/tears,motif/time,concept/friendship,character/martin_chuzzlewit"></span>
 
 
 ‘Quite right,’ said Mrs Todgers. ‘That’s indispensable, my dear.’
@@ -61376,7 +61376,7 @@ afternoon. Oh, what a trying day this has been! Good Gracious!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_01" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 1)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_01" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 1)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/love,motif/night,motif/ship,motif/silence,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/melancholy,concept/truth,setting/new_york,setting/ship,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY-THREE
@@ -61495,7 +61495,7 @@ looking noble!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_02" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 2)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_02" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 2)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/lion,motif/night,motif/rose,motif/ship,motif/time,concept/body,concept/fear,concept/hope,concept/self,setting/ship,character/martin_chuzzlewit"></span>
 
 
 ‘We are but sickly now,’ said the poor woman, bending over her [[Child|child]].
@@ -61621,7 +61621,7 @@ pipe:
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_03" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 3)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_03" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 3)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="motif/decay,motif/time,motif/well,concept/doubt,concept/freedom,concept/hope,concept/self,concept/slavery,character/martin_chuzzlewit"></span>
 
 
 ‘[[Well]], Mr Co.! and how do you git along, sir?’
@@ -61755,7 +61755,7 @@ the present Locofoco Ticket.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_04" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_04" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/death,motif/home,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/body,concept/honour,concept/hope,character/martin_chuzzlewit"></span>
 
 
 ‘And what’s that?’ asked Mark.
@@ -61900,7 +61900,7 @@ fell upon them. Mark was taken ill.
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_05" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 5)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_05" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 5)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/home,motif/love,motif/nature,motif/rose,motif/time,motif/well,concept/ambition,concept/hope,concept/humility,concept/nature,concept/pride,concept/self,concept/solitude,concept/truth,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Mark fought against it; but the malady fought harder, and his efforts
@@ -62015,7 +62015,7 @@ to get back there, Mark.’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_06" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 6)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_06" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 6)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/river,motif/silence,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/hope,setting/new_york,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘That’s all, sir,’ returned Mr Tapley, with a significant stress upon
@@ -62145,7 +62145,7 @@ that she has more to bear than ever I had. Upon my [[Soul|soul]] I do!’
 
 
 
-<span class="atom-split" data-atom="chapter_33_thirty_three--part_07" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 7)" data-chapter="THIRTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_thirty_three--part_07" data-title="Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 7)" data-chapter="THIRTY THREE" data-kind="excerpt" data-tags="motif/autumn,motif/dreams,motif/night,motif/river,motif/time,motif/water,concept/courage,concept/truth,character/martin_chuzzlewit"></span>
 
 
 Mr Tapley opened his eyes wide in the dark; but did not interrupt.
@@ -62221,7 +62221,7 @@ wake and find them Shadows that had vanished!
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_01" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 1)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_01" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 1)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/rose,motif/time,motif/water,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY-FOUR
@@ -62377,7 +62377,7 @@ laborious. He made a mental note of his answer, and went in again.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_02" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_02" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/home,motif/storm,motif/time,motif/well,concept/body,concept/freedom,concept/jealousy,concept/pride,concept/truth,histref/america,setting/america,setting/london,setting/mountains,character/martin_chuzzlewit"></span>
 
 
 ‘You are from Eden, sir? How did you like Eden?’
@@ -62502,7 +62502,7 @@ of the company were decidedly dirty feeders.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_03" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_03" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 3)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/honour,character/martin_chuzzlewit"></span>
 
 
 The Honourable Elijah Pogram looked at Martin as if he thought ‘You
@@ -62646,7 +62646,7 @@ forward.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_04" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 4)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_04" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 4)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="topos/quest,motif/clock,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/doubt,concept/honour,concept/melancholy,character/martin_chuzzlewit"></span>
 
 
 ‘Mr Pogram! Sir! A handful of your fellow-citizens, sir, hearing of your
@@ -62773,7 +62773,7 @@ her own books, word for word.
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_05" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_05" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="motif/rose,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/aspiration,concept/grotesque,concept/history,concept/honour,concept/imagination,concept/sublime,concept/union,form/fragment,form/history,setting/new_york,character/coriolanus,character/martin_chuzzlewit"></span>
 
 
 ‘My! what is this!’ cried Mrs Hominy, opening a little note which was
@@ -62900,7 +62900,7 @@ into danger, sir, on my account!’
 
 
 
-<span class="atom-split" data-atom="chapter_34_thirty_four--part_06" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)" data-chapter="THIRTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_thirty_four--part_06" data-title="Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 6)" data-chapter="THIRTY FOUR" data-kind="excerpt" data-tags="motif/city,motif/home,motif/ship,motif/time,motif/well,concept/hope,concept/suffering,concept/vanity,histref/america,setting/america,setting/ship,character/martin_chuzzlewit"></span>
 
 
 ‘There is not the least danger, I assure you,’ said Martin. So he put
@@ -63047,7 +63047,7 @@ Mark. Let us [[Hope|hope]] so.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_01" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 1)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_01" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 1)" data-chapter="THIRTY FIVE" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/home,motif/river,motif/silence,motif/time,motif/water,motif/window,concept/doubt,concept/union,setting/new_york,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY-FIVE
@@ -63161,7 +63161,7 @@ in a [[Magic|magic]] lantern.
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_02" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_02" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 2)" data-chapter="THIRTY FIVE" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/silence,motif/tears,motif/time,concept/charity,concept/self,form/inscription,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 As Mr Pecksniff passed, a person coming in the opposite direction
@@ -63294,7 +63294,7 @@ which periods the assembly became very tender, and were much affected.
 
 
 
-<span class="atom-split" data-atom="chapter_35_thirty_five--part_03" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)" data-chapter="THIRTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_thirty_five--part_03" data-title="Martin Chuzzlewit — Chapter 35: THIRTY FIVE (part 3)" data-chapter="THIRTY FIVE" data-kind="excerpt" data-tags="archetype/villain,motif/desire,motif/hill,motif/home,motif/time,concept/charity,concept/honour,concept/hope,character/martin_chuzzlewit"></span>
 
 
 And now the stone was lowered down into its place, amidst the shouting
@@ -63396,7 +63396,7 @@ foremost, old fellow!’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_01" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 1)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_01" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 1)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/city,motif/hill,motif/night,motif/road,motif/time,motif/well,concept/faith,concept/freedom,concept/self,concept/truth,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER THIRTY-SIX
@@ -63506,7 +63506,7 @@ guard and his key-bugle on the top of it.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_02" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 2)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_02" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 2)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="archetype/monster,motif/bells,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/wheel,concept/melancholy,setting/cathedral,setting/london,character/hamlet,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 These were all foreshadowings of [[London]], Tom thought, as he sat upon
@@ -63627,7 +63627,7 @@ coachman.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_03" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 3)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_03" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 3)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/leaves,motif/moon,motif/night,motif/road,motif/time,motif/water,concept/beauty,concept/friendship,setting/london,character/martin_chuzzlewit,character/phantom,character/tom_pinch"></span>
 
 
 This was a matter of taste, which Tom did not feel himself called upon
@@ -63734,7 +63734,7 @@ go, or what to do with myself.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_04" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_04" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 4)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/grave,motif/journey,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/wonder,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Don’t they expect you then?’ inquired the driver.
@@ -63867,7 +63867,7 @@ better.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_05" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_05" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 5)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/time,motif/well,concept/doubt,concept/self,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘My dear friend,’ said Tom, extending his hand, ‘it is very generous and
@@ -63997,7 +63997,7 @@ said, ‘You are a nice man, YOU are; where did YOU come from?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_06" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_06" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/love,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/charity,concept/education,concept/fear,concept/hope,concept/pride,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘I don’t know, I’m sure,’ rejoined the porter.
@@ -64132,7 +64132,7 @@ engaged upon my [[Education|education]],’ sobbed the pupil.
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_07" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 7)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_07" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 7)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/desire,motif/nature,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
@@ -64262,7 +64262,7 @@ not in a tenfold worse position in reference to your daughters?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_thirty_six--part_08" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)" data-chapter="THIRTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_thirty_six--part_08" data-title="Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 8)" data-chapter="THIRTY SIX" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/journey,motif/nature,motif/time,motif/well,concept/nature,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘Pretty [[Well|well]]! Upon my word,’ exclaimed the gentleman, ‘this is pretty
@@ -64429,7 +64429,7 @@ made meat pies of, or some such horrible thing.’
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)" data-chapter="THIRTY SEVEN" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/moon,motif/time,motif/well,concept/charity,concept/hope,concept/self,concept/truth,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER THIRTY-SEVEN
@@ -64564,7 +64564,7 @@ been so foolish as to allude to--oh really!--won’t you walk in?’
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 2)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 2)" data-chapter="THIRTY SEVEN" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/nature,motif/tears,motif/time,motif/well,concept/charity,concept/courage,concept/fear,concept/freedom,concept/nature,concept/self,concept/wonder,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Tom mentioned, to excuse himself, that he had an appointment in
@@ -64686,7 +64686,7 @@ reproachfully, and he did not understand her.
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)" data-chapter="THIRTY SEVEN" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/pain,motif/spring,motif/tears,motif/time,concept/mercy,concept/nature,character/martin_chuzzlewit,character/venus"></span>
 
 
 ‘I seldom showed it--never--I know that. But I had that belief in you,
@@ -64818,7 +64818,7 @@ more, if Miss Pecksniff had not entered with her friend.
 
 
 
-<span class="atom-split" data-atom="chapter_37_thirty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)" data-chapter="THIRTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_thirty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 4)" data-chapter="THIRTY SEVEN" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/charity,concept/hope,concept/nature,concept/pride,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
@@ -64937,7 +64937,7 @@ happy in his life.
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 1)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 1)" data-chapter="THIRTY EIGHT" data-kind="excerpt" data-tags="archetype/orphan,motif/city,motif/clock,motif/cross,motif/fire,motif/horse,motif/night,motif/time,setting/cathedral,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER THIRTY-EIGHT
@@ -65046,7 +65046,7 @@ way, was in and out of that gentleman’s room a dozen times a day.
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 2)" data-chapter="THIRTY EIGHT" data-kind="excerpt" data-tags="motif/grave,motif/rose,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/fear,concept/truth,concept/wonder,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 As he pursued all these occupations at once; and all steadily; and all
@@ -65180,7 +65180,7 @@ make it known to you.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 3)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 3)" data-chapter="THIRTY EIGHT" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/dreams,motif/fire,motif/night,motif/nightingale,motif/poison,motif/sleep,motif/time,motif/well,motif/window,concept/doubt,concept/honour,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 ‘A most invaluable constitution,’ Tigg retorted. ‘A great gift for a
@@ -65329,7 +65329,7 @@ that won’t do.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_thirty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)" data-chapter="THIRTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_thirty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 38: THIRTY EIGHT (part 4)" data-chapter="THIRTY EIGHT" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,concept/doubt,concept/honour,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 ‘I am unfortunate to find you in this [[Humour|humour]],’ said Tigg, with a
@@ -65424,7 +65424,7 @@ Angel.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 1)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 1)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/city,motif/garden,motif/grave,motif/night,motif/time,motif/well,concept/doubt,concept/pride,character/martin_chuzzlewit"></span>
 
 
 CHAPTER THIRTY-NINE
@@ -65548,7 +65548,7 @@ drudgery, they waited on themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 2)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 2)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/journey,motif/soul,motif/time,motif/water,motif/well,concept/fear,concept/self,concept/vanity,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 ‘What are you writing, Tom?’ inquired his sister, laying her hand upon
@@ -65679,7 +65679,7 @@ the room.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 3)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 3)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/love,motif/time,motif/well,concept/hope,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘Why, my goodness, John! How did YOU come in?’
@@ -65827,7 +65827,7 @@ don’t know this man from Adam; neither does this man know Tom.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 4)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 4)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/home,motif/supernatural,motif/time,motif/well,concept/despair,concept/doubt,concept/faith,concept/freedom,concept/friendship,concept/history,concept/honour,concept/wonder,form/history,setting/london,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘He can’t,’ said Tom, in great perplexity, ‘if he’s a Londoner. I don’t
@@ -65957,7 +65957,7 @@ that it was ‘rather dark.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 5)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 5)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/dust,motif/horse,motif/silence,motif/time,concept/doubt,concept/freedom,concept/hope,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Dark indeed,’ John whispered in [[Tom Pinch]]’s ear. ‘Not a bad place to
@@ -66101,7 +66101,7 @@ lock go the better, too, I dare say, for a little oil.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="motif/dust,motif/summer,motif/well,motif/window,concept/doubt,concept/faith,concept/solitude,character/martin_chuzzlewit"></span>
 
 
 Tom thanked him; but was too much occupied with his own speculations,
@@ -66224,7 +66224,7 @@ had any new solution to propose.
 
 
 
-<span class="atom-split" data-atom="chapter_39_thirty_nine--part_07" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)" data-chapter="THIRTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_thirty_nine--part_07" data-title="Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 7)" data-chapter="THIRTY NINE" data-kind="excerpt" data-tags="topos/double,motif/home,motif/love,motif/marriage,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/honour,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
@@ -66322,7 +66322,7 @@ contemptible, [[Tom Pinch]]!
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_01" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 1)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_01" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 1)" data-chapter="FORTY" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/home,motif/moon,motif/night,motif/time,motif/water,concept/loneliness,concept/wonder,setting/court,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FORTY
@@ -66430,7 +66430,7 @@ receive his weekly pay, he said:
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_02" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 2)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_02" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 2)" data-chapter="FORTY" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/city,motif/clock,motif/flowers,motif/garden,motif/home,motif/horse,motif/river,motif/summer,motif/water,concept/conscience,concept/faith,concept/freedom,concept/hope,character/martin_chuzzlewit"></span>
 
 
 ‘Oh! by the bye, Mr Pinch, you needn’t mention it, if you please!’
@@ -66555,7 +66555,7 @@ the [[Summer|summer]] light beyond, that made it red.
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_03" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 3)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_03" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 3)" data-chapter="FORTY" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/blood,motif/home,motif/love,motif/nature,motif/ship,motif/time,motif/water,motif/well,concept/aspiration,concept/doubt,concept/nature,concept/wonder,setting/ship,character/martin_chuzzlewit"></span>
 
 
 Tom’s [[Ship|ship]], however; or, at least, the packet-boat in which Tom and his
@@ -66673,7 +66673,7 @@ head and groaned.
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_04" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 4)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_04" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 4)" data-chapter="FORTY" data-kind="excerpt" data-tags="archetype/monster,motif/lamb,motif/marriage,motif/time,motif/well,character/martin_chuzzlewit"></span>
 
 
 ‘I wouldn’t,’ said Mrs Gamp, ‘I wouldn’t be a man and have such a think
@@ -66801,7 +66801,7 @@ bell ringing already! DO you see the steps?’
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_05" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 5)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_05" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 5)" data-chapter="FORTY" data-kind="excerpt" data-tags="motif/city,motif/death,motif/nature,motif/silence,motif/soul,motif/time,motif/well,concept/fear,concept/madness,concept/mercy,concept/nature,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/speed"></span>
 
 
 ‘Stay!’ said Tom, ‘you’re right. Look! there they go now. Is that the
@@ -66924,7 +66924,7 @@ merriment, for she had until now affected to be vastly entertained,
 
 
 
-<span class="atom-split" data-atom="chapter_40_forty--part_06" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 6)" data-chapter="FORTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_forty--part_06" data-title="Martin Chuzzlewit — Chapter 40: FORTY (part 6)" data-chapter="FORTY" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/journey,motif/leaves,motif/memory,motif/nature,motif/night,motif/silence,motif/well,motif/window,concept/doubt,concept/hope,concept/mercy,concept/nature,concept/wonder,setting/london,character/martin_chuzzlewit"></span>
 
 
 ‘YOU are here too, are you?’ muttered Jonas. ‘Ecod, there are enough of
@@ -67027,7 +67027,7 @@ there.
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_01" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 1)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_01" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 1)" data-chapter="FORTY ONE" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/silence,motif/soul,motif/well,motif/window,concept/hope,concept/self,concept/truth,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-ONE
@@ -67172,7 +67172,7 @@ latter--[[Well|well]]! you know best what is likely to happen then.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_02" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 2)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_02" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 2)" data-chapter="FORTY ONE" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/dust,motif/home,motif/night,motif/road,motif/rose,motif/time,motif/window,concept/wonder,character/martin_chuzzlewit"></span>
 
 
 Jonas left the [[Window|window]], and walked up close to him. He did not look
@@ -67315,7 +67315,7 @@ she kept away.
 
 
 
-<span class="atom-split" data-atom="chapter_41_forty_one--part_03" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 3)" data-chapter="FORTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_forty_one--part_03" data-title="Martin Chuzzlewit — Chapter 41: FORTY ONE (part 3)" data-chapter="FORTY ONE" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/jewel,motif/nature,motif/night,motif/time,concept/honour,concept/nature,concept/self,character/martin_chuzzlewit"></span>
 
 
 Mr Montague being much engaged in the course of the day, Jonas bestowed
@@ -67496,7 +67496,7 @@ will be a stormy [[Night|night]]!’ exclaimed the doctor, as they started.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_01" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 1)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_01" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 1)" data-chapter="FORTY TWO" data-kind="excerpt" data-tags="motif/bells,motif/birds,motif/city,motif/fire,motif/journey,motif/lightning,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/storm,motif/time,motif/well,motif/wheel,motif/wind,concept/fear,setting/london,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-TWO
@@ -67609,7 +67609,7 @@ companion.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_02" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 2)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_02" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 2)" data-chapter="FORTY TWO" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/journey,motif/lightning,motif/love,motif/night,motif/sleep,motif/storm,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/truth,concept/wonder,character/chorus,character/martin_chuzzlewit,character/speed"></span>
 
 
 He uttered an involuntary exclamation, and called to the driver, who
@@ -67734,7 +67734,7 @@ than ever.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_03" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 3)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_03" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 3)" data-chapter="FORTY TWO" data-kind="excerpt" data-tags="motif/animals,motif/dawn,motif/hill,motif/horse,motif/journey,motif/lightning,motif/night,motif/road,motif/time,motif/water,motif/well,concept/body,concept/hope,character/martin_chuzzlewit"></span>
 
 
 As the [[Night|night]] wore on, the thunder died away, but still rolled
@@ -67865,7 +67865,7 @@ you?’ said Jonas.
 
 
 
-<span class="atom-split" data-atom="chapter_42_forty_two--part_04" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 4)" data-chapter="FORTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_forty_two--part_04" data-title="Martin Chuzzlewit — Chapter 42: FORTY TWO (part 4)" data-chapter="FORTY TWO" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/shadow,motif/blood,motif/dreams,motif/home,motif/journey,motif/night,motif/road,motif/time,motif/water,motif/window,concept/beauty,concept/conscience,concept/fear,character/martin_chuzzlewit,character/phantom"></span>
 
 
 ‘I am not afraid of anything,’ replied the other, whose looks and manner
@@ -67986,7 +67986,7 @@ travel [[Home|home]] [[Alone|alone]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_01" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 1)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_01" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 1)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/leaves,motif/lightning,motif/night,motif/prison,motif/storm,motif/time,motif/well,motif/window,concept/body,concept/fear,concept/melancholy,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-THREE
@@ -68114,7 +68114,7 @@ out of breath. The pause reminded him of other duties.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_02" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 2)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_02" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 2)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/fire,motif/home,motif/horse,motif/night,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,motif/wheel,concept/doubt,concept/wonder,form/novel,histref/america,setting/america,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Mr [[Martin Chuzzlewit]]’s outside,’ he said. ‘I left him under the
@@ -68240,7 +68240,7 @@ Lupin. ‘I know all about it, you see!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_03" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_03" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 3)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="archetype/villain,motif/death,motif/fire,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/honour,concept/nature,character/bottom,character/martin_chuzzlewit"></span>
 
 
 ‘My good creature,’ returned Martin, ‘you are exactly the person who
@@ -68358,7 +68358,7 @@ still hesitated, and expressed his reason thus:
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_04" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_04" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/crown,motif/fire,motif/time,motif/well,motif/window,concept/hope,character/martin_chuzzlewit"></span>
 
 
 ‘That’s all very true, and perfectly correct, Mark; and if it were a
@@ -68486,7 +68486,7 @@ grandfather.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_05" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 5)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_05" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 5)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/home,motif/journey,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/despair,concept/hope,concept/pride,concept/self,concept/truth,histref/greek_tragedy,character/chorus,character/martin_chuzzlewit,character/mary_graham"></span>
 
 
 Mr Pecksniff also was in the room; and Mary. In the swift instant of
@@ -68606,7 +68606,7 @@ express it prematurely.’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_06" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 6)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_06" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 6)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="motif/dawn,motif/desire,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/endurance,concept/forgiveness,concept/hope,concept/nature,concept/self,concept/solitude,concept/truth,character/chorus,character/martin_chuzzlewit"></span>
 
 
 Old Martin raised his eyes to Mr Pecksniff’s face, and appearing to
@@ -68722,7 +68722,7 @@ in such a cause you will find me, my young sir, an Ugly Customer!’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_07" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 7)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_07" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 7)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/rose,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/hope,concept/humility,concept/poverty,concept/pride,concept/truth,form/history,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Still Martin looked steadily and mildly at his grandfather. ‘Will you
@@ -68857,7 +68857,7 @@ known to my grandfather?’
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_08" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 8)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_08" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 8)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/decay,motif/leaves,motif/love,motif/pain,motif/time,motif/well,concept/doubt,concept/fear,concept/self,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Yes.’
@@ -68980,7 +68980,7 @@ stranger, as he passed, had looked very sharply at them.
 
 
 
-<span class="atom-split" data-atom="chapter_43_forty_three--part_09" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 9)" data-chapter="FORTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_forty_three--part_09" data-title="Martin Chuzzlewit — Chapter 43: FORTY THREE (part 9)" data-chapter="FORTY THREE" data-kind="excerpt" data-tags="motif/desire,motif/road,motif/summer,motif/swallow,motif/wind,motif/window,motif/winter,concept/beauty,concept/doubt,concept/hope,concept/melancholy,concept/self,concept/wonder,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Who may that be, I [[Wonder|wonder]]!’ said Martin. ‘The face seems familiar to
@@ -69035,7 +69035,7 @@ now, and teach me how to earn my bread.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_01" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 1)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_01" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 1)" data-chapter="FORTY FOUR" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/time,motif/well,concept/doubt,concept/greatness,concept/humility,setting/cathedral,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-FOUR
@@ -69169,7 +69169,7 @@ from the East, from the West, from the South-East, from the Nor’West--’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_02" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_02" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)" data-chapter="FORTY FOUR" data-kind="excerpt" data-tags="archetype/artist,motif/dust,motif/nature,motif/secrets,motif/time,motif/well,motif/wind,concept/honour,concept/hope,concept/nature,concept/pride,character/martin_chuzzlewit"></span>
 
 
 During this digression, and indeed during the whole dialogue, Jonas had
@@ -69289,7 +69289,7 @@ fancy.’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_03" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 3)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_03" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 3)" data-chapter="FORTY FOUR" data-kind="excerpt" data-tags="archetype/mentor,motif/grave,motif/night,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/vanity,character/martin_chuzzlewit"></span>
 
 
 ‘Upon my life, Mr Pecksniff,’ cried Montague, ‘I attach the greatest
@@ -69407,7 +69407,7 @@ precious stones; but look up there, with me!’
 
 
 
-<span class="atom-split" data-atom="chapter_44_forty_four--part_04" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 4)" data-chapter="FORTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_forty_four--part_04" data-title="Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 4)" data-chapter="FORTY FOUR" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/night,motif/road,motif/silence,motif/time,motif/well,character/martin_chuzzlewit"></span>
 
 
 With those words, the good man patted Mrs Lupin’s hand between his own,
@@ -69484,7 +69484,7 @@ difficulty. I shall travel [[Home|home]] [[Alone|alone]].’
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_01" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 1)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_01" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 1)" data-chapter="FORTY FIVE" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/home,motif/love,motif/spring,motif/time,motif/water,motif/well,concept/doubt,concept/history,form/history,setting/court,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FORTY-FIVE
@@ -69607,7 +69607,7 @@ little women.
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_02" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 2)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_02" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 2)" data-chapter="FORTY FIVE" data-kind="excerpt" data-tags="archetype/innocent,motif/flowers,motif/grave,motif/lamb,motif/supernatural,motif/time,motif/well,concept/honour,concept/wonder,character/lord_mayor,character/martin_chuzzlewit"></span>
 
 
 Merrily the fountain plashed and plashed, until the dimples, merging
@@ -69748,7 +69748,7 @@ had never been.
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_03" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 3)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_03" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 3)" data-chapter="FORTY FIVE" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/flowers,motif/nature,motif/soul,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/doubt,concept/mercy,concept/nature,concept/self,character/bottom,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Didn’t I say he was a tremendous fellow in his housekeeping?’ cried
@@ -69875,7 +69875,7 @@ could not have held them captive in a stronger chain?
 
 
 
-<span class="atom-split" data-atom="chapter_45_forty_five--part_04" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 4)" data-chapter="FORTY FIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_forty_five--part_04" data-title="Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 4)" data-chapter="FORTY FIVE" data-kind="excerpt" data-tags="motif/dreams,motif/flowers,motif/home,motif/memory,motif/night,motif/time,motif/well,motif/window,character/martin_chuzzlewit"></span>
 
 
 The shadows deepened, deepened, and the room became quite dark. Still
@@ -69942,7 +69942,7 @@ portrait--whose?--from [[Memory|memory]].
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_01" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 1)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_01" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 1)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/home,motif/lamb,motif/love,motif/time,motif/well,motif/window,concept/body,concept/despair,concept/doubt,concept/history,concept/hope,concept/melancholy,concept/suffering,concept/temptation,form/history,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FORTY-SIX
@@ -70079,7 +70079,7 @@ speaking of the--’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_02" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 2)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_02" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 2)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/nature,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/conscience,concept/doubt,concept/melancholy,concept/nature,concept/revenge,concept/self,concept/suicide,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Here she whispered him again.
@@ -70204,7 +70204,7 @@ some degree of certainty, on Mr Moddle’s bosom being unruffled.
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_03" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 3)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_03" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 3)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/marriage,motif/road,motif/time,motif/well,concept/beauty,concept/charity,concept/doubt,concept/honour,concept/hope,concept/wonder,setting/london,character/jonas_chuzzlewit,character/martin_chuzzlewit,character/sairey_gamp,character/tom_pinch"></span>
 
 
 ‘I [[Wonder|wonder]],’ said Tom, ‘that in these crowded streets the foot-passengers
@@ -70339,7 +70339,7 @@ dispogician!’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_04" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 4)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_04" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 4)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="topos/double,motif/dreams,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/hope,concept/truth,character/martin_chuzzlewit"></span>
 
 
 With these words the worthy woman, who appeared to have dropped in
@@ -70458,7 +70458,7 @@ upon a sudden, and said:
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_05" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 5)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_05" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 5)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/child,motif/marriage,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/nature,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Who’s lying dead upstairs?’
@@ -70590,7 +70590,7 @@ it to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_06" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_06" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,archetype/innocent,motif/desire,motif/home,motif/love,motif/time,concept/charity,concept/humility,character/martin_chuzzlewit"></span>
 
 
 Augustus obeyed, and took Mrs Todgers aside to pour his griefs into her
@@ -70722,7 +70722,7 @@ your brains out, if you speak another word.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_07" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 7)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_07" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 7)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/dust,motif/home,motif/love,motif/nature,motif/night,motif/secrets,motif/sleep,motif/soul,motif/time,concept/fear,concept/hope,concept/nature,concept/truth,character/martin_chuzzlewit"></span>
 
 
 Tom, nevertheless, persisting in his intention, and opening his lips to
@@ -70855,7 +70855,7 @@ frightful.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_08" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 8)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_08" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 8)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/fire,motif/memory,motif/night,motif/time,motif/well,concept/self,concept/wonder,histref/bible,character/martin_chuzzlewit,character/nurse,character/sairey_gamp"></span>
 
 
 ‘Chuffey, eh?’ said Jonas carelessly, seeing that she went up to the
@@ -70987,7 +70987,7 @@ neighbouring street.
 
 
 
-<span class="atom-split" data-atom="chapter_46_forty_six--part_09" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 9)" data-chapter="FORTY SIX" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_forty_six--part_09" data-title="Martin Chuzzlewit — Chapter 46: FORTY SIX (part 9)" data-chapter="FORTY SIX" data-kind="excerpt" data-tags="motif/bells,motif/dust,motif/home,motif/night,motif/silence,motif/time,motif/water,setting/court,character/martin_chuzzlewit"></span>
 
 
 The ground on which this chamber stood had, at one [[Time|time]], not within his
@@ -71047,7 +71047,7 @@ All was clear and quiet, as he fled away.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 1)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_01" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 1)" data-chapter="FORTY SEVEN" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/bells,motif/birds,motif/blood,motif/city,motif/dreams,motif/flowers,motif/journey,motif/moon,motif/nature,motif/night,motif/road,motif/rose,motif/sleep,motif/stars,motif/time,motif/wind,concept/jealousy,concept/nature,form/essay,character/cain,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-SEVEN
@@ -71159,7 +71159,7 @@ man looked at him with more than common curiosity.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 2)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_02" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 2)" data-chapter="FORTY SEVEN" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/city,motif/cross,motif/flowers,motif/frost,motif/home,motif/leaves,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/time,motif/well,motif/wind,motif/winter,concept/conscience,concept/hope,character/martin_chuzzlewit"></span>
 
 
 ‘What are you staring at?’ said Jonas.
@@ -71278,7 +71278,7 @@ near where the path emerged again, came leaping out soon afterwards.
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 3)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_03" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 3)" data-chapter="FORTY SEVEN" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/home,motif/leaves,motif/night,motif/road,motif/silence,motif/summer,motif/time,motif/well,concept/body,concept/fear,setting/court,setting/london,character/martin_chuzzlewit,character/phantom"></span>
 
 
 What had he left within the wood, that he sprang out of it as if it were
@@ -71395,7 +71395,7 @@ of Heaven, on its going down last [[Night|night]]!
 
 
 
-<span class="atom-split" data-atom="chapter_47_forty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 4)" data-chapter="FORTY SEVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_forty_seven--part_04" data-title="Martin Chuzzlewit — Chapter 47: FORTY SEVEN (part 4)" data-chapter="FORTY SEVEN" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/fire,motif/night,motif/river,motif/road,motif/secrets,motif/time,motif/well,motif/window,concept/courage,concept/fear,setting/london,character/martin_chuzzlewit"></span>
 
 
 But here were [[London]] streets again. Hush!
@@ -71499,7 +71499,7 @@ Hush!
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 1)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_01" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 1)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="topos/double,motif/flowers,motif/home,motif/love,motif/night,motif/road,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/courage,concept/history,concept/hope,form/history,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FORTY-EIGHT
@@ -71617,7 +71617,7 @@ half sufficient to express his joy at their safe return.
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 2)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_02" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 2)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="motif/blood,motif/pain,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/pride,concept/self,setting/london,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Mr Tapley was the first to resume his composure. In a very short space
@@ -71742,7 +71742,7 @@ always being exact to his [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 3)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_03" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 3)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/ship,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/nature,concept/truth,setting/ship,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 John Westlock was at [[Home|home]], but, strange to say, was rather embarrassed
@@ -71883,7 +71883,7 @@ werge, my master deceives me.’
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 4)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_04" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 4)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/ambition,concept/despair,concept/doubt,concept/friendship,concept/nature,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘Deceives you!’ cried Tom.
@@ -72006,7 +72006,7 @@ knowing what to say, said that he was glad to hear it.
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_05" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 5)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_05" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 5)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="archetype/fool,motif/childhood,motif/city,motif/death,motif/desire,motif/journey,motif/night,motif/silence,motif/time,motif/well,concept/charity,concept/fear,concept/hope,concept/truth,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 ‘The short statement that I wish you to hear from his own lips, Mr
@@ -72150,7 +72150,7 @@ it.’
 
 
 
-<span class="atom-split" data-atom="chapter_48_forty_eight--part_06" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 6)" data-chapter="FORTY EIGHT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_forty_eight--part_06" data-title="Martin Chuzzlewit — Chapter 48: FORTY EIGHT (part 6)" data-chapter="FORTY EIGHT" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/desire,motif/home,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/fear,concept/guilt,concept/imagination,concept/nature,concept/truth,setting/court,character/martin_chuzzlewit,character/nurse,character/tom_pinch"></span>
 
 
 With that he hung his head, and said no more, wasted and wretched, he
@@ -72297,7 +72297,7 @@ for his dinner.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 1)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_01" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 1)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/nature,motif/sleep,motif/time,motif/well,concept/imagination,concept/nature,character/bottom,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FORTY-NINE
@@ -72406,7 +72406,7 @@ part as I could wish, but bearin’ malice in our arts.”’
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 2)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_02" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 2)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="motif/birds,motif/chalk,motif/city,motif/death,motif/fire,motif/journey,motif/time,motif/well,concept/hope,character/lord_mayor,character/martin_chuzzlewit"></span>
 
 
 Her own preparations were of the best, for they comprehended a delicate
@@ -72530,7 +72530,7 @@ that the sight of pickled salmon might work a softening change.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 3)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_03" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 3)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="archetype/innocent,motif/bells,motif/fire,motif/garden,motif/love,motif/nature,motif/tears,motif/time,motif/water,motif/well,concept/nature,character/martin_chuzzlewit"></span>
 
 
 But Betsey Prig expected pickled salmon. It was obvious that she did;
@@ -72667,7 +72667,7 @@ correction with a diabolical laugh.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_04" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 4)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/rose,motif/time,motif/well,concept/self,character/martin_chuzzlewit"></span>
 
 
 The best among us have their failings, and it must be conceded of Mrs
@@ -72791,7 +72791,7 @@ when she recovered from this wooden shower-bath, Mrs Prig was gone.
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 5)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_05" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 5)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/night,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/wonder,character/martin_chuzzlewit,character/nurse"></span>
 
 
 She had the satisfaction, however, of hearing the deep voice of Betsey,
@@ -72927,7 +72927,7 @@ from Betsey Prig. I little know’d that woman. She’d have let it out!’
 
 
 
-<span class="atom-split" data-atom="chapter_49_forty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 6)" data-chapter="FORTY NINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_forty_nine--part_06" data-title="Martin Chuzzlewit — Chapter 49: FORTY NINE (part 6)" data-chapter="FORTY NINE" data-kind="excerpt" data-tags="motif/rose,motif/sleep,motif/time,character/jonas_chuzzlewit,character/martin_chuzzlewit"></span>
 
 
 ‘Let HIM out, you mean,’ said John.
@@ -72986,7 +72986,7 @@ in good [[Time|time]].’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_01" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 1)" data-chapter="FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_01" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 1)" data-chapter="FIFTY" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/love,motif/summer,motif/time,motif/window,concept/courage,concept/friendship,concept/truth,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FIFTY
@@ -73110,7 +73110,7 @@ me--’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_02" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 2)" data-chapter="FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_02" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 2)" data-chapter="FIFTY" data-kind="excerpt" data-tags="topos/double,motif/love,motif/nature,motif/pain,motif/soul,motif/tears,motif/well,concept/courage,concept/friendship,concept/history,concept/hope,concept/nature,concept/self,concept/truth,form/history,character/martin_chuzzlewit"></span>
 
 
 ‘Not to her,’ interrupted Tom. ‘Pray, do not appeal to her. She will
@@ -73247,7 +73247,7 @@ before), but because it relieves my mind of a great weight.’
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_03" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 3)" data-chapter="FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_03" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 3)" data-chapter="FIFTY" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/love,motif/night,motif/sleep,motif/well,concept/pride,concept/truth,character/martin_chuzzlewit"></span>
 
 
 Tom’s eyes glistened when he spoke of her affection; and he kissed her
@@ -73371,7 +73371,7 @@ made it so to Tom.
 
 
 
-<span class="atom-split" data-atom="chapter_50_fifty--part_04" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 4)" data-chapter="FIFTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_fifty--part_04" data-title="Martin Chuzzlewit — Chapter 50: FIFTY (part 4)" data-chapter="FIFTY" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/leaves,motif/love,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/pride,concept/wonder,character/martin_chuzzlewit,character/old_martin_chuzzlewit"></span>
 
 
 She was ready with his neat breakfast when he went downstairs, and had
@@ -73502,7 +73502,7 @@ Tom did so; hardly knowing yet whether he was awake or in [[A Dream|a dream]].
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_01" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 1)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_01" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 1)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/leaves,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/window,concept/body,concept/despair,concept/guilt,concept/revenge,concept/wonder,character/bottom,character/martin_chuzzlewit"></span>
 
 
 CHAPTER FIFTY-ONE
@@ -73618,7 +73618,7 @@ woman having made good haste.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_02" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 2)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_02" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 2)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/desire,motif/home,motif/memory,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/conscience,concept/courage,concept/fear,concept/self,character/martin_chuzzlewit"></span>
 
 
 [[Well]]! Where was she? Had she come?
@@ -73761,7 +73761,7 @@ found?--because she knew of it?--because she suspected him?
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_03" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 3)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_03" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 3)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/night,motif/storm,motif/time,motif/well,motif/window,concept/nature,setting/london,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Mr Chuffey is a-lyin’ down,’ said Mrs Gamp, returning, ‘and much good
@@ -73900,7 +73900,7 @@ agreeable to the company.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_04" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 4)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_04" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 4)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/desert,motif/home,motif/love,motif/sleep,motif/time,motif/well,motif/window,concept/truth,setting/desert,character/martin_chuzzlewit"></span>
 
 
 Old Martin turned to Lewsome:
@@ -74026,7 +74026,7 @@ that Mr Chuffey was ‘the sweetest old creetur goin’.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_05" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 5)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_05" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 5)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/home,motif/love,motif/marriage,motif/night,motif/poison,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/hope,concept/truth,character/martin_chuzzlewit"></span>
 
 
 ‘He bought the stuff,’ said Chuffey, stretching out his arm towards
@@ -74132,7 +74132,7 @@ ha! Do you see the door?’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_06" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 6)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_06" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 6)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/avenger,archetype/shadow,motif/bells,motif/dance,motif/grave,motif/night,motif/road,motif/tears,motif/window,concept/despair,concept/guilt,concept/history,concept/honour,concept/identity,concept/mercy,concept/truth,form/history,setting/london,character/martin_chuzzlewit,character/phantom"></span>
 
 
 His base triumph, struggling with his cowardice, and shame, and [[Guilt|guilt]],
@@ -74264,7 +74264,7 @@ continued to do while speaking.
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_07" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 7)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_07" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 7)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/home,motif/journey,motif/night,motif/road,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/self,setting/court,character/martin_chuzzlewit,character/nurse"></span>
 
 
 ‘Aye,’ he said, with a sulky nod. ‘You may deny your nephews till you
@@ -74379,7 +74379,7 @@ came creeping, creeping, creeping [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_08" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 8)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_08" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 8)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/night,motif/prayer,motif/river,motif/soul,motif/time,motif/window,concept/honour,concept/hope,setting/london,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Look sharp!’ interposed Slyme, who had now finished his nuts. ‘This is
@@ -74526,7 +74526,7 @@ street-lamp. ‘Keep your eye upon the back, one of you, for form’s sake.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_fifty_one--part_09" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 9)" data-chapter="FIFTY ONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_fifty_one--part_09" data-title="Martin Chuzzlewit — Chapter 51: FIFTY ONE (part 9)" data-chapter="FIFTY ONE" data-kind="excerpt" data-tags="motif/time,motif/window,concept/self,setting/court,character/bottom,character/martin_chuzzlewit"></span>
 
 
 One of the men withdrew into the [[Court|court]]. The other, seating himself [[Self|self]]
@@ -74598,7 +74598,7 @@ could have done no more, and could do nothing now. Dead, dead, dead.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_01" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 1)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_01" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 1)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/desire,motif/home,motif/love,motif/night,motif/well,concept/body,concept/honour,concept/self,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FIFTY-TWO
@@ -74721,7 +74721,7 @@ but--’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_02" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 2)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_02" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 2)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="motif/clock,motif/desert,motif/time,motif/well,concept/self,concept/temptation,concept/wonder,setting/desert,character/martin_chuzzlewit"></span>
 
 
 ‘Go on,’ said Martin. ‘Why do you stop?’
@@ -74858,7 +74858,7 @@ him very courteously.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_03" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 3)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_03" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 3)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="motif/animals,motif/rose,motif/silence,motif/well,concept/doubt,concept/honour,concept/hope,concept/wonder,character/mark_tapley,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Mark waited at the door for [[Tom Pinch]] and his sister, who were coming up
@@ -74981,7 +74981,7 @@ in your mean, false heart! What! do you know me as I am, at last!’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_04" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 4)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_04" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 4)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="archetype/orphan,motif/blood,motif/desire,motif/love,motif/nature,motif/tears,motif/time,concept/charity,concept/honour,concept/nature,concept/self,character/martin_chuzzlewit"></span>
 
 
 Mr Pecksniff had cause to stare at him, for the triumph in his face and
@@ -75098,7 +75098,7 @@ strengthened, and confirmed, and justified me in my scheme.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_05" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 5)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_05" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 5)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="motif/dawn,motif/decay,motif/grave,motif/hill,motif/love,motif/marriage,motif/night,motif/poison,motif/road,motif/time,motif/well,concept/doubt,character/martin_chuzzlewit"></span>
 
 
 Mr Pecksniff made a bow; a submissive, not to say a grovelling and an
@@ -75207,7 +75207,7 @@ regrets.
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_06" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 6)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_06" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 6)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/home,motif/love,motif/nature,motif/summer,motif/tears,motif/time,motif/well,concept/beauty,concept/conscience,concept/faith,concept/forgiveness,concept/honour,concept/nature,concept/poverty,concept/truth,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 And then he told them how, resolved to probe this Pecksniff, and to
@@ -75337,7 +75337,7 @@ and disgrace are in my family.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_07" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 7)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_07" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 7)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/night,motif/silence,motif/stars,motif/time,motif/well,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/jealousy,concept/solitude,concept/sublime,character/dwarf,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 Here Mr Pecksniff wiped his eyes again, and gave himself two or three
@@ -75456,7 +75456,7 @@ afore me.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_fifty_two--part_08" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 8)" data-chapter="FIFTY TWO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_fifty_two--part_08" data-title="Martin Chuzzlewit — Chapter 52: FIFTY TWO (part 8)" data-chapter="FIFTY TWO" data-kind="excerpt" data-tags="motif/love,motif/time,character/mark_tapley,character/martin_chuzzlewit"></span>
 
 
 ‘Oh!’ said Mr Chuzzlewit. ‘Is that your business? Was this good person
@@ -75525,7 +75525,7 @@ really, for a gentleman of his habits, in rather a knowing manner.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_01" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 1)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_01" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 1)" data-chapter="FIFTY THREE" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/dance,motif/garden,motif/home,motif/horse,motif/lion,motif/love,motif/river,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/winter,concept/courage,concept/hope,concept/pride,concept/truth,setting/court,setting/london,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FIFTY-THREE
@@ -75653,7 +75653,7 @@ Fresh from her full young heart they came to answer him.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_02" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 2)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_02" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 2)" data-chapter="FIFTY THREE" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/horse,motif/love,motif/nature,motif/secrets,motif/tears,motif/time,motif/well,concept/honour,concept/hope,concept/nature,character/martin_chuzzlewit"></span>
 
 
 ‘My dear [[Love|love]]! If this is--I almost dare to [[Hope|hope]] it is, now--not painful
@@ -75783,7 +75783,7 @@ sufficient for the best speech ever spoken.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_03" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 3)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_03" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 3)" data-chapter="FIFTY THREE" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/tears,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/truth,form/fable,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 ‘I am glad you chose to-day,’ said Mr Chuzzlewit to John; with the same
@@ -75895,7 +75895,7 @@ perfect Trump, did Fips, in all respects.
 
 
 
-<span class="atom-split" data-atom="chapter_53_fifty_three--part_04" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 4)" data-chapter="FIFTY THREE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53_fifty_three--part_04" data-title="Martin Chuzzlewit — Chapter 53: FIFTY THREE (part 4)" data-chapter="FIFTY THREE" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/melancholy,character/martin_chuzzlewit"></span>
 
 
 But ah! the happiness of strolling [[Home|home]] at [[Night|night]]--obstinate little Ruth,
@@ -75980,7 +75980,7 @@ gentleman, in any case, for one is lost to thee for ever!
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_01" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 1)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_01" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 1)" data-chapter="FIFTY FOUR" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/marriage,motif/nature,motif/time,concept/fear,concept/forgiveness,concept/friendship,concept/nature,character/martin_chuzzlewit,character/tom_pinch"></span>
 
 
 CHAPTER FIFTY-FOUR
@@ -76109,7 +76109,7 @@ gentleness; but the end would have been the same.’
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_02" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 2)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_02" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 2)" data-chapter="FIFTY FOUR" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/marriage,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/self,setting/london,character/martin_chuzzlewit"></span>
 
 
 He shook his head in [[Doubt|doubt]], and not without some inward [[Self|self]]-reproach.
@@ -76227,7 +76227,7 @@ must beg your leave, sir, to retire.’
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_03" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 3)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_03" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 3)" data-chapter="FIFTY FOUR" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/child,motif/city,motif/dance,motif/death,motif/ghosts,motif/home,motif/love,motif/soul,motif/well,motif/wind,motif/window,concept/body,concept/honour,histref/america,setting/america,setting/london,character/martin_chuzzlewit,character/nurse"></span>
 
 
 After these words the bridal bonnet disappeared; with as much state as
@@ -76358,7 +76358,7 @@ purpose of spoiling the effect.
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_04" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 4)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_04" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 4)" data-chapter="FIFTY FOUR" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/ship,concept/charity,concept/exile,concept/humility,concept/nature,concept/self,setting/ship,character/martin_chuzzlewit"></span>
 
 
 ‘How do you do, ma’am!’ said Spottletoe to the strong-minded woman in a
@@ -76490,7 +76490,7 @@ Pecksniff had fainted away in earnest.
 
 
 
-<span class="atom-split" data-atom="chapter_54_fifty_four--part_05" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 5)" data-chapter="FIFTY FOUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_fifty_four--part_05" data-title="Martin Chuzzlewit — Chapter 54: FIFTY FOUR (part 5)" data-chapter="FIFTY FOUR" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/dance,motif/flowers,motif/garden,motif/love,motif/memory,motif/pain,motif/time,concept/honour,character/martin_chuzzlewit,character/nurse"></span>
 
 
 What sounds are these that fall so grandly on the ear! What darkening

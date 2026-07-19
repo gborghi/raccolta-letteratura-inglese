@@ -125,7 +125,7 @@ _________________________________________________________________
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="cheese (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="cheese (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/journey,motif/nature,motif/soul,motif/water,concept/hope,concept/identity,concept/nature,concept/self"></span>
 
 
 [[cheese|Cheese]]
@@ -228,7 +228,7 @@ Ma il [[cheese|formaggio]] possiede un'altra qualità, che è anche l'[[Soul|ani
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="cheese (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="cheese (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist"></span>
 
 
 When I had done my pilgrimage in the four wayside public-houses I reached

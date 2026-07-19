@@ -402,7 +402,7 @@ informing voice had consigned me to the hangman. I had walled the
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Black Cat (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Black Cat (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/blood,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/pain,motif/soul,motif/tears,motif/time,concept/body,concept/friendship,concept/longing,concept/mercy,concept/nature,concept/self"></span>
 
 
 For the most wild, yet most homely narrative which I am about to
@@ -528,7 +528,7 @@ such a thing were possible—even beyond the reach of the infinite
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Black Cat (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Black Cat (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/memory,motif/night,motif/rose,motif/sleep,motif/spring,motif/window,concept/body,concept/conscience,concept/despair,concept/doubt,concept/wonder"></span>
 
 
 On the [[Night|night]] of the day on which this cruel deed was done, I was
@@ -640,7 +640,7 @@ once—by absolute dread of the beast.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Black Cat (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Black Cat (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/monster,motif/death,motif/dreams,motif/fire,motif/grave,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/madness,concept/poverty,concept/terror_and_horror,character/monks"></span>
 
 
 This dread was not exactly a dread of physical evil—and yet I
@@ -749,7 +749,7 @@ with the burden of murder upon my [[Soul|soul]]!
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Black Cat (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Black Cat (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/desire,motif/fire,motif/silence,motif/time,motif/well,concept/guilt"></span>
 
 
 The second and the third day passed, and still my tormentor came

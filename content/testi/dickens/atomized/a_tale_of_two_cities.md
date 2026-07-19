@@ -15918,7 +15918,7 @@ far, far better rest that I go to than I have ever known.”
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="A Tale of Two Cities — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="A Tale of Two Cities — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/ghost,archetype/king,motif/city,motif/crown,motif/death,motif/hill,motif/night,motif/spring,motif/winter,concept/body,concept/despair,concept/history,concept/honour,concept/hope,concept/sublime,form/history,histref/america,setting/america,setting/court,setting/london,setting/paris,character/lord_mayor,character/monks,character/queen"></span>
 
 
 CHAPTER I.
@@ -16020,7 +16020,7 @@ roads that lay before them.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="A Tale of Two Cities — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="A Tale of Two Cities — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/king,motif/animals,motif/blood,motif/clock,motif/crown,motif/fire,motif/hill,motif/horse,motif/journey,motif/night,motif/road,motif/well,motif/wheel,motif/window,concept/body,concept/conscience,concept/history,concept/hope,form/history,setting/london,setting/paris,character/jarvis_lorry"></span>
 
 
 CHAPTER II.
@@ -16278,7 +16278,7 @@ Jerry!”
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/king,archetype/shadow,motif/city,motif/crown,motif/death,motif/dust,motif/frost,motif/grave,motif/hill,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/road,motif/rose,motif/secrets,motif/soul,motif/spring,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/pride,setting/london"></span>
 
 
 CHAPTER III.
@@ -16467,7 +16467,7 @@ Creator of day! To be buried alive for eighteen years!”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/chains,motif/chalk,motif/desert,motif/fire,motif/journey,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/honour,concept/truth,setting/desert,setting/london,setting/paris,character/jarvis_lorry"></span>
 
 
 CHAPTER IV.
@@ -16601,7 +16601,7 @@ that nobody in the neighbourhood could endure a lamplighter.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,archetype/shadow,motif/desire,motif/fire,motif/journey,motif/nature,motif/road,motif/time,motif/well,concept/nature,concept/wonder,setting/london,setting/paris"></span>
 
 
 As the day declined into the afternoon, and the air, which had been
@@ -16734,7 +16734,7 @@ moment she raised her eyes again, went on:
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Tale of Two Cities — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Tale of Two Cities — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/orphan,motif/machine,motif/prison,motif/time,motif/water,concept/courage,concept/friendship,concept/history,concept/honour,concept/truth,form/history,setting/court,setting/paris,character/queen"></span>
 
 
 “In your adopted country, I presume, I cannot do better than address you
@@ -16860,7 +16860,7 @@ much more at my ease about your state of mind.”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="A Tale of Two Cities — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="A Tale of Two Cities — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/journey,motif/love,motif/pain,motif/prison,motif/water,motif/well,concept/courage,concept/hope,concept/humility,concept/pride,concept/providence,setting/paris,character/jarvis_lorry"></span>
 
 
 Without directly answering to this appeal, she sat so still when he had
@@ -16983,7 +16983,7 @@ consider it.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/fire,motif/grave,motif/night,motif/pain,motif/ship,motif/time,motif/water,motif/wind,motif/window,motif/winter,form/fragment,form/inscription,setting/paris,setting/ship"></span>
 
 
 CHAPTER V.
@@ -17106,7 +17106,7 @@ the [[Ship|ship]] and crew were in peril of tempest.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/road,motif/spring,motif/time,motif/well,motif/wind,character/madame_defarge"></span>
 
 
 For, the [[Time|time]] was to come, when the gaunt scarecrows of that region
@@ -17229,7 +17229,7 @@ slightly rustled in her seat.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="A Tale of Two Cities — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="A Tale of Two Cities — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/poison,motif/time,motif/window,concept/poverty,setting/paris,character/jarvis_lorry,character/madame_defarge"></span>
 
 
 “Hold then! True!” muttered her husband. “Gentlemen--my wife!”
@@ -17362,7 +17362,7 @@ on him to speak a word or two of reassurance.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="A Tale of Two Cities — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="A Tale of Two Cities — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/rose,motif/well,motif/window,concept/courage,concept/truth"></span>
 
 
 “[[Courage]], dear miss! [[Courage]]! Business! The worst will be over in a
@@ -17456,7 +17456,7 @@ busy, making shoes.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/pride,concept/solitude"></span>
 
 
 CHAPTER VI.
@@ -17606,7 +17606,7 @@ at him.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/love,motif/night,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/hope"></span>
 
 
 His haggard eyes turned to Defarge as if he would have transferred the
@@ -17738,7 +17738,7 @@ though slowly.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Tale of Two Cities — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Tale of Two Cities — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/home,motif/journey,motif/love,motif/night,motif/silence,motif/storm,motif/tears,motif/time,concept/doubt,concept/freedom,concept/history,concept/hope,concept/suffering,concept/wonder,form/history,setting/paris"></span>
 
 
 Once more, the two spectators started, as he turned upon her with a
@@ -17868,7 +17868,7 @@ daughter’s voice, and invariably turned to it when she spoke.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="A Tale of Two Cities — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="A Tale of Two Cities — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,motif/dawn,motif/night,motif/prison,motif/silence,motif/soul,motif/stars,motif/well,concept/hope,character/jarvis_lorry,character/madame_defarge"></span>
 
 
 In the submissive way of one long accustomed to obey under coercion, he
@@ -17954,7 +17954,7 @@ The end of the first book.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Tale of Two Cities — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Tale of Two Cities — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/death,motif/horse,motif/love,motif/nature,motif/time,motif/wind,concept/nature,setting/london"></span>
 
 
 Book the Second--the Golden Thread
@@ -18059,7 +18059,7 @@ popular game, by a lady who had bestowed her name upon it.)
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Tale of Two Cities — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Tale of Two Cities — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/night,motif/pain,motif/rose,motif/time,motif/well,motif/window,concept/self,character/jerry_cruncher,character/speed"></span>
 
 
 Mr. Cruncher’s apartments were not in a savoury neighbourhood, and were
@@ -18219,7 +18219,7 @@ rust here!”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Tale of Two Cities — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Tale of Two Cities — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/road,motif/silence,motif/well,concept/doubt,form/aphorism,form/fragment,setting/court,character/jerry_cruncher,character/lord_chief_justice"></span>
 
 
 CHAPTER II.
@@ -18366,7 +18366,7 @@ to look for him, and who quietly nodded and sat down again.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Tale of Two Cities — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Tale of Two Cities — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/grave,motif/mirror,motif/rose,motif/silence,motif/soul,motif/well,motif/wind,concept/body,concept/self,histref/america,setting/america,setting/court,character/charles_darnay"></span>
 
 
 “What’s _he_ got to do with the case?” asked the man he had spoken with.
@@ -18505,7 +18505,7 @@ axe, and hammer the nails into the scaffold.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Tale of Two Cities — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Tale of Two Cities — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/crown,motif/love,motif/nature,motif/prison,motif/soul,motif/well,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/nature,concept/providence,concept/sublime,histref/ancient_greece,setting/court"></span>
 
 
 CHAPTER III.
@@ -18615,7 +18615,7 @@ patriotism? None whatever.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Tale of Two Cities — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Tale of Two Cities — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/grave,motif/night,motif/road,motif/rose,motif/ship,motif/well,motif/wind,concept/beauty,concept/charity,concept/faith,setting/london,setting/ship,character/jarvis_lorry"></span>
 
 
 The virtuous servant, Roger Cly, swore his way through the case at a
@@ -18789,7 +18789,7 @@ felt it. That was the manner of our beginning to speak together.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Tale of Two Cities — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Tale of Two Cities — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/cross,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/history,concept/hope,concept/imprisonment,concept/nature,form/history,histref/america,setting/america,setting/court,setting/london,character/doctor_manette"></span>
 
 
 “Let me interrupt you for a moment. Had he come on board [[Alone|alone]]?”
@@ -18945,7 +18945,7 @@ useless lumber.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="A Tale of Two Cities — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="A Tale of Two Cities — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/grave,motif/time,motif/well,concept/imprisonment,setting/court"></span>
 
 
 Mr. Cruncher had by this [[Time|time]] taken quite a lunch of rust off his
@@ -19118,7 +19118,7 @@ search of other carrion.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/death,motif/grave,motif/home,motif/nature,motif/night,motif/soul,motif/summer,motif/well,concept/doubt,concept/fear,concept/honour,concept/nature,setting/court,setting/paris,character/charles_darnay,character/doctor_manette,character/lucie_manette"></span>
 
 
 CHAPTER IV.
@@ -19244,7 +19244,7 @@ I dare say.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/desire,motif/hill,motif/love,motif/night,motif/rose,motif/time,motif/well,concept/hope,concept/wonder,character/charles_darnay"></span>
 
 
 “And indeed, sir,” pursued Mr. Lorry, not minding him, “I really don’t
@@ -19418,7 +19418,7 @@ table, and a long winding-sheet in the candle dripping down upon him.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/fire,motif/garden,motif/home,motif/lion,motif/memory,motif/night,motif/ship,motif/sleep,motif/swallow,motif/time,motif/water,motif/well,concept/honour,concept/longing,setting/court,setting/ship,character/lord_chief_justice,character/sydney_carton"></span>
 
 
 CHAPTER V.
@@ -19553,7 +19553,7 @@ gravity.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/desert,motif/dust,motif/fire,motif/lion,motif/night,motif/river,motif/rose,motif/soul,motif/tears,motif/time,motif/well,concept/ambition,concept/beauty,concept/hope,concept/self,setting/court,setting/desert,setting/paris,character/sydney_carton"></span>
 
 
 At length the jackal had got together a compact repast for the [[Lion|lion]], and
@@ -19691,7 +19691,7 @@ on him, and resigning himself to let it eat him away.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/flowers,motif/home,motif/leaves,motif/memory,motif/night,motif/road,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/conversion,concept/freedom,setting/london,setting/oxford,setting/paris,character/doctor_manette,character/jarvis_lorry,character/miss_pross,character/sunday"></span>
 
 
 CHAPTER VI.
@@ -19808,7 +19808,7 @@ dismal [[house]] by the wine-shop, in the suburb of Saint Antoine in [[Paris]].
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/history,concept/imagination,concept/nature,concept/poverty,concept/wonder,form/history,character/doctor_manette,character/miss_pross"></span>
 
 
 “I [[Wonder|wonder]],” said Mr. Lorry, pausing in his looking about, “that he keeps
@@ -19972,7 +19972,7 @@ zealous interest.”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Tale of Two Cities — Chapter 6 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Tale of Two Cities — Chapter 6 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/dust,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/prison,motif/silence,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/friendship,concept/imagination,concept/pride,character/doctor_manette,character/miss_pross"></span>
 
 
 “[[Well]]! To the best of my understanding, and bad’s the best, you’ll tell
@@ -20081,7 +20081,7 @@ whispered to them in its own way above their heads.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="A Tale of Two Cities — Chapter 6 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="A Tale of Two Cities — Chapter 6 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/lightning,motif/moon,motif/night,motif/road,motif/rose,motif/storm,motif/time,motif/water,motif/window,concept/body,concept/solitude,form/fragment,form/inscription,setting/court,setting/london,character/charles_darnay,character/doctor_manette,character/miss_pross,character/sydney_carton"></span>
 
 
 Still, the Hundreds of people did not present themselves. Mr. Darnay
@@ -20250,7 +20250,7 @@ bearing down upon them, too.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Tale of Two Cities — Chapter 7 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Tale of Two Cities — Chapter 7 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/road,motif/secrets,motif/ship,motif/swallow,motif/time,concept/body,concept/truth,form/comedy,setting/court,setting/paris,setting/ship"></span>
 
 
 CHAPTER VII.
@@ -20369,7 +20369,7 @@ supped as at twenty.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Tale of Two Cities — Chapter 7 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Tale of Two Cities — Chapter 7 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/dust,motif/stars,motif/storm,motif/time,motif/wheel,concept/body,concept/doubt,concept/honour,concept/truth,setting/court,setting/paris"></span>
 
 
 The leprosy of unreality disfigured every human creature in attendance
@@ -20478,7 +20478,7 @@ left to get out of their difficulties as they could.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Tale of Two Cities — Chapter 7 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Tale of Two Cities — Chapter 7 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/pain,motif/river,motif/time,motif/water,form/comedy"></span>
 
 
 With a wild rattle and clatter, and an inhuman abandonment of
@@ -20606,7 +20606,7 @@ things ran their course.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="A Tale of Two Cities — Chapter 8" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="A Tale of Two Cities — Chapter 8" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/shadow,motif/cross,motif/death,motif/dust,motif/hill,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/prison,motif/river,motif/road,motif/rose,motif/stars,motif/summer,motif/time,motif/well,motif/wheel,concept/conscience,concept/honour,concept/nature,concept/truth,concept/wonder,form/inscription,setting/court,setting/paris,character/bottom,character/flambeau"></span>
 
 
 CHAPTER VIII.
@@ -20857,7 +20857,7 @@ of his chateau was opened to him.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Tale of Two Cities — Chapter 9 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Tale of Two Cities — Chapter 9 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/journey,motif/night,motif/road,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/history,concept/hope,form/history,setting/london,setting/paris,character/charles_darnay,character/flambeau"></span>
 
 
 CHAPTER IX.
@@ -21005,7 +21005,7 @@ breeding that it was not reassuring.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Tale of Two Cities — Chapter 9 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Tale of Two Cities — Chapter 9 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/prison,motif/time,concept/fear,concept/honour,concept/hope,concept/mercy,concept/regeneration,concept/slavery,concept/solitude,setting/court"></span>
 
 
 “Indeed, sir,” pursued the nephew, “for anything I know, you may have
@@ -21138,7 +21138,7 @@ redress; and tortured by seeking assistance and power in vain.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Tale of Two Cities — Chapter 9 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Tale of Two Cities — Chapter 9 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/hill,motif/journey,motif/nakedness,motif/night,motif/prison,motif/silence,motif/sleep,motif/time,motif/well,concept/body,concept/endurance,concept/honour,concept/hope,concept/suffering,concept/vanity,setting/paris"></span>
 
 
 “Seeking them from me, my nephew,” said the Marquis, touching him on the
@@ -21284,7 +21284,7 @@ hardly ever to say what is set down for them.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="A Tale of Two Cities — Chapter 9 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="A Tale of Two Cities — Chapter 9 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/blood,motif/chains,motif/cross,motif/dust,motif/hill,motif/home,motif/horse,motif/leaves,motif/lion,motif/night,motif/spring,motif/time,motif/water,motif/window"></span>
 
 
 For three heavy hours, the stone faces of the chateau, [[Lion|lion]] and human,
@@ -21380,7 +21380,7 @@ was a frill of paper, on which was scrawled:
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="A Tale of Two Cities — Chapter 10 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="A Tale of Two Cities — Chapter 10 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/love,motif/silence,motif/summer,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/hope,setting/london,character/charles_darnay,character/doctor_manette,character/lucie_manette,character/miss_pross,character/sydney_carton"></span>
 
 
 CHAPTER X.
@@ -21514,7 +21514,7 @@ her. You have loved yourself; let your old [[Love|love]] speak for me!”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="A Tale of Two Cities — Chapter 10 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="A Tale of Two Cities — Chapter 10 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/doubt,concept/exile,concept/history,concept/hope,concept/nature,concept/self,form/history,character/charles_darnay,character/doctor_manette"></span>
 
 
 The Doctor sat with his face turned away, and his eyes bent on the
@@ -21647,7 +21647,7 @@ word, to save my life.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="A Tale of Two Cities — Chapter 10 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="A Tale of Two Cities — Chapter 10 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/love,motif/marriage,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/hope,concept/self,concept/suffering,character/charles_darnay,character/doctor_manette,character/miss_pross"></span>
 
 
 “I am sure of it. [[Charles Darnay]], mysteries arise out of close [[Love|love]], as
@@ -21755,7 +21755,7 @@ work, were all as usual.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 17" data-kind="chapter" data-tags="topos/double,motif/clock,motif/home,motif/night,motif/soul,motif/time,motif/well,concept/despair,concept/hope,concept/self,character/doctor_manette,character/nurse,character/sydney_carton"></span>
 
 
 CHAPTER XI.
@@ -21940,7 +21940,7 @@ kind of thing for _you_. Now think of it, Sydney.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="A Tale of Two Cities — Chapter 12 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="A Tale of Two Cities — Chapter 12 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/marriage,motif/well,motif/window,concept/doubt,concept/hope,concept/self"></span>
 
 
 CHAPTER XII.
@@ -22081,7 +22081,7 @@ been infinitely less remarkable if he had said it with his head off.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="A Tale of Two Cities — Chapter 12 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="A Tale of Two Cities — Chapter 12 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/clock,motif/night,motif/silence,motif/swallow,motif/well,concept/ambition,concept/doubt,concept/honour,concept/hope,concept/poverty"></span>
 
 
 “When I speak of [[success]], I speak of [[success]] with the young lady; and
@@ -22249,7 +22249,7 @@ was lying back on his sofa, winking at his ceiling.
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="A Tale of Two Cities — Chapter 13" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="A Tale of Two Cities — Chapter 13" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/innocent,motif/city,motif/death,motif/fire,motif/flowers,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/despair,concept/fear,concept/nature,concept/unattainable,setting/court,character/doctor_manette,character/lucie_manette,character/sydney_carton"></span>
 
 
 CHAPTER XIII.
@@ -22460,7 +22460,7 @@ He said, “Farewell!” said a last “God bless you!” and left her.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="A Tale of Two Cities — Chapter 14 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="A Tale of Two Cities — Chapter 14 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/tears,motif/time,concept/honour,character/jerry_cruncher"></span>
 
 
 CHAPTER XIV.
@@ -22588,7 +22588,7 @@ coach.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="A Tale of Two Cities — Chapter 14 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="A Tale of Two Cities — Chapter 14 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/ghost,motif/ghosts,motif/home,motif/night,motif/prayer,motif/river,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/mortality"></span>
 
 
 The officiating undertakers made some protest against these changes in
@@ -22718,7 +22718,7 @@ customer to you, if you don’t. _I_’m your Rome, you know.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="A Tale of Two Cities — Chapter 14 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="A Tale of Two Cities — Chapter 14 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/clock,motif/desire,motif/ghosts,motif/moon,motif/nature,motif/night,motif/road,motif/rose,motif/time,motif/well,concept/ambition,concept/nature,setting/court"></span>
 
 
 Then he began grumbling again:
@@ -22827,7 +22827,7 @@ his breast when he fell asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="A Tale of Two Cities — Chapter 14 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="A Tale of Two Cities — Chapter 14 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/home,motif/night,motif/river,motif/tears,motif/time,motif/well,concept/honour,concept/resurrection,concept/solitude,setting/london"></span>
 
 
 From his oppressed slumber, Young Jerry in his closet was awakened after
@@ -22918,7 +22918,7 @@ yet be a blessing to you, and a recompense to you for his mother!”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="A Tale of Two Cities — Chapter 15 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="A Tale of Two Cities — Chapter 15 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/clock,motif/fire,motif/hill,motif/journey,motif/road,motif/summer,motif/time,setting/paris,character/chorus,character/madame_defarge"></span>
 
 
 CHAPTER XV.
@@ -23045,7 +23045,7 @@ during a whole year.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="A Tale of Two Cities — Chapter 15 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="A Tale of Two Cities — Chapter 15 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/dreams,motif/dust,motif/hill,motif/night,motif/prison,motif/road,motif/swallow,motif/well,motif/window,concept/faith,setting/paris,character/dwarf"></span>
 
 
 Jacques One struck in, and asked if he had ever seen the man before?
@@ -23163,7 +23163,7 @@ It is possible. Perhaps yes, perhaps no.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="A Tale of Two Cities — Chapter 15 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="A Tale of Two Cities — Chapter 15 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/city,motif/hill,motif/horse,motif/memory,motif/night,motif/prison,motif/silence,motif/water,motif/well,concept/doubt,setting/paris,character/madame_defarge,character/queen,character/sunday"></span>
 
 
 “Listen then, Jacques,” Number One of that name sternly interposed.
@@ -23294,7 +23294,7 @@ crimes from the knitted register of [[Madame Defarge]].”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="A Tale of Two Cities — Chapter 15 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="A Tale of Two Cities — Chapter 15 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/home,motif/road,motif/tears,motif/time,concept/hope,setting/court,setting/paris,character/madame_defarge,character/queen,character/sunday"></span>
 
 
 There was a murmur of confidence and approval, and then the man who
@@ -23417,7 +23417,7 @@ a wave of her hand towards the place where they had last been apparent;
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="A Tale of Two Cities — Chapter 16 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="A Tale of Two Cities — Chapter 16 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/quest,motif/dust,motif/grave,motif/home,motif/journey,motif/leaves,motif/night,motif/pain,motif/time,motif/water,motif/well,motif/window,concept/faith,concept/pride,setting/paris,character/madame_defarge"></span>
 
 
 CHAPTER XVI.
@@ -23545,7 +23545,7 @@ breast, “it _is_ a long [[Time|time]].”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="A Tale of Two Cities — Chapter 16 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="A Tale of Two Cities — Chapter 16 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/lightning,motif/road,motif/rose,motif/soul,motif/summer,motif/swallow,motif/time,motif/water,motif/well,concept/poverty,setting/court,character/bottom,character/madame_defarge"></span>
 
 
 “It is a long [[Time|time]],” repeated his wife; “and when is it not a long [[Time|time]]?
@@ -23692,7 +23692,7 @@ unimpeachable.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="A Tale of Two Cities — Chapter 16 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="A Tale of Two Cities — Chapter 16 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/night,motif/road,motif/water,motif/well,concept/faith,concept/honour,concept/hope,concept/wonder,character/charles_darnay,character/doctor_manette,character/ernest_defarge,character/madame_defarge"></span>
 
 
 “_John_,” thought madame, checking off her work as her fingers knitted,
@@ -23851,7 +23851,7 @@ Mr. [[Charles Darnay]]. D’Aulnais is the name of his mother’s family.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="A Tale of Two Cities — Chapter 16 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="A Tale of Two Cities — Chapter 16 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/bells,motif/night,motif/rose,motif/well,motif/window,concept/courage,concept/freedom,concept/hope,character/madame_defarge"></span>
 
 
 [[Madame Defarge]] knitted steadily, but the intelligence had a palpable
@@ -23939,7 +23939,7 @@ counting dropping heads.
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="A Tale of Two Cities — Chapter 17" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="A Tale of Two Cities — Chapter 17" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/blood,motif/desire,motif/home,motif/leaves,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/prayer,motif/prison,motif/rose,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/endurance,concept/freedom,concept/history,concept/hope,concept/imprisonment,concept/natural_order,concept/self,concept/suffering,form/history,setting/london,character/doctor_manette,character/miss_pross,character/phantom"></span>
 
 
 CHAPTER XVII.
@@ -24153,7 +24153,7 @@ in praying for him.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="A Tale of Two Cities — Chapter 18 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="A Tale of Two Cities — Chapter 18 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/night,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/honour,concept/wonder,setting/paris,character/charles_darnay,character/lucie_manette,character/miss_pross"></span>
 
 
 CHAPTER XVIII.
@@ -24284,7 +24284,7 @@ there, and all will be [[Well|well]].”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="A Tale of Two Cities — Chapter 18 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="A Tale of Two Cities — Chapter 18 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/deception,concept/hope,character/doctor_manette,character/miss_pross"></span>
 
 
 It was easier for Mr. Lorry to look in at Tellson’s, than to look out of
@@ -24438,7 +24438,7 @@ the dusk of the ninth evening.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="A Tale of Two Cities — Chapter 19 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="A Tale of Two Cities — Chapter 19 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/marriage,motif/night,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/hope,character/doctor_manette,character/jarvis_lorry,character/miss_pross"></span>
 
 
 CHAPTER XIX.
@@ -24580,7 +24580,7 @@ if I knew how.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="A Tale of Two Cities — Chapter 19 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="A Tale of Two Cities — Chapter 19 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/pain,motif/silence,motif/time,motif/well,concept/doubt,concept/endurance,concept/hope,concept/mercy,concept/nature,concept/self,character/doctor_manette,character/miss_pross,character/sunday"></span>
 
 
 “But I don’t know how to originate, in such a case. If your sagacity,
@@ -24729,7 +24729,7 @@ fancy strikes to the heart of a lost [[Child|child]].”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="A Tale of Two Cities — Chapter 19 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="A Tale of Two Cities — Chapter 19 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/night,motif/silence,motif/well,concept/body,concept/fear,character/miss_pross"></span>
 
 
 He looked like his illustration, as he raised his eyes to Mr. Lorry’s
@@ -24784,7 +24784,7 @@ crime.
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="A Tale of Two Cities — Chapter 20" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="A Tale of Two Cities — Chapter 20" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/innocent,motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/faith,concept/fear,concept/forgiveness,concept/freedom,concept/hope,concept/truth,character/charles_darnay,character/sydney_carton"></span>
 
 
 CHAPTER XX.
@@ -24959,7 +24959,7 @@ have parted from his lips for the first [[Time|time]]--
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="A Tale of Two Cities — Chapter 21 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="A Tale of Two Cities — Chapter 21 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/desert,motif/garden,motif/grave,motif/lion,motif/love,motif/summer,motif/tears,motif/time,motif/water,concept/pride,setting/desert,character/miss_pross,character/sydney_carton"></span>
 
 
 CHAPTER XXI.
@@ -25070,7 +25070,7 @@ off to some suitably retired spot, and there hanged out of the way.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="A Tale of Two Cities — Chapter 21 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="A Tale of Two Cities — Chapter 21 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/lightning,motif/love,motif/night,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/hope,concept/self,setting/london,setting/paris,character/sunday"></span>
 
 
 These were among the echoes to which Lucie, sometimes pensive, sometimes
@@ -25191,7 +25191,7 @@ patriots as you can. Where is my wife?”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="A Tale of Two Cities — Chapter 21 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="A Tale of Two Cities — Chapter 21 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/double,motif/bells,motif/city,motif/death,motif/fire,motif/flag,motif/prison,motif/rose,motif/storm,motif/time,motif/well,concept/eternity,concept/revenge,character/madame_defarge,character/pistol,character/speed"></span>
 
 
 “Eh, [[Well|well]]! Here you see me!” said madame, composed as ever, but not
@@ -25325,7 +25325,7 @@ come had almost destroyed their sense of hearing.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="A Tale of Two Cities — Chapter 21 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="A Tale of Two Cities — Chapter 21 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/quest,motif/blood,motif/death,motif/dust,motif/storm,motif/time,motif/window,concept/body,concept/doubt,concept/suffering,setting/paris,character/madame_defarge"></span>
 
 
 The turnkey stopped at a low door, put a key in a clashing lock, swung
@@ -25451,7 +25451,7 @@ stained red.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="A Tale of Two Cities — Chapter 22" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="A Tale of Two Cities — Chapter 22" data-chapter="Chapter 28" data-kind="chapter" data-tags="archetype/innocent,archetype/villain,motif/birds,motif/blood,motif/city,motif/dance,motif/dust,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/madness,concept/mercy,concept/poverty,concept/suffering,setting/paris,character/madame_defarge"></span>
 
 
 CHAPTER XXII.
@@ -25672,7 +25672,7 @@ Antoine’s bosom.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="A Tale of Two Cities — Chapter 23 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="A Tale of Two Cities — Chapter 23 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/animals,motif/blood,motif/dust,motif/fire,motif/hill,motif/home,motif/leaves,motif/night,motif/noon,motif/prison,motif/road,motif/sleep,motif/soul,motif/time,motif/well,concept/body"></span>
 
 
 CHAPTER XXIII.
@@ -25827,7 +25827,7 @@ obstacle, tending to centres all over France.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="A Tale of Two Cities — Chapter 23 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="A Tale of Two Cities — Chapter 23 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/dawn,motif/dust,motif/fire,motif/hill,motif/home,motif/horse,motif/night,motif/prison,motif/road,motif/summer,motif/time,motif/water,motif/wind,concept/body"></span>
 
 
 The man slept on, indifferent to showers of hail and intervals of
@@ -25972,7 +25972,7 @@ successfully.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="A Tale of Two Cities — Chapter 24 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="A Tale of Two Cities — Chapter 24 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/flag,motif/home,motif/journey,motif/night,motif/prayer,motif/storm,motif/time,motif/well,motif/winter,concept/pride,concept/truth,concept/wonder,setting/court,setting/london,setting/paris,character/charles_darnay,character/lucifer"></span>
 
 
 CHAPTER XXIV.
@@ -26100,7 +26100,7 @@ the joints? Why, I am a boy, sir, to half a dozen old codgers here!”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="A Tale of Two Cities — Chapter 24 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="A Tale of Two Cities — Chapter 24 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/clock,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/hope,concept/nature,concept/truth,setting/london,setting/paris,character/charles_darnay,character/doctor_manette,character/sunday"></span>
 
 
 “How I admire the gallantry of your youthful spirit, Mr. Lorry.”
@@ -26224,7 +26224,7 @@ times.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="A Tale of Two Cities — Chapter 24 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="A Tale of Two Cities — Chapter 24 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/nature,motif/prison,motif/road,motif/sleep,motif/time,motif/well,concept/conscience,concept/honour,concept/nature,concept/renunciation,concept/wonder,setting/paris,character/charles_darnay"></span>
 
 
 “But I do ask why?”
@@ -26351,7 +26351,7 @@ France that might impeach him for it.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="A Tale of Two Cities — Chapter 24 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="A Tale of Two Cities — Chapter 24 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/horse,motif/journey,motif/love,motif/night,motif/pain,motif/prison,motif/summer,motif/time,motif/winter,concept/doubt,concept/honour,concept/mercy,setting/paris,character/charles_darnay"></span>
 
 
 But, he had oppressed no man, he had imprisoned no man; he was so
@@ -26484,7 +26484,7 @@ The end of the second book.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="A Tale of Two Cities — Chapter 1 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="A Tale of Two Cities — Chapter 1 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/autumn,motif/clock,motif/cross,motif/death,motif/desire,motif/fire,motif/horse,motif/journey,motif/night,motif/prison,motif/road,motif/silence,motif/storm,concept/freedom,concept/hope,setting/paris,character/charles_darnay,character/king_of_france"></span>
 
 
 Book the Third--the Track of a [[Storm]]
@@ -26607,7 +26607,7 @@ be; let him be! He will be judged at [[Paris]].”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="A Tale of Two Cities — Chapter 1 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="A Tale of Two Cities — Chapter 1 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,motif/city,motif/death,motif/horse,motif/night,motif/prison,motif/sleep,concept/doubt,concept/loneliness,concept/solitude,setting/paris,character/charles_darnay"></span>
 
 
 “Judged!” repeated the farrier, swinging his hammer. “Ay! and condemned
@@ -26745,7 +26745,7 @@ Force.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="A Tale of Two Cities — Chapter 1 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="A Tale of Two Cities — Chapter 1 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/clock,motif/journey,motif/nature,motif/prison,motif/road,motif/silence,motif/time,concept/hope,concept/nature,concept/pride,concept/truth,setting/paris,character/charles_darnay,character/doctor_manette"></span>
 
 
 “Just Heaven!” exclaimed Darnay. “Under what law, and for what offence?”
@@ -26875,7 +26875,7 @@ bloated face.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="A Tale of Two Cities — Chapter 1 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="A Tale of Two Cities — Chapter 1 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/death,motif/ghosts,motif/love,motif/memory,motif/prison,motif/rose,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/courage,concept/honour,concept/hope,concept/pride,character/charles_darnay"></span>
 
 
 Defarge took his receipt without noticing the exclamation, and withdrew,
@@ -27016,7 +27016,7 @@ knew, in the swell that [[Rose|rose]] above them.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="A Tale of Two Cities — Chapter 2 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="A Tale of Two Cities — Chapter 2 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/death,motif/fire,motif/nature,motif/night,motif/prison,motif/well,motif/window,concept/mercy,concept/nature,setting/london,setting/paris"></span>
 
 
 CHAPTER II.
@@ -27137,7 +27137,7 @@ us; he was stopped at the barrier, and sent to [[Prison|prison]].”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="A Tale of Two Cities — Chapter 2 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="A Tale of Two Cities — Chapter 2 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/blood,motif/city,motif/dawn,motif/death,motif/fire,motif/love,motif/night,motif/pain,motif/prison,motif/sleep,motif/time,motif/water,motif/well,motif/window,setting/paris,character/doctor_manette,character/miss_pross"></span>
 
 
 The old man uttered an irrepressible cry. Almost at the same moment, the
@@ -27286,7 +27286,7 @@ never given, and would never take away.
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="A Tale of Two Cities — Chapter 3" data-chapter="Chapter 33" data-kind="chapter" data-tags="topos/quest,archetype/child,archetype/innocent,archetype/shadow,motif/city,motif/nakedness,motif/night,motif/noon,motif/prison,motif/time,motif/well,concept/courage,concept/hope,concept/melancholy,concept/poverty,character/doctor_manette,character/madame_defarge,character/miss_pross"></span>
 
 
 CHAPTER III.
@@ -27513,7 +27513,7 @@ for all that, and in his secret mind it troubled him greatly.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="A Tale of Two Cities — Chapter 4 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/fire,motif/prison,motif/sleep,motif/storm,motif/time,motif/well,concept/body,concept/self,concept/suffering,setting/court,character/charles_darnay,character/doctor_manette,character/jarvis_lorry"></span>
 
 
 CHAPTER IV.
@@ -27613,7 +27613,7 @@ known to have made friends or permanent connections abroad.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="A Tale of Two Cities — Chapter 4 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/city,motif/cross,motif/death,motif/flag,motif/hill,motif/nature,motif/night,motif/prison,motif/rose,motif/silence,motif/time,motif/window,concept/doubt,concept/imprisonment,concept/nature,concept/pride,concept/regeneration,setting/paris,character/charles_darnay"></span>
 
 
 This new life of the Doctor’s was an anxious life, no [[Doubt|doubt]]; still, the
@@ -27717,7 +27717,7 @@ a Spirit moving among mortals.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="A Tale of Two Cities — Chapter 5 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/clock,motif/death,motif/frost,motif/home,motif/night,motif/prayer,motif/prison,motif/snow,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/despair"></span>
 
 
 CHAPTER V.
@@ -27858,7 +27858,7 @@ waited out the day, seven days a week.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="A Tale of Two Cities — Chapter 5 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/blood,motif/dance,motif/death,motif/dust,motif/love,motif/nature,motif/prison,motif/road,motif/snow,motif/soul,motif/storm,motif/time,motif/well,motif/window,concept/courage,concept/fear,concept/nature,form/inscription,setting/court,character/madame_defarge"></span>
 
 
 These occupations brought her round to the December month, wherein her
@@ -27986,7 +27986,7 @@ he said: “Removed to the Conciergerie, and summoned for to-morrow?”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="A Tale of Two Cities — Chapter 6 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/city,motif/death,motif/night,motif/pain,motif/seasons,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,character/charles_darnay,character/doctor_manette,character/lucie_manette"></span>
 
 
 CHAPTER VI.
@@ -28121,7 +28121,7 @@ if with impatience to pluck him out into the streets and kill him.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="A Tale of Two Cities — Chapter 6 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/flag,motif/home,motif/prison,motif/river,motif/road,motif/snow,motif/tears,motif/time,motif/well,concept/doubt,concept/exile,concept/imprisonment,concept/mercy,concept/suffering,concept/truth,setting/court,character/charles_darnay,character/doctor_manette"></span>
 
 
 On these few steps of his dangerous way, [[Charles Darnay]] had set his foot
@@ -28275,7 +28275,7 @@ tremble so. I have saved him.”
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="A Tale of Two Cities — Chapter 7" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="A Tale of Two Cities — Chapter 7" data-chapter="Chapter 37" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/king,motif/death,motif/desire,motif/dreams,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/prison,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/imprisonment,concept/nature,character/doctor_manette,character/jerry_cruncher,character/miss_pross"></span>
 
 
 CHAPTER VII.
@@ -28513,7 +28513,7 @@ answered to-morrow. Now, I am dumb!”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="A Tale of Two Cities — Chapter 8 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="A Tale of Two Cities — Chapter 8 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/home,motif/love,motif/river,motif/road,motif/rose,motif/silence,motif/tears,motif/time,concept/wonder,character/brutus,character/miss_pross"></span>
 
 
 CHAPTER VIII.
@@ -28642,7 +28642,7 @@ detain you no longer.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="A Tale of Two Cities — Chapter 8 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="A Tale of Two Cities — Chapter 8 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/prison,motif/time,motif/water,motif/well,concept/nature,character/miss_pross,character/sydney_carton"></span>
 
 
 Good [[Miss Pross]]! As if the estrangement between them had come of any
@@ -28789,7 +28789,7 @@ look of abhorrence.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="A Tale of Two Cities — Chapter 8 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="A Tale of Two Cities — Chapter 8 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/home,motif/time,concept/doubt,concept/fear,concept/freedom,concept/history,concept/imprisonment,form/history,character/doctor_manette,character/miss_pross,character/sydney_carton"></span>
 
 
 “Mr. Barsad has been recognised by [[Miss Pross]] as the affectionate
@@ -28911,7 +28911,7 @@ the holder in growing rather livid as he turned them over.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="A Tale of Two Cities — Chapter 8 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="A Tale of Two Cities — Chapter 8 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/rose,motif/time,motif/well,concept/wonder,setting/london,setting/paris,character/sydney_carton"></span>
 
 
 “You scarcely seem to like your hand,” said Sydney, with the greatest
@@ -29096,7 +29096,7 @@ into the dark room here, and let us have one final word [[Alone|alone]].”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="A Tale of Two Cities — Chapter 9 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="A Tale of Two Cities — Chapter 9 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/great_house,motif/tears,motif/well,concept/doubt,concept/fear,concept/honour,concept/hope,character/sydney_carton"></span>
 
 
 CHAPTER IX.
@@ -29221,7 +29221,7 @@ and his [[Tears|tears]] fell.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="A Tale of Two Cities — Chapter 9 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="A Tale of Two Cities — Chapter 9 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/hill,motif/love,motif/night,motif/prison,motif/silence,motif/time,concept/hope,concept/truth,setting/court,setting/paris"></span>
 
 
 “You are a good man and a true friend,” said Carton, in an altered
@@ -29372,7 +29372,7 @@ her steps.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="A Tale of Two Cities — Chapter 9 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="A Tale of Two Cities — Chapter 9 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/death,motif/desire,motif/grave,motif/hill,motif/home,motif/moon,motif/night,motif/prison,motif/road,motif/ship,motif/sleep,motif/well,concept/honour,concept/resurrection,concept/self,setting/ship,character/sydney_carton"></span>
 
 
 It was ten o’[[Clock|clock]] at [[Night|night]] when he stood before the [[Prison|prison]] of La Force,
@@ -29506,7 +29506,7 @@ heard them always.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="A Tale of Two Cities — Chapter 9 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="A Tale of Two Cities — Chapter 9 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/love,motif/moon,motif/night,motif/prayer,motif/river,motif/silence,motif/stars,motif/water,concept/imprisonment,concept/resurrection,concept/truth,setting/cathedral,setting/court,setting/paris,character/bottom,character/doctor_manette,character/ernest_defarge,character/madame_defarge,character/sydney_carton"></span>
 
 
 The [[Night|night]] wore out, and, as he stood upon the bridge listening to the
@@ -29675,7 +29675,7 @@ follows.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="A Tale of Two Cities — Chapter 10 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="A Tale of Two Cities — Chapter 10 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dust,motif/garden,motif/memory,motif/nature,motif/night,motif/road,motif/silence,motif/time,motif/window,concept/beauty,concept/doubt,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/truth,setting/paris,character/doctor_manette,character/speed"></span>
 
 
 CHAPTER X.
@@ -29802,7 +29802,7 @@ corner caught my sight.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="A Tale of Two Cities — Chapter 10 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="A Tale of Two Cities — Chapter 10 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/clock,motif/memory,motif/night,motif/swallow,motif/time,concept/doubt,concept/pride"></span>
 
 
 “I turned her gently over, placed my hands upon her breast to calm her
@@ -29938,7 +29938,7 @@ distance. He referred to them, as if she were lying in our presence.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="A Tale of Two Cities — Chapter 10 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="A Tale of Two Cities — Chapter 10 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/birds,motif/blood,motif/cross,motif/death,motif/fire,motif/home,motif/night,motif/noon,motif/road,motif/sleep,motif/time,motif/window,concept/fear,concept/mercy,concept/pride,concept/revenge"></span>
 
 
 “I said, ‘I have seen her.’
@@ -30053,7 +30053,7 @@ it.’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="A Tale of Two Cities — Chapter 10 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="A Tale of Two Cities — Chapter 10 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/horse,motif/memory,motif/nature,motif/night,motif/silence,motif/storm,motif/time,motif/wind,concept/despair,concept/honour,concept/hope,concept/nature,concept/pride,setting/court"></span>
 
 
 “Twice, he put his hand to the wound in his breast, and with his
@@ -30198,7 +30198,7 @@ compromised by possessing the knowledge that I possessed.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="A Tale of Two Cities — Chapter 10 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="A Tale of Two Cities — Chapter 10 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/orphan,motif/blood,motif/clock,motif/cross,motif/death,motif/desire,motif/grave,motif/marriage,motif/memory,motif/night,motif/road,motif/rose,motif/tears,motif/time,motif/well,concept/faith,concept/hope,concept/self,concept/suffering,character/ernest_defarge,character/madame_defarge"></span>
 
 
 “I was much engaged that day, and could not complete my letter that
@@ -30332,7 +30332,7 @@ Conciergerie, and [[Death]] within four-and-twenty hours!
 
 
 
-<span class="atom-split" data-atom="chapter_41" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 41" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_41" data-title="A Tale of Two Cities — Chapter 11" data-chapter="Chapter 41" data-kind="chapter" data-tags="archetype/child,archetype/innocent,motif/love,motif/nature,motif/night,motif/prayer,motif/soul,motif/well,concept/doubt,concept/hope,concept/nature,concept/pride,setting/court,character/doctor_manette,character/miss_pross,character/speed,character/sydney_carton"></span>
 
 
 CHAPTER XI.
@@ -30515,7 +30515,7 @@ And walked with a settled step, down-stairs.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="A Tale of Two Cities — Chapter 12 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="A Tale of Two Cities — Chapter 12 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/home,motif/mirror,motif/night,motif/prison,motif/silence,motif/time,motif/well,motif/window,concept/faith,setting/court,character/madame_defarge,character/sydney_carton"></span>
 
 
 CHAPTER XII.
@@ -30656,7 +30656,7 @@ by the light of this lamp. Ask him, is that so.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="A Tale of Two Cities — Chapter 12 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="A Tale of Two Cities — Chapter 12 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/clock,motif/fire,motif/memory,motif/nature,motif/night,motif/prison,motif/road,motif/tears,motif/time,motif/wind,concept/doubt,concept/hope,concept/nature,character/doctor_manette,character/madame_defarge"></span>
 
 
 “It is so,” assented Defarge.
@@ -30785,7 +30785,7 @@ exclaimed, “Thank _God!_”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="A Tale of Two Cities — Chapter 12 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="A Tale of Two Cities — Chapter 12 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/grave,motif/journey,motif/night,motif/prison,motif/time,motif/window,concept/hope,setting/paris,character/madame_defarge,character/sydney_carton"></span>
 
 
 “What is it?” asked Mr. Lorry, eagerly.
@@ -30913,7 +30913,7 @@ Farewell.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="A Tale of Two Cities — Chapter 13 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="A Tale of Two Cities — Chapter 13 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/city,motif/death,motif/garden,motif/love,motif/marriage,motif/night,motif/prison,motif/road,motif/sleep,motif/time,concept/doubt,concept/friendship,concept/heroism,concept/hope,concept/imprisonment,concept/poverty,concept/resignation,concept/suffering,concept/truth,character/charles_darnay,character/sunday"></span>
 
 
 CHAPTER XIII.
@@ -31024,7 +31024,7 @@ thoughts, which was very difficult to master.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="A Tale of Two Cities — Chapter 13 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="A Tale of Two Cities — Chapter 13 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/lightning,motif/nature,motif/supernatural,motif/time,motif/well,concept/fear,concept/madness,concept/nature,concept/self,concept/wonder,character/speed,character/sydney_carton"></span>
 
 
 He had never seen the instrument that was to terminate his life. How
@@ -31167,7 +31167,7 @@ something.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="A Tale of Two Cities — Chapter 13 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="A Tale of Two Cities — Chapter 13 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/memory,motif/night,motif/rose,motif/time,motif/well,motif/winter,concept/fear"></span>
 
 
 “No; I am not armed.”
@@ -31311,7 +31311,7 @@ poor little seamstress, who was with you in La Force.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="A Tale of Two Cities — Chapter 13 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="A Tale of Two Cities — Chapter 13 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/hill,motif/journey,motif/love,motif/moon,motif/night,motif/prison,motif/road,motif/tears,motif/time,motif/wind,motif/window,concept/courage,concept/doubt,setting/paris,character/jarvis_lorry,character/sydney_carton"></span>
 
 
 He murmured for answer: “True. I forget what you were accused of?”
@@ -31492,7 +31492,7 @@ us; but, so far, we are pursued by nothing else.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="A Tale of Two Cities — Chapter 14 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="A Tale of Two Cities — Chapter 14 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/home,motif/night,motif/time,motif/well,concept/doubt,concept/fear,character/madame_defarge"></span>
 
 
 CHAPTER XIV.
@@ -31626,7 +31626,7 @@ I will go to her.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="A Tale of Two Cities — Chapter 14 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="A Tale of Two Cities — Chapter 14 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/innocent,archetype/orphan,motif/childhood,motif/city,motif/clock,motif/desire,motif/journey,motif/night,motif/prison,motif/road,motif/soul,motif/time,motif/well,concept/beauty,concept/fear,concept/freedom,concept/hope,character/madame_defarge,character/miss_pross,character/pistol"></span>
 
 
 “What an admirable woman; what an adorable woman!” exclaimed Jacques
@@ -31739,7 +31739,7 @@ more will I do it, never no more!”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="A Tale of Two Cities — Chapter 14 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="A Tale of Two Cities — Chapter 14 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/hope,concept/loneliness,setting/cathedral,character/lucifer,character/madame_defarge,character/miss_pross"></span>
 
 
 “I am quite sure, Mr. Cruncher,” returned [[Miss Pross]], “that you
@@ -31868,7 +31868,7 @@ that [[Madame Defarge]] was the family’s malevolent enemy.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_04" data-title="A Tale of Two Cities — Chapter 14 (part 4)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_04" data-title="A Tale of Two Cities — Chapter 14 (part 4)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/love,motif/nature,motif/silence,motif/soul,motif/tears,motif/time,concept/body,concept/courage,concept/hope,concept/nature,concept/truth,character/madame_defarge,character/miss_pross"></span>
 
 
 “On my way yonder,” said [[Madame Defarge]], with a slight movement of
@@ -31990,7 +31990,7 @@ and to cry, and then got up and hurried away.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_05" data-title="A Tale of Two Cities — Chapter 14 (part 5)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_05" data-title="A Tale of Two Cities — Chapter 14 (part 5)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/journey,motif/prison,motif/river,concept/courage,setting/cathedral,character/miss_pross"></span>
 
 
 By good fortune she had a veil on her bonnet, or she could hardly have
@@ -32051,7 +32051,7 @@ And indeed she never did.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="A Tale of Two Cities — Chapter 15 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="A Tale of Two Cities — Chapter 15 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/garden,motif/prison,motif/time,concept/despair,concept/imagination,setting/paris"></span>
 
 
 CHAPTER XV.
@@ -32177,7 +32177,7 @@ her. I cry with vexation and disappointment!”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="A Tale of Two Cities — Chapter 15 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="A Tale of Two Cities — Chapter 15 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/city,motif/death,motif/home,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/endurance,concept/fear,concept/hope,concept/poverty,concept/resurrection,concept/sublime,character/sydney_carton"></span>
 
 
 As The Vengeance descends from her elevation to do it, the tumbrils

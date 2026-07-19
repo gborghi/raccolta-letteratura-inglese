@@ -1047,7 +1047,7 @@ FINIS
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Belinda (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Belinda (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CONTENTS
@@ -1109,7 +1109,7 @@ The fields told the same story; on the one hand sat plenitude upon a clean soil,
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Belinda (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Belinda (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/great_house,concept/romantic_love,concept/poverty,concept/family_and_lineage,form/novel,setting/rural_england"></span>
 
 
 Yet was not the young owner of this anxious patrimony to blame for its deplorable appearance. Sir Robert himself, though his nearest neighbour, was the first to admit that Horatio was the victim of circumstances rather than of defect. His father, already impoverished by an unfortunate adventure in china clay, had married, late in life, an Irish lady of some charm but no appreciable dowry. She had died in giving birth to their only son, and the widower had passed some twenty years as a recluse, burying himself in a barren study of the Christian Fathers, and even of the Hebrew language.
@@ -1137,7 +1137,7 @@ Miss Hackman (as we have seen to be the lady’s name) prepared the noble functi
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Belinda (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Belinda (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/love_as_religion,motif/dance,motif/dreams,concept/romantic_love,form/novel,setting/pastoral_countryside"></span>
 
 
 The movement of the crowded room, the hum of polite conversation, were halted to silence as the young Hostess appeared. That silence was succeeded by more eager words, till, at a signal from the band (which was conducted by M. Melchior himself), the music of the dance arose in sensuous grandeur and the partners were set for the ‘Martagnaise.’ In the third figure of this graceful though foreign measure, the gentlemen, as is well known, advance in rotation, and next, just touching with uplifted hands the fingers of an opposing number, step for a moment with each lady in order, until the file is exhausted and the manœuvre at an end. It is an occasion when those not partners in the dance yet greet for a moment, and when Beauty may be saluted (though not detained) by each admirer in turn.
@@ -1163,7 +1163,7 @@ The moment was magical. It was as though some music had transformed the world.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Belinda (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Belinda (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/great_house,motif/love"></span>
 
 
 Breast deep in fern, the small and laughing fauns, who [[Love|love]] the awakening of life, hid tiptoe, sidling, peeping, benevolent; but in the heart of the high wood a Presence, shining in a shaft of light, triumphantly let fly the arrow from the bow.
@@ -1213,7 +1213,7 @@ Now that they were alone Sir Robert, looking upon her with some sadness and sole
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Belinda (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Belinda (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/marriage"></span>
 
 
 He maintained this posture for a short while, still keeping fixed upon her his profound reflection, before which she cast her own eyes downwards, timorously awaiting his first words. Not until he had consumed his slight repast did he sigh heavily, and, sitting down beside her, take her hand with an affection and a sort of hesitation which deeply moved her.
@@ -1265,7 +1265,7 @@ But his indignation was interrupted by a lamentable scream. Belinda had slipped 
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Belinda (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Belinda (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/great_house,concept/family,concept/romantic_love,form/novel"></span>
 
 
 At such a sight the wretched father sprang back, transfixed with horror. He struck his forehead with his palm, stood for a moment speechless; then, leaping forward, pulled both bells on either side of the marble fireplace with frenzied violence, and rushing to the door, which he tore open, shouted:
@@ -1309,7 +1309,7 @@ Belinda had just refreshed her strength with a bowl of soup and a glass of port 
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="Belinda (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Belinda (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/love"></span>
 
 
 ‘I am sure,’ replied his daughter, ‘that I shall like her very much, and your kindness is more, alas! than I deserve.’ She sighed, and her father’s eagerness to reassure and comfort her rose at that slight expression of her care.
@@ -1355,7 +1355,7 @@ Then, abandoning further delay, he wrote rapidly and with a fixed determination:
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="Belinda (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="Belinda (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/garden"></span>
 
 
 The rapid pen here paused; he added — alas! he added — these fateful words:
@@ -1411,7 +1411,7 @@ A personal allowance, not ungenerous, but galling and precarious, was secretly a
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="Belinda (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="Belinda (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/marriage"></span>
 
 
 This lamentable situation had arisen from an action only too common upon the part of our gentry. Sir Henry’s father had had the fatal imprudence to speculate on ’Change.
@@ -1463,7 +1463,7 @@ He chuckled to himself in mirthless irony as the younger man tossed a guinea to 
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="Belinda (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="Belinda (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/villain,motif/masks_disguise,concept/poverty,concept/deception,form/novel"></span>
 
 
 For now some hours that gentlewoman had received and ruminated upon the missive of her benefactress. Her neat but impoverished raiment, the embittered expression upon her pinched features, her very ringlets hanging scarce and grey upon either side of her gaunt face, betrayed her intimate emotion. She dared not neglect what was, indeed, a command, but she had noted with a sarcastic smile the absence of any mention of emolument, and she was considering that the brief morning hours before the arrival of the chaise from The Towers would not even give her the opportunity to find a tenant for her two poorly-furnished rooms during her absence. As is too frequently the case with deeds of benevolence, those of Miss Hackman had awakened no gratitude in the restricted breast of her dependant; and although but last Christmas she had received a gift of game and a bottle of Madeira from her superior and friend, she seemed to regard such munificence as less than her due.
@@ -1523,7 +1523,7 @@ And, indeed, Miss Curll was assiduous in her attentions to her charge, immediate
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="Belinda (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="Belinda (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="archetype/lover,motif/garden"></span>
 
 
 But the more free was her mind from daily rounds, the more did the chief object of her thoughts return to her in a mixture of longing and delight. Soon (she mused) her ordeal would be at an end. Her dear papa would applaud her constancy — and meanwhile...
@@ -1565,7 +1565,7 @@ Her charge was asleep as she noiselessly entered the apartment. She sat herself 
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="Belinda (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="Belinda (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/love"></span>
 
 
 Though but this one first day of separation was passing, she had hoped — she had dared to hope — that some sign would have come already from that house in all these long hours. She turned away and was silent.
@@ -1613,7 +1613,7 @@ He wrote with a soul disturbed; he wrote unevenly, hesitating for expression, de
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="Belinda (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="Belinda (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/letters_writing,motif/journey,concept/romantic_love,concept/despair,concept/exile,form/novel"></span>
 
 
 This message, sealed and (how tenderly!) directed, he entrusted to the same messenger, then, relieved in some measure by such a paroxysm of the soul, he retired to rest in his ancestral chamber. In dreams he saw his appeal touched by divine hands, and compassion entering those pure eyes which had in them also the hidden flame of Heaven. It was but a dream; that letter, like its fellows, was intercepted; one more missive lay buried in the now crime-laden casket of Miss Curll.
@@ -1657,7 +1657,7 @@ From far out to sea the billows chased one another to the shore in foaming tumul
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="Belinda (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="Belinda (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="motif/horse,motif/sea,motif/storm,concept/despair,concept/exile,form/novel,setting/the_sea"></span>
 
 
 Sitting erect upon his horse at the quay-side, he accosted a humble mariner upon the decks of the packet for Boulogne (from the serrated coronet of whose chimney coal smoke already rose), and asked at what hour she would sail.
@@ -1703,7 +1703,7 @@ Throughout this wild commotion Horatio stood gloomy and unappalled. Grasping wit
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="Belinda (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="Belinda (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="archetype/hero,motif/night,concept/heroism_courage,concept/nationalism_and_patriotism,form/novel,setting/france"></span>
 
 
 ‘Adieu!’ he exclaimed. ‘Adieu! Tall Cliffs of Albion! Though Fates implacable demand my exile and forbid me to see ye more, yet be assured that my soul remains within your keeping. Fade! Fade! O Shores of My Country! Her son will retain his heritage in your name so long as Britannia grasps the Trident and the immortal shade of Nelson sleeps in glory beneath the cupola of St. Paul’s!’
@@ -1741,7 +1741,7 @@ As the servant hastened to lower the steps, and she more leisurely to descend, H
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="Belinda (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="Belinda (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="motif/great_house,concept/family,form/novel,histref/napoleonic_wars,setting/france"></span>
 
 
 ‘Destination,’ he answered low, after a long pause. ‘I have none. I am a wanderer, self-exiled from the home of my childhood. I seek but the next hostelry, thence to continue through the world my trackless and lonely way.’
@@ -1777,7 +1777,7 @@ Rarely during this period of relaxation and gradually returning health was the M
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="Belinda (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="Belinda (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="motif/garden"></span>
 
 
 When first her guest was permitted to take the air, she accepted his arm in slow pacings through the alleys of her park; and now could Horatio admire the elevation of the Château, its moat, the classic statuary upon the bridge thereof, its remaining turret of the Dark Ages, its later Mansard roof, and all the majestic architecture of the XIVth Louis, mellowed by more than a hundred years. Now could he mark its consonance with the solemn towering trees which ringed about the wide lawn before him, as though with the mystery of some primeval forest. Here, also, in the midst of the sward, a graceful fountain tossed high its crystal fronds in the air, which, falling with ceaseless undulatory splash upon the trembling pool below, attuned the mind to repose. The bronze dolphins upon its marble round, streaked with water weeds, recalled both antiquity and endurance. Over the young man there spread the sense of home.
@@ -1815,7 +1815,7 @@ It was not till the third day that, in a passionate fit of weeping, which alarme
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="Belinda (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="Belinda (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="motif/letters_writing,motif/great_house,concept/deception,concept/family,concept/honour,form/novel"></span>
 
 
 Then he learnt all: how no word had come from Halston, how — with what hesitation, with what anguish did she confess it — she herself had written, and had been met with silence.
@@ -1865,7 +1865,7 @@ For a moment the wretched woman hesitated between avowal and a falsehood whereby
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="Belinda (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="Belinda (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="archetype/villain,motif/letters_writing,concept/deception,concept/greed_and_money,concept/guilt,concept/justice,form/novel"></span>
 
 
 ‘It is true! God help me! It is true!’ With a slight but rapid gesture she pushed towards him the casket containing the letters of the two lovers, the contents of which the Baronet perused for some interval before thrusting them into his coat.
@@ -1941,7 +1941,7 @@ Pursing his dark brow, his strong shoulders bent forward in the contemplation of
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="Belinda (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="Belinda (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="archetype/lover"></span>
 
 
 ‘So, Portly! I have found you!’ were the words he launched, with the cold venom of a calculated hate. Portly stood back a moment with crisped hands clawing in challenge. Then, with one bound, he sprang at his oppressor’s throat.
@@ -1979,7 +1979,7 @@ ON THE APPOINTED morning a considerable column might have been seen rolling east
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="Belinda (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="Belinda (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="motif/journey,motif/dreams,motif/ghosts,motif/sea,concept/romantic_love,form/novel"></span>
 
 
 In a second vehicle followed Sir Robert’s valet, Belinda’s second maid, Miss Hackman’s and the clergyman. In the third, which was of stouter build and moved with a prodigious clatter, a vast pile of luggage rose high and broad (so large, indeed, as to suggest a cottage on wheels), the necessary equipment for those of Family proposing a long absence in foreign parts. The whole was covered by a sort of sea-cloth which made clear to all observers that it was the purpose of the travellers to traverse the Main.
@@ -2005,7 +2005,7 @@ Then that beneficent power which will not abandon youth in its agonies, the keen
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="Belinda (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="Belinda (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/journey,motif/horse,form/novel,histref/napoleonic_wars,histref/the_crusades,setting/france"></span>
 
 
 * * * * *
@@ -2031,7 +2031,7 @@ Arrived, he was received with solemn courtesy by a stately major-domo, whose sum
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="Belinda (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="Belinda (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="motif/great_house,motif/marriage"></span>
 
 
 They err who pretend that the years, though they may obscure, can eliminate a primal passion. The soul is immortal. If once it suffer the imprint of that one emotion which links time with eternity, the imperishable mark remains. The flood will return in full, unconquerable might, provoked by a tone, a scent, a glance, a name. This man, so far advanced in the business of living, already conscious of the grave, had suffered a resurrection from the dead. He had heard the name of Ferronnière.
@@ -2071,7 +2071,7 @@ He entered. He checked himself. He stood still as a stone. Those eyes looked on 
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="Belinda (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="Belinda (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="concept/romantic_love,concept/reconciliation,concept/marriage_and_fidelity,concept/providence,concept/family,form/novel"></span>
 
 
 ‘Sir!’ (she first spoke — and with an icy intensity), ‘We meet again.’
@@ -2127,7 +2127,7 @@ As is the way with women, she preferred a devious reply.
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="Belinda (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="Belinda (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="archetype/lover,motif/marriage,motif/river"></span>
 
 
 ‘I remember,’ he answered with falling eyes.

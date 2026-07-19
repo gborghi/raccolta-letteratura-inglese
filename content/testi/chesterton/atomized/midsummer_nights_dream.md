@@ -380,7 +380,7 @@ question is, to which animal has he been thus successfully conformed?
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="midsummer nights dream (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="midsummer nights dream (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/nature,motif/night,motif/soul,motif/supernatural,motif/well,concept/body,concept/melancholy,concept/nature,concept/pride,form/comedy,character/falstaff,character/hamlet,character/puck"></span>
 
 
 A Midsummer [[Night]]'s Dream
@@ -493,7 +493,7 @@ Ora, nella ragione di questo errore moderno e pedante risiede tutto il segreto e
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="midsummer nights dream (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="midsummer nights dream (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/desire,motif/dreams,motif/fire,motif/hill,motif/home,motif/love,motif/night,motif/rose,motif/silence,motif/stars,motif/supernatural,motif/well,concept/beauty,concept/greatness,concept/melancholy,concept/self,concept/vanity,form/comedy,form/tragedy,character/achilles,character/bottom,character/hamlet,character/othello,character/puck,character/theseus"></span>
 
 
 In pure poetry and the intoxication of words, Shakespeare never [[Rose|rose]]
@@ -633,7 +633,7 @@ Shakespeare riesce a rendere l'intera faccenda misteriosamente ilare pur essendo
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="midsummer nights dream (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="midsummer nights dream (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/shadow,motif/city,motif/desert,motif/flowers,motif/ghosts,motif/horse,motif/love,motif/nature,motif/night,motif/prison,motif/soul,concept/beauty,concept/faith,concept/greatness,concept/nature,concept/resurrection,concept/self,concept/truth,concept/union,concept/vanity,form/lyric,form/novel,histref/america,histref/puritanism,histref/renaissance,setting/america,setting/desert,setting/london,setting/verona,character/bottom,character/dick_swiveller,character/don_quixote,character/richard,character/theseus"></span>
 
 
 [[Bottom]] has the supreme mark of this real [[Greatness|greatness]] in that like

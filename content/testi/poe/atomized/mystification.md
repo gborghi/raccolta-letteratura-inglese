@@ -693,7 +693,7 @@ written about the _duello_.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Mystification (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Mystification (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,motif/garden,motif/nature,motif/night,motif/summer,motif/time,concept/beauty,concept/doubt,concept/grotesque,concept/nature,concept/self"></span>
 
 
 Slid, if these be your “passados” and “montantes,” I’ll have none
@@ -881,7 +881,7 @@ attachment of the ludicrous to his own character and person.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Mystification (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Mystification (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/courage,concept/fear,concept/grotesque,concept/nature,concept/pride"></span>
 
 
 Continually enveloped in an atmosphere of whim, my friend
@@ -1073,7 +1073,7 @@ and his face was cadaverously white. For a short [[Time|time]] he remained
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Mystification (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Mystification (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/grave,motif/mirror,motif/nature,motif/time,concept/imagination,concept/nature"></span>
 
 
 silent, apparently striving to master his emotion. Having at
@@ -1273,7 +1273,7 @@ Hedelin, as set forth in the ninth paragraph of the chapter of
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Mystification (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Mystification (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/shadow,motif/nature,concept/nature,concept/self"></span>
 
 
 his “_Duelli Lex scripta, et non; aliterque_.” The nicety of your

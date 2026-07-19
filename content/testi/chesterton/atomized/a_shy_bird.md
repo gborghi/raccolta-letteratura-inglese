@@ -595,7 +595,7 @@ nel raccoglimento stesso dell'Inghilterra.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="A_Shy_Bird (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A_Shy_Bird (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/flag,motif/garden,motif/nature,motif/night,concept/despair,concept/nature,concept/paradox,histref/milton,setting/germany,character/chorus,character/milton"></span>
 
 
 # A Shy Bird
@@ -773,7 +773,7 @@ Eppure Landor era un Radicale e [[Milton]] era un regicida.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="A_Shy_Bird (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A_Shy_Bird (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/nature,motif/well,concept/charity,concept/nature,setting/germany"></span>
 
 
 Now it cannot be denied that in many merely international relations
@@ -949,7 +949,7 @@ proclamandoci perpetuamente virtuosi.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="A_Shy_Bird (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="A_Shy_Bird (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/democracy,concept/doubt,concept/freedom,concept/pride,concept/self,concept/truth,concept/vanity"></span>
 
 
 It is vital that we should avoid the appearance of offering
@@ -1123,7 +1123,7 @@ d'Inghilterra, ma persino nella letteratura di Dickens.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="A_Shy_Bird (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="A_Shy_Bird (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/nightingale,concept/endurance,concept/freedom,concept/greatness,concept/truth"></span>
 
 
 The [[Truth|truth]] about the English adventure even outside England, is that

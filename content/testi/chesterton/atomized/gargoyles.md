@@ -179,7 +179,7 @@ the consecration of the church.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="gargoyles (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="gargoyles (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,motif/animals,motif/blood,motif/crown,motif/fire,motif/jewel,motif/night,motif/noon,motif/prayer,motif/stars,motif/time,motif/water,concept/beauty,concept/grotesque,concept/pride,setting/cathedral,character/witch"></span>
 
 
 G.K. Chesterton
@@ -330,7 +330,7 @@ Ma questo grande disegno non fu mai compiuto a dovere. Il popolo aveva trasporta
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="gargoyles (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="gargoyles (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/decay,motif/memory,motif/noon,concept/beauty,concept/honour,concept/suicide,histref/christianity,setting/cathedral"></span>
 
 
 But the rich, who had grown riotous in the long peace,

@@ -1204,7 +1204,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Alls Well that Ends Well — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Alls Well that Ends Well — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,motif/blood,motif/city,motif/death,motif/desire,motif/lion,motif/love,motif/nature,motif/silence,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/ambition,concept/body,concept/education,concept/faith,concept/fear,concept/hope,concept/humility,concept/imagination,concept/mortality,concept/nature,concept/self,setting/court,character/bertram,character/helen,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1282,7 +1282,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Alls Well that Ends Well — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Alls Well that Ends Well — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/clock,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/friendship,concept/honour,concept/humility,concept/melancholy,concept/nature,concept/pride,setting/paris,character/bertram,character/dumaine,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1311,7 +1311,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Alls Well that Ends Well — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Alls Well that Ends Well — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/prophet,motif/blood,motif/desert,motif/home,motif/love,motif/marriage,motif/nature,motif/rose,motif/stars,motif/tears,motif/well,concept/body,concept/faith,concept/fear,concept/honour,concept/hope,concept/humility,concept/loneliness,concept/mercy,concept/nature,concept/truth,form/riddle,setting/court,setting/desert,setting/paris,character/helen,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1389,7 +1389,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Alls Well that Ends Well — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Alls Well that Ends Well — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/dance,motif/death,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/body,concept/courage,concept/despair,concept/faith,concept/honour,concept/hope,concept/mercy,concept/nature,concept/self,concept/wonder,setting/italy,character/bertram,character/dumaine,character/helen"></span>
 
 
 | Speaker | Line |
@@ -1471,7 +1471,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Alls Well that Ends Well — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Alls Well that Ends Well — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/crown,motif/time,motif/well,concept/faith,concept/truth,setting/court,character/helen"></span>
 
 
 | Speaker | Line |
@@ -1510,7 +1510,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Alls Well that Ends Well — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Alls Well that Ends Well — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/dance,motif/death,motif/desert,motif/desire,motif/dust,motif/grave,motif/home,motif/love,motif/nature,motif/supernatural,motif/time,motif/well,motif/window,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/nature,concept/revenge,concept/wonder,setting/court,setting/desert,setting/italy,character/bertram,character/helen"></span>
 
 
 | Speaker | Line |
@@ -1642,7 +1642,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Alls Well that Ends Well — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Alls Well that Ends Well — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/love,motif/time,motif/well,concept/faith,concept/hope,concept/truth,character/helen"></span>
 
 
 | Speaker | Line |
@@ -1681,7 +1681,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Alls Well that Ends Well — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Alls Well that Ends Well — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/home,motif/horse,motif/soul,motif/stars,motif/time,motif/well,concept/faith,concept/hope,concept/truth,character/bertram,character/helen"></span>
 
 
 | Speaker | Line |
@@ -1731,7 +1731,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Alls Well that Ends Well — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Alls Well that Ends Well — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/well,concept/self,character/dumaine"></span>
 
 
 | Speaker | Line |
@@ -1749,7 +1749,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Alls Well that Ends Well — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Alls Well that Ends Well — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/death,motif/fire,motif/home,motif/lion,motif/love,motif/nature,motif/night,motif/well,concept/body,concept/honour,concept/melancholy,concept/nature,setting/court,character/bertram,character/dumaine,character/helen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1806,7 +1806,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Alls Well that Ends Well — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Alls Well that Ends Well — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/lover,motif/horse,motif/love,motif/well,concept/hope,character/bertram"></span>
 
 
 | Speaker | Line |
@@ -1821,7 +1821,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Alls Well that Ends Well — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Alls Well that Ends Well — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/pilgrim,motif/death,motif/home,motif/love,motif/night,motif/tears,motif/well,concept/hope,character/jaques,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1837,7 +1837,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Alls Well that Ends Well — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Alls Well that Ends Well — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,archetype/pilgrim,motif/city,motif/poison,motif/well,concept/fear,concept/honour,concept/hope,concept/melancholy,concept/truth,character/antonio,character/bertram,character/diana,character/escalus,character/helen,character/jaques,character/mariana"></span>
 
 
 | Speaker | Line |
@@ -1899,7 +1899,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Alls Well that Ends Well — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Alls Well that Ends Well — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/horse,motif/love,motif/night,motif/soul,motif/water,motif/well,motif/wind,concept/fear,concept/greatness,concept/honour,character/bertram,character/bottom,character/dumaine,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1944,7 +1944,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Alls Well that Ends Well — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Alls Well that Ends Well — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/blood,motif/fire,motif/night,motif/time,motif/well,concept/beauty,form/essay,character/bottom,character/helen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1963,7 +1963,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Alls Well that Ends Well — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Alls Well that Ends Well — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/clock,motif/home,motif/secrets,motif/sleep,motif/time,motif/well,motif/window,concept/faith,concept/fear,concept/truth,concept/wonder,character/dumaine"></span>
 
 
 | Speaker | Line |
@@ -2024,7 +2024,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Alls Well that Ends Well — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Alls Well that Ends Well — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/fire,motif/jewel,motif/love,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/longing,concept/self,concept/truth,character/bertram,character/diana"></span>
 
 
 | Speaker | Line |
@@ -2052,7 +2052,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Alls Well that Ends Well — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Alls Well that Ends Well — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/innocent,archetype/king,motif/death,motif/grave,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/secrets,motif/sleep,motif/snow,motif/tears,motif/time,motif/well,concept/despair,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,form/sonnet,setting/paris,character/bertram,character/diana,character/dumaine,character/jaques,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -2188,7 +2188,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Alls Well that Ends Well — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Alls Well that Ends Well — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/crown,motif/death,motif/home,motif/leaves,motif/love,motif/night,motif/summer,motif/time,motif/well,concept/doubt,character/diana,character/helen"></span>
 
 
 | Speaker | Line |
@@ -2204,7 +2204,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Alls Well that Ends Well — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Alls Well that Ends Well — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/death,motif/fire,motif/home,motif/love,motif/nature,motif/well,concept/body,concept/faith,concept/honour,concept/hope,concept/nature,concept/self,setting/court"></span>
 
 
 | Speaker | Line |
@@ -2254,7 +2254,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Alls Well that Ends Well — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Alls Well that Ends Well — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/horse,motif/night,motif/time,motif/well,setting/court,character/diana,character/helen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2283,7 +2283,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Alls Well that Ends Well — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Alls Well that Ends Well — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/night,motif/well,motif/wind,concept/honour"></span>
 
 
 | Speaker | Line |
@@ -2314,7 +2314,7 @@ All’s [[Well]] That Ends [[Well]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Alls Well that Ends Well — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Alls Well that Ends Well — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/golden_age,archetype/artist,archetype/child,archetype/king,archetype/shadow,archetype/villain,motif/desire,motif/dust,motif/fire,motif/grave,motif/home,motif/jewel,motif/love,motif/marriage,motif/memory,motif/moon,motif/nature,motif/prison,motif/time,motif/well,motif/winter,concept/beauty,concept/faith,concept/history,concept/honour,concept/hope,concept/nature,concept/survival,concept/truth,concept/vanity,concept/wonder,form/history,form/masque,form/novel,form/riddle,form/sketch,setting/court,setting/london,character/antiochus,character/apollonius,character/bertram,character/claudius,character/cleon,character/diana,character/gower,character/helen,character/jones,character/marina,character/nurse,character/oliver,character/pericles,character/satan,character/simonides,character/thaisa"></span>
 
 
 | Speaker | Line |

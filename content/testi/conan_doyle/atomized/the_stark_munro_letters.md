@@ -1082,7 +1082,7 @@ Serialised in The Strand Magazine between May and December 1897, this novel feat
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE STARK MUNRO LETTERS (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE STARK MUNRO LETTERS (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/james_cullingworth,character/stark_munro"></span>
 
 
 THE [[Stark Munro|STARK MUNRO]] LETTERS
@@ -1147,7 +1147,7 @@ It’s late, Bertie, and the fire’s out, and I’m shivering; and you, I’m v
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE STARK MUNRO LETTERS (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE STARK MUNRO LETTERS (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/friendship"></span>
 
 
 II. HOME, 10th April, 1881.
@@ -1221,7 +1221,7 @@ Well, it was a short experience that visit to Avonmouth, but I think that I shal
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="THE STARK MUNRO LETTERS (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="THE STARK MUNRO LETTERS (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/friendship"></span>
 
 
 III. HOME, 15th October, 1881.
@@ -1263,7 +1263,7 @@ Good-bye, my dear Bertie! Your life flows in a steady stream, and mine in a brok
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="THE STARK MUNRO LETTERS (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="THE STARK MUNRO LETTERS (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="character/stark_munro"></span>
 
 
 IV. HOME, 1st December, 1881.
@@ -1342,7 +1342,7 @@ Good-bye, old man. Let me hear equally fully about your own affairs. How did the
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="THE STARK MUNRO LETTERS (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="THE STARK MUNRO LETTERS (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="concept/poverty,character/stark_munro"></span>
 
 
 V. MERTON ON THE MOORS, 5th March, 1882.
@@ -1463,7 +1463,7 @@ Goodbye, old chap. My foot is upon the threshold of fortune. Congratulate me.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="THE STARK MUNRO LETTERS (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="THE STARK MUNRO LETTERS (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/letters_writing,concept/ambition,concept/friendship,concept/self_made_man_theme,form/epistolary_diary_novel,character/james_cullingworth,character/stark_munro"></span>
 
 
 VI. THE PARADE, BRADFIELD, 7th March, 1882.
@@ -1570,7 +1570,7 @@ Well, he would talk of nothing else the whole evening but of this wonderful inve
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="THE STARK MUNRO LETTERS (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="THE STARK MUNRO LETTERS (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="concept/friendship,character/james_cullingworth"></span>
 
 
 VII. THE PARADE, BRADFIELD, 9th March, 1882.
@@ -1664,7 +1664,7 @@ Is he not a conundrum? If he interests you at a distance (and I take for granted
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="THE STARK MUNRO LETTERS (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="THE STARK MUNRO LETTERS (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="concept/ambition,character/stark_munro"></span>
 
 
 VIII. THE PARADE, BRADFIELD, 6th April, 1882.
@@ -1709,7 +1709,7 @@ Well, good-bye, old chap; this is a stupid inconsequential letter, but life has 
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="THE STARK MUNRO LETTERS (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="THE STARK MUNRO LETTERS (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="concept/doubt,concept/agnosticism,concept/faith_and_doubt,concept/reason_and_rationalism,concept/honour,form/epistolary_diary_novel,histref/darwinism,character/james_cullingworth"></span>
 
 
 IX. THE PARADE, BRADFIELD, 23rd April, 1882.
@@ -1790,7 +1790,7 @@ I had hardly heard of the place, but I raised my glass. “Well, here’s to Sto
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="THE STARK MUNRO LETTERS (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="THE STARK MUNRO LETTERS (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="concept/friendship,concept/poverty"></span>
 
 
 X. CADOGAN TERRACE, BIRCHESPOOL, 21st May, 1882.
@@ -1852,7 +1852,7 @@ Well, good-bye, my dear old chap! As I said at the beginning of my letter, the v
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="THE STARK MUNRO LETTERS (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="THE STARK MUNRO LETTERS (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/dust,concept/the_body,concept/materialism,concept/mortality,concept/immortality,concept/perception_and_consciousness,form/epistolary_diary_novel,character/stark_munro"></span>
 
 
 XI. OAKLEY VILLAS, BIRCHESPOOL, 29th May, 1882.
@@ -1918,7 +1918,7 @@ Well, that’s as far as I’ve got as yet. What trivial, trivial stuff, interes
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="THE STARK MUNRO LETTERS (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="THE STARK MUNRO LETTERS (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="concept/friendship"></span>
 
 
 XII. OAKLEY VILLAS, BIRCHESPOOL, 5th June, 1882.
@@ -1986,7 +1986,7 @@ That was a nice little morning greeting was it not, after I had, on the strength
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="THE STARK MUNRO LETTERS (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="THE STARK MUNRO LETTERS (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="character/stark_munro"></span>
 
 
 XIII. OAKLEY VILLAS, BIRCHESPOOL, 12th June, 1882.
@@ -2046,7 +2046,7 @@ Good-bye, old chap! It is quite delightful to think that on one point at least w
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="THE STARK MUNRO LETTERS (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="THE STARK MUNRO LETTERS (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="concept/friendship,character/stark_munro"></span>
 
 
 XIV. OAKLEY VILLAS, BIRCHESPOOL, 15th January, 1883.
@@ -2093,7 +2093,7 @@ It is wonderful that you should have slipped back into your American life so eas
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="THE STARK MUNRO LETTERS (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="THE STARK MUNRO LETTERS (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="character/stark_munro"></span>
 
 
 XV. OAKLEY VILLAS, BIRCHESPOOL, 3rd August, 1883.
@@ -2177,7 +2177,7 @@ And so you really are going a-voyaging! Well, I won’t write again until I hear
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="THE STARK MUNRO LETTERS (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="THE STARK MUNRO LETTERS (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="concept/friendship,character/stark_munro"></span>
 
 
 XVI. OAKLEY VILLAS, BIRCHESPOOL, 4th November, 1884.

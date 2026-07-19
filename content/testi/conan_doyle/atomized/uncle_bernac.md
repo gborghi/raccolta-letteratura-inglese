@@ -1370,7 +1370,7 @@ Sir Nigel is a historical novel set during the Hundred Years’ War. Written in 
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="UNCLE BERNAC — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="UNCLE BERNAC — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/storm,concept/exile,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER I
@@ -1437,7 +1437,7 @@ And thus it was that, on a wild evening in the early spring of the year 1805, I,
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="UNCLE BERNAC — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="UNCLE BERNAC — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/journey,motif/storm,setting/france"></span>
 
 
 CHAPTER II
@@ -1489,7 +1489,7 @@ And I followed him into the hut.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="UNCLE BERNAC — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="UNCLE BERNAC — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/journey,motif/storm,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER III
@@ -1517,7 +1517,7 @@ So far I had got when my heart sprang suddenly into my mouth and the paper flutt
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="UNCLE BERNAC — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="UNCLE BERNAC — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/storm,setting/france"></span>
 
 
 CHAPTER IV
@@ -1607,7 +1607,7 @@ And then, as I scrambled into my refuge, I heard him say to the others that I wo
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="UNCLE BERNAC — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="UNCLE BERNAC — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="setting/france"></span>
 
 
 CHAPTER V
@@ -1705,7 +1705,7 @@ He looked at me with a singular expression in his ironical eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="UNCLE BERNAC — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="UNCLE BERNAC — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/hero,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER VI
@@ -1761,7 +1761,7 @@ I asked for nothing better than to throw myself down, damp clothes and all, upon
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="UNCLE BERNAC — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="UNCLE BERNAC — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="setting/france"></span>
 
 
 CHAPTER VII
@@ -1847,7 +1847,7 @@ And our hands were still clasped when her father re-entered the room.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="UNCLE BERNAC — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="UNCLE BERNAC — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/villain,setting/france"></span>
 
 
 CHAPTER VIII
@@ -1951,7 +1951,7 @@ But beware, for he will do you an injury if he can!’
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="UNCLE BERNAC — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="UNCLE BERNAC — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/hero,motif/journey,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER IX
@@ -2009,7 +2009,7 @@ Lieutenant Gerard, seeing the interest with which I gazed at the manoeuvring tro
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="UNCLE BERNAC — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="UNCLE BERNAC — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/hero,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER X
@@ -2107,7 +2107,7 @@ Napoleon looked at his famous minister, and I seemed to read suspicion in his ey
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="UNCLE BERNAC — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="UNCLE BERNAC — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER XI
@@ -2161,7 +2161,7 @@ Far away, like snow-white gulls in the distance, were the sails of the blockadin
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="UNCLE BERNAC — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="UNCLE BERNAC — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/journey,concept/exile,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER XII
@@ -2336,7 +2336,7 @@ Napoleon thought for a moment.
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="UNCLE BERNAC — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="UNCLE BERNAC — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="setting/france"></span>
 
 
 CHAPTER XIII
@@ -2413,7 +2413,7 @@ Empress is outside, and she is coming in.’
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="UNCLE BERNAC — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="UNCLE BERNAC — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER XIV
@@ -2477,7 +2477,7 @@ The Emperor’s fits of anger, although tempestuous, were never very prolonged. 
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="UNCLE BERNAC — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="UNCLE BERNAC — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="archetype/hero,motif/ship,motif/storm,histref/napoleon,setting/france,setting/ship,character/napoleon"></span>
 
 
 CHAPTER XV
@@ -2600,7 +2600,7 @@ And so the door closed behind him, and with a long sigh of relief from everyone,
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="UNCLE BERNAC — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="UNCLE BERNAC — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/journey,setting/france"></span>
 
 
 CHAPTER XVI
@@ -2710,7 +2710,7 @@ After all, he was my uncle, and he was dead, so why should I say further?
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="UNCLE BERNAC — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="UNCLE BERNAC — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/hero,archetype/villain,histref/napoleon,setting/france,character/napoleon"></span>
 
 
 CHAPTER XVII

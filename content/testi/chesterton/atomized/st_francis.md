@@ -3969,7 +3969,7 @@ before his shrine.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="St Francis — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="St Francis — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,archetype/outsider,motif/animals,motif/birds,motif/death,motif/fire,motif/flowers,motif/love,motif/nature,motif/snow,concept/body,concept/common_man,concept/history,concept/hope,concept/humility,concept/imagination,concept/nature,concept/self,form/history,form/sketch,histref/crusades,histref/dante,histref/renaissance,character/tolstoy"></span>
 
 
 CHAPTER I
@@ -4088,7 +4088,7 @@ the [[Death|death]] of the [[Body|body]]."
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="St Francis — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="St Francis — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/birds,motif/cross,motif/death,motif/dreams,motif/fire,motif/flowers,motif/love,motif/memory,motif/mirror,motif/pain,motif/road,motif/snow,motif/time,motif/well,concept/beauty,concept/conversion,concept/despair,concept/fear,concept/grotesque,concept/martyrdom,concept/reconciliation,concept/truth,form/satire,histref/christianity,setting/mountains,character/christ,character/queen"></span>
 
 
 Renan and Matthew Arnold failed utterly at this test.
@@ -4233,7 +4233,7 @@ La pratica [[Reconciliation|riconciliazione]] della gaiezza e dell'austerità de
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="St Francis — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="St Francis — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/death,motif/memory,motif/well,concept/history,form/biography,form/history,histref/america,histref/inquisition,histref/reformation,histref/spanish_inquisition,setting/america,character/pistol"></span>
 
 
 CHAPTER II
@@ -4358,7 +4358,7 @@ La maggior parte della [[history|storia]] moderna, specialmente in Inghilterra, 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="St Francis — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="St Francis — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/hero,motif/dawn,motif/dreams,motif/memory,motif/nature,motif/road,motif/sleep,motif/time,motif/well,concept/conversion,concept/faith,concept/history,concept/nature,concept/original_sin,concept/reform,concept/truth,form/history,form/novel,form/sketch,histref/christianity,histref/inquisition,character/helen,character/venus"></span>
 
 
 The case of the [[Inquisition]] is here taken at random,
@@ -4532,7 +4532,7 @@ Fu la fine di una penitenza; o, se si preferisce, di una purificazione. Segnò i
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="St Francis — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="St Francis — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,archetype/tyrant,motif/birds,motif/city,motif/death,motif/desert,motif/flowers,motif/garden,motif/love,motif/memory,motif/nature,motif/prayer,motif/road,motif/rose,motif/stars,motif/supernatural,motif/time,concept/body,concept/freedom,concept/history,concept/honour,concept/imagination,concept/melancholy,concept/nature,concept/purification,concept/self,concept/survival,concept/truth,form/history,histref/christianity,setting/desert,setting/italy,character/venus"></span>
 
 
 Rome [[Rose|rose]] at the expense of her Greek teachers largely because
@@ -4666,7 +4666,7 @@ Ora l'importanza storica di san Francesco e della transizione dal dodicesimo al 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="St Francis — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="St Francis — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/death,motif/fire,motif/flowers,motif/garden,motif/hill,motif/love,motif/nature,motif/night,motif/soul,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/fear,concept/nature,concept/poverty,concept/reconciliation,concept/reform,concept/self,concept/slavery,form/tragedy,histref/christianity,histref/crusades,histref/inquisition,setting/mountains,character/monks"></span>
 
 
 It is an exaggeration to attribute it entirely to the inspiration of
@@ -4801,7 +4801,7 @@ Mentre era ancora crepuscolo, una figura apparve silenziosa e improvvisa su un p
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="St Francis — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="St Francis — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/time,concept/courage,concept/doubt,concept/faith"></span>
 
 
 CHAPTER III
@@ -4930,7 +4930,7 @@ Nessuno dubitò mai che Francesco Bernardone avesse [[Courage|coraggio]] di cuor
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="St Francis — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="St Francis — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/love,motif/night,motif/rose,motif/soul,motif/supernatural,motif/time,motif/well,concept/ambition,concept/courage,concept/doubt,concept/mercy,concept/truth,histref/dante,setting/italy,character/angelo,character/columbus,character/michael"></span>
 
 
 The first biographers of Francis, naturally alive with the great religious
@@ -5069,7 +5069,7 @@ Era scoppiata la guerra tra Assisi e Perugia. Ora è di moda dire, in spirito sa
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="St Francis — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="St Francis — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/dreams,motif/prison,motif/silence,motif/time,motif/well,concept/ambition,concept/charity,concept/exile,concept/freedom,concept/paradox,concept/truth"></span>
 
 
 Anyhow, the tocsin was rung at Assisi and the citizens armed,
@@ -5196,7 +5196,7 @@ Ma benché un tal veggente potesse aver visto una tale [[Truth|verità]], è est
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="St Francis — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="St Francis — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/crown,motif/dreams,motif/flowers,motif/horse,motif/road,motif/rose,motif/secrets,motif/soul,motif/time,concept/courage,concept/fear,concept/honour,setting/battlefield"></span>
 
 
 High in the dark [[house]] of Assisi Francesco Bernadonne slept and dreamed
@@ -5318,7 +5318,7 @@ quando si volse a guardare indietro, non riuscì a vedere alcuna figura sulla [[
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="St Francis — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="St Francis — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/horse,motif/nature,motif/snow,motif/supernatural,motif/time,motif/well,motif/wind,motif/winter,concept/hope,concept/nature,histref/catholic_church,setting/court"></span>
 
 
 CHAPTER IV
@@ -5461,7 +5461,7 @@ A quanto pare fu notato come cosa notevole che la lingua in cui cantava fosse il
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="St Francis — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="St Francis — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/innocent,archetype/shadow,motif/crown,motif/home,motif/nature,motif/soul,motif/time,motif/well,concept/ambition,concept/courage,concept/friendship,concept/nature,concept/poverty,form/allegory,form/parable,character/arthur,character/christ,character/monks"></span>
 
 
 Meanwhile the narrative naturally reverts to the problem of the
@@ -5597,7 +5597,7 @@ Si narra che queste tre strane figure si costruirono una sorta di capanna o tana
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="St Francis — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="St Francis — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/dust,motif/grave,motif/journey,motif/time,motif/water,concept/beauty,concept/history,concept/paradox,form/history,histref/bible,histref/dante,character/christ"></span>
 
 
 It was a sort of sors vigiliana applied to the [[Bible]]; a practice
@@ -5733,7 +5733,7 @@ Come vivesse dovette a loro sembrare dubbio; ma presumibilmente egli già mendic
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="St Francis — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="St Francis — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/death,motif/love,motif/well,concept/ambition,concept/freedom,concept/history,concept/imagination,concept/poverty,concept/truth,form/history,form/medieval_romance,form/parable,histref/dante,setting/paris,character/beatrice,character/hastings"></span>
 
 
 CHAPTER V
@@ -5864,7 +5864,7 @@ Da qualche parte in quel passaggio dall'[[Ambition|ambizione]] del Trovatore all
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="St Francis — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="St Francis — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/cave,motif/crown,motif/flowers,motif/horse,motif/nature,motif/prison,motif/road,motif/supernatural,motif/time,motif/window,concept/comradeship,concept/conversion,concept/grotesque,concept/history,concept/humility,concept/nature,concept/pride,concept/vanity,form/allegory,form/history,form/parable,histref/renaissance,setting/court"></span>
 
 
 Francis, at the [[Time|time]] or somewhere about the [[Time|time]] when he disappeared
@@ -5988,7 +5988,7 @@ Ci raccontavano da bambini che se un uomo scavasse un foro attraverso il centro 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="St Francis — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="St Francis — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/world_upside_down,archetype/artist,archetype/king,archetype/lover,archetype/monster,archetype/shadow,motif/birds,motif/city,motif/dreams,motif/fire,motif/flowers,motif/home,motif/love,motif/nature,motif/stars,motif/water,concept/faith,concept/fear,concept/nature,concept/paradox,concept/truth,concept/wonder,setting/mountains"></span>
 
 
 This state can only be represented in symbol; but the symbol of
@@ -6101,7 +6101,7 @@ Così sorge da questo abisso quasi nichilistico la cosa nobile che è chiamata L
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="St Francis — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="St Francis — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/death,motif/flowers,motif/love,motif/nature,motif/stars,motif/winter,concept/divine_love,concept/imagination,concept/mercy,concept/nature,concept/paradox,concept/poverty,concept/romantic_love,concept/self,concept/self_sufficiency,concept/sublime,concept/truth,form/riddle,histref/bible"></span>
 
 
 This sense of the great gratitude and the [[Sublime|sublime]] dependence was
@@ -6240,7 +6240,7 @@ Se mai quella specie più rara d'[[Romantic Love|amore romantico]], che era la [
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="St Francis — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="St Francis — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/fire,motif/lamb,motif/love,motif/nature,motif/night,motif/road,motif/stars,motif/time,motif/well,concept/conscience,concept/conversion,concept/divine_love,concept/history,concept/humility,concept/nature,concept/survival,form/history,form/novel"></span>
 
 
 CHAPTER VI
@@ -6376,7 +6376,7 @@ San Francesco non era un [[Lover|amante]] della [[Nature|natura]]. A ben intende
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="St Francis — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="St Francis — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/animals,motif/birds,motif/cross,motif/crown,motif/death,motif/memory,motif/moon,motif/nature,motif/rose,motif/well,concept/grotesque,concept/hope,concept/humility,concept/imagination,concept/nature,concept/pride,concept/vanity,form/sketch"></span>
 
 
 In a word, we talk about a man who cannot see the wood for the trees.
@@ -6479,7 +6479,7 @@ Questa qualità, di qualcosa di eminente e persino sorprendente nelle cose come 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="St Francis — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="St Francis — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/birds,motif/childhood,motif/decay,motif/fire,motif/flowers,motif/garden,motif/moon,motif/pain,motif/rose,motif/sleep,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/conversion,concept/imagination,concept/martyrdom,form/allegory,histref/crusades,histref/islam,character/apollo"></span>
 
 
 The phrase about his brotherhood with the sun and [[Moon|moon]],
@@ -6610,7 +6610,7 @@ Se esiste una qualche cosa come l'arte del vivere, mi sembra che un simile momen
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="St Francis — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="St Francis — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/shadow,motif/animals,motif/birds,motif/desert,motif/flowers,motif/grave,motif/nature,motif/time,motif/well,motif/winter,concept/nature,concept/self,setting/court,setting/desert"></span>
 
 
 That is only one incident out of a life of such incidents;
@@ -6746,7 +6746,7 @@ Con quel gesto Francesco d'Assisi si muoveva fra gli uomini; e ben presto ci si 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="St Francis — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="St Francis — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/city,motif/dreams,motif/nature,motif/time,motif/well,motif/wind,concept/beauty,concept/freedom,concept/humility,concept/nature,concept/poverty,concept/pride,setting/castle,character/monks"></span>
 
 
 Chapter VII
@@ -6902,7 +6902,7 @@ Il suo ragionamento era questo: che l'uomo consacrato potesse andare ovunque, tr
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="St Francis — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="St Francis — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/birds,motif/grave,motif/journey,motif/love,motif/nature,motif/night,motif/time,concept/faith,concept/friendship,concept/honour,concept/humility,concept/nature,concept/paradox,concept/suffering,form/tragedy,histref/catholic_church,character/monks,character/speed"></span>
 
 
 But one distinction between the old [[Monks]] and the new friars counted
@@ -7052,7 +7052,7 @@ Fu mentre il piccolo capannello di persone alla Porziuncola era ancora abbastanz
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="St Francis — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="St Francis — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/fire,motif/hill,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/conversion,concept/divine_love,concept/doubt,concept/friendship,concept/history,concept/nature,concept/romantic_love,form/history,form/riddle,setting/italy,character/christ,character/juliet"></span>
 
 
 Cardinal San Paolo seems to have argued more or less in this manner:
@@ -7183,7 +7183,7 @@ Per il resto, possiamo almeno presumere che nessun amico di ciò che si chiama e
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="St Francis — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="St Francis — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,motif/bells,motif/desert,motif/love,motif/snow,motif/soul,motif/stars,motif/well,concept/body,concept/history,concept/melancholy,concept/poverty,concept/self,concept/truth,form/history,histref/dante,setting/desert,character/monks"></span>
 
 
 But if the Second Order was the memorial of such an unearthly [[Love|love]],
@@ -7258,7 +7258,7 @@ Ma di fatto la sua vita lo provò, e forse in un senso più sottile. Vi è, imma
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="St Francis — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="St Francis — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/mirror,motif/moon,motif/time,motif/well,concept/courage,concept/faith,concept/freedom,concept/history,concept/hope,concept/paradox,concept/sublime,concept/truth,form/history,histref/catholic_church,histref/christianity,character/christ,character/pompey"></span>
 
 
 Chapter VIII
@@ -7422,7 +7422,7 @@ Ora, in [[Truth|verità]], mentre è sempre sembrato naturale spiegare San Franc
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="St Francis — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="St Francis — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/crown,motif/hill,motif/love,motif/time,concept/ambition,concept/charity,concept/conversion,concept/doubt,concept/faith,concept/history,concept/martyrdom,concept/self,concept/suffering,concept/truth,form/history,histref/crusades,histref/islam,character/christ"></span>
 
 
 But if we understand that it was truly under the inspiration
@@ -7572,7 +7572,7 @@ Poco prima della sua partenza definitiva per l'Oriente si era tenuta presso la P
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="St Francis — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="St Francis — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/desert,motif/fire,motif/journey,motif/prayer,motif/time,motif/well,concept/body,concept/comradeship,concept/conversion,concept/faith,concept/history,concept/honour,concept/poverty,form/comedy,form/history,form/tragedy,setting/castle,setting/desert,setting/italy,setting/mountains,character/chorus,character/christ,character/orlando"></span>
 
 
 In the first act of that attempt he characteristically distinguished
@@ -7698,7 +7698,7 @@ Una parola dovrà essere detta più avanti su questa seria divisione di sentimen
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="St Francis — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="St Francis — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/pain,motif/silence,motif/soul,motif/supernatural,motif/time,motif/well,concept/apocalypse,concept/suffering,concept/wonder"></span>
 
 
 What it was exactly that happened there may never be known.
@@ -7790,7 +7790,7 @@ nelle sue proprie mani.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="St Francis — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="St Francis — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/golden_age,archetype/king,archetype/shadow,motif/clock,motif/cross,motif/crown,motif/death,motif/fire,motif/mirror,motif/nature,motif/soul,motif/supernatural,motif/swallow,motif/time,motif/well,concept/fanaticism,concept/history,concept/nature,concept/paradox,concept/revenge,form/history,setting/cathedral,setting/court,character/dauphin,character/thomas_becket"></span>
 
 
 Chapter IX
@@ -7915,7 +7915,7 @@ Ma molto prima che queste cose accadessero, in quei giorni della mia fanciullezz
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="St Francis — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="St Francis — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/dawn,motif/fire,motif/moon,motif/nature,motif/time,motif/water,motif/well,concept/doubt,concept/faith,concept/history,concept/madness,concept/nature,form/biography,form/fable,form/history,histref/bible,character/christ"></span>
 
 
 And in abstract [[logic]] this method of selection would lead to the
@@ -8038,7 +8038,7 @@ E la morale per il biografo pratico e lo storico è che deve aspettare che le co
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="St Francis — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="St Francis — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,archetype/villain,motif/fire,motif/nature,motif/supernatural,motif/time,concept/history,concept/nature,concept/truth,form/biography,form/history,form/sketch"></span>
 
 
 This being so he can choose between two courses; and not without
@@ -8145,7 +8145,7 @@ Vi è una massa così immensa di leggende e aneddoti su san Francesco d'Assisi, 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="St Francis — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="St Francis — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/artist,motif/animals,motif/birds,motif/cross,motif/death,motif/ghosts,motif/hill,motif/home,motif/machine,motif/nakedness,motif/nature,motif/soul,motif/supernatural,concept/doubt,concept/mortality,concept/nature,form/tragedy,character/angelo,character/christ"></span>
 
 
 But whatever may be thought of such supernaturalism in the comparatively
@@ -8274,7 +8274,7 @@ Ma almeno nei passaggi e nei portici della Porziuncola vi fu un'improvvisa immob
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="St Francis — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="St Francis — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/outsider,motif/death,motif/fire,motif/nature,motif/time,motif/wind,concept/history,concept/nature,concept/poverty,concept/truth,form/essay,form/history,histref/catholic_church,histref/christianity,setting/italy"></span>
 
 
 Chapter X
@@ -8401,7 +8401,7 @@ Poiché era questo ciò che stava dietro la contesa. Dietro questa particolare q
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="St Francis — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="St Francis — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/desert,motif/desire,motif/home,motif/leaves,motif/marriage,motif/nature,motif/nightingale,motif/prison,motif/water,motif/well,concept/conversion,concept/exile,concept/faith,concept/history,concept/imagination,concept/nature,concept/reconciliation,concept/self,concept/suicide,concept/truth,form/history,form/tragedy,histref/dante,setting/desert,setting/italy"></span>
 
 
 It is perhaps the chief suggestion of this book that St. Francis
@@ -8541,7 +8541,7 @@ Il grande santo era assennato; e col suono stesso della parola [[Sanity|senno]],
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="St Francis — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="St Francis — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/desire,motif/fire,motif/love,motif/soul,motif/time,motif/well,concept/body,concept/eternity,concept/history,concept/mercy,concept/pride,concept/truth,form/history,histref/dante,setting/italy"></span>
 
 
 For that is the full and final spirit in which we should turn

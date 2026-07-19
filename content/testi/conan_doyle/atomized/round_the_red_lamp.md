@@ -1726,7 +1726,7 @@ A FOREIGN OFFICE ROMANCE
 
 
 
-<span class="atom-split" data-atom="story_01_behind_the_times" data-title="ROUND THE RED LAMP — BEHIND THE TIMES." data-chapter="BEHIND THE TIMES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_behind_the_times" data-title="ROUND THE RED LAMP — BEHIND THE TIMES." data-chapter="BEHIND THE TIMES" data-kind="story" data-tags="motif/blood"></span>
 
 
 BEHIND THE TIMES.
@@ -1746,7 +1746,7 @@ She was back with an answer presently. “Dr. Winter will come round in an hour 
 
 
 
-<span class="atom-split" data-atom="story_02_his_first_operation" data-title="ROUND THE RED LAMP — HIS FIRST OPERATION." data-chapter="HIS FIRST OPERATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_his_first_operation" data-title="ROUND THE RED LAMP — HIS FIRST OPERATION." data-chapter="HIS FIRST OPERATION" data-kind="story" data-tags="motif/wine_and_drink,concept/fear,concept/education,form/short_story,setting/edinburgh"></span>
 
 
 HIS FIRST OPERATION.
@@ -1818,7 +1818,7 @@ There was a pause, and then the three students burst out laughing. “Why, you j
 
 
 
-<span class="atom-split" data-atom="story_03_a_straggler_of_15" data-title="ROUND THE RED LAMP — A STRAGGLER OF ‘15." data-chapter="A STRAGGLER OF 15" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_straggler_of_15" data-title="ROUND THE RED LAMP — A STRAGGLER OF ‘15." data-chapter="A STRAGGLER OF 15" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 A STRAGGLER OF ‘15.
@@ -1967,7 +1967,7 @@ The sergeant turned away. “I think,” said he, “that the Third Guards have 
 
 
 
-<span class="atom-split" data-atom="story_04_the_third_generation" data-title="ROUND THE RED LAMP — THE THIRD GENERATION." data-chapter="THE THIRD GENERATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_third_generation" data-title="ROUND THE RED LAMP — THE THIRD GENERATION." data-chapter="THE THIRD GENERATION" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 THE THIRD GENERATION.
@@ -2063,7 +2063,7 @@ Dr. Horace Selby heard again of his patient next morning, and rather earlier tha
 
 
 
-<span class="atom-split" data-atom="story_05_a_false_start" data-title="ROUND THE RED LAMP — A FALSE START." data-chapter="A FALSE START" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_a_false_start" data-title="ROUND THE RED LAMP — A FALSE START." data-chapter="A FALSE START" data-kind="story" data-tags="setting/london"></span>
 
 
 A FALSE START.
@@ -2185,7 +2185,7 @@ And yet this false start of his was a true start also, for it soon came to Dr. M
 
 
 
-<span class="atom-split" data-atom="story_06_the_curse_of_eve" data-title="ROUND THE RED LAMP — THE CURSE OF EVE." data-chapter="THE CURSE OF EVE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_curse_of_eve" data-title="ROUND THE RED LAMP — THE CURSE OF EVE." data-chapter="THE CURSE OF EVE" data-kind="story" data-tags="setting/london"></span>
 
 
 THE CURSE OF EVE.
@@ -2285,7 +2285,7 @@ So he sat in silence with his hand in hers. The lamp was burning dim and the fir
 
 
 
-<span class="atom-split" data-atom="story_07_sweethearts" data-title="ROUND THE RED LAMP — SWEETHEARTS." data-chapter="SWEETHEARTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_sweethearts" data-title="ROUND THE RED LAMP — SWEETHEARTS." data-chapter="SWEETHEARTS" data-kind="story" data-tags="topos/sublime_in_nature,motif/the_sea,motif/memory,concept/nature,concept/mortality,form/short_story,setting/the_sea,character/charles_dickens"></span>
 
 
 SWEETHEARTS.
@@ -2330,7 +2330,7 @@ She came up the path in her solid way, while he staggered along to meet her. The
 
 
 
-<span class="atom-split" data-atom="story_08_a_physiologists_wife" data-title="ROUND THE RED LAMP — A PHYSIOLOGIST’S WIFE." data-chapter="A PHYSIOLOGISTS WIFE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_a_physiologists_wife" data-title="ROUND THE RED LAMP — A PHYSIOLOGIST’S WIFE." data-chapter="A PHYSIOLOGISTS WIFE" data-kind="story" data-tags="concept/faith_and_doubt,concept/reason_and_rationalism,concept/materialism,concept/marriage_and_fidelity,concept/darwinism_evolutionary_theory,concept/agnosticism,concept/the_woman_question,form/short_story"></span>
 
 
 A PHYSIOLOGIST’S WIFE.
@@ -2556,7 +2556,7 @@ So they did so.
 
 
 
-<span class="atom-split" data-atom="story_09_the_case_of_lady_sannox" data-title="ROUND THE RED LAMP — THE CASE OF LADY SANNOX." data-chapter="THE CASE OF LADY SANNOX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_case_of_lady_sannox" data-title="ROUND THE RED LAMP — THE CASE OF LADY SANNOX." data-chapter="THE CASE OF LADY SANNOX" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 THE CASE OF LADY SANNOX.
@@ -2670,7 +2670,7 @@ Then he went down to the street. The cab was at the door, and the driver raised 
 
 
 
-<span class="atom-split" data-atom="story_10_a_question_of_diplomacy" data-title="ROUND THE RED LAMP — A QUESTION OF DIPLOMACY." data-chapter="A QUESTION OF DIPLOMACY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_a_question_of_diplomacy" data-title="ROUND THE RED LAMP — A QUESTION OF DIPLOMACY." data-chapter="A QUESTION OF DIPLOMACY" data-kind="story" data-tags="setting/london"></span>
 
 
 A QUESTION OF DIPLOMACY.
@@ -2881,7 +2881,7 @@ Lord Charles sank back with a look of half-comical despair.
 
 
 
-<span class="atom-split" data-atom="story_11_a_medical_document" data-title="ROUND THE RED LAMP — A MEDICAL DOCUMENT." data-chapter="A MEDICAL DOCUMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_a_medical_document" data-title="ROUND THE RED LAMP — A MEDICAL DOCUMENT." data-chapter="A MEDICAL DOCUMENT" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 A MEDICAL DOCUMENT.
@@ -2939,7 +2939,7 @@ The three medical men laugh as they walk towards their overcoats.
 
 
 
-<span class="atom-split" data-atom="story_12_lot_no_249" data-title="ROUND THE RED LAMP — LOT NO. 249." data-chapter="LOT NO 249" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_lot_no_249" data-title="ROUND THE RED LAMP — LOT NO. 249." data-chapter="LOT NO 249" data-kind="story" data-tags="motif/blood"></span>
 
 
 LOT NO. 249.
@@ -3267,7 +3267,7 @@ And such is the narrative of Abercrombie Smith as to the singular events which o
 
 
 
-<span class="atom-split" data-atom="story_13_the_los_amigos_fiasco" data-title="ROUND THE RED LAMP — THE LOS AMIGOS FIASCO." data-chapter="THE LOS AMIGOS FIASCO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_los_amigos_fiasco" data-title="ROUND THE RED LAMP — THE LOS AMIGOS FIASCO." data-chapter="THE LOS AMIGOS FIASCO" data-kind="story" data-tags="motif/blood"></span>
 
 
 THE LOS AMIGOS FIASCO.
@@ -3354,7 +3354,7 @@ It was rather a fiasco and for years we didn’t talk more about it than we coul
 
 
 
-<span class="atom-split" data-atom="story_14_the_doctors_of_hoyland" data-title="ROUND THE RED LAMP — THE DOCTORS OF HOYLAND." data-chapter="THE DOCTORS OF HOYLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_doctors_of_hoyland" data-title="ROUND THE RED LAMP — THE DOCTORS OF HOYLAND." data-chapter="THE DOCTORS OF HOYLAND" data-kind="story" data-tags="setting/london"></span>
 
 
 THE DOCTORS OF HOYLAND.
@@ -3453,7 +3453,7 @@ And so it came about that in a very few weeks there was only one doctor in Hoyla
 
 
 
-<span class="atom-split" data-atom="story_15_the_surgeon_talks" data-title="ROUND THE RED LAMP — THE SURGEON TALKS." data-chapter="THE SURGEON TALKS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_surgeon_talks" data-title="ROUND THE RED LAMP — THE SURGEON TALKS." data-chapter="THE SURGEON TALKS" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 THE SURGEON TALKS.

@@ -2618,7 +2618,7 @@ This is the final Sherlock Holmes novel, which was first published in the Strand
 
 
 
-<span class="atom-split" data-atom="story_01_the_adventure_of_the_empty_house" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE EMPTY HOUSE" data-chapter="THE ADVENTURE OF THE EMPTY HOUSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_adventure_of_the_empty_house" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE EMPTY HOUSE" data-chapter="THE ADVENTURE OF THE EMPTY HOUSE" data-kind="story" data-tags="archetype/detective,concept/deception,setting/london,character/colonel_sebastian_moran,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE EMPTY HOUSE
@@ -2740,7 +2740,7 @@ The second most dangerous man in London.
 
 
 
-<span class="atom-split" data-atom="story_02_the_adventure_of_the_norwood_builder" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE NORWOOD BUILDER" data-chapter="THE ADVENTURE OF THE NORWOOD BUILDER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_adventure_of_the_norwood_builder" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE NORWOOD BUILDER" data-chapter="THE ADVENTURE OF THE NORWOOD BUILDER" data-kind="story" data-tags="archetype/detective,motif/city,concept/deception,setting/london,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE NORWOOD BUILDER
@@ -2962,7 +2962,7 @@ Holmes smiled indulgently.
 
 
 
-<span class="atom-split" data-atom="story_03_the_adventure_of_the_dancing_men" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE DANCING MEN" data-chapter="THE ADVENTURE OF THE DANCING MEN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_adventure_of_the_dancing_men" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE DANCING MEN" data-chapter="THE ADVENTURE OF THE DANCING MEN" data-kind="story" data-tags="setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE DANCING MEN
@@ -3182,7 +3182,7 @@ Only one word of epilogue. The American, Abe Slaney, was condemned to death at t
 
 
 
-<span class="atom-split" data-atom="story_04_the_adventure_of_the_solitary_cyclist" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SOLITARY CYCLIST" data-chapter="THE ADVENTURE OF THE SOLITARY CYCLIST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_adventure_of_the_solitary_cyclist" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SOLITARY CYCLIST" data-chapter="THE ADVENTURE OF THE SOLITARY CYCLIST" data-kind="story" data-tags="motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE SOLITARY CYCLIST
@@ -3335,7 +3335,7 @@ In the whirl of our incessant activity, it has often been difficult for me, as t
 
 
 
-<span class="atom-split" data-atom="story_05_the_adventure_of_the_priory_school" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE PRIORY SCHOOL" data-chapter="THE ADVENTURE OF THE PRIORY SCHOOL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_adventure_of_the_priory_school" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE PRIORY SCHOOL" data-chapter="THE ADVENTURE OF THE PRIORY SCHOOL" data-kind="story" data-tags="archetype/villain,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE PRIORY SCHOOL
@@ -3690,7 +3690,7 @@ Holmes folded up his check and placed it carefully in his notebook. “I am a po
 
 
 
-<span class="atom-split" data-atom="story_06_the_adventure_of_black_peter" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF BLACK PETER" data-chapter="THE ADVENTURE OF BLACK PETER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_adventure_of_black_peter" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF BLACK PETER" data-chapter="THE ADVENTURE OF BLACK PETER" data-kind="story" data-tags="archetype/detective,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF BLACK PETER
@@ -3892,7 +3892,7 @@ The hoarse voice of the seaman broke in on our conversation.
 
 
 
-<span class="atom-split" data-atom="story_07_the_adventure_of_charles_augustus_milver" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON" data-chapter="THE ADVENTURE OF CHARLES AUGUSTUS MILVER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_adventure_of_charles_augustus_milver" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON" data-chapter="THE ADVENTURE OF CHARLES AUGUSTUS MILVER" data-kind="story" data-tags="archetype/villain,motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF CHARLES AUGUSTUS MILVERTON
@@ -4024,7 +4024,7 @@ Holmes had not said one word to me about the tragedy which we had witnessed, but
 
 
 
-<span class="atom-split" data-atom="story_08_the_adventure_of_the_six_napoleons" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SIX NAPOLEONS" data-chapter="THE ADVENTURE OF THE SIX NAPOLEONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_adventure_of_the_six_napoleons" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SIX NAPOLEONS" data-chapter="THE ADVENTURE OF THE SIX NAPOLEONS" data-kind="story" data-tags="archetype/detective,motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE SIX NAPOLEONS
@@ -4183,7 +4183,7 @@ We sat in silence for a moment.
 
 
 
-<span class="atom-split" data-atom="story_09_the_adventure_of_the_three_students" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE THREE STUDENTS" data-chapter="THE ADVENTURE OF THE THREE STUDENTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_adventure_of_the_three_students" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE THREE STUDENTS" data-chapter="THE ADVENTURE OF THE THREE STUDENTS" data-kind="story" data-tags="character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE THREE STUDENTS
@@ -4403,7 +4403,7 @@ Gilchrist pointed to Bannister.
 
 
 
-<span class="atom-split" data-atom="story_10_the_adventure_of_the_golden_pince_nez" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE GOLDEN PINCE-NEZ" data-chapter="THE ADVENTURE OF THE GOLDEN PINCE NEZ" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_adventure_of_the_golden_pince_nez" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE GOLDEN PINCE-NEZ" data-chapter="THE ADVENTURE OF THE GOLDEN PINCE NEZ" data-kind="story" data-tags="archetype/detective,archetype/villain,motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE GOLDEN PINCE-NEZ
@@ -4593,7 +4593,7 @@ She had risen, but she fell back again with a little cry of pain.
 
 
 
-<span class="atom-split" data-atom="story_11_the_adventure_of_the_missing_three_quart" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE MISSING THREE-QUARTER" data-chapter="THE ADVENTURE OF THE MISSING THREE QUART" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_adventure_of_the_missing_three_quart" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE MISSING THREE-QUARTER" data-chapter="THE ADVENTURE OF THE MISSING THREE QUART" data-kind="story" data-tags="archetype/detective,motif/city,concept/deception,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE MISSING THREE-QUARTER
@@ -4812,7 +4812,7 @@ Holmes grasped the doctor’s hand.
 
 
 
-<span class="atom-split" data-atom="story_12_the_adventure_of_the_abbey_grange" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE ABBEY GRANGE" data-chapter="THE ADVENTURE OF THE ABBEY GRANGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_adventure_of_the_abbey_grange" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE ABBEY GRANGE" data-chapter="THE ADVENTURE OF THE ABBEY GRANGE" data-kind="story" data-tags="archetype/villain,setting/london,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE ABBEY GRANGE
@@ -4997,7 +4997,7 @@ Holmes for a second time held out his hand to the sailor.
 
 
 
-<span class="atom-split" data-atom="story_13_the_adventure_of_the_second_stain" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SECOND STAIN" data-chapter="THE ADVENTURE OF THE SECOND STAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_adventure_of_the_second_stain" data-title="THE RETURN OF SHERLOCK HOLMES — THE ADVENTURE OF THE SECOND STAIN" data-chapter="THE ADVENTURE OF THE SECOND STAIN" data-kind="story" data-tags="setting/london,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 THE ADVENTURE OF THE SECOND STAIN

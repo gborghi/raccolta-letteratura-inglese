@@ -1092,7 +1092,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Two Gentlemen of Verona — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Two Gentlemen of Verona — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/chains,motif/death,motif/desire,motif/home,motif/leaves,motif/love,motif/road,motif/ship,motif/sleep,motif/time,motif/well,concept/fear,concept/honour,setting/ship,setting/verona,character/julia,character/proteus,character/speed,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1170,7 +1170,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Two Gentlemen of Verona — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Two Gentlemen of Verona — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/bees,motif/fire,motif/love,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/revenge,setting/verona,character/julia,character/nurse,character/proteus,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1261,7 +1261,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Two Gentlemen of Verona — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Two Gentlemen of Verona — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/fire,motif/home,motif/love,motif/spring,motif/time,motif/well,concept/beauty,concept/fear,concept/honour,setting/court,setting/verona,character/antonio,character/julia,character/proteus,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1300,7 +1300,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Two Gentlemen of Verona — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Two Gentlemen of Verona — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/lover,motif/love,motif/night,motif/time,motif/water,motif/well,concept/beauty,setting/verona,character/proteus,character/silvia,character/speed,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1406,7 +1406,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Two Gentlemen of Verona — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Two Gentlemen of Verona — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/love,motif/tears,concept/truth,setting/verona,character/julia,character/proteus"></span>
 
 
 | Speaker | Line |
@@ -1430,7 +1430,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="The Two Gentlemen of Verona — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="The Two Gentlemen of Verona — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/dust,motif/river,motif/tears,motif/well,motif/wind,concept/fear,setting/court,setting/verona,character/proteus"></span>
 
 
 | Speaker | Line |
@@ -1456,7 +1456,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="The Two Gentlemen of Verona — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="The Two Gentlemen of Verona — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,motif/blood,motif/desert,motif/fire,motif/home,motif/jewel,motif/love,motif/marriage,motif/road,motif/sleep,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/greed,concept/honour,concept/jealousy,concept/revenge,concept/truth,setting/desert,setting/verona,character/antonio,character/julia,character/proteus,character/silvia,character/speed,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1568,7 +1568,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="The Two Gentlemen of Verona — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="The Two Gentlemen of Verona — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/love,motif/well,concept/charity,form/parable,setting/verona,character/julia,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1611,7 +1611,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="The Two Gentlemen of Verona — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="The Two Gentlemen of Verona — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/cross,motif/love,motif/night,motif/soul,motif/window,setting/verona,character/julia,character/proteus,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1622,7 +1622,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7" data-title="The Two Gentlemen of Verona — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="The Two Gentlemen of Verona — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/pilgrim,motif/fire,motif/home,motif/journey,motif/love,motif/snow,motif/soul,motif/stars,motif/tears,motif/time,motif/well,concept/fear,concept/honour,concept/longing,concept/truth,setting/verona,character/julia,character/proteus"></span>
 
 
 | Speaker | Line |
@@ -1658,7 +1658,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Two Gentlemen of Verona — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Two Gentlemen of Verona — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/king,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/city,motif/clock,motif/cross,motif/death,motif/desert,motif/grave,motif/horse,motif/love,motif/night,motif/nightingale,motif/prison,motif/secrets,motif/ship,motif/silence,motif/sleep,motif/stars,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/fear,concept/friendship,concept/honour,concept/hope,concept/pride,concept/self,setting/court,setting/desert,setting/ship,setting/verona,character/nurse,character/proteus,character/silvia,character/speed,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1806,7 +1806,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Two Gentlemen of Verona — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Two Gentlemen of Verona — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/city,motif/dance,motif/desert,motif/love,motif/night,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/exile,concept/fear,concept/melancholy,form/sonnet,setting/desert,setting/verona,character/bottom,character/proteus,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1849,7 +1849,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Gentlemen of Verona — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Gentlemen of Verona — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/death,motif/love,concept/fear,setting/verona,character/robin_hood,character/speed,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1898,7 +1898,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Two Gentlemen of Verona — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Two Gentlemen of Verona — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/lover,archetype/shadow,motif/grave,motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/beauty,concept/faith,concept/fear,concept/hope,concept/self,concept/truth,setting/verona,character/julia,character/proteus,character/queen,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1981,7 +1981,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Gentlemen of Verona — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Gentlemen of Verona — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/desire,motif/grave,motif/love,motif/soul,motif/well,concept/faith,concept/honour,setting/verona,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -2005,7 +2005,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Two Gentlemen of Verona — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Two Gentlemen of Verona — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/shadow,motif/dreams,motif/home,motif/jewel,motif/love,motif/tears,motif/time,motif/water,motif/well,concept/faith,concept/hope,concept/truth,setting/verona,character/julia,character/proteus,character/sebastian,character/silvia,character/speed,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2068,7 +2068,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Two Gentlemen of Verona — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Two Gentlemen of Verona — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/time,concept/fear,setting/verona,character/silvia"></span>
 
 
 | Speaker | Line |
@@ -2084,7 +2084,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Two Gentlemen of Verona — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Two Gentlemen of Verona — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/cross,motif/love,motif/well,concept/doubt,setting/verona,character/friar_laurence,character/julia,character/proteus,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -2132,7 +2132,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="The Two Gentlemen of Verona — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="The Two Gentlemen of Verona — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/cave,concept/fear,setting/verona,character/silvia,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -2151,7 +2151,7 @@ The Two Gentlemen of [[Verona]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="The Two Gentlemen of Verona — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="The Two Gentlemen of Verona — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,motif/death,motif/desert,motif/desire,motif/home,motif/lion,motif/love,motif/marriage,motif/memory,motif/nature,motif/nightingale,motif/soul,motif/time,motif/well,motif/winter,concept/body,concept/exile,concept/faith,concept/guilt,concept/history,concept/honour,concept/hope,concept/mercy,concept/nature,concept/wonder,form/comedy,form/history,setting/desert,setting/verona,character/baptista,character/bianca,character/christopher_sly,character/hortensio,character/julia,character/lucentio,character/petruchio,character/proteus,character/silvia,character/thurio,character/valentine"></span>
 
 
 | Speaker | Line |

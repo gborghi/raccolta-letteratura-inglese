@@ -1135,7 +1135,7 @@ PUNDITA.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Mellonta Tauta (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Mellonta Tauta (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,form/translation,character/buckingham,character/edgar"></span>
 
 
 TO THE EDITORS OF THE LADY’S BOOK:
@@ -1341,7 +1341,7 @@ Pundit)—“Thus must we say that, not once or twice, or a few
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Mellonta Tauta (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Mellonta Tauta (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/road,motif/soul,motif/time,motif/well,concept/self,concept/truth"></span>
 
 
 times, but with almost infinite repetitions, the same opinions
@@ -1523,7 +1523,7 @@ Ram) nor under the category Hog, why then the savans went no
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Mellonta Tauta (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Mellonta Tauta (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/horse,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/faith,concept/imagination,concept/nature,concept/sublime,concept/truth,concept/wonder"></span>
 
 
 farther, but pronounced the “theorist” a [[Fool|fool]], and would have
@@ -1707,7 +1707,7 @@ must be an absolute [[Truth|truth]]! How plain has been our progress since
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Mellonta Tauta (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Mellonta Tauta (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,motif/dance,motif/road,motif/soul,motif/time,concept/doubt,concept/imagination,concept/self,concept/truth,form/fable"></span>
 
 
 the late announcement of this proposition! Investigation has been
@@ -1889,7 +1889,7 @@ Nevertheless, he had his uses, as every thing has, however vile,
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Mellonta Tauta (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Mellonta Tauta (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/garden,motif/lightning,motif/moon,motif/night,concept/democracy,concept/doubt,concept/history,form/history"></span>
 
 
 and taught mankind a lesson which to this day it is in no danger
@@ -2075,7 +2075,7 @@ pleasure [[Garden|garden]]. Paradise, it appears, has been, literally
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Mellonta Tauta (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Mellonta Tauta (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/garden,motif/memory,motif/time,motif/well,concept/beauty,concept/doubt,form/inscription,form/translation,setting/new_york"></span>
 
 
 speaking, an island [[Time|time]] out of mind—that is to say, its northern

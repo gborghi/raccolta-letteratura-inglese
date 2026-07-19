@@ -856,7 +856,7 @@ First published in 1924, this autobiography of Conan Doyle blends his memories a
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/spiritualism"></span>
 
 
 PART II
@@ -925,7 +925,7 @@ It will be found from these extracts that when faced with facts his attitude was
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/ghosts,concept/spiritualism"></span>
 
 
 II
@@ -959,7 +959,7 @@ Such an experience is so very unlike the vast majority of psychic cases that one
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/spiritualism"></span>
 
 
 III
@@ -1024,7 +1024,7 @@ I may conclude these notes by stating my opinion as to the exact nature of dream
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,motif/ghosts,concept/spiritualism,concept/the_supernatural,concept/heaven_and_the_afterlife,form/essay,setting/rural_england"></span>
 
 
 IV
@@ -1083,7 +1083,7 @@ It is not a fairy-tale, but it is a new realm of knowledge which the human race 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/ghosts"></span>
 
 
 V
@@ -1122,7 +1122,7 @@ A more justifiable persecution, but one which also amounted to torture, is detai
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/spiritualism,concept/literary_criticism,concept/the_supernatural,form/essay,histref/alfred_harmsworth_lord_northcliffe,character/oscar_wilde,character/charles_dickens"></span>
 
 
 VI
@@ -1226,7 +1226,7 @@ The latter cases are certainly not so convincing as the earlier ones, but if you
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/ghosts,concept/spiritualism"></span>
 
 
 VII
@@ -1263,7 +1263,7 @@ Thus my visit to Alton was not entirely in vain.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/ghosts"></span>
 
 
 VIII
@@ -1319,7 +1319,7 @@ One may well ask what connection have fairies and elementals with the essays upo
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_09" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 9)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_09" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 9)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/prophet,concept/spiritualism"></span>
 
 
 IX
@@ -1355,7 +1355,7 @@ These brave words should have been the cry of the centenarian. It was not destin
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_10" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 10)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_10" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 10)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/deception"></span>
 
 
 X
@@ -1420,7 +1420,7 @@ I am not sure of the doctor’s conclusions, but I am convinced that everyone el
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_11" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 11)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_11" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 11)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/spiritualism"></span>
 
 
 XI
@@ -1455,7 +1455,7 @@ Since this essay was written fresh demonstrations and photographs of ectoplasm h
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_12" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 12)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_12" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 12)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/prophet,motif/supernatural,concept/deception,concept/spiritualism"></span>
 
 
 XII
@@ -1480,7 +1480,7 @@ Had she merely asked for it back, there is little doubt that Home’s delicate f
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_13" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 13)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_13" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 13)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/deception,concept/immortality_of_the_soul,concept/spiritualism"></span>
 
 
 XIII
@@ -1512,7 +1512,7 @@ I have said that such a fate befalling the early mediums is painful to their fri
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_14" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 14)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_14" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 14)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/uncanny,concept/uncanny"></span>
 
 
 XIV
@@ -1565,7 +1565,7 @@ Now it is clear in this authentic case that the police would have saved themselv
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_15" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 15)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_15" data-title="THE EDGE OF THE UNKNOWN — Part 2 (part 15)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/deception"></span>
 
 
 XV

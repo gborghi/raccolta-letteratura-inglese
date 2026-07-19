@@ -3895,7 +3895,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Robert Louis Stevenson — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Robert Louis Stevenson — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="form/literary_criticism,form/biography,setting/edinburgh,character/robert_louis_stevenson,character/skelt"></span>
 
 
 CHAPTER
@@ -3933,7 +3933,7 @@ X LA MORALE DI STEVENSON
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Robert Louis Stevenson — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Robert Louis Stevenson — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/road,motif/time,motif/well,motif/winter,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/freedom,concept/paradox,concept/truth,form/biography,form/sketch,form/tragedy,histref/america,setting/america,setting/mountains,character/michael"></span>
 
 
 CHAPTER I
@@ -4169,7 +4169,7 @@ dato che aspetta sempre di diventare un letto di morte.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Louis Stevenson — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Louis Stevenson — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/child,motif/childhood,motif/death,motif/flowers,motif/garden,motif/hill,motif/home,motif/journey,motif/love,motif/marriage,motif/time,motif/well,concept/beauty,concept/exile,concept/truth,form/biography,form/sonnet,histref/america,setting/america,setting/mountains,setting/paris,character/gower,character/nurse,character/robin_hood"></span>
 
 
 Broadly speaking, therefore, his [[Biography|biography]] would consist of journeys
@@ -4309,7 +4309,7 @@ Ora, se qui seguissi il corso naturale di un volume come questo, dovrei comincia
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Robert Louis Stevenson — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Robert Louis Stevenson — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/garden,motif/love,motif/time,motif/well,concept/freedom,concept/history,concept/honour,concept/hope,concept/longing,concept/self,concept/truth,concept/wonder,form/biography,form/history,character/edmund"></span>
 
 
 When I come to describing it, I find it is perhaps even more
@@ -4451,7 +4451,7 @@ Nondimeno, a questo stadio del tentativo dirò una cosa. Ho, in un certo senso, 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Robert Louis Stevenson — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Robert Louis Stevenson — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/decay,motif/dreams,motif/flowers,motif/poison,motif/stars,concept/imagination,form/essay,character/edgar"></span>
 
 
 CHAPTER II
@@ -4588,7 +4588,7 @@ Il primo fatto riguardo all'immaginario di Stevenson è che tutte le sue immagin
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Robert Louis Stevenson — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Robert Louis Stevenson — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/detective,archetype/shadow,motif/blood,motif/childhood,motif/frost,motif/love,motif/memory,motif/night,motif/road,motif/snow,motif/soul,motif/stars,motif/time,motif/winter,concept/doubt,concept/education,concept/purification,concept/truth,form/novel,form/parody,setting/mountains,setting/paris"></span>
 
 
 This is but a rough experimental method; but it will be found useful
@@ -4706,7 +4706,7 @@ Donde venne quello spirito; e come cominciò la sua storia? Questo è il modo gi
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Robert Louis Stevenson — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Robert Louis Stevenson — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/cross,motif/death,motif/fire,motif/garden,motif/home,motif/lightning,motif/love,motif/nature,motif/soul,motif/supernatural,motif/time,motif/well,motif/winter,concept/doubt,concept/imagination,concept/nature,concept/paradox,concept/self,form/essay,histref/puritanism,setting/london,character/christ"></span>
 
 
 If therefore we ask, "Where does the story of Stevenson really start;
@@ -4870,7 +4870,7 @@ La connessione tra l'espandersi dell'energia della giovane scimmia e le segrete 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Robert Louis Stevenson — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Robert Louis Stevenson — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/shadow,motif/chalk,motif/childhood,motif/city,motif/death,motif/desire,motif/home,motif/love,motif/time,motif/well,motif/wind,motif/window,concept/ambition,concept/body,concept/history,concept/renunciation,concept/temptation,concept/truth,form/biography,form/comedy,form/history,form/tragedy,histref/puritanism"></span>
 
 
 CHAPTER III
@@ -5015,7 +5015,7 @@ Il [[Puritanism|Puritanesimo]] non aveva idea della purezza. Potremmo quasi dire
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Robert Louis Stevenson — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Robert Louis Stevenson — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/nature,motif/river,motif/rose,motif/time,concept/beauty,concept/conscience,concept/grotesque,concept/hope,concept/imagination,concept/nature,form/fable,form/tragedy,histref/puritanism,setting/london,setting/paris,character/christ,character/sunday"></span>
 
 
 I will here make what is a mere guess in the dark; and in a very dark
@@ -5120,7 +5120,7 @@ Non intendo insinuare che la [[morality|moralità]] della storia stessa abbia al
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Robert Louis Stevenson — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Robert Louis Stevenson — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/childhood,motif/city,motif/garden,motif/home,motif/nature,motif/pain,motif/time,motif/well,motif/wind,concept/faith,concept/honour,concept/nature,form/apologetics,form/novel,histref/bible,histref/puritanism,character/macbeth"></span>
 
 
 Nor do I necessarily admit the technical clumsiness which some
@@ -5245,7 +5245,7 @@ Comunque sia, non trovò appiglio su quelle ripide strade della sua bella e scos
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Robert Louis Stevenson — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Robert Louis Stevenson — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/childhood,motif/home,motif/time,concept/mortality,concept/wonder,form/comedy,setting/paris"></span>
 
 
 I think it was partly the pains of youth that afterwards made
@@ -5393,7 +5393,7 @@ di lui fosse ancora viva.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Robert Louis Stevenson — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Robert Louis Stevenson — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/shadow,motif/decay,motif/night,motif/time,concept/body,concept/history,concept/self,concept/truth,concept/vanity,form/essay,form/historical_novel,form/history,form/parable,form/satire,setting/court,character/christ,character/richard"></span>
 
 
 CHAPTER IV
@@ -5625,7 +5625,7 @@ che rifiutò di [[Decay|decadere]].
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Louis Stevenson — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Louis Stevenson — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/shadow,motif/blood,motif/childhood,motif/garden,motif/nature,motif/time,motif/well,motif/window,concept/apocalypse,concept/despair,concept/history,concept/madness,concept/nature,concept/paradox,form/essay,form/history,character/pistol,character/valentine"></span>
 
 
 Now what really remains interesting in this story of Stevenson,
@@ -5837,7 +5837,7 @@ un'inezia e certo non può essere un trucco.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Robert Louis Stevenson — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Robert Louis Stevenson — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/bells,motif/blood,motif/death,motif/flag,motif/time,concept/courage,concept/suicide,concept/union,concept/wonder,character/florizel"></span>
 
 
 This is the point that has been missed in all the talk about posing.
@@ -6041,7 +6041,7 @@ del brigante di strada.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Robert Louis Stevenson — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Robert Louis Stevenson — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/city,motif/flowers,motif/garden,motif/ghosts,motif/memory,motif/mutability,motif/time,motif/well,concept/faith,concept/mercy,concept/mortality,concept/paradox,histref/bible"></span>
 
 
 In other words, he appealed to his own [[Childhood|childhood]].  A tale is told of it:
@@ -6289,7 +6289,7 @@ Era per il momento il suo messaggio più articolato all'umanità.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Robert Louis Stevenson — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Robert Louis Stevenson — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/hill,motif/memory,motif/road,motif/well,motif/wind,concept/courage,concept/history,concept/paradox,concept/resurrection,form/essay,form/historical_novel,form/history,form/tragedy,setting/london,character/nurse,character/pistol"></span>
 
 
 CHAPTER V
@@ -6561,7 +6561,7 @@ trovò sul ciglio della strada.»
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Robert Louis Stevenson — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Robert Louis Stevenson — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/well,motif/winter,concept/freedom,concept/history,concept/pride,concept/suffering,concept/truth,form/fragment,form/history,form/sketch,form/tragedy,histref/puritanism"></span>
 
 
 But this curious and sometimes inconsistent mingling of the grey
@@ -6773,7 +6773,7 @@ benché siano meno facili da descrivere e assai meno facili da comandare.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Robert Louis Stevenson — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Robert Louis Stevenson — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/tyrant,motif/city,motif/home,motif/nature,motif/soul,motif/time,motif/well,concept/courage,concept/despair,concept/fear,concept/greatness,concept/nature,concept/pride,character/nurse,character/ulysses"></span>
 
 
 From [[Time|time]] to [[Time|time]] I have insensibly and inevitably fallen
@@ -6913,7 +6913,7 @@ Poiché non lo biasimo per aver avuto un tale male, nel senso di averne avuto un
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Robert Louis Stevenson — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Robert Louis Stevenson — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/lamb,motif/time,motif/well,concept/education,form/tragedy"></span>
 
 
 CHAPTER VI
@@ -7063,7 +7063,7 @@ La letteratura non è che linguaggio; è solo un raro e stupefacente miracolo qu
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Robert Louis Stevenson — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Robert Louis Stevenson — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/shadow,motif/well,motif/wind,concept/pride,concept/suffering,concept/temptation,form/novel,form/sketch,setting/paris"></span>
 
 
 I will take the case of one of his books; I deliberately refrain
@@ -7177,7 +7177,7 @@ Questo era il genio di Stevenson; ed è semplicemente sciocco lamentarsene perch
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Robert Louis Stevenson — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Robert Louis Stevenson — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/quest,archetype/artist,motif/nature,motif/storm,concept/courage,concept/despair,concept/honour,concept/hope,concept/nature,form/sketch,character/robin_hood"></span>
 
 
 Of course there are many other vivid marks of Stevenson's style,
@@ -7305,7 +7305,7 @@ che i violenti prendono d'[[Storm|assalto]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Robert Louis Stevenson — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Robert Louis Stevenson — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/hero,archetype/villain,motif/blood,motif/death,motif/garden,motif/ghosts,motif/grave,motif/home,motif/love,motif/memory,motif/moon,motif/time,motif/well,motif/winter,concept/body,concept/grotesque,concept/imagination,concept/temptation,concept/truth,form/tragedy,histref/america,setting/america,setting/court,character/michael"></span>
 
 
 CHAPTER VII
@@ -7457,7 +7457,7 @@ Vi sono in verità, come ho accennato, uno o due punti in cui si può sostenere 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Robert Louis Stevenson — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Robert Louis Stevenson — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/hero,motif/death,motif/dreams,motif/dust,motif/night,motif/time,motif/water,concept/paradox,concept/suicide,form/comedy,form/parody,form/tragedy,setting/london,character/florizel"></span>
 
 
 But this mixture of two types of tale in one is the very reverse
@@ -7572,7 +7572,7 @@ Ma vale la pena osservare che persino qui, dove ci si aspetterebbe che l'atmosfe
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Robert Louis Stevenson — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Robert Louis Stevenson — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/fire,motif/love,motif/time,motif/well,concept/history,concept/imagination,concept/truth,concept/vanity,form/fragment,form/historical_novel,form/history,form/novel,character/robin_hood"></span>
 
 
 Again, it illustrates this variety of experiment that Stevenson
@@ -7685,7 +7685,7 @@ Quando Stevenson tese il lungo arco per l'ultima [[Time|volta]], come [[Robin Ho
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Robert Louis Stevenson — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Robert Louis Stevenson — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/artist,motif/death,motif/grave,motif/hill,motif/love,motif/prison,motif/spring,motif/well,concept/ambition,concept/hope,setting/castle"></span>
 
 
 But perhaps in this very insularity there is something like
@@ -7777,7 +7777,7 @@ Comunque, fu in mezzo a questi nuovi esperimenti che egli perì; adempiendo ai t
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Robert Louis Stevenson — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Robert Louis Stevenson — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/home,motif/lightning,motif/love,motif/well,concept/madness,concept/temptation,form/novel,form/tragedy"></span>
 
 
 CHAPTER VIII
@@ -7942,7 +7942,7 @@ Un'illustrazione della differenza, naturalmente, si potrebbe trovare nella prese
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Robert Louis Stevenson — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Robert Louis Stevenson — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/death,motif/hill,motif/night,motif/road,motif/well,motif/window,concept/doubt,concept/history,concept/honour,concept/paradox,concept/self,form/essay,form/history,character/christ"></span>
 
 
 The loftiest things of this world have their weakness or defect;
@@ -8064,7 +8064,7 @@ Stevenson era un uomo che credeva nell'artigianato; ossia nella creazione. Non a
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Robert Louis Stevenson — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Robert Louis Stevenson — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/artist,motif/nature,motif/night,motif/snow,motif/soul,motif/time,concept/faith,concept/fear,concept/grotesque,concept/history,concept/nature,concept/self,concept/truth,form/history,setting/paris"></span>
 
 
 I have paused upon this parenthesis; because it foreshadows the general
@@ -8142,7 +8142,7 @@ Il punto qui è che perfino il suo difetto principale come [[artist|artista]] er
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Robert Louis Stevenson — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Robert Louis Stevenson — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/prophet,archetype/shadow,motif/clock,motif/crown,motif/grave,motif/home,motif/road,motif/silence,motif/time,motif/well,concept/history,concept/self,concept/suicide,concept/survival,concept/truth,form/epic,form/history,form/novel,character/hamlet"></span>
 
 
 CHAPTER IX
@@ -8316,7 +8316,7 @@ In verità, sotto questo aspetto, i critici psicologici sono piuttosto arretrati
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Robert Louis Stevenson — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Robert Louis Stevenson — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/river,motif/rose,motif/soul,motif/spring,motif/time,concept/individualism,concept/self,form/novel"></span>
 
 
 Among the many unreasonable objections to the Stevensonian [[Romance|romance]],
@@ -8486,7 +8486,7 @@ E con questa faccenda della responsabilità, e con il fare affidamento sulla vol
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Robert Louis Stevenson — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Robert Louis Stevenson — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/detective,motif/childhood,motif/jewel,motif/memory,motif/time,motif/well,concept/history,concept/self,concept/truth,form/comedy,form/historical_novel,form/history,form/novel,character/miss_bates"></span>
 
 
 CHAPTER X
@@ -8605,7 +8605,7 @@ Oppure, di nuovo, si può dire che io esageri la novità di un'opera come quella
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Robert Louis Stevenson — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Robert Louis Stevenson — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/golden_age,archetype/child,archetype/lover,archetype/shadow,motif/chains,motif/childhood,motif/city,motif/dance,motif/dawn,motif/desert,motif/home,motif/lightning,motif/love,motif/marriage,motif/memory,motif/noon,motif/pain,motif/prison,motif/time,motif/well,concept/history,concept/romantic_love,concept/wonder,form/history,histref/america,histref/puritanism,setting/america,setting/desert"></span>
 
 
 What then exactly did he mean?  What, so to speak, did _it_ mean; even if
@@ -8748,7 +8748,7 @@ Stevenson avrebbe potuto porre la sua domanda cento anni prima, al [[Time|tempo]
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Robert Louis Stevenson — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Robert Louis Stevenson — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/childhood,motif/clock,motif/cross,motif/desire,motif/home,motif/love,motif/memory,motif/nightingale,motif/spring,motif/time,motif/well,concept/exile,concept/history,concept/immortality,concept/martyrdom,concept/resurrection,concept/truth,form/history,histref/milton,character/chorus,character/christ,character/milton"></span>
 
 
 I once heard in a railway-train a farmer's family of the Puritan
@@ -8857,7 +8857,7 @@ Ora, gli uomini della generazione di Stevenson, e specialmente gli uomini che er
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Robert Louis Stevenson — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Robert Louis Stevenson — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/autumn,motif/childhood,motif/dance,motif/leaves,motif/love,motif/nature,motif/night,motif/spring,motif/time,motif/well,motif/wind,concept/hope,concept/melancholy,concept/nature,concept/truth,histref/christianity,histref/puritanism"></span>
 
 
 Moreover, as I have already noted, this principle of the beatific
@@ -8968,7 +8968,7 @@ Ecco perché questo episodio merita di essere notato e ricordato non fosse che c
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Robert Louis Stevenson — Chapter 10 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Robert Louis Stevenson — Chapter 10 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/shadow,motif/childhood,motif/city,motif/dawn,motif/dust,motif/garden,motif/love,motif/memory,motif/nature,motif/river,motif/rose,motif/time,motif/well,concept/ambition,concept/beauty,concept/courage,concept/history,concept/nature,concept/self,concept/truth,form/history,form/inscription,form/novel,form/parable,form/parody,histref/christianity,character/edmund"></span>
 
 
 It may be that the world will forget Stevenson, a century or so

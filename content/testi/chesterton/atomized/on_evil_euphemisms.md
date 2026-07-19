@@ -160,7 +160,7 @@ and I for one prefer the coarse language of our fathers.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="on_evil_euphemisms (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="on_evil_euphemisms (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/love,motif/marriage,motif/time,concept/freedom,concept/self,concept/truth,setting/london,character/fagin"></span>
 
 
 # on evil euphemisms
@@ -358,7 +358,7 @@ a che fare col [[Marriage|matrimonio]] o con la compagnia.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="on_evil_euphemisms (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="on_evil_euphemisms (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,archetype/rebel,motif/marriage,motif/pain,motif/road,motif/water,motif/window,concept/courage,concept/freedom,concept/truth"></span>
 
 
 Anyhow, I respectfully refuse to be impressed by the claim to candour

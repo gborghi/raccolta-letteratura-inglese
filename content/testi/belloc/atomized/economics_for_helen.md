@@ -5301,7 +5301,7 @@ imaginaries.
 
 
 
-<span class="atom-split" data-atom="story_01_what_is_wealth" data-title="Economics for Helen — WHAT IS WEALTH?" data-chapter="WHAT IS WEALTH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_what_is_wealth" data-title="Economics for Helen — WHAT IS WEALTH?" data-chapter="WHAT IS WEALTH" data-kind="story" data-tags="motif/desire,motif/horse,motif/water,motif/well,concept/economics,concept/mortality,concept/nonsense"></span>
 
 
 WHAT IS WEALTH?
@@ -5436,7 +5436,7 @@ exchange.=
 
 
 
-<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_01" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 1)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_01" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 1)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/water,motif/wind,concept/economics,concept/nature"></span>
 
 
 THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH
@@ -5576,7 +5576,7 @@ stock of wheat both for sowing and for eating.
 
 
 
-<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_02" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 2)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_02" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 2)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt" data-tags="motif/time,motif/window,concept/self,concept/truth"></span>
 
 
 But that is not all. He must be sheltered from the weather; he must be
@@ -5691,7 +5691,7 @@ in a Steamship Company.
 
 
 
-<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_03" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 3)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_three_things_necessary_to_the_produc--part_03" data-title="Economics for Helen — THE THREE THINGS NECESSARY TO THE PRODUCTION OF WEALTH (part 3)" data-chapter="THE THREE THINGS NECESSARY TO THE PRODUC" data-kind="excerpt" data-tags="motif/ship,motif/time,setting/ship"></span>
 
 
 This means that he has a share in a number of hulls, engines, stocks of
@@ -5747,7 +5747,7 @@ result of saving.=
 
 
 
-<span class="atom-split" data-atom="story_03_the_process_of_production" data-title="Economics for Helen — THE PROCESS OF PRODUCTION" data-chapter="THE PROCESS OF PRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_process_of_production" data-title="Economics for Helen — THE PROCESS OF PRODUCTION" data-chapter="THE PROCESS OF PRODUCTION" data-kind="story" data-tags="motif/journey,motif/nature,motif/summer,motif/winter,concept/nature,concept/truth,setting/island,character/bottom"></span>
 
 
 THE PROCESS OF PRODUCTION
@@ -5890,7 +5890,7 @@ where it is more to a condition where it is less useful to himself.=
 
 
 
-<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_01" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 1)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_01" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 1)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/economics,concept/family,concept/history,concept/nature,form/history,setting/england"></span>
 
 
 THE THREE PARTS OF PRODUCED WEALTH
@@ -6010,7 +6010,7 @@ not do that he would die.
 
 
 
-<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_02" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 2)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_02" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 2)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt" data-tags="topos/double,motif/garden,motif/time,motif/well,concept/economics,concept/family,concept/self,setting/england"></span>
 
 
 This “Standard of Subsistence,” which is to be found in its various
@@ -6131,7 +6131,7 @@ be saved.”
 
 
 
-<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_03" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 3)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_03" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 3)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt" data-tags="topos/double,motif/time,concept/truth"></span>
 
 
 He carefully saves on every harvest, exchanging the wheat for the
@@ -6244,7 +6244,7 @@ the too-sandy bit of land would go uncultivated.
 
 
 
-<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_04" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 4)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_three_parts_of_produced_wealth--part_04" data-title="Economics for Helen — THE THREE PARTS OF PRODUCED WEALTH (part 4)" data-chapter="THE THREE PARTS OF PRODUCED WEALTH" data-kind="excerpt" data-tags="motif/nature,concept/economics,concept/nature,character/miles"></span>
 
 
 When the conditions are such that the capital and labour applied to
@@ -6373,7 +6373,7 @@ confine ourselves to the Elements of economic law [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="story_05_exchange" data-title="Economics for Helen — EXCHANGE" data-chapter="EXCHANGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_exchange" data-title="Economics for Helen — EXCHANGE" data-chapter="EXCHANGE" data-kind="story" data-tags="topos/double,motif/home,motif/time,motif/water,motif/well,concept/economics,concept/freedom,concept/liberty,concept/self,concept/truth,setting/egypt,setting/england,setting/germany,setting/island,character/jones"></span>
 
 
 EXCHANGE
@@ -6595,7 +6595,7 @@ It is so important that I must give it a separate division to itself.
 
 
 
-<span class="atom-split" data-atom="story_06_free_trade_and_protection" data-title="Economics for Helen — FREE TRADE AND PROTECTION" data-chapter="FREE TRADE AND PROTECTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_free_trade_and_protection" data-title="Economics for Helen — FREE TRADE AND PROTECTION" data-chapter="FREE TRADE AND PROTECTION" data-kind="story" data-tags="motif/home,concept/freedom,setting/england,setting/europe,setting/france,setting/germany,setting/italy,setting/spain"></span>
 
 
 FREE TRADE AND PROTECTION
@@ -6703,7 +6703,7 @@ argument for Protection exists.
 
 
 
-<span class="atom-split" data-atom="story_07_money--part_01" data-title="Economics for Helen — MONEY (part 1)" data-chapter="MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_money--part_01" data-title="Economics for Helen — MONEY (part 1)" data-chapter="MONEY" data-kind="excerpt" data-tags="topos/double,motif/time,motif/well,setting/stable"></span>
 
 
 MONEY
@@ -6827,7 +6827,7 @@ name: “That which is current” from the Latin for “running.” That which
 
 
 
-<span class="atom-split" data-atom="story_07_money--part_02" data-title="Economics for Helen — MONEY (part 2)" data-chapter="MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_money--part_02" data-title="Economics for Helen — MONEY (part 2)" data-chapter="MONEY" data-kind="excerpt" data-tags="motif/lamb,motif/night,motif/time,concept/economics,setting/edinburgh,setting/stable"></span>
 
 
 When gold and silver become the money of mankind it is important to
@@ -6950,7 +6950,7 @@ money might warrant.
 
 
 
-<span class="atom-split" data-atom="story_07_money--part_03" data-title="Economics for Helen — MONEY (part 3)" data-chapter="MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_money--part_03" data-title="Economics for Helen — MONEY (part 3)" data-chapter="MONEY" data-kind="excerpt" data-tags="motif/horse,motif/nature,motif/time,motif/well,concept/nature,concept/suffering,concept/temptation,setting/australia,setting/england,setting/south_africa,setting/stable"></span>
 
 
 We see, therefore, that the factor in the making of prices called
@@ -7078,7 +7078,7 @@ debasing the currency more and more.
 
 
 
-<span class="atom-split" data-atom="story_07_money--part_04" data-title="Economics for Helen — MONEY (part 4)" data-chapter="MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_money--part_04" data-title="Economics for Helen — MONEY (part 4)" data-chapter="MONEY" data-kind="excerpt" data-tags="motif/time,concept/capitalism,concept/economics,concept/slavery,concept/socialism,setting/europe,setting/germany"></span>
 
 
 This kind of money, forced upon people, pretending to be the same as
@@ -7147,7 +7147,7 @@ knowledge.
 
 
 
-<span class="atom-split" data-atom="story_08_introduction" data-title="Economics for Helen — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_introduction" data-title="Economics for Helen — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="motif/desire,motif/nature,motif/river,motif/road,motif/ship,concept/economics,concept/nature,concept/poverty,concept/reform,concept/truth,setting/london,setting/ship,character/speed"></span>
 
 
 INTRODUCTION
@@ -7289,7 +7289,7 @@ division of our political applications.
 
 
 
-<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_01" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 1)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_01" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 1)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt" data-tags="motif/animals,motif/time,motif/water,motif/well,concept/authority,concept/economics"></span>
 
 
 PROPERTY: THE CONTROL OF WEALTH
@@ -7407,7 +7407,7 @@ the fact that they do not own the “Means of Production.”
 
 
 
-<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_02" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 2)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_02" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 2)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt" data-tags="motif/nature,concept/freedom,concept/history,concept/liberty,concept/nature,form/history,setting/england"></span>
 
 
 Labour must be kept going. That is, human energy, for producing wealth
@@ -7528,7 +7528,7 @@ to get housing against the weather or clothes to wear.
 
 
 
-<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_03" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 3)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_property_the_control_of_wealth--part_03" data-title="Economics for Helen — PROPERTY: THE CONTROL OF WEALTH (part 3)" data-chapter="PROPERTY THE CONTROL OF WEALTH" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/capitalism,concept/economics,concept/nature,setting/denmark,setting/england,setting/europe,character/dwarf"></span>
 
 
 We are living to-day, in [[England]] especially, in such a Capitalist
@@ -7628,7 +7628,7 @@ the good and evil of them and what the consequences of them are.
 
 
 
-<span class="atom-split" data-atom="story_10_the_servile_state" data-title="Economics for Helen — THE SERVILE STATE" data-chapter="THE SERVILE STATE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_servile_state" data-title="Economics for Helen — THE SERVILE STATE" data-chapter="THE SERVILE STATE" data-kind="story" data-tags="motif/grave,motif/love,motif/time,motif/well,concept/body,concept/capitalism,concept/history,concept/honour,concept/slavery,form/history,histref/america,setting/america,setting/england,setting/italy"></span>
 
 
 THE SERVILE STATE
@@ -7752,7 +7752,7 @@ literature ever made.
 
 
 
-<span class="atom-split" data-atom="story_11_the_capitalist_state--part_01" data-title="Economics for Helen — THE CAPITALIST STATE (part 1)" data-chapter="THE CAPITALIST STATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_capitalist_state--part_01" data-title="Economics for Helen — THE CAPITALIST STATE (part 1)" data-chapter="THE CAPITALIST STATE" data-kind="excerpt" data-tags="motif/grave,motif/leaves,motif/machine,motif/time,concept/capitalism,concept/fear,concept/history,concept/poverty,concept/suffering,concept/tradition,form/history,setting/england"></span>
 
 
 THE CAPITALIST STATE
@@ -7868,7 +7868,7 @@ position of chance advantage?
 
 
 
-<span class="atom-split" data-atom="story_11_the_capitalist_state--part_02" data-title="Economics for Helen — THE CAPITALIST STATE (part 2)" data-chapter="THE CAPITALIST STATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_capitalist_state--part_02" data-title="Economics for Helen — THE CAPITALIST STATE (part 2)" data-chapter="THE CAPITALIST STATE" data-kind="excerpt" data-tags="motif/home,motif/machine,motif/time,concept/capitalism,concept/communism,concept/doubt,concept/family,concept/socialism,concept/suffering,histref/communism,setting/england,setting/stable"></span>
 
 
 It is inevitable that a moral evil of this sort should make the whole
@@ -7973,7 +7973,7 @@ third form of state--the Distributive State.
 
 
 
-<span class="atom-split" data-atom="story_12_the_distributive_state" data-title="Economics for Helen — THE DISTRIBUTIVE STATE" data-chapter="THE DISTRIBUTIVE STATE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_distributive_state" data-title="Economics for Helen — THE DISTRIBUTIVE STATE" data-chapter="THE DISTRIBUTIVE STATE" data-kind="story" data-tags="motif/desire,motif/memory,motif/nature,motif/rose,motif/well,concept/family,concept/freedom,concept/nature,concept/paradox,concept/temptation,setting/denmark,setting/england,setting/europe,setting/france,setting/stable"></span>
 
 
 THE DISTRIBUTIVE STATE
@@ -8147,7 +8147,7 @@ distributed.
 
 
 
-<span class="atom-split" data-atom="story_13_socialism" data-title="Economics for Helen — SOCIALISM" data-chapter="SOCIALISM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_socialism" data-title="Economics for Helen — SOCIALISM" data-chapter="SOCIALISM" data-kind="story" data-tags="motif/desire,motif/love,motif/pain,motif/time,motif/well,concept/capitalism,concept/communism,concept/family,concept/freedom,concept/honour,concept/liberty,concept/nonsense,concept/poverty,concept/reform,concept/self,concept/socialism,concept/suffering,histref/communism,setting/england,setting/paris,setting/russia"></span>
 
 
 [[Socialism|SOCIALISM]]
@@ -8356,7 +8356,7 @@ surrender of personal [[Honour|honour]] and [[Freedom|freedom]] and appetite as 
 
 
 
-<span class="atom-split" data-atom="story_14_international_exchange--part_01" data-title="Economics for Helen — INTERNATIONAL EXCHANGE (part 1)" data-chapter="INTERNATIONAL EXCHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_international_exchange--part_01" data-title="Economics for Helen — INTERNATIONAL EXCHANGE (part 1)" data-chapter="INTERNATIONAL EXCHANGE" data-kind="excerpt" data-tags="motif/nature,concept/nature,setting/egypt,setting/england,setting/london"></span>
 
 
 INTERNATIONAL EXCHANGE
@@ -8473,7 +8473,7 @@ out anything.
 
 
 
-<span class="atom-split" data-atom="story_14_international_exchange--part_02" data-title="Economics for Helen — INTERNATIONAL EXCHANGE (part 2)" data-chapter="INTERNATIONAL EXCHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_international_exchange--part_02" data-title="Economics for Helen — INTERNATIONAL EXCHANGE (part 2)" data-chapter="INTERNATIONAL EXCHANGE" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/time,motif/well,concept/greatness,concept/nature,concept/self,setting/england,setting/europe,setting/france,setting/island,setting/italy"></span>
 
 
 Another form of tribute--though a small one--is that paid in pensions.
@@ -8575,7 +8575,7 @@ of foreigners by the volume of their trade, and that is a great error.
 
 
 
-<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_01" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 1)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_01" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 1)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt" data-tags="motif/decay,motif/home,motif/rose,motif/time,motif/well,concept/freedom,setting/england,setting/france"></span>
 
 
 FREE TRADE AND PROTECTION AS POLITICAL ISSUES
@@ -8703,7 +8703,7 @@ be increased.
 
 
 
-<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_02" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 2)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_02" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 2)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt" data-tags="motif/decay,motif/home,motif/time,motif/well,concept/economics,concept/nonsense,concept/truth,setting/england,setting/germany,character/queen_victoria"></span>
 
 
 In the particular case of the English dispute about Free Trade and
@@ -8827,7 +8827,7 @@ of this I will end the present chapter.
 
 
 
-<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_03" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 3)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_free_trade_and_protection_as_political_i--part_03" data-title="Economics for Helen — FREE TRADE AND PROTECTION AS POLITICAL ISSUES (part 3)" data-chapter="FREE TRADE AND PROTECTION AS POLITICAL I" data-kind="excerpt" data-tags="motif/well,concept/family,concept/freedom,setting/england,setting/island"></span>
 
 
 We have seen that the following formula is true:--_Freedom of exchange
@@ -8978,7 +8978,7 @@ of Pigs would be run at a loss.
 
 
 
-<span class="atom-split" data-atom="story_16_banking--part_01" data-title="Economics for Helen — BANKING (part 1)" data-chapter="BANKING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_banking--part_01" data-title="Economics for Helen — BANKING (part 1)" data-chapter="BANKING" data-kind="excerpt" data-tags="motif/ship,motif/time,concept/doubt,setting/england,setting/ship"></span>
 
 
 BANKING
@@ -9097,7 +9097,7 @@ profit. So we are both benefited.”
 
 
 
-<span class="atom-split" data-atom="story_16_banking--part_02" data-title="Economics for Helen — BANKING (part 2)" data-chapter="BANKING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_banking--part_02" data-title="Economics for Helen — BANKING (part 2)" data-chapter="BANKING" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/home,motif/time,concept/authority,concept/family,concept/history,form/history,setting/england,character/jones"></span>
 
 
 That is what the banker began by doing at the very origins of this
@@ -9216,7 +9216,7 @@ be handed over.
 
 
 
-<span class="atom-split" data-atom="story_16_banking--part_03" data-title="Economics for Helen — BANKING (part 3)" data-chapter="BANKING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_banking--part_03" data-title="Economics for Helen — BANKING (part 3)" data-chapter="BANKING" data-kind="excerpt" data-tags="motif/time,motif/well,character/jones,character/mr_robinson"></span>
 
 
 The convenience of cheques used in this way for business was obvious.
@@ -9328,7 +9328,7 @@ and available for use in investment.
 
 
 
-<span class="atom-split" data-atom="story_16_banking--part_04" data-title="Economics for Helen — BANKING (part 4)" data-chapter="BANKING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_banking--part_04" data-title="Economics for Helen — BANKING (part 4)" data-chapter="BANKING" data-kind="excerpt" data-tags="motif/memory,motif/time,motif/well,concept/honour,histref/america,setting/america,setting/england,setting/europe"></span>
 
 
 That state of affairs lasted to within the [[Memory|memory]] of men now living,
@@ -9436,7 +9436,7 @@ moment would be required in real money.
 
 
 
-<span class="atom-split" data-atom="story_16_banking--part_05" data-title="Economics for Helen — BANKING (part 5)" data-chapter="BANKING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_banking--part_05" data-title="Economics for Helen — BANKING (part 5)" data-chapter="BANKING" data-kind="excerpt" data-tags="archetype/king,motif/time,concept/authority,setting/england"></span>
 
 
 There was a check on this system of creating new artificial paper money
@@ -9518,7 +9518,7 @@ the banks, or financiers. In peasant countries against them.
 
 
 
-<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_01" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 1)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_01" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 1)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt" data-tags="archetype/king,motif/time,motif/well,histref/america,setting/america,setting/england,setting/germany,setting/russia"></span>
 
 
 NATIONAL LOANS AND TAXATION
@@ -9635,7 +9635,7 @@ pays millions a year to [[America]].
 
 
 
-<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_02" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 2)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_02" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 2)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt" data-tags="motif/time,concept/doubt,setting/england,setting/france"></span>
 
 
 Now from State loans let us turn to State taxation, which has
@@ -9762,7 +9762,7 @@ calculable revenue.
 
 
 
-<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_03" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 3)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_national_loans_and_taxation--part_03" data-title="Economics for Helen — NATIONAL LOANS AND TAXATION (part 3)" data-chapter="NATIONAL LOANS AND TAXATION" data-kind="excerpt" data-tags="concept/socialism"></span>
 
 
 Before we leave this discussion it is worth while mentioning an odd
@@ -9819,7 +9819,7 @@ old country it is quite out of the question.
 
 
 
-<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_01" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 1)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_01" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 1)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt" data-tags="archetype/king,motif/the_book,motif/time,motif/well,concept/economics,concept/history,form/history,setting/england,setting/europe"></span>
 
 
 THE SOCIAL (OR HISTORICAL) VALUE OF MONEY
@@ -9945,7 +9945,7 @@ a base, the Index Number for 1920 is 200.”
 
 
 
-<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_02" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 2)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_02" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 2)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/time,motif/well,concept/family,setting/london,character/henry_viii"></span>
 
 
 In the year 1921 he makes the calculation again, and finds that prices
@@ -10066,7 +10066,7 @@ able to save a penny of his £1,000 a year.
 
 
 
-<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_03" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 3)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_the_social_or_historical_value_of_money--part_03" data-title="Economics for Helen — THE SOCIAL (OR HISTORICAL) VALUE OF MONEY (part 3)" data-chapter="THE SOCIAL OR HISTORICAL VALUE OF MONEY" data-kind="excerpt" data-tags="archetype/king,motif/time,concept/economics,concept/family,concept/history,form/history,setting/australia,setting/england,setting/island,setting/london,character/henry_viii"></span>
 
 
 So we see that the social value of £1,000 a year in Andorra is very
@@ -10192,7 +10192,7 @@ things which otherwise puzzle one in the past.
 
 
 
-<span class="atom-split" data-atom="story_19_usury--part_01" data-title="Economics for Helen — USURY (part 1)" data-chapter="USURY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_usury--part_01" data-title="Economics for Helen — USURY (part 1)" data-chapter="USURY" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/ship,motif/well,concept/economics,concept/family,concept/history,form/history,setting/ship"></span>
 
 
 USURY
@@ -10315,7 +10315,7 @@ been used unproductively, interest is none the less demanded_.
 
 
 
-<span class="atom-split" data-atom="story_19_usury--part_02" data-title="Economics for Helen — USURY (part 2)" data-chapter="USURY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_usury--part_02" data-title="Economics for Helen — USURY (part 2)" data-chapter="USURY" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/nature,setting/europe"></span>
 
 
 As in every other case of right and wrong whatsoever, there is, of
@@ -10429,7 +10429,7 @@ unproductively, and often does and intends to do so.
 
 
 
-<span class="atom-split" data-atom="story_19_usury--part_03" data-title="Economics for Helen — USURY (part 3)" data-chapter="USURY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_usury--part_03" data-title="Economics for Helen — USURY (part 3)" data-chapter="USURY" data-kind="excerpt" data-tags="motif/spring,motif/time,motif/water,motif/well,concept/doubt,setting/germany"></span>
 
 
 Thus, with a very large volume of impersonal business, the presence of
@@ -10532,7 +10532,7 @@ get back to that.
 
 
 
-<span class="atom-split" data-atom="story_20_economic_imaginaries--part_01" data-title="Economics for Helen — ECONOMIC IMAGINARIES (part 1)" data-chapter="ECONOMIC IMAGINARIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_economic_imaginaries--part_01" data-title="Economics for Helen — ECONOMIC IMAGINARIES (part 1)" data-chapter="ECONOMIC IMAGINARIES" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/well,concept/economics,concept/nature,setting/england,setting/france,setting/london,setting/paris,character/the_secretary"></span>
 
 
 ECONOMIC IMAGINARIES
@@ -10659,7 +10659,7 @@ the country.
 
 
 
-<span class="atom-split" data-atom="story_20_economic_imaginaries--part_02" data-title="Economics for Helen — ECONOMIC IMAGINARIES (part 2)" data-chapter="ECONOMIC IMAGINARIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_economic_imaginaries--part_02" data-title="Economics for Helen — ECONOMIC IMAGINARIES (part 2)" data-chapter="ECONOMIC IMAGINARIES" data-kind="excerpt" data-tags="motif/time,motif/well,concept/body,concept/economics,concept/hope,concept/loneliness,character/jones"></span>
 
 
 Here is another case (3): _economic imaginaries due to inequality of

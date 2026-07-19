@@ -5885,7 +5885,7 @@ of the English, except that they died for liberty.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="A Short History of England — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="A Short History of England — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/great_house,motif/time,motif/well,concept/history,concept/solitude,form/essay,form/history,form/sketch,histref/crusades,character/queen"></span>
 
 
 I
@@ -6005,7 +6005,7 @@ of the unknown knight.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="A Short History of England — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="A Short History of England — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/hero,motif/flowers,motif/home,motif/leaves,motif/love,motif/machine,motif/mirror,motif/nature,motif/night,motif/soul,motif/time,concept/history,concept/nature,concept/pride,concept/truth,concept/union,form/fragment,form/history,setting/mountains,character/cleopatra,character/helena,character/julius_caesar"></span>
 
 
 II
@@ -6228,7 +6228,7 @@ o ad abbatterla.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="A Short History of England — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="A Short History of England — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/city,motif/memory,motif/nature,concept/body,concept/conscience,concept/history,concept/imagination,concept/nature,concept/paradox,concept/pride,concept/slavery,concept/truth,form/history,histref/christianity,histref/dante,setting/russia,character/christ,character/monks"></span>
 
 
 About that revolution no man has ever been able to be impartial.
@@ -6331,7 +6331,7 @@ happened to the whole European race.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="A Short History of England — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="A Short History of England — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/supernatural,motif/time,concept/history,concept/slavery,form/history,histref/catholic_church,setting/denmark,setting/london"></span>
 
 
 Rome itself, which had made all that strong world, was the weakest
@@ -6419,7 +6419,7 @@ though prematurely, the end of it.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="A Short History of England — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="A Short History of England — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/bells,motif/time,concept/history,form/fable,form/history,form/novel,character/arthur,character/brutus"></span>
 
 
 III
@@ -6538,7 +6538,7 @@ he had to do.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="A Short History of England — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="A Short History of England — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/pilgrim,motif/blood,motif/memory,motif/soul,motif/supernatural,motif/time,motif/well,concept/body,concept/faith,concept/freedom,concept/history,concept/honour,concept/paradox,concept/truth,form/fable,form/history,form/tragedy,histref/christianity,character/arthur,character/helena,character/king_arthur"></span>
 
 
 But the [[Paradox|paradox]] remains that [[arthur|Arthur]] is more real than Alfred.
@@ -6694,7 +6694,7 @@ that the natives of Colchester were oysters.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Short History of England — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Short History of England — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/love,motif/marriage,motif/well,concept/history,form/history,character/kent"></span>
 
 
 IV
@@ -6833,7 +6833,7 @@ the most real of them all.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Short History of England — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Short History of England — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/last_stand,archetype/king,motif/cross,motif/nature,motif/time,concept/democracy,concept/despair,concept/faith,concept/history,concept/nature,concept/paradox,concept/self,concept/solitude,form/history,histref/christianity,character/monks"></span>
 
 
 The last of the heathen kingdoms to accept the [[Cross|cross]] was Mercia,
@@ -6938,7 +6938,7 @@ their work was in vain.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Short History of England — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Short History of England — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/crown,motif/spring,motif/time,concept/ambition,concept/despair,concept/faith,concept/history,concept/truth,form/history,setting/denmark,character/christ,character/edmund"></span>
 
 
 The outer world of universal anarchy that lay beyond Christendom
@@ -7024,7 +7024,7 @@ of the sea.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="A Short History of England — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="A Short History of England — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,archetype/monster,motif/blood,motif/dust,motif/stone_and_marble,motif/well,motif/wind,concept/charity,concept/history,concept/imagination,concept/paradox,form/fable,form/history,setting/cathedral,setting/oxford,setting/russia,character/henry_vi,character/monks"></span>
 
 
 V
@@ -7129,7 +7129,7 @@ capacities, but not notably, perhaps, in the capacity of ancestors.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="A Short History of England — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="A Short History of England — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/crown,motif/death,motif/hill,motif/snow,motif/time,motif/well,concept/education,concept/faith,concept/history,concept/honour,concept/truth,form/history,setting/london,character/hastings,character/julius_caesar,character/king_of_france"></span>
 
 
 Along the northern coast of France, where the Confessor had passed
@@ -7273,7 +7273,7 @@ That system we call Feudalism.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="A Short History of England — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="A Short History of England — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/death,motif/nature,motif/well,concept/freedom,concept/history,concept/nature,concept/paradox,concept/providence,form/history,setting/battlefield"></span>
 
 
 That Feudalism was the main mark of the Middle Ages is a
@@ -7397,7 +7397,7 @@ very energy our barons became our kings.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Short History of England — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Short History of England — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/hero,archetype/monster,archetype/shadow,motif/desert,motif/fire,motif/lion,motif/nature,motif/soul,motif/well,concept/body,concept/conversion,concept/faith,concept/fanaticism,concept/history,concept/nature,concept/paradox,concept/truth,concept/wonder,form/epic,form/history,histref/christianity,histref/crusades,histref/islam,histref/new_england,setting/desert,setting/italy,character/richard"></span>
 
 
 VI
@@ -7527,7 +7527,7 @@ bleak northern island was filled with the fury of the Iconoclasts.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Short History of England — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Short History of England — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/fire,motif/home,motif/lion,motif/memory,concept/history,concept/sublime,concept/truth,form/fable,form/history,form/parable,histref/crusades,histref/islam,setting/italy,character/kent,character/king_john,character/richard"></span>
 
 
 It was an element in this [[Sublime|sublime]] and yet sinister simplicity
@@ -7651,7 +7651,7 @@ by their common sense.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Short History of England — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Short History of England — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/cross,motif/home,motif/nature,motif/time,motif/well,motif/window,concept/history,concept/nature,form/history,histref/crusades,histref/french_revolution,setting/paris,character/queen"></span>
 
 
 Chivalry might be called the baptism of Feudalism.
@@ -7730,7 +7730,7 @@ mention the [[Nature|nature]], or even the name, of the [[French Revolution]].
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Short History of England — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Short History of England — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,archetype/hero,archetype/king,motif/blood,motif/horse,motif/road,motif/time,motif/well,motif/wind,concept/ambition,concept/fanaticism,concept/history,concept/poverty,concept/self,form/history,histref/ancient_rome,histref/bible,histref/reformation,setting/ancient_rome,setting/cathedral,setting/paris,character/robin_hood,character/thomas_becket"></span>
 
 
 VII
@@ -7870,7 +7870,7 @@ glory and bloody end.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Short History of England — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Short History of England — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,archetype/king,motif/death,motif/grave,motif/love,motif/moon,motif/nature,motif/well,motif/wheel,concept/charity,concept/history,concept/mercy,concept/nature,concept/pride,concept/truth,form/history,histref/catholic_church,setting/cathedral,character/monks"></span>
 
 
 Becket was a type of those historic times in which it is really
@@ -7985,7 +7985,7 @@ horror at a man being horribly sinful and for being horribly sorry.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="A Short History of England — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="A Short History of England — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/tyrant,motif/crown,motif/death,motif/memory,motif/silence,motif/time,motif/well,concept/democracy,concept/doubt,concept/exile,concept/history,concept/truth,form/history,form/riddle,character/cain,character/richard,character/thomas_becket"></span>
 
 
 But it may be suggested, I think, though with the [[Doubt|doubt]] proper
@@ -8179,7 +8179,7 @@ insicurezza come quello di [[Cain|Caino]], e di [[Exile|esilio]] sui re inglesi.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Short History of England — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Short History of England — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,archetype/innocent,archetype/king,motif/death,motif/home,motif/prison,motif/rose,motif/time,motif/window,concept/charity,concept/courage,concept/fanaticism,concept/history,concept/imagination,concept/self,concept/slavery,concept/truth,form/history,histref/christianity,setting/russia"></span>
 
 
 VIII
@@ -8330,7 +8330,7 @@ or how it was destroyed.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Short History of England — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Short History of England — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/prison,motif/time,motif/well,concept/doubt,concept/freedom,concept/history,concept/imagination,concept/truth,form/history,setting/castle,setting/rural_england,character/monks"></span>
 
 
 What we call the manors were originally the villae of the pagan lords,
@@ -8445,7 +8445,7 @@ in the evolution of a Master into a Mister.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="A Short History of England — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="A Short History of England — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/ship,motif/time,concept/common_man,concept/history,concept/self,concept/union,form/history,form/tragedy,setting/ship"></span>
 
 
 The very vital importance of the word "Master" is this.
@@ -8631,7 +8631,7 @@ prodotti nell'incredibile paese delle fate di un paese libero.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="A Short History of England — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="A Short History of England — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/golden_age,archetype/king,motif/city,motif/desire,motif/time,concept/democracy,concept/fear,concept/freedom,concept/history,concept/loneliness,concept/wonder,form/history,form/sketch,setting/london,character/lord_mayor"></span>
 
 
 The next fact to note is that the local [[government]] grew out of things
@@ -8714,7 +8714,7 @@ consented to betray and to destroy the rest.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Short History of England — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Short History of England — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/dawn,concept/charity,concept/conversion,concept/doubt,concept/faith,concept/history,concept/paradox,form/history,histref/crusades,histref/islam,histref/reformation,setting/germany,setting/mountains,setting/paris,character/christ,character/king_john"></span>
 
 
 IX
@@ -8849,7 +8849,7 @@ at once as a knight errant and a tender father of his people.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Short History of England — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Short History of England — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/cross,motif/crown,motif/fire,motif/home,motif/storm,motif/time,motif/well,concept/history,concept/union,form/history,histref/reformation,character/edward_iii,character/henry_v"></span>
 
 
 Whatever the merits of this question, such a portrait of Edward
@@ -8955,7 +8955,7 @@ of arrows, and cried, "St. George for Merry England."
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Short History of England — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Short History of England — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,archetype/tyrant,motif/autumn,motif/cross,motif/death,motif/marriage,motif/ship,motif/time,motif/well,concept/ambition,concept/despair,concept/history,concept/hope,concept/immortality,concept/loneliness,concept/truth,form/history,histref/french_revolution,setting/ship"></span>
 
 
 Human things are uncomfortably complex, and while it was
@@ -9077,7 +9077,7 @@ asunder to bind it into a [[Cross|cross]] for Joan of Arc.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Short History of England — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Short History of England — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/death,motif/marriage,motif/memory,motif/nature,motif/rose,motif/time,motif/well,motif/wind,concept/ambition,concept/faith,concept/history,concept/nature,concept/poverty,concept/slavery,form/epigram,form/history,character/richard,character/richard_ii"></span>
 
 
 X
@@ -9219,7 +9219,7 @@ They announced their decision to the people, and the people
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Short History of England — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Short History of England — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/usurper,motif/blood,motif/city,motif/cross,motif/crown,motif/desire,motif/flag,motif/time,concept/ambition,concept/body,concept/freedom,concept/history,concept/imagination,concept/truth,form/history,histref/reformation,setting/court,setting/london,character/lord_mayor,character/richard"></span>
 
 
 The two dramatic stories which connect Wat Tyler, doubtfully with
@@ -9342,7 +9342,7 @@ of Joan of Arc.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="A Short History of England — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="A Short History of England — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/desire,motif/lion,motif/memory,motif/soul,motif/time,concept/beauty,concept/body,concept/charity,concept/history,concept/truth,form/history,form/riddle,character/gloucester,character/henry_v,character/richard,character/richard_ii,character/richard_iii"></span>
 
 
 But this perversion, this diseased energy, is the power in all the epoch
@@ -9440,7 +9440,7 @@ found the [[Crown|crown]] of England under a bush of thorn.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Short History of England — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Short History of England — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/dawn,motif/marriage,motif/soul,motif/time,concept/beauty,concept/eugenics,concept/heroism,concept/history,concept/immortality,concept/paradox,concept/truth,form/epigram,form/essay,form/history,form/translation,histref/bible,histref/reformation,character/henry_viii,character/sir_thomas_more"></span>
 
 
 XI
@@ -9560,7 +9560,7 @@ and an excuse.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Short History of England — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Short History of England — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/love,motif/marriage,motif/nature,motif/storm,motif/well,concept/education,concept/faith,concept/fear,concept/freedom,concept/history,concept/honour,concept/nature,concept/truth,form/history,histref/reformation,setting/mountains,setting/oxford,setting/paris,character/henry_viii,character/queen,character/richard_ii"></span>
 
 
 The old barony had indeed been thinned by the civil wars
@@ -9693,7 +9693,7 @@ he cuts off England from England.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="A Short History of England — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="A Short History of England — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/death,motif/love,motif/nature,motif/rose,motif/soul,motif/time,motif/well,concept/charity,concept/history,concept/nature,concept/reform,concept/truth,form/history,histref/christianity,histref/reformation,setting/germany,character/christ,character/monks,character/richard_ii"></span>
 
 
 The great [[divorce]] brought down Wolsey, the mighty minister who had
@@ -9810,7 +9810,7 @@ that we now know as the [[Reformation]].
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="A Short History of England — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="A Short History of England — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/detective,archetype/king,archetype/rebel,archetype/shadow,motif/blood,motif/crown,motif/desire,motif/rose,motif/time,motif/well,concept/doubt,concept/greed,concept/history,concept/self,concept/truth,form/history,form/tragedy,histref/inquisition,character/pompey"></span>
 
 
 The reign of terror established by Thomas Cromwell became
@@ -9910,7 +9910,7 @@ at the foot of the statue of [[Pompey]].
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Short History of England — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Short History of England — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/crown,motif/death,motif/dreams,motif/fire,motif/marriage,motif/memory,motif/ship,motif/time,concept/fanaticism,concept/history,concept/paradox,concept/poverty,concept/truth,form/history,histref/catholic_church,histref/puritanism,histref/reformation,setting/germany,setting/oxford,setting/ship,character/cranmer,character/henry_viii,character/queen,character/queen_katherine"></span>
 
 
 XII
@@ -10033,7 +10033,7 @@ had already felt falling across him the [[Shadow|shadow]] of a tall [[Ship|ship]
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Short History of England — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Short History of England — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/jewel,motif/lion,motif/love,motif/marriage,motif/nature,motif/rose,motif/silence,motif/storm,motif/time,motif/uncanny,concept/greatness,concept/history,concept/hope,concept/imagination,concept/martyrdom,concept/nature,concept/pride,concept/truth,concept/uncanny,form/comedy,form/history,form/tragedy,histref/new_england,character/queen,character/queen_elizabeth,character/richard_ii,character/virgin_mary"></span>
 
 
 Wooden clichés about the birth of the British Empire and the spacious
@@ -10170,7 +10170,7 @@ had almost forgotten.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Short History of England — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Short History of England — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/hero,motif/frost,motif/home,motif/sleep,motif/time,motif/well,concept/heroism,concept/history,form/history,histref/thirty_years_war,setting/germany"></span>
 
 
 Beyond the frontiers of the fading Empire lay that outer land, as loose
@@ -10273,7 +10273,7 @@ vecchia Marca di Brandeburgo. Il loro nome era Hohenzollern.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Short History of England — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Short History of England — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/love,motif/soul,motif/well,concept/beauty,concept/heroism,concept/history,concept/pride,concept/truth,form/fragment,form/history,histref/milton,histref/puritanism,character/christ,character/milton,character/tolstoy"></span>
 
 
 XIII
@@ -10402,7 +10402,7 @@ How glorious! ...and oh what an escape!"
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Short History of England — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Short History of England — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/death,motif/dust,motif/love,motif/storm,motif/time,motif/well,concept/courage,concept/democracy,concept/history,concept/paradox,concept/self,form/history,form/tragedy,histref/puritanism,character/buckingham"></span>
 
 
 The next thing to note is that their conception of
@@ -10515,7 +10515,7 @@ and should be considered separately.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Short History of England — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Short History of England — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/autumn,motif/dreams,motif/ship,motif/storm,motif/well,concept/democracy,concept/history,concept/truth,form/history,histref/puritanism,histref/reformation,setting/ship,character/oliver,character/richard_ii"></span>
 
 
 For the first point about [[democracy]], no candid person, in face of
@@ -10626,7 +10626,7 @@ and as passing.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="A Short History of England — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="A Short History of England — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/nakedness,concept/greatness,concept/history,concept/paradox,form/history,histref/america,histref/new_england,histref/thirty_years_war,setting/america,setting/italy,character/witch"></span>
 
 
 It was the Whig rather than the Puritan that triumphed on that day,
@@ -10734,7 +10734,7 @@ da cui era cresciuta tutta la storia della Britannia.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="A Short History of England — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="A Short History of England — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,motif/storm,motif/time,concept/democracy,concept/doubt,concept/history,concept/truth,form/comedy,form/history,histref/reformation,setting/london,character/christ"></span>
 
 
 XIV
@@ -10841,7 +10841,7 @@ alliance with the subtle and detached spirit of William Penn.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="A Short History of England — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="A Short History of England — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/home,motif/supernatural,motif/time,motif/well,concept/faith,concept/history,form/history,histref/new_england,histref/puritanism,setting/london,character/john_of_gaunt"></span>
 
 
 Much of England, then, was really alarmed at the Stuart scheme
@@ -10998,7 +10998,7 @@ Con Giorgio entrò in Inghilterra qualcosa che vi era stato appena visto prima; 
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="A Short History of England — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="A Short History of England — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/tyrant,motif/death,motif/flag,motif/love,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/courage,concept/fanaticism,concept/greatness,concept/history,concept/honour,concept/paradox,form/history,setting/venice,character/hastings,character/queen"></span>
 
 
 The reign of [[Queen]] Anne, which covers the period between these
@@ -11117,7 +11117,7 @@ unnecessary to say that it was defeated by a trick.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="A Short History of England — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="A Short History of England — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/nature,motif/time,concept/exile,concept/faith,concept/freedom,concept/history,concept/nature,form/history,histref/new_england"></span>
 
 
 The small German prince ascended the throne, or rather was hoisted
@@ -11190,7 +11190,7 @@ Bolingbroke had made a dying gesture, as if to forbid the banns.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Short History of England — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Short History of England — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,archetype/king,archetype/lover,motif/death,motif/fire,motif/memory,motif/nature,motif/poison,motif/soul,motif/time,motif/water,motif/well,concept/democracy,concept/doubt,concept/history,concept/honour,concept/nature,concept/self,concept/truth,form/history,form/sonnet,histref/america,setting/america"></span>
 
 
 XV
@@ -11332,7 +11332,7 @@ it stood for that Anglo-German alliance which, at a very much later
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Short History of England — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Short History of England — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/lightning,motif/rose,motif/time,motif/well,concept/democracy,concept/history,form/history,form/parable,histref/america,histref/christianity,setting/america,setting/italy,setting/russia"></span>
 
 
 Roughly and frankly speaking, we may say that [[America]] forced
@@ -11562,7 +11562,7 @@ di essere sia rigido che remoto.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Short History of England — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Short History of England — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/fire,motif/memory,motif/ship,motif/stars,concept/history,concept/truth,form/epic,form/history,setting/desert,setting/ship"></span>
 
 
 But the very name of Wellington is enough to suggest another,
@@ -11662,7 +11662,7 @@ che bruciò le proprie navi, e che per sempre diede [[Fire|fuoco]] al Tamigi.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="A Short History of England — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="A Short History of England — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/home,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/faith,concept/history,concept/honour,concept/paradox,concept/temptation,concept/truth,form/history,histref/christianity,histref/crusades,histref/french_revolution"></span>
 
 
 XVI
@@ -11776,7 +11776,7 @@ but not of the real robbers.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="A Short History of England — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="A Short History of England — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/prayer,motif/prison,motif/storm,motif/time,concept/history,concept/vanity,form/history,histref/french_revolution,histref/reformation,character/henry_viii"></span>
 
 
 This was the mysterious sin of the English squires, that they
@@ -11891,7 +11891,7 @@ in having the tumbril without the guillotine.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="A Short History of England — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="A Short History of England — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/monster,archetype/tyrant,motif/birds,motif/blood,motif/death,motif/grave,motif/home,motif/memory,motif/prison,motif/rose,motif/soul,motif/time,motif/well,concept/conversion,concept/freedom,concept/history,concept/immortality,concept/paradox,concept/resurrection,concept/truth,concept/union,concept/vanity,form/history,form/tragedy,setting/court,setting/italy,character/artful_dodger,character/falstaff,character/sam_weller"></span>
 
 
 Anyhow, these embers of the revolutionary epoch were trodden
@@ -12032,7 +12032,7 @@ went so early in their youth to break down the doors of [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="A Short History of England — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="A Short History of England — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/time,motif/well,concept/beauty,concept/democracy,concept/history,concept/reform,concept/truth,form/history,histref/french_revolution"></span>
 
 
 XVII
@@ -12144,7 +12144,7 @@ but of one.  If there were two real parties, there could be no system.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="A Short History of England — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="A Short History of England — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/fool,motif/memory,motif/prison,motif/sleep,motif/storm,concept/history,concept/poverty,concept/reform,concept/slavery,concept/truth,concept/union,form/history"></span>
 
 
 But if this was the evolution of parliamentary [[Reform|reform]], as represented
@@ -12252,7 +12252,7 @@ if he does call himself a Guild Socialist.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="A Short History of England — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="A Short History of England — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/time,motif/well,concept/body,concept/education,concept/history,concept/honour,concept/reform,concept/union,form/history,histref/inquisition,setting/denmark,setting/germany,setting/paris,setting/russia"></span>
 
 
 The Trade [[Union]] movement passed through many perils, including a
@@ -12373,7 +12373,7 @@ the Higher Criticism too high for him even to criticize.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="A Short History of England — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="A Short History of England — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/hero,motif/decay,concept/education,concept/freedom,concept/history,concept/honour,form/history,histref/christianity,setting/germany"></span>
 
 
 And then a day came, and if we were wise, we thanked God that we
@@ -12469,7 +12469,7 @@ non può additare altro che una plebaglia.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="A Short History of England — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="A Short History of England — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="archetype/king,motif/death,motif/decay,motif/leaves,motif/soul,concept/courage,concept/democracy,concept/freedom,concept/history,concept/slavery,form/history,form/tragedy,setting/germany,setting/paris,character/richard_ii"></span>
 
 
 XVIII

@@ -90,7 +90,7 @@ for one generation.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="sexlessness (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="sexlessness (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/time,concept/courage,concept/endurance,concept/fear,concept/freedom,concept/hope,setting/london,character/speed"></span>
 
 
 The Equality of [[sexlessness|Sexlessness]]

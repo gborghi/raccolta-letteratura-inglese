@@ -746,7 +746,7 @@ So talks as it’s most used to do.
 
 
 
-<span class="atom-split" data-atom="section_00_preface" data-title="Christabel — Preface" data-chapter="preface" data-kind="section"></span>
+<span class="atom-split" data-atom="section_00_preface" data-title="Christabel — Preface" data-chapter="preface" data-kind="section" data-tags="motif/nature,motif/well,concept/indolence,concept/nature,setting/germany,character/christabel"></span>
 
 
 [[Christabel|CHRISTABEL]] PREFACE
@@ -791,7 +791,7 @@ with some transition in the [[Nature|nature]] of the imagery or passion.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Christabel — Part I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Christabel — Part I" data-chapter="part i" data-kind="section" data-tags="archetype/damsel,archetype/lover,motif/clock,motif/dance,motif/death,motif/dreams,motif/flowers,motif/home,motif/love,motif/moon,motif/night,motif/pain,motif/rose,motif/silence,motif/spring,motif/stars,motif/well,motif/wind,concept/charity,concept/fear,concept/pride,setting/castle,setting/court,character/christabel,character/geraldine,character/maria"></span>
 
 
 CHRISTABELPART I  
@@ -1077,7 +1077,7 @@ To shield her and shelter her from the damp air.’
 
 
 
-<span class="atom-split" data-atom="section_02_conclusion_to_part_i" data-title="Christabel — Conclusion to Part I" data-chapter="conclusion to part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_conclusion_to_part_i" data-title="Christabel — Conclusion to Part I" data-chapter="conclusion to part i" data-kind="section" data-tags="archetype/child,motif/birds,motif/blood,motif/night,motif/prison,motif/sleep,motif/tears,concept/doubt,character/christabel,character/geraldine"></span>
 
 
 [[Christabel|CHRISTABEL]] THE CONCLUSION TO PART I  
@@ -1139,7 +1139,7 @@ For the blue sky bends over all!
 
 
 
-<span class="atom-split" data-atom="section_03_part_ii" data-title="Christabel — Part II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_ii" data-title="Christabel — Part II" data-chapter="part II" data-kind="section" data-tags="archetype/child,archetype/damsel,archetype/innocent,motif/bells,motif/clock,motif/cross,motif/dawn,motif/death,motif/dreams,motif/frost,motif/ghosts,motif/home,motif/journey,motif/lightning,motif/love,motif/pain,motif/poison,motif/prayer,motif/road,motif/rose,motif/sleep,motif/soul,motif/summer,motif/tears,motif/well,concept/fear,concept/honour,concept/jealousy,concept/madness,concept/pride,concept/self,concept/truth,concept/wonder,setting/castle,setting/court,setting/mountains,character/christabel,character/geraldine,character/maria,character/witch"></span>
 
 
 [[Christabel|CHRISTABEL]] PART II  
@@ -1474,7 +1474,7 @@ Led forth the lady [[Geraldine]]!   655
 
 
 
-<span class="atom-split" data-atom="section_04_conclusion_to_part_ii" data-title="Christabel — Conclusion to Part II" data-chapter="conclusion to part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_conclusion_to_part_ii" data-title="Christabel — Conclusion to Part II" data-chapter="conclusion to part II" data-kind="section" data-tags="archetype/child,motif/love,motif/pain,character/christabel"></span>
 
 
 [[Christabel|CHRISTABEL]] THE CONCLUSION TO PART II  

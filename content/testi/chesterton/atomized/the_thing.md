@@ -7135,7 +7135,7 @@ the spirit of liberty.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Thing — INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Thing — INTRODUCTION (part 1)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/blood,motif/dance,motif/desire,motif/love,motif/prison,motif/time,motif/well,concept/charity,concept/doubt,concept/faith,concept/honour,form/melodrama,form/translation,histref/catholic_church"></span>
 
 
 INTRODUCTION
@@ -7252,7 +7252,7 @@ Si spiega molto chiaramente in tutte queste affermazioni che esse sono accettate
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Thing — INTRODUCTION (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Thing — INTRODUCTION (part 2)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="motif/well,concept/self,concept/truth,form/satire,histref/america,setting/america,character/satan"></span>
 
 
 -/-
@@ -7464,7 +7464,7 @@ e preferibilmente il fine giusto.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Thing — INTRODUCTION (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Thing — INTRODUCTION (part 3)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="motif/flowers,motif/nature,motif/time,motif/well,concept/body,concept/courage,concept/despair,concept/doubt,concept/nature,concept/pride,concept/self,concept/truth,histref/america,setting/america"></span>
 
 
 Two other characteristic passages from Mr. Mencken will serve to show
@@ -7593,7 +7593,7 @@ In tali circostanze, non vedo affatto come io, o chiunque condivida le mie idee,
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_04" data-title="The Thing — INTRODUCTION (part 4)" data-chapter="INTRODUCTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_04" data-title="The Thing — INTRODUCTION (part 4)" data-chapter="INTRODUCTION" data-kind="excerpt" data-tags="motif/city,motif/death,motif/desire,motif/memory,motif/soul,motif/well,concept/beauty,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/hope,concept/truth,form/fable,form/parable,form/riddle,histref/catholic_church,histref/puritanism"></span>
 
 
 In all these instances, therefore, because of the absence of a standard of
@@ -7719,7 +7719,7 @@ Sarebbe assai più vero dire che la [[Faith|Fede]] restituisce a un uomo il suo 
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_01" data-title="The Thing — Is HUMANISM A RELIGION? (part 1)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_01" data-title="The Thing — Is HUMANISM A RELIGION? (part 1)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt" data-tags="archetype/king,motif/memory,concept/fear,concept/hope,concept/self,concept/truth,form/apologetics,character/christ"></span>
 
 
 IS HUMANISM A RELIGION?
@@ -7906,7 +7906,7 @@ non verbalmente ma veramente il Nuovo Mondo?
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_02" data-title="The Thing — Is HUMANISM A RELIGION? (part 2)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_02" data-title="The Thing — Is HUMANISM A RELIGION? (part 2)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt" data-tags="archetype/shadow,motif/love,motif/nature,motif/well,concept/democracy,concept/faith,concept/freedom,concept/nature,concept/pride,concept/truth,concept/wonder,form/free_verse,form/tragedy,histref/catholic_church,histref/crusades,character/lincoln"></span>
 
 
 [[Well]] ... here is what Mr. Foerster says about the present position
@@ -8136,7 +8136,7 @@ Il signor H. L. Mencken sarà sempre felice di acconsentire con la risposta.
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_03" data-title="The Thing — Is HUMANISM A RELIGION? (part 3)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_03" data-title="The Thing — Is HUMANISM A RELIGION? (part 3)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt" data-tags="motif/animals,motif/dance,motif/fire,motif/love,motif/moon,motif/pain,motif/time,motif/uncanny,concept/charity,concept/comradeship,concept/honour,concept/imagination,concept/mercy,concept/pride,concept/self,concept/suffering,concept/survival,concept/truth,concept/uncanny,form/fragment,histref/bible,histref/reformation"></span>
 
 
 Now, it was just here that, for me, the business began to be odd
@@ -8258,7 +8258,7 @@ Potrebbe sembrare che il processo sia giunto al termine, e che non vi sia più n
 
 
 
-<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_04" data-title="The Thing — Is HUMANISM A RELIGION? (part 4)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_is_humanism_a_religion--part_04" data-title="The Thing — Is HUMANISM A RELIGION? (part 4)" data-chapter="Is HUMANISM A RELIGION" data-kind="excerpt" data-tags="motif/fire,motif/jewel,motif/river,motif/rose,motif/window,concept/beauty,concept/faith,concept/humility,concept/sublime,concept/truth"></span>
 
 
 I do not therefore believe that Humanism and Religion are rivals
@@ -8344,7 +8344,7 @@ L'Umanesimo, nel senso del signor Foerster, ha un carattere assai saggio e degno
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_01" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 1)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_01" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 1)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/home,motif/road,motif/sleep,motif/time,motif/well,motif/window,concept/paradox,concept/suffering,concept/truth,character/jones"></span>
 
 
 THE DRIFT FROM DOMESTICITY
@@ -8478,7 +8478,7 @@ C'è una prova e un tipo semplice di questa trascuratezza del pensiero scientifi
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_02" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 2)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_02" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 2)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/animals,motif/dance,motif/garden,motif/home,motif/love,motif/nature,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/education,concept/freedom,concept/nature,form/essay,setting/castle,character/queen"></span>
 
 
 Some social reformers try to evade this difficulty, I know,
@@ -8627,7 +8627,7 @@ Per chiunque sappia pensare, naturalmente, è esattamente il contrario. La divis
 
 
 
-<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_03" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 3)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_drift_from_domesticity--part_03" data-title="The Thing — THE DRIFT FROM DOMESTICITY (part 3)" data-chapter="THE DRIFT FROM DOMESTICITY" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/home,concept/freedom"></span>
 
 
 If there is this impersonal routine in commercial and even in
@@ -8757,7 +8757,7 @@ della vita, della libertà e della ricerca della felicità.
 
 
 
-<span class="atom-split" data-atom="story_04_logic_logic_and_lawn_tennis" data-title="The Thing — LOGIC AND LAWN TENNIS" data-chapter="logic LOGIC AND LAWN TENNIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_logic_logic_and_lawn_tennis" data-title="The Thing — LOGIC AND LAWN TENNIS" data-chapter="logic LOGIC AND LAWN TENNIS" data-kind="story" data-tags="motif/dance,motif/desire,motif/love,motif/nakedness,motif/nature,motif/well,concept/doubt,concept/nature,histref/bible,character/aquinas,character/christ"></span>
 
 
 [[logic|LOGIC]] AND LAWN TENNIS
@@ -8928,7 +8928,7 @@ I Modernisti furono singolarmente sfortunati quando dissero che non ci si deve a
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_01" data-title="The Thing — OBSTINATE ORTHODOXY (part 1)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_01" data-title="The Thing — OBSTINATE ORTHODOXY (part 1)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/desire,motif/fire,motif/love,motif/marriage,motif/silence,concept/doubt,concept/self,concept/wonder,character/edgar"></span>
 
 
 OBSTINATE ORTHODOXY
@@ -9088,7 +9088,7 @@ Ciò che chiamiamo il mondo intellettuale si divide in due tipi di persone: quel
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_02" data-title="The Thing — OBSTINATE ORTHODOXY (part 2)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_02" data-title="The Thing — OBSTINATE ORTHODOXY (part 2)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/marriage,motif/moon,motif/pain,motif/rose,motif/well,concept/beauty,concept/despair,concept/doubt,concept/madness,concept/wonder"></span>
 
 
 Anyhow, it is in this intellectual world, with its many fools
@@ -9209,7 +9209,7 @@ Ma le rose non hanno copiato le rose. I raggi di luna non si sono imitati l'un l
 
 
 
-<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_03" data-title="The Thing — OBSTINATE ORTHODOXY (part 3)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_obstinate_orthodoxy--part_03" data-title="The Thing — OBSTINATE ORTHODOXY (part 3)" data-chapter="OBSTINATE ORTHODOXY" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/lightning,motif/love,motif/marriage,motif/moon,motif/rose,concept/romantic_love,concept/truth,concept/vanity,form/satire,character/pistol"></span>
 
 
 In short, what the critics would call romanticism is in fact
@@ -9358,7 +9358,7 @@ La [[Truth|verità]] è che il mondo moderno ha avuto un tracollo mentale; assai
 
 
 
-<span class="atom-split" data-atom="story_06_the_usual_article" data-title="The Thing — THE USUAL ARTICLE" data-chapter="THE USUAL ARTICLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_usual_article" data-title="The Thing — THE USUAL ARTICLE" data-chapter="THE USUAL ARTICLE" data-kind="story" data-tags="archetype/fool,archetype/tyrant,motif/death,motif/grave,motif/love,motif/poison,motif/time,concept/body,concept/faith,concept/hope,concept/pride,concept/self,concept/suicide,histref/christianity,character/christ"></span>
 
 
 THE USUAL ARTICLE
@@ -9548,7 +9548,7 @@ In altre parole, il Solito Articolo, che conta ormai quasi diecimila edizioni, �
 
 
 
-<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_01" data-title="The Thing — WHY I AM A CATHOLIC (part 1)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_01" data-title="The Thing — WHY I AM A CATHOLIC (part 1)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt" data-tags="motif/dance,motif/memory,motif/prayer,motif/road,motif/rose,motif/time,motif/water,concept/beauty,concept/charity,concept/doubt,concept/faith,concept/poverty,concept/reform,histref/reformation,character/michael"></span>
 
 
 WHY I AM A CATHOLIC
@@ -9680,7 +9680,7 @@ Prendendo ciò come testo e prova del presente problema della scelta religiosa, 
 
 
 
-<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_02" data-title="The Thing — WHY I AM A CATHOLIC (part 2)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_why_i_am_a_catholic--part_02" data-title="The Thing — WHY I AM A CATHOLIC (part 2)" data-chapter="WHY I AM A CATHOLIC" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/monster,motif/death,motif/grave,motif/love,motif/time,concept/charity,concept/doubt,concept/faith,concept/history,concept/honour,concept/humility,concept/pride,concept/truth,form/history,setting/court,setting/italy"></span>
 
 
 Next, Protestantism may be a negative thing.  In other words,
@@ -9830,7 +9830,7 @@ Come dico, questo è solo un aspetto; ma fu il primo che mi toccò e conduce ad 
 
 
 
-<span class="atom-split" data-atom="story_08_what_do_they_think" data-title="The Thing — WHAT DO THEY THINK?" data-chapter="WHAT DO THEY THINK" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_what_do_they_think" data-title="The Thing — WHAT DO THEY THINK?" data-chapter="WHAT DO THEY THINK" data-kind="story" data-tags="archetype/detective,archetype/monster,archetype/shadow,motif/birds,motif/blood,motif/death,motif/desire,motif/love,motif/night,motif/prayer,motif/time,motif/well,concept/despair,concept/faith,concept/history,concept/paradox,concept/sublime,concept/truth,form/fable,form/history,form/riddle,histref/catholic_church,setting/london,setting/russia"></span>
 
 
 WHAT DO THEY THINK?
@@ -10035,7 +10035,7 @@ Ma a parte questi misteri, penso che vi sia un'altra ragione che è umana e stor
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_01" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 1)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_01" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 1)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,motif/crown,motif/dance,motif/death,motif/grave,motif/soul,motif/stars,motif/well,concept/apocalypse,concept/body,concept/fear,concept/immortality,concept/truth,character/arthur"></span>
 
 
 THE MASK OF THE AGNOSTIC
@@ -10159,7 +10159,7 @@ Quanto alla conclusione in sé, essa pare quasi incredibilmente inconcludente. A
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_02" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 2)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_02" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 2)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/time,concept/faith,concept/history,concept/truth,form/history,character/arthur"></span>
 
 
 This very unphilosophical irruption into [[philosophy]] was, however,
@@ -10273,7 +10273,7 @@ Poiché il politico è meno pomposamente assurdo dell'antropologo, anche se lo m
 
 
 
-<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_03" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 3)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_mask_of_the_agnostic--part_03" data-title="The Thing — THE MASK OF THE AGNOSTIC (part 3)" data-chapter="THE MASK OF THE AGNOSTIC" data-kind="excerpt" data-tags="motif/birds,motif/stars,character/arthur"></span>
 
 
 It was in a Catholic paper that certain statements were made about
@@ -10371,7 +10371,7 @@ dai resoconti.
 
 
 
-<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_01" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 1)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_01" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 1)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt" data-tags="motif/lightning,motif/time,motif/well,concept/history,concept/hope,concept/imagination,concept/truth,form/history,histref/catholic_church,setting/london,character/abraham_lincoln,character/queen_elizabeth"></span>
 
 
 THE EARLY BIRD IN [[history|HISTORY]]
@@ -10497,7 +10497,7 @@ La Canonizzazione di Santa Giovanna venne assai lenta e assai tardi. Ma la Riabi
 
 
 
-<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_02" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 2)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_early_bird_in_history_history--part_02" data-title="The Thing — THE EARLY BIRD IN HISTORY (part 2)" data-chapter="THE EARLY BIRD IN history HISTORY" data-kind="excerpt" data-tags="motif/ship,motif/silence,motif/time,concept/freedom,concept/history,concept/imagination,concept/truth,form/history,histref/reformation,histref/renaissance,setting/court,setting/ship,character/columbus,character/king_arthur"></span>
 
 
 But I mean the comment here in a rather larger sense; and in a larger
@@ -10654,7 +10654,7 @@ arrivare per primi ed essere dimenticati.
 
 
 
-<span class="atom-split" data-atom="story_11_protestantism_a_problem_novel_novel" data-title="The Thing — PROTESTANTISM:  A PROBLEM NOVEL" data-chapter="PROTESTANTISM A PROBLEM Novel NOVEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_protestantism_a_problem_novel_novel" data-title="The Thing — PROTESTANTISM:  A PROBLEM NOVEL" data-chapter="PROTESTANTISM A PROBLEM Novel NOVEL" data-kind="story" data-tags="archetype/innocent,motif/prison,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/history,concept/reconciliation,concept/reform,concept/self,concept/truth,concept/wonder,form/history,form/novel,histref/america,histref/milton,histref/reformation,setting/america,character/milton,character/sir_thomas_more"></span>
 
 
 PROTESTANTISM:  A PROBLEM [[Novel|NOVEL]]
@@ -10852,7 +10852,7 @@ Poiché questa è la strana passione della sua vita; ed egli si affatica attrave
 
 
 
-<span class="atom-split" data-atom="story_12_a_simple_thought" data-title="The Thing — A SIMPLE THOUGHT" data-chapter="A SIMPLE THOUGHT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_simple_thought" data-title="The Thing — A SIMPLE THOUGHT" data-chapter="A SIMPLE THOUGHT" data-kind="story" data-tags="archetype/child,motif/childhood,motif/cross,motif/frost,motif/love,motif/memory,motif/snow,motif/time,motif/uncanny,motif/well,concept/faith,concept/history,concept/honour,concept/imagination,concept/melancholy,concept/pride,concept/self,concept/truth,concept/uncanny,concept/vanity,form/history,histref/america,histref/christianity,setting/america,setting/court,character/jones,character/michael"></span>
 
 
 A SIMPLE THOUGHT
@@ -11058,7 +11058,7 @@ Il pericolo oggi è che gli uomini non allarghino sufficientemente la mente da a
 
 
 
-<span class="atom-split" data-atom="story_13_the_call_to_the_barbarians" data-title="The Thing — THE CALL TO THE BARBARIANS" data-chapter="THE CALL TO THE BARBARIANS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_call_to_the_barbarians" data-title="The Thing — THE CALL TO THE BARBARIANS" data-chapter="THE CALL TO THE BARBARIANS" data-kind="story" data-tags="archetype/king,motif/animals,motif/autumn,motif/city,motif/desert,motif/night,motif/noon,concept/beauty,concept/despair,concept/doubt,concept/faith,concept/history,concept/hope,concept/reform,concept/truth,concept/union,form/history,form/translation,histref/catholic_church,histref/christianity,histref/islam,setting/desert"></span>
 
 
 THE CALL TO THE BARBARIANS
@@ -11228,7 +11228,7 @@ Ora quell'unico caso tipico o persino banale ha un'applicazione più ampia. Una 
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_01" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 1)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_01" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 1)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt" data-tags="archetype/ghost,archetype/hero,motif/cross,motif/love,motif/moon,motif/night,motif/time,concept/hope,concept/self,form/novel,form/short_story,form/sonnet,histref/catholic_church"></span>
 
 
 ON THE [[Novel|NOVEL]] WITH A PURPOSE
@@ -11364,7 +11364,7 @@ In se stessa, naturalmente, l'osservazione è semplicemente priva di senso. È a
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_02" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 2)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_on_the_novel_novel_with_a_purpose--part_02" data-title="The Thing — ON THE NOVEL WITH A PURPOSE (part 2)" data-chapter="ON THE Novel NOVEL WITH A PURPOSE" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/death,motif/love,motif/time,concept/ambition,concept/beauty,concept/poverty,concept/truth,form/novel,form/short_story,form/tragedy,character/oliver_twist"></span>
 
 
 Yet nobody says the magazine story is propagandist.  Nobody says
@@ -11460,7 +11460,7 @@ Concludo perciò che, mentre il signor Braybrooke aveva perfettamente ragione ne
 
 
 
-<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_01" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 1)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_01" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 1)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/time,motif/well,concept/ambition,concept/greed,concept/history,concept/hope,concept/humility,concept/nature,concept/poverty,concept/pride,form/history,character/cranmer,character/hamlet,character/monks"></span>
 
 
 THE REVOLT AGAINST IDEAS
@@ -11589,7 +11589,7 @@ Dobbiamo ricordare che persino parlare della corruzione dei monasteri è un comp
 
 
 
-<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_02" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 2)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_revolt_against_ideas--part_02" data-title="The Thing — THE REVOLT AGAINST IDEAS (part 2)" data-chapter="THE REVOLT AGAINST IDEAS" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/time,motif/well,concept/despair,concept/history,concept/nature,concept/poverty,concept/truth,form/essay,form/history,histref/america,histref/reformation,setting/america,character/aquinas,character/monks"></span>
 
 
 In this sense we may agree with the newspaper correspondent;
@@ -11719,7 +11719,7 @@ C'è una curiosa piccola frase nel [[Essay|saggio]] di Macaulay su Bacon; quel g
 
 
 
-<span class="atom-split" data-atom="story_16_the_feasts_and_the_ascetic_ascetic" data-title="The Thing — THE FEASTS AND THE ASCETIC" data-chapter="THE FEASTS AND THE ascetic ASCETIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_feasts_and_the_ascetic_ascetic" data-title="The Thing — THE FEASTS AND THE ASCETIC" data-chapter="THE FEASTS AND THE ascetic ASCETIC" data-kind="story" data-tags="archetype/fool,archetype/outsider,motif/dawn,motif/flowers,motif/night,motif/time,motif/water,motif/well,concept/despair,concept/faith,concept/fear,concept/pride,concept/temptation,concept/truth"></span>
 
 
 THE FEASTS AND THE [[ascetic|ASCETIC]]
@@ -11875,7 +11875,7 @@ Questa semplicissima [[Truth|verità]] spiega un altro fatto su cui ho udito i d
 
 
 
-<span class="atom-split" data-atom="story_17_who_are_the_conspirators" data-title="The Thing — WHO ARE THE CONSPIRATORS?" data-chapter="WHO ARE THE CONSPIRATORS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_who_are_the_conspirators" data-title="The Thing — WHO ARE THE CONSPIRATORS?" data-chapter="WHO ARE THE CONSPIRATORS" data-kind="story" data-tags="topos/double,motif/home,motif/memory,motif/night,motif/time,concept/doubt,concept/faith,concept/self,form/essay,form/melodrama,histref/america,setting/america,setting/italy,setting/london,character/christ"></span>
 
 
 WHO ARE THE CONSPIRATORS?
@@ -12048,7 +12048,7 @@ Quanto a quest'ultimo aspetto, è probabile che il mondo intero scopra questo fa
 
 
 
-<span class="atom-split" data-atom="story_18_the_hat_and_the_halo" data-title="The Thing — THE HAT AND THE HALO" data-chapter="THE HAT AND THE HALO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_hat_and_the_halo" data-title="The Thing — THE HAT AND THE HALO" data-chapter="THE HAT AND THE HALO" data-kind="story" data-tags="archetype/hero,motif/love,motif/soul,motif/water,motif/well,concept/body,concept/divine_love,concept/doubt,concept/fear,concept/immortality,concept/original_sin,concept/self,concept/truth,form/hymn,character/christ,character/phantom"></span>
 
 
 THE HAT AND THE HALO
@@ -12269,7 +12269,7 @@ Questa è la distinzione vitale. Almeno noi non ammettiamo il sentimento come su
 
 
 
-<span class="atom-split" data-atom="story_19_on_two_allegories" data-title="The Thing — ON TWO ALLEGORIES" data-chapter="ON TWO ALLEGORIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_on_two_allegories" data-title="The Thing — ON TWO ALLEGORIES" data-chapter="ON TWO ALLEGORIES" data-kind="story" data-tags="archetype/pilgrim,motif/city,motif/death,motif/nature,motif/prison,motif/soul,motif/time,motif/well,concept/doubt,concept/faith,concept/individualism,concept/nature,concept/pride,concept/resurrection,concept/truth,form/allegory,form/epic,histref/dante,setting/oxford,setting/paris,character/aquinas,character/hector"></span>
 
 
 ON TWO ALLEGORIES
@@ -12466,7 +12466,7 @@ Ritengo valga la pena di scrivere questa nota sull'osservazione critica del sign
 
 
 
-<span class="atom-split" data-atom="story_20_the_protestant_superstitions" data-title="The Thing — THE PROTESTANT SUPERSTITIONS" data-chapter="THE PROTESTANT SUPERSTITIONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_protestant_superstitions" data-title="The Thing — THE PROTESTANT SUPERSTITIONS" data-chapter="THE PROTESTANT SUPERSTITIONS" data-kind="story" data-tags="archetype/innocent,motif/cross,motif/desire,motif/fire,motif/home,motif/soul,motif/time,motif/water,form/fragment,histref/bible,histref/christianity,histref/islam,setting/mountains"></span>
 
 
 THE PROTESTANT SUPERSTITIONS
@@ -12808,7 +12808,7 @@ Non posso attribuirla che alla Superstizione.
 
 
 
-<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_01" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 1)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_01" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 1)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt" data-tags="motif/marriage,motif/pain,motif/prayer,motif/time,motif/well,concept/charity,concept/courage,concept/faith,concept/hope,concept/pride,concept/temptation,form/novel,histref/catholic_church,character/sunday"></span>
 
 
 ON [[Courage|COURAGE]] AND INDEPENDENCE
@@ -12987,7 +12987,7 @@ piuttosto che le mie opinioni senza importanza.
 
 
 
-<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_02" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 2)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_21_on_courage_courage_and_independence--part_02" data-title="The Thing — ON COURAGE AND INDEPENDENCE (part 2)" data-chapter="ON Courage COURAGE AND INDEPENDENCE" data-kind="excerpt" data-tags="motif/well,concept/conscience,concept/courage,concept/history,concept/slavery,form/history,histref/america,histref/american_civil_war,setting/america,character/abraham_lincoln,character/christ,character/lord_chief_justice,character/michael"></span>
 
 
 In any case, my own experience of the modern world tells me that Catholics
@@ -13136,7 +13136,7 @@ Questa gente moderna intende per attività mentale semplicemente un treno espres
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_01" data-title="The Thing — THE NORDIC HINDOO (part 1)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_01" data-title="The Thing — THE NORDIC HINDOO (part 1)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt" data-tags="archetype/rebel,motif/autumn,motif/city,motif/time,motif/well,concept/despair,concept/pride,concept/temptation"></span>
 
 
 THE NORDIC HINDOO
@@ -13335,7 +13335,7 @@ Comunque sia, è un processo a cui i capitani sconfitti o imbarazzati si affidan
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_02" data-title="The Thing — THE NORDIC HINDOO (part 2)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_02" data-title="The Thing — THE NORDIC HINDOO (part 2)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/well,concept/fear,concept/guilt,histref/catholic_church,character/arthur"></span>
 
 
 And when we have reached that point, it is not difficult to see
@@ -13485,7 +13485,7 @@ Sir [[Arthur]] Conan Doyle deve sapere [[Well|bene]] quanto me che una modestia 
 
 
 
-<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_03" data-title="The Thing — THE NORDIC HINDOO (part 3)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_the_nordic_hindoo--part_03" data-title="The Thing — THE NORDIC HINDOO (part 3)" data-chapter="THE NORDIC HINDOO" data-kind="excerpt" data-tags="archetype/innocent,motif/dance,motif/death,motif/stars,motif/well,motif/window,concept/grotesque,concept/survival,histref/catholic_church,character/arthur"></span>
 
 
 I mean nothing flippant when I say that the only interesting thing
@@ -13593,7 +13593,7 @@ Il mondo rende davvero il supremo omaggio alla [[Catholic Church|Chiesa Cattolic
 
 
 
-<span class="atom-split" data-atom="story_23_the_roots_of_sanity_sanity" data-title="The Thing — THE ROOTS OF SANITY" data-chapter="THE ROOTS OF Sanity SANITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_roots_of_sanity_sanity" data-title="The Thing — THE ROOTS OF SANITY" data-chapter="THE ROOTS OF Sanity SANITY" data-kind="story" data-tags="motif/animals,motif/desire,motif/nakedness,motif/soul,motif/time,motif/well,concept/body,concept/eugenics,concept/faith,histref/puritanism,setting/germany,setting/london,character/arthur"></span>
 
 
 THE ROOTS OF [[Sanity|SANITY]]
@@ -13801,7 +13801,7 @@ Nella maggior parte delle persone moderne vi è una battaglia tra le nuove opini
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_01" data-title="The Thing — SOME OF OUR ERRORS (part 1)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_01" data-title="The Thing — SOME OF OUR ERRORS (part 1)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/time,concept/grotesque,concept/truth,form/translation"></span>
 
 
 SOME OF OUR ERRORS
@@ -13921,7 +13921,7 @@ Per esempio, vi è una sorta di fraintendimento che è semplicemente errore di t
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_02" data-title="The Thing — SOME OF OUR ERRORS (part 2)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_02" data-title="The Thing — SOME OF OUR ERRORS (part 2)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/time,motif/well,concept/exile,concept/history,concept/truth,form/comedy,form/history,form/translation,histref/catholic_church,setting/mountains"></span>
 
 
 I will venture to take one example, about which I feel very strongly.
@@ -14034,7 +14034,7 @@ La nostra è in questo momento la più razionale di tutte le religioni. È persi
 
 
 
-<span class="atom-split" data-atom="story_24_some_of_our_errors--part_03" data-title="The Thing — SOME OF OUR ERRORS (part 3)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_24_some_of_our_errors--part_03" data-title="The Thing — SOME OF OUR ERRORS (part 3)" data-chapter="SOME OF OUR ERRORS" data-kind="excerpt" data-tags="archetype/innocent,archetype/outsider,concept/fear,concept/truth,form/translation,histref/bible"></span>
 
 
 But the world plays havoc with all such words, whether they are
@@ -14130,7 +14130,7 @@ sapere dove gettare la colpa.
 
 
 
-<span class="atom-split" data-atom="story_25_the_slavery_slavery_of_the_mind" data-title="The Thing — THE SLAVERY OF THE MIND" data-chapter="THE Slavery SLAVERY OF THE MIND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_slavery_slavery_of_the_mind" data-title="The Thing — THE SLAVERY OF THE MIND" data-chapter="THE Slavery SLAVERY OF THE MIND" data-kind="story" data-tags="archetype/tyrant,motif/journey,motif/nature,motif/sleep,concept/faith,concept/history,concept/imagination,concept/nature,concept/paradox,concept/providence,concept/slavery,form/history,histref/america,setting/america,setting/london,character/aquinas,character/queen_elizabeth"></span>
 
 
 THE [[Slavery|SLAVERY]] OF THE MIND
@@ -14259,7 +14259,7 @@ Potrei fornire molti altri esempi di ciò che intendo per questa schiavitù imma
 
 
 
-<span class="atom-split" data-atom="story_26_inge_versus_barnes" data-title="The Thing — INGE VERSUS BARNES" data-chapter="INGE VERSUS BARNES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_inge_versus_barnes" data-title="The Thing — INGE VERSUS BARNES" data-chapter="INGE VERSUS BARNES" data-kind="story" data-tags="motif/blood,motif/fire,motif/nature,motif/supernatural,motif/well,concept/body,concept/doubt,concept/history,concept/hope,concept/nature,concept/truth,form/history,histref/america,histref/catholic_church,histref/christianity,setting/america,character/arthur,character/christ,character/hamlet"></span>
 
 
 INGE VERSUS BARNES
@@ -14465,7 +14465,7 @@ Invero il Decano pronunciò una [[Truth|verità]] inconscia quando disse che i s
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_01" data-title="The Thing — WHAT WE THINK ABOUT (part 1)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_01" data-title="The Thing — WHAT WE THINK ABOUT (part 1)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/dreams,motif/well,concept/conversion,concept/doubt,concept/truth,histref/inquisition,histref/new_england,character/arthur"></span>
 
 
 WHAT WE THINK ABOUT
@@ -14606,7 +14606,7 @@ Ora ciò che dobbiamo davvero martellare nella testa di tutte queste persone, in
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_02" data-title="The Thing — WHAT WE THINK ABOUT (part 2)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_02" data-title="The Thing — WHAT WE THINK ABOUT (part 2)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt" data-tags="motif/flowers,motif/love,motif/nature,motif/rose,motif/time,concept/charity,concept/greatness,concept/history,concept/imagination,concept/longing,concept/nature,concept/truth,form/epic,form/history,character/adonis,character/christ,character/prometheus"></span>
 
 
 As I have said before, it is very difficult to say how we can best
@@ -14730,7 +14730,7 @@ Ma vi accenno qui, non per argomentarne la [[Truth|verità]] contro coloro che n
 
 
 
-<span class="atom-split" data-atom="story_27_what_we_think_about--part_03" data-title="The Thing — WHAT WE THINK ABOUT (part 3)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_what_we_think_about--part_03" data-title="The Thing — WHAT WE THINK ABOUT (part 3)" data-chapter="WHAT WE THINK ABOUT" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,concept/imagination,concept/madness,concept/paradox,form/riddle,histref/catholic_church,character/christ"></span>
 
 
 Any number of other examples could of course be given.
@@ -14836,7 +14836,7 @@ e la nenia con cui morì la vecchia vacca.
 
 
 
-<span class="atom-split" data-atom="story_28_the_optimist_as_a_suicide_suicide" data-title="The Thing — THE OPTIMIST AS A SUICIDE" data-chapter="THE OPTIMIST AS A suicide SUICIDE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_optimist_as_a_suicide_suicide" data-title="The Thing — THE OPTIMIST AS A SUICIDE" data-chapter="THE OPTIMIST AS A suicide SUICIDE" data-kind="story" data-tags="archetype/hero,motif/crown,motif/death,motif/grave,motif/love,motif/soul,motif/well,concept/faith,concept/hope,concept/immortality,concept/martyrdom,concept/self,concept/suicide,concept/truth,form/fragment,form/parable,form/parody,histref/america,setting/america,character/arthur,character/clarence"></span>
 
 
 THE OPTIMIST AS A [[suicide|SUICIDE]]
@@ -15010,7 +15010,7 @@ Il punto è che in questo passaggio lo scettico americano sta rispondendo al Mod
 
 
 
-<span class="atom-split" data-atom="story_29_the_outline_of_the_fall" data-title="The Thing — THE OUTLINE OF THE FALL" data-chapter="THE OUTLINE OF THE FALL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_outline_of_the_fall" data-title="The Thing — THE OUTLINE OF THE FALL" data-chapter="THE OUTLINE OF THE FALL" data-kind="story" data-tags="topos/double,archetype/shadow,motif/animals,motif/cave,motif/garden,motif/memory,motif/nature,motif/well,concept/democracy,concept/doubt,concept/exile,concept/history,concept/hope,concept/imagination,concept/nature,concept/original_sin,concept/pride,concept/self,concept/sublime,concept/survival,concept/truth,form/allegory,form/fable,form/history,form/inscription,character/king_john"></span>
 
 
 THE OUTLINE OF THE FALL
@@ -15286,7 +15286,7 @@ anche quando è uno dei più grandi letterati e una gloria per il nome inglese.
 
 
 
-<span class="atom-split" data-atom="story_30_the_idols_of_scotland" data-title="The Thing — THE IDOLS OF SCOTLAND" data-chapter="THE IDOLS OF SCOTLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_idols_of_scotland" data-title="The Thing — THE IDOLS OF SCOTLAND" data-chapter="THE IDOLS OF SCOTLAND" data-kind="story" data-tags="archetype/fool,archetype/hero,archetype/king,motif/death,motif/desire,motif/dreams,motif/home,motif/ship,motif/snow,motif/storm,motif/time,motif/well,motif/wind,concept/history,concept/imagination,concept/pride,concept/truth,form/comedy,form/history,form/parable,form/tragedy,histref/puritanism,histref/reformation,setting/court,setting/germany,setting/ship"></span>
 
 
 THE IDOLS OF SCOTLAND
@@ -15479,7 +15479,7 @@ Che la si chiami tendenza cattolica o no, tutti i movimenti di tutte le sette, d
 
 
 
-<span class="atom-split" data-atom="story_31_if_they_had_believed" data-title="The Thing — IF THEY HAD BELIEVED" data-chapter="IF THEY HAD BELIEVED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_if_they_had_believed" data-title="The Thing — IF THEY HAD BELIEVED" data-chapter="IF THEY HAD BELIEVED" data-kind="story" data-tags="topos/paradise_lost,motif/birds,motif/death,motif/memory,motif/nature,motif/time,motif/well,concept/faith,concept/freedom,concept/history,concept/nature,concept/pride,concept/self,concept/truth,form/epic,form/essay,form/history,histref/milton,histref/puritanism,histref/reformation,histref/renaissance,character/lincoln,character/milton"></span>
 
 
 IF THEY HAD BELIEVED
@@ -15699,7 +15699,7 @@ Se ciò è vero sul lato negativo, è ancor più vero sul lato positivo. Ritengo
 
 
 
-<span class="atom-split" data-atom="story_32_peace_and_the_papacy" data-title="The Thing — PEACE AND THE PAPACY" data-chapter="PEACE AND THE PAPACY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_peace_and_the_papacy" data-title="The Thing — PEACE AND THE PAPACY" data-chapter="PEACE AND THE PAPACY" data-kind="story" data-tags="archetype/king,archetype/shadow,motif/city,motif/desire,motif/memory,motif/nature,motif/time,motif/well,concept/charity,concept/democracy,concept/doubt,concept/faith,concept/history,concept/humility,concept/nature,concept/truth,form/epigram,form/history,histref/catholic_church,histref/renaissance,character/aquinas"></span>
 
 
 PEACE AND THE PAPACY
@@ -15889,7 +15889,7 @@ So che questo ideale è stato abusato come ogni altro; dico soltanto che persino
 
 
 
-<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_01" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 1)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_01" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 1)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/home,motif/time,motif/well,motif/winter,concept/paradox,concept/poverty,concept/reform,form/tragedy,histref/christianity,character/bob_cratchit,character/sam_weller,character/tiny_tim"></span>
 
 
 THE SPIRIT OF CHRISTMAS
@@ -16057,7 +16057,7 @@ Ecco ora un altro lampo brillante di [[Paradox|paradosso]], osservando che il Na
 
 
 
-<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_02" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 2)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_33_the_spirit_of_christmas--part_02" data-title="The Thing — THE SPIRIT OF CHRISTMAS (part 2)" data-chapter="THE SPIRIT OF CHRISTMAS" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/dreams,motif/fire,motif/home,motif/memory,motif/night,motif/time,motif/well,motif/winter,concept/hope,concept/paradox,concept/truth,histref/bible,character/hamlet"></span>
 
 
 Christmas might be creative.  We are told, even by those who praise

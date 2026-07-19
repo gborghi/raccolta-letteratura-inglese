@@ -51057,7 +51057,7 @@ _reward_ her!'"
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Shirley — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Shirley — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/dawn,motif/dust,motif/fire,motif/garden,motif/lamb,motif/love,motif/night,motif/noon,motif/snow,motif/spring,motif/summer,motif/time,motif/wind,motif/winter,concept/friendship,concept/regeneration,form/melodrama,setting/oxford,character/aaron"></span>
 
 
 CHAPTER I.
@@ -51251,7 +51251,7 @@ stayed dinner; on Tuesday Mr. Malone and Mr. Sweeting of Nunnely came to
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Shirley — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Shirley — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/leaves,motif/night,motif/road,motif/soul,concept/self,form/elegy"></span>
 
 
 tea, remained to supper, occupied the spare bed, and favoured her with
@@ -51451,7 +51451,7 @@ of such words as vele, firrum, hellum, storrum (so Mr. Malone invariably
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Shirley — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Shirley — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/night,motif/storm,motif/well,concept/wonder,setting/egypt"></span>
 
 
 pronounced veil, firm, helm, [[Storm|storm]]), and employing such other methods of
@@ -51703,7 +51703,7 @@ institution of which they are merely the humble appendages."
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Shirley — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Shirley — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/night,motif/time,motif/well,concept/faith,concept/history,concept/wonder,form/history"></span>
 
 
 There was a certain dignity in the little elderly gentleman's manner of
@@ -51957,7 +51957,7 @@ him in Nunnely Park that very afternoon."
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Shirley — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Shirley — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/night,motif/road,motif/summer,motif/time,concept/courage,concept/doubt,concept/wonder,histref/bible,setting/egypt,character/pistol"></span>
 
 
 "Davy, thou hast an enormous organ of [[Wonder|wonder]] in thy cranium. Malone, you
@@ -52155,7 +52155,7 @@ made his exit, clearing the stairs at a stride or two, and making the
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Shirley — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Shirley — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/hill,motif/home,motif/moon,motif/nature,motif/night,motif/road,motif/time,motif/water,motif/wind,motif/window,concept/nature"></span>
 
 
 CHAPTER II.
@@ -52379,7 +52379,7 @@ Plain as it was, it seemed to satisfy Malone, who, when he had removed
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Shirley — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Shirley — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/marriage,motif/night,motif/road,motif/time,motif/well,motif/wind,motif/window,concept/doubt,concept/wonder,setting/castle"></span>
 
 
 and hung up his wet surtout and hat, drew one of the rheumatic-looking
@@ -52649,7 +52649,7 @@ this difference: most of the manufacturers seem paralyzed when they are
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Shirley — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Shirley — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/night,motif/rose,motif/sleep,motif/time,motif/water,motif/well,concept/aspiration,concept/beauty,concept/fear,form/sketch,histref/america,setting/america"></span>
 
 
 attacked. Sykes, for instance, when his dressing-shop was set on [[Fire|fire]]
@@ -52883,7 +52883,7 @@ meditative, rather searching than soft, rather thoughtful than genial.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Shirley — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Shirley — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/garden,motif/home,motif/horse,motif/nature,motif/soul,motif/storm,motif/time,motif/well,concept/greatness,concept/history,concept/honour,concept/nature,concept/poverty,concept/reform,form/history,histref/french_revolution,character/robert_moore"></span>
 
 
 When he parts his lips in a smile, his physiognomy is agreeable--not
@@ -53067,7 +53067,7 @@ with famine; and for a morsel of meat they would have sold their
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Shirley — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Shirley — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/night,motif/road,motif/rose,motif/silence,motif/water,concept/endurance,concept/solitude,histref/america,setting/america"></span>
 
 
 birthright.
@@ -53279,7 +53279,7 @@ part of the harness. Examined by the light of the lantern this proved to
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Shirley — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Shirley — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/night,motif/road,motif/water,motif/well,concept/body,concept/fear,character/speed"></span>
 
 
 be a folded paper--a billet. It bore no address without; within was the
@@ -53493,7 +53493,7 @@ rescue-party set out.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Shirley — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Shirley — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/night,motif/road,motif/soul,motif/well,motif/wind,concept/faith,concept/friendship,character/ferdinand"></span>
 
 
 CHAPTER III.
@@ -53715,7 +53715,7 @@ fit representative of an honest people is a dull-witted drover, acting
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Shirley — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Shirley — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/usurper,motif/home,motif/road,motif/well,motif/wind,concept/ambition,concept/fear,concept/regeneration,setting/egypt,setting/italy,character/bottom,character/robert_moore"></span>
 
 
 for a duller-witted farmer; and against these are arrayed victorious
@@ -53941,7 +53941,7 @@ frame-breakers we could win a grand victory. We could iv'ry one be a
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Shirley — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Shirley — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/well,concept/body,concept/courage,concept/doubt,concept/hope,form/sketch"></span>
 
 
 Wellington--that would please ye, Mr. Helstone--and sich paragraphs as
@@ -54237,7 +54237,7 @@ the portrait of this French-speaking Yorkshire gentleman.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Shirley — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Shirley — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/autumn,motif/blood,motif/fire,motif/nature,motif/spring,motif/summer,motif/well,motif/winter,concept/freedom,concept/hope,concept/imagination,concept/nature,form/sketch"></span>
 
 
 CHAPTER IV.
@@ -54439,7 +54439,7 @@ whatever [[Fire|fire]] glowed, in his breast--if he could not have played the ma
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Shirley — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Shirley — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,motif/winter,concept/education,concept/nature,histref/french_revolution,setting/italy"></span>
 
 
 in the counting-[[house]], of the tradesman in the Piece Hall, might have
@@ -54627,7 +54627,7 @@ seem frivolous, unlikely to influence a character like Yorke's; but the
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Shirley — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Shirley — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/cave,motif/love,motif/nature,motif/tears,motif/time,concept/doubt,concept/nature,concept/solitude"></span>
 
 
 fact is they recalled old, perhaps pleasurable, associations--they
@@ -54821,7 +54821,7 @@ animosity.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Shirley — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Shirley — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/rebel,motif/cave,motif/cross,motif/hill,motif/home,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/fear,concept/nature,histref/bible,character/robert_moore"></span>
 
 
 Of the [[Nature|nature]] and strength of this animosity Mr. Helstone was but half
@@ -55083,7 +55083,7 @@ their abrupt dismissal, Helstone deeply indignant thereat.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Shirley — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Shirley — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/chalk,motif/clock,motif/dawn,motif/nature,motif/night,motif/rose,motif/well,concept/body,concept/history,concept/nature,concept/sublime,form/history,setting/london,character/bottom"></span>
 
 
 CHAPTER V.
@@ -55321,7 +55321,7 @@ what a wan glance she flung along the hills, you would have thought the
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Shirley — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Shirley — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dawn,motif/fire,motif/frost,motif/garden,motif/hill,motif/home,motif/night,motif/rose,motif/snow,motif/soul,motif/spring,motif/summer,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/ambition,concept/doubt,concept/hope,concept/wonder"></span>
 
 
 sun's [[Fire|fire]] quenched in last [[Night|night]]'s floods. The breath of this morning
@@ -55523,7 +55523,7 @@ spoken from the [[Window|window]]. I must describe her before I go any farther.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Shirley — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Shirley — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/night,motif/water,motif/well,concept/education,character/sunday"></span>
 
 
 She seemed a little older than Mr. Moore--perhaps she was thirty-five,
@@ -55727,7 +55727,7 @@ my neat black sabots, objects one would not indeed wear in a fashionable
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Shirley — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Shirley — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/leaves,motif/nature,motif/night,motif/prayer,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/education,concept/friendship,concept/nature,setting/paris,character/caroline_helstone"></span>
 
 
 walking in dirty roads. Believe me, as I paced up the aisle, composed
@@ -55953,7 +55953,7 @@ This question was addressed to an individual who now entered the room, a
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Shirley — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Shirley — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/garden,motif/home,motif/horse,motif/night,motif/road,motif/spring,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/poverty"></span>
 
 
 young girl, wrapped in a [[Winter|winter]] mantle, the folds of which were gathered
@@ -56255,7 +56255,7 @@ north [[Wind|wind]]."
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="Shirley — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="Shirley — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/horse,motif/love,motif/moon,motif/spring,motif/time,motif/well,concept/courage,concept/hope,concept/poverty,concept/truth,character/fred"></span>
 
 
 [[Poverty|poverty]] of the working-man, as the embarrassed penury of the man in
@@ -56493,7 +56493,7 @@ Caroline had not yet commenced her exercise.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Shirley — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Shirley — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/desire,motif/nature,motif/time,motif/well,motif/window,motif/winter,concept/beauty,concept/education,concept/faith,concept/nature,character/caroline_helstone,character/coriolanus"></span>
 
 
 CHAPTER VI.
@@ -56683,7 +56683,7 @@ face, she would leave the mill reluctantly to go back to the cottage,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Shirley — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Shirley — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/time,motif/well,concept/nature,concept/self"></span>
 
 
 and then, while she completed the exercise, or worked out the sum (for
@@ -56881,7 +56881,7 @@ thick handkerchief tied round the throat, and a large, servant-like
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Shirley — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Shirley — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/desire,motif/fire,motif/home,motif/horse,motif/moon,motif/soul,motif/time,motif/well,motif/wind"></span>
 
 
 black apron, which spoiled everything. On no account would mademoiselle
@@ -57109,7 +57109,7 @@ difference."
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Shirley — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Shirley — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/horse,motif/nature,motif/night,motif/time,motif/water,motif/wind,concept/greatness,concept/nature,concept/poverty,concept/wonder"></span>
 
 
 by the back-way, when I went to get some [[Water|water]] at the pump five minutes
@@ -57447,7 +57447,7 @@ Before Hortense followed them thither, Caroline had only [[Time|time]] again to
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Shirley — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Shirley — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/fire,motif/memory,motif/night,concept/education,concept/self,concept/truth,concept/union,concept/vanity"></span>
 
 
 question, "Not my enemy, Robert?" And Moore, Quaker-like, had replied
@@ -57679,7 +57679,7 @@ entirely English. You shall read an English book."
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Shirley — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Shirley — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/home,motif/nature,motif/night,motif/soul,motif/well,concept/greatness,concept/nature,concept/pride,concept/revenge,concept/truth,character/aufidius,character/coriolanus"></span>
 
 
 "An old English book?"
@@ -57929,7 +57929,7 @@ strength--came on in succession and carried with them in their deep,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="Shirley — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="Shirley — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/desire,motif/garden,motif/grave,motif/hill,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/courage,concept/fear,concept/friendship,concept/nature,concept/pride,character/coriolanus"></span>
 
 
 fast flow the heart and mind of reader and listener.
@@ -58285,7 +58285,7 @@ I know it very [[Well|well]]; I have had it before. It will be gone to-morrow."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Shirley — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Shirley — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/lover,archetype/mentor,archetype/prophet,motif/blood,motif/dawn,motif/death,motif/dreams,motif/flowers,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/poison,motif/rose,motif/spring,motif/summer,motif/time,motif/well,concept/beauty,concept/friendship,concept/hope,concept/nature,concept/truth,character/caroline_helstone"></span>
 
 
 CHAPTER VII.
@@ -58507,7 +58507,7 @@ up the lane! He does not flatter or say foolish things; his [[Love|love]]-making
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Shirley — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Shirley — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/bees,motif/flowers,motif/garden,motif/marriage,motif/rose,motif/spring,motif/time,motif/window,concept/hope,concept/truth,character/mermaid"></span>
 
 
 [[Hope|hope]] he will be so some day) is not like what we read of in books,--it
@@ -58747,7 +58747,7 @@ Helstone, Matthewson Helstone's brother.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Shirley — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Shirley — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/lover,motif/clock,motif/cross,motif/garden,motif/marriage,motif/nature,motif/night,motif/road,motif/silence,motif/time,concept/doubt,concept/nature,concept/self,character/phantom"></span>
 
 
 Rumours had reached her ear of what that father's character was; old
@@ -58955,7 +58955,7 @@ hand and arm have swelled and quivered long with torture, the squeezed
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Shirley — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Shirley — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/time,concept/courage,concept/hope,concept/nature,concept/suffering,concept/truth,character/caroline_helstone,character/robert_moore"></span>
 
 
 scorpion will die, and you will have learned the great lesson how to
@@ -59169,7 +59169,7 @@ Robert. For one second she thought it was Robert--for one second she
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Shirley — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Shirley — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/night,motif/road,motif/silence,motif/time,motif/well,concept/beauty,concept/fear,concept/truth,form/novel,histref/bible,character/chorus,character/speed,character/sunday"></span>
 
 
 exulted; but the voice asking for Mr. Helstone undeceived her. That
@@ -59371,7 +59371,7 @@ while Mr. Langweilig, the German Moravian minister, was speaking. I felt
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Shirley — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Shirley — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/cross,motif/home,motif/time,concept/conversion,concept/hope,concept/regeneration,concept/self,character/phantom"></span>
 
 
 quite ashamed, he nodded so."
@@ -59597,7 +59597,7 @@ listening to them! But I suppose I am a selfish [[Fool|fool]]. These are very
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="Shirley — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="Shirley — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,motif/silence,motif/time,motif/well,concept/doubt,concept/self,character/sunday"></span>
 
 
 respectable gentlefolks. I ought, no [[Doubt|doubt]], to be proud of their
@@ -59803,7 +59803,7 @@ right-hand and left-hand neighbours, and even with his _vis-à-vis_, Miss
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="Shirley — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="Shirley — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/marriage,motif/silence,motif/swallow,motif/time,concept/pride,concept/self,character/queen"></span>
 
 
 Mary; though, as Mary was the most sensible, the least coquettish, of
@@ -60005,7 +60005,7 @@ in persuading Miss Harriet to allow herself to be led to the instrument.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_09" data-title="Shirley — Chapter 7 (part 9)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_09" data-title="Shirley — Chapter 7 (part 9)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/soul,motif/time,concept/honour,concept/solitude"></span>
 
 
 Then out came the pieces of his flute (he always carried them in his
@@ -60201,7 +60201,7 @@ a sort of apology:--
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_10" data-title="Shirley — Chapter 7 (part 10)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_10" data-title="Shirley — Chapter 7 (part 10)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/lamb,motif/night,motif/prayer,motif/time,motif/window,concept/doubt,concept/fear,concept/forgiveness,concept/hope,concept/identity,concept/providence,concept/revenge,concept/self"></span>
 
 
 There was something so diffident and downcast in the air and tone with
@@ -60465,7 +60465,7 @@ good-[[Night|night]]."
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Shirley — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Shirley — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/crown,motif/fire,motif/horse,motif/secrets,motif/spring,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/wonder,character/phantom"></span>
 
 
 CHAPTER VIII.
@@ -60713,7 +60713,7 @@ half his person being dyed of the deepest tint of indigo, leaning on the
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Shirley — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Shirley — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/love,motif/night,motif/noon,motif/time,motif/water,motif/well,concept/body,character/fred,character/sunday"></span>
 
 
 desk. His master's answer to the rector's question was a smile. Joe took
@@ -60947,7 +60947,7 @@ shovel-hat on his head, watching him significantly with his little, keen
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Shirley — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Shirley — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/night,motif/time,motif/well,motif/window,concept/self,character/coriolanus"></span>
 
 
 eyes.
@@ -61181,7 +61181,7 @@ a whine) "it's the Looard's own purpose, and that's better."
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Shirley — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Shirley — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/home,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/ambition,concept/nature,concept/providence,concept/self"></span>
 
 
 Unless your errand be something of that sort, I cannot see what you have
@@ -61395,7 +61395,7 @@ choose. Whoever, after hearing this, shall dare to interfere with me may
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Shirley — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Shirley — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/home,motif/silence,motif/time,motif/well,concept/body,concept/faith,concept/hope,character/pistol"></span>
 
 
 just take the consequences. An example shall prove I'm in earnest."
@@ -61609,7 +61609,7 @@ plain-looking, dark-complexioned, and already rather gray-haired. He
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Shirley — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Shirley — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/time,motif/well,concept/suffering"></span>
 
 
 stooped a little in walking. His countenance, as he came on, wore an
@@ -61817,7 +61817,7 @@ friends!" they separated.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Shirley — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Shirley — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/dance,motif/fire,motif/frost,motif/garden,motif/night,motif/pain,motif/prayer,motif/road,motif/rose,motif/spring,motif/time,motif/well,motif/window,concept/body,form/hymn"></span>
 
 
 CHAPTER IX.
@@ -62067,7 +62067,7 @@ And fuel, and [[Fire|fire]]!"
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Shirley — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Shirley — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/lamb,motif/lion,motif/love,motif/nature,motif/night,motif/noon,motif/prayer,motif/summer,motif/time,motif/water,motif/well,concept/mercy,concept/nature,histref/milton,character/milton,character/saturn"></span>
 
 
 Here followed an interval of clamorous [[prayer]], accompanied by fearful
@@ -62317,7 +62317,7 @@ It may be supposed that the children of such a pair were not likely to
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Shirley — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Shirley — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/rebel,archetype/shadow,motif/birds,motif/death,motif/flowers,motif/grave,motif/mirror,motif/nature,motif/night,motif/river,motif/rose,motif/soul,motif/tears,concept/body,concept/doubt,concept/nature,concept/solitude"></span>
 
 
 turn out quite ordinary, commonplace beings; and they were not. You see
@@ -62505,7 +62505,7 @@ partiality--no rights of primogeniture are to be allowed in that [[house]];
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Shirley — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Shirley — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/rebel,archetype/tyrant,motif/blood,motif/fire,motif/home,motif/marriage,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/nature,concept/pride,concept/wonder,character/robert_moore"></span>
 
 
 but Matthew is never to be vexed, never to be opposed; they avert
@@ -62707,7 +62707,7 @@ should be at her own expense. "He has repented it in sackcloth and
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Shirley — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Shirley — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/marriage,motif/rose,motif/soul,motif/summer,motif/time,motif/well,concept/doubt,concept/faith,character/robert_moore"></span>
 
 
 ashes, [[Robert Moore]], as you may [[Well|well]] believe when you see his
@@ -62947,7 +62947,7 @@ sentimental," urged Mr. Moore.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Shirley — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Shirley — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/prayer,motif/rose,motif/time,motif/well,concept/nature,concept/wonder,setting/italy,character/caroline_helstone,character/robert_moore,character/sunday"></span>
 
 
 "When Jessy and I went to spend the day at Whinbury with Kate and Susan
@@ -63193,7 +63193,7 @@ varied enough for thy exacting taste; no perfumer's stores essences
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_07" data-title="Shirley — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_07" data-title="Shirley — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/nature,motif/rose,motif/time,motif/water,concept/hope,concept/nature,character/caroline_helstone"></span>
 
 
 exquisite enough for thy fastidious senses."
@@ -63463,7 +63463,7 @@ fellow who preaches at the chapel yonder sometimes."
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_08" data-title="Shirley — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_08" data-title="Shirley — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/frost,motif/home,motif/love,motif/marriage,motif/night,motif/road,motif/well,concept/beauty,concept/hope,concept/poverty,concept/truth,concept/wonder,character/robert_moore"></span>
 
 
 "Yes."
@@ -63773,7 +63773,7 @@ be wondering where ye are."
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Shirley — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Shirley — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/spring,motif/time,concept/honour,concept/pride,concept/self,concept/truth,setting/russia,character/christ"></span>
 
 
 CHAPTER X.
@@ -63963,7 +63963,7 @@ newspapers. Mr. Helstone denounced Moore as a Jacobin, ceased to see
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Shirley — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Shirley — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/secrets,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,character/robert_moore"></span>
 
 
 him, would not even speak to him when they met. He intimated also to his
@@ -64165,7 +64165,7 @@ meal in the [[house]]; he lived in the counting-[[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Shirley — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Shirley — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/autumn,motif/birds,motif/fire,motif/grave,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/spring,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/imagination,concept/truth,character/phantom,character/sunday"></span>
 
 
 At church only Caroline had the chance of seeing him, and there she
@@ -64359,7 +64359,7 @@ She reflected.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Shirley — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Shirley — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/love,motif/mirror,motif/soul,motif/time,motif/well,concept/body,concept/humility,concept/renunciation,concept/self,concept/wonder"></span>
 
 
 Robert does not care for me, I shall never have a husband to [[Love|love]], nor
@@ -64579,7 +64579,7 @@ month; that the hues of her complexion were paler, her eyes changed--a
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Shirley — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Shirley — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/flowers,motif/garden,motif/nature,motif/rose,motif/time,concept/courage,concept/doubt,concept/nature,concept/self,concept/solitude,concept/suffering"></span>
 
 
 wan shade seemed to circle them; her countenance was dejected--she was
@@ -64777,7 +64777,7 @@ auditress ventured now and then to put in a palliative word she set it
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="Shirley — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="Shirley — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/tears,motif/time,motif/well,concept/eternity,concept/loneliness,concept/longing,concept/mercy,concept/self,concept/truth"></span>
 
 
 aside with a certain disdain. Still, though thus pitiless in moral
@@ -64971,7 +64971,7 @@ supply; their sufferings, which she longed to alleviate. She was
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_07" data-title="Shirley — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_07" data-title="Shirley — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/home,motif/love,motif/memory,motif/nature,motif/pain,motif/spring,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/charity,concept/fear,concept/friendship,concept/imagination,concept/nature,concept/suffering,concept/truth,concept/wonder,form/elegy,form/satire,character/christ,character/nurse,character/robert_moore,character/sunday"></span>
 
 
 religious, a professor of religion--what some would call "a saint;" and
@@ -65151,7 +65151,7 @@ its treasures were freezing gradually to barren stagnation.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Shirley — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Shirley — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/garden,motif/home,motif/journey,motif/love,motif/marriage,motif/night,motif/pain,motif/rose,motif/sleep,motif/stars,motif/tears,motif/time,motif/well,motif/window,concept/courage,concept/despair,concept/doubt,concept/friendship,concept/hope"></span>
 
 
 CHAPTER XI.
@@ -65347,7 +65347,7 @@ cultivated the grounds, and maintained the [[house]] in habitable condition.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Shirley — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Shirley — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/ghost,archetype/shadow,motif/cross,motif/desire,motif/garden,motif/home,motif/love,motif/moon,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/longing,concept/providence,character/robert_moore"></span>
 
 
 If Fieldhead had few other merits as a building, it might at least be
@@ -65573,7 +65573,7 @@ There is plenty of [[Time|time]] to save and take measures. Don't make yourself
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Shirley — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Shirley — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/dreams,motif/flowers,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/spring,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/fear,concept/nature,character/shirley_keeldar"></span>
 
 
 anxious respecting the future. Is that what frets you?"
@@ -65829,7 +65829,7 @@ were going.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Shirley — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Shirley — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/spring,motif/time,motif/well,motif/window,concept/courage,concept/pride,concept/self"></span>
 
 
 [[Night|night]]--that party to which you would not go. I was pleased with her. I
@@ -66039,7 +66039,7 @@ country, etc.; but the impracticable Mr. Helstone presently found
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Shirley — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Shirley — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/garden,motif/marriage,motif/well,concept/faith,concept/history,concept/hope,concept/providence,form/history,character/queen,character/shirley_keeldar"></span>
 
 
 himself somewhat deaf. Whatever she said he affected not to hear
@@ -66295,7 +66295,7 @@ silk from her work-box, and placed it on Caroline's lap; and then she
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="Shirley — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="Shirley — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/flowers,motif/grave,motif/hill,motif/silence,motif/summer,motif/time,concept/doubt,concept/hope,form/sketch"></span>
 
 
 put her hands behind her, and stood bending slightly towards her guest,
@@ -66655,7 +66655,7 @@ gateway.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Shirley — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Shirley — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/birds,motif/lightning,motif/love,motif/noon,motif/road,motif/silence,motif/storm,motif/summer,motif/well,motif/wind,motif/window,setting/mountains,character/caroline_helstone,character/shirley_keeldar"></span>
 
 
 CHAPTER XII.
@@ -66911,7 +66911,7 @@ world."
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Shirley — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Shirley — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/blood,motif/grave,motif/leaves,motif/nature,motif/rose,motif/silence,motif/sleep,motif/snow,motif/summer,motif/time,motif/wind,concept/nature,form/sketch,character/bottom,character/robert_moore,character/robin_hood"></span>
 
 
 riotous climax, while the sky was all cataract, the earth all flood, I
@@ -67189,7 +67189,7 @@ young--two years ago."
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Shirley — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Shirley — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/animals,motif/childhood,motif/fire,motif/home,motif/leaves,motif/love,motif/marriage,motif/nature,motif/pain,motif/well,concept/doubt,concept/hope,concept/nature,concept/pride,concept/solitude,concept/truth,concept/wonder"></span>
 
 
 "A cousin, you know, is different to a stranger."
@@ -67437,7 +67437,7 @@ month,' he would say."
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Shirley — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Shirley — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/frost,motif/snow,motif/well,motif/window,concept/beauty,concept/mortality,concept/self,setting/egypt,character/caroline_helstone"></span>
 
 
 "Let me hear."
@@ -67709,7 +67709,7 @@ portrait from the life, I presume?"
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Shirley — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Shirley — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/nature,motif/time,motif/well,motif/window,concept/beauty,concept/friendship,concept/hope,concept/nature,concept/solitude,concept/truth,character/shirley_keeldar"></span>
 
 
 "It is, and is said to be a good likeness. Before her [[Marriage|marriage]] she was
@@ -67961,7 +67961,7 @@ rich--very rich--compared with her new friend: one possessed a clear
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="Shirley — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="Shirley — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/ship,motif/soul,motif/storm,motif/well,motif/wind,motif/window,concept/beauty,concept/deception,concept/hope,concept/self,concept/wonder,form/dirge,form/fragment,setting/ship"></span>
 
 
 thousand a year, the other not a penny; and yet there was a safe sense
@@ -68175,7 +68175,7 @@ And whelmed in deeper gulfs than he."
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_07" data-title="Shirley — Chapter 12 (part 7)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_07" data-title="Shirley — Chapter 12 (part 7)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/tyrant,motif/love,motif/nature,motif/pain,motif/ship,motif/soul,motif/well,motif/wind,concept/despair,concept/friendship,concept/nature,concept/solitude,concept/wonder,setting/london,setting/ship"></span>
 
 
 "Pity him, [[Shirley]]? What can I do else? He was nearly broken-hearted
@@ -68417,7 +68417,7 @@ hearts with a single [[Tyrant|tyrant]] master-torture. Besides, successful labou
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_08" data-title="Shirley — Chapter 12 (part 8)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_08" data-title="Shirley — Chapter 12 (part 8)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/grave,motif/home,motif/night,motif/well,concept/self,setting/london"></span>
 
 
 has its recompense; a vacant, weary, lonely, hopeless life has none."
@@ -68571,7 +68571,7 @@ presently announced, and the rector's niece went [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Shirley — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Shirley — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/summer,motif/tears,motif/time,motif/well,concept/beauty,concept/indolence,concept/nature,character/robert_moore"></span>
 
 
 CHAPTER XIII.
@@ -68803,7 +68803,7 @@ as I think, that he is at this instant looking down on a fine face; and
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Shirley — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Shirley — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/death,motif/fire,motif/nature,motif/night,motif/silence,motif/sleep,motif/soul,motif/well,concept/beauty,concept/fear,concept/nature,concept/suffering,concept/temptation,character/michael,character/nurse"></span>
 
 
 he must think it with a man's brain, not with mine. She has such
@@ -69067,7 +69067,7 @@ poaching, and often goes abroad at [[Night|night]] with his gun."
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Shirley — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Shirley — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/prophet,motif/dreams,motif/home,motif/love,motif/moon,motif/night,motif/sleep,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/melancholy,concept/temptation,character/michael,character/satan"></span>
 
 
 "I have already had the luck to meet him. We held a long argument
@@ -69337,7 +69337,7 @@ are graves under them. I rather long to leave the rectory."
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Shirley — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Shirley — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/ghosts,motif/home,motif/nature,motif/time,motif/well,concept/friendship,concept/nature,concept/poverty"></span>
 
 
 under a darker aspect than I used to do. I have fears I never used to
@@ -69573,7 +69573,7 @@ showed her concern for Miss Helstone in an indirect way, by asking her
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Shirley — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Shirley — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/temptress,motif/birds,motif/dreams,motif/fire,motif/mirror,motif/moon,motif/night,motif/spring,motif/summer,motif/window,concept/hope"></span>
 
 
 if the [[Fire|fire]] made her too warm, placing a screen between her chair and
@@ -69787,7 +69787,7 @@ with a wild shriek, she dives?"
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="Shirley — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="Shirley — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/garden,motif/grave,motif/home,motif/rose,motif/time,motif/well,motif/window,concept/hope"></span>
 
 
 terrors, nor monsters."
@@ -70017,7 +70017,7 @@ the hue on a pheasant's neck. A glancing bracelet on her arm produced
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_07" data-title="Shirley — Chapter 13 (part 7)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_07" data-title="Shirley — Chapter 13 (part 7)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/flowers,motif/garden,motif/home,motif/love,motif/memory,motif/nature,motif/rose,motif/tears,motif/time,motif/well,concept/doubt,concept/exile,concept/hope,concept/nature,concept/self,form/sketch"></span>
 
 
 the contrast of gold and ivory. There was something brilliant in the
@@ -70239,7 +70239,7 @@ The [[Clock|clock]] struck nine; it was Caroline's [[Time|time]] for going [[Hom
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_08" data-title="Shirley — Chapter 13 (part 8)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_08" data-title="Shirley — Chapter 13 (part 8)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/flowers,motif/garden,motif/home,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/friendship,concept/wonder"></span>
 
 
 gathered up her work, put the embroidery, the scissors, the thimble into
@@ -70535,7 +70535,7 @@ long rooms; girls were working at the other end, and amongst half a
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_09" data-title="Shirley — Chapter 13 (part 9)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_09" data-title="Shirley — Chapter 13 (part 9)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/clock,motif/garden,motif/home,motif/night,motif/storm,motif/summer,motif/time,motif/wheel,motif/wind,motif/window,concept/hope,concept/imagination,concept/wonder"></span>
 
 
 dozen of them, moving to and fro, I seemed to see a figure resembling
@@ -70787,7 +70787,7 @@ answered her upward by a downward gaze, said "Good-[[Night|night]]!" and went.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_10" data-title="Shirley — Chapter 13 (part 10)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_10" data-title="Shirley — Chapter 13 (part 10)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/clock,motif/dawn,motif/dreams,motif/fire,motif/garden,motif/love,motif/memory,motif/night,motif/silence,motif/sleep,motif/stars,motif/time,motif/wind,motif/window"></span>
 
 
 Caroline was in a moment at the kitchen door behind Fanny. The [[Shadow|shadow]] of
@@ -70891,7 +70891,7 @@ couch, chill and dejected.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Shirley — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Shirley — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/rose,motif/secrets,motif/soul,motif/time,motif/window,concept/beauty,concept/doubt,concept/fear,concept/friendship,concept/poverty,concept/providence,concept/self,concept/solitude,concept/truth"></span>
 
 
 CHAPTER XIV.
@@ -71129,7 +71129,7 @@ your hand in his long fingers, just as he went out at my gate."
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Shirley — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Shirley — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/nature,motif/pain,motif/silence,motif/spring,motif/well,concept/conscience,concept/fear,concept/friendship,concept/nature,concept/truth"></span>
 
 
 "That is nothing. I am not a stranger, you know. I am an old
@@ -71339,7 +71339,7 @@ parish, yet I viewed in [[Silence|silence]] items of soap and bleaching-powder
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Shirley — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Shirley — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/night,motif/rose,motif/seasons,motif/soul,motif/well,concept/charity,concept/courage,concept/mercy,concept/poverty,concept/self,concept/suffering"></span>
 
 
 calculated to satisfy the solicitude of the most anxious inquirer after
@@ -71549,7 +71549,7 @@ To have consulted her--and this they knew by instinct--would only have
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Shirley — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Shirley — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/silence,motif/tears,concept/doubt,concept/honour,concept/truth"></span>
 
 
 been to involve her in painful embarrassment. She was far better
@@ -71747,7 +71747,7 @@ elevation of his piety, won him friends in every grade. His poor clerk
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Shirley — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Shirley — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/fear,concept/friendship,concept/nature,concept/suffering"></span>
 
 
 and sexton delighted in him; the noble patron of his living esteemed him
@@ -71975,7 +71975,7 @@ glee.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Shirley — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Shirley — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/spring,motif/time,motif/well,motif/window,concept/hope,concept/self,concept/temptation,concept/truth"></span>
 
 
 CHAPTER XV.
@@ -72207,7 +72207,7 @@ only saved from falling by a clutch at the banisters, which made the
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Shirley — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Shirley — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/lamb,motif/lion,motif/love,motif/marriage,motif/nature,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/fear,concept/nature,concept/self,concept/wonder"></span>
 
 
 whole structure creak again.
@@ -72401,7 +72401,7 @@ fond of that brute--'tis so ugly--a mere carter's dog. Pray hang him."
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Shirley — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Shirley — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/flowers,motif/garden,motif/home,motif/nature,motif/spring,motif/summer,motif/time,concept/doubt,concept/fear,concept/hope,concept/nature"></span>
 
 
 appropriate to the fair sex. Ladies generally like lap-[[dogs]]."
@@ -72619,7 +72619,7 @@ the best terms in the world; and his devotion to the heiress was quite
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Shirley — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Shirley — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/flowers,motif/home,motif/leaves,motif/nature,motif/time,motif/well,concept/hope,concept/nature,concept/self,character/sunday"></span>
 
 
 disinterested, since it prejudiced in nothing his faithful allegiance to
@@ -72833,7 +72833,7 @@ looks spotless as we fancy angels, is to Him but frailty, needing the
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Shirley — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Shirley — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/garden,motif/marriage,motif/mirror,motif/rose,motif/time,motif/well,concept/beauty,concept/hope,concept/humility,character/christ,character/hamlet"></span>
 
 
 Let us each and all cherish [[Humility|humility]]--I, as you, my young friends; and
@@ -73141,7 +73141,7 @@ enjoyment.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Shirley — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Shirley — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/garden,motif/grave,motif/moon,motif/nature,motif/night,motif/rose,motif/storm,motif/summer,motif/well,motif/wheel,motif/wind,concept/doubt,concept/nature"></span>
 
 
 CHAPTER XVI.
@@ -73345,7 +73345,7 @@ of the schools. The children's feast was to be spread in the open air.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Shirley — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Shirley — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/lamb,motif/nature,motif/time,motif/well,concept/courage,concept/fear,concept/nature,concept/self,character/caroline_helstone,character/speed"></span>
 
 
 At one o'[[Clock|clock]] the troops were to come in; at two they were to be
@@ -73539,7 +73539,7 @@ She presented quite a contrast to Caroline. There was style in every
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Shirley — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Shirley — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/hill,motif/love,motif/nature,motif/road,motif/snow,motif/time,motif/well,concept/fear,concept/nature,concept/poverty,concept/self,setting/court"></span>
 
 
 fold of her dress and every line of her figure. The rich silk suited her
@@ -73729,7 +73729,7 @@ her a general favourite, for it robbed her very raillery of its sting,
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Shirley — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Shirley — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/fool,motif/bells,motif/blood,motif/flowers,motif/love,motif/nature,motif/road,motif/rose,motif/time,motif/water,motif/wind,motif/window,concept/body,concept/friendship,concept/nature,concept/pride,concept/reform,concept/revenge,concept/self,character/caroline_helstone,character/shirley_keeldar,character/sunday"></span>
 
 
 and gave her serious or smiling conversation a happy charm; nor did it
@@ -74003,7 +74003,7 @@ church fell. God save it! God also [[Reform|reform]] it!
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Shirley — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Shirley — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/lover,archetype/tyrant,motif/blood,motif/cross,motif/desire,motif/fire,motif/prayer,motif/soul,motif/time,motif/well,concept/body,concept/faith,concept/honour,concept/imagination,concept/longing,form/hymn"></span>
 
 
 CHAPTER XVII.
@@ -74253,7 +74253,7 @@ Malone, between them, held him up, and brought him through the business,
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Shirley — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Shirley — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/birds,motif/flowers,motif/grave,motif/home,motif/night,motif/rose,motif/water,motif/well,motif/wind,concept/wonder,form/hymn"></span>
 
 
 whole in limb, though sorely tried in [[Wind|wind]].
@@ -74443,7 +74443,7 @@ Mr. Helstone, and Mr. Hall [[Rose|rose]], so did all present, and grace was sung
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Shirley — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Shirley — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/death,motif/lightning,motif/memory,motif/rose,motif/soul,motif/time,motif/well,concept/solitude,concept/truth"></span>
 
 
 to the accompaniment of the music; and then tea began. She was kept too
@@ -74633,7 +74633,7 @@ the cause of depriving her of the esteem of Mr. Ramsden and the
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Shirley — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Shirley — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/night,motif/soul,motif/well,concept/courage,concept/doubt,concept/friendship,concept/melancholy,concept/nature,character/robert_moore"></span>
 
 
 invaluable [[Friendship|friendship]] of Mr. Samuel Wynne.
@@ -74825,7 +74825,7 @@ joining in the game as [[Well|well]] as the younger ones, Caroline was again lef
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_05" data-title="Shirley — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_05" data-title="Shirley — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/love,motif/night,concept/beauty,concept/wonder,setting/court"></span>
 
 
 perceiving from afar her isolation, hastened to her side.
@@ -75103,7 +75103,7 @@ now was his dark, quiet, business countenance. As [[Shirley]] had said, a
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_06" data-title="Shirley — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_06" data-title="Shirley — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/hope"></span>
 
 
 certain hardness characterized his air, while his eye was excited, but
@@ -75337,7 +75337,7 @@ summoning all to the church.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Shirley — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Shirley — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/crown,motif/death,motif/lightning,motif/love,motif/moon,motif/nature,motif/night,motif/prayer,motif/road,motif/rose,motif/spring,motif/summer,motif/time,motif/well,motif/window,concept/immortality,concept/nature,histref/milton,character/hyperion,character/milton,character/prometheus,character/satan,character/saturn"></span>
 
 
 CHAPTER XVIII.
@@ -75567,7 +75567,7 @@ seemed working with unwonted power, leaned against an upright headstone;
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Shirley — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Shirley — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/childhood,motif/desire,motif/flowers,motif/garden,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/sleep,motif/soul,concept/aspiration,concept/fear,concept/imagination,concept/longing,concept/nature,concept/pride"></span>
 
 
 she fixed her eyes on the deep-burning west, and sank into a pleasurable
@@ -75781,7 +75781,7 @@ give you something, what a difficulty I had in making you take it!"
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Shirley — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Shirley — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/rebel,motif/prayer,motif/soul,motif/well,concept/doubt,concept/pride,concept/wonder,character/lucifer,character/michael"></span>
 
 
 especially from sich as ye. Look at t' difference between us. Ye're a
@@ -76019,7 +76019,7 @@ here was touching on that subject, if I'm not mista'en."
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Shirley — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Shirley — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/home,motif/lamb,motif/silence,motif/summer,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/suffering,concept/truth,character/sunday"></span>
 
 
 see a newspaper every day, and two of a [[Sunday]]?"
@@ -76331,7 +76331,7 @@ and you shall choose what you like best out of Mrs. Gill's store-room."
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Shirley — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Shirley — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/night,motif/noon,motif/road,motif/rose,motif/silence,motif/sleep,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/honour"></span>
 
 
 CHAPTER XIX.
@@ -76581,7 +76581,7 @@ fellow-creature. It is difficult to fancy that circumstances could nerve
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Shirley — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Shirley — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/garden,motif/home,motif/night,motif/road,motif/rose,motif/sleep,motif/stars,motif/water,motif/wind,motif/window,concept/fear,concept/wonder"></span>
 
 
 my arm to strike [[Home|home]] with this long knife."
@@ -76853,7 +76853,7 @@ parson?"
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Shirley — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Shirley — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/death,motif/fire,motif/moon,motif/night,motif/road,motif/rose,motif/soul,motif/spring,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/truth,character/pistol,character/speed"></span>
 
 
 I know his chamber."
@@ -77121,7 +77121,7 @@ the north. One second elapsed. Further off burst a like note in the
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Shirley — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Shirley — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/night,motif/road,motif/stars,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/heroism,concept/longing,concept/suffering,concept/wonder,character/queen"></span>
 
 
 south. Within the space of three minutes similar signals boomed in the
@@ -77385,7 +77385,7 @@ volley of stones had saluted the broad front of the mill, with all its
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_05" data-title="Shirley — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_05" data-title="Shirley — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/rebel,motif/dawn,motif/death,motif/fire,motif/hill,motif/lightning,motif/lion,motif/night,motif/rose,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/window"></span>
 
 
 windows; and now every pane of every lattice lay in shattered and
@@ -77605,7 +77605,7 @@ Hollow was shady and dewy, the [[Hill|hill]] at its head was green; but just
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_06" data-title="Shirley — Chapter 19 (part 6)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_06" data-title="Shirley — Chapter 19 (part 6)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dust,motif/fire,motif/home,motif/horse,motif/leaves,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/body,concept/greatness,concept/wonder"></span>
 
 
 here, in the centre of the sweet glen, Discord, broken loose in the
@@ -77847,7 +77847,7 @@ am not so."
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Shirley — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Shirley — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/dawn,motif/desert,motif/love,motif/night,motif/pain,motif/prayer,motif/rose,motif/sleep,motif/soul,motif/spring,motif/wind,motif/winter,concept/beauty,concept/despair,concept/faith,concept/hope,concept/resignation,concept/suffering,form/dirge,form/novel,setting/desert"></span>
 
 
 CHAPTER XX.
@@ -78047,7 +78047,7 @@ should I be? Dead under a cairn of avenging stones in half an hour."
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Shirley — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Shirley — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/time,concept/doubt,concept/hope,concept/wonder,setting/court"></span>
 
 
 "[[Shirley]], you chatter so, I can't fasten you. Be still. And, after all,
@@ -78263,7 +78263,7 @@ There is nothing the lower orders like better than a little downright
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Shirley — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Shirley — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/animals,motif/dust,motif/fire,motif/home,motif/night,motif/time,motif/window,concept/body,concept/courage,concept/fear,form/essay,setting/court"></span>
 
 
 good-humoured rating. Flattery they scorn very much; honest abuse they
@@ -78475,7 +78475,7 @@ all gory, stiff, and swelled on a mat at her feet. She wept furtively
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Shirley — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Shirley — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/pride,concept/truth"></span>
 
 
 over him sometimes, and murmured the softest words of pity and
@@ -78703,7 +78703,7 @@ demanded what had become of the wounded.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="Shirley — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="Shirley — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/well,concept/doubt,concept/hope,setting/court,character/nurse"></span>
 
 
 "There was not a single man hurt on our side," was the answer.
@@ -78937,7 +78937,7 @@ first leisure I have I will see you again."
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Shirley — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Shirley — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/guilt,concept/nature,concept/self"></span>
 
 
 CHAPTER XXI.
@@ -79169,7 +79169,7 @@ themselves."
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Shirley — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Shirley — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/grave,motif/silence,motif/well,concept/courage,concept/freedom,concept/honour,concept/wonder,histref/reformation,character/robert_moore"></span>
 
 
 He has plenty of [[Courage|courage]], but the greatest amount of gallantry that ever
@@ -79367,7 +79367,7 @@ appear in the utmost need of [[Reformation|reformation]]. Turning away distresse
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Shirley — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Shirley — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/cave,motif/home,motif/love,motif/summer,motif/well,concept/courage,concept/doubt,concept/pride,concept/reform,concept/revenge,concept/solitude,concept/union,form/lyric,character/bottom"></span>
 
 
 minster tower and village spire--ay, as distressed as a churchwarden who
@@ -79615,7 +79615,7 @@ singing of many [[Birds|birds]], for which that shade made a [[Home|home]]. This
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Shirley — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Shirley — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/bells,motif/birds,motif/flowers,motif/hill,motif/love,motif/nature,motif/time,motif/well,concept/fear,concept/history,concept/hope,concept/nature,concept/solitude,form/history"></span>
 
 
 trodden way. The freshness of the wood [[Flowers|flowers]] attested that foot of man
@@ -79811,7 +79811,7 @@ been--I was going to say happier, but that would be untrue." She paused.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Shirley — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Shirley — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/well,concept/fear,concept/hope,concept/humility,concept/nature,concept/pride,concept/self,concept/vanity"></span>
 
 
 "How untrue? You are fond of Miss Keeldar, are you not, my dear?"
@@ -80005,7 +80005,7 @@ attempt to be a governess, as the duties of the position would be too
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Shirley — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Shirley — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/noon,motif/rose,motif/time,motif/well,concept/courage,concept/despair,concept/eternity,concept/freedom,concept/history,concept/hope,concept/mercy,concept/nature,concept/self,concept/wonder,form/history"></span>
 
 
 severe for your constitution. Not one word of disrespect would I breathe
@@ -80259,7 +80259,7 @@ over life.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_07" data-title="Shirley — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_07" data-title="Shirley — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/lamb,motif/love,motif/marriage,motif/storm,motif/tears,motif/time,concept/fear,concept/hope,concept/solitude,concept/unattainable"></span>
 
 
 rather an exceptional than an average character. I [[Hope|hope]], at least, the
@@ -80391,7 +80391,7 @@ usual, still and shy.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Shirley — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Shirley — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/quest,archetype/tyrant,motif/dawn,motif/death,motif/dust,motif/flowers,motif/horse,motif/love,motif/nature,motif/road,motif/summer,motif/time,motif/well,motif/window,concept/fear,concept/history,concept/nature,concept/suffering,form/history"></span>
 
 
 CHAPTER XXII.
@@ -80589,7 +80589,7 @@ just-then-remembered old ivory-backed needle-book or older china-topped
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Shirley — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Shirley — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/garden,motif/home,motif/love,motif/moon,motif/nature,motif/soul,motif/spring,motif/time,motif/water,motif/window,concept/aspiration,concept/nature,setting/court"></span>
 
 
 work-box, quite unneeded, but which seems at the moment indispensable;
@@ -80783,7 +80783,7 @@ will die without knowing, the full value of that [[Spring|spring]] whose bright
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Shirley — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Shirley — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/nature,motif/noon,motif/storm,motif/summer,motif/tears,motif/water,concept/fanaticism,concept/fear,concept/hope,concept/indolence,concept/nature,concept/solitude,concept/wonder,setting/castle,character/sunday"></span>
 
 
 fresh bubbling in her heart keeps it green.
@@ -80973,7 +80973,7 @@ displease God by my words; that I am either impious or impatient,
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Shirley — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Shirley — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/desert,motif/home,motif/marriage,motif/night,motif/pain,motif/rose,motif/time,motif/well,concept/honour,concept/hope,concept/self,setting/desert"></span>
 
 
 irreligious or sacrilegious. My consolation is, indeed, that God hears
@@ -81131,7 +81131,7 @@ age."
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Shirley — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Shirley — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/flowers,motif/garden,motif/home,motif/love,motif/rose,motif/silence,motif/summer,motif/time,motif/well,motif/window,concept/solitude"></span>
 
 
 CHAPTER XXIII.
@@ -81339,7 +81339,7 @@ the head, was of the sort called [[Love|love]]-ribbon. There was a good deal of
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Shirley — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Shirley — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/death,motif/grave,motif/machine,motif/rose,motif/soul,motif/stars,motif/well,concept/beauty,setting/italy,character/queen,character/shirley_keeldar"></span>
 
 
 it, I may say, a very great deal. Mrs. Yorke wore the cap--it became
@@ -81587,7 +81587,7 @@ do?"
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Shirley — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Shirley — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/hill,motif/home,motif/love,motif/prison,motif/rose,motif/well,concept/doubt,concept/fear,concept/vanity,form/novel"></span>
 
 
 that I shall have an object in view; but if you only went on and on,
@@ -81863,7 +81863,7 @@ impulse."
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Shirley — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Shirley — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/childhood,motif/garden,motif/love,motif/poison,motif/time,motif/well,concept/hope,concept/mercy,concept/pride,character/speed"></span>
 
 
 me to that end. Whom my feelings teach me to [[Love|love]] I _must_ and _shall_
@@ -82089,7 +82089,7 @@ said, nodding her cap approvingly, "She has spirit in her, after
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="Shirley — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="Shirley — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/damsel,motif/autumn,motif/cross,motif/fire,motif/grave,motif/home,motif/nature,motif/rose,motif/storm,motif/time,motif/wind,concept/friendship,concept/nature,character/adonis,character/shirley_keeldar"></span>
 
 
 all.--Always speak as honestly as you have done just now," she
@@ -82287,7 +82287,7 @@ sunset should quite have faded in heaven, or the path up the fields have
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_06" data-title="Shirley — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_06" data-title="Shirley — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/fire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/mirror,motif/nature,motif/night,motif/rose,motif/stars,motif/summer,motif/water,motif/well,motif/window,concept/nature,concept/truth"></span>
 
 
 become thoroughly moist with evening dew.
@@ -82509,7 +82509,7 @@ not light a candle? It war sundown an hour syne. He'll brak his shins
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_07" data-title="Shirley — Chapter 23 (part 7)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_07" data-title="Shirley — Chapter 23 (part 7)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/flowers,motif/grave,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/snow,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/nature,concept/wonder"></span>
 
 
 agean some o' yer pots, and tables, and stuff.--Tak tent o' this
@@ -82837,7 +82837,7 @@ Robert could detain her now.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Shirley — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Shirley — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/fire,motif/grave,motif/home,motif/night,motif/pain,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/fear,concept/loneliness,concept/self,concept/union,character/caroline_helstone,character/nurse"></span>
 
 
 CHAPTER XXIV.
@@ -83077,7 +83077,7 @@ ease, so naturally, that the patient was as willing to be cherished as
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Shirley — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Shirley — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/noon,motif/pain,motif/road,motif/rose,motif/silence,motif/sleep,motif/snow,motif/time,motif/well,motif/wind,motif/window,concept/truth,character/nurse"></span>
 
 
 the [[Nurse|nurse]] was bent on cherishing; no sign of weariness in the latter
@@ -83275,7 +83275,7 @@ my last comfort; let me keep it. I never tell any one whose hair it is;
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Shirley — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Shirley — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/home,motif/moon,motif/night,motif/silence,motif/soul,motif/summer,motif/tears,motif/water,motif/well,motif/wind,motif/window,concept/courage,concept/faith,concept/fear,concept/self,character/nurse"></span>
 
 
 I never show it."
@@ -83527,7 +83527,7 @@ beats, ma'am! Do not be afraid."
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Shirley — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Shirley — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/dust,motif/flowers,motif/garden,motif/home,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/rose,motif/summer,motif/time,motif/window,concept/hope,concept/longing,concept/nature,concept/wonder,form/hymn,character/nurse"></span>
 
 
 brought you some tea, Cary. Your uncle made it himself. You know he says
@@ -83827,7 +83827,7 @@ ascertained that it was fast, and came back. She bent over her. She
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="Shirley — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="Shirley — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/pain,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/fear"></span>
 
 
 threw back the curtain to admit the moonlight more freely. She gazed
@@ -84111,7 +84111,7 @@ between him and me, the settlement of our mutual account. Meddle not.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_06" data-title="Shirley — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_06" data-title="Shirley — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/dust,motif/grave,motif/home,motif/love,motif/night,motif/tears,motif/well,concept/beauty,concept/courage,concept/education,concept/eternity,concept/faith,concept/forgiveness,concept/solitude,concept/truth"></span>
 
 
 God is the arbiter. This world's laws never came near us--never! They
@@ -84331,7 +84331,7 @@ very different to what I am now--slender, almost as slender as my
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_07" data-title="Shirley — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_07" data-title="Shirley — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/night,motif/prayer,motif/well,concept/hope,character/aaron"></span>
 
 
 daughter is at this day. My complexion, my very features are changed; my
@@ -84587,7 +84587,7 @@ of day she wrestled with God in earnest [[prayer]].
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Shirley — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Shirley — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/home,motif/nature,motif/night,motif/rose,motif/soul,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/hope,concept/mercy,concept/nature,concept/suffering,setting/london,character/louis_moore"></span>
 
 
 CHAPTER XXV.
@@ -84791,7 +84791,7 @@ mere white mould or rigid piece of statuary.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Shirley — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Shirley — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/animals,motif/bees,motif/birds,motif/cross,motif/flowers,motif/frost,motif/garden,motif/home,motif/insects,motif/love,motif/well,motif/wheel,concept/faith,concept/history,concept/pride,form/history,character/nurse"></span>
 
 
 Now, too, she was not always petitioning to drink. The words, "I am _so_
@@ -85003,7 +85003,7 @@ satinet or any of the shams. And, mamma, when you get the new one, mind
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Shirley — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Shirley — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/time,motif/well,concept/fear"></span>
 
 
 you must wear it."
@@ -85231,7 +85231,7 @@ Pryor.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Shirley — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Shirley — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/blood,motif/flowers,motif/garden,motif/home,motif/journey,motif/memory,motif/tears,motif/time,motif/well,motif/window,concept/history,concept/truth,form/history,form/novel"></span>
 
 
 CHAPTER XXVI.
@@ -85483,7 +85483,7 @@ The daughters were an example to their sex. They were tall, with a Roman
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Shirley — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Shirley — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/summer,motif/time,motif/well,concept/friendship,concept/history,form/history,form/sketch,character/caroline_helstone,character/louis_moore"></span>
 
 
 nose apiece. They had been educated faultlessly. All they did was [[Well|well]]
@@ -85681,7 +85681,7 @@ last she answered, "Yes--of course; I knew it [[Well|well]]."
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Shirley — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Shirley — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/animals,motif/autumn,motif/birds,motif/blood,motif/garden,motif/grave,motif/leaves,motif/nature,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/nature,concept/pride,concept/providence,concept/wonder,form/fragment,character/louis_moore,character/robert_moore"></span>
 
 
 "I thought you must have been aware of the circumstance."
@@ -85937,7 +85937,7 @@ general modesty, manliness, sincerity of his [[Nature|nature]] do not plead with
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Shirley — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Shirley — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/birds,motif/grave,motif/insects,motif/nature,motif/night,motif/time,motif/well,concept/hope,concept/nature,character/caroline_helstone,character/louis_moore,character/shirley_keeldar"></span>
 
 
 her in his behalf. She is not often so inconsiderate, so irritable."
@@ -86201,7 +86201,7 @@ you can talk sensibly about what you read."
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_05" data-title="Shirley — Chapter 26 (part 5)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_05" data-title="Shirley — Chapter 26 (part 5)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/fire,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/snow,motif/soul,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/fear,concept/nature,concept/self,concept/suffering,character/horatio,character/louis_moore"></span>
 
 
 feeling."
@@ -86495,7 +86495,7 @@ the nose," returned Mr. Hall, who presently entered, accompanied by
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_06" data-title="Shirley — Chapter 26 (part 6)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_06" data-title="Shirley — Chapter 26 (part 6)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/silence,motif/time,motif/water,motif/well,concept/humility,concept/pride,concept/self,concept/truth,form/sketch,setting/mountains,character/louis_moore"></span>
 
 
 attention to effect than [[Truth|truth]].
@@ -86751,7 +86751,7 @@ around the [[Fire|fire]].
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_07" data-title="Shirley — Chapter 26 (part 7)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_07" data-title="Shirley — Chapter 26 (part 7)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/mirror,motif/silence,motif/time,motif/wind,concept/wonder,character/louis_moore,character/witch"></span>
 
 
 And evidently from his shocked, scandalized air, had he not recognized
@@ -86883,7 +86883,7 @@ obeyed.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Shirley — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Shirley — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/love,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/freedom,concept/wonder,character/gertrude,character/isabella"></span>
 
 
 CHAPTER XXVII.
@@ -87201,7 +87201,7 @@ their quarrels. [[Gertrude]] and [[Isabella]] whispered by the hour together in
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Shirley — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Shirley — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/rose,motif/soul,motif/time,concept/friendship,character/hamlet"></span>
 
 
 their dressing-room, and became chilled with decorous dread if they
@@ -87405,7 +87405,7 @@ whole, so much sense.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Shirley — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Shirley — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/fire,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/time,concept/nature,setting/london,character/louis_moore"></span>
 
 
 [[Time]] proved, indeed, that Sir Philip liked her. Perhaps he had found in
@@ -87633,7 +87633,7 @@ white dress, her fair arms and neck, the trembling chainlet of gold
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Shirley — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Shirley — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/clock,motif/death,motif/desire,motif/dreams,motif/garden,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/wonder,form/novel"></span>
 
 
 circling her throat and quivering on her breast, glistened strangely
@@ -87973,7 +87973,7 @@ withered, tinged the hills. The beck wandered down to the Hollow,
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Shirley — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Shirley — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/mentor,motif/dawn,motif/decay,motif/flowers,motif/leaves,motif/nature,motif/pain,motif/soul,motif/stars,motif/time,motif/well,motif/wind,concept/doubt,concept/nature,character/louis_moore"></span>
 
 
 through a silent district; no [[Wind|wind]] followed its course or haunted its
@@ -88241,7 +88241,7 @@ ourselves. Their [[Nature|nature]] is our [[Nature|nature]]--human both. There i
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_06" data-title="Shirley — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_06" data-title="Shirley — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/death,motif/fire,motif/hill,motif/home,motif/moon,motif/nature,motif/night,motif/river,motif/rose,motif/seasons,motif/silence,motif/soul,motif/stars,motif/storm,motif/summer,motif/wind,concept/body,concept/hope,concept/nature,concept/solitude,character/chorus"></span>
 
 
 tribe too often miserable--a [[Child|child]] bereaved of both parents. None cares
@@ -88493,7 +88493,7 @@ sky--all change!"
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_07" data-title="Shirley — Chapter 27 (part 7)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_07" data-title="Shirley — Chapter 27 (part 7)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/rebel,motif/childhood,motif/crown,motif/death,motif/home,motif/lamb,motif/leaves,motif/lightning,motif/night,motif/pain,motif/poison,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/endurance,concept/eternity,concept/immortality,concept/pride,concept/temptation,concept/union"></span>
 
 
 from thy faculties fetters! I level in thy path obstacles; I with my
@@ -88741,7 +88741,7 @@ I recollect he suggested to papa that agitation would bring on his gout;
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_08" data-title="Shirley — Chapter 27 (part 8)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_08" data-title="Shirley — Chapter 27 (part 8)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/fire,motif/memory,motif/nature,motif/summer,motif/time,motif/well,concept/humility,concept/nature,character/louis_moore"></span>
 
 
 and then he spoke quietly to the ladies, and got them away; and
@@ -89061,7 +89061,7 @@ He left the room; so did [[Shirley]], by another door.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Shirley — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Shirley — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/autumn,motif/storm,motif/summer,motif/well,concept/self,concept/solitude,setting/court,setting/italy,character/caroline_helstone,character/gertrude,character/isabella"></span>
 
 
 CHAPTER XXVIII.
@@ -89315,7 +89315,7 @@ Twice, three times, the eyes of gossips--those eyes which are
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Shirley — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Shirley — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/garden,motif/hill,motif/love,motif/pain,motif/tears,motif/well,character/caroline_helstone"></span>
 
 
 everywhere, in the closet and on the [[Hill|hill]]-top--noticed that instead of
@@ -89593,7 +89593,7 @@ Malice when she comes whispering hard things in your ear, insinuating
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Shirley — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Shirley — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/fool,motif/journey,motif/love,motif/rose,motif/well,concept/self,character/shirley_keeldar"></span>
 
 
 that [[Shirley]] has wronged you, that she did not [[Love|love]] you. You will know
@@ -89857,7 +89857,7 @@ moments. I'll not encourage--I'll not remember it. I am resolved, as
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Shirley — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Shirley — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/nature,motif/pain,motif/sleep,motif/time,motif/well,concept/freedom,concept/humility,concept/nature,concept/pride,concept/truth,character/louis_moore,character/queen"></span>
 
 
 long as may be, to retain the right to say with Paul, 'I am not mad, but
@@ -90151,7 +90151,7 @@ Had he betrayed injudicious emotion, perhaps obstinate persistence in
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_05" data-title="Shirley — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_05" data-title="Shirley — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/silence,motif/sleep,motif/spring,motif/time,motif/water,motif/well,concept/courage,concept/history,concept/mercy,concept/self,concept/solitude,form/history,character/gertrude,character/isabella"></span>
 
 
 [[Silence|silence]] would have been the result; but he looked calm, strong,
@@ -90449,7 +90449,7 @@ voice, "how is it, then?"
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_06" data-title="Shirley — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_06" data-title="Shirley — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/love,motif/nature,motif/pain,motif/well,concept/courage,concept/doubt,concept/eternity,concept/fear,concept/honour,concept/nature,concept/pride,concept/self,character/caroline_helstone"></span>
 
 
 "Because it is not worth sharing."
@@ -90773,7 +90773,7 @@ beneath them. After a prolonged pause, he again asked, "Is the [[Shadow|shadow]]
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_07" data-title="Shirley — Chapter 28 (part 7)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_07" data-title="Shirley — Chapter 28 (part 7)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/fire,motif/grave,motif/home,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/beauty,concept/conscience,concept/honour,concept/hope,concept/poverty,concept/pride,concept/self,concept/truth"></span>
 
 
 _quite_ gone?"
@@ -91105,7 +91105,7 @@ The second bell rang, and Miss Keeldar obeyed its call.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Shirley — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Shirley — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/autumn,motif/clock,motif/fire,motif/love,motif/moon,motif/night,motif/soul,motif/storm,motif/well,motif/window,concept/beauty,concept/freedom,concept/solitude,setting/court,setting/mountains,character/endymion,character/louis_moore,character/phantom"></span>
 
 
 CHAPTER XXIX.
@@ -91323,7 +91323,7 @@ asked my protection, appealed to my strength--since that hour I abhor
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Shirley — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Shirley — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/hill,motif/jewel,motif/love,motif/rose,motif/water,motif/wind,motif/window,concept/education,concept/self,concept/truth,setting/court"></span>
 
 
 mate of [[Death]]!
@@ -91513,7 +91513,7 @@ her? I myself am not her slave--I declare it--but my faculties gather
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Shirley — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Shirley — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/dawn,motif/dreams,motif/grave,motif/lamb,motif/night,motif/rose,motif/silence,motif/soul,motif/stars,motif/summer,motif/time,concept/beauty,concept/endurance,concept/fanaticism,concept/fear,concept/freedom,concept/longing,concept/madness,form/fable"></span>
 
 
 to her [[Beauty|beauty]], like the genii to the glisten of the lamp. All my
@@ -91739,7 +91739,7 @@ He locked the desk, pocketed all the property, and went.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Shirley — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Shirley — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/soul,motif/storm,motif/time,motif/wheel,concept/honour,setting/london,character/satan"></span>
 
 
 CHAPTER XXX.
@@ -91959,7 +91959,7 @@ her feet, you coolly took coach up to [[London]]. What you have done there
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Shirley — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Shirley — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/love,motif/moon,motif/nature,motif/night,motif/road,motif/time,motif/water,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/nature,concept/self,concept/vanity,form/blank_verse"></span>
 
 
 face was never lily fair, but it is olive green now. You're not as bonny
@@ -92205,7 +92205,7 @@ never felt as if [[Nature|nature]] meant her to be my other and better [[Self|se
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Shirley — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Shirley — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/home,motif/love,motif/mirror,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/window,concept/doubt,concept/hope,character/robert_moore,character/shirley_keeldar"></span>
 
 
 question on that head rushed upon me, I flung it off, saying brutally I
@@ -92459,7 +92459,7 @@ to all my sisters; that I have acted as no woman can act without
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Shirley — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Shirley — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,motif/cave,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/storm,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,concept/friendship,concept/nature,concept/pride,concept/self,character/cain,character/lucifer"></span>
 
 
 degrading herself and her sex; that I have sought where the incorrupt of
@@ -92677,7 +92677,7 @@ Helstone, maybe, has a look of her, but nobody else."
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_05" data-title="Shirley — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_05" data-title="Shirley — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,archetype/tyrant,motif/cave,motif/crown,motif/death,motif/home,motif/horse,motif/love,motif/moon,motif/nature,motif/poison,motif/silence,motif/soul,motif/time,motif/well,concept/longing,concept/nature,concept/truth,setting/court,setting/london"></span>
 
 
 "Who has a look of her?"
@@ -92893,7 +92893,7 @@ troubles of this country. I did the same in [[London]]. Unknown, I could go
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_06" data-title="Shirley — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_06" data-title="Shirley — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/animals,motif/hill,motif/home,motif/horse,motif/night,motif/rose,motif/water,motif/well,concept/ambition,concept/education,concept/hope,concept/suffering"></span>
 
 
 where I pleased, mix with whom I would. I went where there was want of
@@ -92983,7 +92983,7 @@ turned, knew the four convicts of Birmingham were avenged.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Shirley — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Shirley — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/moon,motif/rose,motif/secrets,motif/well,motif/window,concept/beauty,concept/poverty,form/sonnet,character/louis_moore"></span>
 
 
 CHAPTER XXXI.
@@ -93201,7 +93201,7 @@ listening for chariot-wheels. Bluebeard's wife--Sisera's mother--were
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Shirley — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Shirley — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/nature,motif/night,motif/rose,motif/silence,motif/well,motif/window,concept/nature,form/translation,character/louis_moore,character/shirley_keeldar"></span>
 
 
 nothing to him. He waited when the matter should be opened in form, when
@@ -93527,7 +93527,7 @@ Concession, contrition, never do any good with some people. Instead of
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Shirley — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Shirley — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,archetype/tyrant,motif/fire,motif/love,motif/rose,motif/well,concept/courage,concept/fear,concept/freedom,concept/self,character/bottom"></span>
 
 
 softening and conciliating, they but embolden and harden them. Of that
@@ -93887,7 +93887,7 @@ confusion.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Shirley — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Shirley — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/love,motif/rose,motif/soul,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/honour,concept/hope,character/arthur,character/louis_moore"></span>
 
 
 "I have been in [[Love|love]] several times."
@@ -94277,7 +94277,7 @@ you."
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_05" data-title="Shirley — Chapter 31 (part 5)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_05" data-title="Shirley — Chapter 31 (part 5)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/crown,motif/death,motif/decay,motif/home,motif/lightning,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/wind,concept/conscience,concept/deception,concept/doubt,concept/revenge,character/caroline_helstone,character/louis_moore"></span>
 
 
 "An infidel to _your_ religion, an atheist to _your_ god."
@@ -94639,7 +94639,7 @@ strangers more. Having met once they must meet again."
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Shirley — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Shirley — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/dust,motif/fire,motif/garden,motif/night,motif/road,motif/rose,motif/water,motif/well,concept/freedom,concept/jealousy,concept/pride,character/louis_moore,character/nurse"></span>
 
 
 CHAPTER XXXII.
@@ -94841,7 +94841,7 @@ strew the present page. A bouquet or two of the choicest blossoms fell
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Shirley — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Shirley — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/dawn,motif/death,motif/frost,motif/home,motif/mirror,motif/moon,motif/nature,motif/night,motif/pain,motif/rose,motif/stars,motif/tears,motif/time,motif/winter,concept/nature,character/nurse,character/robert_moore"></span>
 
 
 on the unperturbed head of one Mr. Graves, a stony young assistant he
@@ -95051,7 +95051,7 @@ resistance. Wise ushers avoid unnecessary interference with that lad.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Shirley — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Shirley — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/bells,motif/leaves,motif/moon,motif/nature,motif/night,motif/rose,motif/snow,motif/time,motif/well,motif/wind,concept/beauty,concept/hope,concept/nature,concept/wonder"></span>
 
 
 To break him in by severity would be a useless attempt; to win him by
@@ -95315,7 +95315,7 @@ She put her veil aside. She looked into his eyes, and said, "To die!"
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Shirley — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Shirley — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/death,motif/fire,motif/home,motif/night,motif/secrets,motif/silence,motif/water,motif/well,concept/beauty,concept/doubt,concept/honour,concept/wonder,form/sketch,character/caroline_helstone"></span>
 
 
 something about his bandages that finished everything. He would have got
@@ -95623,7 +95623,7 @@ He turned into bed.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Shirley — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Shirley — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/damsel,motif/clock,motif/flag,motif/home,motif/pain,motif/storm,motif/summer,motif/time,motif/well,concept/despair,character/cain"></span>
 
 
 CHAPTER XXXIII.
@@ -95847,7 +95847,7 @@ betaking herself to the scene of these nefarious transactions, and
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Shirley — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Shirley — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/clock,motif/crown,motif/fire,motif/home,motif/leaves,motif/night,motif/pain,motif/road,motif/snow,motif/storm,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/wonder,character/caroline_helstone,character/nurse"></span>
 
 
 inspecting the state of matters in person. Mrs. Horsfall remained.
@@ -96191,7 +96191,7 @@ in soap-suds in the back kitchen, so I asked her to step up."
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Shirley — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Shirley — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/cross,motif/dreams,motif/home,motif/night,motif/pain,motif/snow,motif/time,motif/well,motif/window,concept/doubt,concept/fear"></span>
 
 
 "Up here, sir?"
@@ -96515,7 +96515,7 @@ strange feelings."
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Shirley — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Shirley — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/prayer,motif/road,motif/well,concept/nature"></span>
 
 
 "You speak my experience."
@@ -96713,7 +96713,7 @@ something lower than it was.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Shirley — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Shirley — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/home,motif/nature,motif/night,motif/rose,motif/snow,motif/wind,concept/humility,concept/imagination,concept/nature,concept/self,character/sunday"></span>
 
 
 CHAPTER XXXIV.
@@ -96965,7 +96965,7 @@ the poorest that brave the worst weather, to prove and maintain their
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Shirley — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Shirley — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/rose,motif/storm,motif/time,motif/well,motif/wind,motif/winter,form/hymn,form/litany,character/sunday"></span>
 
 
 constancy to dear old mother church. This wild morning not one affluent
@@ -97209,7 +97209,7 @@ she was fit to fling the kitchen brush after me."
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Shirley — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Shirley — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/snow,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/self,concept/self_reliance"></span>
 
 
 "Mamma was very much concerned about me; but I am afraid I was
@@ -97409,7 +97409,7 @@ largest cut of the apple-pie to-day."
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Shirley — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Shirley — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/fire,motif/frost,motif/garden,motif/grave,motif/home,motif/nature,motif/rose,motif/time,motif/well,concept/beauty,concept/fear,concept/hope,concept/madness,concept/nature,concept/wonder,character/nurse"></span>
 
 
 CHAPTER XXXV.
@@ -97635,7 +97635,7 @@ to whom its narrow limits had always heretofore seemed rather
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Shirley — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Shirley — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/rose,motif/time,motif/well,motif/window,concept/fear,concept/hope"></span>
 
 
 restrictive than protective. Still, whatever contributed to his
@@ -97937,7 +97937,7 @@ my credit, and consequently will not please you."
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Shirley — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Shirley — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/love,motif/night,motif/river,motif/secrets,motif/sleep,motif/snow,motif/time,motif/well,concept/doubt,concept/pride,concept/truth,concept/wonder"></span>
 
 
 "And I cannot bear that you should think better of me than I deserve."
@@ -98293,7 +98293,7 @@ all her charms and feel none of them, or only feel them in a way she
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Shirley — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Shirley — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/hero,motif/love,motif/machine,motif/night,motif/rose,motif/snow,motif/soul,motif/well,concept/beauty,concept/faith,concept/jealousy,concept/truth,concept/wonder,form/riddle,character/phantom"></span>
 
 
 would disdain. I suppose I was truly tempted by the mere gilding of the
@@ -98767,7 +98767,7 @@ other day a plant you had given her.--Fanny, I am ready."
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Shirley — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Shirley — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/fire,motif/frost,motif/home,motif/love,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/well,motif/winter,concept/beauty,concept/fear,concept/reconciliation,concept/suffering,character/louis_moore,character/robert_moore"></span>
 
 
 CHAPTER XXXVI.
@@ -98975,7 +98975,7 @@ her equal, I could find in this shyness coyness, and in that coyness
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Shirley — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Shirley — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/dreams,motif/fire,motif/journey,motif/leaves,motif/lion,motif/love,motif/night,motif/storm,motif/well,concept/freedom,concept/jealousy,concept/longing,concept/solitude"></span>
 
 
 me; I dared not only _wish_ but _will_ an interview with her. I dared
@@ -99199,7 +99199,7 @@ me, sitting under a pine. When I call her she will come to my loghouse,
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Shirley — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Shirley — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/orphan,motif/death,motif/love,motif/moon,motif/nature,motif/seasons,concept/beauty,concept/doubt,concept/nature,concept/pride,concept/solitude,concept/suffering,concept/truth,concept/wonder,form/satire,setting/court,character/speed"></span>
 
 
 and she shall fill my arms.'
@@ -99461,7 +99461,7 @@ smile.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Shirley — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Shirley — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/orphan,motif/garden,motif/snow,motif/stars,motif/summer,motif/winter,concept/beauty,concept/courage,concept/hope,concept/humility,concept/poverty,concept/pride,concept/solitude,setting/egypt,character/apollo"></span>
 
 
 herself upon you to spare your scruples.'
@@ -99745,7 +99745,7 @@ friendless young [[Orphan|orphan]] girl, when you find her.'
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_05" data-title="Shirley — Chapter 36 (part 5)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_05" data-title="Shirley — Chapter 36 (part 5)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/orphan,motif/cross,motif/death,motif/fire,motif/home,motif/love,motif/time,motif/well,concept/doubt,concept/exile,concept/hope,concept/poverty,concept/self,concept/truth,concept/wonder"></span>
 
 
 teach afterwards; to break in, and then to fondle. To lift the destitute
@@ -100023,7 +100023,7 @@ will [[Cross|cross]] it also. Our lives are riveted, our lots intertwined.'
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_06" data-title="Shirley — Chapter 36 (part 6)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_06" data-title="Shirley — Chapter 36 (part 6)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/fire,motif/frost,motif/home,motif/love,motif/rose,motif/water,motif/well,motif/window,concept/fear,concept/hope,concept/imagination,concept/poverty"></span>
 
 
 "'Will you be good to me, and never tyrannize?'
@@ -100265,7 +100265,7 @@ gathering her sweet smiles and her merry words, which fell for me
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_07" data-title="Shirley — Chapter 36 (part 7)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_07" data-title="Shirley — Chapter 36 (part 7)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/well,concept/nature,character/louis_moore,character/nurse"></span>
 
 
 abundantly. We sat, as we had a right to sit, side by side; my arm
@@ -100515,7 +100515,7 @@ up my temporary abode with a friend--a professional man, in whose
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_08" data-title="Shirley — Chapter 36 (part 8)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_08" data-title="Shirley — Chapter 36 (part 8)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dreams,motif/frost,motif/home,motif/lightning,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/well,motif/window,concept/fear,concept/freedom,concept/nature,character/caroline_helstone"></span>
 
 
 business I can be useful. Every day I ride over to Fieldhead. How long
@@ -100725,7 +100725,7 @@ from my arms--and I lost her."
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Shirley — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Shirley — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/well,concept/doubt,concept/imagination,concept/truth,character/queen,character/sunday"></span>
 
 
 CHAPTER XXXVII.
@@ -100935,7 +100935,7 @@ Moore. Here was a fine opening to lead my willing readers a [[Dance|dance]], at
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Shirley — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Shirley — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/dance,motif/fire,motif/home,motif/horse,motif/river,motif/rose,motif/snow,motif/soul,motif/spring,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/fear,setting/mountains,character/caroline_helstone,character/michael,character/sebastian"></span>
 
 
 once decorous and exciting--a [[Dance|dance]] of law and gospel, of the dungeon,
@@ -101135,7 +101135,7 @@ preparations for a great event, the last appeal in these matters being
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Shirley — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Shirley — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/bells,motif/cross,motif/home,motif/love,motif/marriage,motif/nature,motif/rose,motif/summer,motif/time,motif/water,motif/well,concept/despair,concept/hope,concept/melancholy,concept/nature,form/fragment,character/venus"></span>
 
 
 reserved for her unimpeachable taste. She decided on the wreath, the
@@ -101365,7 +101365,7 @@ commissions given me for much more. This day lays for my fortunes a
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Shirley — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Shirley — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/blood,motif/desert,motif/home,motif/love,motif/marriage,motif/pain,motif/rose,motif/time,motif/well,concept/ambition,concept/body,concept/charity,concept/doubt,concept/fear,concept/hope,concept/pride,concept/providence,setting/desert"></span>
 
 
 broad, firm foundation, on which, for the first [[Time|time]] in my life, I can
@@ -101673,7 +101673,7 @@ folly of being selfish. Caroline, I foresee what I will now foretell.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Shirley — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Shirley — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,motif/cave,motif/dreams,motif/hill,motif/home,motif/night,motif/road,motif/time,motif/well,histref/america,setting/america,character/louis_moore,character/robert_moore,character/sunday"></span>
 
 
 This war _must_ ere long draw to a close. Trade is likely to prosper for
@@ -101895,7 +101895,7 @@ talked. She had a real, happy, glad, good-natured look; but she had een
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_06" data-title="Shirley — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_06" data-title="Shirley — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/last_stand,topos/quest,archetype/artist,motif/childhood,motif/death,motif/home,motif/love,motif/nature,motif/road,motif/summer,motif/time,motif/well,concept/body,concept/nature,form/comedy,form/novel,setting/castle,setting/london,setting/oxford,character/david_copperfield,character/jane_eyre,character/michael,character/speed"></span>
 
 
 that pierced a [[Body|body]] through. There is no such ladies nowadays."
@@ -102251,7 +102251,7 @@ England. But being a great [[artist]] as [[Well|well]] as a great thinker, he ne
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_07" data-title="Shirley — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_07" data-title="Shirley — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/pilgrim,motif/lamb,motif/nature,motif/road,motif/time,concept/history,concept/mortality,concept/nature,concept/truth,form/history,form/novel,form/tragedy,histref/bible,histref/renaissance,setting/castle,character/arthur,character/david_copperfield,character/edmund,character/jane_eyre,character/michael,character/oliver_twist"></span>
 
 
 turned his romances into pamphlets. Drama is always his aim, and no

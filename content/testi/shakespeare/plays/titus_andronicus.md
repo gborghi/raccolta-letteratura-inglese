@@ -1480,7 +1480,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Titus Andronicus — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Titus Andronicus — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/horse,motif/night,motif/sleep,motif/wind,concept/hope,setting/court,character/bassianus,character/demetrius,character/lavinia,character/lucius,character/saturninus,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1498,7 +1498,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Titus Andronicus — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Titus Andronicus — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/shadow,motif/birds,motif/blood,motif/cave,motif/cross,motif/death,motif/desire,motif/flowers,motif/grave,motif/home,motif/lamb,motif/leaves,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/prison,motif/silence,motif/sleep,motif/snow,motif/soul,motif/storm,motif/summer,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/fear,concept/guilt,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/revenge,concept/wonder,form/tragedy,character/aaron,character/bassianus,character/bottom,character/demetrius,character/lavinia,character/lucius,character/nurse,character/queen,character/saturn,character/saturninus,character/tamora,character/titus_andronicus,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1600,7 +1600,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Titus Andronicus — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Titus Andronicus — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/monster,motif/blood,motif/home,motif/leaves,motif/love,motif/river,motif/sleep,motif/storm,motif/tears,motif/water,motif/wind,concept/body,character/demetrius,character/lavinia,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1620,7 +1620,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Titus Andronicus — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Titus Andronicus — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/innocent,archetype/king,motif/blood,motif/cave,motif/death,motif/desert,motif/dust,motif/grave,motif/love,motif/prayer,motif/snow,motif/soul,motif/storm,motif/summer,motif/swallow,motif/tears,motif/time,motif/water,motif/well,motif/winter,concept/body,concept/exile,concept/fear,concept/honour,concept/revenge,setting/castle,setting/desert,character/aaron,character/bottom,character/lavinia,character/lucius,character/queen,character/tarquin,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1702,7 +1702,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Titus Andronicus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Titus Andronicus — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/innocent,motif/death,motif/poison,motif/prison,motif/tears,concept/revenge,character/lavinia,character/lucius,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1729,7 +1729,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Titus Andronicus — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Titus Andronicus — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/leaves,motif/lion,motif/love,motif/nature,motif/well,motif/wind,concept/fear,concept/hope,concept/nature,concept/revenge,concept/truth,setting/court,character/apollo,character/brutus,character/demetrius,character/hector,character/lavinia,character/lucius,character/lucrece,character/tamora,character/tarquin,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1773,7 +1773,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Titus Andronicus — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Titus Andronicus — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/villain,motif/blood,motif/cave,motif/death,motif/lamb,motif/love,motif/secrets,motif/swallow,motif/water,motif/well,motif/wind,concept/beauty,concept/body,concept/guilt,concept/hope,concept/self,setting/court,character/aaron,character/demetrius,character/lucius,character/nurse,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1848,7 +1848,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Titus Andronicus — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Titus Andronicus — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/villain,motif/home,motif/moon,motif/night,motif/time,motif/well,motif/wind,concept/pride,concept/revenge,setting/court,character/lucius,character/saturn,character/sempronius,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1888,7 +1888,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Titus Andronicus — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Titus Andronicus — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,archetype/shadow,archetype/villain,motif/birds,motif/blood,motif/city,motif/flowers,motif/frost,motif/love,motif/ship,motif/sleep,concept/fear,concept/honour,concept/hope,concept/revenge,setting/ship,character/aaron,character/apollo,character/coriolanus,character/demetrius,character/lucius,character/saturninus,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1924,7 +1924,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Titus Andronicus — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Titus Andronicus — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/bees,motif/blood,motif/death,motif/fire,motif/nature,motif/night,motif/soul,motif/summer,motif/tears,motif/well,concept/charity,concept/conscience,concept/nature,character/aaron,character/bassianus,character/lucius,character/nurse,character/queen,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |
@@ -1972,7 +1972,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Titus Andronicus — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Titus Andronicus — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/cave,motif/death,motif/dust,motif/love,motif/night,motif/spring,motif/summer,motif/swallow,motif/well,motif/wheel,motif/winter,concept/fear,concept/mercy,concept/revenge,setting/court,character/demetrius,character/hyperion,character/lavinia,character/lucius,character/queen,character/tamora,character/titus_andronicus,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -2032,7 +2032,7 @@ Per Styga, per manes vehor. Exeunt
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Titus Andronicus — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Titus Andronicus — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/birds,motif/blood,motif/crown,motif/death,motif/ghosts,motif/grave,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/history,concept/nature,concept/revenge,concept/self,concept/truth,concept/union,form/history,setting/london,character/aaron,character/bassianus,character/clarence,character/demetrius,character/duke_of_york,character/gloucester,character/hamlet,character/henry_vi,character/lady_anne,character/lavinia,character/lucius,character/queen,character/queen_elizabeth,character/queen_margaret,character/richard,character/richard_iii,character/saturninus,character/sir_thomas_more,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |

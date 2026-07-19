@@ -12360,7 +12360,7 @@ imagine unquiet slumbers for the sleepers in that quiet earth.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Wuthering Heights — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Wuthering Heights — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/innocent,motif/animals,motif/desire,motif/fire,motif/home,motif/horse,motif/love,motif/silence,motif/storm,motif/summer,motif/time,motif/well,motif/wind,concept/doubt,concept/grotesque,concept/history,concept/honour,concept/hope,concept/pride,concept/wonder,form/history,setting/court,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 CHAPTER I
@@ -12570,7 +12570,7 @@ compared with him.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Wuthering Heights — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Wuthering Heights — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/clock,motif/dust,motif/fire,motif/frost,motif/garden,motif/hill,motif/snow,motif/time,motif/window,concept/doubt,form/essay,character/heathcliff"></span>
 
 
 CHAPTER II
@@ -12708,7 +12708,7 @@ from my uncomfortable state.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Wuthering Heights — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Wuthering Heights — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/silence,motif/snow,motif/soul,motif/storm,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/exile,concept/fear,concept/nature,concept/wonder,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 “You see, sir, I am come, according to promise!” I exclaimed, assuming
@@ -12847,7 +12847,7 @@ like yer mother afore ye!”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Wuthering Heights — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Wuthering Heights — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/garden,motif/home,motif/nature,motif/night,motif/road,motif/sleep,motif/snow,motif/water,motif/well,concept/conscience,concept/hope,concept/nature,concept/resurrection,concept/wonder,setting/london,character/heathcliff,character/king_lear,character/witch"></span>
 
 
 I imagined, for a moment, that this piece of eloquence was addressed to
@@ -12996,7 +12996,7 @@ whereby I was somewhat revived, ushered me to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Wuthering Heights — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Wuthering Heights — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/rebel,archetype/tyrant,motif/fire,motif/prayer,motif/silence,motif/tears,motif/time,motif/well,motif/window,form/inscription,character/catherine_earnshaw,character/heathcliff,character/sunday"></span>
 
 
 CHAPTER III
@@ -13120,7 +13120,7 @@ are here.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Wuthering Heights — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Wuthering Heights — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/pilgrim,motif/home,motif/night,motif/road,motif/rose,motif/silence,motif/snow,motif/soul,motif/time,motif/wind,concept/body,concept/honour,concept/self,concept/suffering,character/heathcliff"></span>
 
 
 * * * * * *
@@ -13239,7 +13239,7 @@ which, my fingers closed on the fingers of a little, ice-cold hand!
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Wuthering Heights — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Wuthering Heights — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/dreams,motif/ghosts,motif/home,motif/memory,motif/night,motif/prayer,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/imagination,concept/melancholy,concept/truth,character/heathcliff"></span>
 
 
 The intense horror of [[nightmare]] came over me: I tried to draw back my
@@ -13369,7 +13369,7 @@ noisily, looked at my watch, and soliloquised on the length of the
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Wuthering Heights — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Wuthering Heights — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/dawn,motif/desire,motif/fire,motif/sleep,motif/snow,motif/tears,motif/time,motif/wind,motif/winter,concept/charity,concept/temptation,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 “Always at nine in [[Winter|winter]], and rise at four,” said my host, suppressing
@@ -13478,7 +13478,7 @@ cold as impalpable ice.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Wuthering Heights — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Wuthering Heights — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/garden,motif/hill,motif/night,motif/road,motif/snow,motif/well,character/bottom"></span>
 
 
 My landlord halloed for me to stop ere I reached the [[Bottom|bottom]] of the
@@ -13522,7 +13522,7 @@ smoking coffee which the servant had prepared for my refreshment.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Wuthering Heights — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Wuthering Heights — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/journey,motif/sleep,motif/stars,motif/summer,motif/time,motif/well,concept/history,concept/solitude,concept/wonder,form/history,character/hareton_earnshaw,character/heathcliff,character/hindley_earnshaw"></span>
 
 
 CHAPTER IV
@@ -13671,7 +13671,7 @@ then he kissed his children, said good-bye, and set off.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Wuthering Heights — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Wuthering Heights — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/usurper,motif/childhood,motif/clock,motif/death,motif/home,motif/horse,motif/lamb,motif/sleep,motif/soul,motif/time,motif/well,concept/endurance,concept/hope,concept/revenge,concept/truth,character/heathcliff,character/nurse,character/satan"></span>
 
 
 It seemed a long while to us all—the three days of his absence—and
@@ -13814,7 +13814,7 @@ deceived completely, as you will hear.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Wuthering Heights — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Wuthering Heights — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/child,archetype/innocent,motif/fire,motif/grave,motif/love,motif/night,motif/sleep,motif/soul,motif/time,motif/water,motif/wind,concept/doubt,concept/fear,concept/pride,concept/self,histref/bible,character/heathcliff"></span>
 
 
 CHAPTER V
@@ -13945,7 +13945,7 @@ not help wishing we were all there safe together.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Wuthering Heights — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Wuthering Heights — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/fire,motif/home,motif/night,motif/road,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/revenge,concept/union,character/edgar,character/edgar_linton,character/heathcliff,character/isabella,character/sunday"></span>
 
 
 CHAPTER VI
@@ -14083,7 +14083,7 @@ Hindley’s [[Blood|blood]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Wuthering Heights — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Wuthering Heights — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/villain,motif/fire,motif/garden,motif/home,motif/journey,motif/nature,motif/pain,motif/road,motif/silence,motif/water,motif/well,motif/window,concept/fear,concept/nature,character/edgar,character/edgar_linton,character/heathcliff,character/isabella"></span>
 
 
 “Hush, hush!” I interrupted. “Still you have not told me, [[Heathcliff]],
@@ -14191,7 +14191,7 @@ have found it impossible.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Wuthering Heights — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Wuthering Heights — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/damsel,motif/clock,motif/cross,motif/death,motif/dust,motif/horse,motif/prayer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/pride,concept/reform,concept/self,setting/court,character/edgar,character/heathcliff,character/isabella,character/isabella_linton"></span>
 
 
 CHAPTER VII
@@ -14312,7 +14312,7 @@ stable, and feeding the other beasts, according to custom.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Wuthering Heights — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Wuthering Heights — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/desert,motif/fire,motif/home,motif/night,motif/road,motif/rose,motif/time,motif/well,motif/window,motif/winter,concept/courage,setting/court,setting/desert,character/edgar,character/edgar_linton,character/heathcliff,character/queen"></span>
 
 
 “Make haste, [[Heathcliff]]!” I said, “the kitchen is so comfortable; and
@@ -14429,7 +14429,7 @@ with them a minute.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Wuthering Heights — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Wuthering Heights — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/fire,motif/home,motif/nature,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/purification,concept/wonder,character/edgar,character/heathcliff,character/isabella,character/isabella_linton"></span>
 
 
 “Nay, sir,” I could not avoid answering, “he’ll touch nothing, not he:
@@ -14536,7 +14536,7 @@ people; we should learn to forgive.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Wuthering Heights — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Wuthering Heights — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/night,motif/pain,motif/rose,motif/summer,motif/time,motif/well,concept/body,concept/history,concept/hope,form/history,character/heathcliff"></span>
 
 
 “No, God won’t have the satisfaction that I shall,” he returned. “I
@@ -14626,7 +14626,7 @@ that is nearly twenty-three years ago.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Wuthering Heights — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Wuthering Heights — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/night,motif/soul,motif/time,motif/well,motif/winter,concept/beauty,character/edgar_linton,character/heathcliff,character/hector,character/nurse,character/queen"></span>
 
 
 CHAPTER VIII
@@ -14741,7 +14741,7 @@ might see something of what she was. Can you make that out?
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Wuthering Heights — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Wuthering Heights — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/fire,motif/home,motif/love,motif/nature,motif/seasons,motif/silence,motif/soul,motif/time,concept/ambition,concept/courage,concept/education,concept/hope,concept/humility,concept/nature,concept/temptation,character/catherine_earnshaw,character/edgar,character/edgar_linton,character/heathcliff,character/isabella"></span>
 
 
 Mrs. Dean raised the candle, and I discerned a soft-featured face,
@@ -14855,7 +14855,7 @@ the risk of being scolded for no good.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Wuthering Heights — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Wuthering Heights — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/home,motif/horse,motif/love,motif/night,motif/rose,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/friendship,concept/vanity,setting/court,character/edgar,character/edgar_linton,character/heathcliff"></span>
 
 
 “Order Ellen to say you are engaged, Cathy,” he persisted; “don’t turn
@@ -15022,7 +15022,7 @@ go the length of firing the gun.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Wuthering Heights — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Wuthering Heights — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/monster,archetype/villain,motif/blood,motif/death,motif/fire,motif/grave,motif/horse,motif/love,motif/night,motif/soul,motif/spring,motif/swallow,motif/time,motif/well,concept/mercy,concept/revenge,concept/truth,concept/wonder,character/heathcliff,character/satan"></span>
 
 
 CHAPTER IX
@@ -15148,7 +15148,7 @@ common course befall him.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Wuthering Heights — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Wuthering Heights — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/home,motif/lamb,motif/love,motif/night,motif/sleep,motif/soul,motif/well,character/edgar,character/edgar_linton,character/heathcliff"></span>
 
 
 I went into the kitchen, and sat down to lull my little [[Lamb|lamb]] to [[Sleep|sleep]].
@@ -15310,7 +15310,7 @@ can’t do it distinctly; but I’ll give you a feeling of how I feel.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Wuthering Heights — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Wuthering Heights — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/dreams,motif/fire,motif/frost,motif/ghosts,motif/home,motif/lightning,motif/love,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/winter,concept/conscience,concept/solitude,character/edgar,character/edgar_linton,character/heathcliff"></span>
 
 
 She seated herself by me again: her countenance grew sadder and graver,
@@ -15437,7 +15437,7 @@ separation again: it is impracticable; and—”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Wuthering Heights — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Wuthering Heights — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/fire,motif/home,motif/horse,motif/night,motif/prayer,motif/road,motif/secrets,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/wonder,character/heathcliff"></span>
 
 
 She paused, and hid her face in the folds of my gown; but I jerked it
@@ -15556,7 +15556,7 @@ the back, and putting her hands before it.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Wuthering Heights — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Wuthering Heights — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/garden,motif/horse,motif/night,motif/road,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/conscience,concept/doubt,concept/fear,concept/truth,concept/wonder,character/edgar_linton,character/heathcliff,character/nurse,character/witch"></span>
 
 
 “[[Well]], Miss!” I exclaimed, touching her shoulder; “you are not bent on
@@ -15671,7 +15671,7 @@ each other.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Wuthering Heights — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Wuthering Heights — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/death,motif/storm,motif/tears,motif/time,motif/well,concept/courage,concept/doubt,concept/honour,concept/pride,concept/truth,character/edgar,character/heathcliff"></span>
 
 
 Our young lady returned to us saucier and more passionate, and
@@ -15729,7 +15729,7 @@ also, in spite of aching laziness of head and limbs.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Wuthering Heights — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Wuthering Heights — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/death,motif/desire,motif/fire,motif/garden,motif/moon,motif/seasons,motif/silence,motif/spring,motif/time,motif/well,concept/education,concept/fear,concept/history,form/history,histref/america,setting/america,setting/court,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER X
@@ -15847,7 +15847,7 @@ you? Is it?”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Wuthering Heights — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Wuthering Heights — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/love,motif/rose,motif/well,motif/window,setting/court,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 “Yes, [[Heathcliff]],” he replied, glancing from me up to the windows,
@@ -15975,7 +15975,7 @@ which I have a part. I shall stay an hour or two willingly.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Wuthering Heights — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Wuthering Heights — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/well,concept/faith,concept/honour,concept/hope,concept/nature,concept/wonder,character/bottom,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 He took a seat opposite Catherine, who kept her gaze fixed on him as if
@@ -16104,7 +16104,7 @@ though what he grasps with one hand he flings away with the other.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Wuthering Heights — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Wuthering Heights — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/fire,motif/love,motif/night,motif/rose,motif/summer,motif/time,motif/well,concept/fear,concept/hope,concept/providence,concept/revenge,concept/self,character/edgar,character/heathcliff,character/isabella,character/isabella_linton"></span>
 
 
 “It’s a nice place for a young man to fix his dwelling in!” said I.
@@ -16220,7 +16220,7 @@ ever you loved [[Edgar]], and he might [[Love|love]] me, if you would let him!�
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Wuthering Heights — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Wuthering Heights — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/fire,motif/love,motif/night,motif/noon,motif/road,motif/sleep,motif/soul,motif/time,motif/well,motif/window,motif/winter,concept/beauty,concept/madness,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 “I wouldn’t be you for a kingdom, then!” Catherine declared,
@@ -16332,7 +16332,7 @@ and send my image into eternal oblivion!”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="Wuthering Heights — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="Wuthering Heights — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/silence,motif/spring,motif/tears,motif/time,motif/well,motif/white_and_red,concept/faith,concept/truth,character/edgar,character/heathcliff,character/isabella,character/isabella_linton"></span>
 
 
 “Catherine!” said [[Isabella]], calling up her dignity, and disdaining to
@@ -16431,7 +16431,7 @@ his [[Time|time]] to [[Spring|spring]] and destroy.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Wuthering Heights — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Wuthering Heights — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/journey,motif/memory,motif/road,motif/storm,motif/summer,motif/time,motif/window,concept/conscience,concept/solitude,setting/court,character/bottom,character/heathcliff,character/isabella,character/nelly_dean,character/nurse"></span>
 
 
 CHAPTER XI
@@ -16562,7 +16562,7 @@ scoundrel had the impudence to embrace her.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Wuthering Heights — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Wuthering Heights — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,archetype/tyrant,archetype/villain,motif/death,motif/fire,motif/garden,motif/home,motif/love,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/charity,concept/revenge,concept/truth,concept/wonder,setting/court,character/edgar,character/edgar_linton,character/heathcliff,character/isabella,character/satan"></span>
 
 
 “Judas! Traitor!” I ejaculated. “You are a hypocrite, too, are you? A
@@ -16683,7 +16683,7 @@ imagine I can get used to it too!”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Wuthering Heights — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Wuthering Heights — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/cross,motif/fire,motif/lamb,motif/nature,motif/night,motif/poison,motif/road,motif/swallow,motif/time,motif/well,concept/courage,concept/fear,concept/hope,concept/nature,concept/self,setting/court,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 “Have you been listening at the door, [[Edgar]]?” asked the mistress, in a
@@ -16812,7 +16812,7 @@ countenance, and look rather more anxious about me.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Wuthering Heights — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Wuthering Heights — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/blood,motif/dance,motif/death,motif/time,motif/water,concept/doubt,concept/fear,concept/mercy,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 The stolidity with which I received these instructions was, no [[Doubt|doubt]],
@@ -16889,7 +16889,7 @@ bonds of relationship between herself and him.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Wuthering Heights — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Wuthering Heights — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/garden,motif/grave,motif/love,motif/mirror,motif/soul,motif/tears,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/body,concept/fear,concept/madness,concept/pride,concept/reconciliation,concept/resignation,concept/truth,concept/wonder,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 CHAPTER XII
@@ -17002,7 +17002,7 @@ shoot my lapwings, Nelly? Are they red, any of them? Let me look.”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Wuthering Heights — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Wuthering Heights — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cave,motif/clock,motif/dawn,motif/dreams,motif/home,motif/memory,motif/mirror,motif/night,motif/rose,motif/sleep,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/despair,concept/exile,concept/hope,concept/suffering,character/edgar,character/heathcliff"></span>
 
 
 “Give over with that baby-work!” I interrupted, dragging the pillow
@@ -17135,7 +17135,7 @@ should be myself were I once among the heather on those hills. Open the
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Wuthering Heights — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Wuthering Heights — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/ghosts,motif/hill,motif/home,motif/journey,motif/love,motif/moon,motif/nature,motif/poison,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/fear,concept/nature,character/edgar,character/edgar_linton,character/heathcliff"></span>
 
 
 “Because I won’t give you your [[Death|death]] of cold,” I answered.
@@ -17254,7 +17254,7 @@ the mistress against you?”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Wuthering Heights — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Wuthering Heights — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/death,motif/garden,motif/horse,motif/night,motif/pain,motif/road,motif/sleep,motif/well,motif/wind,concept/alienation,concept/honour,concept/imagination,character/heathcliff,character/isabella,character/nelly_dean,character/witch"></span>
 
 
 Confused as Catherine was, her wits were alert at applying our
@@ -17382,7 +17382,7 @@ master, our young lady—”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Wuthering Heights — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Wuthering Heights — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/road,motif/water,character/heathcliff,character/isabella"></span>
 
 
 “Hold your noise!” cried I hastily, enraged at her clamorous manner.
@@ -17438,7 +17438,7 @@ I knew it.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Wuthering Heights — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Wuthering Heights — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/desire,motif/fire,motif/flowers,motif/grave,motif/marriage,motif/nature,motif/night,motif/snow,motif/spring,motif/tears,motif/time,motif/wind,motif/window,concept/hope,concept/longing,concept/nature,concept/reconciliation,concept/self,character/bottom,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 CHAPTER XIII
@@ -17548,7 +17548,7 @@ bring me something from [[Edgar]].
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Wuthering Heights — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Wuthering Heights — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/clock,motif/dance,motif/desire,motif/dust,motif/fire,motif/home,motif/journey,motif/love,motif/rose,motif/time,motif/well,concept/beauty,concept/body,concept/despair,concept/fear,concept/solitude,form/essay,setting/castle,character/edgar,character/heathcliff,character/isabella_linton"></span>
 
 
 Now, you shall hear how I have been received in my new [[Home|home]], as I am
@@ -17676,7 +17676,7 @@ Direct me to her, as she won’t come to me!”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Wuthering Heights — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Wuthering Heights — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/fire,motif/love,motif/night,motif/rose,motif/sleep,motif/soul,motif/spring,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/madness,concept/mercy,concept/self,character/heathcliff,character/pistol"></span>
 
 
 “We have none,” he answered; “you must wait on yourself!”
@@ -17796,7 +17796,7 @@ yer grand silk cloes, spread yer hankerchir o’ t’ top on’t.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Wuthering Heights — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Wuthering Heights — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,motif/dust,motif/fire,motif/sleep,motif/time,concept/fear,concept/madness,concept/pride,concept/suffering,concept/wonder,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 The “rahm” was a kind of lumber-hole smelling strong of malt and grain;
@@ -17905,7 +17905,7 @@ day—don’t disappoint me!—[[Isabella|ISABELLA]].
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Wuthering Heights — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Wuthering Heights — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/cross,motif/desire,motif/garden,motif/love,motif/rose,motif/secrets,motif/time,motif/window,concept/doubt,concept/fear,concept/forgiveness,concept/truth,character/edgar,character/heathcliff,character/isabella"></span>
 
 
 CHAPTER XIV
@@ -18017,7 +18017,7 @@ head!”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Wuthering Heights — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Wuthering Heights — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/dreams,motif/home,motif/horse,motif/love,motif/silence,motif/summer,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,concept/vanity,character/edgar,character/edgar_linton,character/heathcliff,character/isabella"></span>
 
 
 “And yet,” I interrupted, “you have no scruples in completely ruining
@@ -18130,7 +18130,7 @@ ma’am, are you, as to remain with him of your own accord?”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Wuthering Heights — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Wuthering Heights — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/desire,motif/garden,motif/home,motif/journey,motif/nature,motif/night,motif/pain,motif/road,motif/silence,motif/well,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/history,concept/hope,concept/nature,form/history,setting/court,character/edgar,character/edgar_linton,character/heathcliff,character/isabella"></span>
 
 
 “Take care, Ellen!” answered [[Isabella]], her eyes sparkling irefully;
@@ -18246,7 +18246,7 @@ daughter turned out a second edition of the mother.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Wuthering Heights — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Wuthering Heights — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/bells,motif/decay,motif/garden,motif/leaves,motif/spring,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/history,concept/melancholy,form/history,character/heathcliff,character/sunday"></span>
 
 
 CHAPTER XV
@@ -18363,7 +18363,7 @@ there—she was fated, sure to die.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Wuthering Heights — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Wuthering Heights — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/memory,motif/prison,motif/rose,motif/soul,motif/spring,motif/tears,motif/well,concept/body,concept/despair,concept/exile,concept/jealousy,character/catherine_earnshaw,character/edgar,character/heathcliff,character/nurse"></span>
 
 
 “Oh, Cathy! Oh, my life! how can I bear it?” was the first sentence he
@@ -18472,7 +18472,7 @@ while he, in return, covering her with frantic caresses, said wildly—
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Wuthering Heights — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Wuthering Heights — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/garden,motif/grave,motif/love,motif/night,motif/road,motif/soul,motif/summer,motif/tears,motif/time,motif/window,character/edgar,character/heathcliff,character/satan"></span>
 
 
 “You teach me now how cruel you’ve been—cruel and false. _Why_ did you
@@ -18591,7 +18591,7 @@ ascertaining that what I stated was apparently true, delivered the
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Wuthering Heights — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Wuthering Heights — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/child,archetype/orphan,motif/blood,motif/clock,motif/death,motif/flowers,motif/ghosts,motif/grave,motif/home,motif/lamb,motif/leaves,motif/love,motif/night,motif/prayer,motif/seasons,motif/sleep,motif/soul,motif/tears,motif/time,concept/doubt,concept/eternity,concept/fear,concept/history,concept/hope,concept/pride,form/history,character/catherine_earnshaw,character/edgar,character/edgar_linton,character/heathcliff,character/isabella"></span>
 
 
 CHAPTER XVI
@@ -18770,7 +18770,7 @@ mark the graves.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Wuthering Heights — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Wuthering Heights — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/desire,motif/fire,motif/home,motif/leaves,motif/love,motif/memory,motif/nature,motif/night,motif/snow,motif/summer,motif/water,motif/well,motif/wind,motif/window,concept/nature,concept/truth,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER XVII
@@ -18894,7 +18894,7 @@ of my [[Memory|memory]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Wuthering Heights — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Wuthering Heights — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/dance,motif/dawn,motif/death,motif/dust,motif/fire,motif/grave,motif/home,motif/night,motif/rose,motif/silence,motif/snow,motif/storm,motif/tears,motif/water,motif/wind,concept/charity,concept/melancholy,concept/revenge,concept/self,concept/wonder,character/edgar,character/heathcliff,character/isabella,character/sunday"></span>
 
 
 “Hush, hush! He’s a human being,” I said. “Be more charitable: there
@@ -19004,7 +19004,7 @@ worse than their enemies.’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Wuthering Heights — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Wuthering Heights — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/clock,motif/death,motif/fire,motif/grave,motif/love,motif/moon,motif/night,motif/pain,motif/prayer,motif/snow,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/body,concept/conscience,concept/self,character/heathcliff,character/isabella,character/nurse,character/pistol"></span>
 
 
 “‘Treachery and violence are a just return for treachery and violence!’
@@ -19126,7 +19126,7 @@ at the foot of the gallows.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Wuthering Heights — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Wuthering Heights — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,motif/grave,motif/night,motif/noon,motif/rose,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/despair,concept/fear,concept/hope,concept/truth,concept/wonder,histref/bible,character/heathcliff"></span>
 
 
 “‘Oh, I forgot you,’ said the [[Tyrant|tyrant]]. ‘You shall do that. Down with
@@ -19237,7 +19237,7 @@ usually looked out, however, was so dimmed and drowned that I did not
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_05" data-title="Wuthering Heights — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_05" data-title="Wuthering Heights — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/grave,motif/love,motif/memory,motif/nature,motif/night,motif/road,motif/rose,motif/ship,motif/snow,motif/soul,motif/time,motif/well,concept/courage,concept/hope,concept/melancholy,concept/nature,concept/resignation,setting/london,setting/ship,character/edgar,character/heathcliff,character/hindley_earnshaw,character/isabella,character/speed"></span>
 
 
 “‘Get up, and begone out of my sight,’ said the mourner.
@@ -19363,7 +19363,7 @@ my master.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_06" data-title="Wuthering Heights — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_06" data-title="Wuthering Heights — Chapter 17 (part 6)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/cross,motif/death,motif/horse,motif/night,motif/tears,motif/water,motif/well,motif/wind,concept/body,concept/truth,character/edgar_linton,character/heathcliff,character/hindley_earnshaw"></span>
 
 
 “[[Well]], Nelly,” said he, riding into the yard one morning, too early not
@@ -19489,7 +19489,7 @@ been wronged.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Wuthering Heights — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Wuthering Heights — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/shadow,motif/cave,motif/cross,motif/desire,motif/dust,motif/frost,motif/home,motif/journey,motif/love,motif/road,motif/rose,motif/snow,motif/summer,motif/time,motif/window,motif/winter,concept/beauty,concept/education,concept/honour,concept/hope,concept/wonder,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER XVIII
@@ -19603,7 +19603,7 @@ audience of all her real and imaginary adventures when she returned.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Wuthering Heights — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Wuthering Heights — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/cross,motif/death,motif/desert,motif/home,motif/horse,motif/lamb,motif/night,motif/road,motif/summer,motif/well,motif/window,concept/faith,concept/fear,setting/desert,character/heathcliff"></span>
 
 
 The [[Summer|summer]] shone in full prime; and she took such a taste for this
@@ -19722,7 +19722,7 @@ get out.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Wuthering Heights — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Wuthering Heights — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/usurper,motif/blood,motif/cave,motif/home,motif/horse,motif/love,motif/nature,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/nature,concept/pride,concept/temptation,setting/london,character/catherine_earnshaw,character/heathcliff,character/queen,character/witch"></span>
 
 
 “It’s _your_ father’s, isn’t it?” said she, turning to Hareton.
@@ -19877,7 +19877,7 @@ word, and kept it for my sake. After all, she was a sweet little girl.
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Wuthering Heights — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Wuthering Heights — Chapter 19" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/death,motif/desire,motif/dust,motif/journey,motif/night,motif/road,motif/sleep,motif/tears,motif/time,motif/well,motif/window,motif/winter,concept/hope,character/bottom,character/edgar,character/edgar_linton,character/heathcliff,character/isabella,character/sunday"></span>
 
 
 CHAPTER XIX
@@ -20061,7 +20061,7 @@ come hisseln, and thrust _him_ out, if ye darr!”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Wuthering Heights — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Wuthering Heights — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/garden,motif/home,motif/horse,motif/journey,motif/love,motif/sleep,motif/summer,motif/time,character/edgar,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 CHAPTER XX
@@ -20191,7 +20191,7 @@ for the hayfield.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Wuthering Heights — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Wuthering Heights — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/grave,motif/home,motif/soul,motif/well,concept/beauty,concept/fear,concept/honour,concept/hope,concept/pride,character/edgar,character/heathcliff"></span>
 
 
 “Hallo, Nelly!” said Mr. [[Heathcliff]], when he saw me. “I feared I should
@@ -20321,7 +20321,7 @@ guardianship ended.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Wuthering Heights — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Wuthering Heights — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/fire,motif/home,motif/memory,motif/night,motif/poison,motif/rose,motif/spring,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/temptation,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER XXI
@@ -20430,7 +20430,7 @@ whom I felt convinced was Mr. [[Heathcliff]] himself.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Wuthering Heights — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Wuthering Heights — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/home,motif/love,motif/memory,motif/road,motif/time,concept/union,concept/wonder,character/heathcliff,character/nurse,character/speed"></span>
 
 
 Cathy had been caught in the fact of plundering, or, at least, hunting
@@ -20561,7 +20561,7 @@ neighbours, and never see us, is odd: what have you done so for?”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Wuthering Heights — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Wuthering Heights — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,archetype/villain,motif/fire,motif/garden,motif/grave,motif/horse,motif/love,motif/rose,motif/time,motif/well,motif/window,concept/longing,concept/pride,character/heathcliff"></span>
 
 
 “I visited it once or twice too often before you were born,” he
@@ -20690,7 +20690,7 @@ world!”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Wuthering Heights — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Wuthering Heights — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/fear,concept/nature,form/inscription,character/heathcliff,character/isabella"></span>
 
 
 [[Heathcliff]] chuckled a fiendish laugh at the idea. I made no reply,
@@ -20815,7 +20815,7 @@ are not.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Wuthering Heights — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Wuthering Heights — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/death,motif/leaves,motif/love,motif/nature,motif/night,motif/silence,motif/time,concept/nature,concept/revenge,form/sketch,character/edgar,character/heathcliff,character/isabella,character/linton_heathcliff"></span>
 
 
 My master, perceiving that she would not take his word for her
@@ -20929,7 +20929,7 @@ relocking the vacant drawer.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Wuthering Heights — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Wuthering Heights — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/grave,motif/home,motif/love,motif/secrets,motif/well,motif/window,concept/despair,concept/pride,concept/vanity,character/heathcliff"></span>
 
 
 Following her habit, my young lady descended early, and visited the
@@ -21037,7 +21037,7 @@ And, thenceforth, the little boy came with vacant pockets.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Wuthering Heights — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Wuthering Heights — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/grave,motif/leaves,motif/love,motif/night,motif/road,motif/rose,motif/silence,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/winter,concept/hope,concept/melancholy,character/bottom,character/edgar,character/isabella,character/nurse"></span>
 
 
 CHAPTER XXII
@@ -21151,7 +21151,7 @@ better than myself.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Wuthering Heights — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Wuthering Heights — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/fool,archetype/lover,archetype/villain,motif/birds,motif/dance,motif/death,motif/desire,motif/dreams,motif/grave,motif/home,motif/horse,motif/love,motif/night,motif/road,motif/rose,motif/summer,motif/time,motif/well,concept/fear,concept/hope,concept/truth,character/heathcliff"></span>
 
 
 “Good words,” I replied. “But deeds must prove it also; and after he is
@@ -21289,7 +21289,7 @@ tale was founded on fact.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Wuthering Heights — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Wuthering Heights — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/dawn,motif/death,motif/fire,motif/frost,motif/love,motif/night,motif/time,motif/water,motif/well,concept/faith,concept/hope,concept/wonder,character/heathcliff,character/isabella"></span>
 
 
 CHAPTER XXIII
@@ -21422,7 +21422,7 @@ to dare to repeat what he says. He must be wicked to have made Aunt
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Wuthering Heights — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Wuthering Heights — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/night,motif/pain,motif/time,motif/water,motif/well,concept/endurance,concept/hope,concept/suffering,concept/truth,concept/wonder,character/heathcliff"></span>
 
 
 “She didn’t leave him,” said the boy; “you sha’n’t contradict me.”
@@ -21561,7 +21561,7 @@ though: begin.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Wuthering Heights — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Wuthering Heights — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/night,motif/prison,motif/rose,motif/spring,motif/time,motif/well,concept/body,concept/doubt,concept/solitude,setting/court,character/heathcliff,character/nurse"></span>
 
 
 Catherine repeated the longest she could remember. The employment
@@ -21652,7 +21652,7 @@ the moors, I laid it to the charge of a hot [[Fire|fire]] in the library.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Wuthering Heights — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Wuthering Heights — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/bees,motif/dance,motif/fire,motif/garden,motif/home,motif/moon,motif/night,motif/prayer,motif/road,motif/rose,motif/silence,motif/sleep,motif/snow,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/truth,character/bottom,character/edgar,character/hareton_earnshaw,character/michael"></span>
 
 
 CHAPTER XXIV
@@ -21789,7 +21789,7 @@ right weather came; and then we kissed each other and were friends.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Wuthering Heights — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Wuthering Heights — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/cross,motif/desire,motif/fire,motif/garden,motif/home,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/ambition,concept/doubt,concept/longing,concept/vanity,form/inscription,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 “After sitting still an hour, I looked at the great room with its
@@ -21907,7 +21907,7 @@ door, and shook it: it was fastened inside.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Wuthering Heights — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Wuthering Heights — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/cross,motif/fire,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/prison,motif/road,motif/time,concept/courage,concept/doubt,concept/nature,concept/truth,setting/court,character/heathcliff,character/michael,character/sunday"></span>
 
 
 “‘If you don’t let me in, I’ll kill you!—If you don’t let me in, I’ll
@@ -22057,7 +22057,7 @@ consolation.
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="Wuthering Heights — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="Wuthering Heights — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="archetype/child,motif/death,motif/desire,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/fear,concept/hope,concept/providence,concept/solitude,concept/temptation,concept/union,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER XXV
@@ -22200,7 +22200,7 @@ plans were threatened with defeat by [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="Wuthering Heights — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="Wuthering Heights — Chapter 26" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/child,motif/cross,motif/dreams,motif/home,motif/horse,motif/journey,motif/pain,motif/rose,motif/summer,motif/tears,motif/well,motif/winter,concept/fear,concept/longing,concept/self,character/edgar,character/heathcliff"></span>
 
 
 CHAPTER XXVI
@@ -22386,7 +22386,7 @@ reveal.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Wuthering Heights — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Wuthering Heights — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/desire,motif/home,motif/tears,motif/time,motif/well,concept/courage,concept/fear,concept/hope,character/edgar_linton,character/heathcliff"></span>
 
 
 CHAPTER XXVII
@@ -22507,7 +22507,7 @@ he said—
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Wuthering Heights — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Wuthering Heights — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/home,motif/journey,motif/time,motif/well,concept/charity,concept/fear,character/edgar_linton,character/heathcliff"></span>
 
 
 “It is something to see you so near to my [[house]], Nelly. How are you at
@@ -22633,7 +22633,7 @@ threat, had she been able to fall.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Wuthering Heights — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Wuthering Heights — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/fire,motif/home,motif/love,motif/night,motif/rose,motif/tears,motif/well,concept/courage,concept/fear,concept/self,character/heathcliff"></span>
 
 
 At this diabolical violence I rushed on him furiously. “You [[Villain|villain]]!” I
@@ -22752,7 +22752,7 @@ but he scowled on her and muttered—“Oh! you are not afraid of me? Your
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Wuthering Heights — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Wuthering Heights — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/tyrant,motif/clock,motif/desire,motif/garden,motif/home,motif/jewel,motif/love,motif/night,motif/rose,motif/silence,motif/sleep,motif/well,motif/window,concept/doubt,concept/hope,concept/imagination,character/heathcliff"></span>
 
 
 “I _am_ afraid now,” she replied, “because, if I stay, papa will be
@@ -22891,7 +22891,7 @@ his sense of justice or compassion.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Wuthering Heights — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Wuthering Heights — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/home,motif/night,motif/road,motif/sleep,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/winter,setting/court,character/edgar,character/heathcliff,character/nelly_dean"></span>
 
 
 CHAPTER XXVIII
@@ -23015,7 +23015,7 @@ and crushed it with his foot.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Wuthering Heights — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Wuthering Heights — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/death,motif/horse,motif/journey,motif/moon,motif/night,motif/noon,motif/pain,motif/rose,motif/sleep,motif/soul,motif/storm,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/despair,concept/hope,concept/resignation,character/edgar,character/heathcliff,character/linton_heathcliff"></span>
 
 
 “And were you pleased to see her struck?” I asked: having my designs in
@@ -23164,7 +23164,7 @@ notwithstanding his timid contrivances.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Wuthering Heights — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Wuthering Heights — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/ghost,motif/autumn,motif/fire,motif/grave,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/revenge,setting/court,character/heathcliff,character/witch"></span>
 
 
 CHAPTER XXIX
@@ -23277,7 +23277,7 @@ then by the [[Time|time]] Linton gets to us he’ll not know which is which!”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Wuthering Heights — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Wuthering Heights — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/dawn,motif/fire,motif/garden,motif/ghosts,motif/grave,motif/home,motif/night,motif/silence,motif/sleep,motif/snow,motif/wind,motif/window,motif/winter,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/hope,character/heathcliff"></span>
 
 
 “You were very wicked, Mr. [[Heathcliff]]!” I exclaimed; “were you not
@@ -23387,7 +23387,7 @@ the alley, whose trees concealed them.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Wuthering Heights — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Wuthering Heights — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/horse,motif/night,motif/sleep,motif/time,motif/well,concept/body,concept/fear,character/heathcliff,character/nurse,character/sunday"></span>
 
 
 CHAPTER XXX
@@ -23516,7 +23516,7 @@ plain as a Quaker: she couldn’t comb them out.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Wuthering Heights — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Wuthering Heights — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/frost,motif/home,motif/love,motif/nature,motif/road,motif/rose,motif/well,motif/winter,concept/courage,concept/nature,concept/pride,concept/solitude,setting/london,character/heathcliff,character/sunday"></span>
 
 
 “Joseph and I generally go to chapel on Sundays:” the kirk, (you know,
@@ -23647,7 +23647,7 @@ another [[Winter|winter]] here for much.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Wuthering Heights — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Wuthering Heights — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/desire,motif/garden,motif/home,motif/love,motif/time,motif/well,motif/window,concept/beauty,concept/wonder,character/heathcliff"></span>
 
 
 CHAPTER XXXI
@@ -23768,7 +23768,7 @@ instead of aiding us, we should stumble and totter yet.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Wuthering Heights — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Wuthering Heights — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/journey,motif/love,motif/road,motif/rose,motif/silence,motif/window,concept/fear,concept/hope,concept/self,concept/solitude,concept/temptation,setting/london,character/heathcliff,character/linton_heathcliff,character/nurse"></span>
 
 
 “Oh!” she replied, “I don’t wish to limit his acquirements: still, he
@@ -23892,7 +23892,7 @@ together into the stirring atmosphere of the town!”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Wuthering Heights — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Wuthering Heights — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/fire,motif/journey,motif/moon,motif/night,motif/noon,motif/road,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/beauty,concept/wonder,setting/court,character/heathcliff"></span>
 
 
 CHAPTER XXXII
@@ -24017,7 +24017,7 @@ something besides staring at its smiting [[Beauty|beauty]].
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Wuthering Heights — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Wuthering Heights — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/fire,motif/garden,motif/home,motif/horse,motif/spring,motif/time,concept/history,concept/loneliness,concept/solitude,concept/wonder,form/history,histref/bible,setting/london,character/hareton_earnshaw,character/heathcliff,character/nelly_dean"></span>
 
 
 The task was done, not free from further blunders; but the pupil
@@ -24140,7 +24140,7 @@ you do, what is it about? But you can’t speak to me!”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Wuthering Heights — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Wuthering Heights — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/cross,motif/fire,motif/garden,motif/home,motif/soul,motif/well,motif/window,concept/body,concept/conscience,concept/indolence,concept/pride,setting/court,character/heathcliff"></span>
 
 
 Then she looked at him; but he would neither open his mouth nor look
@@ -24270,7 +24270,7 @@ to forgive me: what can I do besides?”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Wuthering Heights — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Wuthering Heights — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/home,motif/night,motif/well,motif/window,concept/courage,concept/doubt,concept/endurance,concept/union,histref/bible,character/hareton_earnshaw,character/heathcliff"></span>
 
 
 She returned to the hearth, and frankly extended her hand. He blackened
@@ -24371,7 +24371,7 @@ day: there won’t be a happier woman than myself in England!
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Wuthering Heights — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Wuthering Heights — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/fool,motif/flowers,motif/garden,motif/road,motif/silence,motif/well,concept/body,concept/friendship,concept/wonder,character/heathcliff"></span>
 
 
 CHAPTER XXXIII
@@ -24503,7 +24503,7 @@ biting a piece of crust, the remnant of her breakfast.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Wuthering Heights — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Wuthering Heights — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/chains,motif/cross,motif/fire,motif/home,motif/love,motif/nature,motif/rose,motif/time,motif/well,concept/nature,character/catherine_earnshaw,character/heathcliff,character/witch"></span>
 
 
 The master seemed confounded a moment: he grew pale, and [[Rose|rose]] up,
@@ -24619,7 +24619,7 @@ also, but he bid me sit still.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Wuthering Heights — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Wuthering Heights — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/childhood,motif/death,motif/desire,motif/love,motif/night,motif/pain,motif/soul,motif/spring,motif/time,motif/well,concept/conscience,concept/doubt,concept/fear,concept/hope,concept/imagination,concept/pride,concept/revenge,concept/solitude,character/heathcliff"></span>
 
 
 “It is a poor conclusion, is it not?” he observed, having brooded
@@ -24720,7 +24720,7 @@ company.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Wuthering Heights — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Wuthering Heights — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/garden,motif/night,motif/noon,motif/rose,motif/spring,motif/well,motif/window,concept/solitude,concept/truth,character/dwarf,character/heathcliff"></span>
 
 
 CHAPTER XXXIV
@@ -24863,7 +24863,7 @@ shutting the casements, one after another, till I came to his.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Wuthering Heights — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Wuthering Heights — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/fire,motif/garden,motif/home,motif/pain,motif/rose,motif/silence,motif/sleep,motif/soul,motif/time,motif/window,concept/courage,concept/suffering,form/inscription,character/heathcliff"></span>
 
 
 “Must I close this?” I asked, in order to rouse him; for he would not
@@ -24989,7 +24989,7 @@ morning? Come in with your light.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Wuthering Heights — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Wuthering Heights — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/blood,motif/dawn,motif/desire,motif/fire,motif/night,motif/sleep,motif/soul,motif/time,motif/water,motif/well,motif/window,concept/body,concept/doubt,histref/bible,character/heathcliff"></span>
 
 
 “It is striking four,” I answered. “You want a candle to take upstairs:
@@ -25106,7 +25106,7 @@ could [[Doubt|doubt]] no more: he was dead and stark!
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Wuthering Heights — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Wuthering Heights — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/decay,motif/fire,motif/garden,motif/ghosts,motif/grave,motif/home,motif/memory,motif/moon,motif/night,motif/road,motif/soul,motif/wind,motif/window,concept/hope,histref/bible,character/edgar_linton,character/heathcliff,character/satan"></span>
 
 
 I hasped the [[Window|window]]; I combed his black long hair from his forehead; I

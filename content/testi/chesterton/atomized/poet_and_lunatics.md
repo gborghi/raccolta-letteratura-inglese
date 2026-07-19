@@ -6827,7 +6827,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_01" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 1)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_01" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 1)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="motif/city,motif/garden,motif/hill,motif/river,motif/road,motif/silence,motif/storm,motif/summer,motif/swallow,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,concept/history,concept/melancholy,form/history"></span>
 
 
 THE FANTASTIC FRIENDS
@@ -6972,7 +6972,7 @@ Man mano che si avvicinavano alla locanda, il contrasto cresceva, ed era accentu
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_02" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 2)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_02" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 2)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="archetype/artist,archetype/outsider,motif/desert,motif/horse,motif/night,motif/road,motif/silence,motif/stars,motif/time,motif/well,concept/fear,concept/imagination,setting/desert"></span>
 
 
 They came to a halt before the inn; and the shorter man said jovially
@@ -7132,7 +7132,7 @@ Erano rimasti tutti in piedi con le spalle alla [[Road|strada]], guardando la bu
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_03" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 3)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_03" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 3)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/river,motif/road,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/hope,concept/truth,character/diana"></span>
 
 
 A high dog-cart had drawn up on the other side of the [[Road|road]].
@@ -7291,7 +7291,7 @@ La signora guardava di nuovo il pittore con la fronte lievemente corrugata; semb
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_04" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 4)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_04" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 4)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="archetype/shadow,motif/chalk,motif/dawn,motif/night,motif/road,motif/rose,motif/silence,motif/time,motif/well,concept/despair,concept/suicide,form/fable,character/apollo,character/diana"></span>
 
 
 Almost as he spoke a noise like a sort of cry came through the inn
@@ -7463,7 +7463,7 @@ L'[[Shadow|ombra]] senza nome pareva essere caduta da lui mentre parlava e lavor
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_05" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 5)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_05" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 5)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,archetype/shadow,motif/cross,motif/horse,motif/journey,motif/lightning,motif/night,motif/river,motif/road,motif/storm,motif/time,motif/water,motif/well,form/novel,character/bottom,character/diana"></span>
 
 
 Unfortunately, a [[Shadow|shadow]] came between her and the sun in a shape
@@ -7705,7 +7705,7 @@ di destino.
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_06" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 6)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_06" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 6)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/garden,motif/horse,motif/lightning,motif/pain,motif/river,motif/rose,motif/soul,motif/stars,motif/well,concept/courage,concept/fear,concept/humility,concept/mercy,concept/self,concept/suicide,character/diana"></span>
 
 
 Meanwhile [[Diana]] Westermaine had left the stable and made her way
@@ -7951,7 +7951,7 @@ della sua [[Sanity|ragione]] fosse frustrato dalle stravaganze della sua malatti
 
 
 
-<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_07" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 7)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_fantastic_friends--part_07" data-title="Poet and Lunatics — THE FANTASTIC FRIENDS (part 7)" data-chapter="THE FANTASTIC FRIENDS" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/horse,motif/lightning,motif/night,motif/river,motif/road,motif/rose,motif/sleep,motif/soul,motif/stars,motif/storm,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,concept/courage,concept/heroism,concept/hope,concept/imagination,concept/truth,form/tragedy,character/diana,character/troilus"></span>
 
 
 "I'll drive if we must," she said in a ringing tone.
@@ -8293,7 +8293,7 @@ II
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_01" data-title="Poet and Lunatics — THE YELLOW BIRD (part 1)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_01" data-title="Poet and Lunatics — THE YELLOW BIRD (part 1)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/flowers,motif/garden,motif/hill,motif/leaves,motif/love,motif/river,motif/secrets,motif/well,concept/wonder"></span>
 
 
 THE YELLOW BIRD
@@ -8519,7 +8519,7 @@ il bruno e il grigio, e uno di essi appare del tutto giallo.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_02" data-title="Poet and Lunatics — THE YELLOW BIRD (part 2)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_02" data-title="Poet and Lunatics — THE YELLOW BIRD (part 2)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/dreams,motif/garden,motif/hill,motif/home,motif/horse,motif/leaves,motif/nature,motif/night,motif/prison,motif/road,motif/silence,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/history,concept/nature,concept/poverty,form/history"></span>
 
 
 "A yellow-hammer, I suppose," remarked Garth.
@@ -8717,7 +8717,7 @@ Mallow aveva già ripreso il suo monologo:
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_03" data-title="Poet and Lunatics — THE YELLOW BIRD (part 3)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_03" data-title="Poet and Lunatics — THE YELLOW BIRD (part 3)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/garden,motif/hill,motif/noon,motif/prison,motif/river,motif/silence,motif/sleep,motif/time,motif/window,concept/hope,concept/truth"></span>
 
 
 "Hullo!" cried Garth.  "This moated grange of yours is actually
@@ -8969,7 +8969,7 @@ gli assomigli davvero parecchio.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_04" data-title="Poet and Lunatics — THE YELLOW BIRD (part 4)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_04" data-title="Poet and Lunatics — THE YELLOW BIRD (part 4)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="motif/birds,motif/garden,motif/hill,motif/time,motif/well,motif/window,concept/wonder,form/allegory"></span>
 
 
 Mallow, in his more mystical mood, looked strangely from one to the other,
@@ -9195,7 +9195,7 @@ di strani mobili là dove lo straniero era passato.
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_05" data-title="Poet and Lunatics — THE YELLOW BIRD (part 5)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_05" data-title="Poet and Lunatics — THE YELLOW BIRD (part 5)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/shadow,motif/chalk,motif/city,motif/desire,motif/garden,motif/love,motif/machine,motif/road,motif/stars,motif/time,motif/well,motif/window"></span>
 
 
 Accident, indeed, gave to their passage through those empty rooms
@@ -9433,7 +9433,7 @@ sentito essere piene della sua presenza.
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_06" data-title="Poet and Lunatics — THE YELLOW BIRD (part 6)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_06" data-title="Poet and Lunatics — THE YELLOW BIRD (part 6)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,archetype/shadow,motif/birds,motif/garden,motif/ghosts,motif/hill,motif/home,motif/leaves,motif/moon,motif/prison,motif/road,motif/time,motif/well,motif/window,concept/self"></span>
 
 
 "You will pull down that old swing, I suppose?" he had said as they
@@ -9691,7 +9691,7 @@ Sentiremo ancora parlare della [[Prison|prigione]] rotonda prima che questa stor
 
 
 
-<span class="atom-split" data-atom="story_02_the_yellow_bird--part_07" data-title="Poet and Lunatics — THE YELLOW BIRD (part 7)" data-chapter="THE YELLOW BIRD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_yellow_bird--part_07" data-title="Poet and Lunatics — THE YELLOW BIRD (part 7)" data-chapter="THE YELLOW BIRD" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/dance,motif/death,motif/desire,motif/ghosts,motif/hill,motif/home,motif/lightning,motif/love,motif/memory,motif/moon,motif/prison,motif/road,motif/rose,motif/stars,motif/time,motif/window,concept/freedom"></span>
 
 
 "Then I saw the man on the roof, with his hands spread like wings
@@ -9885,7 +9885,7 @@ III
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_01" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 1)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_01" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 1)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/death,motif/memory,motif/silence,motif/supernatural,motif/time,motif/well,concept/history,concept/self,form/history,histref/bible,character/arthur"></span>
 
 
 THE [[Shadow|SHADOW]] OF THE SHARK
@@ -10083,7 +10083,7 @@ il curioso effetto della controversia dei giovani sul signor Boon.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_02" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 2)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_02" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 2)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/chalk,motif/flowers,motif/garden,motif/well,concept/doubt,concept/faith,concept/fear,concept/providence"></span>
 
 
 "The subject of [[Flowers|flowers]] is hackneyed, but the [[Flowers|flowers]] are not,"
@@ -10341,7 +10341,7 @@ Il suo ospite affrontò con animazione gli altri comuni argomenti del giorno.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_03" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 3)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_03" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 3)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/chalk,motif/silence,motif/time,motif/well,motif/window,histref/bible"></span>
 
 
 "I bet I'm the most industrious of the lot of you," he said.
@@ -10611,7 +10611,7 @@ che diffuse il suo nome su tutti i giornali del paese.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_04" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 4)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_04" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 4)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/shadow,motif/chalk,motif/desert,motif/dreams,motif/memory,motif/rose,motif/time,motif/well,motif/wheel,concept/body,concept/fear,concept/hope,concept/self,concept/suicide,form/tragedy,setting/desert"></span>
 
 
 Gabriel Gale was scaling the splendid swell of turf that
@@ -10861,7 +10861,7 @@ la stella al suo giusto posto nei cieli.
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_05" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 5)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_05" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 5)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dawn,motif/rose,motif/silence,motif/time,motif/well,concept/fear,concept/guilt,concept/truth,setting/castle"></span>
 
 
 "I told Wilkes that a flower was a living star," he said to himself.
@@ -11102,7 +11102,7 @@ morto lontano sulle sabbie in basso, accanto al suo cavalletto.»
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_06" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 6)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_06" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 6)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/dreams,motif/marriage,motif/moon,motif/nature,motif/secrets,motif/silence,motif/supernatural,motif/well,concept/body,concept/doubt,concept/nature,concept/truth,concept/wonder,form/riddle"></span>
 
 
 "And ever since, I suppose," observed Gale, "Simon has
@@ -11248,7 +11248,7 @@ Garth lo fissò per qualche istante; poi osservò gravemente:
 
 
 
-<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_07" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 7)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_shadow_shadow_of_the_shark--part_07" data-title="Poet and Lunatics — THE SHADOW OF THE SHARK (part 7)" data-chapter="THE Shadow SHADOW OF THE SHARK" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/monster,archetype/shadow,motif/blood,motif/chalk,motif/garden,motif/nature,motif/night,motif/road,motif/rose,motif/water,motif/well,motif/window,concept/body,concept/doubt,concept/nature,concept/self"></span>
 
 
 "My dear fellow!" remonstrated Dr. Garth.
@@ -11434,7 +11434,7 @@ IV
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_01" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 1)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_01" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 1)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/garden,motif/summer,motif/time,motif/well,concept/body,concept/grotesque,concept/self,form/parody,form/tragedy,setting/london"></span>
 
 
 THE CRIME OF GABRIEL GALE
@@ -11600,7 +11600,7 @@ Poi aggiunse bruscamente: «Naturalmente è sempre una triste faccenda; ma temo 
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_02" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 2)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_02" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 2)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="motif/garden,motif/lightning,motif/storm,motif/summer,motif/time,motif/well,motif/window,concept/self,form/tragedy"></span>
 
 
 "There was another thing which made me sure he wasn't himself.
@@ -11720,7 +11720,7 @@ the chairs and they'll come to you.'
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_03" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 3)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_03" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 3)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/silence,motif/storm,motif/time,motif/well,motif/wind,concept/fear,form/tragedy,setting/london"></span>
 
 
 "A second or so afterwards he added, as if it were an afterthought,
@@ -11882,7 +11882,7 @@ I due dottori, quando si separarono in un certo sconcerto, ma accettando tacitam
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_04" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 4)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_04" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 4)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/garden,motif/lightning,motif/night,motif/river,motif/rose,motif/silence,motif/summer,motif/time,motif/well,motif/wind,concept/imagination,concept/mercy,concept/self,concept/self_deception"></span>
 
 
 "Can never be sufficiently grateful to Gale for his great kindness
@@ -12018,7 +12018,7 @@ Poi si riappoggiò lentamente all'indietro e fissò distrattamente una margherit
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_05" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 5)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_05" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 5)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/dance,motif/garden,motif/horse,motif/nature,motif/road,motif/rose,motif/soul,motif/stars,motif/storm,motif/water,motif/well,motif/window,concept/fear,concept/imagination,concept/nature,concept/providence,concept/self"></span>
 
 
 "I think," said Garth slowly, "it was when you were staring out
@@ -12179,7 +12179,7 @@ Finché le [[Stars|stelle]] a stento sanno reggersi.'
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_06" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 6)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_06" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 6)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="archetype/child,motif/moon,motif/pain,motif/seasons,motif/stars,motif/window,concept/body,concept/doubt,concept/paradox,concept/truth,form/allegory,form/parable,setting/court"></span>
 
 
 "Do you think," asked Dr. Butterworth, frowning, "that there
@@ -12315,7 +12315,7 @@ but I nailed him to a tree."
 
 
 
-<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_07" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 7)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_crime_of_gabriel_gale--part_07" data-title="Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 7)" data-chapter="THE CRIME OF GABRIEL GALE" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/ghost,motif/dawn,motif/dust,motif/garden,motif/memory,motif/nature,motif/river,motif/road,motif/silence,motif/stars,motif/storm,motif/time,concept/doubt,concept/nature,concept/truth,form/comedy,form/epigram,form/hymn,histref/christianity"></span>
 
 
 He had risen to his feet in a suppressed and very unusual excitement;
@@ -12522,7 +12522,7 @@ V
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_01" data-title="Poet and Lunatics — THE FINGER OF STONE (part 1)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_01" data-title="Poet and Lunatics — THE FINGER OF STONE (part 1)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/artist,motif/grave,motif/hill,motif/road,motif/rose,motif/time,concept/conscience,concept/self,histref/bible,character/arthur"></span>
 
 
 THE FINGER OF STONE
@@ -12652,7 +12652,7 @@ Parlava in modo alquanto tagliente, poiché era lievemente infastidito dagli att
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_02" data-title="Poet and Lunatics — THE FINGER OF STONE (part 2)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_02" data-title="Poet and Lunatics — THE FINGER OF STONE (part 2)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="motif/fire,motif/hill,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/grotesque,concept/wonder,histref/french_revolution"></span>
 
 
 "Yes, I suppose I've seen today some of the very oldest sculpture of
@@ -12827,7 +12827,7 @@ Armitage si interpose alla maniera benevola di un presidente. «Dobbiamo davvero
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_03" data-title="Poet and Lunatics — THE FINGER OF STONE (part 3)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_03" data-title="Poet and Lunatics — THE FINGER OF STONE (part 3)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/grave,motif/hill,motif/nature,motif/silence,motif/time,motif/well,concept/body,concept/hope,concept/martyrdom,concept/nature,concept/vanity,character/bottom"></span>
 
 
 "One is tempted to wish he were martyred already; but the [[Martyrdom|martyrdom]],
@@ -12986,7 +12986,7 @@ Armitage chiuse il taccuino, ma continuò a guardare fisso in basso verso il tav
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_04" data-title="Poet and Lunatics — THE FINGER OF STONE (part 4)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_04" data-title="Poet and Lunatics — THE FINGER OF STONE (part 4)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/innocent,motif/death,motif/grave,motif/hill,motif/nature,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/nature,concept/truth,character/edgar,character/monks"></span>
 
 
 "My friend Bertrand sat down and thought it out.  The letter had
@@ -13131,7 +13131,7 @@ Il dottor Garth balzò in piedi, gli occhi brillanti di curiosità; poi, ritrova
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_05" data-title="Poet and Lunatics — THE FINGER OF STONE (part 5)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_05" data-title="Poet and Lunatics — THE FINGER OF STONE (part 5)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/detective,archetype/hero,motif/cross,motif/death,motif/grave,motif/love,motif/sleep,motif/well,concept/body,concept/democracy,concept/truth,form/hymn,form/tragedy,character/arthur"></span>
 
 
 Gabriel Gale, who had rather the appearance of having gone to [[Sleep|sleep]],
@@ -13281,7 +13281,7 @@ Vi fu un altro tornado di rumori contrastanti quando il predicatore eremita apr�
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_06" data-title="Poet and Lunatics — THE FINGER OF STONE (part 6)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_06" data-title="Poet and Lunatics — THE FINGER OF STONE (part 6)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/blood,motif/death,motif/hill,motif/home,motif/love,motif/silence,motif/soul,motif/water,motif/well,concept/body,concept/honour,concept/truth,concept/wonder"></span>
 
 
 Dr. Garth shrugged his shoulders.  "I imagine he's talking
@@ -13455,7 +13455,7 @@ Bertrand fece un rapido movimento in avanti che parve quasi minacciare un'aggres
 
 
 
-<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_07" data-title="Poet and Lunatics — THE FINGER OF STONE (part 7)" data-chapter="THE FINGER OF STONE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_finger_of_stone--part_07" data-title="Poet and Lunatics — THE FINGER OF STONE (part 7)" data-chapter="THE FINGER OF STONE" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/monster,motif/chalk,motif/grave,motif/hill,motif/insects,motif/stars,motif/water,motif/well,concept/body,concept/courage,concept/doubt,concept/honour,concept/truth,concept/wonder"></span>
 
 
 He made a gesture with his hand, and went on, with something
@@ -13628,7 +13628,7 @@ VI
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_01" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 1)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_01" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 1)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,motif/birds,motif/crown,motif/fire,motif/garden,motif/memory,motif/road,motif/time,motif/window,concept/apocalypse,concept/beauty,setting/london"></span>
 
 
 THE [[house|HOUSE]] OF THE PEACOCK
@@ -13763,7 +13763,7 @@ Queste riflessioni più pratiche, a loro volta, gli erano passate per la mente p
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_02" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 2)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_02" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 2)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/king,motif/dawn,motif/garden,motif/mirror,motif/ship,motif/well,motif/window,concept/imagination,setting/ship"></span>
 
 
 He had a curious [[innocence]] which often appeared as impudence.
@@ -13910,7 +13910,7 @@ Gale era vagamente cosciente che il suo occhio distratto si era spesso posato su
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_03" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 3)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_03" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 3)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/artist,archetype/rebel,motif/garden,motif/time,motif/well,concept/pride,concept/truth,concept/wonder,histref/christianity,character/michael,character/satan"></span>
 
 
 The members of the Thirteen Club, as they came trooping up the stairs
@@ -14065,7 +14065,7 @@ Crundle mostrò una curiosa irrequietezza mentre questa conversazione procedeva;
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_04" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 4)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_04" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 4)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="motif/garden,motif/mirror,motif/silence,motif/time,motif/well,motif/window,concept/pride,concept/truth,character/arthur"></span>
 
 
 Gale nodded thoughtfully, as if in partial assent, and answered rather
@@ -14237,7 +14237,7 @@ Per la prima [[Time|volta]] nella sua irrequieta ora di ospitalità l'uomo a cap
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_05" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 5)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_05" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 5)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/dust,motif/garden,motif/home,motif/road,motif/silence,motif/well,motif/window,concept/body,concept/doubt,concept/grotesque,character/arthur"></span>
 
 
 "I do not accuse you," answered Gale, "and the proof is that
@@ -14405,7 +14405,7 @@ Gabriel Gale si fece avanti davanti alla figura crollata sulla sedia, e volse il
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_06" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 6)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_06" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 6)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,motif/cross,motif/dust,motif/prayer,motif/time,motif/well,motif/window,concept/doubt,concept/eternity,concept/self,concept/wonder,form/tragedy,character/witch"></span>
 
 
 "Yes," replied Gale.  "I discovered him and I defend him."
@@ -14627,7 +14627,7 @@ e disse con una fredda pazienza come a un [[Child|bambino]] esasperante:
 
 
 
-<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_07" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 7)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_house_house_of_the_peacock--part_07" data-title="Poet and Lunatics — THE HOUSE OF THE PEACOCK (part 7)" data-chapter="THE house HOUSE OF THE PEACOCK" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/garden,motif/night,motif/road,motif/well,motif/window,setting/battlefield,setting/mountains"></span>
 
 
 Crundle sprang unsteadily to his feet, his mouth still working,
@@ -14763,7 +14763,7 @@ VII
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_01" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 1)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_01" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 1)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,motif/jewel,motif/nature,motif/silence,motif/well,motif/wind,concept/courage,concept/hope,concept/nature,concept/sublime,concept/suicide"></span>
 
 
 THE PURPLE [[Jewel|JEWEL]]
@@ -14911,7 +14911,7 @@ Gabriel Gale, che pure frequentava i migliori circoli letterari, conosceva [[Wel
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_02" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 2)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_02" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 2)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/death,motif/fire,motif/grave,motif/jewel,motif/journey,motif/lion,motif/memory,motif/road,motif/time,motif/uncanny,motif/well,concept/grotesque,concept/madness,concept/uncanny,setting/mountains,setting/paris,character/kent,character/lincoln"></span>
 
 
 Nevertheless, he did not lose the sense of contrast in stepping
@@ -15181,7 +15181,7 @@ la terra piatta verso oriente, le torri di Canterbury».
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_03" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 3)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_03" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 3)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/shadow,motif/crown,motif/fire,motif/jewel,motif/moon,motif/road,motif/silence,motif/time,concept/body,concept/doubt,concept/solitude,concept/truth,concept/wonder,form/parable,setting/cathedral,setting/london"></span>
 
 
 "I [[Wonder|wonder]]," said Gabriel Gale suddenly, like a man coming out
@@ -15391,7 +15391,7 @@ alla [[Cathedral|cattedrale]].  Non ci ho più pensato fino a questo momento».
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_04" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 4)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_04" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 4)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/jewel,motif/road,motif/time,motif/well,concept/truth,concept/wonder,character/kent"></span>
 
 
 Gunter got up from his desk and went into the inner room in
@@ -15649,7 +15649,7 @@ seppi che diceva la [[Truth|verità]]».
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_05" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 5)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_05" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 5)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/chalk,motif/crown,motif/desire,motif/garden,motif/grave,motif/home,motif/jewel,motif/road,motif/water,motif/well,motif/window,concept/suicide,form/novel,form/tragedy,setting/cathedral,character/cleopatra"></span>
 
 
 The others were gazing at the speaker in some mild surprise, when the
@@ -15899,7 +15899,7 @@ la sua [[Home|casa]].  A Hatt il poeta fece l'osservazione alquanto irrilevante:
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_06" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 6)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_06" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 6)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="archetype/shadow,motif/chalk,motif/dance,motif/desire,motif/home,motif/jewel,motif/road,motif/time,motif/well,concept/suicide,form/melodrama,form/riddle"></span>
 
 
 Mr. Hatt, the secretary, indicated that, had he nourished such a [[Desire|desire]],
@@ -16181,7 +16181,7 @@ e nuovo ornamento sociale del sobborgo di Croydon.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_07" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 7)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_07" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 7)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/crown,motif/garden,motif/home,motif/jewel,motif/night,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/education,concept/jealousy,character/cain"></span>
 
 
 "So Phineas went down to Margate to meet his brother," said Garth.
@@ -16439,7 +16439,7 @@ rapidamente in piedi e rimase a fissarli con occhi lucenti.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_08" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 8)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_purple_jewel_jewel--part_08" data-title="Poet and Lunatics — THE PURPLE JEWEL (part 8)" data-chapter="THE PURPLE Jewel JEWEL" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/jewel,motif/love,motif/prison,motif/rose,motif/silence,motif/well,motif/window,concept/despair,concept/eternity,concept/freedom,concept/imagination,setting/cathedral"></span>
 
 
 "Yes," said Gale, "because I am talking to him."  And he smiled
@@ -16597,7 +16597,7 @@ VIII
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_01" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 1)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_01" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 1)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/autumn,motif/dust,motif/grave,motif/journey,motif/night,motif/river,motif/road,motif/silence,concept/body,concept/friendship,concept/self,concept/truth,concept/wonder,character/diana,character/hamlet"></span>
 
 
 THE ASYLUM OF ADVENTURE
@@ -16752,7 +16752,7 @@ Quasi quattordici anni prima, Gabriel Gale era divenuto maggiorenne e aveva ered
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_02" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 2)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_02" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 2)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/shadow,motif/autumn,motif/garden,motif/river,motif/storm,motif/well,concept/doubt,concept/temptation,form/lyric"></span>
 
 
 With these coloured proclamations did Mr. Gale beautify
@@ -16873,7 +16873,7 @@ Gale si tuffò ridendo nell'angolo buio in questione e si sedette al centro del 
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_03" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 3)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_03" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 3)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/hill,motif/lightning,motif/prison,motif/river,motif/road,concept/truth,character/queen"></span>
 
 
 "Make it a prose poem, then," said the man whose name was Simeon Wolfe,
@@ -17028,7 +17028,7 @@ Mentre parlava guardava torvo Starkey e fuori sotto l'arco scuro del pergolato, 
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_04" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 4)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_04" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 4)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/shadow,motif/garden,motif/prison,concept/doubt,concept/hope,concept/truth"></span>
 
 
 "There is no [[Doubt|doubt]] about your condition now," said Dr. Wolfe
@@ -17206,7 +17206,7 @@ Lo sconosciuto emise un improvviso scoppio di risa che scosse la baracca e i ner
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_05" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 5)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_05" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 5)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/city,motif/death,motif/garden,motif/great_house,motif/hill,motif/leaves,motif/love,motif/river,motif/road,motif/stars,motif/storm,motif/time,concept/apocalypse,concept/beauty,concept/fear,concept/hope,concept/longing,concept/sublime"></span>
 
 
 How he passed through the topsy-turvy transformation scene
@@ -17351,7 +17351,7 @@ L'intero paesaggio gli parve oscurarsi per un istante mentre leggeva la lettera,
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_06" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 6)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_06" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 6)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="motif/garden,motif/memory,motif/road,motif/time,motif/well,concept/doubt,setting/london,character/diana"></span>
 
 
 The proceedings of Mr. Gale after this were rather more calculated
@@ -17497,7 +17497,7 @@ Wolmer fissava con occhio maligno l'archetto e disse qualcosa con voce spessa ch
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_07" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 7)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_07" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 7)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/garden,motif/home,motif/memory,motif/nature,motif/silence,motif/time,motif/wind,concept/nature,concept/truth,character/diana"></span>
 
 
 "Better put down that mallet now," said [[The Professor|the professor]] in a soothing voice,
@@ -17753,7 +17753,7 @@ di un terrier.
 
 
 
-<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_08" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 8)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_asylum_of_adventure--part_08" data-title="Poet and Lunatics — THE ASYLUM OF ADVENTURE (part 8)" data-chapter="THE ASYLUM OF ADVENTURE" data-kind="excerpt" data-tags="motif/garden,motif/lightning,motif/silence,motif/time,character/diana"></span>
 
 
 "Yes, that is Dr. Wilson; I made arrangements with him only this morning,"

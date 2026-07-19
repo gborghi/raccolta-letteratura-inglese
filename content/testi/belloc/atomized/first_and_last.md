@@ -1793,7 +1793,7 @@ The other, who was an old man, grinned and said:
 
 
 
-<span class="atom-split" data-atom="story_01_on_weighing_anchor" data-title="First and Last — On Weighing Anchor" data-chapter="On Weighing Anchor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_weighing_anchor" data-title="First and Last — On Weighing Anchor" data-chapter="On Weighing Anchor" data-kind="story" data-tags="motif/wind"></span>
 
 
 On Weighing Anchor
@@ -1821,7 +1821,7 @@ But I digress....
 
 
 
-<span class="atom-split" data-atom="story_02_the_reveillon" data-title="First and Last — The Reveillon" data-chapter="The Reveillon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_reveillon" data-title="First and Last — The Reveillon" data-chapter="The Reveillon" data-kind="story" data-tags="motif/death,motif/wind,concept/mortality"></span>
 
 
 The Reveillon
@@ -1843,7 +1843,7 @@ Every word I have written of him is true.
 
 
 
-<span class="atom-split" data-atom="story_03_on_cheeses" data-title="First and Last — On Cheeses" data-chapter="On Cheeses" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_cheeses" data-title="First and Last — On Cheeses" data-chapter="On Cheeses" data-kind="story" data-tags="motif/food_and_feasting,concept/tradition,concept/wit,concept/paradox,concept/nostalgia,form/essay"></span>
 
 
 On Cheeses
@@ -1893,7 +1893,7 @@ I do not write vainly. It is a profound thing.
 
 
 
-<span class="atom-split" data-atom="story_04_the_captain_of_industry" data-title="First and Last — The Captain of Industry" data-chapter="The Captain of Industry" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_captain_of_industry" data-title="First and Last — The Captain of Industry" data-chapter="The Captain of Industry" data-kind="story" data-tags="motif/death"></span>
 
 
 The Captain of Industry
@@ -1975,7 +1975,7 @@ In a word, it was generally agreed that Mahmoud’s-Nephew’s success had been 
 
 
 
-<span class="atom-split" data-atom="story_05_the_inventor" data-title="First and Last — The Inventor" data-chapter="The Inventor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_inventor" data-title="First and Last — The Inventor" data-chapter="The Inventor" data-kind="story" data-tags="motif/wind"></span>
 
 
 The Inventor
@@ -2135,7 +2135,7 @@ In this way did we exchange, the Inventor and I, those expert confidences and mu
 
 
 
-<span class="atom-split" data-atom="story_06_the_views_of_england" data-title="First and Last — The Views of England" data-chapter="The Views of England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_views_of_england" data-title="First and Last — The Views of England" data-chapter="The Views of England" data-kind="story" data-tags="motif/wind"></span>
 
 
 The Views of England
@@ -2167,7 +2167,7 @@ I have often thought when I have heard men blaming the story of England or her p
 
 
 
-<span class="atom-split" data-atom="story_07_the_lunatic" data-title="First and Last — The Lunatic" data-chapter="The Lunatic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_lunatic" data-title="First and Last — The Lunatic" data-chapter="The Lunatic" data-kind="story" data-tags="motif/madness,concept/democracy,concept/satire_of_society,concept/fame_and_publicity,concept/critique_of_progress,form/essay,form/satire"></span>
 
 
 The Lunatic
@@ -2217,7 +2217,7 @@ And I left him looking into the fire with infinite sadness and reflecting upon h
 
 
 
-<span class="atom-split" data-atom="story_08_the_inheritance_of_humour" data-title="First and Last — The Inheritance of Humour" data-chapter="The Inheritance of Humour" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_inheritance_of_humour" data-title="First and Last — The Inheritance of Humour" data-chapter="The Inheritance of Humour" data-kind="story" data-tags="concept/tradition"></span>
 
 
 The Inheritance of Humour
@@ -2239,7 +2239,7 @@ Well, the Victorians, and notably this man of whose power of the pencil I am spe
 
 
 
-<span class="atom-split" data-atom="story_09_the_old_gentlemans_opinions" data-title="First and Last — The Old Gentleman’s Opinions" data-chapter="The Old Gentlemans Opinions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_old_gentlemans_opinions" data-title="First and Last — The Old Gentleman’s Opinions" data-chapter="The Old Gentlemans Opinions" data-kind="story" data-tags="concept/darwinism_evolutionary_theory,concept/critique_of_progress,concept/reason_and_rationalism,concept/education,form/essay,histref/darwinism,character/charles_darwin"></span>
 
 
 The Old Gentleman’s Opinions
@@ -2299,7 +2299,7 @@ What he told me he most deplored in the social system of his country was the pow
 
 
 
-<span class="atom-split" data-atom="story_10_on_historical_evidence--part_01" data-title="First and Last — On Historical Evidence (part 1)" data-chapter="On Historical Evidence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_on_historical_evidence--part_01" data-title="First and Last — On Historical Evidence (part 1)" data-chapter="On Historical Evidence" data-kind="excerpt" data-tags="concept/tradition,setting/france"></span>
 
 
 On Historical Evidence
@@ -2325,7 +2325,7 @@ In aid of this last feature in historical judgment there is nothing of such perm
 
 
 
-<span class="atom-split" data-atom="story_10_on_historical_evidence--part_02" data-title="First and Last — On Historical Evidence (part 2)" data-chapter="On Historical Evidence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_on_historical_evidence--part_02" data-title="First and Last — On Historical Evidence (part 2)" data-chapter="On Historical Evidence" data-kind="excerpt" data-tags="motif/death,concept/tradition,setting/france"></span>
 
 
 Next it must be protested that the smallness and particularity of the questions upon which historical discussion rages are no proof either of its general purposelessness nor of their insignificance. All advance of knowledge proceeds in this fashion. Physical science affords innumerable examples of the way in which progress has depended upon a curiosity directed towards apparently insignificant things, and there is something in the mind which compels it to select a narrow field for the exercise of its acutest powers. Moreover, special points, discussion upon which must evidently be lengthy and may be indefinite, are peculiarly attractive to just that kind of man who by a love of prolonged research enlarges the bounds of knowledge and at the same time strengthens and improves for his fellows by continual exercise all the instruments of their common trade. Take, for instance, this case of the little Dauphin, Louis XVII. It really does not matter to day whether the boy got away or whether he died in prison. It does not prolong the line of the Capetians — the heir to that is present in the Duke of Orleans. It does not even affect our view of any other considerable part of history — save possibly the policy of Louis XVIII — and it is of no direct interest to our pockets or to our affections. Yet the masses of work which have accumulated round that one doubt have solved twenty other doubts. They have illuminated all the close of the Terror; they are beginning to make us understand that most difficult piece of political psychology, the reaction of Thermidor, and with it how Europeans lose their balance and regain it in the course of their quasi-religious wars; for all our wars have something in them of religion.
@@ -2357,7 +2357,7 @@ When I shall find these canons satisfied to oppose the strong probability and [[
 
 
 
-<span class="atom-split" data-atom="story_11_the_absence_of_the_past" data-title="First and Last — The Absence of the Past" data-chapter="The Absence of the Past" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_absence_of_the_past" data-title="First and Last — The Absence of the Past" data-chapter="The Absence of the Past" data-kind="story" data-tags="motif/wind,concept/mortality,setting/france"></span>
 
 
 The Absence of the Past
@@ -2397,7 +2397,7 @@ I could wish to understand these things.
 
 
 
-<span class="atom-split" data-atom="story_12_st_patrick" data-title="First and Last — St. Patrick" data-chapter="St Patrick" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_st_patrick" data-title="First and Last — St. Patrick" data-chapter="St Patrick" data-kind="story" data-tags="motif/wind,concept/tradition"></span>
 
 
 St. Patrick
@@ -2431,7 +2431,7 @@ There was a few pence change, but I did not want it. The person who sold me the 
 
 
 
-<span class="atom-split" data-atom="story_13_the_lost_things" data-title="First and Last — The Lost Things" data-chapter="The Lost Things" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_lost_things" data-title="First and Last — The Lost Things" data-chapter="The Lost Things" data-kind="story" data-tags="setting/france"></span>
 
 
 The Lost Things
@@ -2461,7 +2461,7 @@ But, after all, perhaps one ought not to wonder too much that material things sh
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_reading_of_history" data-title="First and Last — On the Reading of History" data-chapter="On the Reading of History" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_on_the_reading_of_history" data-title="First and Last — On the Reading of History" data-chapter="On the Reading of History" data-kind="story" data-tags="motif/death,concept/tradition"></span>
 
 
 On the Reading of History
@@ -2509,7 +2509,7 @@ Or again, if he wants to know what the Romans really knew or said they knew abou
 
 
 
-<span class="atom-split" data-atom="story_15_the_victory" data-title="First and Last — The Victory" data-chapter="The Victory" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_victory" data-title="First and Last — The Victory" data-chapter="The Victory" data-kind="story" data-tags="motif/ghosts,concept/war_and_its_cost,concept/memory,concept/heroism,concept/disillusionment,form/essay,histref/the_french_revolution,setting/battlefield"></span>
 
 
 The Victory
@@ -2539,7 +2539,7 @@ All that effort was undertaken, all those young men and children killed, for som
 
 
 
-<span class="atom-split" data-atom="story_16_reality" data-title="First and Last — Reality" data-chapter="Reality" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_reality" data-title="First and Last — Reality" data-chapter="Reality" data-kind="story" data-tags="motif/river,motif/the_sea,concept/education,concept/appearance_vs_reality,concept/perception_and_consciousness,form/essay,setting/mountains"></span>
 
 
 Reality
@@ -2577,7 +2577,7 @@ The poet, in some way it is difficult to understand (unless we admit that he is 
 
 
 
-<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_01" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 1)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_01" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 1)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 On the Decline of the Book: [And Especially of the Historical Book]
@@ -2607,7 +2607,7 @@ On October 15 the relieving force, 50,000 strong, attacked the Austrian covering
 
 
 
-<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_02" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 2)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_02" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 2)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 There are here five great positive errors in six lines. The French were not 50,000 strong, the attack on the 15th was not on Wattignies, but on Dourlers; Wattignies was not taken and lost three times; the fight of the 15th was least pressed on the right (harder on the left and hardest in the centre) and no one — not the least recruit — expected Coburg to come back on the 17th. Why, he had crossed the Sambre at every point the day before! As for negative errors, or errors of omission, they are capital, and the chief is that the victory was won on the second day, the 16th, of which no mention is made.
@@ -2639,7 +2639,7 @@ Now, if the rich man has no temptation by way of popular fame, and the poor man 
 
 
 
-<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_03" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 3)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_on_the_decline_of_the_book_and_especiall--part_03" data-title="First and Last — On the Decline of the Book: [And Especially of the Historical Book] (part 3)" data-chapter="On the Decline of the Book And Especiall" data-kind="excerpt" data-tags="concept/history,concept/truth,concept/satire_of_society,concept/nationalism_and_patriotism,concept/critique_of_progress,form/essay,histref/english_civil_war,histref/hundred_years_war,character/oliver_cromwell,character/nelson,character/king_alfred"></span>
 
 
 I will suppose the case of a popular novelist, who in a few months shall write, not an historical novel, but a piece of so-called history. He shall call it, for instance, “England’s Heroes.” Before you tell me his name, or what he has written, I can tell you here and now what he will write on any number of points. He will call Hastings Senlac. In the Battle of Hastings he will make out Harold to be the head of a highly patriotic nation called the “Anglo-Saxons”; they shall be desperately defending themselves against certain French-speaking Scandinavians called Normans. He will deplore the defeat, but will say it was all for the best. Magna Charta he will have signed at Runnymede — probably he will have it drawn up there as well. He will translate the most famous clause by the modern words “Judgment of his peers” and “law of the land.” He will represent the Barons as having behind them the voice of the whole nation — and so forth. When he comes to Crécy he will make Edward III speak English. When he comes to Agincourt he will leave his readers as ignorant as himself upon the boundaries, numbers and power of the Burgundian faction. In the Civil War Oliver Cromwell will be an honest and not very rich gentleman of the middle-classes. The Parliamentary force will be that of the mass of the people against a few gallant but wicked aristocrats who follow the perfidious Charles. He will make no mention of the pay of the Ironsides. James II will be driven out by a popular uprising, in which the great Churchill will play an honourable and chivalric part. The loss of the American Colonies will be deplored, and will be ascribed to the folly of attempting to tax men of “Anglo-Saxon” blood, unless you grant them representation. The Continental troops will be treated as the descendants of Englishmen! The guns at Saratoga will be Colonial guns; the incapacity of the Fleet will not be touched upon. Here again, as in the case of the Battle of Hastings, all will be for the best, and there will be a few touching words upon the passionate affection now felt for Great Britain by the inhabitants of the United States. The defensive genius of Wellington will be represented as that of a general particularly great in the offensive. Talavera will be a victory. The Spanish Auxiliaries in the Peninsula will be contemptible. No guns will be abandoned before Coruña, but what are left at Coruña will be mentioned and re-embarked. The character of Nelson will receive a curious sort of glutinous praise; Emma Hamilton, not Naples, will be the stain upon his name; the Battle of Trafalgar will prevent the invasion of England.
@@ -2661,7 +2661,7 @@ Of other evil tendencies of our time, one can say of some that they are obviousl
 
 
 
-<span class="atom-split" data-atom="story_18_jose_maria_de_heredia" data-title="First and Last — José Maria de Heredia" data-chapter="Jose Maria de Heredia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_jose_maria_de_heredia" data-title="First and Last — José Maria de Heredia" data-chapter="Jose Maria de Heredia" data-kind="story" data-tags="motif/death,concept/tradition"></span>
 
 
 José Maria de Heredia
@@ -2691,7 +2691,7 @@ The immediate future will show that the stream of French excellence in this depa
 
 
 
-<span class="atom-split" data-atom="story_19_normandy_and_the_normans" data-title="First and Last — Normandy and the Normans" data-chapter="Normandy and the Normans" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_normandy_and_the_normans" data-title="First and Last — Normandy and the Normans" data-chapter="Normandy and the Normans" data-kind="story" data-tags="motif/journey,concept/tradition,setting/france"></span>
 
 
 Normandy and the Normans
@@ -2715,7 +2715,7 @@ The phenomenon was brief. It lasted little more than a hundred years, but it tra
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_01" data-title="First and Last — The Old Things (part 1)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_01" data-title="First and Last — The Old Things (part 1)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/tradition,setting/france"></span>
 
 
 The Old Things
@@ -2737,7 +2737,7 @@ So you go on mile after mile, and as you tread that line you have in the horizon
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_02" data-title="First and Last — The Old Things (part 2)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_02" data-title="First and Last — The Old Things (part 2)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/road,concept/tradition,concept/nostalgia,concept/history,concept/satire_of_society,form/essay,histref/william_the_conqueror,setting/battlefield,character/harold,character/william_the_conqueror"></span>
 
 
 And it is still there; it is still used from place to place as a high road, it still lives in modern England. There are some of its peers, as for instance the Ermine Street, far more continuous, and affording problems more rarely; others like the ridgeway of the Berkshire Downs, which Rome hardly touched, and of which the last two thousand years has, therefore, made hardly anything; you may spend a delightful day piecing out exactly where it crossed the Thames, making your guess at it, and wondering as you sit there by Streatley Vicarage whether those islands did not form a natural weir below which lay the ford.
@@ -2763,7 +2763,7 @@ The Saxon hosts were drawn along the ridge in a position chosen with masterly sk
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_03" data-title="First and Last — The Old Things (part 3)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_03" data-title="First and Last — The Old Things (part 3)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/death"></span>
 
 
 The terrain can be clearly determined at the present day in spite of the changes that have taken place in the intervening years. It is a fairly steep slope of hemispherical contour interspersed with low bushes; the summit (upon which now stands our lovely English village of Battle and the residence of one of those cultured and leisured men who form the framework of our commonwealth) was then but a wild heath.
@@ -2807,7 +2807,7 @@ Such was the fruit of as great and successful an effort as ever Saxon soldier ma
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_04" data-title="First and Last — The Old Things (part 4)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_04" data-title="First and Last — The Old Things (part 4)" data-chapter="The Old Things" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 The ineptitude or avarice of politicians had undone the work of soldiers, and it is no wonder that the last of Harold’s veterans, who retired in disgust to impregnable fortresses in Ely, Arthur’s Seat, and Pudsey, are recorded to have gnashed their teeth and shed tears of indignation at the dispatches from the metropolis. At Crécy they were to be avenged.
@@ -2843,7 +2843,7 @@ How was it lost, this great main road of Europe, this marching road of the legio
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_05" data-title="First and Last — The Old Things (part 5)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_05" data-title="First and Last — The Old Things (part 5)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/death,setting/france"></span>
 
 
 Then there is that unbroken line by which St. Martin came, I think, when he rode into Amiens, and at the gate of the town cut his cloak in two to cover the beggar. It drives across country for Roye and on to Noyon, the old centre of the Kings. It is a great modern road all the way, and it stretches before you mile after mile after mile, until suddenly, without explanation and for no reason, it ends sharply, like the life of a man. It ends on the slopes of the hill called Choisy, at the edge of the wood which is there. And seek as you will, you will never find it again.
@@ -2875,7 +2875,7 @@ In practice also the collection was easy. Overseers would attend the harvest wit
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_06" data-title="First and Last — The Old Things (part 6)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_06" data-title="First and Last — The Old Things (part 6)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/death,motif/journey"></span>
 
 
 It was the same with the liberal professions: of the fee received by a barrister in the Criminal Courts a tenth was regularly demanded at the door when the verdict had been given and the prisoner whom he had defended passed out to execution. The tenth knock-out in the prize ring received by the professional pugilist was followed by the immediate sequestration of his fee for that particular encounter, and the tenth aria vibrating from the lips of a prima donna was either compounded for at a certain rate or taken in kind by the official who attended at every performance of grand opera.
@@ -2907,7 +2907,7 @@ A law which carried to the universities the rule of the primary schools — to w
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_07" data-title="First and Last — The Old Things (part 7)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_07" data-title="First and Last — The Old Things (part 7)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/tradition,setting/france"></span>
 
 
 The Eye-Openers
@@ -2931,7 +2931,7 @@ So with religion. I had thought to find the Spanish churches crowded. I found ju
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_08" data-title="First and Last — The Old Things (part 8)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_08" data-title="First and Last — The Old Things (part 8)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/fog_and_smoke,concept/appearance_vs_reality,concept/satire_of_society,concept/self_deception,concept/fame_and_publicity,form/essay"></span>
 
 
 You don’t get that in Pamplona, and you don’t get it in Saragossa. What you get there is a profound dislike of being interfered with, ancient and lazy customs, wealth retained by the chapters, the monasteries, and the colleges, and with all this a curious, all-pervading indifference.
@@ -2963,7 +2963,7 @@ Meanwhile his rather dull paper was being bought by you and me, and bank clerks 
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_09" data-title="First and Last — The Old Things (part 9)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_09" data-title="First and Last — The Old Things (part 9)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 So it was with the second paper, but with this difference, that the editor was right about the social position of those who read his sheet, but quite wrong about the opinions and emotions of people in that social position.
@@ -2995,7 +2995,7 @@ I remember once, for instance, waking from a dead sleep in a train (for I was ve
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_10" data-title="First and Last — The Old Things (part 10)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_10" data-title="First and Last — The Old Things (part 10)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/water,concept/sublime,concept/wonder,concept/memory,form/travel_writing,form/essay"></span>
 
 
 There were no houses about me that I could see save one little place built for the railway men. There was no cultivation either.
@@ -3019,7 +3019,7 @@ Ranges of hills, I think, are never best first seen from railways. Indeed, I can
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_11" data-title="First and Last — The Old Things (part 11)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_11" data-title="First and Last — The Old Things (part 11)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/agnosticism,concept/reason_and_rationalism,concept/despair,concept/critique_of_progress,form/travel_writing,form/sketch"></span>
 
 
 Now, as for towns that live in a hollow, it is great fun to come upon them from above. They are not used to being thus taken at a disadvantage and they are both surprised and surprising. There are many towns in holes and trenches of Europe which you can thus play “peep-bo” with if you will come at them walking. By train they will mean nothing to you. You will probably come upon them out of a long, shrieking tunnel, and by the high road they mean little more, for the high road will follow the vale. But if you come upon them from over their guardian cliffs and scars you catch them unawares, and this is a good way of approaching them, for you master them, as it were, and spy them out before you enter in. You can act thus with Grenoble and with many a town on the Meuse, and particularly with Aubusson, which lies in the depths of so dreadful a trench that I could wonder how man ever dreamt of living and building there.
@@ -3047,7 +3047,7 @@ Then, again, in the town of Marseilles, only two years ago, I met a man who look
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_12" data-title="First and Last — The Old Things (part 12)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_12" data-title="First and Last — The Old Things (part 12)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/river,motif/hill,concept/anarchism,concept/wonder,concept/sublime,concept/paganism_and_classical_revival,form/travel_writing,form/essay"></span>
 
 
 I was throwing pebbles into the water, I say, and thinking about Ulysses, when this man came slouching up, with his hands in the pockets of his enormous corduroy trousers, and, looking at me with some contempt from above (for he was standing, I was sitting), he began to converse with me. We talked first of ships, then of heat and cold, and so on to wealth and poverty; and thus it was I came upon his views, which were that there should be a sort of break up, and houses ought to be burned, and things smashed, and people killed; and over and above this, it should be made plain that no one had a right to govern: not the people, because they were always being bamboozled; obviously not the rich; least of all, the politicians, to whom he justly applied the most derogatory epithets. He waved his arm out in the darkness at the Phoceans, at the half-million of Marseilles, and said, “All that should disappear.” The constructive side of his politico-economic scheme was negative. He was a practical man. None of your fine theories for him. One step at a time. Let there be a Chambardement — that is, a noisy collapse, and he would think about what to do afterwards.
@@ -3083,7 +3083,7 @@ When I consider the sources of rivers which I have seen, there is not one, I thi
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_13" data-title="First and Last — The Old Things (part 13)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_13" data-title="First and Last — The Old Things (part 13)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 The sources of the Rhone are famous: the Rhone comes out of a glacier through a sort of ice cave, and if it were not for an enormous hotel quite four-square it would be as lonely a place as there is in Europe, and as remarkable a beginning for a great river as could anywhere be found. Nor, when you come to think of it, does any European river have such varied fortunes as the Rhone. It feeds such different religions and looks on such diverse landscapes. It makes Geneva and it makes Avignon; it changes in colour and in the nature of its going as it goes. It sees new products appearing continually on its [[Journey|journey]] until it comes to olives, and it flows past the beginning of human cities, when it reflects the huddle of old Arles.
@@ -3119,7 +3119,7 @@ The first step seems to be the establishing of an authority and the giving of th
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_14" data-title="First and Last — The Old Things (part 14)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_14" data-title="First and Last — The Old Things (part 14)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/ghosts,concept/critique_of_progress,concept/reason_and_rationalism,concept/argument_from_authority,concept/the_supernatural,concept/superstition_and_omen,form/essay"></span>
 
 
 The next step is a very interesting one for the student of psychical pathology to note. It seems to be a disease as native and universal to the human mind as is the decay of the teeth to the human body. It seems as though we all must suffer somewhat from it, and most of us suffer a great deal from it, though in a cool aspect we easily perceive it to be a lesion of thought. And this second step is as follows:
@@ -3159,7 +3159,7 @@ To go back to that example of ghosts. If ever you see a ghost (my poor reader), 
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_15" data-title="First and Last — The Old Things (part 15)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_15" data-title="First and Last — The Old Things (part 15)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/dawn,motif/fog_and_smoke,concept/sublime,concept/wonder,form/essay,histref/the_french_revolution,setting/france"></span>
 
 
 The Great Sight
@@ -3183,7 +3183,7 @@ After that coming in touch with our business, not only did everything become pla
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_16" data-title="First and Last — The Old Things (part 16)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_16" data-title="First and Last — The Old Things (part 16)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/machine,concept/sublime,concept/wonder,concept/history,form/essay,setting/battlefield,setting/france"></span>
 
 
 So they lounged about and bought bread, and shifted their packs, and so the drivers stood by their horses, and so they all waited and slouched; until there came, not a man with a bugle nor anything with the slightest savour of drama but a little fellow running along thumping in his loose leather leggings, who went up to a Major of Artillery and saluted, and immediately afterwards the Major put his hand up, and then down a village street, from a point which we could not see came a whistle, and the whole of that mass of men began to swarm. The grey-blue coats of the line swung round the corner of the village street; they had yet a few miles before them. Anything more rapid or less in step it would be difficult to conceive. The guns were off at a right angle down the main road, making a prodigious clatter, and at the same time appeared two parties, one of which it was easy to understand, the other not. They were both parties of sappers. The one party had a great roll of wire on a drum, and as quick as you could think they were unreeling it, and as they unreeled it fastening it to eaves, overhanging branches, and to corners of walls, stretching it out forward. It was the field-telephone. The other party came along carrying great beams upon their shoulders, but what they were to do with these beams we did not know.
@@ -3207,7 +3207,7 @@ THE DECLINE OF a State is not equivalent to a mortal sickness therein. States ar
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_17" data-title="First and Last — The Old Things (part 17)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_17" data-title="First and Last — The Old Things (part 17)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/democracy,concept/power_and_corruption,concept/fear,concept/money_and_avarice,concept/economics,concept/history,form/essay"></span>
 
 
 The decline of a State differs with the texture of it. A democratic State will decline from a lowering of its potential, that is of its ever-ready energy to act in a crisis, to correct and to control its servants in common times, to watch them narrowly and suspect them at all times. A despotic State will decline when the despot is not in point of fact the true depository of despotic power, but some other acting in his name, of whom the people know little and cannot judge; or when the despot, though fully in view and recognized, lacks will; or when (which is rare) he is so inhuman as to miss the general sense of his subjects. An oligarchic State, or aristocracy as it is called, will decline principally through two agencies which are, first, illusion, and secondly, lack of civic aptitude. For an oligarchic State tends very readily to illusion, being conducted by men who live at leisure, satisfy their passions, are immune from the laws, and prefer to shield themselves from reality. Their capacity or appetite for illusion will rapidly pervade those below them, for in an aristocracy the rulers are subjected to a sort of worship from the rest of the community, and thus it comes about that aristocracies in their decline accept fantastic histories of their own past, conceive victory possible without armies, wealth to be an indication of ability, and national security to be a natural gift rather than a product of the will. Such communities further fail from the lack of civic aptitude, as was said above, which means that they deliberately elect to leave the mass of citizens incompetent and irresponsible for generations, so that, when any more strain is upon them, they look at once for some men other than themselves to relieve them, and are incapable of corporate action upon their own account.
@@ -3225,7 +3225,7 @@ Of Fear in the decline of a State it may be said that it is so much the master p
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_18" data-title="First and Last — The Old Things (part 18)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_18" data-title="First and Last — The Old Things (part 18)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/tradition,setting/france"></span>
 
 
 This vice has for its most laughable effect the raising of a whole host of phantoms, and when a State is so far gone that civic Fear is quite normal to the citizens, then you will find them blenching with terror at a piece of print, a whispered accusation. Bankruptcy, though they be possessed of nothing, and even the ill-will of women. Moneylenders under this influence have the greatest power, next after them, blackmailers of all kinds, and next after these eccentrics who may blurt or break out. Those who have least power in the decline of a State, are priests, soldiers, the mothers of many children, the lovers of one woman, and saints.
@@ -3261,7 +3261,7 @@ As though to give some substance to the flattering cheat, there is one kind of f
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_19" data-title="First and Last — The Old Things (part 19)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_19" data-title="First and Last — The Old Things (part 19)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 Mais un tel accident n’arrive point a l’âme,
@@ -3353,7 +3353,7 @@ The white horse meanwhile slouched; Bavai grew somewhat nearer as we sat in sile
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_20" data-title="First and Last — The Old Things (part 20)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_20" data-title="First and Last — The Old Things (part 20)" data-chapter="The Old Things" data-kind="excerpt" data-tags="concept/economics,concept/mortality,concept/transience,concept/democracy,form/sketch"></span>
 
 
 Mr. The Duke did not accept John Stuart Mill’s proposition upon the cost of production nor the general theories of Ricardo upon which Mill’s propositions were based. In his opinion rent was a factor in the cost of production, for he told me that butter had gone up because the price of land was rising near the towns. In what he next said I found out that he was not a Collectivist, for he said a man should own enough to live upon, but he said that this was impossible if rich people were allowed to live. I asked him what the politics of the countryside were and how people voted. He said:
@@ -3417,7 +3417,7 @@ The game was singularly absorbing. At first the young man won a few pounds; then
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_21" data-title="First and Last — The Old Things (part 21)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_21" data-title="First and Last — The Old Things (part 21)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 They played and the young man lost again, but by a very narrow margin: it was quite an absorbing game. As they shuffled again the young man said:
@@ -3467,7 +3467,7 @@ He made himself a little conspicuous by asking too many questions and by losing 
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_22" data-title="First and Last — The Old Things (part 22)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_22" data-title="First and Last — The Old Things (part 22)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 “I don’t know what you mean,” said the young man.
@@ -3499,7 +3499,7 @@ Again, it has that quality which Voltaire noted, which he thought abnormal in Sh
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_23" data-title="First and Last — The Old Things (part 23)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_23" data-title="First and Last — The Old Things (part 23)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The play is national, again, in that permanent curiosity upon knowable things — nay, that mysterious half-knowledge of unknowable things — which, in its last forms, produced the mystic, and which is throughout history so plainly characteristic of these Northern Atlantic islands. Every play of Shakespeare builds with that material, and no writer, even of the English turn, has sent out points further into the region of what is not known than Shakespeare has in sudden flashes of phrase. But “King Lear,” though it contains a lesser number of lines of this mystical and half-religious effect than, say, “Hamlet,” yet as a general impression is the more mystical of the two plays. The element of madness, which in “Hamlet” hangs in the background like a storm-cloud ready to break, in “King Lear” rages; and it is the use of this which lends its amazing psychical power to the play. It has been said (with no great profundity of criticism) that English fiction is chiefly remarkable for its power of particularization of character, and that where French work, for instance, will present ideas, English will present persons. The judgment is grossly insufficient, and therefore false, but it is based upon a proof which is very salient in English letters, which is that, say, in quite short and modern work the sense of complete unity deadens the English mind. The same nerve which revolts at a straight road and at a code of law revolts against one tone of thought, and the sharp contrast of emotional character, not the dual contrast which is common to all literatures, but the multiple contrast, runs through “King Lear” and gives the work such a tone that one seems as one reads it to be moving in a cloud.
@@ -3531,7 +3531,7 @@ I first looked at the map and saw where nearest to me was a quadrilateral bare o
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_24" data-title="First and Last — The Old Things (part 24)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_24" data-title="First and Last — The Old Things (part 24)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 I came into my roadside station at half-past eight of the long summer night, broad daylight that is, but with night advancing. I got out and began my westward march. At once there crowded upon me any number of unexpected and entertaining things!
@@ -3563,7 +3563,7 @@ By this time I was completely lost, and in the heart of Fairyland, when suddenly
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_25" data-title="First and Last — The Old Things (part 25)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_25" data-title="First and Last — The Old Things (part 25)" data-chapter="The Old Things" data-kind="excerpt" data-tags="topos/the_sublime_in_nature,motif/sea,motif/water,concept/the_natural_order,concept/history,form/essay,histref/ancient_rome,setting/the_sea"></span>
 
 
 Thus ended those two days, in which I had touched again the unknown places — and all that heaven was but two days, and cost me not fifty shillings.
@@ -3599,7 +3599,7 @@ Then there is a Charter of Newcastle. Or, rather, the inviolable Customs of that
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_26" data-title="First and Last — The Old Things (part 26)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_26" data-title="First and Last — The Old Things (part 26)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 All the rest, worse luck, has gone. Burgage-tenure, and the economic independence of the humble, and the busy, healthy life of men working to enrich themselves, not others, and that corporate association which was the blood of the Middle Ages, and the power of popular opinion, and, in general, freedom. But out of all these things that have perished, the tide remains, and in the eighteen clauses of the Customs, the tidal clause alone stands fresh and still has meaning. The capital, great clinching clause by which men owned their own land within the town has gone utterly and altogether. The modern workman on the Tyne would not understand you perhaps, to whom in that very place you should say, “Many centuries ago the men that came before you here, your fathers, were not working precariously at a wage, or paying rent to others, but living under their own roofs and working for themselves.” There is only one passage in the document that all could understand in Newcastle to-day — the very few rich who are hardly secure, the myriads of poor who are not secure at all — and that passage is the passage which talks of the third tide; for even to-day there is some good we have left undestroyed and the sea still ebbs and flows.
@@ -3621,7 +3621,7 @@ It is pretended sometimes (less often perhaps now than a dozen years ago) that c
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_27" data-title="First and Last — The Old Things (part 27)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_27" data-title="First and Last — The Old Things (part 27)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey,motif/wind"></span>
 
 
 No man has known the [[Wind|wind]] by any of its names who has not sailed his own boat and felt life in the tiller. Then it is that a man has most to do with the [[Wind|wind]], plays with it, coaxes or refuses it, is wary of it all along; yields when he must yield, but comes up and pits himself again against its violence; trains it, harnesses it, calls it if it fails him, denounces it if it will try to be too strong, and in every manner conceivable handles this glorious playmate.
@@ -3651,7 +3651,7 @@ You will remember that for two years we were not allowed to meet again. When the
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_28" data-title="First and Last — The Old Things (part 28)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_28" data-title="First and Last — The Old Things (part 28)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/rose,concept/nostalgia,concept/memory,concept/mortality,concept/transience,concept/renunciation,concept/unrequited_love,form/letter"></span>
 
 
 My dear, that was sixteen years ago.
@@ -3681,7 +3681,7 @@ It is the character of these landscapes to suggest at once a vastness, diversity
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_29" data-title="First and Last — The Old Things (part 29)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_29" data-title="First and Last — The Old Things (part 29)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/home,motif/the_house,concept/nostalgia,concept/memory,concept/longing,form/essay,setting/rural_england"></span>
 
 
 The distant and high range that bounds his view makes a sort of veiling, cutting it off and guarding it from whatever may be beyond. The succession of lower ranges suggests secluded valleys, and the reiterated woods, distant and more distant, convey an impression of fertility more powerful than that of corn in harvest upon the lowlands.
@@ -3725,7 +3725,7 @@ He had nothing to say for himself at all, and he looked not gloomy but sad. He w
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_30" data-title="First and Last — The Old Things (part 30)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_30" data-title="First and Last — The Old Things (part 30)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 This was so interesting that we all sat down again to listen.
@@ -3767,7 +3767,7 @@ One of my companions whispered to me that the old man must be mad. The stranger 
 
 
 
-<span class="atom-split" data-atom="story_20_the_old_things--part_31" data-title="First and Last — The Old Things (part 31)" data-chapter="The Old Things" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_the_old_things--part_31" data-title="First and Last — The Old Things (part 31)" data-chapter="The Old Things" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 “Oh, I know all about that; several have suggested it already; but it is no answer, for if I did not come from the End of the World, where did I come from? No one has seen me hereabouts during the last few days until I came to this inn. And all the first part of my [[Journey|journey]] I can very easily explain, for I have notes of it, and it lasted for years. It is only this last part which seems to me so difficult.... I tell you I lost my way, and when a man has lost his way at night he can never find it again in the daytime.”

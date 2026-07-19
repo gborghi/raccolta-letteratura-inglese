@@ -5606,7 +5606,7 @@ for poetry. But for poetry of a terrible sort.
 
 
 
-<span class="atom-split" data-atom="story_04_the_lash_for_labour" data-title="UtopiaUsurers — The Lash for Labour" data-chapter="The Lash for Labour" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_lash_for_labour" data-title="UtopiaUsurers — The Lash for Labour" data-chapter="The Lash for Labour" data-kind="story" data-tags="archetype/child,archetype/shadow,motif/blood,motif/death,motif/flag,motif/road,motif/wheel,concept/history,form/history,histref/french_revolution,histref/puritanism,setting/court"></span>
 
 
 VIII. The Lash for Labour
@@ -5876,7 +5876,7 @@ UTOPIA DEGLI USURAI
 
 
 
-<span class="atom-split" data-atom="story_05_art_and_advertisement" data-title="UtopiaUsurers — Art and Advertisement" data-chapter="Art and Advertisement" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_art_and_advertisement" data-title="UtopiaUsurers — Art and Advertisement" data-chapter="Art and Advertisement" data-kind="story" data-tags="archetype/artist,archetype/child,archetype/king,motif/death,motif/love,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/hope,concept/poverty,setting/italy,character/angelo,character/christ,character/michael"></span>
 
 
 I. Art and Advertisement
@@ -6268,7 +6268,7 @@ possono veramente essere descritti come Bolle.
 
 
 
-<span class="atom-split" data-atom="story_06_letters_and_the_new_laureates" data-title="UtopiaUsurers — Letters and the New Laureates" data-chapter="Letters and the New Laureates" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_letters_and_the_new_laureates" data-title="UtopiaUsurers — Letters and the New Laureates" data-chapter="Letters and the New Laureates" data-kind="story" data-tags="archetype/hero,archetype/king,motif/childhood,motif/dance,motif/home,motif/time,concept/doubt,concept/fear,concept/imagination,concept/self,concept/self_sacrifice,concept/truth,setting/court"></span>
 
 
 II. Letters and the New Laureates
@@ -6724,7 +6724,7 @@ in alcuna battaglia.
 
 
 
-<span class="atom-split" data-atom="story_07_unbusinesslike_business" data-title="UtopiaUsurers — Unbusinesslike Business" data-chapter="Unbusinesslike Business" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_unbusinesslike_business" data-title="UtopiaUsurers — Unbusinesslike Business" data-chapter="Unbusinesslike Business" data-kind="story" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/clock,motif/memory,motif/soul,concept/history,concept/truth,concept/wonder,form/history,setting/cathedral,setting/london"></span>
 
 
 III. Unbusinesslike Business
@@ -6908,7 +6908,7 @@ to do.
 
 
 
-<span class="atom-split" data-atom="story_08_the_war_on_holidays" data-title="UtopiaUsurers — The War on Holidays" data-chapter="The War on Holidays" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_war_on_holidays" data-title="UtopiaUsurers — The War on Holidays" data-chapter="The War on Holidays" data-kind="story" data-tags="topos/double,motif/blood,motif/dust,motif/leaves,motif/mirror,motif/night,motif/sleep,motif/soul,motif/time,motif/well,motif/wheel,motif/winter,concept/body,concept/history,concept/immortality,concept/resurrection,concept/truth,form/history"></span>
 
 
 IV. The War on Holidays
@@ -7114,7 +7114,7 @@ Christmas. And they might let me know the reply.
 
 
 
-<span class="atom-split" data-atom="story_09_the_church_of_the_servile_state" data-title="UtopiaUsurers — THE CHURCH OF THE SERVILE STATE" data-chapter="THE CHURCH OF THE SERVILE STATE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_church_of_the_servile_state" data-title="UtopiaUsurers — THE CHURCH OF THE SERVILE STATE" data-chapter="THE CHURCH OF THE SERVILE STATE" data-kind="story" data-tags="concept/slavery,concept/truth,histref/islam"></span>
 
 
 V. THE CHURCH OF THE SERVILE STATE
@@ -7370,7 +7370,7 @@ Farisei.
 
 
 
-<span class="atom-split" data-atom="story_10_science_and_the_eugenists" data-title="UtopiaUsurers — SCIENCE AND THE EUGENISTS" data-chapter="SCIENCE AND THE EUGENISTS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_science_and_the_eugenists" data-title="UtopiaUsurers — SCIENCE AND THE EUGENISTS" data-chapter="SCIENCE AND THE EUGENISTS" data-kind="story" data-tags="motif/blood,motif/clock,motif/fire,motif/horse,motif/pain,motif/water,motif/well,motif/wind,concept/eugenics,concept/honour,concept/original_sin,concept/truth,setting/castle"></span>
 
 
 VI. SCIENCE AND THE EUGENISTS
@@ -7694,7 +7694,7 @@ fosse un Uomo Saggio, non la farebbe.
 
 
 
-<span class="atom-split" data-atom="story_11_the_evolution_of_the_prison_prison" data-title="UtopiaUsurers — THE EVOLUTION OF THE PRISON" data-chapter="THE EVOLUTION OF THE Prison PRISON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_evolution_of_the_prison_prison" data-title="UtopiaUsurers — THE EVOLUTION OF THE PRISON" data-chapter="THE EVOLUTION OF THE Prison PRISON" data-kind="story" data-tags="motif/city,motif/garden,motif/grave,motif/prison,motif/sleep,motif/spring,motif/time,concept/beauty,concept/education,concept/honour,concept/hope,concept/imprisonment,concept/mercy,setting/court"></span>
 
 
 VII. THE EVOLUTION OF THE [[Prison|PRISON]]
@@ -8094,7 +8094,7 @@ in [[Prison|Prigione]], con una pazienza esattamente simile.
 
 
 
-<span class="atom-split" data-atom="story_12_the_lash_for_labour" data-title="UtopiaUsurers — THE LASH FOR LABOUR" data-chapter="THE LASH FOR LABOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_lash_for_labour" data-title="UtopiaUsurers — THE LASH FOR LABOUR" data-chapter="THE LASH FOR LABOUR" data-kind="story" data-tags="motif/fire,motif/garden,motif/home,motif/prison,motif/soul,motif/supernatural,concept/body,concept/doubt,concept/education,concept/grotesque,concept/history,concept/imprisonment,concept/pride,concept/survival,form/history"></span>
 
 
 VIII. THE LASH FOR LABOUR
@@ -8642,7 +8642,7 @@ estremamente probabile che lo saranno.
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_01" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 1)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_01" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 1)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/secrets,motif/time,motif/well,concept/doubt,concept/slavery,concept/truth,character/fred,character/speed"></span>
 
 
 IX. THE MASK OF SOCIALISM
@@ -8994,7 +8994,7 @@ Vi guardavamo costruire, pietra su pietra,
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_02" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 2)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_02" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 2)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/death,motif/soul,motif/water,motif/well,concept/exile,concept/pride,concept/reform,concept/self,histref/america,setting/america,character/touchstone"></span>
 
 
 The [[Well|well]]-washed cells and [[Well|well]]-washed graves
@@ -9422,7 +9422,7 @@ Indipendenza, un documento che riporti le seguenti semplici verità: (1)
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_03" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 3)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_03" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 3)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/clock,motif/nature,motif/stars,motif/water,motif/well,concept/democracy,concept/nature,histref/puritanism,character/prometheus"></span>
 
 
 Beer, which is largely drunk in public-houses, is not a spirit or a grog
@@ -9774,7 +9774,7 @@ dimissioni. Supponiamo che nessun registro venisse mostrato. Supponiamo che, qua
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_04" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 4)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_04" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 4)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/artist,archetype/king,archetype/rebel,motif/childhood,motif/time,motif/well,concept/democracy,concept/fear,concept/history,concept/honour,form/history,character/arthur"></span>
 
 
 to be initiated into his duties, the old cashier did not tell him about
@@ -10130,7 +10130,7 @@ a una classe dopo l'altra e usato sempre più per migliorare le condizioni socia
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_05" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 5)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_05" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 5)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/chains,motif/decay,motif/poison,motif/well,concept/democracy,concept/history,concept/reform,concept/slavery,concept/truth,form/history,histref/america,histref/french_revolution,setting/america,setting/castle,character/abraham_lincoln,character/julius_caesar,character/pompey"></span>
 
 
 conditions of those classes, until we practically became a [[democracy]],
@@ -10482,7 +10482,7 @@ Passerà molto tempo prima che il [[Poison|veleno]] del sistema dei partiti sia 
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_06" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 6)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_06" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 6)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/king,concept/body,concept/education,concept/history,concept/humility,concept/truth,form/history,form/novel,histref/french_revolution,character/queen"></span>
 
 
 of the [[Body|body]] politic. Some of its most indirect effects are the most
@@ -10826,7 +10826,7 @@ che se ne percepisce davvero la varietà. Non è una leggerezza, è una
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_07" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 7)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_07" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 7)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/king,motif/poison,motif/time,motif/well,concept/democracy,concept/self,concept/suffering,concept/truth,character/satan,character/tom_pinch"></span>
 
 
 brothers they instantly begin to fight.
@@ -11182,7 +11182,7 @@ giudicherà il [[government|Governo]].
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_08" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 8)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/crown,motif/home,motif/horse,motif/prayer,motif/swallow,motif/well,concept/martyrdom,concept/mercy,concept/truth,form/epigram"></span>
 
 
 Now this is a perfectly plain piece of brute [[logic]]. We need not go into
@@ -11538,7 +11538,7 @@ e avrebbe [[Well|ben]] potuto sembrare [[Blood|sanguinario]] in tempi più tranq
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_09" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 9)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_09" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 9)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/nature,motif/night,motif/stars,motif/water,concept/body,concept/conscience,concept/democracy,concept/history,concept/nature,concept/truth,form/history"></span>
 
 
 the celebrated declaration that it was a fine day."
@@ -11724,7 +11724,7 @@ Some days ago the Official Council of the Independent Labour Party, or
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_10" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 10)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_10" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 10)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/detective,archetype/hero,archetype/king,motif/blood,motif/love,motif/memory,motif/ship,motif/tears,motif/time,motif/well,concept/conscience,concept/hope,concept/revenge,form/epic,histref/america,setting/america,setting/court,setting/germany,setting/paris,setting/russia,setting/ship,character/bottom"></span>
 
 
 the Independent Council of the Official Labour Party, or the Independent
@@ -12068,7 +12068,7 @@ bella poesia del signor Newbolt che potrebbe mescolarsi debolmente ai propri
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_11" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 11)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_11" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 11)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/prophet,archetype/rebel,motif/flag,motif/river,motif/ship,motif/soul,motif/well,concept/hope,form/epigram,form/satire,histref/king_alfred,setting/court,setting/ship,character/buckingham,character/phantom"></span>
 
 
 thoughts in such times, but that, alas, is to a very different tune. I
@@ -12440,7 +12440,7 @@ e smeraldi e seguito da menestrelli vestiti di verde del Clan-na-Gael,
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_12" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 12)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_12" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 12)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/home,concept/education,concept/hope,concept/reform,histref/french_revolution,setting/paris,character/buckingham"></span>
 
 
 playing "The Wearing of the Green."
@@ -12800,7 +12800,7 @@ un proclama elettorale di quel genere; ma ci saremmo divertiti e
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_13" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 13)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_13" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 13)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,motif/horse,motif/poison,motif/silence,motif/time,motif/well,concept/ambition,concept/courage,concept/exile,concept/imprisonment,concept/slavery,setting/germany"></span>
 
 
 that we should be elected or rejected on a mechanical majority like
@@ -13152,7 +13152,7 @@ Inghilterra e in Belgio il Capitalismo è mescolato a molte altre
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_14" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 14)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_14" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 14)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/death,motif/well,concept/despair,concept/fear,concept/history,concept/pride,concept/self,concept/slavery,form/history,setting/germany"></span>
 
 
 things, strong things and things that pursue other aims; Clericalism,
@@ -13508,7 +13508,7 @@ Non intendo questo come paradossale, o persino simbolico; è semplicemente
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_15" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 15)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_15" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 15)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/time,motif/water,motif/well,concept/history,concept/suffering,concept/truth,form/history,character/sunday"></span>
 
 
 tame and true. The modern English rich know nothing about things, not
@@ -13872,7 +13872,7 @@ Poteri parimenti si affidano al Capitalista e fanno guerra secondo le linee del
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_16" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 16)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_16" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 16)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/silence,motif/time,concept/charity,concept/fear,concept/self,histref/america,histref/bible,histref/french_revolution,setting/america,setting/germany"></span>
 
 
 Capitalism. It is true, and it is disgraceful. But it is _not_ equally
@@ -14216,7 +14216,7 @@ Socialisti delle Corporazioni, o comunque ci chiamiamo--non abbiamo bisogno di p
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_17" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 17)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_17" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 17)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/blood,motif/horse,motif/night,motif/soul,motif/time,concept/body,concept/democracy,concept/doubt,concept/history,concept/truth,concept/union,form/allegory,form/history,setting/germany"></span>
 
 
 about the scripture or the [[Allegory|allegory]]. We have the reality. For whatever
@@ -14568,7 +14568,7 @@ patriottismo del volgo? Ebbene, sì; il rude Ramsay MacDonald, sfregiato
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_18" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 18)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_18" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 18)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/fire,motif/machine,motif/sleep,motif/time,motif/well,concept/democracy,concept/doubt,concept/fate_and_free_will,concept/reform"></span>
 
 
 with a hundred savage fights against the capitalist parties, still lifts
@@ -14932,7 +14932,7 @@ La Differenza Lampante
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_19" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 19)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_19" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 19)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/clock,motif/prison,motif/well,concept/freedom,concept/pride,concept/sublime,histref/bible,histref/christianity,histref/puritanism"></span>
 
 
 The perfectly plain difference is this. All punishment, even the most
@@ -15288,7 +15288,7 @@ a cavalcioni sull'intera larghezza della via potesse davvero scrivere così
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_20" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 20)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_20" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 20)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/democracy,concept/hope,concept/imagination,concept/nature,concept/suffering,character/michael,character/satan"></span>
 
 
 that about a cigarette. By the help of God, they wanted this cigarette
@@ -15636,7 +15636,7 @@ Tory [[Imagination|immaginazione]] che vagamente sente che le nostre strade sare
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_21" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 21)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_21" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 21)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/desert,motif/desire,motif/love,motif/soul,motif/time,motif/water,motif/well,concept/jealousy,concept/self,setting/desert"></span>
 
 
 escutcheons and tapestries, if only the profane vulgar had not hung them
@@ -15992,7 +15992,7 @@ risultati pratici, come le bandiere per cui gli uomini si lasciano cadere
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_22" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 22)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_22" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 22)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/animals,motif/cross,motif/death,motif/desert,motif/ship,motif/soul,motif/time,motif/water,motif/well,concept/democracy,concept/honour,form/fable,histref/bible,histref/milton,setting/desert,setting/ship,character/milton"></span>
 
 
 down dead, or the shrines for which men will walk some hundreds of miles
@@ -16344,7 +16344,7 @@ e l'assoluzione dell'interesse dei capitalisti. Non è una scientifica
 
 
 
-<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_23" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 23)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_mask_of_socialism--part_23" data-title="UtopiaUsurers — THE MASK OF SOCIALISM (part 23)" data-chapter="THE MASK OF SOCIALISM" data-kind="excerpt" data-tags="motif/well,concept/charity,concept/history,concept/resurrection,form/history"></span>
 
 
 problem for us to investigate. It is a crime committed before our eyes;

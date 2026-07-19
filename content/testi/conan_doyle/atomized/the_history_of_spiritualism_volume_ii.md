@@ -1142,7 +1142,7 @@ SINGULAR RECORDS OF A CIRCLE
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/soul"></span>
 
 
 CHAPTER I
@@ -1199,7 +1199,7 @@ Eusapia had a peculiar depression of her parietal bone, due, it is said, to some
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/immortality_of_the_soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER II
@@ -1310,7 +1310,7 @@ The various mediums treated in this chapter may be said to cover the different t
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER III
@@ -1446,7 +1446,7 @@ Yet when all is said and done, the world has been the better for the existence o
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER IV
@@ -1546,7 +1546,7 @@ It is vain in a single chapter of a work which covers a large subject to give an
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER V
@@ -1647,7 +1647,7 @@ In pointing out the evidence for the psychic cocoon, the author hopes that he ha
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/spiritualism,setting/london"></span>
 
 
 CHAPTER VI
@@ -1745,7 +1745,7 @@ Nothing is evidence to those who are so filled with prejudice that they have no 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER VII
@@ -1861,7 +1861,7 @@ There was, however, a strong minority who saw the full meaning of the revelation
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/prophet,motif/soul,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER VIII
@@ -1933,7 +1933,7 @@ If the author has included this short notice under the head of personal experien
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="concept/spiritualism,setting/italy,setting/london"></span>
 
 
 CHAPTER IX
@@ -2031,7 +2031,7 @@ A considerable number of books, and a very much larger number of manuscripts, re
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/soul,motif/supernatural,concept/spiritualism,histref/christianity,setting/london"></span>
 
 
 CHAPTER X
@@ -2160,7 +2160,7 @@ There the matter may be left. This history has endeavoured to show how special m
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/ghosts,motif/soul,concept/spiritualism"></span>
 
 
 CHAPTER XI
@@ -2212,7 +2212,7 @@ So workaday and homely a heaven may seem material to many minds, but we must rem
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME II — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/prophet,motif/supernatural,concept/spiritualism,setting/london"></span>
 
 
 APPENDIX

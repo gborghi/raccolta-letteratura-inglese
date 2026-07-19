@@ -1251,7 +1251,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="2 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="2 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/clock,motif/death,motif/decay,motif/fire,motif/hill,motif/home,motif/horse,motif/jewel,motif/lion,motif/nature,motif/night,motif/poison,motif/sleep,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,concept/imprisonment,concept/nature,concept/poverty,concept/pride,concept/revenge,concept/truth,character/cain,character/earl_of_northumberland,character/falstaff,character/henry_iv,character/hotspur,character/lord_chief_justice,character/prince_john,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1382,7 +1382,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="2 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="2 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/death,motif/dust,motif/fire,motif/grave,motif/leaves,motif/love,motif/spring,motif/time,motif/well,motif/winter,concept/body,concept/despair,concept/fear,concept/hope,concept/imagination,concept/poverty,setting/london,character/hastings,character/henry_iv,character/hotspur,character/mowbray,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1414,7 +1414,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="2 Henry IV — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="2 Henry IV — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/villain,motif/desire,motif/fire,motif/home,motif/horse,motif/soul,motif/time,motif/well,concept/faith,concept/hope,concept/poverty,concept/truth,character/doll_tearsheet,character/falstaff,character/gower,character/henry_iv,character/lord_chief_justice,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -1503,7 +1503,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="2 Henry IV — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="2 Henry IV — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/shadow,archetype/villain,motif/blood,motif/crown,motif/desire,motif/love,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/faith,concept/greatness,setting/court,setting/london,character/doll_tearsheet,character/falstaff,character/henry_iv,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -1585,7 +1585,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="2 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="2 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/villain,motif/blood,motif/chains,motif/death,motif/desire,motif/fire,motif/grave,motif/hill,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/sleep,motif/stars,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/faith,concept/fear,concept/honour,concept/nature,concept/revenge,concept/suffering,concept/truth,setting/court,setting/london,character/agamemnon,character/arthur,character/doll_tearsheet,character/earl_of_northumberland,character/falstaff,character/hector,character/henry_iv,character/hotspur,character/lucifer,character/mistress_quickly,character/pistol,character/saturn,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1785,7 +1785,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="2 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="2 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,motif/clock,motif/crown,motif/death,motif/love,motif/nature,motif/night,motif/ship,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/greatness,concept/history,concept/nature,form/history,setting/mountains,setting/ship,character/henry_iv,character/nurse,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1811,7 +1811,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="2 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="2 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,archetype/shadow,motif/death,motif/desire,motif/home,motif/nature,motif/night,motif/silence,motif/summer,motif/time,motif/well,concept/faith,concept/nature,concept/truth,setting/court,setting/oxford,character/arthur,character/bottom,character/falstaff,character/henry_iv,character/justice_shallow,character/mowbray"></span>
 
 
 | Speaker | Line |
@@ -1974,7 +1974,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="2 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="2 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/death,motif/fire,motif/home,motif/lion,motif/love,motif/memory,motif/nature,motif/soul,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/history,concept/honour,concept/madness,concept/mercy,concept/nature,form/history,setting/court,setting/mountains,character/bottom,character/hastings,character/henry_bolingbroke,character/henry_iv,character/mowbray,character/prince_john,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2078,7 +2078,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="2 Henry IV — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="2 Henry IV — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/rebel,motif/blood,motif/death,motif/desert,motif/love,motif/moon,motif/swallow,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/mercy,setting/court,setting/desert,character/falstaff,character/henry_iv,character/prince_john,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2128,7 +2128,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="2 Henry IV — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="2 Henry IV — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/innocent,archetype/king,archetype/rebel,motif/bees,motif/bells,motif/blood,motif/crown,motif/dance,motif/death,motif/decay,motif/dust,motif/grave,motif/love,motif/memory,motif/nature,motif/night,motif/pain,motif/river,motif/seasons,motif/sleep,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/winter,concept/body,concept/charity,concept/doubt,concept/fear,concept/greatness,concept/guilt,concept/honour,concept/nature,concept/pride,concept/vanity,setting/court,setting/london,character/clarence,character/duke_of_gloucester,character/earl_of_warwick,character/gloucester,character/hastings,character/henry_iv,character/mowbray,character/prince_john"></span>
 
 
 | Speaker | Line |
@@ -2237,7 +2237,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="2 Henry IV — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="2 Henry IV — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/hill,motif/night,motif/silence,motif/well,setting/court,character/falstaff,character/henry_iv"></span>
 
 
 | Speaker | Line |
@@ -2277,7 +2277,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="2 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="2 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/grave,motif/horse,motif/love,motif/nature,motif/night,motif/prison,motif/silence,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/truth,concept/vanity,setting/court,setting/london,character/bottom,character/clarence,character/earl_of_warwick,character/falstaff,character/gloucester,character/henry_iv,character/lord_chief_justice,character/master_page,character/pistol,character/prince_john,character/robin_hood,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -2396,7 +2396,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="2 Henry IV — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="2 Henry IV — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/villain,motif/death,motif/well,character/doll_tearsheet,character/henry_iv,character/mistress_quickly,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -2420,7 +2420,7 @@ wrongs. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="2 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="2 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/hero,archetype/king,archetype/lover,motif/autumn,motif/clock,motif/dance,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/pain,motif/prison,motif/spring,motif/summer,motif/time,motif/well,concept/body,concept/conscience,concept/deception,concept/doubt,concept/fear,concept/imagination,concept/reform,concept/revenge,concept/self,concept/truth,character/beatrice,character/benedick,character/clarence,character/claudio,character/dogberry,character/don_john,character/don_pedro,character/edmund,character/falstaff,character/gloucester,character/helen,character/henry_iv,character/leonato,character/lord_chief_justice,character/orlando,character/pistol,character/prince_john,character/queen"></span>
 
 
 | Speaker | Line |

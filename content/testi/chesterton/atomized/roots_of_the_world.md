@@ -146,7 +146,7 @@ The Titans never scaled heaven, but they laid waste the earth.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Roots_of_the_World (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Roots_of_the_World (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/city,motif/flowers,motif/garden,motif/home,motif/moon,motif/night,motif/time,concept/conscience,concept/truth,form/riddle,setting/castle,setting/cathedral,setting/new_york,setting/paris"></span>
 
 
 # Roots of the World
@@ -255,7 +255,7 @@ Forse sarebbe stato davvero crocifisso, se l'avesse così divelto. Non saprei di
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Roots_of_the_World (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Roots_of_the_World (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/nature,motif/well,concept/despair,concept/faith,concept/nature,histref/christianity,character/jones"></span>
 
 
 All those who have sought in the name of science to uproot

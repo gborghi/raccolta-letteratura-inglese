@@ -755,7 +755,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="A Midsummer Nights Dream — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="A Midsummer Nights Dream — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/shadow,motif/blood,motif/cross,motif/death,motif/desire,motif/dreams,motif/fire,motif/lightning,motif/love,motif/moon,motif/night,motif/pain,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/history,concept/melancholy,concept/self,form/history,character/demetrius,character/diana,character/helen,character/helena,character/hermia,character/hippolyta,character/lysander,character/phoebe,character/queen,character/speed,character/theseus,character/venus"></span>
 
 
 | Speaker | Line |
@@ -820,7 +820,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="A Midsummer Nights Dream — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="A Midsummer Nights Dream — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/lover,archetype/tyrant,motif/city,motif/crown,motif/death,motif/desire,motif/lion,motif/love,motif/night,motif/nightingale,motif/prison,motif/summer,motif/tears,motif/well,concept/faith,concept/hope,form/comedy,character/bottom"></span>
 
 
 | Speaker | Line |
@@ -871,7 +871,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="A Midsummer Nights Dream — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="A Midsummer Nights Dream — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/autumn,motif/city,motif/cross,motif/crown,motif/dance,motif/desert,motif/fire,motif/flowers,motif/hill,motif/horse,motif/lion,motif/love,motif/moon,motif/night,motif/river,motif/rose,motif/seasons,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/faith,concept/fear,concept/jealousy,concept/mercy,concept/revenge,concept/truth,form/hymn,setting/desert,character/apollo,character/demetrius,character/helena,character/hermia,character/hippolyta,character/lysander,character/mermaid,character/oberon,character/puck,character/queen,character/speed,character/theseus,character/titania"></span>
 
 
 | Speaker | Line |
@@ -928,7 +928,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="A Midsummer Nights Dream — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="A Midsummer Nights Dream — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/monster,motif/blood,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/soul,motif/tears,motif/well,concept/fear,concept/honour,concept/nature,concept/pride,concept/truth,character/chorus,character/demetrius,character/helen,character/helena,character/hermia,character/lysander,character/oberon,character/puck,character/queen,character/titania"></span>
 
 
 | Speaker | Line |
@@ -974,7 +974,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="A Midsummer Nights Dream — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="A Midsummer Nights Dream — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/bees,motif/desire,motif/fire,motif/flowers,motif/horse,motif/lion,motif/love,motif/moon,motif/night,motif/rose,motif/sleep,motif/summer,motif/water,motif/well,motif/window,concept/fear,concept/mercy,concept/truth,form/comedy,character/bottom,character/puck,character/queen,character/titania"></span>
 
 
 | Speaker | Line |
@@ -1056,7 +1056,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="A Midsummer Nights Dream — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="A Midsummer Nights Dream — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/cross,motif/death,motif/desire,motif/ghosts,motif/home,motif/love,motif/moon,motif/night,motif/sleep,motif/snow,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/hope,concept/revenge,concept/truth,concept/union,concept/wonder,character/demetrius,character/dwarf,character/helen,character/helena,character/hermia,character/lysander,character/oberon,character/puck,character/queen,character/theseus,character/titania,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1205,7 +1205,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="A Midsummer Nights Dream — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="A Midsummer Nights Dream — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,motif/bells,motif/birds,motif/childhood,motif/dance,motif/death,motif/desire,motif/dreams,motif/flowers,motif/jewel,motif/love,motif/moon,motif/night,motif/rose,motif/silence,motif/sleep,motif/snow,motif/tears,motif/wind,concept/doubt,concept/faith,concept/fear,concept/jealousy,concept/wonder,setting/mountains,setting/orient,character/bottom,character/demetrius,character/helen,character/helena,character/hermia,character/hippolyta,character/lysander,character/oberon,character/puck,character/queen,character/theseus,character/titania,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1280,7 +1280,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="A Midsummer Nights Dream — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="A Midsummer Nights Dream — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/home,motif/lion,concept/doubt,form/comedy,character/bottom"></span>
 
 
 | Speaker | Line |
@@ -1304,7 +1304,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="A Midsummer Nights Dream — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="A Midsummer Nights Dream — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,archetype/prophet,motif/death,motif/garden,motif/lion,motif/love,motif/marriage,motif/night,motif/time,concept/beauty,concept/fear,concept/imagination,concept/self,form/masque,form/satire,setting/egypt,character/arthur,character/constance,character/dauphin,character/demetrius,character/earl_of_salisbury,character/eleanor,character/helen,character/helena,character/hermia,character/hippolyta,character/hubert,character/king_john,character/king_philip_of_france,character/lysander,character/philip_the_bastard,character/queen,character/richard,character/richard_ii,character/richard_iii,character/theseus,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1339,7 +1339,7 @@ A Midsummer [[Night]]’s Dream
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="A Midsummer Nights Dream — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="A Midsummer Nights Dream — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/dance,motif/dust,motif/fire,motif/lion,motif/moon,motif/nature,motif/night,motif/time,concept/nature,character/oberon,character/puck,character/queen,character/titania"></span>
 
 
 | Speaker | Line |

@@ -555,7 +555,7 @@ DEDICATED
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE MARACOT DEEP — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE MARACOT DEEP — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/journey,motif/ship,motif/water,concept/courage,setting/ship,character/bill_scanlan,character/cyrus_headley,character/professor_maracot"></span>
 
 
 CHAPTER 1
@@ -663,7 +663,7 @@ And then at last, quite softly and gently, we came to rest. So delicate was the 
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE MARACOT DEEP — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE MARACOT DEEP — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/journey,motif/water,concept/wonder,character/bill_scanlan"></span>
 
 
 CHAPTER 2
@@ -767,7 +767,7 @@ Now that the terrific strain had been so suddenly eased we were all exhausted. E
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE MARACOT DEEP — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE MARACOT DEEP — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/ship,motif/water,concept/wonder,setting/ship,character/bill_scanlan"></span>
 
 
 CHAPTER 3
@@ -836,7 +836,7 @@ They were a cheerful crowd, and it was a happy life, but there were and are time
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE MARACOT DEEP — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE MARACOT DEEP — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/journey,motif/ship,motif/water,concept/wonder,setting/ship"></span>
 
 
 CHAPTER 4
@@ -873,7 +873,7 @@ Only one point had remained undecided, and that was the length of time since the
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE MARACOT DEEP — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE MARACOT DEEP — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/journey,motif/ship,motif/water,setting/ship,character/cyrus_headley"></span>
 
 
 CHAPTER 5
@@ -951,7 +951,7 @@ Mr. Key Osborne now takes up the narrative:
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE MARACOT DEEP — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE MARACOT DEEP — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/ship,motif/water,setting/ship,character/bill_scanlan,character/cyrus_headley,character/professor_maracot"></span>
 
 
 CHAPTER 6
@@ -1008,7 +1008,7 @@ Yes, who knew what might happen. Who could have dreamed what did happen. Out of 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE MARACOT DEEP — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE MARACOT DEEP — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/water,concept/wonder,character/bill_scanlan"></span>
 
 
 CHAPTER 7

@@ -1092,7 +1092,7 @@ A NIGHT AMONG THE NIHILISTS.
 
 
 
-<span class="atom-split" data-atom="story_01_elias_b_hopkins_the_parson_of_jackmans_g" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH." data-chapter="ELIAS B HOPKINS THE PARSON OF JACKMANS G" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_elias_b_hopkins_the_parson_of_jackmans_g" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH." data-chapter="ELIAS B HOPKINS THE PARSON OF JACKMANS G" data-kind="story" data-tags="motif/money_and_gold,concept/reform,concept/temperance_and_teetotalism,form/short_story,setting/australia"></span>
 
 
 ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH.
@@ -1173,7 +1173,7 @@ Jackman’s Gulch recovered from this blow, and is now a flourishing township. 
 
 
 
-<span class="atom-split" data-atom="story_02_my_friend_the_murderer" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — MY FRIEND THE MURDERER" data-chapter="MY FRIEND THE MURDERER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_my_friend_the_murderer" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — MY FRIEND THE MURDERER" data-chapter="MY FRIEND THE MURDERER" data-kind="story" data-tags="archetype/villain,motif/prison,concept/crime_and_punishment,form/short_story,setting/australia"></span>
 
 
 MY FRIEND THE MURDERER
@@ -1307,7 +1307,7 @@ I cannot conclude without borrowing the account of the fatal quarrel which appea
 
 
 
-<span class="atom-split" data-atom="story_03_the_man_from_archangel" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE MAN FROM ARCHANGEL" data-chapter="THE MAN FROM ARCHANGEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_man_from_archangel" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE MAN FROM ARCHANGEL" data-chapter="THE MAN FROM ARCHANGEL" data-kind="story" data-tags="archetype/outsider,motif/the_sea,concept/misanthropy,concept/solitude,concept/alienation,concept/self_and_cosmos,form/short_story,setting/scotland"></span>
 
 
 THE MAN FROM ARCHANGEL
@@ -1396,7 +1396,7 @@ Madge and I buried them there on the shores of the desolate northern sea. They l
 
 
 
-<span class="atom-split" data-atom="story_04_that_little_square_box" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THAT LITTLE SQUARE BOX." data-chapter="THAT LITTLE SQUARE BOX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_that_little_square_box" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THAT LITTLE SQUARE BOX." data-chapter="THAT LITTLE SQUARE BOX" data-kind="story" data-tags="motif/ship,motif/sea_and_voyage,concept/fear,concept/superstition_and_omen,concept/spiritualism,form/short_story,setting/the_sea"></span>
 
 
 THAT LITTLE SQUARE BOX.
@@ -1585,7 +1585,7 @@ Little more need be said.  It is not a subject on which I care to dwell.  The 
 
 
 
-<span class="atom-split" data-atom="story_05_the_americans_tale" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE AMERICAN’S TALE" data-chapter="THE AMERICANS TALE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_americans_tale" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE AMERICAN’S TALE" data-chapter="THE AMERICANS TALE" data-kind="story" data-tags="motif/tobacco_and_cigars,motif/nature,form/short_story,histref/american_west,setting/the_american_west"></span>
 
 
 THE AMERICAN’S TALE
@@ -1618,7 +1618,7 @@ I wonder which he was.
 
 
 
-<span class="atom-split" data-atom="story_06_bones_the_april_fool_of_harveys_sluice" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — BONES. THE APRIL FOOL OF HARVEY’S SLUICE" data-chapter="BONES THE APRIL FOOL OF HARVEYS SLUICE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_bones_the_april_fool_of_harveys_sluice" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — BONES. THE APRIL FOOL OF HARVEY’S SLUICE" data-chapter="BONES THE APRIL FOOL OF HARVEYS SLUICE" data-kind="story" data-tags="archetype/the_common_man,motif/home,motif/fire,concept/friendship,form/short_story"></span>
 
 
 BONES. THE APRIL FOOL OF HARVEY’S SLUICE
@@ -1815,7 +1815,7 @@ It is still the custom for a select party to meet on a Saturday evening in the s
 
 
 
-<span class="atom-split" data-atom="story_07_the_mystery_of_sasassa_valley" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE MYSTERY OF SASASSA VALLEY" data-chapter="THE MYSTERY OF SASASSA VALLEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_mystery_of_sasassa_valley" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — THE MYSTERY OF SASASSA VALLEY" data-chapter="THE MYSTERY OF SASASSA VALLEY" data-kind="story" data-tags="topos/fortunes_wheel,motif/fire,concept/friendship,form/short_story,form/adventure_fiction,setting/south_africa"></span>
 
 
 THE MYSTERY OF SASASSA VALLEY
@@ -1904,7 +1904,7 @@ There sir; I’ve spun my story out too long, and tired you perhaps. You see whe
 
 
 
-<span class="atom-split" data-atom="story_08_our_derby_sweepstakes" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — OUR DERBY SWEEPSTAKES" data-chapter="OUR DERBY SWEEPSTAKES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_our_derby_sweepstakes" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — OUR DERBY SWEEPSTAKES" data-chapter="OUR DERBY SWEEPSTAKES" data-kind="story" data-tags="motif/letters_and_writing,concept/family,concept/childhood_and_growth,concept/jealousy,concept/romantic_love,form/short_story,setting/england"></span>
 
 
 OUR DERBY SWEEPSTAKES
@@ -2110,7 +2110,7 @@ Sol took it more quietly, but I fear the iron went deeper into his soul. However
 
 
 
-<span class="atom-split" data-atom="story_09_selecting_a_ghost_the_ghosts_of_gorestho" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE" data-chapter="SELECTING A GHOST THE GHOSTS OF GORESTHO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_selecting_a_ghost_the_ghosts_of_gorestho" data-title="MY FRIEND THE MURDERER AND OTHER MYSTERIES AND ADVENTURES — SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE" data-chapter="SELECTING A GHOST THE GHOSTS OF GORESTHO" data-kind="story" data-tags="archetype/self_made_man,motif/the_supernatural,motif/ghosts,motif/great_house,concept/vulgarity,form/short_story,form/satire"></span>
 
 
 SELECTING A GHOST. THE GHOSTS OF GORESTHORPE GRANGE

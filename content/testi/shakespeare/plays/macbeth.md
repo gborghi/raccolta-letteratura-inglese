@@ -1015,7 +1015,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Macbeth — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Macbeth — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/lightning,character/macbeth,character/three_witches,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1035,7 +1035,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Macbeth — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Macbeth — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,archetype/rebel,motif/death,motif/lion,motif/nature,motif/spring,motif/well,concept/honour,concept/nature,concept/self,character/banquo,character/duncan,character/macbeth,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1063,7 +1063,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Macbeth — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Macbeth — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/rebel,motif/crown,motif/death,motif/home,motif/nature,motif/night,motif/sleep,motif/supernatural,motif/time,motif/water,motif/wind,concept/fear,concept/honour,concept/hope,concept/nature,concept/self,concept/truth,character/banquo,character/macbeth,character/three_witches,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1127,7 +1127,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Macbeth — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Macbeth — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/death,motif/love,motif/stars,concept/honour,character/banquo,character/duncan,character/macbeth,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1150,7 +1150,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Macbeth — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Macbeth — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="topos/double,archetype/innocent,archetype/king,motif/blood,motif/crown,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/summer,motif/time,motif/well,concept/ambition,concept/fear,concept/greatness,concept/nature,concept/wonder,setting/castle,character/banquo,character/duncan,character/lady_macbeth,character/macbeth,character/macduff,character/malcolm,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1184,7 +1184,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_7" data-title="Macbeth — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_7" data-title="Macbeth — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,motif/blood,motif/death,motif/desire,motif/journey,motif/love,motif/memory,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,concept/ambition,concept/courage,concept/guilt,concept/hope,character/duncan,character/lady_macbeth,character/macbeth"></span>
 
 
 | Speaker | Line |
@@ -1210,7 +1210,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Macbeth — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Macbeth — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/clock,motif/dreams,motif/moon,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/fear,concept/honour,concept/nature,concept/truth,character/banquo,character/duncan,character/macbeth,character/tarquin"></span>
 
 
 | Speaker | Line |
@@ -1239,7 +1239,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Macbeth — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Macbeth — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/innocent,motif/blood,motif/childhood,motif/death,motif/fire,motif/nature,motif/night,motif/sleep,motif/water,concept/fear,concept/guilt,concept/nature,character/duncan,character/lady_macbeth,character/macbeth"></span>
 
 
 | Speaker | Line |
@@ -1279,7 +1279,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Macbeth — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Macbeth — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/desire,motif/horse,motif/leaves,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/spring,motif/tears,motif/time,motif/well,concept/courage,concept/faith,concept/mercy,concept/mortality,concept/nature,character/banquo,character/duncan,character/lady_macbeth,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1354,7 +1354,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Macbeth — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Macbeth — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/clock,motif/nature,motif/night,motif/time,motif/well,concept/ambition,concept/body,concept/nature,concept/pride,character/duncan,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1384,7 +1384,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Macbeth — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Macbeth — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/prophet,motif/crown,motif/death,motif/desire,motif/dreams,motif/grave,motif/horse,motif/jewel,motif/love,motif/nature,motif/night,motif/poison,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/nature,concept/self,concept/truth,setting/court,character/banquo,character/duncan,character/lady_macbeth,character/macbeth,character/mark_antony,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1453,7 +1453,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Macbeth — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Macbeth — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/well,concept/body,concept/revenge,setting/court,character/banquo,character/macbeth"></span>
 
 
 | Speaker | Line |
@@ -1485,7 +1485,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Macbeth — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Macbeth — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/ghost,archetype/king,archetype/shadow,motif/blood,motif/death,motif/desert,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/sleep,motif/summer,motif/time,motif/well,motif/winter,concept/fear,concept/honour,concept/nature,concept/self,concept/wonder,setting/desert,character/banquo,character/duncan,character/lady_macbeth,character/macbeth,character/macduff,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1557,7 +1557,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Macbeth — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Macbeth — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/bells,motif/blood,motif/dance,motif/death,motif/moon,motif/night,motif/noon,concept/fear,setting/mountains,character/macbeth,character/speed,character/three_witches,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1596,7 +1596,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Macbeth — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Macbeth — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/sleep,motif/time,motif/well,concept/suffering,setting/court,character/banquo,character/duncan,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1612,7 +1612,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Macbeth — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Macbeth — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,motif/blood,motif/crown,motif/dance,motif/fire,motif/hill,motif/horse,motif/lion,motif/moon,motif/nature,motif/sleep,motif/swallow,motif/time,motif/well,concept/fear,concept/nature,setting/castle,character/banquo,character/macbeth,character/macduff,character/three_witches,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1701,7 +1701,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Macbeth — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Macbeth — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/birds,motif/love,concept/body,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/madness,character/lady_macduff,character/macbeth,character/macduff"></span>
 
 
 | Speaker | Line |
@@ -1754,7 +1754,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Macbeth — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Macbeth — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/king,archetype/tyrant,archetype/villain,motif/death,motif/desert,motif/desire,motif/flowers,motif/grave,motif/lamb,motif/leaves,motif/love,motif/nature,motif/night,motif/snow,motif/soul,motif/summer,motif/time,motif/well,concept/courage,concept/despair,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/mercy,concept/nature,concept/revenge,concept/truth,form/essay,setting/castle,setting/desert,character/bottom,character/macbeth,character/macduff,character/malcolm,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1827,7 +1827,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Macbeth — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Macbeth — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/grave,motif/nature,motif/night,motif/secrets,motif/sleep,motif/time,motif/well,concept/body,concept/fear,concept/nature,concept/truth,character/banquo,character/lady_macbeth,character/macbeth"></span>
 
 
 | Speaker | Line |
@@ -1873,7 +1873,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Macbeth — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Macbeth — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/tyrant,motif/love,motif/well,concept/faith,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1895,7 +1895,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Macbeth — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Macbeth — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/villain,motif/death,motif/love,motif/memory,motif/soul,motif/water,concept/doubt,concept/fear,concept/honour,character/macbeth,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1931,7 +1931,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Macbeth — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Macbeth — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/shadow,archetype/tyrant,motif/time,concept/doubt,concept/hope,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1950,7 +1950,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Macbeth — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Macbeth — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/shadow,motif/death,motif/hill,motif/home,motif/night,motif/time,motif/well,motif/wind,concept/doubt,concept/fear,concept/truth,setting/castle,character/macbeth,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1977,7 +1977,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Macbeth — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Macbeth — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/tyrant,motif/blood,motif/death,motif/well,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -1991,7 +1991,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Macbeth — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Macbeth — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/tyrant,concept/body,concept/fear,character/macbeth"></span>
 
 
 | Speaker | Line |
@@ -2012,7 +2012,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_8" data-title="Macbeth — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_8" data-title="Macbeth — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/tyrant,motif/ghosts,character/macbeth,character/macduff"></span>
 
 
 | Speaker | Line |
@@ -2024,7 +2024,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_9" data-title="Macbeth — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_9" data-title="Macbeth — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/tyrant,setting/castle,character/macbeth,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -2038,7 +2038,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_10" data-title="Macbeth — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_10" data-title="Macbeth — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/tyrant,archetype/villain,motif/blood,motif/soul,motif/time,concept/body,concept/despair,concept/hope,character/macbeth,character/macduff,character/malcolm"></span>
 
 
 | Speaker | Line |
@@ -2060,7 +2060,7 @@ The [[Tragedy]] of [[Macbeth]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_11" data-title="Macbeth — Act V, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_11" data-title="Macbeth — Act V, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="topos/double,archetype/king,archetype/usurper,motif/death,motif/desire,motif/home,motif/marriage,motif/time,motif/well,concept/honour,concept/self,concept/sublime,concept/suicide,concept/vanity,form/tragedy,form/translation,setting/egypt,character/charmian,character/cleopatra,character/enobarbus,character/julius_caesar,character/lepidus,character/macbeth,character/macduff,character/malcolm,character/mark_antony,character/octavia,character/octavius_caesar,character/queen"></span>
 
 
 | Speaker | Line |

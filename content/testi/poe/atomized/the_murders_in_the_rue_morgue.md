@@ -2895,7 +2895,7 @@ pas._’” (*)
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Murders in the Rue Morgue (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Murders in the Rue Morgue (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/flag,motif/memory,motif/nature,motif/silence,motif/soul,motif/well,concept/doubt,concept/nature,concept/truth,character/achilles"></span>
 
 
 What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hid
@@ -3083,7 +3083,7 @@ He notes every variation of face as the play progresses,
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Murders in the Rue Morgue (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Murders in the Rue Morgue (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/dawn,motif/dreams,motif/nature,motif/night,motif/soul,motif/spring,motif/summer,motif/time,concept/grotesque,concept/history,concept/imagination,concept/nature,concept/poverty,concept/self,form/history,setting/paris,character/c_auguste_dupin"></span>
 
 
 gathering a fund of thought from the differences in the
@@ -3273,7 +3273,7 @@ amid the wild lights and shadows of the populous [[City|city]], that
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Murders in the Rue Morgue (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Murders in the Rue Morgue (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,motif/night,motif/rose,motif/silence,motif/soul,motif/time,concept/doubt,concept/truth,form/tragedy"></span>
 
 
 infinity of mental excitement which quiet observation can afford.
@@ -3493,7 +3493,7 @@ expression, at the holes and ruts in the pavement, (so that I saw
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Murders in the Rue Morgue (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Murders in the Rue Morgue (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/fire,motif/sleep,motif/time,motif/well,concept/body,concept/doubt"></span>
 
 
 you were still thinking of the stones,) until we reached the
@@ -3689,7 +3689,7 @@ head, was fearfully mutilated—the former so much so as scarcely
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Murders in the Rue Morgue (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Murders in the Rue Morgue (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/time,motif/well,concept/fear,form/tragedy,character/bottom"></span>
 
 
 to retain any semblance of humanity.
@@ -3889,7 +3889,7 @@ repeatedly ‘_sacré_,’ ‘_diable_,’ and once ‘_mon Dieu._’
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Murders in the Rue Morgue (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Murders in the Rue Morgue (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/death,motif/home,motif/noon,motif/spring,motif/time,concept/body,setting/paris,setting/russia"></span>
 
 
 “_Jules Mignaud_, banker, of the firm of Mignaud et Fils, Rue
@@ -4083,7 +4083,7 @@ horribly mutilated. All the bones of the right leg and arm were
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Murders in the Rue Morgue (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Murders in the Rue Morgue (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/shadow,motif/nature,motif/well,motif/window,concept/body,concept/nature,concept/truth,setting/paris,character/venus"></span>
 
 
 more or less shattered. The left _tibia_ much splintered, as [[Well|well]]
@@ -4281,7 +4281,7 @@ building—Dupin, meanwhile examining the whole neighborhood, as
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Murders in the Rue Morgue (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Murders in the Rue Morgue (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/nature,motif/noon,motif/well,concept/body,concept/doubt,concept/fear,concept/hope,concept/nature,concept/self,concept/suicide,form/riddle"></span>
 
 
 [[Well|well]] as the [[house]], with a minuteness of attention for which I
@@ -4483,7 +4483,7 @@ disagreement in regard to the shrill, or, as one individual
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Murders in the Rue Morgue (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Murders in the Rue Morgue (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/window,concept/body,setting/paris,setting/russia"></span>
 
 
 termed it, the harsh voice.
@@ -4673,7 +4673,7 @@ other [[Window|window]], a similar nail was seen similarly fitted in it; and
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Murders in the Rue Morgue (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Murders in the Rue Morgue (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/lightning,motif/nature,motif/spring,motif/well,motif/window,concept/nature,form/riddle,character/bottom"></span>
 
 
 a vigorous attempt to raise this sash, failed also. The police
@@ -4863,7 +4863,7 @@ have done), they did not perceive this great breadth itself, or,
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Murders in the Rue Morgue (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Murders in the Rue Morgue (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/death,motif/lightning,motif/time,motif/window,concept/courage,concept/doubt,concept/truth"></span>
 
 
 at all events, failed to take it into due consideration. In fact,
@@ -5051,7 +5051,7 @@ notions of human action, even when we suppose the actors the most
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Murders in the Rue Morgue (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Murders in the Rue Morgue (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,motif/window,concept/body,form/sketch"></span>
 
 
 depraved of men. Think, too, how great must have been that
@@ -5263,7 +5263,7 @@ unanimously, by the evidence, to this voice,—the expression,
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Murders in the Rue Morgue (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Murders in the Rue Morgue (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/lightning,motif/night,motif/time,concept/doubt,concept/guilt,form/riddle"></span>
 
 
 ‘_mon Dieu!_’ This, under the circumstances, has been justly
@@ -5463,7 +5463,7 @@ valuable animal. How old do you suppose him to be?”
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Murders in the Rue Morgue (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Murders in the Rue Morgue (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/clock,motif/death,motif/home,motif/lightning,motif/night,motif/ship,motif/time,motif/well,motif/window,concept/despair,concept/doubt,setting/paris,setting/ship,character/bottom,character/pistol"></span>
 
 
 The sailor drew a long breath, with the air of a man relieved of
@@ -5671,7 +5671,7 @@ perceived the [[Lightning|lightning]] rod, clambered up with inconceivable
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Murders in the Rue Morgue (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Murders in the Rue Morgue (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/lightning,motif/night,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/conscience,concept/doubt,concept/fear,concept/truth,concept/wonder,setting/castle"></span>
 
 
 agility, grasped the shutter, which was thrown fully back against

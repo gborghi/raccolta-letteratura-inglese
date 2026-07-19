@@ -4427,7 +4427,7 @@ Prussianism stood up and testified against it.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_real_aim" data-title="Eugenics — Part 2: THE REAL AIM" data-chapter="THE REAL AIM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_real_aim" data-title="Eugenics — Part 2: THE REAL AIM" data-chapter="THE REAL AIM" data-kind="chapter" data-tags="motif/fire,motif/horse,motif/poison,motif/time,motif/well,concept/eugenics,concept/history,form/history"></span>
 
 
 PART TWO:  THE REAL AIM
@@ -4529,7 +4529,7 @@ G. K. C.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Eugenics — Part 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Eugenics — Part 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,motif/horse,motif/marriage,motif/nature,concept/beauty,concept/conscience,concept/eugenics,concept/history,concept/honour,concept/nature,concept/procreation,concept/union,form/history,setting/oxford"></span>
 
 
 PART ONE
@@ -4690,7 +4690,7 @@ Il punto qui è che una nuova scuola crede nell'[[Eugenics|Eugenetica]] contro l
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Eugenics — Part 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Eugenics — Part 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/blood,motif/love,motif/marriage,motif/nature,motif/sleep,motif/soul,concept/beauty,concept/education,concept/eugenics,concept/nature,concept/pride,concept/procreation,concept/slavery,histref/christianity,character/jones,character/oliver"></span>
 
 
 It is only right to say here, though the matter should only
@@ -4852,7 +4852,7 @@ La maggior parte degli Eugenisti sono Eufemisti. Voglio dire semplicemente che l
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Eugenics — Part 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Eugenics — Part 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/blood,motif/fire,motif/nature,motif/prayer,motif/well,concept/charity,concept/eugenics,concept/hope,concept/humility,concept/individualism,concept/mercy,concept/nature,concept/reform,concept/slavery,form/fragment,histref/christianity,histref/inquisition,character/eleanor,character/queen"></span>
 
 
 The next sect of superficial objectors is even more irritating.
@@ -4976,7 +4976,7 @@ Forse i più deboli di tutti sono quelle persone impotenti che ho chiamato gli A
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Eugenics — Part 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Eugenics — Part 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/rebel,archetype/usurper,motif/crown,motif/machine,motif/nature,motif/time,concept/eugenics,concept/nature,concept/self,form/novel,character/christ,character/richard_ii,character/satan"></span>
 
 
 And for the rest, there is undoubtedly an enormous mass of sensible,
@@ -5096,7 +5096,7 @@ Un'anarchia silenziosa sta corrodendo la nostra società. Devo indugiare sull'es
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Eugenics — Part 1 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Eugenics — Part 1 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/home,motif/memory,motif/night,motif/prison,motif/water,concept/eugenics,concept/imprisonment,concept/reform,concept/self,character/witch"></span>
 
 
 Anarchy is that condition of mind or methods in which you cannot
@@ -5212,7 +5212,7 @@ Un esempio finale, che si può abbozzare assai più brevemente, si trova in ques
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Eugenics — Part 1 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Eugenics — Part 1 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/lover,motif/machine,motif/ship,motif/supernatural,concept/body,concept/conscience,concept/eugenics,concept/madness,concept/reform,histref/bible,setting/london,setting/paris,setting/ship,character/bottom"></span>
 
 
 Another case out of hundreds is the loose extension of the idea of libel.
@@ -5346,7 +5346,7 @@ Gli Eugenisti, come prima mossa, hanno esteso i confini del manicomio; prendiamo
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="Eugenics — Part 1 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="Eugenics — Part 1 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/villain,motif/city,motif/fire,motif/garden,motif/lion,motif/moon,motif/nature,motif/rose,motif/water,concept/body,concept/eugenics,concept/nature,concept/self,character/christ"></span>
 
 
 The madman is not he that defies the world.  The saint, the criminal,
@@ -5483,7 +5483,7 @@ Ora, due cose vanno anzitutto notate nel suo caso. Primo, che possiamo condannar
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_08" data-title="Eugenics — Part 1 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_08" data-title="Eugenics — Part 1 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,concept/eugenics,concept/fear,concept/madness,setting/new_york,character/jones"></span>
 
 
 The second thing to be noted is this:  that it is only by the unanimity
@@ -5606,7 +5606,7 @@ Si può qui prevedere un'obiezione, ma le si risponde facilissimamente. Si può 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_09" data-title="Eugenics — Part 1 (part 9)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_09" data-title="Eugenics — Part 1 (part 9)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/love,motif/stars,concept/doubt,concept/eugenics,concept/madness"></span>
 
 
 Now, that specialists are valuable for this particular
@@ -5728,7 +5728,7 @@ Da ultimo, il maniaco letterale è diverso da tutte le altre persone in discussi
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_10" data-title="Eugenics — Part 1 (part 10)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_10" data-title="Eugenics — Part 1 (part 10)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/animals,motif/love,motif/marriage,concept/ambition,concept/democracy,concept/eugenics,concept/friendship,concept/honour,concept/reform,concept/truth,setting/germany,character/hamlet,character/jones,character/lady_macbeth"></span>
 
 
 ---/---
@@ -5852,7 +5852,7 @@ Questo dilemma, che si applica in un caso così semplice, si applica ugualmente 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_11" data-title="Eugenics — Part 1 (part 11)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_11" data-title="Eugenics — Part 1 (part 11)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/time,motif/well,concept/eugenics,concept/nature,concept/suffering,histref/inquisition,character/king_john"></span>
 
 
 I hold it clear, therefore, if anything is clear about the business,
@@ -5986,7 +5986,7 @@ Passiamo ora dai meri uomini individuali, ai quali ovviamente non ci si può aff
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_12" data-title="Eugenics — Part 1 (part 12)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_12" data-title="Eugenics — Part 1 (part 12)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/marriage,motif/well,concept/democracy,concept/eugenics,concept/honour,concept/madness,concept/slavery"></span>
 
 
 It was best presented perhaps by the distinguished doctor who wrote
@@ -6105,7 +6105,7 @@ Così, quando il dottor Saleeby dice che un giovane in procinto di sposarsi dovr
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_13" data-title="Eugenics — Part 1 (part 13)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_13" data-title="Eugenics — Part 1 (part 13)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/nature,motif/silence,motif/soul,motif/well,concept/doubt,concept/eugenics,concept/history,concept/honour,concept/hope,concept/madness,concept/nature,concept/vanity,form/essay,form/history,character/jones,character/witch"></span>
 
 
 Health is simply [[Nature]], and no naturalist ought to have
@@ -6283,7 +6283,7 @@ Non occorre, come ho detto, negare l'ereditarietà per resistere alla legislazio
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_14" data-title="Eugenics — Part 1 (part 14)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_14" data-title="Eugenics — Part 1 (part 14)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/marriage,motif/soul,concept/eugenics,concept/guilt"></span>
 
 
 Now the students of heredity, especially, understand all of their
@@ -6401,7 +6401,7 @@ Ma benché io debba considerare questa tediosa faccenda nel suo dovuto ordine lo
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_15" data-title="Eugenics — Part 1 (part 15)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_15" data-title="Eugenics — Part 1 (part 15)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/love,motif/supernatural,motif/time,concept/beauty,concept/doubt,concept/eugenics,concept/honour,concept/hope,character/dwarf,character/queen"></span>
 
 
 But this is not the clear-cut blunder of which I spoke.
@@ -6530,7 +6530,7 @@ Consideriamo ora finalmente che cosa intendano davvero gli onesti Eugenisti, poi
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_16" data-title="Eugenics — Part 1 (part 16)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_16" data-title="Eugenics — Part 1 (part 16)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/supernatural,concept/eugenics,concept/faith,concept/imprisonment,concept/madness,concept/mercy,setting/russia"></span>
 
 
 I mean the error that still sends men marching about disestablishing
@@ -6649,7 +6649,7 @@ Ora questa è una nuova specie di persecuzione; e sia permesso chiedere se sia u
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_17" data-title="Eugenics — Part 1 (part 17)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_17" data-title="Eugenics — Part 1 (part 17)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/flag,motif/love,motif/soul,motif/time,concept/body,concept/conscience,concept/conversion,concept/eugenics,concept/hope,concept/truth"></span>
 
 
 Now let not light-minded persons say that I am here taking
@@ -6782,7 +6782,7 @@ Nel secondo capitolo faccio notare che questa divisione nella [[Conscience|cosci
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_18" data-title="Eugenics — Part 1 (part 18)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_18" data-title="Eugenics — Part 1 (part 18)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,motif/city,motif/crown,motif/desire,motif/pain,motif/time,motif/well,concept/doubt,concept/education,concept/eugenics,concept/faith,concept/hope,concept/madness,character/macbeth"></span>
 
 
 In the third chapter I seek to describe the quite extraordinary
@@ -6925,7 +6925,7 @@ E ora, nella seconda metà di questo libro, procederemo alla considerazione dell
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Eugenics — Part 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Eugenics — Part 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/crown,motif/fire,motif/home,motif/love,motif/time,motif/water,motif/well,concept/education,concept/eugenics,concept/fear,concept/freedom,concept/reform,concept/union,histref/america,histref/catholic_church,setting/america,character/edward_iii,character/henry_v,character/witch"></span>
 
 
 PART TWO
@@ -7084,7 +7084,7 @@ Poi c'è un altro modo di metterlo alla prova: chiedetevi quante persone avete i
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Eugenics — Part 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Eugenics — Part 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/tyrant,motif/dance,motif/garden,motif/hill,motif/home,motif/road,motif/secrets,motif/silence,motif/sleep,motif/time,motif/wheel,concept/conscience,concept/eugenics,concept/faith,concept/fear,concept/humility,concept/pride,concept/solitude,concept/vanity,character/lord_mayor"></span>
 
 
 Now this modern refusal to undo what has been done is not only
@@ -7214,7 +7214,7 @@ La vera storia del peccato del Sultano egli cerca sempre, ascoltando queste stor
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Eugenics — Part 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Eugenics — Part 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/monster,motif/animals,motif/city,motif/dawn,motif/garden,motif/nature,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/eugenics,concept/freedom,concept/history,concept/nature,concept/self,concept/survival,concept/truth,form/fable,form/history,histref/reformation,setting/london,character/bottom,character/monks"></span>
 
 
 ---/---
@@ -7359,7 +7359,7 @@ Ora, che cosa abbiamo fatto di quest'uomo? È del tutto semplice. Non c'è alcun
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Eugenics — Part 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Eugenics — Part 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/self_made_man,motif/grave,motif/horse,motif/nature,motif/prison,motif/sleep,motif/time,concept/eugenics,concept/madness,concept/nature,concept/poverty,setting/court,setting/egypt,setting/london,character/henry_viii"></span>
 
 
 Now when I say this man has been oppressed as hardly any other
@@ -7490,7 +7490,7 @@ Vi è qualcosa di assai abietto nel proibire questo; perché è precisamente que
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Eugenics — Part 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Eugenics — Part 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/nature,motif/time,motif/well,concept/charity,concept/conscience,concept/despair,concept/eugenics,concept/history,concept/nature,concept/paradox,concept/slavery,concept/truth,form/history,character/christ"></span>
 
 
 In short, the English ruler is always appealing to a nation
@@ -7623,7 +7623,7 @@ Egli non vive in una tetra torre solitaria in riva al mare, dalla quale si odono
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Eugenics — Part 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Eugenics — Part 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/time,motif/well,concept/ambition,concept/eugenics,concept/faith,concept/history,concept/individualism,concept/indolence,concept/paradox,concept/poverty,concept/pride,concept/self,concept/truth,concept/vanity,form/history,character/bottom,character/lord_mayor"></span>
 
 
 He was born about 1860; and has been a Member of Parliament
@@ -7760,7 +7760,7 @@ Passo dopo passo, tuttavia, con orribile e crescente chiarezza, quest'uomo scopr
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Eugenics — Part 2 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Eugenics — Part 2 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/road,motif/soul,motif/well,concept/eugenics,concept/hope,form/tragedy,setting/london"></span>
 
 
 I think it is no more than justice to him to say that the knowledge,
@@ -7883,7 +7883,7 @@ Oggi il ricco sa in cuor suo di essere un cancro e non un organo dello Stato. Eg
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="Eugenics — Part 2 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="Eugenics — Part 2 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/king,archetype/tyrant,motif/dreams,motif/lightning,motif/nature,motif/road,motif/storm,motif/supernatural,motif/time,motif/well,concept/doubt,concept/eugenics,concept/history,concept/nature,concept/paradox,concept/pride,concept/truth,form/history,histref/puritanism,character/julius_caesar,character/macbeth,character/shylock,character/touchstone"></span>
 
 
 I repeat that up to a point the profiteer was [[Innocent|innocent]] because he
@@ -8020,7 +8020,7 @@ Vi è un'idea di questo genere che percorre la maggior parte dei racconti popola
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_09" data-title="Eugenics — Part 2 (part 9)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_09" data-title="Eugenics — Part 2 (part 9)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/dawn,motif/decay,motif/garden,motif/home,motif/love,motif/machine,motif/memory,motif/snow,motif/time,motif/window,motif/winter,concept/body,concept/despair,concept/eugenics,concept/fear,concept/freedom,concept/individualism,concept/poverty,concept/resurrection,concept/sexuality,concept/slavery,concept/truth"></span>
 
 
 However, he had made a mistake --- as definite as a mistake
@@ -8164,7 +8164,7 @@ Ora, è assai importante comprendere qui che vi erano due corsi d'azione ancora 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_10" data-title="Eugenics — Part 2 (part 10)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_10" data-title="Eugenics — Part 2 (part 10)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/clock,motif/cross,motif/death,motif/marriage,motif/night,motif/river,motif/time,motif/well,concept/beauty,concept/democracy,concept/eugenics,concept/friendship,concept/hope,concept/procreation,concept/self"></span>
 
 
 But there was another way.  And towards this the employer's ideas began,
@@ -8290,7 +8290,7 @@ Potrei riempire questo libro di esempi dell'assunzione universale e inconscia ch
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_11" data-title="Eugenics — Part 2 (part 11)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_11" data-title="Eugenics — Part 2 (part 11)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/blood,motif/decay,motif/love,motif/marriage,motif/wheel,concept/beauty,concept/eugenics,concept/poverty,concept/pride,concept/truth,setting/london,setting/paris,character/little_nell,character/oliver_twist,character/tiny_tim"></span>
 
 
 This is the first evidence of motive:  the ubiquitous assumption
@@ -8429,7 +8429,7 @@ Una terza prova è la strana nuova disposizione a considerare i poveri come una 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_12" data-title="Eugenics — Part 2 (part 12)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_12" data-title="Eugenics — Part 2 (part 12)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/decay,motif/dreams,motif/home,motif/time,motif/water,motif/well,concept/eugenics,concept/history,concept/pride,concept/truth,form/history,setting/castle,character/henry_viii,character/phantom"></span>
 
 
 The important point is, however, that there is more fact and realism
@@ -8540,7 +8540,7 @@ Naturalmente, nessuno suppone che tutti i capitalisti, o la maggior parte dei ca
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_13" data-title="Eugenics — Part 2 (part 13)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_13" data-title="Eugenics — Part 2 (part 13)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/leaves,motif/marriage,motif/night,motif/well,concept/eugenics,concept/freedom,concept/self"></span>
 
 
 ---/---
@@ -8689,7 +8689,7 @@ Perciò la tirannia ha compiuto un solo passo per raggiungere il segreto e sacro
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_14" data-title="Eugenics — Part 2 (part 14)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_14" data-title="Eugenics — Part 2 (part 14)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/king,archetype/shadow,motif/city,motif/cross,motif/decay,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/body,concept/charity,concept/democracy,concept/eugenics,concept/fear,concept/freedom,concept/nature"></span>
 
 
 But there is more than this.  It is not only true that it
@@ -8807,7 +8807,7 @@ La [[Charity|carità]] comincerà in [[Home|casa]] nel senso che tutti i figli d
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_15" data-title="Eugenics — Part 2 (part 15)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_15" data-title="Eugenics — Part 2 (part 15)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/stars,motif/time,motif/wind,concept/conscience,concept/eugenics,concept/faith,concept/freedom,concept/honour,concept/individualism,concept/nature,concept/original_sin,setting/castle,setting/london,character/robin_hood"></span>
 
 
 So passed, to all appearance, from the minds of men the strange
@@ -8930,7 +8930,7 @@ Le nubi furono considerevolmente diradate intorno al significato del Socialismo 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_16" data-title="Eugenics — Part 2 (part 16)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_16" data-title="Eugenics — Part 2 (part 16)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,motif/prison,motif/road,motif/time,concept/doubt,concept/eugenics,concept/history,concept/honour,concept/paradox,concept/reform,form/history"></span>
 
 
 After all, it was not found necessary to have an office competing
@@ -9051,7 +9051,7 @@ In breve, la gente decise che era impossibile conseguire alcuno dei beni del Soc
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_17" data-title="Eugenics — Part 2 (part 17)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_17" data-title="Eugenics — Part 2 (part 17)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/horse,motif/love,motif/marriage,motif/poison,motif/time,motif/well,concept/democracy,concept/eugenics,concept/slavery,concept/suicide,concept/truth"></span>
 
 
 Now this anomalous situation will probably ultimately evolve into the
@@ -9182,7 +9182,7 @@ L'unico luogo in cui è possibile trovare un'eco della mente delle masse inglesi
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_18" data-title="Eugenics — Part 2 (part 18)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_18" data-title="Eugenics — Part 2 (part 18)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/night,motif/poison,motif/road,motif/sleep,motif/time,motif/water,motif/well,concept/democracy,concept/doubt,concept/eugenics,concept/freedom,concept/history,form/history,histref/america,setting/america,setting/london"></span>
 
 
 I first heard one of them on my voyage to [[America]], in the midst
@@ -9325,7 +9325,7 @@ I.— Il babbo. Questa parola è ancora in uso tra i più ignoranti e mal pagati
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_19" data-title="Eugenics — Part 2 (part 19)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_19" data-title="Eugenics — Part 2 (part 19)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/desire,motif/fire,motif/leaves,motif/marriage,motif/memory,motif/prison,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/eugenics,concept/history,concept/honour,concept/hope,concept/mercy,concept/self,concept/slavery,concept/union,form/history,histref/christianity,histref/puritanism,setting/italy"></span>
 
 
 5.--- Of his old Cherry-briar. Here we have the intermediate
@@ -9485,7 +9485,7 @@ Nel frattempo lo spasso continua; e molti simili conflitti sono registrati, pers
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_20" data-title="Eugenics — Part 2 (part 20)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_20" data-title="Eugenics — Part 2 (part 20)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/dawn,motif/death,motif/dreams,motif/home,motif/love,motif/nature,motif/rose,motif/time,concept/eugenics,concept/hope,concept/mercy,concept/nature,concept/reform,concept/slavery,form/fragment"></span>
 
 
 ---/---

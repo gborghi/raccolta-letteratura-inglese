@@ -19,7 +19,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="THE PICCOLOMINI — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="THE PICCOLOMINI — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/hero,motif/home,motif/horse,motif/noon,motif/time,motif/well,concept/fear,concept/honour,concept/hope"></span>
 
 
 | Speaker | Line |
@@ -59,7 +59,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="THE PICCOLOMINI — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="THE PICCOLOMINI — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/city,motif/cross,motif/home,motif/nature,motif/noon,motif/time,motif/well,concept/faith,concept/freedom,concept/honour,concept/nature,setting/court"></span>
 
 
 | Speaker | Line |
@@ -119,7 +119,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="THE PICCOLOMINI — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="THE PICCOLOMINI — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/bells,motif/memory,motif/rose,motif/sleep,motif/soul,motif/time,concept/despair,concept/fear,concept/freedom,concept/friendship,concept/pride,setting/court"></span>
 
 
 | Speaker | Line |
@@ -150,7 +150,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="THE PICCOLOMINI — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="THE PICCOLOMINI — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/hero,archetype/rebel,motif/blood,motif/city,motif/dance,motif/hill,motif/home,motif/horse,motif/journey,motif/lightning,motif/love,motif/nature,motif/river,motif/road,motif/ship,motif/soul,motif/spring,motif/stars,motif/time,motif/well,concept/education,concept/greatness,concept/nature,concept/sublime,setting/court,setting/ship"></span>
 
 
 | Speaker | Line |
@@ -185,7 +185,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="THE PICCOLOMINI — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="THE PICCOLOMINI — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/journey"></span>
 
 
 | Speaker | Line |
@@ -211,7 +211,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_6" data-title="THE PICCOLOMINI — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_6" data-title="THE PICCOLOMINI — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/soul,motif/time"></span>
 
 
 | Speaker | Line |
@@ -240,7 +240,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_7" data-title="THE PICCOLOMINI — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_7" data-title="THE PICCOLOMINI — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/fire,motif/marriage,motif/silence,motif/storm,motif/time,motif/well,motif/winter,concept/doubt,concept/truth,setting/court,character/queen"></span>
 
 
 | Speaker | Line |
@@ -287,7 +287,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_8" data-title="THE PICCOLOMINI — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_8" data-title="THE PICCOLOMINI — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/child,motif/home,motif/nature,motif/time,concept/hope,concept/nature"></span>
 
 
 | Speaker | Line |
@@ -306,7 +306,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_9" data-title="THE PICCOLOMINI — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_9" data-title="THE PICCOLOMINI — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/love,motif/nature,motif/time,concept/hope,concept/nature,concept/self,setting/court"></span>
 
 
 | Speaker | Line |
@@ -331,7 +331,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_10" data-title="THE PICCOLOMINI — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_10" data-title="THE PICCOLOMINI — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="archetype/king,motif/well,setting/germany,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -358,7 +358,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_11" data-title="THE PICCOLOMINI — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_11" data-title="THE PICCOLOMINI — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/dust,motif/nature,motif/road,motif/seasons,motif/ship,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,concept/body,concept/doubt,concept/honour,concept/nature,concept/self,concept/sublime,setting/ship,character/speed,character/venus"></span>
 
 
 | Speaker | Line |
@@ -402,7 +402,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_1--scene_12" data-title="THE PICCOLOMINI — Act I, Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_12" data-title="THE PICCOLOMINI — Act I, Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/avenger,archetype/hero,archetype/king,motif/crown,motif/death,motif/desert,motif/horse,motif/jewel,motif/river,motif/road,motif/spring,motif/time,motif/well,motif/winter,concept/doubt,concept/freedom,concept/honour,concept/hope,concept/revenge,concept/self,setting/cathedral,setting/court,setting/desert,setting/germany,character/speed"></span>
 
 
 | Speaker | Line |
@@ -479,7 +479,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="THE PICCOLOMINI — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="THE PICCOLOMINI — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/dreams,motif/night,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/wind,concept/conscience,setting/court"></span>
 
 
 | Speaker | Line |
@@ -503,7 +503,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="THE PICCOLOMINI — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="THE PICCOLOMINI — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/well"></span>
 
 
 | Speaker | Line |
@@ -528,7 +528,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="THE PICCOLOMINI — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="THE PICCOLOMINI — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/journey,motif/love,motif/road,motif/silence,motif/soul,motif/spring,motif/time,motif/well,concept/friendship,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -563,7 +563,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="THE PICCOLOMINI — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="THE PICCOLOMINI — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,archetype/lover,motif/crown,motif/flowers,motif/home,motif/journey,motif/love,motif/moon,motif/nature,motif/night,motif/noon,motif/road,motif/snow,motif/spring,motif/stars,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/faith,concept/melancholy,concept/nature,concept/pride,concept/truth,concept/wonder,form/fable,setting/castle,setting/mountains,character/saturn,character/venus"></span>
 
 
 | Speaker | Line |
@@ -609,7 +609,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="THE PICCOLOMINI — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="THE PICCOLOMINI — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/love,motif/secrets,motif/soul,motif/time,concept/courage,concept/faith,concept/truth,concept/union"></span>
 
 
 | Speaker | Line |
@@ -636,7 +636,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7" data-title="THE PICCOLOMINI — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="THE PICCOLOMINI — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/child,archetype/damsel,motif/grave,motif/home,motif/lamb,motif/night,motif/spring,motif/tears,motif/time,concept/melancholy,form/translation"></span>
 
 
 | Speaker | Line |
@@ -671,7 +671,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_8" data-title="THE PICCOLOMINI — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_8" data-title="THE PICCOLOMINI — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/child,motif/death,motif/fire,motif/love,motif/sleep,motif/soul,motif/tears,motif/well,concept/doubt,concept/fear,concept/honour,concept/hope,concept/self"></span>
 
 
 | Speaker | Line |
@@ -721,7 +721,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_9" data-title="THE PICCOLOMINI — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_9" data-title="THE PICCOLOMINI — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,motif/love,concept/honour,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -745,7 +745,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_10" data-title="THE PICCOLOMINI — Act II, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_10" data-title="THE PICCOLOMINI — Act II, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/fire"></span>
 
 
 | Speaker | Line |
@@ -760,7 +760,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_11" data-title="THE PICCOLOMINI — Act II, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_11" data-title="THE PICCOLOMINI — Act II, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="concept/fear"></span>
 
 
 | Speaker | Line |
@@ -777,7 +777,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_12" data-title="THE PICCOLOMINI — Act II, Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_12" data-title="THE PICCOLOMINI — Act II, Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/child,motif/blood,motif/love,concept/courage,concept/honour,concept/revenge,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -804,7 +804,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_13" data-title="THE PICCOLOMINI — Act II, Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_13" data-title="THE PICCOLOMINI — Act II, Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/artist,motif/blood,motif/cross,motif/crown,motif/grave,motif/hill,motif/jewel,motif/marriage,motif/time,motif/well,concept/faith,concept/freedom,concept/pride,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -856,7 +856,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_14" data-title="THE PICCOLOMINI — Act II, Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_14" data-title="THE PICCOLOMINI — Act II, Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="motif/night,motif/snow,motif/soul,motif/time,motif/well"></span>
 
 
 | Speaker | Line |
@@ -904,7 +904,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_15" data-title="THE PICCOLOMINI — Act II, Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_15" data-title="THE PICCOLOMINI — Act II, Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="motif/cross,motif/silence,motif/time,motif/well"></span>
 
 
 | Speaker | Line |
@@ -933,7 +933,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_2--scene_16" data-title="THE PICCOLOMINI — Act II, Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_16" data-title="THE PICCOLOMINI — Act II, Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="archetype/villain,motif/leaves,motif/night,motif/well"></span>
 
 
 | Speaker | Line |
@@ -991,7 +991,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="THE PICCOLOMINI — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="THE PICCOLOMINI — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/horse,motif/love,motif/nature,motif/night,motif/secrets,motif/silence,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/exile,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,concept/self,setting/court"></span>
 
 
 | Speaker | Line |
@@ -1091,7 +1091,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="THE PICCOLOMINI — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="THE PICCOLOMINI — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/secrets,motif/letters_writing,concept/secrecy_and_concealment,concept/deception,form/verse_drama,form/tragedy,form/translation,histref/thirty_years_war,setting/austria"></span>
 
 
 | Speaker | Line |
@@ -1136,7 +1136,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="THE PICCOLOMINI — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="THE PICCOLOMINI — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/fire,motif/noon,motif/prison,motif/ship,motif/sleep,motif/time,motif/well,concept/conscience,setting/ship"></span>
 
 
 | Speaker | Line |
@@ -1160,7 +1160,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="THE PICCOLOMINI — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="THE PICCOLOMINI — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,motif/chalk,motif/dawn,motif/journey,motif/love,motif/moon,motif/stars,motif/time,motif/well,motif/window,concept/imagination,character/saturn,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1187,7 +1187,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="THE PICCOLOMINI — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="THE PICCOLOMINI — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/road,motif/secrets"></span>
 
 
 | Speaker | Line |
@@ -1201,7 +1201,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="THE PICCOLOMINI — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="THE PICCOLOMINI — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/rebel,motif/love,motif/time,concept/hope,concept/self,form/novel"></span>
 
 
 | Speaker | Line |
@@ -1243,7 +1243,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="THE PICCOLOMINI — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="THE PICCOLOMINI — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,motif/road,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/guilt,concept/hope,concept/self,concept/temptation,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -1261,7 +1261,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="THE PICCOLOMINI — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="THE PICCOLOMINI — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/crown,motif/fire,motif/home,motif/love,motif/time,motif/well,concept/conscience,concept/doubt,concept/faith,concept/freedom,concept/friendship,concept/history,concept/self,concept/truth,form/history,histref/bible,setting/court"></span>
 
 
 | Speaker | Line |
@@ -1331,7 +1331,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="THE PICCOLOMINI — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="THE PICCOLOMINI — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/well,concept/mercy"></span>
 
 
 | Speaker | Line |
@@ -1350,7 +1350,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="THE PICCOLOMINI — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="THE PICCOLOMINI — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/hero,archetype/king,motif/fire,motif/grave,motif/memory,motif/nature,motif/night,motif/road,motif/soul,motif/storm,motif/time,motif/well,concept/ambition,concept/conscience,concept/courage,concept/doubt,concept/fear,concept/honour,concept/hope,concept/nature,concept/revenge,concept/self,setting/court,setting/germany,character/ferdinand,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -1409,7 +1409,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="THE PICCOLOMINI — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="THE PICCOLOMINI — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/night,motif/time"></span>
 
 
 | Speaker | Line |
@@ -1423,7 +1423,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="THE PICCOLOMINI — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="THE PICCOLOMINI — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/crown,motif/jewel,motif/nature,motif/road,motif/soul,motif/time,concept/faith,concept/honour,concept/hope,concept/nature,concept/self,setting/court"></span>
 
 
 | Speaker | Line |
@@ -1460,7 +1460,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="THE PICCOLOMINI — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="THE PICCOLOMINI — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/horse,motif/love,motif/night,motif/soul,motif/spring,motif/stars,motif/time,motif/well,concept/faith"></span>
 
 
 | Speaker | Line |
@@ -1504,7 +1504,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="THE PICCOLOMINI — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="THE PICCOLOMINI — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/villain,motif/night,motif/time,motif/well,setting/court"></span>
 
 
 | Speaker | Line |
@@ -1557,7 +1557,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="THE PICCOLOMINI — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="THE PICCOLOMINI — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/ambition,concept/fear,concept/friendship,concept/honour,concept/nature,concept/revenge,concept/self,concept/union,setting/court"></span>
 
 
 | Speaker | Line |
@@ -1635,7 +1635,7 @@ Coleridge's blank-verse translation of Schiller's Wallenstein I, set in the Thir
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="THE PICCOLOMINI — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="THE PICCOLOMINI — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/blood,motif/death,motif/love,motif/nature,motif/soul,motif/tears,motif/time,concept/despair,concept/doubt,concept/faith,concept/honour,concept/hope,concept/madness,concept/nature,concept/self,concept/suffering,concept/truth"></span>
 
 
 | Speaker | Line |

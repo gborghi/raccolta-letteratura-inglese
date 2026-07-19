@@ -2124,7 +2124,7 @@ The narrative concerns Sir Charles Baskerville, who is found lying dead on the g
 
 
 
-<span class="atom-split" data-atom="story_01_adventure_ii_the_yellow_face" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure II. The Yellow Face" data-chapter="Adventure II The Yellow Face" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_adventure_ii_the_yellow_face" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure II. The Yellow Face" data-chapter="Adventure II The Yellow Face" data-kind="story" data-tags="archetype/detective,motif/city,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure II. The Yellow Face
@@ -2284,7 +2284,7 @@ Not another word did he say of the case until late that night, when he was turni
 
 
 
-<span class="atom-split" data-atom="story_02_adventure_iii_the_stock_brokers_clerk" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure III. The Stock-Broker’s Clerk" data-chapter="Adventure III The Stock Brokers Clerk" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_adventure_iii_the_stock_brokers_clerk" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure III. The Stock-Broker’s Clerk" data-chapter="Adventure III The Stock Brokers Clerk" data-kind="story" data-tags="archetype/villain,motif/city,motif/journey,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure III. The Stock-Broker’s Clerk
@@ -2483,7 +2483,7 @@ It appeared from its position in the paper to have been the one event of importa
 
 
 
-<span class="atom-split" data-atom="story_03_adventure_iv_the_gloria_scott" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure IV. The “Gloria Scott”" data-chapter="Adventure IV The Gloria Scott" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_adventure_iv_the_gloria_scott" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure IV. The “Gloria Scott”" data-chapter="Adventure IV The Gloria Scott" data-kind="story" data-tags="concept/friendship,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure IV. The “Gloria Scott”
@@ -2635,7 +2635,7 @@ I had often endeavored to elicit from my companion what had first turned his min
 
 
 
-<span class="atom-split" data-atom="story_04_adventure_v_the_musgrave_ritual" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure V. The Musgrave Ritual" data-chapter="Adventure V The Musgrave Ritual" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_adventure_v_the_musgrave_ritual" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure V. The Musgrave Ritual" data-chapter="Adventure V The Musgrave Ritual" data-kind="story" data-tags="archetype/villain,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure V. The Musgrave Ritual
@@ -2780,7 +2780,7 @@ I had heard him mention the case more than once, though I had never been able to
 
 
 
-<span class="atom-split" data-atom="story_05_adventure_vi_the_reigate_puzzle" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VI. The Reigate Puzzle" data-chapter="Adventure VI The Reigate Puzzle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_adventure_vi_the_reigate_puzzle" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VI. The Reigate Puzzle" data-chapter="Adventure VI The Reigate Puzzle" data-kind="story" data-tags="archetype/villain,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure VI. The Reigate Puzzle
@@ -2981,7 +2981,7 @@ the matter.
 
 
 
-<span class="atom-split" data-atom="story_06_adventure_vii_the_crooked_man" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VII. The Crooked Man" data-chapter="Adventure VII The Crooked Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_adventure_vii_the_crooked_man" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VII. The Crooked Man" data-chapter="Adventure VII The Crooked Man" data-kind="story" data-tags="motif/journey,character/sherlock_holmes"></span>
 
 
 Adventure VII. The Crooked Man
@@ -3117,7 +3117,7 @@ We were in time to overtake the major before he reached the corner.
 
 
 
-<span class="atom-split" data-atom="story_07_adventure_viii_the_resident_patient" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VIII. The Resident Patient" data-chapter="Adventure VIII The Resident Patient" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_adventure_viii_the_resident_patient" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure VIII. The Resident Patient" data-chapter="Adventure VIII The Resident Patient" data-kind="story" data-tags="setting/london,character/sherlock_holmes"></span>
 
 
 Adventure VIII. The Resident Patient
@@ -3319,7 +3319,7 @@ Such were the singular circumstances in connection with the Resident Patient and
 
 
 
-<span class="atom-split" data-atom="story_08_adventure_ix_the_greek_interpreter" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure IX. The Greek Interpreter" data-chapter="Adventure IX The Greek Interpreter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_adventure_ix_the_greek_interpreter" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure IX. The Greek Interpreter" data-chapter="Adventure IX The Greek Interpreter" data-kind="story" data-tags="archetype/detective,archetype/villain,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure IX. The Greek Interpreter
@@ -3507,7 +3507,7 @@ Months afterwards a curious newspaper cutting reached us from Buda-Pesth. It tol
 
 
 
-<span class="atom-split" data-atom="story_09_adventure_x_the_naval_treaty" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure X. The Naval Treaty" data-chapter="Adventure X The Naval Treaty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_adventure_x_the_naval_treaty" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure X. The Naval Treaty" data-chapter="Adventure X The Naval Treaty" data-kind="story" data-tags="archetype/detective,archetype/villain,motif/journey,setting/london,character/sherlock_holmes"></span>
 
 
 Adventure X. The Naval Treaty
@@ -3892,7 +3892,7 @@ Percy Phelps sank back in his chair. “My head whirls,” said he. “Your word
 
 
 
-<span class="atom-split" data-atom="story_10_adventure_xi_the_final_problem" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure XI. The Final Problem" data-chapter="Adventure XI The Final Problem" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_adventure_xi_the_final_problem" data-title="THE MEMOIRS OF SHERLOCK HOLMES — Adventure XI. The Final Problem" data-chapter="Adventure XI The Final Problem" data-kind="story" data-tags="motif/city,motif/journey,setting/london,character/professor_moriarty,character/sherlock_holmes"></span>
 
 
 Adventure XI. The Final Problem

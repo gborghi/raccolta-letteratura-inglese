@@ -20415,7 +20415,7 @@ from her.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Great Expectations — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Great Expectations — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/chains,motif/grave,motif/home,motif/memory,motif/night,motif/river,motif/time,motif/water,motif/wind,concept/body,concept/hope,concept/identity,form/inscription,character/joe_gargery"></span>
 
 
 Chapter I.
@@ -20628,7 +20628,7 @@ him. But now I was frightened again, and ran [[Home|home]] without stopping.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Great Expectations — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Great Expectations — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/rose,motif/time,motif/well,concept/wonder,character/joe_gargery"></span>
 
 
 Chapter II.
@@ -20757,7 +20757,7 @@ loaf, hewed into two halves, of which Joe got one, and I the other.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Great Expectations — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Great Expectations — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/swallow,motif/time,motif/water,concept/conscience,concept/mercy,concept/wonder"></span>
 
 
 On the present occasion, though I was hungry, I dared not eat my slice.
@@ -20873,7 +20873,7 @@ ever did?
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Great Expectations — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Great Expectations — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/chains,motif/clock,motif/cross,motif/dawn,motif/home,motif/night,motif/prison,motif/river,motif/rose,motif/sleep,motif/spring,motif/time,motif/water,motif/well,motif/window,concept/conscience,concept/hope,concept/wonder"></span>
 
 
 It was Christmas Eve, and I had to stir the pudding for next day, with
@@ -21006,7 +21006,7 @@ misty marshes.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Great Expectations — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Great Expectations — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/clock,motif/death,motif/home,motif/night,motif/pain,motif/river,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/conscience,concept/wonder,character/phantom,character/sunday"></span>
 
 
 Chapter III.
@@ -21233,7 +21233,7 @@ going.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Great Expectations — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Great Expectations — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/bells,motif/cross,motif/dust,motif/flowers,motif/home,motif/time,motif/water,motif/well,concept/conscience,concept/despair,concept/doubt,character/sunday"></span>
 
 
 Chapter IV.
@@ -21348,7 +21348,7 @@ opinion of this style!”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Great Expectations — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Great Expectations — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/bells,motif/cross,motif/time,motif/well,concept/aspiration,character/hamlet,character/richard,character/sunday"></span>
 
 
 I opened the door to the company,—making believe that it was a habit of
@@ -21469,7 +21469,7 @@ you had been born such, would you have been here now? Not you—”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Great Expectations — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Great Expectations — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/dance,motif/grave,motif/soul,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/hope"></span>
 
 
 “Unless in that form,” said Mr. Wopsle, nodding towards the dish.
@@ -21599,7 +21599,7 @@ pair of handcuffs to me, saying, “Here you are, look sharp, come on!”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Great Expectations — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Great Expectations — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/rose,motif/time,motif/well,concept/honour"></span>
 
 
 Chapter V.
@@ -21742,7 +21742,7 @@ turned pale on their account, poor wretches.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Great Expectations — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Great Expectations — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/double,motif/river,motif/time,motif/wind,concept/courage,concept/doubt,concept/hope"></span>
 
 
 At last, Joe’s job was done, and the ringing and roaring stopped. As
@@ -21848,7 +21848,7 @@ levelled when we all ran in.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Great Expectations — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Great Expectations — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/death,motif/fire,motif/prison,motif/river,motif/ship,motif/snow,motif/time,motif/water,concept/fear,setting/ship,character/bottom"></span>
 
 
 “Here are both men!” panted the sergeant, struggling at the [[Bottom|bottom]] of a
@@ -21974,7 +21974,7 @@ that two or three times we had to halt while they rested.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Great Expectations — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Great Expectations — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/chains,motif/death,motif/fire,motif/prison,motif/ship,motif/water,setting/ship"></span>
 
 
 After an hour or so of this travelling, we came to a rough wooden hut
@@ -22053,7 +22053,7 @@ with him.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Great Expectations — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Great Expectations — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/blood,motif/fire,motif/home,motif/journey,motif/love,motif/night,motif/prison,motif/ship,motif/time,concept/conscience,concept/fear,concept/hope,concept/self,concept/truth,setting/ship,character/bottom"></span>
 
 
 Chapter VI.
@@ -22128,7 +22128,7 @@ saving on exceptional occasions.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Great Expectations — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Great Expectations — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/orphan,motif/birds,motif/blood,motif/frost,motif/night,motif/prayer,motif/sleep,motif/time,motif/well,motif/winter,concept/body,concept/doubt,concept/hope,concept/revenge,concept/self,character/biddy,character/sunday"></span>
 
 
 Chapter VII.
@@ -22243,7 +22243,7 @@ J-O, Joes in it, Pip!”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Great Expectations — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Great Expectations — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/pride,concept/self,concept/truth"></span>
 
 
 I leaned over Joe, and, with the aid of my forefinger read him the
@@ -22382,7 +22382,7 @@ an’t us, Pip? Don’t cry, old chap!”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Great Expectations — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Great Expectations — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/rebel,motif/bells,motif/clock,motif/death,motif/fire,motif/frost,motif/home,motif/night,motif/road,motif/stars,motif/well,motif/wind,motif/window,concept/doubt,concept/fear,concept/hope"></span>
 
 
 When this little interruption was over, Joe resumed:—
@@ -22515,7 +22515,7 @@ Is the [[house]] afire?”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Great Expectations — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Great Expectations — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/lamb,motif/night,motif/stars,motif/water,motif/well,concept/doubt,concept/wonder,character/miss_havisham"></span>
 
 
 “And she is a she, I suppose?” said my sister. “Unless you call Miss
@@ -22600,7 +22600,7 @@ on earth I was expected to play at.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Great Expectations — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Great Expectations — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/nature,motif/night,motif/ship,motif/time,motif/water,motif/wind,motif/window,concept/nature,setting/court,setting/ship,character/miss_havisham"></span>
 
 
 Chapter VIII.
@@ -22717,7 +22717,7 @@ don’t you think so?”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Great Expectations — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Great Expectations — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/chains,motif/clock,motif/flowers,motif/prayer,motif/well,concept/fear,concept/self,character/miss_havisham,character/queen"></span>
 
 
 “It looks like it, miss.”
@@ -22867,7 +22867,7 @@ she said, when we had taken a good look at each other,—
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Great Expectations — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Great Expectations — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/grave,motif/home,motif/jewel,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/melancholy,character/estella,character/miss_havisham"></span>
 
 
 “Are you sullen and obstinate?”
@@ -23013,7 +23013,7 @@ room many hours.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Great Expectations — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Great Expectations — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/horse,motif/night,motif/tears,motif/time,motif/wind,concept/temptation,setting/court,character/estella,character/miss_havisham"></span>
 
 
 “You are to wait here, you boy,” said [[Estella]]; and disappeared and
@@ -23146,7 +23146,7 @@ bad way.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Great Expectations — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Great Expectations — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/time,motif/well,motif/window,concept/doubt,concept/honour,character/estella,character/miss_havisham"></span>
 
 
 Chapter IX.
@@ -23289,7 +23289,7 @@ you play at, boy?”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Great Expectations — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Great Expectations — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/monster,motif/crown,motif/fire,motif/flag,motif/grave,motif/night,motif/stars,motif/well,motif/window,concept/doubt,concept/hope,character/estella,character/miss_havisham"></span>
 
 
 “We played with flags,” I said. (I beg to observe that I think of
@@ -23425,7 +23425,7 @@ it.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Great Expectations — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Great Expectations — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/flag,motif/flowers,motif/well,concept/hope,character/estella,character/miss_havisham"></span>
 
 
 There was some [[Hope|hope]] in this piece of wisdom, and it rather encouraged
@@ -23477,7 +23477,7 @@ formation of the first link on one memorable day.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Great Expectations — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Great Expectations — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/chalk,motif/fire,motif/home,motif/leaves,motif/night,motif/sleep,motif/time,motif/well,motif/winter,concept/truth,character/biddy,character/chorus"></span>
 
 
 Chapter X.
@@ -23589,7 +23589,7 @@ drinking at anybody’s expense but my own.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Great Expectations — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Great Expectations — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/leaves,motif/night,motif/river,motif/rose,motif/sleep,motif/water,motif/well,concept/doubt,character/miss_havisham,character/richard"></span>
 
 
 “Habit? No,” returned the stranger, “but once and away, and on a
@@ -23772,7 +23772,7 @@ held it, and I screamed myself awake.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Great Expectations — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Great Expectations — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/clock,motif/fire,motif/garden,motif/love,motif/night,motif/snow,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/mercy,character/estella,character/miss_havisham"></span>
 
 
 Chapter XI.
@@ -23892,7 +23892,7 @@ manner, with her face quite close to mine,—
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Great Expectations — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Great Expectations — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/monster,motif/dust,motif/fire,motif/grave,motif/home,motif/pain,motif/time,motif/well,character/estella,character/miss_havisham,character/witch"></span>
 
 
 “[[Well]]?”
@@ -24043,7 +24043,7 @@ stick; “that, where those cobwebs are?”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Great Expectations — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Great Expectations — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/suffering,character/estella,character/miss_havisham,character/speed"></span>
 
 
 She looked all round the room in a glaring manner, and then said,
@@ -24172,7 +24172,7 @@ influence in bringing Camilla’s chemistry to a sudden end.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Great Expectations — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Great Expectations — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/decay,motif/fire,motif/garden,motif/love,motif/night,motif/time,motif/window,concept/beauty,concept/melancholy,character/estella,character/miss_havisham"></span>
 
 
 “Matthew will come and see me at last,” said [[Miss Havisham]], sternly,
@@ -24303,7 +24303,7 @@ spell.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Great Expectations — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Great Expectations — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/garden,motif/home,motif/night,motif/road,motif/time,motif/water,concept/hope,character/estella"></span>
 
 
 “Stop a minute, though,” he said, wheeling round before we had gone
@@ -24403,7 +24403,7 @@ against a black [[Night|night]]-sky, and Joe’s furnace was flinging a path of
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Great Expectations — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Great Expectations — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/garden,motif/grave,motif/home,motif/night,motif/noon,motif/sleep,motif/wind,concept/guilt,concept/hope,concept/imagination,concept/mercy,concept/pride,setting/london,character/estella,character/miss_havisham,character/pistol"></span>
 
 
 Chapter XII.
@@ -24512,7 +24512,7 @@ the grim old [[house]] than the lightest breath of [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Great Expectations — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Great Expectations — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/fire,motif/home,motif/night,motif/soul,motif/tears,motif/time,concept/doubt,concept/honour,concept/hope,concept/self,character/biddy,character/estella,character/joe_gargery,character/miss_havisham"></span>
 
 
 What could I become with these surroundings? How could my character
@@ -24632,7 +24632,7 @@ been a better speculation.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Great Expectations — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Great Expectations — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/chalk,motif/crown,motif/noon,motif/time,motif/well,concept/wonder,form/sketch,setting/court,character/cleopatra,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XIII.
@@ -24760,7 +24760,7 @@ persisted in addressing me.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Great Expectations — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Great Expectations — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/villain,motif/fire,motif/well,concept/guilt,concept/truth,concept/wonder,setting/court,character/estella,character/miss_havisham"></span>
 
 
 “This is wery liberal on your part, Pip,” said Joe, “and it is as such
@@ -24916,7 +24916,7 @@ entitled TO BE READ IN MY CELL.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Great Expectations — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Great Expectations — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/pilgrim,motif/home,motif/road,motif/sleep,motif/time,concept/imprisonment,concept/melancholy"></span>
 
 
 The Hall was a queer place, I thought, with higher pews in it than a
@@ -24977,7 +24977,7 @@ Joe’s trade. I had liked it once, but once was not now.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Great Expectations — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Great Expectations — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/dust,motif/fire,motif/home,motif/night,motif/road,motif/time,motif/well,motif/wind,concept/endurance,concept/fear,concept/self,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XIV.
@@ -25059,7 +25059,7 @@ have a more homely look than ever, and I would feel more ashamed of
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Great Expectations — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Great Expectations — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/desire,motif/river,motif/time,motif/water,motif/well,concept/conscience,concept/education,concept/hope,character/biddy,character/bottom,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XV.
@@ -25198,7 +25198,7 @@ leave, and you can’t help yourself—”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Great Expectations — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Great Expectations — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/fire,motif/night,motif/time,motif/well,concept/body,character/cain,character/miss_havisham"></span>
 
 
 “My dear Joe,” I cried, in desperation, taking hold of his coat, “don’t
@@ -25338,7 +25338,7 @@ me! Oh!”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Great Expectations — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Great Expectations — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/home,motif/night,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/hope,concept/providence,concept/self,form/tragedy,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 “Ah-h-h!” growled the journeyman, between his teeth, “I’d hold you, if
@@ -25469,7 +25469,7 @@ I could only induce one to have the weakness to become my benefactor.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Great Expectations — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Great Expectations — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/fire,motif/garden,motif/home,motif/night,motif/river,motif/rose,motif/silence,motif/well,motif/wind,form/tragedy,character/joe_gargery"></span>
 
 
 It was a very dark [[Night|night]] when it was all over, and when I set out with
@@ -25556,7 +25556,7 @@ while she was the wife of Joe.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Great Expectations — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Great Expectations — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/child,motif/childhood,motif/clock,motif/desire,motif/fire,motif/home,motif/memory,motif/night,motif/prison,motif/time,concept/doubt,setting/london,character/biddy"></span>
 
 
 Chapter XVI.
@@ -25742,7 +25742,7 @@ if he knew no more than I did what to make of it.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Great Expectations — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Great Expectations — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/night,motif/river,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/self,character/biddy,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XVII.
@@ -25869,7 +25869,7 @@ and place for the admission of [[Biddy]] into my inner confidence.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Great Expectations — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Great Expectations — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/night,motif/river,motif/rose,motif/tears,motif/time,motif/well,concept/madness,character/biddy,character/miss_havisham,character/sunday"></span>
 
 
 “[[Biddy]],” said I, after binding her to secrecy, “I want to be a
@@ -25997,7 +25997,7 @@ little farther, or go [[Home|home]]?”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Great Expectations — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Great Expectations — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/home,motif/love,motif/night,motif/pain,motif/seasons,motif/summer,motif/time,motif/well,concept/doubt,concept/self,form/novel,character/biddy,character/estella"></span>
 
 
 I said to [[Biddy]] we would walk a little farther, and we did so, and the
@@ -26124,7 +26124,7 @@ brought to a premature end, as I proceed to relate.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Great Expectations — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Great Expectations — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/blood,motif/cross,motif/fire,motif/night,motif/prayer,motif/time,motif/well,concept/conscience,concept/courage,concept/doubt,concept/honour,character/bottom,character/coriolanus,character/timon"></span>
 
 
 Chapter XVIII.
@@ -26271,7 +26271,7 @@ his right.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Great Expectations — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Great Expectations — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/home,motif/silence,motif/time,motif/well,setting/london,character/miss_havisham"></span>
 
 
 “From information I have received,” said he, looking round at us as we
@@ -26408,7 +26408,7 @@ to mention it. Speak out.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Great Expectations — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Great Expectations — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/time,motif/well,concept/education,concept/honour,setting/london,character/biddy,character/miss_havisham"></span>
 
 
 Once more, I stammered with difficulty that I had no objection.
@@ -26551,7 +26551,7 @@ pugilistic purpose.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Great Expectations — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Great Expectations — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/night,motif/silence,motif/stars,motif/summer,motif/time,motif/well,concept/doubt,concept/wonder,setting/london,character/biddy"></span>
 
 
 “Which I meantersay,” cried Joe, “that if you come into my place
@@ -26679,7 +26679,7 @@ would be very disagreeable to be stared at by all the people here.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="Great Expectations — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="Great Expectations — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/night,motif/sleep,motif/time,motif/window,character/biddy,character/estella,character/miss_havisham"></span>
 
 
 “Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
@@ -26740,7 +26740,7 @@ bed now, and I never slept the old sound [[Sleep|sleep]] in it any more.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Great Expectations — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Great Expectations — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/fire,motif/garden,motif/home,motif/time,motif/well,concept/greatness,concept/hope,concept/sublime,setting/london,character/biddy,character/estella,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XIX.
@@ -26875,7 +26875,7 @@ never considered that he may be proud?”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Great Expectations — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Great Expectations — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/honour,concept/hope,concept/nature,concept/pride,concept/truth,setting/london,character/biddy"></span>
 
 
 “Proud?” I repeated, with disdainful emphasis.
@@ -27006,7 +27006,7 @@ it. Good-morning, sir, much obliged.—Door!”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Great Expectations — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Great Expectations — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clock,motif/time,motif/well,motif/window,concept/honour,concept/hope"></span>
 
 
 The last word was flung at the boy, who had not the least notion what
@@ -27131,7 +27131,7 @@ sensible, practical, good-hearted prime fellow.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Great Expectations — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Great Expectations — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/road,motif/time,motif/well,motif/wind,concept/self,setting/london,character/miss_havisham,character/sunday"></span>
 
 
 By degrees he fell to reposing such great confidence in me, as to ask
@@ -27257,7 +27257,7 @@ go to-morrow?”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_05" data-title="Great Expectations — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_05" data-title="Great Expectations — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/birds,motif/dust,motif/fire,motif/home,motif/night,motif/road,motif/sleep,motif/tears,motif/well,motif/window,concept/truth,setting/london,character/biddy,character/miss_havisham"></span>
 
 
 She quite gloated on these questions and answers, so keen was her
@@ -27373,7 +27373,7 @@ THIS IS THE END OF THE FIRST STAGE OF PIP’S EXPECTATIONS.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Great Expectations — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Great Expectations — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/cross,motif/dust,motif/home,motif/horse,motif/journey,motif/prison,motif/summer,motif/time,concept/doubt,concept/history,concept/temptation,concept/wonder,form/history,setting/court,setting/london,character/pistol,character/speed"></span>
 
 
 Chapter XX.
@@ -27495,7 +27495,7 @@ and beer, I inferred that the trials were on.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Great Expectations — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Great Expectations — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/crown,motif/road,motif/time,motif/well,setting/london,character/lord_chief_justice,character/mr_jaggers"></span>
 
 
 While I looked about me here, an exceedingly dirty and partially drunk
@@ -27633,7 +27633,7 @@ no object!—Mithter Jaggerth—Mithter—!”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Great Expectations — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Great Expectations — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,motif/window"></span>
 
 
 My guardian threw his supplicant off with supreme indifference, and
@@ -27742,7 +27742,7 @@ and went on side by side.
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Great Expectations — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Great Expectations — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="motif/blood,motif/cross,motif/decay,motif/dust,motif/garden,motif/hill,motif/home,motif/soul,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,concept/self,concept/suicide,setting/london"></span>
 
 
 Chapter XXI.
@@ -27953,7 +27953,7 @@ knew to be in mine, and he said, falling back,—
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Great Expectations — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Great Expectations — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/time,motif/well,concept/hope,concept/revenge,character/estella,character/herbert_pocket,character/miss_havisham"></span>
 
 
 Chapter XXII.
@@ -28097,7 +28097,7 @@ understand you.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Great Expectations — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Great Expectations — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/madness,setting/london,character/bottom,character/lord_mayor,character/miss_havisham"></span>
 
 
 “Would you mind Handel for a familiar name? There’s a charming piece of
@@ -28227,7 +28227,7 @@ never seen her since.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Great Expectations — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Great Expectations — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/city,motif/marriage,concept/hope,concept/truth,concept/wonder,character/estella,character/herbert_pocket,character/miss_havisham"></span>
 
 
 I thought of her having said, “Matthew will come and see me at last
@@ -28372,7 +28372,7 @@ you look about you.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Great Expectations — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Great Expectations — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dust,motif/garden,motif/home,motif/night,motif/noon,motif/river,motif/time,motif/well,concept/doubt,concept/hope,concept/poverty,setting/london,character/biddy,character/nurse,character/sunday"></span>
 
 
 It struck me as a singular implication that you couldn’t be out of a
@@ -28529,7 +28529,7 @@ didn’t quite see his way to putting anything straight.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Great Expectations — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Great Expectations — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/tears,motif/time,motif/water,concept/honour,concept/hope,concept/nature,concept/self,setting/london"></span>
 
 
 Chapter XXIII.
@@ -28643,7 +28643,7 @@ minutes); if they were all like Me, it would be quite another thing.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Great Expectations — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Great Expectations — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/garden,motif/time,concept/self"></span>
 
 
 “But dear Mrs. Pocket,” said Mrs. Coiler, “after her early
@@ -28770,7 +28770,7 @@ save them?”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Great Expectations — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Great Expectations — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/nature,motif/night,motif/river,motif/soul,motif/time,motif/window,concept/despair,concept/doubt,concept/honour,concept/hope,concept/nature"></span>
 
 
 “I will not be interfered with by Jane,” said Mrs. Pocket, with a
@@ -28878,7 +28878,7 @@ to bed and leave him.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Great Expectations — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Great Expectations — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/doubt,setting/london"></span>
 
 
 Chapter XXIV.
@@ -29029,7 +29029,7 @@ the other two gentlemen, for Mr. Jaggers’s own use.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Great Expectations — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Great Expectations — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/cross,motif/dust,motif/garden,motif/horse,motif/night,motif/sleep,motif/summer,motif/time,motif/well,concept/honour,setting/court"></span>
 
 
 This was all the establishment. When we went downstairs again, Wemmick
@@ -29148,7 +29148,7 @@ representative of British law and justice in that chair that day.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Great Expectations — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Great Expectations — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/night,motif/road,motif/soul,motif/water,motif/well,motif/window,concept/education,concept/hope,setting/london,character/miss_havisham"></span>
 
 
 Chapter XXV.
@@ -29271,7 +29271,7 @@ for [[Love|love]] or money.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Great Expectations — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Great Expectations — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/flag,motif/garden,motif/nature,motif/night,motif/river,motif/road,motif/time,motif/water,motif/well,concept/greatness,concept/nature,concept/pride,setting/castle"></span>
 
 
 “They dread him so much?” said I.
@@ -29404,7 +29404,7 @@ pitch of perfection.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Great Expectations — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Great Expectations — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/night,motif/time,motif/window,concept/faith,concept/hope,setting/castle"></span>
 
 
 “Is it your own, Mr. Wemmick?”
@@ -29480,7 +29480,7 @@ Stinger.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Great Expectations — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Great Expectations — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/wheel,motif/window,form/biography,setting/court,character/macbeth"></span>
 
 
 Chapter XXVI.
@@ -29600,7 +29600,7 @@ behind a bowl of flaming spirits in a dark room.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Great Expectations — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Great Expectations — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well"></span>
 
 
 Induced to take particular notice of the housekeeper, both by her own
@@ -29730,7 +29730,7 @@ to be immensely amused at his being so weak as to lend it.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Great Expectations — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Great Expectations — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/night,motif/rose,motif/time,motif/water"></span>
 
 
 Drummle laughed outright, and sat laughing in our faces, with his hands
@@ -29798,7 +29798,7 @@ went [[Home|home]] to the family hole.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Great Expectations — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Great Expectations — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/avenger,archetype/king,archetype/monster,motif/clock,motif/love,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/slavery,concept/wonder,setting/london,character/biddy,character/phantom"></span>
 
 
 Chapter XXVII.
@@ -29923,7 +29923,7 @@ egg with his right; “if no offence, as I would ’and you that.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Great Expectations — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Great Expectations — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/avenger,archetype/ghost,motif/city,motif/fire,motif/nature,motif/time,concept/hope,concept/nature,concept/suffering,setting/london,character/chorus"></span>
 
 
 I took what Joe gave me, and found it to be the crumpled play-bill of a
@@ -30050,7 +30050,7 @@ were, I was conscious of a sort of dignity in the look.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Great Expectations — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Great Expectations — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/time,motif/well,motif/window,concept/honour,concept/hope,setting/london,character/biddy,character/estella,character/miss_havisham"></span>
 
 
 “Us two being now [[Alone|alone]],” resumed Joe, “and me having the intentions
@@ -30153,7 +30153,7 @@ neighbouring streets; but he was gone.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Great Expectations — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Great Expectations — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/avenger,motif/animals,motif/clock,motif/cross,motif/crown,motif/night,motif/road,motif/time,motif/well,motif/winter,concept/self,setting/london"></span>
 
 
 Chapter XXVIII.
@@ -30266,7 +30266,7 @@ there.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Great Expectations — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Great Expectations — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/fool,archetype/mentor,motif/childhood,motif/memory,motif/nature,motif/prison,motif/river,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/fear,concept/honour,concept/identity,concept/nature,concept/solitude"></span>
 
 
 “And don’t blame _me_,” growled the convict I had recognised. “_I_
@@ -30417,7 +30417,7 @@ fortunes.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Great Expectations — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Great Expectations — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,archetype/shadow,motif/love,motif/time,motif/well,motif/window,concept/hope,concept/truth,setting/paris,character/estella,character/miss_havisham"></span>
 
 
 Chapter XXIX.
@@ -30558,7 +30558,7 @@ your way, sir?”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Great Expectations — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Great Expectations — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/nature,motif/night,motif/time,motif/well,motif/wheel,motif/window,concept/beauty,concept/conscience,concept/doubt,concept/nature,setting/london,character/estella,character/miss_havisham,character/queen"></span>
 
 
 Tolerably, for I had gone up the staircase in the dark, many a [[Time|time]]. I
@@ -30699,7 +30699,7 @@ so set apart for her and assigned to her.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Great Expectations — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Great Expectations — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/ghost,motif/childhood,motif/flowers,motif/garden,motif/grave,motif/love,motif/memory,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,character/estella,character/miss_havisham"></span>
 
 
 The [[Garden|garden]] was too overgrown and rank for walking in with ease, and
@@ -30820,7 +30820,7 @@ her, [[Love|love]] her, [[Love|love]] her!”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Great Expectations — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Great Expectations — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/death,motif/love,motif/night,motif/rose,motif/secrets,motif/soul,motif/time,motif/well,concept/despair,concept/doubt,concept/revenge,concept/self,character/estella,character/miss_havisham"></span>
 
 
 Never had I seen such passionate eagerness as was joined to her
@@ -30956,7 +30956,7 @@ take notice that it was of no use, for he couldn’t answer.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_05" data-title="Great Expectations — Chapter 29 (part 5)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_05" data-title="Great Expectations — Chapter 29 (part 5)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/nature,motif/night,motif/tears,concept/madness,concept/nature,setting/london,character/estella,character/miss_havisham"></span>
 
 
 I think Miss Pocket was conscious that the sight of me involved her in
@@ -31010,7 +31010,7 @@ forgive me! soon dried.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Great Expectations — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Great Expectations — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/road,motif/soul,motif/time,motif/well,concept/body,concept/mercy,setting/london,character/miss_havisham"></span>
 
 
 Chapter XXX.
@@ -31118,7 +31118,7 @@ went on to Barnard’s Inn.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Great Expectations — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Great Expectations — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/avenger,motif/clock,motif/fire,motif/horse,motif/love,motif/time,motif/well,concept/doubt,concept/truth,setting/london,character/estella"></span>
 
 
 I found Herbert dining on cold meat, and delighted to welcome me back.
@@ -31251,7 +31251,7 @@ moment,—positively repulsive.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Great Expectations — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Great Expectations — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="topos/quest,motif/desire,motif/fire,motif/grave,motif/marriage,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/honour,concept/nature,concept/self,concept/union,setting/denmark,setting/london,character/estella,character/miss_havisham"></span>
 
 
 “You won’t succeed,” said I.
@@ -31402,7 +31402,7 @@ of Mr. Wopsle and [[Denmark]].
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Great Expectations — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Great Expectations — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,archetype/king,motif/death,motif/grave,motif/time,motif/well,concept/body,concept/doubt,concept/madness,concept/mortality,form/tragedy,setting/court,setting/denmark,character/laertes,character/ophelia,character/phantom,character/queen"></span>
 
 
 Chapter XXXI.
@@ -31505,7 +31505,7 @@ said to Herbert, “Let us go at once, or perhaps we shall meet him.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Great Expectations — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Great Expectations — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/clock,motif/fire,motif/grave,motif/home,motif/marriage,motif/night,motif/time,concept/despair,concept/doubt,concept/honour,concept/hope,concept/identity,setting/denmark,character/claudius,character/estella,character/hamlet,character/miss_havisham,character/queen"></span>
 
 
 We made all the haste we could downstairs, but we were not quick enough
@@ -31637,7 +31637,7 @@ twenty words of it.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Great Expectations — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Great Expectations — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/night,motif/prison,motif/road,motif/soul,motif/time,motif/well,concept/body,setting/castle,setting/london,character/estella,character/miss_havisham"></span>
 
 
 Chapter XXXII.
@@ -31759,7 +31759,7 @@ without the preparation, as he had shaken hands with no one yet.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Great Expectations — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Great Expectations — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/dust,motif/prison,motif/soul,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/body,concept/imprisonment,concept/truth,character/estella"></span>
 
 
 Almost as soon as he had spoken, a portly upright man (whom I can see
@@ -31895,7 +31895,7 @@ passed?
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Great Expectations — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Great Expectations — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/dust,motif/grave,motif/mirror,motif/night,motif/time,motif/well,concept/doubt,concept/hope,concept/jealousy,character/estella,character/miss_havisham"></span>
 
 
 Chapter XXXIII.
@@ -32030,7 +32030,7 @@ that look of hers for all my expectations in a heap.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Great Expectations — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Great Expectations — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/city,motif/lightning,motif/pain,motif/secrets,motif/water,motif/well,concept/hope,concept/suffering,concept/wonder,setting/london,character/estella,character/miss_havisham"></span>
 
 
 “Two things I can tell you,” said [[Estella]]. “First, notwithstanding the
@@ -32167,7 +32167,7 @@ nearly all mine now.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Great Expectations — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Great Expectations — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/night,motif/time,motif/well,setting/court,character/estella"></span>
 
 
 It was the first [[Time|time]] she had ever called me by my name. Of course she
@@ -32218,7 +32218,7 @@ sovereign remedy for baby, I thought—[[Well]]—No, I wouldn’t.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Great Expectations — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Great Expectations — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/avenger,motif/city,motif/clock,motif/dance,motif/fire,motif/garden,motif/home,motif/nature,motif/night,motif/seasons,motif/time,motif/well,concept/conscience,concept/honour,concept/nature,concept/truth,histref/america,setting/america,character/biddy,character/estella"></span>
 
 
 Chapter XXXIV.
@@ -32339,7 +32339,7 @@ an opening won’t come to one, but one must go to it,—so I have been.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Great Expectations — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Great Expectations — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/avenger,motif/clock,motif/time,motif/well,concept/freedom,concept/hope,concept/self"></span>
 
 
 If we had been less attached to one another, I think we must have hated
@@ -32463,7 +32463,7 @@ interment on Monday next at three o’[[Clock|clock]] in the afternoon.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Great Expectations — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Great Expectations — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/monster,motif/dance,motif/death,motif/fire,motif/grave,motif/horse,motif/leaves,motif/memory,motif/night,motif/road,motif/summer,motif/time,motif/well,concept/wonder,character/biddy"></span>
 
 
 Chapter XXXV.
@@ -32580,7 +32580,7 @@ his comrade.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Great Expectations — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Great Expectations — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/desire,motif/garden,motif/nature,motif/river,motif/sleep,motif/time,motif/well,motif/wind,concept/honour,concept/hope,concept/nature,concept/pride,character/biddy,character/sunday"></span>
 
 
 The neighbourhood, however, highly approved of these arrangements, and
@@ -32700,7 +32700,7 @@ when we laid it down on her own bed, because we found she was gone.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Great Expectations — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Great Expectations — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/silence,motif/soul,motif/stars,motif/time,motif/well,concept/despair,concept/nature,concept/self,character/biddy"></span>
 
 
 [[Biddy]] cried; the darkening [[Garden|garden]], and the lane, and the [[Stars|stars]] that
@@ -32809,7 +32809,7 @@ me, as I suspect they did, that I should _not_ come back, and that
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Great Expectations — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Great Expectations — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/fire,motif/time,motif/well,concept/hope"></span>
 
 
 Chapter XXXVI.
@@ -32957,7 +32957,7 @@ again?”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Great Expectations — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Great Expectations — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/time,motif/well,concept/jealousy,concept/melancholy,setting/london,character/estella,character/miss_havisham"></span>
 
 
 “What is it?” said he.
@@ -33133,7 +33133,7 @@ forgotten the details of it, he felt so dejected and guilty.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Great Expectations — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Great Expectations — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/city,motif/home,motif/soul,motif/well,concept/hope,concept/union,setting/castle,setting/london,character/herbert_pocket,character/miss_havisham,character/sunday"></span>
 
 
 Chapter XXXVII.
@@ -33267,7 +33267,7 @@ brought me here.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Great Expectations — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Great Expectations — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/desire,motif/fire,motif/flag,motif/home,motif/moon,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/nature,setting/castle,character/estella,character/sunday"></span>
 
 
 Wemmick was silent for a little while, and then said with a kind of
@@ -33427,7 +33427,7 @@ much to give to the theme that so long filled my heart.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Great Expectations — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Great Expectations — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/water,motif/window,concept/beauty,concept/body,concept/doubt,concept/jealousy,concept/nature,concept/pride,character/estella,character/miss_havisham,character/witch"></span>
 
 
 Chapter XXXVIII.
@@ -33556,7 +33556,7 @@ very spectre.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Great Expectations — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Great Expectations — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/love,motif/memory,motif/pain,motif/time,motif/well,concept/jealousy,concept/revenge,concept/self,concept/truth,character/estella,character/miss_havisham"></span>
 
 
 I saw in this, wretched though it made me, and bitter the sense of
@@ -33680,7 +33680,7 @@ with both her hands.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Great Expectations — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Great Expectations — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/fire,motif/garden,motif/love,motif/night,motif/silence,motif/sleep,motif/time,concept/courage,concept/fear,concept/wonder,character/bottom,character/estella,character/miss_havisham"></span>
 
 
 “Who taught me to be proud?” returned [[Estella]]. “Who praised me when I
@@ -33802,7 +33802,7 @@ he called upon the company to pledge him to “[[Estella]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Great Expectations — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Great Expectations — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/flowers,motif/home,motif/insects,motif/love,motif/night,motif/pain,motif/rose,motif/sleep,motif/time,motif/well,concept/beauty,concept/doubt,concept/greatness,concept/honour,setting/court,character/estella"></span>
 
 
 “[[Estella]] who?” said I.
@@ -33943,7 +33943,7 @@ roll of addle-headed predecessors; now, don’t you?”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_05" data-title="Great Expectations — Chapter 38 (part 5)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_05" data-title="Great Expectations — Chapter 38 (part 5)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/doubt,character/estella,character/miss_havisham"></span>
 
 
 “[[Well]]?” said she again; and each [[Time|time]] she said it, she opened her
@@ -34013,7 +34013,7 @@ me.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Great Expectations — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Great Expectations — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/garden,motif/journey,motif/night,motif/river,motif/storm,motif/time,motif/wind,concept/eternity,concept/hope,setting/court,setting/london"></span>
 
 
 Chapter XXXIX.
@@ -34137,7 +34137,7 @@ to me.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Great Expectations — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Great Expectations — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/night,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/identity,concept/self"></span>
 
 
 He stopped in his looking at me, and slowly rubbed his right hand over
@@ -34273,7 +34273,7 @@ the ashes into the tray.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Great Expectations — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Great Expectations — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/rose,motif/soul,motif/time,motif/well,concept/beauty,concept/hope,concept/self,concept/truth,concept/wonder,setting/london"></span>
 
 
 “May I make so bold,” he said then, with a smile that was like a frown,
@@ -34401,7 +34401,7 @@ thoughts on?”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Great Expectations — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Great Expectations — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/death,motif/dust,motif/fire,motif/home,motif/night,motif/pain,motif/ship,motif/sleep,motif/well,motif/wind,setting/london,setting/ship,character/biddy,character/estella,character/miss_havisham,character/pistol"></span>
 
 
 O [[Estella]], [[Estella]]!
@@ -34559,7 +34559,7 @@ THIS IS THE END OF THE SECOND STAGE OF PIP’S EXPECTATIONS.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Great Expectations — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Great Expectations — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/avenger,archetype/innocent,motif/clock,motif/dust,motif/fire,motif/home,motif/night,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,concept/fear,concept/self,setting/court,character/bottom"></span>
 
 
 Chapter XL.
@@ -34681,7 +34681,7 @@ for—Him—to come to breakfast.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Great Expectations — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Great Expectations — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/fire,motif/night,motif/ship,motif/time,motif/well,concept/fear,concept/hope,concept/wonder,setting/london,setting/ship"></span>
 
 
 By and by, his door opened and he came out. I could not bring myself to
@@ -34832,7 +34832,7 @@ it!”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Great Expectations — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Great Expectations — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/well,concept/hope,concept/solitude,setting/court"></span>
 
 
 “Yes, but look’ee here,” he persisted. “Dear boy, I ain’t come so fur,
@@ -34961,7 +34961,7 @@ South Wales, you know.”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Great Expectations — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Great Expectations — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/night,motif/time,motif/water,concept/doubt,character/abel_magwitch"></span>
 
 
 “I will say, informed, Mr. Jaggers.”
@@ -35105,7 +35105,7 @@ private soldier.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="Great Expectations — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="Great Expectations — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/dreams,motif/fire,motif/time,motif/wind,concept/doubt"></span>
 
 
 I [[Doubt|doubt]] if a [[Ghost|ghost]] could have been more terrible to me, up in those
@@ -35167,7 +35167,7 @@ you!”
 
 
 
-<span class="atom-split" data-atom="chapter_41" data-title="Great Expectations — Chapter 41" data-chapter="Chapter 41" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_41" data-title="Great Expectations — Chapter 41" data-chapter="Chapter 41" data-kind="chapter" data-tags="motif/childhood,motif/city,motif/dreams,motif/fire,motif/garden,motif/night,motif/time,motif/well,concept/fear,concept/friendship,concept/history,concept/hope,concept/truth,form/history,setting/court"></span>
 
 
 Chapter XLI.
@@ -35421,7 +35421,7 @@ moments, looked round at us and said what follows.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Great Expectations — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Great Expectations — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/birds,motif/death,motif/fire,motif/flowers,motif/night,motif/prison,motif/soul,motif/time,motif/well,concept/hope,character/arthur"></span>
 
 
 Chapter XLII.
@@ -35550,7 +35550,7 @@ says she’ll put it on me at five in the morning.’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Great Expectations — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Great Expectations — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/fire,motif/hill,motif/home,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/guilt,concept/mercy,setting/court,character/arthur"></span>
 
 
 “Says Compeyson: ‘Why, you [[Fool|fool]], don’t you know she’s got a living
@@ -35666,7 +35666,7 @@ wiolent passion, likely to come to worse?”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Great Expectations — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Great Expectations — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/lover,motif/fire,motif/prison,motif/ship,motif/silence,motif/soul,setting/ship,character/arthur,character/miss_havisham"></span>
 
 
 He had worked himself into a state of great excitement, but he checked
@@ -35732,7 +35732,7 @@ stood smoking by the [[Fire|fire]].
 
 
 
-<span class="atom-split" data-atom="chapter_43" data-title="Great Expectations — Chapter 43" data-chapter="Chapter 43" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_43" data-title="Great Expectations — Chapter 43" data-chapter="Chapter 43" data-kind="chapter" data-tags="motif/blood,motif/dust,motif/fire,motif/home,motif/horse,motif/journey,motif/night,motif/prison,motif/road,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/doubt,concept/fear,concept/pride,character/estella,character/miss_havisham"></span>
 
 
 Chapter XLIII.
@@ -35979,7 +35979,7 @@ entered, never to have seen.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Great Expectations — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Great Expectations — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/nature,motif/time,motif/well,motif/wind,concept/history,concept/hope,concept/nature,concept/self,form/history,setting/london,character/estella,character/miss_havisham"></span>
 
 
 Chapter XLIV.
@@ -36121,7 +36121,7 @@ secret which is another person’s and not mine.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Great Expectations — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Great Expectations — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/marriage,motif/nature,motif/silence,motif/time,motif/well,concept/despair,concept/endurance,concept/hope,concept/nature,concept/truth,concept/wonder,character/estella,character/miss_havisham"></span>
 
 
 She gradually withdrew her eyes from me, and turned them on the [[Fire|fire]].
@@ -36257,7 +36257,7 @@ boy—or man?”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Great Expectations — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Great Expectations — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/memory,motif/night,motif/river,motif/tears,motif/time,motif/wind,concept/wonder,setting/london,character/estella,character/miss_havisham"></span>
 
 
 “O [[Estella]]!” I answered, as my bitter [[Tears|tears]] fell fast on her hand, do
@@ -36334,7 +36334,7 @@ his light, and read inside, in Wemmick’s writing,—
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Great Expectations — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Great Expectations — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/ghost,archetype/monster,motif/blood,motif/clock,motif/death,motif/dust,motif/garden,motif/home,motif/leaves,motif/night,motif/pain,motif/silence,motif/summer,motif/time,concept/body,setting/castle,character/bottom,character/estella"></span>
 
 
 Chapter XLV.
@@ -36446,7 +36446,7 @@ he added, winking, as she disappeared.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Great Expectations — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Great Expectations — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/garden,motif/river,motif/time,motif/well,motif/window,concept/doubt,concept/friendship,concept/truth,setting/court,setting/london,character/richard"></span>
 
 
 I thanked him for his [[Friendship|friendship]] and caution, and our discourse
@@ -36589,7 +36589,7 @@ did not trouble Wemmick with these particulars.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Great Expectations — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Great Expectations — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/river,motif/road,motif/time,motif/well,motif/window,character/richard"></span>
 
 
 “The [[house]] with the bow-[[Window|window]],” said Wemmick, “being by the
@@ -36667,7 +36667,7 @@ expected.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Great Expectations — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Great Expectations — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/clock,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/ship,motif/water,motif/well,motif/wind,motif/window,concept/education,concept/nature,setting/ship,character/gloucester,character/nurse"></span>
 
 
 Chapter XLVI.
@@ -36791,7 +36791,7 @@ I should think!”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Great Expectations — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Great Expectations — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/grave,motif/home,motif/night,motif/prison,motif/river,motif/rose,motif/silence,motif/time,motif/wind,motif/window,concept/doubt,concept/fear"></span>
 
 
 There was something so natural and winning in Clara’s resigned way of
@@ -36907,7 +36907,7 @@ here than near me. Good-bye!”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Great Expectations — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Great Expectations — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/night,motif/time,motif/water,motif/well,concept/hope,setting/cathedral,setting/court,setting/london,character/estella"></span>
 
 
 “Dear boy,” he answered, clasping my hands, “I don’t know when we may
@@ -36984,7 +36984,7 @@ swiftly, silently, and surely, to take him.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Great Expectations — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Great Expectations — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/home,motif/night,motif/prison,motif/river,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/honour,concept/hope,concept/solitude,concept/union,setting/castle,setting/london,setting/mountains,character/estella,character/lord_mayor"></span>
 
 
 Chapter XLVII.
@@ -37099,7 +37099,7 @@ me.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Great Expectations — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Great Expectations — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/clock,motif/fire,motif/home,motif/journey,motif/love,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/wonder,setting/castle"></span>
 
 
 The second piece was the last new grand comic Christmas pantomime, in
@@ -37255,7 +37255,7 @@ as I looked at anything else.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Great Expectations — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Great Expectations — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/time,motif/well,character/miss_havisham"></span>
 
 
 Chapter XLVIII.
@@ -37401,7 +37401,7 @@ such hands on a memorable occasion very lately!
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Great Expectations — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Great Expectations — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/garden,motif/lightning,motif/time,motif/well,motif/window,concept/jealousy,concept/truth,character/estella,character/miss_havisham"></span>
 
 
 He dismissed her, and she glided out of the room. But she remained
@@ -37520,7 +37520,7 @@ her hands then, though he sometimes does now.”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Great Expectations — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Great Expectations — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/night,motif/time,motif/well,concept/jealousy,concept/revenge"></span>
 
 
 I had told Wemmick of his showing us her wrists, that day of the dinner
@@ -37577,7 +37577,7 @@ my thoughts, though with no relief from the old.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Great Expectations — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Great Expectations — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/rose,motif/secrets,motif/time,concept/history,concept/loneliness,form/history,setting/cathedral,character/estella,character/miss_havisham,character/monks"></span>
 
 
 Chapter XLIX.
@@ -37719,7 +37719,7 @@ from her neck.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Great Expectations — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Great Expectations — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/dust,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/forgiveness,concept/hope,concept/nature,concept/pride,concept/vanity,character/estella,character/miss_havisham"></span>
 
 
 “Quite. I dined with him yesterday.”
@@ -37860,7 +37860,7 @@ asleep, and I called her [[Estella]].”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Great Expectations — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Great Expectations — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="topos/double,archetype/orphan,motif/clock,motif/fire,motif/garden,motif/home,motif/night,motif/spring,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/hope,setting/paris,character/estella,character/miss_havisham,character/phantom"></span>
 
 
 “Might I ask her age then?”
@@ -37990,7 +37990,7 @@ under my name, ‘I forgive her.’”
 
 
 
-<span class="atom-split" data-atom="chapter_50" data-title="Great Expectations — Chapter 50" data-chapter="Chapter 50" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_50" data-title="Great Expectations — Chapter 50" data-chapter="Chapter 50" data-kind="chapter" data-tags="archetype/child,motif/death,motif/fire,motif/night,motif/pain,motif/river,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/jealousy,character/estella,character/miss_havisham"></span>
 
 
 Chapter L.
@@ -38182,7 +38182,7 @@ disordered by the accident of last [[Night|night]]?”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Great Expectations — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Great Expectations — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/history,concept/identity,concept/self,concept/truth,form/history,character/estella,character/miss_havisham,character/mr_jaggers"></span>
 
 
 Chapter LI.
@@ -38310,7 +38310,7 @@ some communication unknown to him between us.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Great Expectations — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Great Expectations — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/dreams,motif/home,motif/time,motif/well,concept/truth,concept/wonder,setting/london,character/estella,character/miss_havisham"></span>
 
 
 “And on what evidence, Pip,” asked Mr. Jaggers, very coolly, as he
@@ -38433,7 +38433,7 @@ the woman was cleared.”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Great Expectations — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Great Expectations — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/dreams,motif/fire,motif/grave,motif/nature,motif/time,motif/well,motif/wind,concept/melancholy,concept/nature"></span>
 
 
 “I understand you perfectly.”
@@ -38532,7 +38532,7 @@ just had lunch.
 
 
 
-<span class="atom-split" data-atom="chapter_52" data-title="Great Expectations — Chapter 52" data-chapter="Chapter 52" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_52" data-title="Great Expectations — Chapter 52" data-chapter="Chapter 52" data-kind="chapter" data-tags="motif/blood,motif/clock,motif/fire,motif/home,motif/journey,motif/night,motif/river,motif/time,motif/water,motif/well,concept/doubt,concept/suffering,concept/wonder,form/sketch,setting/london,character/biddy,character/miss_havisham,character/speed"></span>
 
 
 Chapter LII.
@@ -38761,7 +38761,7 @@ Towards the marshes I now went straight, having no [[Time|time]] to spare.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Great Expectations — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Great Expectations — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/home,motif/moon,motif/night,motif/pain,motif/rose,motif/time,motif/well,motif/wind,concept/melancholy,concept/wonder,setting/mountains"></span>
 
 
 Chapter LIII.
@@ -38878,7 +38878,7 @@ got you.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Great Expectations — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Great Expectations — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/villain,motif/death,motif/grave,motif/moon,motif/nature,motif/night,motif/silence,motif/stars,motif/time,motif/well,concept/body,concept/doubt,concept/nature,character/biddy,character/estella,character/miss_havisham"></span>
 
 
 “Unbind me. Let me go!”
@@ -39022,7 +39022,7 @@ the white vapour creeping over it, into which I should have dissolved.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Great Expectations — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Great Expectations — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/fire,motif/night,motif/prayer,motif/rose,motif/spring,motif/time,motif/water,motif/well,concept/body,concept/hope,setting/desert,character/biddy,character/sunday"></span>
 
 
 It was not only that I could have summed up years and years and years
@@ -39137,7 +39137,7 @@ was in the place where I had lost it.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="Great Expectations — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="Great Expectations — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/moon,motif/nature,motif/night,motif/pain,motif/prayer,motif/spring,motif/time,concept/doubt,concept/nature,setting/london,character/miss_havisham"></span>
 
 
 Too indifferent at first, even to look round and ascertain who
@@ -39251,7 +39251,7 @@ and I went at once to bed, and lay in bed all day.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_05" data-title="Great Expectations — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_05" data-title="Great Expectations — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/river,motif/rose,motif/time,motif/well,motif/window,concept/fear,concept/self,concept/wonder"></span>
 
 
 My terror, as I lay there, of falling ill, and being unfitted for
@@ -39309,7 +39309,7 @@ for us, and stand ready, you over there at Mill Pond Bank!”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Great Expectations — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Great Expectations — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/night,motif/river,motif/road,motif/ship,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/hope,setting/london,setting/ship,character/kent"></span>
 
 
 Chapter LIV.
@@ -39423,7 +39423,7 @@ appearance of molestation.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Great Expectations — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Great Expectations — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/river,motif/time,motif/water,motif/well,concept/freedom,concept/hope,concept/melancholy,character/bottom,character/sunday"></span>
 
 
 He had his boat-cloak on him, and looked, as I have said, a natural
@@ -39539,7 +39539,7 @@ save here and there in the foreground a [[Melancholy|melancholy]] gull.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Great Expectations — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Great Expectations — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/home,motif/moon,motif/night,motif/river,motif/silence,motif/stars,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/melancholy,character/bottom"></span>
 
 
 As the [[Night|night]] was fast falling, and as the [[Moon|moon]], being past the full,
@@ -39669,7 +39669,7 @@ the [[house]] and went to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Great Expectations — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Great Expectations — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/moon,motif/night,motif/noon,motif/river,motif/ship,motif/time,motif/water,motif/well,motif/wind,motif/window,setting/ship,character/abel_magwitch,character/speed"></span>
 
 
 I lay down with the greater part of my clothes on, and slept [[Well|well]] for a
@@ -39776,7 +39776,7 @@ from under me.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Great Expectations — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Great Expectations — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/villain,motif/crown,motif/death,motif/decay,motif/home,motif/night,motif/prison,motif/ship,motif/time,motif/water,concept/body,concept/doubt,concept/hope,concept/truth,setting/london,setting/ship,character/bottom,character/speed"></span>
 
 
 It was but for an instant that I seemed to struggle with a thousand
@@ -39899,7 +39899,7 @@ how his hopes of enriching me had perished.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Great Expectations — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Great Expectations — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/grave,motif/home,motif/love,motif/night,motif/prison,motif/ship,motif/tears,motif/time,motif/well,concept/body,concept/courage,concept/fear,concept/hope,concept/identity,setting/court,setting/london,setting/ship"></span>
 
 
 Chapter LV.
@@ -40027,7 +40027,7 @@ go away at the end of the week.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Great Expectations — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Great Expectations — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,concept/friendship,concept/hope,setting/castle,character/bottom"></span>
 
 
 “And Clara?” said I.
@@ -40156,7 +40156,7 @@ door, escorting a lady.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Great Expectations — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Great Expectations — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/damsel,motif/desire,motif/well,setting/castle"></span>
 
 
 That discreet [[Damsel|damsel]] was attired as usual, except that she was now
@@ -40233,7 +40233,7 @@ something of the kind.”
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Great Expectations — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Great Expectations — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,motif/chains,motif/death,motif/pain,motif/prison,motif/time,concept/exile,concept/resignation,setting/court"></span>
 
 
 Chapter LVI.
@@ -40354,7 +40354,7 @@ and me.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Great Expectations — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Great Expectations — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desert,motif/home,motif/love,motif/night,motif/pain,motif/poison,motif/prison,motif/silence,motif/spring,motif/time,motif/well,concept/melancholy,setting/desert,setting/london"></span>
 
 
 I earnestly hoped and prayed that he might die before the Recorder’s
@@ -40466,7 +40466,7 @@ a sinner!”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Great Expectations — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Great Expectations — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/memory,motif/night,motif/time,motif/well,motif/window,concept/courage,concept/identity,concept/truth,setting/court,character/miss_havisham"></span>
 
 
 Chapter LVII.
@@ -40594,7 +40594,7 @@ chap?”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Great Expectations — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Great Expectations — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/crown,motif/grave,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/pride,setting/castle,character/biddy,character/estella,character/miss_havisham"></span>
 
 
 “Yes, Joe.”
@@ -40722,7 +40722,7 @@ the failings on his part, he were a corn and seedsman in his hart.”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Great Expectations — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Great Expectations — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/birds,motif/flowers,motif/nature,motif/night,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/history,concept/nature,form/history,setting/court,character/miss_havisham,character/sunday"></span>
 
 
 “That’s it, Pip,” said Joe; “and they took his till, and they took his
@@ -40849,7 +40849,7 @@ you, sir, therefore, to pint out the good.’”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_04" data-title="Great Expectations — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_04" data-title="Great Expectations — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/night,motif/river,motif/time,motif/water,motif/well,concept/doubt,concept/hope,character/biddy,character/sunday"></span>
 
 
 “The man says?” I observed, as Joe waited for me to speak.
@@ -41021,7 +41021,7 @@ have left to tell.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Great Expectations — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Great Expectations — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/dreams,motif/dust,motif/journey,motif/marriage,motif/sleep"></span>
 
 
 Chapter LVIII.
@@ -41149,7 +41149,7 @@ myself.”
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Great Expectations — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Great Expectations — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/home,motif/leaves,motif/well,motif/wind,motif/window,concept/doubt,concept/faith,concept/providence,character/biddy"></span>
 
 
 “You do not, sir,” said William.
@@ -41279,7 +41279,7 @@ day complete!
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="Great Expectations — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="Great Expectations — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/great_house,motif/love,motif/night,motif/prison,motif/time,motif/well,motif/winter,concept/charity,concept/conscience,concept/hope,character/biddy"></span>
 
 
 My first thought was one of great thankfulness that I had never
@@ -41373,7 +41373,7 @@ had never been in him at all, but had been in me.
 
 
 
-<span class="atom-split" data-atom="chapter_59" data-title="Great Expectations — Chapter 59" data-chapter="Chapter 59" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_59" data-title="Great Expectations — Chapter 59" data-chapter="Chapter 59" data-kind="chapter" data-tags="archetype/child,archetype/shadow,motif/death,motif/fire,motif/garden,motif/home,motif/horse,motif/memory,motif/moon,motif/rose,motif/silence,motif/stars,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/pride,concept/suffering,concept/wonder,character/biddy,character/estella"></span>
 
 
 Chapter LIX.

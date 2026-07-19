@@ -341,7 +341,7 @@ and fro about the floor.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Berenice (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Berenice (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/dreams,motif/hill,motif/memory,motif/nature,motif/night,motif/noon,motif/soul,motif/time,concept/beauty,concept/body,concept/fear,concept/identity,concept/imagination,concept/nature,form/novel"></span>
 
 
 Dicebant mihi sodales, si sepulchrum amicae visitarem, curas meas
@@ -445,7 +445,7 @@ of even the most ordinary objects of the universe.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Berenice (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Berenice (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/silence,motif/summer,motif/time,motif/well,concept/beauty,concept/doubt,concept/identity,concept/imagination,concept/nature,concept/wonder"></span>
 
 
 To muse for long unwearied hours, with my attention riveted to
@@ -543,7 +543,7 @@ to her of [[Marriage|marriage]].
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Berenice (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Berenice (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/dreams,motif/grave,motif/memory,motif/nature,motif/night,motif/pain,motif/silence,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/imagination,concept/melancholy,concept/nature,character/nurse"></span>
 
 
 And at length the period of our nuptials was approaching, when,

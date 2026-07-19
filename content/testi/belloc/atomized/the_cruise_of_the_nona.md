@@ -2247,7 +2247,7 @@ There, sailing the sea, we play every part of life: control, direction, effort, 
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Cruise of the Nona (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Cruise of the Nona (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/fear"></span>
 
 
 CONTENTS
@@ -2291,7 +2291,7 @@ I cannot make it a book of reminiscences, because I can remember nothing for mor
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Cruise of the Nona (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Cruise of the Nona (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/storm"></span>
 
 
 Indeed, the naming of a book has always seemed to me a thing fastidious in both senses, that is, both a thing wearisome and a thing of picking and choosing. I am not quite sure that books ought to be named at all. If they were numbered, like the streets in America, they would be very much easier to catalogue and shelf (or shelve) and remember the places of. Thus your next book or so might be Baring 32, and this Belloc 106. And why not? It would in no way diminish their souls, their connotations. Cannot a man be head over ears in love with 15 Parham Street, and sick of 30 Tupton Square? I can!
@@ -2319,7 +2319,7 @@ On this account I have always thought that a man does well to take every chance 
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Cruise of the Nona (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Cruise of the Nona (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 So I have given this book a name: The Cruise of the Nona. Had I called it The Cargo I might be nearer my intention. At any rate, I am now off to sail the English seas again, and to pursue from thought to thought and from memory to memory such things as have occupied one human soul, and of these some will be of profit to one man and some to another, and most, I suppose, to none at all.
@@ -2353,7 +2353,7 @@ We shortened down to three reefs, but even so the helm was pulling hard, and whe
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Cruise of the Nona (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Cruise of the Nona (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/wind,concept/courage,concept/fear"></span>
 
 
 There was only one thing that troubled me, which was this question: should we make the Sound before the tide turned? It was an important question, because, although I had never been in those parts before, off-shore, in a boat of my own, yet I could judge that in such a piece of water, with all the Bay pouring through a channel barely two miles wide with a deep of barely one, the tide against such a gale would raise an impossible sea. If we could just make it on the tail of the tide, on the very last of the ebb, we should have nothing to bear but a strong following sea, such as that before which we were running at the moment: for the southerly stream was still strong under us. But if the water turned before we got into the Sound, we should have a time to remember; and so we did.
@@ -2373,7 +2373,7 @@ Indeed, the whole question of [[Fear|fear]] is beyond analysis, and there is onl
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Cruise of the Nona (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Cruise of the Nona (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/wind,concept/fear"></span>
 
 
 I had occasion during the War, when I had been sent to write upon the Italian front, to be swung to the high, isolated rock of a mountain peak in the Dolomites by one of those dizzy wires which the Italian engineers slung over the gulfs of the Alps for the manning and provisioning of small high posts. It was an experience I shall ever remember, a vivid, hardly tolerable nightmare; but the man I was with, an Italian officer of great and deserved fame, earned during that campaign, not only felt nothing, but could not understand what my terror was. We sat, or rather lay, in one of those shallow trays which travel slowly along these wires over infinite deeps of air; and during the endless crawling through nothingness he told me, by way of recreation, the story of a private soldier who had been coming down from the isolated post some weeks before. The machinery had gone wrong, and the tray remained suspended over the gulf, half-way across, for some twenty minutes. When it worked again and they hauled it in they found that the man had gone mad.
@@ -2403,7 +2403,7 @@ Except for the pride and honour of belonging to a great kingdom, to be citizen o
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Cruise of the Nona (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Cruise of the Nona (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 But now I come to think of it, there is one advantage in belonging to a large kingdom, which is, that you can enjoy differences and contrasts such as a small kingdom does not give you. Some day, perhaps very soon, the modern organization of society into great communities will break down, and then it would be amusing to come to life again and see the little communities living their own independent lives, as they did in the Dark Ages, and also in the beginnings of Pagan history.
@@ -2427,7 +2427,7 @@ There was one character in one of her books which I was assured was a friend of 
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Cruise of the Nona (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Cruise of the Nona (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 I myself once wrote a book about politicians, called A Change in the Cabinet. It was universally agreed in all that old world of professional politicians who were still educated men that my book, whether good or bad, was monstrously accurate to the way the people of that world talk and go on. But the book will never be held by any large public to be accurate; or, at any rate, will not satisfy the desire of the large public for a particular kind of pompous convention, such as never was by sea or land. And on the whole I think the large public are right. Literature has no business to be a mirror of life. We can see life for ourselves without literature. What literature ought to do, I take it, is to make a type or expression of life, which is quite a different thing from a mere reflection, and what is more, literature is there for fun and not for copying. Hence the greatest of human writings have very little relation to actual speech. The heroes of the poet Homer say things as satisfactory as have ever been said, yet they say them in a highly conventional and stilted way, using a very small vocabulary and (what is really extraordinary!) talking all the time in hexameters. Certainly no one ever did that in real life except an old Don whom I used to know at Oxford.
@@ -2451,7 +2451,7 @@ It will be interesting to watch the process of the word and see what happens to 
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Cruise of the Nona (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Cruise of the Nona (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 Probably posterity will do what we all do in dealing with the past, shrug its shoulders and pass on. We, in dealing with any part of the past which we cannot understand, treat it at once as ridiculous, or only talk of the things in it which we do sympathize with. So will posterity deal with us. We cannot understand at all, for instance, the mood of a man who - like nearly everybody up to about 200 years ago - objected to being burnt alive not on account of the pain, but because it was an indignity; because the body was consumed. We cannot understand why he was not more concerned with the serious discomfort of being burnt alive than with the ignominy.
@@ -2477,7 +2477,7 @@ One might make an interesting list of the parallels which are upon this model. F
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Cruise of the Nona (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Cruise of the Nona (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The Welsh have a curious feeling about their past. They have been taught to detest its religion, yet their patriotism inclines them to a sort of awe of it. I never met a Welshman yet who ridiculed St David, yet very few indeed who knew either what world St David lived in or what mood he had towards the universe; and what about his Masses?
@@ -2513,7 +2513,7 @@ There is one element in the affair which is all-important, and the possession of
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Cruise of the Nona (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Cruise of the Nona (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 A man can only talk of the things he himself has known, and I myself have only seen one example of this inspiration in its perfection. It was (I regret to say) an experience of the House of Commons, a nasty place in which to find anything remarkable. There I saw the Speaker of my time (Mr Lowther, as he then was) exercising the art through two Parliaments with a perfection which I had thought impossible, and which moved me, at the watching of it, as much as I am moved by great lines of Milton or Racine, or the harmonies of certain musics.
@@ -2545,7 +2545,7 @@ So Musset and old Pythagoras and Mr Tupper. If any man doubts the Fall of Man (a
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Cruise of the Nona (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Cruise of the Nona (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="topos/the_sublime_in_nature,topos/ubi_sunt,motif/the_sea,motif/ship,concept/nostalgia,form/travel_writing,setting/the_mountains"></span>
 
 
 Sing to me of the islands, oh, Daughter of Cahoolin, sing,
@@ -2607,7 +2607,7 @@ As we lay there, waiting for the rising water to lift us, a clear sound of hamme
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Cruise of the Nona (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Cruise of the Nona (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 She floated again (it was now deep into the night, and the dim stars, through the haze overhead, watched our misery). The Nona glided on.
@@ -2631,7 +2631,7 @@ Which leads me on to say that never was an old proverb of less accurate modern a
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Cruise of the Nona (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Cruise of the Nona (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/ship,motif/storm,motif/wind,setting/ship"></span>
 
 
 However, this harbour or pilot-fool of mine was not, I think, troubled in this regard, for had he been a Fool of Wealth he would not have been blundering to get the Nona up-channel in the dark.
@@ -2679,7 +2679,7 @@ It is gloom upon the mind to remember that the magnitude of the task set to Brit
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Cruise of the Nona (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Cruise of the Nona (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The mountains look upon the mountains: the mountains of Britain to the mountains of Ireland; from the east to the west, over a magic sea. But they look in wrath and remain sullen giants. Nor is the battle concluded.
@@ -2715,7 +2715,7 @@ Anyhow, I saw the tragedy going on before my eyes, as a man on a shore-height ma
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Cruise of the Nona (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Cruise of the Nona (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 I saw, year after year, from my boyhood to my middle manhood and later, the Parliamentary poison eating up the Irish effort and the English face turned away from Ireland, failing to understand its own doom. For England, a seat of vision, might have understood the opportunity and the peril had the Irish themselves used pen and word directly. But the wrong instrument was used: the broken and now useless instrument of the Commons.
@@ -2745,7 +2745,7 @@ And as there is a concealment of reality at sea, corresponding to the concealmen
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Cruise of the Nona (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Cruise of the Nona (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 Once out near the Looe with an ugly thunderstorm glowering and lumbering down from the north, full of zigzags of lightning, I, in this same boat, was shortening sail rapidly to meet the gust when it should come. Even as I did so, I saw a fierce red light beating upon the Seven Sisters and Beachy Head, more than forty miles away. You could see every detail of those chalk cliffs. You could have touched them with your hand; yet the sea in between was vague: and that was a vision of the unseen. I say that the sea is in all things the teacher of men.
@@ -2773,7 +2773,7 @@ It is not often that one comes across men in a modern lifetime intent upon the p
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Cruise of the Nona (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Cruise of the Nona (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 I knew also one other man (who, for the honour I bear him and because he is still alive, I shall not name), an Englishman; at the outbreak of war in South Africa he said to all who would hear him, and printed in a journal to which he had admission, the simple truth that this adventure would be the beginning of a decline in the financial credit of England. To discover whether he was right or wrong, look at any curve of that credit and mark the dates. He said to all who would hear him that from this adventure onwards we should find ourselves increasingly embarrassed, with increasing taxation, with an increasing uncertainty in our foreign policy and in our hold upon the markets we desired to control abroad. His action was not that of the prophet, but of the reasoner. His unpopularity was extreme. He was the only public man who talked conscientiously and rationally in this affair of the Boer War, and who did not confuse his conclusions with that disgusting antipathy to their own country which marked the most of those who protested against the War. As for the enemy, the South African Dutch, he knew them and heartily despised them. The Outlanders he also knew, and thought them the scum of the earth. But he acted on no mood of like or dislike. He was concerned with the future of England and he reasoned. He talked a sort of mathematical sense, and all his words were true; but he shall know no reward. Only, this remains true also: that all who heard him or read his writing have secretly returned to those words in their own minds, and have said: ‘He was right and we were wrong.’
@@ -2795,7 +2795,7 @@ Democracy, that is, the government of the community by the community: a State wh
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Cruise of the Nona (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Cruise of the Nona (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 So much for the Master’s excellent platitude.
@@ -2823,7 +2823,7 @@ It was about half-past nine in the morning when there did come a draught from th
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Cruise of the Nona (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Cruise of the Nona (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 We took council together and determined that with the very first breath of air we could find we would run back to anchor and wait for a [[Wind|wind]] worth having. So we did, and a second day passed in Fishguard harbour, as empty as the first, and a second night; and then it was I completed the tune and first verse of a song called the ‘Chaunty of the Nona’. The whole of that time the calm was broken by but few hints of very uncertain airs.
@@ -2847,7 +2847,7 @@ Lord, what a tangle of dangers are here for the wretched mariner! Rocks and eddi
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Cruise of the Nona (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Cruise of the Nona (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="motif/wind,concept/fear"></span>
 
 
 I will maintain with the Ancients that there are some parts of the sea upon which a God has determined that there shall be peril: that these parts are of their inward nature perilous and that their various particular perils are but portions of one general evil character imposed by The Powers. For you will notice that wherever there is one danger of the seas there are many. If it is an overfall or a race, then in that neighbourhood you will also have reefs, unaccountable thick weather, shifting soundings, bad holding, and all the rest of it. Witness the western approach to the Isle of Portland, or the Bight of St Malo, with the Channel Islands and their innumerable teeth; the entry to the Straits of Messina and other places recorded in histories and in pilot books. Our modems will have it that such things are chance and an accumulation of them a blind accident, but I hold with those greater men, our Fathers. Someone here in these places, some early captain, first sailing offended the Gods of the Sea. Hence all the tangle of the southern corner of Wales, Jack Sound and Ramsey Sound and the Bishop and his clerks and, worst of all, Wild Goose Race.
@@ -2867,7 +2867,7 @@ Which, indeed, was what the Nona did, for as it fell dead calm, the set of the s
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Cruise of the Nona (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Cruise of the Nona (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 When they had played this farce with us long enough, the Powers halted the sea, as is their fashion every six hours, and we found ourselves close aboard a large ketch which lay at anchor off that Skomer shore. There was one man upon the deck, smoking a pipe and keeping his mind empty, as is the duty of all mortals in such few intervals of leisure as heaven affords us. He bade us not knock into him, and we called out to him (but not very loud, for we were at a familiar cast of but few yards) that if we came too close aboard we would shove off and do him no harm. We asked him who he was and where he was going. He did not tell us who he was, but he told us where he was going, which was to Cork, and what he had on board, which was a cargo of coal.
@@ -2893,7 +2893,7 @@ The next morning we found, following the flood up the Haven, a very slight breez
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Cruise of the Nona (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Cruise of the Nona (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/ship,motif/wind,concept/fear,setting/ship"></span>
 
 
 The [[Wind|wind]] freshened just as the flood was slackening, so we turned to beat out. It was well into the afternoon when we took the open sea, with the [[Wind|wind]] a trifle north of west, so that our last board out of harbour was a free run. We took her well outside so as to be able to set a straight course for Lundy and beyond, intending a passage to Bideford River, and the ending of this voyage.
@@ -2921,7 +2921,7 @@ But England today from the land is a very different thing to England forever fro
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Cruise of the Nona (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Cruise of the Nona (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 I had come with friends in a motor-car, because I had been told a man should see Clovelly before he died. I had come from the noble isolation of Hartland, where the great seas were running in upon the rocks after a gale and thundering at the doors of that good inn which faces ocean there. Our road ran high above the sea, and as we came near to the turning beyond which the cleft of Clovelly would open below us, and its vision of peace, we heard a murmur like that of bees swarming. As we came nearer it was a confused clamour of human beings, and as we came nearer still we saw the dreadful thing in its entirety.
@@ -2947,7 +2947,7 @@ All that bit of coast is Charles Kingsley, with his violent fanatical genius (fo
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Cruise of the Nona (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Cruise of the Nona (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="motif/storm"></span>
 
 
 One of the saddest things I know about the beach near Bideford River is the deadly hatred with which the Dons have persecuted poor, dear Kenwith. Kenwith is a place where a few boatloads of Danes landed in the Dark Ages, and were defeated by the English. The name is quite clear, the tradition is equally clear, and the description of the position is unmistakable. Therefore have the learned, as is their wont, insisted with the utmost virulence that the tradition, the name, the description, are all a popular error, and that the place where the little scrimmage really came off was miles away.
@@ -2971,7 +2971,7 @@ I have always thought it a very ridiculous thing to bother too much, after thirt
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="The Cruise of the Nona (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="The Cruise of the Nona (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 Of the men who have done this in my time the most successful was Dodgson, the mathematical Don at Christ Church - that is, of The House. He had calculated well; and the immense fame of Lewis Carroll and of Alice in Wonderland left him private and secure.
@@ -3001,7 +3001,7 @@ Our time has discovered so many things in the material world (and has grown para
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="The Cruise of the Nona (part 26)" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="The Cruise of the Nona (part 26)" data-chapter="part 26" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 For that matter, why is one sea so different from another? You measure the amount of salt, the weight of the water, the strength of the [[Wind|wind]]. Though you had all the factors we can measure, these three and a score of others (the pressure of the air, its wetness, its heat, and so on), yet you could never say why the difference between one sea and another appears. All measurable factors might be the same, and yet the seas quite different. You can, indeed, hardly describe that difference, any more than you can describe the difference between two instruments of music, the flute and the trumpet; or the difference between two materials in portraiture, marble and bronze. We only know that it is there. But our stupidly proud time misses such essential categories.
@@ -3033,7 +3033,7 @@ The foreign rule, therefore, gets more and more distasteful to the governed. For
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="The Cruise of the Nona (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="The Cruise of the Nona (part 27)" data-chapter="part 27" data-kind="excerpt" data-tags="motif/ship,motif/wind,concept/faith,setting/ship"></span>
 
 
 It was so apparently between Carthage and her dependencies.
@@ -3057,7 +3057,7 @@ There was still no more [[Wind|wind]] than would just make the Nona feel her hel
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="The Cruise of the Nona (part 28)" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="The Cruise of the Nona (part 28)" data-chapter="part 28" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 I put her up a point more westerly, so as to be on the safe side, for I did not know what current there might be here, and I had to give the land a good offing. I did not want to come up through the fog in such calm weather to hear, close at hand, the treacherous murmur of slightly moving water upon rocks.
@@ -3085,7 +3085,7 @@ But, to be just, it is not only wealth that breeds these fine sights, it is also
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="The Cruise of the Nona (part 29)" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="The Cruise of the Nona (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="motif/wind,concept/fear"></span>
 
 
 Anyhow, there she came, thundering down the tide. I had thought she would pass me in her rush of speed, and I held up until she should have done so, for it would have been dangerous to have tried to go about with such a weight of movement coming on us, and our own course half out of control, dependent only upon occasional slight splashes of [[Wind|wind]] from over the cliff. But the motor-boat slowed down, and its owner asked us if we wanted a tow up to the town. We met him with gratitude: he was of that very considerable class known as the Good Rich, with whom are the Penitent Thieves, the Reformed Drunkards, the Sane Professors, the Womanly Furies, and all other candidates for heaven. We threw a line aboard him and made fast, and so went up just as the darkness came, and dropped anchor in the pool under a neat little city, which lived by the traffic of that difficult waterway with its strange tide. But, then, all tides are strange.
@@ -3111,7 +3111,7 @@ And what about the double tide of the Wight and Poole, the guider, as they call 
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="The Cruise of the Nona (part 30)" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="The Cruise of the Nona (part 30)" data-chapter="part 30" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The enormous tide at the end of the funnel of the Bristol Channel is reasonable enough, though it is a little odd that it should be so very much bigger at Chepstow than at Gloucester. But how will you account for the prodigious heave at St Malo? Why does the flood come up Aran River like a racehorse recently invigorated with a bucket of beer, and at Newhaven hardly move at all up the Ouse?
@@ -3137,7 +3137,7 @@ Nowhere are these international pacifists more national than in England. They ha
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="The Cruise of the Nona (part 31)" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="The Cruise of the Nona (part 31)" data-chapter="part 31" data-kind="excerpt" data-tags="concept/courage"></span>
 
 
 They nearly all display some trick of clothing or food. They will drink lime-juice instead of wine, or wear elastic-sided boots, or think it wrong to smoke tobacco, or go about without hats. If they are men, they will have hair coming down to their shoulders, which is a very greasy habit. If they are women, they will go about barefoot, save for the most absurd sandals; and while they practise all these provincial follies they will be consumed with a passion for the general of mankind.
@@ -3171,7 +3171,7 @@ I pointed out to him, for instance, how, in societies like that of modern Englan
 
 
 
-<span class="atom-split" data-atom="part--part_32" data-title="The Cruise of the Nona (part 32)" data-chapter="part 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_32" data-title="The Cruise of the Nona (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/nationalism_and_patriotism,concept/education,concept/reason_and_rationalism,form/essay,histref/british_empire"></span>
 
 
 I asked him whether he approved of the holding down of subject peoples for produce - as, for instance, for copra or cocoa. He said that he did not; but I found him very wobbly on that point. He took refuge, for a moment, in hypocrisy, and said it was for the good of the oppressed: but he was disturbed.
@@ -3197,7 +3197,7 @@ It is obvious that this phrase as it stands is a contradiction in terms; for the
 
 
 
-<span class="atom-split" data-atom="part--part_33" data-title="The Cruise of the Nona (part 33)" data-chapter="part 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_33" data-title="The Cruise of the Nona (part 33)" data-chapter="part 33" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 * * *
@@ -3225,7 +3225,7 @@ The stove had got adrift in the lurch. There was oil all over the place, and a m
 
 
 
-<span class="atom-split" data-atom="part--part_34" data-title="The Cruise of the Nona (part 34)" data-chapter="part 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_34" data-title="The Cruise of the Nona (part 34)" data-chapter="part 34" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The Nona is like those women who are peevish and intolerable under all conditions of reasonable happiness, but come out magnificently in distress. I lie; for the Nona is never peevish and intolerable. What I mean is that in easy weather she is a little sluggish on the helm, and has one or two other small faults, excusable after the fortieth, the fiftieth, year: for she was launched before Plevna, though, it is true, a year or two after Sedan. She has her mortalities; but in a seaway she is magnificent. With her few inches of freeboard, her old-fashioned straight stern, her solid grip upon the water, she takes the sea as though she belonged to it, and so she went that day, riding in high-bred fashion, worthy of all praise, and praise she received from me as she leant over and took the combers one after the other. I gave her perpetual encouragement: for no boat will do her best unless she is sufficiently flattered.
@@ -3261,7 +3261,7 @@ There was certainly never a time in the history of Christendom, nor of the Pagan
 
 
 
-<span class="atom-split" data-atom="part--part_35" data-title="The Cruise of the Nona (part 35)" data-chapter="part 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_35" data-title="The Cruise of the Nona (part 35)" data-chapter="part 35" data-kind="excerpt" data-tags="concept/faith,concept/fear,histref/catholic_church"></span>
 
 
 The worst form it takes, of course, is the division between rich and poor, which is quite a modern thing, and an abominable one - the product, I suppose, of what people call ‘democracy’.
@@ -3287,7 +3287,7 @@ In the same way, he does not believe nine-tenths, or ninety-nine hundredths, of 
 
 
 
-<span class="atom-split" data-atom="part--part_36" data-title="The Cruise of the Nona (part 36)" data-chapter="part 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_36" data-title="The Cruise of the Nona (part 36)" data-chapter="part 36" data-kind="excerpt" data-tags="concept/faith,histref/catholic_church"></span>
 
 
 The same principle of division runs through the whole of thought. In the matter of the development of religion, everybody outside the Catholic body talks as though the development of the Catholic religion were a human process. They answer the famous question: ‘Is religion of God or of man?’ with a hearty affirmation of the second hypothesis. In this mood they examine such a story as that of the Mass, the Papacy, or the doctrine of our Lord’s divinity. They take it for granted that all was man-made. In this mood they interpret (usually with guesses of the wildest sort, which the much stricter and more rational Catholic scholarship soon disproves) the origin of the Scriptures, and in particular of the Gospels. Now the Catholic admits all evidence in these matters: that is a matter of course, for if you exclude any evidence your conclusion is vitiated. But the difference between him and the others is that he regards the action at work as divine, willed, and, to repeat a word I have used, ‘illumined’. That is why the Catholic thinks of the modernist as a man of warm heart, but of poor intelligence.
@@ -3305,7 +3305,7 @@ In connexion with all this - though the connexion is strained - I have often won
 
 
 
-<span class="atom-split" data-atom="part--part_37" data-title="The Cruise of the Nona (part 37)" data-chapter="part 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_37" data-title="The Cruise of the Nona (part 37)" data-chapter="part 37" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 But flattering as the old Catholic doctrine of equality is, I do not think it can survive much longer outside the Catholic body. It is in a degree mysterious, and I am amused to find one man after another suddenly making the discovery that it is not a patent truth, apparent upon the surface of things.
@@ -3347,7 +3347,7 @@ Does anyone remember him now of those who are reading this? Perhaps one or two, 
 
 
 
-<span class="atom-split" data-atom="part--part_38" data-title="The Cruise of the Nona (part 38)" data-chapter="part 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_38" data-title="The Cruise of the Nona (part 38)" data-chapter="part 38" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 But I wish that I could come across him again in this world, somewhere at the meeting of sea and land, and talk with him again about the schools of fishes, and the labours of those who seek them along our shores, and the souls of sailormen.
@@ -3381,7 +3381,7 @@ Much more excusable, and yet much more common than mistaking the outline of hill
 
 
 
-<span class="atom-split" data-atom="part--part_39" data-title="The Cruise of the Nona (part 39)" data-chapter="part 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_39" data-title="The Cruise of the Nona (part 39)" data-chapter="part 39" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 But there are more absurd cases still. Many years ago, a [[Ship|ship]] called the Mohegan struck the rocks called the Manacles, which are inside Black Head, in Cornwall. She was going down-Channel, and there would seem to be no question of danger in the matter. The Lizard light is there, staring plain enough; one only has to keep it well on the starboard bow going down-Channel, and one is sure to miss England. One cannot hit the Manacles so long as the light is well off one’s starboard bow, for they lie inside the Point. Therefore, when the Mohegan struck, she must have had the Lizard light on her port bow, and the look-out man, and the man steering, and the man setting the course, and the man in command on the bridge must have known perfectly well (one would think) that the situation was impossible. Yet strike she did, and no one has ever really explained how it happened.
@@ -3407,7 +3407,7 @@ They are not told that an expensive war had been waged by the Mother Country in 
 
 
 
-<span class="atom-split" data-atom="part--part_40" data-title="The Cruise of the Nona (part 40)" data-chapter="part 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_40" data-title="The Cruise of the Nona (part 40)" data-chapter="part 40" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 The false legend is swallowed whole, and it is a very good example of how mythology can have a direct practical effect for ill. Our general opinion is only now beginning to be shocked by the foreignness of America, and is still bewildered by the refusal of Americans to regard themselves as English. You can always be certain of middle-class and lower-middle-class support in England (I do not say popular support, for the populace are quite indifferent to the whole affair) for any foreign policy which takes for granted that America is but another England overseas.
@@ -3431,7 +3431,7 @@ Fowey is the harbour of harbours, and the last port town left without any admixt
 
 
 
-<span class="atom-split" data-atom="part--part_41" data-title="The Cruise of the Nona (part 41)" data-chapter="part 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_41" data-title="The Cruise of the Nona (part 41)" data-chapter="part 41" data-kind="excerpt" data-tags="motif/wind,concept/fear"></span>
 
 
 It is unreasonable, but those stretches of coastwise sea in which one has had good fortune remain in the mind exceptional, and carry with them a sort of false air of security, as though they were always so. Men must have had the terror of their lives time and again off that coast; but to me it always seems, when it returns as a picture in my mind, sunlit, and framed in vigorous small seas, with the attendance of a noble and a sufficient breeze. With what pleasure have I noted the speed she made as she passed the measured mile by Polperro, and how pleasant to see Rame Head growing perpetually before one, until the Nona opened the majestic breadth of Plymouth Sound.
@@ -3457,7 +3457,7 @@ When I came to land again, and went up to London, I found the air to be filled w
 
 
 
-<span class="atom-split" data-atom="part--part_42" data-title="The Cruise of the Nona (part 42)" data-chapter="part 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_42" data-title="The Cruise of the Nona (part 42)" data-chapter="part 42" data-kind="excerpt" data-tags="motif/storm"></span>
 
 
 There are two ways of ascertaining the origin of such a thing. One is the material way, the consultation of the only available documents, and the only certified direct human evidence. The other is the moral way, when one says: ‘This can only have been written by so and so,’ or, at the very least, ‘Can only have been inspired by so and so.’ Thus, if I find upon the table of a doubtful, weak kind of a man - and a courteous one at that - a letter framed in the very terms and manner of a bully, constantly his associate, then, though the letter be in the handwriting of the former, and on his own paper, even if there were convincing proof that when the actual writing was done the man was alone, I should yet say that the real author was the bully, and not the gentleman. He may have learnt it by heart at dictation. He may have copied it from the other’s draft. At any rate, it is morally certain that the one man, and not the other, is the true author of the thing launched - is the one responsible.
@@ -3487,7 +3487,7 @@ When I had set out from Plymouth there was nothing but rumour, nothing certain. 
 
 
 
-<span class="atom-split" data-atom="part--part_43" data-title="The Cruise of the Nona (part 43)" data-chapter="part 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_43" data-title="The Cruise of the Nona (part 43)" data-chapter="part 43" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 Nothing was further from my mind than war and armament as the sun rose on that glorious July morning, right out of a clean horizon, towards which the [[Wind|wind]] blew fresh and cool. It was a light but steady [[Wind|wind]] of morning that filled my sails as I sat at the tiller with a blanket about me, and laying her head to the north.
@@ -3515,7 +3515,7 @@ There is not perhaps in all history (of the sort which has full records behind i
 
 
 
-<span class="atom-split" data-atom="part--part_44" data-title="The Cruise of the Nona (part 44)" data-chapter="part 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_44" data-title="The Cruise of the Nona (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 It is a question easily confused with a totally different one, and the two must be kept carefully apart. The right of Great Britain to remain neutral should surely be admitted, not only in law but in common sense. In law there was no definite agreement with the French. There was no accepted obligation to support the French in the West or elsewhere. A great number of acts had been accomplished which could only have had such a support for their object; the military situation had been studied, contingent military dispositions had been carefully planned in detail. The general policy of the preceding years, especially after Agadir, had pointed to the same end; but the Government of this country had always, in the most insistent manner, affirmed and provided for its freedom of choice when the crisis should come. And the very fact that it had thus so continuously maintained that freedom of choice, and specifically asserted it, is proof that every other step, however obviously designed for common action in arms, was not to be given the interpretation of a binding alliance.
@@ -3539,7 +3539,7 @@ But though the German mobilization was indeed proof of the truth that Prussia an
 
 
 
-<span class="atom-split" data-atom="part--part_45" data-title="The Cruise of the Nona (part 45)" data-chapter="part 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_45" data-title="The Cruise of the Nona (part 45)" data-chapter="part 45" data-kind="excerpt" data-tags="archetype/the_writer"></span>
 
 
 Two men, I think, deserved well of their country at that moment, granted that an entry into the War sooner or later was inevitable. One was Mr Winston Churchill, who upon his own initiative mobilized the fleet; and the other was Lord Haldane, who convinced his colleagues of the nature of the peril and who, it should be remembered, had made possible the co-operation of Britain in the War by his scheme for mobilization. All that followed was based upon the work originally done by him at the War Office at a time when, to the great bulk of his countrymen, the idea of such a conflict was still quite unfamiliar and its enormous implications incredible.
@@ -3565,7 +3565,7 @@ That they should get mixed up about their figures is pardonable; there were more
 
 
 
-<span class="atom-split" data-atom="part--part_46" data-title="The Cruise of the Nona (part 46)" data-chapter="part 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_46" data-title="The Cruise of the Nona (part 46)" data-chapter="part 46" data-kind="excerpt" data-tags="concept/ambition,concept/greatness,concept/fame_and_publicity,concept/power_and_corruption,concept/fascism,form/essay,histref/mussolini_and_italian_fascism,histref/first_world_war,character/ferdinand_foch"></span>
 
 
 Now parliamentarians such as these are ridiculous, not only by the absurd disproportion between their nominal powers and their capacities, but more by their ambition - which swells out to bursting the little vessel containing it. They have not talent, save for intrigue against fellow politicians: they cannot speak or write, let alone do anything worth hearing. None the less would you find, if you could take the tin lid off their hollow minds and look in, a froth of insane vanity, bred of years of speech-making; a more than kingly assurance bred of knowing no control and of immunity; and (what is astonishing in men of such calibre) ambition itself. A paltry ambition, to be sure: an ambition to fill the newspapers: but still, ambition.
@@ -3593,7 +3593,7 @@ Everything good in this world is doomed to perish, and I cannot tell how long th
 
 
 
-<span class="atom-split" data-atom="part--part_47" data-title="The Cruise of the Nona (part 47)" data-chapter="part 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_47" data-title="The Cruise of the Nona (part 47)" data-chapter="part 47" data-kind="excerpt" data-tags="concept/democracy,concept/authority,concept/fascism,concept/liberty,concept/justice,form/essay,histref/mussolini_and_italian_fascism"></span>
 
 
 I made a sort of pilgrimage to see Mussolini, the head of the movement, and I wrote about him for the Americans. I had the honour of a long conversation with him alone, discovering and receiving his judgements. What a contrast with the sly and shifty talk of your parliamentarian! What a sense of decision, of sincerity, of serving the nation, and of serving it towards a known end with a definite will! Meeting this man after talking to the parliamentarians in other countries was like meeting with some athletic friend of one’s boyhood after an afternoon with racing touts; or it was like coming upon good wine in a Pyrenean village after compulsory draughts of marsh-water in the mosses of the moors above, during some long day’s travel over the range.
@@ -3617,7 +3617,7 @@ There is a very deplorable instance of this today in French politics. A small bu
 
 
 
-<span class="atom-split" data-atom="part--part_48" data-title="The Cruise of the Nona (part 48)" data-chapter="part 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_48" data-title="The Cruise of the Nona (part 48)" data-chapter="part 48" data-kind="excerpt" data-tags="concept/religious_persecution,concept/democracy,concept/authority,concept/tradition,form/essay,histref/catholic_church,setting/france"></span>
 
 
 After the War there happened to be in the French Parliament a vague uncertain majority more or less pledged to traditional things. The politicians most prominent in that gang approached the Carthusians who had been exiled, and had taken up a new home in Tarragona, and offered them a chance of returning to the Grande Chartreuse. These exiles very wisely refused, for they said: ‘How do we know that after all the expenditure of re-establishing ourselves in our ancient foundation - venerable for centuries, peaceable, remote - we may not at your next “elections”, as you call them, find ourselves turned out?’ They were very wise: but what a commentary upon a system of government! Think of it! Here is a great House with its roots right back in the beginnings of the Middle Ages, with its oaken traditions, its reserves of strength available for itself and all men; doing nothing which could be construed as perilous under any system of common morals, either to the State or to any individual. Merely because a clique of anti-Christians hates them, this doctrine of artificial majorities can turn the whole community out of doors at a moment’s notice, exile its members, loot its fortune.
@@ -3663,7 +3663,7 @@ That man, as man - I mean man as we know him (not imperfect man) - has lived upo
 
 
 
-<span class="atom-split" data-atom="part--part_49" data-title="The Cruise of the Nona (part 49)" data-chapter="part 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_49" data-title="The Cruise of the Nona (part 49)" data-chapter="part 49" data-kind="excerpt" data-tags="histref/catholic_church"></span>
 
 
 What a turmoil so simple a discovery aroused in biblical countries, to be sure!
@@ -3689,7 +3689,7 @@ When all this structure was blown to pieces in the nineteenth century by those d
 
 
 
-<span class="atom-split" data-atom="part--part_50" data-title="The Cruise of the Nona (part 50)" data-chapter="part 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_50" data-title="The Cruise of the Nona (part 50)" data-chapter="part 50" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 The upsetting of the Bible authority, then, did not produce in the nations of Protestant culture a revolt against the Protestant rule of life. That is not what happened. But what did happen was a bewilderment, a chaos, a disintegration of all the solid things which had stood firm in the North from the first generation of the seventeenth century down to the first generation of the nineteenth. The Protestant culture did not separate into a clerical and an anti-clerical, a traditional and practising as against a mocking temper: it moved in the main as one. But it moved, eddying and changing continually, like a great cloud of dust following on the crash of a building. It continued, after the catastrophe, to whirl and change: so much so, that no one can tell at this moment, or could tell under the very different spirit of, say, twenty years ago, what form the ultimate settlement may take.
@@ -3719,7 +3719,7 @@ When that is done we shall be able to judge for ourselves, and not to accept the
 
 
 
-<span class="atom-split" data-atom="part--part_51" data-title="The Cruise of the Nona (part 51)" data-chapter="part 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_51" data-title="The Cruise of the Nona (part 51)" data-chapter="part 51" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 And, again, even if we had (which we have not) a proper analysis of this sort of evidence, there would still remain the unbridged gulf between the barbaric and the civilized man.
@@ -3747,7 +3747,7 @@ From Torbay westward the bold man in the small boat makes direct for Portland Bi
 
 
 
-<span class="atom-split" data-atom="part--part_52" data-title="The Cruise of the Nona (part 52)" data-chapter="part 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_52" data-title="The Cruise of the Nona (part 52)" data-chapter="part 52" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 But I am not bold; and when I leave Torbay, I run to Lyme Regis.
@@ -3773,7 +3773,7 @@ We further know that when we repeat these conditions a dozen, or a myriad times,
 
 
 
-<span class="atom-split" data-atom="part--part_53" data-title="The Cruise of the Nona (part 53)" data-chapter="part 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_53" data-title="The Cruise of the Nona (part 53)" data-chapter="part 53" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 But as the former concept - that of the atom - is mechanical, and easy to picture, while the latter is highly mysterious, escapes measurement, and involves qualities which we do not today associate with any inherent power of number, we accept the first hypothesis We assume - we do not prove - that matter consists thus of atoms.
@@ -3805,7 +3805,7 @@ There was a very large majority in general sympathetic with the Protestant cultu
 
 
 
-<span class="atom-split" data-atom="part--part_54" data-title="The Cruise of the Nona (part 54)" data-chapter="part 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_54" data-title="The Cruise of the Nona (part 54)" data-chapter="part 54" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 But then you get another cross category: the number who desired to see the Stuart dynasty extinguished was insignificant. Charles II had been immensely popular and deservedly so, and James, the reigning King, represented legitimacy. Had not the two princesses remained to carry on the idea of the royal house - the symbol of it at least - I think one can safely say that the nation would not have tolerated a change; as for those who desired the reign of William, who were attached to his character and who respected, let alone loved him as a leader, there were none. Monmouth, if he had had the money, if the moment of his attack had come after the birth of the Prince of Wales, if he had intrigued at length and with skill to get the full support of the small wealthy group which was conspiring against the King, would have had a better chance of success than William.
@@ -3841,7 +3841,7 @@ No one knows those deserts as well as the man who sails along the sea, following
 
 
 
-<span class="atom-split" data-atom="part--part_55" data-title="The Cruise of the Nona (part 55)" data-chapter="part 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_55" data-title="The Cruise of the Nona (part 55)" data-chapter="part 55" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 There never was such loneliness! One big house, built there I suppose for the sake of the isolation, inland, under the cliff, where some old landslide has oddly disfigured the face of the earth: then, for miles and miles, nothing. At the eastern end salt waste lagoons forbid human habitation, and between them and the sea comes the strange formation of huge rounded stones, falling very steep down into the water, so that you have many fathom deep within a stone’s throw of the beach; and at last, that forbidding Chesil Cove where a few houses of fishermen, huddled together, look out upon the most inhospitable mass of threatening waters I know.
@@ -3883,7 +3883,7 @@ And, indeed, it is very ridiculous the way in which men try to withstand this in
 
 
 
-<span class="atom-split" data-atom="part--part_56" data-title="The Cruise of the Nona (part 56)" data-chapter="part 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_56" data-title="The Cruise of the Nona (part 56)" data-chapter="part 56" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 To return to harbours.
@@ -3907,7 +3907,7 @@ Unwisely, pedantically, but much more hypocritically, the less-exhausted countri
 
 
 
-<span class="atom-split" data-atom="part--part_57" data-title="The Cruise of the Nona (part 57)" data-chapter="part 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_57" data-title="The Cruise of the Nona (part 57)" data-chapter="part 57" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 * * * * *
@@ -3941,7 +3941,7 @@ It is, perhaps, in that word ‘Southampton’ that I have struck the cause. Unt
 
 
 
-<span class="atom-split" data-atom="part--part_58" data-title="The Cruise of the Nona (part 58)" data-chapter="part 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_58" data-title="The Cruise of the Nona (part 58)" data-chapter="part 58" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 There is a great deal more I had intended to write about Portland Race. I had intended to talk about the folly of the Bill challenging the sea, and how it ought to be an island, as it was for centuries. I had intended to say something of that canal between Portland Roads and the West Bay, which ought to have been dug long ago, and which some day people will wish they had dug, when it is too late. I had intended to give rules for getting round by the narrow smooth. I had intended to curse the absurd arrangement whereby the tide, instead of behaving like a reasonable human tide, and running six hours either way, runs southerly nine hours out of the twelve from both sides of the Bay, leaving only three for the dodge round. I had intended to add much more.
@@ -3971,7 +3971,7 @@ But I will tell you one last thing about St Alban’s Race. I have said that it 
 
 
 
-<span class="atom-split" data-atom="part--part_59" data-title="The Cruise of the Nona (part 59)" data-chapter="part 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_59" data-title="The Cruise of the Nona (part 59)" data-chapter="part 59" data-kind="excerpt" data-tags="motif/the_sea,motif/ship,concept/ratiocination_detection,concept/truth,concept/history,form/travel_writing,character/e_c_bentley"></span>
 
 
 Now what could such a portent mean? What was the explanation of that mystery? The sea brings all adventures, but what adventure was this? Whence did this man come? How could any man so lay a course from the Bill eastward without knowing what the Needles were, and without recognizing them when he saw them? It is true we were end on; but they are the most conspicuous rocks, by their shape, in all the Channel, and they are as familiar as Piccadilly. Even a man who had never seen them must know by his chart where they lay, and by the obvious, unmistakable, glaring white point of the Island. To ask ‘Are those the Needles?’ was like asking ‘Is that the Eddystone?’ when one had been sailing with a good breeze southward from Plymouth, and perceived a tall tower standing up utterly alone in the midst of the seas, very far from land. This man could not have crossed the Atlantic (though men have done so in boats no larger), for she was spick and span. And even had he crossed the Atlantic, he would have a chart. Was he, perhaps, a western man, who had lived all his life as in Devon or Cornwall, and had set out thus in middle age to explore the strange eastern people beyond Portland Bill?
@@ -3991,7 +3991,7 @@ The Tichborne case depends upon contradictions in which I have little reading; b
 
 
 
-<span class="atom-split" data-atom="part--part_60" data-title="The Cruise of the Nona (part 60)" data-chapter="part 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_60" data-title="The Cruise of the Nona (part 60)" data-chapter="part 60" data-kind="excerpt" data-tags="concept/history,concept/memory_and_time,concept/justice,concept/truth,form/essay,histref/french_revolution,histref/first_world_war,character/milton"></span>
 
 
 Personally, I mistrust such legends. The tendency of men to believe what it makes them happier to believe is so strong that one should lean with all one’s weight against it in public as in personal affairs. But that does not mean that the verdict was not just: it only means that the accepted legend has no authority in itself. During my boyhood the opinion of men amply qualified to judge, men eminent in the legal profession, men of the Tichbornes’ social standing and religion, was as violently divided as were later men of the same capacity for judgement in the matter of the Dreyfus affair.
@@ -4019,7 +4019,7 @@ Perhaps problems depending upon human psychology can never be finally determined
 
 
 
-<span class="atom-split" data-atom="part--part_61" data-title="The Cruise of the Nona (part 61)" data-chapter="part 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_61" data-title="The Cruise of the Nona (part 61)" data-chapter="part 61" data-kind="excerpt" data-tags="motif/ship,motif/storm,setting/ship"></span>
 
 
 It would be a worthy task to draw up a list of such essentially historical problems not involving guess-work upon human motives, but dealing with plain, physical facts; problems which have remained unsolved, and which do not seem to be in the way of being solved either. Your academic writer shirks them nearly always; he writes as though they had been solved, and as though he knew the solution; so that his readers go on imagining they have been given an explanation which as a fact has been carefully avoided.
@@ -4045,7 +4045,7 @@ Old Harry is an isolated chimney of chalk rock which still stands, expecting doo
 
 
 
-<span class="atom-split" data-atom="part--part_62" data-title="The Cruise of the Nona (part 62)" data-chapter="part 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_62" data-title="The Cruise of the Nona (part 62)" data-chapter="part 62" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 Beyond Old Harry you come to that odd entry of Poole, the history of which is, I say, inexplicable to me. It was a main harbour for the Romans; and when the Scandinavian pirates came down to destroy this outer province of Christendom, they used it as a known base. It was sailing out of Poole that a great fleet of their ships - ninety, I am glad to say - coming to pillage this Roman Land, were piled up and destroyed in Swanage Bay; and it was from Poole that they went up water to Wareham, and thence made their foray by land to Exeter.
@@ -4075,7 +4075,7 @@ The [[Wind|wind]] that night had backed to the east of south; having so far favo
 
 
 
-<span class="atom-split" data-atom="part--part_63" data-title="The Cruise of the Nona (part 63)" data-chapter="part 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_63" data-title="The Cruise of the Nona (part 63)" data-chapter="part 63" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 At the setting out from Poole you must make a course lying well outside Hengestbury, not going too close inland, for there are shoals and, I think, rocks. It is only when you have the mass of Hengestbury Head standing up like a sort of dull island against the night and a mile or two north of your beam that you can begin, or a little later, to make the Hurst Light your mark; and it was there on this stormy night that my troubles began; for both the Needles far away a-weather and Hurst itself were continually obscured by the most violent sheets of rain, which came in gusts driven before the [[Wind|wind]].
@@ -4105,7 +4105,7 @@ It is exceedingly difficult in so subtle a matter of human motive to ferret out 
 
 
 
-<span class="atom-split" data-atom="part--part_64" data-title="The Cruise of the Nona (part 64)" data-chapter="part 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_64" data-title="The Cruise of the Nona (part 64)" data-chapter="part 64" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 What are the two categories?
@@ -4127,7 +4127,7 @@ But of all the picking up of buoys and moorings, the most astonishing cast I eve
 
 
 
-<span class="atom-split" data-atom="part--part_65" data-title="The Cruise of the Nona (part 65)" data-chapter="part 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_65" data-title="The Cruise of the Nona (part 65)" data-chapter="part 65" data-kind="excerpt" data-tags="motif/the_sea,motif/ship,concept/history,concept/socialism,form/travel_writing,histref/english_civil_war,histref/danish_invasions,character/charles_i,character/king_alfred"></span>
 
 
 * * * * *
@@ -4151,7 +4151,7 @@ That old socialist fervour of the great Dock Strike of ‘89 and its time is dea
 
 
 
-<span class="atom-split" data-atom="part--part_66" data-title="The Cruise of the Nona (part 66)" data-chapter="part 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_66" data-title="The Cruise of the Nona (part 66)" data-chapter="part 66" data-kind="excerpt" data-tags="motif/storm,motif/wind"></span>
 
 
 It was a time when men who have since been caught into the net of professional politics, and have lost their souls, went down to speak fiercely at street corners, and to light in the hearts of broken men the flame of human dignity.
@@ -4177,7 +4177,7 @@ The Sussex rivers left to themselves get a bar piled up in front of their mouths
 
 
 
-<span class="atom-split" data-atom="part--part_67" data-title="The Cruise of the Nona (part 67)" data-chapter="part 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_67" data-title="The Cruise of the Nona (part 67)" data-chapter="part 67" data-kind="excerpt" data-tags="motif/ship,motif/storm,motif/wind,setting/ship"></span>
 
 
 * * * * *
@@ -4215,7 +4215,7 @@ It is in the irony of Providence that the more man comes to control the material
 
 
 
-<span class="atom-split" data-atom="part--part_68" data-title="The Cruise of the Nona (part 68)" data-chapter="part 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_68" data-title="The Cruise of the Nona (part 68)" data-chapter="part 68" data-kind="excerpt" data-tags="concept/faith_and_doubt,concept/reason_and_rationalism,concept/tradition,concept/heresy_and_schism,form/essay,histref/the_reformation,histref/the_renaissance,histref/catholic_church,character/voltaire"></span>
 
 
 It is absorbing to watch change coming upon a whole civilization. The thirty years of active manhood, the forty years of consecutive experience and memory which a man of my age can remember, the years 1884-94-1924, form, perhaps, the best period for watching such things that we Europeans of the West have had since the Renaissance.
@@ -4251,7 +4251,7 @@ This short-lived but attractive philosophy reduced its main dogmas, or postulate
 
 
 
-<span class="atom-split" data-atom="part--part_69" data-title="The Cruise of the Nona (part 69)" data-chapter="part 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_69" data-title="The Cruise of the Nona (part 69)" data-chapter="part 69" data-kind="excerpt" data-tags="concept/faith,histref/catholic_church"></span>
 
 
 Undoubtedly the underlying conception common to the rationalists was this, that there is a certain knowledge of reality to be obtained through the reason dealing with the senses and experience common to all men, and only what can be so obtained is to be affirmed as true. What could not be so obtained is to be rejected as doubtful or false. But while this was their underlying conception, they could not shake off a considerable body of their Catholic past.
@@ -4281,7 +4281,7 @@ The reason, for instance, that the poet Wordsworth attained so ill-proportioned 
 
 
 
-<span class="atom-split" data-atom="part--part_70" data-title="The Cruise of the Nona (part 70)" data-chapter="part 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_70" data-title="The Cruise of the Nona (part 70)" data-chapter="part 70" data-kind="excerpt" data-tags="concept/faith,histref/catholic_church"></span>
 
 
 In France and Italy this same reaction took the form of accepting the universe as blind but moral; the Pantheist movement of the anticlerical factions deified what were taken to be the common moral emotions of mankind speaking particularly of ‘Truth’ and ‘Justice’ as though there were real beings in a universe where the personal power and virtues of a creator were denied. Throughout the more cultivated Europe a certain number of special marks of the thing increased, notably the insistence upon landscape, upon our fellowship with the rest of animated creation, and side by side with these a disdain or negligence or despair upon the sharp points of Divine Will, of personal immortality, of possible doom.
@@ -4313,7 +4313,7 @@ Having thus stated the great quarrel, I ought, perhaps, like a good modern, to b
 
 
 
-<span class="atom-split" data-atom="part--part_71" data-title="The Cruise of the Nona (part 71)" data-chapter="part 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_71" data-title="The Cruise of the Nona (part 71)" data-chapter="part 71" data-kind="excerpt" data-tags="concept/distributism,concept/socialism,concept/slavery,concept/capitalism,concept/class_conflict,concept/labor_and_work,concept/liberty,form/essay"></span>
 
 
 There is upon the one side (everywhere except in England) a now large, a believing, and a coherent Catholic body; there is upon the other side the mood of which I have spoken - the mood in which it is even thought worse to be cruel to an animal than to a man; the mood in which the existence and nature of the human soul are contentedly or discontentedly left aside as undiscoverable; the mood in which the most fundamental institutions of society may be questioned or denied; the mood in which the fixity of marriage is universally abandoned, and in which property has no longer a reasoned moral right. Indeed, in poor support of property (outside the Catholic Philosophy) today only two rotten struts remain: first, the assertion that possession by a few in the midst of a free community is natural because it has always existed. That is mere ignorance of history. Secondly, the asinine pretence that the few who possess have a right to possession through their greater virtue and intelligence - as for instance a millionaire eating uneatable things to the noise of an intolerable band in any one of our cosmopolitan hotels...
@@ -4343,7 +4343,7 @@ Just for the moment the odds are in favour of the term ‘loyalty’ - it has a 
 
 
 
-<span class="atom-split" data-atom="part--part_72" data-title="The Cruise of the Nona (part 72)" data-chapter="part 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_72" data-title="The Cruise of the Nona (part 72)" data-chapter="part 72" data-kind="excerpt" data-tags="archetype/the_writer"></span>
 
 
 There is quite a chance that the words ‘loyal’ and ‘loyalty’ will capture the position, and that a few generations hence we may have placards on the wall: ‘Notice: A disloyal employee of the Meat Trust is at large’, with a description of him following; and then we shall have ‘loyalty’ courts for trying and punishing people who rebel against compulsory labour.
@@ -4375,7 +4375,7 @@ Thirteen hundred years ago, the great fact before all men’s eyes was the Roman
 
 
 
-<span class="atom-split" data-atom="part--part_73" data-title="The Cruise of the Nona (part 73)" data-chapter="part 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_73" data-title="The Cruise of the Nona (part 73)" data-chapter="part 73" data-kind="excerpt" data-tags="archetype/the_writer,motif/ship,motif/wind,setting/ship"></span>
 
 
 To our own modern world there must come either some vast religious reaction, or some vast religious novelty, or both. It is inevitable; for men live by religion. Yet no one speaking of the future takes it for one moment into account. I know of but one book, a book of singular genius, in which the thing appears, though tentatively; and that is in Jefferies’ fine vision called After London. But even Jefferies did not make of it the main source of change. In his day men had already begun to lose the significance of religion in human affairs.
@@ -4409,7 +4409,7 @@ We brought up as night fell under the shelter of Folkestone breakwater. It had f
 
 
 
-<span class="atom-split" data-atom="part--part_74" data-title="The Cruise of the Nona (part 74)" data-chapter="part 74" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_74" data-title="The Cruise of the Nona (part 74)" data-chapter="part 74" data-kind="excerpt" data-tags="motif/the_sea,concept/nostalgia,concept/critique_of_progress,concept/transience,concept/memory,form/travel_writing,setting/england"></span>
 
 
 How well (too well?... No) does a man get to know a bit of coast like this, between Selsea and the Downs, after half a life of lazy passages along it, and (to be just) sometimes of wicked winds. It becomes as familiar as a street; not only the aspect of the shore - changeable as that is - not only lights and buoys, and the hours for the turn of tides and all the rest of it, but the very sea itself in spite of its innumerable diversity.
@@ -4437,7 +4437,7 @@ At the beginning of the period England had a Press - daily, weekly, monthly, and
 
 
 
-<span class="atom-split" data-atom="part--part_75" data-title="The Cruise of the Nona (part 75)" data-chapter="part 75" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_75" data-title="The Cruise of the Nona (part 75)" data-chapter="part 75" data-kind="excerpt" data-tags="concept/critique_of_progress,concept/fame_and_publicity,concept/vulgarity,concept/power_and_corruption,form/essay,histref/mussolini_and_italian_fascism"></span>
 
 
 This class (the gentry, or whatever you like to call it) had its own Press, the great daily papers, the weekly reviews, the serious monthly and quarterly reviews. Side by side with that Press there was a frankly popular Press, which had no sort of power, and which was intended to amuse the non-political mass below. It was represented in two or three very vulgar Sunday newspapers full of police-court cases, and murders, and the rest; and weekly papers with tittle-tattle about the superiors of the class which read them; but it was the Press of the educated class which represented, mirrored, and to some extent influenced the general action of England.
@@ -4459,7 +4459,7 @@ Less obvious than the complete change in the Press, in its functions and charact
 
 
 
-<span class="atom-split" data-atom="part--part_76" data-title="The Cruise of the Nona (part 76)" data-chapter="part 76" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_76" data-title="The Cruise of the Nona (part 76)" data-chapter="part 76" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/democracy,concept/authority,concept/kingship_and_legitimacy,concept/justice,concept/tradition,form/essay"></span>
 
 
 But for this evil there is more hope of remedy than there is for the evil of the Press. When any organ of government reaches a certain degree of decay, some other automatically takes its place, and if the substitution is made promptly enough, the State may bridge over the passage without disaster.
@@ -4483,7 +4483,7 @@ There are then, as I see it, two elements in the now admitted and universal tole
 
 
 
-<span class="atom-split" data-atom="part--part_77" data-title="The Cruise of the Nona (part 77)" data-chapter="part 77" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_77" data-title="The Cruise of the Nona (part 77)" data-chapter="part 77" data-kind="excerpt" data-tags="concept/fear"></span>
 
 
 If these be the real foundations of the tolerance of these evils, the artificial arguments advanced are many and varied. I remember one political dinner-table in Surrey where we thrashed out the whole business at some length. Everybody present was connected with public life directly or indirectly, and no one, so far as I know, was himself or herself guilty. Yet, out of twenty, only three of us, of whom I was one, maintained the necessity of checking the evil. All the others, the remaining men and, of course, all the women, relied upon this argument: that what you wanted in the conduct of the State was ability, sound judgement of the elements in any problem to be dealt with, and a good forecast of the immediate future. If you had these, they said, the country prospered; lacking these, any disaster might come. If you got these qualities in those who governed, it did not matter whether they were also given to peculation, or to odd tricks of spying and threatening, or to selling policies and monopolies or to taking bribes.
@@ -4507,7 +4507,7 @@ I cannot imagine a man going to the younger Pitt, and saying: ‘My brother who 
 
 
 
-<span class="atom-split" data-atom="part--part_78" data-title="The Cruise of the Nona (part 78)" data-chapter="part 78" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_78" data-title="The Cruise of the Nona (part 78)" data-chapter="part 78" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 Here is, I think, the core of the whole matter. Those patriots who rightly think they serve the country by strengthening the authority of even nominal governors, but who are persuaded that the toleration of political vice strengthens such authority, make in this second postulate of theirs a very obvious error. It is an error which they would not make, I think, if they lived the life of their fellow-citizens and knew the average Englishmen better than they do.
@@ -4537,7 +4537,7 @@ I pointed out that I had traduced no one, that I had only asked for the names of
 
 
 
-<span class="atom-split" data-atom="part--part_79" data-title="The Cruise of the Nona (part 79)" data-chapter="part 79" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_79" data-title="The Cruise of the Nona (part 79)" data-chapter="part 79" data-kind="excerpt" data-tags="motif/ship,concept/fear,setting/ship"></span>
 
 
 It was only a small episode, though it would not have seemed small to the officers or crew if their [[Ship|ship]] had struck in the middle of the night owing to a defect in the steering gear - still honestly, it was a small matter as politics go. There are hosts of much graver instances, but it was a characteristic one.
@@ -4565,7 +4565,7 @@ The test is very simple. On the day when a Cabinet Minister is heavily fined or 
 
 
 
-<span class="atom-split" data-atom="part--part_80" data-title="The Cruise of the Nona (part 80)" data-chapter="part 80" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_80" data-title="The Cruise of the Nona (part 80)" data-chapter="part 80" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/democracy,concept/hypocrisy,concept/greed_and_money,form/essay,character/gladstone"></span>
 
 
 One point of view was presented to me by a wise old gentleman who had spent about thirty years (doing nothing) in the House of Commons and then wangled a peerage (for nothing) out of his colleagues; for he desired to live on under the same roof and to spend the last of his days amusing himself - remaining an indulgent spectator of what was still, to him, a slightly interesting affair.
@@ -4603,7 +4603,7 @@ After all, I have heard much the same tone of religious veneration in those desc
 
 
 
-<span class="atom-split" data-atom="part--part_81" data-title="The Cruise of the Nona (part 81)" data-chapter="part 81" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_81" data-title="The Cruise of the Nona (part 81)" data-chapter="part 81" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/antisemitism,concept/fame_and_publicity,concept/democracy,form/essay,histref/marconi_scandal"></span>
 
 
 So there is still hope.
@@ -4635,7 +4635,7 @@ I have delayed on this subject too long. It is public property, and filth at tha
 
 
 
-<span class="atom-split" data-atom="part--part_82" data-title="The Cruise of the Nona (part 82)" data-chapter="part 82" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_82" data-title="The Cruise of the Nona (part 82)" data-chapter="part 82" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 It is possible that I exaggerate the effect of the evil; it is possible that some novel remedy besides the obvious one of increasing the power of the Crown may set things right. It has certainly done so in the past, the break-up of one institution apparently necessary to society has discovered the importance of other forces which have saved society by bringing up new forces unsuspected. It is possible. Perhaps it is probable. It is to be hoped. And that is all one can say.
@@ -4663,7 +4663,7 @@ We sped on (the stream against us, very slight now that we were inside the Ness)
 
 
 
-<span class="atom-split" data-atom="part--part_83" data-title="The Cruise of the Nona (part 83)" data-chapter="part 83" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_83" data-title="The Cruise of the Nona (part 83)" data-chapter="part 83" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 The little town stood up inland, neat and beautiful, red and grey, a pyramid thrown up towards its squat steeple; for under that keen north-easterly air all was clear and well cut. The pilot-book gave us no comfort, it only told us that the deep changes with every gale, and, as for the lead, there was no use for it, the shore would come too steep; what we had to do was to look out for the outer buoy, and round it, hoping that as we turned we should neither touch nor get into irons, but still have the [[Wind|wind]] easterly enough to round to take us in.
@@ -4691,7 +4691,7 @@ This truth is missed by people who say that good writing has no market. That is 
 
 
 
-<span class="atom-split" data-atom="part--part_84" data-title="The Cruise of the Nona (part 84)" data-chapter="part 84" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_84" data-title="The Cruise of the Nona (part 84)" data-chapter="part 84" data-kind="excerpt" data-tags="concept/literary_criticism,concept/fame_and_publicity,concept/immortality_of_art,form/essay,character/h_g_wells"></span>
 
 
 For some few months thousands upon thousands - at one moment 60,000 a week - of the articles I wrote upon the War were demanded by the public. Some months later the same articles, of the same value, or lack of value, were no longer demanded. There was no particular reason, the articles were clear, and based upon such insufficient knowledge as I shared with all my fellow-citizens. I had no private information save upon the point of numbers, and that was the very point upon which the public grew most easily fatigued, and were at last most sceptical.
@@ -4705,7 +4705,7 @@ Sometimes one hears that a great demand for a book, or for a set of newspaper ar
 
 
 
-<span class="atom-split" data-atom="part--part_85" data-title="The Cruise of the Nona (part 85)" data-chapter="part 85" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_85" data-title="The Cruise of the Nona (part 85)" data-chapter="part 85" data-kind="excerpt" data-tags="archetype/the_writer"></span>
 
 
 Of course, there is a different set of factors operating in different phases of society. The popular best-seller of today depends upon the existence of our great towns with their machine-made citizens, all working blindly in little grooves, lacking any common direction - a dust of individuals. He depends also on that new-fangled, mechanical, and, let us hope ephemeral, institution called ‘popular education’. If you tell millions of boys and girls (nearly all the citizens of the State), at the age when they receive unquestioning any dogmatic teaching, that their ancestors were repulsive savages, first actually bestial, later exceedingly vile, and that these ancestors passed through certain stages, and were ‘Cavemen’, and men of the ‘Stone Age’, and of the ‘Bronze Age’, and so forth; then, obviously, writers using such terms, and taking for granted such a mythology, will fit in with the popular market. The demand for books, or of writing in any form, is created by minds already moulded, and any kind of writing which tends to break the mould is resented and left on one side. In older phases of society, judgement upon writing was passed by a few well-trained and leisured people, who handed down their judgements to a larger class, but still a small class compared with the whole State; and it is clear that in such a condition of society - which was that of England from the last third of the eighteenth century to the last third of the nineteenth - there would be no best sellers in our modern sense, and that there would be a nearer approach between the demand for a book and its excellence. But there also the mould had to be considered. Macaulay’s false rhetoric sold well, because it agreed with the religion of his day. No historical work telling the truth about James II would have sold in his day, nor for that matter would any such matter sell in ours.
@@ -4725,7 +4725,7 @@ He that succeeds in presenting the idea lucidly, so that no modification or subs
 
 
 
-<span class="atom-split" data-atom="part--part_86" data-title="The Cruise of the Nona (part 86)" data-chapter="part 86" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_86" data-title="The Cruise of the Nona (part 86)" data-chapter="part 86" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 But the worst enemy of prose today is the snobbishness of rules and forms, the mumbo-jumbo of hieratic prescription. The influence of these is a very good example of that excellent rule laid down by St Thomas Aquinas that all evil exists in mistaking, or misusing, the means for the end. This plague of pedantry does not rage quite as severely as it did when I was young, but it is still pretty severe. You are told that it is good prose, for instance, to have as few adjectives as possible. That is nonsense. It is good prose to have as many adjectives as you need, and no more. You are told, as a sort of eleventh commandment, never to split an infinitive; the rule is that of an excellent master of English, the late Professor Ker, who adds, ‘except when euphony demands it’. I would go further; I would say that when the spoken language has arrived, as ours has today, at the universal use of the split infinitive, the written language may follow at some little distance behind. We are told that prose must never be emphatic, or excited, or this, or that, or the other. All that is nonsense. Prose must be emphatic when special emphasis is to be expressed, excited when excitement is to be expressed, and so forth. But certainly the character of good prose is the subordination of everything in it to the end, which is expression of what you have to say; and that is the distinction between good prose and rhetoric and verse. For in rhetoric and in verse the end is the emotion you desire, non-rationally, to excite; but in prose the end is rational, presentation, narration, or statement of thesis: nothing more.
@@ -4749,7 +4749,7 @@ But I am aboard the Nona again, and must put her out down channel. This will I n
 
 
 
-<span class="atom-split" data-atom="part--part_87" data-title="The Cruise of the Nona (part 87)" data-chapter="part 87" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_87" data-title="The Cruise of the Nona (part 87)" data-chapter="part 87" data-kind="excerpt" data-tags="motif/ship,motif/storm,motif/wind,setting/ship"></span>
 
 
 It would be no bad thing if someone (I am not competent) were to draw up a list of advices for the brutish man who is too poor to sail a big boat, or is not such a fool as to desire one; I mean a list of advices for a man who sails such a boat as the Nona: say, boats from seven tons to twenty.
@@ -4781,7 +4781,7 @@ All this I say knowing full well that I myself am incapable of it; but I am givi
 
 
 
-<span class="atom-split" data-atom="part--part_88" data-title="The Cruise of the Nona (part 88)" data-chapter="part 88" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_88" data-title="The Cruise of the Nona (part 88)" data-chapter="part 88" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 My own boat has usually come into port more like the disturbed nest of a dormouse than like the spick-and-span arrangement which I advise. Half the blocks will be jammed, the anchor will be caught under the bows, and as like as not, the fluke of it hooked over one of the whiskers. The falls will be all tangled up together. The warping ropes will be mixed up with the anchor chain in the fo’c’sle, so that there is no getting at the one, or paying out the other. She will perhaps be coming in under three reefs with hardly enough [[Wind|wind]] to move her, because it has been blowing a few hours ago, and I have been too lazy to shake them out. Her jib will be slack, her cabin light broken where I have put my heel through it. A hundred other little familiar touches will make whatever landsman is passing his time gazing out to sea from the pier-head recognize from far off the Nona, as the Arabs recognized the great [[Ship|ship]] of Richard the Lion-hearted saying, ‘There comes the red sail of the Frankish king.’ There never was such a boat as the Nona for coming in hugger-mugger. But do as I preach, not as I practise. Have everything in its place and a place for everything, so that, in a flash, you can shorten sail, let go the anchor, get to your warping ropes, or do any of those many things required by sailing men. Even Plato was moved to discover the way in which the horrible Phoenicians used space aboard their ships, and had everything in order, though Heaven knows he could have had little sympathy with the sailing of the seas. Indeed, very few men who have written in the sentimental and rhetorical fashion (of which he was a master) have had also a call for the outside. But even he, I say, admired the order of shipboard. So be it with you.
@@ -4801,7 +4801,7 @@ Now the putting on of these little markings is of value, also, to prevent you le
 
 
 
-<span class="atom-split" data-atom="part--part_89" data-title="The Cruise of the Nona (part 89)" data-chapter="part 89" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_89" data-title="The Cruise of the Nona (part 89)" data-chapter="part 89" data-kind="excerpt" data-tags="motif/storm,motif/wind"></span>
 
 
 My fifth rule would be: Don’t keep too close to the [[Wind|wind]]; let her sail; keep her full.
@@ -4823,7 +4823,7 @@ I know that all this rough and ready talk about the topsail will sound like here
 
 
 
-<span class="atom-split" data-atom="part--part_90" data-title="The Cruise of the Nona (part 90)" data-chapter="part 90" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_90" data-title="The Cruise of the Nona (part 90)" data-chapter="part 90" data-kind="excerpt" data-tags="motif/storm,motif/wind"></span>
 
 
 My eighth rule (which, if I were putting them in order of importance would come very early in the list) is: Look to every part of your gear-, not only when you are starting out upon a cruise, but all the time. Look minutely to every point where there may be weakness. See that all is secure, and that all the running gear runs freely. This means running your eye and hand over the ropes and looking closely to the blocks, and to the attachments of hooks and swivels, and to the ties of the leach upon the rings, and to the parrel line at the jaws, and, indeed, to all details of which there is a very long list, when you come to think of it, even in the simplest rig. Take nothing for granted, test everything. When you find anything doubtful - a cleat that shakes a little, or a run that jams for a second, or whatever it may be - put it right at once. The whole thing may be somewhat of a business, but in this, as in most things on board a boat, work all the time.
@@ -4849,7 +4849,7 @@ Do not, while I am talking of charts and the official sailing books - The Channe
 
 
 
-<span class="atom-split" data-atom="part--part_91" data-title="The Cruise of the Nona (part 91)" data-chapter="part 91" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_91" data-title="The Cruise of the Nona (part 91)" data-chapter="part 91" data-kind="excerpt" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 But I suppose, talking of lights, that the most difficult thing for the poor land-living fellow who now and then sails (the most difficult thing for people like you and me, that is) is dealing with the lights of moving craft when one comes up a fairway at night.
@@ -4891,7 +4891,7 @@ That harbour of Hastings has today quite disappeared, its defences worn down by 
 
 
 
-<span class="atom-split" data-atom="part--part_92" data-title="The Cruise of the Nona (part 92)" data-chapter="part 92" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_92" data-title="The Cruise of the Nona (part 92)" data-chapter="part 92" data-kind="excerpt" data-tags="concept/fear"></span>
 
 
 I hope that Hastings has reasserted its right to christen the great battle. When I was at Oxford it was a favourite piece of humbug among the academic to call the Battle of Hastings ‘Senlac’.
@@ -4927,7 +4927,7 @@ A man steeped in English can say with authority to a foreigner, ‘This letter i
 
 
 
-<span class="atom-split" data-atom="part--part_93" data-title="The Cruise of the Nona (part 93)" data-chapter="part 93" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_93" data-title="The Cruise of the Nona (part 93)" data-chapter="part 93" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 The statement has authority. He can judge the date of the handwriting, and I cannot. But if he goes on to say, ‘Therefore the statement is not contemporary,’ he is talking the wildest nonsense, because our common experience is sufficient to tell us that men do, and may, take manuscript copies of things written before their time. If a man steeped in all the details of Elizabeth’s reign, says of a particular MSS. it is spurious because, ‘At such a date in the late sixteenth century, a document of this particular kind would be found reduced to print and not re-copied in manuscript,’ I should answer, by the use of my common sense, ‘Why not? How do you know what motive the man may have had who copied it? How do you know whether it has not been reduced to print in some form which we have lost? How do you know that it may not be some family possession which the owner did not want spread broadcast, or which he only had the curiosity to copy out himself?’
@@ -4949,7 +4949,7 @@ Go to Battle and see the place where Harold fell. You can mark it to a yard. Loo
 
 
 
-<span class="atom-split" data-atom="part--part_94" data-title="The Cruise of the Nona (part 94)" data-chapter="part 94" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_94" data-title="The Cruise of the Nona (part 94)" data-chapter="part 94" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 There never was, I suppose, one day spent in this island with greater consequence to Christendom.
@@ -4983,7 +4983,7 @@ For instance, if you were to burst into a man’s room, and say, ‘Only last we
 
 
 
-<span class="atom-split" data-atom="part--part_95" data-title="The Cruise of the Nona (part 95)" data-chapter="part 95" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_95" data-title="The Cruise of the Nona (part 95)" data-chapter="part 95" data-kind="excerpt" data-tags="archetype/the_writer,motif/wind"></span>
 
 
 So do I advise those to speak who desire their fellow-beings to be converted in the matter of the Great Sea Serpent.
@@ -5015,7 +5015,7 @@ I cannot call to mind a single strike or lock-out during the last twenty years, 
 
 
 
-<span class="atom-split" data-atom="part--part_96" data-title="The Cruise of the Nona (part 96)" data-chapter="part 96" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_96" data-title="The Cruise of the Nona (part 96)" data-chapter="part 96" data-kind="excerpt" data-tags="archetype/the_writer,motif/ship,motif/wind,setting/ship"></span>
 
 
 We were told, all of us until we were tired, that the men, by refusing their labour, had thrown out a great public service, which was perfectly true. What was omitted was the counterpart of the same truth; that the owners of capital, by refusing to pay the sum demanded by those with whom they had to enter into contract, were equally throwing out a great public service.

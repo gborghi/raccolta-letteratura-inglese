@@ -223,7 +223,7 @@ that secret throne of contemplation, from which he never [[Rose|rose]] again....
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="runabbot (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="runabbot (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/nature,motif/time,motif/well,concept/nature,setting/castle,character/aquinas"></span>
 
 
 The Runaway Abbot
@@ -314,7 +314,7 @@ Non è molto facile ricostruire il corso di questa furiosa lite familiare, e com
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="runabbot (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="runabbot (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/desire,motif/journey,motif/road,motif/well,concept/ambition,concept/courage,setting/italy,setting/paris"></span>
 
 
 Thomas of Aquino wanted to be a Friar.  It was a staggering
@@ -438,7 +438,7 @@ più pratica pertinacia dell'uomo che vien detto teorico.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="runabbot (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="runabbot (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,topos/golden_age,motif/blood,motif/cross,motif/fire,motif/hill,motif/road,motif/rose,motif/storm,motif/time,motif/well,concept/ambition,concept/democracy,concept/faith,concept/history,concept/humility,concept/imagination,concept/imprisonment,concept/mercy,concept/poverty,concept/pride,concept/temptation,form/history,form/riddle,setting/castle,character/cain"></span>
 
 
 Thus at least did those three strange brethren stagger or trail

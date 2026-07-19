@@ -2359,7 +2359,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Emmanuel Burden, Merchant — Chapter 12" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Emmanuel Burden, Merchant — Chapter 12" data-chapter="Chapter 01" data-kind="chapter" data-tags="setting/england,setting/london,character/g_k_chesterton"></span>
 
 
 CHAPTER XII
@@ -2435,7 +2435,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 CHAPTER I
@@ -2475,7 +2475,7 @@ As is so often mysteriously the case with even numerous families, the name of th
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 MR BURDEN’S NEPHEW, HILDEBRAND WORTHING, WHOSE INHERITANCE OF GENTLE BLOOD SADLY UNFITTED HIM FOR A COMMERCIAL LIFE
@@ -2505,7 +2505,7 @@ Certain of the old man’s habits would have jarred upon a man and woman of less
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 Indeed, when Mr Gladstone’s windows in Harley Street were broken by a mob, nothing but Mr Burden’s filial piety restrained him from rebuking the excessive glee of his now aged father; and when Mr Disraeli was promoted to the peerage and offered a golden wreath by a co-religionist, Mr Burden went so far as to take Mrs Burden to the seaside for a week, until the storm should have blown over.
@@ -2545,7 +2545,7 @@ Cosmo had never enjoyed such health as had his sisters. The first months of his 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Emmanuel Burden, Merchant — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 As a boy of ten, when his sisters were barely out of the schoolroom, he was placed in the preparatory school of Dr Stanton at Henley.
@@ -2587,7 +2587,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER II
@@ -2621,7 +2621,7 @@ He recalled them as she spoke. He could find nothing in them to warrant so extra
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/letters_writing,motif/money_gold,concept/money_and_avarice,form/satire,form/social_novel"></span>
 
 
 He was troubled and returned on the morrow.
@@ -2659,7 +2659,7 @@ Then came Bazeley. How much did he owe the Bazeley stable? He certainly could no
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Cosmo was searching mentally among the “B’s,” and had found Belper — say, twenty-eight pounds, when he suddenly remembered Bailey the Bookbinder. The bill was a small one, not more than four or five pounds at the outside — say six — but it annoyed him because “Bai” comes before “Bar.” He squeezed it in at the top and went on with his work. Within an hour, after many erasures and transpositions, he had completed the “B’s.” There were sixteen of them, for B is the commonest of initials; still, there were sixteen. They came between them to a trifle over £300, did the “B’s.” He was turning to the letter C with a heavy heart, when he suddenly remembered two “A’s” — Alfred the photographer, and Aiken, of whom he had bought the saddles. He took up a fresh sheet to make a new list, wrote down their names, and then angrily crumpled up the whole and threw it into the fire. What could all this do for him? He owed five hundred, perhaps six — probably nearer seven — call it seven.... Anyhow he had the prospect and the power of paying.... But as he looked fixedly at the paper, burning before him like an expiation, a lumbering step came up the stone stairs without, he answered a heavy uncertain knock, and there entered something of more moment even than his debts: the considerable form and purpose of Mr Capes.
@@ -2713,7 +2713,7 @@ There is nothing in the world of business more difficult to estimate than the su
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 “Seven hundred and fifty pounds,” said he. Then he added, by way of rounding off the crudeness of the figures, “and not a penny less!”
@@ -2745,7 +2745,7 @@ The more serious organs of the Press, from the Times to “M.M.M.” (Money Make
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_gold,concept/money_and_avarice,concept/capitalism,form/satire,form/social_novel"></span>
 
 
 With the name of Mr Barnett, however — a name which calls up to all Englishmen affairs of far greater moment — I am touching upon the principal subject of these few pages: that unhappy misunderstanding concerning the M’Korio Delta, and its fatal issue for Mr Burden, my friend. Let me leave these to their proper order, and return to Cosmo in his despair.
@@ -2833,7 +2833,7 @@ In spite of his good nature, Mr Harbury was almost angry with a young man aghast
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Emmanuel Burden, Merchant — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_gold,concept/empire_and_imperialism,concept/capitalism,concept/money_and_avarice,form/satire,form/social_novel"></span>
 
 
 Cosmo waited a little, as they do in story books, and then Mr Harbury saw by his face that he had consented, and Mr Harbury laughed again a clear laugh, and put his hand upon his shoulder, and Cosmo, from whom certainly a great weight had gone, asked him where he was dining, and said he would come too.
@@ -2901,7 +2901,7 @@ LORD GEORGE HAMPTON, PIONEER AND EXPLORER (FROM A SKETCH VERY KINDLY COMMUNICATE
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER III
@@ -2945,7 +2945,7 @@ After Basingstoke’s great effort, several travellers appeared in succession in
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="histref/british_empire"></span>
 
 
 Ronald was given an excellent post, and has since enjoyed all that public repute and a wealthy marriage can afford, but the error of his recall was the beginning of a series of official blunders, which all but forfeited the fruit of so much private heroism.
@@ -2979,7 +2979,7 @@ It may seem an impertinence in me to do so. His name is familiar enough to the w
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 Mr Barnett’s offices in Broad Street are well known to everyone in the [[City]]. Under the name of the M’Korio Delta Development Co., they are, as Mr Barnett has himself strikingly put it in the Intellectual Review, “a household word.” They occupy, of course, Nos. 73, 75, 77, 79 and 81 of Golden Square House. It is not so generally known that, under the business name of the “British and Levantine,” they stretch over Nos. 83, 85, 87, 89, 91, 93, 95, 97 and 99 of the same building. Five rooms of the ground floor (under the name of Bury & Co.) and a considerable part of the basement devoted to the XXth Century Wine Company are in the same hands.
@@ -3009,7 +3009,7 @@ This legitimate purpose she did not live to fulfil. She died soon after her esta
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 Mr Barnett has often pointed out to me the little room in the Albany where he began his long and difficult struggle with fortune. He spent little, he lived laboriously; within ten years he had accumulated a sufficient capital to devise and launch the Haymarket Bank. The scheme of this speculation, risked by a comparatively poor man, yet in the early thirties, should be enough to stamp the genius of its creator. The Bank depended upon a principle which, had it but proved successful, would have revolutionised the financial world. All depositors were paid interest yearly upon the average of their current accounts at the rate of eight per cent. At first it was difficult to persuade a public wedded, wherever money was concerned, to formal routine; but when, at the end of the first year, the eight per cent. was duly paid (for Mr Barnett would accept no more than his original capital could meet), timidity gave place to enthusiasm, for eighteen months the institution increased as though by magic. If ever the ordinary operations of the bank failed, on occasion, to earn the stipulated interest, fresh depositors could always be depended on: their accounts furnished the funds necessary for the satisfaction of the yearly dividend. These in turn received at the end of twelve months, the eight per cent., which yet another band of new investors had delightedly furnished.
@@ -3033,7 +3033,7 @@ He stayed as long as his health would permit, Harbury by his side, meeting the n
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Emmanuel Burden, Merchant — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 He learnt that without them nothing could be done: this he learnt thoroughly: this of all the things most impressed him.
@@ -3079,7 +3079,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER IV
@@ -3113,7 +3113,7 @@ Mr Burden’s dissociation from the underlying philosophy of his time went deepe
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 When he was asked, as I once asked him, how a man could be rich and yet not mixed up with the principal source of modern wealth in [[England]], he replied with a simple affirmation; he said that any one in office should sell whatever shares he had possessed in such concerns. He refused to follow the logical consequences of his creed.
@@ -3139,7 +3139,7 @@ This contempt of his for the M’Korio was broken down at last by the interventi
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 The ground had first to be prepared for the whole public and for Mr Burden as a part of that public; and the instrument of this preparation was the power which — a full year before he had met Mr Burden’s son — Mr Barnett had begun to exercise over the Press.
@@ -3169,7 +3169,7 @@ It is time that I should turn from the ungrateful task of defending a man agains
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Emmanuel Burden, Merchant — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 Mr Powler had been among the first to see the advantages of reversing our fiscal policy. As long ago as 1898, just after taking his degree, he had written a powerful defence of Protection which had earned him his Fellowship. He was poor, and the whole weight of his genius might have been lost for years to [[England]] had not Mr Barnett appointed him to the editorship of The Review, just before the outbreak of the war in South Africa. No one is ignorant of the effect of that appointment.
@@ -3207,7 +3207,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER V
@@ -3245,7 +3245,7 @@ Nay more, Lord Benthorpe himself, as Cosmo discovered with astonishment and plea
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Nor was it only the name and opinions of Lord Benthorpe that mingled with their discussions. Once his lordship came in person to a dinner of Mr Barnett’s, and was willing to express by word of mouth his strong faith in the future of the M’Korio Delta. Upon another occasion, Mr Harbury was able to read a letter from him, regretting the peer’s inability to address a small private meeting upon the potentialities of the M’Korio, potentialities which, in his absence, were set forth by that Major Pondo, with whom, as I have just remarked, and shall probably remark again, a future page must deal.
@@ -3281,7 +3281,7 @@ Not that any hint of their coming responsibility was permitted to enter the chil
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 In a word, the first Lord Benthorpe had proved characteristically successful in this his last and (as it proved) posthumous task.
@@ -3319,7 +3319,7 @@ True to the straight line of honour in which he had been brought up, he refused 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Emmanuel Burden, Merchant — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/empire_and_imperialism,concept/capitalism,concept/hypocrisy,form/satire,form/social_novel"></span>
 
 
 Lady Benthorpe held the helm meanwhile unflinchingly in her large grasp. She was of that kind which old Sutter finely calls “strong women of the Lord”; of that kind which devised the motto: “Homo sum: nihil humanum a me alienum puto.” To the last she kept an open political drawing-room, of considerable if decreasing account with the literary and professional classes, using for that purpose in winter the town house of her sister, but during the season the large room of the Progress Galleries, to the left — on the first landing.
@@ -3373,7 +3373,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 CHAPTER VI
@@ -3419,7 +3419,7 @@ It was late in the evening at Avonmore: the fire lit in fitful glimpses the eigh
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/economics,form/satire,form/social_novel"></span>
 
 
 The hour and the scene were propitious, when Mr Burden committed himself to a confidence unique in his lifetime; for, with the single exceptions of Mr Abbott, whose advice he most constantly demanded, of his head clerk (a man of immense experience), and of his sister, no human being, he could boast, had inspired his ventures or had ever been privy to his intentions.
@@ -3465,7 +3465,7 @@ Mr Burden smiled tolerantly: he had a reminiscent vision of his boy’s rapid su
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 “Why not ask Lord Benthorpe?” he said.
@@ -3501,7 +3501,7 @@ For a few moments he was at once bewildered and annoyed at hearing that he was r
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 His mind was hardly fixed upon this excellent solution when the train stopped; he heard called the name of Great Monckton, and the presence of a servant who led him to a carriage, the honest English courtesy of the Porter, Stationmaster, Guard, Newsagent, Ticket Collector, and General Boy, the sharp country air and the name of Placton several times repeated, gave him that sentiment of repose which accompanies the neighbourhood of the great. And the carriage rolled, and scented woods passed incessant through the evening, and more and more did Mr Burden feel himself to be approaching security and the basis upon which our [[England]] is founded.
@@ -3549,7 +3549,7 @@ Standing in his robes against a fringed and tasselled velvet curtain of a rich p
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/animals,motif/food_and_feasting,concept/hypocrisy,concept/empire_and_imperialism,form/satire,form/social_novel"></span>
 
 
 Towards the end of the corridor, before a painting more modern in treatment and hanging quite alone, they halted a moment in silence. It represented a woman yet young: hair of a colour similar to her own was caught up behind her head in those ordered masses once known as the Chignon; her skirt, which was most ample, was of a brilliant pink; she was seated writing at a superb escritoire, or writing-table, holding a graceful quill in a hand of which the little finger emerged coquettishly above its fellows. The frame was surmounted by the ornament of a dainty coronet; upon the features an amiable smile was recorded.
@@ -3585,7 +3585,7 @@ The conversation having turned upon tigers, perhaps the most interesting of the 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/tobacco_and_cigars,concept/empire_and_imperialism,concept/nationalism_and_patriotism,form/satire,form/social_novel"></span>
 
 
 Making light, with becoming modesty, of his own courage in the innumerable dangers which he had encountered, he did not even allude to the little affair at Pútti-Ghâl, save to illustrate a point upon the habits of the tigers which infest that neighbourhood. Nor was anything in his many miraculous escapes incredible to an audience as well informed as were the merchant and the clergyman’s widow upon the ferocity of wild beasts, and the indomitable spirit of man.
@@ -3637,7 +3637,7 @@ Thus, thus was Mr Burden decided. I that write this love my country, but I loved
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/fame_and_publicity,form/satire,histref/british_empire,setting/london"></span>
 
 
 CHAPTER VII
@@ -3673,7 +3673,7 @@ Such was Mr Barnett during these rare flashes which his friends already knew, an
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,concept/family,form/satire,histref/british_empire,setting/london"></span>
 
 
 Such was the smile which illuminated the very man from within, irradiated his genius and his vision, fascinated for a moment — and was gone.
@@ -3713,7 +3713,7 @@ The soft air of Surrey blew upon them as they gazed; it was laden with those pec
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 When they had stood still a moment, to receive this influence before turning back homewards, Mr Burden, even as they turned, looked at Cosmo and said more softly:
@@ -3753,7 +3753,7 @@ He dreamt that many men of many kinds were offering him money in incredible amou
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 He was gasping and sitting upright; to his astonishment it was quite dark. Never had his regular sleep been broken by such a sharp and dreadful agony: rarely had it been broken at all for many years. Indeed, since his father’s death, and the relief from political discussion which followed it, he could remember nothing of the night save evening, and then daylight again.
@@ -3791,7 +3791,7 @@ There were, it is true, upon the walls, reproductions of eighteenth century engr
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,form/satire,histref/british_empire,setting/london"></span>
 
 
 He stood in the midst of the hall, as might some sea-faring man who had sailed and found a people most unlike his own. He stood and waited. Then the stronger mood returned to him, and he forgot these things; for Lord Benthorpe, Mr Barnett and Mr Harbury had come into the room together. He went forward to meet them.
@@ -3857,7 +3857,7 @@ Lord Benthorpe began:
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Emmanuel Burden, Merchant — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,form/satire,histref/british_empire,setting/london"></span>
 
 
 Mr Harbury had already said: “After all, we shall only be out of our money for a few” ... when Mr Barnett interrupted, with his strong and ponderous voice.
@@ -3891,7 +3891,7 @@ So it was that, two days afterwards, Mr Burden paid not forty, nor even thirty, 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER VIII
@@ -3937,7 +3937,7 @@ A further proof of Mr Barnett’s self-abnegation, and of the absence of all fin
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 The success of the M’Korio village at Earl’s Court, if a plebeian, was yet a genuine indication of the popular feeling. It was crowded throughout the season; and the chief, a magnificent Basuto named Issachar, was pensioned by an enthusiastic admirer who prefers to remain anonymous.
@@ -3983,7 +3983,7 @@ One thing had given Mr Barnett real hope; and that was Mr Burden’s attitude to
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 It was with confidence, therefore, that, on the occasion of this great reception at Barnett House, the host led Mr Burden proudly forward to present him to Major Pondo, whose book, “The African River,” had during the past six days marked him out as the chief expert upon that region.
@@ -4019,7 +4019,7 @@ He left the house that night, full of a kind of angry determination to go next d
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Fate, and the nature of men, led on to their meeting indeed, but brought it, in spite of them both, to a very different end.
@@ -4059,7 +4059,7 @@ As for his judgment upon any of the great complexities of modern life, no worse 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Emmanuel Burden, Merchant — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/conscience,concept/friendship,form/satire,histref/british_empire,setting/london"></span>
 
 
 It will not surprise my readers to be told that Mr Abbott’s greeting was emphatic and commonplace, full of “eh’s?” and “Lord love me’s,” and “all this long time’s”; but there lay in it a kind of hint that Mr Abbott knew well enough the cause which had so prolonged that interval.
@@ -4131,7 +4131,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER IX
@@ -4195,7 +4195,7 @@ When he had done this, Mr Barnett said, with increasing wakefulness, and a kind 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 It was a thing remarkable and arresting to the eye to see the fumes of lethargy pass from that great mind as mist does from the face of a mountain at morning; by an effort of the will it had thrown off sleep and the blessing of repose. The power of concentration had returned with every word during the last five minutes; the accent had grown purer; the attention more decisive. Mr Barnett noted the hour, he noted the cast of Mr Burden’s face in the shade of the light, and interpreted it to mean a comprehension of his scheme. He exaggerated, I believe, the intelligence of his host and colleague.
@@ -4229,7 +4229,7 @@ At intervals of several days business details, of no great importance, but such 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 A week later Cosmo and he lunched with Lord Benthorpe at Cosmo’s club, and the very next day, walking in the best of moods towards the [[City]], they met by accident Mr Barnett himself, fresh with the morning, and in the most sympathetic of moods.
@@ -4261,7 +4261,7 @@ His interesting personality has detained my pen too long, I must return to Mr Bu
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 Mr Burden had played a great part in the world. He had been Sheriff in the early eighties; he had been Treasurer to the Bowmakers’ Company, and had drawn up in that capacity the scheme for endowing a new Chair of Comparative Religion at Dublin, a [[City|city]] sadly in need of broadening its outlook upon God; he had been called as an honoured witness before many Royal Commissions, and had sat on the Committee for the Adjustment of Port Dues; he had even enjoyed, now for some years, the honourable title of Justice of the Peace; and on the occasion of the Mansion House dinner, but eight months before, he had sat between the Chancellor of the Exchequer of the moment and some other member of the Cabinet whose name I cannot recall.
@@ -4301,7 +4301,7 @@ Mr Harbury was evidently interested, and asked Mr Burden’s opinion. Mr Burden,
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Emmanuel Burden, Merchant — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 Lord Benthorpe suggested the word “development,” but Mr Harbury pointed out that the word already occurred at the head of the sheet in the phrase “M’Korio Delta Development Company.”
@@ -4349,7 +4349,7 @@ When he had finished reading, he smoothed the papers out, gathered them up, and 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 CHAPTER X
@@ -4381,7 +4381,7 @@ On the 19th the allotment was declared. On the morning of the 21st, though no sa
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 It is the most fruitful and the most beneficent of exaltations. It bridges the ford, as Kipling has so finely said; it imposes law; it is creating a new and happy world from the west of Ireland to Pùtti-Ghâl. There is something awful and mysterious about it. As it sweeps by, this missionary creed, this determination and confidence of a whole people, a plain man’s spirit feeling it comes very near to the Hosts of the Lord. On Monday the 31st, the shares were at eight and a quarter, and there they stopped, up, poised upon a summit, as genius poises upon the columns of conquerors: hovering in bronze.
@@ -4411,7 +4411,7 @@ His name had not been mentioned for days and weeks, partly, of course, because e
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 Mr Abbott was best as a friend, nay, as a director; next best as an enemy; but worst of all, as one neither enemy nor friend, but contemptuous and perhaps influencing secretly a member of their own group. They knew all this, and July had ended without a word being said. Mr Abbott himself had neither spoken nor written; Mr Burden had not approached the offices of the shipmaster. Mr Barnett and Cosmo were both confident that he dreaded the road to that familiar room; they were confident he had not met his friend. Nor had he.
@@ -4447,7 +4447,7 @@ He sat down in a chair just opposite his father’s friend. He put down his hat 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Emmanuel Burden, Merchant — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 “I think you know why I have come.”
@@ -4515,7 +4515,7 @@ Far off in Norwood, Mr Burden slept.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 CHAPTER XI
@@ -4553,7 +4553,7 @@ When an agreement had thus been reached, they all three re-entered the room. Cos
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/disease_and_contagion,concept/empire_and_imperialism,concept/capitalism,concept/satire_of_society,concept/deception,concept/fame_and_publicity,concept/power_and_corruption,form/satire,histref/british_empire,setting/london"></span>
 
 
 The envelopes presented to them by a servant contained the customary fees; and, after many warm hopes for the swift recovery of his father, they took leave of Cosmo, and left the house to convalescence.
@@ -4583,7 +4583,7 @@ An hour later, Cosmo brought Mr Barnett home to lunch, as had been his custom du
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/dreams,motif/disease_and_contagion,concept/empire_and_imperialism,concept/capitalism,concept/satire_of_society,concept/deception,concept/power_and_corruption,concept/perception_and_consciousness,form/satire,histref/british_empire"></span>
 
 
 They spoke frankly one to the other, as is the fashion of honest men, when they believe themselves alone, and near them, in his chair beyond the archway, Mr Burden lay steeped in an unnatural slumber. Of what they said to each other I know nothing; but I have heard minutely the description of the phantasmagoria which passed through the brain of Mr Burden as the physic took effect.
@@ -4623,7 +4623,7 @@ Twenty surmises ran through his head. He thought perhaps the old man was wanderi
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 Then Cosmo himself added, this time quite gently:
@@ -4669,7 +4669,7 @@ You cannot “freeze out” a man in Mr Abbott’s position. A shipowner, a pros
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/ship,concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/antisemitism,concept/madness,form/satire,histref/british_empire,setting/london"></span>
 
 
 In spite of the strength of his position, however, Mr Abbott’s suspicions raged. A Government contract which lay between him and the Excelsior Line fell to the Excelsior. He employed two men at Somerset House for five days to discover the shareholders of the Excelsior, and of the syndicate that was behind the Excelsior, and of the investing company which was the principal holder of the syndicate: — and so forth. He got very little for his pains; but he remained convinced that some influence allied to the M’Korio had defrauded him.
@@ -4709,7 +4709,7 @@ He laid his left hand heavily upon the table, sighed, and picked up his remainin
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="Emmanuel Burden, Merchant — Chapter 11 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 When he had read all this, his correspondence, Mr Burden’s left hand stretched out again, his eyes not following it, and unsteadily took up Mr Abbott’s letter. He read it a second time.
@@ -4759,7 +4759,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,setting/england"></span>
 
 
 CHAPTER XII
@@ -4827,7 +4827,7 @@ Mr Burden, with a troubled look, and with eyebrows drawn together and upwards, l
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/greed_and_money,concept/power_and_corruption,concept/satire_of_society,concept/friendship,concept/conscience,form/satire,histref/british_empire,setting/london"></span>
 
 
 He turned his head slowly round; he shifted his feet nervously, and he began again:
@@ -4889,7 +4889,7 @@ Then Mr Burden, power bubbling up within him in spite of his age, in spite of hi
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/power_and_corruption,concept/satire_of_society,concept/conscience,concept/courage,concept/friendship,concept/truth,form/satire,histref/british_empire,setting/london"></span>
 
 
 Mr Burden’s breath came very quickly, and he had his lips as closely pressed together as any had yet seen them, and his head was full with the blood of his anger. But there was anger in Mr Barnett also, though of another race and kind and climate; and he said with a full sneer, where only half a sneer had been before:
@@ -4945,7 +4945,7 @@ He saw his father pass the statue of Mr Peabody, philanthropist, cross Cornhill,
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/disease_and_contagion,concept/empire_and_imperialism,concept/satire_of_society,concept/mortality,form/satire,histref/british_empire,setting/london"></span>
 
 
 But Mr Burden, bowing under the increasing weight of his malady, hesitated as he went up to take his ticket. He had forgotten, and was at a loss in everything. He did not remember his season ticket; and, when he stood before the little window, an impatient crowd gathered behind him, cursing at his delay. He had forgotten even the name of the station for his home. The trained clerk was quick enough to meet the difficulty. He took the gold piece that the old merchant had put down, and gave him in exchange such a third-class ticket as would carry him to the very extremities of the suburban zone. Mr Burden looked at the unfamiliar name upon the paste-board and moved slowly on to the platform; a considerable volley from the long queue whom he had just released followed his shambling figure; till a wit at the head of it restored the public humour by giving him very publicly the title of Methuselah. Mr Burden, wandering vaguely towards the train, did not so much as hear.
@@ -4979,7 +4979,7 @@ As he grated at the door, a faithful servant of his, a woman of the name of Kate
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Charity and the old servant helped him up the stair, soothing him; he would have still spoken of the key and of the door; he smiled with smiles that were those of a child or of a man in extreme old age. Then his pain returned, and he groaned; for the pain was in the head, where is the citadel of a man besieged. His keep was taken.
@@ -5019,7 +5019,7 @@ Miserere, Judex Meus,
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="Emmanuel Burden, Merchant — Chapter 12 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 Mortis in discrimine.

@@ -5748,7 +5748,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_introduction_to_the_first_edition" data-title="Shaw — INTRODUCTION TO THE FIRST EDITION" data-chapter="INTRODUCTION TO THE FIRST EDITION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction_to_the_first_edition" data-title="Shaw — INTRODUCTION TO THE FIRST EDITION" data-chapter="INTRODUCTION TO THE FIRST EDITION" data-kind="story" data-tags="concept/paradox,form/literary_criticism,form/essay,character/bernard_shaw"></span>
 
 
 Introduction to the First Edition
@@ -5780,7 +5780,7 @@ G. K. C.
 
 
 
-<span class="atom-split" data-atom="story_02_the_problem_of_a_preface" data-title="Shaw — THE PROBLEM OF A PREFACE" data-chapter="THE PROBLEM OF A PREFACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_problem_of_a_preface" data-title="Shaw — THE PROBLEM OF A PREFACE" data-chapter="THE PROBLEM OF A PREFACE" data-kind="story" data-tags="motif/time,concept/doubt,concept/truth,form/fable,histref/french_revolution,setting/london"></span>
 
 
 The Problem of a Preface
@@ -5882,7 +5882,7 @@ Ora la stessa difficoltà che affligge l'opera di Bernard [[Shaw]] affligge anch
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_01" data-title="Shaw — THE IRISHMAN (part 1)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_01" data-title="Shaw — THE IRISHMAN (part 1)" data-chapter="THE IRISHMAN" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/lightning,motif/nature,motif/time,concept/endurance,concept/fear,concept/nature,concept/paradox,concept/pride,concept/truth,form/epigram,histref/christianity,setting/oxford,character/christ,character/venus"></span>
 
 
 The Irishman
@@ -6021,7 +6021,7 @@ Qual è dunque il colore di questa società irlandese di cui Bernard [[Shaw]], c
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_02" data-title="Shaw — THE IRISHMAN (part 2)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_02" data-title="Shaw — THE IRISHMAN (part 2)" data-chapter="THE IRISHMAN" data-kind="excerpt" data-tags="motif/chains,motif/clock,motif/marriage,motif/pain,concept/truth,character/angelo,character/diana,character/michael"></span>
 
 
 But in any case this Irish [[innocence]] is peculiar and fundamental
@@ -6156,7 +6156,7 @@ In tutto questo non sarà difficile scorgere l'irlandese in Bernard [[Shaw]]. Be
 
 
 
-<span class="atom-split" data-atom="story_03_the_irishman--part_03" data-title="Shaw — THE IRISHMAN (part 3)" data-chapter="THE IRISHMAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_irishman--part_03" data-title="Shaw — THE IRISHMAN (part 3)" data-chapter="THE IRISHMAN" data-kind="excerpt" data-tags="archetype/king,motif/machine,motif/time,motif/well,concept/freedom,concept/sublime,concept/survival,concept/truth,concept/union,histref/christianity,setting/oxford"></span>
 
 
 But there is a second cause which creates the English fallacy
@@ -6334,7 +6334,7 @@ Bernard [[Shaw]] nacque al di fuori di tutto questo; e porta quella [[Freedom|li
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_01" data-title="Shaw — THE PURITAN (part 1)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_01" data-title="Shaw — THE PURITAN (part 1)" data-chapter="THE PURITAN" data-kind="excerpt" data-tags="archetype/fool,archetype/pilgrim,motif/childhood,motif/grave,motif/home,motif/love,motif/memory,motif/soul,motif/supernatural,motif/winter,concept/doubt,concept/exile,concept/history,concept/paradox,concept/self,concept/truth,form/history,setting/castle,character/chorus"></span>
 
 
 The Puritan
@@ -6506,7 +6506,7 @@ Nel riferire congetturalmente questo lato negativo dell'uomo, la sua mancanza de
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_02" data-title="Shaw — THE PURITAN (part 2)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_02" data-title="Shaw — THE PURITAN (part 2)" data-chapter="THE PURITAN" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/desire,motif/dreams,motif/fire,motif/home,motif/lamb,motif/soul,concept/beauty,concept/charity,concept/education,concept/history,concept/resurrection,concept/self,concept/truth,form/history,histref/catholic_church,histref/puritanism,setting/cathedral,character/robin_hood,character/speed"></span>
 
 
 I will not dogmatise upon the difficult question as to whether
@@ -6639,7 +6639,7 @@ C'è almeno un fatto lampante riguardo all'uomo che stiamo studiando; Bernard [[
 
 
 
-<span class="atom-split" data-atom="story_04_the_puritan--part_03" data-title="Shaw — THE PURITAN (part 3)" data-chapter="THE PURITAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_puritan--part_03" data-title="Shaw — THE PURITAN (part 3)" data-chapter="THE PURITAN" data-kind="excerpt" data-tags="topos/double,motif/silence,motif/soul,motif/spring,concept/fear,concept/sublime,concept/truth,histref/puritanism"></span>
 
 
 But along with what was inspiring and direct in [[Puritanism]] Bernard [[Shaw]]
@@ -6770,7 +6770,7 @@ Verso la metà del diciannovesimo secolo, quando [[Shaw]] nacque, quest'oscuro e
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_01" data-title="Shaw — THE PROGRESSIVE (part 1)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_01" data-title="Shaw — THE PROGRESSIVE (part 1)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/decay,motif/poison,motif/time,concept/fear,concept/hope,concept/solitude,form/fragment,form/sketch,histref/dante,setting/london"></span>
 
 
 The Progressive
@@ -6900,7 +6900,7 @@ Allo stesso modo devo appellarmi alla mia prefazione teorica a questo terzo punt
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_02" data-title="Shaw — THE PROGRESSIVE (part 2)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_02" data-title="Shaw — THE PROGRESSIVE (part 2)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="topos/double,motif/nature,motif/road,motif/time,motif/well,concept/democracy,concept/fear,concept/freedom,concept/history,concept/hope,concept/nature,concept/reform,concept/truth,form/comedy,form/history,histref/french_revolution,histref/renaissance"></span>
 
 
 Bernard [[Shaw]] happened to be born in an epoch, or rather at the end
@@ -7072,7 +7072,7 @@ In questo tumulto di tutte le innovazioni immaginarie [[Shaw]] portò il taglien
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_03" data-title="Shaw — THE PROGRESSIVE (part 3)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_03" data-title="Shaw — THE PROGRESSIVE (part 3)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="motif/animals,motif/flag,motif/home,motif/leaves,motif/nature,motif/time,concept/nature"></span>
 
 
 But while Bernard [[Shaw]] pleasantly surprised innumerable cranks
@@ -7191,7 +7191,7 @@ Questo gran gioco di cogliere i rivoluzionari a dormire, di cogliere le persone 
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_04" data-title="Shaw — THE PROGRESSIVE (part 4)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_04" data-title="Shaw — THE PROGRESSIVE (part 4)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="motif/animals,motif/desire,motif/fire,motif/grave,motif/love,motif/nature,motif/nightingale,motif/soul,motif/water,motif/well,concept/body,concept/heroism,concept/nature,concept/self,concept/truth,histref/crusades,setting/london"></span>
 
 
 Now I have no particular objection to people who take the gilt
@@ -7317,7 +7317,7 @@ Perciò questo senso è stato più forte nei santi di tipo assai mistico; come s
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_05" data-title="Shaw — THE PROGRESSIVE (part 5)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_05" data-title="Shaw — THE PROGRESSIVE (part 5)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/death,motif/fire,motif/nature,motif/ship,motif/tears,concept/doubt,concept/mercy,concept/nature,concept/poverty,form/satire,setting/ship,character/angelo,character/michael,character/sunday"></span>
 
 
 This combination of the widest kindness and consideration
@@ -7438,7 +7438,7 @@ Nel volgere così il suo volto come selce contro i metodi sentimentali di argome
 
 
 
-<span class="atom-split" data-atom="story_05_the_progressive--part_06" data-title="Shaw — THE PROGRESSIVE (part 6)" data-chapter="THE PROGRESSIVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_progressive--part_06" data-title="Shaw — THE PROGRESSIVE (part 6)" data-chapter="THE PROGRESSIVE" data-kind="excerpt" data-tags="motif/animals,motif/blood,motif/decay,motif/desire,motif/fire,motif/soul,motif/time,concept/ambition,concept/democracy,concept/education,concept/honour,concept/individualism,concept/pride,concept/reform,concept/truth,setting/germany,character/salome"></span>
 
 
 In this quarrel one cannot wish [[Shaw]] even an inch less contemptuous,
@@ -7655,7 +7655,7 @@ trascurerò di salutare una passione così implacabile e pura.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_01" data-title="Shaw — THE CRITIC (part 1)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_01" data-title="Shaw — THE CRITIC (part 1)" data-chapter="THE CRITIC" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/time,motif/window,concept/doubt,concept/faith,concept/fear,concept/history,concept/honour,form/epigram,form/history,setting/london,character/jones"></span>
 
 
 The Critic
@@ -7889,7 +7889,7 @@ dinanzi all'occhio solo.
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_02" data-title="Shaw — THE CRITIC (part 2)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_02" data-title="Shaw — THE CRITIC (part 2)" data-chapter="THE CRITIC" data-kind="excerpt" data-tags="topos/quest,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/nature,concept/truth,form/biography,form/fragment,histref/catholic_church,histref/milton,character/milton,character/queen"></span>
 
 
 Added to the effect of the amiable dogmatic voice and lean,
@@ -8011,7 +8011,7 @@ Questo può dirsi congetturalmente sotto la presente firma; ma di più non si de
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_03" data-title="Shaw — THE CRITIC (part 3)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_03" data-title="Shaw — THE CRITIC (part 3)" data-chapter="THE CRITIC" data-kind="excerpt" data-tags="topos/vanitas,archetype/child,archetype/rebel,motif/silence,motif/time,concept/history,concept/paradox,concept/self,form/history"></span>
 
 
 For the purpose of our present generalisation it is only
@@ -8151,7 +8151,7 @@ Questi due moventi c'erano, ma erano piccoli in confronto all'altro. Era la terz
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_04" data-title="Shaw — THE CRITIC (part 4)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_04" data-title="Shaw — THE CRITIC (part 4)" data-chapter="THE CRITIC" data-kind="excerpt" data-tags="topos/vanitas,archetype/lover,motif/animals,motif/death,motif/dust,motif/love,motif/nature,motif/night,motif/well,concept/doubt,concept/faith,concept/freedom,concept/melancholy,concept/nature,concept/original_sin,concept/truth,concept/vanity,histref/dante,character/falstaff,character/hamlet"></span>
 
 
 His misunderstanding of Shakespeare arose largely from the fact
@@ -8275,7 +8275,7 @@ Con la piena combinazione puritana di passione e precisione informò tutti che I
 
 
 
-<span class="atom-split" data-atom="story_06_the_critic--part_05" data-title="Shaw — THE CRITIC (part 5)" data-chapter="THE CRITIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_critic--part_05" data-title="Shaw — THE CRITIC (part 5)" data-chapter="THE CRITIC" data-kind="excerpt" data-tags="archetype/lover,motif/blood,motif/clock,motif/machine,motif/nature,motif/time,concept/honour,concept/madness,concept/nature,concept/truth,form/comedy,form/essay"></span>
 
 
 But this attitude obviously laid on the ethical [[Lover|lover]] of Ibsen
@@ -8389,7 +8389,7 @@ In ogni caso si può affermare che lo scopo generale dell'opera era esaltare le 
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_01" data-title="Shaw — THE DRAMATIST (part 1)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_01" data-title="Shaw — THE DRAMATIST (part 1)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,archetype/lover,motif/death,motif/fire,motif/love,motif/time,motif/well,concept/conversion,concept/courage,concept/romantic_love,form/melodrama,form/satire,histref/dante,character/tolstoy,character/venus"></span>
 
 
 The Dramatist
@@ -8503,7 +8503,7 @@ Questo fu un ingresso adatto per [[Shaw]] nel suo teatro didattico; perché il b
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_02" data-title="Shaw — THE DRAMATIST (part 2)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_02" data-title="Shaw — THE DRAMATIST (part 2)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/lover,motif/crown,motif/love,motif/marriage,motif/nature,motif/secrets,concept/comradeship,concept/fear,concept/nature,concept/self,concept/slavery,concept/truth,form/tragedy,setting/egypt,character/christ,character/maria"></span>
 
 
 The brain of Bernard [[Shaw]] was like a wedge in the literal sense.
@@ -8629,7 +8629,7 @@ E la testimonianza della donna al medesimo fatto è stata espressa al meglio da 
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_03" data-title="Shaw — THE DRAMATIST (part 3)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_03" data-title="Shaw — THE DRAMATIST (part 3)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/flag,motif/love,motif/nature,motif/time,concept/ambition,concept/conscience,concept/despair,concept/eternity,concept/exile,concept/nature,concept/suffering,concept/truth,form/comedy,form/parody,form/satire,form/sketch,character/cleopatra"></span>
 
 
 There are one or two errors in the play; and they are all due
@@ -8764,7 +8764,7 @@ Questo affare della malattia del Dr. Paramore, pur essendo la cosa più farsesca
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_04" data-title="Shaw — THE DRAMATIST (part 4)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_04" data-title="Shaw — THE DRAMATIST (part 4)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/death,motif/love,motif/storm,motif/well,concept/conscience,concept/honour,concept/truth,form/tragedy,character/julia,character/macbeth"></span>
 
 
 But it is irritating to think what diamonds, what dazzling silver
@@ -8895,7 +8895,7 @@ Il dramma di MRS. WARREN'S PROFESSION riguarda una madre rozza e una figlia fred
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_05" data-title="Shaw — THE DRAMATIST (part 5)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_05" data-title="Shaw — THE DRAMATIST (part 5)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/poison,motif/ship,concept/freedom,concept/nature,concept/paradox,concept/pride,concept/truth,histref/inquisition,histref/reformation,setting/ship,character/hastings,character/pistol"></span>
 
 
 The Censor of Plays is a small and accidental
@@ -9045,7 +9045,7 @@ Tale era l'angolazione dell'energico attacco di [[Shaw]]; e non si può negare c
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_06" data-title="Shaw — THE DRAMATIST (part 6)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_06" data-title="Shaw — THE DRAMATIST (part 6)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/desire,motif/home,motif/leaves,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/charity,concept/conversion,concept/courage,concept/heroism,concept/nature,form/melodrama,histref/america,histref/puritanism,setting/america,character/brutus,character/cleopatra,character/richard"></span>
 
 
 But I have only dwelt on this particular fighting phase because it
@@ -9164,7 +9164,7 @@ Come si è osservato, le felicità incidentali del dramma sono frequenti e memor
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_07" data-title="Shaw — THE DRAMATIST (part 7)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_07" data-title="Shaw — THE DRAMATIST (part 7)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,archetype/lover,motif/love,motif/moon,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/conscience,concept/conversion,concept/courage,concept/doubt,concept/fear,concept/history,concept/mercy,concept/revenge,concept/vanity,form/history,histref/christianity,character/beatrice,character/christ,character/julius_caesar"></span>
 
 
 The third play in order in the series called PLAYS FOR PURITANS
@@ -9293,7 +9293,7 @@ Non è, io credo, alcuna ingiustizia verso Bernard [[Shaw]] dire che egli non te
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_08" data-title="Shaw — THE DRAMATIST (part 8)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_08" data-title="Shaw — THE DRAMATIST (part 8)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,motif/childhood,motif/home,motif/nature,motif/night,motif/time,motif/water,concept/doubt,concept/faith,concept/mercy,concept/nature,concept/revenge,concept/truth,form/sketch,setting/cathedral,character/cleopatra,character/julius_caesar"></span>
 
 
 But whether the Shavian Caesar is a sound ideal or no,
@@ -9446,7 +9446,7 @@ La sua proposizione primaria e provocatoria è la proposizione calvinista: che g
 
 
 
-<span class="atom-split" data-atom="story_07_the_dramatist--part_09" data-title="Shaw — THE DRAMATIST (part 9)" data-chapter="THE DRAMATIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_dramatist--part_09" data-title="Shaw — THE DRAMATIST (part 9)" data-chapter="THE DRAMATIST" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,archetype/shadow,motif/blood,motif/nature,motif/time,motif/water,motif/well,motif/wheel,concept/history,concept/hope,concept/nature,concept/self,concept/truth,form/history,setting/germany,character/michael,character/speed"></span>
 
 
 Some of the incidental wit in the Caesarian drama is excellent
@@ -9598,7 +9598,7 @@ Come già si è detto, dev'esserci un po' di [[Truth|verità]] in ogni impressio
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_01" data-title="Shaw — THE PHILOSOPHER (part 1)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_01" data-title="Shaw — THE PHILOSOPHER (part 1)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/prophet,motif/grave,motif/nature,motif/time,motif/well,concept/ambition,concept/doubt,concept/faith,concept/honour,concept/imagination,concept/nature,form/problem_play,character/brutus,character/cleopatra,character/hamlet,character/henry_iv,character/henry_v,character/julius_caesar"></span>
 
 
 The Philosopher
@@ -9740,7 +9740,7 @@ Per prendere anzitutto le commedie, vi è una disposizione generale a descrivere
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_02" data-title="Shaw — THE PHILOSOPHER (part 2)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_02" data-title="Shaw — THE PHILOSOPHER (part 2)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/childhood,motif/love,motif/night,motif/poison,motif/well,concept/education,concept/freedom,concept/madness,concept/paradox,concept/suicide,concept/truth,character/christ,character/martin_chuzzlewit"></span>
 
 
 Sometimes, especially in his later plays, he allows his clear
@@ -9864,7 +9864,7 @@ Ora, se per [[Paradox|paradosso]] intendiamo la [[Truth|verità]] insita in una 
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_03" data-title="Shaw — THE PHILOSOPHER (part 3)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_03" data-title="Shaw — THE PHILOSOPHER (part 3)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/tyrant,motif/desire,motif/flag,motif/love,motif/marriage,motif/soul,motif/well,concept/conscience,concept/democracy,concept/education,concept/history,concept/jealousy,concept/madness,concept/paradox,concept/purification,form/history,form/tragedy,histref/christianity"></span>
 
 
 This blindness to [[Paradox|paradox]] everywhere perplexes his outlook.
@@ -9996,7 +9996,7 @@ Il grande difetto di quella fine intelligenza è un'incapacità di afferrare e g
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_04" data-title="Shaw — THE PHILOSOPHER (part 4)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_04" data-title="Shaw — THE PHILOSOPHER (part 4)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/decay,motif/love,motif/marriage,motif/nature,motif/supernatural,concept/nature,concept/paradox,concept/survival,character/macbeth,character/othello,character/polonius"></span>
 
 
 The same is true of Mr. [[Shaw]]'s refusal to understand the [[Love|love]] of
@@ -10117,7 +10117,7 @@ La teoria cosmica generale che finora si può rintracciare attraverso i primi sa
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_05" data-title="Shaw — THE PHILOSOPHER (part 5)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_05" data-title="Shaw — THE PHILOSOPHER (part 5)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/flag,motif/grave,motif/love,motif/nature,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/heroism,concept/hope,concept/nature,concept/poverty,form/epigram,form/fable"></span>
 
 
 This is the first and finest item of the original Bernard [[Shaw]] creed:
@@ -10270,7 +10270,7 @@ L'[[Epigram|epigramma]] ultimo di MAGGIORE BARBARA si può formulare così. La g
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_06" data-title="Shaw — THE PHILOSOPHER (part 6)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_06" data-title="Shaw — THE PHILOSOPHER (part 6)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/cross,motif/desire,motif/horse,concept/beauty,concept/courage,concept/immortality,concept/truth,form/satire,histref/christianity,setting/mountains,character/michael"></span>
 
 
 JOHN BULL'S OTHER ISLAND represents a realism somewhat more tinged
@@ -10386,7 +10386,7 @@ Questo sgombrare del campo dalle sue ultime commedie critiche possiamo classific
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_07" data-title="Shaw — THE PHILOSOPHER (part 7)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_07" data-title="Shaw — THE PHILOSOPHER (part 7)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/prophet,motif/cave,motif/dance,motif/desire,motif/love,motif/nature,motif/time,motif/well,concept/mercy,concept/nature,concept/paradox,form/epigram,histref/christianity,character/sunday"></span>
 
 
 There are indeed doctrines of Nietzsche that are not Christian,
@@ -10514,7 +10514,7 @@ L'insuccesso che ha parzialmente accompagnato l'idea dell'uguaglianza umana è d
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_08" data-title="Shaw — THE PHILOSOPHER (part 8)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_08" data-title="Shaw — THE PHILOSOPHER (part 8)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="topos/double,topos/paradise_lost,archetype/hero,archetype/lover,motif/grave,motif/nature,motif/time,motif/well,concept/conscience,concept/education,concept/fear,concept/mercy,concept/nature,concept/truth,histref/milton,character/diana,character/endymion,character/milton"></span>
 
 
 It is characteristic of him to say that he rushed into print
@@ -10628,7 +10628,7 @@ Ma ogniqualvolta [[Shaw]] mostra la durezza puritana o persino la meschinità pu
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_09" data-title="Shaw — THE PHILOSOPHER (part 9)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_09" data-title="Shaw — THE PHILOSOPHER (part 9)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/death,motif/love,motif/memory,motif/nature,motif/time,motif/well,concept/education,concept/nature,concept/self_deception,concept/sublime,concept/truth,concept/union,form/epigram,histref/america,setting/america"></span>
 
 
 There is one really noble moment when Anne offers for all her cynical
@@ -10746,7 +10746,7 @@ Alla commedia è annesso un documento divertente sebbene alquanto misterioso, in
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_10" data-title="Shaw — THE PHILOSOPHER (part 10)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_10" data-title="Shaw — THE PHILOSOPHER (part 10)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/artist,archetype/outsider,motif/death,motif/desire,motif/dreams,motif/home,motif/marriage,motif/nature,motif/time,motif/well,concept/doubt,concept/faith,concept/humility,concept/madness,concept/nature,concept/poverty,concept/resignation,concept/self,histref/america,histref/french_revolution,setting/america,setting/germany,character/christ"></span>
 
 
 The two important plays that he has since given
@@ -10892,7 +10892,7 @@ Della sua vita in questi anni più tardi non ho preteso di raccontare neppure il
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_11" data-title="Shaw — THE PHILOSOPHER (part 11)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_11" data-title="Shaw — THE PHILOSOPHER (part 11)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/pilgrim,archetype/prophet,motif/blood,motif/dust,motif/fire,motif/grave,motif/lamb,motif/lion,motif/memory,motif/nature,motif/soul,motif/time,motif/water,motif/well,concept/endurance,concept/fear,concept/madness,concept/nature,concept/self,concept/temptation,setting/london"></span>
 
 
 The method of his life has remained mostly unchanged.
@@ -11008,7 +11008,7 @@ Ma mentre metto insieme queste ultime carte, avendo terminato questo rozzo studi
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_12" data-title="Shaw — THE PHILOSOPHER (part 12)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_12" data-title="Shaw — THE PHILOSOPHER (part 12)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/fool,motif/dust,motif/grave,motif/love,motif/prayer,motif/soul,motif/water,motif/well,concept/grotesque,concept/humility,concept/pride,concept/revenge,concept/self,concept/truth,character/valentine"></span>
 
 
 Bernard [[Shaw]] has occupied much of his life in trying to
@@ -11131,7 +11131,7 @@ Nella misura in cui [[Shaw]] ha diffuso o favorito una certa moderna riluttanza,
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_13" data-title="Shaw — THE PHILOSOPHER (part 13)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_13" data-title="Shaw — THE PHILOSOPHER (part 13)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/time,motif/water,motif/well,concept/conversion,concept/courage,concept/doubt,concept/fear,concept/nature,concept/self,concept/truth,concept/vanity,concept/wonder"></span>
 
 
 The second of the two points on which I think [[Shaw]] has done definite
@@ -11265,7 +11265,7 @@ Quando si sono dette queste tre cose, si è detto, credo, tutto ciò che si può
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_14" data-title="Shaw — THE PHILOSOPHER (part 14)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_14" data-title="Shaw — THE PHILOSOPHER (part 14)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/death,motif/silence,motif/soul,concept/body,concept/self,setting/oxford,character/aquinas"></span>
 
 
 In the first place, and quite apart from all particular theories,
@@ -11389,7 +11389,7 @@ Questo stile piano e battagliero di [[Shaw]] ha grandemente chiarito tutte le co
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_15" data-title="Shaw — THE PHILOSOPHER (part 15)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_15" data-title="Shaw — THE PHILOSOPHER (part 15)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dreams,motif/road,motif/spring,motif/time,motif/well,concept/ambition,concept/fear,concept/freedom,concept/self,concept/suicide,concept/truth,setting/court,character/hamlet"></span>
 
 
 The second phase of the man's really fruitful efficacy is in a sense
@@ -11531,7 +11531,7 @@ Si consideri sotto questo riguardo quante e quanto felici siano state le intrusi
 
 
 
-<span class="atom-split" data-atom="story_08_the_philosopher--part_16" data-title="Shaw — THE PHILOSOPHER (part 16)" data-chapter="THE PHILOSOPHER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_philosopher--part_16" data-title="Shaw — THE PHILOSOPHER (part 16)" data-chapter="THE PHILOSOPHER" data-kind="excerpt" data-tags="motif/cross,motif/love,motif/prison,motif/rose,motif/swallow,motif/time,concept/conversion,concept/truth"></span>
 
 
 Lastly, he has obliterated the mere cynic.  He has been so much
@@ -11655,7 +11655,7 @@ LA FINE
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_01" data-title="Shaw — THE LATER PHASES (part 1)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_01" data-title="Shaw — THE LATER PHASES (part 1)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="motif/desert,motif/memory,motif/road,motif/sleep,motif/time,motif/water,motif/wind,concept/faith,concept/fear,concept/hope,concept/paradox,concept/slavery,concept/truth,setting/castle,setting/desert,character/abraham_lincoln"></span>
 
 
 THE LATER PHASES*
@@ -11825,7 +11825,7 @@ Non lo sentirete mai intonare quelle parole antiche e quasi patetiche: "Quando r
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_02" data-title="Shaw — THE LATER PHASES (part 2)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_02" data-title="Shaw — THE LATER PHASES (part 2)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/king,archetype/lover,archetype/orphan,motif/marriage,motif/moon,motif/snow,motif/stars,motif/time,concept/democracy,concept/history,form/comedy,form/history,form/melodrama,form/tragedy,histref/inquisition"></span>
 
 
 As I have lightly and even irresponsibly hinted, I have not
@@ -11965,7 +11965,7 @@ Non vedo alcuna ragione di ritrattare, e neppure di rivedere, ciò che può dirs
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_03" data-title="Shaw — THE LATER PHASES (part 3)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_03" data-title="Shaw — THE LATER PHASES (part 3)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/orphan,motif/home,motif/memory,motif/nature,motif/time,concept/exile,concept/hope,concept/nature,concept/paradox,concept/slavery"></span>
 
 
 Never being born might be great fun, if we could really live
@@ -12101,7 +12101,7 @@ Giustificherei dunque ancora ciò che dissi circa il suo essere effettivamente r
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_04" data-title="Shaw — THE LATER PHASES (part 4)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_04" data-title="Shaw — THE LATER PHASES (part 4)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/time,concept/ambition,concept/conscience,concept/history,concept/individualism,concept/truth,form/history,setting/germany"></span>
 
 
 The moral of all this is, I repeat, that he had a less direct
@@ -12351,7 +12351,7 @@ Il signor [[Shaw]] si accontentò pienamente di credere di poterci vedere chiaro
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_05" data-title="Shaw — THE LATER PHASES (part 5)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_05" data-title="Shaw — THE LATER PHASES (part 5)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/animals,motif/love,motif/storm,motif/time,motif/well,concept/courage,concept/doubt,concept/friendship,concept/history,concept/hope,concept/melancholy,concept/vanity,concept/wonder,form/history,form/melodrama,form/novel,histref/america,histref/puritanism,setting/america,setting/germany,setting/paris,character/arthur"></span>
 
 
 Anyhow, nearly everybody was a Pacifist soon after the War.
@@ -12568,7 +12568,7 @@ La dottrina generale di [[Shaw]], o la sua visione del cosmo, lui la chiama Evol
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_06" data-title="Shaw — THE LATER PHASES (part 6)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_06" data-title="Shaw — THE LATER PHASES (part 6)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="motif/mutability,motif/time,concept/despair,concept/survival"></span>
 
 
 This business about Creative Evolution, noted in my book
@@ -12686,7 +12686,7 @@ Ora l'evoluzionismo del signor [[Shaw]], e di quasi tutti gli altri, è assoluta
 
 
 
-<span class="atom-split" data-atom="story_09_the_later_phases--part_07" data-title="Shaw — THE LATER PHASES (part 7)" data-chapter="THE LATER PHASES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_later_phases--part_07" data-title="Shaw — THE LATER PHASES (part 7)" data-chapter="THE LATER PHASES" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/love,motif/marriage,motif/memory,motif/nakedness,motif/time,motif/water,concept/body,concept/courage,concept/despair,concept/faith,concept/resurrection,concept/truth,form/sketch,histref/christianity,character/witch"></span>
 
 
 Thus, in the Shavian atmosphere, the philosopher is not trying to get

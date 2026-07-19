@@ -4045,7 +4045,7 @@ published.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Mystery of Marie Roget (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Mystery of Marie Roget (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/dreams,motif/supernatural,motif/time,concept/beauty,form/tragedy,histref/reformation,setting/new_york"></span>
 
 
 A SEQUEL TO “[[The Murders in the Rue Morgue|THE MURDERS IN THE RUE MORGUE]].”
@@ -4238,7 +4238,7 @@ somewhat more of hesitation by Madame.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Mystery of Marie Roget (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Mystery of Marie Roget (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/home,motif/nature,motif/night,motif/time,concept/beauty,concept/body,concept/nature,histref/inquisition,setting/paris"></span>
 
 
 
@@ -4432,7 +4432,7 @@ subject of my narrative.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Mystery of Marie Roget (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Mystery of Marie Roget (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/death,motif/home,motif/night,motif/river,motif/time,motif/well,concept/body,concept/doubt,concept/fear,character/bottom,character/sunday"></span>
 
 
 
@@ -4624,7 +4624,7 @@ or sailor’s knot.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Mystery of Marie Roget (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Mystery of Marie Roget (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/home,motif/nature,motif/night,motif/noon,motif/river,motif/time,motif/water,concept/body,concept/doubt,concept/identity,concept/nature,form/translation,character/sunday"></span>
 
 
 
@@ -4804,7 +4804,7 @@ of Marie.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Mystery of Marie Roget (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Mystery of Marie Roget (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/death,motif/river,motif/rose,motif/water,motif/well,concept/body"></span>
 
 Nobody went over. There was nothing said or heard about
 
@@ -4994,7 +4994,7 @@ parasol, gloves, and a pocket-handkerchief were also here found.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Mystery of Marie Roget (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Mystery of Marie Roget (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/cross,motif/love,motif/poison,motif/river,motif/road,motif/time,motif/well,concept/body,concept/despair,concept/doubt,concept/identity,concept/self,concept/suicide,character/sunday"></span>
 
 
 
@@ -5202,7 +5202,7 @@ had been committed. The idea of [[suicide]] was excluded at once.
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Mystery of Marie Roget (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Mystery of Marie Roget (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/clock,motif/river,motif/time,motif/well,concept/body,concept/identity,concept/self,concept/truth,form/epigram,character/sunday"></span>
 
 
 
@@ -5374,7 +5374,7 @@ which these words have obviously intended, and failed to convey.
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Mystery of Marie Roget (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Mystery of Marie Roget (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/death,motif/night,motif/river,motif/time,motif/water,concept/body,setting/paris,character/sunday"></span>
 
 
 
@@ -5542,7 +5542,7 @@ timber will enable us to elevate the head so as to look about.
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Mystery of Marie Roget (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Mystery of Marie Roget (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/death,motif/river,motif/water,concept/body,concept/freedom,character/bottom"></span>
 
 
 
@@ -5722,7 +5722,7 @@ in twenty-four hours, or less.
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Mystery of Marie Roget (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Mystery of Marie Roget (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/home,motif/night,motif/river,motif/water,motif/well,concept/body,concept/identity,concept/suffering,character/sunday"></span>
 
 But no one supposes her to have
 
@@ -5902,7 +5902,7 @@ arithmetical, but in one highly geometrical, or accumulative.
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Mystery of Marie Roget (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Mystery of Marie Roget (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/nature,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/guilt,concept/identity,concept/madness,concept/nature,concept/self,concept/truth,setting/court"></span>
 
 Add
 
@@ -6096,7 +6096,7 @@ which have been promulgated upon the subject.
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Mystery of Marie Roget (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Mystery of Marie Roget (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/nature,motif/well,concept/nature,setting/paris,character/sunday"></span>
 
 The deductions from
 
@@ -6270,7 +6270,7 @@ another division of the theme.
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Mystery of Marie Roget (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Mystery of Marie Roget (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/city,motif/home,motif/nature,motif/river,motif/time,motif/well,concept/body,concept/doubt,concept/history,concept/identity,concept/nature,concept/suicide,concept/truth,form/history,form/tragedy,setting/paris,character/sunday"></span>
 
 
 
@@ -6464,7 +6464,7 @@ Seine, to convey him across the [[River|river]].
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Mystery of Marie Roget (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Mystery of Marie Roget (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/clock,motif/home,motif/river,motif/time,concept/fear,character/bottom,character/sunday"></span>
 
 Upon reaching the opposite
 
@@ -6668,7 +6668,7 @@ have foreseen the chagrin of St. Eustache, the suspicion of all.
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Mystery of Marie Roget (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Mystery of Marie Roget (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/city,motif/home,motif/nature,motif/river,motif/road,motif/time,concept/doubt,concept/nature,concept/wonder,setting/paris"></span>
 
 
 
@@ -6848,7 +6848,7 @@ must be admitted that there was some very good reason for [[Doubt|doubt]].
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Mystery of Marie Roget (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Mystery of Marie Roget (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/dust,motif/home,motif/love,motif/nature,motif/road,concept/doubt,concept/nature,concept/solitude,setting/paris,character/sunday"></span>
 
 
 
@@ -7022,7 +7022,7 @@ diverting attention from the real scene of the outrage.
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Mystery of Marie Roget (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Mystery of Marie Roget (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="motif/nature,motif/tears,motif/well,concept/nature"></span>
 
 And,
 
@@ -7186,7 +7186,7 @@ is unhemmed. If hemmed, the matter is nearly out of the question.
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Mystery of Marie Roget (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Mystery of Marie Roget (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/city,motif/decay,motif/journey,motif/leaves,motif/nature,motif/river,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/guilt,concept/nature,setting/paris,character/bottom"></span>
 
 
 
@@ -7396,7 +7396,7 @@ carry the [[Body|body]].
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Mystery of Marie Roget (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Mystery of Marie Roget (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/home,motif/night,motif/river,motif/road,motif/storm,concept/doubt,concept/hope,concept/wonder,form/tragedy"></span>
 
 But would any number of men have dreamed of
 
@@ -7584,7 +7584,7 @@ the sober eyes of Madame Deluc.
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Mystery of Marie Roget (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Mystery of Marie Roget (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/lover,motif/night,motif/river,motif/well,concept/body,concept/guilt,concept/history,concept/truth,form/history,character/bottom,character/sunday"></span>
 
 But we are told that it was upon
 
@@ -7768,7 +7768,7 @@ aware of possessing.
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Mystery of Marie Roget (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Mystery of Marie Roget (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="motif/city,motif/dawn,motif/nature,motif/night,motif/water,concept/body,concept/faith,concept/history,concept/nature,form/history,setting/paris,character/bottom"></span>
 
 And let us now trace the boat picked up by
 
@@ -7956,7 +7956,7 @@ ratiocination, would produce any similar result.
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Mystery of Marie Roget (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Mystery of Marie Roget (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/death,motif/time,concept/truth,form/tragedy,setting/new_york,character/hastings,character/marie_roget"></span>
 
 
 

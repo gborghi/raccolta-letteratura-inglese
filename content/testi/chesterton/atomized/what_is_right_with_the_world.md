@@ -374,7 +374,7 @@ should sound unceasingly, like the sea.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="What is Right With the World (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="What is Right With the World (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/animals,motif/death,motif/love,concept/fear,concept/reform,form/essay"></span>
 
 
 What is Right With the World
@@ -539,7 +539,7 @@ Ora, per quel che ne so io, non credo che il mondo stia migliorando in molti asp
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="What is Right With the World (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="What is Right With the World (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/death,motif/flag,motif/flowers,motif/nature,motif/stars,concept/nature,concept/self,concept/truth,character/aquinas"></span>
 
 
 We therefore come back to the primary [[Truth|truth]], that what is
@@ -650,7 +650,7 @@ Tutta questa inevitabile teoria (poiché la teoria è sempre inevitabile) può p
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="What is Right With the World (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="What is Right With the World (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/childhood,motif/decay,motif/grave,motif/home,motif/love,motif/nature,motif/river,motif/soul,motif/well,concept/doubt,concept/exile,concept/faith,concept/honour,concept/hope,concept/identity,concept/nature,concept/truth,concept/union,concept/wonder,histref/dante,character/beatrice"></span>
 
 
 But this [[Faith|faith]] (that existence was fundamentally and purposely good)
@@ -767,7 +767,7 @@ L'Europa attualmente esibisce una concentrazione sulla politica che è in parte 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="What is Right With the World (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="What is Right With the World (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/grave,motif/pain,motif/time,concept/comradeship,concept/madness,concept/truth,form/tragedy,histref/christianity"></span>
 
 
 On the other hand, our attempts to right the extreme ill-balance

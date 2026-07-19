@@ -5757,7 +5757,7 @@ T.P's Weekly.
 
 
 
-<span class="atom-split" data-atom="story_01_in_general" data-title="Wild Ducks — IN GENERAL" data-chapter="IN GENERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_in_general" data-title="Wild Ducks — IN GENERAL" data-chapter="IN GENERAL" data-kind="story" data-tags="archetype/child,motif/chalk,motif/desire,motif/dreams,motif/dust,motif/love,motif/machine,motif/night,motif/stars,motif/tears,motif/time,concept/doubt,concept/imagination,concept/providence,concept/truth,form/epigram,setting/london"></span>
 
 
 IN GENERAL
@@ -5903,7 +5903,7 @@ is not improvidence the opposite of [[Providence]]?
 
 
 
-<span class="atom-split" data-atom="story_02_on_manners" data-title="Wild Ducks — On Manners" data-chapter="On Manners" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_manners" data-title="Wild Ducks — On Manners" data-chapter="On Manners" data-kind="story" data-tags="archetype/king,motif/nature,motif/well,concept/doubt,concept/humility,concept/imagination,concept/nature,concept/pride,concept/self,form/tragedy"></span>
 
 
 On Manners
@@ -6040,7 +6040,7 @@ politics is also the incarnation of indifference.
 
 
 
-<span class="atom-split" data-atom="story_03_for_persons_of_the_name_of_smith_smith" data-title="Wild Ducks — For Persons of the Name of Smith" data-chapter="For Persons of the Name of smith Smith" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_for_persons_of_the_name_of_smith_smith" data-title="Wild Ducks — For Persons of the Name of Smith" data-chapter="For Persons of the Name of smith Smith" data-kind="story" data-tags="archetype/hero,motif/blood,motif/fire,motif/nature,motif/time,concept/democracy,concept/history,concept/nature,concept/pride,form/fable,form/history,character/christ,character/henry_viii,character/jones"></span>
 
 
 For Persons of the Name of [[smith|Smith]]
@@ -6161,7 +6161,7 @@ may be in essence.
 
 
 
-<span class="atom-split" data-atom="story_04_the_true_vanity_of_vanities" data-title="Wild Ducks — The True Vanity of Vanities" data-chapter="The True Vanity of Vanities" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_true_vanity_of_vanities" data-title="Wild Ducks — The True Vanity of Vanities" data-chapter="The True Vanity of Vanities" data-kind="story" data-tags="archetype/fool,archetype/rebel,motif/horse,motif/love,motif/soul,motif/stars,concept/jealousy,concept/pride,concept/vanity,histref/christianity,character/christ"></span>
 
 
 The True [[Vanity]] of Vanities
@@ -6254,7 +6254,7 @@ conscious of that image of deity which equalises us all.
 
 
 
-<span class="atom-split" data-atom="story_05_written_in_the_sand" data-title="Wild Ducks — Written in the Sand" data-chapter="Written in the Sand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_written_in_the_sand" data-title="Wild Ducks — Written in the Sand" data-chapter="Written in the Sand" data-kind="story" data-tags="motif/desire,motif/nature,concept/apocalypse,concept/nature"></span>
 
 
 Written in the Sand
@@ -6362,7 +6362,7 @@ begin to disagree about it.
 
 
 
-<span class="atom-split" data-atom="story_06_a_case_of_comrades" data-title="Wild Ducks — A Case of Comrades" data-chapter="A Case of Comrades" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_a_case_of_comrades" data-title="Wild Ducks — A Case of Comrades" data-chapter="A Case of Comrades" data-kind="story" data-tags="motif/marriage,motif/nature,motif/time,motif/well,concept/comradeship,concept/eternity,concept/friendship,concept/nature,concept/truth,concept/union"></span>
 
 
 A Case of Comrades
@@ -6511,7 +6511,7 @@ you understand everything except comradeship.
 
 
 
-<span class="atom-split" data-atom="story_07_something" data-title="Wild Ducks — Something" data-chapter="Something" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_something" data-title="Wild Ducks — Something" data-chapter="Something" data-kind="story" data-tags="motif/dreams,motif/soul"></span>
 
 
 Something
@@ -6610,7 +6610,7 @@ have not found?
 
 
 
-<span class="atom-split" data-atom="story_08_asparagus_asparagus" data-title="Wild Ducks — Asparagus" data-chapter="asparagus Asparagus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_asparagus_asparagus" data-title="Wild Ducks — Asparagus" data-chapter="asparagus Asparagus" data-kind="story" data-tags="motif/food_and_feasting,concept/paradox,concept/critique_of_progress,concept/wit,concept/satire_of_society,concept/tradition,form/essay,histref/french_revolution,character/tennyson,character/scheherezade"></span>
 
 
 [[asparagus|Asparagus]]
@@ -6719,7 +6719,7 @@ They have changed the password.
 
 
 
-<span class="atom-split" data-atom="story_09_the_english_spirit_and_the_flea" data-title="Wild Ducks — The English Spirit and the Flea" data-chapter="The English Spirit and the Flea" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_english_spirit_and_the_flea" data-title="Wild Ducks — The English Spirit and the Flea" data-chapter="The English Spirit and the Flea" data-kind="story" data-tags="archetype/fool,archetype/ghost,motif/city,motif/dawn,motif/fire,motif/lion,concept/education,concept/pride,form/allegory"></span>
 
 
 The English Spirit and the Flea
@@ -6851,7 +6851,7 @@ and thought it less than a flea-bite.
 
 
 
-<span class="atom-split" data-atom="story_10_the_hobby_and_the_head_waiter" data-title="Wild Ducks — The Hobby and the Head Waiter" data-chapter="The Hobby and the Head Waiter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_hobby_and_the_head_waiter" data-title="Wild Ducks — The Hobby and the Head Waiter" data-chapter="The Hobby and the Head Waiter" data-kind="story" data-tags="archetype/detective,motif/clock,motif/desire,motif/horse,motif/memory,motif/nature,motif/well,concept/conscience,concept/doubt,concept/nature,form/allegory,form/parable,setting/manhattan"></span>
 
 
 The Hobby and the Head Waiter
@@ -7029,7 +7029,7 @@ a greenhouse of birds.
 
 
 
-<span class="atom-split" data-atom="story_11_in_praise_of_pie" data-title="Wild Ducks — In Praise of Pie" data-chapter="In Praise of Pie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_in_praise_of_pie" data-title="Wild Ducks — In Praise of Pie" data-chapter="In Praise of Pie" data-kind="story" data-tags="motif/bells,motif/marriage,concept/body,concept/greed,concept/humility"></span>
 
 
 In Praise of Pie
@@ -7149,7 +7149,7 @@ protesta in favore del ‘Pie' come simbolo di Pietà.
 
 
 
-<span class="atom-split" data-atom="story_12_culture_versus_civilisation" data-title="Wild Ducks — Culture versus Civilisation" data-chapter="Culture versus Civilisation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_culture_versus_civilisation" data-title="Wild Ducks — Culture versus Civilisation" data-chapter="Culture versus Civilisation" data-kind="story" data-tags="motif/death,motif/garden,motif/home,motif/nature,concept/charity,concept/doubt,concept/freedom,concept/nature,concept/truth,setting/london"></span>
 
 
 Culture Versus Civilisation
@@ -7284,7 +7284,7 @@ more uncivil--like the man in the Tube.
 
 
 
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_01" data-title="Wild Ducks — The Winter Feast (part 1)" data-chapter="The Winter Feast" data-kind="excerpt" data-tags="motif/winter"></span>
 
 
 The Winter Feast
@@ -7420,7 +7420,7 @@ living in besieged cities, knew too much about Vandals.
 
 
 
-<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="The Winter Feast" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_winter_feast--part_02" data-title="Wild Ducks — The Winter Feast (part 2)" data-chapter="The Winter Feast" data-kind="excerpt" data-tags="motif/winter"></span>
 
 
 It is, therefore, the greatest glory of the Christian tradition
@@ -7567,7 +7567,7 @@ and call up a real humanitarianism out of the depths of humanity.
 
 
 
-<span class="atom-split" data-atom="story_14_they_tell_a_story" data-title="Wild Ducks — They Tell a Story" data-chapter="They Tell a Story" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_they_tell_a_story" data-title="Wild Ducks — They Tell a Story" data-chapter="They Tell a Story" data-kind="story" data-tags="archetype/artist,archetype/hero,motif/flowers,motif/stars,motif/time,motif/wind,concept/conscience,concept/education,concept/greatness,concept/honour,concept/reform,concept/truth,form/parody,histref/renaissance"></span>
 
 
 They Tell a Story
@@ -7700,7 +7700,7 @@ But I do say that we can just now learn best from picture writing.
 
 
 
-<span class="atom-split" data-atom="story_15_here_and_there" data-title="Wild Ducks — HERE AND THERE" data-chapter="HERE AND THERE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_here_and_there" data-title="Wild Ducks — HERE AND THERE" data-chapter="HERE AND THERE" data-kind="story" data-tags="archetype/child,archetype/hero,motif/birds,motif/desert,motif/desire,motif/dreams,motif/flowers,motif/garden,motif/hill,motif/journey,motif/machine,motif/moon,motif/nature,motif/river,motif/road,motif/soul,motif/time,motif/well,concept/beauty,concept/hope,concept/identity,concept/loneliness,concept/nature,concept/providence,setting/castle,setting/desert,setting/italy,setting/mountains,character/diana,character/kent"></span>
 
 
 Here and There
@@ -7838,7 +7838,7 @@ the patroness of lunatics and the goddess of crossroads.
 
 
 
-<span class="atom-split" data-atom="story_16_the_blindness_of_the_sightseer" data-title="Wild Ducks — The Blindness of the Sightseer" data-chapter="The Blindness of the Sightseer" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_blindness_of_the_sightseer" data-title="Wild Ducks — The Blindness of the Sightseer" data-chapter="The Blindness of the Sightseer" data-kind="story" data-tags="motif/eyes_sight,motif/rose,concept/perception_and_consciousness,concept/conformity_vs_individualism,concept/wonder,form/essay,form/travel_writing,setting/england,setting/europe"></span>
 
 
 The Blindness of the Sightseer
@@ -7966,7 +7966,7 @@ to be patriots.
 
 
 
-<span class="atom-split" data-atom="story_17_the_aesthetes_in_the_kitchen_garden" data-title="Wild Ducks — The Aesthetes in the Kitchen Garden" data-chapter="The Aesthetes in the Kitchen Garden" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_aesthetes_in_the_kitchen_garden" data-title="Wild Ducks — The Aesthetes in the Kitchen Garden" data-chapter="The Aesthetes in the Kitchen Garden" data-kind="story" data-tags="motif/garden,motif/hill,motif/rose,concept/beauty,concept/hope,character/jones"></span>
 
 
 The Aesthetes in the Kitchen Garden
@@ -8082,7 +8082,7 @@ These latter, I may be fastidious, offend me as fantastic.
 
 
 
-<span class="atom-split" data-atom="story_18_the_need_of_personalities_in_politics" data-title="Wild Ducks — The Need of Personalities in Politics" data-chapter="The Need of Personalities in Politics" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_need_of_personalities_in_politics" data-title="Wild Ducks — The Need of Personalities in Politics" data-chapter="The Need of Personalities in Politics" data-kind="story" data-tags="motif/grave,motif/night,motif/rose,motif/silence,motif/time,concept/beauty,concept/hope,concept/poverty,form/satire"></span>
 
 
 The Need of Personalities in Politics
@@ -8209,7 +8209,7 @@ And because we have no personalities we have no responsibilities.
 
 
 
-<span class="atom-split" data-atom="story_19_the_largest_window_in_the_world" data-title="Wild Ducks — The Largest Window in the World" data-chapter="The Largest Window in the World" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_largest_window_in_the_world" data-title="Wild Ducks — The Largest Window in the World" data-chapter="The Largest Window in the World" data-kind="story" data-tags="motif/window,concept/beauty"></span>
 
 
 The Largest [[Window]] in the World
@@ -8339,7 +8339,7 @@ con folle semplicità:  ‘Ho fatto la più grande finestra del mondo.'
 
 
 
-<span class="atom-split" data-atom="story_20_the_apostle_and_the_wild_ducks" data-title="Wild Ducks — The Apostle and the Wild Ducks" data-chapter="The Apostle and the Wild Ducks" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_apostle_and_the_wild_ducks" data-title="Wild Ducks — The Apostle and the Wild Ducks" data-chapter="The Apostle and the Wild Ducks" data-kind="story" data-tags="motif/birds,motif/the_twelve,concept/tradition,concept/faith,concept/history,form/essay,histref/puritanism,setting/rural_england,character/st_george,character/paul"></span>
 
 
 The Apostle and the Wild Ducks
@@ -8498,7 +8498,7 @@ an intensive cultivation.
 
 
 
-<span class="atom-split" data-atom="story_21_travellers_joys" data-title="Wild Ducks — Travellers' Joys" data-chapter="Travellers Joys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_travellers_joys" data-title="Wild Ducks — Travellers' Joys" data-chapter="Travellers Joys" data-kind="story" data-tags="archetype/pilgrim,motif/city,motif/cross,motif/desert,motif/desire,motif/home,motif/journey,motif/leaves,motif/road,motif/time,motif/water,motif/well,concept/grotesque,concept/history,concept/honour,concept/pride,form/history,setting/desert,setting/london,character/hamlet,character/kent"></span>
 
 
 Travellers' Joys
@@ -8641,7 +8641,7 @@ the only possible [[Pilgrim|pilgrim]]'s progress.
 
 
 
-<span class="atom-split" data-atom="story_22_understanding_france" data-title="Wild Ducks — Understanding France" data-chapter="Understanding France" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_understanding_france" data-title="Wild Ducks — Understanding France" data-chapter="Understanding France" data-kind="story" data-tags="topos/golden_age,archetype/king,motif/lion,motif/time,concept/doubt,concept/greatness,concept/history,concept/imagination,concept/pride,concept/truth,form/history,histref/christianity,histref/crusades,histref/milton,histref/renaissance,setting/paris,character/king_of_france,character/milton"></span>
 
 
 Understanding France
@@ -8781,7 +8781,7 @@ of this school are preparing for it very thoroughly.
 
 
 
-<span class="atom-split" data-atom="story_23_salute_to_new_york" data-title="Wild Ducks — Salute to New York" data-chapter="Salute to New York" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_salute_to_new_york" data-title="Wild Ducks — Salute to New York" data-chapter="Salute to New York" data-kind="story" data-tags="setting/new_york"></span>
 
 
 Salute to New York
@@ -8862,7 +8862,7 @@ or the last Christian cathedral.
 
 
 
-<span class="atom-split" data-atom="story_24_the_british_beech" data-title="Wild Ducks — The British Beech" data-chapter="The British Beech" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_british_beech" data-title="Wild Ducks — The British Beech" data-chapter="The British Beech" data-kind="story" data-tags="motif/home"></span>
 
 
 The British Beech
@@ -8979,7 +8979,7 @@ temporarily deaf and blind to go from Birmingham to Brighton.
 
 
 
-<span class="atom-split" data-atom="story_25_public_monuments" data-title="Wild Ducks — Public Monuments" data-chapter="Public Monuments" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_public_monuments" data-title="Wild Ducks — Public Monuments" data-chapter="Public Monuments" data-kind="story" data-tags="motif/road,motif/well,setting/london"></span>
 
 
 Public Monuments
@@ -9114,7 +9114,7 @@ or the tomb.
 
 
 
-<span class="atom-split" data-atom="story_26_the_making_of_history_history" data-title="Wild Ducks — THE MAKING OF HISTORY" data-chapter="THE MAKING OF history HISTORY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_making_of_history_history" data-title="Wild Ducks — THE MAKING OF HISTORY" data-chapter="THE MAKING OF history HISTORY" data-kind="story" data-tags="motif/cross,motif/nature,motif/river,motif/stars,motif/time,motif/well,concept/history,concept/hope,concept/nature,concept/solitude,concept/truth,concept/wonder,form/epic,form/history,character/oliver"></span>
 
 
 THE MAKING OF [[history|HISTORY]]
@@ -9256,7 +9256,7 @@ characteristic statues of six acrobats?
 
 
 
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_01" data-title="Wild Ducks — A Theory of Tyrants (part 1)" data-chapter="A Theory of Tyrants" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,archetype/tyrant,motif/nature,motif/time,motif/well,concept/history,concept/mercy,concept/nature,concept/truth,form/history,histref/elizabethan_england,histref/french_revolution,character/queen_elizabeth"></span>
 
 
 A Theory of Tyrants
@@ -9376,7 +9376,7 @@ for the crimes of good men.
 
 
 
-<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="A Theory of Tyrants" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_a_theory_of_tyrants--part_02" data-title="Wild Ducks — A Theory of Tyrants (part 2)" data-chapter="A Theory of Tyrants" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/snow,motif/well,motif/winter,concept/body,concept/doubt,concept/history,form/history"></span>
 
 
 Wherever we have read [[history]] we have noticed one class of
@@ -9503,7 +9503,7 @@ as any that might have happened in Surbiton during the War.
 
 
 
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_01" data-title="Wild Ducks — The Return of Pageantry (part 1)" data-chapter="The Return of Pageantry" data-kind="excerpt" data-tags="motif/love,motif/silence,motif/well,motif/window,concept/apocalypse,concept/history,concept/pride,form/history,histref/milton,histref/new_england,histref/puritanism,histref/reformation,character/mermaid,character/milton,character/robin_hood"></span>
 
 
 The Return of Pageantry
@@ -9626,7 +9626,7 @@ and in the colours of Carnival.
 
 
 
-<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="The Return of Pageantry" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_28_the_return_of_pageantry--part_02" data-title="Wild Ducks — The Return of Pageantry (part 2)" data-chapter="The Return of Pageantry" data-kind="excerpt" data-tags="topos/last_stand,archetype/ghost,archetype/innocent,archetype/king,motif/time,concept/conscience,concept/history,concept/pride,concept/vanity,form/history"></span>
 
 
 Rational History
@@ -9721,7 +9721,7 @@ what kind of tale he would tell of the fallen King.
 
 
 
-<span class="atom-split" data-atom="story_29_the_unknown_warrior" data-title="Wild Ducks — The Unknown Warrior" data-chapter="The Unknown Warrior" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_unknown_warrior" data-title="Wild Ducks — The Unknown Warrior" data-chapter="The Unknown Warrior" data-kind="story" data-tags="archetype/hero,archetype/king,motif/death,motif/dust,motif/flag,motif/garden,motif/grave,motif/home,motif/soul,motif/well,concept/faith,concept/truth,histref/milton,setting/cathedral,setting/london,character/milton"></span>
 
 
 The Unknown Warrior
@@ -9857,7 +9857,7 @@ that one [[Death|death]] was less glorious than the other.
 
 
 
-<span class="atom-split" data-atom="story_30_william_penn_and_his_royalist_friends" data-title="Wild Ducks — William Penn and his Royalist Friends" data-chapter="William Penn and his Royalist Friends" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_william_penn_and_his_royalist_friends" data-title="Wild Ducks — William Penn and his Royalist Friends" data-chapter="William Penn and his Royalist Friends" data-kind="story" data-tags="archetype/hero,archetype/pilgrim,archetype/prophet,motif/city,motif/grave,motif/home,motif/ship,motif/well,concept/doubt,concept/faith,concept/fanaticism,concept/fear,concept/friendship,concept/history,concept/truth,form/history,form/translation,histref/america,histref/bible,histref/islam,histref/puritanism,setting/america,setting/ship"></span>
 
 
 William Penn and His Royalist Friends
@@ -10002,7 +10002,7 @@ of an enemy as Penn.
 
 
 
-<span class="atom-split" data-atom="story_31_on_literature" data-title="Wild Ducks — ON LITERATURE" data-chapter="ON LITERATURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_on_literature" data-title="Wild Ducks — ON LITERATURE" data-chapter="ON LITERATURE" data-kind="story" data-tags="archetype/prophet,motif/city,motif/flag,motif/silence,concept/eternity,histref/renaissance"></span>
 
 
 On Literature
@@ -10102,7 +10102,7 @@ opening into [[Eternity|eternity]]'.
 
 
 
-<span class="atom-split" data-atom="story_32_literature_of_information" data-title="Wild Ducks — Literature of Information" data-chapter="Literature of Information" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_literature_of_information" data-title="Wild Ducks — Literature of Information" data-chapter="Literature of Information" data-kind="story" data-tags="archetype/child,archetype/detective,archetype/prophet,motif/birds,motif/blood,motif/flowers,motif/love,motif/nature,motif/night,motif/time,motif/winter,concept/democracy,concept/education,concept/history,concept/imagination,concept/madness,concept/nature,concept/truth,form/comedy,form/history,histref/christianity,histref/crusades,setting/london"></span>
 
 
 Literature of Information
@@ -10297,7 +10297,7 @@ contented with a planet of miracles.
 
 
 
-<span class="atom-split" data-atom="story_33_eulogy_of_robin_hood" data-title="Wild Ducks — Eulogy of Robin Hood" data-chapter="Eulogy of Robin Hood" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_eulogy_of_robin_hood" data-title="Wild Ducks — Eulogy of Robin Hood" data-chapter="Eulogy of Robin Hood" data-kind="story" data-tags="archetype/child,archetype/hero,motif/home,motif/night,motif/stars,motif/tears,motif/time,motif/well,concept/hope,concept/truth,concept/vanity,form/melodrama,form/satire,character/robin_hood"></span>
 
 
 Eulogy of [[Robin Hood]]
@@ -10439,7 +10439,7 @@ it is ‘the policy of Majuba'.
 
 
 
-<span class="atom-split" data-atom="story_34_a_plea_for_hasty_journalism" data-title="Wild Ducks — A Plea for Hasty Journalism" data-chapter="A Plea for Hasty Journalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_a_plea_for_hasty_journalism" data-title="Wild Ducks — A Plea for Hasty Journalism" data-chapter="A Plea for Hasty Journalism" data-kind="story" data-tags="motif/flowers,motif/nature,motif/water,motif/well,concept/nature,concept/pride,concept/truth"></span>
 
 
 A Plea for Hasty Journalism
@@ -10549,7 +10549,7 @@ Give us a frivolous journalism, and we will save England.
 
 
 
-<span class="atom-split" data-atom="story_35_the_voice_of_shelley" data-title="Wild Ducks — The Voice of Shelley" data-chapter="The Voice of Shelley" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_voice_of_shelley" data-title="Wild Ducks — The Voice of Shelley" data-chapter="The Voice of Shelley" data-kind="story" data-tags="archetype/king,motif/blood,motif/cross,motif/fire,motif/love,motif/nature,motif/pain,motif/supernatural,motif/time,motif/water,motif/well,concept/beauty,concept/democracy,concept/doubt,concept/grotesque,concept/history,concept/nature,concept/sublime,concept/truth,form/history,form/lyric,histref/french_revolution,setting/castle"></span>
 
 
 The Voice of Shelley
@@ -10665,7 +10665,7 @@ to understand them.
 
 
 
-<span class="atom-split" data-atom="story_36_the_great_translation" data-title="Wild Ducks — The Great Translation" data-chapter="The Great Translation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_great_translation" data-title="Wild Ducks — The Great Translation" data-chapter="The Great Translation" data-kind="story" data-tags="motif/nature,motif/supernatural,motif/time,motif/well,concept/history,concept/nature,form/history,form/translation,histref/bible,character/robin_hood"></span>
 
 
 The Great [[Translation]]
@@ -10796,7 +10796,7 @@ the grass can grow.
 
 
 
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_01" data-title="Wild Ducks — Jane Austen's Juvenilia (part 1)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt" data-tags="motif/desire,motif/grave,motif/love,motif/seasons,motif/time,motif/well,concept/friendship,concept/history,concept/hope,concept/truth,form/fragment,form/history,character/kent"></span>
 
 
 Jane Austen's Juvenilia
@@ -10916,7 +10916,7 @@ the unmistakable voice of Mr Bennet?
 
 
 
-<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_37_jane_austen_s_juvenilia--part_02" data-title="Wild Ducks — Jane Austen's Juvenilia (part 2)" data-chapter="Jane Austen s Juvenilia" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/love,motif/mirror,motif/well,concept/friendship,concept/greatness"></span>
 
 
 But there is a larger critical reason for taking pleasure
@@ -11017,7 +11017,7 @@ to notice the French Revolution.
 
 
 
-<span class="atom-split" data-atom="story_38_the_countrymen_of_mary_webb_and_thomas_h" data-title="Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy" data-chapter="The Countrymen of Mary Webb and Thomas H" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_countrymen_of_mary_webb_and_thomas_h" data-title="Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy" data-chapter="The Countrymen of Mary Webb and Thomas H" data-kind="story" data-tags="motif/nature,motif/light_and_dark,concept/literary_criticism,concept/optimism_and_pessimism,concept/self_sacrifice,concept/superstition_and_omen,form/essay,form/literary_criticism,character/tess"></span>
 
 
 The Countrymen of Mary Webb and Thomas Hardy
@@ -11158,7 +11158,7 @@ by making other people the martyrs.
 
 
 
-<span class="atom-split" data-atom="story_39_the_words_of_strong_poetry" data-title="Wild Ducks — The Words of Strong Poetry" data-chapter="The Words of Strong Poetry" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_the_words_of_strong_poetry" data-title="Wild Ducks — The Words of Strong Poetry" data-chapter="The Words of Strong Poetry" data-kind="story" data-tags="motif/time,form/free_verse"></span>
 
 
 The Words of Strong Poetry
@@ -11288,7 +11288,7 @@ but to do it.
 
 
 
-<span class="atom-split" data-atom="story_40_the_refrain_of_the_rover" data-title="Wild Ducks — The Refrain of the Rover" data-chapter="The Refrain of the Rover" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_the_refrain_of_the_rover" data-title="Wild Ducks — The Refrain of the Rover" data-chapter="The Refrain of the Rover" data-kind="story" data-tags="motif/well"></span>
 
 
 The Refrain of the Rover
@@ -11396,7 +11396,7 @@ tutto slegata dagli uomini di lettere.
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_01" data-title="Wild Ducks — ON REFLECTION (part 1)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_01" data-title="Wild Ducks — ON REFLECTION (part 1)" data-chapter="ON REFLECTION" data-kind="excerpt" data-tags="concept/reform,form/essay"></span>
 
 
 On Reflection
@@ -11576,7 +11576,7 @@ Ora, per quel che riguarda questo argomento, ritengo che il mondo stia diventand
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_02" data-title="Wild Ducks — ON REFLECTION (part 2)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_02" data-title="Wild Ducks — ON REFLECTION (part 2)" data-chapter="ON REFLECTION" data-kind="excerpt" data-tags="concept/optimism_and_pessimism,concept/being_and_existence,concept/wonder_and_gratitude,concept/faith,concept/suicide,form/essay,histref/eastern_religion,character/st_thomas_aquinas,character/judas_iscariot"></span>
 
 
 We therefore come back to the primary truth, that what is right with
@@ -11698,7 +11698,7 @@ and to examine it.
 
 
 
-<span class="atom-split" data-atom="story_41_on_reflection--part_03" data-title="Wild Ducks — ON REFLECTION (part 3)" data-chapter="ON REFLECTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_41_on_reflection--part_03" data-title="Wild Ducks — ON REFLECTION (part 3)" data-chapter="ON REFLECTION" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/birds,motif/childhood,motif/decay,motif/dust,motif/grave,motif/home,motif/nature,motif/pain,motif/soul,motif/time,motif/well,concept/comradeship,concept/doubt,concept/exile,concept/honour,concept/hope,concept/madness,concept/nature,concept/truth,concept/union,concept/wonder,form/tragedy,histref/christianity,histref/dante,character/beatrice"></span>
 
 
 There has crept into our thoughts, through a thousand

@@ -10019,7 +10019,7 @@ been in [[america|America]], but sufficiently striking to one who has not.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="American Notes — Chapter 18" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="American Notes — Chapter 18" data-chapter="Chapter 01" data-kind="chapter" data-tags="form/travel_writing,setting/america"></span>
 
 
 CHAPTER XVIII
@@ -10037,7 +10037,7 @@ THE LITTLE WIFE                                                    144
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="American Notes — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="American Notes — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/city,motif/home,motif/ship,motif/time,concept/imagination,concept/melancholy,concept/truth,setting/london,setting/ship"></span>
 
 
 CHAPTER I
@@ -10143,7 +10143,7 @@ fares out, like sacks of coals, upon the pavement.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="American Notes — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="American Notes — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/garden,motif/home,motif/journey,motif/night,motif/seasons,motif/ship,motif/silence,motif/spring,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/conversion,concept/deception,setting/ship"></span>
 
 
 Having settled this point to the perfect satisfaction of all parties,
@@ -10240,7 +10240,7 @@ considered, were merry enough.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="American Notes — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="American Notes — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/river,motif/ship,motif/time,motif/water,motif/well,motif/wind,motif/winter,setting/ship"></span>
 
 
 When the morning—_the_ morning—came, and we met at breakfast, it was
@@ -10346,7 +10346,7 @@ wheels turn fiercely round for the first [[Time|time]]; and the noble [[Ship|shi
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="American Notes — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="American Notes — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/love,motif/night,motif/ship,motif/silence,motif/sleep,motif/spring,motif/stars,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/courage,concept/melancholy,setting/ship"></span>
 
 
 CHAPTER II
@@ -10447,7 +10447,7 @@ standing on its head.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="American Notes — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="American Notes — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/doubt,concept/mercy,concept/wonder,form/novel,setting/ship"></span>
 
 
 Before it is possible to make any arrangement at all compatible with this
@@ -10546,7 +10546,7 @@ conducted me below.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="American Notes — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="American Notes — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/monster,motif/lightning,motif/night,motif/noon,motif/ship,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/doubt,concept/fear,concept/imagination,concept/madness,concept/suffering,setting/london,setting/ship"></span>
 
 
 There I remained until I got better: [[Suffering|suffering]], whenever I was
@@ -10652,7 +10652,7 @@ would be hard to look upon.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="American Notes — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="American Notes — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/clock,motif/death,motif/desire,motif/fire,motif/moon,motif/night,motif/noon,motif/ship,motif/time,motif/water,motif/wind,setting/new_york,setting/ship"></span>
 
 
 I was now comfortably established by courtesy in the ladies’ cabin,
@@ -10754,7 +10754,7 @@ we could plainly see the waving branches of the trees.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="American Notes — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="American Notes — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/villain,motif/clock,motif/cross,motif/hill,motif/home,motif/river,motif/ship,motif/silence,motif/snow,motif/time,motif/water,motif/well,concept/hope,form/melodrama,setting/ship,character/queen"></span>
 
 
 It was strange enough, in the [[Silence|silence]] of midnight, and the dead stillness
@@ -10852,7 +10852,7 @@ the town cheerful, thriving, and industrious.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="American Notes — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="American Notes — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/frost,motif/home,motif/night,motif/well,motif/wind,form/melodrama"></span>
 
 
 We lay there seven hours, to deliver and exchange the mails.  At length,
@@ -10928,7 +10928,7 @@ the reader would believe.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="American Notes — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="American Notes — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/hill,motif/time,motif/water,motif/well,concept/doubt,concept/honour,concept/slavery,histref/america,setting/america,character/sunday"></span>
 
 
 CHAPTER III
@@ -11035,7 +11035,7 @@ recognise a world, and a broad one too, lying beyond the college walls.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="American Notes — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="American Notes — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/bees,motif/home,motif/ship,motif/time,motif/winter,concept/body,concept/charity,concept/history,concept/vanity,form/history,histref/america,setting/america,setting/ship"></span>
 
 
 It was a source of inexpressible pleasure to me to observe the almost
@@ -11148,7 +11148,7 @@ and a mere fancy, but I felt it keenly for all that.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="American Notes — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="American Notes — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/lightning,motif/love,motif/nature,motif/secrets,motif/soul,motif/time,motif/well,concept/charity,concept/education,concept/endurance,concept/history,concept/hope,concept/nature,concept/pride,concept/suffering,concept/truth,form/history,form/hymn,setting/court,character/chorus,character/speed"></span>
 
 
 The children were at their daily tasks in different rooms, except a few
@@ -11256,7 +11256,7 @@ old, she was perfectly [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="American Notes — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="American Notes — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/memory,motif/silence,motif/time,motif/well,concept/truth,concept/union"></span>
 
 
 ‘Then her mental powers, hitherto stinted in their growth, rapidly
@@ -11372,7 +11372,7 @@ straightforward, efforts were to be used.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="American Notes — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="American Notes — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/lamb,concept/body,concept/doubt,concept/self,concept/wonder"></span>
 
 
 ‘The result thus far, is quickly related, and easily conceived; but not
@@ -11484,7 +11484,7 @@ their senses.”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="American Notes — Chapter 3 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="American Notes — Chapter 3 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/lion,motif/love,motif/nature,motif/time,motif/water,concept/doubt,concept/hope,concept/nature,concept/truth"></span>
 
 
 ‘During this year, and six months after she had left [[Home|home]], her mother
@@ -11600,7 +11600,7 @@ hold their hand, and converse with them by signs.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="American Notes — Chapter 3 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="American Notes — Chapter 3 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/dreams,motif/leaves,motif/love,motif/night,motif/sleep,motif/wheel,concept/history,concept/hope,concept/suffering,form/history,character/oliver"></span>
 
 
 ‘In her intellectual character it is pleasing to observe an insatiable
@@ -11723,7 +11723,7 @@ him heartily upon the back, and jump up and down in her joy.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_08" data-title="American Notes — Chapter 3 (part 8)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_08" data-title="American Notes — Chapter 3 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/flag,motif/rose,motif/well,concept/charity,concept/doubt,concept/hope,concept/self,setting/court,character/oliver"></span>
 
 
 ‘He learned more than a half-dozen letters in half an hour, and seemed
@@ -11833,7 +11833,7 @@ reading an account of her own presentation at some Foreign [[Court]].
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_09" data-title="American Notes — Chapter 3 (part 9)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_09" data-title="American Notes — Chapter 3 (part 9)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/desire,motif/garden,motif/nature,motif/window,concept/nature,concept/pride,concept/self"></span>
 
 
 I have been thus particular in describing her, because she will serve to
@@ -11937,7 +11937,7 @@ of coloured prints upon the whitewashed wall, or, perhaps, its wooden
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_10" data-title="American Notes — Chapter 3 (part 10)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_10" data-title="American Notes — Chapter 3 (part 10)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,motif/love,motif/nature,motif/prison,motif/silence,motif/well,concept/doubt,concept/endurance,concept/nature,concept/purification,histref/america,histref/reformation,setting/america,character/chorus"></span>
 
 
 The orphans and young children are in an adjoining building separate from
@@ -12055,7 +12055,7 @@ has its root in the true wisdom or [[philosophy]] of the matter.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_11" data-title="American Notes — Chapter 3 (part 11)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_11" data-title="American Notes — Chapter 3 (part 11)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/home,motif/night,motif/prison,motif/silence,motif/time,motif/well,concept/hope,concept/reform,histref/america,setting/america"></span>
 
 
 I [[Hope|hope]] I may not be misunderstood on this subject, for it is one in which
@@ -12155,7 +12155,7 @@ afforded me.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_12" data-title="American Notes — Chapter 3 (part 12)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_12" data-title="American Notes — Chapter 3 (part 12)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/desire,motif/home,motif/time,motif/well,concept/doubt,concept/education,concept/hope,concept/truth,histref/america,histref/new_england,setting/america,setting/court"></span>
 
 
 * * * * *
@@ -12265,7 +12265,7 @@ church, the chapel, and the lecture-room, the ladies resort in crowds.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_13" data-title="American Notes — Chapter 3 (part 13)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_13" data-title="American Notes — Chapter 3 (part 13)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/flag,motif/flowers,motif/home,motif/leaves,motif/prayer,motif/water,motif/well,motif/wind,concept/charity,concept/wonder,form/hymn,histref/bible"></span>
 
 
 Wherever religion is resorted to, as a strong drink, and as an escape
@@ -12377,7 +12377,7 @@ portion of his discourse.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_14" data-title="American Notes — Chapter 3 (part 14)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_14" data-title="American Notes — Chapter 3 (part 14)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/sleep,motif/time,motif/window,setting/london,character/clarence"></span>
 
 
 I have cited this, rather as an instance of the preacher’s eccentricities
@@ -12447,7 +12447,7 @@ in the firm belief that it was a shower-bath.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="American Notes — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="American Notes — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/ghost,archetype/monster,motif/decay,motif/fire,motif/hill,motif/river,motif/road,motif/tears,motif/time,motif/water,motif/wind,motif/window,histref/new_england"></span>
 
 
 CHAPTER IV
@@ -12566,7 +12566,7 @@ cluster round, and you have [[Time|time]] to breathe again.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="American Notes — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="American Notes — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/nature,motif/river,motif/time,motif/water,motif/well,motif/winter,concept/doubt,concept/imagination,concept/nature,concept/pride,concept/self,histref/america,setting/america"></span>
 
 
 I was met at the station at Lowell by a gentleman intimately connected
@@ -12671,7 +12671,7 @@ worship in which they have been educated.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="American Notes — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="American Notes — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/nature,motif/night,motif/snow,motif/storm,motif/time,motif/window,concept/nature,concept/self,concept/suffering,histref/america,setting/america"></span>
 
 
 At some distance from the factories, and on the highest and pleasantest
@@ -12793,7 +12793,7 @@ showered about us like a [[Storm|storm]] of fiery [[Snow|snow]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="American Notes — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="American Notes — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/fire,motif/frost,motif/home,motif/journey,motif/memory,motif/river,motif/road,motif/secrets,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,concept/doubt,histref/america,histref/new_england,setting/america,setting/new_york,character/dwarf"></span>
 
 
 CHAPTER V
@@ -12891,7 +12891,7 @@ never looked upon.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="American Notes — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="American Notes — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/love,motif/night,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/hope,concept/madness,setting/new_york,character/queen,character/sunday"></span>
 
 
 After two hours and a half of this odd travelling (including a stoppage
@@ -13033,7 +13033,7 @@ should like to try the experiment on a Mormonist or two to begin with.’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="American Notes — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="American Notes — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/bells,motif/chains,motif/city,motif/clock,motif/home,motif/insects,motif/journey,motif/nature,motif/night,motif/noon,motif/prison,motif/river,motif/rose,motif/sleep,motif/time,motif/water,motif/well,motif/wheel,motif/winter,concept/history,concept/hope,concept/imprisonment,concept/nature,concept/wonder,form/history,form/novel,histref/america,setting/america,setting/cathedral,setting/new_york,character/speed"></span>
 
 
 In this place, there is the best jail for untried offenders in the world.
@@ -13172,7 +13172,7 @@ again to welcome other comers, and [[Speed|speed]] before them to the busy port.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="American Notes — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="American Notes — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/crone,motif/city,motif/fire,motif/home,motif/leaves,motif/love,motif/road,motif/water,motif/well,motif/window,concept/truth,histref/america,setting/america,setting/london,setting/new_york"></span>
 
 
 CHAPTER VI
@@ -13278,7 +13278,7 @@ them out; here, they pervade the town.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="American Notes — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="American Notes — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/grave,motif/night,motif/prison,motif/river,motif/time,motif/water,motif/well,motif/window,concept/truth,concept/wonder,form/melodrama,character/bottom"></span>
 
 
 We must [[Cross|cross]] Broadway again; gaining some refreshment from the heat, in
@@ -13432,7 +13432,7 @@ things away?’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="American Notes — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="American Notes — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/death,motif/grave,motif/home,motif/leaves,motif/nature,motif/night,motif/prison,motif/well,motif/wind,motif/window,concept/nature,concept/self,concept/self_reliance,setting/oxford"></span>
 
 
 ‘Where should they put ’em?’
@@ -13539,7 +13539,7 @@ so much as a white mouse in a twirling cage.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="American Notes — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="American Notes — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/quest,motif/birds,motif/desert,motif/fire,motif/grave,motif/home,motif/leaves,motif/mirror,motif/night,motif/sleep,motif/well,concept/body,concept/conscience,concept/fear,concept/poverty,concept/wonder,setting/desert,setting/london,character/jones,character/queen"></span>
 
 
 Are there no amusements?  Yes.  There is a lecture-room across the way,
@@ -13640,7 +13640,7 @@ forcing the dislodged rats to move away in [[Quest|quest]] of better lodgings.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="American Notes — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="American Notes — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/hero,motif/bells,motif/city,motif/clock,motif/cross,motif/dance,motif/fire,motif/leaves,motif/night,motif/ship,motif/spring,motif/stars,motif/time,motif/well,setting/court,setting/ship,character/bottom"></span>
 
 
 Here too are lanes and alleys, paved with mud knee-deep, underground
@@ -13747,7 +13747,7 @@ bed.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="American Notes — Chapter 6 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="American Notes — Chapter 6 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/nature,motif/prison,motif/time,motif/water,motif/well,concept/body,concept/charity,concept/doubt,concept/nature,concept/suicide,form/litany,histref/america,setting/america,setting/new_york,character/witch"></span>
 
 
 * * * * *
@@ -13863,7 +13863,7 @@ character, which it would be difficult to estimate too highly.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="American Notes — Chapter 6 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="American Notes — Chapter 6 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/grave,motif/home,motif/nature,motif/night,motif/ship,motif/summer,motif/time,motif/well,motif/winter,concept/nature,histref/america,setting/america,setting/london,setting/new_york,setting/ship"></span>
 
 
 In addition to these establishments, there are in [[New York]], excellent
@@ -13922,7 +13922,7 @@ closes up the vista of our lives in age.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="American Notes — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="American Notes — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/city,motif/garden,motif/grave,motif/journey,motif/night,motif/prison,motif/river,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/endurance,concept/imprisonment,concept/suffering,histref/america,histref/reformation,setting/america,setting/new_york"></span>
 
 
 CHAPTER VII
@@ -14048,7 +14048,7 @@ and I the cause, or I consenting to it in the least degree.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="American Notes — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="American Notes — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/death,motif/garden,motif/home,motif/leaves,motif/prison,motif/seasons,motif/time,motif/water,motif/well,motif/wheel,motif/winter,concept/body,concept/despair,concept/guilt,concept/history,concept/hope,concept/imprisonment,concept/melancholy,concept/pride,concept/suffering,form/history,histref/bible"></span>
 
 
 I was accompanied to this [[Prison|prison]] by two gentlemen officially connected
@@ -14148,7 +14148,7 @@ very long gentlemen, within these four walls!’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="American Notes — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="American Notes — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/prison,motif/silence,motif/snow,motif/tears,motif/time,motif/window,concept/freedom,concept/hope,concept/imprisonment,concept/solitude"></span>
 
 
 He gazed about him—Heaven only knows how wearily!—as he said these words;
@@ -14258,7 +14258,7 @@ poor thing!
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="American Notes — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="American Notes — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/blood,motif/death,motif/dreams,motif/night,motif/prison,motif/time,motif/well,motif/window,concept/despair,concept/fear,concept/solitude,character/phantom"></span>
 
 
 I went from cell to cell that day; and every face I saw, or word I heard,
@@ -14376,7 +14376,7 @@ but whether bird, or beast, or muffled human shape, he cannot tell.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="American Notes — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="American Notes — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/flowers,motif/memory,motif/nature,motif/night,motif/prayer,motif/prison,motif/summer,motif/tears,motif/well,concept/conversion,concept/courage,concept/despair,concept/doubt,concept/faith,concept/hope,concept/imagination,concept/imprisonment,concept/nature,concept/self,concept/solitude,concept/suffering,histref/bible,histref/reformation,character/phantom"></span>
 
 
 [Picture: The Solitary Prisoner]
@@ -14487,7 +14487,7 @@ English thief, even the most enthusiastic have scarcely any [[Hope|hope]] of the
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="American Notes — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="American Notes — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/prison,motif/road,motif/summer,motif/time,motif/well,concept/hope,concept/imprisonment,concept/nature,concept/solitude,concept/temptation"></span>
 
 
 It seems to me that the objection that nothing wholesome or good has ever
@@ -14556,7 +14556,7 @@ his legs would carry him, and never once looked back.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="American Notes — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="American Notes — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/cross,motif/desire,motif/home,motif/journey,motif/nature,motif/noon,motif/river,motif/time,motif/water,concept/honour,concept/nature,concept/revenge,concept/self,concept/slavery,histref/america,setting/america"></span>
 
 
 CHAPTER VIII
@@ -14677,7 +14677,7 @@ of that [[Nature|nature]].
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="American Notes — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="American Notes — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/cross,motif/dust,motif/flag,motif/home,motif/moon,motif/night,motif/road,motif/stone_and_marble,motif/time,motif/water,motif/wind,motif/window,concept/greatness,concept/imagination,concept/melancholy,form/inscription,histref/america,setting/america,setting/paris"></span>
 
 
 We reached Washington at about half-past six that evening, and had upon
@@ -14772,7 +14772,7 @@ flow at any [[Time|time]] towards such dull and sluggish [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="American Notes — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="American Notes — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/dust,motif/tears,motif/time,motif/well,concept/body,concept/freedom,concept/honour,concept/hope,concept/pride,histref/america,setting/america"></span>
 
 
 The principal features of the Capitol, are, of course, the two houses of
@@ -14873,7 +14873,7 @@ man as any.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="American Notes — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="American Notes — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/chains,motif/fire,motif/grave,motif/home,motif/prayer,motif/silence,motif/time,motif/well,concept/body,concept/freedom,concept/honour,concept/self,histref/america,setting/america,setting/court"></span>
 
 
 There was but a week to come, and another of that [[Body|body]], for doing his
@@ -14975,7 +14975,7 @@ account.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="American Notes — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="American Notes — Chapter 8 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/garden,motif/home,motif/river,motif/time,motif/well,motif/window,concept/doubt,concept/education,concept/honour"></span>
 
 
 It is somewhat remarkable too, at first, to say the least, to see so many
@@ -15076,7 +15076,7 @@ physician’s dining-room during his hours of consultation at [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="American Notes — Chapter 8 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="American Notes — Chapter 8 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/home,motif/journey,motif/night,motif/pain,motif/time,motif/well,concept/faith,concept/grotesque,concept/madness,concept/slavery,setting/court"></span>
 
 
 There were some fifteen or twenty persons in the room.  One, a tall,
@@ -15209,7 +15209,7 @@ company, in a new chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="American Notes — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="American Notes — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/journey,motif/moon,motif/nature,motif/night,motif/pain,motif/river,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/wheel,concept/doubt,concept/honour,concept/nature,concept/self,concept/wonder"></span>
 
 
 CHAPTER IX
@@ -15321,7 +15321,7 @@ were first built.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="American Notes — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="American Notes — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/horse,motif/river,motif/road,motif/time,motif/water,concept/hope,concept/providence,setting/desert,character/bottom"></span>
 
 
 The tickets we have received on board the steamboat are marked No. 1, so
@@ -15464,7 +15464,7 @@ cultivation in the same place could possibly have afforded me.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="American Notes — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="American Notes — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/decay,motif/desire,motif/journey,motif/nature,motif/noon,motif/river,motif/summer,motif/time,motif/well,concept/nature,concept/slavery,form/hymn,histref/america,setting/america"></span>
 
 
 In this district, as in all others where [[Slavery|slavery]] sits brooding, (I have
@@ -15569,7 +15569,7 @@ would preserve contented minds.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="American Notes — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="American Notes — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/decay,motif/memory,motif/nature,motif/night,motif/prison,motif/river,motif/sleep,motif/time,motif/water,concept/doubt,concept/guilt,concept/imprisonment,concept/nature,concept/slavery,histref/america,setting/america"></span>
 
 
 There are two bridges across the [[River|river]]: one belongs to the railroad, and
@@ -15680,7 +15680,7 @@ Ethereal Golden Vat.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="American Notes — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="American Notes — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/night,motif/swallow,motif/time,motif/water,motif/well,motif/wind,concept/endurance,concept/self"></span>
 
 
 After remaining here a couple of days I bound myself to a rigid adherence
@@ -15803,7 +15803,7 @@ find this a’most like an English arternoon, hey?’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="American Notes — Chapter 9 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="American Notes — Chapter 9 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/journey,motif/night,motif/prison,motif/river,motif/road,motif/silence,motif/time,motif/water,motif/window,concept/body,concept/doubt,concept/faith,concept/honour,concept/truth,concept/wonder"></span>
 
 
 The scenery, which had been tame enough at first, was, for the last ten
@@ -15921,7 +15921,7 @@ the rudder creaked and groaned complainingly, and we had begun our
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="American Notes — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="American Notes — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/fire,motif/journey,motif/night,motif/river,motif/time,concept/doubt,histref/america,setting/america,setting/mountains"></span>
 
 
 CHAPTER X
@@ -16029,7 +16029,7 @@ lively consciousness of their society.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="American Notes — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="American Notes — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/fire,motif/night,motif/rose,motif/sleep,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/body,character/bottom"></span>
 
 
 The politeness of the person in authority had secured to me a shelf in a
@@ -16129,7 +16129,7 @@ passing his hand up the back, and rubbing it the wrong way.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="American Notes — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="American Notes — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/journey,motif/night,motif/stars,motif/time,motif/water,motif/well,concept/beauty,character/queen"></span>
 
 
 We had another odd specimen on board, of a different kind.  This was a
@@ -16237,7 +16237,7 @@ delights.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="American Notes — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="American Notes — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/horse,motif/journey,motif/moon,motif/night,motif/noon,motif/prison,motif/river,motif/road,motif/water,motif/wind,motif/window,character/sunday"></span>
 
 
 Then there were new settlements and detached log-cabins and frame-houses,
@@ -16341,7 +16341,7 @@ made ourselves very comfortable in the mean while, and went on board at
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="American Notes — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="American Notes — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/ghosts,motif/journey,motif/nature,motif/night,motif/river,motif/secrets,motif/silence,motif/storm,motif/water,motif/wind,concept/body,concept/melancholy,concept/nature,concept/self,concept/wonder"></span>
 
 
 CHAPTER XI
@@ -16452,7 +16452,7 @@ comparison with these meals, would be a sparkling festivity.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="American Notes — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="American Notes — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/grave,motif/hill,motif/machine,motif/nature,motif/night,motif/river,motif/time,motif/water,concept/nature"></span>
 
 
 The people are all alike, too.  There is no diversity of character.  They
@@ -16562,7 +16562,7 @@ slowly lose them.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="American Notes — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="American Notes — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/city,motif/fire,motif/flowers,motif/nature,motif/night,motif/river,motif/ship,motif/sleep,motif/spring,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/education,concept/history,concept/nature,form/history,form/novel,histref/america,setting/america,setting/ship"></span>
 
 
 The [[Night|night]] is dark, and we proceed within the [[Shadow|shadow]] of the wooded bank,
@@ -16692,7 +16692,7 @@ log huts upon the [[River|river]]’s shore.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="American Notes — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="American Notes — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/home,motif/journey,motif/love,motif/memory,motif/nature,motif/night,motif/noon,motif/sleep,motif/time,motif/well,concept/doubt,concept/hope,concept/melancholy,concept/nature,concept/suffering,setting/paris"></span>
 
 
 CHAPTER XII
@@ -16805,7 +16805,7 @@ consequent upon such feverish forcing of its powers.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="American Notes — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="American Notes — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/quest,archetype/hero,archetype/innocent,motif/animals,motif/blood,motif/hill,motif/nature,motif/river,motif/road,motif/rose,motif/time,motif/window,concept/grotesque,concept/history,concept/hope,concept/nature,concept/suffering,concept/truth,form/history,character/speed"></span>
 
 
 On our way to Portland, we passed a ‘Magistrate’s office,’ which amused
@@ -16924,7 +16924,7 @@ waking [[nightmare]] to me all my life.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="American Notes — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="American Notes — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/birds,motif/death,motif/desire,motif/grave,motif/home,motif/journey,motif/lightning,motif/love,motif/marriage,motif/night,motif/river,motif/seasons,motif/time,motif/water,concept/body,concept/faith,concept/hope,setting/new_york"></span>
 
 
 There was some relief in this boat, too, which there had not been in the
@@ -17024,7 +17024,7 @@ after their [[Marriage|marriage]].
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="American Notes — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="American Notes — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/seasons,motif/summer,motif/time,motif/well,concept/beauty,concept/doubt,concept/education,concept/hope,concept/nature,histref/america,setting/america,setting/cathedral"></span>
 
 
 [Picture: The Little Wife]
@@ -17153,7 +17153,7 @@ it moves, I will describe the jaunt in another chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="American Notes — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="American Notes — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/cross,motif/fire,motif/horse,motif/night,motif/noon,motif/river,motif/road,motif/time,motif/water,motif/well,motif/window,setting/court,character/bottom"></span>
 
 
 CHAPTER XIII
@@ -17266,7 +17266,7 @@ for cattle-stealing, guilty, whether or no.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="American Notes — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="American Notes — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/hill,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/freedom,concept/nature,histref/america,setting/america,setting/court"></span>
 
 
 The horses belonging to the bar, the judge, and witnesses, were tied to
@@ -17384,7 +17384,7 @@ we again pushed forward, and came upon the Prairie at sunset.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="American Notes — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="American Notes — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/city,motif/clock,motif/fire,motif/flowers,motif/home,motif/memory,motif/night,motif/silence,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/winter,concept/body,concept/freedom,concept/honour,concept/imagination,concept/solitude,character/chorus,character/monks"></span>
 
 
 It would be difficult to say why, or how—though it was possibly from
@@ -17488,7 +17488,7 @@ community.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="American Notes — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="American Notes — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/dreams,motif/home,motif/journey,motif/love,motif/night,motif/pain,motif/river,motif/soul,motif/time,motif/water,motif/wind,motif/window,concept/beauty,concept/melancholy,concept/self,character/cain,character/columbus,character/queen"></span>
 
 
 CHAPTER XIV
@@ -17593,7 +17593,7 @@ awakening from a horrible vision to cheerful realities.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="American Notes — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="American Notes — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/horse,motif/journey,motif/night,motif/noon,motif/road,motif/time,motif/water,motif/wind,motif/window,form/fragment,histref/america,setting/america,character/columbus,character/kent"></span>
 
 
 We arrived at Louisville on the fourth [[Night|night]], and gladly availed
@@ -17706,7 +17706,7 @@ STRAW HAT.  There was a snap of cold, last week.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="American Notes — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="American Notes — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/desert,motif/fire,motif/grave,motif/journey,motif/love,motif/moon,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/melancholy,concept/nature,concept/wonder,histref/america,setting/america,setting/desert"></span>
 
 
 BROWN HAT.  Yes, sir.
@@ -17835,7 +17835,7 @@ great crime.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="American Notes — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="American Notes — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/horse,motif/journey,motif/night,motif/road,motif/spring,motif/summer,motif/time,motif/well,motif/wheel,motif/window,concept/body,character/bottom,character/columbus"></span>
 
 
 We reached [[Columbus]] shortly before seven o’[[Clock|clock]], and stayed there, to
@@ -17937,7 +17937,7 @@ such a [[Time|time]] than thick woods afforded.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="American Notes — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="American Notes — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/home,motif/night,motif/noon,motif/pain,motif/road,motif/sleep,motif/time,motif/well,concept/endurance,histref/america,histref/new_england,setting/america,character/queen"></span>
 
 
 At length, between ten and eleven o’[[Clock|clock]] at [[Night|night]], a few feeble lights
@@ -18039,7 +18039,7 @@ anticipated.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_06" data-title="American Notes — Chapter 14 (part 6)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_06" data-title="American Notes — Chapter 14 (part 6)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,histref/america,setting/america,character/bottom,character/speed,character/sunday"></span>
 
 
 We were taking an early dinner at this [[house]], on the day after our
@@ -18144,7 +18144,7 @@ to beat, for ever.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_07" data-title="American Notes — Chapter 14 (part 7)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_07" data-title="American Notes — Chapter 14 (part 7)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/chalk,motif/grave,motif/horse,motif/moon,motif/night,motif/river,motif/snow,motif/tears,motif/time,motif/water"></span>
 
 
 Oh, how the strife and trouble of daily life receded from my view, and
@@ -18188,7 +18188,7 @@ rushing on Creation at the word of God.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="American Notes — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="American Notes — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/cross,motif/desert,motif/desire,motif/leaves,motif/memory,motif/nature,motif/prison,motif/river,motif/road,motif/time,motif/water,motif/wind,concept/body,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/nature,form/fragment,setting/desert"></span>
 
 
 CHAPTER XV
@@ -18299,7 +18299,7 @@ a recruit came up and went on board.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="American Notes — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="American Notes — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/fire,motif/flag,motif/journey,motif/noon,motif/prison,motif/river,motif/seasons,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/body,concept/education,concept/hope,concept/union,histref/america,setting/america,setting/court"></span>
 
 
 The recruit was a likely young fellow enough, strongly built and [[Well|well]]
@@ -18403,7 +18403,7 @@ neighbourhood.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="American Notes — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="American Notes — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/cross,motif/flag,motif/horse,motif/journey,motif/night,motif/noon,motif/prison,motif/river,motif/road,motif/spring,motif/summer,motif/well,motif/winter,concept/beauty,concept/charity,concept/history,concept/self,form/history,form/sketch,histref/america,setting/america,setting/cathedral"></span>
 
 
 There is an admirable jail here, [[Well|well]] and wisely governed, and
@@ -18512,7 +18512,7 @@ rides in the vicinity were made doubly interesting by the bursting out of
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="American Notes — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="American Notes — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/desert,motif/grave,motif/home,motif/journey,motif/love,motif/memory,motif/nature,motif/night,motif/spring,motif/water,motif/window,motif/winter,concept/beauty,concept/endurance,concept/faith,concept/history,concept/honour,concept/hope,concept/nature,concept/self,form/history,histref/america,setting/america,setting/desert"></span>
 
 
 The steamboats to Quebec perform the [[Journey|journey]] in the [[Night|night]]; that is to
@@ -18615,7 +18615,7 @@ human [[Nature|nature]] there, to read this simple lesson in the book of Life.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="American Notes — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="American Notes — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/hill,motif/home,motif/journey,motif/night,motif/river,motif/road,motif/sleep,motif/summer,motif/time,motif/water,motif/wind,motif/window,concept/courage,concept/doubt,concept/friendship,concept/hope,histref/america,setting/america,setting/court,setting/mountains,setting/new_york"></span>
 
 
 * * * * *
@@ -18723,7 +18723,7 @@ the furniture of every dark and dirty hut.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_06" data-title="American Notes — Chapter 15 (part 6)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_06" data-title="American Notes — Chapter 15 (part 6)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/desert,motif/desire,motif/night,motif/prison,motif/road,motif/silence,motif/summer,motif/time,motif/well,concept/body,concept/charity,concept/doubt,concept/grotesque,histref/america,setting/america,setting/desert"></span>
 
 
 Between nine and ten o’[[Clock|clock]] at [[Night|night]], we arrived at Lebanon which is
@@ -18830,7 +18830,7 @@ ready market.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_07" data-title="American Notes — Chapter 15 (part 7)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_07" data-title="American Notes — Chapter 15 (part 7)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/innocent,motif/dawn,motif/desire,motif/dust,motif/grave,motif/horse,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/river,motif/road,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/education,concept/hope,concept/nature,concept/union,histref/america,setting/america,setting/mountains,setting/new_york"></span>
 
 
 They eat and drink together, after the Spartan model, at a great public
@@ -18926,7 +18926,7 @@ Zee.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="American Notes — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="American Notes — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/night,motif/noon,motif/ship,motif/time,motif/water,motif/wind,motif/window,concept/doubt,concept/hope,setting/new_york,setting/ship,character/chorus"></span>
 
 
 CHAPTER XVI
@@ -19038,7 +19038,7 @@ that captain is a sailor—but they shrewdly [[Doubt|doubt]] him.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="American Notes — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="American Notes — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/ship,motif/spring,motif/time,motif/well,motif/wind,concept/charity,concept/history,concept/poverty,concept/wonder,form/history,histref/america,setting/america,setting/court,setting/new_york,setting/ship"></span>
 
 
 It even became an occupation in the calm, to [[Wonder|wonder]] when the [[Wind|wind]] _would_
@@ -19144,7 +19144,7 @@ a gentleman.  For my own pleasure, mind you!’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="American Notes — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="American Notes — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/flowers,motif/garden,motif/home,motif/journey,motif/moon,motif/night,motif/ship,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/hope,concept/loneliness,concept/melancholy,concept/pride,setting/ship,character/phantom"></span>
 
 
 At length and at last, the promised [[Wind|wind]] came up in right good earnest,
@@ -19242,7 +19242,7 @@ all that makes it dear; no tongue can tell, or pen of mine describe.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="American Notes — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="American Notes — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/death,motif/fire,motif/nature,motif/noon,concept/doubt,concept/freedom,concept/history,concept/nature,concept/pride,concept/revenge,concept/slavery,concept/truth,form/history,histref/america,setting/america"></span>
 
 
 CHAPTER XVII
@@ -19348,7 +19348,7 @@ station, as they had been before.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="American Notes — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="American Notes — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/city,motif/death,motif/nature,concept/freedom,concept/nature,concept/slavery,histref/america,setting/america,setting/court"></span>
 
 
 Public opinion! what class of men have an immense preponderance over the
@@ -19460,7 +19460,7 @@ iron on his right foot which will weigh four or five pounds.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="American Notes — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="American Notes — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/night,motif/time,concept/body,setting/new_york,character/arthur,character/maria,character/pistol,character/pompey"></span>
 
 
 ‘Detained at the police jail, the negro wench, Myra.  Has several
@@ -19613,7 +19613,7 @@ violent, or bear the impress of civilisation and refinement.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="American Notes — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="American Notes — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/rose,motif/time,motif/water,concept/revenge,concept/slavery,histref/america,setting/america,character/pistol,character/speed"></span>
 
 
 That we may have no partial evidence from abolitionists in this inquiry,
@@ -19721,7 +19721,7 @@ of judicial investigation_.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="American Notes — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="American Notes — Chapter 17 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/villain,motif/city,motif/clock,motif/death,motif/fire,motif/garden,motif/night,motif/river,motif/time,motif/well,motif/window,concept/hope,setting/court,character/pistol,character/sunday"></span>
 
 
 ‘_Foul Deed_.
@@ -19843,7 +19843,7 @@ depending upon them and stood [[Well|well]] in the community.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_06" data-title="American Notes — Chapter 17 (part 6)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_06" data-title="American Notes — Chapter 17 (part 6)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/crown,motif/death,motif/fire,motif/grave,motif/stars,motif/time,concept/doubt,concept/freedom,concept/honour,concept/slavery,concept/truth,histref/america,setting/america,character/pistol"></span>
 
 
 I will quote but one more paragraph, which, by reason of its monstrous
@@ -19938,7 +19938,7 @@ other.’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="American Notes — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="American Notes — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/villain,motif/desire,motif/love,motif/nature,motif/night,motif/swallow,motif/time,motif/well,concept/freedom,concept/jealousy,concept/nature,concept/temptation,concept/truth,concept/wonder,histref/america,setting/america"></span>
 
 
 CHAPTER XVIII
@@ -20050,7 +20050,7 @@ wholesome fancies, must fade before the stern utilitarian joys of trade.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="American Notes — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="American Notes — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/city,motif/desert,motif/desire,motif/home,motif/memory,motif/poison,motif/time,motif/well,concept/doubt,concept/freedom,concept/honour,concept/hope,concept/melancholy,histref/america,setting/america,setting/desert,setting/london"></span>
 
 
 These three characteristics are strongly presented at every turn, full in
@@ -20171,7 +20171,7 @@ the dark ages had passed away.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="American Notes — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="American Notes — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/clock,motif/desire,motif/dust,motif/home,motif/rose,motif/seasons,motif/time,motif/well,concept/pride,concept/self,concept/truth,histref/america,setting/america,setting/court,setting/london,character/hamlet"></span>
 
 
 The Republican Institutions of [[america|America]] undoubtedly lead the people to
@@ -20270,7 +20270,7 @@ and I can bide my [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="American Notes — Chapter 18 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="American Notes — Chapter 18 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/city,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/water,motif/well,concept/honour,concept/hope,concept/nature,histref/america,setting/america,setting/london,setting/new_york"></span>
 
 
 I have made no reference to my reception, nor have I suffered it to

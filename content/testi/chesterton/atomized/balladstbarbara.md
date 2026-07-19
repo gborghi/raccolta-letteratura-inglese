@@ -5528,7 +5528,8 @@ STAMFORD STREET [[London|LONDRA]], S.E.1
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,archetype/tyrant,motif/birds,motif/blood,motif/chains,motif/childhood,motif/city,motif/dance,motif/death,motif/hill,motif/home,motif/love,motif/memory,motif/moon,motif/night,motif/pain,motif/road,motif/soul,motif/summer,motif/time,motif/wheel,motif/wind,motif/window,concept/beauty,concept/despair,concept/doubt,concept/education,concept/faith,concept/history,concept/truth,concept/wonder,form/elegy,form/history,form/sonnet,setting/london,setting/paris,character/arthur,character/queen"></span>
+
 
 
 
@@ -6609,7 +6610,7 @@ venne come il [[Wind|vento]] d'occidente ruggendo il cannone di San Giorgio,
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="BalladStBarbara (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="BalladStBarbara (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/monster,archetype/prophet,motif/bees,motif/birds,motif/blood,motif/cross,motif/crown,motif/dawn,motif/death,motif/desert,motif/desire,motif/dreams,motif/fire,motif/flag,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/lightning,motif/love,motif/mirror,motif/moon,motif/night,motif/river,motif/road,motif/rose,motif/soul,motif/stars,motif/storm,motif/time,motif/well,motif/wheel,motif/wind,concept/apocalypse,concept/doubt,concept/fear,concept/hope,concept/pride,concept/slavery,concept/wonder,form/elegy,form/fable,setting/desert,setting/london,setting/mountains,setting/paris,character/arthur"></span>
 
 
 Where the hunt is up and racing over stream and swamp and tarn  
@@ -7813,7 +7814,7 @@ lacerarsi e finire di cose imputridite,
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="BalladStBarbara (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="BalladStBarbara (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/fool,archetype/ghost,archetype/monster,archetype/shadow,motif/birds,motif/blood,motif/childhood,motif/city,motif/cross,motif/crown,motif/death,motif/decay,motif/desire,motif/dreams,motif/dust,motif/fire,motif/flag,motif/garden,motif/ghosts,motif/hill,motif/home,motif/journey,motif/lightning,motif/love,motif/memory,motif/night,motif/prison,motif/road,motif/silence,motif/sleep,motif/snow,motif/stars,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/beauty,concept/doubt,concept/exile,concept/honour,concept/hope,concept/mercy,concept/pride,concept/wonder,form/inscription,form/riddle,setting/paris,character/christ,character/queen"></span>
 
 
 Only the face of you unforgotten:  
@@ -9061,7 +9062,7 @@ la [[Death|morte]] d'un Drago senza morte,
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="BalladStBarbara (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="BalladStBarbara (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/ghost,archetype/tyrant,motif/autumn,motif/birds,motif/death,motif/dust,motif/leaves,motif/love,motif/nature,motif/road,motif/rose,motif/silence,motif/sleep,motif/snow,motif/soul,motif/stars,motif/well,motif/wind,motif/window,concept/apocalypse,concept/body,concept/education,concept/faith,concept/freedom,concept/history,concept/hope,concept/mercy,concept/nature,concept/pride,concept/wonder,form/history,form/sonnet,setting/cathedral,setting/mountains"></span>
 
 
 That is the life of a man.  
@@ -10453,7 +10454,7 @@ ai confini della terra sono consegnate intatte:
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="BalladStBarbara (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="BalladStBarbara (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/crown,motif/love,motif/poison,motif/sleep,motif/time,motif/water,motif/wheel,concept/education,concept/faith,concept/freedom,concept/pride,concept/self,setting/london"></span>
 
 
 Our soap or our salmon can travel in tins  

@@ -1348,7 +1348,7 @@ This is a 1918 collection of short stories. The collection’s title story, “D
 
 
 
-<span class="atom-split" data-atom="story_01_the_last_galley" data-title="THE LAST GALLEY — THE LAST GALLEY" data-chapter="THE LAST GALLEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_last_galley" data-title="THE LAST GALLEY — THE LAST GALLEY" data-chapter="THE LAST GALLEY" data-kind="story" data-tags="motif/blood,motif/ship,histref/carthage,setting/africa,setting/ship"></span>
 
 
 THE LAST GALLEY
@@ -1397,7 +1397,7 @@ For in that year a great cloud hung for seventeen days over the African coast, a
 
 
 
-<span class="atom-split" data-atom="story_02_the_contest" data-title="THE LAST GALLEY — THE CONTEST." data-chapter="THE CONTEST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_contest" data-title="THE LAST GALLEY — THE CONTEST." data-chapter="THE CONTEST" data-kind="story" data-tags="archetype/tyrant,archetype/artist,motif/music_and_song,concept/the_artist_and_society,form/short_story,histref/ancient_rome,setting/ancient_greece"></span>
 
 
 THE CONTEST.
@@ -1427,7 +1427,7 @@ The cloud cleared from Nero’s brow. “Of course, Arsenius! You are right! No 
 
 
 
-<span class="atom-split" data-atom="story_03_through_the_veil" data-title="THE LAST GALLEY — THROUGH THE VEIL." data-chapter="THROUGH THE VEIL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_through_the_veil" data-title="THE LAST GALLEY — THROUGH THE VEIL." data-chapter="THROUGH THE VEIL" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 THROUGH THE VEIL.
@@ -1476,7 +1476,7 @@ They never talk about that strange isolated incident in their married life. For 
 
 
 
-<span class="atom-split" data-atom="story_04_an_iconoclast" data-title="THE LAST GALLEY — AN ICONOCLAST." data-chapter="AN ICONOCLAST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_an_iconoclast" data-title="THE LAST GALLEY — AN ICONOCLAST." data-chapter="AN ICONOCLAST" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 AN ICONOCLAST.
@@ -1538,7 +1538,7 @@ Emilius Flaccus wiped the sweat from his brow. “He is yours, great Caesar. Do 
 
 
 
-<span class="atom-split" data-atom="story_05_giant_maximin--part_01" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 1)" data-chapter="GIANT MAXIMIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_giant_maximin--part_01" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 1)" data-chapter="GIANT MAXIMIN" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 GIANT MAXIMIN.
@@ -1581,7 +1581,7 @@ So it came about that as the Roman army resumed its march next day, and left beh
 
 
 
-<span class="atom-split" data-atom="story_05_giant_maximin--part_02" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 2)" data-chapter="GIANT MAXIMIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_giant_maximin--part_02" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 2)" data-chapter="GIANT MAXIMIN" data-kind="excerpt" data-tags="motif/blood,motif/fire"></span>
 
 
 II THE RISE OF GIANT MAXIMIN
@@ -1623,7 +1623,7 @@ High upon their bucklers stood the giant, and looked round him at the great floo
 
 
 
-<span class="atom-split" data-atom="story_05_giant_maximin--part_03" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 3)" data-chapter="GIANT MAXIMIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_giant_maximin--part_03" data-title="THE LAST GALLEY — GIANT MAXIMIN. (part 3)" data-chapter="GIANT MAXIMIN" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,setting/africa"></span>
 
 
 III THE FALL OF MAXIMIN
@@ -1643,7 +1643,7 @@ I sit in my study, and upon the table before me lies a denarius of Maximin, as f
 
 
 
-<span class="atom-split" data-atom="story_06_the_coming_of_the_huns" data-title="THE LAST GALLEY — THE COMING OF THE HUNS" data-chapter="THE COMING OF THE HUNS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_coming_of_the_huns" data-title="THE LAST GALLEY — THE COMING OF THE HUNS" data-chapter="THE COMING OF THE HUNS" data-kind="story" data-tags="motif/blood,motif/fire,setting/africa"></span>
 
 
 THE COMING OF THE HUNS
@@ -1691,7 +1691,7 @@ But the hermit could only point at the rising sun. “To arms!” he croaked. �
 
 
 
-<span class="atom-split" data-atom="story_07_the_last_of_the_legions" data-title="THE LAST GALLEY — THE LAST OF THE LEGIONS" data-chapter="THE LAST OF THE LEGIONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_last_of_the_legions" data-title="THE LAST GALLEY — THE LAST OF THE LEGIONS" data-chapter="THE LAST OF THE LEGIONS" data-kind="story" data-tags="motif/blood"></span>
 
 
 THE LAST OF THE LEGIONS
@@ -1757,7 +1757,7 @@ And even as he said, so was it, for before the spring had ripened into summer, t
 
 
 
-<span class="atom-split" data-atom="story_08_the_first_cargo" data-title="THE LAST GALLEY — THE FIRST CARGO" data-chapter="THE FIRST CARGO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_first_cargo" data-title="THE LAST GALLEY — THE FIRST CARGO" data-chapter="THE FIRST CARGO" data-kind="story" data-tags="motif/ship,histref/christianity,setting/ship"></span>
 
 
 THE FIRST CARGO
@@ -1785,7 +1785,7 @@ His eyes sparkled as he gazed. “Perhaps,” he cried; and then suddenly collec
 
 
 
-<span class="atom-split" data-atom="story_09_the_home_coming" data-title="THE LAST GALLEY — THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_home_coming" data-title="THE LAST GALLEY — THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="story" data-tags="motif/blood"></span>
 
 
 THE HOME-COMING
@@ -1870,7 +1870,7 @@ The old man and the boy hurried in horror from the vault. As they glanced back t
 
 
 
-<span class="atom-split" data-atom="story_10_the_red_star" data-title="THE LAST GALLEY — THE RED STAR" data-chapter="THE RED STAR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_red_star" data-title="THE LAST GALLEY — THE RED STAR" data-chapter="THE RED STAR" data-kind="story" data-tags="motif/blood,motif/fire,motif/ship,histref/carthage,histref/christianity,setting/africa,setting/ship"></span>
 
 
 THE RED STAR
@@ -1909,7 +1909,7 @@ PART II.
 
 
 
-<span class="atom-split" data-atom="story_11_the_silver_mirror" data-title="THE LAST GALLEY — THE SILVER MIRROR" data-chapter="THE SILVER MIRROR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_silver_mirror" data-title="THE LAST GALLEY — THE SILVER MIRROR" data-chapter="THE SILVER MIRROR" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 THE SILVER MIRROR
@@ -1955,7 +1955,7 @@ Later. — He has just left me. Let me set down his words as closely as I can re
 
 
 
-<span class="atom-split" data-atom="story_12_the_blighting_of_sharkey" data-title="THE LAST GALLEY — THE BLIGHTING OF SHARKEY" data-chapter="THE BLIGHTING OF SHARKEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_blighting_of_sharkey" data-title="THE LAST GALLEY — THE BLIGHTING OF SHARKEY" data-chapter="THE BLIGHTING OF SHARKEY" data-kind="story" data-tags="motif/blood,motif/ship,setting/ship"></span>
 
 
 THE BLIGHTING OF SHARKEY
@@ -2053,7 +2053,7 @@ Extract from the log of H.M. fifty-gun ship Hecate in her cruise off the America
 
 
 
-<span class="atom-split" data-atom="story_13_the_marriage_of_the_brigadier" data-title="THE LAST GALLEY — THE MARRIAGE OF THE BRIGADIER" data-chapter="THE MARRIAGE OF THE BRIGADIER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_marriage_of_the_brigadier" data-title="THE LAST GALLEY — THE MARRIAGE OF THE BRIGADIER" data-chapter="THE MARRIAGE OF THE BRIGADIER" data-kind="story" data-tags="motif/fire"></span>
 
 
 THE MARRIAGE OF THE BRIGADIER
@@ -2105,7 +2105,7 @@ It was late when we parted. The old man came with me into the hall.
 
 
 
-<span class="atom-split" data-atom="story_14_the_lord_of_falconbridge" data-title="THE LAST GALLEY — THE LORD OF FALCONBRIDGE" data-chapter="THE LORD OF FALCONBRIDGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_lord_of_falconbridge" data-title="THE LAST GALLEY — THE LORD OF FALCONBRIDGE" data-chapter="THE LORD OF FALCONBRIDGE" data-kind="story" data-tags="motif/blood"></span>
 
 
 THE LORD OF FALCONBRIDGE
@@ -2355,7 +2355,7 @@ The pugilist passed his hand over his battered face. “Well, Mr. Cordery,” sa
 
 
 
-<span class="atom-split" data-atom="story_15_out_of_the_running" data-title="THE LAST GALLEY — OUT OF THE RUNNING" data-chapter="OUT OF THE RUNNING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_out_of_the_running" data-title="THE LAST GALLEY — OUT OF THE RUNNING" data-chapter="OUT OF THE RUNNING" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 OUT OF THE RUNNING
@@ -2537,7 +2537,7 @@ But Dolly sat at the side of her bed, and sobbed bitterly in her apron.
 
 
 
-<span class="atom-split" data-atom="story_16_de_profundis" data-title="THE LAST GALLEY — DE PROFUNDIS" data-chapter="DE PROFUNDIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_de_profundis" data-title="THE LAST GALLEY — DE PROFUNDIS" data-chapter="DE PROFUNDIS" data-kind="story" data-tags="motif/fire,motif/ship,setting/ship"></span>
 
 
 DE PROFUNDIS
@@ -2612,7 +2612,7 @@ Well, those are the main facts about the death of John Vansittart, and his appea
 
 
 
-<span class="atom-split" data-atom="story_17_the_great_brown_pericord_motor" data-title="THE LAST GALLEY — THE GREAT BROWN-PERICORD MOTOR" data-chapter="THE GREAT BROWN PERICORD MOTOR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_great_brown_pericord_motor" data-title="THE LAST GALLEY — THE GREAT BROWN-PERICORD MOTOR" data-chapter="THE GREAT BROWN PERICORD MOTOR" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 THE GREAT BROWN-PERICORD MOTOR
@@ -2707,7 +2707,7 @@ In the New York State Lunatic Asylum there is a wild-eyed man whose name and bir
 
 
 
-<span class="atom-split" data-atom="story_18_the_terror_of_blue_john_gap" data-title="THE LAST GALLEY — THE TERROR OF BLUE JOHN GAP" data-chapter="THE TERROR OF BLUE JOHN GAP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_terror_of_blue_john_gap" data-title="THE LAST GALLEY — THE TERROR OF BLUE JOHN GAP" data-chapter="THE TERROR OF BLUE JOHN GAP" data-kind="story" data-tags="motif/blood,motif/fire"></span>
 
 
 THE TERROR OF BLUE JOHN GAP

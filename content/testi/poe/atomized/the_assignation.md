@@ -498,7 +498,7 @@ the entire and terrible [[Truth|truth]] flashed suddenly over my [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Assignation (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Assignation (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/city,motif/clock,motif/death,motif/grave,motif/home,motif/mirror,motif/night,motif/prison,motif/secrets,motif/summer,motif/time,motif/water,motif/window,concept/beauty,concept/hope,concept/imagination,setting/venice"></span>
 
 
 Stay for me there! I will not fail.
@@ -604,7 +604,7 @@ floated down among them in that funereal gondola.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Assignation (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Assignation (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/memory,motif/mirror,motif/night,motif/prison,motif/soul,motif/tears,motif/time,motif/water,concept/hope,concept/self,concept/wonder"></span>
 
 
 All efforts proved in vain. Many of the most energetic in the
@@ -706,7 +706,7 @@ actual glare, making me blind and dizzy with luxuriousness.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Assignation (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Assignation (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/nature,motif/night,motif/silence,motif/well,concept/doubt,concept/melancholy,concept/nature,setting/egypt,character/angelo,character/apollo,character/michael,character/sir_thomas_more,character/venus"></span>
 
 
 I knew my acquaintance to be wealthy. Report had spoken of his
@@ -816,7 +816,7 @@ couplet—
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Assignation (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Assignation (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/flowers,motif/love,motif/marriage,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/education,concept/hope,concept/imagination,concept/melancholy,form/novel,form/tragedy,setting/london"></span>
 
 
 ‘Non ha l’ottimo artista alcun concetto
@@ -943,7 +943,7 @@ D’Ambois_, quivered instinctively upon my lips:
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Assignation (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Assignation (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/fire,motif/soul,motif/time,concept/truth,setting/egypt,setting/venice"></span>
 
 
 “He is up

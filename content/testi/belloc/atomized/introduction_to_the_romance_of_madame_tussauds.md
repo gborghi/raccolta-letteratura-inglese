@@ -133,7 +133,7 @@ If ever, which is possible, a collection of this sort comes under the aid or pat
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="histref/french_revolution,setting/france"></span>
 
 
 ‘The Romance of Madame Tussaud’s’ (1920) by John Theodore Tussaud
@@ -159,7 +159,7 @@ Still it is with what is chiefly historical in this gallery of figures and espec
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The reason is that the lady who founded this institution was not only herself a contemporary of but an actor in the principal events of that time. She came by a series of accidents into direct touch with one personality after another. She left a record of each. She was a personal and convincing witness and her work remains. She is just as much a person of the Revolution and of the Napoleonic period as any one of those whom she modelled for our benefit. And that is (let us remember) of special value in that one is in the spirit of one’s time.
@@ -185,7 +185,7 @@ It was an astonishing life! There lies behind it the story of her uncle Curtius,
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,histref/napoleon,histref/voltaire,setting/france,setting/paris,character/napoleon,character/voltaire"></span>
 
 
 It would be interesting to discover (I know of no such document that could tell me, but there must be some) whether the young companion whom Madame Elizabeth thus took under her protection, and to whom she thus gave a unique opportunity for the observation of contemporary life, was in race German or French. Berne would seem to be the origin of the family, and the uncle’s Latin name and the family name of his brother-in-law point to German origin. All his associations on the other hand were French, and when he came to [[Paris]] it was hardly as a foreigner. The story reads as though they were French-speaking on their arrival. Perhaps in some future edition of the work this point will be settled. It is one of considerable moment to our judgment of the art.
@@ -209,7 +209,7 @@ This removal to England also in some degree affected the proportion of the colle
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/death,histref/voltaire,setting/paris,character/robespierre,character/voltaire"></span>
 
 
 When we come to details of the personalities from the period before the Revolution to the Peace of Amiens (the foundation of the whole Exhibition) we are struck, I think, by the great difference in our appreciation. Some of the figures are just what we should have thought these men would have been. Others offend us or puzzle us by what seems to us discrepancy. But we must remember that the error is in ourselves and not in the contemporary record.
@@ -235,7 +235,7 @@ What we know positively of Robespierre’s action during the Terror is that he a
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/death,setting/paris,character/robespierre"></span>
 
 
 In the matter of Marat what I may call “the Tussaud tradition” is sounder. The man was unbalanced to the point of lunacy, and when Madame Tussaud was called in to take the impression of his face just after [[Death|death]], her use of the word “fiend” though exaggerated is comprehensible. This effigy of Marat which you may see in the famous gallery and which was modelled immediately after his [[Death|death]] — an immediate piece of historical evidence of the first value — was shown in [[Paris]] when it was completed. It is an astonishing thing to have that piece of continuity with us.
@@ -257,7 +257,7 @@ What could be more ridiculous than the figment of Louis XV — obese, good-natur
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Introduction to ‘The Romance of Madame Tussaud’s’ (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/death,histref/napoleon,character/duke_of_wellington,character/napoleon,character/robespierre"></span>
 
 
 It was, I think, this element of undeserved and awfully ironic tragedy which burnt into the soul of all those who had come into contact with the harmless but sometimes dignified and always splendid circle of Versailles. One of the few sincere emotions of Burke’s life was, I think, the moment when he broke out into rhetoric on the fate of the Queen. This middle-class man had seen her, and the grotesque disproportion between herself and her fate moved him to real feeling. It is to his credit, for not many things that Burke said were genuine. He was an advocate taking pay from people who wanted arguments and I think he would have argued just as well for better pay on the other side.

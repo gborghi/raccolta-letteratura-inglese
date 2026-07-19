@@ -87,7 +87,7 @@ se solo fossi nato.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="unborn (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="unborn (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/storm"></span>
 
 
 "By the Babe [[unborn|Unborn]]"  

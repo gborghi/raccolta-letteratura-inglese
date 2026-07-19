@@ -935,7 +935,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Winters Tale — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Winters Tale — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/desire,motif/summer,motif/well,concept/freedom,character/camillo"></span>
 
 
 | Speaker | Line |
@@ -958,7 +958,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Winters Tale — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Winters Tale — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/villain,motif/blood,motif/city,motif/clock,motif/death,motif/dreams,motif/garden,motif/grave,motif/home,motif/horse,motif/leaves,motif/love,motif/mirror,motif/moon,motif/nature,motif/night,motif/noon,motif/poison,motif/sleep,motif/stars,motif/time,motif/well,motif/wind,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/honour,concept/jealousy,concept/nature,concept/self,concept/truth,setting/court,character/camillo,character/hermione,character/leontes,character/polixenes,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1089,7 +1089,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Winters Tale — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Winters Tale — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/villain,motif/blood,motif/crown,motif/grave,motif/love,motif/moon,motif/prison,motif/tears,motif/time,motif/well,motif/winter,concept/faith,concept/honour,concept/mercy,concept/truth,character/apollo,character/camillo,character/hermione,character/leontes,character/nurse,character/polixenes,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1151,7 +1151,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Winters Tale — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Winters Tale — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/crone,archetype/innocent,archetype/king,archetype/tyrant,motif/blood,motif/death,motif/desert,motif/fire,motif/nature,motif/night,motif/prison,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/doubt,concept/fear,concept/honour,concept/mercy,concept/nature,concept/truth,setting/court,setting/desert,character/apollo,character/camillo,character/emilia,character/leontes,character/nurse,character/paulina,character/polixenes,character/queen,character/speed,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1255,7 +1255,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Winters Tale — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Winters Tale — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/grave,motif/journey,motif/time,character/apollo,character/hermione,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1272,7 +1272,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Winters Tale — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Winters Tale — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,archetype/tyrant,motif/crown,motif/death,motif/dreams,motif/fire,motif/grave,motif/love,motif/nature,motif/night,motif/poison,motif/secrets,motif/silence,motif/storm,motif/tears,motif/water,motif/well,motif/winter,concept/body,concept/conscience,concept/despair,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/history,concept/honour,concept/mercy,concept/nature,concept/revenge,concept/truth,form/history,setting/court,setting/russia,character/apollo,character/camillo,character/hermione,character/leontes,character/paulina,character/polixenes,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1325,7 +1325,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Winters Tale — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Winters Tale — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/king,motif/death,motif/dreams,motif/home,motif/moon,motif/night,motif/ship,motif/sleep,motif/storm,motif/time,motif/water,motif/well,concept/charity,concept/conscience,concept/fear,concept/mercy,concept/wonder,setting/ship,character/apollo,character/hermione,character/paulina,character/perdita,character/polixenes,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1365,7 +1365,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Winters Tale — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Winters Tale — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/time,motif/well,concept/self,character/chorus,character/florizel,character/leontes,character/perdita,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1377,7 +1377,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Winters Tale — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Winters Tale — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/death,motif/desire,concept/fear,concept/imagination,setting/court,character/camillo,character/florizel,character/polixenes,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1397,7 +1397,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Winters Tale — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Winters Tale — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/birds,motif/blood,motif/death,motif/moon,motif/night,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/fear,setting/court,character/autolycus,character/florizel"></span>
 
 
 | Speaker | Line |
@@ -1446,7 +1446,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Winters Tale — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Winters Tale — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/king,archetype/monster,motif/blood,motif/chains,motif/crown,motif/dance,motif/death,motif/desire,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/garden,motif/grave,motif/home,motif/love,motif/moon,motif/nature,motif/secrets,motif/ship,motif/snow,motif/spring,motif/summer,motif/swallow,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/forgiveness,concept/greatness,concept/honour,concept/hope,concept/longing,concept/madness,concept/melancholy,concept/nature,concept/poverty,concept/self,concept/truth,concept/wonder,setting/court,setting/ship,character/apollo,character/autolycus,character/camillo,character/florizel,character/leontes,character/perdita,character/polixenes,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1694,7 +1694,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Winters Tale — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Winters Tale — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/ghost,archetype/king,motif/city,motif/crown,motif/death,motif/desire,motif/grave,motif/jewel,motif/love,motif/memory,motif/soul,motif/spring,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/beauty,concept/fear,concept/greatness,concept/honour,concept/truth,concept/wonder,setting/court,character/apollo,character/camillo,character/florizel,character/hermione,character/leontes,character/paulina,character/perdita,character/polixenes,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1770,7 +1770,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Winters Tale — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Winters Tale — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/crown,motif/death,motif/jewel,motif/nature,motif/tears,motif/time,motif/water,motif/well,concept/eternity,concept/forgiveness,concept/hope,concept/nature,concept/truth,concept/wonder,setting/court,character/autolycus,character/camillo,character/hermione,character/paulina,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1826,7 +1826,7 @@ The [[Winter]]’s Tale
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="The Winters Tale — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="The Winters Tale — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/king,motif/blood,motif/death,motif/desire,motif/grave,motif/home,motif/prayer,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/faith,concept/honour,concept/hope,concept/madness,concept/wonder,form/tragedy,setting/court,character/camillo,character/cordelia,character/edgar,character/florizel,character/gloucester,character/goneril,character/hermione,character/kent,character/king_lear,character/leontes,character/paulina,character/perdita,character/polixenes,character/queen,character/regan"></span>
 
 
 | Speaker | Line |

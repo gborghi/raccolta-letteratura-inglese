@@ -303,7 +303,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE DEBATABLE CASE OF MRS. EMSLEY (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE DEBATABLE CASE OF MRS. EMSLEY (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,setting/london"></span>
 
 
 THE DEBATABLE CASE OF MRS. EMSLEY
@@ -520,7 +520,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE DEBATABLE CASE OF MRS. EMSLEY (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE DEBATABLE CASE OF MRS. EMSLEY (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,setting/london"></span>
 
 
 THE LOVE AFFAIR OF GEORGE VINCENT PARKER

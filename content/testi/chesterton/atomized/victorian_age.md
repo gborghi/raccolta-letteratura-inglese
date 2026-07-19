@@ -7304,7 +7304,7 @@ Women, Victorian, 91, 99, 104, 115-16, 140
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Victorian Age — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Victorian Age — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/blood,motif/city,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/soul,motif/storm,motif/time,motif/well,concept/democracy,concept/history,concept/nature,form/history,form/lyric,histref/french_revolution,histref/renaissance,setting/germany,character/chorus,character/queen,character/robin_hood"></span>
 
 
 CHAPTER I
@@ -7648,7 +7648,7 @@ perfino di ferocia in coloro che l'avrebbero attuata: dal [[Time|tempo]]
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Victorian Age — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Victorian Age — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/garden,motif/lamb,motif/love,motif/nature,motif/time,motif/well,concept/democracy,concept/imagination,concept/individualism,concept/nature,histref/french_revolution,setting/germany,setting/paris"></span>
 
 
 when the first shout went up for Wilkes to the [[Time|time]] when the last
@@ -7992,7 +7992,7 @@ rimase per qualche [[Time|tempo]] come una tradizione tory, che bilanciava il fr
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Victorian Age — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Victorian Age — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,archetype/outsider,archetype/shadow,motif/blood,motif/death,motif/time,motif/well,concept/poverty,concept/truth,form/satire"></span>
 
 
 brilliant aristocracy of the Whigs. It lived on the legend of Trafalgar;
@@ -8336,7 +8336,7 @@ Molti negarono Dio, molti difesero Napoleone e quasi tutti derisero il...
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Victorian Age — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Victorian Age — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/blood,motif/sleep,motif/soul,motif/time,motif/well,concept/history,concept/imagination,concept/reform,concept/suicide,form/history"></span>
 
 
 Royal Family. Nor did wealth or birth make any barriers for those once
@@ -8684,7 +8684,7 @@ fendenti a destra e a manca tra Wycherley, Congreve e Vanbrugh,
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Victorian Age — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Victorian Age — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/soul,motif/time,motif/well,concept/history,concept/self,concept/truth,form/history,form/tragedy,setting/oxford"></span>
 
 
 treads the wretched D'Urfey down in the dirt beneath his feet; and
@@ -9036,7 +9036,7 @@ i Preraffaelliti della prosa e della poesia.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="Victorian Age — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="Victorian Age — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/prophet,motif/desire,motif/home,motif/well,histref/puritanism,setting/oxford,character/achilles,character/queen"></span>
 
 
 these various attacks on it, that the study of Victorian literature
@@ -9384,7 +9384,7 @@ con esse per sempre. Le sue _Lezioni sull'attuale posizione degli inglesi
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="Victorian Age — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="Victorian Age — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/nature,motif/silence,motif/soul,concept/body,concept/education,concept/madness,concept/nature,concept/self,concept/suffering"></span>
 
 
 Catholics_, practically preached against a raging mob, rise not only
@@ -9728,7 +9728,7 @@ ripeteva perpetuamente (con una sorta di scalpitio dal piede piatto) che
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="Victorian Age — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="Victorian Age — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/prophet,motif/childhood,motif/cross,motif/nature,motif/rose,motif/time,concept/fear,concept/history,concept/nature,concept/truth,form/essay,form/history,form/riddle,histref/america,histref/bible,histref/christianity,histref/dante,histref/french_revolution,histref/puritanism,setting/america"></span>
 
 
 people ought to tell the [[Truth|truth]]; apparently supposing, to quote
@@ -10072,7 +10072,7 @@ perché fosse; e perciò (e non perché fosse giusta) attaccarla era
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_09" data-title="Victorian Age — Chapter 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_09" data-title="Victorian Age — Chapter 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/horse,concept/courage,concept/democracy,concept/self,histref/bible,histref/catholic_church,histref/christianity,histref/french_revolution,histref/renaissance,setting/venice,character/henry_viii,character/queen_elizabeth"></span>
 
 
 as to tell a lady she should remain in the Church of England mainly
@@ -10412,7 +10412,7 @@ più a un [[Christianity|cristianesimo]] Nervoso che a un [[Christianity|cristia
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_10" data-title="Victorian Age — Chapter 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_10" data-title="Victorian Age — Chapter 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/soul,motif/stars,motif/time,motif/well,concept/history,concept/wonder,form/history,form/litany,form/parody,setting/cathedral"></span>
 
 
 quite unfair to say of Ruskin that there was any major inconsistency
@@ -10760,7 +10760,7 @@ In questo senso Pater può [[Well|bene]] rappresentare un sostanziale riassunto 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_11" data-title="Victorian Age — Chapter 1 (part 11)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_11" data-title="Victorian Age — Chapter 1 (part 11)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,motif/marriage,motif/nature,motif/rose,motif/water,motif/well,concept/ambition,concept/democracy,concept/history,concept/nature,concept/temptation,form/history,histref/catholic_church,histref/christianity,histref/dante,character/helen"></span>
 
 
 æsthetes, apart from the purely poetical merits of men like Rossetti and
@@ -11108,7 +11108,7 @@ e anche del significato delle parole: ma pensava che ci fosse un certo bisogno i
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_12" data-title="Victorian Age — Chapter 1 (part 12)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_12" data-title="Victorian Age — Chapter 1 (part 12)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent,motif/nature,motif/road,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/comradeship,concept/fear,concept/heroism,concept/nature,concept/reform,form/satire,histref/renaissance"></span>
 
 
 man would always be best satisfied by public worship and especially by
@@ -11452,7 +11452,7 @@ soprattutto, non gli piaceva il lato _gretto_ della [[philosophy|filosofia]] di 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_13" data-title="Victorian Age — Chapter 1 (part 13)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_13" data-title="Victorian Age — Chapter 1 (part 13)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dawn,motif/dreams,motif/time,concept/education,concept/faith,concept/history,form/history,form/tragedy,character/kate_nickleby"></span>
 
 
 the preaching of an impossible thrift and an intolerable temperance. He
@@ -11880,7 +11880,7 @@ assalto di quell'esercito irreale.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Victorian Age — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Victorian Age — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/nature,motif/pain,motif/river,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/suffering,concept/truth,form/history,form/novel"></span>
 
 
 CHAPTER II
@@ -12220,7 +12220,7 @@ astemio che desiderasse l'abolizione del luppolo in entrambe le fattorie; si sup
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Victorian Age — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Victorian Age — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/death,motif/nightingale,motif/time,motif/well,concept/democracy,concept/doubt,concept/eternity,form/novel,form/tragedy,histref/renaissance,setting/oxford"></span>
 
 
 other a [[vegetarian]] who desired the abolition of chickens on both farms:
@@ -12564,7 +12564,7 @@ puro danno. È il semplice punto che, nove volte su dieci, la
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Victorian Age — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Victorian Age — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/dust,motif/nature,motif/road,motif/stars,motif/time,motif/well,concept/education,concept/nature,concept/self,concept/truth,form/comedy,form/essay,form/novel,form/tragedy,setting/mountains"></span>
 
 
 coarse word is the word that condemns an evil and the refined word the
@@ -12912,7 +12912,7 @@ analizzati cumuli di [[Dust|polvere]] di _Daniel Deronda_.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Victorian Age — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Victorian Age — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/nature,motif/river,motif/time,concept/history,concept/melancholy,concept/nature,concept/truth,form/comedy,form/history,form/satire,character/paul_emanuel,character/robert_moore"></span>
 
 
 In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
@@ -13256,7 +13256,7 @@ avesse conosciuta, a prescindere dalle sue opere. Dev'essere stata qualcosa di p
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Victorian Age — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Victorian Age — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/detective,archetype/monster,motif/blood,motif/city,motif/fire,motif/ghosts,motif/home,motif/marriage,motif/nature,motif/storm,motif/time,motif/well,concept/faith,concept/history,concept/imagination,concept/nature,form/history,form/novel,histref/reformation"></span>
 
 
 than an original person; perhaps an origin. But so far as her written
@@ -13600,7 +13600,7 @@ dire. Dickens, come abbiamo affermato, ereditò il vecchio romanzo comico, divag
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Victorian Age — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Victorian Age — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/tyrant,archetype/villain,motif/death,motif/hill,motif/prayer,motif/time,motif/well,motif/window,concept/aspiration,concept/greatness,concept/hope,concept/individualism,concept/truth,form/novel,character/bottom,character/stephen_blackpool"></span>
 
 
 [[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
@@ -13936,7 +13936,7 @@ conoscevamo. Paradossalmente, ma assai praticamente, ne seguiva che le sue
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="Victorian Age — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="Victorian Age — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/dance,motif/garden,motif/ghosts,motif/memory,motif/mirror,motif/road,motif/time,motif/well,motif/window,concept/democracy,concept/education,concept/reform,concept/self,concept/truth,character/david_copperfield,character/jones"></span>
 
 
 introductions were the longer of the two. When we hear of Aunt Betsy
@@ -14284,7 +14284,7 @@ Trollope un Thackeray minore. Wilkie Collins è principalmente tipico del suo
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_08" data-title="Victorian Age — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_08" data-title="Victorian Age — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/ghost,motif/blood,motif/dreams,motif/ghosts,motif/love,motif/soul,motif/supernatural,motif/time,concept/truth,form/melodrama,setting/oxford,character/witch"></span>
 
 
 [[Time|time]] in this respect: that while his moral and religious conceptions
@@ -14628,7 +14628,7 @@ a tutto campo; nella varietà di cose che tentò; nella sua semi-aristocratica
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_09" data-title="Victorian Age — Chapter 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_09" data-title="Victorian Age — Chapter 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/chains,motif/lion,motif/nature,motif/time,motif/well,concept/honour,concept/nature,setting/london,character/bottom,character/little_nell,character/touchstone"></span>
 
 
 swagger as poet and politician, that made him in some ways a real
@@ -14976,7 +14976,7 @@ non crede, ma la civiltà. È un oscuro, indimostrato sentimento
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_10" data-title="Victorian Age — Chapter 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_10" data-title="Victorian Age — Chapter 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/blood,motif/city,motif/flag,motif/love,motif/nature,motif/road,motif/time,motif/well,concept/honour,concept/hope,concept/nature,concept/paradox,concept/self,form/comedy,histref/christianity,character/diana,character/queen"></span>
 
 
 that Meredith would really be rather sorry if woman were civilised by
@@ -15324,7 +15324,7 @@ figlie gigantesche. Egli può ancora soffrire per la sua cavalleresca interferen
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_11" data-title="Victorian Age — Chapter 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_11" data-title="Victorian Age — Chapter 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,motif/childhood,motif/time,motif/wind,concept/doubt,form/tragedy,setting/germany,setting/italy"></span>
 
 
 many champions do. I have little [[Doubt|doubt]] that when St. George had killed
@@ -15732,7 +15732,7 @@ umorista; e potrebbe ancora ridere di voi.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Victorian Age — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Victorian Age — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/common_man,concept/nature,histref/america,histref/bible,histref/catholic_church,histref/crusades,histref/french_revolution,setting/america,setting/court,character/dwarf,character/queen,character/richard,character/richard_ii"></span>
 
 
 CHAPTER III
@@ -16080,7 +16080,7 @@ davvero
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Victorian Age — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Victorian Age — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,motif/dawn,motif/fire,motif/grave,motif/memory,motif/moon,motif/rose,motif/snow,motif/tears,motif/time,motif/water,motif/well,concept/democracy,concept/despair,concept/freedom,concept/indolence,concept/truth,form/lyric,histref/christianity,character/arthur,character/queen"></span>
 
 
 hold a great many of the same views as [[Queen]] Victoria, though he was
@@ -16432,7 +16432,7 @@ poema dovrebbe esprimere--ma a stento esprime.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Victorian Age — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Victorian Age — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/dust,motif/time,motif/well,concept/despair,concept/grotesque,concept/immortality,concept/pride,concept/truth,form/blank_verse,form/lyric,form/spenserian_stanza"></span>
 
 
 "That we may lift from out the [[Dust|dust]],
@@ -16608,7 +16608,7 @@ instance, are about as subtle and entangled as any matter on this earth;
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Victorian Age — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Victorian Age — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/garden,motif/lightning,motif/love,motif/nature,motif/time,motif/well,concept/history,concept/immortality,concept/nature,concept/truth,form/epigram,form/history"></span>
 
 
 and Browning really had something to say about them. But he said it in
@@ -16956,7 +16956,7 @@ il suo caso era, in un certo senso, estremo. Esagerava in entrambe le direzioni.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Victorian Age — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Victorian Age — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/animals,motif/chains,motif/garden,motif/grave,motif/love,motif/nature,motif/silence,motif/tears,motif/time,concept/faith,concept/hope,concept/imagination,concept/nature"></span>
 
 
 too strong and too weak, or (as a false sex [[philosophy]] would express it)
@@ -17300,7 +17300,7 @@ e inconsapevoli imitazioni. Al contrario, è una sorta di
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Victorian Age — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Victorian Age — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/leaves,motif/love,motif/spring,motif/wind,concept/beauty,concept/honour,concept/truth,form/parody,setting/castle,setting/italy,character/chorus,character/jones"></span>
 
 
 fighting and profane [[Parody|parody]] of the Old Testament; and its lines are made
@@ -17656,7 +17656,7 @@ brucianti trasparenze, i fissi ma pur imperscrutabili simboli del
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Victorian Age — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Victorian Age — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/dust,motif/poison,motif/river,motif/rose,motif/soul,motif/time,motif/wind,form/inscription,form/parody,form/translation,histref/bible,setting/italy"></span>
 
 
 great mediæval civilisation; but Rossetti used the religious imagery (on
@@ -18016,7 +18016,7 @@ Swinburne sia di Rossetti. Scaturiva dal fatto che egli era realmente ciò che
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="Victorian Age — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="Victorian Age — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/decay,motif/time,motif/well,concept/humility,setting/italy,setting/mountains"></span>
 
 
 he so often called himself, a craftsman. He had enough masculine
@@ -18340,7 +18340,7 @@ più breve definizione dell'età vittoriana è che egli ne stette fuori.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Victorian Age — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Victorian Age — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/dust,motif/nature,motif/time,motif/well,concept/democracy,concept/doubt,concept/faith,concept/freedom,concept/imagination,concept/immortality,concept/nature,concept/survival,histref/christianity,histref/french_revolution,character/queen"></span>
 
 
 CHAPTER IV
@@ -18684,7 +18684,7 @@ chiare tavole statistiche quanti uomini vivessero, quanti uomini morissero. Uno
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Victorian Age — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Victorian Age — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/death,motif/machine,motif/silence,motif/time,motif/well,concept/democracy,concept/doubt,concept/eugenics,concept/faith,concept/freedom,concept/history,concept/hope,concept/paradox,concept/truth,form/history,histref/christianity,histref/french_revolution,setting/paris"></span>
 
 
 must not ask how they lived; for that is politics. One must not ask how
@@ -19028,7 +19028,7 @@ ragione di essere tristi verso la fine di cento anni che verso la
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Victorian Age — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Victorian Age — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/autumn,motif/cave,motif/crown,motif/soul,motif/time,motif/well,motif/window,concept/disillusionment,concept/faith,concept/slavery,concept/truth,form/tragedy,setting/castle,character/apollo,character/claudius,character/horatio,character/polonius"></span>
 
 
 end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
@@ -19368,7 +19368,7 @@ ottimismo dell'[[innocence|innocenza]]; che il solitario cuore umano dice, come 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Victorian Age — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Victorian Age — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/lion,motif/nature,motif/time,motif/well,concept/conscience,concept/courage,concept/honour,concept/imagination,concept/martyrdom,concept/nature,form/sonnet,character/arthur,character/jones"></span>
 
 
 a party, "I am not enjoying myself as I thought I should." But it is
@@ -19720,7 +19720,7 @@ popolo di oggi, di qualsiasi cosa i socialisti abbiano mai proferito perfino nel
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Victorian Age — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Victorian Age — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/ghosts,motif/leaves,motif/nakedness,motif/soul,motif/supernatural,motif/time,motif/well,motif/wind,concept/truth,form/parody,form/satire"></span>
 
 
 boldest pages of Bernard [[Shaw]].
@@ -20064,7 +20064,7 @@ divisa in tre classi: Furfanti, Sciocchi e Rivoluzionari.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="Victorian Age — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="Victorian Age — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/mirror,motif/moon,motif/nature,motif/tears,motif/time,motif/well,concept/greatness,concept/history,concept/mercy,concept/nature,concept/revenge,form/history,histref/french_revolution,character/jones,character/ulysses"></span>
 
 
 [[history|History]] is full of forgotten controversies; and those who speak of
@@ -20400,7 +20400,7 @@ trattò la [[Moon|luna]] come un globo, simile al nostro; facendo sorgere mostri
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="Victorian Age — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="Victorian Age — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/home,motif/time,motif/well,concept/freedom,concept/history,concept/reform,concept/truth,form/history,form/satire,histref/reformation,setting/italy"></span>
 
 
 moonish as we are earthy. The exquisitely penetrating political and
@@ -20744,7 +20744,7 @@ che, essendo davvero umano, poteva davvero elevarsi tanto vicino a
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_08" data-title="Victorian Age — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_08" data-title="Victorian Age — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/nature,motif/time,motif/well,concept/comradeship,concept/courage,concept/history,concept/hope,concept/nature,concept/truth,form/history,character/queen"></span>
 
 
 heaven as human [[Nature|nature]] could take it. If Thackeray is our youth,
@@ -21092,7 +21092,7 @@ cannoni tuonarono attraverso l'Africa; e la grande [[Queen|regina]] morì.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_09" data-title="Victorian Age — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_09" data-title="Victorian Age — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/cross,motif/lamb,concept/history,concept/poverty,concept/self,form/history,form/novel,histref/french_revolution,setting/oxford,character/edmund,character/richard"></span>
 
 
 *       *       *       *       *

@@ -1525,7 +1525,7 @@ I beg that the poets who read this may seek no quarrel with me. I am not saying 
 
 
 
-<span class="atom-split" data-atom="story_01_on_achmet_boulee_bey" data-title="On — ON ACHMET BOULEE BEY" data-chapter="ON ACHMET BOULEE BEY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_achmet_boulee_bey" data-title="On — ON ACHMET BOULEE BEY" data-chapter="ON ACHMET BOULEE BEY" data-kind="story" data-tags="setting/paris"></span>
 
 
 ON ACHMET BOULEE BEY
@@ -1567,7 +1567,7 @@ They were twelve hundred, come from the tenderest and the best; chosen out of al
 
 
 
-<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_01" data-title="On — ON AN EDUCATIONAL REFORM (part 1)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_01" data-title="On — ON AN EDUCATIONAL REFORM (part 1)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt" data-tags="concept/satire_of_society,concept/capitalism,concept/deception,concept/education,concept/greed_and_money,concept/classical_education,concept/paradox,form/essay,form/satire"></span>
 
 
 ON AN EDUCATIONAL REFORM
@@ -1601,7 +1601,7 @@ Well, what could be simpler than to have a class (even if it were but half an ho
 
 
 
-<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_02" data-title="On — ON AN EDUCATIONAL REFORM (part 2)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_on_an_educational_reform--part_02" data-title="On — ON AN EDUCATIONAL REFORM (part 2)" data-chapter="ON AN EDUCATIONAL REFORM" data-kind="excerpt" data-tags="concept/satire_of_society,concept/deception,concept/education,concept/greed_and_money,concept/wit,concept/hypocrisy,form/essay,form/satire"></span>
 
 
 Even the negative side of this very necessary piece of training is omitted, and boys are not taught (at least in any school with which I have acquaintance) the importance of economy in falsehood.
@@ -1627,7 +1627,7 @@ I have in mind one poor fellow whose father had left him a few millions. He was 
 
 
 
-<span class="atom-split" data-atom="story_03_on_kind_hearts_being_more_than_coronets" data-title="On — ON KIND HEARTS BEING MORE THAN CORONETS" data-chapter="ON KIND HEARTS BEING MORE THAN CORONETS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_kind_hearts_being_more_than_coronets" data-title="On — ON KIND HEARTS BEING MORE THAN CORONETS" data-chapter="ON KIND HEARTS BEING MORE THAN CORONETS" data-kind="story" data-tags="concept/literary_criticism,concept/wit,concept/paradox,concept/materialism,form/essay,form/satire,histref/tennyson,character/tennyson,character/milton"></span>
 
 
 ON KIND HEARTS BEING MORE THAN CORONETS
@@ -1703,7 +1703,7 @@ Nevertheless, I return to my original judgment; kind hearts are more than corone
 
 
 
-<span class="atom-split" data-atom="story_04_on_mumbo_jumbo--part_01" data-title="On — ON MUMBO-JUMBO (part 1)" data-chapter="ON MUMBO JUMBO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_on_mumbo_jumbo--part_01" data-title="On — ON MUMBO-JUMBO (part 1)" data-chapter="ON MUMBO JUMBO" data-kind="excerpt" data-tags="archetype/crone,motif/wine_and_drink,concept/authority,concept/appearance_vs_reality,concept/power_of_language,concept/deception,concept/satire_of_society,concept/tradition,form/essay,histref/the_french_revolution"></span>
 
 
 ON MUMBO-JUMBO
@@ -1735,7 +1735,7 @@ The Mumbo-Jumbo of the learned is indeed the very life of all teaching, of all a
 
 
 
-<span class="atom-split" data-atom="story_04_on_mumbo_jumbo--part_02" data-title="On — ON MUMBO-JUMBO (part 2)" data-chapter="ON MUMBO JUMBO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_on_mumbo_jumbo--part_02" data-title="On — ON MUMBO-JUMBO (part 2)" data-chapter="ON MUMBO JUMBO" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/authority,concept/appearance_vs_reality,concept/deception,concept/power_of_language,concept/satire_of_society,form/essay"></span>
 
 
 Then there is the Mumbo-Jumbo of command: Thackeray used to ridicule it with the phrase “Shaloo-Hump!” or some such sounds, and there is, as we all know, “Shun” rapidly shouted, and many another. But any one who has had to drill recruits will admit that he would never have got them drilled at all if instead of using these interesting idols of language he had given his commands in a rational and conversational tone with hesitation and urbanity.
@@ -1759,7 +1759,7 @@ Let Mumbo-Jumbo flourish, not only in the matter of wine, and not only in the ma
 
 
 
-<span class="atom-split" data-atom="story_05_on_footnotes--part_01" data-title="On — ON FOOTNOTES (part 1)" data-chapter="ON FOOTNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_on_footnotes--part_01" data-title="On — ON FOOTNOTES (part 1)" data-chapter="ON FOOTNOTES" data-kind="excerpt" data-tags="concept/deception,concept/history,concept/truth,concept/satire_of_society,form/essay,histref/voltaire,character/st_george"></span>
 
 
 ON FOOTNOTES
@@ -1795,7 +1795,7 @@ For the most part, these enormous, foolish, ill-motived accretions are honest en
 
 
 
-<span class="atom-split" data-atom="story_05_on_footnotes--part_02" data-title="On — ON FOOTNOTES (part 2)" data-chapter="ON FOOTNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_on_footnotes--part_02" data-title="On — ON FOOTNOTES (part 2)" data-chapter="ON FOOTNOTES" data-kind="excerpt" data-tags="concept/deception,concept/history,concept/truth,concept/satire_of_society,form/essay,character/joan_of_arc"></span>
 
 
 The late Mr. Andrew Lang used to say that the writer who writes under the pseudonym of “Anatole France” must have had his footnotes for his Life of Joan of Arc done by contract. The idea opens up a wide horizon. A man of name would sit down to write a general history of something of which he had a smattering, and would then turn it over to a poor man who would hack for him in the British Museum and find references — and they could always be found — for pretty well any statement he had chosen to make.
@@ -1817,7 +1817,7 @@ I should answer, let a man put his footnotes in very small print indeed at the e
 
 
 
-<span class="atom-split" data-atom="story_06_footnotes" data-title="On — FOOTNOTES:" data-chapter="FOOTNOTES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_footnotes" data-title="On — FOOTNOTES:" data-chapter="FOOTNOTES" data-kind="story" data-tags="concept/wit,concept/satire_of_society,form/essay"></span>
 
 
 FOOTNOTES:
@@ -1829,7 +1829,7 @@ This is a good opportunity, observe: — Gibbon, Dec. and Fall of Rom. Emp., Ed.
 
 
 
-<span class="atom-split" data-atom="story_07_a_few_kind_words_to_mammon" data-title="On — A FEW KIND WORDS TO MAMMON" data-chapter="A FEW KIND WORDS TO MAMMON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_a_few_kind_words_to_mammon" data-title="On — A FEW KIND WORDS TO MAMMON" data-chapter="A FEW KIND WORDS TO MAMMON" data-kind="story" data-tags="motif/money_and_gold,concept/money_and_avarice,concept/materialism,concept/power_and_corruption,concept/satire_of_society,form/essay,character/judas"></span>
 
 
 A FEW KIND WORDS TO MAMMON
@@ -1889,7 +1889,7 @@ So the whole thing may be summed up in a sentence that runs in my head more or l
 
 
 
-<span class="atom-split" data-atom="story_08_on_treves" data-title="On — ON TREVES" data-chapter="ON TREVES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_on_treves" data-title="On — ON TREVES" data-chapter="ON TREVES" data-kind="story" data-tags="setting/paris"></span>
 
 
 ON TREVES
@@ -1927,7 +1927,7 @@ These are the things that our generation has seen and that posterity will not be
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_01" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 1)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_01" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 1)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE”
@@ -1961,7 +1961,7 @@ The supreme art of words is to produce a multiple and profound effect with simpl
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_02" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 2)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_02" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 2)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="histref/virgil,setting/paris"></span>
 
 
 Such are the materials of The Misanthrope, common stones: and into them a man did once breathe such life that he made a thing standing quite apart from all his other creations, and something higher than anything any other had accomplished. What depths and further depths! What suggestions to the left and to the right! What infinite complexity of real character (and just that infinite complexity of real character exists in all of us), shines through those few pages, illumines and glorifies two hours of acting on a stage!
@@ -2009,7 +2009,7 @@ Why on earth this singular piece of baseness, the roar of men buying and selling
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_03" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 3)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_03" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 3)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="histref/virgil,setting/paris"></span>
 
 
 I wondered only this year as I re-read the heavenly poet in that place (opposite the Bourse in [[Paris]], the Vile Stock Exchange) whether the advance of barbarism might not produce — and that in a very few years — a generation to whom all these lines will be as tedious as is Corneille to the educated Englishman of to-day.
@@ -2067,7 +2067,7 @@ He did indeed produce a most glorious library of books, collected, if you rememb
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_04" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 4)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_04" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 4)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="topos/great_chain_of_being,concept/satire_of_society,concept/vanity,concept/tradition,form/essay,histref/british_empire,character/thomas_aquinas"></span>
 
 
 (1.) British Honours. Being a guide to Literary Gents and Lion Hunters, showing what Official Honours now exist in all States subject to the British Crown, with their Distinctions, Emoluments (if any), Order of Precedence and Method of Address in writing and in speech. As also an Appendix showing the consequences mediate and immediate following on the possession of each of such Honours by any man or woman, and the consequent privileges of rank or custom attaching to their relatives, children and dependents. The whole illustrated by a copious Index with a coloured Frontispiece showing an Earl in his Robes, and sundry diagrams.
@@ -2113,7 +2113,7 @@ You may note, by the way, in connection with Bastard Honours, that one honour an
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_05" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 5)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_05" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 5)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/literary_criticism,concept/satire_of_society,concept/sublime,form/essay,character/alexander_pope,character/jonathan_swift"></span>
 
 
 Then there are the vast armies of honorific Orders, from the Garter downwards, with the famous newly-recruited myriads of O.B.E.’s, and there is J.P., and there is Rt. Hon., and there is M.P., and there is K.C., and (a thing to daunt the stoutest heart) there is a mass of letters giving pride to those who have no others, letters not conferred by any social authority, and yet the omission of which will make you an enemy for life. For instance, your correspondent may be F.R.G.S., or F.R.I.A. (I think it is), or F.R.C.S., or F.R.Z.S., or F.R.B.S., and even the whole lot of them combined, and not a day passes but a new one is sprung upon me.
@@ -2143,7 +2143,7 @@ There is this to be noticed about the bad verse of the good poets (as, for insta
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_06" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 6)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_06" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 6)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/literary_criticism,concept/hero_worship,concept/nationalism_and_patriotism,form/essay,histref/john_henry_newman,histref/victorian_england,character/oliver_cromwell,character/john_bunyan,character/jonathan_swift"></span>
 
 
 Which leads me to another suggestion, a very unpopular one, but I appeal — like the granddaughter of Bechamel the sauce-maker — to impartial posterity.
@@ -2175,7 +2175,7 @@ But I do say that you can apply to those overpraised writers of verse a certain 
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_07" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 7)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_07" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 7)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="archetype/death_personified,concept/literary_criticism,concept/inexpressibility,concept/immortality_of_art,form/essay,histref/algernon_charles_swinburne,character/apollo,character/death_personified"></span>
 
 
 But let us, in solace, remember this about bad verse; that there are all round us, yes, and writing for the papers and very popular, too, many worthy men who, if they wrote verse at all, would write bad verse, and yet have the wisdom not to write verse, or at any rate not to publish what they have written — an admirable thing to say of any man. For my part, I admire such men for this very reticence of theirs more than I do for all else they have written in the modern fashion, whether to prove that there is no God, or that we should drink only water or that we should wear woollen boots or sleep with our windows open — or whatever else their gospel may be.
@@ -2233,7 +2233,7 @@ The marvel is that this essence, Poetry, whatever it is, survives, like the huma
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_08" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 8)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_08" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 8)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/literary_criticism,concept/immortality_of_art,form/essay,histref/ancient_greece"></span>
 
 
 Thus when I hear it argued (with every probability behind it) that French poetry, on account of its extreme subtlety, will not — some centuries hence — survive that most lasting of our languages, I traverse. For men sometimes say that English poetry and Spanish poetry will survive the end of our civilisation, because they are dependent on lilt or stress. But how shall the glory of French verse remain which wholly reposes upon such tiny modulations of the tongue? The answer is that Greek undoubtedly reposed upon these same necessities; yet I take it that Greek poetry has survived.
@@ -2273,7 +2273,7 @@ This amiable exercise has set me thinking about the art of convincing people; an
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_09" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 9)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_09" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 9)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/power_of_language,concept/reason_and_rationalism,concept/deception,concept/truth,form/essay,histref/catholic_church"></span>
 
 
 It is an appeal to the intelligence and the love of truth. It relies upon the production of proof. Very interested am I in ferreting out the process whereby the thing is done, and in discovering why it will succeed when it is done in one way, and fail when it is done in another.
@@ -2299,7 +2299,7 @@ Pascal’s method was in part what may be called the suppressed alternative. It 
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_10" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 10)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_10" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 10)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/wordplay,concept/power_of_language,concept/deception,concept/satire_of_society,concept/reason_and_rationalism,form/essay"></span>
 
 
 You very often see the same sort of thing done by people who ridicule the definitions of law. There is nothing easier. The law says, for instance, that a minor, a young giant of twenty years, can avoid payment by pleading “infancy.”
@@ -2333,7 +2333,7 @@ I notice a very proper contempt for, and sometimes interference with, that party
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_11" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 11)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_11" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 11)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 It is thus a breach of the rules to impute what are called “unworthy motives”; that is, serious motives. Both parties must, like the champions of the ring, shake hands; and there are a lot of little phrases (they are kept set up in most newspaper offices, and in some are stereotyped in ready-made bars) which come in most usefully for this purpose. Such are “No-one-can-dispute (Mr. Noggins’s) scholarship-or-his-quite peculiar-knowledge-of (Samian ware),” after which you go on to argue that in point of fact Noggins is as ignorant as the beasts that perish, and you support your contention with special pleading.
@@ -2353,7 +2353,7 @@ The reviewer wrote back adding further charges, which were demonstrably true. Th
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_12" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 12)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_12" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 12)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 To this day I am never quite certain that the more violent leaders I read in opposing papers are not often written by the same man; at any rate, they are often written in exactly the same style, with the notable exception of one daily paper which, as the atheist said of his unbaptised child, “shall be nameless.” All the others (except this notable one) have their leaders written in precisely the same manner. That is what makes me think that they are done for the most part by one man — and what an output he must have! And what a lot of money he must earn! — even at two guineas a thousand, the price of prose in these most happy years of peace which have seen the birth of a new Europe and the dawn of The Day of Justice final and secure.
@@ -2383,7 +2383,7 @@ Inaccuracy is a very fruitful and powerful creator of things. It not only create
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_13" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 13)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_13" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 13)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="histref/virgil"></span>
 
 
 And now that I have taught you this lesson from Job I will return to the matter of inaccuracy.
@@ -2425,7 +2425,7 @@ As for music, the victory of the thing is now insolent. It has triumphantly beat
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_14" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 14)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_14" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 14)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/power_of_language,concept/satire_of_society,concept/authority,form/essay,character/thomas_aquinas,character/robinson_crusoe"></span>
 
 
 But I think that neither the adepts of art-critic-technicalities, nor even those of music-technicalities, will fully learn their trade till they study the kings and masters of the whole profession, which kings and masters are the writers upon women’s fashions. Any one, as I have said, can become an art critic, and a good one, by learning a hundred words or so by heart and knowing where to stick them in; and though not any one, yet a fair proportion of boys and girls can become music-critics by getting parrot-like in the enormous terms of their apparatus. But it is of public knowledge that the being who can write about women’s dresses is one in a thousand.
@@ -2455,7 +2455,7 @@ The crab about this method is that it does not really satisfy the mind. I have o
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_15" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 15)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_15" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 15)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="topos/locus_amoenus,concept/nature,concept/desire_and_longing,concept/moderation,concept/heaven_and_the_afterlife,form/essay,histref/greek_mythology"></span>
 
 
 I have noticed that men living in climates not human, never even try to console themselves, as do people living in England, which has the best climate in the world. They do not say: “Would that I were in a place of clouds and water!” They sit down sullenly (though with bright eyes), endure it, and die. It is only people just on the edge of perfection who complain. It is so with social things. The loudest cry rises not from the seller of papers in the streets, but from the man who finds that there is something wrong with his big motor-car, or that he cannot reserve a carriage to the Riviera, but has to travel in a train full of Frenchmen.
@@ -2481,7 +2481,7 @@ But in all this I have used the word “immortal,” writing as though this acqu
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_16" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 16)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_16" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 16)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/power_of_language,concept/class_conflict,concept/satire_of_society,concept/tradition,form/essay,character/charles_dickens,character/bernard_shaw"></span>
 
 
 And, talking of Paradise, what fortune is attached to a word! Here is a Persian word wandering about, hopping from tree to tree like a bird, flying to Greece, nesting in the Western liturgy, caged by the monks of the Dark Ages, making a good stay among the French, but settling down at last to be a supreme symbol in the language of the English. So that, to-day, there is no word in English to beat it. It can give the word “Heaven” great odds and come to the post with half a length to spare. That is a great lesson in the history of words.
@@ -2513,7 +2513,7 @@ There is another point about accent which is its curious variability within a sh
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_17" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 17)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_17" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 17)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/power_of_language,concept/class_conflict,concept/satire_of_society,concept/critique_of_progress,concept/tradition,form/essay"></span>
 
 
 The imposition of a standard education upon the poorer people in the State Schools is having an effect, but we hardly know in what direction, although the agency has been at work for some fifty years. Its chief observable effect so far seems to be not in the modification of accent, but in the syllabic pronunciation of certain words, especially names of places.
@@ -2537,7 +2537,7 @@ ON TRUTH AND THE ADMIRALTY
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_18" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 18)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_18" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 18)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/truth,concept/deception,concept/satire_of_society,concept/history,form/essay,form/travel_writing,histref/the_first_world_war"></span>
 
 
 WHAT A PLEASURE it will be — a minor pleasure, I admit, but life is complex and it is difficult to establish values — what a pleasure it will be when maps and statistics return!
@@ -2573,7 +2573,7 @@ It is an imperative duty to serve one’s country, and one’s country in danger
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_19" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 19)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_19" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 19)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/journey,concept/truth,form/essay,form/travel_writing,histref/islam,setting/the_desert,setting/africa"></span>
 
 
 And here, like a man discovering a diamond in blue clay, let me admit the great exception. Through all this welter of falsehood the Admiralty stands firm. I pick up my charts, I read my various “Pilots” (especially my beloved “English Channel Pilot I”), and the truth comes out, august, white-robed, with level brows, contemptuous of advocacy. The documents of this great Department please me like the Creed. Their level voice is the voice of doom. “Halnacker Mill open of Bognor Church Spire leads through the Swatchway.” It is true that the sweeps have fallen from Halnacker Mill and you cannot see it as well from sea as you used to do. If you will allow me (without offence, I hope) to tell you the plain truth, not one man in fifty in one day out of ten has ever seen Halnacker Mill from outside the Owers. All he sees, even in fair weather, is a sort of blur, which he hopes to be Sussex, or Paradise. Anyhow, the document, the record, is there. If you can see Halnacker Mill, even with the sweeps gone down, and if you open it east of Bognor Church Spire, you will get through the Swatchway: if you don’t you will strike the Owers, and I for one shall not care.
@@ -2603,7 +2603,7 @@ What has always astonished me about these little towns of Islam is the apparent 
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_20" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 20)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_20" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 20)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/ship,motif/journey,form/essay,form/travel_writing,histref/islam,setting/africa,setting/spain"></span>
 
 
 I therefore did something which I could not afford. I took aside the chief of my hauling gang of twenty-four and struck a bargain with him. I said to him: “I cannot possibly reach the port which I intended to reach over this illimitable wet mass of dusty earth; it is a day’s journey away, even if the car were in working order. Is there no other place on the sea coast nearer by where I could get some sort of vessel to take me to a human land? I care not what vessel it is, even though it be one of those vessels which they beach, which are open without deck and run under one lateen sail,” for I was not (at the nearest point) much more than a full hundred miles from Cadiz and the Ports of Spain.
@@ -2635,7 +2635,7 @@ And so the hours went by. But at last, not too late in the afternoon, the true c
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_21" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 21)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_21" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 21)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/ship,concept/wonder,form/essay,form/travel_writing,setting/spain,setting/the_sea"></span>
 
 
 The moment he got on board the ship woke up again, the anchor chain rattled, and she began her way. She made five knots but not seven (at least, that was my guess), and so all day long we wallowed, past Africa, and I saw upon my beam a little pirate town and after that a great mountain. At sunset there opened before me for the first time in my life the Gates of Hercules, and marvellous they were to see thus from the West under the reddening light. They were very far away, the narrowest part of the Straits one could barely see, tiny points upon the horizon, and the Rock of Gibraltar one could not see at all, either because it was too far away or because it was hidden round a point of land.
@@ -2671,7 +2671,7 @@ It is not even the establishment of commerce by sea which takes a people to sea.
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_22" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 22)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_22" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 22)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 I have asked myself often enough why the old Egyptians did not take to the sea. Perhaps they did very long ago, but at any rate the memory of it has died out. The other people who traded with them from the North have not even legends of Egyptians coming to them. We have no stories or inscriptions of Egyptians common in the harbours of the Mediterranean. And yet they had a great river going straight out to sea and a coast that for thousands of years, in the height of their power, invited them. They had ships, no doubt, which were sea-going. We know of fleets, but we are not always certain that they were Egyptian fleets, even when they were fleets under the command of the Egyptian king. What we have not got is an Egyptian maritime legend or tradition.
@@ -2697,7 +2697,7 @@ I am told also that the poet Hesiod gave a complete catalogue of these same ladi
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_23" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 23)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_23" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 23)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/ship,concept/courage,concept/history,form/essay,character/columbus,character/william_the_conqueror"></span>
 
 
 Then also, how exact are his words for the noise of a boat speaking through the depths of the water! And what an epithet for the sea is “cloud-shadowed,” or, for the matter of that, “wine dark,” though it is true the same word is granted to oxen.
@@ -2727,7 +2727,7 @@ But one thing was certainly true of all those old ships, and remained true until
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_24" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 24)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_24" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 24)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/ship,concept/history,form/essay,histref/the_french_revolution,setting/england"></span>
 
 
 In the earlier ships we note regularly great structures forward and astern, poops and forecastles, which look as though they would give a most dangerous purchase to a beam wind, let alone lifting the centre of gravity of the boat too high. Yet they carried these easily, for all their light draught. How very light that draught was until quite modern times, we know by the nature of the harbours they entered, and we also know it from their habit of beaching boats. You read often enough of shipwreck, but very rarely indeed of shipwreck through capsizing. That may be because in earlier times they did not take the wind abeam. But I doubt it.
@@ -2761,7 +2761,7 @@ If a man were to waste himself upon mere description he could get no better matt
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_25" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 25)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_25" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 25)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="topos/theatrum_mundi,topos/the_sublime_in_nature,motif/sea,concept/wonder,form/essay,setting/england"></span>
 
 
 Sweeping by shores where the names are the name of the victories of England,
@@ -2787,7 +2787,7 @@ Next I considered, as I watched that bit of rope, the curious historical fact of
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_26" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 26)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_26" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 26)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/critique_of_progress,concept/power_of_language,concept/history,concept/satire_of_society,form/essay,histref/the_crusades"></span>
 
 
 Note you, that forming fours is something which must have been invented at one go. There is no “Development” about it. It is a simple, immediate and revolutionary trick. It was not — and then it was. Note you also that until the trick of forming fours was discovered, no conversion from line into column was possible, and therefore no quick handling of men. So with knots and so with splicing. There are, indeed, one or two knots that have names of men attached to them. There is Walker’s knot, for instance. But Walker (if Walker it was who invented it) made no great effort to perpetuate his fame, and all the common useful knots without which civilisation could not go on, and on which the State depends, were modestly given to mankind as a Christian man, now dead, used to give his charity! without advertisement.
@@ -2809,7 +2809,7 @@ Talking of this literary side of ropes, see how the rope has accumulated, like e
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_27" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 27)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_27" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 27)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 A ship is a little world, a little universe, and it has a language of its own, which disdains the land and its reasons.
@@ -2845,7 +2845,7 @@ Now why was that script ever engraven? (The date was 1909.) Against whom was thi
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_28" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 28)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_28" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 28)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 I know very well that some, perhaps most, of my readers — of those who do me the honour to read this rambling — will think me a fool for what I am next to say. But I confess a sentimentality towards that gun. When I was a boy and they were teaching me to drive in the artillery school at Toul they used to give us a sort of vile body on which to experiment our horses and ourselves: old guns of ‘48 — old bronze guns. And these the French had made with great art. They were beautiful things. What touched me most about them was that each of them had a name. One was called “Liberty,” another “The Voice of the People,” another “Equality,” and so on. It is a human instinct and a just one to give names to things. It is part of the truth that we ourselves are made in the image of God. Why, even my boat, which is but a material, inanimate body (may She forgive me), has a name. I must tell you, though you ridicule me, that when I saw that German gun I wished it also had a name.
@@ -2875,7 +2875,7 @@ He lived in a little room, a lodging, at the top of an old house overlooking the
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_29" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 29)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_29" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 29)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/satire_of_society,concept/nationalism_and_patriotism,concept/power_of_language,concept/wit,form/essay,histref/alfred_harmsworth_lord_northcliffe"></span>
 
 
 I wish he had lived to the present day. He might have given us something really good and new, which we badly lack.
@@ -2931,7 +2931,7 @@ But by jingo if we do,
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_30" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 30)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_30" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 30)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_of_language,concept/wit,form/essay"></span>
 
 
 “What a shame!” said I. “What are you usually paid?” “Why, sir,” he answered, “I used to work on a royalty basis, but it was so difficult to keep the accounts when millions and millions of people used the phrase and when it was printed in all sorts of pamphlets, that I changed my contracts and sold out and out. But now,” he added sadly, “I cannot sell a thing. It is a terrible thing the way in which a change of custom takes the bread out of an old man’s mouth.” I said it was, indeed. “And yet,” he continued eagerly, “it is an older trade than you think for. Believe me, sir, it has been in our family for generations.” I was astonished to hear this, for I believed tags to be quite modern, but he assured me it was not so. “My own great-grandfather,” he said, “was the author of ‘No taxation without representation,’ and that was a stunner. It rhymed and it took root, two things that often go together, and the old man on his death bed told my father, who has told me, how it was done, but you will excuse me if I do not tell you that because it is a secret of the trade; it used to be my livelihood and that livelihood may creep up again.” He said these last words rather doubtfully, and was interrupted by a dreadful cough.
@@ -2983,7 +2983,7 @@ So attractive is “and” to the human mind that it will often expand itself, d
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_31" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 31)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_31" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 31)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/power_of_language,concept/religious_sectarianism,concept/humility,concept/the_trinity,concept/satire_of_society,form/essay,histref/catholic_church"></span>
 
 
 Those great men, our fathers, felt about “and” something reverend or peculiar, so that they hardly thought of it as a word, but as a sort of symbol. They put it at the end of the alphabet, calling it “ampersand.” It is one of the worst things about our detestable time that this ancient national thing “ampersand” is forgotten. The old refrain used to be: a, b, c, ..., x, y, z, ampersand — that long word “ampersand,” that fine ritual title, referred to the symbol “&” which “and” alone of words possesses. You find it in the old horn books. The children of England knew it by heart for centuries. But the modern flood came: it is gone.
@@ -3025,7 +3025,7 @@ The deacon, rushing up to his master, banged at the door, saying, “My Lord! My
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_32" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 32)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_32" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 32)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/supernatural,concept/satire_of_society,concept/vulgarity,concept/class_conflict,concept/faith,concept/wit,form/satire"></span>
 
 
 The deacon went down to the stable. With many tears he sewed on the two heads of the dead mules. The Bishop, when he had risen from sleep, said his prayers, came down into the stable, where, he having blessed the two mules, they came to life again in the most natural manner in the world. When he had breakfasted, he rejoined his deacon. Mounting the two beasts, they rode out into the break of the day. But, the light broadening as they approached the city gate, the crowd saw with astonishment a brown mule with a mottled head abreast of a mottled mule with a brown head, for the deacon, confused in the half darkness of the morning, had sewed the wrong heads to the wrong bodies.
@@ -3057,7 +3057,7 @@ Then there was a great debate between my friend and his sister on the vexed ques
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_33" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 33)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_33" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 33)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/satire_of_society,concept/vulgarity,concept/wit,concept/hypocrisy,form/satire,histref/h_g_wells,character/h_g_wells"></span>
 
 
 Under V. (a volume which we hope to reach — if the next great war can be staved off — round about 1930) we have, I am glad to say, a long and valuable article on the Virtues of Cads. This article is from various pens. All the introductory part has been written by an expert at party headquarters, and the diagrams have been drawn by a diner-out who has always got on well with Cads and has an exhaustive knowledge of their habits. There is a special division on the financial virtues of Cads by a banker and on the spiritual virtues of Cads by a divine of modernist complexion. But the subject is so large that we have a reference in small capitals at the end of the article to other special articles in the same department, and especially to what may be called the Calendar of Saints among Cads, that is, short biographies of Cads who have excelled in one or other of the virtues.
@@ -3081,7 +3081,7 @@ The Encyclopædia can be bought at a reduction of 20 per cent. by those who pay 
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_34" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 34)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_34" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 34)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="topos/sublime_in_nature,motif/water,motif/river,concept/the_sublime,concept/wonder,concept/nature,form/essay"></span>
 
 
 ON THE MELTING OF THE ICE
@@ -3117,7 +3117,7 @@ For there were not only these swirling waters carving out the great valleys, the
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_35" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 35)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_35" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 35)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="motif/sea,motif/water,concept/nature,concept/wonder,concept/reason_and_rationalism,form/essay"></span>
 
 
 They say also that the sea rose. It may have done so. Perhaps it must have done so. And if it did so what a sight must that also not have been: the cutting of the straits.
@@ -3155,7 +3155,7 @@ There is another cause for this fear of numbers, and that is their absolute qual
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_36" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 36)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_36" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 36)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/reason_and_rationalism,concept/war_and_its_cost,concept/truth,concept/critique_of_progress,form/essay,histref/first_world_war,histref/alfred_harmsworth_lord_northcliffe"></span>
 
 
 Nor is it wholly an unreasonable attitude, for the functions of the mind not only include appreciations and creative acts which escape rigid measure, but indeed those acts are the most important.
@@ -3181,7 +3181,7 @@ Judgment, the most valuable of all the rational qualities, is essentially an int
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_37" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 37)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_37" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 37)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/reason_and_rationalism,concept/truth,concept/paradox,concept/critique_of_progress,form/essay,character/augustine"></span>
 
 
 In the same way a piece of statistics, however accurate, concerns only one of an infinite number of factors. You get nearer the truth as you combine one set of statistics with a second, a third, a fourth; but though you were to have a thousand sets they would not outweigh your general judgment based on observation.
@@ -3207,7 +3207,7 @@ There is a lot more.... Every operation of subtraction, or of the addition of op
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_38" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 38)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_38" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 38)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 You may tell me that by far the greater part of men are not concerned with these ultimate far goals of bewilderment and of despair to which the science of numbers will lead them out of their happy homes. I am not so sure. Nowadays when people are so fond of the word “sub-conscious” (and I have myself worked the animal as hard as was possible on meagre rations) we may drag it in here without extravagance. There is, I think, an instinct in men the least acquainted with mathematics that it is possible to push them too far; and though men begin to tremble long before the limits of human reason are reached — in fact, as a rule, they get the wind up before they reach the Calculi — yet a god tells them in what direction they are going, and warns them that too much curiosity is ill for man.
@@ -3237,7 +3237,7 @@ There was a school which had half a dozen adherents in London, and two or three 
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_39" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 39)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_39" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 39)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="topos/immortality_through_verse,motif/death,concept/immortality_of_art_fame,concept/fame_and_publicity,concept/vanity,form/essay,character/milton"></span>
 
 
 But in that part of Heaven where silent stand

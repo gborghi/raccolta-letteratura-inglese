@@ -709,7 +709,7 @@ couple of hundred years.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Some Words with a Mummy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Some Words with a Mummy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/night,motif/noon,motif/soul,motif/time,concept/body,concept/conscience,concept/doubt,concept/hope,form/inscription,setting/mountains,character/arthur,character/speed"></span>
 
 
 The _symposium_ of the preceding evening had been a little too much
@@ -821,7 +821,7 @@ again his name and titles, and the names and titles of his relations.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Some Words with a Mummy (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Some Words with a Mummy (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,archetype/villain,motif/clock,motif/fire,motif/night,motif/well,motif/window,concept/body,setting/egypt,character/buckingham"></span>
 
 
 Around the neck thus ensheathed, was a collar of cylindrical glass beads,
@@ -936,7 +936,7 @@ the point) am I to regard your aiding and abetting that miserable little
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Some Words with a Mummy (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Some Words with a Mummy (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/well,concept/conscience,concept/doubt,concept/nature,concept/paradox,form/novel,character/buckingham"></span>
 
 
 It will be taken for granted, no [[Doubt|doubt]], that upon hearing this speech
@@ -1039,7 +1039,7 @@ spot and ordered a supply of cigars and wine.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Some Words with a Mummy (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Some Words with a Mummy (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/blood,motif/time,motif/well,concept/doubt,concept/history,form/fable,form/history,setting/egypt,character/buckingham"></span>
 
 
 The conversation soon grew animated. Much curiosity was, of course,
@@ -1202,7 +1202,7 @@ preventing our [[history]] from degenerating into absolute [[Fable|fable]].”
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Some Words with a Mummy (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Some Words with a Mummy (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/city,motif/night,motif/time,motif/well,form/novel,setting/egypt,character/buckingham"></span>
 
 
 “I beg your pardon,” said Doctor Ponnonner at this point, laying his hand
@@ -1336,7 +1336,7 @@ been seen in [[Egypt]] or elsewhere.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Some Words with a Mummy (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Some Words with a Mummy (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,archetype/king,archetype/tyrant,motif/clock,motif/home,motif/swallow,motif/time,motif/water,motif/well,concept/beauty,concept/democracy,concept/truth,setting/egypt"></span>
 
 
 I here asked the Count what he had to say to our railroads.

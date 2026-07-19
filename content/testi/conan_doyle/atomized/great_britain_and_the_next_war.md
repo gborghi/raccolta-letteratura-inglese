@@ -114,7 +114,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="GREAT BRITAIN AND THE NEXT WAR (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="GREAT BRITAIN AND THE NEXT WAR (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/war_as_glory,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/empire_and_imperialism,form/essay,histref/first_world_war,histref/frederick_the_great,setting/germany,setting/england,character/bismarck"></span>
 
 
 GREAT BRITAIN AND THE NEXT WAR
@@ -190,7 +190,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="GREAT BRITAIN AND THE NEXT WAR (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="GREAT BRITAIN AND THE NEXT WAR (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/literary_criticism,concept/the_artist_and_society,concept/creativity,concept/the_power_of_language,form/essay,setting/canada,character/rudyard_kipling,character/george_bernard_shaw,character/h_g_wells,character/robert_louis_stevenson"></span>
 
 
 THE FUTURE OF CANADIAN LITERATURE

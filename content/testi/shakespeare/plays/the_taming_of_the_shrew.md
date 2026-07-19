@@ -1448,7 +1448,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Taming of the Shrew — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Taming of the Shrew — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/cross,motif/desire,motif/garden,motif/grave,motif/home,motif/horse,motif/leaves,motif/love,motif/nature,motif/silence,motif/storm,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/nature,setting/court,setting/italy,character/baptista,character/bianca,character/hortensio,character/katherina,character/lucentio,character/queen,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1534,7 +1534,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Taming of the Shrew — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Taming of the Shrew — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/villain,motif/autumn,motif/dance,motif/fire,motif/home,motif/jewel,motif/love,motif/sleep,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/hope,setting/court,setting/paris,setting/verona,character/antonio,character/baptista,character/bianca,character/grumio,character/hortensio,character/katherina,character/lucentio,character/speed,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1635,7 +1635,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Taming of the Shrew — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Taming of the Shrew — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/city,motif/cross,motif/dance,motif/death,motif/fire,motif/flowers,motif/love,motif/nightingale,motif/road,motif/silence,motif/time,motif/well,motif/wind,concept/beauty,concept/doubt,concept/education,concept/faith,concept/fear,concept/greed,concept/revenge,concept/wonder,setting/italy,setting/mountains,setting/venice,setting/verona,character/antonio,character/baptista,character/bianca,character/hortensio,character/katherina,character/lucentio,character/lucrece,character/speed,character/sunday,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1808,7 +1808,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Taming of the Shrew — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Taming of the Shrew — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,motif/love,motif/pain,motif/time,motif/well,concept/despair,concept/doubt,concept/faith,setting/court,character/ajax,character/bianca,character/hortensio,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1852,7 +1852,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Taming of the Shrew — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Taming of the Shrew — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/monster,motif/home,motif/horse,motif/marriage,motif/time,motif/well,character/baptista,character/bianca,character/grumio,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1908,7 +1908,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Taming of the Shrew — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Taming of the Shrew — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/home,motif/horse,motif/lamb,motif/love,motif/marriage,motif/night,motif/rose,motif/storm,concept/fear,concept/hope,concept/wonder,character/baptista,character/bianca,character/grumio,character/hortensio,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -1967,7 +1967,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Taming of the Shrew — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Taming of the Shrew — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/death,motif/fire,motif/frost,motif/grave,motif/hill,motif/home,motif/horse,motif/love,motif/memory,motif/night,motif/silence,motif/soul,motif/water,motif/well,motif/winter,concept/charity,concept/doubt,concept/hope,character/ferdinand,character/grumio,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2053,7 +2053,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Taming of the Shrew — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Taming of the Shrew — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/lover,motif/city,motif/death,motif/grave,motif/hill,motif/leaves,motif/love,motif/marriage,motif/well,concept/faith,setting/court,setting/venice,character/baptista,character/bianca,character/hortensio,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -2115,7 +2115,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Taming of the Shrew — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Taming of the Shrew — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/villain,motif/clock,motif/death,motif/desire,motif/home,motif/horse,motif/love,motif/sleep,motif/time,motif/well,motif/winter,concept/body,concept/charity,concept/faith,concept/fear,concept/honour,concept/mercy,character/bottom,character/grumio,character/hortensio"></span>
 
 
 | Speaker | Line |
@@ -2207,7 +2207,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Taming of the Shrew — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Taming of the Shrew — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/home,motif/love,motif/night,motif/well,concept/fear,setting/venice,character/baptista,character/bianca,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -2241,7 +2241,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="The Taming of the Shrew — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="The Taming of the Shrew — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/garden,concept/doubt,concept/faith,character/baptista,character/bianca,character/lucentio"></span>
 
 
 | Speaker | Line |
@@ -2268,7 +2268,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="The Taming of the Shrew — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="The Taming of the Shrew — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,motif/journey,motif/moon,motif/stars,motif/well,motif/white_and_red,concept/beauty,concept/hope,concept/truth,concept/wonder,character/hortensio,character/lucentio"></span>
 
 
 | Speaker | Line |
@@ -2308,7 +2308,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Taming of the Shrew — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Taming of the Shrew — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/city,motif/home,motif/love,motif/marriage,motif/prison,motif/well,motif/window,concept/faith,concept/fear,concept/hope,character/baptista,character/bianca,character/grumio,character/lucentio,character/tranio"></span>
 
 
 | Speaker | Line |
@@ -2408,7 +2408,7 @@ Bartholomew sits
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Taming of the Shrew — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Taming of the Shrew — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/lover,archetype/rebel,motif/death,motif/fire,motif/home,motif/leaves,motif/love,motif/night,motif/prison,motif/ship,motif/sleep,motif/time,motif/well,concept/beauty,concept/body,concept/history,concept/hope,concept/wonder,form/history,form/tragedy,setting/london,setting/ship,character/baptista,character/bianca,character/christopher_sly,character/clifford,character/duke_of_buckingham,character/duke_of_york,character/earl_of_salisbury,character/earl_of_warwick,character/eleanor,character/gloucester,character/grumio,character/henry_vi,character/hortensio,character/jack_cade,character/katherina,character/kent,character/lucentio,character/queen,character/queen_margaret,character/richard,character/tranio,character/witch"></span>
 
 
 | Speaker | Line |

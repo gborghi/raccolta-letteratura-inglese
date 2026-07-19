@@ -1030,7 +1030,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="1 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="1 Henry IV — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/cross,motif/horse,motif/nature,motif/night,motif/time,motif/well,concept/faith,concept/honour,concept/nature,concept/pride,character/christ,character/henry_iv,character/hotspur,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1051,7 +1051,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="1 Henry IV — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="1 Henry IV — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/lover,archetype/villain,motif/blood,motif/clock,motif/hill,motif/home,motif/lion,motif/moon,motif/night,motif/noon,motif/sleep,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/faith,concept/melancholy,concept/vanity,histref/reformation,setting/castle,setting/court,setting/london,character/diana,character/henry_iv"></span>
 
 
 | Speaker | Line |
@@ -1124,7 +1124,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="1 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="1 Henry IV — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/cross,motif/crown,motif/death,motif/dust,motif/home,motif/lion,motif/love,motif/moon,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/faith,concept/greatness,concept/honour,concept/imagination,concept/mercy,concept/revenge,setting/castle,setting/mountains,character/bottom,character/earl_of_worcester,character/edmund,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1195,7 +1195,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="1 Henry IV — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="1 Henry IV — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/clock,motif/cross,motif/death,motif/horse,motif/night,motif/road,motif/rose,motif/time,motif/water,concept/body,concept/faith,setting/castle,setting/london,character/henry_iv,character/kent"></span>
 
 
 | Speaker | Line |
@@ -1240,7 +1240,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="1 Henry IV — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="1 Henry IV — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/death,motif/hill,motif/horse,motif/love,motif/poison,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,character/henry_iv,character/john_of_gaunt,character/prince_hal"></span>
 
 
 | Speaker | Line |
@@ -1298,7 +1298,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="1 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="1 Henry IV — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/death,motif/horse,concept/fear,setting/london,character/henry_iv"></span>
 
 
 | Speaker | Line |
@@ -1317,7 +1317,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="1 Henry IV — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="1 Henry IV — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/horse,motif/love,motif/sleep,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/melancholy,character/edmund,character/henry_iv,character/hotspur"></span>
 
 
 | Speaker | Line |
@@ -1353,7 +1353,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="1 Henry IV — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="1 Henry IV — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/villain,motif/blood,motif/clock,motif/cross,motif/crown,motif/death,motif/fire,motif/hill,motif/horse,motif/lion,motif/love,motif/moon,motif/night,motif/sleep,motif/tears,motif/time,motif/well,concept/conscience,concept/faith,concept/honour,concept/hope,concept/humility,concept/mercy,concept/truth,concept/vanity,setting/court,character/henry_iv,character/hotspur,character/lucifer,character/pistol,character/queen,character/satan,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1593,7 +1593,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="1 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="1 Henry IV — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/blood,motif/cross,motif/crown,motif/fire,motif/home,motif/horse,motif/leaves,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/river,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/beauty,concept/courage,concept/faith,concept/fear,concept/greatness,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/court,setting/mountains,character/bottom,character/earl_of_worcester,character/henry_bolingbroke,character/henry_iv,character/hotspur,character/queen,character/speed,character/sunday"></span>
 
 
 | Speaker | Line |
@@ -1673,7 +1673,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="1 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="1 Henry IV — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/lion,motif/soul,motif/time,motif/well,concept/fear,concept/greatness,concept/honour,concept/hope,concept/humility,concept/wonder,setting/court,character/christ,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1696,7 +1696,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="1 Henry IV — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="1 Henry IV — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,topos/memento_mori,archetype/king,archetype/villain,motif/clock,motif/death,motif/fire,motif/hill,motif/horse,motif/lion,motif/love,motif/night,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/mercy,concept/truth,setting/court,character/henry_iv,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -1785,7 +1785,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="1 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="1 Henry IV — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/fire,motif/home,motif/horse,motif/love,motif/soul,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/honour,concept/hope,concept/truth,character/bottom,character/henry_iv,character/hotspur,character/prince_john,character/richard,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1834,7 +1834,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="1 Henry IV — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="1 Henry IV — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/night,motif/prison,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/mercy,concept/poverty,concept/truth,character/henry_iv"></span>
 
 
 | Speaker | Line |
@@ -1866,7 +1866,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="1 Henry IV — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="1 Henry IV — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/home,motif/horse,motif/journey,motif/love,motif/nature,motif/tears,motif/time,motif/well,concept/courage,concept/fear,concept/greatness,concept/honour,concept/nature,concept/pride,concept/reform,concept/wonder,setting/court,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1905,7 +1905,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="1 Henry IV — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="1 Henry IV — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/well,concept/doubt,concept/fear,concept/hope,character/henry_iv,character/michael,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1926,7 +1926,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="1 Henry IV — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="1 Henry IV — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/hill,motif/home,motif/leaves,motif/love,motif/night,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/faith,concept/fear,concept/friendship,concept/greatness,concept/honour,character/earl_of_worcester,character/henry_iv,character/hotspur,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1960,7 +1960,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="1 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="1 Henry IV — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/death,motif/night,motif/soul,motif/spring,motif/time,motif/well,concept/hope,concept/mercy,character/earl_of_worcester,character/henry_iv,character/hotspur,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1998,7 +1998,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="1 Henry IV — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="1 Henry IV — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/city,motif/death,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/honour,concept/revenge,concept/vanity,setting/london,character/henry_iv,character/hotspur,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -2035,7 +2035,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="1 Henry IV — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="1 Henry IV — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/king,archetype/rebel,motif/blood,motif/clock,motif/death,motif/dust,motif/grave,motif/love,motif/rose,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,concept/ambition,concept/body,concept/faith,concept/fear,concept/honour,concept/vanity,character/henry_iv,character/hotspur"></span>
 
 
 | Speaker | Line |
@@ -2090,7 +2090,7 @@ The [[history|History]] of Henry the Fourth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="1 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="1 Henry IV — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/death,motif/hill,motif/love,concept/fear,concept/forgiveness,concept/jealousy,concept/romantic_love,form/comedy,character/anne_page,character/doctor_caius,character/earl_of_worcester,character/falstaff,character/fenton,character/henry_iv,character/henry_v,character/justice_shallow,character/master_ford,character/mistress_ford,character/mistress_page,character/mistress_quickly,character/pistol,character/queen,character/queen_elizabeth,character/richard,character/speed"></span>
 
 
 | Speaker | Line |

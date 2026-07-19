@@ -1391,7 +1391,7 @@ King’s Land, Sussex — Belloc’s home from 1907 until his death
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Romance of Tristan and Iseult — Part 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Romance of Tristan and Iseult — Part 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/ship,setting/castle,setting/ship"></span>
 
 
 PART THE FIRST
@@ -1435,7 +1435,7 @@ Then Tristan kneeled and skinned the stag before he cut it up, and quartered it 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Romance of Tristan and Iseult — Part 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Romance of Tristan and Iseult — Part 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/ship,setting/castle,setting/ireland,setting/ship"></span>
 
 
 Now Tristan knew both speech and silence, and he answered:
@@ -1499,7 +1499,7 @@ WHEN TRISTAN CAME back to that land, King Mark and all his Barony were mourning;
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Romance of Tristan and Iseult — Part 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Romance of Tristan and Iseult — Part 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/ship,setting/castle,setting/ireland,setting/ship"></span>
 
 
 On the day assigned, when the barons were gathered in hall, and when the King had taken his throne, the Morholt said these things:
@@ -1545,7 +1545,7 @@ She alone, being skilled in philtres, could save Tristan, but she alone wished h
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Romance of Tristan and Iseult — Part 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Romance of Tristan and Iseult — Part 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/ship,setting/castle,setting/ireland,setting/ship"></span>
 
 
 THE QUEST OF THE LADY WITH THE HAIR OF GOLD
@@ -1607,7 +1607,7 @@ Tristan charged his horse at him so strongly that, though the beast’s mane sto
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Romance of Tristan and Iseult — Part 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Romance of Tristan and Iseult — Part 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/poison,motif/ship,setting/ireland,setting/ship"></span>
 
 
 Then he cut out the tongue and put it into his hose, but as the [[Poison|poison]] came against his flesh the hero fainted and fell in the high grass that bordered the marsh around.
@@ -1659,7 +1659,7 @@ Then she found Tristan and led him before the Barony. And as he came the hundred
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Romance of Tristan and Iseult — Part 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Romance of Tristan and Iseult — Part 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,motif/ship,setting/ireland,setting/ship"></span>
 
 
 But among the Irish many knew him again and cried, “Tristan of Lyonesse that slew the Morholt!” They drew their swords and clamoured for death. But Iseult cried: “King, kiss this man upon the lips as your oath was,” and the King kissed him, and the clamour fell.
@@ -1717,7 +1717,7 @@ She laid her arm upon Tristan’s shoulder, the light of her eyes was drowned an
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Romance of Tristan and Iseult — Part 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Romance of Tristan and Iseult — Part 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/poison,motif/ship,concept/honour,setting/castle,setting/ship"></span>
 
 
 “The [[Love|love]] of you,” she said. Whereat he put his lips to hers.
@@ -1761,7 +1761,7 @@ When the felons heard the news they said among themselves, “He is gone, the wi
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Romance of Tristan and Iseult — Part 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Romance of Tristan and Iseult — Part 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,setting/castle"></span>
 
 
 But Tristan had not strength to depart altogether; and when he had crossed the moats and boundaries of the [[Castle]] he knew he could go no further. He stayed in Tintagel town and lodged with Gorvenal in a burgess’ house, and languished oh! more wounded than when in that past day the shaft of the Morholt had tainted his body.
@@ -1823,7 +1823,7 @@ So she went back to the women’s rooms and told it to Brangien, who cried: “I
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_09" data-title="The Romance of Tristan and Iseult — Part 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_09" data-title="The Romance of Tristan and Iseult — Part 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,concept/honour,setting/castle"></span>
 
 
 And when he had left the orchard, the King said smiling:
@@ -1899,7 +1899,7 @@ For he trusted in God and knew no man dared draw sword against him in the lists.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_10" data-title="The Romance of Tristan and Iseult — Part 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_10" data-title="The Romance of Tristan and Iseult — Part 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/love,concept/honour,setting/castle"></span>
 
 
 Therefore did Tristan claim justice and the right of battle and therefore was he careful to fail in nothing of the homage he owed King Mark, his lord.
@@ -2015,7 +2015,7 @@ So, in the depths of the wild wood began for the lovers that savage life which y
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Romance of Tristan and Iseult — Part 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Romance of Tristan and Iseult — Part 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love"></span>
 
 
 PART THE SECOND
@@ -2065,7 +2065,7 @@ So she lay down, and he, and between them Tristan put his naked sword, and on th
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Romance of Tristan and Iseult — Part 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Romance of Tristan and Iseult — Part 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love,concept/honour"></span>
 
 
 “Friend,” said the King, “what came you hither to seek in haste and breathless, like a huntsman that has followed the dogs afoot? Have you some wrong to right, or has any man driven you?”
@@ -2131,7 +2131,7 @@ Iseult took the sword, and kissed the hilt of gold, and Tristan saw her weeping.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Romance of Tristan and Iseult — Part 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Romance of Tristan and Iseult — Part 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love,setting/ireland"></span>
 
 
 “Tristan,” she said, “there is the hermit Ogrin. Let us return to him, and cry mercy to the King of Heaven.”
@@ -2203,7 +2203,7 @@ And they kissed each other on the lips.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Romance of Tristan and Iseult — Part 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Romance of Tristan and Iseult — Part 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/honour,setting/ireland"></span>
 
 
 Now Ogrin, having left the lovers in the Hermitage, hobbled upon his crutch to the place called The Mount, and he bought ermine there and fur and cloth of silk and purple and scarlet, and a palfrey harnessed in gold that went softly, and the folk laughed to see him spending upon these the small moneys he had amassed so long; but the old man put the rich stuffs upon the palfrey and came back to Iseult.
@@ -2279,7 +2279,7 @@ And they rode off without a salutation.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Romance of Tristan and Iseult — Part 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Romance of Tristan and Iseult — Part 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/unattainable_beloved,archetype/lover,archetype/pilgrim,motif/masks_disguise,motif/vow,motif/river,concept/love_romantic,concept/deception,form/medieval_romance,histref/arthurian_legend,character/king_arthur"></span>
 
 
 But the King (not tarrying for huntsman or for hound but straight away) spurred his horse to Tintagel; and as he sprang up the stairs the Queen heard the jangle of his spurs upon the stones.
@@ -2371,7 +2371,7 @@ Then, as she cast it from her, she stretched her arms out in a cross, with the p
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Romance of Tristan and Iseult — Part 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Romance of Tristan and Iseult — Part 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,concept/courage,concept/honour,setting/ireland"></span>
 
 
 PART THE THIRD
@@ -2427,7 +2427,7 @@ On the third day, at the hour of noon, Tristan and Gorvenal came near a hill whe
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Romance of Tristan and Iseult — Part 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Romance of Tristan and Iseult — Part 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/courage,concept/honour,setting/castle"></span>
 
 
 And Tristan asked:
@@ -2511,7 +2511,7 @@ So the day was fixed, and the Duke came with his friends and Tristan with his, a
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Romance of Tristan and Iseult — Part 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Romance of Tristan and Iseult — Part 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/ship,concept/courage,setting/castle,setting/ship"></span>
 
 
 But that same night, as Tristan’s valets undressed him, it happened that in drawing his arm from the sleeve they drew off and let fall from his finger the ring of green jasper, the ring of Iseult the Fair. It sounded on the stones, and Tristan looked and saw it. Then his heart awoke and he knew that he had done wrong. For he remembered the day when Iseult the Fair had given him the ring. It was in that forest where, for his sake, she had led the hard life with him, and that night he saw again the hut in the wood of Morois, and he was bitter with himself that ever he had accused her of treason; for now it was he that had betrayed, and he was bitter with himself also in pity for this new wife and her simplicity and beauty. See how these two Iseults had met him in an evil hour, and to both had he broken faith!
@@ -2595,7 +2595,7 @@ And when he was within the courts the serving men ran after him and cried:
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Romance of Tristan and Iseult — Part 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Romance of Tristan and Iseult — Part 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/ship,setting/ship"></span>
 
 
 “The fool! the fool!”
@@ -2715,7 +2715,7 @@ So passed they three full days. But, on the third, two maids that watched them t
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Romance of Tristan and Iseult — Part 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Romance of Tristan and Iseult — Part 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/poison,motif/ship,setting/ship"></span>
 
 
 “Back, fool!”
@@ -2777,7 +2777,7 @@ And Kaherdin sailed and sailed till he dropped anchor in the haven of Tintagel. 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Romance of Tristan and Iseult — Part 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Romance of Tristan and Iseult — Part 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/ship,setting/ship"></span>
 
 
 Then Kaherdin offered the Queen a buckle of fine gold; and “Queen,” said he, “the gold is good.”

@@ -613,7 +613,7 @@ Genii and of the Gnomes.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Domain of Arnheim (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Domain of Arnheim (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/love,motif/nature,motif/stars,motif/time,motif/well,concept/ambition,concept/beauty,concept/charity,concept/madness,concept/nature,concept/suffering,form/essay"></span>
 
 
 The [[Garden|garden]] like a lady fair was cut,
@@ -732,7 +732,7 @@ his own before the inheritance.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Domain of Arnheim (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Domain of Arnheim (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/garden,motif/nature,motif/time,concept/ambition,concept/beauty,concept/conscience,concept/education,concept/faith,concept/imagination,concept/nature,concept/self,concept/truth,form/novel,histref/milton,character/milton"></span>
 
 
 I was not surprised, however, to perceive that he had long made
@@ -844,7 +844,7 @@ the fraternity would have suggested the identical emendation.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Domain of Arnheim (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Domain of Arnheim (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/garden,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/immortality,concept/nature,concept/sublime,concept/truth,concept/wonder"></span>
 
 
 I repeat that in landscape arrangements [[Alone|alone]] is the physical
@@ -946,7 +946,7 @@ admiration from their instinct of [[Beauty|beauty]].
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Domain of Arnheim (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Domain of Arnheim (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/garden,motif/hill,motif/love,motif/nature,motif/night,motif/soul,motif/well,concept/ambition,concept/beauty,concept/despair,concept/nature,concept/solitude,concept/unattainable,character/timon"></span>
 
 
 “The author’s observations on the artificial style,” continued
@@ -1050,7 +1050,7 @@ pestilence.”
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Domain of Arnheim (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Domain of Arnheim (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/city,motif/death,motif/dreams,motif/nature,motif/river,motif/water,concept/beauty,concept/melancholy,concept/nature,concept/solitude,character/bottom,character/phantom"></span>
 
 
 It was not until toward the close of the fourth year of our
@@ -1164,7 +1164,7 @@ bewildered voyager looks around him in vain.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Domain of Arnheim (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Domain of Arnheim (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/leaves,motif/river,motif/water,concept/body,setting/mountains,character/bottom,character/phantom"></span>
 
 
 The canoe steadily proceeds, and the rocky gate of the vista is

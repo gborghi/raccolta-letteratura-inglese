@@ -1607,7 +1607,7 @@ procuring an edition.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The System of Doctor Tarr and Professor Fether (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The System of Doctor Tarr and Professor Fether (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/fire,motif/flowers,motif/horse,motif/road,motif/well,concept/faith,setting/paris"></span>
 
 
 During the [[Autumn|autumn]] of 18—, while on a tour through the extreme
@@ -1809,7 +1809,7 @@ for the commendable prudence you have displayed. We seldom find
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The System of Doctor Tarr and Professor Fether (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The System of Doctor Tarr and Professor Fether (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/soul,motif/time,concept/body,concept/faith"></span>
 
 
 so much of forethought in young men; and, more than once, some
@@ -2043,7 +2043,7 @@ cour_. I noticed that at least two-thirds of these guests were
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The System of Doctor Tarr and Professor Fether (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The System of Doctor Tarr and Professor Fether (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,motif/well,setting/paris"></span>
 
 
 ladies; and some of the latter were by no means accoutred in what
@@ -2237,7 +2237,7 @@ imagined himself. Your acting is very natural, as I live.”
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The System of Doctor Tarr and Professor Fether (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The System of Doctor Tarr and Professor Fether (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/time,concept/doubt,concept/truth"></span>
 
 
 “Mille pardons! Ma’m’selle!” replied Monsieur De Kock, thus
@@ -2473,7 +2473,7 @@ Here a friend, at the side of the speaker, put a hand upon his
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The System of Doctor Tarr and Professor Fether (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The System of Doctor Tarr and Professor Fether (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/fool,motif/night,motif/silence,motif/time,concept/body,character/venus"></span>
 
 
 shoulder and whispered a few words in his ear; upon which he
@@ -2707,7 +2707,7 @@ is harmless—quite harmless, eh?”
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The System of Doctor Tarr and Professor Fether (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The System of Doctor Tarr and Professor Fether (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/dust,motif/time,motif/well,concept/doubt,concept/truth,character/bottom"></span>
 
 
 can you mean?”
@@ -2949,7 +2949,7 @@ one fine morning the keepers found themselves pinioned hand and
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The System of Doctor Tarr and Professor Fether (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The System of Doctor Tarr and Professor Fether (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/fear,concept/freedom,concept/hope,concept/wonder,form/tragedy"></span>
 
 
 foot, and thrown into the cells, where they were attended, as if

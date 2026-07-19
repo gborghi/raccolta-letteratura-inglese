@@ -8109,7 +8109,7 @@ END
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Don Quixote — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Don Quixote — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/king,motif/summer,character/don_quixote"></span>
 
 
 CHAPTER
@@ -8169,7 +8169,7 @@ IL RITORNO DI [[Don Quixote|DON QUIXOTE]]
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Don Quixote — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Don Quixote — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/lion,motif/silence,motif/well,motif/window,concept/doubt,concept/hope,character/don_quixote,character/richard"></span>
 
 
 CHAPTER I
@@ -8328,7 +8328,7 @@ Ciò era vero, non c'è [[Doubt|dubbio]], poiché ella era una ragazza piccola e
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Don Quixote — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Don Quixote — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/immortality,concept/jealousy,concept/wonder,form/historical_novel,histref/renaissance,setting/oxford,character/arthur,character/don_quixote,character/oliver,character/viola"></span>
 
 
 "I've a negro taste," he explained, laying on a giant streak
@@ -8477,7 +8477,7 @@ Entrò nella stanza nel costume completo da Trovatore, tranne che per un telegra
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Don Quixote — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Don Quixote — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/silence,motif/stars,motif/well,concept/wonder,character/don_quixote,character/richard"></span>
 
 
 "Don't you know what the term Unionist means?" asked Olive.
@@ -8590,7 +8590,7 @@ Riattaccò e tornò alle sue fatiche creative, fischiettando.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Don Quixote — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Don Quixote — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/garden,motif/rose,motif/silence,motif/time,motif/well,concept/union,setting/oxford,character/don_quixote,character/richard"></span>
 
 
 CHAPTER II
@@ -8877,7 +8877,7 @@ paura di consegnarla?»
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Don Quixote — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Don Quixote — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/garden,motif/horse,motif/nature,motif/rose,motif/spring,motif/time,motif/well,motif/wind,concept/beauty,concept/nature,concept/union,form/fragment,character/don_quixote"></span>
 
 
 "Yes, but look here," remonstrated Murrel, "you've not only made a hole,
@@ -9125,7 +9125,7 @@ Non credo che qualcuno lo conosca molto [[Well|bene]].»
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Don Quixote — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Don Quixote — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/well,concept/melancholy,concept/pride,concept/wonder,character/don_quixote"></span>
 
 
 "Sort of book-worm, I suppose," observed Archer.
@@ -9245,7 +9245,7 @@ poi si voltò ed entrò con passo leggero nella biblioteca.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Don Quixote — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Don Quixote — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/fire,motif/garden,motif/marriage,motif/soul,motif/time,motif/window,concept/fanaticism,concept/history,concept/truth,form/allegory,form/history,histref/bible,setting/mountains,character/don_quixote,character/michael"></span>
 
 
 CHAPTER III
@@ -9385,7 +9385,7 @@ Comunque, l'aneddoto era almeno un'[[Allegory|allegoria]]. Pochi si rendono cont
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Don Quixote — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Don Quixote — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/dreams,motif/garden,motif/ghosts,motif/lion,motif/love,motif/silence,motif/soul,motif/time,motif/well,concept/solitude,setting/oxford,setting/paris,character/don_quixote,character/richard"></span>
 
 
 For the rest, he was the son of a poor parson; he was one of the few
@@ -9576,7 +9576,7 @@ Per la prima [[Time|volta]] in quella cacofonia di [[Cross|equivoci]] vi fu una 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Don Quixote — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Don Quixote — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/garden,motif/silence,motif/well,character/don_quixote"></span>
 
 
 "If I tried to act a period I hadn't put my mind into,
@@ -9733,7 +9733,7 @@ Archer si sentiva come uno scolaro sfidato a compiere qualche impresa. Non era u
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Don Quixote — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Don Quixote — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/monster,motif/garden,motif/night,motif/well,concept/history,concept/truth,form/fragment,form/history,character/don_quixote,character/sunday,character/tolstoy"></span>
 
 
 CHAPTER IV
@@ -9989,7 +9989,7 @@ altrimenti lo svolgimento di questa storia avrebbe potuto essere disastrosamente
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Don Quixote — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Don Quixote — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/silence,motif/well,concept/education,setting/oxford,character/don_quixote,character/pistol"></span>
 
 
 Olive's theory about educating the uneducated man by association
@@ -10227,7 +10227,7 @@ A pensare a come si era sbiadito il Cenacolo...
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Don Quixote — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Don Quixote — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,archetype/outsider,motif/well,concept/courage,concept/democracy,concept/doubt,concept/fear,concept/freedom,concept/mercy,concept/paradox,concept/truth,character/christ,character/don_quixote,character/little_nell,character/queen"></span>
 
 
 Braintree assented civilly, having no very special knowledge
@@ -10507,7 +10507,7 @@ su una parola?»
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Don Quixote — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Don Quixote — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/nature,motif/sleep,motif/well,concept/madness,concept/melancholy,concept/nature,concept/slavery,character/don_quixote,character/hamlet"></span>
 
 
 "No, I don't, since you ask me," he said, gruffly.
@@ -10689,7 +10689,7 @@ nulla di ciò che hanno appreso una volta.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Don Quixote — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Don Quixote — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/garden,motif/great_house,motif/home,motif/lion,motif/love,motif/secrets,motif/silence,motif/well,concept/longing,concept/pride,concept/self,concept/slavery,concept/wonder,character/bottom,character/don_quixote"></span>
 
 
 CHAPTER V
@@ -10897,7 +10897,7 @@ La residenza di campagna di Seawood, bella com'era e remota come sembrava, dista
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Don Quixote — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Don Quixote — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/time,motif/well,concept/forgiveness,concept/self,concept/truth,form/parable,character/don_quixote"></span>
 
 
 "Mind if I share your omnibus?" asked Murrel, sinking on a
@@ -11082,7 +11082,7 @@ Col degno scopo di accelerare così il servizio dei veicoli pubblici, Murrel par
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Don Quixote — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Don Quixote — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,motif/dawn,motif/dust,motif/fire,motif/garden,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/hope,form/allegory,form/satire,setting/london,character/don_quixote"></span>
 
 
 So far as the eddying hubbub had any centre, there seemed
@@ -11237,7 +11237,7 @@ Ma non aveva ancora finito con gli scherzi pratici quel giorno; poiché mentre t
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Don Quixote — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Don Quixote — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/garden,motif/lion,motif/night,motif/sleep,motif/time,motif/well,concept/education,concept/history,concept/hope,concept/truth,concept/wonder,form/history,character/don_quixote,character/michael,character/richard"></span>
 
 
 CHAPTER VI
@@ -11423,7 +11423,7 @@ Uscì in fretta dalla stanza e tornò dopo circa cinque minuti recando un vassoi
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Don Quixote — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Don Quixote — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/dawn,motif/garden,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/despair,concept/wonder,form/fragment,character/don_quixote"></span>
 
 
 The librarian looked a little puzzled.  Then he said:
@@ -11591,7 +11591,7 @@ Olive Ashley era per certi versi una persona singolare; descritta dai suoi amici
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Don Quixote — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Don Quixote — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/fire,motif/garden,motif/rose,motif/time,motif/well,motif/window,concept/doubt,concept/wonder,form/fragment,character/don_quixote"></span>
 
 
 "[[Well]], [[Well|well]]," Murrel had said, for he was a universal peace-maker,
@@ -11721,7 +11721,7 @@ Herne trasalì come da una trance e disse: «Chiedo scusa».
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Don Quixote — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Don Quixote — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/king,archetype/monster,archetype/villain,motif/desire,motif/leaves,motif/lion,motif/love,motif/soul,motif/time,motif/well,concept/apocalypse,concept/beauty,concept/jealousy,concept/suffering,setting/london,character/don_quixote,character/richard"></span>
 
 
 CHAPTER VII
@@ -11900,7 +11900,7 @@ Nella sua foga Olive Ashley gli era sfrecciata accanto dentro la biblioteca, sen
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Don Quixote — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Don Quixote — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/crown,motif/love,motif/marriage,motif/memory,motif/time,motif/well,motif/winter,concept/history,concept/hope,concept/reconciliation,form/blank_verse,form/history,setting/castle,setting/court,character/don_quixote,character/king_of_france,character/michael,character/queen,character/richard"></span>
 
 
 The climax was not a bad piece of amateur drama.  When Blondel the
@@ -12029,7 +12029,7 @@ Tale era la commedia di «Blondel il Trovatore», non del tutto un cattivo esemp
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Don Quixote — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Don Quixote — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/king,motif/dance,motif/garden,motif/night,motif/time,concept/body,concept/freedom,concept/honour,form/tragedy,character/don_quixote"></span>
 
 
 "I think he's a long [[Time|time]] coming to the point," replied Archer.
@@ -12186,7 +12186,7 @@ Gli altri non avevano ancora cominciato a guardare avanti, e la dama vacillava a
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Don Quixote — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Don Quixote — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/king,archetype/monster,motif/love,motif/night,motif/silence,motif/soul,motif/well,concept/identity,concept/wonder,character/don_quixote,character/king_arthur,character/richard"></span>
 
 
 "But how can we go on with it?" asked Rosamund in exasperation.
@@ -12330,7 +12330,7 @@ E, di fatto, non appena ebbe messo piede fuori dall'antica porta gotica di Seawo
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Don Quixote — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Don Quixote — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/horse,motif/journey,motif/night,motif/spring,motif/well,concept/ambition,concept/doubt,concept/hope,concept/truth,concept/wonder,character/don_quixote"></span>
 
 
 CHAPTER VIII
@@ -12494,7 +12494,7 @@ A intervalli, nella calca strisciante, si imbatteva in grossi uomini affabili ch
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Don Quixote — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Don Quixote — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/dreams,motif/dust,motif/lion,motif/love,motif/memory,motif/rose,motif/soul,motif/time,concept/education,concept/honour,concept/reform,concept/resignation,concept/truth,form/fragment,form/sketch,setting/london,setting/new_york,character/don_quixote"></span>
 
 
 "How much more convenient it is," he said to himself cheerfully,
@@ -12628,7 +12628,7 @@ La giovane donna lo fissò per qualche secondo; e sul suo volto c'era esattament
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Don Quixote — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Don Quixote — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/humility,concept/pride,concept/truth,concept/vanity,form/melodrama,character/don_quixote"></span>
 
 
 The way of the conscientious modern novelist is hard; or rather
@@ -12761,7 +12761,7 @@ Il direttore, per quanto accorto, aveva una sua [[Vanity|vanità]] in tali cose,
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Don Quixote — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Don Quixote — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/grave,motif/poison,motif/prison,motif/road,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,concept/wonder,form/novel,character/don_quixote"></span>
 
 
 "He kept a little shop in the Haymarket but I believe that it was
@@ -13107,7 +13107,7 @@ e in ogni occasione ne uscì con aria piuttosto arcigna.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Don Quixote — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Don Quixote — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/detective,motif/city,motif/time,motif/well,concept/democracy,concept/suicide,concept/truth,setting/london,character/don_quixote"></span>
 
 
 CHAPTER IX
@@ -13233,7 +13233,7 @@ A poco a poco, venne fuori che era un medico, un dottore con una specie di dirit
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Don Quixote — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Don Quixote — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/journey,motif/nature,motif/rose,motif/water,motif/wind,motif/window,concept/nature,character/don_quixote"></span>
 
 
 Murrel having, by this circuitous route, at last reached his [[Desire|desire]],
@@ -13387,7 +13387,7 @@ Si [[Rose|levò]] sulle gambe sottili e vacillanti e andò senza una parola a un
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Don Quixote — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Don Quixote — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/decay,motif/silence,motif/window,concept/history,concept/wonder,form/history,character/don_quixote"></span>
 
 
 Murrel resumed his enquiry.
@@ -13572,7 +13572,7 @@ Un vago presentimento del probabile stato delle cose cominciò ad affiorargli ne
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Don Quixote — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Don Quixote — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/moon,motif/road,motif/time,motif/well,motif/window,character/don_quixote"></span>
 
 
 "It's been like that all along," she said.  "First they kick
@@ -13745,7 +13745,7 @@ Il [[cabman|cocchiere]] rimase ancor più sorpreso quando il suo nuovo compagno 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Don Quixote — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Don Quixote — Chapter 9 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/horse,motif/leaves,motif/road,motif/time,form/tragedy,setting/court,character/don_quixote"></span>
 
 
 Murrel was not entirely unacquainted with the scientific regulation,
@@ -13849,7 +13849,7 @@ C'era qualcosa di macabro nell'avanzare della carrozza che arrancava su per le v
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Don Quixote — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Don Quixote — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/grave,motif/nature,motif/silence,motif/time,motif/well,motif/window,concept/body,concept/melancholy,concept/nature,character/don_quixote"></span>
 
 
 CHAPTER X
@@ -14082,7 +14082,7 @@ trova triste necessità di dover contenere.»
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Don Quixote — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Don Quixote — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/crown,motif/nature,motif/time,motif/well,concept/body,concept/courage,concept/doubt,concept/fear,concept/history,concept/nature,concept/self,form/history,character/don_quixote"></span>
 
 
 At this moment the [[Body|body]] of our humiliation was again
@@ -14298,7 +14298,7 @@ di trovare esatto il proprio calcolo.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Don Quixote — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Don Quixote — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/monster,motif/desert,motif/home,motif/prison,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/history,concept/imagination,form/history,histref/bible,setting/desert,setting/oxford,character/don_quixote"></span>
 
 
 Dr. Hendry, once famous in the artistic world, walked out between
@@ -14612,7 +14612,7 @@ qualche [[Time|volta]]...?»
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Don Quixote — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Don Quixote — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/artist,archetype/king,archetype/shadow,motif/crown,motif/garden,motif/grave,motif/memory,motif/stars,concept/democracy,concept/humility,character/don_quixote,character/king_of_france,character/michael"></span>
 
 
 CHAPTER XI
@@ -14805,7 +14805,7 @@ Dopo una pausa proseguì: «Non intendo un grande uomo di teatro come Garrick o 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Don Quixote — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Don Quixote — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/well,concept/education,concept/exile,concept/melancholy,form/blank_verse,character/don_quixote,character/michael"></span>
 
 
 "And spoke those silly verses, you were going to say,"
@@ -14996,7 +14996,7 @@ Herne d'un tratto aggrottò le sopracciglia sull'altro con un'espressione fissa 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Don Quixote — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Don Quixote — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/dreams,motif/time,motif/wind,motif/window,concept/doubt,concept/wonder,character/don_quixote,character/robin_hood"></span>
 
 
 "I dare say," said the librarian thoughtfully, "that was why
@@ -15156,7 +15156,7 @@ Braintree sollevò lentamente la testa e guardò fisso l'altro uomo. «Simili de
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Don Quixote — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Don Quixote — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/lion,motif/love,motif/pain,motif/storm,motif/summer,motif/time,motif/well,motif/wind,concept/hope,concept/madness,character/don_quixote,character/michael,character/richard"></span>
 
 
 CHAPTER XII
@@ -15428,7 +15428,7 @@ ma era di quel genere che fa sentire gli altri nervosi e li spinge a scusarsi.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Don Quixote — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Don Quixote — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,motif/cave,motif/city,motif/garden,motif/grave,motif/love,motif/summer,motif/time,motif/well,motif/window,concept/history,concept/hope,form/history,setting/london,setting/mountains,character/don_quixote"></span>
 
 
 But Rosamund never felt nervous and did not think of apologising;
@@ -15654,7 +15654,7 @@ di uno che ascolta con gravità un rapporto portato al quartier generale.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Don Quixote — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Don Quixote — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/rebel,motif/garden,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/hope,concept/self,concept/union,form/fragment,character/don_quixote"></span>
 
 
 "The trouble is," said the Prime Minister, "that their side
@@ -15848,7 +15848,7 @@ su cui pareva fosse scritto qualcosa.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Don Quixote — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Don Quixote — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/fool,archetype/king,archetype/shadow,motif/crown,motif/dreams,motif/grave,motif/nature,motif/river,motif/summer,motif/time,motif/well,concept/beauty,concept/despair,concept/doubt,concept/madness,concept/nature,concept/paradox,concept/reform,character/don_quixote,character/richard"></span>
 
 
 CHAPTER XIII
@@ -16108,7 +16108,7 @@ In tutte queste posizioni è assai coscienziosa e assai priva di scrupoli.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Don Quixote — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Don Quixote — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/dance,motif/ghosts,motif/hill,motif/lion,motif/love,motif/memory,motif/moon,motif/time,motif/well,concept/beauty,concept/courage,character/don_quixote,character/richard,character/ulysses,character/valentine"></span>
 
 
 It was characteristic of Rosamund that she had always been not
@@ -16330,7 +16330,7 @@ che l'età della cavalleria era tramontata.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Don Quixote — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Don Quixote — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/death,motif/desire,motif/garden,motif/ghosts,motif/love,motif/silence,motif/summer,concept/hope,character/apollo,character/don_quixote,character/sunday"></span>
 
 
 Needless to say, most of the people who received these missives
@@ -16562,7 +16562,7 @@ né destare risposta alcuna.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Don Quixote — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Don Quixote — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/garden,motif/home,motif/horse,motif/rose,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/democracy,concept/grotesque,concept/history,form/history,histref/puritanism,character/don_quixote"></span>
 
 
 "I simply don't know what to say," he said desperately.
@@ -16815,7 +16815,7 @@ avevano così a lungo affamato del festino degli occhi e della fantasia.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Don Quixote — Chapter 13 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Don Quixote — Chapter 13 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/prophet,motif/dawn,motif/lion,motif/memory,motif/nature,motif/time,motif/well,concept/greatness,concept/honour,concept/loneliness,concept/nature,concept/resurrection,form/masque,character/don_quixote,character/richard,character/robin_hood"></span>
 
 
 As it was more than a pageant, it was more than a fashion;
@@ -17033,7 +17033,7 @@ del tramonto e dell'[[Dawn|alba]].
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Don Quixote — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Don Quixote — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/prayer,motif/time,motif/well,concept/ambition,concept/history,concept/paradox,form/history,character/don_quixote,character/michael"></span>
 
 
 CHAPTER XIV
@@ -17263,7 +17263,7 @@ se a lui piace prepararmeli.»
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Don Quixote — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Don Quixote — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/cross,motif/dance,motif/death,motif/dreams,motif/lion,motif/memory,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/faith,concept/honour,concept/madness,concept/self,character/don_quixote,character/michael,character/richard"></span>
 
 
 The next week brought the news of two great elections:
@@ -17499,7 +17499,7 @@ ripete le opinioni di qualcun altro.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Don Quixote — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Don Quixote — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/horse,motif/road,motif/tears,motif/time,motif/well,concept/doubt,setting/court,setting/london,character/arthur,character/don_quixote,character/king_arthur"></span>
 
 
 But Olive was looking from the high lawn up the long white [[Road|road]]
@@ -17755,7 +17755,7 @@ Era come se avesse udito d'improvviso la voce di suo padre.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Don Quixote — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Don Quixote — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/artist,archetype/king,archetype/monster,motif/garden,motif/horse,motif/silence,motif/sleep,motif/time,motif/well,concept/doubt,setting/court,character/don_quixote"></span>
 
 
 "How on earth did you find this?" she cried, in a very
@@ -17995,7 +17995,7 @@ Ed ecco fatto. Ecco, per così dire, come [[Well|dannatamente]] stanno le cose.�
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Don Quixote — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Don Quixote — Chapter 14 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/orphan,archetype/tyrant,motif/cave,motif/death,motif/insects,motif/lion,motif/love,motif/machine,motif/silence,motif/time,concept/education,concept/faith,concept/history,form/history,histref/bible,character/don_quixote,character/king_john,character/michael,character/richard,character/sunday"></span>
 
 
 This peroration also fell into an abyss of [[Silence|silence]]; but after the [[Silence|silence]]
@@ -18285,7 +18285,7 @@ e alla causa della vedova e dell'[[Orphan|orfano]].
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Don Quixote — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Don Quixote — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/fire,motif/flag,motif/moon,motif/pain,motif/road,motif/time,concept/conscience,concept/history,concept/paradox,concept/self,concept/truth,form/history,histref/french_revolution,character/don_quixote"></span>
 
 
 CHAPTER XV
@@ -18499,7 +18499,7 @@ Alcuni dicevano persino che era al soldo dei capitalisti.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Don Quixote — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Don Quixote — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/cross,motif/love,motif/silence,motif/time,motif/uncanny,concept/friendship,concept/history,concept/uncanny,concept/union,form/history,setting/court,character/don_quixote"></span>
 
 
 For never in any newspaper or book or magazine of modern England had
@@ -18754,7 +18754,7 @@ Io non sto seguendo un uomo rivoluzionario.»
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Don Quixote — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Don Quixote — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/death,motif/love,motif/silence,motif/time,motif/well,concept/paradox,concept/renunciation,concept/resurrection,concept/truth,form/epic,setting/court,character/don_quixote"></span>
 
 
 There was again a long [[Silence|silence]]; the sort of [[Silence|silence]] which endures
@@ -19015,7 +19015,7 @@ Aveva odiato tutto il suo mondo tanto più per non odiare lei.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Don Quixote — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Don Quixote — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/king,archetype/monster,archetype/rebel,archetype/shadow,motif/dreams,motif/flag,motif/garden,motif/love,motif/memory,motif/storm,motif/time,motif/well,concept/doubt,setting/court,character/don_quixote,character/michael"></span>
 
 
 But with a man like [[Michael]] Herne the whole of this process
@@ -19251,7 +19251,7 @@ ma verranno eccome alla [[Court|Corte]].»
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="Don Quixote — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="Don Quixote — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/love,motif/rose,motif/wind,concept/reconciliation,concept/truth,setting/court,setting/mountains,character/don_quixote"></span>
 
 
 "They will come!" she repeated in some excitement.
@@ -19423,7 +19423,7 @@ incombeva una nube oscura di separazione e divisione e destino.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Don Quixote — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Don Quixote — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/road,motif/soul,motif/summer,concept/courage,concept/education,concept/history,concept/imagination,concept/suffering,concept/wonder,form/history,character/don_quixote"></span>
 
 
 CHAPTER XVI
@@ -19596,7 +19596,7 @@ Non è certo che neppure allora il suo venerabile compagno vittoriano fosse inte
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Don Quixote — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Don Quixote — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/hero,archetype/tyrant,motif/night,motif/soul,motif/well,concept/history,form/history,setting/court,setting/mountains,character/don_quixote,character/michael"></span>
 
 
 "You know what I mean," answered the other good-humouredly. "A statesman.
@@ -19777,7 +19777,7 @@ somewhat distressing to him.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Don Quixote — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Don Quixote — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/silence,motif/well,concept/education,concept/friendship,setting/court,character/arthur,character/don_quixote,character/hubert,character/michael"></span>
 
 
 "I know what you are feeling like, [[Michael]]," she said.
@@ -19944,7 +19944,7 @@ Un mormorio d'approvazione ruppe fra i suoi seguaci; e Braintree, dall'altra par
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Don Quixote — Chapter 16 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Don Quixote — Chapter 16 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/rose,motif/time,concept/self,setting/court,character/don_quixote"></span>
 
 
 The face of Douglas Murrel had worn for some [[Time|time]] a lively and
@@ -20058,7 +20058,7 @@ La [[Court|Corte]] parve non far caso all'interruzione o al rimprovero; ma chiun
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Don Quixote — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Don Quixote — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,motif/well,concept/body,concept/despair,concept/doubt,concept/history,form/history,setting/court,character/don_quixote"></span>
 
 
 CHAPTER XVII
@@ -20198,7 +20198,7 @@ Poi nominò di nuovo i tre formalmente e per esteso con voce dura; ma sul nome d
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Don Quixote — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Don Quixote — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/nature,motif/silence,motif/time,concept/fear,concept/nature,concept/truth,setting/court,character/don_quixote"></span>
 
 
 Old Seawood sprang up as if galvanised; and a simple sort of vainglory
@@ -20378,7 +20378,7 @@ Il riso si era spento, ma il rumore era anche più forte; non vi era ora più tr
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Don Quixote — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Don Quixote — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/horse,motif/lightning,motif/memory,motif/night,motif/rose,motif/silence,motif/stars,motif/time,motif/well,concept/beauty,concept/grotesque,concept/resurrection,concept/sublime,concept/truth,character/don_quixote"></span>
 
 
 "[[Well]]," gasped Archer, "and how long is this to be allowed."
@@ -20624,7 +20624,7 @@ E tuttavia, benché quella torreggiante e vacillante appendice d'assurdità foss
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Don Quixote — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Don Quixote — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,archetype/shadow,motif/city,motif/desert,motif/garden,motif/home,motif/love,motif/moon,motif/road,motif/rose,motif/soul,motif/time,motif/well,concept/paradox,concept/pride,concept/reconciliation,concept/truth,setting/desert,character/don_quixote,character/michael"></span>
 
 
 CHAPTER XVIII
@@ -20818,7 +20818,7 @@ Poi si guardò intorno, come quasi spaventata dalla quiete, l'improvvisa e total
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Don Quixote — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Don Quixote — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,archetype/monster,archetype/shadow,motif/death,motif/love,motif/moon,motif/road,motif/silence,motif/spring,motif/time,concept/honour,concept/hope,concept/loneliness,concept/truth,concept/wonder,form/tragedy,setting/court,character/don_quixote,character/michael"></span>
 
 
 Suddenly and silently, as with a sort of soft shock, she came upon
@@ -21048,7 +21048,7 @@ Egli rise brevemente e uscirono lungo la grigia [[Road|strada]] verso Milldyke.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Don Quixote — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Don Quixote — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/road,motif/rose,motif/time,concept/history,concept/hope,concept/nature,concept/paradox,form/history,histref/renaissance,character/don_quixote"></span>
 
 
 CHAPTER XIX
@@ -21215,7 +21215,7 @@ Quel complimento era forse l'unica cosa che avrebbe potuto pungolarlo a parlare 
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Don Quixote — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Don Quixote — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/lightning,motif/night,motif/time,motif/well,motif/wind,motif/window,concept/melancholy,concept/truth,character/don_quixote,character/michael,character/nurse"></span>
 
 
 "Did you tell her so?" asked Herne in his obvious manner.
@@ -21407,7 +21407,7 @@ Fu poco più di tre mesi dopo che il procedere dei lunatici giunse alla sua meta
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Don Quixote — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Don Quixote — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/crown,motif/dreams,motif/garden,motif/silence,motif/time,concept/conversion,concept/history,concept/wonder,form/history,form/melodrama,form/tragedy,character/don_quixote,character/michael,character/monks,character/nurse"></span>
 
 
 So much was that great thirst for colour, which had filled

@@ -907,7 +907,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1" data-title="Pericles — Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_1" data-title="Pericles — Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/city,motif/death,motif/desert,motif/desire,motif/dust,motif/fire,motif/flowers,motif/love,motif/marriage,motif/mirror,motif/nature,motif/night,motif/poison,motif/soul,motif/spring,motif/stars,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,concept/mercy,concept/mortality,concept/nature,concept/self,form/riddle,setting/desert,character/antiochus,character/gower,character/pericles,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -968,7 +968,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2" data-title="Pericles — Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_2" data-title="Pericles — Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/death,motif/love,motif/night,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/charity,concept/courage,concept/doubt,concept/faith,concept/fear,concept/honour,concept/melancholy,concept/truth,concept/wonder,setting/court,character/antiochus,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1004,7 +1004,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_3" data-title="Pericles — Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_3" data-title="Pericles — Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/death,motif/desire,motif/home,motif/secrets,motif/ship,motif/well,setting/court,setting/ship,character/antiochus,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1026,7 +1026,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_4" data-title="Pericles — Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_4" data-title="Pericles — Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/fire,motif/grave,motif/horse,motif/love,motif/stars,motif/tears,concept/fear,concept/hope,concept/poverty,concept/pride,character/cleon,character/dionyza,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1061,7 +1061,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_5" data-title="Pericles — Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_5" data-title="Pericles — Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,motif/bells,motif/death,motif/desire,motif/grave,motif/home,motif/jewel,motif/journey,motif/lightning,motif/love,motif/nature,motif/ship,motif/soul,motif/stars,motif/well,motif/wind,concept/faith,concept/greatness,concept/honour,concept/hope,concept/nature,setting/court,setting/ship,character/cleon,character/gower,character/pericles,character/simonides"></span>
 
 
 | Speaker | Line |
@@ -1135,7 +1135,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_6" data-title="Pericles — Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_6" data-title="Pericles — Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,motif/desire,motif/dust,motif/nature,motif/well,concept/beauty,concept/faith,concept/honour,concept/nature,concept/wonder,character/pericles,character/simonides,character/thaisa,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1188,7 +1188,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_7" data-title="Pericles — Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_7" data-title="Pericles — Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/dance,motif/desire,motif/fire,motif/grave,motif/love,motif/marriage,motif/night,motif/stars,motif/time,motif/well,concept/education,concept/honour,concept/hope,concept/melancholy,concept/self,concept/wonder,setting/court,character/pericles,character/queen,character/simonides,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1247,7 +1247,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_8" data-title="Pericles — Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_8" data-title="Pericles — Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/crown,motif/death,motif/fire,motif/grave,motif/love,motif/night,motif/sleep,motif/time,concept/greatness,concept/honour,concept/pride,concept/self,character/antiochus,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1288,7 +1288,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_9" data-title="Pericles — Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_9" data-title="Pericles — Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/rebel,motif/blood,motif/desert,motif/desire,motif/leaves,motif/love,motif/night,motif/summer,motif/well,concept/ambition,concept/courage,concept/faith,concept/honour,concept/hope,setting/court,setting/desert,character/cynthia,character/diana,character/pericles,character/simonides,character/thaisa,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1351,7 +1351,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_10" data-title="Pericles — Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_10" data-title="Pericles — Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="topos/quest,archetype/child,archetype/king,motif/cross,motif/crown,motif/desire,motif/home,motif/horse,motif/marriage,motif/ship,motif/sleep,motif/storm,motif/time,motif/well,concept/fear,concept/imagination,setting/court,setting/ship,character/antiochus,character/gower,character/nurse,character/pericles,character/queen,character/simonides,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1364,7 +1364,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_11" data-title="Pericles — Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_11" data-title="Pericles — Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="archetype/child,motif/death,motif/fire,motif/grave,motif/love,motif/moon,motif/nature,motif/night,motif/ship,motif/storm,motif/time,motif/water,motif/wind,concept/body,concept/courage,concept/fear,concept/honour,concept/nature,setting/ship,character/cleon,character/pericles,character/queen,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1404,7 +1404,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_12" data-title="Pericles — Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_12" data-title="Pericles — Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/death,motif/fire,motif/nature,motif/night,motif/pain,motif/time,motif/water,motif/well,concept/charity,concept/fear,concept/honour,concept/immortality,concept/nature,concept/wonder,character/apollo,character/diana,character/pericles,character/queen,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1467,7 +1467,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_13" data-title="Pericles — Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_13" data-title="Pericles — Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/child,motif/nature,motif/tears,concept/body,concept/charity,concept/fear,concept/honour,concept/nature,concept/revenge,character/cleon,character/diana,character/dionyza,character/marina,character/pericles,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1487,7 +1487,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_14" data-title="Pericles — Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_14" data-title="Pericles — Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="archetype/king,motif/time,motif/well,character/diana,character/pericles,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1501,7 +1501,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_15" data-title="Pericles — Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_15" data-title="Pericles — Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="archetype/king,archetype/monster,archetype/villain,motif/blood,motif/death,motif/desire,motif/flowers,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/prayer,motif/storm,motif/summer,motif/time,motif/well,motif/wind,concept/conscience,concept/education,concept/fear,concept/hope,concept/wonder,character/cleon,character/diana,character/dionyza,character/gower,character/marina,character/nurse,character/pericles,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1557,7 +1557,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_16" data-title="Pericles — Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_16" data-title="Pericles — Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="archetype/shadow,motif/home,motif/nature,motif/well,motif/wind,concept/beauty,concept/conscience,concept/doubt,concept/faith,concept/nature,character/diana,character/marina,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1634,7 +1634,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_17" data-title="Pericles — Scene 17" data-chapter="Scene 17" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_17" data-title="Pericles — Scene 17" data-chapter="Scene 17" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/blood,motif/cross,motif/crown,motif/moon,motif/night,motif/time,motif/well,motif/winter,character/cleon,character/dionyza,character/marina,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1656,7 +1656,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_18" data-title="Pericles — Scene 18" data-chapter="Scene 18" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_18" data-title="Pericles — Scene 18" data-chapter="Scene 18" data-kind="scene" data-tags="archetype/king,motif/garden,motif/home,motif/leaves,motif/nature,motif/spring,motif/tears,motif/time,motif/well,concept/imagination,concept/nature,character/cleon,character/dionyza,character/gower,character/marina,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1671,7 +1671,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_19" data-title="Pericles — Scene 19" data-chapter="Scene 19" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_19" data-title="Pericles — Scene 19" data-chapter="Scene 19" data-kind="scene" data-tags="motif/blood,motif/city,motif/dance,motif/desire,motif/fire,motif/home,motif/jewel,motif/nature,motif/road,motif/rose,motif/tears,motif/well,motif/white_and_red,concept/beauty,concept/doubt,concept/faith,concept/honour,concept/nature,character/marina,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1774,7 +1774,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_20" data-title="Pericles — Scene 20" data-chapter="Scene 20" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_20" data-title="Pericles — Scene 20" data-chapter="Scene 20" data-kind="scene" data-tags="motif/city,motif/nature,motif/ship,concept/nature,setting/ship,character/gower,character/marina,character/pericles"></span>
 
 
 | Speaker | Line |
@@ -1784,7 +1784,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_21" data-title="Pericles — Scene 21" data-chapter="Scene 21" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_21" data-title="Pericles — Scene 21" data-chapter="Scene 21" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/blood,motif/cross,motif/grave,motif/jewel,motif/night,motif/pain,motif/sleep,motif/time,motif/well,concept/doubt,concept/endurance,concept/faith,concept/history,concept/melancholy,concept/mortality,concept/truth,form/history,character/bottom,character/cleon,character/diana,character/marina,character/nurse,character/pericles,character/queen,character/thaisa"></span>
 
 
 | Speaker | Line |
@@ -1915,7 +1915,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_22" data-title="Pericles — Scene 22" data-chapter="Scene 22" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_22" data-title="Pericles — Scene 22" data-chapter="Scene 22" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/rebel,motif/city,motif/death,motif/marriage,motif/spring,motif/stars,motif/tears,motif/time,motif/well,concept/charity,concept/faith,concept/longing,concept/self,concept/truth,form/comedy,form/fable,form/translation,histref/ancient_rome,histref/roman_history,setting/ancient_rome,character/antiochus,character/aufidius,character/brutus,character/cleon,character/coriolanus,character/diana,character/gower,character/lucrece,character/marina,character/menenius,character/pericles,character/queen,character/sicinius,character/thaisa,character/virgilia,character/volumnia"></span>
 
 
 | Speaker | Line |

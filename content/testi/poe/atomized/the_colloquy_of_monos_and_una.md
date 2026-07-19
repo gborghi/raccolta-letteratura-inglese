@@ -717,7 +717,7 @@ nothingness, yet for all this [[Immortality|immortality]], the [[Grave|grave]] w
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Colloquy of Monos and Una (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Colloquy of Monos and Una (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/chains,motif/death,motif/love,motif/memory,motif/nature,motif/soul,motif/time,concept/democracy,concept/doubt,concept/imagination,concept/mercy,concept/nature,concept/truth,form/parable"></span>
 
 
 Μελλοντα ταυτα.—SOPHOCLES—_Antig._
@@ -931,7 +931,7 @@ Earth and Heaven—wild attempts at an omni-prevalent [[democracy|Democracy]]
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Colloquy of Monos and Una (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Colloquy of Monos and Una (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/dreams,motif/flowers,motif/grave,motif/leaves,motif/love,motif/nature,motif/noon,motif/pain,motif/poison,motif/rose,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/education,concept/history,concept/nature,concept/purification,concept/regeneration,concept/truth,form/history,setting/egypt"></span>
 
 
 were made. Yet this evil sprang necessarily from the leading
@@ -1119,7 +1119,7 @@ eyelids, transparent and bloodless, offered no complete
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Colloquy of Monos and Una (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Colloquy of Monos and Una (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/death,motif/dreams,motif/love,motif/night,motif/pain,motif/tears,motif/time,concept/melancholy,concept/truth"></span>
 
 
 impediment to vision. As volition was in abeyance, the balls
@@ -1303,7 +1303,7 @@ in holding steadily in mind the tones, and the respective
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Colloquy of Monos and Una (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Colloquy of Monos and Una (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/decay,motif/dreams,motif/dust,motif/grave,motif/home,motif/love,motif/noon,motif/prison,motif/secrets,motif/sleep,motif/soul,motif/time,concept/body,concept/eternity,concept/immortality,concept/self"></span>
 
 
 momentary errors of each. And this—this keen, perfect,

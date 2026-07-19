@@ -125,7 +125,7 @@ G.K.C.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="to-belloc (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="to-belloc (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/hill,motif/home,motif/love,motif/moon,motif/stars,motif/water,form/epic"></span>
 
 
 TO HILAIRE BELLOC  

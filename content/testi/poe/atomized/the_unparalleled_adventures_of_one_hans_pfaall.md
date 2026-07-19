@@ -4233,7 +4233,7 @@ refracted.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Unparalleled Adventures of one Hans Pfaall (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Unparalleled Adventures of one Hans Pfaall (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/crown,motif/machine,motif/nature,motif/noon,motif/well,concept/doubt,concept/nature,concept/truth,form/novel"></span>
 
 
 By late accounts from Rotterdam, that [[City|city]] seems to be in a high
@@ -4419,7 +4419,7 @@ was, would have been sufficient to destroy his equilibrium, and
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Unparalleled Adventures of one Hans Pfaall (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Unparalleled Adventures of one Hans Pfaall (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/city,motif/death,motif/nature,motif/time,motif/well,concept/body,concept/nature,concept/truth,character/bottom"></span>
 
 
 tilt him over the edge of his tiny car, but for the intervention
@@ -4603,7 +4603,7 @@ following the respectable and indeed lucrative profession of
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Unparalleled Adventures of one Hans Pfaall (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Unparalleled Adventures of one Hans Pfaall (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/memory,motif/nature,motif/night,motif/time,concept/doubt,concept/education,concept/endurance,concept/imagination,concept/nature,concept/paradox,concept/revenge,concept/suicide,concept/truth"></span>
 
 
 that the heads of all the people have been set agog with
@@ -4775,7 +4775,7 @@ eventful five years, during which I have dropped the prejudices
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Unparalleled Adventures of one Hans Pfaall (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Unparalleled Adventures of one Hans Pfaall (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/home,motif/machine,motif/nature,motif/night,motif/sleep,concept/nature,form/novel"></span>
 
 
 of my former humble situation in life, and forgotten the
@@ -4961,7 +4961,7 @@ balloon was soon completed. It would contain more than forty
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Unparalleled Adventures of one Hans Pfaall (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Unparalleled Adventures of one Hans Pfaall (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/night,motif/soul,motif/time,motif/water,concept/body,concept/doubt,concept/fear,concept/truth,character/bottom"></span>
 
 
 thousand cubic feet of gas; would take me up easily, I
@@ -5147,7 +5147,7 @@ hurled me with great force over the rim of the car, and left me
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Unparalleled Adventures of one Hans Pfaall (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Unparalleled Adventures of one Hans Pfaall (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/blood,motif/time,concept/body,concept/doubt,concept/madness,character/bottom"></span>
 
 
 dangling, at a terrific height, with my head downward, and my
@@ -5327,7 +5327,7 @@ and throat, and which had hitherto buoyed up my spirits with
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Unparalleled Adventures of one Hans Pfaall (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Unparalleled Adventures of one Hans Pfaall (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/clock,motif/moon,motif/nature,motif/ship,motif/time,motif/well,concept/body,concept/courage,concept/despair,concept/doubt,concept/endurance,concept/imagination,concept/nature,concept/self,concept/suicide,setting/ship,character/speed"></span>
 
 
 channels, and the distinctness which was thus added to my
@@ -5511,7 +5511,7 @@ perceive that these latter calculations are founded altogether on
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Unparalleled Adventures of one Hans Pfaall (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Unparalleled Adventures of one Hans Pfaall (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/journey,motif/moon,motif/nature,motif/time,concept/doubt,concept/nature,concept/unattainable,character/venus"></span>
 
 
 our experimental knowledge of the properties of air, and the
@@ -5699,7 +5699,7 @@ rate of ascent; although such should have been the case, if on
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Unparalleled Adventures of one Hans Pfaall (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Unparalleled Adventures of one Hans Pfaall (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/mirror,motif/moon,motif/nature,motif/pain,motif/ship,concept/body,concept/freedom,concept/nature,setting/ship,character/bottom"></span>
 
 
 account of nothing else, on account of the escape of gas through
@@ -5883,7 +5883,7 @@ intervals, severe [[Pain|pain]] in the head, especially about the
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Unparalleled Adventures of one Hans Pfaall (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Unparalleled Adventures of one Hans Pfaall (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/fire,motif/lightning,motif/nature,motif/night,motif/pain,motif/poison,motif/rose,motif/time,motif/well,concept/freedom,concept/imagination,concept/nature,concept/suffering,character/bottom"></span>
 
 
 ears—still, however, breathing with tolerable [[Freedom|freedom]]. The cat
@@ -6059,7 +6059,7 @@ in a very slight degree, and I found that it would soon be
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Unparalleled Adventures of one Hans Pfaall (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Unparalleled Adventures of one Hans Pfaall (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/pain,motif/sleep,motif/stars,motif/time,concept/doubt,concept/endurance,concept/suffering,concept/truth,character/bottom"></span>
 
 
 positively necessary to make use of my condenser. In the
@@ -6243,7 +6243,7 @@ whole [[Bottom|bottom]] of the car, up its sides, and so on, along the
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Unparalleled Adventures of one Hans Pfaall (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Unparalleled Adventures of one Hans Pfaall (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/clock,motif/machine,motif/time,motif/window,concept/body,concept/purification,character/bottom"></span>
 
 
 outside of the ropes, to the upper rim or hoop where the net-work
@@ -6425,7 +6425,7 @@ respiration, and bitterly did I repent the negligence or rather
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Unparalleled Adventures of one Hans Pfaall (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Unparalleled Adventures of one Hans Pfaall (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/dreams,motif/flowers,motif/moon,motif/nature,motif/pain,motif/rose,motif/soul,motif/time,motif/water,motif/wind,concept/freedom,concept/imagination,concept/melancholy,concept/nature,character/bottom,character/speed"></span>
 
 
 [[Fool|fool]]-hardiness, of which I had been guilty, of putting off to the
@@ -6609,7 +6609,7 @@ observing the cat and kittens through the valve. The cat herself
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Unparalleled Adventures of one Hans Pfaall (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Unparalleled Adventures of one Hans Pfaall (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/nature,motif/night,motif/pain,motif/sleep,motif/time,motif/water,concept/endurance,concept/hope,concept/nature,character/bottom"></span>
 
 
 appeared to suffer again very much, and I had no hesitation in
@@ -6787,7 +6787,7 @@ an invention fully equal to that of the telescope, the
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Unparalleled Adventures of one Hans Pfaall (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Unparalleled Adventures of one Hans Pfaall (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/clock,motif/nature,motif/time,motif/water,concept/nature,character/bottom"></span>
 
 
 steam-engine, or the art of printing itself.
@@ -6975,7 +6975,7 @@ darker hue than the waters of the ocean. I was evidently
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Unparalleled Adventures of one Hans Pfaall (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Unparalleled Adventures of one Hans Pfaall (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="motif/clock,motif/moon,motif/nature,motif/night,motif/time,concept/doubt,concept/nature,concept/truth,histref/america,setting/america"></span>
 
 
 approaching it, and with great rapidity. Fancied I could again
@@ -7161,7 +7161,7 @@ and arrived, at nine P.M., over the northern edge of the Mexican
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Unparalleled Adventures of one Hans Pfaall (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Unparalleled Adventures of one Hans Pfaall (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="motif/clock,motif/moon,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/doubt,concept/nature,concept/suffering,form/fragment"></span>
 
 
 Gulf.
@@ -7357,7 +7357,7 @@ subtend no less than thirty-nine degrees in apparent angular
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Unparalleled Adventures of one Hans Pfaall (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Unparalleled Adventures of one Hans Pfaall (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="motif/moon,motif/river,motif/soul,motif/time,motif/water,concept/body,concept/doubt,setting/mountains,character/speed"></span>
 
 
 diameter! I was thunderstruck! No words can give any adequate
@@ -7539,7 +7539,7 @@ exhibiting its farthest extremity faintly illuminated by the
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Unparalleled Adventures of one Hans Pfaall (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Unparalleled Adventures of one Hans Pfaall (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/moon,motif/time,motif/water,setting/paris"></span>
 
 
 solar rays, before any part of the dark hemisphere was visible.
@@ -7723,7 +7723,7 @@ most extraordinary, and the most momentous, ever accomplished,
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Unparalleled Adventures of one Hans Pfaall (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Unparalleled Adventures of one Hans Pfaall (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="motif/city,motif/death,motif/home,motif/moon,motif/water,motif/well,concept/body,concept/doubt,concept/mercy,concept/truth,character/dwarf"></span>
 
 
 undertaken, or conceived by any denizen of earth. But my
@@ -7921,7 +7921,7 @@ Thirdly. That the newspapers which were stuck all over the little
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Unparalleled Adventures of one Hans Pfaall (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Unparalleled Adventures of one Hans Pfaall (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="archetype/villain,motif/birds,motif/city,motif/desire,motif/flowers,motif/moon,motif/nature,motif/water,motif/well,concept/imagination,concept/nature,histref/bible,setting/new_york"></span>
 
 
 balloon were newspapers of Holland, and therefore could not have
@@ -8131,7 +8131,7 @@ gibbous [[Moon|moon]]) where this boundary crosses any of the dark places,
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Unparalleled Adventures of one Hans Pfaall (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Unparalleled Adventures of one Hans Pfaall (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="motif/animals,motif/moon,motif/nature,motif/night,motif/stars,motif/time,motif/well,concept/nature,setting/paris,character/saturn"></span>
 
 
 the line of division is found to be rough and jagged; but, were
@@ -8331,7 +8331,7 @@ and which occupy the first thirty pages, the author relates that,
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Unparalleled Adventures of one Hans Pfaall (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Unparalleled Adventures of one Hans Pfaall (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="archetype/hero,motif/birds,motif/hill,motif/home,motif/journey,motif/machine,motif/memory,motif/moon,motif/nature,motif/night,motif/pain,motif/stars,motif/time,motif/well,concept/nature,character/helena,character/saturn"></span>
 
 
 being ill during a sea voyage, the crew abandoned him, together

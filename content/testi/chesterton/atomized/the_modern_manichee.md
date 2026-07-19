@@ -121,7 +121,7 @@ G K Chesterton.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Modern_Manichee (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Modern_Manichee (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,archetype/tyrant,motif/blood,motif/dust,motif/pain,motif/water,concept/conscience,concept/guilt,concept/pride"></span>
 
 
 # The Modern Manichee

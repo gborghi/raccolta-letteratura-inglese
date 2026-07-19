@@ -9108,7 +9108,8 @@ Una [[Storm|tempesta]] sta arrivando sui Chiltern Hills.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/king,archetype/shadow,motif/bells,motif/blood,motif/city,motif/cross,motif/dance,motif/death,motif/decay,motif/flag,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/horse,motif/leaves,motif/lion,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/road,motif/silence,motif/soul,motif/stars,motif/tears,motif/water,motif/wind,motif/winter,concept/endurance,concept/fear,concept/history,concept/honour,concept/suicide,concept/truth,concept/wonder,form/biography,form/epic,form/history,form/hymn,form/sonnet,form/translation,setting/italy,setting/mountains,setting/new_york,character/ariel,character/christ,character/don_john,character/don_john_of_austria,character/edmund,character/father_brown,character/jones,character/michael,character/pistol,character/queen,character/richard"></span>
+
 
 
 
@@ -10249,7 +10250,7 @@ Ma [[Don John of Austria|Don Giovanni d'Austria]] cavalca verso il mare.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Poems (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Poems (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/chains,motif/city,motif/cross,motif/crown,motif/dance,motif/death,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/love,motif/mirror,motif/moon,motif/night,motif/poison,motif/road,motif/ship,motif/silence,motif/soul,motif/stars,motif/tears,motif/wind,motif/window,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/honour,concept/mercy,concept/pride,concept/truth,setting/castle,setting/italy,setting/paris,setting/ship,character/christ,character/don_john,character/don_john_of_austria,character/queen"></span>
 
 
 Crying with the trumpet, with the trumpet of his lips,  
@@ -11401,7 +11402,7 @@ sotto la verga del [[deluge|diluvio]],
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Poems (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Poems (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/blood,motif/chains,motif/city,motif/dance,motif/death,motif/desire,motif/fire,motif/flowers,motif/garden,motif/hill,motif/home,motif/leaves,motif/lightning,motif/lion,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/road,motif/rose,motif/ship,motif/snow,motif/soul,motif/spring,motif/stars,motif/time,motif/well,concept/eternity,concept/fear,concept/honour,concept/hope,concept/mercy,concept/pride,concept/truth,concept/wonder,setting/london,setting/ship,character/christ"></span>
 
 
 One nameless, tattered, broken man  
@@ -12661,7 +12662,7 @@ Le cui ali sono più larghe del mondo. Non è Lui, ma noi.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Poems (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Poems (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/prophet,archetype/shadow,archetype/tyrant,motif/blood,motif/city,motif/crown,motif/dawn,motif/death,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/frost,motif/hill,motif/leaves,motif/lion,motif/love,motif/memory,motif/night,motif/sleep,motif/snow,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/greed,concept/honour,concept/hope,concept/humility,concept/pride,form/hymn,character/cain"></span>
 
 
 Less gold shall go astray, we say, less gold, if thus we choose,  
@@ -13845,7 +13846,7 @@ il risuonare dei chiodi ribaditi, lo stridere dei pialli;
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Poems (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Poems (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/cross,motif/crown,motif/dawn,motif/death,motif/hill,motif/pain,motif/rose,motif/silence,motif/soul,motif/supernatural,motif/time,motif/water,motif/well,concept/apocalypse,concept/body,concept/conscience,concept/democracy,concept/doubt,concept/freedom,concept/history,concept/hope,concept/mercy,concept/truth,form/history,form/riddle,histref/islam,character/clifford,character/jones,character/speed"></span>
 
 
 The hammering on the roofs at morn, the busy workshop roar;  
@@ -15081,7 +15082,7 @@ Che tagliò la gola ai ladri in ogni terra.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Poems (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Poems (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/king,archetype/shadow,motif/bells,motif/blood,motif/city,motif/dance,motif/dawn,motif/death,motif/desert,motif/desire,motif/fire,motif/flag,motif/flowers,motif/garden,motif/grave,motif/horse,motif/leaves,motif/lightning,motif/road,motif/silence,motif/sleep,motif/soul,motif/spring,motif/well,motif/wheel,concept/body,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/honour,concept/hope,concept/pride,concept/reform,concept/truth,form/sonnet,setting/battlefield,setting/desert,character/cain,character/christ"></span>
 
 
 Heed not if half-wits mock your broken blade:  
@@ -16197,7 +16198,7 @@ Son nostre le nostre gambe, padrone? le ruote corrono senza--
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="Poems (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Poems (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/chains,motif/crown,motif/death,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/rose,motif/sleep,motif/soul,motif/stars,motif/well,concept/despair,concept/fear,concept/freedom,concept/greed,concept/honour,concept/hope,concept/nature,concept/pride,concept/truth,form/translation,setting/russia,character/ulysses"></span>
 
 
 Prove the points are delicate--they will understand.  
@@ -17305,7 +17306,7 @@ fra gli uomini spezzati.
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="Poems (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="Poems (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="topos/quest,archetype/hero,motif/autumn,motif/blood,motif/crown,motif/dawn,motif/death,motif/decay,motif/dreams,motif/dust,motif/flag,motif/flowers,motif/garden,motif/hill,motif/lightning,motif/love,motif/night,motif/prison,motif/road,motif/rose,motif/silence,motif/soul,motif/stars,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/suicide,histref/dante,character/queen"></span>
 
 
 Still he that [[Dreams|dreams]] and rambles  

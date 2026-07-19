@@ -4997,7 +4997,7 @@ THE SPICE OF LIFE.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_spice_of_life" data-title="Spice Of Life — Part 5: The Spice of Life" data-chapter="The Spice of Life" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_spice_of_life" data-title="Spice Of Life — Part 5: The Spice of Life" data-chapter="The Spice of Life" data-kind="chapter" data-tags="motif/nature,motif/well,concept/hope,concept/nature,form/epic,form/essay,form/sonnet,form/tragedy,character/aquinas"></span>
 
 
 Part Five:  The Spice of Life
@@ -5095,7 +5095,7 @@ of the Year.  Vedi pp.  173-5 per tutte le fonti.
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_01" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 1)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_01" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 1)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="concept/sentimentality,concept/hero_worship,concept/vulgarity,concept/masculinity,form/essay,form/literary_criticism,character/nietzsche"></span>
 
 
 PART ONE:  LITERATURE IN GENERAL
@@ -5224,7 +5224,7 @@ Questo, dunque, si può dire dei vizi del sentimentalismo popolare: che almeno s
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_02" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 2)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_02" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 2)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/sentimentality,concept/crime_and_punishment,form/essay,form/literary_criticism,form/detective_fiction"></span>
 
 
 And of its merits there is surely something to be said:
@@ -5349,7 +5349,7 @@ Il primo e fondamentale principio è che lo scopo di un racconto di mistero, com
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_03" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 3)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_03" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 3)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="motif/horse,concept/ratiocination_detection,concept/crime_and_punishment,form/essay,form/literary_criticism,form/detective_fiction,character/sherlock_holmes"></span>
 
 
 The second great principle is that the soul of detective fiction
@@ -5477,7 +5477,7 @@ Questo lo chiamerei il quarto principio da ricordare, poiché, come negli altri 
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_04" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 4)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_04" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 4)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="motif/grave,motif/well,form/satire"></span>
 
 
 Lastly the principle that the detective story like every literary
@@ -5587,7 +5587,7 @@ Nondimeno rimane attaccata alla parola [[Humour|Umorismo]], specialmente quando 
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_05" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 5)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_05" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 5)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="concept/wit,form/essay,form/literary_criticism,form/comedy,form/fairy_tale,histref/ancient_greece,character/odysseus,character/job"></span>
 
 
 If there be so much of enlightenment to be gathered from the history
@@ -5765,7 +5765,7 @@ Dopo queste due prime espressioni, lo scherzo pratico del racconto popolare e il
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_06" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 6)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_06" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 6)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/soul,concept/greed,form/novel,histref/french_revolution"></span>
 
 
 FICTION AS FOOD
@@ -5902,7 +5902,7 @@ Fui un grande lettore di romanzi finché non cominciai a recensirli, dopodiché 
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_07" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 7)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_07" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 7)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/lightning,motif/rose,motif/soul,motif/time,concept/imagination,concept/madness,concept/solitude,concept/truth,form/novel,character/sunday"></span>
 
 
 But about my early [[Novel|novel]] reading I was as thrifty as a French peasant--
@@ -6047,7 +6047,7 @@ PENSO che fosse quello scrittore assai fine e sottile, Vernon Lee, a cadere nell
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_08" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 8)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_08" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 8)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="motif/cave,motif/garden,motif/nature,motif/silence,motif/spring,motif/supernatural,motif/well,motif/wind,concept/doubt,concept/fear,concept/identity,concept/nature,concept/original_sin,concept/pride,concept/self,concept/truth,form/allegory,form/tragedy,character/nurse"></span>
 
 
 I do not deny that the poet may write an ode to a parrot
@@ -6171,7 +6171,7 @@ In breve, non basta che una religione includa ogni cosa. Deve includere ogni cos
 
 
 
-<span class="atom-split" data-atom="chapter_02_literature_in_general--part_09" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 9)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_literature_in_general--part_09" data-title="Spice Of Life — Part 1: LITERATURE IN GENERAL (part 9)" data-chapter="LITERATURE IN GENERAL" data-kind="excerpt" data-tags="motif/soul,motif/window,concept/body,concept/truth"></span>
 
 
 Now according to the old rationalistic criticism, it was enough to say
@@ -6255,7 +6255,7 @@ finché scopriamo che quella meteora fuggitiva è qualcosa come una luce a una
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_01" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 1)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_01" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 1)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/king,motif/love,motif/marriage,motif/time,concept/ambition,concept/freedom,concept/history,concept/identity,form/history,form/tragedy,histref/christianity,character/macbeth,character/maria,character/venus"></span>
 
 
 PART TWO:  PARTICULAR BOOKS AND WRITERS
@@ -6386,7 +6386,7 @@ Una grande idea su cui si costruisce ogni [[Tragedy|tragedia]] è l'idea della c
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_02" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 2)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_02" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 2)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="motif/crown,concept/ambition,concept/body,concept/temptation,form/tragedy,character/duncan,character/macbeth"></span>
 
 
 This then is the basis of all [[Tragedy|tragedy]], this living and perilous
@@ -6507,7 +6507,7 @@ Inoltre essi fanno appello, come sempre fa il male (essendo esso stesso servile 
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_03" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 3)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_03" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 3)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="motif/well,concept/self,form/tragedy,character/hamlet,character/juliet,character/king_lear,character/romeo"></span>
 
 
 Shakespeare does not mean that Macbeth's emotionalism and rich
@@ -6664,7 +6664,7 @@ LA TRAGEDIA di Re Lear, per alcuni dei suoi elementi forse la più grande di tut
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_04" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 4)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_04" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 4)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/king,motif/flowers,motif/lightning,motif/rose,motif/stars,motif/storm,motif/time,motif/well,motif/wind,concept/despair,concept/self_knowledge,concept/truth,form/novel,character/goneril,character/king_lear,character/regan,character/richard"></span>
 
 
 Thus, in the play of [[King Lear]], there are certain words which everybody
@@ -6792,7 +6792,7 @@ Nessuno ha nulla a che fare con Le mille e una notte se ha da obiettare alla mol
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_05" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 5)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_05" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 5)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/desire,motif/dust,concept/imagination,concept/pride,form/parable,setting/cathedral,character/ulysses"></span>
 
 
 Now length in the case of the Arabian Nights is not a mere
@@ -6916,7 +6916,7 @@ ESOPO incarna un epigramma non raro nella storia umana; la sua fama è tanto pi�
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_06" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 6)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_06" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 6)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/lion,motif/dragon,form/essay,form/literary_criticism,form/fable,form/fairy_tale"></span>
 
 
 The historical Aesop, in so far as he was historical, would seem
@@ -7049,7 +7049,7 @@ Ma usando gli animali in questo stile austero e arbitrario come sono usati sugli
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_07" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 7)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_07" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 7)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/innocent,motif/well,setting/oxford"></span>
 
 
 BOTH SIDES OF THE LOOKING-GLASS
@@ -7182,7 +7182,7 @@ Trovarono il loro piatto contrario in quell'altro grande amante dei bambini, la 
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_08" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 8)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_08" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 8)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="concept/humility,concept/nationalism_and_patriotism,form/essay,form/literary_criticism,form/fairy_tale,character/hans_andersen,character/oliver_cromwell,character/charles_i"></span>
 
 
 Hans Andersen was not only an uncle loved by children, he was a child.
@@ -7303,7 +7303,7 @@ Nove uomini su dieci in questo paese, al di sopra della classe più illetterata,
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_09" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 9)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_09" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 9)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="character/caliban"></span>
 
 
 There is only one explanation.  There can be no other; and it
@@ -7454,7 +7454,7 @@ Questo errore su Dickens sorse, naturalmente, perché una generazione critica av
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_10" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 10)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_10" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 10)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/artist,motif/time,motif/well,form/novel"></span>
 
 
 There are many evidences that the great truth and passion
@@ -7592,7 +7592,7 @@ La verità è che intere scuole d'arte e di grande arte possono diventare merame
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_11" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 11)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_11" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 11)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="motif/lightning,motif/night,motif/soul,motif/tears,motif/time,form/novel"></span>
 
 
 Then came the nineteenth century when man felt again
@@ -7727,7 +7727,7 @@ IL GENIO DI Charlotte Brontë è unico nell'unico senso valido in cui la parola 
 
 
 
-<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_12" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 12)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_particular_books_and_writers--part_12" data-title="Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS (part 12)" data-chapter="PARTICULAR BOOKS AND WRITERS" data-kind="excerpt" data-tags="archetype/madwoman,concept/realism,form/essay,form/literary_criticism,form/detective_fiction,character/jane_eyre,character/mr_rochester,character/bertha_mason,character/charlotte_bronte"></span>
 
 
 Jane Eyre is, among other things, one of the finest detective stories
@@ -7857,7 +7857,7 @@ Pochi si sentiranno spinti a chiamare la casa del signor Rochester un ambiente m
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_01" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 1)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_01" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 1)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="concept/faith_and_doubt,concept/reason_and_rationalism,concept/rationalism,concept/doubt,concept/faith,form/essay,histref/the_age_of_reason_eighteenth_century_rationalism,character/voltaire"></span>
 
 
 PART THREE:  THOUGHT AND BELIEF
@@ -8009,7 +8009,7 @@ Il secolo diciassettesimo si chiuse con un punto interrogativo. Pope, il poeta d
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_02" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 2)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_02" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 2)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="concept/doubt,concept/faith_and_doubt,concept/fanaticism,concept/rationalism,form/essay,histref/the_reformation,histref/thirty_years_war,character/montaigne,character/cervantes"></span>
 
 
 We have all heard it said that the Renaissance was produced
@@ -8139,7 +8139,7 @@ La menzione dello squire non è irrilevante; vi era in quell'umanità qualcosa d
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_03" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 3)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_03" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 3)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/innocent,motif/hill,motif/pain,histref/dante,character/aquinas,character/monks"></span>
 
 
 Perhaps the perfect moment of every mortal thing is short,
@@ -8268,7 +8268,7 @@ L'oscurantismo della Riforma, e i razionalisti che ne furono gli eredi, fu in qu
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_04" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 4)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_04" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 4)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/king,motif/childhood,motif/mirror,motif/nature,motif/time,motif/well,concept/body,concept/doubt,concept/history,concept/nature,concept/pride,concept/self,form/history,histref/arthurian_legend,setting/cathedral,character/king_arthur"></span>
 
 
 Now the lifting of this load of obscurantism was a thing largely done
@@ -8384,7 +8384,7 @@ OGNI TANTO nella lunga e stanca [[history|storia]] della letteratura e del giorn
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_05" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 5)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_05" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 5)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/dust,motif/prayer,motif/rose,motif/sleep,motif/time,motif/well,motif/window,concept/doubt,concept/immortality,concept/paradox,concept/pride,concept/truth,histref/christianity,histref/renaissance,setting/cathedral,setting/london,character/henry_v,character/king_john,character/queen"></span>
 
 
 The whole of this theme is, of course, subject to exaggeration
@@ -8511,7 +8511,7 @@ Non sto qui discutendo, s'intende, nulla riguardo ai mutamenti ecclesiastici in 
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_06" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 6)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_06" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 6)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/usurper,motif/blood,motif/city,motif/fire,motif/lion,motif/memory,motif/time,motif/well,concept/body,concept/conscience,concept/doubt,concept/history,concept/mercy,form/history,histref/christianity,histref/crusades,character/hastings,character/henry_iv,character/monks,character/richard"></span>
 
 
 All that the Abbey meant to the ethics and atmosphere of this
@@ -8637,7 +8637,7 @@ Questo fatto dell'antico e reale sentimento religioso riguardo all'abbazia può 
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_07" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 7)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_07" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 7)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/desire,motif/hill,motif/nature,motif/time,concept/education,concept/nature,concept/pride,concept/self,histref/christianity,setting/paris,character/henry_v"></span>
 
 
 The case of [[Henry V]] carries me back to an instance of which I
@@ -8774,7 +8774,7 @@ Si dice talvolta che i devoti di una religione dottrinale, che così spesso veng
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_08" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 8)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_08" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 8)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/nature,motif/well,concept/doubt,concept/education,concept/faith,concept/history,concept/nature,concept/truth,form/history,histref/puritanism,setting/london,character/sunday"></span>
 
 
 Now secular [[Education|education]] really means that everybody shall make a point
@@ -8904,7 +8904,7 @@ Ma vi è un altro aspetto della questione, che illustra la vera [[Truth|verità]
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_09" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 9)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_09" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 9)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/death,motif/fire,motif/flowers,motif/spring,motif/stars,motif/time,motif/water,motif/well,concept/doubt,concept/education,concept/fanaticism"></span>
 
 
 I am not writing controversially or trying to pin anybody with this
@@ -9034,7 +9034,7 @@ Parrebbe almeno che noi tendiamo a separarci da ciò che è realmente naturale, 
 
 
 
-<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_10" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 10)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_thought_and_belief--part_10" data-title="Spice Of Life — Part 3: THOUGHT AND BELIEF (part 10)" data-chapter="THOUGHT AND BELIEF" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/night,motif/water"></span>
 
 
 If we take children, for instance, as examples of the uncorrupted
@@ -9198,7 +9198,7 @@ esperienza chi pensa che questa colpa insulare o idolatrica sia la colpa partico
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_01" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 1)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_01" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 1)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/garden,motif/home,motif/nature,motif/night,motif/sleep,motif/summer,motif/time,motif/window,concept/honour,concept/loneliness,concept/nature,form/satire,character/jones,character/richard"></span>
 
 
 PART FOUR:  AT HOME AND ABROAD
@@ -9430,7 +9430,7 @@ e qualcos'altro (probabilmente il [[Garden|Giardino]] della Fata Volatile)
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_02" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 2)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_02" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 2)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/lion,motif/memory,form/tragedy,setting/germany,setting/mountains"></span>
 
 
 I have exactly the same sensations about our old Victorian political
@@ -9569,7 +9569,7 @@ C'è nel nord di Londra una stazione importante, che è, a paragone, tanto quiet
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_03" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 3)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_03" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 3)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="concept/tradition,concept/apocalypse,concept/critique_of_progress,concept/nostalgia,form/essay,form/allegory,histref/the_crusades,setting/jerusalem"></span>
 
 
 I wonder what would really happen if in some special convulsion
@@ -9777,7 +9777,7 @@ che si è smarrito da una lontana terra orientale.
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_04" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 4)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_04" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 4)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="motif/cave,concept/christmas_and_the_nativity,concept/incarnation,form/essay,histref/the_renaissance,setting/jerusalem,character/virgin_mary,character/magi,character/john_ruskin"></span>
 
 
 I had a rather parallel experience when I first saw Rome.
@@ -9918,7 +9918,7 @@ LA SACRALITÀ DEI LUOGHI
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_05" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 5)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_05" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 5)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="motif/the_city,motif/ruins,concept/nationalism_and_patriotism,concept/empire_and_imperialism,concept/history,concept/war_and_its_cost,form/essay,setting/jerusalem"></span>
 
 
 Empires pass away almost as if to accentuate the fact that cities
@@ -10042,7 +10042,7 @@ Non discuterò qui di come l'Europa debba trovarlo; ma vorrei suggerire che essa
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_06" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 6)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_06" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 6)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="motif/time,concept/faith,concept/history,concept/imagination,form/history,setting/paris,character/apollo,character/sunday"></span>
 
 
 SCIPIO AND THE CHILDREN
@@ -10256,7 +10256,7 @@ Il seguente episodio si è verificato l'altro giorno fuori da un caffè affollat
 
 
 
-<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_07" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_at_home_and_abroad--part_07" data-title="Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)" data-chapter="AT HOME AND ABROAD" data-kind="excerpt" data-tags="archetype/child,motif/city"></span>
 
 
 There sat at this small table a poor Frenchman with his wife and [[Child|child]];
@@ -10364,7 +10364,7 @@ per cui un mendicante è una cosa orribile.
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_01" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 1)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_01" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 1)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="concept/wit,concept/tradition,form/essay,form/satire,form/sketch,setting/rural_england,character/g_k_chesterton"></span>
 
 
 PART FIVE:  THE SPICE OF LIFE
@@ -10541,7 +10541,7 @@ Ma non ci soffermeremo sui doveri, perché non vi sono doveri; né sullo stipend
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_02" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 2)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_02" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 2)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="motif/dreams,motif/leaves,motif/lightning,motif/nature,motif/ship,motif/storm,motif/time,motif/well,concept/body,concept/conscience,concept/imagination,concept/nature,concept/paradox,concept/self,histref/renaissance,setting/ship,character/christ"></span>
 
 
 Doubtless it is august and dignified to be a constable.
@@ -10655,7 +10655,7 @@ a strange star of the [[Storm|storm]].
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_03" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 3)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_03" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 3)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/death,motif/home,motif/leaves,motif/soul,concept/body,concept/doubt,concept/history,concept/pride,concept/truth,form/allegory,form/history,form/parable,setting/egypt,character/arthur"></span>
 
 
 But there were many cases, even among more terrestrial and commonplace
@@ -10800,7 +10800,7 @@ Non mi soffermerò su questo morboso parallelo. Il cielo non voglia che io sugge
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_04" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 4)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_04" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 4)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="motif/well"></span>
 
 
 Anyhow, I have enjoyed like everybody else those sports and spices
@@ -10921,7 +10921,7 @@ Ogni cosa ha la sua forma migliore e la sua più vile; e vi è irritazione e irr
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_05" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 5)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_05" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 5)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/flowers,motif/marriage,motif/nature,motif/soul,motif/time,motif/wheel,concept/nature,concept/truth,histref/christianity,setting/court"></span>
 
 
 This is the way the world ends
@@ -11177,7 +11177,7 @@ tirato a sorte.
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_06" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 6)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_spice_of_life--part_06" data-title="Spice Of Life — Part 5: THE SPICE OF LIFE (part 6)" data-chapter="THE SPICE OF LIFE" data-kind="excerpt" data-tags="archetype/detective,motif/home,motif/soul,concept/education,form/essay,form/novel,form/tragedy,histref/christianity,setting/cathedral,setting/london,setting/new_york,character/arthur,character/king_lear"></span>
 
 
 THE SPICE OF LIFE

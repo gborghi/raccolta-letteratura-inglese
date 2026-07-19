@@ -5184,7 +5184,7 @@ I fancied for the moment that I was writing a book.
 
 
 
-<span class="atom-split" data-atom="story_01_the_suffragist" data-title="A Miscellany of Men — THE SUFFRAGIST" data-chapter="THE SUFFRAGIST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_suffragist" data-title="A Miscellany of Men — THE SUFFRAGIST" data-chapter="THE SUFFRAGIST" data-kind="story" data-tags="motif/crown,motif/desire,motif/love,motif/marriage,motif/nature,motif/noon,motif/river,motif/silence,motif/well,concept/beauty,concept/body,concept/democracy,concept/history,concept/nature,form/history"></span>
 
 
 THE SUFFRAGIST
@@ -5412,7 +5412,7 @@ e un avvertimento della [[Nature|natura]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_poet_and_the_cheese_cheese" data-title="A Miscellany of Men — THE POET AND THE CHEESE" data-chapter="THE POET AND THE cheese CHEESE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_poet_and_the_cheese_cheese" data-title="A Miscellany of Men — THE POET AND THE CHEESE" data-chapter="THE POET AND THE cheese CHEESE" data-kind="story" data-tags="motif/hill,motif/night,motif/road,motif/rose,motif/silence,motif/spring,motif/water,motif/well,motif/window,concept/wonder,form/allegory,form/sonnet,histref/puritanism,character/lincoln"></span>
 
 
 THE POET AND THE [[cheese|CHEESE]]
@@ -5554,7 +5554,7 @@ but it is hopeless to disentangle it now.
 
 
 
-<span class="atom-split" data-atom="story_03_the_thing" data-title="A Miscellany of Men — THE THING" data-chapter="THE THING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_thing" data-title="A Miscellany of Men — THE THING" data-chapter="THE THING" data-kind="story" data-tags="motif/crown,motif/dreams,motif/garden,motif/moon,motif/nature,motif/night,motif/sleep,motif/soul,motif/time,motif/wheel,motif/wind,concept/body,concept/martyrdom,concept/nature,concept/self,histref/america,setting/america,character/lord_mayor"></span>
 
 
 THE THING
@@ -5678,7 +5678,7 @@ as would have happened if the Thing had really been abroad.
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_who_thinks_backwards" data-title="A Miscellany of Men — THE MAN WHO THINKS BACKWARDS" data-chapter="THE MAN WHO THINKS BACKWARDS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_man_who_thinks_backwards" data-title="A Miscellany of Men — THE MAN WHO THINKS BACKWARDS" data-chapter="THE MAN WHO THINKS BACKWARDS" data-kind="story" data-tags="motif/city,motif/death,motif/dreams,motif/fire,motif/flag,motif/marriage,motif/nature,motif/prison,motif/soul,motif/well,concept/body,concept/doubt,concept/eugenics,concept/history,concept/nature,concept/reform,concept/sublime,concept/temptation,form/history"></span>
 
 
 THE MAN WHO THINKS BACKWARDS
@@ -5831,7 +5831,7 @@ who remembers the roots of things.
 
 
 
-<span class="atom-split" data-atom="story_05_the_nameless_man" data-title="A Miscellany of Men — THE NAMELESS MAN" data-chapter="THE NAMELESS MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_nameless_man" data-title="A Miscellany of Men — THE NAMELESS MAN" data-chapter="THE NAMELESS MAN" data-kind="story" data-tags="motif/decay,motif/moon,motif/silence,motif/soul,motif/time,motif/water,concept/democracy,concept/fear,concept/truth,form/comedy,histref/america,histref/puritanism,setting/america,setting/mountains"></span>
 
 
 THE NAMELESS MAN
@@ -5981,7 +5981,7 @@ but that will not matter much so long as they are the right names.
 
 
 
-<span class="atom-split" data-atom="story_06_the_gardener_and_the_guinea" data-title="A Miscellany of Men — THE GARDENER AND THE GUINEA" data-chapter="THE GARDENER AND THE GUINEA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_gardener_and_the_guinea" data-title="A Miscellany of Men — THE GARDENER AND THE GUINEA" data-chapter="THE GARDENER AND THE GUINEA" data-kind="story" data-tags="motif/blood,motif/dreams,motif/flowers,motif/garden,motif/lightning,motif/nature,motif/spring,motif/storm,motif/swallow,motif/time,concept/doubt,concept/history,concept/honour,concept/nature,concept/resurrection,concept/self,concept/wonder,form/epigram,form/history,form/parable,setting/court,character/edmund"></span>
 
 
 THE GARDENER AND THE GUINEA
@@ -6111,7 +6111,7 @@ Perhaps there is.
 
 
 
-<span class="atom-split" data-atom="story_07_the_voter_and_the_two_voices" data-title="A Miscellany of Men — THE VOTER AND THE TWO VOICES" data-chapter="THE VOTER AND THE TWO VOICES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_voter_and_the_two_voices" data-title="A Miscellany of Men — THE VOTER AND THE TWO VOICES" data-chapter="THE VOTER AND THE TWO VOICES" data-kind="story" data-tags="motif/animals,motif/crown,motif/flag,motif/grave,motif/home,motif/time,motif/well,concept/democracy,concept/doubt,concept/education,concept/individualism,concept/loneliness,concept/reform,concept/self,form/satire"></span>
 
 
 THE VOTER AND THE TWO VOICES
@@ -6277,7 +6277,7 @@ and then for a great jest he will allow the slaves to choose.
 
 
 
-<span class="atom-split" data-atom="story_08_the_mad_official" data-title="A Miscellany of Men — THE MAD OFFICIAL" data-chapter="THE MAD OFFICIAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_mad_official" data-title="A Miscellany of Men — THE MAD OFFICIAL" data-chapter="THE MAD OFFICIAL" data-kind="story" data-tags="archetype/monster,motif/fire,motif/garden,motif/night,motif/prison,motif/silence,motif/water,motif/well,concept/body,concept/conscience,concept/fear,concept/freedom,concept/history,concept/imprisonment,concept/madness,concept/self,concept/slavery,form/history,setting/court"></span>
 
 
 THE MAD OFFICIAL
@@ -6416,7 +6416,7 @@ of the Sacred Emperor."
 
 
 
-<span class="atom-split" data-atom="story_09_the_enchanted_man" data-title="A Miscellany of Men — THE ENCHANTED MAN" data-chapter="THE ENCHANTED MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_enchanted_man" data-title="A Miscellany of Men — THE ENCHANTED MAN" data-chapter="THE ENCHANTED MAN" data-kind="story" data-tags="topos/double,archetype/innocent,motif/clock,motif/death,motif/frost,motif/hill,motif/journey,motif/mirror,motif/moon,motif/night,motif/road,motif/sleep,motif/snow,motif/time,motif/well,motif/winter,concept/beauty,concept/doubt,concept/fear,concept/hope,concept/truth,concept/union,character/gertrude"></span>
 
 
 THE ENCHANTED MAN
@@ -6546,7 +6546,7 @@ For we live in an enchanted land.
 
 
 
-<span class="atom-split" data-atom="story_10_the_sun_worshipper" data-title="A Miscellany of Men — THE SUN WORSHIPPER" data-chapter="THE SUN WORSHIPPER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_sun_worshipper" data-title="A Miscellany of Men — THE SUN WORSHIPPER" data-chapter="THE SUN WORSHIPPER" data-kind="story" data-tags="archetype/prophet,archetype/tyrant,motif/animals,motif/birds,motif/cross,motif/dawn,motif/death,motif/desire,motif/machine,motif/prison,motif/sleep,motif/spring,motif/summer,motif/time,motif/water,motif/well,concept/doubt,concept/history,concept/truth,form/history,setting/egypt,character/apollo,character/edward_iii"></span>
 
 
 THE SUN WORSHIPPER
@@ -6748,7 +6748,7 @@ That was what the man in Ibsen said, when he had lost his wits.
 
 
 
-<span class="atom-split" data-atom="story_11_the_wrong_incendiary" data-title="A Miscellany of Men — THE WRONG INCENDIARY" data-chapter="THE WRONG INCENDIARY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_wrong_incendiary" data-title="A Miscellany of Men — THE WRONG INCENDIARY" data-chapter="THE WRONG INCENDIARY" data-kind="story" data-tags="archetype/king,motif/birds,motif/desire,motif/dreams,motif/fire,motif/garden,motif/hill,motif/machine,motif/marriage,motif/night,motif/road,motif/soul,motif/stars,motif/well,motif/wheel,motif/window,concept/despair,concept/fear,concept/honour,concept/paradox,concept/revenge,setting/london"></span>
 
 
 THE WRONG INCENDIARY
@@ -6889,7 +6889,7 @@ the terraces of the Chiltern Hills.
 
 
 
-<span class="atom-split" data-atom="story_12_the_free_man" data-title="A Miscellany of Men — THE FREE MAN" data-chapter="THE FREE MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_free_man" data-title="A Miscellany of Men — THE FREE MAN" data-chapter="THE FREE MAN" data-kind="story" data-tags="archetype/artist,motif/bees,motif/garden,motif/hill,motif/home,motif/love,motif/prison,motif/road,motif/silence,motif/soul,concept/democracy,concept/freedom,concept/friendship,concept/honour,concept/loneliness,histref/bible,character/chorus"></span>
 
 
 THE FREE MAN
@@ -7012,7 +7012,7 @@ because it is so true.
 
 
 
-<span class="atom-split" data-atom="story_13_the_hypothetical_householder" data-title="A Miscellany of Men — THE HYPOTHETICAL HOUSEHOLDER" data-chapter="THE HYPOTHETICAL HOUSEHOLDER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_hypothetical_householder" data-title="A Miscellany of Men — THE HYPOTHETICAL HOUSEHOLDER" data-chapter="THE HYPOTHETICAL HOUSEHOLDER" data-kind="story" data-tags="archetype/child,archetype/fool,motif/chalk,motif/childhood,motif/death,motif/decay,motif/dust,motif/flowers,motif/garden,motif/ghosts,motif/home,motif/memory,motif/noon,motif/road,motif/stars,motif/wind,motif/window,concept/solitude,form/lyric,setting/london,character/tarquin"></span>
 
 
 THE HYPOTHETICAL HOUSEHOLDER
@@ -7157,7 +7157,7 @@ and then decided not to look for him at all.
 
 
 
-<span class="atom-split" data-atom="story_14_the_priest_of_spring_spring" data-title="A Miscellany of Men — THE PRIEST OF SPRING" data-chapter="THE PRIEST OF spring SPRING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_priest_of_spring_spring" data-title="A Miscellany of Men — THE PRIEST OF SPRING" data-chapter="THE PRIEST OF spring SPRING" data-kind="story" data-tags="archetype/hero,archetype/king,motif/autumn,motif/city,motif/crown,motif/flowers,motif/ghosts,motif/leaves,motif/love,motif/moon,motif/nature,motif/noon,motif/rose,motif/sleep,motif/snow,motif/soul,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/body,concept/doubt,concept/imagination,concept/nature,concept/resurrection,concept/survival,concept/truth,form/allegory,form/aphorism,form/fragment,histref/christianity,setting/mountains,character/adonis,character/apollo,character/christ,character/juliet,character/romeo"></span>
 
 
 THE PRIEST OF [[spring|SPRING]]
@@ -7319,7 +7319,7 @@ of the dead.
 
 
 
-<span class="atom-split" data-atom="story_15_the_real_journalist" data-title="A Miscellany of Men — THE REAL JOURNALIST" data-chapter="THE REAL JOURNALIST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_real_journalist" data-title="A Miscellany of Men — THE REAL JOURNALIST" data-chapter="THE REAL JOURNALIST" data-kind="story" data-tags="archetype/innocent,motif/birds,motif/clock,motif/cross,motif/dawn,motif/flowers,motif/grave,motif/leaves,motif/moon,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,concept/nature,concept/revenge,concept/truth,form/elegy,form/tragedy,character/sunday"></span>
 
 
 THE REAL JOURNALIST
@@ -7479,7 +7479,7 @@ is going to be hanged by the neck on circumstantial evidence.
 
 
 
-<span class="atom-split" data-atom="story_16_the_sentimental_scot" data-title="A Miscellany of Men — THE SENTIMENTAL SCOT" data-chapter="THE SENTIMENTAL SCOT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_sentimental_scot" data-title="A Miscellany of Men — THE SENTIMENTAL SCOT" data-chapter="THE SENTIMENTAL SCOT" data-kind="story" data-tags="archetype/self_made_man,motif/blood,motif/city,motif/dance,motif/fire,motif/road,motif/time,motif/well,concept/ambition,concept/doubt,concept/history,concept/madness,concept/slavery,concept/temptation,form/history,setting/london"></span>
 
 
 THE SENTIMENTAL SCOT
@@ -7600,7 +7600,7 @@ nor were they working.  They were doing nothing.  Which, in my opinion
 
 
 
-<span class="atom-split" data-atom="story_17_the_sectarian_of_society" data-title="A Miscellany of Men — THE SECTARIAN OF SOCIETY" data-chapter="THE SECTARIAN OF SOCIETY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_the_sectarian_of_society" data-title="A Miscellany of Men — THE SECTARIAN OF SOCIETY" data-chapter="THE SECTARIAN OF SOCIETY" data-kind="story" data-tags="motif/birds,motif/blood,motif/city,motif/desert,motif/machine,motif/marriage,motif/moon,motif/soul,concept/freedom,concept/history,concept/pride,concept/truth,form/allegory,form/history,histref/milton,setting/desert,setting/london,setting/oxford,character/milton"></span>
 
 
 THE SECTARIAN OF SOCIETY
@@ -7816,7 +7816,7 @@ stanno insieme, ma soprattutto quelli del piumaggio bianco.
 
 
 
-<span class="atom-split" data-atom="story_18_the_fool_fool" data-title="A Miscellany of Men — THE FOOL" data-chapter="THE Fool FOOL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_fool_fool" data-title="A Miscellany of Men — THE FOOL" data-chapter="THE Fool FOOL" data-kind="story" data-tags="archetype/fool,archetype/monster,motif/city,motif/home,motif/well,concept/democracy,form/epigram"></span>
 
 
 THE [[Fool|FOOL]]
@@ -7981,7 +7981,7 @@ it at the end.
 
 
 
-<span class="atom-split" data-atom="story_19_the_conscript_and_the_crisis" data-title="A Miscellany of Men — THE CONSCRIPT AND THE CRISIS" data-chapter="THE CONSCRIPT AND THE CRISIS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_conscript_and_the_crisis" data-title="A Miscellany of Men — THE CONSCRIPT AND THE CRISIS" data-chapter="THE CONSCRIPT AND THE CRISIS" data-kind="story" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/city,motif/dawn,motif/fire,motif/nature,motif/night,motif/ship,motif/silence,motif/time,motif/window,concept/history,concept/nature,form/history,form/hymn,setting/cathedral,setting/germany,setting/ship"></span>
 
 
 THE CONSCRIPT AND THE CRISIS
@@ -8162,7 +8162,7 @@ announced that the negotiations were proceeding satisfactorily.
 
 
 
-<span class="atom-split" data-atom="story_20_the_miser_and_his_friends" data-title="A Miscellany of Men — THE MISER AND HIS FRIENDS" data-chapter="THE MISER AND HIS FRIENDS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_miser_and_his_friends" data-title="A Miscellany of Men — THE MISER AND HIS FRIENDS" data-chapter="THE MISER AND HIS FRIENDS" data-kind="story" data-tags="archetype/artist,archetype/child,archetype/fool,archetype/shadow,archetype/tyrant,motif/bells,motif/flowers,motif/memory,motif/soul,motif/time,motif/well,concept/charity,concept/history,concept/madness,concept/poverty,concept/self,form/history,histref/bible,histref/renaissance,setting/london"></span>
 
 
 THE MISER AND HIS FRIENDS
@@ -8300,7 +8300,7 @@ His simple life was a little more like the life of the real poor.
 
 
 
-<span class="atom-split" data-atom="story_21_the_mystagogue" data-title="A Miscellany of Men — THE MYSTAGOGUE" data-chapter="THE MYSTAGOGUE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_mystagogue" data-title="A Miscellany of Men — THE MYSTAGOGUE" data-chapter="THE MYSTAGOGUE" data-kind="story" data-tags="archetype/king,motif/crown,motif/decay,motif/desire,motif/nature,motif/night,motif/silence,concept/beauty,concept/democracy,concept/grotesque,concept/nature,concept/self,setting/paris,character/satan,character/venus,character/witch"></span>
 
 
 THE MYSTAGOGUE
@@ -8431,7 +8431,7 @@ and they have found nothing because there is nothing to be found.
 
 
 
-<span class="atom-split" data-atom="story_22_the_red_reactionary" data-title="A Miscellany of Men — THE RED REACTIONARY" data-chapter="THE RED REACTIONARY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_red_reactionary" data-title="A Miscellany of Men — THE RED REACTIONARY" data-chapter="THE RED REACTIONARY" data-kind="story" data-tags="archetype/king,motif/clock,motif/cross,motif/decay,motif/road,motif/soul,motif/time,motif/well,motif/wind,concept/democracy,concept/grotesque,concept/history,concept/providence,concept/resurrection,form/history,histref/bible,histref/french_revolution,histref/reformation,character/clifford,character/dauphin"></span>
 
 
 THE RED REACTIONARY
@@ -8573,7 +8573,7 @@ For no such scene could conceivably have happened under Louis XVI.
 
 
 
-<span class="atom-split" data-atom="story_23_the_separatist_and_sacred_things" data-title="A Miscellany of Men — THE SEPARATIST AND SACRED THINGS" data-chapter="THE SEPARATIST AND SACRED THINGS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_separatist_and_sacred_things" data-title="A Miscellany of Men — THE SEPARATIST AND SACRED THINGS" data-chapter="THE SEPARATIST AND SACRED THINGS" data-kind="story" data-tags="archetype/artist,archetype/rebel,motif/fire,motif/garden,motif/home,motif/love,motif/nature,motif/soul,motif/stars,motif/time,motif/water,motif/well,concept/doubt,concept/identity,concept/nature,concept/renunciation,concept/truth,form/fable,histref/christianity"></span>
 
 
 THE SEPARATIST AND SACRED THINGS
@@ -8725,7 +8725,7 @@ He refuses to be the Cosmos; because he refuses to forget it.
 
 
 
-<span class="atom-split" data-atom="story_24_the_mummer" data-title="A Miscellany of Men — THE MUMMER" data-chapter="THE MUMMER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_mummer" data-title="A Miscellany of Men — THE MUMMER" data-chapter="THE MUMMER" data-kind="story" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/birds,motif/desire,motif/garden,motif/grave,motif/nature,motif/night,motif/road,motif/soul,motif/stars,motif/well,concept/eternity,concept/fear,concept/identity,concept/madness,concept/nature,concept/paradox,concept/wonder,setting/cathedral,character/christ,character/king_arthur"></span>
 
 
 THE MUMMER
@@ -8854,7 +8854,7 @@ a masked man is ominous; but who shall face a mob of masks?
 
 
 
-<span class="atom-split" data-atom="story_25_the_aristocratic_arry" data-title="A Miscellany of Men — THE ARISTOCRATIC 'ARRY" data-chapter="THE ARISTOCRATIC ARRY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_aristocratic_arry" data-title="A Miscellany of Men — THE ARISTOCRATIC 'ARRY" data-chapter="THE ARISTOCRATIC ARRY" data-kind="story" data-tags="archetype/innocent,motif/home,motif/time,concept/beauty,concept/democracy,concept/education,concept/poverty,concept/truth,setting/italy,setting/london"></span>
 
 
 THE ARISTOCRATIC 'ARRY
@@ -8993,7 +8993,7 @@ It is very real bad manners.
 
 
 
-<span class="atom-split" data-atom="story_26_the_new_theologian" data-title="A Miscellany of Men — THE NEW THEOLOGIAN" data-chapter="THE NEW THEOLOGIAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_new_theologian" data-title="A Miscellany of Men — THE NEW THEOLOGIAN" data-chapter="THE NEW THEOLOGIAN" data-kind="story" data-tags="archetype/king,motif/death,motif/nature,motif/night,concept/democracy,concept/endurance,concept/history,concept/hope,concept/immortality,concept/nature,concept/self,concept/suicide,form/history,form/tragedy,histref/christianity,histref/french_revolution,histref/islam,setting/court,setting/london"></span>
 
 
 THE NEW THEOLOGIAN
@@ -9158,7 +9158,7 @@ the reunion of all religions.
 
 
 
-<span class="atom-split" data-atom="story_27_the_romantic_in_the_rain" data-title="A Miscellany of Men — THE ROMANTIC IN THE RAIN" data-chapter="THE ROMANTIC IN THE RAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_romantic_in_the_rain" data-title="A Miscellany of Men — THE ROMANTIC IN THE RAIN" data-chapter="THE ROMANTIC IN THE RAIN" data-kind="story" data-tags="topos/double,archetype/shadow,motif/fire,motif/moon,motif/nature,motif/spring,motif/water,concept/apocalypse,concept/beauty,concept/imagination,concept/mercy,concept/nature,concept/purification,setting/venice"></span>
 
 
 THE ROMANTIC IN THE RAIN
@@ -9266,7 +9266,7 @@ at the skies.
 
 
 
-<span class="atom-split" data-atom="story_28_the_false_photographer" data-title="A Miscellany of Men — THE FALSE PHOTOGRAPHER" data-chapter="THE FALSE PHOTOGRAPHER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_false_photographer" data-title="A Miscellany of Men — THE FALSE PHOTOGRAPHER" data-chapter="THE FALSE PHOTOGRAPHER" data-kind="story" data-tags="motif/flag,motif/time,motif/water,motif/well,concept/madness,concept/truth"></span>
 
 
 THE FALSE PHOTOGRAPHER
@@ -9445,7 +9445,7 @@ In seguito fummo informati che un inglese aveva combattuto per i boeri contro la
 
 
 
-<span class="atom-split" data-atom="story_29_the_sultan" data-title="A Miscellany of Men — THE SULTAN" data-chapter="THE SULTAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_sultan" data-title="A Miscellany of Men — THE SULTAN" data-chapter="THE SULTAN" data-kind="story" data-tags="archetype/king,motif/blood,motif/crown,motif/hill,motif/love,motif/moon,motif/nature,motif/time,concept/history,concept/nature,concept/paradox,form/history,character/queen"></span>
 
 
 THE SULTAN
@@ -9556,7 +9556,7 @@ to the Sultan, from the [[Love|love]] of diamonds to the scorn of woman.
 
 
 
-<span class="atom-split" data-atom="story_30_the_architect_of_spears" data-title="A Miscellany of Men — THE ARCHITECT OF SPEARS" data-chapter="THE ARCHITECT OF SPEARS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_architect_of_spears" data-title="A Miscellany of Men — THE ARCHITECT OF SPEARS" data-chapter="THE ARCHITECT OF SPEARS" data-kind="story" data-tags="motif/birds,motif/blood,motif/desert,motif/flowers,motif/garden,motif/hill,motif/night,motif/prayer,motif/silence,motif/soul,concept/beauty,concept/body,concept/greatness,concept/history,concept/truth,form/history,histref/renaissance,setting/cathedral,setting/desert,character/lincoln"></span>
 
 
 THE ARCHITECT OF SPEARS
@@ -9681,7 +9681,7 @@ the English [[Birds|birds]] were floating.
 
 
 
-<span class="atom-split" data-atom="story_31_the_man_on_top" data-title="A Miscellany of Men — THE MAN ON TOP" data-chapter="THE MAN ON TOP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_man_on_top" data-title="A Miscellany of Men — THE MAN ON TOP" data-chapter="THE MAN ON TOP" data-kind="story" data-tags="archetype/artist,motif/death,motif/leaves,motif/nature,motif/soul,motif/time,concept/doubt,concept/hope,concept/nature,concept/self,concept/truth,histref/islam"></span>
 
 
 THE MAN ON TOP
@@ -9815,7 +9815,7 @@ our very [[success]] is unsuccessful.
 
 
 
-<span class="atom-split" data-atom="story_32_the_other_kind_of_man" data-title="A Miscellany of Men — THE OTHER KIND OF MAN" data-chapter="THE OTHER KIND OF MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_other_kind_of_man" data-title="A Miscellany of Men — THE OTHER KIND OF MAN" data-chapter="THE OTHER KIND OF MAN" data-kind="story" data-tags="motif/city,motif/home,motif/time,motif/well,concept/democracy,concept/doubt,concept/freedom,concept/identity"></span>
 
 
 THE OTHER KIND OF MAN
@@ -9950,7 +9950,7 @@ master as much as if you drove him with a whip.
 
 
 
-<span class="atom-split" data-atom="story_33_the_mediaeval_villain_villain" data-title="A Miscellany of Men — THE MEDIAEVAL VILLAIN" data-chapter="THE MEDIAEVAL Villain VILLAIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_mediaeval_villain_villain" data-title="A Miscellany of Men — THE MEDIAEVAL VILLAIN" data-chapter="THE MEDIAEVAL Villain VILLAIN" data-kind="story" data-tags="archetype/child,archetype/innocent,archetype/king,archetype/tyrant,archetype/villain,motif/animals,motif/blood,motif/cross,motif/fire,motif/lion,motif/soul,motif/time,motif/well,concept/body,concept/courage,concept/freedom,concept/history,concept/imagination,concept/paradox,concept/truth,form/history,form/novel,character/henry_viii,character/king_john,character/robin_hood,character/satan"></span>
 
 
 THE MEDIAEVAL [[Villain|VILLAIN]]
@@ -10095,7 +10095,7 @@ why will ye die?"
 
 
 
-<span class="atom-split" data-atom="story_34_the_divine_detective_detective" data-title="A Miscellany of Men — THE DIVINE DETECTIVE" data-chapter="THE DIVINE Detective DETECTIVE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_divine_detective_detective" data-title="A Miscellany of Men — THE DIVINE DETECTIVE" data-chapter="THE DIVINE Detective DETECTIVE" data-kind="story" data-tags="archetype/detective,motif/desire,motif/love,motif/secrets,motif/supernatural,motif/well,concept/education,concept/mercy,concept/self,concept/truth,histref/america,histref/christianity,setting/america,character/christ"></span>
 
 
 THE DIVINE [[Detective|DETECTIVE]]
@@ -10213,7 +10213,7 @@ but the poor have no [[Secrets|secrets]].  And it is because the proud have
 
 
 
-<span class="atom-split" data-atom="story_35_the_elf_of_japan" data-title="A Miscellany of Men — THE ELF OF JAPAN" data-chapter="THE ELF OF JAPAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_elf_of_japan" data-title="A Miscellany of Men — THE ELF OF JAPAN" data-chapter="THE ELF OF JAPAN" data-kind="story" data-tags="archetype/artist,motif/animals,motif/birds,motif/flowers,motif/horse,motif/love,motif/moon,motif/nature,motif/silence,motif/time,motif/water,motif/window,concept/beauty,concept/democracy,concept/humility,concept/nature,form/translation"></span>
 
 
 THE ELF OF JAPAN
@@ -10333,7 +10333,7 @@ call twisting the thumbs back 'torture.'"
 
 
 
-<span class="atom-split" data-atom="story_36_the_chartered_libertine" data-title="A Miscellany of Men — THE CHARTERED LIBERTINE" data-chapter="THE CHARTERED LIBERTINE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_chartered_libertine" data-title="A Miscellany of Men — THE CHARTERED LIBERTINE" data-chapter="THE CHARTERED LIBERTINE" data-kind="story" data-tags="archetype/king,motif/night,motif/ship,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/conscience,concept/doubt,concept/education,concept/honour,setting/ship,character/king_john"></span>
 
 
 THE CHARTERED LIBERTINE
@@ -10464,7 +10464,7 @@ and was only free because it had a father.
 
 
 
-<span class="atom-split" data-atom="story_37_the_contented_man" data-title="A Miscellany of Men — THE CONTENTED MAN" data-chapter="THE CONTENTED MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_the_contented_man" data-title="A Miscellany of Men — THE CONTENTED MAN" data-chapter="THE CONTENTED MAN" data-kind="story" data-tags="archetype/king,motif/childhood,motif/death,motif/love,motif/water,motif/well,concept/despair,concept/sublime,setting/london,setting/paris"></span>
 
 
 THE CONTENTED MAN
@@ -10603,7 +10603,7 @@ drunk them dry.
 
 
 
-<span class="atom-split" data-atom="story_38_the_angry_author_his_farewell" data-title="A Miscellany of Men — THE ANGRY AUTHOR: HIS FAREWELL" data-chapter="THE ANGRY AUTHOR HIS FAREWELL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_angry_author_his_farewell" data-title="A Miscellany of Men — THE ANGRY AUTHOR: HIS FAREWELL" data-chapter="THE ANGRY AUTHOR HIS FAREWELL" data-kind="story" data-tags="motif/desert,motif/horse,motif/time,motif/well,concept/democracy,concept/fear,histref/america,histref/french_revolution,setting/america,setting/desert,setting/germany,character/christ"></span>
 
 
 THE ANGRY AUTHOR:  HIS FAREWELL

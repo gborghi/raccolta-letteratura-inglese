@@ -478,7 +478,7 @@ APPENDIX
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="THE COMING OF THE FAIRIES — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="THE COMING OF THE FAIRIES — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/nature,concept/nature"></span>
 
 
 CHAPTER I
@@ -548,7 +548,7 @@ Photograph taken by Frances. Fairly bright day in September, 1917. The “Midg�
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="THE COMING OF THE FAIRIES — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="THE COMING OF THE FAIRIES — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent"></span>
 
 
 ELSIE AND FRANCES
@@ -581,7 +581,7 @@ I trust that the reader will agree that up to this point we had not proceeded wi
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE COMING OF THE FAIRIES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE COMING OF THE FAIRIES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/innocent,motif/nature,concept/nature"></span>
 
 
 CHAPTER II
@@ -631,7 +631,7 @@ I must confess that after months of thought I am unable to get the true bearings
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE COMING OF THE FAIRIES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE COMING OF THE FAIRIES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/nature,motif/supernatural,concept/nature,concept/wonder,character/sir_arthur_conan_doyle"></span>
 
 
 CHAPTER III
@@ -722,7 +722,7 @@ It may be added that in the course of exhibiting these photographs (in the inter
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE COMING OF THE FAIRIES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE COMING OF THE FAIRIES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/nature,concept/nature"></span>
 
 
 CHAPTER IV
@@ -759,7 +759,7 @@ There the matter stands, and nothing has occurred from that time onwards to shak
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE COMING OF THE FAIRIES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE COMING OF THE FAIRIES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/nature,concept/nature,concept/wonder"></span>
 
 
 CHAPTER V
@@ -793,7 +793,7 @@ An elf-like creature runs up the slanting branch of the willow from the ground w
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="THE COMING OF THE FAIRIES — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="THE COMING OF THE FAIRIES — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/nature,concept/nature"></span>
 
 
 CHAPTER VI
@@ -834,7 +834,7 @@ After these modern instances one is inclined to read with a little more gravity 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="THE COMING OF THE FAIRIES — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="THE COMING OF THE FAIRIES — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/nature,concept/nature"></span>
 
 
 THE PHOTOGRAPH FROM CANADA
@@ -849,7 +849,7 @@ One may well ask what connection has this fairy-lore with the general scheme of 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE COMING OF THE FAIRIES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE COMING OF THE FAIRIES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/nature,concept/nature"></span>
 
 
 CHAPTER VII
@@ -896,7 +896,7 @@ These last examples I owe to Mr. John Lewis, Editor of the Psychic Gazette, who 
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE COMING OF THE FAIRIES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE COMING OF THE FAIRIES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/nature,concept/nature,concept/spiritualism,concept/wonder"></span>
 
 
 CHAPTER VIII
@@ -947,7 +947,7 @@ PREFACE
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE COMING OF THE FAIRIES — Chapter 2" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE COMING OF THE FAIRIES — Chapter 2" data-chapter="Chapter 09" data-kind="chapter" data-tags="concept/spiritualism,character/emanuel_swedenborg"></span>
 
 
 CHAPTER I
@@ -958,7 +958,7 @@ EDWARD IRVING: THE SHAKERS
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE COMING OF THE FAIRIES — Chapter 3" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE COMING OF THE FAIRIES — Chapter 3" data-chapter="Chapter 10" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER III
@@ -967,7 +967,7 @@ THE PROPHET OF THE NEW REVELATION
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE COMING OF THE FAIRIES — Chapter 5" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE COMING OF THE FAIRIES — Chapter 5" data-chapter="Chapter 11" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER IV
@@ -978,7 +978,7 @@ THE CAREER OF THE FOX SISTERS
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE COMING OF THE FAIRIES — Chapter 6" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE COMING OF THE FAIRIES — Chapter 6" data-chapter="Chapter 12" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER VI
@@ -987,7 +987,7 @@ FIRST DEVELOPMENTS IN AMERICA
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE COMING OF THE FAIRIES — Chapter 8" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE COMING OF THE FAIRIES — Chapter 8" data-chapter="Chapter 13" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER VII
@@ -998,7 +998,7 @@ CONTINUED PROGRESS IN ENGLAND
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE COMING OF THE FAIRIES — Chapter 10" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE COMING OF THE FAIRIES — Chapter 10" data-chapter="Chapter 14" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER IX
@@ -1009,7 +1009,7 @@ THE DAVENPORT BROTHERS
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="THE COMING OF THE FAIRIES — Chapter 11" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="THE COMING OF THE FAIRIES — Chapter 11" data-chapter="Chapter 15" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER XI
@@ -1018,7 +1018,7 @@ THE RESEARCHES OF SIR WILLIAM CROOKES (1870-1874)
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE COMING OF THE FAIRIES — Chapter 12" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="THE COMING OF THE FAIRIES — Chapter 12" data-chapter="Chapter 16" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER XII
@@ -1027,7 +1027,7 @@ THE EDDY BROTHERS AND THE HOLMESES
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="THE COMING OF THE FAIRIES — Chapter 13" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="THE COMING OF THE FAIRIES — Chapter 13" data-chapter="Chapter 17" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER XIII
@@ -1036,7 +1036,7 @@ HENRY SLADE AND DR. MONCK
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="THE COMING OF THE FAIRIES — Chapter 14" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="THE COMING OF THE FAIRIES — Chapter 14" data-chapter="Chapter 18" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER XIV

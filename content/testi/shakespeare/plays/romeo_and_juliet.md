@@ -1262,7 +1262,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Romeo and Juliet — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Romeo and Juliet — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/tyrant,archetype/villain,motif/blood,motif/city,motif/death,motif/fire,motif/grave,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/despair,concept/fear,concept/madness,concept/self,concept/vanity,setting/verona,character/benvolio,character/capulet,character/juliet,character/prince_escalus,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -1387,7 +1387,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Romeo and Juliet — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Romeo and Juliet — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,motif/fire,motif/love,motif/night,motif/pain,motif/poison,motif/prison,motif/stars,motif/tears,motif/time,motif/well,motif/winter,concept/pride,setting/paris,setting/verona,character/benvolio,character/capulet,character/helena,character/juliet,character/lucio,character/mercutio,character/romeo,character/rosaline,character/tybalt,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1436,7 +1436,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Romeo and Juliet — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Romeo and Juliet — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/lover,motif/lamb,motif/love,motif/marriage,motif/night,motif/soul,motif/summer,motif/time,motif/well,concept/beauty,concept/faith,concept/honour,concept/pride,setting/paris,setting/verona,character/capulet,character/juliet,character/nurse,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -1478,7 +1478,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Romeo and Juliet — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Romeo and Juliet — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/lover,archetype/pilgrim,archetype/villain,motif/dance,motif/death,motif/dreams,motif/fire,motif/grave,motif/jewel,motif/love,motif/night,motif/prayer,motif/soul,motif/stars,motif/storm,motif/time,motif/well,motif/wind,concept/beauty,concept/despair,concept/faith,concept/fear,concept/honour,concept/truth,form/masque,setting/court,setting/verona,character/benvolio,character/capulet,character/juliet,character/lucentio,character/mercutio,character/nurse,character/queen,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -1598,7 +1598,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_0" data-title="Romeo and Juliet — Act II, Scene 0" data-chapter="Scene 0" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_0" data-title="Romeo and Juliet — Act II, Scene 0" data-chapter="Scene 0" data-kind="scene" data-tags="motif/desire,motif/love,motif/time,character/chorus,character/juliet,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -1609,7 +1609,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Romeo and Juliet — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Romeo and Juliet — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/lover,motif/birds,motif/cave,motif/clock,motif/death,motif/home,motif/lightning,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/soul,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/nature,concept/self,concept/truth,character/benvolio,character/capulet,character/juliet,character/mercutio,character/nurse,character/romeo,character/rosaline,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1698,7 +1698,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Romeo and Juliet — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Romeo and Juliet — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/death,motif/flowers,motif/grave,motif/love,motif/marriage,motif/nature,motif/night,motif/poison,motif/sleep,motif/water,motif/well,concept/nature,character/capulet,character/friar_laurence,character/juliet,character/maria,character/romeo,character/rosaline"></span>
 
 
 | Speaker | Line |
@@ -1732,7 +1732,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Romeo and Juliet — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Romeo and Juliet — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/hero,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/noon,motif/soul,motif/time,motif/well,concept/faith,concept/nature,setting/paris,character/benvolio,character/capulet,character/cleopatra,character/friar_laurence,character/helen,character/juliet,character/mercutio,character/nurse,character/romeo,character/rosaline,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -1839,7 +1839,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Romeo and Juliet — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Romeo and Juliet — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/blood,motif/clock,motif/death,motif/hill,motif/home,motif/journey,motif/lamb,motif/love,motif/marriage,motif/night,motif/well,motif/wind,concept/body,concept/faith,character/friar_laurence,character/juliet,character/nurse,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -1873,7 +1873,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Romeo and Juliet — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Romeo and Juliet — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/lover,motif/death,motif/fire,motif/leaves,motif/love,motif/summer,concept/vanity,character/friar_laurence,character/juliet,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -1894,7 +1894,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Romeo and Juliet — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Romeo and Juliet — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/villain,motif/blood,motif/dance,motif/death,motif/fire,motif/grave,motif/lightning,motif/love,motif/soul,motif/tears,motif/well,concept/beauty,concept/body,concept/courage,concept/exile,concept/mercy,concept/revenge,concept/truth,setting/italy,setting/verona,character/benvolio,character/capulet,character/juliet,character/mercutio,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -1982,7 +1982,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Romeo and Juliet — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Romeo and Juliet — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/tyrant,archetype/villain,motif/blood,motif/cave,motif/death,motif/lamb,motif/love,motif/memory,motif/nature,motif/night,motif/poison,motif/prison,motif/snow,motif/spring,motif/stars,motif/storm,motif/tears,motif/well,concept/faith,concept/honour,concept/nature,character/juliet,character/nurse,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -2020,7 +2020,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Romeo and Juliet — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Romeo and Juliet — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/childhood,motif/death,motif/grave,motif/love,motif/marriage,motif/night,motif/poison,motif/tears,motif/time,motif/well,concept/body,concept/exile,concept/fear,concept/mercy,concept/wonder,setting/verona,character/friar_laurence,character/juliet,character/nurse,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -2074,7 +2074,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Romeo and Juliet — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Romeo and Juliet — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,motif/love,motif/night,motif/time,motif/well,concept/doubt,setting/paris,character/capulet,character/juliet,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -2094,7 +2094,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Romeo and Juliet — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Romeo and Juliet — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/villain,motif/blood,motif/death,motif/grave,motif/love,motif/marriage,motif/night,motif/nightingale,motif/poison,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/faith,concept/fear,concept/hope,concept/wonder,setting/paris,character/bottom,character/capulet,character/cynthia,character/juliet,character/nurse,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -2182,7 +2182,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Romeo and Juliet — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Romeo and Juliet — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/grave,motif/home,motif/love,motif/marriage,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,concept/doubt,concept/fear,concept/honour,concept/hope,concept/truth,setting/paris,character/capulet,character/friar_laurence,character/juliet,character/nurse,character/romeo,character/speed,character/tybalt,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2228,7 +2228,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Romeo and Juliet — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Romeo and Juliet — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/city,motif/love,motif/night,motif/time,motif/well,concept/self,setting/paris,character/capulet,character/juliet,character/nurse,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -2265,7 +2265,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Romeo and Juliet — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Romeo and Juliet — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/ghost,motif/cross,motif/death,motif/marriage,motif/night,motif/poison,motif/time,motif/well,concept/body,concept/fear,character/capulet,character/juliet,character/nurse,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |
@@ -2285,7 +2285,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Romeo and Juliet — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Romeo and Juliet — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,motif/bells,motif/blood,motif/clock,motif/death,motif/flowers,motif/frost,motif/grave,motif/lamb,motif/love,motif/nature,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/faith,concept/melancholy,concept/mercy,concept/nature,setting/paris,character/capulet,character/friar_laurence,character/juliet,character/nurse,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -2376,7 +2376,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Romeo and Juliet — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Romeo and Juliet — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/dreams,motif/grave,motif/love,motif/poison,motif/sleep,motif/stars,motif/well,concept/body,concept/fear,concept/poverty,concept/truth,setting/verona,character/juliet,character/romeo"></span>
 
 
 | Speaker | Line |
@@ -2408,7 +2408,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Romeo and Juliet — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Romeo and Juliet — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/city,character/friar_laurence,character/juliet,character/romeo,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2429,7 +2429,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Romeo and Juliet — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Romeo and Juliet — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/monster,archetype/villain,motif/blood,motif/city,motif/cross,motif/death,motif/dust,motif/flag,motif/flowers,motif/grave,motif/lightning,motif/love,motif/marriage,motif/night,motif/poison,motif/sleep,motif/soul,motif/spring,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/doubt,concept/exile,concept/faith,concept/fear,concept/friendship,concept/imagination,concept/mercy,form/translation,histref/ancient_greece,histref/elizabethan_england,setting/paris,setting/verona,character/arthur,character/bottom,character/capulet,character/demetrius,character/friar_laurence,character/helena,character/hermia,character/hippolyta,character/juliet,character/lysander,character/mercutio,character/nurse,character/oberon,character/puck,character/queen,character/romeo,character/speed,character/theseus,character/titania,character/tybalt"></span>
 
 
 | Speaker | Line |

@@ -95,7 +95,7 @@ e la [[spring|primavera]] era sulla terra.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Tribute_To_Gladstone (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Tribute_To_Gladstone (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/cross,motif/crown,motif/dawn,motif/death,motif/flag,motif/love,motif/spring,setting/london"></span>
 
 
 # Tribute To Gladstone

@@ -548,7 +548,7 @@ This comic opera was written in 1893 by Barrie and Arthur Conan Doyle (of Sherlo
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="UNCOLLECTED SHORT STORIES (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="UNCOLLECTED SHORT STORIES (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/satire_of_society,concept/hypocrisy,form/short_story"></span>
 
 
 UNCOLLECTED SHORT STORIES
@@ -654,7 +654,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="UNCOLLECTED SHORT STORIES (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="UNCOLLECTED SHORT STORIES (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 THE CABMAN’S STORY
@@ -720,7 +720,7 @@ Here, with the coquetry of one who knows that his words are of interest, the dri
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="UNCOLLECTED SHORT STORIES (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="UNCOLLECTED SHORT STORIES (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,setting/london"></span>
 
 
 The Short Stories

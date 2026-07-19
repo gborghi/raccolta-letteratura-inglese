@@ -631,7 +631,7 @@ inconceivable adventures.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Thousand-And-Second Tale of Scheherazade (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Thousand-And-Second Tale of Scheherazade (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/damsel,archetype/king,archetype/prophet,motif/death,motif/garden,motif/horse,motif/nature,motif/night,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/fear,concept/history,concept/hope,concept/nature,concept/truth,form/history,character/queen"></span>
 
 
 [[Truth]] is stranger than fiction.—_Old Saying_
@@ -743,7 +743,7 @@ finally triumphed, and the tariff upon [[Beauty|beauty]] was repealed.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Thousand-And-Second Tale of Scheherazade (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Thousand-And-Second Tale of Scheherazade (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/blood,motif/desire,motif/fire,motif/home,motif/moon,motif/night,motif/rose,motif/ship,motif/water,concept/body,concept/doubt,concept/history,concept/hope,concept/sublime,concept/truth,form/history,setting/ship,character/queen"></span>
 
 
 Now, this conclusion (which is that of the story as we have it
@@ -849,7 +849,7 @@ disagreeable noise.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Thousand-And-Second Tale of Scheherazade (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Thousand-And-Second Tale of Scheherazade (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/animals,motif/blood,motif/desire,motif/fire,motif/home,motif/horse,motif/nature,motif/pain,motif/time,motif/well,concept/body,concept/doubt,concept/nature,character/speed"></span>
 
 
 “‘Our terror at beholding this hideous thing was very great, but
@@ -949,7 +949,7 @@ right, and said:
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Thousand-And-Second Tale of Scheherazade (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Thousand-And-Second Tale of Scheherazade (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/animals,motif/blood,motif/cave,motif/death,motif/fire,motif/flowers,motif/garden,motif/hill,motif/home,motif/nature,motif/river,motif/time,motif/water,concept/history,concept/nature,form/history,character/bottom,character/queen"></span>
 
 
 “It is, in fact, very surprising, my dear [[Queen|queen]], that you
@@ -1073,7 +1073,7 @@ appointed tasks.’” (*15)
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Thousand-And-Second Tale of Scheherazade (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Thousand-And-Second Tale of Scheherazade (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/animals,motif/bees,motif/birds,motif/blood,motif/city,motif/horse,motif/water,concept/despair,concept/doubt,concept/hope,concept/imagination,character/speed"></span>
 
 
 “Pshaw!” said the [[King|king]].
@@ -1191,7 +1191,7 @@ equally for evil and for good.’”
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Thousand-And-Second Tale of Scheherazade (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Thousand-And-Second Tale of Scheherazade (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/dance,motif/lightning,motif/moon,motif/silence,motif/well,concept/beauty,concept/body,concept/conscience,concept/history,form/history"></span>
 
 
 “Ridiculous!” said the [[King|king]].

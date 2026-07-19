@@ -834,7 +834,7 @@ own, how utterly thou hast murdered thyself.”_
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="William Wilson (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="William Wilson (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/flowers,motif/prison,concept/body,concept/conscience,concept/paradox,concept/self,concept/temptation,concept/truth,concept/wonder,character/sunday,character/william_wilson"></span>
 
 
 What say of it? what say of [[Conscience|CONSCIENCE]] grim,
@@ -939,7 +939,7 @@ Oh, gigantic [[Paradox|paradox]], too utterly monstrous for solution!
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="William Wilson (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="William Wilson (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/clock,motif/home,motif/memory,motif/time,motif/water,motif/well,concept/grotesque,concept/truth,character/william_wilson"></span>
 
 
 At an angle of the ponderous wall frowned a more ponderous gate.
@@ -1049,7 +1049,7 @@ spirits of its companions.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="William Wilson (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="William Wilson (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/desire,motif/pain,motif/time,concept/ambition,concept/doubt,concept/fear,concept/friendship,concept/identity,concept/pride,concept/self,concept/truth,concept/wonder,character/achilles,character/william_wilson"></span>
 
 
 Wilson’s rebellion was to me a source of the greatest
@@ -1164,7 +1164,7 @@ than ordinary penetration.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="William Wilson (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="William Wilson (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/memory,motif/nature,motif/night,motif/sleep,motif/time,concept/doubt,concept/friendship,concept/nature,concept/truth,form/riddle,character/william_wilson"></span>
 
 
 His cue, which was to perfect an [[Imitation|imitation]] of myself, lay both in
@@ -1288,7 +1288,7 @@ academy, never to enter them again.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="William Wilson (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="William Wilson (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/dawn,motif/home,motif/memory,motif/nature,motif/night,motif/soul,motif/window,concept/doubt,concept/identity,concept/imagination,concept/nature,concept/truth,concept/vanity,concept/wonder,form/novel,form/tragedy,setting/oxford,character/william_wilson"></span>
 
 
 After a lapse of some months, spent at [[Home|home]] in mere idleness, I
@@ -1405,7 +1405,7 @@ careless and dashing extravagance?
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="William Wilson (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="William Wilson (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="topos/double,motif/night,motif/silence,motif/time,motif/well,concept/despair,concept/doubt,concept/wonder,setting/court,character/william_wilson"></span>
 
 
 I had been now two years successfully busied in this way, when
@@ -1516,7 +1516,7 @@ the records of the game.
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="William Wilson (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="William Wilson (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/villain,motif/dawn,motif/dust,motif/journey,motif/love,motif/nature,motif/time,concept/ambition,concept/doubt,concept/hope,concept/identity,concept/nature,concept/revenge,concept/self,concept/truth,setting/egypt,setting/oxford,setting/paris,character/william_wilson"></span>
 
 
 Any burst of indignation upon this discovery would have affected
@@ -1622,7 +1622,7 @@ enslaved.
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="William Wilson (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="William Wilson (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/death,motif/mirror,motif/silence,concept/endurance,concept/hope,concept/identity,concept/mercy,character/william_wilson"></span>
 
 
 It was at Rome, during the Carnival of 18—, that I attended a

@@ -171,7 +171,7 @@ It is a piece of [[chalk]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="chalk (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="chalk (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/chalk,motif/dawn,motif/fire,motif/leaves,motif/nature,motif/snow,motif/soul,motif/stars,motif/summer,motif/time,motif/well,concept/endurance,concept/nature,form/sketch,setting/london,character/apollo,character/robin_hood"></span>
 
 
 A Piece of [[chalk|Chalk]]
@@ -297,7 +297,7 @@ Preferivano scrivere di grandi uomini piuttosto che di grandi colline; ma sedeva
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="chalk (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="chalk (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/chalk,motif/city,motif/dawn,motif/hill,motif/pain,motif/stars,motif/water,motif/well,concept/despair,concept/mercy,concept/revenge,histref/christianity"></span>
 
 
 But as I sat scrawling these silly figures on the brown paper,

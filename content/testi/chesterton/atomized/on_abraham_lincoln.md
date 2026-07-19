@@ -268,7 +268,7 @@ or Bayard or Joan of Arc, or any [[Hero|hero]] or heroine in [[history]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="On_Abraham_Lincoln (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On_Abraham_Lincoln (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/hope,character/abraham_lincoln,character/lincoln"></span>
 
 
 # On [[Abraham Lincoln]]
@@ -384,7 +384,7 @@ Ciò che intendo è questo: che, se novantanove su cento delle persone che oggi 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="On_Abraham_Lincoln (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="On_Abraham_Lincoln (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/love,concept/martyrdom,concept/slavery,concept/truth,concept/union,histref/america,setting/america,character/abraham_lincoln,character/lincoln"></span>
 
 
 For this great man had one secret vice far more unpopular among his
@@ -468,7 +468,7 @@ Comincerò con un esempio semplice eppure curioso. Dissi che [[Lincoln]] aveva q
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="On_Abraham_Lincoln (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="On_Abraham_Lincoln (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/self_made_man,motif/well,concept/conscience,concept/history,form/biography,form/essay,form/history,character/abraham_lincoln,character/lincoln"></span>
 
 
 The next point that I should like to have cleared up is this.

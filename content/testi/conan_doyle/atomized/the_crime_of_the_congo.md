@@ -697,7 +697,7 @@ In 1903, over a period of six months in Great Wyrley, near Birmingham, 16 animal
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE CRIME OF THE CONGO — Chapter 14" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE CRIME OF THE CONGO — Chapter 14" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/slavery"></span>
 
 
 CHAPTER XIV
@@ -731,7 +731,7 @@ The Crime of the Congo
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE CRIME OF THE CONGO — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE CRIME OF THE CONGO — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/slavery,setting/africa"></span>
 
 
 CHAPTER I
@@ -761,7 +761,7 @@ More important, however, is Article VI., both on account of the issues at stake,
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE CRIME OF THE CONGO — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE CRIME OF THE CONGO — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/slavery,setting/africa"></span>
 
 
 CHAPTER II
@@ -794,7 +794,7 @@ Having shown in these two examples the way in which the Congo Free State has dar
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE CRIME OF THE CONGO — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE CRIME OF THE CONGO — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/blood,setting/africa"></span>
 
 
 CHAPTER III
@@ -817,7 +817,7 @@ He was a cannibal and a ruffian, but if he did not inspire terror in the village
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE CRIME OF THE CONGO — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE CRIME OF THE CONGO — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/blood,concept/slavery"></span>
 
 
 CHAPTER  IV
@@ -880,7 +880,7 @@ These successive reports, each amplifying the other, coming on the top of the ki
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE CRIME OF THE CONGO — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE CRIME OF THE CONGO — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/blood,concept/slavery"></span>
 
 
 CHAPTER V
@@ -914,7 +914,7 @@ One might ask how the details of this trial came to Europe when it is so seldom 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE CRIME OF THE CONGO — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE CRIME OF THE CONGO — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/blood,concept/slavery"></span>
 
 
 CHAPTER  VI
@@ -992,7 +992,7 @@ It is King Leopold who speaks.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE CRIME OF THE CONGO — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE CRIME OF THE CONGO — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/villain,histref/roger_casement,setting/africa,character/roger_casement"></span>
 
 
 CHAPTER  VII
@@ -1063,7 +1063,7 @@ In the same White Book which contains these documents there is printed the Congo
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE CRIME OF THE CONGO — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE CRIME OF THE CONGO — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/blood,concept/slavery,setting/africa"></span>
 
 
 CHAPTER VIII
@@ -1168,7 +1168,7 @@ And all this has happened and all this has been tolerated in an age of progress.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE CRIME OF THE CONGO — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE CRIME OF THE CONGO — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/blood,concept/slavery"></span>
 
 
 CHAPTER IX
@@ -1224,7 +1224,7 @@ It will be seen that, so far as the people are concerned, the problem is largely
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE CRIME OF THE CONGO — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE CRIME OF THE CONGO — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="concept/empire_and_imperialism,concept/slavery,concept/social_injustice,concept/greed,concept/power_and_corruption,form/essay,histref/catholic_church,setting/africa"></span>
 
 
 CHAPTER X
@@ -1270,7 +1270,7 @@ P Surely after such evidence from such a source there must be some heart-searchi
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE CRIME OF THE CONGO — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE CRIME OF THE CONGO — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="concept/slavery,setting/africa"></span>
 
 
 CHAPTER XI
@@ -1344,7 +1344,7 @@ Finally, there is the following report from the extreme other end of the country
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE CRIME OF THE CONGO — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE CRIME OF THE CONGO — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="concept/slavery,setting/africa"></span>
 
 
 CHAPTER XII
@@ -1364,7 +1364,7 @@ Meanwhile, in this very month of August, 1909, a full year after the annexation 
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE CRIME OF THE CONGO — Chapter 13" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE CRIME OF THE CONGO — Chapter 13" data-chapter="Chapter 14" data-kind="chapter" data-tags="setting/africa"></span>
 
 
 CHAPTER XIII
@@ -1400,7 +1400,7 @@ I look at my statement of the facts and I wince at its many faults of omission. 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE CRIME OF THE CONGO — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE CRIME OF THE CONGO — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 CHAPTER XIV
@@ -1425,7 +1425,7 @@ But whichever solution is adopted, the conscience of Europe should not be conten
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE CRIME OF THE CONGO — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE CRIME OF THE CONGO — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 APPENDIX

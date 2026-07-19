@@ -6573,7 +6573,7 @@ it is generally very difficult to find the arrow--or the boy.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Tales of the Long Bow — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Tales of the Long Bow — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/flowers,motif/garden,motif/moon,motif/road,motif/soul,motif/time,motif/well,concept/history,concept/hope,concept/survival,form/epigram,form/essay,form/history,setting/court,character/queen,character/sunday"></span>
 
 
 Chapter I
@@ -6704,7 +6704,7 @@ the moment, however, he was not looking at the idol, but at the scarecrow.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Tales of the Long Bow — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Tales of the Long Bow — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/leaves,motif/road,motif/stars,motif/time,motif/well,concept/grotesque,concept/truth,setting/mountains"></span>
 
 
 "By the way, Archer," he said, "don't you think the scarecrow wants
@@ -6832,7 +6832,7 @@ instead of "What a funny hat!"
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Tales of the Long Bow — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Tales of the Long Bow — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/time,concept/courage,concept/fear,concept/self,concept/temptation,concept/wonder,character/sunday"></span>
 
 
 As to why he corrected himself, a true picture of what passed through
@@ -6938,7 +6938,7 @@ at the moment to call all houses hats and all visitors vegetables.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Tales of the Long Bow — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Tales of the Long Bow — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/chalk,motif/cross,motif/garden,motif/nature,motif/soul,motif/well,motif/wind,concept/beauty,concept/honour,concept/hope,concept/nature,concept/wonder"></span>
 
 
 When Crane came out of his front gate that morning he found his
@@ -7058,7 +7058,7 @@ the real reason.  I might even say I promise you shall SEE the real reason."
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Tales of the Long Bow — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Tales of the Long Bow — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/garden,motif/night,motif/time,motif/well,concept/fear,concept/grotesque,concept/hope,concept/vanity,character/robin_hood"></span>
 
 
 The Colonel took an intense interest in the appointments of the
@@ -7181,7 +7181,7 @@ the vow or wager; for one ought always to lose something on a wager."
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="Tales of the Long Bow — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="Tales of the Long Bow — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/marriage,concept/romantic_love,concept/marriage_and_fidelity,histref/the_grail_legend,character/owen_hood,character/colonel_crane"></span>
 
 
 And he rose from the table with a gesture of apology.
@@ -7304,7 +7304,7 @@ in a disproportionate fashion, though all that she said was:
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="Tales of the Long Bow — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="Tales of the Long Bow — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/garden,concept/romantic_love,concept/conformity_vs_individualism,concept/individualism,character/colonel_crane,character/audrey_smith"></span>
 
 
 "What became of your old hat?"
@@ -7462,7 +7462,7 @@ and an interval must be allowed him before such torments are renewed.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Tales of the Long Bow — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Tales of the Long Bow — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/well,concept/hope"></span>
 
 
 Chapter II
@@ -7591,7 +7591,7 @@ be too late for the Day of Judgement."
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Tales of the Long Bow — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Tales of the Long Bow — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/death,motif/flowers,motif/love,motif/mirror,motif/night,motif/river,motif/time,motif/water,motif/well,concept/truth,concept/unattainable,form/epic,setting/court"></span>
 
 
 "Now if this were a true dramatic dialogue," remarked Hood,
@@ -7708,7 +7708,7 @@ talking to a wandering lunatic.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Tales of the Long Bow — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Tales of the Long Bow — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/dawn,motif/flowers,motif/nature,motif/night,motif/poison,motif/river,motif/silence,motif/soul,motif/time,motif/water,concept/beauty,concept/nature,concept/suicide,setting/court,character/robin_hood,character/witch"></span>
 
 
 That was the beginning of what was for Owen Hood a crawling [[nightmare]]. 
@@ -7823,7 +7823,7 @@ a light of somewhat sinister understanding dawned on his long face.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Tales of the Long Bow — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Tales of the Long Bow — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love,motif/poison,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/beauty,concept/doubt"></span>
 
 
 On this occasion [[The Professor|the Professor]] advanced an even more interesting theory. 
@@ -7965,7 +7965,7 @@ known as "hands," which moved to and fro in it.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Tales of the Long Bow — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Tales of the Long Bow — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/memory,concept/satire_of_society,concept/romantic_love,setting/london,character/owen_hood,character/lord_normantowers"></span>
 
 
 Hood took no interest in the election; but while it was proceeding
@@ -8091,7 +8091,7 @@ been were rows of little houses like boxes, built of dirty yellow brick.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Tales of the Long Bow — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Tales of the Long Bow — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/grave,motif/love,motif/memory,motif/night,motif/river,motif/silence,motif/soul,motif/tears,motif/well,concept/hope,concept/pride"></span>
 
 
 Hood spoke.  "And when you shall see the abomination of desolation
@@ -8230,7 +8230,7 @@ The catch in her voice came again and [[Silence|silence]] caught and held her.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="Tales of the Long Bow — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="Tales of the Long Bow — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/hero,archetype/monster,motif/hill,motif/night,motif/river,motif/stars,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/imagination,form/epic,form/tragedy"></span>
 
 
 He took one stride forward as into the heart of a whirlwind;
@@ -8408,7 +8408,7 @@ I movimenti impetuosi di Hood li portarono sulla riva del [[River|fiume]] e negl
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_08" data-title="Tales of the Long Bow — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_08" data-title="Tales of the Long Bow — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/night,motif/river,motif/silence,motif/sleep,motif/well,motif/wheel,concept/reconciliation,concept/suffering,character/flambeau"></span>
 
 
 "We've rounded up all those people down Bleak Row," said Dr. Hunter. 
@@ -8523,7 +8523,7 @@ of Captain Pierce, and their trials are for a time deferred.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Tales of the Long Bow — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Tales of the Long Bow — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/night,motif/swallow,motif/well,concept/pride"></span>
 
 
 Chapter III
@@ -8649,7 +8649,7 @@ he seemed transfigured as with flame.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Tales of the Long Bow — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Tales of the Long Bow — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/animals,motif/fire,motif/garden,motif/memory,motif/river,motif/time,motif/well,concept/doubt,concept/history,concept/resurrection,concept/sublime,form/history"></span>
 
 
 "What's all this infernal insane foolery?" he demanded.  "Who has
@@ -8874,7 +8874,7 @@ sulla insegna della locanda.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Tales of the Long Bow — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Tales of the Long Bow — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/dreams,motif/garden,motif/machine,motif/memory,motif/nature,motif/silence,motif/time,motif/well,concept/beauty,concept/fear,concept/hope,concept/nature,concept/truth,setting/castle"></span>
 
 
 "Loud and prolonged cheers," said Crane politely, "and now come
@@ -8997,7 +8997,7 @@ is whelmed in war."
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Tales of the Long Bow — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Tales of the Long Bow — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/lion,motif/poison,motif/road,motif/silence,motif/time,motif/well,motif/window,concept/fear,setting/london,character/speed"></span>
 
 
 He disappeared like a flash behind the high bank and the wall,
@@ -9111,7 +9111,7 @@ sight to see the old lady clear a hedge and skedaddle across a meadow."
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Tales of the Long Bow — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Tales of the Long Bow — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,archetype/monster,motif/animals,motif/fire,motif/river,motif/road,motif/rose,motif/time,motif/well,motif/window,concept/apocalypse,concept/body,concept/resurrection,concept/self,form/parody"></span>
 
 
 Hood looked at him under bended brows and his mouth began to work.
@@ -9238,7 +9238,7 @@ like a brightly coloured feather.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Tales of the Long Bow — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Tales of the Long Bow — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/world_upside_down,motif/garden,motif/love,motif/moon,motif/wheel"></span>
 
 
 "People are coming down in parachutes," said the Colonel shortly.
@@ -9370,7 +9370,7 @@ the sun and [[Moon|moon]]?"
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Tales of the Long Bow — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Tales of the Long Bow — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/home,motif/horse,motif/ship,motif/well,concept/beauty,concept/truth,setting/ship"></span>
 
 
 "I should say," replied Joan Hardy, still smiling, "that you wanted
@@ -9528,7 +9528,7 @@ procedono all'indietro.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Tales of the Long Bow — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Tales of the Long Bow — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/memory,motif/river,motif/time,motif/well,motif/winter,concept/friendship,concept/hope,concept/vanity,form/translation"></span>
 
 
 Chapter IV
@@ -9653,7 +9653,7 @@ Asiatic feeling sometimes.'"
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Tales of the Long Bow — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Tales of the Long Bow — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/love"></span>
 
 
 "Yes," said the Colonel, "it does."
@@ -9787,7 +9787,7 @@ to somebody who didn't seem to be there."
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Tales of the Long Bow — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Tales of the Long Bow — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/journey,motif/time"></span>
 
 
 Hilary Pierce, fired by his detective fever, made a good many
@@ -9900,7 +9900,7 @@ the first man to mount upon wings.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Tales of the Long Bow — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Tales of the Long Bow — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/ghosts,motif/hill,motif/home,motif/horse,motif/journey,motif/moon,motif/night,motif/rose,motif/stars,motif/time,motif/well,motif/wind,concept/fear,concept/self,concept/wonder,form/riddle,character/king_arthur"></span>
 
 
 Perhaps this literally flying figure shone the more vividly in
@@ -10017,7 +10017,7 @@ and derision.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Tales of the Long Bow — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Tales of the Long Bow — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/great_house,motif/hill,motif/moon,motif/nature,motif/road,motif/ship,motif/snow,motif/time,motif/well,motif/wind,concept/hope,concept/imagination,concept/nature,concept/self,concept/solitude,concept/truth,form/riddle,setting/mountains,setting/ship"></span>
 
 
 "I will tell you one more thing I learnt before I left those parts. 
@@ -10136,7 +10136,7 @@ And that's what the big shed was really for."
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="Tales of the Long Bow — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="Tales of the Long Bow — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/monster,motif/night,motif/road,motif/stars,motif/well,concept/fear,concept/temptation,concept/truth,setting/london"></span>
 
 
 "Look here," said the inspector, recovering from his astonishment
@@ -10258,7 +10258,7 @@ Talk about a spire pointing to the [[Stars|stars]]--'"
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="Tales of the Long Bow — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="Tales of the Long Bow — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/nature,motif/secrets,motif/silence,motif/spring,motif/well,concept/doubt,concept/nature"></span>
 
 
 "I think," said Crane, interposing mildly, "that it would be
@@ -10371,7 +10371,7 @@ and for the moment the threat must hang like thunder in the air.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Tales of the Long Bow — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Tales of the Long Bow — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/nonsense,concept/friendship,concept/madness,character/colonel_crane,character/owen_hood,character/wilding_white,character/hilary_pierce"></span>
 
 
 Chapter V
@@ -10490,7 +10490,7 @@ the American Indians.  Possibly he will come back in feathers and war-paint."
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Tales of the Long Bow — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Tales of the Long Bow — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/dance,motif/journey,concept/tradition,concept/nature_vs_civilization,character/colonel_crane,character/owen_hood,character/wilding_white"></span>
 
 
 "He'll come back scalped, I suppose," said White hopefully. 
@@ -10674,7 +10674,7 @@ che è il cardine di questa precisa sebbene laboriosa aneddoto.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Tales of the Long Bow — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Tales of the Long Bow — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/capitalism,concept/materialism,character/owen_hood,character/hilary_pierce,character/enoch_oates,character/wilding_white,character/sir_horace_hunter"></span>
 
 
 "It was against that background of ancient night," went on the young
@@ -10884,7 +10884,7 @@ Solo che lo sfondo aveva piuttosto l'aria di essere diventato il primo piano.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Tales of the Long Bow — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Tales of the Long Bow — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/home,motif/well,concept/hope"></span>
 
 
 "Seven hundred and fifty-one thousand dollars," murmured Owen Hood. 
@@ -11019,7 +11019,7 @@ I mean, why I rather approve of people being backgrounds."
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Tales of the Long Bow — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Tales of the Long Bow — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/tradition,concept/nature_vs_civilization,histref/america,character/colonel_crane,character/owen_hood,character/enoch_oates,character/wilding_white"></span>
 
 
 "I said I had found out something by going round the world,"
@@ -11149,7 +11149,7 @@ every nation assumes that every other nation is a sort of mild madhouse.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="Tales of the Long Bow — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="Tales of the Long Bow — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_gold,concept/capitalism,concept/self_made_man_theme,concept/marriage_and_fidelity,concept/materialism,concept/romantic_love,character/enoch_oates,character/hilary_pierce"></span>
 
 
 Mr. Enoch Oates received his guest with great hospitality and pressed
@@ -11258,7 +11258,7 @@ which those who would endure to the end may read at some later date.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Tales of the Long Bow — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Tales of the Long Bow — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/rose,motif/time,motif/window,concept/doubt"></span>
 
 
 Chapter VI
@@ -11379,7 +11379,7 @@ down and took precautions."
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Tales of the Long Bow — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Tales of the Long Bow — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/time,motif/window,concept/ambition,concept/doubt,concept/wonder,character/oliver"></span>
 
 
 "But what the devil can he want with a gun?" muttered Pierce,
@@ -11513,7 +11513,7 @@ of the Higher Mathematics, far beyond the flight of his little aeroplane.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Tales of the Long Bow — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Tales of the Long Bow — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/world_upside_down,archetype/child,motif/flowers,motif/home,motif/memory,motif/moon,motif/night,motif/stars,motif/summer,motif/time,motif/well,concept/hope"></span>
 
 
 [[The Professor]] had begun, as he always began, by saying that it was
@@ -11627,7 +11627,7 @@ observed Margery Dale conversationally.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Tales of the Long Bow — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Tales of the Long Bow — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/hill,motif/moon,motif/silence,motif/well,concept/doubt"></span>
 
 
 "I don't know," he said, slightly stirred to the defensive. 
@@ -11765,7 +11765,7 @@ moving and shifting and changing."
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Tales of the Long Bow — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Tales of the Long Bow — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/moon,motif/stars,concept/beauty,concept/suffering"></span>
 
 
 "Yes," said Owen Hood; "I begin to have some dim idea of what you
@@ -11875,7 +11875,7 @@ further scandal.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Tales of the Long Bow — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Tales of the Long Bow — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/hill,motif/moon,motif/night,motif/river,motif/road,motif/rose,motif/soul,motif/stars,motif/time,motif/well,motif/wind,concept/doubt,concept/greatness,concept/paradox,setting/london,setting/mountains"></span>
 
 
 "At this point, however, a still more extraordinary development
@@ -11992,7 +11992,7 @@ so that they pointed to that spot.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="Tales of the Long Bow — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="Tales of the Long Bow — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/lion,motif/nature,motif/rose,motif/stars,motif/storm,motif/well,concept/nature,concept/wonder"></span>
 
 
 As the path dropped to the level and she began to walk by farms
@@ -12112,7 +12112,7 @@ will be drawing near its explanation and its end.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Tales of the Long Bow — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Tales of the Long Bow — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/moon,motif/time,motif/window,concept/eugenics,concept/madness,concept/truth,histref/america,setting/america"></span>
 
 
 Chapter VII
@@ -12225,7 +12225,7 @@ hint that you yourself--"
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Tales of the Long Bow — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Tales of the Long Bow — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/well,setting/castle"></span>
 
 
 "I take it to mean," said Mr. Oates with great deliberation,
@@ -12369,7 +12369,7 @@ you are Lord Lieutenant of that county."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Tales of the Long Bow — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Tales of the Long Bow — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/animals,motif/death,motif/garden,motif/rose,motif/time,motif/well,concept/history,form/history,setting/castle,setting/cathedral"></span>
 
 
 Little Lord Normantowers was staring, with his stiff hair all
@@ -12507,7 +12507,7 @@ then he said as he [[Rose|rose]] from his chair:
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Tales of the Long Bow — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Tales of the Long Bow — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/time,motif/uncanny,motif/well,concept/madness,concept/uncanny,setting/castle"></span>
 
 
 "I think I will have a talk to our American friend Mr. Oates."
@@ -12633,7 +12633,7 @@ Houses In The Clouds As Not To Own Your Own Houses On The Earth."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Tales of the Long Bow — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Tales of the Long Bow — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/birds,motif/insects,motif/soul,motif/swallow,motif/well,setting/castle"></span>
 
 
 Then followed a passage of somewhat less solid political value,
@@ -12761,7 +12761,7 @@ charge of the flying castle.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Tales of the Long Bow — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Tales of the Long Bow — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/love,motif/machine,motif/moon,motif/nature,motif/time,motif/water,motif/well,concept/body,concept/nature,concept/temptation,setting/castle,setting/mountains,character/oliver"></span>
 
 
 On the platform on which he alighted stood a table covered
@@ -12899,7 +12899,7 @@ It's [[Time|time]] I told you the true story of the [[Castle]] in the Air."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="Tales of the Long Bow — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="Tales of the Long Bow — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/silence,motif/well"></span>
 
 
 He smoked silently for a moment, and then said:
@@ -12998,7 +12998,7 @@ and broken-spirited reader may find rest at last.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Tales of the Long Bow — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Tales of the Long Bow — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/well,form/epic,histref/america,setting/america"></span>
 
 
 Chapter VIII
@@ -13126,7 +13126,7 @@ work to do.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Tales of the Long Bow — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Tales of the Long Bow — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/time,motif/well,concept/deception,concept/democracy,setting/london"></span>
 
 
 "The recent success of the agrarian protest," began Hood cheerfully
@@ -13254,7 +13254,7 @@ of them--Captain Hilary Pierce, late of the Flying Corps.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Tales of the Long Bow — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Tales of the Long Bow — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/moon,concept/truth,setting/russia"></span>
 
 
 "But if this was true of such trifles as half a dozen of Prime Ministers,
@@ -13356,7 +13356,7 @@ since the Middle Ages.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Tales of the Long Bow — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Tales of the Long Bow — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/machine,motif/secrets,motif/soul,motif/time,motif/well,concept/doubt,concept/resignation,concept/self,concept/truth,setting/mountains,character/lincoln,character/robin_hood"></span>
 
 
 "It is said that the men of the Long Bow carried their mediaeval
@@ -13464,7 +13464,7 @@ country of a much more primitive and sometimes almost prehistoric kind.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Tales of the Long Bow — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Tales of the Long Bow — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/journey,motif/road,motif/time,motif/well,concept/doubt,setting/london,character/robin_hood,character/speed"></span>
 
 
 "It is admitted of course by all students that the victories
@@ -13569,7 +13569,7 @@ entrance appeared to be.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Tales of the Long Bow — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Tales of the Long Bow — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/prophet,motif/fire,motif/garden,motif/home,motif/moon,motif/silence,motif/well,concept/hope,concept/madness,concept/wonder,character/sunday"></span>
 
 
 "Then something happened, which even those who saw it and survived
@@ -13760,7 +13760,7 @@ Così rimase per un momento in mezzo a un mondo che cambiava, esattamente come e
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_07" data-title="Tales of the Long Bow — Chapter 8 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_07" data-title="Tales of the Long Bow — Chapter 8 (part 7)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/dreams,motif/garden,motif/love,motif/nature,motif/river,motif/sleep,motif/well,concept/hope,concept/imagination,concept/nature,concept/survival,concept/truth,form/allegory,form/riddle,histref/dante,character/apollo,character/beatrice"></span>
 
 
 "Queer thing," he said, "how true it is what Hilary once said about

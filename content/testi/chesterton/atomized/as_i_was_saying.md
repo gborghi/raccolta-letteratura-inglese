@@ -5151,7 +5151,7 @@ to become more narrow than the past.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="As I Was Saying — ABOUT MAD METAPHORS" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="As I Was Saying — ABOUT MAD METAPHORS" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/dreams,motif/love,motif/moon,motif/rose,motif/storm,motif/time,motif/well,motif/window,concept/despair,concept/imagination,concept/immortality,concept/reform,concept/vanity,form/allegory,form/essay,form/lyric,form/parable"></span>
 
 
 _I About Mad Metaphors_
@@ -5316,7 +5316,7 @@ Voi pensate che la semplice menzione dei maiali non potrebbe suscitare una [[Sto
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="As I Was Saying — ABOUT LOVING GERMANS" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="As I Was Saying — ABOUT LOVING GERMANS" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/blood,motif/fire,motif/home,motif/lightning,motif/love,motif/moon,motif/poison,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/hope,concept/imagination,concept/madness,concept/truth,form/history,histref/america,setting/america,setting/germany,character/hamlet"></span>
 
 
 _II About Loving Germans_
@@ -5600,7 +5600,7 @@ Ma il punto non è che né voi né io potremmo mai crederci in mille anni. Il pu
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="As I Was Saying — ABOUT IMPENITENCE" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="As I Was Saying — ABOUT IMPENITENCE" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/avenger,archetype/fool,motif/chalk,motif/death,motif/garden,motif/lion,motif/pain,motif/well,concept/inner_life,concept/pride,concept/truth,setting/court,character/ancient_mariner"></span>
 
 
 _III About Impenitence_
@@ -5746,7 +5746,7 @@ Cosa curiosa, l'unico eccezionale barlume di [[Truth|verità]] in questa teoria 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="As I Was Saying — ABOUT TRAFFIC" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="As I Was Saying — ABOUT TRAFFIC" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/detective,archetype/prophet,motif/cross,motif/garden,motif/road,motif/soul,motif/stars,motif/well,motif/wheel,concept/doubt,concept/faith,concept/fear,concept/hope,concept/inner_life,concept/pride,concept/truth,form/riddle,histref/america,setting/america,setting/london"></span>
 
 
 _IV About Traffic_
@@ -5940,7 +5940,7 @@ I versi sopra riportati racchiudono una descrizione assai esatta della condizion
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="As I Was Saying — ABOUT THE CENSOR" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="As I Was Saying — ABOUT THE CENSOR" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/blood,motif/city,motif/dance,motif/time,motif/water,motif/well,concept/conversion,concept/doubt,concept/individualism,concept/reform,character/satan"></span>
 
 
 _V About the Censor_
@@ -6119,7 +6119,7 @@ ma di staccarsi dal loro relitto.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="As I Was Saying — ABOUT SHAMELESSNESS" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="As I Was Saying — ABOUT SHAMELESSNESS" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/death,motif/dust,motif/road,motif/well,concept/doubt,concept/education,concept/pride,concept/truth,character/sunday"></span>
 
 
 _VI About Shamelessness_
@@ -6346,7 +6346,7 @@ Poiché ciò che almeno sappiamo, nella maniera più fondamentale, è che l'uomo
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="As I Was Saying — ABOUT PURITANISM" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="As I Was Saying — ABOUT PURITANISM" data-chapter="part 07" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/death,motif/decay,motif/desire,motif/time,motif/uncanny,motif/well,concept/fanaticism,concept/history,concept/survival,concept/truth,concept/uncanny,form/fragment,form/history,histref/america,histref/puritanism,histref/renaissance,setting/america,setting/germany,character/oliver,character/sunday"></span>
 
 
 _VII About Puritanism_
@@ -6496,7 +6496,7 @@ I più di noi converrebbero che questa specie di patriottismo è un pericolo con
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="As I Was Saying — ABOUT SIR JAMES JEANS" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="As I Was Saying — ABOUT SIR JAMES JEANS" data-chapter="part 08" data-kind="excerpt" data-tags="motif/blood,motif/nature,motif/time,motif/well,concept/faith,concept/nature,concept/truth,form/biography"></span>
 
 
 _VIII About Sir James Jeans_
@@ -6654,7 +6654,7 @@ Oppure, ancora, in un uomo di tanta originalità scientifica, si ritrova la mede
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="As I Was Saying — ABOUT VOLTAIRE" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="As I Was Saying — ABOUT VOLTAIRE" data-chapter="part 09" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/animals,motif/love,motif/marriage,motif/nature,motif/winter,concept/charity,concept/democracy,concept/friendship,concept/history,concept/honour,concept/nature,concept/pride,concept/reconciliation,concept/reform,form/history,setting/germany"></span>
 
 
 _IX About Voltaire_
@@ -6824,7 +6824,7 @@ Questi due punti di pericolo, o centri d'inquietudine, l'inquietudine intellettu
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="As I Was Saying — ABOUT BELIEFS" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="As I Was Saying — ABOUT BELIEFS" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/blood,motif/death,motif/desire,motif/memory,motif/time,concept/body,concept/faith,concept/history,concept/paradox,concept/pride,concept/resurrection,concept/truth,form/essay,form/history"></span>
 
 
 _X About Beliefs_
@@ -6977,7 +6977,7 @@ Il Mago moderno, spesso un signore assai rispettabile, avrà forse mutato la pro
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="As I Was Saying — ABOUT MODERN GIRLS" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="As I Was Saying — ABOUT MODERN GIRLS" data-chapter="part 11" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/orphan,motif/dance,motif/desert,motif/garden,motif/home,motif/love,motif/snow,motif/tears,motif/well,concept/history,concept/madness,concept/self,form/history,form/melodrama,form/parable,form/tragicomedy,setting/desert,setting/oxford,character/mariana,character/monks,character/satan"></span>
 
 
 _XI About Modern Girls_
@@ -7221,7 +7221,7 @@ tutti gli uomini come fratelli.
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="As I Was Saying — ABOUT POETRY" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="As I Was Saying — ABOUT POETRY" data-chapter="part 12" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/fire,motif/garden,motif/love,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/fear,concept/hope,concept/nature,concept/slavery,form/fragment,character/ancient_mariner,character/kubla_khan"></span>
 
 
 _XII About Poetry_
@@ -7400,7 +7400,7 @@ più nuovi?
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="As I Was Saying — ABOUT BLONDES" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="As I Was Saying — ABOUT BLONDES" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/love,motif/nature,motif/well,concept/beauty,concept/fear,concept/inner_life,concept/nature,concept/truth,concept/wonder,histref/america,histref/dante,setting/america,setting/mountains"></span>
 
 
 _XIII About Blondes_
@@ -7626,7 +7626,7 @@ Alcuni paiono pronti a chiamare tutto ciò limpido; ma io sarei propenso a chiam
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="As I Was Saying — ABOUT S.T.C." data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="As I Was Saying — ABOUT S.T.C." data-chapter="part 14" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/dreams,motif/fire,motif/time,concept/doubt,concept/imagination,form/essay,form/masque,form/tragedy,histref/french_revolution,setting/germany,character/ancient_mariner,character/christabel,character/kubla_khan"></span>
 
 
 _XIV About S.T.C._
@@ -7785,7 +7785,7 @@ Sarebbe poi facile aggiungere, su questo piano secondario, che Coleridge soffrì
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="As I Was Saying — ABOUT THE PAST" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="As I Was Saying — ABOUT THE PAST" data-chapter="part 15" data-kind="excerpt" data-tags="archetype/prophet,motif/cross,motif/nature,motif/road,motif/well,concept/history,concept/nature,form/history,form/novel,histref/renaissance,character/ancient_mariner,character/apollo"></span>
 
 
 _XV About the Past_
@@ -7933,7 +7933,7 @@ Nessuno suppone che simili paralleli siano completi. Nessuno suppone che simili 
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="As I Was Saying — ABOUT MEREDITH" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="As I Was Saying — ABOUT MEREDITH" data-chapter="part 16" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/fire,motif/garden,motif/grave,motif/hill,motif/home,motif/memory,motif/nature,motif/silence,motif/supernatural,motif/well,concept/doubt,concept/freedom,concept/hope,concept/nature,concept/truth,histref/renaissance,character/chorus"></span>
 
 
 _XVI About Meredith_
@@ -8083,7 +8083,7 @@ Non si trattava tanto del fatto che Meredith non adorasse Dio, quanto del fatto 
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="As I Was Saying — ABOUT POLITICAL CREEDS" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="As I Was Saying — ABOUT POLITICAL CREEDS" data-chapter="part 17" data-kind="excerpt" data-tags="archetype/king,archetype/outsider,motif/death,motif/time,concept/greatness,concept/poverty,histref/crusades,histref/french_revolution,histref/islam,setting/london,setting/venice"></span>
 
 
 _XVII About Political Creeds_
@@ -8219,7 +8219,7 @@ Non è così con le stesse fazioni di Fascisti e Comunisti sul Continente. Poich
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="As I Was Saying — ABOUT SHIRTS" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="As I Was Saying — ABOUT SHIRTS" data-chapter="part 18" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/fire,motif/nature,motif/night,motif/rose,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/paradox"></span>
 
 
 _XVIII About Shirts_
@@ -8368,7 +8368,7 @@ Ed è espresso nel [[Paradox|paradosso]] che il più mite di tutti i sistemi di 
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="As I Was Saying — ABOUT WHITE FRONTS" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="As I Was Saying — ABOUT WHITE FRONTS" data-chapter="part 19" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/love,motif/nature,motif/noon,motif/well,concept/nature,concept/truth,concept/vanity,setting/court,setting/italy,setting/london,character/henry_viii"></span>
 
 
 _XIX About White Fronts_
@@ -8522,7 +8522,7 @@ Sono propenso a pensare che questo vago pregiudizio sia ora assai più pericolos
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="As I Was Saying — ABOUT IMPERMANENCE" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="As I Was Saying — ABOUT IMPERMANENCE" data-chapter="part 20" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/artist,archetype/king,motif/blood,motif/death,motif/rose,motif/silence,motif/time,concept/democracy,concept/despair,concept/doubt,concept/fear,concept/history,concept/sublime,concept/truth,form/dirge,form/history,setting/court,character/lord_mayor"></span>
 
 
 _XX About Impermanence_
@@ -8676,7 +8676,7 @@ Se l'esperimento democratico moderno fosse stato un esperimento democratico medi
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="As I Was Saying — ABOUT MORRIS" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="As I Was Saying — ABOUT MORRIS" data-chapter="part 21" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/machine,motif/mirror,motif/time,motif/well,concept/beauty,concept/conversion,concept/freedom,concept/imagination,concept/truth,histref/milton,histref/renaissance,setting/oxford,setting/russia,character/jones,character/milton"></span>
 
 
 _XXI About Morris_
@@ -8818,7 +8818,7 @@ A Morris si rimprovera ancora talvolta il fatto che egli scelse in gran parte, c
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="As I Was Saying — ABOUT WIDOWS" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="As I Was Saying — ABOUT WIDOWS" data-chapter="part 22" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/garden,motif/grave,motif/love,motif/time,concept/fear,concept/history,concept/inner_life,concept/self,form/biography,form/comedy,form/history,form/tragedy,character/tony_weller"></span>
 
 
 _XXII About Widows_
@@ -9076,7 +9076,7 @@ un deserto ululante.
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="As I Was Saying — ABOUT RELATIVITY" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="As I Was Saying — ABOUT RELATIVITY" data-chapter="part 23" data-kind="excerpt" data-tags="motif/cave,motif/memory,motif/nature,concept/fear,concept/hope,concept/martyrdom,concept/nature,concept/sublime,concept/truth,character/bottom"></span>
 
 
 _XXIII About Relativity_
@@ -9225,7 +9225,7 @@ Questo basterebbe a mostrare la futilità di codesto modo di pensare relativo e 
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="As I Was Saying — ABOUT CHANGING HUMAN NATURE" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="As I Was Saying — ABOUT CHANGING HUMAN NATURE" data-chapter="part 24" data-kind="excerpt" data-tags="motif/desire,motif/nature,concept/history,concept/hope,concept/nature,concept/slavery,concept/truth,form/history,character/witch"></span>
 
 
 _XXIV About Changing Human Nature_
@@ -9388,7 +9388,7 @@ Quanto alla persecuzione, essa è diventata una tetra beffa nel caso degli Ebrei
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="As I Was Saying — ABOUT HISTORIANS" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="As I Was Saying — ABOUT HISTORIANS" data-chapter="part 25" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,archetype/prophet,motif/death,motif/memory,motif/time,motif/well,concept/doubt,concept/history,concept/martyrdom,concept/temptation,concept/truth,concept/wonder,form/biography,form/history,histref/milton,character/milton,character/oliver"></span>
 
 
 _XXV About Historians_
@@ -9542,7 +9542,7 @@ La più celebre o alla moda tra le recenti monografie è il _Marlborough_ del si
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="As I Was Saying — ABOUT BAD COMPARISONS" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="As I Was Saying — ABOUT BAD COMPARISONS" data-chapter="part 26" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/flag,motif/garden,motif/love,motif/marriage,motif/poison,motif/rose,motif/soul,concept/education,concept/madness,concept/pride,concept/temptation"></span>
 
 
 _XXVI About Bad Comparisons_
@@ -9702,7 +9702,7 @@ Una contadina francese o fiamminga saprà ricavare assai di più dagli avanzi de
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="As I Was Saying — ABOUT CHANGE" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="As I Was Saying — ABOUT CHANGE" data-chapter="part 27" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/love,motif/nature,motif/tears,motif/time,motif/well,concept/eternity,concept/history,concept/nature,concept/temptation,form/comedy,form/history,form/novel,form/short_story,histref/puritanism,character/sunday"></span>
 
 
 _XXVII About Change_
@@ -9845,7 +9845,7 @@ Una generazione più tardi, la grande Jane Austen si confessò disgustata dalla 
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="As I Was Saying — ABOUT THE WORKERS" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="As I Was Saying — ABOUT THE WORKERS" data-chapter="part 28" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/bees,motif/cross,motif/desire,motif/garden,motif/hill,motif/insects,motif/well,concept/individualism,concept/poverty,concept/reform,concept/truth,histref/industrial_revolution"></span>
 
 
 _XXVIII About the Workers_
@@ -9991,7 +9991,7 @@ Su questa somiglianza, generalmente chiamata conflitto, tra un ordine industrial
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="As I Was Saying — ABOUT EDUCATION" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="As I Was Saying — ABOUT EDUCATION" data-chapter="part 29" data-kind="excerpt" data-tags="motif/bells,motif/lightning,motif/river,motif/time,concept/friendship,concept/history,form/history,histref/america,setting/america"></span>
 
 
 _XXIX About Education_
@@ -10136,7 +10136,7 @@ Ritengo assai importante insistere sul punto; poiché in questo momento è un pu
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="As I Was Saying — ABOUT THE TELEPHONE" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="As I Was Saying — ABOUT THE TELEPHONE" data-chapter="part 30" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,motif/moon,motif/nature,motif/prayer,motif/stars,motif/time,motif/well,concept/doubt,concept/education,concept/imagination,concept/nature,concept/sublime,concept/truth,concept/wonder,form/tragedy,character/achilles,character/chorus"></span>
 
 
 _XXX About the Telephone_
@@ -10418,7 +10418,7 @@ come si strilla.
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="As I Was Saying — ABOUT THE FILMS" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="As I Was Saying — ABOUT THE FILMS" data-chapter="part 31" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,archetype/monster,motif/desire,motif/grave,motif/soul,motif/time,motif/well,concept/education,concept/history,concept/pride,concept/suffering,concept/truth,form/history,form/melodrama,setting/battlefield,setting/oxford,character/queen,character/queen_elizabeth"></span>
 
 
 _XXXI About the Films_
@@ -10722,7 +10722,7 @@ al titolo di «Lo Schermo».
 
 
 
-<span class="atom-split" data-atom="part--part_32" data-title="As I Was Saying — ABOUT DARWINISM" data-chapter="part 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_32" data-title="As I Was Saying — ABOUT DARWINISM" data-chapter="part 32" data-kind="excerpt" data-tags="motif/birds,motif/dawn,motif/nature,motif/stars,motif/supernatural,motif/time,concept/conscience,concept/education,concept/freedom,concept/imagination,concept/nature,concept/paradox,concept/resurrection,concept/temptation,histref/renaissance,character/arthur"></span>
 
 
 _XXXII About Darwinism_
@@ -11006,7 +11006,7 @@ senza essere convinto.
 
 
 
-<span class="atom-split" data-atom="part--part_33" data-title="As I Was Saying — ABOUT SHOCKERS" data-chapter="part 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_33" data-title="As I Was Saying — ABOUT SHOCKERS" data-chapter="part 33" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/innocent,archetype/tyrant,motif/birds,motif/blood,motif/childhood,motif/death,motif/home,motif/love,motif/marriage,motif/night,motif/prison,motif/spring,motif/time,motif/well,motif/window,concept/conscience,concept/freedom,concept/guilt,concept/history,concept/imagination,concept/self,concept/survival,concept/truth,form/history,form/novel,form/satire,form/tragedy,histref/puritanism,character/duncan,character/lady_macbeth,character/queen"></span>
 
 
 _XXXIII About Shockers_
@@ -11280,7 +11280,7 @@ Le menti sinistre possono essere ottenebrate da oscuri e indegni sospetti che le
 
 
 
-<span class="atom-split" data-atom="part--part_34" data-title="As I Was Saying — ABOUT BEGGARS AND SOLDIERS" data-chapter="part 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_34" data-title="As I Was Saying — ABOUT BEGGARS AND SOLDIERS" data-chapter="part 34" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/well,concept/charity,concept/hope,concept/individualism,concept/resignation,form/tragedy,setting/london,character/autolycus,character/theseus"></span>
 
 
 _XXXIV About Beggars and Soldiers_
@@ -11426,7 +11426,7 @@ Come ho accennato, vi è qualcosa della medesima idea nel tollerare il soldato e
 
 
 
-<span class="atom-split" data-atom="part--part_35" data-title="As I Was Saying — ABOUT SACRIFICE" data-chapter="part 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_35" data-title="As I Was Saying — ABOUT SACRIFICE" data-chapter="part 35" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/nature,motif/time,concept/beauty,concept/courage,concept/doubt,concept/history,concept/hope,concept/nature,concept/survival,concept/truth,form/history"></span>
 
 
 _XXXV About Sacrifice_
@@ -11623,7 +11623,7 @@ se non la Virtù e il Culto di Dio.
 
 
 
-<span class="atom-split" data-atom="part--part_36" data-title="As I Was Saying — ABOUT ROYAL WEDDINGS" data-chapter="part 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_36" data-title="As I Was Saying — ABOUT ROYAL WEDDINGS" data-chapter="part 36" data-kind="excerpt" data-tags="motif/flag,motif/leaves,motif/marriage,motif/time,concept/democracy,concept/education,concept/history,concept/hope,concept/paradox,concept/resurrection,concept/truth,concept/wonder,form/history,histref/islam,histref/milton,setting/castle,setting/london,character/milton"></span>
 
 
 _XXXVI About Royal Weddings_

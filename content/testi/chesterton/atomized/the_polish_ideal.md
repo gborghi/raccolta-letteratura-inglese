@@ -169,7 +169,7 @@ John Bull's Other Island (1904).
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Polish_Ideal (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Polish_Ideal (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/horse,motif/tears,motif/wind,concept/fear,concept/hope,concept/pride,form/lyric,form/sonnet,setting/london,character/don_quixote"></span>
 
 
 # The Polish Ideal
@@ -284,7 +284,7 @@ Questi critici comunemente dicono di essere irritati da questo tipo romantico pe
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The_Polish_Ideal (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The_Polish_Ideal (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/horse,concept/doubt,concept/hope,form/novel,form/parable"></span>
 
 
 When the Poles defeated the Bolshevists in the field of battle,

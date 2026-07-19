@@ -782,7 +782,7 @@ This novella was first published in 1892 and concerns the interrelations of the 
 
 
 
-<span class="atom-split" data-atom="chapter_01_a_double_enigma" data-title="THE DOINGS OF RAFFLES HAW — Chapter 1: A DOUBLE ENIGMA" data-chapter="A DOUBLE ENIGMA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_a_double_enigma" data-title="THE DOINGS OF RAFFLES HAW — Chapter 1: A DOUBLE ENIGMA" data-chapter="A DOUBLE ENIGMA" data-kind="chapter" data-tags="archetype/artist,motif/snow,motif/winter,motif/home,form/novel,setting/england"></span>
 
 
 CHAPTER I. A DOUBLE ENIGMA.
@@ -859,7 +859,7 @@ Robert discreetly closed the door. A moment later a thud from without, and the q
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_tenant_of_the_new_hall" data-title="THE DOINGS OF RAFFLES HAW — Chapter 2: THE TENANT OF THE NEW HALL" data-chapter="THE TENANT OF THE NEW HALL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_tenant_of_the_new_hall" data-title="THE DOINGS OF RAFFLES HAW — Chapter 2: THE TENANT OF THE NEW HALL" data-chapter="THE TENANT OF THE NEW HALL" data-kind="chapter" data-tags="motif/great_house"></span>
 
 
 CHAPTER II. THE TENANT OF THE NEW HALL.
@@ -925,7 +925,7 @@ Here was, indeed, a chance. Robert eagerly assented, and walked up the winding d
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_house_of_wonders" data-title="THE DOINGS OF RAFFLES HAW — Chapter 3: A HOUSE OF WONDERS" data-chapter="A HOUSE OF WONDERS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_a_house_of_wonders" data-title="THE DOINGS OF RAFFLES HAW — Chapter 3: A HOUSE OF WONDERS" data-chapter="A HOUSE OF WONDERS" data-kind="chapter" data-tags="motif/great_house,concept/charity"></span>
 
 
 CHAPTER III. A HOUSE OF WONDERS.
@@ -974,7 +974,7 @@ He took a silver key from his watch chain, and began to unlock and draw out the 
 
 
 
-<span class="atom-split" data-atom="chapter_04_from_clime_to_clime" data-title="THE DOINGS OF RAFFLES HAW — Chapter 4: FROM CLIME TO CLIME" data-chapter="FROM CLIME TO CLIME" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_from_clime_to_clime" data-title="THE DOINGS OF RAFFLES HAW — Chapter 4: FROM CLIME TO CLIME" data-chapter="FROM CLIME TO CLIME" data-kind="chapter" data-tags="motif/great_house"></span>
 
 
 CHAPTER IV. FROM CLIME TO CLIME
@@ -1023,7 +1023,7 @@ As Robert McIntyre emerged from the balmy aromatic atmosphere of the [[Great Hou
 
 
 
-<span class="atom-split" data-atom="chapter_05_lauras_request" data-title="THE DOINGS OF RAFFLES HAW — Chapter 5: LAURA’S REQUEST" data-chapter="LAURAS REQUEST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_lauras_request" data-title="THE DOINGS OF RAFFLES HAW — Chapter 5: LAURA’S REQUEST" data-chapter="LAURAS REQUEST" data-kind="chapter" data-tags="motif/gems_jewels,motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/materialism,form/novel"></span>
 
 
 CHAPTER V. LAURA’S REQUEST.
@@ -1089,7 +1089,7 @@ It was a rare thing for Laura to show any emotion, and her brother marvelled sle
 
 
 
-<span class="atom-split" data-atom="chapter_06_a_strange_visitor" data-title="THE DOINGS OF RAFFLES HAW — Chapter 6: A STRANGE VISITOR" data-chapter="A STRANGE VISITOR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_a_strange_visitor" data-title="THE DOINGS OF RAFFLES HAW — Chapter 6: A STRANGE VISITOR" data-chapter="A STRANGE VISITOR" data-kind="chapter" data-tags="motif/animals,concept/vanity,concept/materialism,form/novel,setting/rural_england"></span>
 
 
 CHAPTER VI. A STRANGE VISITOR.
@@ -1121,7 +1121,7 @@ She bowed in the regal fashion which she had so suddenly adopted. Robert shouted
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_workings_of_wealth" data-title="THE DOINGS OF RAFFLES HAW — Chapter 7: THE WORKINGS OF WEALTH" data-chapter="THE WORKINGS OF WEALTH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_the_workings_of_wealth" data-title="THE DOINGS OF RAFFLES HAW — Chapter 7: THE WORKINGS OF WEALTH" data-chapter="THE WORKINGS OF WEALTH" data-kind="chapter" data-tags="motif/money_and_gold,concept/charity,concept/poverty,concept/greed_and_money,concept/secrecy_and_concealment,form/novel,setting/rural_england"></span>
 
 
 CHAPTER VII. THE WORKINGS OF WEALTH.
@@ -1157,7 +1157,7 @@ Laura McIntyre had a pretty beseeching way with her, which went rather piquantly
 
 
 
-<span class="atom-split" data-atom="chapter_08_a_billionaires_plans" data-title="THE DOINGS OF RAFFLES HAW — Chapter 8: A BILLIONAIRE’S PLANS" data-chapter="A BILLIONAIRES PLANS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_a_billionaires_plans" data-title="THE DOINGS OF RAFFLES HAW — Chapter 8: A BILLIONAIRE’S PLANS" data-chapter="A BILLIONAIRES PLANS" data-kind="chapter" data-tags="motif/money_and_gold,motif/flowers,concept/charity,concept/romantic_love,concept/deception,concept/greed_and_money,form/novel,setting/rural_england"></span>
 
 
 CHAPTER VIII. A BILLIONAIRE’S PLANS.
@@ -1218,7 +1218,7 @@ Robert sat staring, struck dumb by the audacity of the strange man’s words.
 
 
 
-<span class="atom-split" data-atom="chapter_09_a_new_departure" data-title="THE DOINGS OF RAFFLES HAW — Chapter 9: A NEW DEPARTURE" data-chapter="A NEW DEPARTURE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_a_new_departure" data-title="THE DOINGS OF RAFFLES HAW — Chapter 9: A NEW DEPARTURE" data-chapter="A NEW DEPARTURE" data-kind="chapter" data-tags="motif/money_and_gold,motif/wine_and_drink,concept/greed_and_money,concept/secrecy_and_concealment,form/novel,setting/rural_england"></span>
 
 
 CHAPTER IX. A NEW DEPARTURE.
@@ -1303,7 +1303,7 @@ She had hardly sealed her letter before her father and Robert returned. She clos
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_great_secret" data-title="THE DOINGS OF RAFFLES HAW — Chapter 10: THE GREAT SECRET" data-chapter="THE GREAT SECRET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_the_great_secret" data-title="THE DOINGS OF RAFFLES HAW — Chapter 10: THE GREAT SECRET" data-chapter="THE GREAT SECRET" data-kind="chapter" data-tags="motif/money_and_gold,motif/marriage,concept/secrecy_and_concealment,concept/romantic_love,concept/marriage_and_fidelity,concept/greed_and_money,form/novel"></span>
 
 
 CHAPTER X. THE GREAT SECRET.
@@ -1366,7 +1366,7 @@ Robert had sat listening to this strange statement with parted lips and staring 
 
 
 
-<span class="atom-split" data-atom="chapter_11_a_chemical_demonstration" data-title="THE DOINGS OF RAFFLES HAW — Chapter 11: A CHEMICAL DEMONSTRATION" data-chapter="A CHEMICAL DEMONSTRATION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_a_chemical_demonstration" data-title="THE DOINGS OF RAFFLES HAW — Chapter 11: A CHEMICAL DEMONSTRATION" data-chapter="A CHEMICAL DEMONSTRATION" data-kind="chapter" data-tags="motif/money_and_gold,motif/machine,motif/fire,concept/greed_and_money,concept/value_and_scarcity,form/novel,form/science_fiction"></span>
 
 
 CHAPTER XI. A CHEMICAL DEMONSTRATION.
@@ -1404,7 +1404,7 @@ He led him to a great iron-clamped chest which stood in the corner, and, throwin
 
 
 
-<span class="atom-split" data-atom="chapter_12_a_family_jar" data-title="THE DOINGS OF RAFFLES HAW — Chapter 12: A FAMILY JAR" data-chapter="A FAMILY JAR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_a_family_jar" data-title="THE DOINGS OF RAFFLES HAW — Chapter 12: A FAMILY JAR" data-chapter="A FAMILY JAR" data-kind="chapter" data-tags="motif/money_and_gold,concept/greed_and_money,concept/ambition,concept/family,concept/deception,form/novel"></span>
 
 
 CHAPTER XII. A FAMILY JAR.
@@ -1456,7 +1456,7 @@ He bowed, and was gone ere either of the McIntyres could say a word.
 
 
 
-<span class="atom-split" data-atom="chapter_13_a_midnight_venture" data-title="THE DOINGS OF RAFFLES HAW — Chapter 13: A MIDNIGHT VENTURE" data-chapter="A MIDNIGHT VENTURE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_a_midnight_venture" data-title="THE DOINGS OF RAFFLES HAW — Chapter 13: A MIDNIGHT VENTURE" data-chapter="A MIDNIGHT VENTURE" data-kind="chapter" data-tags="topos/night_journey,motif/storm,motif/night,motif/rain,concept/fear,concept/greed_and_money,form/novel"></span>
 
 
 CHAPTER XIII. A MIDNIGHT VENTURE.
@@ -1500,7 +1500,7 @@ Half-leading and half-dragging him they managed between them to convey the old g
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_spread_of_the_blight" data-title="THE DOINGS OF RAFFLES HAW — Chapter 14: THE SPREAD OF THE BLIGHT" data-chapter="THE SPREAD OF THE BLIGHT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_the_spread_of_the_blight" data-title="THE DOINGS OF RAFFLES HAW — Chapter 14: THE SPREAD OF THE BLIGHT" data-chapter="THE SPREAD OF THE BLIGHT" data-kind="chapter" data-tags="concept/charity"></span>
 
 
 CHAPTER XIV. THE SPREAD OF THE BLIGHT.
@@ -1563,7 +1563,7 @@ She had not said a word, but had stood with a face like a mask looking blankly i
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_greater_secret" data-title="THE DOINGS OF RAFFLES HAW — Chapter 15: THE GREATER SECRET" data-chapter="THE GREATER SECRET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_the_greater_secret" data-title="THE DOINGS OF RAFFLES HAW — Chapter 15: THE GREATER SECRET" data-chapter="THE GREATER SECRET" data-kind="chapter" data-tags="concept/charity"></span>
 
 
 CHAPTER XV. THE GREATER SECRET.

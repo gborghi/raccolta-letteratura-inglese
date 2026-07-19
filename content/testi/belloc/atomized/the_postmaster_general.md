@@ -2479,7 +2479,7 @@ And at dusk of that day it was the Sabbath.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Postmaster General (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Postmaster General (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/power_and_corruption,concept/capitalism,concept/socialism,concept/anarchism,form/novel,form/satire,setting/london"></span>
 
 
 CONTENTS
@@ -2555,7 +2555,7 @@ Durrant’s and Reynier’s were the popular names of the two competing groups. 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Postmaster General (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Postmaster General (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/machine,concept/capitalism,concept/power_and_corruption,concept/greed_and_money,form/novel,form/satire,setting/london"></span>
 
 
 Both Reynier’s lot and Durrant’s had manufactured short range private instruments for domestic use since 1953, each Company was well established and the shares of each stood at a premium; but when long-range Television was a fact — already arrived at experimentally over nearly a hundred miles and with prospects of indefinite extension — much larger developments were in prospect. The political — and City — interest of the movement centred upon which of the two rivals should obtain the contract and Charter.
@@ -2593,7 +2593,7 @@ So Halterton sat down, drew up his chair, and joined his visitor in studying tha
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Postmaster General (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Postmaster General (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/power_and_corruption,concept/hypocrisy,concept/greed_and_money,form/novel,form/satire,setting/london"></span>
 
 
 When Halterton had read the letter he sighed, and McAuley, by way of contrast, gave a sharp little cough — a cough of half-insinuating command.
@@ -2673,7 +2673,7 @@ McAuley was so provoked that he went too far; clicked his tongue impatiently.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Postmaster General (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Postmaster General (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/letters_and_writing,motif/secrets,concept/power_and_corruption,concept/deception,concept/greed_and_money,form/satire,form/novel,setting/london"></span>
 
 
 “Very well,” he said at last. “It might have been better to leave that part of it as a gentleman’s agreement, and verbal, but perhaps you’re right.”
@@ -2739,7 +2739,7 @@ He shook hands warmly with his host as the Postmaster-General showed him to the 
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Postmaster General (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Postmaster General (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/machine,setting/london"></span>
 
 
 “That’s a fine etching, Wilfrid!”
@@ -2773,7 +2773,7 @@ His own resignation ought to take place, then, in about six months, so that when
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Postmaster General (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Postmaster General (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/letters_and_writing,motif/secrets,concept/power_and_corruption,concept/greed_and_money,form/satire,form/novel,setting/london"></span>
 
 
 He made all these calculations for his own satisfaction, and through them all ran the substantial prospect of which he was now assured.
@@ -2815,7 +2815,7 @@ Here he was, with a document which no one else must see, lying about lost and to
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Postmaster General (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Postmaster General (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/money_gold,concept/power_and_corruption,concept/greed_and_money,concept/hypocrisy,concept/deception,form/satire,form/novel,setting/london"></span>
 
 
 He did it in only a few lines.
@@ -2857,7 +2857,7 @@ Once more did the sorely harassed Wilfrid Halterton challenge the gods — once 
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Postmaster General (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Postmaster General (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="concept/democracy"></span>
 
 
 The Postmaster-General had no desire to increase this stream of records, or to emphasize his tracks. He must possess his soul in patience until McAuley should come to him in his rooms at the House, or until in some other way they should meet again. It could not be long. And if he did not see McAuley after a sufficient delay he would write him another letter. But all that day there was no sign of McAuley.
@@ -2915,7 +2915,7 @@ You would notice him anywhere, for though he was but a rather short man, with he
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Postmaster General (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Postmaster General (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="archetype/self_made_man,concept/self_made_man_theme,concept/class_conflict,concept/ambition,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 He was an early riser, and this Thursday, March 5th, at 8 o’clock, he was sitting at his breakfast table, with his admirable wife opposite him, in the little front room of Number 7.
@@ -2959,7 +2959,7 @@ He had done admirably at that game, and she knew her limitations. Always in her 
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Postmaster General (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Postmaster General (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 And even as Honest Jack Williams (Secretary of State for Home Affairs) looked at those stocks and shares, and even as the eyes which she could just see above the propped-up paper got a look of concentration in them, while he fastened on the figures he was following, she admired him more for his excellent judgement of the market, which she well knew to be the chief glory of a public man.
@@ -3015,7 +3015,7 @@ He hung up the receiver again.
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Postmaster General (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Postmaster General (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The Rt. Honourable Jack Williams, M.P., one of H.M. Ministers, Secretary of State for Home Affairs, loved exercise, as any healthy, successful Englishman will. And though it threatened rain upon this early March day, he would walk, as was his custom, from Victoria to Whitehall. He would be at the office by ten.
@@ -3059,7 +3059,7 @@ He was a little ashamed to be going on like this — but what was he to do? Ther
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Postmaster General (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Postmaster General (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/letters_and_writing,motif/secrets,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 “Look here, Wilfrid, man, what’s all this? Don’t keep on ringing me up at these godless hours! I’m not dressed yet! What d’ye want? It is you, isn’t it?”
@@ -3115,7 +3115,7 @@ Then, before Halterton could interject a contradiction, a master thought struck 
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Postmaster General (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Postmaster General (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/letters_and_writing,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 Wilfrid Halterton was taken aback, breathless.
@@ -3165,7 +3165,7 @@ There were questions asked of the Postmaster-General, and more than one person w
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Postmaster General (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Postmaster General (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,form/satire,form/novel,setting/london"></span>
 
 
 But the questions which the great statesman had to answer were of a simpler sort. Had his attention been called to the delays in the delivery of letters in the Derby district?
@@ -3251,7 +3251,7 @@ Halterton got up and paced the room, after the manner usual to him when that mig
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Postmaster General (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Postmaster General (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/letters_and_writing,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 Wilfrid Halterton had read in many books that when one was in a tight place and has asked for advice one should be quite candid and get it all over in the first burst. He honestly meant to follow the judgement of the books, but it was difficult.
@@ -3343,7 +3343,7 @@ Halterton felt as though he had received a moderate blow in the pit of the stoma
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Postmaster General (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Postmaster General (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Besides which,” continued the Home Secretary cheerfully, “he liked to feel free to decide who to give the job to, eh?”
@@ -3419,7 +3419,7 @@ Mangey (whose nickname the ladies soften to “Manguey” — making the G hard,
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Postmaster General (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Postmaster General (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Officially she was his secretary whom he had married, but she could not have been his secretary for a very long time, for no one had seen her thirty months ago, and no one (except Harry) was even quite certain where they had married. She spoke of her relatives freely but not frequently. There seemed to be more than one of them: they were usually her cousins: they also seemed to be always travelling, and she often wished that they would come to England — but they never did. She never gave their names.
@@ -3447,7 +3447,7 @@ He added to his popularity by proclaiming loudly that he would never spend a pen
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Postmaster General (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Postmaster General (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 In the House itself Reginald Butler was despised but half popular. It was amusing to hear his passionate appeals for “the Poor.” He was unpopular when he went out crusading against what he called scandals — his favourite and harmless game.
@@ -3487,7 +3487,7 @@ The young Duke at once established a custom in the Department, of which it is di
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Postmaster General (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Postmaster General (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="concept/satire_of_society,concept/hypocrisy,concept/power_and_corruption,form/satire,form/novel,setting/london,setting/england"></span>
 
 
 The things — bronzes and marbles, paintings and etchings — that he bought, sometimes after passing through his own hands, sometimes without even that, were given to the National collections. The public had grown familiar with the little tab “Given by the Secretary of State for Fine Arts” stuck on to one picture after another in the great public galleries.
@@ -3523,7 +3523,7 @@ To tell the truth, Lord Papworthy by this time could never clearly remember whic
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Postmaster General (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Postmaster General (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="archetype/trickster,motif/secrets,concept/satire_of_society,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 Such had Lord Papworthy been for now so many administrations, when, as I have said, some two years ago he appeared on his return from Canada with a wife. I have told how his first cousin once removed, and heir, suffered a brief alarm. It was soon fairly evident that there would be no baby rival to his claim. But in other things more important than children the marriage was a success, as I hope I have also made clear. It gave the Ministry of Fine Arts new life. The brilliant circle surrounding young Lady Papworthy lent to the appreciation of the new schools, from miniature to architecture, and from enamels to large wrought-iron gates, a life and splendour which were not to be found in any other Cabinet in Europe.
@@ -3575,7 +3575,7 @@ There was no one else in the large billiard-room of the Club. All was in shadow,
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Postmaster General (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Postmaster General (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,motif/secrets,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 He played for a miss in baulk, carefully. While the other was making his first break of 20, until he missed his last stroke by a hair’s-breadth, Williams watched the table unceasingly, his face still on the game and away from those coats, where they hung side by side from the pegs. It was his turn again. He did not seem to be playing with his usual skill; the break was a short one. There were three such alterations, at the end of which McAuley was leading by somewhat more than his handicap of 50, and was pleased to be so leading. Williams as though feeling the challenge, began to play more carefully. He piled up another 32. By this time McAuley was warm to his work, and his following turn went off magnificently, the red potted outwards in the middle and spot cannoning after it into the farther right-hand pocket.
@@ -3619,7 +3619,7 @@ When Halterton and Hayling left the game was still 100 short, but the rest went 
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Postmaster General (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Postmaster General (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/secrets,motif/letters_and_writing,concept/deception,form/satire,form/novel,setting/london"></span>
 
 
 Then when the whiskies and sodas had come and disappeared again Williams said he must be getting home to bed. “I arranged a pair before I dined,” he said. “I shan’t bother to go back to the House. I’ll just take the train from the station downstairs, and get home in good time.”
@@ -3655,7 +3655,7 @@ Even as he went into the Club he had thought he saw for a moment over his should
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Postmaster General (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Postmaster General (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,motif/secrets,concept/hypocrisy,concept/deception,form/satire,form/novel,setting/london"></span>
 
 
 “Has Mr. Halterton been in here again?” he asked of the porter.
@@ -3703,7 +3703,7 @@ That, I may further inform any one of my readers who may be considering entering
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Postmaster General (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Postmaster General (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,concept/power_and_corruption,concept/deception,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 All these things having been accomplished, Honest Jack Williams turned off the heaters, replaced the iron in the back room, leaving everything tidy, and then came back for a quiet perusal of his prizes. He leaned back in his chair, holding one in each hand, and surveying them with affection and pride.
@@ -3743,7 +3743,7 @@ He decided — being the great strategist he was (and see what talents are neede
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="The Postmaster General (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="The Postmaster General (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,concept/power_and_corruption,concept/deception,concept/temptation,form/satire,form/novel,setting/london"></span>
 
 
 Having settled all this in his mind to his satisfaction, he at last went to bed and to sleep — it was nearly two o’clock in the morning.
@@ -3781,7 +3781,7 @@ It was too early for gentlemen to be astir on the Friday morning when James McAu
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="The Postmaster General (part 26)" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="The Postmaster General (part 26)" data-chapter="part 26" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 It was the intention of the one to wait patiently at some corner whence he could command the exit from the Marble Arch flat; of the other to wait patiently at some corner whence he could observe the emergence of his quarry from the main door of the flat north of the Park.
@@ -3817,7 +3817,7 @@ What was to be done next? It is not I who ask you the question, perfect reader. 
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="The Postmaster General (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="The Postmaster General (part 27)" data-chapter="part 27" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Statesman keeping a still more cautious eye on a financier.
@@ -3861,7 +3861,7 @@ These two Johnnies were watching each other! He was tempted to laugh out aloud! 
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="The Postmaster General (part 28)" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="The Postmaster General (part 28)" data-chapter="part 28" data-kind="excerpt" data-tags="motif/money_gold,concept/greed_and_money,concept/capitalism,concept/deception,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 “Halterton,” he said when he took up his stride again, “that was one of the funniest things I’ve heard in my life.”
@@ -3905,7 +3905,7 @@ She had bagged them both. They would both be in time for dinner. Having heard fr
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="The Postmaster General (part 29)" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="The Postmaster General (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Nor did that excellent politician let either of her guests know that the other was to be present — and of such is the Kingdom of Heaven.
@@ -3945,7 +3945,7 @@ Nor later, in the long interval before bedtime, did these two gentlemen confer. 
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="The Postmaster General (part 30)" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="The Postmaster General (part 30)" data-chapter="part 30" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Lady Caroline Balcombe, the great lady of the Anarchist Party, graciously receiving a political opponent.
@@ -3985,7 +3985,7 @@ Lady Caroline even kept him to lunch, seeing that he was willing to stop. She ha
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="The Postmaster General (part 31)" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="The Postmaster General (part 31)" data-chapter="part 31" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 She was curious, when she was quite independent and everyone had gone, to discover again from her brokers what was happening to Billies. She had been delighted to learn that they were still tumbling down, with an eagerness and a haste that consoled her for the price she had got. If she had waited, she would have got out on the wrong side. As it was, she had a little scoop and was fairly content. She had got out at 46s., which was nearly 11s. a share.
@@ -4011,7 +4011,7 @@ He began his new life by being taken on, without wage for his keep and for learn
 
 
 
-<span class="atom-split" data-atom="part--part_32" data-title="The Postmaster General (part 32)" data-chapter="part 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_32" data-title="The Postmaster General (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 From very early morning till very late at night the boy Aaron slaved silently — but always with a hidden anger in his heart against the outer world. He picked up English rapidly, reading in every moment of time he could snatch from the very brief free hours of his nights, and he earned unaided from such efforts as he deserved to earn, deserving as had his father before him through an unswerving tenacity. For the childless man whom he served, finding it more and more necessary, took him in to the petty business, until at last, when he had been but four years in [[London]], he was already holding his own among his comrades, and could almost pass as one who had been born in the security of that haven which his people find among the English. The business began to prosper in its tiny way, as it could not but prosper in such tireless hands as were young Aaron Levina’s, even in his ‘teens. Aunt Reba, very old when she had suffered that dreadful trial, and now beginning to fail, could be looked after. Aaron could now provide her with small luxuries. He could pay for a little help from neighbours.
@@ -4047,7 +4047,7 @@ The young man who had thus jumped out in his solicitude had been Wilfrid Haltert
 
 
 
-<span class="atom-split" data-atom="part--part_33" data-title="The Postmaster General (part 33)" data-chapter="part 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_33" data-title="The Postmaster General (part 33)" data-chapter="part 33" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The policemen were taking notes, the boy’s comrades, many of them of his own kind, were eagerly volunteering information. Young Halterton, uncertain, bewildered, full of compassion, wondering what to do, was told by the policemen that an ambulance was coming; they told him also whither the maimed child would be taken, to the [[London]] Hospital. At the same time he heard from one of the scholars who was more voluble than the rest in his eagerness to inform where the child’s brother, Aaron Levina, lived.
@@ -4095,7 +4095,7 @@ They had got him into a little bare room of the hospital, a little waiting-room,
 
 
 
-<span class="atom-split" data-atom="part--part_34" data-title="The Postmaster General (part 34)" data-chapter="part 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_34" data-title="The Postmaster General (part 34)" data-chapter="part 34" data-kind="excerpt" data-tags="concept/antisemitism,concept/charity,concept/forgiveness,concept/family,form/satire,form/novel,setting/london"></span>
 
 
 He was not acquainted with goodness, but goodness meant for him the half-faded memory of his father, Aunt Reba, the dead man who had left him the business, and — very much less — one or two acquaintances, hardly friends. The world was not good. Men were not good. Least of all were the Goyim good. And little he cared whether they were good or no.
@@ -4171,7 +4171,7 @@ They met but rarely after Jacob was back at his work again. Each was a little sh
 
 
 
-<span class="atom-split" data-atom="part--part_35" data-title="The Postmaster General (part 35)" data-chapter="part 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_35" data-title="The Postmaster General (part 35)" data-chapter="part 35" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 There could be no question of money relations, which Halterton by this time would have dreaded even to mention.
@@ -4209,7 +4209,7 @@ If public life had an interest for her it had the interest of money, as it has f
 
 
 
-<span class="atom-split" data-atom="part--part_36" data-title="The Postmaster General (part 36)" data-chapter="part 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_36" data-title="The Postmaster General (part 36)" data-chapter="part 36" data-kind="excerpt" data-tags="motif/money_gold,concept/satire_of_society,concept/power_and_corruption,concept/fanaticism,concept/greed_and_money,form/satire,form/novel,setting/london"></span>
 
 
 Now she had news of the Television contract and the rivalry for it. She had heard of the Committee’s report in favour of Reynier’s. She had then heard — three days later — rumours of a check, but nothing more. This fresh instalment from her lover was something out of the way — a chance — a certainty.
@@ -4245,7 +4245,7 @@ As for the Chancellor of the Exchequer and the Chief Whip, it is of course possi
 
 
 
-<span class="atom-split" data-atom="part--part_37" data-title="The Postmaster General (part 37)" data-chapter="part 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_37" data-title="The Postmaster General (part 37)" data-chapter="part 37" data-kind="excerpt" data-tags="archetype/fanatic,concept/fanaticism,concept/satire_of_society,concept/power_and_corruption,form/satire,form/novel,setting/london"></span>
 
 
 In this case, had Reginald Butler known the world, he could easily have learned that neither the Chancellor of the Exchequer nor the Chief Whip had done anything upon a scale which the most exact censor of political morals could condemn. They had, of course, been familiar with the fact that Durrant’s was the favoured company, and naturally it was McAuley’s brother, the Attorney-General, who, because he was their colleague, had acted in the matter. He had met his two fellow-ministers at an informal breakfast at Number 11, and handed them, merely as a formality, an insignificant parcel of shares, worth no more than the nominal sum of £3,000 at par. What is more, it had of course been arranged that the shares should be owed for; he had been particular to tell them that they could pay when they liked. But small sums of that kind are not likely to live in the memory of men occupied in high affairs of State.
@@ -4273,7 +4273,7 @@ The letter was just in time to be set up. It would appear on the usual day of pu
 
 
 
-<span class="atom-split" data-atom="part--part_38" data-title="The Postmaster General (part 38)" data-chapter="part 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_38" data-title="The Postmaster General (part 38)" data-chapter="part 38" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Fleet Street had hold of it in that forenoon. Desportes had telephoned to one or two friends in the high political world and had heard their emphatic declaration that the thing should not be allowed to pass unnoticed. The letter was alluded to, of course, although its terms were not given in all the early editions of Desportes’ evening papers on that day, Monday, March the 9th, the day when Halterton had gone back to his office so early, and McAuley had stayed on to luncheon at Sandlings with Lady Caroline; the Monday when Lady Caroline had entered the House so late, to feast once more upon Halterton’s woe-begone face.
@@ -4307,7 +4307,7 @@ Wilfrid Halterton, then, was on his feet, and had made his two opening points: (
 
 
 
-<span class="atom-split" data-atom="part--part_39" data-title="The Postmaster General (part 39)" data-chapter="part 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_39" data-title="The Postmaster General (part 39)" data-chapter="part 39" data-kind="excerpt" data-tags="concept/hypocrisy,concept/deception,concept/power_and_corruption,concept/crime_and_punishment,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 All these six points came out duly ticked with their numbers attached to them on the tapes in the clubs, and were there received by eager watchers with the same sympathy as by the senators at Westminster. Wilfrid Halterton proceeded to the final matter with an emphasis which included several blows delivered with uncertain fist upon the empty polished wooden box which stands on the table in the House of Commons, especially strengthened with brass bands to withstand such assaults of oratory. He assured the House, and his beloved Country, and the universe at large, that the whole thing was a lie. If his personal assurance were further required, he would give it there and then. He had not received one penny from anyone interested in the Television Contract. That contract would be assigned in due course, when the long and careful deliberations which were now drawing to their conclusion should have reached a satisfactory end. As yet (and he struck the box again — unfortunately catching the brass edges of it, which was painful), as yet, he repeated (restraining a temptation to suck the injured knuckle) not a word had been written which might give to any of those who were tendering for the contract the least encouragement.
@@ -4337,7 +4337,7 @@ The Committee examined five hundred and seventeen witnesses, all on oath, and of
 
 
 
-<span class="atom-split" data-atom="part--part_40" data-title="The Postmaster General (part 40)" data-chapter="part 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_40" data-title="The Postmaster General (part 40)" data-chapter="part 40" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 * * *
@@ -4383,7 +4383,7 @@ Lord Papworthy had forked out in the end, and she had bitterly submitted to his 
 
 
 
-<span class="atom-split" data-atom="part--part_41" data-title="The Postmaster General (part 41)" data-chapter="part 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_41" data-title="The Postmaster General (part 41)" data-chapter="part 41" data-kind="excerpt" data-tags="motif/money_gold,motif/letters_and_writing,concept/power_and_corruption,concept/greed_and_money,concept/capitalism,concept/deception,form/satire,form/novel,setting/london"></span>
 
 
 Billies, I say, had begun to creep up — too late for her — but just in time for the wiser and more sanely balanced. They had begun to creep up in time for the most sanely balanced of all, Honest Jack Williams. There could be no doubt now what would happen in the long run to Billies. The trail could only have one ending; as for the Committee, even if it were not the author of a unanimous report, it would only mean that the minority would be still more emphatic in its condemnation of Butler’s despicable accusations than the majority — and we have seen that it was so. It was all plain sailing for the Bulls, and among the first of those who landed their fish — in his case a big wad, discreetly bought in little packets by many agents to avoid too sudden a jump — was the Home Secretary; acting, of course, through the usual channels.
@@ -4437,7 +4437,7 @@ Jolly Jack Williams had lost nothing of his jollity through years of official im
 
 
 
-<span class="atom-split" data-atom="part--part_42" data-title="The Postmaster General (part 42)" data-chapter="part 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_42" data-title="The Postmaster General (part 42)" data-chapter="part 42" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/greed_and_money,concept/crime_and_punishment,concept/satire_of_society,concept/justice_right_and_wrong,form/satire,form/novel,setting/london"></span>
 
 
 “Don’t!” said J.
@@ -4483,7 +4483,7 @@ Further, in his non-official capacity, he was a deeply religious man, practising
 
 
 
-<span class="atom-split" data-atom="part--part_43" data-title="The Postmaster General (part 43)" data-chapter="part 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_43" data-title="The Postmaster General (part 43)" data-chapter="part 43" data-kind="excerpt" data-tags="concept/crime_and_punishment,concept/justice_right_and_wrong,concept/hypocrisy,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 He had sat in his time in the House of Commons as an Anarchist, though strongly in the Right Wing of that party, and regarded as almost a Socialist by his more advanced brethren. Later, upon leaving the House, and in the interval between this and his elevation to the Bench, he had frankly joined the Socialist party, his sympathies with which were known (though of course he could not now express them except in his unofficial capacity) to have strengthened with the years. Everything in the man tended to emphasize his conservatism as he advanced in life.
@@ -4519,7 +4519,7 @@ Now these funds cannot be allowed to lie idle. They must, like other money, earn
 
 
 
-<span class="atom-split" data-atom="part--part_44" data-title="The Postmaster General (part 44)" data-chapter="part 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_44" data-title="The Postmaster General (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="motif/money_gold,motif/secrets,concept/power_and_corruption,concept/greed_and_money,concept/satire_of_society,concept/hypocrisy,form/satire,form/novel,setting/london"></span>
 
 
 They are sometimes very large; in fact, Longpenny House in Longpenny Square was built out of but a fraction of one such fund — which is some indication of their scale.
@@ -4579,7 +4579,7 @@ He was believed, and entered. As the door opened upon the dense throng within, a
 
 
 
-<span class="atom-split" data-atom="part--part_45" data-title="The Postmaster General (part 45)" data-chapter="part 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_45" data-title="The Postmaster General (part 45)" data-chapter="part 45" data-kind="excerpt" data-tags="concept/crime_and_punishment,concept/justice_right_and_wrong,concept/hypocrisy,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
 
 
 “Would you pass that on, to one of the Counsel for the Prosecution? There. That man there. Mr. Tartle. Do you think you could get it passed up to Mr. Tartle?”
@@ -4613,7 +4613,7 @@ The admonition was short. The judge emphasized the heinousness of the crime, and
 
 
 
-<span class="atom-split" data-atom="part--part_46" data-title="The Postmaster General (part 46)" data-chapter="part 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_46" data-title="The Postmaster General (part 46)" data-chapter="part 46" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The foreman of the jury, an admirable specimen of that sound common sense which makes our jury system the envy of the world.
@@ -4651,7 +4651,7 @@ To have that brother with him as much as possible was now the one object of Laws
 
 
 
-<span class="atom-split" data-atom="part--part_47" data-title="The Postmaster General (part 47)" data-chapter="part 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_47" data-title="The Postmaster General (part 47)" data-chapter="part 47" data-kind="excerpt" data-tags="concept/antisemitism,concept/family,concept/economics,concept/moderation,form/satire,form/novel,setting/england"></span>
 
 
 But though Lawson on this high mountain peak of international finance had bothered no more about Billies than about the price of Danish butter, he could not remain ignorant of the scene in the House of Commons, the public denials of the accused, the Committee, and the trial — especially the trial. It was a subject that bored him, but he could not help knowing the main lines of it, in company with all England.
@@ -4697,7 +4697,7 @@ After all, there had been an accumulation of bother. Halterton had come out of i
 
 
 
-<span class="atom-split" data-atom="part--part_48" data-title="The Postmaster General (part 48)" data-chapter="part 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_48" data-title="The Postmaster General (part 48)" data-chapter="part 48" data-kind="excerpt" data-tags="concept/conscience,concept/guilt,concept/suffering,concept/power_and_corruption,concept/friendship,concept/antisemitism,form/satire,form/novel,setting/london"></span>
 
 
 Anyhow, clearly he must call upon Wilfrid Halterton and assure him that the sympathy which all had felt for him during his recent ordeal had been stronger with him than with any other. He must congratulate Wilfrid Halterton upon the general support he had had and on the higher position in public life which must be the consequence of it.
@@ -4737,7 +4737,7 @@ Halterton told him of the filching of the letter. He told him of the conversatio
 
 
 
-<span class="atom-split" data-atom="part--part_49" data-title="The Postmaster General (part 49)" data-chapter="part 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_49" data-title="The Postmaster General (part 49)" data-chapter="part 49" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “I can’t tell you how glad I am you have spoken, Halterton,” he said. “And now I am going to give you some further advice. Do you think you’ll take it?”
@@ -4787,7 +4787,7 @@ Young Guy des Cuoyes’ father, the General, had done the right thing by him. He
 
 
 
-<span class="atom-split" data-atom="part--part_50" data-title="The Postmaster General (part 50)" data-chapter="part 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_50" data-title="The Postmaster General (part 50)" data-chapter="part 50" data-kind="excerpt" data-tags="motif/secrets,motif/money_gold,concept/deception,concept/capitalism,concept/economics,form/satire,form/novel,setting/london"></span>
 
 
 He had fallen on his feet more or less, and the better for having no close relatives. It was the father of a friend of his, a friend whom he had made at Oxford, who gave him his chance — an odd chance but sufficient. He was given a place in that father’s large business, the main purpose of which was the buying and selling of houses, and as a side line, advice on refitting or the laying out of grounds, and the rest of it.
@@ -4829,7 +4829,7 @@ Guy began to speak.
 
 
 
-<span class="atom-split" data-atom="part--part_51" data-title="The Postmaster General (part 51)" data-chapter="part 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_51" data-title="The Postmaster General (part 51)" data-chapter="part 51" data-kind="excerpt" data-tags="motif/money_and_gold,concept/power_and_corruption,concept/greed_and_money,concept/deception,concept/capitalism,form/satire,form/novel,setting/london"></span>
 
 
 It was four times more than Guy had ever had before, even for the biggest job, and if he had ever allowed himself to show the least sign of surprise, he would have done so then. But he did not. He took it as calmly as he took all things. For he met all this with his superb indifference. They passed apparently unheeded over that large blonde head, with its dull, contented expression, so empty to the onlooker and so full within.
@@ -4917,7 +4917,7 @@ Then des Cuoyes, who was a little anxious for his dressing time, and had begun t
 
 
 
-<span class="atom-split" data-atom="part--part_52" data-title="The Postmaster General (part 52)" data-chapter="part 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_52" data-title="The Postmaster General (part 52)" data-chapter="part 52" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 XVII
@@ -4969,7 +4969,7 @@ A lesser man might have expected that McAuley would forewarn and arm his partner
 
 
 
-<span class="atom-split" data-atom="part--part_53" data-title="The Postmaster General (part 53)" data-chapter="part 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_53" data-title="The Postmaster General (part 53)" data-chapter="part 53" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/hypocrisy,concept/deception,concept/capitalism,concept/greed_and_money,form/satire,form/novel,setting/london"></span>
 
 
 McAuley had thrown himself upon Lawson’s mercy — but that Williams would give way as McAuley had given way Lawson did not believe. There would be a struggle. But Lawson held the trumps; whereas for McAuley it had only been a change of masters, and a change which he had preferred.
@@ -5023,7 +5023,7 @@ During Wednesday the troops stood to arms on either side. The only incident was 
 
 
 
-<span class="atom-split" data-atom="part--part_54" data-title="The Postmaster General (part 54)" data-chapter="part 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_54" data-title="The Postmaster General (part 54)" data-chapter="part 54" data-kind="excerpt" data-tags="motif/food_and_feasting,motif/wine_and_drink,concept/power_and_corruption,concept/deception,concept/capitalism,form/satire,form/novel,setting/london"></span>
 
 
 Jack Williams telephoned to James McAuley, heard all about it, and said he would be delighted to come.
@@ -5083,7 +5083,7 @@ Coffee had just been served. Guy des Cuoyes sipped his, and then suddenly pulled
 
 
 
-<span class="atom-split" data-atom="part--part_55" data-title="The Postmaster General (part 55)" data-chapter="part 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_55" data-title="The Postmaster General (part 55)" data-chapter="part 55" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/deception,concept/greed_and_money,concept/capitalism,form/satire,form/novel,setting/london"></span>
 
 
 “I say,” he said, “do you know it’s a quarter to ten — what?” And he got up. The McAuleys and Williams half lifted themselves. “Don’t move, please,” drawled Guy. “I’ve only just remembered there’s a man I have got to talk to. I will be back in a minute, what?” And he strolled leisurely away. Nor did he return.
@@ -5167,7 +5167,7 @@ Arthur Lawson spent the intervening few minutes until Halterton should arrive in
 
 
 
-<span class="atom-split" data-atom="part--part_56" data-title="The Postmaster General (part 56)" data-chapter="part 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_56" data-title="The Postmaster General (part 56)" data-chapter="part 56" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Thank you,” said Lawson. And as though he had not the best memory in [[London]], he solemnly pulled out his card again and jotted down “10.30, or as soon after as possible,” after the word “villain.” Five minutes later Mr. Halterton, who had whizzed through the Park, was announced.
@@ -5219,7 +5219,7 @@ The messenger went out, and Honest Jack Williams with his strict regard for trut
 
 
 
-<span class="atom-split" data-atom="part--part_57" data-title="The Postmaster General (part 57)" data-chapter="part 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_57" data-title="The Postmaster General (part 57)" data-chapter="part 57" data-kind="excerpt" data-tags="concept/antisemitism,concept/power_and_corruption,concept/capitalism,concept/greed_and_money,concept/hypocrisy,form/satire,form/novel,setting/london"></span>
 
 
 How to turn even a Home Secretary into an anti-Semite.

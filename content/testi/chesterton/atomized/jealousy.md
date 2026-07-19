@@ -147,7 +147,7 @@ il patrocinio di Dennis Bradley.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Jealousy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Jealousy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,concept/doubt,concept/faith,concept/jealousy,histref/catholic_church,histref/dante,histref/islam,character/arthur"></span>
 
 
 [[Jealousy|JEALOUSY]]  

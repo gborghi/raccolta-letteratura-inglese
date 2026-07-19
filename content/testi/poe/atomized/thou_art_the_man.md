@@ -559,7 +559,7 @@ afterward a new life.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Thou Art the Man (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Thou Art the Man (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/double,motif/city,motif/home,motif/horse,motif/love,motif/night,motif/summer,motif/swallow,motif/well,concept/body,concept/conscience,character/pistol,character/sunday"></span>
 
 
 I will now play the Oedipus to the Rattleborough enigma. I will expound to
@@ -654,7 +654,7 @@ he had had a fit of the ague.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Thou Art the Man (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Thou Art the Man (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/horse,motif/nature,motif/night,motif/road,motif/time,motif/water,motif/well,concept/body,concept/charity,concept/despair,concept/doubt,concept/nature,concept/providence,character/bottom,character/nurse"></span>
 
 
 At first he was too much overpowered with grief to be able to do any thing
@@ -760,7 +760,7 @@ Shuttleworthy’s disappearance.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Thou Art the Man (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Thou Art the Man (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/doubt,concept/forgiveness,concept/hope,concept/revenge,character/bottom"></span>
 
 
 Matters now wore a very serious aspect for Mr. Pennifeather, and it was
@@ -857,7 +857,7 @@ upon the handle. The blade of this knife was open and bloody.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Thou Art the Man (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Thou Art the Man (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/horse,motif/tears,motif/well,concept/doubt,concept/guilt,concept/imagination,concept/truth,setting/court"></span>
 
 
 No [[Doubt|doubt]] now remained of the [[Guilt|guilt]] of the nephew, and immediately upon
@@ -948,7 +948,7 @@ the inexorable vengeance of the law.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Thou Art the Man (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Thou Art the Man (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="topos/double,motif/city,motif/death,motif/silence,motif/soul,concept/doubt,concept/melancholy,concept/poverty,concept/providence"></span>
 
 
 In the meantime, the noble behavior of “Old Charley Goodfellow,” had
@@ -1061,7 +1061,7 @@ imprisoned and doomed to die.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Thou Art the Man (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Thou Art the Man (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/horse,motif/well,motif/wheel,concept/body,concept/conscience,character/bottom,character/pistol"></span>
 
 
 What he recounted was in substance this:—He followed his victim to

@@ -795,7 +795,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Comedy of Errors — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Comedy of Errors — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/quest,motif/crown,motif/death,motif/home,motif/love,motif/nature,motif/ship,motif/soul,motif/well,motif/wind,concept/fear,concept/honour,concept/hope,concept/nature,form/comedy,setting/ship,character/egeon,character/speed"></span>
 
 
 | Speaker | Line |
@@ -818,7 +818,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Comedy of Errors — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Comedy of Errors — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/quest,archetype/villain,motif/city,motif/clock,motif/home,motif/sleep,motif/soul,motif/time,motif/water,motif/wind,concept/body,concept/fear,concept/hope,concept/melancholy,form/comedy,character/antipholus_of_syracuse,character/dromio_of_ephesus,character/dromio_of_syracuse"></span>
 
 
 | Speaker | Line |
@@ -861,7 +861,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Comedy of Errors — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Comedy of Errors — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/clock,motif/cross,motif/home,motif/jewel,motif/love,motif/marriage,motif/pain,motif/soul,motif/time,motif/well,concept/beauty,concept/jealousy,concept/self,form/comedy,character/adriana,character/antipholus_of_ephesus,character/dromio_of_ephesus,character/luciana"></span>
 
 
 | Speaker | Line |
@@ -914,7 +914,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Comedy of Errors — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Comedy of Errors — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/blood,motif/cross,motif/home,motif/love,motif/nature,motif/poison,motif/sleep,motif/time,motif/water,motif/well,concept/body,concept/hope,concept/nature,concept/self,form/comedy,character/adriana,character/antipholus_of_syracuse,character/dromio_of_syracuse,character/luciana"></span>
 
 
 | Speaker | Line |
@@ -1010,7 +1010,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Comedy of Errors — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Comedy of Errors — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/desert,motif/grave,motif/home,motif/horse,motif/pain,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/honour,concept/hope,form/comedy,setting/desert,character/adriana,character/angelo,character/antipholus_of_ephesus,character/dromio_of_ephesus,character/dromio_of_syracuse"></span>
 
 
 | Speaker | Line |
@@ -1092,7 +1092,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Comedy of Errors — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Comedy of Errors — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,motif/death,motif/home,motif/horse,motif/love,motif/marriage,motif/night,motif/road,motif/ship,motif/soul,motif/spring,motif/tears,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/winter,concept/body,concept/faith,concept/fear,concept/hope,concept/self,concept/truth,concept/wonder,form/comedy,histref/america,setting/america,setting/ship,character/angelo,character/antipholus_of_syracuse,character/dromio_of_syracuse,character/luciana,character/mermaid,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1172,7 +1172,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Comedy of Errors — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Comedy of Errors — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/clock,motif/home,motif/love,motif/prison,motif/ship,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,form/comedy,setting/ship,character/adriana,character/angelo,character/antipholus_of_ephesus,character/dromio_of_ephesus,character/dromio_of_syracuse"></span>
 
 
 | Speaker | Line |
@@ -1226,7 +1226,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Comedy of Errors — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Comedy of Errors — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/clock,motif/home,motif/love,motif/night,motif/time,motif/well,concept/beauty,concept/fear,concept/wonder,form/comedy,character/adriana,character/dromio_of_syracuse,character/luciana"></span>
 
 
 | Speaker | Line |
@@ -1276,7 +1276,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Comedy of Errors — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Comedy of Errors — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/fire,motif/home,motif/prison,motif/well,concept/body,concept/doubt,concept/hope,concept/pride,form/comedy,character/antipholus_of_syracuse,character/dromio_of_syracuse,character/satan,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1315,7 +1315,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Comedy of Errors — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Comedy of Errors — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/villain,motif/home,motif/marriage,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/faith,concept/fear,concept/mercy,concept/truth,form/comedy,form/fable,character/adriana,character/angelo,character/antipholus_of_ephesus,character/antipholus_of_syracuse,character/dromio_of_ephesus,character/dromio_of_syracuse,character/luciana,character/satan,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1420,7 +1420,7 @@ The [[Comedy]] of Errors
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Comedy of Errors — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Comedy of Errors — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/villain,motif/blood,motif/city,motif/death,motif/fire,motif/home,motif/love,motif/memory,motif/night,motif/sleep,motif/snow,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/despair,concept/fear,concept/freedom,concept/honour,concept/hope,concept/imagination,concept/imprisonment,concept/madness,concept/melancholy,concept/self,concept/truth,concept/wonder,form/comedy,character/adriana,character/angelo,character/antipholus_of_ephesus,character/antipholus_of_syracuse,character/costard,character/dromio_of_ephesus,character/dromio_of_syracuse,character/dumaine,character/egeon,character/emilia,character/ferdinand,character/longueville,character/luciana,character/nurse,character/princess_of_france,character/queen,character/young_king"></span>
 
 
 | Speaker | Line |

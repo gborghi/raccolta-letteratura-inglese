@@ -404,7 +404,7 @@ it led me to you.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="To Frances (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="To Frances (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/dawn,motif/fire,motif/grave,motif/home,motif/horse,motif/journey,motif/love,motif/soul,motif/time,motif/uncanny,motif/water,motif/well,concept/body,concept/hope,concept/pride,concept/uncanny,concept/wonder,form/inscription,setting/london"></span>
 
 
 G.K. Chesterton to Frances Blogg (189?)
@@ -560,7 +560,7 @@ Sono costretto ad ammettere che non credo di essere bravo a far compere. General
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="To Frances (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="To Frances (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/blood,motif/clock,motif/death,motif/fire,motif/home,motif/love,motif/sleep,motif/soul,motif/water,motif/well,concept/beauty,concept/wonder,form/inscription,form/satire,character/michael,character/sunday"></span>
 
 
 I rejected the article which was dearer because it had been hallowed
@@ -701,7 +701,7 @@ Dici di voler parlare con me della [[Death|morte]]: le mie opinioni sulla [[Deat
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="To Frances (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="To Frances (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/desire,motif/hill,motif/home,motif/love,motif/night,motif/soul,motif/supernatural,motif/tears,motif/time,motif/water,motif/well,concept/friendship,concept/hope,concept/humility,concept/pride,concept/self,concept/self_sufficiency,form/biography,character/bertram,character/christ,character/edmund"></span>
 
 
 ... Gilbert Keith Chesterton was born of comfortable but honest
@@ -824,7 +824,7 @@ Frequentò per un [[Time|tempo]] una Scuola d'Arte.  Là incontrò moltissime pe
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="To Frances (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="To Frances (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/birds,motif/garden,motif/horse,motif/love,motif/time,concept/self"></span>
 
 
 One pleasant Saturday afternoon [his friend] Lucian said to him, 'I am

@@ -1069,7 +1069,7 @@ It is through the Railway, and even then long after its first effect might have 
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Historic Thames (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Historic Thames (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 This history of the Thames was first published in 1907 – the first edition being illustrated (somewhat at random) with photographs of the [[River|river]]. Belloc’s account focuses on the importance of the [[River|river]] to [[London]] and England more widely, in economic, military and political terms, showing how the geography of the waterway has helped shaped the country’s history. The book was very enthusiastically received upon first publication and is still highly regarded by modern historians of [[London]].
@@ -1107,7 +1107,7 @@ The problem of communication under early conditions is serious. Even in a high c
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Historic Thames (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Historic Thames (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/river,setting/london,setting/oxford"></span>
 
 
 Under the primitive conditions of which we speak a [[River|river]] of moderate depth, not too rapid in its current and perennial in its supply, is much the best means by which men may communicate. It will easily carry, by the exertions of a couple of men, some hundred times the weight the same men could have carried as porters by land. It furnishes, if it is broad, a certain security from attack during the journey; it will permit the rapid passage of a large number abreast where the wood tracks and paths of the land compel a long procession; and it furnishes the first of the necessities of life continually as the journey proceeds.
@@ -1139,7 +1139,7 @@ The river, then, from Sandford downward has afforded upon either bank innumerabl
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Historic Thames (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Historic Thames (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london,setting/oxford"></span>
 
 
 There thus arose along the whole course of the Thames from its source to [[London]] a series of villages and towns, increasing in importance as the stream deepened and gave greater facilities to traffic, and bound together by the common life of the [[River|river]]. It was their highway, and it is as a highway that it must first be regarded.
@@ -1169,7 +1169,7 @@ The swish of the tide continues up beyond the broad estuary, the sand-banks, and
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Historic Thames (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Historic Thames (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 The true point of division which separates, so far as human history is concerned, the lower from the upper part of such rivers is the first bridge, and, what almost always accompanies the first bridge, the first great town. To repeat the obvious parallel, Rouen was this point upon the Seine; upon the Thames this point was the Bridge of [[London]]. It is with the habitable and historic Thames Valley above the bridge that this book has to deal, and it will later be to the reader’s purpose to consider why [[London]] Bridge crossed the stream just where it did, and of what moment that site has been in the history of the Thames and of England.
@@ -1201,7 +1201,7 @@ The Thames also has entered to a large, though hardly to a determining, extent i
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Historic Thames (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Historic Thames (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 We have already said that the establishment of the site of [[London]] Bridge was a capital point in the history of the [[River|river]] and the principal line of division in its course. What were the topographical conditions which caused the [[River|river]] to be crossed at this point rather than at another?
@@ -1227,7 +1227,7 @@ In most rivers one has nothing more to do in describing those two sections than 
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Historic Thames (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Historic Thames (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/river,motif/water,setting/oxford"></span>
 
 
 With the Thames this is not the case. The two portions of the [[River|river]] are sharply divided in the vicinity of [[Oxford]], and that for reasons which we have already seen when we were speaking of the suitability of its banks for habitation. The upper Thames is indeed shallow and narrow, and there are innumerable places above [[Oxford]] where it could be crossed, so far as the volume of its waters was concerned. It was crossed by husbandmen wherever a village or a farm stood upon its banks. Perhaps the highest point at which it had to be crossed at one chosen spot is to be discovered in the word Somerford Keynes, but the ease with which the [[Water|water]] itself could be traversed is apparent rather in the absence than in the presence of names of this sort upon the upper Thames. Shifford, for instance, which used to be spelt Siford, may just as well have been named from the crossing of the Great Brook as from the crossing of the Thames. The only other is Duxford.
@@ -1261,7 +1261,7 @@ It is certain, of course, that works of planting, of draining, or of embankment,
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Historic Thames (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Historic Thames (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london,setting/oxford"></span>
 
 
 In pre-historic times many stretches of the [[River|river]] must have afforded great difficulties of approach. The mouths of the Ock, the Coln, the Kennet, the Mole, and the Wandle must each have been surrounded by a marsh; all the plain between [[Oxford]] and the Hinkseys must have been partially flooded, as must the upper reaches between Lechlade and Witham (on one side or the other of the stream as it winds from the southern to the northern rises of land), and as must also have been the long stretch of the right bank below Reading. The highest spring tides may have been felt as high up the stream as Staines, and both the character of the surface and the contour lines permit one to conjecture that the valley of the Wandle and several other inlets from the lower [[River|river]] were flooded. Yet it is remarkable that in this alluvium, more disturbed and dug than any other in Europe, little or nothing of human relics, of boats, or of piles has been discovered, and this absence of testimony also points to the remoteness of date from which we should reckon the human control of the [[River|river]].
@@ -1289,7 +1289,7 @@ We have in the place names upon the Thames a further evidence of the antiquity o
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Historic Thames (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Historic Thames (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london,setting/oxford"></span>
 
 
 These place names not only indicate a continuous and early settlement of the banks, but also form in themselves a very interesting series, whose etymology is a little section of the history of England.
@@ -1319,7 +1319,7 @@ The estuary has, of course, always formed a division, and in the barbarian perio
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Historic Thames (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Historic Thames (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/river,setting/oxford"></span>
 
 
 It is further remarkable that the one great definite boundary of the Dark Ages in England — that which was established for a few years by Alfred between his kingdom and the territory of the Danish invaders — abandons the Thames above bridges altogether, and uses it as a limitation in its estuarial part only, up to the mouth of the Lea.
@@ -1355,7 +1355,7 @@ A third went more sharply west from the southern districts, and connected them n
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Historic Thames (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Historic Thames (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/river,motif/water,setting/oxford"></span>
 
 
 Finally, a fourth went in a great bend from these same highlands up eastward to the coast of the North Sea in East Anglia. This was called in Saxon times the Icknield Way.
@@ -1383,7 +1383,7 @@ When all the evidence is weighed it seems more probable that the regular crossin
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Historic Thames (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Historic Thames (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 Of this there are several proofs. In the first place, the name of the place suggests the passage of some great way. Place names of this sort are invariably found upon some one of the principal roads of England. In the second place, a lane bearing the traditional name of the Icknield Way can be traced to a point very near the [[River|river]] and the village. Another can be recovered beyond the [[River|river]]. The name would hardly have been so continued — even with considerable gaps — both upon the Oxfordshire and the Berkshire side unless the place of regular crossing had been here.
@@ -1421,7 +1421,7 @@ A barrier has yet another quality in history, and that quality is perhaps the mo
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Historic Thames (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Historic Thames (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/river,motif/water,concept/tradition,histref/danish_invasions,setting/london,setting/oxford"></span>
 
 
 All the great rivers of Europe prove this. They are studded with lines of strongholds standing either right upon their banks or close by; and various as is the character of the different great rivers in their physical conformation, few or none have been unable to furnish sites for fortification. For instance, the slow rivers of Northern France, running for the most part through a flat country, were able to afford fortresses for the Gaulish clans in their numerous islands; the origin of Melun and Paris, for instance, was of this kind. The sharp rocks along the Rhone became platforms for castle after castle: Beaucaire, Tarascon, Aries, Avignon, and twenty others all of this sort.
@@ -1451,7 +1451,7 @@ Within the lifetime of a man you have the baptism of Cynegil, the king of the We
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Historic Thames (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Historic Thames (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/river,concept/tradition,histref/danish_invasions,histref/william_the_conqueror,setting/london,setting/oxford,character/william_the_conqueror"></span>
 
 
 The Chronicle, in mentioning this date, is no longer upon legendary ground: it is dealing with an event which was kept on record by civilised men who understood the art of writing, who could speak Latin, who could bear their records to Rome, and, what is more, the fact and the date are confirmed by the Venerable Bede.
@@ -1475,7 +1475,7 @@ There still exists in the modern town, to the west of it, a large artificial mou
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Historic Thames (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Historic Thames (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="motif/river,setting/london,setting/oxford"></span>
 
 
 The great national council of 1018, which may be called the settlement of Canute, was held at [[Oxford]], and in 1036 another national council, of even greater importance, which was held to decide upon the succession of Canute’s heirs, was again held at [[Oxford]], and it was at [[Oxford]] that, four years later, the first Harold died.
@@ -1501,7 +1501,7 @@ What determined the importance of Wallingford is not easy to fix nowadays. The e
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Historic Thames (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Historic Thames (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 Now it is true that any traveller making from [[London]] to Bath, or the Mendip Hills, and the lower Severn would, on the whole, find his most direct road to be along the Vale of the White Horse, but the convenience of this line through Wallingford may easily be exaggerated, especially its convenience for men in early times before the valleys were properly drained. Though the ford at Abingdon was more difficult than the ford at Wallingford, yet the line through Abingdon westward along the Farringdon road was certainly shorter than the line through Wantage. Whether the old habit, inherited from pre-historic times, of following the chalk ridge had produced a parallel road just at the foot of that ridge and so had made Wallingford, Wantage, and all the southern edge of the Vale of the White Horse the natural road to the west, or whether it was that the great run of travel ran, when once the Thames had been crossed at Wallingford, slightly south-west towards Bath, it is certain that the Wallingford and Wantage line is the line of travel in early history.
@@ -1521,7 +1521,7 @@ There are, indeed, examples of a chain of positions so striking that, from their
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Historic Thames (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Historic Thames (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london,setting/oxford"></span>
 
 
 But, in spite of — or, rather, as is proved by — these exceptions the fortresses of an organised people are found at the conjunction of their communications, or at places (such as straits or passes) which have the monopoly of communication, or they are identical with great aggregations of population and opportunity, or at least they are situated in spots from which such aggregations can be commanded. Position is always of value, but only as an adjunct.
@@ -1551,7 +1551,7 @@ A tendency therefore arises, more or less early according to local circumstance,
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Historic Thames (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Historic Thames (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london,setting/oxford"></span>
 
 
 Some centuries earlier or later the exact point for fortification would have lain at Staines, and Windsor may be properly regarded as a sort of second best to Staines.
@@ -1577,7 +1577,7 @@ When John’s admirable diplomacy had failed (as diplomacy will under the test o
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Historic Thames (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Historic Thames (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 In the last days of the truce the rebels marched to Brackley and encamped there on Low Monday — the 27th April. The choice of the site should be noted. It lies in a nexus of several old marching roads. The Port Way, a Roman road from Dorchester northward, the Watling Street all lay within half-an-hour’s ride. The King was at [[Oxford]], a day’s march away. They negotiated with him, and their claims were refused, yet they did not attack him (though his force was small), partly because the function of government was still with him and partly because the defensive power of [[Oxford]] was great. They wisely preferred the nearest of his small official garrisons-that holding the castle of Northampton. They approached it up the Roman road through Towcester. They failed before it after two weeks of effort, and marched on to the next royal post at Bedford, which was by far the nearest of the national garrisons. It was betrayed to them. When they were within the gates they received a message from the wealthier citizens of [[London]] (who were in practice one with the Feudal Oligarchy), begging them to enter the capital.
@@ -1605,7 +1605,7 @@ Indeed they still remain so vested in most European countries. The Cantons of Sw
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Historic Thames (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Historic Thames (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/river,motif/water,concept/tradition,setting/london"></span>
 
 
 This great waste space to the south of Windsor Hill became, after the Conquest, the Forest, and apart from the hunting which it afforded to the Royal palace, served a certain purpose on the military side as well.
@@ -1645,7 +1645,7 @@ One of the features of the break-up of Roman society was the enormous expansion 
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Historic Thames (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Historic Thames (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london"></span>
 
 
 How then could a [[Tradition|tradition]] have arisen with regard to Roman occupation? It is but a conjecture, though a plausible one, that when the pirate raids grew in severity this knoll down stream was fortified, while still the ruling class was Latin speaking and while still the title of Cæsar was familiar, whether before or after the withdrawal of the Legions. If this were the case, then, on the analogy of other similar sites, one may imagine something like the following: that in the Dark Ages the masonry was used as a quarry for other constructions, that the barbarians would occasionally stockade the site, though not permanently, and only for the purposes of their ephemeral but constant quarrels; and one may suggest that when the barbaric period was ended, by the landing of William’s army, the place was still, by a [[Tradition|tradition]] now six hundred years old, a public area under the control of the Crown and one such as would lend itself to the design of a permanent fortification. William, finding it in this condition, erected upon it the great keep which was to be the last of his fortifications along the line of the [[River|river]], and the pivot for the control of [[London]].
@@ -1663,7 +1663,7 @@ Even when Henry’s misfortunes were at an end, and when the Battle of Evesham w
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Historic Thames (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Historic Thames (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="setting/london,setting/oxford"></span>
 
 
 Upon this occasion the siege was raised by the promptitude and energy of Prince Edward — the man who as King was to march to Cærnarvon and to the Grampians had already in his boyhood shown the energy and the military aptitude of his grandfather King John. He was but twenty years old, yet he had already done all the fighting at Lewes, he had already won Evesham, and now, at the end of spring, he made one march from Windsor to the Tower and relieved it. It was almost the last time that the Tower stood for the success of authority. From this time onwards it is, as it had been before, the unfortunate symbol of successful rebellion. Edward II. had to leave it in his fatal year of 1326, the Londoners poured in and incidentally massacred the Bishop of Exeter, into whose hands it had been entrusted.
@@ -1691,7 +1691,7 @@ After the Civil Wars all the military meaning of the Thames disappears. Nor is i
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Historic Thames (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Historic Thames (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 * * * * *
@@ -1713,7 +1713,7 @@ The monastic institution, so far as Western Europe was concerned, was comparativ
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Historic Thames (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Historic Thames (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 When civilisation returned in fulness with the Norman Conquest, another great house of the first importance was founded — at Reading; and, much later, a fourth at Sheen. To these we shall turn in their place, as also to the string of dependent houses and small foundations which line the [[River|river]] almost from its source right down to [[London]]: indeed the only type of religious foundation which historic notes such as these can afford to neglect is the monastery or nunnery built in a town, and for the purposes of a town, after the civic life of a town had developed. These very numerous houses (most numerous, of course, in [[Oxford]]), such as the Observants of Richmond and a host of others, do not properly enter into the scheme we are considering. They are not causes but effects of the development of civilisation in the Thames Valley.
@@ -1733,7 +1733,7 @@ The pagan storm which all but repeated in Britain the disaster of the Saxon inva
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Historic Thames (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Historic Thames (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="motif/river,concept/tradition,histref/danish_invasions,setting/london,setting/oxford"></span>
 
 
 The third of the great early foundations is Abingdon, and in a way it is the greatest, for, without direct connection with the Crown, by the mere vitality of its [[Tradition|tradition]], it became something more even than Chertsey was, wielding an immense revenue, more than half that of Westminster itself, and situated, as it was, in a small up-valley town, ruling with almost monarchical power. There could be even less doubt in the case of Abingdon than there was in the case of Chertsey that it was the creator of its own district of the Thames. It stood right in the marshy and waste spaces of the middle upper [[River|river]], commanding a difficult but an important ford, and holding the gate of what was to be one of the most fruitful and famous of English vales. It can only have been from Abingdon that the culture and energy proceeded which was to build up Northern Berkshire and Oxfordshire between the Saxon and the [[Danish Invasions|Danish invasions]]. There only was established a sufficient concentration of capital for the work and of knowledge for the application of that wealth.
@@ -1755,7 +1755,7 @@ The Conquest is in its way almost as sharp a division in the history of England 
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="The Historic Thames (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="The Historic Thames (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 The effect, therefore, of the Conquest was exercised upon the visible and mutable things of the country rather than upon the nourishing inward things: but it was very great, and in nothing was it greater than in its inception of new buildings and the use everywhere of stone. Under the Normans very nearly all the great religious foundations of England re-arose, and that within a generation. New houses also arose, and the mark of that time (which was a second spring throughout Europe: full of the spirit of the Crusades, and a complete regeneration of social life) was the rigour of new religious orders, and especially the transformation of the old Benedictine monotony.
@@ -1781,7 +1781,7 @@ It stood just outside the walls of [[Oxford]] Castle to the west, and upon the b
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="The Historic Thames (part 26)" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="The Historic Thames (part 26)" data-chapter="part 26" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 At any rate, whether Osney owed its magnificence to internal industry, to a wise expenditure, or to a severity of life which left a large surplus for ornament and extension, it was for 400 years the principal building upon the upper [[River|river]], catching the eye from miles away up by Eynsham meadows and forming a noble gate to the University town for those who approached it from the west by the packway, of which traces still remain, and over the bridges which the Conqueror had built. So deep was the impress of Osney upon the locality, and even upon the national Government, that Henry proposed, as in the case of Westminster, to make of the building one of his new cathedrals, and to establish there his new See of [[Oxford]]. The determination, however, lasted but for a very short time. In a few years the financial pressure was too much for him; he transferred the see to the old Church of St Frideswides, where it still remains, and gave up Osney to loot. It was looted very thoroughly.
@@ -1805,7 +1805,7 @@ This completes the list of the greater foundations; with the lesser ones it woul
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="The Historic Thames (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="The Historic Thames (part 27)" data-chapter="part 27" data-kind="excerpt" data-tags="motif/river,setting/london,setting/oxford"></span>
 
 
 Several of these smaller houses went in the dissolution to swell the revenues of Bisham, the new community which Henry, as he said, intended to take the place of much that he had destroyed; and Bisham would be very well worth a considerable attention from the reader had it survived. But it did not survive. Hardly was it founded when Henry himself immediately destroyed it, and, as we shall see later, Bisham affords one of the most curious and instructive examples of the way in which that large monastic revenue, which it was certainly intended to keep in the hands of the Crown, and which, had it been so kept, would have given to England the strongest Central Government in Europe, drifted into the hands of the squires, multiplied perhaps by ten the wealth of their class, and transformed the Government of England into that oligarchy which was completed in the seventeenth century, and which, though permeated and transformed by Jewish finance, is standing in a precarious strength to this day.
@@ -1833,7 +1833,7 @@ One can best say what it was by saying that it was like Durham. It is true that 
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="The Historic Thames (part 28)" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="The Historic Thames (part 28)" data-chapter="part 28" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london"></span>
 
 
 Nothing that he had seen in this journey would more have sunk into the mind of a contemporary man, nothing that he would lack were he resuscitated to-day would leave a want more grievous. In the destruction of Reading the people of this country lost something which not even their aptitude for foreign travel can replace.
@@ -1867,7 +1867,7 @@ The point just mentioned in connection with the larger monastic foundations, and
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="The Historic Thames (part 29)" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="The Historic Thames (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="motif/river,motif/water,concept/tradition,setting/london,setting/oxford"></span>
 
 
 Economists speak of the economic importance of such-and-such a spot because material of use to man-kind is there discovered. Thus, people commonly point to the economic importance of the valleys all round the Pennine Range in England because they contain coal and metals, and to the economic importance of a small district in South Wales for the same reason.
@@ -1895,7 +1895,7 @@ A list of monastic institutions upon the river, if we exclude the friars, the ho
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="The Historic Thames (part 30)" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="The Historic Thames (part 30)" data-chapter="part 30" data-kind="excerpt" data-tags="motif/river,setting/oxford"></span>
 
 
 When the end came the total number of those in control of such wide possessions was small.
@@ -1923,7 +1923,7 @@ In a word, the business of Henry might be compared to what may be in future the 
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="The Historic Thames (part 31)" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="The Historic Thames (part 31)" data-chapter="part 31" data-kind="excerpt" data-tags="motif/ruins,concept/economics,form/history,form/nonfiction,histref/the_reformation,histref/catholic_church,character/henry_viii,character/queen_elizabeth"></span>
 
 
 It was effected with ease, because there did not reside in the public opinion of the time any strong body of resistance.
@@ -1953,7 +1953,7 @@ Again, no man of common sense need be told that a rigid multiple is absolutely i
 
 
 
-<span class="atom-split" data-atom="part--part_32" data-title="The Historic Thames (part 32)" data-chapter="part 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_32" data-title="The Historic Thames (part 32)" data-chapter="part 32" data-kind="excerpt" data-tags="motif/water"></span>
 
 
 The inquiry has been prosecuted by more than one authority upon the basis of wheat. One may say that wheat in normal years in the early sixteenth century stood at about an eighth of wheat in what I may call the normal years of the nineteenth, before the influx of Colonial produce began to be serious, and before the depreciation of silver combined with other causes to disturb prices.
@@ -1987,7 +1987,7 @@ Consider a man with some £2000 a year travelling through modern Europe. Prices,
 
 
 
-<span class="atom-split" data-atom="part--part_33" data-title="The Historic Thames (part 33)" data-chapter="part 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_33" data-title="The Historic Thames (part 33)" data-chapter="part 33" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 When all this is taken into consideration we can begin to see what the great monasteries were at the time of their dissolution. It is hardly an exaggeration to multiply the list of mere values by 20 to bring it into the terms of modern currency. A place worth close on £2000 a year (as was, for instance, Ramsey Abbey) meant an income of not far short of £40,000 a year in our money, to go by prices alone. And that £40,000 a year was spent in an England in which nine-tenths of the luxury of our modern rich was unknown, in which the squire was usually but three or four times richer than one of his farmers, in which great wealth, where it existed, attached rather to an office than to a person. In general, the multiple of 20 must be further multiplied by a coefficient which is not arithmetically determinable, but which we see I to be very large by a general comparison of the small, poor, and equable society of the early sixteenth century with the complex, huge, wealthy, and wholly iniquitous society of our own day.
@@ -2013,7 +2013,7 @@ With Abingdon it was otherwise. The last prior was perhaps the least steadfast o
 
 
 
-<span class="atom-split" data-atom="part--part_34" data-title="The Historic Thames (part 34)" data-chapter="part 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_34" data-title="The Historic Thames (part 34)" data-chapter="part 34" data-kind="excerpt" data-tags="concept/economics,concept/power_and_corruption,concept/class_conflict,form/history,form/nonfiction,setting/the_river_thames,character/william_the_conqueror,character/king_john"></span>
 
 
 When any organised economic system disappears, there is nothing more interesting in history than to watch the process of its replacement: for example, the gradual disappearance of pagan slavery, and its replacement by the self-governing peasantry of the Middle Ages, with all the consequence of that change, affords some of the best reading in Continental records. But the Dissolution of the English monasteries has this added interest, that it was an immediate, and therefore an overwhelming, change; there was hardly a warning, there was no delay. Suddenly, not within the lifetime of a man, but within that of a Parliament, from one year to another, a good quarter of the whole economic power of the nation was utterly transformed. Nothing like it has been known in European history.
@@ -2043,7 +2043,7 @@ To show how the religious houses had furnished a powerful counterweight by which
 
 
 
-<span class="atom-split" data-atom="part--part_35" data-title="The Historic Thames (part 35)" data-chapter="part 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_35" data-title="The Historic Thames (part 35)" data-chapter="part 35" data-kind="excerpt" data-tags="concept/economics,concept/power_and_corruption,concept/greed_and_money,concept/class_conflict,form/history,form/nonfiction,character/henry_viii,character/charles_i"></span>
 
 
 At this point it is important to note an economic phenomenon which appears at first sight accidental, but which, on examination, is found to spring from calculable political causes. At the moment of the Dissolution it was apparently in the power of the Crown to have concentrated the revenues of all these monastic manors into its own hands, and this typical stretch of country, the Berkshire shore, shows how economically powerful the Central Government of England might have become had the property surrendered to the Crown been kept in the hands of the King.
@@ -2075,7 +2075,7 @@ But the Tudors, for all their violence, were fundamentally weak. There was alway
 
 
 
-<span class="atom-split" data-atom="part--part_36" data-title="The Historic Thames (part 36)" data-chapter="part 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_36" data-title="The Historic Thames (part 36)" data-chapter="part 36" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 Apart from the transfer of the monastic manors there was yet another way in which the Dissolution of the religious houses helped on the establishment of the landed oligarchy in the place of the old National Government. The monasteries had owned not only these full manorial rights, but also numerous parcels of land scattered up and down in manors whose lordship was already in private hands. These parcels, like the small lay freeholds, which they resembled, formed nuclei of resistance to the increasing power of the squires.
@@ -2099,7 +2099,7 @@ Of the descent of the Williams throughout the Middle Ages nothing is known. Much
 
 
 
-<span class="atom-split" data-atom="part--part_37" data-title="The Historic Thames (part 37)" data-chapter="part 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_37" data-title="The Historic Thames (part 37)" data-chapter="part 37" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 There lived in the same hamlet (which was a dependency of the manor of Wimbledon) a certain Cromwell or Crumwell, who was also called Smith; but this obscure personage should most probably be known by the first of these two names, for his humble business was the shoeing of horses, and the second appellation was very probably a nickname arising from that trade. He also added beer-selling to his other work, and this common occupation may have formed a link between him and his neighbour, Morgan ap William.
@@ -2127,7 +2127,7 @@ We have seen on an earlier page how extremely difficult or impossible it is to e
 
 
 
-<span class="atom-split" data-atom="part--part_38" data-title="The Historic Thames (part 38)" data-chapter="part 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_38" data-title="The Historic Thames (part 38)" data-chapter="part 38" data-kind="excerpt" data-tags="concept/tradition,setting/london"></span>
 
 
 It is safe to say, however, that when Cromwell had got his young relation — whatever that relationship was — into possession of the two foundations in Huntingdon, he had set him up as a considerable local gentleman, and whether it was the inheritance of the Cromwell blood through his mother, or something equally unpleasant in the heredity of his father, Morgan, young Williams (“alias Cromwell”) did not stick there.
@@ -2159,7 +2159,7 @@ The quarrels between young Oliver and old Oliver (the absurdly wealthy head of t
 
 
 
-<span class="atom-split" data-atom="part--part_39" data-title="The Historic Thames (part 39)" data-chapter="part 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_39" data-title="The Historic Thames (part 39)" data-chapter="part 39" data-kind="excerpt" data-tags="concept/tradition,setting/london"></span>
 
 
 The object of that digression has been to trace the growth of but one great territorial family, from the gutter to affluence in the course of less than 100 years; to show how plain “Williams” gradually and secretly became “Cromwell” — because the new name had about it a flavour of nobility, however parvenu; to show how the whole of their vast revenues depended upon, and was born from, the destruction of monastic system, and to show by the example of one Thames-side family how rapidly and from what sources was derived that economic power of the squires which, when it came to the issue of arms, utterly destroyed what was left of the national monarchy.
@@ -2177,7 +2177,7 @@ Consider Chertsey, from which Bisham sprang. The utter dispersion of the whole [
 
 
 
-<span class="atom-split" data-atom="part--part_40" data-title="The Historic Thames (part 40)" data-chapter="part 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_40" data-title="The Historic Thames (part 40)" data-chapter="part 40" data-kind="excerpt" data-tags="concept/tradition,setting/london,setting/oxford"></span>
 
 
 Then there is also Radley: which begins as an exception, but fails. It was a manor of Abingdon, and after the Dissolution it fell a prey to that one of the Seymours who proved too dirty and too much even for his brother and was put to death in 1549. It passed for the moment, as we have seen several of these riverside manors do, into the hands of Mary. But upon her death Elizabeth bestowed it upon a certain Stonehouse, and the Stonehouses did come uncommonly near to founding a family that should endure. Nor can their [[Tradition|tradition]] be said to have disappeared when the name changed and the manor passed to the nephew of the last Stonehouse, by name Bowyer. But Bowyer did not retain it. He gradually ruined himself: and it is amusing at this distance of time to learn that the cause of his ruin was the idea that coal underlay his property. Everyone knows what Radley since became: it was purchased by an enthusiast, and is now a school springing from his foundation.
@@ -2209,7 +2209,7 @@ Parallel to the rise of the squires and their capture of English government has 
 
 
 
-<span class="atom-split" data-atom="part--part_41" data-title="The Historic Thames (part 41)" data-chapter="part 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_41" data-title="The Historic Thames (part 41)" data-chapter="part 41" data-kind="excerpt" data-tags="setting/london,setting/oxford"></span>
 
 
 The most recent change of all, with which these notes will end, is, one need hardly say, this industrial transformation. It has made a completely new England, and it nourishes the only civilised population in the world which is out of touch with arms, and with the physical life and nature of the country it inhabits, and the only population in which the vast majority are concerned with things of which they have no actual experience, and feel most strongly upon matters dictated to them at second or third hand by the proprietors of great journals.
@@ -2235,7 +2235,7 @@ With the advent of the Normans, as one might expect, municipal life to some exte
 
 
 
-<span class="atom-split" data-atom="part--part_42" data-title="The Historic Thames (part 42)" data-chapter="part 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_42" data-title="The Historic Thames (part 42)" data-chapter="part 42" data-kind="excerpt" data-tags="concept/tradition,histref/danish_invasions,setting/london,setting/oxford,setting/rural_england"></span>
 
 
 Again the metropolitan idea, which is consonant to, and the climax of, a municipal system, is absent from the story of English towns.
@@ -2265,7 +2265,7 @@ Wallingford in Domesday counted, closes and cottages together, just under 500 un
 
 
 
-<span class="atom-split" data-atom="part--part_43" data-title="The Historic Thames (part 43)" data-chapter="part 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_43" data-title="The Historic Thames (part 43)" data-chapter="part 43" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 The real elements of uncertainty lie, first in the number of people normally inhabiting one house at that time, and secondly, in the exact meaning of the word “haga” or “close.”
@@ -2291,7 +2291,7 @@ Old Windsor we have already dealt with, and made it out from a fifth to a tenth 
 
 
 
-<span class="atom-split" data-atom="part--part_44" data-title="The Historic Thames (part 44)" data-chapter="part 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_44" data-title="The Historic Thames (part 44)" data-chapter="part 44" data-kind="excerpt" data-tags="histref/medieval_england,setting/london,setting/oxford"></span>
 
 
 And Reading presents a similar puzzle on the civilian side. It is situated at the junction of two waterways, one of which leads directly from the Thames Valley to the West of England, yet it does not seem to have been of a considerable civil importance until the establishment of its monastery; and even then it is not a town of first-class size or wealth, nor does it take up its present position until quite late in the history of the country.
@@ -2317,7 +2317,7 @@ Henley affords an interesting study. At the time of the Conquest, Bensington was
 
 
 
-<span class="atom-split" data-atom="part--part_45" data-title="The Historic Thames (part 45)" data-chapter="part 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_45" data-title="The Historic Thames (part 45)" data-chapter="part 45" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/oxford"></span>
 
 
 It was a hamlet which went with the manor of Bensington, and that point alone is instructive, for it points to the insignificance of the place. When the lords of Bensington went hunting up on Chiltern they found on the far side of the hill, it may be presumed, a little clearing near the [[River|river]]. This was all that Henley was, and it is probable that even the church of the place was not built until quite late in the Christian period; there is at any rate an old [[Tradition|tradition]] that Aldeburgh is the mother of Henley, and it is imagined by those who wrote monographs upon the locality that this [[Tradition|tradition]] points to the church of Aldeburgh as the mother church of what was at first a chapel upon the riverside.
@@ -2353,7 +2353,7 @@ Originally, so far as we can judge, the main stream of gravel crossed the Thames
 
 
 
-<span class="atom-split" data-atom="part--part_46" data-title="The Historic Thames (part 46)" data-chapter="part 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_46" data-title="The Historic Thames (part 46)" data-chapter="part 46" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london"></span>
 
 
 At any rate, whatever the reason was, whether from some pre-historic conditions having brought the road across the peninsula at this point, or, as is more likely, on account of some curious arrangement of mediæval privilege, it is fairly certain that, in the centuries before the great development of the thirteenth, travel did come across the [[River|river]] in front of Cookham, recross it in front of Henley, and so make over the Chilterns to the great main bridge at Wallingford, which led out to the Vale of the White Horse and the west country.
@@ -2383,7 +2383,7 @@ Staines cannot take its place with these, for in spite of its high strategical v
 
 
 
-<span class="atom-split" data-atom="part--part_47" data-title="The Historic Thames (part 47)" data-chapter="part 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_47" data-title="The Historic Thames (part 47)" data-chapter="part 47" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london,setting/oxford"></span>
 
 
 This bridge of Staines was most unfortunate. It broke down again and again. Even an experiment in stone at the end of the last century was a failure, because the foundations did not go deep enough into the bed of the [[River|river]]. An iron absurdity succeeded the stone, and luckily broke down also, until at last, in the thirties of the nineteenth century, the whole thing was rebuilt, 200 yards above the old traditional site.

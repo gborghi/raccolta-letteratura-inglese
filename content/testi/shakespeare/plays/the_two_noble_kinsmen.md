@@ -1500,7 +1500,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Two Noble Kinsmen — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Two Noble Kinsmen — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/city,motif/horse,motif/love,motif/nature,concept/faith,concept/fear,concept/honour,concept/jealousy,concept/mercy,concept/nature,setting/court,character/arcite,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1533,7 +1533,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Two Noble Kinsmen — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Two Noble Kinsmen — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/innocent,motif/death,motif/grave,motif/love,motif/moon,motif/time,motif/water,motif/well,concept/conscience,concept/faith,concept/longing,concept/self,character/emilia,character/hippolyta,character/nurse,character/speed,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1560,7 +1560,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="The Two Noble Kinsmen — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="The Two Noble Kinsmen — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/city,motif/death,motif/desire,motif/love,motif/nature,motif/time,concept/honour,concept/madness,concept/mercy,concept/nature,character/apollo,character/arcite,character/palamon,character/queen,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1585,7 +1585,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="The Two Noble Kinsmen — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="The Two Noble Kinsmen — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/city,motif/death,motif/grave,motif/sleep,motif/tears,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1602,7 +1602,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Two Noble Kinsmen — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Two Noble Kinsmen — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/night,motif/prison,motif/time,motif/well,motif/window,concept/freedom,setting/court,character/arcite,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -1634,7 +1634,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Two Noble Kinsmen — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Two Noble Kinsmen — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/clock,motif/death,motif/desire,motif/fire,motif/flowers,motif/garden,motif/leaves,motif/lightning,motif/love,motif/nature,motif/poison,motif/prison,motif/rose,motif/sleep,motif/soul,motif/spring,motif/summer,motif/swallow,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/body,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/madness,concept/nature,concept/self,concept/vanity,concept/wonder,setting/court,character/arcite,character/bottom,character/emilia,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -1769,7 +1769,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="The Two Noble Kinsmen — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="The Two Noble Kinsmen — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/dance,motif/death,motif/leaves,motif/nature,motif/night,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/body,concept/imagination,concept/mercy,concept/nature,character/arcite,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -1815,7 +1815,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="The Two Noble Kinsmen — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="The Two Noble Kinsmen — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/love,motif/night,motif/prison,motif/water,concept/body,concept/conscience,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -1826,7 +1826,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="The Two Noble Kinsmen — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="The Two Noble Kinsmen — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/faith,concept/honour,concept/hope,concept/wonder,setting/court,character/arcite,character/emilia,character/hippolyta,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -1872,7 +1872,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="The Two Noble Kinsmen — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="The Two Noble Kinsmen — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/shadow,motif/death,motif/love,motif/memory,motif/prison,motif/well,concept/hope,form/dirge"></span>
 
 
 | Speaker | Line |
@@ -1884,7 +1884,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Two Noble Kinsmen — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Two Noble Kinsmen — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/flowers,motif/garden,motif/horse,motif/jewel,motif/love,motif/night,motif/prison,motif/silence,motif/well,motif/wind,concept/charity,concept/fear,concept/honour,character/arcite,character/emilia,character/palamon,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1927,7 +1927,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Two Noble Kinsmen — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Two Noble Kinsmen — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/dawn,motif/death,motif/grave,motif/moon,motif/nature,motif/night,motif/water,concept/fear,concept/nature,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -1939,7 +1939,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Two Noble Kinsmen — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Two Noble Kinsmen — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/poison,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/honour,character/arcite,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2001,7 +2001,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="The Two Noble Kinsmen — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="The Two Noble Kinsmen — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/night,motif/nightingale,motif/ship,motif/sleep,motif/stars,motif/water,motif/wind,setting/ship,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -2013,7 +2013,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="The Two Noble Kinsmen — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="The Two Noble Kinsmen — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/damsel,archetype/fool,archetype/madwoman,motif/bells,motif/dance,motif/fire,motif/machine,motif/night,motif/well,motif/wind,concept/body,form/fable,character/arcite,character/chorus,character/emilia,character/hippolyta,character/madeline,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2095,7 +2095,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="The Two Noble Kinsmen — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="The Two Noble Kinsmen — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/lover,archetype/villain,motif/blood,motif/crown,motif/death,motif/desire,motif/grave,motif/home,motif/horse,motif/lightning,motif/love,motif/marriage,motif/memory,motif/prison,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/faith,concept/fear,concept/friendship,concept/honour,concept/longing,concept/mercy,character/arcite,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2235,7 +2235,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Two Noble Kinsmen — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/lover,archetype/shadow,motif/blood,motif/city,motif/cross,motif/dance,motif/death,motif/fire,motif/flowers,motif/home,motif/lion,motif/love,motif/marriage,motif/nature,motif/night,motif/ship,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/longing,concept/nature,setting/court,setting/ship,character/arcite,character/cynthia,character/diana,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2379,7 +2379,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Two Noble Kinsmen — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/city,motif/crown,motif/desire,motif/fire,motif/flowers,motif/garden,motif/love,motif/memory,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/truth,character/arcite,character/emilia,character/hippolyta,character/palamon,character/queen,character/speed,character/theseus,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2432,7 +2432,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Two Noble Kinsmen — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Two Noble Kinsmen — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/lover,archetype/tyrant,motif/dance,motif/dust,motif/fire,motif/love,motif/secrets,motif/stars,motif/time,concept/beauty,concept/body,character/apollo,character/palamon,character/queen,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2445,7 +2445,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="The Two Noble Kinsmen — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="The Two Noble Kinsmen — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/fire,motif/flowers,motif/rose,motif/snow,motif/well,motif/wind,concept/fear,concept/hope,character/diana,character/emilia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2458,7 +2458,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="The Two Noble Kinsmen — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="The Two Noble Kinsmen — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,motif/dance,motif/death,motif/home,motif/horse,motif/journey,motif/love,motif/sleep,motif/soul,motif/well,concept/doubt,concept/hope,concept/melancholy,character/arcite,character/palamon"></span>
 
 
 | Speaker | Line |
@@ -2570,7 +2570,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="The Two Noble Kinsmen — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="The Two Noble Kinsmen — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/crown,motif/decay,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/faith,concept/honour,concept/melancholy,concept/mercy,concept/nature,character/arcite,character/emilia,character/hippolyta,character/palamon,character/theseus"></span>
 
 
 | Speaker | Line |
@@ -2627,7 +2627,7 @@ Now turn we towards your comforts.
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="The Two Noble Kinsmen — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="The Two Noble Kinsmen — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="topos/double,topos/quest,archetype/artist,archetype/child,archetype/fool,archetype/ghost,archetype/hero,archetype/innocent,archetype/king,archetype/lover,archetype/monster,archetype/pilgrim,archetype/rebel,archetype/shadow,archetype/tyrant,archetype/usurper,motif/autumn,motif/birds,motif/blood,motif/cave,motif/city,motif/clock,motif/cross,motif/crown,motif/dance,motif/death,motif/desire,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/horse,motif/jewel,motif/journey,motif/lamb,motif/lion,motif/love,motif/marriage,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/nightingale,motif/pain,motif/poison,motif/prayer,motif/prison,motif/river,motif/road,motif/rose,motif/ship,motif/sleep,motif/snow,motif/soul,motif/spring,motif/stars,motif/storm,motif/summer,motif/supernatural,motif/swallow,motif/tears,motif/time,motif/uncanny,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/beauty,concept/body,concept/conscience,concept/courage,concept/deception,concept/despair,concept/doubt,concept/education,concept/endurance,concept/exile,concept/faith,concept/fear,concept/freedom,concept/grotesque,concept/guilt,concept/history,concept/honour,concept/hope,concept/identity,concept/imagination,concept/imprisonment,concept/jealousy,concept/longing,concept/madness,concept/melancholy,concept/mercy,concept/natural_order,concept/nature,concept/poverty,concept/pride,concept/reconciliation,concept/revenge,concept/self,concept/sexuality,concept/suffering,concept/suicide,concept/temptation,concept/truth,concept/uncanny,concept/union,concept/wonder,form/comedy,form/dirge,form/essay,form/fragment,form/history,form/inscription,form/literary_criticism,form/riddle,form/tragedy,histref/america,histref/new_england,histref/renaissance,histref/roman_history,setting/america,setting/castle,setting/court,setting/germany,setting/london,setting/new_york,setting/orient,setting/oxford,setting/paris,setting/ship,setting/venice,setting/verona,setting/washington_dc,character/achilles,character/ajax,character/apollo,character/arcite,character/arthur,character/bertram,character/bottom,character/caliban,character/cleopatra,character/columbus,character/coriolanus,character/costard,character/cressida,character/cymbeline,character/cynthia,character/desdemona,character/diana,character/duncan,character/edgar,character/edmund,character/edward_iii,character/eleanor,character/emilia,character/geraldine,character/hamlet,character/hector,character/helen,character/henry_iv,character/henry_v,character/henry_vi,character/henry_viii,character/hippolyta,character/hyperion,character/iago,character/jones,character/juliet,character/julius_caesar,character/king_john,character/king_lear,character/lady_macbeth,character/lincoln,character/macbeth,character/malcolm,character/mercutio,character/michael,character/othello,character/palamon,character/pericles,character/phoebe,character/prometheus,character/proteus,character/puck,character/queen,character/queen_elizabeth,character/richard,character/richard_ii,character/richard_iii,character/romeo,character/saturn,character/shylock,character/sir_thomas_more,character/speed,character/theseus,character/timon,character/titus_andronicus,character/touchstone,character/troilus,character/ulysses,character/venus,character/witch"></span>
 
 
 | Speaker | Line |

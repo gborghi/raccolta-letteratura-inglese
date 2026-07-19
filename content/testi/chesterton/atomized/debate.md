@@ -866,7 +866,7 @@ or possibly a mixture of the three combined.
 
 
 
-<span class="atom-split" data-atom="story_02_hilaire_belloc" data-title="Do We Agree? — Hilaire Belloc" data-chapter="Hilaire Belloc" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_hilaire_belloc" data-title="Do We Agree? — Hilaire Belloc" data-chapter="Hilaire Belloc" data-kind="story" data-tags="character/hilaire_belloc,character/g_k_chesterton,character/bernard_shaw"></span>
 
 
 HILAIRE BELLOC
@@ -896,7 +896,7 @@ salvare dall'oblio quanto basta a giustificarne la pubblicazione.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_01" data-title="Do We Agree? — Cecil Palmer (part 1)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_01" data-title="Do We Agree? — Cecil Palmer (part 1)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="archetype/hero,archetype/pilgrim,motif/desire,motif/nature,motif/night,motif/well,concept/doubt,concept/history,concept/hope,concept/nature,concept/wonder,form/history,setting/london"></span>
 
 
 CECIL PALMER
@@ -1071,7 +1071,7 @@ Avete in questo momento un tipico [[debate|dibattito]] che infuria sulla Stampa.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_02" data-title="Do We Agree? — Cecil Palmer (part 2)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_02" data-title="Do We Agree? — Cecil Palmer (part 2)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/death,motif/home,motif/prison,motif/well,concept/beauty,concept/grotesque,concept/hope,character/queen_elizabeth"></span>
 
 
 Bunyan, by the way, does not even mention Mr. Facing-Both Ways'
@@ -1325,7 +1325,7 @@ Sostengo che potrei essere d'accordo con il signor [[Shaw]] un passo più in là
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_03" data-title="Do We Agree? — Cecil Palmer (part 3)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_03" data-title="Do We Agree? — Cecil Palmer (part 3)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="motif/desire,motif/machine,motif/time,concept/democracy,concept/distributism,concept/doubt,concept/history,concept/hope,form/history"></span>
 
 
 I have heard from nearly all the Socialists I have known,
@@ -1539,7 +1539,7 @@ a meno che non pensiate che con questo mezzo essi possiedano il controllo.
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_04" data-title="Do We Agree? — Cecil Palmer (part 4)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_04" data-title="Do We Agree? — Cecil Palmer (part 4)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="concept/conscience,concept/doubt,concept/self"></span>
 
 
 I have used the metaphor of the Collectivists of having all
@@ -1687,7 +1687,7 @@ Qui non c'è alcuna difficoltà. In un certo senso il signor Chesterton non è d
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_05" data-title="Do We Agree? — Cecil Palmer (part 5)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_05" data-title="Do We Agree? — Cecil Palmer (part 5)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/snow,motif/well,concept/body,concept/democracy,concept/self,concept/truth"></span>
 
 
 I have to allow for the pressure of facts because, as a playwright,
@@ -1852,7 +1852,7 @@ Vorrei dire ora ciò che forse avrei dovuto dire prima, in serata: che siamo eno
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_06" data-title="Do We Agree? — Cecil Palmer (part 6)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_06" data-title="Do We Agree? — Cecil Palmer (part 6)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="motif/journey,concept/conscience,character/bottom"></span>
 
 
 Mr. [[Shaw]]'s dislike of the landlord is not so much a denial of
@@ -1983,7 +1983,7 @@ Come funziona questo meraviglioso sistema della proprietà contadina? Vi rendete
 
 
 
-<span class="atom-split" data-atom="story_03_cecil_palmer--part_07" data-title="Do We Agree? — Cecil Palmer (part 7)" data-chapter="Cecil Palmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_cecil_palmer--part_07" data-title="Do We Agree? — Cecil Palmer (part 7)" data-chapter="Cecil Palmer" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/soul,motif/tears,motif/time,motif/wind,concept/distributism,concept/freedom,setting/desert"></span>
 
 
 I have stolen two minutes from Mr. Chesterton, and I apologise.

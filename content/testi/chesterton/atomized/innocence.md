@@ -8744,7 +8744,7 @@ I can't stop for the inquiry."
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_01" data-title="The Innocence of Father Brown — The Blue Cross (part 1)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_01" data-title="The Innocence of Father Brown — The Blue Cross (part 1)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/journey,motif/love,motif/moon,motif/nature,motif/night,motif/well,concept/nature,setting/london,setting/paris,character/flambeau"></span>
 
 
 The Blue [[Cross]]
@@ -8960,7 +8960,7 @@ di quattro pollici.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_02" data-title="The Innocence of Father Brown — The Blue Cross (part 2)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_02" data-title="The Innocence of Father Brown — The Blue Cross (part 2)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/cross,motif/fire,motif/journey,motif/machine,motif/time,motif/well,motif/window,concept/paradox,histref/french_revolution,setting/london,character/dwarf,character/flambeau"></span>
 
 
 He alighted at Liverpool Street, however, quite conscientiously
@@ -9164,7 +9164,7 @@ e ordinario. Suonò il campanello per il cameriere.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_03" data-title="The Innocence of Father Brown — The Blue Cross (part 3)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_03" data-title="The Innocence of Father Brown — The Blue Cross (part 3)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,motif/chalk,motif/cross,motif/road,motif/time,setting/london"></span>
 
 
 When that official hurried up, fuzzy-haired and somewhat
@@ -9420,7 +9420,7 @@ di fronte da un ispettore e da un uomo in abiti civili.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_04" data-title="The Innocence of Father Brown — The Blue Cross (part 4)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_04" data-title="The Innocence of Father Brown — The Blue Cross (part 4)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/desire,motif/home,motif/road,motif/silence,motif/time,motif/well,motif/window,motif/winter,concept/doubt,setting/london"></span>
 
 
 "[[Well]], sir," began the former, with smiling importance,
@@ -9700,7 +9700,7 @@ ne ebbe bisogno.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_05" data-title="The Innocence of Father Brown — The Blue Cross (part 5)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_05" data-title="The Innocence of Father Brown — The Blue Cross (part 5)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="motif/cross,motif/well"></span>
 
 
 An angular, elderly young woman in the shop had regarded his elegant
@@ -9945,7 +9945,7 @@ silenzio di morte, udì per la prima volta le parole degli strani preti.
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_06" data-title="The Innocence of Father Brown — The Blue Cross (part 6)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_06" data-title="The Innocence of Father Brown — The Blue Cross (part 6)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="motif/cross,motif/silence,motif/stars,motif/well,character/father_brown,character/flambeau"></span>
 
 
 After he had listened for a minute and a half, he was gripped
@@ -10232,7 +10232,7 @@ E poi lasciai indietro quello giusto.»
 
 
 
-<span class="atom-split" data-atom="story_01_the_blue_cross--part_07" data-title="The Innocence of Father Brown — The Blue Cross (part 7)" data-chapter="The Blue Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_blue_cross--part_07" data-title="The Innocence of Father Brown — The Blue Cross (part 7)" data-chapter="The Blue Cross" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/shadow,motif/cross,motif/time,motif/well,motif/window,concept/wonder,character/father_brown,character/flambeau"></span>
 
 
 "Left it behind?" repeated [[Flambeau]], and for the first [[Time|time]] there
@@ -10429,7 +10429,7 @@ dell'Essex sbatteva le palpebre in cerca del suo ombrello.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_01" data-title="The Innocence of Father Brown — The Secret Garden (part 1)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_01" data-title="The Innocence of Father Brown — The Secret Garden (part 1)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="archetype/detective,motif/garden,motif/grave,motif/moon,motif/storm,motif/well,concept/freedom,concept/friendship,concept/melancholy,concept/mercy,concept/purification,concept/truth,setting/paris,character/father_brown,character/speed"></span>
 
 
 The Secret [[Garden]]
@@ -10649,7 +10649,7 @@ ritardo era già divenuto un problema domestico, ed egli fu spedito a tutta
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_02" data-title="The Innocence of Father Brown — The Secret Garden (part 2)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_02" data-title="The Innocence of Father Brown — The Secret Garden (part 2)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/garden,motif/moon,motif/river,motif/storm,motif/time,motif/well,concept/body,concept/exile"></span>
 
 
 Except on one point the Galloways were genial and casual enough.
@@ -10884,7 +10884,7 @@ venuto vestito per una simile occasione.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_03" data-title="The Innocence of Father Brown — The Secret Garden (part 3)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_03" data-title="The Innocence of Father Brown — The Secret Garden (part 3)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/death,motif/garden,motif/noon,motif/silence,motif/time,motif/well,concept/body,concept/honour,character/father_brown,character/macbeth"></span>
 
 
 Valentin went down on his hands and knees and examined with his
@@ -11147,7 +11147,7 @@ aveva infine trovato mentre passeggiava di nuovo nel [[Garden|giardino]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_04" data-title="The Innocence of Father Brown — The Secret Garden (part 4)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_04" data-title="The Innocence of Father Brown — The Secret Garden (part 4)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,archetype/lover,motif/blood,motif/garden,motif/moon,motif/nature,motif/road,motif/rose,motif/silence,motif/time,motif/well,concept/nature,concept/wonder,setting/paris,character/father_brown"></span>
 
 
 The Irish officer stood up disordered and defiant on the threshold.
@@ -11416,7 +11416,7 @@ dall'applauso.
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_05" data-title="The Innocence of Father Brown — The Secret Garden (part 5)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_05" data-title="The Innocence of Father Brown — The Secret Garden (part 5)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="motif/city,motif/death,motif/fire,motif/garden,motif/river,motif/road,motif/rose,motif/time,motif/water,concept/body,concept/doubt,form/riddle,form/sketch,setting/paris,character/father_brown"></span>
 
 
 For Neil O'Brien, indeed, that gesture was the turning-point of existence.
@@ -11653,7 +11653,7 @@ mentre era sballottato nell'[[Water|acqua]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_06" data-title="The Innocence of Father Brown — The Secret Garden (part 6)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_06" data-title="The Innocence of Father Brown — The Secret Garden (part 6)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/death,motif/garden,motif/pain,motif/prayer,motif/well,motif/window,concept/body,concept/doubt,concept/truth,concept/wonder,histref/america,setting/america,setting/germany,character/aquinas,character/father_brown"></span>
 
 
 "Good morning, Commandant O'Brien," said Valentin, with quiet cordiality.
@@ -11919,7 +11919,7 @@ cadde.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_secret_garden--part_07" data-title="The Innocence of Father Brown — The Secret Garden (part 7)" data-chapter="The Secret Garden" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_secret_garden--part_07" data-title="The Innocence of Father Brown — The Secret Garden (part 7)" data-chapter="The Secret Garden" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/shadow,motif/cross,motif/death,motif/garden,motif/home,motif/horse,motif/mirror,motif/night,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/body,concept/friendship,concept/pride,concept/suicide,character/father_brown"></span>
 
 
 "[[Well]]," said the doctor slowly, "that seems plausible enough.
@@ -12202,7 +12202,7 @@ di Catone.
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_01" data-title="The Innocence of Father Brown — The Queer Feet (part 1)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_01" data-title="The Innocence of Father Brown — The Queer Feet (part 1)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/silence,motif/soul,motif/time,concept/fear,concept/history,concept/wonder,form/history,setting/london,character/buckingham,character/father_brown"></span>
 
 
 The Queer Feet
@@ -12343,7 +12343,7 @@ Se sono riuscito in qualche misura a rendere l’atmosfera di questo tremendo al
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_02" data-title="The Innocence of Father Brown — The Queer Feet (part 2)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_02" data-title="The Innocence of Father Brown — The Queer Feet (part 2)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="motif/animals,motif/dance,motif/time,motif/well,motif/window,character/father_brown"></span>
 
 
 In this office sat the representative of the proprietor (nobody in this place
@@ -12466,7 +12466,7 @@ Proprio mentre giungeva a questa solida certezza, il passo mutò in quello più 
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_03" data-title="The Innocence of Father Brown — The Queer Feet (part 3)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_03" data-title="The Innocence of Father Brown — The Queer Feet (part 3)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/fire,motif/lightning,motif/storm,motif/time,motif/window,concept/madness,concept/self,histref/catholic_church,character/father_brown,character/flambeau"></span>
 
 
 The rational part of him (whether the wiser or not) regained its supremacy.
@@ -12643,7 +12643,7 @@ Le prime due portate della cena dei Dodici Veri Pescatori erano procedute con pl
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_04" data-title="The Innocence of Father Brown — The Queer Feet (part 4)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_04" data-title="The Innocence of Father Brown — The Queer Feet (part 4)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/garden,motif/rose,motif/silence,motif/time,motif/well,concept/hope"></span>
 
 
 As has been remarked, there were twenty-four seats at
@@ -12801,7 +12801,7 @@ Il signor Audley aveva ancora un’aria troppo sconcertata per essere davvero l�
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_05" data-title="The Innocence of Father Brown — The Queer Feet (part 5)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_05" data-title="The Innocence of Father Brown — The Queer Feet (part 5)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/death,motif/ghosts,motif/silence,motif/soul,motif/supernatural,motif/window,concept/doubt,character/father_brown"></span>
 
 
 The proprietor repeated the open-handed gesture with even greater helplessness
@@ -12997,7 +12997,7 @@ Alla fine disse tranquillamente al prete: «Dev’essere stato un tipo in gamba,
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_06" data-title="The Innocence of Father Brown — The Queer Feet (part 6)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_06" data-title="The Innocence of Father Brown — The Queer Feet (part 6)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/ghost,archetype/shadow,motif/dance,motif/fire,motif/flowers,motif/grave,motif/lightning,motif/time,motif/water,motif/well,motif/wheel,concept/body,concept/identity,concept/wonder,form/tragedy,character/father_brown,character/hamlet"></span>
 
 
 "I mean you," said the colonel, with a short laugh.  "I don't
@@ -13121,7 +13121,7 @@ Il Colonnello Pound lo guardò acutamente, ma i miti occhi grigi di chi parlava 
 
 
 
-<span class="atom-split" data-atom="story_03_the_queer_feet--part_07" data-title="The Innocence of Father Brown — The Queer Feet (part 7)" data-chapter="The Queer Feet" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_queer_feet--part_07" data-title="The Innocence of Father Brown — The Queer Feet (part 7)" data-chapter="The Queer Feet" data-kind="excerpt" data-tags="motif/night,motif/time,concept/honour,character/father_brown"></span>
 
 
 "His worst moment was when the waiters stood in a row; but even
@@ -13218,7 +13218,7 @@ E dicendo «Buona sera», spinse i pesanti battenti di quel palazzo dei piaceri.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_01" data-title="The Innocence of Father Brown — The Flying Stars (part 1)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_01" data-title="The Innocence of Father Brown — The Flying Stars (part 1)" data-chapter="The Flying Stars" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,motif/birds,motif/city,motif/garden,motif/ghosts,motif/horse,motif/stars,motif/time,motif/well,motif/winter,concept/doubt,concept/wonder,setting/cathedral,character/flambeau,character/speed"></span>
 
 
 The Flying [[Stars]]
@@ -13457,7 +13457,7 @@ grossi guanti di pelliccia.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_02" data-title="The Innocence of Father Brown — The Flying Stars (part 2)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_02" data-title="The Innocence of Father Brown — The Flying Stars (part 2)" data-chapter="The Flying Stars" data-kind="excerpt" data-tags="motif/fire,motif/stars,motif/well,concept/wonder,setting/egypt,character/bottom"></span>
 
 
 Long before this revelation was complete the two big doors of the porch
@@ -13703,7 +13703,7 @@ Che cos'è, di grazia?»
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_03" data-title="The Innocence of Father Brown — The Flying Stars (part 3)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_03" data-title="The Innocence of Father Brown — The Flying Stars (part 3)" data-chapter="The Flying Stars" data-kind="excerpt" data-tags="motif/stars"></span>
 
 
 "Letting a top hat sit on you, for instance," said the Socialist.
@@ -13937,7 +13937,7 @@ popolare tanto assurda quanto appropriata.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_04" data-title="The Innocence of Father Brown — The Flying Stars (part 4)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_04" data-title="The Innocence of Father Brown — The Flying Stars (part 4)" data-chapter="The Flying Stars" data-kind="excerpt" data-tags="motif/stars"></span>
 
 
 The climax of this, as of all else, was the moment when the two
@@ -14177,7 +14177,7 @@ e Padre Brown si chinò sul comico poliziotto prostrato.
 
 
 
-<span class="atom-split" data-atom="story_04_the_flying_stars--part_05" data-title="The Innocence of Father Brown — The Flying Stars (part 5)" data-chapter="The Flying Stars" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_flying_stars--part_05" data-title="The Innocence of Father Brown — The Flying Stars (part 5)" data-chapter="The Flying Stars" data-kind="excerpt" data-tags="motif/stars"></span>
 
 
 "Chloroform," he said as he rose; "I only guessed it just now."
@@ -14411,7 +14411,7 @@ che fossero chiusi in convento e ignari di questo mondo.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_01" data-title="The Innocence of Father Brown — The Invisible Man (part 1)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_01" data-title="The Innocence of Father Brown — The Invisible Man (part 1)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/machine,motif/marriage,form/detective_fiction,form/short_story,setting/london,character/john_turnbull_angus,character/laura_hope,character/isidore_smythe"></span>
 
 
 The Invisible Man
@@ -14707,7 +14707,7 @@ al banco, facendo un canguro saltellante con cinque sigari.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_02" data-title="The Innocence of Father Brown — The Invisible Man (part 2)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_02" data-title="The Innocence of Father Brown — The Invisible Man (part 2)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/well,concept/hope,concept/truth,character/satan,character/witch"></span>
 
 
 "The other fellow was more silent and more ordinary; but somehow
@@ -14955,7 +14955,7 @@ l’anima della rivalità.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_03" data-title="The Innocence of Father Brown — The Invisible Man (part 3)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_03" data-title="The Innocence of Father Brown — The Invisible Man (part 3)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/machine,motif/letters_writing,form/detective_fiction,setting/london,character/isidore_smythe,character/john_turnbull_angus,character/james_welkin,character/flambeau"></span>
 
 
 Mr. Smythe, however, made no allusion to the ultimate ground
@@ -15237,7 +15237,7 @@ L’inchiostro rosso su di esso in realtà non era asciutto, e il messaggio dice
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_04" data-title="The Innocence of Father Brown — The Invisible Man (part 4)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_04" data-title="The Innocence of Father Brown — The Invisible Man (part 4)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/snow,motif/machine,concept/ratiocination_detection,form/detective_fiction,setting/london,character/father_brown,character/flambeau,character/john_turnbull_angus"></span>
 
 
 There was a short silence, and then Isidore Smythe said quietly,
@@ -15491,7 +15491,7 @@ con aria vacua come un pesce.
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_05" data-title="The Innocence of Father Brown — The Invisible Man (part 5)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_05" data-title="The Innocence of Father Brown — The Invisible Man (part 5)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/snow,motif/blood,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,character/father_brown,character/flambeau,character/john_turnbull_angus"></span>
 
 
 The others all looked down also; and Flambeau used a fierce
@@ -15783,7 +15783,7 @@ non lo notarono mai.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_invisible_man--part_06" data-title="The Innocence of Father Brown — The Invisible Man (part 6)" data-chapter="The Invisible Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_invisible_man--part_06" data-title="The Innocence of Father Brown — The Invisible Man (part 6)" data-chapter="The Invisible Man" data-kind="excerpt" data-tags="motif/snow,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,character/father_brown,character/flambeau,character/john_turnbull_angus,character/james_welkin"></span>
 
 
 "An invisible man?" inquired Angus, raising his red eyebrows.
@@ -15923,7 +15923,7 @@ ore insieme a un assassino, e ciò che si dissero l’un l’altro non si saprà
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_01" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 1)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_01" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 1)" data-chapter="The Honour of Israel Gow" data-kind="excerpt" data-tags="concept/honour"></span>
 
 
 The Honour of Israel Gow
@@ -16153,7 +16153,7 @@ Padre Brown la fissò con aria passiva e rispose:
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_02" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 2)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_02" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 2)" data-chapter="The Honour of Israel Gow" data-kind="excerpt" data-tags="concept/honour"></span>
 
 
 "I can understand there must have been something odd about the man,
@@ -16409,7 +16409,7 @@ tenevano le candele in mano quando esploravano le caverne».
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_03" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 3)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_03" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 3)" data-chapter="The Honour of Israel Gow" data-kind="excerpt" data-tags="concept/honour"></span>
 
 
 "Is that all?" asked Flambeau after a long pause.
@@ -16657,7 +16657,7 @@ come a un bastone.
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_04" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 4)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_04" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 4)" data-chapter="The Honour of Israel Gow" data-kind="excerpt" data-tags="concept/honour"></span>
 
 
 "Go on," said the priest very gently.  "We are only trying to find the truth.
@@ -16927,7 +16927,7 @@ come fanno gli uomini in chiesa.
 
 
 
-<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_05" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 5)" data-chapter="The Honour of Israel Gow" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_honour_of_israel_gow--part_05" data-title="The Innocence of Father Brown — The Honour of Israel Gow (part 5)" data-chapter="The Honour of Israel Gow" data-kind="excerpt" data-tags="concept/honour"></span>
 
 
 All the corners of the sky were brightening into blue and silver;
@@ -17201,7 +17201,7 @@ il sobrio cilindro sul capo.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_01" data-title="The Innocence of Father Brown — The Wrong Shape (part 1)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_01" data-title="The Innocence of Father Brown — The Wrong Shape (part 1)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="motif/garden,motif/flowers,form/detective_fiction,form/short_story,setting/london,character/father_brown,character/flambeau,character/leonard_quinton"></span>
 
 
 The Wrong Shape
@@ -17417,7 +17417,7 @@ di quei bastoncini snodati.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_02" data-title="The Innocence of Father Brown — The Wrong Shape (part 2)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_02" data-title="The Innocence of Father Brown — The Wrong Shape (part 2)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="motif/swords_weapons,motif/poison,motif/garden,concept/the_supernatural,form/detective_fiction,character/father_brown,character/flambeau,character/leonard_quinton"></span>
 
 
 "I say," he said breathlessly, "I want to see old Quinton.  I must see him.
@@ -17695,7 +17695,7 @@ più immobile di una montagna.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_03" data-title="The Innocence of Father Brown — The Wrong Shape (part 3)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_03" data-title="The Innocence of Father Brown — The Wrong Shape (part 3)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="motif/eyes_sight,motif/garden,concept/mesmerism,concept/the_supernatural,concept/superstition_and_omen,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "Who is that?" cried Father Brown, stepping back with a hissing
@@ -17969,7 +17969,7 @@ rimasero soli insieme.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_04" data-title="The Innocence of Father Brown — The Wrong Shape (part 4)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_04" data-title="The Innocence of Father Brown — The Wrong Shape (part 4)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/flowers,motif/garden,motif/home,motif/lightning,motif/memory,motif/night,motif/storm,concept/beauty,character/father_brown,character/flambeau"></span>
 
 
 Father Brown was silent and motionless for half a minute, then he said:
@@ -18219,7 +18219,7 @@ E, con indignazione del collega, cominciò a contarli.
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_05" data-title="The Innocence of Father Brown — The Wrong Shape (part 5)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_05" data-title="The Innocence of Father Brown — The Wrong Shape (part 5)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="concept/grotesque,character/bottom,character/father_brown,character/flambeau"></span>
 
 
 "That's all right," he said, with an apologetic smile.
@@ -18487,7 +18487,7 @@ di carta. Era più storta del pugnale che lo uccise.»
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_06" data-title="The Innocence of Father Brown — The Wrong Shape (part 6)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_06" data-title="The Innocence of Father Brown — The Wrong Shape (part 6)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="archetype/artist,motif/soul,motif/well,concept/suicide,character/father_brown,character/flambeau"></span>
 
 
 "I mean the paper on which Quinton wrote, ‘I die by my own hand,'"
@@ -18809,7 +18809,7 @@ così, per un caso su cento, che quelle ultime parole
 
 
 
-<span class="atom-split" data-atom="story_07_the_wrong_shape--part_07" data-title="The Innocence of Father Brown — The Wrong Shape (part 7)" data-chapter="The Wrong Shape" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wrong_shape--part_07" data-title="The Innocence of Father Brown — The Wrong Shape (part 7)" data-chapter="The Wrong Shape" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/road,motif/time,concept/body,concept/madness,concept/nature,concept/suicide,concept/wonder,character/erskine,character/father_brown"></span>
 
 
 were written at the top of a new sheet of paper.
@@ -18895,7 +18895,7 @@ waterproofs of several policemen gleamed in the [[Road|road]] outside.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_01" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 1)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_01" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 1)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,archetype/king,motif/childhood,motif/crown,motif/dawn,motif/flowers,motif/gold_and_grey,motif/love,motif/memory,motif/moon,motif/night,motif/river,motif/rose,motif/sleep,motif/time,concept/exile,concept/history,concept/suicide,form/history,form/tragedy,setting/italy,setting/paris,character/father_brown,character/flambeau,character/hamlet"></span>
 
 
 The Sins of Prince Saradine
@@ -19109,7 +19109,7 @@ ed egli si limitò a indicare il [[River|fiume]] verso la sua ansa successiva.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_02" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 2)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_02" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 2)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="motif/chalk,motif/garden,motif/home,motif/river,motif/secrets,motif/silence,motif/water,motif/well,motif/window,concept/doubt,concept/melancholy,form/sketch,character/father_brown,character/flambeau"></span>
 
 
 The boat took many such grassy corners and followed many such reedy
@@ -19321,7 +19321,7 @@ Questo era tutto ciò che Paul, il maggiordomo, avrebbe detto, e Paul era eviden
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_03" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 3)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_03" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 3)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,archetype/innocent,motif/garden,motif/grave,motif/memory,motif/well,motif/window,concept/fear,concept/identity,concept/wonder,form/sketch,character/father_brown,character/flambeau"></span>
 
 
 The Italian housekeeper was somewhat more communicative, being,
@@ -19553,7 +19553,7 @@ che i viaggi fossero così poco rispettabili o così divertenti.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_04" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 4)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_04" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 4)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/truth,character/father_brown,character/flambeau"></span>
 
 
 Indeed, with all his dignity of a man of the world,
@@ -19797,7 +19797,7 @@ di frettolosa cortesia.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_05" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 5)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_05" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 5)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/garden,motif/mirror,motif/river,motif/time,motif/water,motif/well,motif/wheel,concept/hope,setting/court,character/father_brown,character/flambeau,character/maria"></span>
 
 
 "That is all right," he said, panting and in halting English.
@@ -20029,7 +20029,7 @@ erano tagliati fuori come su uno scoglio nel Pacifico.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_06" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 6)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_06" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 6)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/blood,motif/garden,motif/river,motif/rose,motif/silence,motif/time,motif/well,motif/wheel,motif/window,concept/body,concept/truth,form/masque,form/tragedy,character/father_brown,character/flambeau"></span>
 
 
 Almost as he had the thought the ringing of the rapiers quickened
@@ -20269,7 +20269,7 @@ come se stesse soffocando, ma il suo volto non mutò.
 
 
 
-<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_07" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 7)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_sins_of_prince_saradine--part_07" data-title="The Innocence of Father Brown — The Sins of Prince Saradine (part 7)" data-chapter="The Sins of Prince Saradine" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/moon,motif/nature,motif/night,motif/poison,motif/river,motif/silence,motif/time,motif/wind,concept/honour,concept/nature,character/bottom,character/father_brown,character/flambeau,character/satan"></span>
 
 
 "My God!" cried [[Flambeau]] after a pause, "he's laughing!"
@@ -20527,7 +20527,7 @@ e le dimore di uomini innocui.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_01" data-title="The Innocence of Father Brown — The Hammer of God (part 1)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_01" data-title="The Innocence of Father Brown — The Hammer of God (part 1)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/dawn,motif/hill,motif/home,motif/love,motif/nature,motif/prayer,motif/road,concept/beauty,concept/fear,concept/nature,concept/solitude,character/queen"></span>
 
 
 The Hammer of God
@@ -20759,7 +20759,7 @@ a un trofeo appeso nell'antica sala di famiglia.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_02" data-title="The Innocence of Father Brown — The Hammer of God (part 2)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_02" data-title="The Innocence of Father Brown — The Hammer of God (part 2)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="motif/blood,motif/lion,motif/moon,motif/nature,motif/rose,motif/silence,motif/time,motif/window,concept/body,concept/nature,concept/purification,form/tragedy"></span>
 
 
 "The blacksmith is away at Greenford," said Wilfred quietly;
@@ -20987,7 +20987,7 @@ sarebbe assolto dal furto della colonna di Nelson.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_03" data-title="The Innocence of Father Brown — The Hammer of God (part 3)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_03" data-title="The Innocence of Father Brown — The Hammer of God (part 3)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/blood,motif/clock,motif/night,motif/road,motif/silence,motif/time,motif/well,concept/body,concept/hope,histref/bible,setting/court,character/apollo"></span>
 
 
 "That's what I say," repeated the cobbler obstinately; "there's only one
@@ -21255,7 +21255,7 @@ come la grande chiesa sopra di loro.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_04" data-title="The Innocence of Father Brown — The Hammer of God (part 4)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_04" data-title="The Innocence of Father Brown — The Hammer of God (part 4)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="archetype/lover,motif/desire,motif/silence,motif/tears,motif/well,concept/courage,character/father_brown"></span>
 
 
 One of those silences struck the group which are more strange and
@@ -21527,7 +21527,7 @@ volando mezzo miglio sopra siepi e campi.»
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_05" data-title="The Innocence of Father Brown — The Hammer of God (part 5)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_05" data-title="The Innocence of Father Brown — The Hammer of God (part 5)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="motif/the_supernatural,concept/crime_and_punishment,concept/providence,concept/guilt,form/detective_fiction,setting/rural_england,character/father_brown,character/wilfred_bohun"></span>
 
 
 The inspector laughed amicably and said:  "No, I think you can be
@@ -21811,7 +21811,7 @@ pareva posarsi sul paese assolato come un acquazzone.
 
 
 
-<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_06" data-title="The Innocence of Father Brown — The Hammer of God (part 6)" data-chapter="The Hammer of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_hammer_of_god--part_06" data-title="The Innocence of Father Brown — The Hammer of God (part 6)" data-chapter="The Hammer of God" data-kind="excerpt" data-tags="concept/pride,concept/humility,concept/crime_and_punishment,concept/guilt,concept/madness,form/detective_fiction,character/father_brown,character/wilfred_bohun"></span>
 
 
 "I think there is something rather dangerous about standing on these high
@@ -22005,7 +22005,7 @@ il chiavistello del cancello di legno del cortile, e avvicinatosi all'ispettore,
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_01" data-title="The Innocence of Father Brown — The Eye of Apollo (part 1)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_01" data-title="The Innocence of Father Brown — The Eye of Apollo (part 1)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 The Eye of Apollo
@@ -22156,7 +22156,7 @@ La sua rigida rapidità e la sua fredda impazienza avevano molto divertito Flamb
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_02" data-title="The Innocence of Father Brown — The Eye of Apollo (part 2)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_02" data-title="The Innocence of Father Brown — The Eye of Apollo (part 2)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 She certainly had a temper, of a snappy, practical sort; the gestures
@@ -22291,7 +22291,7 @@ Un fragore e uno schianto, come lo scoscio rovesciato di un razzo, fu spaccato d
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_03" data-title="The Innocence of Father Brown — The Eye of Apollo (part 3)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_03" data-title="The Innocence of Father Brown — The Eye of Apollo (part 3)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 At last the tall figure and titanic energy of Flambeau appeared
@@ -22452,7 +22452,7 @@ Nel lungo e attonito silenzio della stanza il profeta di Apollo lentamente si al
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_04" data-title="The Innocence of Father Brown — The Eye of Apollo (part 4)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_04" data-title="The Innocence of Father Brown — The Eye of Apollo (part 4)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 "Reader of the books of evil, one more word before I blow away
@@ -22595,7 +22595,7 @@ Kalon il profeta si tenne lontano dal foglio con quella leale inconsapevolezza c
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_05" data-title="The Innocence of Father Brown — The Eye of Apollo (part 5)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_05" data-title="The Innocence of Father Brown — The Eye of Apollo (part 5)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 An instant afterwards that pontiff, in his splendid sweeping draperies,
@@ -22821,7 +22821,7 @@ La signorina Joan Stacey si infilò con uno spillo il suo pratico cappello nero 
 
 
 
-<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_06" data-title="The Innocence of Father Brown — The Eye of Apollo (part 6)" data-chapter="The Eye of Apollo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_eye_of_apollo--part_06" data-title="The Innocence of Father Brown — The Eye of Apollo (part 6)" data-chapter="The Eye of Apollo" data-kind="excerpt" data-tags="character/apollo"></span>
 
 
 There was a pause, and the priest went on in a gentle and even broken voice.
@@ -22914,7 +22914,7 @@ Padre Brown ebbe una sorta di soprassalto.
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_01" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 1)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_01" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 1)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="motif/frost,motif/stars,motif/grave,motif/swords_weapons,form/detective_fiction,character/father_brown,character/flambeau,character/arthur_st_clare"></span>
 
 
 The Sign of the Broken Sword
@@ -23077,7 +23077,7 @@ Discesero il sentiero scosceso, riabbassarono il chiavistello del cancello arrug
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_02" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 2)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_02" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 2)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="concept/heroism,concept/honour,concept/crime_and_punishment,form/detective_fiction,character/father_brown,character/arthur_st_clare,character/achilles,character/hector"></span>
 
 
 "If not wholly untrue, it is at least very inadequate,"
@@ -23214,7 +23214,7 @@ Una grande luna gelata, simile a una lucente palla di neve, cominciò a mostrars
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_03" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 3)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_03" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 3)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="form/fragment"></span>
 
 
 He strode on, breathing hard, his black head and bull neck forward,
@@ -23397,7 +23397,7 @@ Furono ben presto nelle viscere più segrete del bosco, e sentirono stretto atto
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_04" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 4)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_04" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 4)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/river,motif/road,motif/time,motif/well"></span>
 
 
 Their path through the woodland began to go upward,
@@ -23534,7 +23534,7 @@ Una mezza luce trapelò attraverso la rete di rami sopra di loro, gettando il fa
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_05" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 5)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_05" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 5)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="motif/swords_weapons,concept/crime_and_punishment,concept/deception,concept/appearance_vs_reality,form/detective_fiction,character/father_brown,character/flambeau,character/arthur_st_clare"></span>
 
 
 "Well, what is there in that?" growled Flambeau; "it was a twopence coloured
@@ -23727,7 +23727,7 @@ La voce proseguì: «Olivier, come sapete, era un donchisciotte, e non voleva pe
 
 
 
-<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_06" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 6)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_sign_of_the_broken_sword--part_06" data-title="The Innocence of Father Brown — The Sign of the Broken Sword (part 6)" data-chapter="The Sign of the Broken Sword" data-kind="excerpt" data-tags="motif/the_battlefield_image,concept/war_and_its_cost,concept/crime_and_punishment,concept/deception,form/detective_fiction,setting/the_battlefield,character/father_brown,character/arthur_st_clare"></span>
 
 
 The wintry road curved over a ridge in cutting frost, with cruel
@@ -23920,7 +23920,7 @@ Si tuffarono nella taverna dalle tende rosse, che all’interno non era solo acc
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_01" data-title="The Innocence of Father Brown — The Three Tools of Death (part 1)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_01" data-title="The Innocence of Father Brown — The Three Tools of Death (part 1)" data-chapter="The Three Tools of Death" data-kind="excerpt" data-tags="motif/death"></span>
 
 
 The Three Tools of Death
@@ -24094,7 +24094,7 @@ Una finestra si aprì nella mente di Merton e vi lasciò entrare quella strana l
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_02" data-title="The Innocence of Father Brown — The Three Tools of Death (part 2)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_02" data-title="The Innocence of Father Brown — The Three Tools of Death (part 2)" data-chapter="The Three Tools of Death" data-kind="excerpt" data-tags="motif/death"></span>
 
 
 "You see," said Father Brown, blinking modestly, "I'm not sure that
@@ -24303,7 +24303,7 @@ E fece un momentaneo movimento con le due mani inguantate di nero.
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_03" data-title="The Innocence of Father Brown — The Three Tools of Death (part 3)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_03" data-title="The Innocence of Father Brown — The Three Tools of Death (part 3)" data-chapter="The Three Tools of Death" data-kind="excerpt" data-tags="motif/death"></span>
 
 
 "What do you mean?" asked the other sharply.  "Haven't you arrested him?"
@@ -24515,7 +24515,7 @@ La soffitta, che era il rifugio privato del segretario (e una cella piuttosto pi
 
 
 
-<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_04" data-title="The Innocence of Father Brown — The Three Tools of Death (part 4)" data-chapter="The Three Tools of Death" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_three_tools_of_death--part_04" data-title="The Innocence of Father Brown — The Three Tools of Death (part 4)" data-chapter="The Three Tools of Death" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/fire,motif/poison,motif/time,motif/window,concept/eternity,concept/honour,concept/mercy,concept/suicide,concept/truth,character/aaron,character/father_brown,character/pistol"></span>
 
 
 At a sufficiently delicate sign, the police gathered round

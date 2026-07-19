@@ -1260,7 +1260,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/rebel,archetype/usurper,motif/bells,motif/blood,motif/city,motif/crown,motif/death,motif/desire,motif/lamb,motif/love,motif/night,motif/pain,motif/rose,motif/soul,motif/swallow,motif/time,motif/well,concept/conscience,concept/honour,concept/hope,concept/mercy,concept/revenge,concept/wonder,setting/castle,setting/court,setting/london,character/clifford,character/dauphin,character/duke_of_buckingham,character/duke_of_exeter,character/duke_of_york,character/earl_of_northumberland,character/earl_of_warwick,character/henry_vi,character/john_of_gaunt,character/kent,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1416,7 +1416,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/rose,concept/doubt,concept/fear,setting/castle,setting/london,character/duke_of_york,character/edmund,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1460,7 +1460,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/innocent,motif/blood,motif/chains,motif/death,motif/lion,motif/prison,motif/soul,concept/body,concept/fear,concept/revenge,character/clifford,character/duke_of_york,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1495,7 +1495,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/dance,motif/death,motif/horse,motif/soul,motif/tears,motif/time,motif/water,motif/wind,concept/beauty,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,concept/mercy,concept/revenge,form/essay,setting/mountains,character/clifford,character/duke_of_york,character/henry_vi,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1538,7 +1538,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/birds,motif/blood,motif/crown,motif/death,motif/grave,motif/home,motif/lightning,motif/lion,motif/love,motif/night,motif/prayer,motif/prison,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/fear,concept/hope,concept/pride,concept/revenge,concept/truth,concept/wonder,setting/london,character/agamemnon,character/clifford,character/dauphin,character/duke_of_york,character/earl_of_northumberland,character/earl_of_warwick,character/helen,character/henry_vi,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1643,7 +1643,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/ghost,motif/blood,motif/death,motif/horse,motif/soul,motif/winter,concept/body,concept/courage,concept/despair,concept/hope,concept/revenge,form/tragedy,character/clifford,character/duke_of_york,character/earl_of_warwick,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1673,7 +1673,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/grave,motif/hill,motif/love,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/fear,setting/london,character/clifford,character/duke_of_york,character/earl_of_warwick,character/henry_vi,character/queen,character/queen_margaret,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1712,7 +1712,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/cross,motif/death,motif/grave,motif/leaves,motif/love,motif/marriage,motif/soul,motif/spring,motif/summer,motif/time,concept/body,concept/fear,concept/mercy,setting/london,character/clarence,character/clifford,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1759,7 +1759,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/crown,motif/hill,motif/love,motif/prayer,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/self,character/duke_of_york,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1797,7 +1797,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/birds,motif/cross,motif/crown,motif/death,motif/desert,motif/desire,motif/fire,motif/home,motif/leaves,motif/love,motif/marriage,motif/mirror,motif/nature,motif/pain,motif/prison,motif/silence,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/conscience,concept/despair,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,concept/revenge,concept/truth,concept/wonder,setting/desert,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/earl_of_warwick,character/gloucester,character/henry_vi,character/john_of_gaunt,character/king_of_france,character/mermaid,character/proteus,character/queen,character/queen_margaret,character/richard,character/ulysses,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1972,7 +1972,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/home,motif/love,motif/marriage,motif/well,concept/courage,concept/doubt,concept/friendship,concept/hope,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/earl_of_warwick,character/gloucester,character/hastings,character/henry_vi,character/queen,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2040,7 +2040,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/love,motif/night,motif/well,concept/fear,setting/oxford,character/clarence,character/duke_of_york,character/henry_vi,character/richard,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -2056,7 +2056,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/night,motif/sleep,concept/courage,concept/honour,setting/oxford,character/clarence,character/duke_of_york,character/earl_of_warwick,character/hastings,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2082,7 +2082,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/crown,motif/wheel,motif/wind,concept/imprisonment,setting/london,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/earl_of_warwick,character/hastings,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2102,7 +2102,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/cross,motif/crown,motif/decay,motif/love,motif/tears,concept/despair,concept/faith,concept/hope,setting/london,character/duke_of_york,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2122,7 +2122,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,motif/crown,motif/horse,motif/time,motif/well,concept/wonder,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/hastings,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2147,7 +2147,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,archetype/king,archetype/shadow,motif/birds,motif/crown,motif/nature,motif/prayer,motif/stars,motif/time,motif/well,concept/body,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/earl_of_richmond,character/earl_of_warwick,character/hastings,character/henry_vi,character/queen,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2184,7 +2184,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_8" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_8" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/king,motif/crown,motif/night,motif/storm,motif/time,motif/well,concept/body,concept/doubt,concept/fear,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/hastings,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2232,7 +2232,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_4--scene_9" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_9" data-title="Richard Duke of York (3 Henry VI) — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/king,motif/fire,motif/lamb,motif/lion,motif/love,motif/spring,motif/tears,motif/water,motif/well,motif/winter,concept/doubt,concept/fear,concept/hope,concept/mercy,concept/revenge,concept/truth,setting/london,setting/oxford,character/buckingham,character/clarence,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_warwick,character/gloucester,character/hector,character/henry_vi,character/kent,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2269,7 +2269,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/dust,motif/love,motif/nature,motif/rose,motif/time,motif/well,motif/wind,concept/body,concept/doubt,concept/faith,concept/honour,concept/mercy,concept/nature,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/earl_of_warwick,character/gloucester,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2350,7 +2350,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/dust,motif/grave,motif/lion,motif/soul,motif/tears,motif/well,motif/wind,motif/winter,concept/body,concept/fear,setting/oxford,character/duke_of_york,character/earl_of_warwick,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2368,7 +2368,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/storm,motif/time,motif/well,concept/courage,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/henry_vi,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2383,7 +2383,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/death,motif/fire,motif/home,motif/night,motif/ship,motif/tears,motif/water,motif/well,motif/wind,concept/courage,concept/fear,concept/hope,concept/mercy,setting/oxford,setting/ship,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/henry_vi,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2409,7 +2409,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/death,motif/night,motif/well,motif/winter,concept/charity,concept/hope,concept/self,form/fable,setting/castle,setting/london,setting/oxford,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/henry_vi,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2466,7 +2466,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/orphan,archetype/prophet,motif/blood,motif/death,motif/love,motif/night,motif/pain,motif/swallow,motif/tears,motif/time,motif/water,concept/body,concept/fear,concept/history,concept/hope,form/history,character/clarence,character/duke_of_gloucester,character/duke_of_york,character/gloucester,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2493,7 +2493,7 @@ The True [[Tragedy]] of [[Richard]] [[Duke of York]] and the Good [[King]] Henry
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Richard Duke of York (3 Henry VI) — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/hero,archetype/king,motif/autumn,motif/blood,motif/chains,motif/crown,motif/death,motif/garden,motif/lion,motif/love,motif/night,motif/soul,motif/summer,motif/tears,motif/time,motif/white_and_red,motif/winter,concept/hope,concept/pride,concept/truth,setting/castle,setting/court,setting/london,setting/oxford,setting/paris,character/clarence,character/dauphin,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_salisbury,character/earl_of_suffolk,character/earl_of_warwick,character/edmund,character/gloucester,character/hastings,character/henry_v,character/henry_vi,character/joan_la_pucelle,character/king_of_france,character/lord_talbot,character/nurse,character/queen,character/queen_margaret,character/richard,character/witch"></span>
 
 
 | Speaker | Line |

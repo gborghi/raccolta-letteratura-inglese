@@ -347,7 +347,7 @@ instead of simply wondering what the devil they are doing.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="America (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="America (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/cross,motif/desert,motif/garden,motif/home,motif/love,motif/time,concept/friendship,concept/humility,concept/truth,histref/america,setting/america,setting/desert,character/martin_chuzzlewit"></span>
 
 
 WHAT IS [[america|AMERICA]]?
@@ -542,7 +542,7 @@ e sono sicuri di non dire bugie.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="America (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="America (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/journey,motif/nature,concept/democracy,concept/nature,concept/truth,histref/america,histref/inquisition,histref/spanish_inquisition,setting/america,setting/egypt"></span>
 
 
 Now that is the model of the sort of foreign practice, founded on
@@ -668,7 +668,7 @@ Ora, un credo è al tempo stesso la cosa più ampia e la cosa più angusta del m
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="America (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="America (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/innocent,motif/nature,motif/soul,motif/well,concept/nature,concept/poverty,concept/temptation,histref/america,histref/inquisition,setting/america,character/queen,character/tolstoy"></span>
 
 
 Now in [[america|America]] this is no idle theory.  It may have been theoretical,

@@ -21214,7 +21214,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Villette — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Villette — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/clock,motif/home,motif/night,motif/river,motif/time,motif/well,motif/wind,concept/hope,concept/union,character/graham_bretton"></span>
 
 
 CHAPTER I.
@@ -21330,7 +21330,7 @@ restless.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Villette — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Villette — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/home,motif/journey,motif/night,motif/pain,motif/rose,motif/sleep,motif/time,motif/water,motif/well,character/nurse"></span>
 
 
 “Poor [[Child|child]]!” said Mrs. Bretton from [[Time|time]] to [[Time|time]]. “What weather for
@@ -21470,7 +21470,7 @@ was praying.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Villette — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Villette — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/time,motif/well,concept/body,concept/fear,concept/hope,character/nurse,character/paulina"></span>
 
 
 Her [[Nurse|nurse]] tapped at the door. She started up.
@@ -21551,7 +21551,7 @@ settle; but not till then,” replied Mrs. Bretton.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Villette — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Villette — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/nature,motif/night,motif/time,motif/window,concept/exile,concept/hope,concept/imagination,concept/longing,concept/nature,concept/self,character/lucy_snowe,character/paulina"></span>
 
 
 CHAPTER II.
@@ -21668,7 +21668,7 @@ pocket-handkerchief there; bring it to me.”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Villette — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Villette — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/home,motif/journey,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/body,concept/freedom,concept/honour,concept/hope,concept/self,concept/wonder"></span>
 
 
 She obeyed; went and returned deftly and nimbly. He was talking to Mrs.
@@ -21850,7 +21850,7 @@ So saying, she departed.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Villette — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Villette — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/lion,motif/nature,motif/pain,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/nature,concept/temptation,character/paulina"></span>
 
 
 CHAPTER III.
@@ -22033,7 +22033,7 @@ heart. Papa, will soon come back to his Polly.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Villette — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Villette — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/spring,motif/time,motif/water,motif/well,concept/body,concept/nature,character/lucy_snowe,character/paulina"></span>
 
 
 “Then Polly must be cheerful: not cry at parting; not fret afterwards.
@@ -22200,7 +22200,7 @@ would like it.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Villette — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Villette — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/tears,motif/well,motif/window,concept/ambition,concept/longing,form/essay,character/lucy_snowe,character/paulina"></span>
 
 
 Graham did like it very [[Well|well]], and almost always got it. To do him
@@ -22333,7 +22333,7 @@ occasionally chatting with me when we were [[Alone|alone]] in our room at [[Nigh
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Villette — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Villette — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/sleep,motif/snow,motif/time,motif/well,motif/window,concept/conversion,concept/faith,concept/nature,concept/truth,concept/wonder,form/hymn,histref/bible,character/sunday"></span>
 
 
 “How can I possibly know anything so strange? Is there one day out of
@@ -22455,7 +22455,7 @@ grasshopper in a hayfield without knowing it.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Villette — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Villette — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/nature,concept/self,histref/america,setting/america,character/lucy_snowe,character/nurse,character/paulina"></span>
 
 
 Thus she rambled on.
@@ -22596,7 +22596,7 @@ else he will feel you to be troublesome, and then it is all over.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Villette — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Villette — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/home,motif/pain,motif/silence,motif/sleep,motif/time,concept/self"></span>
 
 
 I put her to bed.
@@ -22673,7 +22673,7 @@ but exercising [[Self|self]]-command.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Villette — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Villette — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/nature,motif/pain,motif/prayer,motif/ship,motif/stars,motif/storm,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/self,concept/self_reliance,concept/solitude,concept/suffering,setting/london,setting/ship,character/paulina"></span>
 
 
 CHAPTER IV.
@@ -22796,7 +22796,7 @@ agreed to remain.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Villette — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Villette — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/autumn,motif/fire,motif/frost,motif/grave,motif/love,motif/memory,motif/night,motif/pain,motif/spring,motif/stars,motif/storm,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/conscience,concept/endurance,concept/hope,concept/indolence,concept/providence,concept/self,concept/suffering,concept/truth"></span>
 
 
 Two hot, close rooms thus became my world; and a crippled old woman, my
@@ -22907,7 +22907,7 @@ bliss, to undergo thirty years of sorrow?
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Villette — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Villette — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/clock,motif/dawn,motif/death,motif/fire,motif/horse,motif/moon,motif/night,motif/rose,motif/snow,motif/soul,motif/tears,motif/time,motif/well,motif/window,motif/winter,concept/doubt,character/maria"></span>
 
 
 “I do not know,” she continued after a pause: “I cannot—_cannot_ see
@@ -23012,7 +23012,7 @@ long fretted by affliction.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Villette — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Villette — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/city,motif/clock,motif/death,motif/fire,motif/grave,motif/home,motif/journey,motif/memory,motif/nature,motif/night,motif/rose,motif/snow,motif/stars,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/fear,concept/hope,concept/nature,concept/poverty,concept/self,concept/solitude,setting/london,character/nurse"></span>
 
 
 CHAPTER V.
@@ -23199,7 +23199,7 @@ of St. Paul’s.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Villette — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Villette — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/home,motif/love,motif/night,motif/river,motif/rose,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/freedom,concept/self,concept/suffering,concept/truth,setting/london,character/jones,character/speed"></span>
 
 
 CHAPTER VI.
@@ -23314,7 +23314,7 @@ roast, making me alight in the midst of a throng of watermen.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Villette — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Villette — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/childhood,motif/dawn,motif/flowers,motif/home,motif/night,motif/river,motif/secrets,motif/ship,motif/soul,motif/wind,concept/beauty,concept/body,concept/despair,concept/honour,concept/union,setting/ship"></span>
 
 
 This was an uncomfortable crisis. It was a dark [[Night|night]]. The coachman
@@ -23432,7 +23432,7 @@ man?
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Villette — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Villette — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/flowers,motif/home,motif/time,motif/well,concept/history,concept/solitude,concept/wonder,form/history,character/ginevra_fanshawe,character/sunday"></span>
 
 
 The other lady passenger, with the gentleman-companion, was quite a
@@ -23583,7 +23583,7 @@ living,’ as you say. By the way, are you clever?”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Villette — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Villette — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/birds,motif/dreams,motif/night,motif/prison,motif/ship,motif/snow,motif/time,motif/water,concept/beauty,concept/doubt,concept/hope,concept/loneliness,setting/ship"></span>
 
 
 “No—not at all.”
@@ -23704,7 +23704,7 @@ severe.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Villette — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Villette — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/city,motif/desert,motif/garden,motif/journey,motif/night,motif/road,motif/ship,motif/time,motif/well,concept/courage,setting/desert,setting/ship,character/madame_beck"></span>
 
 
 CHAPTER VII.
@@ -23826,7 +23826,7 @@ lowered, and seized on.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Villette — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Villette — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/city,motif/cross,motif/nature,motif/night,motif/soul,motif/storm,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/fear,concept/honour,concept/nature,concept/truth,form/fragment,histref/bible,character/bottom"></span>
 
 
 I was sure mine ought to be by this [[Time|time]] visible: it was not. I had
@@ -23953,7 +23953,7 @@ steps sought out.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Villette — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Villette — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/clock,motif/grave,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/doubt,concept/nature,concept/providence,concept/solitude,form/inscription,character/madame_beck,character/nurse"></span>
 
 
 I came at last to an old and worn flight, and, taking it for granted
@@ -24126,7 +24126,7 @@ street.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Villette — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Villette — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/leaves,motif/nature,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/pride,concept/truth,setting/london,character/madame_beck,character/nurse"></span>
 
 
 CHAPTER VIII.
@@ -24252,7 +24252,7 @@ virtue of it, and it only, she maintained the same a month.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Villette — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Villette — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/noon,motif/prayer,motif/silence,motif/time,motif/well,form/hymn,character/madame_beck,character/maria"></span>
 
 
 But when Mrs. Sweeny knew that I was come to fill her shoes, then it
@@ -24364,7 +24364,7 @@ listening behind every door.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Villette — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Villette — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/great_house,motif/nature,motif/rose,motif/summer,motif/time,motif/well,concept/charity,concept/mercy,concept/nature,concept/suffering,form/essay,character/madame_beck"></span>
 
 
 After all, Madame’s system was not bad—let me do her justice. Nothing
@@ -24471,7 +24471,7 @@ comprehended what she read: Madame listened.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Villette — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Villette — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/flag,motif/night,concept/ambition,concept/resignation,concept/suffering,form/essay,character/madame_beck"></span>
 
 
 Presently, without preface or prelude, she said, almost in the tone of
@@ -24593,7 +24593,7 @@ ignorant. Still I mean to give the lesson.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Villette — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Villette — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/history,concept/nature,form/history,character/madame_beck"></span>
 
 
 “They always throw over timid teachers,” said she.
@@ -24716,7 +24716,7 @@ she had extracted from Mr. Wilson, at half the expense.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Villette — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Villette — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/city,motif/memory,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/conscience,concept/freedom,concept/self,form/novel,character/madame_beck"></span>
 
 
 CHAPTER IX.
@@ -24833,7 +24833,7 @@ some wandering zephyr.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Villette — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Villette — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/love,motif/memory,motif/time,motif/well,motif/wind,concept/wonder,character/ginevra_fanshawe,character/sunday"></span>
 
 
 The opinion of my Catholic acquaintance concerning my spiritual
@@ -24960,7 +24960,7 @@ paid her a compliment.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Villette — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Villette — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/nature,motif/soul,motif/time,motif/well,concept/history,concept/nature,form/history"></span>
 
 
 Miss Ginevra’s school-studies were little better than nominal; there
@@ -25092,7 +25092,7 @@ a few shillings, of which I know you to be excessively careful.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Villette — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Villette — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/desire,motif/grave,motif/love,motif/nature,motif/night,motif/well,concept/fear,concept/honour,concept/nature,concept/truth,concept/wonder"></span>
 
 
 “Ecoutez!” she went on, drawing near and speaking in her most
@@ -25205,7 +25205,7 @@ be relieved of the [[Honour|honour]] of her presence: she went away laughing.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Villette — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Villette — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/garden,motif/home,motif/poison,motif/soul,motif/well,concept/self,concept/suffering,character/bottom,character/madame_beck,character/nurse"></span>
 
 
 CHAPTER X.
@@ -25315,7 +25315,7 @@ right order.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Villette — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Villette — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/memory,motif/night,motif/time,motif/well,concept/doubt,concept/faith,concept/self,character/madame_beck,character/nurse"></span>
 
 
 Hereupon he called for a glass of _eau sucrée_, fed her with some
@@ -25424,7 +25424,7 @@ business.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Villette — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Villette — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/garden,motif/mirror,motif/well,motif/window,concept/doubt,concept/suffering,concept/wonder"></span>
 
 
 Every day, on this mere pretext of a motive, he gave punctual
@@ -25495,7 +25495,7 @@ tickled than vexed at the mistake?
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Villette — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Villette — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/summer,motif/time,motif/well,concept/beauty,concept/nature,concept/vanity,character/madame_beck"></span>
 
 
 CHAPTER XI.
@@ -25604,7 +25604,7 @@ terms. _He_ perhaps was not in [[Love|love]]; but how many people ever _do_
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Villette — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Villette — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/flowers,motif/rose,motif/soul,motif/summer,motif/time,motif/well,concept/pride,character/madame_beck"></span>
 
 
 For what _he_ waited, I do not know, nor for what he watched; but the
@@ -25749,7 +25749,7 @@ predilection; you fought a good fight, and you overcame!
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Villette — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Villette — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/autumn,motif/city,motif/dust,motif/flowers,motif/garden,motif/home,motif/moon,motif/nature,motif/night,motif/noon,motif/prayer,motif/snow,motif/spring,motif/summer,motif/time,motif/water,motif/wind,motif/window,concept/beauty,concept/fear,concept/identity,concept/nature,concept/solitude,character/madame_beck"></span>
 
 
 CHAPTER XII.
@@ -25860,7 +25860,7 @@ or not I don’t know; but she _seemed_ sincere.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Villette — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Villette — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/clock,motif/desire,motif/dreams,motif/home,motif/moon,motif/nature,motif/night,motif/pain,motif/rose,motif/stars,motif/storm,motif/summer,motif/time,motif/well,concept/hope,concept/longing,concept/nature,concept/truth"></span>
 
 
 “Voyez-vous,” cried she, “comme elle est propre, cette demoiselle
@@ -25968,7 +25968,7 @@ dress of French grey.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Villette — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Villette — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/ghost,archetype/lover,motif/childhood,motif/desert,motif/dreams,motif/flowers,motif/garden,motif/night,motif/prison,motif/summer,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/self,form/sketch,setting/desert,character/madame_beck"></span>
 
 
 Good. Was this a billet-doux? A thing I had heard of, but hitherto had
@@ -26072,7 +26072,7 @@ like some [[Ghost|ghost]], I suppose.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Villette — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Villette — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/garden,motif/moon,motif/night,motif/stars,motif/time,motif/well,motif/window,character/madame_beck"></span>
 
 
 “Dr. John! it is found.”
@@ -26178,7 +26178,7 @@ foolish fly she was?
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Villette — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Villette — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/dust,motif/flowers,motif/garden,motif/grave,motif/home,motif/leaves,motif/moon,motif/night,motif/silence,motif/sleep,motif/stars,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/martyrdom,concept/solitude"></span>
 
 
 CHAPTER XIII.
@@ -26291,7 +26291,7 @@ underneath.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Villette — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Villette — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/garden,motif/home,motif/love,motif/nature,motif/prayer,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/courage,concept/nature,concept/poverty,form/riddle,character/lucy_snowe"></span>
 
 
 Very good. A dumpy, motherly little [[Body|body]], in decent shawl and the
@@ -26397,7 +26397,7 @@ the Beggar, “your crafty wits are on the wrong tack.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Villette — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Villette — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/night,motif/pain,motif/road,motif/sleep,motif/time,motif/window,concept/courage,concept/fear,concept/freedom,concept/unattainable"></span>
 
 
 She departed, attired very smartly, in a shawl of price, and a certain
@@ -26525,7 +26525,7 @@ light—billet the second, of course.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Villette — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Villette — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/prayer,motif/rose,motif/time,motif/well,character/madame_beck"></span>
 
 
 “They have gone and done it again,” was my reply. “A handkerchief waved
@@ -26625,7 +26625,7 @@ then proceeded volubly to recount her “courses en fiacre.” The
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Villette — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Villette — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/chains,motif/flowers,motif/frost,motif/garden,motif/leaves,motif/love,motif/soul,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/freedom,concept/honour,concept/slavery,concept/solitude,form/novel,character/lucifer,character/madame_beck"></span>
 
 
 CHAPTER XIV.
@@ -26732,7 +26732,7 @@ chamber.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Villette — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Villette — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/dance,motif/garden,motif/rose,motif/summer,motif/time,motif/well,concept/freedom,form/tragedy,character/ginevra_fanshawe,character/paul_emanuel"></span>
 
 
 “What will you have this year?” was asked by her Parisian lieutenant.
@@ -26847,7 +26847,7 @@ materials.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Villette — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Villette — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/shadow,motif/bees,motif/flowers,motif/garden,motif/home,motif/jewel,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/courage,character/madame_beck,character/paul_emanuel"></span>
 
 
 The oratory closed, the dormitory became the scene of ablutions,
@@ -26954,7 +26954,7 @@ you can; play you must.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Villette — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Villette — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/lover,motif/dust,motif/garden,motif/memory,motif/nature,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/nature,concept/revenge,concept/self"></span>
 
 
 “But how, M. Paul? What do you mean?”
@@ -27066,7 +27066,7 @@ making him as fatuitous as I possibly could.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Villette — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Villette — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/tyrant,motif/flowers,motif/garden,motif/night,motif/noon,motif/prison,motif/rose,motif/silence,motif/swallow,motif/time,motif/well,concept/courage,concept/fear,concept/truth,setting/court,character/ginevra_fanshawe"></span>
 
 
 In this exercise the afternoon passed: day began to glide into evening;
@@ -27200,7 +27200,7 @@ rest in check.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_06" data-title="Villette — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_06" data-title="Villette — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/lover,motif/nature,motif/spring,motif/storm,motif/well,concept/courage,concept/history,concept/longing,concept/nature,form/history"></span>
 
 
 Having surveyed and criticized the whole troop, he turned to me.
@@ -27333,7 +27333,7 @@ yearned-for seasoning—thus favoured, I played it with relish.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_07" data-title="Villette — Chapter 14 (part 7)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_07" data-title="Villette — Chapter 14 (part 7)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/dust,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/courage,concept/honour,concept/longing,concept/nature,concept/suffering,concept/temptation,character/ginevra_fanshawe,character/madame_beck"></span>
 
 
 What I felt that [[Night|night]], and what I did, I no more expected to feel and
@@ -27438,7 +27438,7 @@ might be struck, and a great point gained.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_08" data-title="Villette — Chapter 14 (part 8)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_08" data-title="Villette — Chapter 14 (part 8)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/mirror,motif/night,motif/soul,motif/swallow,motif/well,concept/beauty,concept/body,concept/education,concept/madness,concept/self,concept/vanity,character/lucy_snowe"></span>
 
 
 In the first place, the parents were made accomplices to the deed, for
@@ -27570,7 +27570,7 @@ I will point them out.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_09" data-title="Villette — Chapter 14 (part 9)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_09" data-title="Villette — Chapter 14 (part 9)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/lover,motif/cross,motif/flowers,motif/garden,motif/love,motif/night,motif/soul,motif/well,concept/beauty,character/cain,character/queen"></span>
 
 
 She proudly led the way—“But you cannot see them [[Well|well]] from the
@@ -27708,7 +27708,7 @@ no taste. There now. Don’t hold me so fast.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_10" data-title="Villette — Chapter 14 (part 10)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_10" data-title="Villette — Chapter 14 (part 10)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/lover,motif/garden,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/doubt,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/sublime,concept/wonder,character/apollo,character/ginevra_fanshawe,character/sunday"></span>
 
 
 I slackened my grasp, and she darted off. I did not care to pursue her.
@@ -27889,7 +27889,7 @@ me it was not easy to [[Sleep|sleep]] after a day of such excitement.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Villette — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Villette — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/garden,motif/grave,motif/nature,motif/storm,motif/well,motif/wheel,concept/education,concept/jealousy,concept/nature,character/madame_beck"></span>
 
 
 CHAPTER XV.
@@ -28006,7 +28006,7 @@ task I wish [[Well|well]] over?”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Villette — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Villette — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/desert,motif/dust,motif/fire,motif/garden,motif/home,motif/pain,motif/silence,motif/storm,motif/summer,motif/swallow,motif/tears,motif/well,concept/body,concept/fear,concept/hope,concept/jealousy,concept/mercy,concept/resignation,setting/court,setting/desert,setting/paris,character/madame_beck,character/nurse"></span>
 
 
 “Shall I take it out of your hands?”
@@ -28131,7 +28131,7 @@ molten metal.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Villette — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Villette — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/hero,motif/autumn,motif/blood,motif/city,motif/clock,motif/death,motif/dreams,motif/hill,motif/love,motif/night,motif/noon,motif/pain,motif/prayer,motif/rose,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/courage,concept/despair,concept/eternity,concept/hope,concept/solitude,concept/suffering,concept/union,setting/paris,character/ginevra_fanshawe,character/madame_beck"></span>
 
 
 The crétin being gone, I was free to walk out. At first I lacked
@@ -28249,7 +28249,7 @@ not gilded but purpled by light shed through stained glass.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Villette — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Villette — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/hill,motif/lightning,motif/night,motif/pain,motif/prayer,motif/rose,motif/storm,motif/tears,motif/time,motif/well,motif/wind,concept/faith,concept/longing,concept/self,character/speed"></span>
 
 
 Few worshippers were assembled, and, the _salut_ over, half of them
@@ -28383,7 +28383,7 @@ headlong down an abyss. I remember no more.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Villette — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Villette — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/ghost,motif/autumn,motif/blood,motif/fire,motif/flowers,motif/home,motif/leaves,motif/machine,motif/memory,motif/mirror,motif/night,motif/pain,motif/prison,motif/rose,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/fear,concept/imagination,concept/union,concept/wonder,form/riddle,character/madame_beck"></span>
 
 
 CHAPTER XVI.
@@ -28490,7 +28490,7 @@ with me.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Villette — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Villette — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/fire,motif/garden,motif/ghosts,motif/leaves,motif/mirror,motif/night,motif/pain,motif/rose,motif/sleep,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/solitude"></span>
 
 
 Too weak to scrutinize thoroughly the mystery, I tried to settle it by
@@ -28603,7 +28603,7 @@ know it at all.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Villette — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Villette — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/lightning,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,concept/faith,concept/hope,concept/nature,concept/wonder,form/sketch,character/graham_bretton"></span>
 
 
 Once more I lay down. My bed stood in a little alcove; on turning my
@@ -28731,7 +28731,7 @@ when Mrs. Bretton once more appeared.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Villette — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Villette — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/dawn,motif/desire,motif/fire,motif/memory,motif/night,motif/rose,motif/spring,motif/time,motif/well,motif/wheel,motif/wind,concept/identity,concept/pride,character/graham_bretton,character/nurse"></span>
 
 
 “Dressed!” she exclaimed, smiling with that smile I so [[Well|well]] knew—a
@@ -28853,7 +28853,7 @@ lip, many a smile, many a sudden ray levelled from the irid, under his
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="Villette — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="Villette — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/death,motif/fire,motif/nature,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,form/riddle,character/graham_bretton,character/lucy_snowe"></span>
 
 
 To _say_ anything on the subject, to _hint_ at my discovery, had not
@@ -29018,7 +29018,7 @@ it, I steeped that pillow with [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Villette — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Villette — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/memory,motif/nature,motif/night,motif/pain,motif/secrets,motif/ship,motif/time,motif/water,motif/well,concept/faith,concept/nature,concept/self,concept/suffering,concept/wonder,setting/ship,character/nurse"></span>
 
 
 CHAPTER XVII.
@@ -29129,7 +29129,7 @@ then passed into a dreamy mood, not unpleasant.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Villette — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Villette — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/cave,motif/dreams,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/noon,motif/water,motif/well,motif/window,concept/beauty,concept/doubt,concept/suffering,form/litany,character/madame_beck,character/mermaid"></span>
 
 
 My calm little room seemed somehow like a [[Cave|cave]] in the sea. There was no
@@ -29243,7 +29243,7 @@ idea?”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Villette — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Villette — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/nature,motif/night,motif/pain,motif/well,concept/doubt,concept/friendship,concept/nature,concept/suffering,concept/wonder,setting/mountains,setting/paris,character/madame_beck"></span>
 
 
 “I consigned to you? But, indeed, I forget. It yet remains for me to
@@ -29359,7 +29359,7 @@ for tea.”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Villette — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Villette — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/night,motif/pain,motif/sleep,motif/well,concept/doubt,concept/melancholy,character/bottom,character/titania"></span>
 
 
 Which he did; and, as Mrs. Bretton sat up—astonished and indignant at
@@ -29420,7 +29420,7 @@ down to dreamland by a pathway bordered with pleasant thoughts.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Villette — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Villette — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/grave,motif/nature,motif/night,motif/pain,motif/secrets,motif/soul,motif/well,concept/beauty,concept/fear,concept/honour,concept/hope,concept/nature,concept/self"></span>
 
 
 CHAPTER XVIII.
@@ -29563,7 +29563,7 @@ ear welcomed.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Villette — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Villette — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/fire,motif/frost,motif/nature,motif/night,motif/pain,motif/silence,motif/sleep,motif/stars,motif/time,motif/well,concept/doubt,concept/fear,concept/nature,concept/solitude"></span>
 
 
 For my part, there was only one plan to be pursued; I must expiate my
@@ -29686,7 +29686,7 @@ favourite saint you will do your best to enrich: Ginevra, Dr. John—”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Villette — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Villette — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/flowers,motif/jewel,motif/love,motif/well,concept/beauty,concept/honour"></span>
 
 
 “Hush!” said he, “don’t go on.”
@@ -29753,7 +29753,7 @@ intentional real or imaginary, it closed the conversation.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Villette — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Villette — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/city,motif/dawn,motif/fire,motif/garden,motif/love,motif/noon,motif/rose,motif/time,motif/well,motif/wheel,concept/self,concept/vanity,character/cleopatra,character/madame_beck"></span>
 
 
 CHAPTER XIX.
@@ -29867,7 +29867,7 @@ provender, or care for the cost of keeping it sleek and high-pampered.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Villette — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Villette — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/nature,motif/noon,motif/snow,motif/storm,motif/well,concept/conscience,concept/nature,concept/self,concept/truth,concept/vanity,character/cleopatra,character/graham_bretton,character/lucy_snowe,character/queen"></span>
 
 
 The reader is requested to note a seeming contradiction in the two
@@ -29983,7 +29983,7 @@ found that this notable production bore the name “[[Cleopatra]].”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Villette — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Villette — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/flowers,motif/ghosts,motif/moon,motif/nature,motif/silence,motif/time,motif/water,motif/well,concept/fear,concept/nature,concept/self,character/cleopatra,character/paul_emanuel,character/queen"></span>
 
 
 [[Well]], I was sitting wondering at it (as the bench was there, I thought
@@ -30146,7 +30146,7 @@ however, required a thorough comprehension of his [[Nature|nature]]; and his
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Villette — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Villette — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/fire,motif/memory,motif/silence,motif/soul,motif/well,concept/charity,concept/courage,concept/doubt,concept/mercy,concept/self,concept/solitude,character/cleopatra,character/venus"></span>
 
 
 “How did you get on with Marie Broc?” he asked, after some minutes’
@@ -30281,7 +30281,7 @@ mulatto with Ginevra!”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Villette — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Villette — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/city,motif/clock,motif/crown,motif/flowers,motif/garden,motif/grave,motif/home,motif/leaves,motif/nature,motif/night,motif/noon,motif/snow,motif/stars,motif/time,motif/well,concept/aspiration,concept/fear,concept/friendship,concept/hope,concept/nature,character/queen"></span>
 
 
 CHAPTER XX.
@@ -30404,7 +30404,7 @@ and perfumed atmosphere of the cupola, guarding its wondrous treasure.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Villette — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Villette — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/usurper,motif/blood,motif/desert,motif/home,motif/love,motif/mirror,motif/rose,motif/snow,motif/time,motif/well,concept/beauty,concept/honour,setting/desert,character/madame_beck"></span>
 
 
 We moved on—I was not at all conscious whither—but at some turn we
@@ -30533,7 +30533,7 @@ now visible in the person of the second gentleman.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Villette — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Villette — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/love,motif/nature,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/melancholy,concept/nature,concept/wonder,setting/court,character/madame_beck,character/queen"></span>
 
 
 M. Paul amused me; I smiled to myself as I watched him, he seemed so
@@ -30651,7 +30651,7 @@ truths—wholesome truths, too.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Villette — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Villette — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/king,motif/love,concept/body,concept/courage,concept/doubt,concept/heroism,concept/honour,concept/self,character/ginevra_fanshawe,character/queen,character/sunday"></span>
 
 
 I knew another of these seraphs—the prettiest, or, at any rate, the
@@ -30771,7 +30771,7 @@ sensation?”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="Villette — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="Villette — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/fire,motif/night,motif/rose,motif/time,motif/well,motif/wheel,concept/beauty,concept/fear,concept/melancholy,concept/truth,setting/court,character/chorus,character/ginevra_fanshawe,character/queen"></span>
 
 
 “Think nothing of it, Dr. John: it is not worth while. If Ginevra were
@@ -30909,7 +30909,7 @@ Count de Hamal.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_06" data-title="Villette — Chapter 20 (part 6)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_06" data-title="Villette — Chapter 20 (part 6)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/desire,motif/home,motif/night,motif/pain,motif/time,motif/wheel,concept/fear,concept/hope,character/madame_beck"></span>
 
 
 “This room is stiflingly hot,” said Dr. Bretton, rising with sudden
@@ -31034,7 +31034,7 @@ an opera-hat; she restored it to the band-box whence it had issued.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_07" data-title="Villette — Chapter 20 (part 7)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_07" data-title="Villette — Chapter 20 (part 7)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/lover,motif/chains,motif/childhood,motif/dawn,motif/fire,motif/home,motif/marriage,motif/night,motif/time,motif/winter,concept/doubt,concept/education,concept/friendship,concept/honour,concept/hope,concept/suffering,concept/truth,character/queen"></span>
 
 
 Graham was quite cheerful all the evening, and his cheerfulness seemed
@@ -31190,7 +31190,7 @@ that concert could say the same; for not all had been satisfied with
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Villette — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Villette — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/death,motif/flowers,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/seasons,motif/snow,motif/spring,motif/stars,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/winter,concept/courage,concept/despair,concept/fear,concept/hope,concept/imagination,concept/nature,concept/revenge,concept/wonder,character/madame_beck"></span>
 
 
 CHAPTER XXI.
@@ -31360,7 +31360,7 @@ worlds!
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Villette — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Villette — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/death,motif/decay,motif/dreams,motif/fire,motif/night,motif/pain,motif/poison,motif/sleep,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/endurance,concept/faith,concept/fear,concept/longing,concept/self,concept/truth"></span>
 
 
 Sovereign complete! thou hadst, for [[Endurance|endurance]], thy great army of
@@ -31475,7 +31475,7 @@ parted from friends—is it not so?”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Villette — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Villette — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/lion,motif/nature,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/nature,character/ginevra_fanshawe,character/madame_beck,character/timon"></span>
 
 
 The insinuating softness was not more acceptable than the inquisitorial
@@ -31593,7 +31593,7 @@ a huge music-book under her arm.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Villette — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Villette — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/home,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/jealousy,concept/suffering,concept/truth,character/graham_bretton,character/lucy_snowe,character/timon"></span>
 
 
 “Go to your practising,” said I to her at once: “away with you to the
@@ -31748,7 +31748,7 @@ prophetic of choler.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Villette — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Villette — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/desert,motif/lightning,motif/silence,motif/snow,motif/storm,motif/well,motif/window,concept/doubt,concept/hope,concept/imagination,concept/longing,setting/desert,character/lucy_snowe"></span>
 
 
 As usual he broke upon us like a clap of thunder; but instead of
@@ -31858,7 +31858,7 @@ the fuel was made to fly.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Villette — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Villette — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/monster,motif/childhood,motif/clock,motif/fire,motif/flag,motif/garden,motif/rose,motif/tears,motif/time,motif/well,concept/fear,concept/truth,setting/court"></span>
 
 
 “Est-ce que vous avez l’intention de m’insulter?” said he to me, in a
@@ -31949,7 +31949,7 @@ ubiquity: one never knew either his whim or his whereabout.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Villette — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Villette — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/home,motif/leaves,motif/nature,motif/night,motif/pain,motif/rose,motif/well,motif/wind,concept/courage,concept/fear,concept/hope,concept/longing,concept/nature,concept/purification,concept/solitude,concept/truth,character/ginevra_fanshawe,character/madame_beck,character/timon"></span>
 
 
 CHAPTER XXII.
@@ -32079,7 +32079,7 @@ they were obliged to come.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Villette — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Villette — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/grave,motif/poison,motif/tears,motif/well,concept/doubt,concept/endurance,concept/faith"></span>
 
 
 Lo! when I reached the garret-door, all within was dark as a pit: the
@@ -32211,7 +32211,7 @@ tongue and eye; but you never saw that in me—did you, Lucy?”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Villette — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Villette — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/ghost,motif/grave,motif/love,motif/nature,motif/night,motif/rose,motif/soul,motif/storm,motif/summer,motif/well,concept/fear,concept/forgiveness,concept/imagination,concept/melancholy,concept/nature,concept/wonder,character/ginevra_fanshawe,character/madame_beck"></span>
 
 
 “Indeed—indeed—when you were a mere boy I used to see both: far more
@@ -32399,7 +32399,7 @@ the [[Child|child]] of malady, and I of that malady the prey.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Villette — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Villette — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/love,motif/night,motif/storm,motif/summer,motif/time,motif/well,motif/winter,concept/hope,concept/truth,concept/wonder,character/madame_beck"></span>
 
 
 CHAPTER XXIII.
@@ -32508,7 +32508,7 @@ her: she immediately said, ‘Take Lucy in my place.’ Will you go?”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Villette — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Villette — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/leaves,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/madness,concept/nature,concept/self,concept/truth,form/tragedy,character/queen"></span>
 
 
 “Just now? I am not dressed,” cried I, glancing despairingly at my dark
@@ -32623,7 +32623,7 @@ mask. Hate and Murder and [[Madness]] incarnate she stood.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Villette — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Villette — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/artist,archetype/prophet,archetype/rebel,motif/blood,motif/death,motif/desire,motif/fire,motif/grave,motif/night,motif/pain,motif/river,motif/rose,motif/soul,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/winter,concept/beauty,concept/exile,concept/hope,concept/imagination,concept/suffering,concept/wonder,character/cleopatra"></span>
 
 
 It was a marvellous sight: a mighty revelation.
@@ -32736,7 +32736,7 @@ not an [[artist]]: it was a branding judgment.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Villette — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Villette — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/death,motif/fire,motif/night,motif/time,motif/well,concept/courage,concept/hope,concept/suffering,form/tragedy"></span>
 
 
 That [[Night|night]] was already marked in my book of life, not with white, but
@@ -32878,7 +32878,7 @@ the iron-grey gentleman anxiously looking on.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="Villette — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="Villette — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/nature,motif/night,motif/pain,motif/silence,motif/snow,motif/well,concept/doubt,concept/nature,concept/pride,concept/suffering"></span>
 
 
 “Where is Harriet? I wish Harriet would come to me,” said the girlish
@@ -32982,7 +32982,7 @@ fallen, and which had blazed up and been quenched in a moment.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Villette — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Villette — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/birds,motif/dreams,motif/frost,motif/memory,motif/nature,motif/night,motif/road,motif/silence,motif/sleep,motif/snow,motif/spring,motif/stars,motif/swallow,motif/time,motif/well,motif/wind,motif/winter,concept/despair,concept/endurance,concept/hope,concept/nature,concept/resurrection,concept/self,concept/suffering,concept/truth"></span>
 
 
 CHAPTER XXIV.
@@ -33094,7 +33094,7 @@ got as thin as a [[Shadow|shadow]]: otherwise I was not ill.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Villette — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Villette — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/ghost,motif/desire,motif/home,motif/leaves,motif/night,motif/pain,motif/time,motif/well,motif/wind,motif/winter,concept/conscience,concept/doubt,concept/fear,concept/truth,concept/vanity,concept/wonder,character/ginevra_fanshawe"></span>
 
 
 Reading there somewhat late one evening, and feeling that the power to
@@ -33236,7 +33236,7 @@ weight and warmth of which all energy died.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Villette — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Villette — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/garden,motif/grave,motif/home,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/ambition,concept/fear,concept/hope,character/bottom"></span>
 
 
 Bitter and dark as was this January day, I remember leaving the classe,
@@ -33335,7 +33335,7 @@ god-daughter.—Very truly yours,
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Villette — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Villette — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/memory,motif/night,motif/rose,motif/snow,motif/soul,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,character/paulina"></span>
 
 
 “LOUISA BRETTON.”
@@ -33466,7 +33466,7 @@ broadest camelia—the fullest dahlia that ever bloomed.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="Villette — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="Villette — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/home,motif/memory,motif/night,motif/pain,motif/prayer,motif/time,motif/well,concept/doubt,concept/fear,concept/truth,character/graham_bretton,character/lucy_snowe,character/paulina,character/sunday"></span>
 
 
 “Ah! and you remember the old [[Time|time]] at Bretton?”
@@ -33589,7 +33589,7 @@ would still have lingered, but I inclined to descend: we went down.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Villette — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Villette — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/fire,motif/grave,motif/home,motif/memory,motif/night,motif/snow,motif/well,motif/winter,concept/beauty,setting/mountains,character/lucy_snowe,character/paulina"></span>
 
 
 CHAPTER XXV.
@@ -33717,7 +33717,7 @@ but couldn’t do it.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Villette — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Villette — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/grave,motif/home,motif/night,motif/snow,motif/time,motif/well,motif/wind,concept/truth,character/madame_beck,character/paulina"></span>
 
 
 “Why? I am quite [[Well|well]] now: it can’t break my collar-bone again, or
@@ -33862,7 +33862,7 @@ send her to school. Do you know of any good school?”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Villette — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Villette — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/hill,motif/home,motif/nature,motif/night,motif/pain,motif/rose,motif/time,motif/well,concept/education,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/pride,concept/providence,concept/wonder,character/lucy_snowe,character/madame_beck"></span>
 
 
 “Miss Snowe is in a school?”
@@ -33994,7 +33994,7 @@ weather seems settling, and I have finished my breakfast—”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Villette — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Villette — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/dust,motif/home,motif/lamb,motif/memory,motif/rose,motif/secrets,motif/silence,motif/snow,motif/storm,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/self,character/madame_beck,character/paulina"></span>
 
 
 “I don’t at all.”
@@ -34126,7 +34126,7 @@ compartment of the bookcase; and it proved to be an old Bretton
 
 
 
-<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="some illustrated work of natur" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_some_illustrated_work_of_natur" data-title="Villette — Book 26: some illustrated work of natural history. Often had I seen her" data-chapter="some illustrated work of natur" data-kind="chapter" data-tags="motif/dance,motif/home,motif/leaves,motif/love,motif/memory,motif/moon,motif/night,motif/silence,motif/snow,motif/well,motif/wind,concept/fear,concept/history,form/history,character/paulina"></span>
 
 
 book—some illustrated work of natural [[history]]. Often had I seen her
@@ -34225,7 +34225,7 @@ darting little yellow serpent.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Villette — Chapter 26 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Villette — Chapter 26 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/pain,motif/river,motif/soul,motif/time,motif/winter,concept/fear,concept/hope,concept/self,concept/wonder,setting/court,character/madame_beck"></span>
 
 
 CHAPTER XXVI.
@@ -34366,7 +34366,7 @@ into his hands, jarred my very [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Villette — Chapter 26 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Villette — Chapter 26 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/clock,motif/frost,motif/garden,motif/grave,motif/home,motif/moon,motif/night,motif/road,motif/rose,motif/time,motif/well,motif/window,motif/winter,concept/courage,concept/melancholy,character/bottom,character/madame_beck"></span>
 
 
 What should I do to prevent this? In what corner of this strange [[house]]
@@ -34481,7 +34481,7 @@ men, come back and deliver it.” Nothing spoke or re-appeared.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Villette — Chapter 26 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Villette — Chapter 26 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/shadow,motif/clock,motif/garden,motif/great_house,motif/home,motif/nature,motif/night,motif/time,motif/well,concept/beauty,concept/fear,concept/greatness,concept/nature,concept/self,character/madame_beck,character/paulina"></span>
 
 
 This [[Time|time]] there was no Dr. John to whom to have recourse: there was no
@@ -34589,7 +34589,7 @@ away when he is here, and have no [[Fear|fear]] of him?”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Villette — Chapter 26 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Villette — Chapter 26 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/well,concept/education,concept/faith,concept/friendship,concept/greatness,concept/nature,concept/self,concept/suffering,character/madame_beck,character/paulina,character/queen"></span>
 
 
 “_He_ does not talk much. Is he afraid of me, do you think, papa?”
@@ -34718,7 +34718,7 @@ mutely continued the correction of a pile of English exercises.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Villette — Chapter 26 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Villette — Chapter 26 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/beauty,concept/nature,concept/pride,concept/self,concept/truth,character/paulina,character/queen_elizabeth"></span>
 
 
 “He could see in me nothing Christian: like many other Protestants, I
@@ -34878,7 +34878,7 @@ chance of justifying her character for veracity.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Villette — Chapter 27 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Villette — Chapter 27 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/lover,motif/window,concept/doubt,concept/honour,concept/wonder,character/madame_beck"></span>
 
 
 CHAPTER XXVII.
@@ -35021,7 +35021,7 @@ in mine.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Villette — Chapter 27 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Villette — Chapter 27 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/memory,motif/time,motif/well,concept/body,concept/honour,concept/identity,concept/self,character/paulina"></span>
 
 
 There are people whom a lowered position degrades morally, to whom loss
@@ -35127,7 +35127,7 @@ Academician, in the course of the evening.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Villette — Chapter 27 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Villette — Chapter 27 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/home,motif/nature,motif/pain,motif/rose,motif/well,concept/beauty,concept/nature,concept/truth,character/paulina"></span>
 
 
 At dinner that day, Ginevra and [[Paulina]] each looked, in her own way,
@@ -35229,7 +35229,7 @@ forms—studied both faces.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Villette — Chapter 27 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Villette — Chapter 27 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/shadow,motif/grave,motif/home,motif/memory,motif/night,motif/pain,motif/silence,motif/well,concept/wonder,character/lucy_snowe"></span>
 
 
 Several new guests, ladies as [[Well|well]] as gentlemen, had entered the room
@@ -35373,7 +35373,7 @@ horn-book? She does not know that I partly taught her to read.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_05" data-title="Villette — Chapter 27 (part 5)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_05" data-title="Villette — Chapter 27 (part 5)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/courage,concept/doubt,concept/nature,concept/self,histref/bible,character/paulina,character/sunday"></span>
 
 
 “In the [[Bible]] on [[Sunday]] nights?”
@@ -35495,7 +35495,7 @@ painting darkening the wall.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_06" data-title="Villette — Chapter 27 (part 6)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_06" data-title="Villette — Chapter 27 (part 6)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/night,motif/pain,motif/silence,motif/storm,motif/well,concept/self"></span>
 
 
 Ginevra was long in coming: tedious seemed her loitering. M. Paul was
@@ -35588,7 +35588,7 @@ all the more sweetly for having undergone a sound moral drubbing.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Villette — Chapter 28 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Villette — Chapter 28 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/ship,motif/storm,motif/time,motif/well,concept/courage,concept/fear,concept/suffering,setting/court,setting/ship,character/madame_beck,character/paul_emanuel"></span>
 
 
 CHAPTER XXVIII.
@@ -35716,7 +35716,7 @@ chair.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Villette — Chapter 28 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Villette — Chapter 28 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/doubt,form/essay,form/melodrama,form/tragedy,setting/paris"></span>
 
 
 “Que me voulez-vous?” said he in a growl of which the music was wholly
@@ -35835,7 +35835,7 @@ was requisite, and my fingers were busy.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Villette — Chapter 28 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Villette — Chapter 28 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/rose,motif/soul,motif/water,motif/well,motif/winter,concept/nature,form/novel,form/translation"></span>
 
 
 We heard the sharp bell-peal which we all knew; then the rapid step
@@ -35955,7 +35955,7 @@ such as were placid and harmonious.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Villette — Chapter 28 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Villette — Chapter 28 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/shadow,motif/flowers,motif/night,motif/rose,motif/silence,motif/soul,motif/spring,motif/time,motif/well,motif/winter,concept/melancholy,concept/vanity,form/novel,character/lucy_snowe"></span>
 
 
 He [[Rose|rose]]. “Will he go away without saying another word?” Yes; he turned
@@ -36110,7 +36110,7 @@ because you tease him with an obtrusive ray.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Villette — Chapter 29 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Villette — Chapter 29 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="topos/double,motif/death,motif/flowers,motif/love,motif/nature,motif/night,motif/spring,motif/tears,motif/time,motif/well,motif/winter,concept/doubt,concept/honour,concept/nature,concept/truth,character/madame_beck"></span>
 
 
 CHAPTER XXIX.
@@ -36219,7 +36219,7 @@ leaf as the [[Winter|winter]] tree. This ascertained, Zélie smiled, [[Well|well
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Villette — Chapter 29 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Villette — Chapter 29 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/hero,archetype/rebel,motif/flowers,motif/rose,motif/silence,motif/time,motif/well,concept/beauty,concept/honour,concept/pride,concept/wonder"></span>
 
 
 “How wisely you have acted to keep your money, Miss Lucie,” she said:
@@ -36342,7 +36342,7 @@ stone.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Villette — Chapter 29 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Villette — Chapter 29 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/cross,motif/crown,motif/flowers,motif/home,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/education,concept/identity,concept/pride,concept/self,concept/union,character/madame_beck"></span>
 
 
 “It is [[Well|well]]!” dropped at length from the lips of M. Paul; and having
@@ -36494,7 +36494,7 @@ quicker than himself; recaptured the spoil, and—having saved this
 
 
 
-<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="never hazarded a second With a" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_never_hazarded_a_second_with_a" data-title="Villette — Volume 31: never hazarded a second. With all this, I had never yet been" data-chapter="never hazarded a second With a" data-kind="chapter" data-tags="archetype/child,motif/cross,motif/dreams,motif/flowers,motif/grave,motif/night,motif/pain,motif/rose,motif/silence,motif/time,motif/well,concept/immortality,concept/resurrection,concept/self,character/lucy_snowe,character/phantom"></span>
 
 
 volume—never hazarded a second. With all this, I had never yet been
@@ -36708,7 +36708,7 @@ supper commenced, he just said, as he retired, that he wished me a good
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Villette — Chapter 30 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Villette — Chapter 30 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/pilgrim,motif/blood,motif/lightning,motif/love,motif/pain,motif/silence,motif/sleep,motif/storm,motif/well,concept/charity,concept/history,concept/jealousy,concept/pride,concept/self,concept/vanity,form/history,character/madame_beck"></span>
 
 
 CHAPTER XXX.
@@ -36830,7 +36830,7 @@ stamped it with his deep brand of approval.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Villette — Chapter 30 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Villette — Chapter 30 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/blood,motif/dawn,motif/memory,motif/pain,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/aspiration,concept/charity,concept/education,concept/pride"></span>
 
 
 I speak not ignorant of these evils.
@@ -36947,7 +36947,7 @@ that effect actually formed itself into sound on my lips.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Villette — Chapter 30 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Villette — Chapter 30 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/memory,motif/silence,motif/soul,motif/well,concept/beauty,concept/education,concept/fear,concept/truth,form/fragment,setting/court"></span>
 
 
 “Mais, sans doute.”
@@ -37063,7 +37063,7 @@ as getting them for yourself. Go, then, but come back quickly.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Villette — Chapter 30 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Villette — Chapter 30 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/nature,motif/silence,motif/time,motif/water,motif/well,motif/wind,concept/faith,concept/friendship,concept/history,concept/imprisonment,concept/nature,form/history,character/madame_beck,character/speed"></span>
 
 
 And at last he liberated me on parole. My own plan was to go and return
@@ -37172,7 +37172,7 @@ prey had escaped.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Villette — Chapter 31 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Villette — Chapter 31 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/crown,motif/flowers,motif/garden,motif/leaves,motif/machine,motif/night,motif/sleep,motif/snow,motif/spring,motif/time,motif/well,concept/friendship,concept/wonder,character/ginevra_fanshawe,character/madame_beck,character/sunday"></span>
 
 
 CHAPTER XXXI.
@@ -37279,7 +37279,7 @@ under her direction, which will furnish a career for her children.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Villette — Chapter 31 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Villette — Chapter 31 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/blood,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/despair,concept/faith,concept/friendship,concept/hope,concept/nature,concept/poverty,concept/self,concept/truth,character/lucy_snowe"></span>
 
 
 “[[Courage]], [[Lucy Snowe]]! With [[Self|self]]-denial and economy now, and steady
@@ -37406,7 +37406,7 @@ me!”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Villette — Chapter 31 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Villette — Chapter 31 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/night,motif/pain,motif/silence,motif/well,motif/window,concept/doubt,concept/nature,setting/court,setting/london,character/bottom"></span>
 
 
 “Discoveries made by stealth seem to me dishonourable discoveries.”
@@ -37540,7 +37540,7 @@ winking itself out?”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Villette — Chapter 31 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Villette — Chapter 31 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/blood,motif/desire,motif/garden,motif/night,motif/prayer,motif/rose,motif/supernatural,motif/time,motif/well,motif/wind"></span>
 
 
 “I am cold; the [[Night|night]] grows dark and late, and the air is changed; it
@@ -37641,7 +37641,7 @@ poured wild and cold; the whole [[Night|night]] seemed to feel her.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Villette — Chapter 32 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Villette — Chapter 32 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/time,motif/well,motif/wind,concept/beauty,concept/honour,concept/longing,character/ginevra_fanshawe,character/graham_bretton,character/madame_beck,character/paulina,character/speed"></span>
 
 
 CHAPTER XXXII.
@@ -37774,7 +37774,7 @@ demonstrative; mine, however, was quiet.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Villette — Chapter 32 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Villette — Chapter 32 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/grave,motif/home,motif/lamb,motif/love,motif/storm,motif/time,motif/well,concept/courage,concept/hope,concept/pride,concept/self,concept/truth,character/lucy_snowe,character/paulina"></span>
 
 
 “What have you to ask of Lucy?” said I; “be brave, and speak out.”
@@ -37912,7 +37912,7 @@ autograph?”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Villette — Chapter 32 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Villette — Chapter 32 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/journey,motif/love,motif/nature,motif/night,motif/pain,motif/rose,motif/tears,motif/time,motif/well,motif/winter,concept/doubt,concept/fear,concept/hope,concept/mercy,concept/nature,concept/pride,concept/providence,concept/self,concept/suffering,concept/truth,character/paulina"></span>
 
 
 “I have seen it: go on.”
@@ -38050,7 +38050,7 @@ as the promise of its [[Mercy|mercy]].”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Villette — Chapter 33 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Villette — Chapter 33 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/garden,motif/lightning,motif/rose,motif/storm,motif/summer,motif/time,motif/well,concept/courage,concept/fear,concept/honour,concept/suffering"></span>
 
 
 CHAPTER XXXIII.
@@ -38171,7 +38171,7 @@ greatest distance.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Villette — Chapter 33 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Villette — Chapter 33 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/innocent,archetype/monster,motif/childhood,motif/cross,motif/dust,motif/lamb,motif/love,motif/memory,motif/nature,motif/prayer,motif/well,concept/faith,concept/honour,concept/nature"></span>
 
 
 He began to tell us a story. [[Well]] could he narrate: in such a diction
@@ -38296,7 +38296,7 @@ with his kindness.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Villette — Chapter 33 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Villette — Chapter 33 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/garden,motif/grave,motif/home,motif/night,motif/noon,motif/tears,motif/water,motif/well,concept/courage,concept/doubt,concept/hope,concept/melancholy,concept/mortality,setting/court,character/madame_beck"></span>
 
 
 He asked, by-and-by, if I would not rather run to my companions than
@@ -38403,7 +38403,7 @@ I took my wages to my pillow, and passed the [[Night|night]] counting them.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Villette — Chapter 34 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Villette — Chapter 34 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/cross,motif/decay,motif/leaves,motif/nature,motif/pain,motif/rose,motif/snow,motif/spring,motif/stars,motif/storm,motif/summer,motif/time,motif/wind,concept/fear,concept/greatness,concept/nature,concept/resignation,character/madame_beck"></span>
 
 
 CHAPTER XXXIV.
@@ -38520,7 +38520,7 @@ ushered into a sort of salon, and there left.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Villette — Chapter 34 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Villette — Chapter 34 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/lightning,motif/prayer,motif/storm,motif/well,concept/fear,concept/truth,form/litany,setting/castle,character/madame_beck,character/queen"></span>
 
 
 The room was large, and had a fine old ceiling, and almost church-like
@@ -38644,7 +38644,7 @@ its half mystic interest.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Villette — Chapter 34 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Villette — Chapter 34 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,motif/cross,motif/death,motif/love,motif/rose,motif/storm,motif/tears,motif/time,motif/well,concept/charity,concept/faith,concept/hope,concept/pride,concept/revenge,concept/self,concept/solitude,concept/truth,concept/union,character/madame_beck,character/witch"></span>
 
 
 Beside a [[Cross|cross]] of curiously carved old ivory, yellow with [[Time|time]], and
@@ -38771,7 +38771,7 @@ connection.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Villette — Chapter 34 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Villette — Chapter 34 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/lover,motif/dreams,motif/home,motif/nature,motif/rose,motif/silence,motif/spring,motif/time,motif/well,concept/charity,concept/faith,concept/greatness,concept/nature,concept/pride,concept/self,concept/truth,character/madame_beck,character/paul_emanuel"></span>
 
 
 Perhaps the musing-fit into which I had by this [[Time|time]] fallen, appeared
@@ -38911,7 +38911,7 @@ soir!”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Villette — Chapter 35 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Villette — Chapter 35 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,motif/clock,motif/cross,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/well,concept/doubt,concept/faith,concept/hope,concept/longing,concept/nature,character/madame_beck,character/maria"></span>
 
 
 CHAPTER XXXV.
@@ -39031,7 +39031,7 @@ will disprove this charge.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Villette — Chapter 35 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Villette — Chapter 35 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/autumn,motif/death,motif/memory,motif/night,motif/pain,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/courage,concept/doubt,concept/history,concept/honour,concept/truth,form/essay,form/history"></span>
 
 
 Grand ciel! Here was the show-trial, so long evaded, come on me like a
@@ -39153,7 +39153,7 @@ or enjoy your present credit.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Villette — Chapter 35 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Villette — Chapter 35 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/home,motif/well,concept/faith,concept/history,concept/suffering,concept/truth,form/history,form/novel,form/sketch"></span>
 
 
 An idea once seized, I fell to work. “Human Justice” rushed before me
@@ -39278,7 +39278,7 @@ and solemn.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Villette — Chapter 35 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Villette — Chapter 35 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,archetype/lover,archetype/shadow,motif/blood,motif/fire,motif/night,motif/secrets,motif/storm,motif/time,motif/well,concept/courage,concept/fear,concept/friendship,concept/history,concept/hope,concept/revenge,concept/self,concept/truth,form/history"></span>
 
 
 He eyed me closely; he half-smiled, half-coloured. “Where did you pick
@@ -39484,7 +39484,7 @@ fancies,” against which he warned me, wrought in his own brain.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Villette — Chapter 36 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Villette — Chapter 36 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/clock,motif/flag,motif/flowers,motif/lion,motif/night,motif/time,motif/water,motif/well,concept/courage,concept/friendship,setting/court"></span>
 
 
 CHAPTER XXXVI.
@@ -39598,7 +39598,7 @@ it my turn?
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Villette — Chapter 36 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Villette — Chapter 36 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/garden,motif/lamb,motif/leaves,motif/love,motif/moon,motif/night,motif/prayer,motif/rose,motif/time,motif/well,concept/conversion,concept/fanaticism,concept/fear,concept/history,concept/hope,form/essay,form/history,form/riddle,setting/cathedral,setting/court"></span>
 
 
 Alas! in the [[Garden|garden]] were more plants to be looked after,—favourite
@@ -39713,7 +39713,7 @@ former spirit. I was revived.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Villette — Chapter 36 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Villette — Chapter 36 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/frost,motif/garden,motif/memory,motif/nature,motif/night,motif/rose,motif/snow,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/doubt,concept/fear,concept/nature,concept/self,form/riddle,character/paul_emanuel,character/paulina"></span>
 
 
 A mortal bewilderment cleared suddenly from my head and vision; the
@@ -39823,7 +39823,7 @@ desk, and begin soberly to mend them.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Villette — Chapter 36 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Villette — Chapter 36 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/love,motif/machine,motif/nature,motif/night,motif/prayer,motif/silence,motif/well,concept/charity,concept/faith,concept/fear,concept/identity,concept/nature,concept/self,concept/truth,histref/bible,character/christ,character/lucifer"></span>
 
 
 I knew that action would give a turn to his mood. He never liked to see
@@ -39948,7 +39948,7 @@ of whatever name or nation.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_05" data-title="Villette — Chapter 36 (part 5)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_05" data-title="Villette — Chapter 36 (part 5)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/clock,motif/cross,motif/death,motif/flowers,motif/garden,motif/great_house,motif/home,motif/love,motif/nature,motif/pain,motif/prayer,motif/stars,motif/time,motif/well,concept/aspiration,concept/charity,concept/conscience,concept/doubt,concept/eternity,concept/faith,concept/hope,concept/imagination,concept/mercy,concept/nature,concept/poverty,concept/temptation,concept/truth,setting/mountains,character/madame_beck"></span>
 
 
 He left me soothed, yet full of solicitude, breathing a wish, as strong
@@ -40088,7 +40088,7 @@ effort only divined.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Villette — Chapter 37 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Villette — Chapter 37 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/cross,motif/memory,motif/nature,motif/silence,motif/soul,motif/well,concept/beauty,concept/fear,concept/nature,concept/self,concept/wonder,character/lucy_snowe,character/paulina"></span>
 
 
 CHAPTER XXXVII.
@@ -40200,7 +40200,7 @@ I have my sort of life apart from yours.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Villette — Chapter 37 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Villette — Chapter 37 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/jewel,motif/love,motif/well,motif/window,concept/ambition,concept/courage,concept/fear,concept/hope,concept/melancholy,concept/pride,concept/solitude,concept/wonder,character/graham_bretton,character/paulina"></span>
 
 
 “But ours, Lucy, is a beautiful life, or it will be; and you shall
@@ -40341,7 +40341,7 @@ him—your niece, Miss Fanshawe, for instance.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Villette — Chapter 37 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Villette — Chapter 37 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/love,motif/marriage,motif/ship,motif/summer,motif/well,concept/beauty,concept/courage,concept/self,concept/truth,setting/ship,character/graham_bretton,character/paulina"></span>
 
 
 “Ah! I would have given him Ginevra with all my heart; but Polly!—I
@@ -40489,7 +40489,7 @@ just to satisfy.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Villette — Chapter 37 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Villette — Chapter 37 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/innocent,archetype/prophet,motif/crown,motif/home,motif/lamb,motif/love,motif/pain,motif/soul,motif/well,concept/courage,concept/fear,concept/wonder"></span>
 
 
 She _did_ tremble: growing excitement, kindling feeling, and also
@@ -40648,7 +40648,7 @@ bereaved, and what I have lost, _you_, it seems, have won.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="Villette — Chapter 37 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="Villette — Chapter 37 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/death,motif/grave,motif/home,motif/journey,motif/love,motif/nature,motif/pain,motif/rose,motif/summer,motif/time,motif/well,concept/charity,concept/doubt,concept/nature,concept/suffering,concept/truth,character/graham_bretton,character/paulina"></span>
 
 
 “Sir, I cannot repent.”
@@ -40810,7 +40810,7 @@ under.” It was so, for God saw that it was good.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Villette — Chapter 38 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Villette — Chapter 38 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/fire,motif/home,motif/nature,motif/night,motif/silence,motif/tears,motif/time,concept/faith,concept/hope,concept/nature,concept/providence,concept/resignation,concept/truth,character/madame_beck"></span>
 
 
 CHAPTER XXXVIII.
@@ -40924,7 +40924,7 @@ was unperturbed and commonplace.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Villette — Chapter 38 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Villette — Chapter 38 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/home,motif/love,motif/prayer,motif/rose,motif/sleep,motif/time,concept/hope,concept/jealousy,concept/suffering,concept/union,character/madame_beck"></span>
 
 
 “This secession was an immense loss to her,” she alleged. “She did not
@@ -41040,7 +41040,7 @@ could [[Love|love]]—but, oh! what _is_ the [[Love|love]] of the multitude?
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Villette — Chapter 38 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Villette — Chapter 38 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/clock,motif/garden,motif/memory,motif/rose,motif/snow,motif/time,motif/winter,concept/courage,concept/doubt,concept/fear,concept/hope,concept/self,character/madame_beck"></span>
 
 
 I knew where he lived: I knew where he was to be heard of, or
@@ -41171,7 +41171,7 @@ reach me?
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Villette — Chapter 38 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Villette — Chapter 38 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/mirror,motif/nature,motif/night,motif/poison,motif/secrets,motif/soul,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/courage,concept/despair,concept/eternity,concept/fear,concept/hope,concept/nature,concept/self,concept/solitude,concept/truth,setting/court,character/madame_beck"></span>
 
 
 Who might tell? Yet I began to take some [[Courage|courage]], some comfort; it
@@ -41292,7 +41292,7 @@ swollen and purple.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="Villette — Chapter 38 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="Villette — Chapter 38 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/moon,motif/night,motif/pain,motif/sleep,motif/summer,motif/time,motif/water,concept/imagination,concept/inner_life,concept/self,concept/wonder,form/riddle,character/ginevra_fanshawe,character/madame_beck"></span>
 
 
 On rejoining my companions, I knew they all looked at me—my heart
@@ -41411,7 +41411,7 @@ large white face and jet black figures must be vividly distinct.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_06" data-title="Villette — Chapter 38 (part 6)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_06" data-title="Villette — Chapter 38 (part 6)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/clock,motif/cross,motif/dawn,motif/death,motif/dreams,motif/fire,motif/garden,motif/moon,motif/night,motif/prison,motif/silence,motif/spring,motif/stars,motif/summer,motif/well,concept/beauty,concept/freedom,concept/wonder,setting/egypt,character/graham_bretton,character/paulina"></span>
 
 
 As for hindrance to this step, there offered not so much as a creaking
@@ -41515,7 +41515,7 @@ at [[Dawn|dawn]] that morning, and was still in full vigour near midnight.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_07" data-title="Villette — Chapter 38 (part 7)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_07" data-title="Villette — Chapter 38 (part 7)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/rose,motif/storm,motif/well,concept/despair,concept/history,concept/honour,concept/hope,concept/nature,concept/self,form/history,character/chorus,character/paulina"></span>
 
 
 In past days there had been, said [[history]], an awful crisis in the fate
@@ -41626,7 +41626,7 @@ that conciliatory feeling with which I instinctively regarded him.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_08" data-title="Villette — Chapter 38 (part 8)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_08" data-title="Villette — Chapter 38 (part 8)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/flag,motif/grave,motif/home,motif/leaves,motif/marriage,motif/memory,motif/nature,motif/night,motif/pain,motif/prayer,motif/rose,motif/time,motif/well,motif/wind,concept/identity,concept/nature,concept/wonder,character/queen"></span>
 
 
 Strange to say, this man knew me under my straw-hat and closely-folded
@@ -41728,7 +41728,7 @@ as much.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_09" data-title="Villette — Chapter 38 (part 9)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_09" data-title="Villette — Chapter 38 (part 9)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/fire,motif/moon,motif/night,motif/sleep,motif/spring,motif/time,motif/well,concept/vanity,character/madame_beck,character/witch"></span>
 
 
 Straying at random, obeying the push of every chance elbow, I was
@@ -41832,7 +41832,7 @@ but, as yet, I was not dead.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Villette — Chapter 39 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Villette — Chapter 39 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/grave,motif/marriage,motif/night,motif/pain,motif/ship,motif/time,concept/mercy,concept/self,setting/court,setting/ship,character/madame_beck,character/witch"></span>
 
 
 CHAPTER XXXIX.
@@ -41949,7 +41949,7 @@ the old woman menaced her with her staff.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Villette — Chapter 39 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Villette — Chapter 39 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/ghost,archetype/orphan,motif/city,motif/garden,motif/ghosts,motif/love,motif/memory,motif/moon,motif/night,motif/time,motif/well,motif/winter,concept/beauty,concept/fear,concept/imagination,concept/resurrection,concept/truth,character/flambeau,character/madame_beck,character/paul_emanuel,character/phantom,character/sunday"></span>
 
 
 “La voilà!” suddenly cried one of the gentlemen, “voilà Justine Marie
@@ -42071,7 +42071,7 @@ pas?” said he. The answer was prompt enough, God knows!
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Villette — Chapter 39 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Villette — Chapter 39 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/silence,motif/soul,motif/stars,motif/well,motif/wheel,concept/beauty,concept/eternity,concept/freedom,concept/jealousy,concept/nature,concept/truth,character/paulina"></span>
 
 
 “Mais oui, je vous aiderai de tout mon cœur. Vous ferez de moi tout ce
@@ -42184,7 +42184,7 @@ is, and will be from [[Eternity|eternity]] to [[Eternity|eternity]].
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_04" data-title="Villette — Chapter 39 (part 4)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_04" data-title="Villette — Chapter 39 (part 4)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/home,motif/love,motif/night,motif/spring,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/truth,form/riddle,character/lucy_snowe,character/madame_beck,character/phantom"></span>
 
 
 These oil-twinkling streets are very still: I like them for their
@@ -42279,7 +42279,7 @@ slept.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Villette — Chapter 40 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Villette — Chapter 40 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/dance,motif/garden,motif/night,motif/rose,motif/storm,motif/summer,motif/time,motif/well,concept/beauty,concept/doubt,concept/temptation,setting/court,character/ginevra_fanshawe,character/lucy_snowe,character/madame_beck,character/paulina,character/timon"></span>
 
 
 CHAPTER XL.
@@ -42402,7 +42402,7 @@ must allow he has very cleverly carried out.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Villette — Chapter 40 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Villette — Chapter 40 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/ghost,archetype/hero,motif/clock,motif/flowers,motif/home,motif/marriage,motif/nature,motif/night,motif/pain,motif/storm,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/honour,concept/jealousy,concept/nature,concept/suffering,concept/wonder,character/madame_beck,character/paulina,character/timon"></span>
 
 
 “But for the nun’s black gown and white veil, he would have been caught
@@ -42544,7 +42544,7 @@ being I have ever known.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Villette — Chapter 41 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Villette — Chapter 41 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/ship,motif/time,motif/well,concept/doubt,concept/freedom,concept/hope,concept/jealousy,concept/loneliness,concept/pride,setting/ship,character/madame_beck"></span>
 
 
 CHAPTER XLI.
@@ -42663,7 +42663,7 @@ with relief—I wept.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Villette — Chapter 41 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Villette — Chapter 41 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/time,motif/well,concept/courage,concept/fear,concept/truth,character/madame_beck"></span>
 
 
 “Leave her to me; it is a crisis: I will give her a cordial, and it
@@ -42805,7 +42805,7 @@ and keeping a little school of my own: had I dropped the idea?
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Villette — Chapter 41 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Villette — Chapter 41 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/leaves,motif/memory,motif/mirror,motif/silence,motif/water,motif/well,motif/wheel,motif/window,concept/freedom,character/lucy_snowe,character/paul_emanuel"></span>
 
 
 “Indeed, I had not: I was doing my best to save what would enable me to
@@ -42951,7 +42951,7 @@ midst of all I forced myself to look at the practical.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Villette — Chapter 41 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Villette — Chapter 41 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/leaves,motif/love,motif/moon,motif/night,motif/rose,motif/summer,motif/time,motif/well,motif/window,concept/truth,character/madame_beck"></span>
 
 
 “The trouble!” I cried, “and the cost! Had you money, M. Paul?”
@@ -43068,7 +43068,7 @@ come. I shall be proud to receive M. Miret’s daughters.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Villette — Chapter 41 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Villette — Chapter 41 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/summer,concept/history,concept/nature,concept/self,concept/solitude,concept/suffering,concept/truth,form/history,character/madame_beck"></span>
 
 
 “Besides these,” pursued he, “another pupil offers, who will come daily
@@ -43191,7 +43191,7 @@ next day—he sailed.
 
 
 
-<span class="atom-split" data-atom="chapter_44" data-title="Villette — Chapter 42" data-chapter="Chapter 44" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_44" data-title="Villette — Chapter 42" data-chapter="Chapter 44" data-kind="chapter" data-tags="archetype/shadow,motif/autumn,motif/childhood,motif/death,motif/flag,motif/leaves,motif/love,motif/nature,motif/night,motif/noon,motif/spring,motif/storm,motif/water,motif/wind,motif/window,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/hope,concept/nature,concept/paradox,concept/pride,concept/union,character/lucy_snowe,character/madame_beck"></span>
 
 
 CHAPTER XLII.

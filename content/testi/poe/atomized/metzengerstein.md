@@ -747,7 +747,7 @@ figure of—_a horse_.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Metzengerstein (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Metzengerstein (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/fire,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/conscience,concept/immortality,concept/jealousy,concept/mortality,concept/wonder,setting/castle"></span>
 
 
 Pestis eram vivus—moriens tua mors ero.
@@ -945,7 +945,7 @@ wishes of a temporal [[King|king]], or restrained with the fiat of papal
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Metzengerstein (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Metzengerstein (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/dance,motif/horse,motif/time,concept/body,form/novel,setting/castle"></span>
 
 
 supremacy the rebellious sceptre of the Arch-enemy. _There_, the
@@ -1147,7 +1147,7 @@ the equerries.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Metzengerstein (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Metzengerstein (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/home,motif/horse,motif/nature,motif/night,motif/noon,motif/time,motif/well,concept/body,concept/hope,concept/melancholy,concept/nature,concept/self,concept/truth"></span>
 
 
 The young Frederick, during the conference, seemed agitated by a
@@ -1361,7 +1361,7 @@ peculiar intelligence in the demeanor of a noble and
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Metzengerstein (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Metzengerstein (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/night,motif/well,concept/doubt,concept/wonder"></span>
 
 
 high-spirited [[Horse|horse]] are not to be supposed capable of exciting

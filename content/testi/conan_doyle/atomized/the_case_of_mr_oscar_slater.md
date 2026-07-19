@@ -413,7 +413,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE CASE OF MR. OSCAR SLATER (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE CASE OF MR. OSCAR SLATER (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/scapegoat,motif/secrets,setting/london"></span>
 
 
 THE CASE OF MR. OSCAR SLATER
@@ -660,7 +660,7 @@ Windlesham, Crowborough.  COPY OF MEMORIAL FOR REPRIEVE
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE CASE OF MR. OSCAR SLATER (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE CASE OF MR. OSCAR SLATER (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 UNTO THE RIGHT HONOURABLE LORD PENTLAND, HIS MAJESTY’S SECRETARY OF STATE FOR SCOTLAND MEMORIAL ON BEHALF OF OSCAR SLATER
@@ -715,7 +715,7 @@ Dated this seventeenth day of May, One thousand nine hundred and nine.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="THE CASE OF MR. OSCAR SLATER (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="THE CASE OF MR. OSCAR SLATER (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 THE HOLOCAUST OF MANOR PLACE

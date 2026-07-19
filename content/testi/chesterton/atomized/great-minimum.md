@@ -87,7 +87,7 @@ G.K.Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="great-minimum (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="great-minimum (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/lightning,motif/rose,motif/stars,motif/time"></span>
 
 
 The Great Minimum  

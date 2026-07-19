@@ -38672,7 +38672,7 @@ September 2nd, 1865.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_cup_and_the_lip" data-title="Our Mutual Friend — Book 1: THE CUP AND THE LIP" data-chapter="THE CUP AND THE LIP" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_cup_and_the_lip" data-title="Our Mutual Friend — Book 1: THE CUP AND THE LIP" data-chapter="THE CUP AND THE LIP" data-kind="chapter" data-tags="motif/marriage"></span>
 
 
 Book the First—THE CUP AND THE LIP
@@ -38698,7 +38698,7 @@ Book the First—THE CUP AND THE LIP
 
 
 
-<span class="atom-split" data-atom="chapter_02_birds_birds_of_a_feather" data-title="Our Mutual Friend — Book 2: BIRDS OF A FEATHER" data-chapter="Birds BIRDS OF A FEATHER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_birds_birds_of_a_feather" data-title="Our Mutual Friend — Book 2: BIRDS OF A FEATHER" data-chapter="Birds BIRDS OF A FEATHER" data-kind="chapter" data-tags="archetype/innocent,archetype/orphan,motif/birds,form/riddle"></span>
 
 
 Book the Second—[[Birds|BIRDS]] OF A FEATHER
@@ -38723,7 +38723,7 @@ Book the Second—[[Birds|BIRDS]] OF A FEATHER
 
 
 
-<span class="atom-split" data-atom="chapter_03_a_long_lane" data-title="Our Mutual Friend — Book 3: A LONG LANE" data-chapter="A LONG LANE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_a_long_lane" data-title="Our Mutual Friend — Book 3: A LONG LANE" data-chapter="A LONG LANE" data-kind="chapter" data-tags="motif/journey,character/chorus"></span>
 
 
 Book the Third—A LONG LANE
@@ -38749,7 +38749,7 @@ Book the Third—A LONG LANE
 
 
 
-<span class="atom-split" data-atom="chapter_04_a_turning" data-title="Our Mutual Friend — Book 4: A TURNING" data-chapter="A TURNING" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_a_turning" data-title="Our Mutual Friend — Book 4: A TURNING" data-chapter="A TURNING" data-kind="chapter" data-tags="archetype/shadow,motif/dust,character/cain"></span>
 
 
 Book the Fourth—A TURNING
@@ -38778,7 +38778,7 @@ POSTSCRIPT, IN LIEU OF PREFACE
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Our Mutual Friend — Chapter 1" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Our Mutual Friend — Chapter 1" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/autumn,motif/blood,motif/fire,motif/home,motif/river,motif/ship,motif/silence,motif/time,motif/water,motif/well,form/inscription,setting/london,setting/ship,character/bottom"></span>
 
 
 BOOK THE FIRST — THE CUP AND THE LIP
@@ -39001,7 +39001,7 @@ and had no fancies.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/innocent,motif/crown,motif/fire,motif/home,motif/leaves,motif/nature,motif/soul,motif/window,concept/hope,concept/nature,concept/union,setting/london,character/bottom"></span>
 
 
 Chapter 2
@@ -39120,7 +39120,7 @@ of the opportunity, I am sure!’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/prophet,motif/flowers,motif/home,motif/horse,motif/well,motif/wind,concept/melancholy,setting/court"></span>
 
 
 In the meantime, Mrs Podsnap, unable to originate a mistake on her own
@@ -39235,7 +39235,7 @@ rest of the company and possible accidents.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/dust,motif/love,motif/night,motif/time,motif/well,concept/honour"></span>
 
 
 The Veneering dinners are excellent dinners—or new people wouldn’t
@@ -39367,7 +39367,7 @@ Buffers who receive him enthusiastically.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/dust,motif/home,motif/horse,motif/leaves,motif/marriage,motif/nature,motif/night,motif/ship,motif/time,motif/winter,concept/doubt,concept/melancholy,concept/nature,setting/mountains,setting/ship,character/chorus"></span>
 
 
 ‘The moral being—I believe that’s the right expression—of this
@@ -39533,7 +39533,7 @@ drowned!’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/cave,motif/death,motif/home,motif/poison,motif/road,motif/well,concept/body,concept/hope,setting/court"></span>
 
 
 Chapter 3
@@ -39683,7 +39683,7 @@ energy.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/fire,motif/flag,motif/night,motif/river,motif/time,motif/water,motif/well,concept/body,setting/london,character/eugene_wrayburn"></span>
 
 
 ‘And so will I,’ said Eugene.
@@ -39826,7 +39826,7 @@ man much agitated.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/home,motif/night,motif/river,motif/ship,motif/silence,motif/well,concept/body,concept/doubt,concept/fear,concept/honour,concept/identity,concept/self,setting/london,setting/ship"></span>
 
 
 ‘A [[Body|body]] missing?’ asked Gaffer Hexam, stopping short; ‘or a [[Body|body]] found?
@@ -39971,7 +39971,7 @@ much confused as he gave the answer.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/river,motif/sleep,motif/tears,motif/time,motif/water,motif/window,concept/fear,concept/truth"></span>
 
 
 ‘At least,’ said Mr Inspector, with no change of voice or manner, ‘you
@@ -40118,7 +40118,7 @@ snuggled under a little shawl, and it was warm there.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Our Mutual Friend — Chapter 3 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Our Mutual Friend — Chapter 3 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/fire,motif/home,motif/love,motif/river,motif/ship,motif/time,motif/water,motif/well,concept/body,concept/hope,concept/revenge,setting/ship,character/john_harmon,character/mermaid"></span>
 
 
 ‘Sometimes it rains, and we creep under a boat or the like of that:
@@ -40262,7 +40262,7 @@ after a long interval of slack [[Water|water]] it got out to sea and drifted awa
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/desert,motif/dust,motif/home,motif/journey,motif/time,motif/window,concept/ambition,concept/self,concept/temptation,setting/court,setting/desert,setting/london,character/chorus"></span>
 
 
 Chapter 4
@@ -40400,7 +40400,7 @@ mental arithmetic, ‘Oh! here’s another of ’em!’ before adding aloud,
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/flowers,motif/grave,motif/love,motif/marriage,motif/night,motif/well,concept/doubt,concept/self_sacrifice,concept/suicide,concept/truth,concept/wonder,character/lavinia"></span>
 
 
 ‘[[Well]] Piggywiggies,’ said R. W., ‘how de do to-[[Night|night]]? What I was
@@ -40554,7 +40554,7 @@ concerned—if I had seen!’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/dance,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/conscience,concept/truth,setting/london,character/lavinia"></span>
 
 
 The young lady’s lamentations were checked at this point by a knuckle,
@@ -40704,7 +40704,7 @@ on the table, to play appropriate [[Dance|dance]]-music.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/time,motif/water,motif/wind,concept/doubt,character/lavinia,character/sunday"></span>
 
 
 The cloth was laid by Lavvy. Bella, as the acknowledged ornament of the
@@ -40818,7 +40818,7 @@ twin brother upon earth, Mr John Rokesmith was the man.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/cross,motif/desert,motif/horse,motif/summer,motif/time,motif/water,motif/wind,motif/window,motif/winter,form/inscription,setting/desert,setting/london,character/silas_wegg"></span>
 
 
 Chapter 5
@@ -40929,7 +40929,7 @@ inflammatory-faced old gentleman appeared but imperfectly to appreciate.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/horse,motif/rose,motif/secrets,motif/well,concept/melancholy,concept/resignation,concept/self,character/silas_wegg"></span>
 
 
 The only article in which Silas dealt, that was not hard, was
@@ -41083,7 +41083,7 @@ know.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/chalk,motif/crown,motif/night,motif/time,motif/well,concept/education,concept/self,concept/truth"></span>
 
 
 ‘It never happened that I did so yet, to the best of my remembrance,’
@@ -41228,7 +41228,7 @@ unconcealed anxiety.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,motif/night,motif/prayer,motif/well,concept/doubt,concept/greatness"></span>
 
 
 Silas, who had stimulated this anxiety by his hard reserve of manner,
@@ -41359,7 +41359,7 @@ dislocated state.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/fire,motif/rose,motif/summer,motif/time,motif/well,concept/hope,concept/melancholy,character/silas_wegg"></span>
 
 
 ‘Was-it-Ev-verajail?’ asked Mr Wegg, holding on.
@@ -41484,7 +41484,7 @@ poetry too, it shan’t be my fault. Now, what’ll you read on?’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/fire,motif/moon,motif/night,motif/sleep,motif/soul,motif/water,motif/well,concept/honour"></span>
 
 
 ‘Thank you, sir,’ returned Wegg, as if there were nothing new in his
@@ -41629,7 +41629,7 @@ many Scarers in Print. But I’m in for it now!’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/flag,motif/moon,motif/night,motif/river,motif/water,form/inscription,setting/court,character/bottom"></span>
 
 
 Chapter 6
@@ -41735,7 +41735,7 @@ So make the most of it.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/home,motif/night,motif/river,motif/rose,motif/time,motif/water,motif/well,concept/doubt,concept/wonder,character/jones"></span>
 
 
 ‘No, Miss Potterson; because, you see, the law—’
@@ -41881,7 +41881,7 @@ company did not take the liberty of grinning likewise.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/night,motif/river,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/hope,concept/truth,character/bottom,character/lizzie_hexam"></span>
 
 
 In such an establishment, the white-aproned pot-boy with his
@@ -42030,7 +42030,7 @@ would come familiar to the mind of one.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/death,motif/fire,motif/home,motif/night,motif/river,motif/time,motif/water,motif/well,concept/hope,concept/melancholy,concept/suffering,character/lizzie_hexam"></span>
 
 
 ‘You don’t know father, Miss, when you talk like that. Indeed, indeed,
@@ -42154,7 +42154,7 @@ startled by:
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/fire,motif/love,motif/night,motif/river,motif/silence,motif/storm,motif/time,motif/water,motif/well,motif/winter,concept/doubt,concept/self"></span>
 
 
 ‘Hal-loa!’ From her brother, sitting up in bed.
@@ -42300,7 +42300,7 @@ that the mute avoidance had begun.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="Our Mutual Friend — Chapter 6 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="Our Mutual Friend — Chapter 6 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/river,motif/soul,motif/water,motif/well,concept/forgiveness,concept/hope"></span>
 
 
 Gaffer saw it, too, in so far as that he was moved when he set foot on
@@ -42429,7 +42429,7 @@ clothes? What’s let loose upon us? Who loosed it?’
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/hero,motif/birds,motif/fire,motif/leaves,motif/nature,motif/road,motif/time,motif/water,motif/window,concept/nature,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 Chapter 7
@@ -42553,7 +42553,7 @@ to express an undesigning frame of mind:
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/villain,motif/home,motif/nature,motif/time,motif/well,concept/beauty,concept/hope,concept/melancholy,concept/nature,concept/pride,character/mr_venus,character/venus"></span>
 
 
 ‘Very bad,’ says [[Mr Venus]], uncompromisingly.
@@ -42683,7 +42683,7 @@ quite candidly, I wish I’d never bought you of the Hospital Porter.’
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/birds,motif/dust,motif/love,motif/nature,motif/night,motif/river,motif/tears,motif/time,motif/well,concept/despair,concept/nature,concept/pride,character/mr_venus,character/venus"></span>
 
 
 ‘Now, look here, what did you give for me?’
@@ -42865,7 +42865,7 @@ gaslights and through the mud.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/death,motif/night,motif/silence,motif/time,motif/window,concept/doubt,concept/history,concept/honour,form/history,setting/court"></span>
 
 
 Chapter 8
@@ -43001,7 +43001,7 @@ Governor and Company of the Bank of England, again &c. and so forth.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/memory,motif/night,motif/pain,motif/rose,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/honour,concept/hope,setting/mountains"></span>
 
 
 ‘And what is particularly eligible in the property Mr Boffin, is, that
@@ -43124,7 +43124,7 @@ out, as many things do.’
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/bees,motif/dust,motif/insects,motif/time,motif/well,motif/window,concept/greatness,concept/honour,concept/temptation,form/biography,setting/court"></span>
 
 
 ‘My dear Mr Boffin, everything wears to rags,’ said Mortimer, with a
@@ -43274,7 +43274,7 @@ satirical.’
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/bees,motif/death,motif/nature,motif/well,concept/hope,concept/nature,concept/wonder,character/clifford"></span>
 
 
 ‘At all events, they work,’ said Mr Boffin.
@@ -43425,7 +43425,7 @@ you do for your living?’
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Our Mutual Friend — Chapter 8 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Our Mutual Friend — Chapter 8 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/moon,motif/time,motif/well,concept/doubt,concept/truth,character/bella_wilfer,character/clifford"></span>
 
 
 ‘I have mentioned,’ returned the other, with another look at him, and
@@ -43524,7 +43524,7 @@ HIM. Morning, morning, morning!’ And so departed, without looking back.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/journey_of_life,archetype/child,archetype/orphan,motif/desire,motif/fire,motif/horse,motif/nature,motif/tears,motif/time,concept/hope,concept/nature,character/john_harmon"></span>
 
 
 Chapter 9
@@ -43662,7 +43662,7 @@ itself and dies with the doer of it; but Good, never.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/dust,motif/horse,motif/time,motif/window,character/bella_wilfer,character/sunday"></span>
 
 
 Through his most inveterate purposes, the dead Jailer of Harmony Jail
@@ -43772,7 +43772,7 @@ children with the hard crumbs of life.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/garden,motif/horse,motif/night,motif/time,motif/well,concept/doubt,concept/hope,concept/poverty,character/lavinia"></span>
 
 
 Mrs Milvey, with the most unaffected grace in the world, congratulated
@@ -43914,7 +43914,7 @@ out.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/city,motif/home,motif/road,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/poverty,concept/self,concept/suffering,form/history,character/lavinia"></span>
 
 
 Mr and Mrs Boffin complying, and pausing in the little hall until Miss
@@ -44049,7 +44049,7 @@ eyed the Boffins with implacable eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Our Mutual Friend — Chapter 9 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Our Mutual Friend — Chapter 9 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/night,motif/time,motif/well,motif/wheel,motif/window,concept/honour,concept/hope,character/john_harmon,character/lavinia"></span>
 
 
 ‘If you like to bring your sister with you when you come to stay with
@@ -44192,7 +44192,7 @@ attention closely on this incident.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="Our Mutual Friend — Chapter 9 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="Our Mutual Friend — Chapter 9 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/garden,motif/grave,motif/water,motif/well,concept/hope,concept/jealousy,character/lavinia"></span>
 
 
 That he knew it as [[Well|well]] as she, she knew as [[Well|well]] as he, when they were
@@ -44258,7 +44258,7 @@ there, Mrs Wilfer shuddered on the spot.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/fire,motif/flowers,motif/home,motif/marriage,motif/night,motif/soul,motif/spring,motif/time,motif/well,concept/hope,setting/london,setting/paris"></span>
 
 
 Chapter 10
@@ -44379,7 +44379,7 @@ enough to be married.’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/flowers,motif/home,motif/love,motif/marriage,motif/road,motif/spring,concept/hope,concept/jealousy,concept/melancholy,form/fragment,character/horatio"></span>
 
 
 ‘What would happen if he did?’ Podsnap inquires of Mrs Veneering.
@@ -44487,7 +44487,7 @@ lid up, and look more uniform. But perennial youth is in her artificial
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/flowers,motif/horse,motif/lightning,motif/time,motif/well,motif/window,concept/fear,concept/honour"></span>
 
 
 ‘Mortimer, you wretch,’ says Lady Tippins, turning the eyeglass about
@@ -44605,7 +44605,7 @@ all the wrong he would like to do—particularly to the present company.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Our Mutual Friend — Chapter 10 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Our Mutual Friend — Chapter 10 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/flag,motif/journey,motif/pain,motif/silence,motif/time"></span>
 
 
 In which state of affairs, the usual ceremonies rather droop and [[Flag|flag]],
@@ -44761,7 +44761,7 @@ of reasonable probability that I would have married you for yourself?’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Our Mutual Friend — Chapter 10 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Our Mutual Friend — Chapter 10 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,archetype/fool,archetype/villain,motif/marriage,motif/tears,motif/time,motif/well,motif/wind,concept/courage,concept/self,concept/wonder"></span>
 
 
 ‘Again there are two sides to the question, Mrs Lammle. What do you
@@ -44903,7 +44903,7 @@ light of the setting sun to their abode of bliss.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/damsel,motif/childhood,motif/city,motif/home,motif/horse,motif/pain,motif/well,motif/wind,concept/faith,concept/providence,concept/truth"></span>
 
 
 Chapter 11
@@ -45009,7 +45009,7 @@ the counterpane again.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/horse,motif/nature,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,setting/london"></span>
 
 
 Said Mr Podsnap to Mrs Podsnap, ‘Georgiana is almost eighteen.’
@@ -45142,7 +45142,7 @@ Lower Classes Say “Orse!”’
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/damsel,motif/rose,motif/ship,motif/time,motif/well,concept/providence,histref/america,setting/america,setting/ship,character/bottom"></span>
 
 
 ‘Our Language,’ said Mr Podsnap, with a gracious consciousness of being
@@ -45261,7 +45261,7 @@ been born.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/monster,motif/city,motif/dance,motif/home,motif/love,motif/mirror,motif/time,motif/well,concept/despair,concept/wonder,setting/castle"></span>
 
 
 The Lammles were so fond of the dear Veneerings that they could not for
@@ -45407,7 +45407,7 @@ glance at Mrs Lammle, expressive of intense [[Despair|despair]].
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,motif/water,motif/well,concept/conscience,concept/freedom,concept/hope,concept/melancholy,character/bottom"></span>
 
 
 At length the procession was dissolved by the violent arrival of a
@@ -45541,7 +45541,7 @@ destitution and neglect necessarily English?
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_06" data-title="Our Mutual Friend — Chapter 11 (part 6)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_06" data-title="Our Mutual Friend — Chapter 11 (part 6)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/fear,concept/hope,concept/imagination,concept/nature,concept/providence,concept/wonder,setting/london"></span>
 
 
 ‘You know what the population of [[London]] is, I suppose,’ said Mr Podsnap.
@@ -45683,7 +45683,7 @@ she settled herself afresh in her own dark corner.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/fire,motif/leaves,motif/seasons,motif/spring,motif/summer,motif/well,motif/wind,concept/hope,setting/london,setting/paris,character/eugene_wrayburn,character/jones,character/kent"></span>
 
 
 Chapter 12
@@ -45812,7 +45812,7 @@ knew him as [[Well|well]] as I do, he would amuse you.’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/ghosts,motif/time,motif/well,motif/wind,motif/window,character/phantom"></span>
 
 
 ‘Filially spoken, Eugene!’
@@ -45972,7 +45972,7 @@ think [[Well|well]] of it.’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/river,motif/time,motif/well,concept/body"></span>
 
 
 ‘Will you have another?’
@@ -46125,7 +46125,7 @@ done the deed. And I’ll swear it!’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/night,motif/river,motif/silence,motif/tears,motif/time,concept/body,concept/conscience,concept/self,concept/truth"></span>
 
 
 ‘Where did he tell you so?’
@@ -46268,7 +46268,7 @@ Lawyer Lightwood? No.’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/moon,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/time,motif/wind,motif/window,concept/nature,concept/truth"></span>
 
 
 ‘No,’ said Eugene.
@@ -46409,7 +46409,7 @@ He came back after a very short interval indeed.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_06" data-title="Our Mutual Friend — Chapter 12 (part 6)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_06" data-title="Our Mutual Friend — Chapter 12 (part 6)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/outsider,motif/fire,motif/home,motif/well,motif/wind,motif/window,concept/doubt,concept/hope"></span>
 
 
 ‘Gaffer’s out, and his boat’s out. His daughter’s at [[Home|home]], sitting
@@ -46501,7 +46501,7 @@ would be unilluminated by a ray of [[Hope|hope]].’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/conscience,concept/hope,concept/nature"></span>
 
 
 Chapter 13
@@ -46627,7 +46627,7 @@ combination of traitor and pickpocket when you think of that girl?’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/night,motif/river,motif/water,motif/window"></span>
 
 
 ‘Rather,’ returned Lightwood. ‘Do you?’
@@ -46749,7 +46749,7 @@ groaned; and then he started up.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/fire,motif/home,motif/insects,motif/night,motif/river,motif/time,motif/water,motif/well,motif/wind,motif/window"></span>
 
 
 ‘Invisible [[Insects|insects]] of diabolical activity swarm in this place. I am
@@ -46882,7 +46882,7 @@ bridges, for hours back.’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/river,motif/time,motif/wind,concept/conscience,character/bottom"></span>
 
 
 ‘What do you make of that?’ said Mr Inspector. Stoical, but
@@ -46991,7 +46991,7 @@ George if he ain’t!’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/night,motif/river,motif/ship,motif/tears,motif/water,motif/well,motif/window,concept/imagination,concept/truth,setting/ship,character/bottom"></span>
 
 
 Chapter 14
@@ -47117,7 +47117,7 @@ am a liar!’ said the honest man.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/grave,motif/home,motif/river,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/body,character/bottom"></span>
 
 
 Mr Inspector stepped into the boat. Eugene and Mortimer looked on.
@@ -47267,7 +47267,7 @@ the tightly clenched right hand.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/night,motif/river,motif/sleep,motif/time,motif/water,concept/friendship,setting/court"></span>
 
 
 ‘What is to be done with the remains?’ asked Lightwood.
@@ -47378,7 +47378,7 @@ took a walk.’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/time,motif/water,motif/well,concept/truth,concept/wonder,form/inscription"></span>
 
 
 Chapter 15
@@ -47519,7 +47519,7 @@ Rokesmith will please enter on his duties immediately.”’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/time,motif/well,concept/doubt,concept/hope,concept/jealousy"></span>
 
 
 ‘[[Well]]! Now, Noddy!’ cried Mrs Boffin, clapping her hands, ‘That IS a
@@ -47658,7 +47658,7 @@ have wasted from use, twenty years for one.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dust,motif/home,motif/road,motif/time,motif/well,concept/beauty,concept/wonder,character/bottom"></span>
 
 
 A certain leanness falls upon houses not sufficiently imbued with life
@@ -47786,7 +47786,7 @@ turning his back on him.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/memory,motif/moon,motif/night,motif/rose,motif/time,motif/well,concept/aspiration,concept/conscience,concept/fear,concept/friendship,concept/hope,character/edmund"></span>
 
 
 For these reasons Mr Boffin passed but anxious hours until evening came,
@@ -47931,7 +47931,7 @@ them to [[Memory|memory]]) were:
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/well,character/bella_wilfer"></span>
 
 
 Then farewell, my trim-built wherry,
@@ -48093,7 +48093,7 @@ supper, declaring it to be the best face in the world.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/love,motif/night,motif/time,motif/well,concept/self"></span>
 
 
 Chapter 16
@@ -48219,7 +48219,7 @@ employer,—‘I don’t think it promises!’
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/orphan,motif/desire,motif/home,motif/horse,motif/machine,motif/nature,motif/noon,motif/seasons,motif/silence,motif/window,concept/nature,setting/court,character/bottom,character/nurse"></span>
 
 
 Among his first occupations the pursuit of that [[Orphan|orphan]] wanted by
@@ -48324,7 +48324,7 @@ Heaven as high as heads.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/love,motif/road,motif/time,motif/well,concept/doubt,concept/hope,concept/slavery,concept/union,histref/bible"></span>
 
 
 ‘Yes sure!’ said she, when the business was opened, ‘Mrs Milvey had the
@@ -48454,7 +48454,7 @@ meant it.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/despair,concept/education,concept/fear,concept/hope,concept/self,character/speed"></span>
 
 
 ‘And does he work for you?’ asked the Secretary, gently bringing the
@@ -48583,7 +48583,7 @@ hand-in-hand to their stools, across the dry bed of a mountain torrent.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="Our Mutual Friend — Chapter 16 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="Our Mutual Friend — Chapter 16 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/grave,motif/horse,motif/leaves,motif/love,motif/time,motif/well,concept/self,character/bella_wilfer"></span>
 
 
 ‘You must tell me what I can do for you, Betty my friend,’ said Mrs
@@ -48720,7 +48720,7 @@ if that would be a drawback.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_06" data-title="Our Mutual Friend — Chapter 16 (part 6)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_06" data-title="Our Mutual Friend — Chapter 16 (part 6)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/home,motif/love,motif/window,concept/honour,concept/hope,concept/humility,concept/imagination"></span>
 
 
 ‘Always? No. Very much there? Yes.’
@@ -48876,7 +48876,7 @@ dark, like a [[Ghost]].
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Our Mutual Friend — Chapter 17" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Our Mutual Friend — Chapter 17" data-chapter="Chapter 21" data-kind="chapter" data-tags="topos/double,motif/clock,motif/crown,motif/death,motif/dust,motif/home,motif/leaves,motif/machine,motif/road,motif/summer,motif/time,motif/water,motif/well,concept/honour,concept/hope,concept/humility,concept/pride,concept/providence,form/fragment,character/bella_wilfer,character/lucifer,character/nicodemus_boffin"></span>
 
 
 Chapter 17
@@ -49055,7 +49055,7 @@ he expects to find something.
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="Our Mutual Friend — Chapter 1" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="Our Mutual Friend — Chapter 1" data-chapter="Chapter 22" data-kind="chapter" data-tags="motif/birds"></span>
 
 
 BOOK THE SECOND — [[Birds|BIRDS]] OF A FEATHER
@@ -49069,7 +49069,7 @@ The school at which young Charley Hexam had first learned from a
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_01" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 1)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_01" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 1)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/birds,motif/night,motif/supernatural,motif/time,concept/doubt,concept/history,concept/hope,concept/sublime,form/history,character/bradley_headstone,character/sunday"></span>
 
 
 book—the streets being, for pupils of his degree, the great Preparatory
@@ -49180,7 +49180,7 @@ length the boy repeated:
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_02" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 2)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_02" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 2)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/childhood,motif/flowers,motif/garden,motif/nature,motif/river,motif/ship,motif/sleep,motif/well,motif/wind,concept/history,concept/nature,form/history,setting/ship,character/bradley_headstone,character/kent"></span>
 
 
 ‘The question is, sir—?’
@@ -49298,7 +49298,7 @@ and little doors like the covers of school-books.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_03" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 3)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_03" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 3)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/flowers,motif/love,motif/marriage,motif/night,motif/time,motif/water,motif/well,motif/wheel,concept/body,form/essay,setting/court,setting/mountains,character/bottom,character/bradley_headstone"></span>
 
 
 Small, shining, neat, methodical, and buxom was Miss Peecher;
@@ -49442,7 +49442,7 @@ To these Charley Hexam finally led the way, and at one of these stopped.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_04" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 4)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_04" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 4)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/night,motif/silence,motif/spring,motif/time,motif/well,concept/hope,concept/wonder,character/bradley_headstone,character/dwarf"></span>
 
 
 ‘This must be where my sister lives, sir. This is where she came for a
@@ -49598,7 +49598,7 @@ blow in pepper.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_05" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 5)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_05" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 5)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/home,motif/night,motif/river,motif/time,motif/water,motif/well,character/bradley_headstone,character/lizzie_hexam,character/witch"></span>
 
 
 ‘What would be the good of blowing in pepper?’ asked Charley Hexam.
@@ -49740,7 +49740,7 @@ grumbled the boy. ‘[[Well]]; what of them?’
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_06" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 6)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_06" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 6)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/night,motif/river,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/suffering,concept/wonder,character/bradley_headstone"></span>
 
 
 ‘This [[Child|child]] is the grandchild of the old man.’
@@ -49885,7 +49885,7 @@ was heavy on his face.
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_07" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 7)" data-chapter="the streets being for pupils o" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_streets_being_for_pupils_o--part_07" data-title="Our Mutual Friend — Book 23: the streets being, for pupils of his degree, the great Preparatory (part 7)" data-chapter="the streets being for pupils o" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/hope,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 ‘You don’t appear to like your friend, Hexam?’
@@ -50033,7 +50033,7 @@ she had had the dress on, with a sharp, sharp needle.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,concept/hope,concept/pride,concept/reform,concept/self,character/eugene_wrayburn,character/jenny_wren"></span>
 
 
 Chapter 2
@@ -50207,7 +50207,7 @@ to your dead father.’
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/tears,motif/well,concept/body,concept/hope,concept/vanity,character/jenny_wren,character/lizzie_hexam"></span>
 
 
 ‘How to my father, Mr Wrayburn?’ she asked, with an anxious face.
@@ -50340,7 +50340,7 @@ with the dolls’ dressmakers.’
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/flowers,motif/home,motif/leaves,motif/night,motif/pain,motif/rose,motif/summer,motif/tears,motif/time,motif/well,concept/honour,concept/reconciliation,concept/wonder,character/jenny_wren"></span>
 
 
 ‘There’s something in that,’ replied Miss Wren; ‘you have a sort of an
@@ -50464,7 +50464,7 @@ scolding.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/night,motif/road,motif/sleep,motif/well"></span>
 
 
 ‘I know your tricks and your manners,’ cried Miss Wren. ‘I know where
@@ -50603,7 +50603,7 @@ eternal [[Road|road]], and asking guidance! Poor, poor little doll’s dressmake
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/clock,motif/hill,motif/home,motif/time,concept/doubt,concept/self,character/nurse,character/ophelia"></span>
 
 
 Chapter 3
@@ -50738,7 +50738,7 @@ Anastatia, “We must work.”’
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/city,motif/clock,motif/desire,motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/hope,concept/nature,setting/italy,setting/london"></span>
 
 
 ‘You were right, you were right,’ replies Twemlow. ‘Tell me. Is SHE
@@ -50867,7 +50867,7 @@ under the influence of that emotion.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/horse,motif/love,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/truth"></span>
 
 
 To whom Mrs Veneering incoherently communicates, how that Veneering
@@ -50982,7 +50982,7 @@ resource; that’s a man to make his way in life.’
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/ship,motif/sleep,motif/time,motif/wind,motif/window,concept/wonder,setting/ship"></span>
 
 
 When the [[Time|time]] comes for Veneering to deliver a neat and appropriate
@@ -51109,7 +51109,7 @@ late in life. I am not strong enough to bear him!’
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/moon,motif/soul,motif/well,concept/doubt,concept/honour,concept/hope"></span>
 
 
 Chapter 4
@@ -51246,7 +51246,7 @@ and her eyebrows raised:
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/love,motif/night,motif/soul,motif/tears,motif/time,concept/honour,concept/hope"></span>
 
 
 ‘You are quite wrong, my [[Love|love]], in your guess at my meaning. What I
@@ -51389,7 +51389,7 @@ her father’s dwelling.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/city,motif/mirror,motif/nature,motif/time,concept/ambition,concept/despair,concept/hope,concept/nature,concept/self,concept/vanity"></span>
 
 
 The happy pair being left together, Mrs Lammle said to her husband:
@@ -51500,7 +51500,7 @@ and three quarters and seven eighths.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/flowers,motif/love,motif/night,motif/rose,motif/well,setting/desert,character/queen"></span>
 
 
 A handsome little dinner was served immediately, and Mr Lammle sat
@@ -51637,7 +51637,7 @@ Georgiana, faintly, under the sympathetic coincidence.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_05" data-title="Our Mutual Friend — Chapter 4 (part 5)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_05" data-title="Our Mutual Friend — Chapter 4 (part 5)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/horse,motif/love,motif/time,motif/water,motif/well"></span>
 
 
 ‘Why, then,’ said Mrs Lammle, charmed by the discovery which flowed from
@@ -51740,7 +51740,7 @@ must be tired. Get to bed.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/grave,motif/silence,motif/time,motif/well,concept/honour,concept/vanity"></span>
 
 
 Chapter 5
@@ -51874,7 +51874,7 @@ this morning?’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/dance,motif/nature,motif/night,motif/time,motif/well,concept/nature"></span>
 
 
 ‘Now, look here, Lammle,’ said Fascination Fledgeby, with the meanest
@@ -52009,7 +52009,7 @@ struck his hand upon the table, making the china ring and [[Dance|dance]].
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/love,motif/time,motif/window,concept/honour,concept/hope,concept/humility,form/inscription"></span>
 
 
 ‘You are a very offensive fellow, sir,’ cried Mr Lammle, rising. ‘You
@@ -52146,7 +52146,7 @@ with holidays? Shut the door.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/double,motif/flowers,motif/grave,motif/soul,motif/time,concept/hope,concept/self,concept/truth,form/fable"></span>
 
 
 With his former action the old man obeyed. In the entry hung his rusty
@@ -52291,7 +52291,7 @@ Monday morning.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/flowers,motif/garden,motif/memory,motif/rose,motif/time,motif/well,motif/wind,concept/hope,setting/court,setting/mountains,character/jenny_wren,character/lizzie_hexam"></span>
 
 
 Riah drew some folding tablets from his breast and noted it down.
@@ -52441,7 +52441,7 @@ and you feel as if you were dead.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/wind,concept/hope,character/jenny_wren"></span>
 
 
 The little creature looked above her, holding up her slight transparent
@@ -52512,7 +52512,7 @@ radiant hair, and musically repeating to him, like a vision:
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/nature,motif/summer,motif/well,concept/hope,concept/nature,form/inscription,form/riddle,character/eugene_wrayburn,character/jones"></span>
 
 
 Chapter 6
@@ -52650,7 +52650,7 @@ is, as you have not told me; but the fact is so. Say, is it not?’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/rose,motif/silence,motif/soul,motif/window,concept/honour,concept/hope,concept/indolence,concept/jealousy,form/riddle,setting/court,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 ‘I give you my word of [[Honour|honour]], Mortimer,’ returned Eugene, after a
@@ -52793,7 +52793,7 @@ that it had a raging [[Jealousy|jealousy]] and fiery wrath in it.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/memory,motif/night,motif/well,concept/education,concept/hope,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 Very remarkably, neither [[Eugene Wrayburn]] nor [[Bradley Headstone]] looked at
@@ -52912,7 +52912,7 @@ it. Worse for her!’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/nature,motif/well,motif/window,concept/ambition,concept/doubt,concept/hope,concept/nature,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 A pause ensued, in which the schoolmaster looked very awkward.
@@ -53057,7 +53057,7 @@ yourself. I am his friend, and you shall find me so.’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/window,concept/fear,concept/melancholy,concept/nature,concept/self,form/riddle,setting/desert,setting/london,character/eugene_wrayburn,character/lizzie_hexam"></span>
 
 
 ‘And you will find HIM on the stairs,’ remarked Eugene.
@@ -53185,7 +53185,7 @@ me what this may be?—No, upon my life I can’t. I give it up!’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/love,motif/nature,motif/time,motif/well,concept/doubt,concept/melancholy,concept/nature,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 Chapter 7
@@ -53317,7 +53317,7 @@ remarking?’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/quest,motif/dust,motif/fire,motif/memory,motif/time,motif/well,concept/charity,character/bottom,character/mr_venus,character/venus"></span>
 
 
 ‘Mystery,’ returns Wegg. ‘I don’t like it, [[Mr Venus]]. I don’t like to
@@ -53451,7 +53451,7 @@ and sifting. All the mounds are sorted and sifted?’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/dust,motif/time,motif/water,motif/well,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘You shall see ’em and pass your opinion. Mix again.’
@@ -53600,7 +53600,7 @@ take it.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/double,motif/home,motif/night,motif/rose,motif/stars,motif/time,motif/window,concept/doubt,concept/madness,concept/truth,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 To all this, [[Mr Venus]], with his shock of dusty hair cocked after the
@@ -53735,7 +53735,7 @@ fortune and the worm of the hour!’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/nature,motif/night,motif/noon,motif/road,motif/time,motif/well,concept/doubt,concept/faith,concept/history,concept/jealousy,concept/nature,concept/poverty,form/history,character/nicodemus_boffin"></span>
 
 
 Chapter 8
@@ -53867,7 +53867,7 @@ come and go between the two houses every day.’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,character/lavinia"></span>
 
 
 ‘You needn’t remind me of that, sir.’
@@ -54010,7 +54010,7 @@ interchanges which do not exist. Do I render myself intelligible?’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/garden,motif/home,motif/love,motif/tears,motif/time,concept/resignation,concept/wonder,character/bella_wilfer,character/lavinia"></span>
 
 
 Without taking the least notice of this inquiry, albeit delivered in an
@@ -54136,7 +54136,7 @@ bang-up chariot.’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/hill,motif/home,motif/love,motif/memory,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,character/sunday"></span>
 
 
 Rumty himself, with his pen behind his ear under his rusty hat, arrived
@@ -54287,7 +54287,7 @@ lively intentions.’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_05" data-title="Our Mutual Friend — Chapter 8 (part 5)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_05" data-title="Our Mutual Friend — Chapter 8 (part 5)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/river,motif/ship,motif/water,motif/well,motif/window,concept/honour,setting/ship,character/cleopatra,character/john_harmon"></span>
 
 
 ‘Poor Pa!’ thought Bella, as she hung upon his arm.
@@ -54398,7 +54398,7 @@ little wretch I am.’
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_06" data-title="Our Mutual Friend — Chapter 8 (part 6)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_06" data-title="Our Mutual Friend — Chapter 8 (part 6)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="topos/double,motif/grave,motif/home,motif/love,motif/secrets,motif/tears,motif/time,motif/well,concept/poverty,setting/london,character/john_harmon"></span>
 
 
 ‘It’s your fancy, my dear.’
@@ -54519,7 +54519,7 @@ what can I expect myself to be!’
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/fire,motif/home,motif/love,motif/night,motif/tears,motif/time,motif/well,motif/wheel,concept/faith,concept/hope,character/bella_wilfer,character/john_harmon,character/queen"></span>
 
 
 Chapter 9
@@ -54663,7 +54663,7 @@ from [[Fire|fire]]!
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/horse,motif/soul,motif/time,motif/water,motif/well,motif/window"></span>
 
 
 ‘It’s not a right place for the poor [[Child|child]] to stay in,’ said Mrs Boffin.
@@ -54789,7 +54789,7 @@ children, comfort and cure none but children.’
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/dreams,motif/home,motif/horse,motif/night,motif/pain,motif/silence,motif/sleep,motif/soul,motif/time,concept/body,concept/wonder,character/john_harmon"></span>
 
 
 ‘Is there really such a place?’ asked the old woman, with a gaze of
@@ -54912,7 +54912,7 @@ in this world, Johnny, thus speaking, left it.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/grave,motif/home,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/hope,concept/humility,concept/nature,concept/poverty,character/john_harmon"></span>
 
 
 Chapter 10
@@ -55051,7 +55051,7 @@ unlucky.’
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/crown,motif/death,motif/grave,motif/night,motif/sleep,motif/time,motif/well,concept/hope,concept/imagination,character/john_harmon"></span>
 
 
 ‘Now, whether,’ said Mr Boffin, gravely propounding a case for his
@@ -55229,7 +55229,7 @@ thought it was Cats.’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/shadow,motif/city,motif/garden,motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/history,concept/wonder,form/history,character/bottom,character/bradley_headstone"></span>
 
 
 Chapter 11
@@ -55356,7 +55356,7 @@ before him, announcing that he might be instantly expected.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/shadow,motif/chains,motif/fire,motif/home,motif/love,motif/time,motif/wind,concept/doubt,concept/hope,concept/self,concept/truth,character/bradley_headstone,character/lizzie_hexam"></span>
 
 
 ‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
@@ -55505,7 +55505,7 @@ before her eyes, and the Honourable Mrs T. with her face to the wall.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/rose,motif/secrets,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/truth,character/eugene_wrayburn,character/lizzie_hexam"></span>
 
 
 ‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing
@@ -55630,7 +55630,7 @@ where teachers are regularly brought up.’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/pain,motif/time,motif/well,concept/despair,concept/fear,concept/wonder,setting/court,character/bradley_headstone,character/eugene_wrayburn,character/jenny_wren,character/lucifer"></span>
 
 
 ‘I should like to ask you,’ said [[Bradley Headstone]], grinding his words
@@ -55773,7 +55773,7 @@ a lady?’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/home,motif/love,motif/night,motif/pain,motif/river,motif/silence,motif/time,motif/well,concept/hope,concept/truth"></span>
 
 
 ‘I a lady! I, a poor girl who used to row poor father on the [[River|river]]. I,
@@ -55863,7 +55863,7 @@ herself on Lizzie’s breast.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/cave,motif/grave,motif/nature,motif/ship,motif/summer,motif/time,motif/window,concept/honour,concept/nature,form/inscription,setting/ship"></span>
 
 
 Chapter 12
@@ -55972,7 +55972,7 @@ SEAMAN’S BOARDING-[[house|HOUSE]].
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/river,motif/secrets,motif/ship,motif/time,motif/water,motif/well,setting/ship"></span>
 
 
 Taking notice of Pleasant Riderhood at the door, the man crossed so
@@ -56132,7 +56132,7 @@ afloat.’
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/damsel,motif/fire,motif/grave,motif/night,motif/time,motif/well,concept/conscience,concept/self"></span>
 
 
 ‘No?’ said Pleasant. ‘Where did it happen?’
@@ -56268,7 +56268,7 @@ great deliberation.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/death,motif/home,motif/horse,motif/night,motif/rose,motif/ship,motif/time,motif/well,setting/ship"></span>
 
 
 At first Riderhood had sat with his footless glass extended at arm’s
@@ -56414,7 +56414,7 @@ to market to be sold.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/death,motif/memory,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/body,concept/doubt"></span>
 
 
 ‘[[Well]]? Have you finished?’ asked the strange man.
@@ -56612,7 +56612,7 @@ using her hair for a pocket-handkerchief.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/home,motif/marriage,motif/memory,motif/night,motif/prison,motif/ship,motif/time,motif/water,motif/wind,concept/history,concept/wonder,form/history,setting/london,setting/ship,character/bella_wilfer,character/john_harmon"></span>
 
 
 Chapter 13
@@ -56737,7 +56737,7 @@ facts right? Yes. They are all accurately right.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/poison,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/doubt,setting/london,character/john_harmon"></span>
 
 
 ‘His advantage in all this was, that for a [[Time|time]] I was to be lost. It
@@ -56844,7 +56844,7 @@ sucked under her, and came up, only just alive, on the other side.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/poison,motif/river,motif/time,motif/water,motif/window,concept/body,concept/hope,concept/nature,concept/suffering,character/john_harmon"></span>
 
 
 ‘Was I long in the [[Water|water]]? Long enough to be chilled to the heart, but
@@ -56956,7 +56956,7 @@ her, the property falls into the very hands that hold it now.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/grave,motif/home,motif/jewel,motif/love,motif/machine,motif/memory,motif/time,motif/well,motif/wind,concept/honour,concept/hope,concept/truth,character/john_harmon,character/lavinia"></span>
 
 
 ‘What would I have? Dead, I have found the true friends of my lifetime
@@ -57083,7 +57083,7 @@ enough. I beg that you will NOT go on. If you have any generosity, any
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_05" data-title="Our Mutual Friend — Chapter 13 (part 5)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_05" data-title="Our Mutual Friend — Chapter 13 (part 5)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/dawn,motif/grave,motif/home,motif/horse,motif/marriage,motif/night,motif/silence,motif/time,concept/doubt,concept/endurance,concept/history,concept/hope,concept/self,form/dirge,form/history,setting/mountains,character/john_harmon"></span>
 
 
 The late [[John Harmon]], looking at the proud face with the down-cast eyes,
@@ -57258,7 +57258,7 @@ with the [[Dirge|dirge]], ‘Cover him, crush him, keep him down!’
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,archetype/king,motif/childhood,motif/home,motif/marriage,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/deception,concept/doubt,concept/hope,setting/london,character/john_harmon"></span>
 
 
 Chapter 14
@@ -57389,7 +57389,7 @@ things, whereas now I [[Hope|hope]] she can choose for herself.’
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/road,motif/time,motif/well,concept/body,concept/charity,concept/hope,character/john_harmon,character/queen"></span>
 
 
 ‘Has she—as you place the confidence in me of speaking on the subject,
@@ -57522,7 +57522,7 @@ a piece like, and helpful of myself right through to my [[Death|death]].’
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/garden,motif/time,motif/well,concept/faith,concept/fear,concept/honour,setting/mountains,character/bradley_headstone,character/john_harmon"></span>
 
 
 ‘And to be sure,’ added the Secretary, as a comfort for her, ‘Sloppy
@@ -57640,7 +57640,7 @@ answered in person.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/river,motif/rose,concept/body,concept/hope,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 The Secretary stated to the schoolmaster how the object was, to send to
@@ -57780,7 +57780,7 @@ Hexam at her right address.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/time,motif/well,concept/hope,concept/temptation,concept/wonder"></span>
 
 
 All these proceedings occupied John Rokesmith so much, that it was not
@@ -57894,7 +57894,7 @@ through the streets, away from paralysis and pauperism.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/city,motif/death,motif/leaves,motif/night,motif/well,motif/wind,concept/doubt,concept/hope,concept/melancholy,setting/court,setting/london,character/bradley_headstone,character/lizzie_hexam,character/lord_mayor"></span>
 
 
 Chapter 15
@@ -58030,7 +58030,7 @@ he thinks of saying.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/home,motif/love,motif/marriage,motif/prison,motif/silence,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/hope,concept/pride,concept/wonder,character/bottom,character/bradley_headstone,character/lizzie_hexam"></span>
 
 
 ‘Perhaps you don’t? No, Liz, I should think not. If you knew what
@@ -58172,7 +58172,7 @@ dreadful earnest.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/death,motif/memory,motif/night,motif/time,motif/well,concept/courage,concept/doubt,concept/hope,concept/revenge,concept/self,concept/suffering,character/eugene_wrayburn"></span>
 
 
 The powdered mortar from under the stone at which he wrenched, rattled
@@ -58324,7 +58324,7 @@ Because he knew with triumph what was in store for me to-[[Night|night]].’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/home,motif/night,motif/river,motif/soul,motif/tears,motif/well,concept/hope,concept/self,concept/truth,character/jenny_wren,character/nurse"></span>
 
 
 ‘O, Mr Headstone, you talk quite wildly.’
@@ -58460,7 +58460,7 @@ not final, and that it will all come round by-and-by.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/fire,motif/grave,motif/home,motif/night,motif/road,motif/time,concept/endurance,concept/wonder,character/eugene_wrayburn"></span>
 
 
 He stopped again. The pale face looked anxiously and lovingly at him,
@@ -58598,7 +58598,7 @@ there motionless all [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_06" data-title="Our Mutual Friend — Chapter 15 (part 6)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_06" data-title="Our Mutual Friend — Chapter 15 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/damsel,archetype/ghost,motif/home,motif/night,motif/time,concept/hope,concept/jealousy,concept/self,concept/wonder,character/aaron"></span>
 
 
 ‘If Mr [[Aaron]],’ said Eugene, who soon found this fatiguing, ‘will be good
@@ -58685,7 +58685,7 @@ in his ancient dress, like the [[Ghost|ghost]] of a departed [[Time]].
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/horse,motif/marriage,motif/night,motif/window,concept/honour,concept/resignation,concept/self,character/earl_of_warwick"></span>
 
 
 Chapter 16
@@ -58795,7 +58795,7 @@ connexion of mine.’
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="topos/double,archetype/lover,archetype/monster,motif/fire,motif/silence,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/self,concept/truth,concept/wonder,character/lizzie_hexam"></span>
 
 
 ‘I believe so,’ says Fledgeby, ‘but my mother and her family were two.’
@@ -58947,7 +58947,7 @@ am rather proud of him as a natural curiosity probably unique.’
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/marriage,motif/memory,motif/tears,motif/time,motif/well,concept/hope,concept/union,character/lizzie_hexam"></span>
 
 
 Although as easy as usual on the surface, Lightwood is not quite as easy
@@ -59059,7 +59059,7 @@ Sophronia’s name and in his own, thank you!
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/leaves,motif/soul,motif/time,motif/well,concept/faith,concept/honour,concept/self,concept/truth,concept/vanity"></span>
 
 
 Mrs Lammle has sat quite still, with her eyes cast down upon the
@@ -59253,7 +59253,7 @@ forehead still, and his head in a whirl.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Our Mutual Friend — Chapter 1 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Our Mutual Friend — Chapter 1 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/desire,motif/fire,motif/grave,motif/night,motif/rose,motif/sleep,motif/snow,motif/time,motif/window,concept/fear,concept/history,form/history,setting/london"></span>
 
 
 BOOK THE THIRD — A LONG LANE
@@ -59384,7 +59384,7 @@ head bent, standing awaiting his pleasure.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Our Mutual Friend — Chapter 1 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Our Mutual Friend — Chapter 1 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/tears,motif/time,motif/well,concept/sublime"></span>
 
 
 ‘Now!’ said Fledgeby. ‘Fork out your balance in hand, and prove by
@@ -59527,7 +59527,7 @@ hands on his knees to stare at his glowering friend with his back to the
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Our Mutual Friend — Chapter 1 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Our Mutual Friend — Chapter 1 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/rose,motif/soul,motif/time,motif/well,concept/honour,concept/revenge"></span>
 
 
 ‘I tell you, Fledgeby,’ repeated Lammle, with a sweep of his right arm,
@@ -59675,7 +59675,7 @@ laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Our Mutual Friend — Chapter 1 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Our Mutual Friend — Chapter 1 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/damsel,archetype/lover,motif/fire,motif/garden,motif/grave,motif/love,motif/well,concept/faith,concept/honour,concept/hope,concept/truth"></span>
 
 
 ‘Now, old ’un,’ proceeded Fledgeby, when he had had his laugh out,
@@ -59816,7 +59816,7 @@ the [[house]]. I’ll be more communicative with you. The other name’s Hexam.�
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="Our Mutual Friend — Chapter 1 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="Our Mutual Friend — Chapter 1 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/spring,motif/well"></span>
 
 
 Riah bent his head in assent.
@@ -59893,7 +59893,7 @@ loss, but could have easily replaced him from its stock on hand.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/pain,motif/river,motif/ship,motif/tears,motif/time,motif/well,motif/window,concept/honour,concept/solitude,setting/court,setting/london,setting/ship,character/jenny_wren"></span>
 
 
 Chapter 2
@@ -60033,7 +60033,7 @@ married, for all the gay events of life.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="topos/double,motif/city,motif/fire,motif/home,motif/night,motif/river,motif/rose,motif/time,motif/well,concept/hope,setting/london,character/jenny_wren,character/lizzie_hexam"></span>
 
 
 ‘Pretty, pretty, pretty!’ said the old man with a clap of his hands.
@@ -60161,7 +60161,7 @@ flushed, ‘she is proud. And if it’s not, she is NOT.’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/fire,motif/home,motif/night,motif/river,motif/water,motif/well,concept/self,concept/self_reliance"></span>
 
 
 Her set purpose of contradicting Miss Abbey point blank, was so far from
@@ -60286,7 +60286,7 @@ in her voice of authority.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/river,motif/time,motif/water,concept/body"></span>
 
 
 ‘Them’s her lights, Miss Abbey, wot you see a-blinking yonder,’ cried
@@ -60391,7 +60391,7 @@ declaration we have just had in our hands. That’s Riderhood!’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/death,motif/soul,motif/tears,motif/wind,concept/body,concept/hope,concept/mortality,concept/self,character/jenny_wren"></span>
 
 
 Chapter 3
@@ -60521,7 +60521,7 @@ upon her arm.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/home,motif/journey,motif/river,motif/road,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/hope,concept/pride"></span>
 
 
 It is something so new to Pleasant to see her father an object of
@@ -60682,7 +60682,7 @@ that little turn-up with [[Death]].
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/home,motif/night,motif/soul,motif/well,concept/endurance,concept/forgiveness,concept/union"></span>
 
 
 Chapter 4
@@ -60804,7 +60804,7 @@ as to permission, I mean to do without.’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/flag,motif/home,motif/time,motif/well,motif/wind,concept/doubt,concept/melancholy,concept/wonder,character/lavinia"></span>
 
 
 ‘YOU cook?’ said Mrs Wilfer. ‘YOU, who never cooked when you were at
@@ -60948,7 +60948,7 @@ the vaguest intentions.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/king,motif/blood,motif/dawn,motif/time,motif/well,concept/courage,concept/honour,concept/martyrdom,character/lavinia"></span>
 
 
 Bella helped him with his supplemental cookery, and made him very happy,
@@ -61078,7 +61078,7 @@ recall these dark coincidences on the present day.’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/love,motif/night,motif/road,motif/secrets,motif/sleep,motif/time,motif/well,motif/wind,concept/beauty,concept/hope,concept/wonder,character/lavinia"></span>
 
 
 Mr Sampson at length released from the custody of Mrs Wilfer’s eye, now
@@ -61283,7 +61283,7 @@ life!’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/leaves,motif/night,motif/rose,motif/time,motif/well,concept/hope,concept/mercy,concept/poverty,concept/pride,character/bella_wilfer,character/silas_wegg"></span>
 
 
 Chapter 5
@@ -61420,7 +61420,7 @@ and must look sharp after his inferiors.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/well,concept/hope,concept/self,character/john_harmon"></span>
 
 
 Bella felt that Mrs Boffin was not comfortable, and that the eyes of
@@ -61551,7 +61551,7 @@ usual, ‘what do you mean by this, you inconsistent little Beast?’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/freedom,form/biography,setting/london,character/don_quixote"></span>
 
 
 The looking-glass preserving a discreet ministerial [[Silence|silence]] when thus
@@ -61655,7 +61655,7 @@ Lor! she’s more fashionable.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/cross,motif/horse,motif/love,motif/time,motif/well,concept/beauty,concept/fear,concept/resignation,concept/self,concept/vanity,character/bella_wilfer"></span>
 
 
 But between [[Bella Wilfer]] and Georgiana Podsnap there was this one
@@ -61803,7 +61803,7 @@ spite of the whispers against her that I hear in my heart?’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/time,motif/well,concept/nature"></span>
 
 
 As usual, there was no answer in the looking-glass when she got [[Home|home]] and
@@ -61941,7 +61941,7 @@ and save it somewhere. You’ve got some lovely furniture; haven’t you?’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/soul,motif/well,concept/courage"></span>
 
 
 ‘The furniture in my rooms is my own.’
@@ -62007,7 +62007,7 @@ illumination on the change in him, and make it morally uglier.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/tears,motif/time,motif/water,motif/well,concept/fear,concept/history,concept/truth,form/history,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 Chapter 6
@@ -62149,7 +62149,7 @@ what MAY we find? There you’ll grant me. Anything.’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/fire,motif/leaves,motif/night,motif/time,motif/well,motif/window,form/fragment,character/gloucester,character/jones,character/mr_venus,character/venus"></span>
 
 
 ‘I don’t like it,’ pettishly returned [[Venus]] as before. ‘I came into
@@ -62292,7 +62292,7 @@ Overs, sir, John Little, sir, Dick Jarrel, John Elwes, the Reverend Mr
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/time,motif/well,form/biography,character/mr_venus"></span>
 
 
 ‘Give us Dancer, Wegg,’ said Mr Boffin.
@@ -62422,7 +62422,7 @@ sums of money which had been secreted even from him.’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/leaves,motif/night,motif/silence,motif/spring,motif/time,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘There!’ cried Mr Boffin. ‘Even from him, you see! There was only two of
@@ -62563,7 +62563,7 @@ that they stood interlocked like a couple of preposterous gladiators.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/dust,motif/journey,motif/night,motif/time,motif/well,motif/wind,concept/courage,concept/self,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘There’s no [[Time|time]] to tell you now. I think he must have gone to look for
@@ -62689,7 +62689,7 @@ over, and it might be in any one of half a dozen pockets.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_06" data-title="Our Mutual Friend — Chapter 6 (part 6)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_06" data-title="Our Mutual Friend — Chapter 6 (part 6)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/silence,motif/well,concept/doubt,concept/truth,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘What’s the matter, Wegg?’ said Mr Boffin. ‘You are as pale as a
@@ -62779,7 +62779,7 @@ shut the gate.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/usurper,motif/crown,motif/dust,motif/moon,motif/night,motif/noon,motif/rose,motif/silence,motif/stars,motif/time,motif/well,concept/honour,character/john_harmon,character/mr_venus,character/nicodemus_boffin,character/venus"></span>
 
 
 Chapter 7
@@ -62929,7 +62929,7 @@ rest and residue of his property to the [[Crown]].’
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/silence,motif/spring,motif/time,motif/well,motif/window,concept/honour,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘The date of the will that has been proved, must be looked to,’ remarked
@@ -63059,7 +63059,7 @@ still wants a pair of arms. I DON’T say that I’m in any hurry for ’em.’
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/silence,motif/time,concept/freedom,concept/honour,concept/self,concept/slavery,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘You must be wandering in your mind, partner,’ Silas remonstrated.
@@ -63169,7 +63169,7 @@ his bosom.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/birds,motif/dust,motif/fire,motif/home,motif/night,motif/river,motif/swallow,motif/time,motif/water,concept/exile,concept/greed,concept/melancholy,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘Brother,’ said Wegg, when this happy understanding was established, ‘I
@@ -63343,7 +63343,7 @@ MONEY for THAT, he’s GROWN too FOND of MONEY.’
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dawn,motif/death,motif/dust,motif/home,motif/journey,motif/love,motif/night,motif/river,motif/soul,motif/water,motif/well,concept/hope,concept/truth,concept/wonder,form/fable,setting/river_thames,character/nurse,character/queen"></span>
 
 
 Chapter 8
@@ -63457,7 +63457,7 @@ The poor [[Soul|soul]] envied no one in bitterness, and grudged no one anything.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/lion,motif/love,motif/memory,motif/river,motif/road,motif/rose,motif/seasons,motif/time,motif/water,motif/well,concept/charity,concept/despair,concept/fear,concept/union,setting/london,character/chorus"></span>
 
 
 But, the old abhorrence grew stronger on her as she grew weaker, and
@@ -63588,7 +63588,7 @@ held a candle close to her face.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/grave,motif/night,motif/road,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,character/speed"></span>
 
 
 ‘Now, Missis,’ said he; ‘where did you come from and where are you going
@@ -63725,7 +63725,7 @@ live through another [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/death,motif/fire,motif/grave,motif/journey,motif/love,motif/night,motif/tears,motif/time,motif/water,motif/wheel,character/lizzie_hexam"></span>
 
 
 Sewn in the breast of her gown, the money to pay for her burial was
@@ -63906,7 +63906,7 @@ lifted her as high as Heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/love,motif/river,motif/water,motif/wheel,concept/conscience,character/bella_wilfer,character/lizzie_hexam"></span>
 
 
 Chapter 9
@@ -64030,7 +64030,7 @@ will soon find one.’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/shadow,motif/leaves,motif/river,motif/tears,motif/time,motif/well,concept/beauty,concept/honour,concept/hope,concept/truth,character/john_harmon,character/lizzie_hexam"></span>
 
 
 While this discourse was interchanging, both Bella and the Secretary
@@ -64173,7 +64173,7 @@ enough in this world.’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/leaves,motif/mirror,motif/pain,motif/river,motif/time,motif/water,motif/well,motif/wind,concept/endurance,concept/hope,concept/pride,concept/self,concept/wonder"></span>
 
 
 ‘No one is useless in this world,’ retorted the Secretary, ‘who lightens
@@ -64323,7 +64323,7 @@ light save what was peaceful, [[Pastoral|pastoral]], and blooming.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/grave,motif/home,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/honour,concept/hope,concept/nature,character/lizzie_hexam"></span>
 
 
 So, they walked, speaking of the newly filled-up [[Grave|grave]], and of Johnny,
@@ -64460,7 +64460,7 @@ However, never mind me. I want to hear about you.’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_05" data-title="Our Mutual Friend — Chapter 9 (part 5)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_05" data-title="Our Mutual Friend — Chapter 9 (part 5)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/home,motif/love,motif/night,motif/river,motif/silence,motif/time,concept/freedom,concept/hope,concept/self,setting/london"></span>
 
 
 ‘There is a certain man,’ said Lizzie, ‘a passionate and angry man, who
@@ -64602,7 +64602,7 @@ never know of it or care for it.’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_06" data-title="Our Mutual Friend — Chapter 9 (part 6)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_06" data-title="Our Mutual Friend — Chapter 9 (part 6)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/river,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/truth,concept/wonder,character/lizzie_hexam"></span>
 
 
 Bella sat enchained by the deep, unselfish passion of this girl or woman
@@ -64770,7 +64770,7 @@ boofer lady pass.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/dust,motif/fire,motif/road,motif/tears,motif/time,motif/water,setting/court,character/eugene_wrayburn,character/jenny_wren"></span>
 
 
 Chapter 10
@@ -64919,7 +64919,7 @@ through again.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/fire,motif/home,motif/night,motif/rose,motif/time,concept/body,concept/doubt,concept/honour,concept/hope,concept/truth,character/aaron,character/eugene_wrayburn,character/shylock"></span>
 
 
 ‘It strikes me,’ remarked Eugene coolly, after watching him for some
@@ -65063,7 +65063,7 @@ head to foot, and clothed in shabby grease and smear.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/night,motif/road,motif/soul,motif/time,motif/wind,concept/fear,concept/pride"></span>
 
 
 ‘This interesting gentleman,’ said Eugene, ‘is the son—the
@@ -65212,7 +65212,7 @@ and left him.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_04" data-title="Our Mutual Friend — Chapter 10 (part 4)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_04" data-title="Our Mutual Friend — Chapter 10 (part 4)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/madness,concept/nature,concept/wonder,setting/london"></span>
 
 
 When he got back, Lightwood was standing over the [[Fire|fire]], brooding in a
@@ -65350,7 +65350,7 @@ Gate all [[Night|night]].’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_05" data-title="Our Mutual Friend — Chapter 10 (part 5)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_05" data-title="Our Mutual Friend — Chapter 10 (part 5)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/home,motif/night,motif/rose,motif/wind,concept/doubt,concept/hope,concept/jealousy,concept/wonder,setting/court,character/bradley_headstone"></span>
 
 
 ‘This is an extraordinary story,’ observed Lightwood, who had heard it
@@ -65450,7 +65450,7 @@ fell asleep again.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/home,motif/night,motif/road,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/endurance,concept/freedom,concept/jealousy,concept/self,concept/truth,character/bradley_headstone,character/lizzie_hexam"></span>
 
 
 Chapter 11
@@ -65571,7 +65571,7 @@ you be acquainted with the T’other Governor?’
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/ghost,motif/night,motif/river,motif/road,motif/time,motif/well,concept/self,concept/wonder,setting/london,character/bradley_headstone"></span>
 
 
 ‘With whom?’ asked Bradley.
@@ -65705,7 +65705,7 @@ use it?’
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/hill,motif/well,concept/self,concept/wonder,character/bradley_headstone"></span>
 
 
 They had walked along the Strand, and into Pall Mall, and had turned
@@ -65868,7 +65868,7 @@ possession of a congenial instrument, though it might never be used.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/road,character/bradley_headstone"></span>
 
 
 Suddenly he stood still, and asked Riderhood point-blank if he knew
@@ -65924,7 +65924,7 @@ and run away from the master.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/fire,motif/rose,motif/silence,motif/well,concept/doubt,setting/london"></span>
 
 
 Chapter 12
@@ -66086,7 +66086,7 @@ casting about.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/love,motif/soul,motif/time,motif/well,concept/conscience,concept/faith,concept/fear,concept/honour,concept/temptation,concept/wonder"></span>
 
 
 ‘Take [[Time|time]], Sophronia,’ observed her watchful husband, in a patronizing
@@ -66233,7 +66233,7 @@ stairs.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/dreams,motif/soul,motif/time,motif/well,concept/body,concept/mercy"></span>
 
 
 ‘Mr Fledgeby,’ said Mrs Lammle, giving him a very gracious reception,
@@ -66396,7 +66396,7 @@ looking at his walking-stick by the door!’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/time,motif/well,motif/window,concept/fear,concept/hope,concept/melancholy"></span>
 
 
 Chapter 13
@@ -66526,7 +66526,7 @@ day.’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/road,motif/tears,motif/time,motif/well,concept/conscience,concept/honour,concept/hope,concept/nature,concept/pride,concept/vanity,setting/london"></span>
 
 
 Again the little dried gentleman put his hand to his forehead, and again
@@ -66662,7 +66662,7 @@ is kept dark; eh, Mr Twemlow?’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/lamb,motif/prison,motif/time,motif/well,concept/hope"></span>
 
 
 Twemlow, much disturbed, and with his hand fluttering about his
@@ -66795,7 +66795,7 @@ Twemlow! Why not be easy with Mr Twemlow?’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/home,motif/rose,motif/time,motif/window,concept/hope"></span>
 
 
 The old man looked into Fledgeby’s little eyes for any sign of leave to
@@ -66901,7 +66901,7 @@ betrayed, I shall know who sold and betrayed her!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/fire,motif/home,motif/nature,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/grotesque,concept/honour,concept/nature,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 Chapter 14
@@ -67022,7 +67022,7 @@ thread of his discourse.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/fire,motif/silence,motif/time,concept/doubt,concept/history,concept/hope,concept/melancholy,concept/truth,form/history,character/mr_venus,character/venus"></span>
 
 
 ‘Mr Boffin, if I confess to you that I fell into a proposal of which you
@@ -67155,7 +67155,7 @@ money that could be agreed upon, [[Venus]], would you put it in the [[Fire|fire]
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/fire,motif/home,motif/night,motif/soul,motif/time,motif/well,concept/body,character/mr_venus,character/venus"></span>
 
 
 ‘No, sir, I wouldn’t,’ interrupted [[Mr Venus]].
@@ -67287,7 +67287,7 @@ me? Why, I’m a hundred times the man he is, sir; five hundred times!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/dust,motif/night,motif/pain,motif/silence,motif/time,motif/well,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 Perhaps it was with the malicious intent of urging him on to his worst
@@ -67415,7 +67415,7 @@ ability.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,motif/window,concept/wonder,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘How long could you be persuaded to keep up the appearance of remaining
@@ -67531,7 +67531,7 @@ let the carriage rattle.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/noon,motif/rose,concept/hope,concept/wonder"></span>
 
 
 Chapter 15
@@ -67668,7 +67668,7 @@ you.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/love,motif/well,concept/fear,concept/hope,concept/poverty,concept/truth,character/jones"></span>
 
 
 ‘But you don’t, you don’t right me!’ exclaimed Bella, with great
@@ -67804,7 +67804,7 @@ you have it.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/fear,concept/hope,concept/truth,character/jones"></span>
 
 
 ‘Noddy! My dear, dear Noddy! You sound so hard!’ cried poor Mrs Boffin,
@@ -67935,7 +67935,7 @@ are so particular?’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/monster,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/self,concept/wonder"></span>
 
 
 ‘Yes.’
@@ -68076,7 +68076,7 @@ Mr Boffin.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/home,motif/love,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/hope,character/jones"></span>
 
 
 He kissed her hand again.
@@ -68213,7 +68213,7 @@ because you used to be so different. Say good-bye!’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_06" data-title="Our Mutual Friend — Chapter 15 (part 6)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_06" data-title="Our Mutual Friend — Chapter 15 (part 6)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well"></span>
 
 
 ‘Good-bye,’ said Mr Boffin, shortly.
@@ -68271,7 +68271,7 @@ to see your lovely woman unexpectedly.’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/home,motif/love,motif/night,motif/road,motif/well,motif/window"></span>
 
 
 Chapter 16
@@ -68416,7 +68416,7 @@ fireplace? The shabbiest desk of all the desks?’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/time,motif/well,motif/window,concept/nature,concept/pride"></span>
 
 
 ‘Now, does it really strike you in that point of view, my dear?’ said
@@ -68571,7 +68571,7 @@ right?’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/flowers,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/nature,concept/poverty,concept/truth,setting/castle"></span>
 
 
 With another tearful laugh Bella joyfully kissed him again.
@@ -68697,7 +68697,7 @@ Now, Pa. Once!—’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/night,motif/rose,motif/silence,motif/time,motif/water,concept/hope,character/lavinia"></span>
 
 
 ‘My dear,’ the cherub faltered, with something of a craven air, ‘I was
@@ -68831,7 +68831,7 @@ countenance of the beglared one.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Our Mutual Friend — Chapter 16 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Our Mutual Friend — Chapter 16 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/garden,motif/home,motif/lightning,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/courage,concept/melancholy,concept/slavery,concept/sublime,concept/truth,concept/wonder,character/lady_macbeth,character/lavinia"></span>
 
 
 Miss [[Lavinia]] was extremely affable to Mr Sampson on this special
@@ -68966,7 +68966,7 @@ R. W. was left [[Alone|alone]] among the dilapidations of the supper table, in a
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_06" data-title="Our Mutual Friend — Chapter 16 (part 6)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_06" data-title="Our Mutual Friend — Chapter 16 (part 6)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/well,concept/faith"></span>
 
 
 But, a light footstep roused him from his meditations, and it was
@@ -69038,7 +69038,7 @@ fair little man, so thankful and so happy!’
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Our Mutual Friend — Chapter 17 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Our Mutual Friend — Chapter 17 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/city,motif/night,motif/soul,motif/time,concept/doubt,concept/faith,concept/sublime,concept/wonder,character/chorus"></span>
 
 
 Chapter 17
@@ -69152,7 +69152,7 @@ Twemlow, to add a sort of postscript to what I said that day.’
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Our Mutual Friend — Chapter 17 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Our Mutual Friend — Chapter 17 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/soul,motif/well,concept/honour,concept/truth"></span>
 
 
 Mr Twemlow’s dry and hollow cheeks become more dry and hollow at the
@@ -69286,7 +69286,7 @@ to take [[Fire|fire]] at once, and show it to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Our Mutual Friend — Chapter 17 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Our Mutual Friend — Chapter 17 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/death,motif/desire,motif/leaves,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/deception,concept/doubt,concept/hope,concept/nature,character/eugene_wrayburn"></span>
 
 
 ‘Oh! Then you have no proof.’
@@ -69397,7 +69397,7 @@ opposition root and branch at the [[Window|window]] curtains.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_04" data-title="Our Mutual Friend — Chapter 17 (part 4)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_04" data-title="Our Mutual Friend — Chapter 17 (part 4)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/time,motif/window,concept/self,character/eugene_wrayburn"></span>
 
 
 Mr and Mrs Podsnap are of the company, and the Fathers descry in Mrs
@@ -69571,7 +69571,7 @@ way.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Our Mutual Friend — Chapter 1 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Our Mutual Friend — Chapter 1 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/shadow,motif/leaves,motif/memory,motif/nature,motif/night,motif/river,motif/rose,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/nature,character/bradley_headstone,character/eugene_wrayburn"></span>
 
 
 BOOK THE FOURTH — A TURNING
@@ -69693,7 +69693,7 @@ looked anxiously up the [[River|river]].
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Our Mutual Friend — Chapter 1 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Our Mutual Friend — Chapter 1 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/death,motif/home,motif/river,motif/road,motif/time,motif/well,concept/doubt,concept/self,setting/london,character/bradley_headstone,character/chorus"></span>
 
 
 ‘It ain’t Locks as YOU’VE been a reckoning up,’ said Riderhood, when the
@@ -69849,7 +69849,7 @@ dagger that slew Wat Tyler, in the [[City]] of [[London]] shield.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Our Mutual Friend — Chapter 1 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Our Mutual Friend — Chapter 1 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/night,motif/river,motif/soul,motif/spring,motif/summer,motif/time,motif/water,motif/well,concept/wonder,character/lord_mayor"></span>
 
 
 Within Mr Riderhood’s knowledge all daggers were as one. Even to Bradley
@@ -69971,7 +69971,7 @@ schoolmaster’s eyes. Riderhood saw him look at it.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_04" data-title="Our Mutual Friend — Chapter 1 (part 4)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_04" data-title="Our Mutual Friend — Chapter 1 (part 4)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/fire,motif/journey,motif/lightning,motif/memory,motif/night,motif/river,motif/rose,motif/sleep,motif/storm,motif/water,motif/well,motif/wind,motif/window,concept/body"></span>
 
 
 ‘Oh!’ thought that worthy. ‘You’re a-taking notice, are you? Come! You
@@ -70155,7 +70155,7 @@ his hand to his chin, sat long in a brown study, looking at both.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Our Mutual Friend — Chapter 2 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/grave,motif/love,motif/nature,motif/window,concept/honour,concept/nature,concept/self,setting/court"></span>
 
 
 Chapter 2
@@ -70297,7 +70297,7 @@ how it was.’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Our Mutual Friend — Chapter 2 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/love,motif/rose,motif/tears,motif/time,motif/well,concept/honour,concept/hope,setting/court,character/bella_wilfer"></span>
 
 
 ‘No. Pray don’t,’ Mr Boffin interposed.
@@ -70433,7 +70433,7 @@ unannounced and in [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Our Mutual Friend — Chapter 2 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/crown,motif/night,motif/tears,motif/time,motif/well,concept/hope"></span>
 
 
 ‘Oh, my dear Sophronia,’ cried Georgiana, wringing her hands as she ran
@@ -70552,7 +70552,7 @@ standing on her side of the table, and Mr Lammle on his.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_04" data-title="Our Mutual Friend — Chapter 2 (part 4)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/tears,motif/well,motif/window,concept/fear,concept/hope,concept/nature"></span>
 
 
 Mrs Lammle had taken up her parasol from a side table, and stood
@@ -70640,7 +70640,7 @@ them to the contrary; for, they set eyes on the Lammles never more.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Our Mutual Friend — Chapter 3 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/night,motif/silence,motif/time,motif/well,concept/hope,character/mr_venus,character/venus"></span>
 
 
 Chapter 3
@@ -70783,7 +70783,7 @@ and a sniffing, menial.’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Our Mutual Friend — Chapter 3 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/time,motif/well,motif/window,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘He hadn’t a cold in his head when I sent him here,’ said Mr Boffin.
@@ -70921,7 +70921,7 @@ upon you, have seen you dig up a Dutch bottle.’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="Our Mutual Friend — Chapter 3 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/nature,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘It was mine, Wegg,’ protested Mr Boffin. ‘I put it there myself.’
@@ -71046,7 +71046,7 @@ remained aloft disconsolate.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_04" data-title="Our Mutual Friend — Chapter 3 (part 4)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/water,motif/well,concept/resignation,character/mr_venus,character/venus"></span>
 
 
 ‘You have no doubts about it, Boffin.’
@@ -71168,7 +71168,7 @@ within; he then laughed silently, and stumped [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Our Mutual Friend — Chapter 4 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/love,motif/summer,motif/time,motif/well,concept/hope,setting/london,character/bottom"></span>
 
 
 Chapter 4
@@ -71321,7 +71321,7 @@ Bella floated him, and away he went.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Our Mutual Friend — Chapter 4 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/damsel,archetype/shadow,motif/cross,motif/home,motif/love,motif/marriage,motif/ship,motif/stars,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/body,concept/conscience,concept/hope,setting/ship,character/bella_wilfer,character/queen"></span>
 
 
 Say, cherubic parent taking the lead, in what direction do we steer
@@ -71437,7 +71437,7 @@ man-of-warsman and a heart of oak.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Our Mutual Friend — Chapter 4 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="topos/golden_age,topos/quest,archetype/innocent,motif/love,motif/marriage,motif/water,motif/well,concept/hope"></span>
 
 
 It was a pleasant sight, in the midst of the golden bloom, to see this
@@ -71553,7 +71553,7 @@ happy!’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Our Mutual Friend — Chapter 4 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/nature,setting/london"></span>
 
 
 Her husband feeling it necessary at this point to demand one of those
@@ -71649,7 +71649,7 @@ the world go round!
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="Our Mutual Friend — Chapter 5 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/silence,motif/tears,motif/well,concept/body,concept/conscience,concept/doubt,concept/honour,concept/nature,concept/resignation,character/lavinia"></span>
 
 
 Chapter 5
@@ -71786,7 +71786,7 @@ you, you know, ma’am—vipers really doesn’t do you credit.’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="Our Mutual Friend — Chapter 5 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,archetype/outsider,motif/home,motif/love,motif/nature,motif/water,motif/well,concept/body,concept/forgiveness,concept/hope,concept/melancholy,concept/nature,concept/resignation,concept/self,character/lavinia"></span>
 
 
 ‘You shall not be annihilated, George!’ cried Miss [[Lavinia]]. ‘Ma shall
@@ -71896,7 +71896,7 @@ Miss Lavvy replied with solemnity, ‘No, dearest George, I am but too
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="Our Mutual Friend — Chapter 5 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/love,motif/road,motif/sleep,motif/well,concept/hope,character/lavinia"></span>
 
 
 Mrs Wilfer, for her part, still further improved the occasion by sitting
@@ -72026,7 +72026,7 @@ probably not have contested.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_04" data-title="Our Mutual Friend — Chapter 5 (part 4)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="topos/double,motif/city,motif/home,motif/love,motif/nature,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/unattainable,setting/london"></span>
 
 
 The newly-married pair left early, so that they might walk at leisure to
@@ -72159,7 +72159,7 @@ old [[donkey|Donkey]]! Where am I to get it, do you think?’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_05" data-title="Our Mutual Friend — Chapter 5 (part 5)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/desire,motif/home,motif/love,motif/road,motif/soul,motif/time,motif/well,concept/truth"></span>
 
 
 Another branch of study claimed the attention of Mrs John Rokesmith for
@@ -72296,7 +72296,7 @@ waiting to be finished.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_06" data-title="Our Mutual Friend — Chapter 5 (part 6)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/time,motif/water,motif/well,concept/nature,concept/self,character/bottom,character/lizzie_hexam"></span>
 
 
 ‘There!’ said Bella, when she had at last completed the final touches.
@@ -72429,7 +72429,7 @@ she said, ‘I think I am ready now for Thirdly, John.’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_07" data-title="Our Mutual Friend — Chapter 5 (part 7)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_07" data-title="Our Mutual Friend — Chapter 5 (part 7)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/ship,motif/soul,concept/doubt,setting/ship,character/bottom"></span>
 
 
 ‘My dear [[Child|child]],’ cried her husband gaily, ‘what a quantity of
@@ -72496,7 +72496,7 @@ you and me...a little baby, John.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Our Mutual Friend — Chapter 6 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/night,motif/river,motif/time,motif/water,motif/wind,concept/beauty,concept/history,form/history,setting/court,character/eugene_wrayburn"></span>
 
 
 Chapter 6
@@ -72617,7 +72617,7 @@ asked, as he took her hand and drew it through his arm.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Our Mutual Friend — Chapter 6 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/love,motif/nature,motif/night,motif/tears,motif/well,concept/faith,concept/honour,concept/nature,concept/pride,concept/self,concept/truth,setting/london,character/helena,character/queen"></span>
 
 
 She submitted to walk slowly on, with downcast eyes. He put her hand to
@@ -72767,7 +72767,7 @@ to drive me from place to place to wear me out, you should drive me to
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Our Mutual Friend — Chapter 6 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/tears,motif/time,concept/fear,concept/nature,concept/suffering,concept/wonder"></span>
 
 
 He looked full at her handsome face, and in his own handsome face there
@@ -72909,7 +72909,7 @@ F. NOT sure of myself.”’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_04" data-title="Our Mutual Friend — Chapter 6 (part 4)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/blood,motif/home,motif/lightning,motif/moon,motif/night,motif/river,motif/stars,motif/summer,motif/tears,motif/water,concept/beauty,concept/melancholy,character/eugene_wrayburn,character/lizzie_hexam"></span>
 
 
 In the very act of calling this tone of levity to his aid, he felt it to
@@ -73018,7 +73018,7 @@ the bridge, but it was more removed from her than she had thought; the
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_05" data-title="Our Mutual Friend — Chapter 6 (part 5)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/grave,motif/moon,motif/prayer,motif/river,motif/stars,motif/supernatural,motif/time,motif/water,motif/well,concept/body,character/bottom,character/speed"></span>
 
 
 At length, she reached a part of the green bank, much and newly trodden,
@@ -73149,7 +73149,7 @@ that she has set her heart upon the dead. Be gentle with her.’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Our Mutual Friend — Chapter 7 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/clock,motif/ghosts,motif/moon,motif/night,motif/river,motif/rose,motif/sleep,motif/stars,motif/time,motif/water,motif/window,concept/doubt,concept/honour,character/bradley_headstone,character/cain,character/phantom"></span>
 
 
 Chapter 7
@@ -73287,7 +73287,7 @@ the blade of his knife, in case of their not first sliding off it.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Our Mutual Friend — Chapter 7 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/night,motif/river,motif/time,motif/water,motif/well,motif/window,concept/body,concept/suicide,concept/wonder,character/bradley_headstone"></span>
 
 
 [[Bradley Headstone]] was so remarkably awkward at these exercises, that the
@@ -73412,7 +73412,7 @@ suddenly dropped the pursuit and turned.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="Our Mutual Friend — Chapter 7 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="topos/double,archetype/avenger,archetype/shadow,motif/blood,motif/chalk,motif/garden,motif/nature,motif/night,motif/river,motif/time,motif/water,motif/well,concept/loneliness,concept/nature,concept/renunciation,setting/london,character/eugene_wrayburn"></span>
 
 
 The miserable man whom he had released for the [[Time|time]], but not for long,
@@ -73541,7 +73541,7 @@ visible shade.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_04" data-title="Our Mutual Friend — Chapter 7 (part 4)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/nature,motif/river,motif/tears,motif/time,motif/well,concept/conscience,concept/hope,concept/nature,concept/self,character/eugene_wrayburn"></span>
 
 
 ‘It’s for me to speak, not you,’ said the boy. ‘If you do, you’ll do
@@ -73669,7 +73669,7 @@ in a bundle.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="Our Mutual Friend — Chapter 8 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/leaves,motif/time,motif/well,concept/body,concept/conscience,concept/honour,character/lizzie_hexam"></span>
 
 
 Chapter 8
@@ -73820,7 +73820,7 @@ better.’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="Our Mutual Friend — Chapter 8 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,character/jenny_wren"></span>
 
 
 ‘Perhaps,’ said Miss Jenny, holding out her doll at arm’s length, and
@@ -73973,7 +73973,7 @@ bitter reproaches.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_03" data-title="Our Mutual Friend — Chapter 8 (part 3)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/nature"></span>
 
 
 What was a bad [[Time|time]] for Mr Dolls, could not fail to be a bad [[Time|time]] for
@@ -74111,7 +74111,7 @@ don’t slap me! I’m covered with weales and I smart so!’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_04" data-title="Our Mutual Friend — Chapter 8 (part 4)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/crown,motif/pain,motif/road,motif/time,motif/well,motif/window,concept/hope,concept/suffering"></span>
 
 
 However, he gradually ceased to choke and crow, saving at intervals,
@@ -74237,7 +74237,7 @@ for dolls, while she mentally cut them out and basted them.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Our Mutual Friend — Chapter 9 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/love,motif/time,concept/faith,concept/forgiveness,concept/honour,concept/self,concept/truth"></span>
 
 
 Chapter 9
@@ -74371,7 +74371,7 @@ head to foot with energy as she shook her little fist before her eyes,
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Our Mutual Friend — Chapter 9 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/garden,motif/home,motif/journey,motif/road,motif/time,motif/water,motif/well,setting/egypt,setting/london"></span>
 
 
 This expression of regret being but partially intelligible to Mr Riah,
@@ -74499,7 +74499,7 @@ addressed himself to the Temple.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Our Mutual Friend — Chapter 9 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/machine,motif/night,motif/tears,motif/well,motif/window,concept/hope,concept/self,setting/court"></span>
 
 
 There was nobody at the chambers but Young Blight. That discreet youth,
@@ -74631,7 +74631,7 @@ he wouldn’t repent of his bargain!’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_04" data-title="Our Mutual Friend — Chapter 9 (part 4)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/grave,motif/home,motif/prayer,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/melancholy,concept/truth,concept/wonder,setting/court,character/eugene_wrayburn,character/lizzie_hexam"></span>
 
 
 The simple arrangements were of her own making, and were stated to Riah
@@ -74770,7 +74770,7 @@ town.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_01" data-title="Our Mutual Friend — Chapter 10 (part 1)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/flowers,motif/pain,motif/river,motif/silence,motif/water,character/bradley_headstone,character/nurse"></span>
 
 
 Chapter 10
@@ -74928,7 +74928,7 @@ unmistakeable.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_02" data-title="Our Mutual Friend — Chapter 10 (part 2)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/desire,motif/machine,motif/poison,motif/silence,motif/time,motif/water,concept/doubt,concept/hope"></span>
 
 
 ‘Dear fellow, I am wandering away. Stay me for another moment, if you
@@ -75070,7 +75070,7 @@ her. Then, she withdrew to the foot of the bed.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_03" data-title="Our Mutual Friend — Chapter 10 (part 3)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/love,motif/river,motif/soul,concept/providence"></span>
 
 
 Some two hours afterwards, Mortimer Lightwood saw his consciousness come
@@ -75142,7 +75142,7 @@ wife.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_01" data-title="Our Mutual Friend — Chapter 11 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/prophet,motif/clock,motif/grave,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/faith,concept/hope,concept/pride,character/lizzie_hexam"></span>
 
 
 Chapter 11
@@ -75288,7 +75288,7 @@ unless you can put perfect [[Faith|faith]] in me.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_02" data-title="Our Mutual Friend — Chapter 11 (part 2)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/time,motif/well,concept/body,concept/faith,concept/greatness,concept/honour,concept/hope,concept/nature,concept/truth,setting/london"></span>
 
 
 ‘Then you may be sure of me, John dear, for I can put perfect [[Faith|faith]] in
@@ -75397,7 +75397,7 @@ losing dignity when they adapt themselves to incomprehensible humbugs.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_03" data-title="Our Mutual Friend — Chapter 11 (part 3)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/marriage,motif/pain,motif/time,motif/well,concept/hope,character/bradley_headstone,character/lizzie_hexam"></span>
 
 
 ‘Detained at the last moment by one who had a claim upon me,’ was the
@@ -75535,7 +75535,7 @@ require some help, though he says he does not.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_04" data-title="Our Mutual Friend — Chapter 11 (part 4)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/flowers,motif/marriage,motif/night,motif/river,motif/sleep,motif/tears,motif/time,motif/window,concept/eternity,concept/faith,concept/hope"></span>
 
 
 Lightwood had by this [[Time|time]] secured their places, and the departure-bell
@@ -75662,7 +75662,7 @@ move his wounded head a very little way, and lay it on her bosom, the
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_05" data-title="Our Mutual Friend — Chapter 11 (part 5)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/love,motif/silence,motif/well,concept/conscience,concept/hope,concept/vanity"></span>
 
 
 ‘Lizzie,’ said Eugene, after a [[Silence|silence]]: ‘when you see me wandering away
@@ -75723,7 +75723,7 @@ opinion and my own—and that I ought to die, my dear!’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_01" data-title="Our Mutual Friend — Chapter 12 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/flowers,motif/home,motif/journey,motif/love,motif/rose,motif/ship,motif/sleep,motif/well,concept/doubt,concept/faith,concept/hope,concept/vanity,concept/wonder,setting/london,setting/ship"></span>
 
 
 Chapter 12
@@ -75850,7 +75850,7 @@ us together sooner—I have only to remind you that you have been at my
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_02" data-title="Our Mutual Friend — Chapter 12 (part 2)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/noon,motif/silence,motif/soul,motif/time,concept/doubt,concept/faith,concept/hope,concept/truth,character/john_harmon"></span>
 
 
 ‘Sir’ returned Lightwood, with a meaning glance towards Bella, ‘my
@@ -75985,7 +75985,7 @@ Can I have a word with you?’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_03" data-title="Our Mutual Friend — Chapter 12 (part 3)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="motif/clock,motif/soul,motif/water,motif/well,motif/winter,concept/body,concept/education,concept/honour,concept/wonder,form/inscription,setting/court,setting/london"></span>
 
 
 ‘Certainly. Here, if you please,’ was the reply.
@@ -76106,7 +76106,7 @@ the [[Inscription|inscription]] POLICE STATION.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_04" data-title="Our Mutual Friend — Chapter 12 (part 4)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/detective,motif/fire,motif/home,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/hope,form/inscription"></span>
 
 
 ‘We are not going in here, John?’ said Bella, clinging to him.
@@ -76236,7 +76236,7 @@ first came together on a matter of Identification!’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_05" data-title="Our Mutual Friend — Chapter 12 (part 5)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/birds,motif/flowers,motif/home,motif/love,motif/stars,motif/tears,motif/time,motif/water,motif/window,setting/london"></span>
 
 
 Bella’s husband stepped softly to the half-door of the bar, and stood
@@ -76392,7 +76392,7 @@ Pretty! Welcome to your [[house]] and [[Home|home]], my deary!’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_01" data-title="Our Mutual Friend — Chapter 13 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/fire,motif/night,motif/time,concept/beauty,concept/hope,concept/pride,concept/wonder,character/john_harmon"></span>
 
 
 Chapter 13
@@ -76524,7 +76524,7 @@ they, John?’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_02" data-title="Our Mutual Friend — Chapter 13 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/innocent,motif/chalk,motif/home,motif/night,motif/time,motif/water,motif/well,concept/beauty"></span>
 
 
 ‘Your exact words,’ said John, laying his hand on hers.
@@ -76650,7 +76650,7 @@ all!’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_03" data-title="Our Mutual Friend — Chapter 13 (part 3)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/road,motif/soul,motif/well,concept/hope,concept/truth,character/jones,character/nurse,character/silas_wegg"></span>
 
 
 The pile of hands dispersed, and Bella and Mrs Boffin took a good long
@@ -76784,7 +76784,7 @@ you, and defending me by saying I was playing a part.’
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_04" data-title="Our Mutual Friend — Chapter 13 (part 4)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/love,motif/time,concept/deception,character/john_harmon"></span>
 
 
 Mrs Boffin laughed heartily again, and her eyes glistened again, and
@@ -76870,7 +76870,7 @@ shoulders in a state of the liveliest commotion.
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_01" data-title="Our Mutual Friend — Chapter 14 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/dust,motif/fire,motif/night,motif/sleep,motif/time,motif/well,concept/body,setting/london,character/john_harmon,character/mr_venus,character/venus"></span>
 
 
 Chapter 14
@@ -77005,7 +77005,7 @@ corner, instead of me.’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_02" data-title="Our Mutual Friend — Chapter 14 (part 2)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/animals,motif/clock,motif/home,motif/marriage,motif/nature,motif/night,motif/road,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/union,character/mr_venus,character/venus"></span>
 
 
 Mr Wegg, glancing in great dudgeon towards the French gentleman’s
@@ -77152,7 +77152,7 @@ experience of having his hat twitched off his head and thrown out of a
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_03" data-title="Our Mutual Friend — Chapter 14 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/fool,motif/sleep,motif/time,motif/well,concept/hope,character/john_harmon,character/mr_venus,character/silas_wegg,character/venus"></span>
 
 
 ‘Be careful what insolent liberties you take in that gentleman’s
@@ -77281,7 +77281,7 @@ Harmon whether he has any idea of the contents of this present paper?’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_04" data-title="Our Mutual Friend — Chapter 14 (part 4)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/memory,motif/soul,motif/window,concept/body,concept/honour,concept/hope,concept/self,concept/wonder,character/john_harmon,character/venus"></span>
 
 
 ‘It is a will of my late father’s, of more recent date than the will
@@ -77398,7 +77398,7 @@ try, my dear sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_05" data-title="Our Mutual Friend — Chapter 14 (part 5)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/road,motif/time,motif/wheel,concept/melancholy,concept/temptation,character/john_harmon,character/mr_venus,character/silas_wegg"></span>
 
 
 ‘Pardon me, Mr Boffin,’ resumed Wegg, with a malignant glance in the
@@ -77468,7 +77468,7 @@ with great dexterity, and with a prodigious splash.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_01" data-title="Our Mutual Friend — Chapter 15 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/night,motif/pain,motif/river,motif/sleep,motif/snow,motif/time,motif/winter,concept/doubt,concept/providence,concept/truth,character/bradley_headstone,character/chorus,character/eugene_wrayburn"></span>
 
 
 Chapter 15
@@ -77596,7 +77596,7 @@ churchyard. Hooroar for another turn!’
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_02" data-title="Our Mutual Friend — Chapter 15 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/garden,motif/journey,motif/night,motif/river,motif/rose,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/self,setting/london,character/bradley_headstone,character/chorus"></span>
 
 
 Another tossing of arms, another nod, and another shrill [[Chorus|chorus]]:
@@ -77735,7 +77735,7 @@ morning.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_03" data-title="Our Mutual Friend — Chapter 15 (part 3)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/night,motif/river,motif/silence,motif/snow,motif/window,concept/fear,concept/self,setting/london,character/bradley_headstone"></span>
 
 
 He outwalked the short day, and was on the towing-path by the [[River|river]],
@@ -77865,7 +77865,7 @@ be paid for it—till I’ve drained you dry!’
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_04" data-title="Our Mutual Friend — Chapter 15 (part 4)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/window,concept/hope,setting/london"></span>
 
 
 Bradley looked at the [[Fire|fire]], with a working face, and was silent for a
@@ -77991,7 +77991,7 @@ paces, and walked at his side.
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_05" data-title="Our Mutual Friend — Chapter 15 (part 5)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="motif/desert,motif/frost,motif/river,motif/snow,motif/time,motif/water,concept/body,setting/desert,character/bradley_headstone"></span>
 
 
 This [[Time|time]], as before, when he found his attendant not to be shaken off,
@@ -78049,7 +78049,7 @@ with Bradley’s iron ring, and the rivets of the iron ring held tight.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_01" data-title="Our Mutual Friend — Chapter 16 (part 1)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/city,motif/death,motif/home,motif/nature,motif/well,motif/window,concept/despair,concept/honour,concept/hope,concept/nature,concept/resignation,concept/sublime,character/john_harmon,character/lavinia"></span>
 
 
 Chapter 16
@@ -78170,7 +78170,7 @@ this were a [[Home|home]]-thrust.)
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_02" data-title="Our Mutual Friend — Chapter 16 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/nature,motif/poison,motif/time,motif/well,concept/faith,concept/honour,concept/hope,concept/madness,concept/nature,character/john_harmon,character/lavinia"></span>
 
 
 ‘[[Lavinia]],’ returned Mr Sampson, in a dismal vein, ‘I did not mean to
@@ -78285,7 +78285,7 @@ mother’s.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_03" data-title="Our Mutual Friend — Chapter 16 (part 3)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/time,motif/well,concept/self,setting/court"></span>
 
 
 This visit was, as has been said, a grand event. Another event, not
@@ -78443,7 +78443,7 @@ heartily indeed. So they both laughed, till they were tired.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_04" data-title="Our Mutual Friend — Chapter 16 (part 4)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/home,motif/love,motif/marriage,motif/night,motif/river,motif/tears,motif/time,motif/well,concept/beauty,concept/faith,concept/union,character/eugene_wrayburn,character/hamlet,character/john_harmon,character/nurse"></span>
 
 
 ‘There, there, there!’ said Miss Wren. ‘For goodness’ sake, stop, Giant,
@@ -78600,7 +78600,7 @@ he had not seen for a considerable period.
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_01" data-title="Our Mutual Friend — Chapter 17 (part 1)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_01" data-title="Our Mutual Friend — Chapter 17 (part 1)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/pain,motif/time,concept/beauty,concept/honour,concept/hope,concept/providence,histref/america,setting/america,setting/russia"></span>
 
 
 Chapter 17
@@ -78728,7 +78728,7 @@ long admired, and who is deeply attached to him.’
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_02" data-title="Our Mutual Friend — Chapter 17 (part 2)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_02" data-title="Our Mutual Friend — Chapter 17 (part 2)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/home,motif/marriage,motif/nature,motif/time,motif/well,concept/honour,concept/hope,concept/madness,concept/nature,concept/wonder"></span>
 
 
 ‘But, excuse me,’ says Podsnap, with his temper and his shirt-collar
@@ -78876,7 +78876,7 @@ gaily.
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_03" data-title="Our Mutual Friend — Chapter 17 (part 3)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_03" data-title="Our Mutual Friend — Chapter 17 (part 3)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/nature,motif/time,concept/nature,concept/union,character/bella_wilfer,character/bradley_headstone,character/john_harmon"></span>
 
 
 POSTSCRIPT

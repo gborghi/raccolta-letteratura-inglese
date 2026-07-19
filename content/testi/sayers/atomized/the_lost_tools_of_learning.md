@@ -303,7 +303,7 @@ Witham, Essex
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Lost Tools of Learning (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Lost Tools of Learning (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/childhood,motif/time,motif/wheel,concept/education,concept/freedom,concept/hope,concept/truth,setting/oxford"></span>
 
 
 *Paper read at a Vacation Course in [[Education]], [[Oxford]], 1947.*
@@ -351,7 +351,7 @@ Avete mai seguito una discussione sui giornali o altrove, e notato con quale fre
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Lost Tools of Learning (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Lost Tools of Learning (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/rose,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/education,form/detective_fiction,setting/london,character/richard"></span>
 
 
 Have you ever been faintly troubled by the amount of slipshod syntax going about? And if so, are you troubled because it is inelegant or because it may lead to dangerous misunderstanding?
@@ -407,7 +407,7 @@ Non è forse questo il grande difetto della nostra educazione odierna (— difet
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Lost Tools of Learning (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Lost Tools of Learning (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/dance,motif/nature,motif/time,concept/doubt,concept/education,concept/faith,concept/history,concept/hope,concept/nature,concept/self,form/essay,form/history,histref/milton,character/milton"></span>
 
 
 Let us now look at the mediæval scheme of [[Education|education]]-the syllabus of the schools. It does not matter, for the moment, whether it was devised for small children or for older students; or how long people were supposed to take over it. What matters is the light it throws upon what the men of the Middle Ages supposed to be the object and the right order of the educative process. The syllabus was divided into two parts: the Trivium and Quadrivium. The second part-the Quadrivium-consisted of 'subjects,' and need not for the moment concern us. The interesting thing for us is the composition of the Trivium, which preceded the Quadrivium and was the preliminary discipline for it. It consisted of three parts: Grammar, Dialectic, and Rhetoric, in that order.
@@ -431,7 +431,7 @@ Delle «materie», in qualche forma, ci devono naturalmente essere. Non si può 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Lost Tools of Learning (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Lost Tools of Learning (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/time,motif/well,concept/education,concept/mercy,concept/nature,concept/self,form/novel,form/sketch"></span>
 
 
 ##
@@ -475,7 +475,7 @@ forme e le apparenze delle cose; piace recitare i numeri di targa delle automobi
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Lost Tools of Learning (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Lost Tools of Learning (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/memory,motif/time,motif/well,concept/education,concept/history,form/history,histref/renaissance,character/chorus,character/christ,character/kubla_khan"></span>
 
 
 Let us begin, then, with Grammar. This, in practice, means the grammar of some language in particular; and it must be an inflected language. The grammatical structure of an uninflected language is far too analytical to be tackled by any one without previous practice in Dialectic. Moreover, the inflected languages interpret the uninflected, whereas the uninflected are of little use in interpreting the inflected. I will say at once, quite firmly, that the best grounding for [[Education|education]] is the Latin grammar. I say this, not because Latin is traditional and mediæval, but simply because even a rudimentary knowledge of Latin cuts down the labor and pains of learning almost any other subject by at least 50 percent. It is the key to the vocabulary and structure of all the [[Romance]] languages and to the structure of all the Teutonic languages, as [[Well|well]] as to the technical vocabulary of all the sciences and to the literature of the entire Mediterranean civilisation, together with all its historical documents. Those whose pedantic preference for a living language persuades them to deprive their pupils of all these advantages might substitute Russian, whose grammar is still more primitive. (The verb is complicated by a number of 'aspects'-and I rather fancy that it enjoys three complete voices and a couple of extra aorists-but I may be thinking of Basque or Sanskrit.) Russian is, of course, helpful with the other Slav dialects. There is something also to be said for classical Greek. But my own choice is Latin. Having thus pleased the Classicists I will proceed to horrify them by adding that I do not think it either wise or necessary to cramp the ordinary pupil upon the Procrustean bed of the Augustan Age, with its highly elaborate and artificial verse-forms and oratory. The post-classical and mediæval Latin, which was a living language down to the end of the [[Renaissance]], is easier and in some ways livelier, both in syntax and rhythm; and a study of it helps to dispel the widespread notion that learning and literature came to a full-stop when [[Christ]] was born and only woke up again at the Dissolution of the Monasteries.
@@ -523,7 +523,7 @@ Fin qui (salvo, beninteso, per il latino) il nostro curricolo non contiene nulla
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Lost Tools of Learning (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Lost Tools of Learning (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/child,motif/memory,motif/prayer,motif/sleep,motif/time,motif/water,motif/well,concept/education,concept/history,form/history,form/lyric"></span>
 
 
 This reminds me of the Grammar of Theology . I shall add it to the curriculum, because Theology is the Mistress-science, without which the whole educational structure will necessarily lack its final synthesis. Those who disagree about this will remain content to leave their pupils' [[Education|education]] still full of loose ends. This will matter rather less than it might, since by the [[Time|time]] that the tools of learning have been forged the student will be able to tackle Theology for himself, and will probably insist upon doing so and making sense of it. Still, it is as [[Well|well]] to have this matter also handy and ready for the reason to work upon. At the grammatical age, therefore, we should become acquainted with the story of God and Man in outlinei.e. , the Old and New Testament presented as parts of a single narrative of Creation, Rebellion, and Redemption-and also with 'the Creed, the Lord's [[prayer|Prayer]], and the Ten Commandments.' At this stage, it does not matter nearly so much that these things should be fully understood as that they should be known and remembered. Remember, it is material that we are collecting.
@@ -563,7 +563,7 @@ Ma soprattutto non dobbiamo trascurare il materiale che tanto abbonda nella vita
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Lost Tools of Learning (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Lost Tools of Learning (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/time,motif/well,concept/beauty,concept/education,concept/freedom,concept/imagination,concept/self,form/essay"></span>
 
 
 Wherever the matter for Dialectic is found, it is, of course, highly important that attention should be focused upon the [[Beauty|beauty]] and economy of a fine demonstration or a [[Well|well]]-turned argument, lest veneration should wholly die. Criticism must not be merely destructive; though at the same [[Time|time]] both teacher and pupils must be ready to detect fallacy, slipshod reasoning, ambiguity, irrelevance, and redundancy, and to pounce upon them like rats.
@@ -607,7 +607,7 @@ L'ampiezza della Retorica dipende anche dal fatto che l'allievo debba essere imm
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Lost Tools of Learning (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Lost Tools of Learning (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/blood,motif/memory,motif/nature,motif/time,concept/education,concept/history,concept/nature,concept/pride,concept/truth,form/history,histref/milton,histref/renaissance,setting/oxford,character/milton,character/satan"></span>
 
 
 Is the Trivium, then, a sufficient [[Education|education]] for life? Properly taught, I believe that it should be. At the end of the Dialectic, the children will probably seem to be far behind their coevals brought up on old-fashioned 'modern' methods, so far as detailed knowledge of specific subjects is concerned. But after the age of fourteen they should be able to overhaul the others hand over fist. Indeed, I am not at all sure that a pupil thoroughly proficient in the Trivium would not be fit to proceed immediately to the university at the age of sixteen, thus proving himself the equal of his mediæval counterpart, whose precocity often appears to us so astonishing and unaccountable. This, to be sure, would make hay of the public-school system, and disconcert the universities very

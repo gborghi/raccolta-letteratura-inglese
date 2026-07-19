@@ -177,7 +177,7 @@ Tanto vividamente vedo il signor Wickham come politico che mi sento incline a ri
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Jane_Austen_GE (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Jane_Austen_GE (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/marriage,motif/rose,motif/time,motif/well,concept/fear,concept/madness,concept/solitude,concept/truth,form/novel,character/emma_woodhouse"></span>
 
 
 # Jane Austen GE
@@ -291,7 +291,7 @@ Ora, questo è un esempio quanto mai interessante del genere d'ingiustizia che s
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Jane_Austen_GE (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Jane_Austen_GE (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/nature,concept/nature,concept/truth,form/novel"></span>
 
 
 But the rather queer application of all this to the case

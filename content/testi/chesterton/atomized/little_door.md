@@ -69,7 +69,7 @@ Frances Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Little_Door (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Little_Door (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/sleep"></span>
 
 
 # Little Door

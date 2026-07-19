@@ -36971,7 +36971,7 @@ edition of the works of the Brontë sisters.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/fire,motif/home,motif/road,motif/rose,motif/time,motif/well,motif/window,concept/ambition,concept/self"></span>
 
 
 CHAPTER I
@@ -37199,7 +37199,7 @@ shouldn’t mind calling her—”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/journey,motif/rose,motif/swallow,motif/time,motif/well,concept/beauty,concept/history,concept/self,concept/solitude,form/history,character/sunday,character/witch"></span>
 
 
 mother earnestly, holding up her finger.
@@ -37425,7 +37425,7 @@ maintain that, if she were more perfect, she would be less
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/home,motif/prayer,motif/rose,motif/time,motif/well,character/michael,character/sunday"></span>
 
 
 interesting.”
@@ -37637,7 +37637,7 @@ strong prejudices, and regular habits, intolerant of dissent in any
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Tenant of Wildfell Hall — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/well,concept/ambition,concept/beauty,concept/education,form/hymn,character/gilbert_markham,character/richard"></span>
 
 
 shape, acting under a firm conviction that _his_ opinions were always
@@ -37795,7 +37795,7 @@ Yours immutably,
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Tenant of Wildfell Hall — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Tenant of Wildfell Hall — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/flowers,motif/frost,motif/garden,motif/hill,motif/lion,motif/time,motif/well,motif/wind,concept/body,concept/imagination,character/nurse,character/sunday"></span>
 
 
 CHAPTER II
@@ -37989,7 +37989,7 @@ was a silent struggle, and then a piercing shriek;—but, in an instant,
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Tenant of Wildfell Hall — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Tenant of Wildfell Hall — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/garden,motif/home,motif/love,motif/soul,motif/tears,motif/time,motif/well,motif/wind,character/sunday"></span>
 
 
 I had dropped my gun on the grass, and caught the little fellow in my
@@ -38247,7 +38247,7 @@ with a heart brimful of complacency for myself, and overflowing with
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/rose,motif/time,motif/well,concept/fear,concept/hope,concept/suffering,character/arthur"></span>
 
 
 CHAPTER III
@@ -38491,7 +38491,7 @@ was ready to cry when urged to take it.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/nature,motif/rose,motif/swallow,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/education,concept/hope,concept/nature,concept/temptation,character/nancy"></span>
 
 
 you good, as you were tired with your walk; but she will not oblige you
@@ -38705,7 +38705,7 @@ as he may—to seek danger, rather than shun it, and feed his virtue by
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Tenant of Wildfell Hall — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/shadow,motif/dawn,motif/leaves,motif/night,motif/rose,motif/storm,motif/time,motif/well,motif/wind,concept/education,concept/self,concept/self_reliance,concept/temptation,concept/wonder"></span>
 
 
 [[Temptation|temptation]],—would you—?”
@@ -38925,7 +38925,7 @@ fop—of that I am fully convinced, whether _you_ are or not.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/dance,motif/fire,motif/nature,motif/rose,motif/soul,motif/well,concept/freedom,concept/nature,concept/self,concept/wonder,character/richard"></span>
 
 
 CHAPTER IV
@@ -39135,7 +39135,7 @@ tolerably intimate terms. Essentially of reserved habits, and but
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/home,motif/leaves,motif/rose,motif/time,motif/water,motif/well,motif/wind,concept/fear,concept/friendship,concept/pride,concept/providence,concept/self"></span>
 
 
 seldom quitting the secluded place of his birth, where he had lived in
@@ -39365,7 +39365,7 @@ is despising the gifts of [[Providence]], and teaching him to trample them
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Tenant of Wildfell Hall — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/desire,motif/love,motif/nature,motif/rose,motif/silence,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/fear,concept/hope,concept/nature,concept/providence,concept/revenge,concept/temptation,character/richard"></span>
 
 
 under his feet.”
@@ -39639,7 +39639,7 @@ in spirit.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="The Tenant of Wildfell Hall — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="The Tenant of Wildfell Hall — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/fool,motif/desire,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/night,motif/road,motif/rose,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/beauty,concept/fear,concept/freedom,form/sketch,setting/london,character/arthur,character/bottom"></span>
 
 
 CHAPTER V
@@ -39991,7 +39991,7 @@ squeezed her hand with a cordial, not a spiteful pressure.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/rose,motif/time,motif/water,motif/well,concept/fear,concept/friendship,character/arthur"></span>
 
 
 CHAPTER VI
@@ -40189,7 +40189,7 @@ the [[rolling]] of the meadow-land, and the repairing of a hedge in the
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/hill,motif/home,motif/horse,motif/love,motif/moon,motif/nakedness,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,form/sketch,character/arthur"></span>
 
 
 valley, I saw Mrs. Graham down by the brook, with a [[Sketch|sketch]]-book in her
@@ -40431,7 +40431,7 @@ Instead of his being deeply offended at this, as I more than half
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Tenant of Wildfell Hall — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/rose,motif/time,motif/well,concept/doubt,concept/self"></span>
 
 
 expected he would, the first start of surprise, at the audacious
@@ -40649,7 +40649,7 @@ does your happy wife exact no more?
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/hill,motif/love,motif/rose,motif/secrets,motif/snow,motif/summer,motif/time,motif/well,motif/window,concept/body,concept/hope,character/arthur"></span>
 
 
 CHAPTER VII
@@ -40853,7 +40853,7 @@ might sit watching at these windows all day long, and never see so much
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/road,motif/rose,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/loneliness,concept/solitude,concept/truth,form/sketch,character/arthur,character/gilbert_markham,character/richard"></span>
 
 
 as an old woman carrying her eggs to market.”
@@ -41083,7 +41083,7 @@ fragrance; or through pleasant fields and lanes, all glorious in the
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/flowers,motif/hill,motif/road,motif/rose,motif/soul,motif/time,concept/doubt,concept/truth,form/sketch,character/arthur,character/richard"></span>
 
 
 sweet [[Flowers|flowers]] and brilliant verdure of delightful May. It was true,
@@ -41275,7 +41275,7 @@ Miss Wilson, I [[Rose|rose]] and cannily slipped away. A few rapid strides, and
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Tenant of Wildfell Hall — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/journey,motif/nature,motif/night,motif/road,motif/rose,motif/silence,motif/time,motif/well,motif/wind,concept/conscience,concept/honour,concept/melancholy,concept/nature,form/sketch,character/arthur,character/richard"></span>
 
 
 a little active clambering, soon brought me to the place where she was
@@ -41555,7 +41555,7 @@ almost forgave her.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="The Tenant of Wildfell Hall — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/fool,motif/blood,motif/death,motif/garden,motif/grave,motif/home,motif/leaves,motif/marriage,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/fear,concept/friendship,concept/madness,concept/pride,concept/revenge,concept/vanity,form/sketch,setting/london,character/arthur"></span>
 
 
 CHAPTER VIII
@@ -41965,7 +41965,7 @@ hopes and fears—my serious cogitations and resolves.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/love,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/truth"></span>
 
 
 CHAPTER IX
@@ -42219,7 +42219,7 @@ meal of it, for we dined early. On taking my seat, I had [[Rose]] on one
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/rose,motif/soul,motif/time,motif/well,concept/doubt,concept/imagination,concept/self,character/arthur"></span>
 
 
 side of me and an empty chair on the other.
@@ -42465,7 +42465,7 @@ offences of a too rude, too uncongenial world. Wretch that I was to
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/flowers,motif/garden,motif/poison,motif/prison,motif/rose,motif/soul,motif/time,concept/solitude,character/arthur,character/bottom"></span>
 
 
 harbour that detestable idea for a moment! Did I not know Mrs. Graham?
@@ -42675,7 +42675,7 @@ of my remark.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Tenant of Wildfell Hall — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/garden,motif/grave,motif/home,motif/leaves,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/jealousy,concept/nature,concept/vanity,character/bottom"></span>
 
 
 mother too, if you included _her_ in your animadversions.”
@@ -42975,7 +42975,7 @@ I had wounded him to the quick; and I was glad of it.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Tenant of Wildfell Hall — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Tenant of Wildfell Hall — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/child,motif/flowers,motif/garden,motif/hill,motif/horse,motif/love,motif/rose,motif/summer,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/pride,concept/truth,character/arthur"></span>
 
 
 CHAPTER X
@@ -43405,7 +43405,7 @@ he pleased.
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="The Tenant of Wildfell Hall — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="The Tenant of Wildfell Hall — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/child,motif/desire,motif/dreams,motif/home,motif/rose,motif/soul,motif/time,motif/well,motif/winter,concept/fear,concept/friendship,concept/hope,form/novel,character/arthur,character/helen"></span>
 
 
 CHAPTER XI
@@ -43869,7 +43869,7 @@ chaos of conflicting passions.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/garden,motif/journey,motif/moon,motif/silence,motif/summer,motif/time,motif/window,concept/doubt,concept/hope,concept/resignation,concept/truth,concept/wonder,character/arthur,character/helen"></span>
 
 
 CHAPTER XII
@@ -44107,7 +44107,7 @@ no [[Doubt|doubt]] they will—they will not turn it much to my advantage.” It
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/grave,motif/hill,motif/love,motif/nature,motif/night,motif/silence,motif/soul,motif/time,concept/faith,concept/friendship,concept/honour,concept/nature,concept/union,character/helen"></span>
 
 
 with what the vicar would doubtless have called a savage sort of smile
@@ -44373,7 +44373,7 @@ I descended the [[Hill|hill]], would almost fill a volume in itself. But before
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/death,motif/fire,motif/garden,motif/home,motif/moon,motif/night,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/despair,concept/suffering,concept/temptation,character/helen"></span>
 
 
 I was half-way down, a sentiment of strong sympathy for her I had left
@@ -44585,7 +44585,7 @@ he looks. Oh, gracious! what is the matter?”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Tenant of Wildfell Hall — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/dawn,motif/dreams,motif/night,motif/rose,motif/sleep,motif/window,concept/melancholy"></span>
 
 
 the one she held in her hand.
@@ -44715,7 +44715,7 @@ moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="The Tenant of Wildfell Hall — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="archetype/ghost,motif/fire,motif/hill,motif/home,motif/horse,motif/love,motif/nature,motif/pain,motif/rose,motif/time,motif/wheel,motif/window,concept/nature,concept/pride,concept/resignation,concept/truth,concept/wonder,character/arthur"></span>
 
 
 CHAPTER XIII
@@ -45059,7 +45059,7 @@ rendered doubly miserable for the remainder of the day.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/lightning,motif/road,motif/silence,motif/soul,motif/time,concept/conscience,concept/despair,concept/fear,concept/freedom,concept/suffering"></span>
 
 
 CHAPTER XIV
@@ -45257,7 +45257,7 @@ was wistfully gazing—half in helpless anxiety, and half in hopeless
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/clock,motif/home,motif/horse,motif/road,motif/rose,motif/water,motif/well,concept/body,concept/fear,concept/imagination,concept/truth"></span>
 
 
 abandonment to his fate.
@@ -45467,7 +45467,7 @@ This shocked me a trifle, as you may suppose; but I was comforted to
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Tenant of Wildfell Hall — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/death,motif/horse,motif/rose,motif/time,motif/well"></span>
 
 
 hear that he had frightfully fractured his skull and broken a leg; for,
@@ -45623,7 +45623,7 @@ intention to criminate me.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/hill,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/wind,concept/despair,concept/faith,concept/hope,concept/nature,character/arthur,character/helen"></span>
 
 
 CHAPTER XV
@@ -45861,7 +45861,7 @@ any rate, it will give a breath of excitement to the life she has
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/dreams,motif/fire,motif/garden,motif/love,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/self,concept/temptation,concept/truth,character/helen"></span>
 
 
 doomed to stagnation, and may calm with certainty some agitating
@@ -46103,7 +46103,7 @@ resting on her closed hand, her eyes—no longer burning with anger, but
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Tenant of Wildfell Hall — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/home,motif/leaves,motif/silence,motif/soul,motif/tears,motif/window,concept/honour,concept/hope,character/helen"></span>
 
 
 gleaming with restless excitement—sometimes glancing at me while I
@@ -46271,7 +46271,7 @@ reserve its commencement for another chapter.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/love,motif/marriage,motif/silence,motif/time,motif/well,concept/beauty,concept/fear,concept/hope,concept/wonder,form/sketch,character/helen"></span>
 
 
 CHAPTER XVI
@@ -46491,7 +46491,7 @@ am sorry to see you treat the matter in that light way. Believe me,
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/lover,motif/dance,motif/home,motif/love,motif/night,motif/silence,motif/time,concept/fear,concept/freedom,concept/honour,concept/hope,concept/truth,concept/vanity,concept/wonder,setting/london,character/helen,character/speed"></span>
 
 
 _matrimony is a serious thing_.” And she spoke it _so_ seriously, that
@@ -46689,7 +46689,7 @@ Huntingdon, the son of a late friend of my uncle’s. He asked me to
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/marriage,motif/night,motif/well,motif/window,concept/doubt,concept/freedom,concept/hope,concept/longing,concept/wonder,character/helen"></span>
 
 
 the remainder of my stay, which was not long, for my aunt, as usual,
@@ -46975,7 +46975,7 @@ is in no particular hurry, for he has little [[Doubt|doubt]] of your acceptance;
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="The Tenant of Wildfell Hall — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth,concept/wonder,character/helen"></span>
 
 
 and I want to speak with you. Tell me, my dear, what are your
@@ -47309,7 +47309,7 @@ offended, no [[Doubt|doubt]]; but surely it was not my fault.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/desire,motif/rose,motif/time,motif/well"></span>
 
 
 CHAPTER XVII
@@ -47511,7 +47511,7 @@ like to treat him with rudeness, as I was now his guest, and had just
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/rose,motif/well,motif/window,concept/freedom,concept/honour,character/helen"></span>
 
 
 been enjoying his hospitality; and I was no hand at a polite but
@@ -47785,7 +47785,7 @@ you could not [[Love|love]]?”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Tenant of Wildfell Hall — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/road,motif/well,concept/nature,concept/truth,concept/wonder,character/helen"></span>
 
 
 “He is a much better man than you think him.”
@@ -48007,7 +48007,7 @@ continue to think so, till we meet again—if ever that should be. I
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/dreams,motif/love,motif/memory,motif/nature,motif/spring,motif/time,motif/window,concept/hope,concept/imagination,concept/nature,concept/truth,concept/wonder,setting/london,character/lord_lowborough"></span>
 
 
 CHAPTER XVIII
@@ -48207,7 +48207,7 @@ too sober and gentlemanly in his demeanour to merit such suspicions. He
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="topos/quest,motif/leaves,motif/love,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/hope,concept/suffering,concept/vanity,concept/wonder,character/helen,character/lord_lowborough"></span>
 
 
 is a tall, thin, gloomy-looking man, apparently between thirty and
@@ -48421,7 +48421,7 @@ will.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/leaves,motif/nature,motif/night,motif/rose,motif/sleep,motif/spring,motif/summer,motif/window,concept/faith,concept/freedom,concept/nature,concept/pride,concept/self_sufficiency,character/helen"></span>
 
 
 I made a desperate effort to free my hand from his grasp.
@@ -48637,7 +48637,7 @@ few seconds; “and a very fitting study for a young lady. [[Spring]] just
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,archetype/lover,motif/blood,motif/death,motif/fire,motif/love,motif/noon,motif/road,motif/stars,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/body,concept/hope,concept/pride,concept/resignation,character/helen"></span>
 
 
 opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
@@ -48869,7 +48869,7 @@ than I like to acknowledge to myself. [[Pride]] refuses to aid me. It has
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="The Tenant of Wildfell Hall — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/love,concept/doubt,concept/fear,concept/suffering,character/lord_lowborough"></span>
 
 
 brought me into the scrape, and will not help me out of it.
@@ -48965,7 +48965,7 @@ were—gone.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Tenant of Wildfell Hall — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Tenant of Wildfell Hall — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/tyrant,motif/memory,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/hope,concept/self,concept/wonder,character/lord_lowborough"></span>
 
 
 CHAPTER XIX
@@ -49203,7 +49203,7 @@ head, for I knew Mr. Huntingdon was standing near me, and I knew by the
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Tenant of Wildfell Hall — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Tenant of Wildfell Hall — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/rose,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/nature,concept/pride,character/helen"></span>
 
 
 sound of his voice, as he spoke in answer to some remark of Lord
@@ -49503,7 +49503,7 @@ to win tired [[Nature|nature]]’s sweet restorer.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/home,motif/love,motif/rose,motif/soul,motif/well,concept/doubt,concept/fear,concept/imagination,concept/solitude,concept/wonder,character/arthur,character/helen,character/sunday"></span>
 
 
 CHAPTER XX
@@ -49741,7 +49741,7 @@ breakfast, when Mr. Huntingdon called my uncle aside, no [[Doubt|doubt]] to make
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/death,motif/fire,motif/love,motif/rose,motif/time,motif/well,concept/conscience,concept/self,histref/bible,character/christ,character/helen,character/lord_lowborough,character/walter_hargrave"></span>
 
 
 his proposals, and she beckoned me into another room, where she once
@@ -49963,7 +49963,7 @@ but it is a glorious thought to cherish in one’s own heart, and I would
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Tenant of Wildfell Hall — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/home,motif/love,motif/prayer,motif/time,motif/well,histref/bible"></span>
 
 
 not part with it for all the world can give!”
@@ -50143,7 +50143,7 @@ disregarded; and no conclusions on that particular are come to yet.
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="The Tenant of Wildfell Hall — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="The Tenant of Wildfell Hall — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="archetype/lover,motif/birds,motif/blood,motif/fire,motif/love,motif/pain,motif/silence,motif/time,motif/well,concept/beauty,concept/body,concept/despair,concept/honour,concept/hope,concept/revenge,concept/truth,concept/union,concept/wonder,character/arthur,character/arthur_huntingdon,character/helen,character/lord_lowborough,character/witch"></span>
 
 
 CHAPTER XXI
@@ -50531,7 +50531,7 @@ restraint. What _shall_ I do without him, I repeat?
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/dawn,motif/home,motif/love,motif/marriage,motif/silence,motif/time,motif/well,concept/despair,concept/doubt,concept/fear,concept/poverty,concept/self,setting/court,setting/london,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 CHAPTER XXII
@@ -50743,7 +50743,7 @@ him [[Home|home]]—that is, to our club—for he was as submissive as a [[Child
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/ghost,motif/night,motif/poison,motif/prison,motif/rose,motif/silence,motif/water,motif/well,concept/body,concept/renunciation,concept/wonder"></span>
 
 
 plied him with brandy-and-[[Water|water]] till he began to look rather
@@ -51005,7 +51005,7 @@ own thoughts.’ And he folded his arms, and leant back in his chair; so
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,motif/love,motif/night,motif/poison,motif/time,motif/well,concept/hope,concept/melancholy,concept/suffering,character/bottom,character/helen,character/macbeth"></span>
 
 
 we let him be. But I left the glass by him; and, after awhile, Grimsby
@@ -51211,7 +51211,7 @@ to drinking without being miserable one-half his days and mad the
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/home,motif/love,motif/night,motif/time,motif/well,concept/conscience,concept/despair,concept/doubt,concept/exile,concept/hope,concept/melancholy,concept/reform,concept/self,character/helen,character/lord_lowborough"></span>
 
 
 other; besides, I like to enjoy my life at all sides and ends, which
@@ -51449,7 +51449,7 @@ encouragement to his timid advances. Then, indeed, he began to [[Hope|hope]] for
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_05" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_05" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/lover,motif/dawn,motif/death,motif/horse,motif/love,motif/mirror,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/deception,concept/despair,concept/doubt,concept/hope,concept/poverty,concept/truth,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 a [[Dawn|dawn]] of brighter days; and if, for a while, I darkened his prospects
@@ -51675,7 +51675,7 @@ with a laugh that savoured more of malice than of mirth,—
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_06" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_06" data-title="The Tenant of Wildfell Hall — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/love,motif/rose,motif/tears,motif/time,motif/well,concept/hope,concept/melancholy,character/arthur,character/arthur_huntingdon,character/helen,character/lord_lowborough"></span>
 
 
 “Why, [[Helen]]! what _have_ you been doing so long? I came to tell you my
@@ -51843,7 +51843,7 @@ part of myself?
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="The Tenant of Wildfell Hall — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="The Tenant of Wildfell Hall — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/fire,motif/home,motif/love,motif/pain,motif/poison,motif/soul,motif/time,motif/well,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/hope,concept/reform,concept/suffering,concept/temptation,form/fable,setting/italy,setting/paris,character/arthur,character/helen,character/sunday"></span>
 
 
 CHAPTER XXIII
@@ -52259,7 +52259,7 @@ than you do.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/love,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/honour,concept/hope,concept/jealousy,concept/wonder,character/arthur,character/helen"></span>
 
 
 CHAPTER XXIV
@@ -52491,7 +52491,7 @@ stood for some minutes looking out upon the pleasing prospect of sullen
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/grave,motif/horse,motif/night,motif/rose,motif/silence,motif/sleep,motif/tears,motif/time,concept/fear,concept/hope,concept/revenge,concept/self,setting/london,character/arthur,character/helen"></span>
 
 
 grey clouds, streaming rain, soaking lawn, and dripping leafless trees,
@@ -52717,7 +52717,7 @@ willing it should be something else.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Tenant of Wildfell Hall — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/horse,motif/journey,motif/love,motif/memory,motif/rose,motif/tears,motif/time,motif/well,motif/window,setting/london,character/arthur,character/helen,character/richard"></span>
 
 
 “No,” was the answer, and I shut the door and departed. I saw nothing
@@ -53001,7 +53001,7 @@ happy yet.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/longing,concept/pride,concept/truth,setting/london,character/arthur,character/helen"></span>
 
 
 CHAPTER XXV
@@ -53229,7 +53229,7 @@ Oh, it is cruel to leave me so long [[Alone|alone]]! He knows I have no one but
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/home,motif/love,motif/soul,motif/time,motif/well,concept/courage,concept/fear,concept/loneliness,concept/solitude,concept/truth,setting/london,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 Rachel to speak to, for we have no neighbours here, except the
@@ -53417,7 +53417,7 @@ cannot bear to disappoint her. I do object sometimes, and tell her what
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/lover,archetype/shadow,motif/dust,motif/flowers,motif/insects,motif/love,motif/moon,motif/nature,motif/night,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/honour,concept/hope,concept/nature,setting/london,character/helen"></span>
 
 
 I feel, but you don’t know _how_ she talks. Mr. Hattersley, you know,
@@ -53599,7 +53599,7 @@ heart to do it, for I think he is ashamed of himself—he must be so
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Tenant of Wildfell Hall — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/desire,motif/home,motif/love,motif/marriage,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,setting/london,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 indeed, and such inquiries could not fail to be painful to both. My
@@ -53825,7 +53825,7 @@ end of her days.
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="The Tenant of Wildfell Hall — Chapter 26" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="The Tenant of Wildfell Hall — Chapter 26" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/child,motif/desire,motif/home,motif/time,motif/well,concept/doubt,concept/fear,concept/jealousy,concept/poverty,concept/pride,concept/vanity,character/helen,character/lord_lowborough"></span>
 
 
 CHAPTER XXVI
@@ -54027,7 +54027,7 @@ difficulty in bending to her purposes.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/fire,motif/lightning,motif/love,motif/night,motif/rose,motif/time,motif/well,concept/fear,concept/humility,concept/jealousy,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 CHAPTER XXVII
@@ -54241,7 +54241,7 @@ But the whole system of your conduct to Lady Lowborough is not
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="The Tenant of Wildfell Hall — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/dust,motif/love,motif/marriage,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/honour,concept/longing,concept/nature,concept/wonder,character/arthur,character/hector,character/helen,character/lord_lowborough"></span>
 
 
 referable to wine; and this [[Night|night]] you knew perfectly [[Well|well]] what you were
@@ -54581,7 +54581,7 @@ it.” And then I turned the conversation.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="The Tenant of Wildfell Hall — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="The Tenant of Wildfell Hall — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="archetype/child,archetype/lover,motif/home,motif/love,motif/nature,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/fear,concept/nature,concept/self,concept/solitude,concept/temptation,concept/truth,setting/london,character/arthur,character/nurse"></span>
 
 
 CHAPTER XXVIII
@@ -54821,7 +54821,7 @@ learnt, at last, to disregard his promises.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="The Tenant of Wildfell Hall — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="The Tenant of Wildfell Hall — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/great_house,motif/home,motif/time,motif/water,motif/well,concept/despair,concept/exile,concept/loneliness,concept/solitude,concept/wonder,setting/london,character/arthur,character/nurse"></span>
 
 
 CHAPTER XXIX
@@ -55049,7 +55049,7 @@ have but sipped and tasted, he drains the cup to the dregs; and if ever
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="The Tenant of Wildfell Hall — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="The Tenant of Wildfell Hall — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/flowers,motif/home,motif/horse,motif/road,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/friendship,concept/madness,concept/truth,character/arthur,character/nurse,character/walter_hargrave"></span>
 
 
 for a moment I have sought to drown the voice of reflection in [[Madness|madness]]
@@ -55339,7 +55339,7 @@ he should feel it too.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/journey,motif/poison,motif/sleep,motif/time,motif/water,motif/well,concept/body,concept/exile,concept/resignation,character/arthur,character/helen"></span>
 
 
 CHAPTER XXX
@@ -55605,7 +55605,7 @@ everything but me.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,archetype/tyrant,motif/death,motif/desire,motif/home,motif/jewel,motif/night,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/longing,concept/wonder,setting/london,character/arthur,character/helen"></span>
 
 
 “[[Well]]! that passes everything! After all the wear and tear that I’ve
@@ -55851,7 +55851,7 @@ misery, I rather _feel_ it than _see_ it expressed in her letters.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/beauty,concept/conversion,concept/despair,concept/doubt,concept/fear,concept/hope,concept/self,character/arthur,character/helen"></span>
 
 
 “But she abuses _me;_ and no [[Doubt|doubt]] you helped her.”
@@ -56047,7 +56047,7 @@ humbled myself to intimate to him, in private, my apprehensions of
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="The Tenant of Wildfell Hall — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,motif/frost,motif/home,motif/love,motif/nature,motif/pain,motif/spring,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/nature,concept/truth,concept/union,setting/london,setting/mountains,character/arthur"></span>
 
 
 would not encourage it. He was pleased with this mark of confidence,
@@ -56267,7 +56267,7 @@ gladness, awakens now far other anticipations by its return.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/death,motif/home,motif/love,motif/time,motif/well,concept/body,concept/hope,concept/self,concept/solitude,setting/london,character/arthur,character/helen"></span>
 
 
 CHAPTER XXXI
@@ -56479,7 +56479,7 @@ witnessed any symptom of pique on his part, or renewed attempts at
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/love,motif/night,motif/storm,motif/well,concept/body,concept/friendship,concept/honour,concept/pride,concept/providence,concept/wonder,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 conquest upon hers.
@@ -56729,7 +56729,7 @@ you in the midst of those lawless roysterers; and I endeavoured to
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/time,motif/well,concept/body,concept/fear,concept/hope,character/arthur,character/lord_lowborough"></span>
 
 
 persuade Mr. Huntingdon to think of you too; but to no purpose: I [[Fear|fear]]
@@ -56949,7 +56949,7 @@ to her, being occupied in vociferously abusing and bullying his host.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="The Tenant of Wildfell Hall — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/death,motif/home,motif/pain,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/fear,concept/hope,concept/self,concept/wonder,character/arthur,character/lord_lowborough,character/speed"></span>
 
 
 chair, “which of these three ‘bold, manly spirits’ would you have me to
@@ -57285,7 +57285,7 @@ admiration.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/love,motif/well,concept/hope,concept/self,concept/truth,concept/vanity,concept/wonder,form/novel,character/arthur,character/helen"></span>
 
 
 CHAPTER XXXII
@@ -57523,7 +57523,7 @@ Milicent’s own heart told her how much it cost me to make this
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/animals,motif/cross,motif/fire,motif/horse,motif/love,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/resignation,form/sketch,character/arthur,character/helen"></span>
 
 
 acknowledgment; and, with a childlike impulse, she expressed her
@@ -57739,7 +57739,7 @@ appeared to twist them unmercifully.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/tyrant,motif/death,motif/nature,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/temptation"></span>
 
 
 through her [[Tears|tears]], just putting up her hand to his, in token that he
@@ -57985,7 +57985,7 @@ hereafter find to your cost) and to all connected with you, most
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/well,concept/body,concept/reconciliation,concept/reform,concept/truth,concept/wonder,setting/london,character/arthur,character/helen,character/walter_hargrave"></span>
 
 
 especially your wife. But, indeed, it is nonsense to talk about
@@ -58259,7 +58259,7 @@ the nursery.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_05" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_05" data-title="The Tenant of Wildfell Hall — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/time,motif/well,concept/doubt,concept/fear,concept/hope,character/arthur"></span>
 
 
 [[Arthur]] by the hand.
@@ -58365,7 +58365,7 @@ continue?
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/innocent,motif/autumn,motif/death,motif/love,motif/moon,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/truth,character/arthur,character/helen"></span>
 
 
 CHAPTER XXXIII
@@ -58599,7 +58599,7 @@ she sighed and continued: “But to tell you the [[Truth|truth]], ma’am, I don
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/time,motif/well,concept/fear,concept/hope,concept/humility,concept/self,concept/wonder,character/arthur,character/nurse,character/queen"></span>
 
 
 like master’s ways of going on.”
@@ -58839,7 +58839,7 @@ do—she will, by heaven! I see it in her eye.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/fool,motif/leaves,motif/love,motif/moon,motif/night,motif/rose,motif/water,motif/well,motif/wind,concept/truth,character/lord_lowborough,character/speed"></span>
 
 
 “Hold your tongue, will you?” said I: his talk distracted me, for I was
@@ -59119,7 +59119,7 @@ and brushwood that surrounded me, and looking up at the moonlit sky,
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,motif/leaves,motif/love,motif/moon,motif/night,motif/prayer,motif/rose,motif/silence,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/courage,concept/truth,character/arthur,character/helen"></span>
 
 
 through the scant foliage above. It seemed all dim and quivering now to
@@ -59347,7 +59347,7 @@ I shall be delivered from your presence, and you from mine.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_05" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 5)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_05" data-title="The Tenant of Wildfell Hall — Chapter 33 (part 5)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/fear,concept/guilt,character/nurse"></span>
 
 
 the talk of the country for your fastidious caprices?”
@@ -59509,7 +59509,7 @@ their scorn.
 
 
 
-<span class="atom-split" data-atom="chapter_34" data-title="The Tenant of Wildfell Hall — Chapter 34" data-chapter="Chapter 34" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34" data-title="The Tenant of Wildfell Hall — Chapter 34" data-chapter="Chapter 34" data-kind="chapter" data-tags="archetype/shadow,motif/dawn,motif/fire,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/fear,concept/friendship,concept/guilt,concept/hope,concept/mercy,character/helen,character/lord_lowborough"></span>
 
 
 CHAPTER XXXIV
@@ -59911,7 +59911,7 @@ pure necessity demanded.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/nature,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/conscience,concept/fear,concept/nature,concept/self,character/arthur,character/helen"></span>
 
 
 CHAPTER XXXV
@@ -60139,7 +60139,7 @@ This was spoken in a low, earnest, melting tone, as he bent over me. I
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="The Tenant of Wildfell Hall — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/desire,motif/road,motif/rose,motif/silence,motif/sleep,motif/well,motif/wind,motif/window,concept/doubt,concept/forgiveness,histref/reformation,character/arthur,character/helen,character/lord_lowborough,character/nurse"></span>
 
 
 now raised my head; and steadily confronting his gaze, I answered
@@ -60411,7 +60411,7 @@ Thank heaven, they are all going to-morrow.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="The Tenant of Wildfell Hall — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="The Tenant of Wildfell Hall — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="archetype/child,motif/home,motif/love,motif/rose,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/conscience,concept/despair,concept/fear,concept/friendship,concept/hope,concept/indolence,concept/pride,concept/providence,concept/reconciliation,concept/self,concept/solitude,concept/union,character/arthur"></span>
 
 
 CHAPTER XXXVI
@@ -60763,7 +60763,7 @@ the name of the Lord, and stay upon his God!”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/autumn,motif/grave,motif/home,motif/horse,motif/love,motif/nature,motif/time,motif/water,motif/well,concept/doubt,concept/nature,concept/self,setting/london,character/arthur,character/nurse"></span>
 
 
 CHAPTER XXXVII
@@ -60953,7 +60953,7 @@ offended, he can best tell you himself what it is about.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/fire,motif/garden,motif/love,motif/nature,motif/rose,motif/spring,motif/time,motif/well,motif/window,concept/eternity,concept/fear,concept/friendship,concept/hope,concept/melancholy,concept/nature,concept/revenge,character/arthur,character/lord_lowborough"></span>
 
 
 out of the [[Window|window]]: “he’s only in the [[Garden|garden]]—Walter!”
@@ -61227,7 +61227,7 @@ me.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/autumn,motif/garden,motif/horse,motif/love,motif/night,motif/time,motif/well,motif/window,concept/martyrdom,concept/melancholy,concept/pride,character/arthur"></span>
 
 
 other.”
@@ -61429,7 +61429,7 @@ second, if you will be such a [[Fool|fool]], I can’t hinder it.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="The Tenant of Wildfell Hall — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/nature,motif/silence,motif/soul,motif/tears,motif/time,concept/conscience,concept/faith,concept/fanaticism,concept/hope,concept/nature,concept/pride,concept/self,concept/suffering,concept/truth,setting/paris"></span>
 
 
 “If you affect,” replied he, earnestly, “to regard as folly the best,
@@ -61657,7 +61657,7 @@ I thank God for this deliverance!
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/cross,motif/rose,motif/time,motif/window,motif/winter,concept/conscience,concept/truth,character/lord_lowborough"></span>
 
 
 CHAPTER XXXVIII
@@ -61887,7 +61887,7 @@ though I knew not how to attempt it.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/pain,motif/rose,motif/time,motif/window,concept/courage,concept/fear,concept/nature,character/lord_lowborough"></span>
 
 
 “She is a wicked woman,” I said. “She has basely deceived and betrayed
@@ -62131,7 +62131,7 @@ both, it would be an _inexpressible_ relief to me, if—”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="The Tenant of Wildfell Hall — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/villain,motif/home,motif/journey,motif/love,motif/night,motif/well,motif/window,concept/faith,concept/temptation,character/arthur,character/bottom,character/lord_lowborough"></span>
 
 
 “Just so! [[Well]] then,—”
@@ -62367,7 +62367,7 @@ again, and feel rather more at my ease.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,motif/cross,motif/dawn,motif/death,motif/home,motif/journey,motif/rose,motif/time,concept/despair,concept/poverty,histref/new_england,character/arthur,character/nurse"></span>
 
 
 CHAPTER XXXIX
@@ -62555,7 +62555,7 @@ and my resolves to him? No, no: even if I told him _all_ my grievances,
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/villain,motif/home,motif/marriage,motif/night,motif/time,motif/well,concept/madness,concept/wonder,character/arthur,character/lord_lowborough"></span>
 
 
 which I should be very reluctant to do, he would be certain to
@@ -62757,7 +62757,7 @@ understanding or appreciating your real excellences. Huntingdon,
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/shadow,archetype/villain,motif/blood,motif/love,motif/well,motif/window,concept/conscience,concept/doubt,concept/wonder,character/helen,character/nurse"></span>
 
 
 meanwhile, sat quietly drinking his wine,—or looking smilingly into his
@@ -63037,7 +63037,7 @@ me. I snatched up my palette-knife and held it against him. This
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/night,motif/rose,motif/well,motif/window,concept/honour,concept/hope,concept/imagination,character/arthur"></span>
 
 
 startled him: he stood and gazed at me in astonishment; I daresay I
@@ -63331,7 +63331,7 @@ possess me to make such a request of such a man I cannot tell; but
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="The Tenant of Wildfell Hall — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/dawn,motif/love,motif/tears,motif/time,motif/well,motif/winter,concept/despair,concept/exile,concept/hope,concept/madness,character/arthur"></span>
 
 
 drowning men catch at straws: they had driven me desperate between
@@ -63557,7 +63557,7 @@ such a parent?
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="The Tenant of Wildfell Hall — Chapter 40" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="The Tenant of Wildfell Hall — Chapter 40" data-chapter="Chapter 40" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/fool,motif/dust,motif/fire,motif/love,motif/night,motif/rose,motif/secrets,motif/silence,motif/time,motif/water,motif/well,concept/despair,concept/eternity,concept/faith,concept/hope,concept/self,concept/temptation,character/arthur,character/nurse"></span>
 
 
 CHAPTER XL
@@ -63921,7 +63921,7 @@ perish?”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/decay,motif/home,motif/love,motif/nature,motif/spring,motif/swallow,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/nature,character/arthur"></span>
 
 
 CHAPTER XLI
@@ -64107,7 +64107,7 @@ shall stay many days this [[Time|time]], and there shall be more candour and
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/soul,motif/time,concept/fear,concept/solitude,form/sketch,setting/london,character/arthur,character/helen,character/lord_lowborough"></span>
 
 
 cordiality between us than ever there was before, since our early
@@ -64329,7 +64329,7 @@ merely because I am giddy and young, and cannot at present reconcile
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="The Tenant of Wildfell Hall — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/doubt,concept/providence,concept/slavery,setting/london"></span>
 
 
 myself to the thoughts of [[Marriage|marriage]] under any circumstances: but by next
@@ -64473,7 +64473,7 @@ be careful whom you marry—or rather, you must avoid it altogether.”
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="The Tenant of Wildfell Hall — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="The Tenant of Wildfell Hall — Chapter 42" data-chapter="Chapter 42" data-kind="chapter" data-tags="archetype/tyrant,motif/death,motif/desire,motif/fire,motif/garden,motif/home,motif/love,motif/pain,motif/seasons,motif/silence,motif/snow,motif/soul,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/endurance,concept/fear,concept/hope,concept/mercy,concept/reform,concept/temptation,concept/truth,form/sketch,setting/london,character/arthur,character/bottom,character/helen"></span>
 
 
 CHAPTER XLII
@@ -64893,7 +64893,7 @@ and I have one bright spot, at least, whereon to rest my thoughts.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/childhood,motif/love,motif/nightingale,motif/time,motif/well,concept/education,concept/truth,character/arthur,character/nurse"></span>
 
 
 CHAPTER XLIII
@@ -65095,7 +65095,7 @@ other means of recompensing her for this sudden dismissal after her
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/tears,motif/time,motif/well,concept/doubt,concept/truth,character/arthur,character/nurse"></span>
 
 
 long and faithful service: a circumstance I most deeply regretted, but
@@ -65319,7 +65319,7 @@ shall his [[Innocent|innocent]] lips be defiled by their contaminating kisses, o
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="The Tenant of Wildfell Hall — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/dawn,motif/journey,motif/sleep,motif/time,motif/well,concept/hope,character/arthur"></span>
 
 
 his young ears polluted by their words. But shall we escape in safety?
@@ -65413,7 +65413,7 @@ any other, except my own, which I dare not resume.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/fire,motif/journey,motif/night,motif/prison,motif/road,motif/rose,motif/stars,motif/time,motif/well,motif/window,concept/despair,concept/doubt,concept/fear,concept/guilt,concept/hope,concept/identity,setting/court,character/arthur"></span>
 
 
 CHAPTER XLIV
@@ -65609,7 +65609,7 @@ while we disencumbered ourselves of our travelling-gear, and took a
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/dawn,motif/dreams,motif/garden,motif/home,motif/marriage,motif/memory,motif/sleep,motif/time,motif/well,concept/beauty,concept/freedom,concept/hope,concept/solitude,concept/truth,character/arthur"></span>
 
 
 hasty survey of our new abode. Besides the kitchen, there were two
@@ -65801,7 +65801,7 @@ of my retreat. He has been in person to Staningley, seeking redress for
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="The Tenant of Wildfell Hall — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/mercy,concept/self,character/arthur,character/sunday"></span>
 
 
 his grievances—expecting to hear of his victims, if not to find them
@@ -65995,7 +65995,7 @@ for any eyes but her own, and she had done [[Well|well]] to keep it from me.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/fire,motif/frost,motif/nature,motif/rose,motif/sleep,motif/storm,motif/summer,motif/time,motif/well,motif/window,concept/history,concept/honour,concept/nature,form/history,character/arthur,character/helen"></span>
 
 
 CHAPTER XLV
@@ -66223,7 +66223,7 @@ firmness, in which this was spoken. Now, I raised her hand to my lips,
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/love,motif/tears,motif/time,motif/well,concept/courage,character/helen"></span>
 
 
 and fervently kissed it again and again; for [[Tears|tears]] prevented any other
@@ -66455,7 +66455,7 @@ profligate scoundrel has run through his career, you will give your
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/pain,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/madness,concept/solitude,concept/truth,character/helen"></span>
 
 
 hand to me—I’ll wait till then.”
@@ -66675,7 +66675,7 @@ whole heart and [[Soul|soul]], and [[Love|love]] you beyond every other creature
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/garden,motif/hill,motif/love,motif/nature,motif/pain,motif/tears,motif/time,motif/wind,concept/doubt,concept/faith,concept/hope,concept/melancholy,concept/nature,concept/suffering,character/arthur,character/bottom,character/helen"></span>
 
 
 not be myself; and though, if ever I win heaven at all, I must, I know,
@@ -66881,7 +66881,7 @@ opened the door told me his master was very ill, and seemed to think it
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_05" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_05" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/time,motif/well,concept/fear,concept/truth"></span>
 
 
 doubtful whether he would be able to see me. I was not going to be
@@ -67105,7 +67105,7 @@ weakness as he held it out, and dropped before I had [[Time|time]] to catch it
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_06" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 6)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_06" data-title="The Tenant of Wildfell Hall — Chapter 45 (part 6)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/home,motif/time,concept/courage,concept/fear,concept/madness,concept/temptation,concept/truth"></span>
 
 
 and give it a hearty squeeze, which he had not the strength to return.
@@ -67235,7 +67235,7 @@ posted the letter on my way [[Home|home]], most manfully resisting the
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/home,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/reconciliation,character/helen"></span>
 
 
 CHAPTER XLVI
@@ -67459,7 +67459,7 @@ asked a few questions concerning you, and seemed satisfied with my
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/tears,motif/well,concept/doubt,concept/fear,concept/imagination,concept/revenge,concept/truth,concept/union"></span>
 
 
 brief answers, wherein she showed herself wiser than her friend; and I
@@ -67707,7 +67707,7 @@ Miss Wilson if it _were_ so, you will do [[Well|well]] to be cautious, till you
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="The Tenant of Wildfell Hall — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/well,concept/conscience"></span>
 
 
 have proved it to be otherwise.”
@@ -67841,7 +67841,7 @@ any evil design in the matter.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/home,motif/horse,motif/rose,motif/time,motif/well,concept/fear,concept/hope,concept/reconciliation"></span>
 
 
 CHAPTER XLVII
@@ -68089,7 +68089,7 @@ at once removed.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/garden,motif/grave,motif/horse,motif/leaves,motif/night,motif/time,motif/window,histref/reformation,character/arthur,character/helen,character/helen_huntingdon,character/nurse"></span>
 
 
 “I suppose I mayn’t know where she is?” said I, as I dismounted, and
@@ -68359,7 +68359,7 @@ his directions, he said, “No, it isn’t [[Nurse|nurse]]; it’s Alice. Stay w
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/pain,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/charity,concept/faith,concept/fear,concept/hope,concept/identity,concept/self,concept/truth,character/arthur,character/nurse"></span>
 
 
 do! That old hag will be the [[Death|death]] of me.”
@@ -68603,7 +68603,7 @@ countenance expressive of far more awe than pleasure.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/fire,motif/nature,motif/tears,motif/time,motif/well,concept/conscience,concept/hope,concept/nature,concept/revenge,concept/self,character/arthur,character/nurse"></span>
 
 
 “Come here, [[Arthur]],” said the latter, extending his hand towards him.
@@ -68873,7 +68873,7 @@ you very much?”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_05" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_05" data-title="The Tenant of Wildfell Hall — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/time,motif/well,concept/doubt,concept/history,form/history,histref/reformation,character/helen_huntingdon"></span>
 
 
 “But it must come some [[Time|time]],” interrupted I, “and if it be years hence,
@@ -69011,7 +69011,7 @@ virtuous as to refrain.”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="The Tenant of Wildfell Hall — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="The Tenant of Wildfell Hall — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/death,motif/love,motif/night,motif/time,motif/well,concept/honour,concept/hope,concept/longing,concept/mercy,concept/self,concept/suffering,character/arthur,character/helen,character/nurse"></span>
 
 
 CHAPTER XLVIII
@@ -69239,7 +69239,7 @@ daughter’s life a burden, if she will not yield to her desires.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="The Tenant of Wildfell Hall — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="The Tenant of Wildfell Hall — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/rose,motif/soul,motif/time,motif/well,concept/courage,concept/fear,character/helen,character/michael,character/richard"></span>
 
 
 “Mamma does all she can,” said she, “to make me feel myself a burden
@@ -69453,7 +69453,7 @@ maid.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/grave,motif/home,motif/pain,motif/water,motif/well,motif/window,concept/conscience,concept/fear,concept/hope,character/helen,character/nurse"></span>
 
 
 CHAPTER XLIX
@@ -69645,7 +69645,7 @@ to him herself; and though the [[Child|child]] had begged to be allowed to
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/fire,motif/garden,motif/home,motif/night,motif/pain,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/melancholy,concept/suffering,form/fable,character/arthur,character/helen,character/nurse"></span>
 
 
 continue with her there, and to help her to [[Nurse|nurse]] his papa, and though
@@ -69855,7 +69855,7 @@ patient. I had not been absent five minutes, but he reproached me
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/grave,motif/night,motif/pain,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/freedom,concept/hope,concept/suffering,character/arthur,character/helen"></span>
 
 
 bitterly for my levity and neglect. His friend espoused my cause.
@@ -70083,7 +70083,7 @@ probationary existence, if a man may spend it as he pleases, just
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="The Tenant of Wildfell Hall — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/grave,motif/love,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/nature,character/arthur,character/helen,character/helen_huntingdon"></span>
 
 
 contrary to God’s decrees, and then go to heaven with the best—if the
@@ -70291,7 +70291,7 @@ attend the funeral, come quickly, for I need help.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/grave,motif/horse,motif/love,motif/time,motif/well,concept/despair,concept/hope,concept/jealousy,concept/melancholy,concept/pride,concept/reconciliation,concept/self,concept/suffering,concept/union,concept/vanity"></span>
 
 
 CHAPTER L
@@ -70491,7 +70491,7 @@ smooth face, or at least a stoic calmness, throughout the interview. It
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/nature,motif/time,motif/well,concept/courage,concept/despair,concept/education,concept/fear,concept/friendship,concept/hope,concept/nature,concept/pride,concept/suffering,concept/truth,concept/union,character/arthur,character/nurse"></span>
 
 
 was [[Well|well]] it did, for, reviewing the matter in my sober judgment, I must
@@ -70677,7 +70677,7 @@ dry in the manner of it, that I was effectually deterred from
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/home,motif/silence,motif/soul,motif/time,motif/well,concept/friendship,concept/hope,concept/pride,concept/solitude,character/lord_lowborough"></span>
 
 
 requesting a more definite account.
@@ -70903,7 +70903,7 @@ to his [[Soul|soul]]. He had obliged himself to treat her with paternal
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_04" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_04" data-title="The Tenant of Wildfell Hall — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/nature,concept/beauty,concept/nature,concept/providence,concept/self,concept/temptation"></span>
 
 
 kindness: he had forced himself not to hate her, and even, perhaps, to
@@ -71025,7 +71025,7 @@ for his noble breed of horses.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/nature,motif/pain,motif/rose,motif/snow,motif/time,motif/water,motif/well,concept/mercy,concept/nature,concept/providence,concept/temptation,concept/truth"></span>
 
 
 CHAPTER LI
@@ -71285,7 +71285,7 @@ fervour of my [[Love|love]]—the full strength of my hopes, not wholly crushed
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/fool,motif/animals,motif/crown,motif/fire,motif/home,motif/horse,motif/journey,motif/love,motif/marriage,motif/memory,motif/night,motif/road,motif/rose,motif/snow,motif/time,motif/well,motif/winter,concept/doubt,concept/friendship,concept/hope,concept/jealousy,concept/pride,concept/truth"></span>
 
 
 even in my hours of deepest despondency, always tenaciously clinging to
@@ -71483,7 +71483,7 @@ desperation, I pushed past them, and was about to enter the churchyard
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="The Tenant of Wildfell Hall — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/bees,motif/journey,motif/love,motif/marriage,motif/silence,motif/snow,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/despair,concept/fear,concept/identity,concept/truth,concept/union,concept/wonder,setting/paris,character/helen"></span>
 
 
 gate, when a group of ragged urchins, that had been hanging like [[Bees|bees]]
@@ -71771,7 +71771,7 @@ infectious theme of [[Love|love]].
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="The Tenant of Wildfell Hall — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="The Tenant of Wildfell Hall — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/journey,motif/marriage,motif/night,motif/road,motif/rose,motif/snow,motif/summer,motif/swallow,motif/time,motif/water,motif/well,character/arthur"></span>
 
 
 CHAPTER LII
@@ -71987,7 +71987,7 @@ little more than usual [[Time|time]] and care upon my toilet; and, furnished
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="The Tenant of Wildfell Hall — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="The Tenant of Wildfell Hall — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/lightning,motif/love,motif/road,motif/rose,motif/silence,motif/snow,motif/spring,motif/summer,motif/time,motif/well,concept/hope,concept/madness,concept/melancholy,concept/truth,concept/union,character/helen"></span>
 
 
 with a change of linen from my small carpet-bag, [[Well|well]]-brushed clothes,
@@ -72251,7 +72251,7 @@ beside the [[Road|road]].
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/marriage,motif/road,motif/rose,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/honour,character/arthur,character/helen,character/richard"></span>
 
 
 CHAPTER LIII
@@ -72497,7 +72497,7 @@ watch-chain, were agitated with that restless, trembling motion which
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/leaves,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/faith,concept/fear,concept/madness,concept/melancholy,character/arthur,character/helen"></span>
 
 
 betokens high excitement.
@@ -72743,7 +72743,7 @@ wasted a thought upon your unhappy friend; but your [[Silence|silence]] naturall
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/fire,motif/frost,motif/leaves,motif/love,motif/rose,motif/silence,motif/snow,motif/summer,motif/window,motif/winter,concept/doubt,concept/hope,concept/pride,concept/truth,character/arthur,character/bottom,character/helen"></span>
 
 
 led me to conclude myself forgotten.”
@@ -73025,7 +73025,7 @@ never shall repent, if it depend on me [[Alone|alone]]. But have you thought of
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/birds,motif/death,motif/desire,motif/dust,motif/flowers,motif/garden,motif/home,motif/love,motif/marriage,motif/spring,motif/summer,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/pride,concept/self,form/history,character/arthur,character/helen"></span>
 
 
 your aunt?” I trembled for the answer, and clasped her closer to my
@@ -73261,7 +73261,7 @@ not dream of wishing your aunt to leave the place under any
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_05" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_05" data-title="The Tenant of Wildfell Hall — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/city,motif/death,motif/home,motif/journey,motif/love,motif/rose,motif/spring,motif/summer,motif/time,motif/well,concept/history,concept/hope,concept/madness,concept/melancholy,concept/union,form/history,setting/london,character/arthur,character/gilbert_markham,character/helen"></span>
 
 
 circumstances; and we will live either here or elsewhere as you and she

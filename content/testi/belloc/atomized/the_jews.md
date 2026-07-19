@@ -1643,7 +1643,7 @@ But for my part, I say, “Peace be to Israel.”
 
 
 
-<span class="atom-split" data-atom="chapter_01_habit_or_law" data-title="The Jews — Chapter 15: HABIT OR LAW?" data-chapter="HABIT OR LAW" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_habit_or_law" data-title="The Jews — Chapter 15: HABIT OR LAW?" data-chapter="HABIT OR LAW" data-kind="chapter" data-tags="concept/truth,setting/london"></span>
 
 
 CHAPTER XV HABIT OR LAW?
@@ -1681,7 +1681,7 @@ I could have made the book far stronger as a piece of polemic and indefinitely m
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_01" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 1)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_01" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 1)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt" data-tags="concept/antisemitism,concept/religious_persecution,concept/nationalism_and_patriotism,concept/tradition,form/essay,form/nonfiction,histref/medieval_england"></span>
 
 
 CHAPTER I THE THESIS OF THIS BOOK
@@ -1721,7 +1721,7 @@ A particular society attempting this solution of expulsion may succeed for a tim
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_02" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 2)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_02" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 2)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 But, as we all know, in the long run the experiment broke down. The Jews were readmitted in the middle of the seventeenth century, and nowhere have they come to greater strength than in the very nation which attempted this solution of the problem with such drastic thoroughness five hundred years ago. None of the other parallel attempts up and down Europe were of the same thoroughness as the English attempt. Their failure came, therefore, more quickly. But such failure would seem in any case to be inevitable. Quite apart, therefore, from the moral objection which attaches to it, there is the practical experience that a solution is not to be found upon such lines.
@@ -1749,7 +1749,7 @@ The first of these apparent solutions has been attempted over and over again thr
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_03" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 3)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_thesis_of_this_book--part_03" data-title="The Jews — Chapter 1: THE THESIS OF THIS BOOK (part 3)" data-chapter="THE THESIS OF THIS BOOK" data-kind="excerpt" data-tags="motif/wheel,concept/truth"></span>
 
 
 There remains, I take it, no practical or permanent solution but the last. It is to this conclusion that my essay is meant to lead. If the Jewish nation comes to express its own pride and patriotism openly, and equally openly to admit the necessary limitations imposed by that expression; if we on our side frankly accept the presence of this nation as a thing utterly different from ourselves, but with just as good a right to existence as we have; if we renounce our pretences in the matter; if we talk of and recognize the Jewish people freely and without fear as a separate body; if upon both sides the realities of the situation are admitted, with the consequent and necessary definitions which those realities imply, we shall have peace.
@@ -1777,7 +1777,7 @@ But I am convinced that the reversing of this process would only lead first to c
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_01" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 1)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_01" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 1)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 CHAPTER II THE DENIAL OF THE PROBLEM
@@ -1807,7 +1807,7 @@ At the other end of the scale you had public men who fully appreciated the ultim
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_02" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 2)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_02" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 2)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/tolerance,setting/london"></span>
 
 
 To the new and already antagonistic attitude towards the Jews now rising so strongly everywhere throughout Western Europe (which is in part a reaction from the nineteenth century position), this old-fashioned way of denying the Jewish race or ignoring its existence by a fiction appears morally odious, and we wonder to-day why it commanded universal support. It involved a falsehood, of course, often a conscious falsehood; and it was also undignified; for there appears to our generation something as grotesque in denying the existence of the Jewish nation as in denying our own. But that the fiction was maintained sincerely, and that the grotesque and undignified side of it went unperceived, we can assure ourselves in a few moments’ converse with any one of that older generation which maintained it and still represents it among us.
@@ -1831,7 +1831,7 @@ This false historical perspective is apparent in every other department of their
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_03" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 3)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_03" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 3)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/antisemitism,concept/nationalism_and_patriotism,concept/identity,concept/tolerance,concept/tradition,form/essay,form/nonfiction"></span>
 
 
 But apart from the argument that what I have called the nineteenth century or Liberal attitude towards the Jews worked well for its little day (at least, in Western Europe), there is also the fact that under special circumstances something very like it has worked well for much longer periods in the past. Take, for example, the position of the Jews in such a town as Amsterdam. The reception of a Jew as a citizen exactly like others, though he was present in very large numbers, the fiction denying his separate nationality, has held for generations in that community and it has procured peace and apparent contentment upon both sides. And what is true to this day of Amsterdam has been true in the past for long periods in the life of many another commercial and cosmopolitan society: that of Venice, notably, and, in a large measure, that of Rome; in that of Frankfort, of Lyons, and of a hundred cities at special times. It was true of all Poland for generations.
@@ -1855,7 +1855,7 @@ It is pertinent to quote such a simple and recent example as the body of Prussia
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_04" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 4)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_04" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 4)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/antisemitism,concept/nationalism_and_patriotism,concept/tolerance,concept/capitalism,concept/history,form/essay,histref/ancient_rome,setting/england"></span>
 
 
 Lord Palmerston, making his famous speech on the sanctity of a Greek Jew’s bedstead, and insisting that the said Greek Jew was an English citizen; Lord Palmerston carefully avoiding the word “Jew” and pretending throughout his speech that the Greek Jew in question was as much an Englishman as himself, was in a very different mood from a Spanish fifth-century Bishop admitting a Jew to Office on condition of his conversion. Yet the two had this in common, that neither regarded the Jew as the member of another nation, but each (for very different reasons) as no more than the member of a religion.
@@ -1881,7 +1881,7 @@ That is the real reason why to the majority of the middle classes in the ninetee
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_05" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 5)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_05" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 5)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 I have known a case in point which would amuse my non-Jewish readers but perhaps offend my Jewish readers were I to present it in detail. I shall cite it therefore without names, because I desire throughout this book to keep to the rule whereby alone it can be of service, that nothing offensive to either party shall be introduced; but it is typical and can be matched in the experience of many.
@@ -1911,7 +1911,7 @@ Here is a man, a neighbour present in the midst of my society. I put him to inco
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_06" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 6)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_denial_of_the_problem--part_06" data-title="The Jews — Chapter 2: THE DENIAL OF THE PROBLEM (part 6)" data-chapter="THE DENIAL OF THE PROBLEM" data-kind="excerpt" data-tags="concept/antisemitism,concept/sentimentality,concept/religious_persecution,concept/exile,concept/history,form/essay,setting/spain,setting/poland"></span>
 
 
 Unfortunately that solution is false because, like many appeals to a virtuous instinct, it is sentimental. We call “sentimental” a policy or theory which attempts to reconcile contradictions. The sentimental man will equally abhor crime and its necessary punishment; disorder and an organized police. He likes to think of human life as though it did not come to an end. He likes to read of the passion of love without its concomitant of sexual conflict. He likes to read and think of great fortunes accumulated without avarice, cunning or theft. He likes to imagine an impossible world of mutually exclusive things. It makes him comfortable.
@@ -1941,7 +1941,7 @@ But it is not enough to show that the mere denial of the existence of that probl
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_01" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 1)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_01" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 1)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="concept/antisemitism,concept/nationalism_and_patriotism,concept/capitalism,concept/communism,concept/religious_persecution,form/essay,histref/bolshevism_and_the_russian_revolution"></span>
 
 
 CHAPTER III THE PRESENT PHASE OF THE PROBLEM
@@ -1973,7 +1973,7 @@ He belonged for the most part to the classes that did not come into direct compe
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_02" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 2)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_02" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 2)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="concept/antisemitism,concept/history,concept/secrecy_and_concealment,form/essay,histref/boer_war,setting/france,character/napoleon_iii"></span>
 
 
 Throughout all this time, from the years after Waterloo to the years immediately succeeding the defeat of the French in 1870-71, the weight and position of the Jew in Western civilization increased out of all knowledge and yet without shock, and almost without attracting attention. They entered the Parliaments everywhere, the English Peerage as well, and the Universities in very large numbers. A Jew became Prime Minister of Great Britain, another a principal leader of the Italian resurrection; another led the opposition to Napoleon III. They were present in increasing numbers in the chief institutions of every country. They began to take positions as fellows of every important Oxford and Cambridge college; they counted heavily in the national literatures; Browning and Arnold families, for instance, in England; Mazzini in Italy. They came for the first time into European diplomacy. The armies and navies alone were as yet untouched by their influence. Strains of them were even present in the reigning families. The institution of Freemasonry (with which they are so closely allied and all the ritual of which is Jewish in character) increased very rapidly and very greatly. The growth of an anonymous Press and of an increasingly anonymous commercial system further extended their power.
@@ -2001,7 +2001,7 @@ Such a phenomenon could not but astonish the mass of onlookers who had hitherto 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_03" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 3)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_03" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 3)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The original minority which had begun to oppose Jewish power, with their extreme left wing of Anti-Semites, and their core of men whose quarrel was rather with the financial control of the modern world than with any racial problem, tended to grow. As always happens with a growing movement, events appeared to suit themselves to that growth and to promote it.
@@ -2027,7 +2027,7 @@ The immeasurable catastrophe of the war — with which the Jews had nothing to d
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_04" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 4)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_04" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 4)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 It looked as though in the presence of such a suffering, which the Jews shared with us, the growing quarrel between them and ourselves would be appeased. Men who had been prominent not only for their discussion of the Jewish problem, but for their direct and open antagonism to Jewish power and even to the most legitimate of Jewish claims, were now compelled to silence. Reconciliation was in the air ... when, in the very heat of the struggle, came that factor, incalculably important, which now rules all the rest; I mean the factor of what is called Bolshevism.
@@ -2061,7 +2061,7 @@ In practice, of course, what was set up was no proletarian Government, still les
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_05" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 5)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_05" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 5)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 The agricultural land was in theory nationalized, but in practice the Jewish Committees of the towns were unable to enforce their rule over it, and it reverted to the natural condition of peasant ownership. But the Jewish Committees of the towns were strong enough to raid great areas of agricultural production for the support of themselves and their troops and of their dependants in the cities, who had come close to starvation through the breakdown of the social system.
@@ -2085,7 +2085,7 @@ Those who recognized the gravity of the problem had hitherto been moved by fear 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_06" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 6)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_present_phase_of_the_probl--part_06" data-title="The Jews — Chapter 3: THE PRESENT PHASE OF THE PROBLEM (part 6)" data-chapter="THE PRESENT PHASE OF THE PROBL" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 The Jewish Bolshevist movement put an end to that state of mind. The people who had hitherto been silent through avarice, convention, or fear, now found themselves between an upper and a nether millstone. Hitherto they had at least believed that to keep silence was to secure or to advance their economic position. Now they found, suddenly risen upon the flank of that position, a new and formidable Jewish force determined upon the destruction of property. There was no longer any reason to keep silent. There was a growing need to speak. And though the old habit, the old secrecy, was still strong upon them, the necessity for combating Jewish Bolshevism was stronger still. All over Europe the Jewish character of the movement became more and more apparent. The leaders of Communism everywhere proclaimed that [[Truth|truth]] by adopting the asinine policy of pretending that the revolution was Russian and national; they attempted — far too late — to hide the Jewish origins of its creators and directors, and made a childish effort to pretend that the Russian names so innocently put forward were genuine, when the real names were upon every tongue. Yet at the same time they were receiving money and securities of the victims through Jewish agents, jewels stripped from the dead or rifled from the strong boxes of murdered men and women. In one specific instance the promise of a subsidy to a Communist paper in [[London]] was traced to this source; it was proved that the Englishman involved was a mere puppet and that the Jewish connections of the family through marriage were the true agents in the transaction. In another a Trade Deputation was pompously announced under Russian names, which turned out upon inspection to consist, as to its first member, of a man engaged all his life in the service of a Jewish firm, as to the other, of a Jew who was actually the brother-in-law of Braunstein! The diplomatic agent nominated and partially accepted by the British Government to represent the new authority of the Russian towns was again a Jew, Finkelstein, the nephew by marriage of a prominent Jew in this country. He passed under the name of Litvinoff. So it was throughout the whole movement, in every capital and in every great industrial town.
@@ -2101,7 +2101,7 @@ To avert this, to discover some solution of the problem while there is yet time,
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_01" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 1)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_01" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 1)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 CHAPTER IV THE GENERAL CAUSE OF FRICTION
@@ -2133,7 +2133,7 @@ They miss the mark because they attempt to express in terms of one category what
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_02" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 2)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_02" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 2)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/antisemitism,concept/courage,concept/money_and_avarice,concept/heroism_courage,form/essay,setting/france"></span>
 
 
 Thus you will hear the Jews arraigned by their enemies for three such vices as cowardice, avarice and treason — to take three of the commonest accusations. You examine their actions and you find innumerable instances of the highest courage, the greatest generosity and the most devoted loyalty: but courage, generosity and loyalty of a Jewish kind, directed to Jewish ends, and stamped with a highly distinctive Jewish mark.
@@ -2159,7 +2159,7 @@ Nor is it true to say that this generosity has ostentation for its root, or, as 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_03" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 3)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_03" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 3)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/antisemitism,concept/money_and_avarice,concept/charity,concept/nationalism_and_patriotism,form/essay"></span>
 
 
 They will tell you that they felt humiliated in serving a Jew; that the relations were never easy; that there was always distance. But not often that they were treated meanly. Just the other way. There has usually been present a spontaneous generosity. The same argument applies to the cry of “Ransome.” It is true that some of the more scandalous Jewish fortunes have thrown up defences against public anger by the return of a small proportion in the shape of public endowments: it is an action and a motive not peculiar to them. But that does not explain the mass of private and unheard benefaction to which we can all testify and which is as common with the middle-class Jew as with the wealthy. It is here as in the matter of courage a question of kind. Those of our people who happen to be generous (they are rare) do not calculate. They often forget or confuse the sums they have made away with, as though it were mere extravagance. The Jew knows the exact extent of his sacrifice, its proportion to his total means. Is he then less generous? By no means. He is, in scale more generous — but in a different fashion.
@@ -2181,7 +2181,7 @@ The Jew concentrates upon one matter. He does not disperse his mind. And this co
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_04" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 4)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_04" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 4)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Another character which is affiliated to this first leading character of the Jew would seem to be the lucidity of his thought. The Jew’s argument is never muddled. That is one of his prime assets not only in all discussion but in all action. It is also, if a cause of strength, a cause of the enmity he arouses: or (to use my milder term) of the “friction.”
@@ -2213,7 +2213,7 @@ The Jews are a poor nation. An enemy would say that they were poor because they 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_05" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 5)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_05" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 5)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/antisemitism,concept/poverty,concept/money_and_avarice,concept/class_conflict,concept/capitalism,form/essay"></span>
 
 
 We see the Jews in the Middle Ages monopolizing important manual occupations in some districts — dyeing and shipbuilding, for instance. And there are many parts of Eastern Europe where they work upon the land to-day.
@@ -2243,7 +2243,7 @@ Look around you in Western Europe to-day and see what people mean by this story 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_06" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 6)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_06" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 6)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 It is most noticeable that other aspects of Jewish activity remain unused by the wealthy class, the gentry — and therefore by the State. Whether it would be wise to use them or not is another matter. At any rate, the motive for leaving them unused is the fact that they are not connected with wealth. The Jewish intelligence which might so often have served the policy of a Statesman is largely left unused. The cosmopolitan position of the Jew when it is used is used for little more than spying; and that profound force, the historical memory of the Jew, is neglected almost altogether. With this neglect goes a natural and evil result, the failure on the part of the European governing classes, especially to-day, to safeguard the community against the troubles which are bound to arise from the clashing of interests between the Jews and the people among whom they dwell.
@@ -2273,7 +2273,7 @@ The thing is deservedly hated because it is exceedingly unnatural and exceedingl
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_07" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 7)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_general_cause_of_friction--part_07" data-title="The Jews — Chapter 4: THE GENERAL CAUSE OF FRICTION (part 7)" data-chapter="THE GENERAL CAUSE OF FRICTION" data-kind="excerpt" data-tags="concept/antisemitism,concept/capitalism,concept/power_and_corruption,concept/greed_and_money,concept/war_and_its_cost,form/essay,histref/the_first_world_war"></span>
 
 
 To put it plainly, these monopolies must be put an end to.
@@ -2311,7 +2311,7 @@ At any rate, in one way or another the thing will cease, and will probably cease
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_01" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 1)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_01" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 1)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt" data-tags="motif/masks_disguise,concept/antisemitism,concept/secrecy_and_concealment,concept/deception,concept/religious_persecution,form/essay"></span>
 
 
 CHAPTER V THE SPECIAL CAUSES OF FRICTION
@@ -2343,7 +2343,7 @@ Again, who can say that the bearing of a Jewish name to-day, or at any rate in t
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_02" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 2)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_02" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 2)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,concept/antisemitism,concept/secrecy_and_concealment,concept/deception,form/essay"></span>
 
 
 The same arguments apply for and against other forms of secrecy. A man may plead that if secrecy in relationship were not maintained the dislike of Jews would lead to false accusations. The Jew is highly individual, especially in intellectual affairs. He takes his own line. He expresses his opinions with singular courage. And such individual opinions will often differ violently from those of men with whom he is most closely connected. “Why,” I can understand some distinguished Jewish publicist in England saying, “should I be compromised by people knowing that such-and-such a Bolshevist in Moscow or in New York is my cousin or nephew? I am conservative in temperament; I have always served faithfully the state in which I live; I heartily disapprove of these people’s views and actions. If their relationship with me were known I should fall under the common ban. That would be unjust. Therefore I keep the relationship secret.”
@@ -2365,7 +2365,7 @@ Surely it would be more sensible to emphasize in every possible case the Jewish 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_03" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 3)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_03" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 3)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 A foreign movement against one’s nation, an unpopular public figure, a detested doctrine, are labelled “Jewish” and the field of hate, already perilously wide, is broadened indefinitely. It is useless to say, “The Jews do not admit the connection, the names are not Jewish, there is no overt Jewish element.” He answers, “Jews never do admit such connection; Jews admittedly hide under false names; Jewish action never is overt.” And — as things are, until they change — there is no denying what he says. His judgment may be as wild as you will (I have heard Sinn Feiners called Jews!), but, so long as this wretched habit of secrecy is maintained, there is no correcting that judgment. A universal suspicion is engendered and spreads.
@@ -2409,7 +2409,7 @@ There is indeed a fourth attitude which has occasionally appeared in history whe
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_04" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 4)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_04" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 4)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 Bitter as is everywhere the secret attack on the Jews by those who have subjected themselves for gain or publicity, it is nowhere so bitter as in the private speech of the politicians.
@@ -2437,7 +2437,7 @@ Another consequence of this attitude: The Jew, on account of it, makes no effort
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_05" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 5)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_special_causes_of_friction--part_05" data-title="The Jews — Chapter 5: THE SPECIAL CAUSES OF FRICTION (part 5)" data-chapter="THE SPECIAL CAUSES OF FRICTION" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Another form taken by that open expression of the sense of superiority among the Jews: It lends to all their actions in our State a certain assurance and solidity which vastly strengthens their power of resistance, no doubt, but also provokes their misfortunes. The religious interpreter of history might say that they had been specially endowed with this sense by Providence because Providence intended them to survive as a national unit miraculously, in the face of every disability; to remain themselves for 2,000 years under conditions which would have destroyed any other people in perhaps a century: and yet intended to suffer. The rationalist will say that the expression of a sense of superiority, and the power of resistance that accompanies it are but different names for the same thing; that but for the presence of that expression of superiority the resistance could not have succeeded, but for the resistance there could have been no persecution; that there was no design in the matter, only the chance presence of a particular quality which has produced its necessary and logical effect. But whichever be the true explanation, the historical fact remains, that this sense of superiority produced an open and overweening expression of it whenever the Jews have been free to give vent to their feelings, and that while it has had, as one great consequence, the strengthening of the identity, permanence, survival of the Jewish people, it has also had, for another great consequence, their recurrent oppression following on every period of freedom.
@@ -2465,7 +2465,7 @@ The alternative to such self-restraint is a falling back into the old circle of 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_01" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 1)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_01" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 1)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 CHAPTER VI THE CAUSE OF FRICTION UPON OUR SIDE
@@ -2501,7 +2501,7 @@ Both these types certainly say what they think. That is why in their heart of he
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_02" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 2)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_02" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 2)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 A man and his friend meet in the street a Jew whom they know; they exchange ordinary civilities with him; they pass on. The moment his back is turned each comments to his companion upon the Jewish character of the man they have just left, and almost invariably to his disadvantage.
@@ -2525,7 +2525,7 @@ All this is worse, of course, when one is dealing with relations even closer tha
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_03" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 3)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_03" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 3)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 And this [[Truth|truth]] applies not only to friendships, it even applies to marriages. Marriage between Christian and Jew is, in that rank, an affair of interest, and the bitterness the relation breeds is excessive.
@@ -2551,7 +2551,7 @@ The second main cause of friction upon our side is the unintelligence of our dea
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_04" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 4)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_04" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 4)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt" data-tags="archetype/outcast_wanderer,concept/antisemitism,concept/hypocrisy,concept/deception,form/essay,character/charles_dickens"></span>
 
 
 What could be more unintelligent, for instance, than the special forms of courtesy with which the Jew is treated? I am not talking of the elaborate, false friendship which I have just dealt with under the head of disingenuousness, but of the genuine attempts at courtesy towards this alien people — the courtesy expressed by those who have no intimate relations with them, and do not desire to have intimate relations with them. It is almost invariably, in those who commonly avoid the Jews, a courtesy which expresses patronage on the surface of it. It may be compared with the courtesy that rich men show to poor men — as offensive a thing as there is in the world.
@@ -2573,7 +2573,7 @@ The last of the main causes of friction between the Jews and ourselves is lack o
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_05" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 5)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_cause_of_friction_upon_our--part_05" data-title="The Jews — Chapter 6: THE CAUSE OF FRICTION UPON OUR SIDE (part 5)" data-chapter="THE CAUSE OF FRICTION UPON OUR" data-kind="excerpt" data-tags="concept/antisemitism,concept/religious_persecution,concept/exile,concept/secrecy_and_concealment,concept/pride,concept/history,form/essay"></span>
 
 
 There are many Jewish societies which ask nothing better than to have occasional addresses from non-Jews. Those addresses are given, those Societies are visited, but not nearly as much as they should be.
@@ -2603,7 +2603,7 @@ It is a phenomenon which has increased prodigiously; its rate of increase is acc
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_01" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 1)" data-chapter="THE ANTI SEMITE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_01" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 1)" data-chapter="THE ANTI SEMITE" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 CHAPTER VII THE ANTI-SEMITE
@@ -2639,7 +2639,7 @@ When an accusation is made against a Jew he cannot adopt the judicial attitude a
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_02" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 2)" data-chapter="THE ANTI SEMITE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_02" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 2)" data-chapter="THE ANTI SEMITE" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 The contrast was very well seen in the Dreyfus case, when the old type of extremist was still strong. He would not look at the evidence against Dreyfus, he would not, if he could help it, mention his race. All he knew was that Dreyfus was and must in the nature of things be innocent and that all the diverse men who testified against him were wicked conspirators. The new type of extremist, then but rising and not yet master, would not listen to the strong evidence in Dreyfus’ favour, refused to re-examine the case after the chief witness had been found guilty of forgery, made up his mind that Dreyfus was necessarily guilty and was convinced that all his supporters were dupes or knaves.
@@ -2663,7 +2663,7 @@ We have seen that plainly enough in the monstrous expressions of foreign policy 
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_03" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 3)" data-chapter="THE ANTI SEMITE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_03" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 3)" data-chapter="THE ANTI SEMITE" data-kind="excerpt" data-tags="concept/antisemitism,concept/fanaticism,concept/secrecy_and_concealment,concept/capitalism,form/essay"></span>
 
 
 Now in the matter of Anti-Semitic feeling we shall have, I think, exactly the same phenomenon repeated. That feeling is now ubiquitous. It is spreading with an alarming rapidity, and the increase of its intensity is even more remarkable than the increase in the numbers of its adherents. Sooner or later — and fairly soon, I imagine — the press will give it voice. When it does, it will give it voice, we may be certain, in the most extreme, the most passionate, the most irrational form; and when that happens, in a field where passion is already so wild, God help its victims!
@@ -2687,7 +2687,7 @@ The dupe, when he discovers he has been duped, is dangerous, and there is even a
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_04" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 4)" data-chapter="THE ANTI SEMITE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_04" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 4)" data-chapter="THE ANTI SEMITE" data-kind="excerpt" data-tags="concept/antisemitism,concept/fanaticism,concept/religious_persecution,form/essay,histref/prohibition_us,histref/suffragette_movement,setting/germany"></span>
 
 
 It has been and will be with Anti-Semitism as with all movements. When they begin they are ridiculed. As they grow they come to be feared and boycotted; but of those that are successful it may be justly said that the moment of success begins when they turn the corner and from a fad become a fashion.
@@ -2719,7 +2719,7 @@ When this angry enthusiasm re-arose in its modern form, first in Germany, then s
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_05" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 5)" data-chapter="THE ANTI SEMITE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_anti_semite--part_05" data-title="The Jews — Chapter 7: THE ANTI-SEMITE (part 5)" data-chapter="THE ANTI SEMITE" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 For something between a dozen and twenty years this policy was successful. The method though less and less firmly established as time went on, has not yet quite failed. None the less that policy was very ill-advised. It was used not only to ridicule the Anti-Semite, but what was quite illegitimate, quite irrational (and bound in the long run to be fatal), it was used to prevent all discussion of the Jewish question, though that question was increasing every day in practical importance and clamouring to be decided.
@@ -2739,7 +2739,7 @@ It must not be forgotten, as we survey this growing menace, that a policy which 
 
 
 
-<span class="atom-split" data-atom="chapter_09_bolshevism--part_01" data-title="The Jews — Chapter 8: BOLSHEVISM (part 1)" data-chapter="BOLSHEVISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_bolshevism--part_01" data-title="The Jews — Chapter 8: BOLSHEVISM (part 1)" data-chapter="BOLSHEVISM" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 CHAPTER VIII BOLSHEVISM
@@ -2767,7 +2767,7 @@ You do not find the Jew in history perpetually leading the innumerable revolts w
 
 
 
-<span class="atom-split" data-atom="chapter_09_bolshevism--part_02" data-title="The Jews — Chapter 8: BOLSHEVISM (part 2)" data-chapter="BOLSHEVISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_bolshevism--part_02" data-title="The Jews — Chapter 8: BOLSHEVISM (part 2)" data-chapter="BOLSHEVISM" data-kind="excerpt" data-tags="concept/antisemitism,concept/communism,concept/capitalism,concept/distributism,form/essay,histref/bolshevism_and_the_russian_revolution,histref/catholic_church,setting/russia"></span>
 
 
 It is the unique mark of the Russian revolution and of its attempted extension elsewhere that it repudiates patriotism and the division of property. In that, it differs from all others; and it is markedly, obviously, Jewish. But why had the Jews a chance of action in Russia which they lacked elsewhere?
@@ -2801,7 +2801,7 @@ The Jew has neither that political instinct in his national tradition nor a reli
 
 
 
-<span class="atom-split" data-atom="chapter_09_bolshevism--part_03" data-title="The Jews — Chapter 8: BOLSHEVISM (part 3)" data-chapter="BOLSHEVISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_bolshevism--part_03" data-title="The Jews — Chapter 8: BOLSHEVISM (part 3)" data-chapter="BOLSHEVISM" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 One must find in such a movement an international leader because the disease is international, and still more because the proposed cure of that disease, through Communism, must be international if it is to succeed. A Communist society may stand apart from the general society of owners in other countries, but if it is to succeed in competition with them it must convert them to its own creed.
@@ -2829,7 +2829,7 @@ That sense of social justice, that indignation against indefensible modern evils
 
 
 
-<span class="atom-split" data-atom="chapter_09_bolshevism--part_04" data-title="The Jews — Chapter 8: BOLSHEVISM (part 4)" data-chapter="BOLSHEVISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_bolshevism--part_04" data-title="The Jews — Chapter 8: BOLSHEVISM (part 4)" data-chapter="BOLSHEVISM" data-kind="excerpt" data-tags="concept/antisemitism,concept/capitalism,concept/communism,concept/distributism,concept/revenge,form/essay,histref/bolshevism_and_the_russian_revolution,setting/russia"></span>
 
 
 We must add to these the sincere man who will admit the domination of Industrial Capitalism because he honestly believes that, bad as it is, it is now become inevitable and that to tamper with it would bring the whole State into anarchy. “Such as it is,” he would say, “the structure of our society now depends upon it. We may palliate its evils, we may try very gradually to transform its worst features. But in its essence it must remain as it is, or our last state will be worse than our first.”
@@ -2861,7 +2861,7 @@ I say this second fact is much more important because it is the more real and th
 
 
 
-<span class="atom-split" data-atom="chapter_09_bolshevism--part_05" data-title="The Jews — Chapter 8: BOLSHEVISM (part 5)" data-chapter="BOLSHEVISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_bolshevism--part_05" data-title="The Jews — Chapter 8: BOLSHEVISM (part 5)" data-chapter="BOLSHEVISM" data-kind="excerpt" data-tags="concept/antisemitism,concept/communism,concept/reason_and_rationalism,concept/revenge,form/essay,histref/bolshevism_and_the_russian_revolution,setting/russia"></span>
 
 
 The other effect of the Jewish revolution in Russia — the peril into which it has put the Jews themselves — is permanent and is of the first magnitude. I know no way to meet it except to explain why that revolution was almost necessarily a Jewish revolution, to emphasize the sincerity of the Jews who have led it, to exculpate them as far as possible, and, at any rate, to shield their unfortunate compatriots abroad from the consequences of what was certainly a very bad piece of tactics so far as the future of this people was concerned.
@@ -2879,7 +2879,7 @@ Our conclusion, as I have said, is a recognition and protection of the Jewish na
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_01" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 1)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_01" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 1)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 CHAPTER IX THE POSITION IN THE WORLD AS A WHOLE
@@ -2925,7 +2925,7 @@ I have already quoted the effect upon those hundreds of educated men taken into 
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_02" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 2)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_02" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 2)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/antisemitism,concept/communism,concept/power_and_corruption,concept/distributism,form/essay,histref/bolshevism_and_the_russian_revolution,setting/russia,setting/poland"></span>
 
 
 But if the thing were felt everywhere as acutely and as consciously as it is felt in special groups to-day — as it is felt, for instance, in one particular section of English opinion already represented in the Press, is felt in a wider section of French opinion, and in a still wider section of Polish opinion — then the matter would be simple. We could then say that an issue of the clearest kind had arisen, and forbid a small alien minority to decide the destinies of those among whom it lives and of whom it is not. The answer would be obvious, and the only difficulty would be how the Jewish control might be lessened without grievous injustice to innocent individuals.
@@ -2951,7 +2951,7 @@ There are in these countries everywhere a very large proportion of Jews. The lar
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_03" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 3)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_03" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 3)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/antisemitism,concept/nationalism_and_patriotism,concept/capitalism,concept/communism,form/essay,histref/catholic_church,setting/poland,setting/france"></span>
 
 
 In all these countries the Jewish problem is something quite different from what it is farther West. The Jews are in these countries admittedly a separate nation. Even as I write I hear the complaint, sounding strange in our Western ears, proffered by the Polish Jews who have been appealing to the West against what they claim to be the oppressive practice of writing them down as Poles! In Roumania for two generations it has been the fixed principle of the State, now latent, now overt, but always acted upon in social practice, that the Jew is not a Roumanian at all and cannot be one. Of course he cannot be one really, any more than he can be an Englishman, or a Frenchman, or an Irishman. (Fancy a Jew an Irishman!) But I mean, not even one by fiction or by convention. In Poland the greater part of these people have a different language and all of them have a different social custom and a different life from the world around them. In Hungary, where the numerical pressure of the Jew is less, there is, of course, a most lively memory of the attempted revolution under Cohen in 1918, the massacres of Hungarians, the setting up of an ephemeral Bolshevism and the necessity of its suppression. In Bohemia the pressure is far less and in the Balkan States south of the Danube and the Drave. It is only present as a pressure of numbers in the group of States which lie between the Baltic and the Black Sea South and North and between the Russian people and the German people East and West.
@@ -2973,7 +2973,7 @@ If we leave the Old World and turn to the United States, we find a novel conditi
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_04" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 4)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_04" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 4)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 * * * * *
@@ -2997,7 +2997,7 @@ But as one got west another spirit emerged, another tradition. It was “the thi
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_05" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 5)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_05" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 5)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 It was a tradition flowing from two sources: the commercial and protestant England of the seventeenth century, the sceptical France of the eighteenth. The Jew (according to this spirit) merited special protection and special respect. He must be protected and respected even in his passion for secrecy; so that at last the mere mention of his existence in the cultivated and directing classes of the west became something of an oddity.
@@ -3025,7 +3025,7 @@ Until quite lately it was the French who bore the worst odium of this in the eye
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_06" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 6)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_position_in_the_world_as_a--part_06" data-title="The Jews — Chapter 9: THE POSITION IN THE WORLD AS A WHOLE (part 6)" data-chapter="THE POSITION IN THE WORLD AS A" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 In the vastly larger field of Mohammedan control exercised by Britain, which, directly and indirectly, is ten times that of France, there was until lately less of this friction; but the tables have been turned, and to-day it is Britain which stands to the Mohammedan as the thruster-in of the Jew. It began with the support of Jewish finance in Egypt; it went on with the extended control over Indian commerce by Jews; it continued in the control of Indian currency by Jews. It has ended in the grotesque appointment to the Indian Viceroyalty and the extraordinary experiment of Palestine.
@@ -3067,7 +3067,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_01" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 1)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_01" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 1)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="concept/antisemitism,concept/history,concept/religious_persecution,concept/money_and_avarice,form/essay,histref/medieval_england,setting/england"></span>
 
 
 CHAPTER X THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS
@@ -3095,7 +3095,7 @@ At any rate, the thirteenth century saw in England a rapid decline of Jewish fin
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_02" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 2)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_02" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 2)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 The unhappy people, already reduced by two generations of falling fortune, were hurried out of the country, carrying, by permission, their money and movables. They were protected, indeed, at the ports by the royal officers, who even paid the passage of the indigent among them; but they were plundered at sea and some even murdered. The murderers were punished, but the memory of the persecution remained in the Jews’ mind and England became a natural object of their hate. The Jewish community expelled by the English was surprisingly small, not 17,000, and suggests the historical [[Truth|truth]] that in the Middle Ages, and indeed until quite modern times, the Jewish community in Northern France and England was a community of people in the main well-to-do. It so remained until quite modern times.
@@ -3119,7 +3119,7 @@ The two things dovetailed one into the other and fitted exactly, and all subsidi
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_03" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 3)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_03" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 3)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 And the Jew pointed to the English State as that one in which all that his nation required of the goyim was to be found. He here enjoyed a situation the like of which he could not hope to enjoy in any other country of the world. All antagonism to him had died down. He was admitted to every institution in the State, a prominent member of his nation became chief officer of the English Executive, and, an influence more subtle and penetrating, marriages began to take place, wholesale, between what had once been the aristocratic territorial families of this country and the Jewish commercial fortunes.
@@ -3151,7 +3151,7 @@ Every English Government had (and has) its quota of Jews. They had entered the d
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_04" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 4)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_04" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 4)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="concept/zionism"></span>
 
 
 Such a state of affairs could not last. It was not natural. It was not consonant with hidden but deep popular tradition or with popular appetites; it corresponded only to the mood of one European community in its wealthier classes. A divergence between the cosmopolitan financial interests of the Jew and the particular national interests of Britain was bound to come. War on a large scale, though it did not imperil the country itself, was a warning of change. It appeared with the South African campaign before the end of the century. The position of the Jew was altered. Some dissatisfaction with his power began to stir. It was already muttering and beginning to show itself with the rise of commercial and maritime competition in the new German Empire which, in its turn, had become led, upon all its commercial side, by Jews. There was bound, I say, to be a reaction and a permanent one. While it was yet taking place, in the heat of the Great War, before it had reached the official world, that one of the English politicians who was best fitted to speak for the Jews, who was most intimate with them through manifold ties of friendship and hospitality, Mr. Arthur Balfour, was chosen to make the famous pronouncement in favour of [[Zionism]]. It came within a month of the great crisis of the war. Its object was to divide the general influence of the Jews throughout the world, which had hitherto been upon the whole opposed to the cause of the Allies, because, like every other neutral, the Jews were more and more convinced, as the campaigns dragged on, that the Central Empires were certain of victory.
@@ -3167,7 +3167,7 @@ But the problems presented by this experiment in Palestine merit a separate exam
 
 
 
-<span class="atom-split" data-atom="chapter_12_zionism--part_01" data-title="The Jews — Chapter 11: ZIONISM (part 1)" data-chapter="ZIONISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_zionism--part_01" data-title="The Jews — Chapter 11: ZIONISM (part 1)" data-chapter="ZIONISM" data-kind="excerpt" data-tags="concept/zionism"></span>
 
 
 CHAPTER XI [[Zionism|ZIONISM]]
@@ -3209,7 +3209,7 @@ He and he alone is to be (certainly in practice and, of right, in legal decision
 
 
 
-<span class="atom-split" data-atom="chapter_12_zionism--part_02" data-title="The Jews — Chapter 11: ZIONISM (part 2)" data-chapter="ZIONISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_zionism--part_02" data-title="The Jews — Chapter 11: ZIONISM (part 2)" data-chapter="ZIONISM" data-kind="excerpt" data-tags="concept/zionism,setting/london"></span>
 
 
 Well, if the ideal is left in that condition (and it is admitted to be in practice in that condition), it will result in a grievous prejudice to the Jewish people, and will be a source of more permanent evil to them than any other policy they could have undertaken. It will emphasize that very point of dual allegiance which it must be their object to soften if the Jewish problem is to be solved.
@@ -3233,7 +3233,7 @@ In the present state of affairs, with the Cabinets of Rome, Washington, [[London
 
 
 
-<span class="atom-split" data-atom="chapter_12_zionism--part_03" data-title="The Jews — Chapter 11: ZIONISM (part 3)" data-chapter="ZIONISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_zionism--part_03" data-title="The Jews — Chapter 11: ZIONISM (part 3)" data-chapter="ZIONISM" data-kind="excerpt" data-tags="concept/truth,concept/zionism"></span>
 
 
 What are those lines to be?
@@ -3259,7 +3259,7 @@ The matter is, of course, being discussed everywhere from the point of view of G
 
 
 
-<span class="atom-split" data-atom="chapter_12_zionism--part_04" data-title="The Jews — Chapter 11: ZIONISM (part 4)" data-chapter="ZIONISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_zionism--part_04" data-title="The Jews — Chapter 11: ZIONISM (part 4)" data-chapter="ZIONISM" data-kind="excerpt" data-tags="concept/zionism"></span>
 
 
 If there were any reason to suppose a natural alliance between the British Army and the Jews; if we could imagine British officers and men taking a natural pleasure in ousting the Arab and making way for the Jew, it would be another matter. If there were something in the nature of things which made that alliance permanent and stable, if the Jews were a fully accepted part of the British Commonwealth as are, for instance, the Scots or the Welsh, some permanent arrangement might be possible. But they are nothing of the sort. The position is wholly unnatural. It cannot last. And if it cannot last with the British connection, how should it last with any other? How shall the transition be made from a British Protectorate to another protectorate? Or how, seeing what violent hatreds have already been roused by the mere beginnings of the experiment, shall the conflict which makes the protectorate necessary be avoided?
@@ -3283,7 +3283,7 @@ I also refrain from making comment here — I have made it strongly enough elsew
 
 
 
-<span class="atom-split" data-atom="chapter_13_our_duty--part_01" data-title="The Jews — Chapter 12: OUR DUTY (part 1)" data-chapter="OUR DUTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_our_duty--part_01" data-title="The Jews — Chapter 12: OUR DUTY (part 1)" data-chapter="OUR DUTY" data-kind="excerpt" data-tags="concept/antisemitism,concept/justice,concept/religious_persecution,concept/exile,concept/tolerance,form/essay"></span>
 
 
 CHAPTER XII OUR DUTY
@@ -3313,7 +3313,7 @@ Put yourself in his shoes and see how the thing looks. There is no nation to whi
 
 
 
-<span class="atom-split" data-atom="chapter_13_our_duty--part_02" data-title="The Jews — Chapter 12: OUR DUTY (part 2)" data-chapter="OUR DUTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_our_duty--part_02" data-title="The Jews — Chapter 12: OUR DUTY (part 2)" data-chapter="OUR DUTY" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 It consists, I conceive, in two very different determinations: two very different but allied lines of conduct to which we must pledge ourselves. The first, until recently the most difficult, is the determination to speak of the Jewish people as openly, as continuously, with as much interest, with as close an examination as we speak of any other foreign body with which we are brought in contact.
@@ -3345,7 +3345,7 @@ First, there was the fact that many people were known to cherish so strong an ho
 
 
 
-<span class="atom-split" data-atom="chapter_13_our_duty--part_03" data-title="The Jews — Chapter 12: OUR DUTY (part 3)" data-chapter="OUR DUTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_our_duty--part_03" data-title="The Jews — Chapter 12: OUR DUTY (part 3)" data-chapter="OUR DUTY" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Then there was the peculiar rapid transition both of Jewish movements and of Jewish fortunes. In the case I have suggested, of asking a [[London]] Jew whether he had relatives in Galicia or Lithuania, you might be stumbling upon relations much poorer than himself in the East End of [[London]]; or, again, you might seem to be emphasizing the nomadic character of the race and thereby also emphasizing the contrast between it and our own.
@@ -3375,7 +3375,7 @@ The man who honestly thinks that any allusion to Jewish races in contemporary ar
 
 
 
-<span class="atom-split" data-atom="chapter_13_our_duty--part_04" data-title="The Jews — Chapter 12: OUR DUTY (part 4)" data-chapter="OUR DUTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_our_duty--part_04" data-title="The Jews — Chapter 12: OUR DUTY (part 4)" data-chapter="OUR DUTY" data-kind="excerpt" data-tags="concept/antisemitism,concept/fear,concept/money_and_avarice,concept/power_and_corruption,form/essay"></span>
 
 
 But, as I have said, with much the greater part of men who plead this motive the plea is, if they would only examine their own consciences, found to be false. And the test of its falsity will be apparent when the convention slackens. When it is no longer conventional to avoid all mention of Jews, how many will remain silent merely from the love of their fellow-men? One might go further and say that when the convention has gone, any need for this kind of charity will go with it. There is an exception, of course, in the case of the man whose dislike of Jews is so violent that he fears himself if he gives any rein to his tongue. That mania is exceptional; but where it is found certainly its victim will do well to keep silence. If a man cannot mention the Hebrew alphabet without a sneer, or the economics of Ricardo without betraying his ill feeling for Ricardo’s lineage, then certainly he had better hold his tongue when Jews are there. So, too, a Frenchman who raves against the English had far better not discuss the British Constitution or the genius of Newton in any society where an Englishman may be present.
@@ -3401,7 +3401,7 @@ The forerunners of the present movement — I mean, of the movement hostile to I
 
 
 
-<span class="atom-split" data-atom="chapter_13_our_duty--part_05" data-title="The Jews — Chapter 12: OUR DUTY (part 5)" data-chapter="OUR DUTY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_our_duty--part_05" data-title="The Jews — Chapter 12: OUR DUTY (part 5)" data-chapter="OUR DUTY" data-kind="excerpt" data-tags="concept/antisemitism,concept/fear,concept/courage,concept/tolerance,form/essay"></span>
 
 
 I say that these first attacks were on that account despised: they were unduly despised by those whom they menaced.
@@ -3429,7 +3429,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_14_their_duty" data-title="The Jews — Chapter 13: THEIR DUTY" data-chapter="THEIR DUTY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_their_duty" data-title="The Jews — Chapter 13: THEIR DUTY" data-chapter="THEIR DUTY" data-kind="chapter" data-tags="concept/antisemitism,concept/secrecy_and_concealment,concept/pride,concept/nationalism_and_patriotism,concept/zionism,form/essay"></span>
 
 
 CHAPTER XIII THEIR DUTY
@@ -3455,7 +3455,7 @@ All the main part of the mutual Duty is on our side. Therefore have I given it t
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_01" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 1)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_01" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 1)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="concept/antisemitism,concept/providence,concept/faith,concept/conversion,concept/exile,form/essay,character/the_wandering_jew"></span>
 
 
 CHAPTER XIV VARIOUS THEORIES
@@ -3487,7 +3487,7 @@ These also will certainly and with some reason ascribe to Jewish influence the g
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_02" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 2)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_02" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 2)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Now for all this there is certainly something to be said as an aspect of historical [[Truth|truth]]. How far it may be extended to cover, as its exponents would make it cover, the whole historical field, may be debated, but I would ask my readers to consider what change we should have seen in the development of Europe if by some magical instrument Jewish influence had been upon some one date removed. It is a theory fascinating, in a way applicable, and arresting. It is, at any rate, not nonsense.
@@ -3507,7 +3507,7 @@ I could wish in this connection that some learned Jew would produce a History of
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_03" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 3)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_03" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 3)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="concept/tolerance"></span>
 
 
 In this connection also we should have (what now we lack), and that is a conspectus of the Jewish action over Christendom and Islam combined. We are aware of the [[Tolerance|tolerance]], or rather favour, displayed to their Jewish subjects by the Mohammedans of Spain. It was neither universal nor continuous. What we do not sufficiently hear, what we have to piece together from chance allusions, is the connection between the Moorish Jews, before and during the Reconquista, and their fellows to the north.
@@ -3529,7 +3529,7 @@ It is precisely because I do not believe either form of this idea to be true tha
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_04" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 4)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_04" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 4)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Of the causes of friction, even of acute friction, which I have enumerated in former pages, there is the habit of secrecy, there is the mutual contempt, arising in each from a sense of superiority over the other; there is the quarrel between what is national and what is international, between what is of us and what is alien. There are, in a word, plenty of elements suggesting accidental antagonism, but of intrinsic antagonism there is no evidence — there is no evidence, I mean, that the Jews would still desire to destroy a society in which they found themselves at their ease.
@@ -3553,7 +3553,7 @@ Those who defend this theory tell us that however favourable the opportunities f
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_05" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 5)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_05" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 5)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="concept/antisemitism,concept/history,concept/tolerance,concept/critique_of_progress,form/essay,histref/ancient_rome,setting/spain"></span>
 
 
 Now the reasons which bring me to reject this theory are two-fold.
@@ -3577,7 +3577,7 @@ There you have, in New York, if anywhere, an opportunity for the theory of absor
 
 
 
-<span class="atom-split" data-atom="chapter_15_various_theories--part_06" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 6)" data-chapter="VARIOUS THEORIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_various_theories--part_06" data-title="The Jews — Chapter 14: VARIOUS THEORIES (part 6)" data-chapter="VARIOUS THEORIES" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 There is yet another theory which, if it were not widely held and if it had not been advanced by so many Jews themselves, I should leave aside as something comic, something unfit for serious discussion. But it has been advanced and it must be met. It is no less than the theory that there are no such people as the Jews, that the whole thing is illusion.
@@ -3597,7 +3597,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_16_habit_or_law" data-title="The Jews — Chapter 15: HABIT OR LAW?" data-chapter="HABIT OR LAW" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_habit_or_law" data-title="The Jews — Chapter 15: HABIT OR LAW?" data-chapter="HABIT OR LAW" data-kind="chapter" data-tags="concept/truth"></span>
 
 
 CHAPTER XV HABIT OR LAW?

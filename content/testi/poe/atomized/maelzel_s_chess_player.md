@@ -1843,7 +1843,7 @@ against this solution of the Automaton Chess-Player.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Maelzel's Chess-Player (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Maelzel's Chess-Player (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/spring,motif/time,motif/water,motif/window,concept/doubt,character/bottom"></span>
 
 
 Perhaps no exhibition of the kind has ever elicited so general
@@ -2027,7 +2027,7 @@ movements. When corn was thrown down before it, the duck
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Maelzel's Chess-Player (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Maelzel's Chess-Player (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/well,concept/history,concept/nature,form/history,setting/london,setting/paris"></span>
 
 
 stretched out its neck to pick it up, swallowed, and digested it.
@@ -2209,7 +2209,7 @@ however, should lie more at length upon the box, a chess-board
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Maelzel's Chess-Player (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Maelzel's Chess-Player (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/machine,motif/time,motif/well,concept/body,character/bottom"></span>
 
 
 should appear upon it, and the cushion should not be seen while
@@ -2391,7 +2391,7 @@ Automaton, and the idea of any person being concealed in the
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Maelzel's Chess-Player (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Maelzel's Chess-Player (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/machine,concept/doubt"></span>
 
 
 interior, during so complete an exhibition of that interior, if
@@ -2573,7 +2573,7 @@ confidently of a magnet. Of the first of these opinions we shall
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Maelzel's Chess-Player (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Maelzel's Chess-Player (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/machine,motif/time,motif/well,concept/body,concept/doubt,concept/suffering,concept/wonder,form/essay,setting/paris,character/dwarf"></span>
 
 
 say nothing at present more than we have already said. In
@@ -2753,7 +2753,7 @@ But, in reality, this particular point, the shifting of the
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Maelzel's Chess-Player (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Maelzel's Chess-Player (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/time,motif/well,concept/body,concept/nature,form/essay"></span>
 
 
 partitions, is of no consequence whatever. It was altogether
@@ -2937,7 +2937,7 @@ about six inches in breadth) partitioned off at the right (the
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="Maelzel's Chess-Player (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Maelzel's Chess-Player (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/machine,motif/time"></span>
 
 
 spectators’ right) of the main compartment.
@@ -3129,7 +3129,7 @@ scrutinizing this machinery while the Automaton was in motion,
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="Maelzel's Chess-Player (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="Maelzel's Chess-Player (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/machine,motif/spring,motif/time,concept/deception,concept/doubt"></span>
 
 
 that is to say while the whole [[Machine|machine]] was moving on the castors,
@@ -3311,7 +3311,7 @@ consciousness of its not being a pure [[Machine|machine]], is the reason of
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="Maelzel's Chess-Player (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="Maelzel's Chess-Player (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/machine,motif/silence,concept/body,character/bottom"></span>
 
 
 his [[Silence|silence]]—his actions cannot implicate him in a falsehood—his
@@ -3503,7 +3503,7 @@ cupboard No. 1 while the main compartment is open—and the game of
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="Maelzel's Chess-Player (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="Maelzel's Chess-Player (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/machine,motif/well,concept/body,concept/truth"></span>
 
 
 chess is never commenced until the whole [[Machine|machine]] is closed. Now

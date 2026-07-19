@@ -23683,7 +23683,7 @@ pass away, like a tale that is told!
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Old Curiosity Shop — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Old Curiosity Shop — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/dreams,motif/flowers,motif/garden,motif/home,motif/love,motif/night,motif/noon,motif/pain,motif/road,motif/spring,motif/summer,motif/time,motif/water,motif/window,concept/hope,concept/poverty,concept/suicide,concept/truth,concept/wonder,setting/castle,setting/court"></span>
 
 
 CHAPTER 1
@@ -23798,7 +23798,7 @@ neatness, and betrayed no marks of [[Poverty|poverty]] or neglect.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Old Curiosity Shop — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Old Curiosity Shop — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/fire,motif/ghosts,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/time,concept/fear,concept/jealousy,concept/nature,concept/truth,form/riddle"></span>
 
 
 ‘Who has sent you so far by yourself?’ said I.
@@ -23918,7 +23918,7 @@ little Nelly!’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Old Curiosity Shop — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Old Curiosity Shop — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/love,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,form/comedy"></span>
 
 
 It would be impossible for any man, I care not what his form of speech
@@ -24044,7 +24044,7 @@ dost not like that I should seem to [[Doubt|doubt]] it by my question? [[Well]],
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Old Curiosity Shop — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Old Curiosity Shop — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/home,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/beauty"></span>
 
 
 ‘Indeed, indeed you do,’ replied the [[Child|child]] with great earnestness, ‘Kit
@@ -24183,7 +24183,7 @@ thee a hundred times! Early in the morning I shall be [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Old Curiosity Shop — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Old Curiosity Shop — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/decay,motif/dreams,motif/dust,motif/fire,motif/grave,motif/home,motif/love,motif/night,motif/road,motif/sleep,motif/time,motif/well,motif/window,concept/faith"></span>
 
 
 ‘You’ll not ring twice,’ returned the [[Child|child]]. ‘The bell wakes me, even
@@ -24270,7 +24270,7 @@ slumber, smiling through her light and sunny [[Dreams|dreams]].
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Old Curiosity Shop — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Old Curiosity Shop — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dust,motif/fire,motif/night,motif/road,motif/secrets,motif/soul,motif/time,motif/well,concept/friendship,concept/hope,character/dick_swiveller,character/fred"></span>
 
 
 CHAPTER 2
@@ -24393,7 +24393,7 @@ little whisper, [[Fred]]--is the old min friendly?’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Old Curiosity Shop — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Old Curiosity Shop — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/memory,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/friendship,concept/hope,concept/self,character/fred"></span>
 
 
 ‘Never you mind,’ replied his friend.
@@ -24554,7 +24554,7 @@ propriety of an immediate departure, when the door opened, and the
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Old Curiosity Shop — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Old Curiosity Shop — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/secrets,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/grotesque,concept/wonder,character/daniel_quilp,character/dick_swiveller,character/dwarf,character/fred"></span>
 
 
 CHAPTER 3
@@ -24698,7 +24698,7 @@ are awake, sir?’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Old Curiosity Shop — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Old Curiosity Shop — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/flowers,motif/love,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/fear,concept/honour,concept/hope,concept/solitude,character/dwarf"></span>
 
 
 The [[Dwarf|dwarf]] nodded. Mr Swiveller drew back and nodded likewise, then drew
@@ -24819,7 +24819,7 @@ mercies--Hark! I hear Kit outside. Go to him, Nell, go to him.’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Old Curiosity Shop — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Old Curiosity Shop — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/grave,motif/night,motif/rose,motif/tears,motif/time,concept/doubt,concept/history,concept/hope,concept/poverty,form/history"></span>
 
 
 She [[Rose|rose]], and hurrying away, stopped, turned back, and put her arms
@@ -24887,7 +24887,7 @@ themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Old Curiosity Shop — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Old Curiosity Shop — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/rebel,motif/cross,motif/dust,motif/hill,motif/river,motif/ship,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/friendship,concept/wonder,setting/ship,character/daniel_quilp,character/dwarf"></span>
 
 
 CHAPTER 4
@@ -24996,7 +24996,7 @@ when I spoke ‘em!’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Old Curiosity Shop — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Old Curiosity Shop — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/tyrant,motif/cross,motif/death,motif/lamb,motif/love,motif/marriage,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,character/daniel_quilp"></span>
 
 
 Poor Mrs Quilp, who had looked in a state of helplessness from one face
@@ -25119,7 +25119,7 @@ attention.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Old Curiosity Shop — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Old Curiosity Shop — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/night,motif/ship,motif/stars,motif/time,motif/window,concept/fear,concept/hope,setting/ship,character/dwarf"></span>
 
 
 ‘Go on, ladies, go on,’ said Daniel. ‘Mrs Quilp, pray ask the ladies to
@@ -25245,7 +25245,7 @@ restlessness or fatigue; and then it expanded into a grin of delight.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Old Curiosity Shop — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Old Curiosity Shop — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/monster,archetype/tyrant,archetype/villain,motif/city,motif/desire,motif/mirror,motif/night,motif/river,motif/sleep,motif/soul,motif/time,motif/water,concept/doubt,concept/grotesque,character/dwarf"></span>
 
 
 CHAPTER 5
@@ -25380,7 +25380,7 @@ his name.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Old Curiosity Shop — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Old Curiosity Shop — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/clock,motif/cross,motif/night,motif/pain,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/doubt,character/daniel_quilp,character/dwarf"></span>
 
 
 It was flood tide when [[Daniel Quilp]] sat himself down in the ferry to
@@ -25527,7 +25527,7 @@ on his hand, proceeded to make himself acquainted with its contents.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Old Curiosity Shop — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Old Curiosity Shop — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/hill,motif/home,motif/pain,motif/soul,motif/time,motif/well,concept/courage,concept/fear,concept/grotesque,character/dwarf,character/little_nell"></span>
 
 
 CHAPTER 6
@@ -25660,7 +25660,7 @@ profile between you, I will.’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Old Curiosity Shop — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Old Curiosity Shop — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/villain,motif/home,motif/lion,motif/love,motif/river,motif/secrets,motif/soul,motif/time,motif/water,motif/wind,concept/truth,character/dwarf"></span>
 
 
 ‘Come, you drop that stick or it’ll be worse for you,’ said his boy,
@@ -25799,7 +25799,7 @@ thought I saw that door moving!’
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Old Curiosity Shop — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Old Curiosity Shop — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/grave,motif/home,motif/love,motif/night,motif/rose,motif/sleep,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/revenge,character/dwarf"></span>
 
 
 ‘To be so thoughtful and dejected, and to forget our old way of
@@ -25944,7 +25944,7 @@ most in vogue.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Old Curiosity Shop — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Old Curiosity Shop — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/death,motif/home,motif/time,motif/water,motif/window,concept/deception,concept/doubt,concept/faith,concept/friendship,character/fred,character/richard"></span>
 
 
 CHAPTER 7
@@ -26071,7 +26071,7 @@ Now look here. Nell is nearly fourteen.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Old Curiosity Shop — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Old Curiosity Shop — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/poverty,concept/vanity,character/diana,character/fred,character/richard"></span>
 
 
 ‘Fine girl of her age, but small,’ observed [[Richard]] Swiveller
@@ -26242,7 +26242,7 @@ exert it.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Old Curiosity Shop — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Old Curiosity Shop — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/grave,motif/night,motif/rose,motif/tears,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/truth,character/fred,character/queen,character/richard"></span>
 
 
 CHAPTER 8
@@ -26350,7 +26350,7 @@ that, but it’s as [[Well|well]] to be on the safe side.’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Old Curiosity Shop — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Old Curiosity Shop — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/night,motif/rose,motif/time,motif/well,motif/window,concept/jealousy,concept/mercy,concept/truth,character/richard"></span>
 
 
 This undeveloped was the possibility, which [[Richard]] Swiveller sought to
@@ -26458,7 +26458,7 @@ Cheggs meant by his impudence.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Old Curiosity Shop — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Old Curiosity Shop — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/love,motif/soul,motif/tears,motif/time,concept/pride,concept/wonder,character/richard"></span>
 
 
 However, Mr Swiveller had Miss Sophy’s hand for the first quadrille
@@ -26583,7 +26583,7 @@ it’s quite serious and in earnest, that’s clear.’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Old Curiosity Shop — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Old Curiosity Shop — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/night,motif/soul,concept/truth,setting/court,character/fred,character/richard"></span>
 
 
 ‘What’s he been saying, my dear?’ demanded Mrs Wackles.
@@ -26662,7 +26662,7 @@ brick-field.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Old Curiosity Shop — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Old Curiosity Shop — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/dreams,motif/home,motif/leaves,motif/love,motif/night,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/loneliness,concept/madness,character/phantom"></span>
 
 
 CHAPTER 9
@@ -26771,7 +26771,7 @@ summons which had roused her from her slumber.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Old Curiosity Shop — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Old Curiosity Shop — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/sleep,motif/time,motif/wind,concept/doubt,concept/fear,concept/melancholy,character/daniel_quilp,character/dwarf,character/little_nell,character/nurse"></span>
 
 
 One [[Night|night]], the third after Nelly’s interview with Mrs Quilp, the old
@@ -26896,7 +26896,7 @@ else, when he could.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Old Curiosity Shop — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Old Curiosity Shop — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/orphan,motif/blood,motif/desert,motif/love,motif/sleep,motif/time,motif/well,concept/fear,concept/hope,concept/poverty,setting/desert,character/dwarf"></span>
 
 
 ‘She’s so,’ said Quilp, speaking very slowly, and feigning to be quite
@@ -27022,7 +27022,7 @@ Quilp.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Old Curiosity Shop — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Old Curiosity Shop — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/city,motif/night,motif/time,motif/well,motif/wind,concept/despair,concept/fear,concept/hope,concept/poverty,concept/self,setting/court,character/dwarf"></span>
 
 
 ‘The last advance was seventy,’ said the [[Dwarf|dwarf]]; ‘and it went in one
@@ -27093,7 +27093,7 @@ And with that he went his way, still chuckling as he went.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Old Curiosity Shop — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Old Curiosity Shop — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,archetype/shadow,motif/clock,motif/fire,motif/home,motif/love,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/fear,concept/hope,concept/wonder,setting/court,character/daniel_quilp,character/speed"></span>
 
 
 CHAPTER 10
@@ -27218,7 +27218,7 @@ you think she’s safe in hers.’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Old Curiosity Shop — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Old Curiosity Shop — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,concept/wonder"></span>
 
 
 ‘Never mind what she’d say,’ replied Kit, with something like a blush
@@ -27348,7 +27348,7 @@ stupefaction.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Old Curiosity Shop — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Old Curiosity Shop — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/fire,motif/night,motif/swallow,motif/time,concept/doubt,concept/solitude,setting/london,character/dwarf"></span>
 
 
 CHAPTER 11
@@ -27464,7 +27464,7 @@ odious pipe.  ‘But if he should get better, Mr Quilp?’
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Old Curiosity Shop — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Old Curiosity Shop — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/hope,character/dwarf,character/little_nell"></span>
 
 
 ‘Then we shall stop till he does, and no longer,’ returned the [[Dwarf|dwarf]].
@@ -27592,7 +27592,7 @@ I said I never would believe that it was your doing.’
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Old Curiosity Shop — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Old Curiosity Shop — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dreams,motif/home,motif/nature,motif/night,motif/seasons,motif/tears,motif/time,motif/well,motif/window,concept/nature,setting/court"></span>
 
 
 ‘That was right!’ said the [[Child|child]] eagerly.
@@ -27697,7 +27697,7 @@ patch-work than with purple and fine linen!
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Old Curiosity Shop — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Old Curiosity Shop — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/death,motif/desert,motif/leaves,motif/moon,motif/night,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/hope,concept/pride,concept/suffering,concept/wonder,setting/desert,character/dwarf"></span>
 
 
 CHAPTER 12
@@ -27820,7 +27820,7 @@ though he would fall upon his knees, besought her to forgive him.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Old Curiosity Shop — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Old Curiosity Shop — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/death,motif/dreams,motif/journey,motif/night,motif/rose,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/hope,concept/solitude,concept/suffering"></span>
 
 
 ‘Forgive you--what?’ said Nell, interposing to prevent his purpose.
@@ -27943,7 +27943,7 @@ few steps to fetch it seemed an interminable delay.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Old Curiosity Shop — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Old Curiosity Shop — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/night,motif/silence,motif/time,concept/fear,concept/hope,character/little_nell"></span>
 
 
 At last they reached the passage on the ground floor, where the snoring
@@ -27999,7 +27999,7 @@ adventurers, wandering they knew not whither.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Old Curiosity Shop — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Old Curiosity Shop — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/dance,motif/hill,motif/night,motif/time,concept/mercy,setting/court,setting/london,character/daniel_quilp,character/dwarf,character/richard,character/sampson_brass"></span>
 
 
 CHAPTER 13
@@ -28119,7 +28119,7 @@ want?’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Old Curiosity Shop — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Old Curiosity Shop — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/fire,motif/home,motif/night,motif/soul,motif/time,motif/well,concept/doubt,concept/self,character/daniel_quilp,character/dwarf,character/richard"></span>
 
 
 ‘I want to know how the old gentleman is,’ rejoined Mr Swiveller, ‘and
@@ -28249,7 +28249,7 @@ saw them.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Old Curiosity Shop — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Old Curiosity Shop — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/horse,motif/nature,motif/night,motif/time,motif/well,concept/friendship,concept/honour,concept/nature,character/dwarf"></span>
 
 
 ‘And say,’ added Mr Swiveller, ‘say, sir, that I was wafted here upon
@@ -28416,7 +28416,7 @@ birdseed, and a bit of something nice for you, into the bargain.’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Old Curiosity Shop — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Old Curiosity Shop — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/desire,motif/fire,motif/home,motif/horse,motif/night,motif/road,motif/time,motif/window,motif/winter,concept/fear,concept/self,concept/wonder,setting/london,character/daniel_quilp,character/speed"></span>
 
 
 CHAPTER 14
@@ -28533,7 +28533,7 @@ upon her.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Old Curiosity Shop — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Old Curiosity Shop — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth"></span>
 
 
 They went, as it was easy to tell from the sound of their voices, into
@@ -28683,7 +28683,7 @@ half expected Nell and the old man would have arrived before him.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Old Curiosity Shop — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Old Curiosity Shop — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/dreams,motif/dust,motif/flowers,motif/journey,motif/love,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/well,motif/window,concept/body,concept/fear,concept/hope,concept/poverty,concept/self,concept/wonder"></span>
 
 
 CHAPTER 15
@@ -28803,7 +28803,7 @@ way to Heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Old Curiosity Shop — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Old Curiosity Shop — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/quest,archetype/child,archetype/innocent,archetype/pilgrim,motif/bees,motif/birds,motif/city,motif/cross,motif/flowers,motif/garden,motif/hill,motif/home,motif/horse,motif/journey,motif/leaves,motif/memory,motif/road,motif/rose,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/freedom,setting/london"></span>
 
 
 At length these streets becoming more straggling yet, dwindled and
@@ -28919,7 +28919,7 @@ trim-hedged fields on either hand, and the open [[Road|road]] again.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Old Curiosity Shop — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Old Curiosity Shop — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/horse,motif/night,motif/road,motif/tears,motif/time,setting/london,character/dwarf"></span>
 
 
 They walked all day, and slept that [[Night|night]] at a small cottage where beds
@@ -29055,7 +29055,7 @@ spot, they directed their weary steps.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Old Curiosity Shop — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Old Curiosity Shop — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/hero,motif/cross,motif/ghosts,motif/horse,motif/night,motif/stone_and_marble,motif/time,concept/body,concept/doubt,concept/hope,character/sunday"></span>
 
 
 CHAPTER 16
@@ -29173,7 +29173,7 @@ friend:
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Old Curiosity Shop — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Old Curiosity Shop — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/pain,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/beauty,setting/london"></span>
 
 
 ‘Look here; here’s all this judy’s clothes falling to pieces again.
@@ -29297,7 +29297,7 @@ going to bed with a lighter heart sunk into a deep slumber.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Old Curiosity Shop — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Old Curiosity Shop — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/decay,motif/flowers,motif/grave,motif/home,motif/love,motif/night,motif/pain,motif/rose,motif/silence,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/self,concept/wonder"></span>
 
 
 CHAPTER 17
@@ -29408,7 +29408,7 @@ thoughtfully retraced her steps.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Old Curiosity Shop — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Old Curiosity Shop — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/desire,motif/fire,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/hope,concept/misanthropy,concept/solitude,form/fragment"></span>
 
 
 The old man was by this [[Time|time]] up and dressed.  Mr Codlin, still doomed
@@ -29535,7 +29535,7 @@ heels.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Old Curiosity Shop — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Old Curiosity Shop — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/journey,motif/moon,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/misanthropy,character/bottom,character/speed"></span>
 
 
 They made a long day’s [[Journey|journey]], despite these interruptions, and were
@@ -29633,7 +29633,7 @@ threatening rain.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Old Curiosity Shop — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Old Curiosity Shop — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/hope,character/chorus"></span>
 
 
 CHAPTER 18
@@ -29745,7 +29745,7 @@ old man had not long taken their seats here, when they fell asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Old Curiosity Shop — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Old Curiosity Shop — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/grave,motif/moon,motif/road,motif/time,motif/well,concept/melancholy,setting/london"></span>
 
 
 ‘Who are they?’ whispered the landlord.
@@ -29868,7 +29868,7 @@ here, wot I think you know something of, Short.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Old Curiosity Shop — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Old Curiosity Shop — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/time,concept/doubt,character/little_nell"></span>
 
 
 ‘Ah!’ cried Short, ‘let’s have a look at him.’
@@ -29951,7 +29951,7 @@ applied himself with increased diligence to the Old Hundredth.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Old Curiosity Shop — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Old Curiosity Shop — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/night,motif/swallow,motif/time,motif/water,motif/well,motif/winter,form/satire,setting/london,character/dwarf"></span>
 
 
 CHAPTER 19
@@ -30085,7 +30085,7 @@ it was me that was your friend?’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Old Curiosity Shop — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Old Curiosity Shop — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/desire,motif/dreams,motif/dust,motif/horse,motif/nature,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/friendship,concept/history,concept/jealousy,concept/nature,form/history"></span>
 
 
 ‘Say so where--and when?’ inquired the [[Child|child]] innocently.
@@ -30189,7 +30189,7 @@ gritty cloud it raised, and left them, stunned and blinded, far behind.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Old Curiosity Shop — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Old Curiosity Shop — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/dance,motif/flowers,motif/night,motif/sleep,motif/time,motif/well,concept/poverty"></span>
 
 
 It was dark before they reached the town itself, and long indeed the
@@ -30304,7 +30304,7 @@ flourished boldly in the sun.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="The Old Curiosity Shop — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="The Old Curiosity Shop — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/hill,motif/home,motif/time"></span>
 
 
 Along the uncleared course, Short led his party, sounding the brazen
@@ -30366,7 +30366,7 @@ for breaking in upon its sanctity, and creeping under the brow of the
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="The Old Curiosity Shop — Chapter 20" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="The Old Curiosity Shop — Chapter 20" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/child,motif/death,motif/fire,motif/flowers,motif/home,motif/nature,motif/road,motif/ship,motif/silence,motif/time,motif/well,motif/window,concept/courage,concept/fear,concept/hope,concept/nature,concept/truth,setting/ship,character/speed"></span>
 
 
 CHAPTER 20
@@ -30589,7 +30589,7 @@ than once turning to nod kindly to Kit as he watched them from the [[Road|road]]
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Old Curiosity Shop — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Old Curiosity Shop — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/leaves,motif/nature,motif/night,motif/time,motif/water,motif/window,concept/history,concept/nature,form/history,setting/court"></span>
 
 
 CHAPTER 21
@@ -30705,7 +30705,7 @@ them drive away with a lightened heart.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Old Curiosity Shop — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Old Curiosity Shop — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/river,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,concept/hope,character/daniel_quilp,character/dwarf,character/little_nell,character/richard"></span>
 
 
 ‘[[Well]], mother,’ said Kit, hurrying back into the [[house]], ‘I think my
@@ -30831,7 +30831,7 @@ where Quilp had frozen him.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Old Curiosity Shop — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Old Curiosity Shop — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/night,motif/poison,motif/river,motif/rose,motif/summer,motif/time,motif/water,motif/well,concept/beauty,character/daniel_quilp,character/dwarf,character/richard"></span>
 
 
 The [[Summer|summer]]-[[house]] of which Mr Quilp had spoken was a rugged wooden box,
@@ -30974,7 +30974,7 @@ and thinking of that same gold and silver which Mr Quilp had mentioned.
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="The Old Curiosity Shop — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="The Old Curiosity Shop — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="archetype/child,motif/birds,motif/clock,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/nature,motif/prayer,motif/road,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/temptation,form/hymn,histref/bible,character/bottom"></span>
 
 
 CHAPTER 22
@@ -31181,7 +31181,7 @@ confusion at having been detected by the other.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Old Curiosity Shop — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Old Curiosity Shop — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/orphan,motif/home,motif/sleep,motif/time,concept/body,concept/fear,concept/friendship,concept/wonder,character/dick_swiveller,character/dwarf,character/richard"></span>
 
 
 CHAPTER 23
@@ -31302,7 +31302,7 @@ that his friend received the tale.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Old Curiosity Shop — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Old Curiosity Shop — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/forgiveness,concept/hope,concept/jealousy,concept/nature,character/dwarf,character/fred,character/richard"></span>
 
 
 ‘I don’t defend myself, [[Fred]],’ said the penitent [[Richard]]; ‘but the
@@ -31421,7 +31421,7 @@ be convinced.’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Old Curiosity Shop — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Old Curiosity Shop — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,motif/blood,motif/home,motif/night,motif/time,motif/well,motif/window,concept/conscience,concept/truth,concept/wonder,character/dwarf,character/fred,character/little_nell,character/richard"></span>
 
 
 ‘I [[Wonder|wonder]] at that, Mr Quilp,’ said the young man sarcastically.
@@ -31576,7 +31576,7 @@ done, be a very tolerable, average husband.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Old Curiosity Shop — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Old Curiosity Shop — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/garden,motif/leaves,motif/nature,motif/road,motif/rose,motif/silence,motif/time,motif/window,concept/courage,concept/fear,concept/imagination,concept/nature"></span>
 
 
 CHAPTER 24
@@ -31688,7 +31688,7 @@ door.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Old Curiosity Shop — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Old Curiosity Shop — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/clock,motif/garden,motif/love,motif/night,motif/prayer,motif/rose,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/doubt,concept/hope,concept/wonder"></span>
 
 
 ‘I am almost afraid to disturb him,’ said the [[Child|child]] timidly.  ‘He does
@@ -31826,7 +31826,7 @@ sickness.  It is a very, very little hand!’
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Old Curiosity Shop — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Old Curiosity Shop — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/journey,motif/night,motif/rose,motif/summer,motif/time,motif/well,motif/wind,concept/charity,concept/honour,concept/hope,character/nurse"></span>
 
 
 CHAPTER 25
@@ -31954,7 +31954,7 @@ relapsed again, it broke out afresh, and ten times louder than before.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Old Curiosity Shop — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Old Curiosity Shop — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/birds,motif/clock,motif/flowers,motif/garden,motif/night,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/madness,form/fable"></span>
 
 
 Oh! how some of those idle fellows longed to be outside, and how they
@@ -32065,7 +32065,7 @@ uncomplaining.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Old Curiosity Shop — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Old Curiosity Shop — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/garden,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/fear,concept/hope"></span>
 
 
 Towards [[Night|night]] an old woman came tottering up the [[Garden|garden]] as speedily as
@@ -32166,7 +32166,7 @@ felt that; and yet he chafed it still, and could not lay it down.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="The Old Curiosity Shop — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="The Old Curiosity Shop — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/decay,motif/dreams,motif/flowers,motif/horse,motif/night,motif/pain,motif/road,motif/rose,motif/tears,motif/time,motif/window,concept/freedom,concept/history,concept/hope,form/history"></span>
 
 
 CHAPTER 26
@@ -32282,7 +32282,7 @@ but hungry admiration.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="The Old Curiosity Shop — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="The Old Curiosity Shop — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/desire,motif/night,motif/road,motif/time,motif/water,motif/well,concept/doubt"></span>
 
 
 ‘Hey!’ cried the lady of the caravan, scooping the crumbs out of her
@@ -32414,7 +32414,7 @@ said,
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="The Old Curiosity Shop — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="The Old Curiosity Shop — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="topos/double,motif/horse,motif/journey,motif/nature,motif/time,motif/window,concept/hope,concept/nature,character/oliver"></span>
 
 
 ‘Have you nearly finished?’
@@ -32476,7 +32476,7 @@ its own accord as they jolted heavily along.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="The Old Curiosity Shop — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="The Old Curiosity Shop — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/machine,motif/ship,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/freedom,concept/humility,concept/pride,form/inscription,form/parody,setting/ship,character/little_nell"></span>
 
 
 CHAPTER 27
@@ -32603,7 +32603,7 @@ exactly like wax-work.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="The Old Curiosity Shop — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="The Old Curiosity Shop — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/sublime,concept/wonder"></span>
 
 
 ‘Is it here, ma’am?’ asked Nell, whose curiosity was awakened by this
@@ -32735,7 +32735,7 @@ quantity plentiful.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="The Old Curiosity Shop — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="The Old Curiosity Shop — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dreams,motif/machine,motif/moon,motif/night,motif/road,motif/sleep,motif/time,concept/fear,concept/pride,concept/self,setting/london,character/dwarf,character/speed"></span>
 
 
 Nell and her grandfather consulted together, and while they were so
@@ -32869,7 +32869,7 @@ has no consciousness but one of overpowering and irresistible enjoyment.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="The Old Curiosity Shop — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="The Old Curiosity Shop — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/dust,motif/night,motif/noon,motif/sleep,motif/soul,motif/time,motif/well,motif/window,motif/winter,concept/honour,concept/wonder"></span>
 
 
 CHAPTER 28
@@ -32981,7 +32981,7 @@ the [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="The Old Curiosity Shop — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="The Old Curiosity Shop — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/fire,motif/memory,motif/soul,motif/time,motif/well,motif/window,concept/history,concept/honour,form/history,form/inscription,form/parody,character/queen,character/queen_elizabeth,character/sunday"></span>
 
 
 ‘I came here,’ said the military gentleman turning to Mrs Jarley--‘’pon
@@ -33132,7 +33132,7 @@ flourishing campaign.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="The Old Curiosity Shop — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="The Old Curiosity Shop — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/love,motif/night,motif/silence,motif/stars,motif/tears,motif/well,motif/window,concept/beauty,concept/wonder,character/dwarf,character/little_nell,character/queen"></span>
 
 
 CHAPTER 29
@@ -33236,7 +33236,7 @@ restored.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="The Old Curiosity Shop — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="The Old Curiosity Shop — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/fire,motif/lightning,motif/night,motif/road,motif/storm,motif/water,motif/well,motif/wind,concept/wonder"></span>
 
 
 But, the bitterness of her grief was not in beholding him in this
@@ -33349,7 +33349,7 @@ was looking over his shoulder, if anybody could have seen him.’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="The Old Curiosity Shop — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="The Old Curiosity Shop — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/love,motif/time,motif/well,motif/window,concept/fear,concept/honour,concept/hope,concept/truth"></span>
 
 
 ‘Ah!’ returned the gruff voice; ‘for all old Luke’s winning through
@@ -33486,7 +33486,7 @@ have found that out.’
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="The Old Curiosity Shop — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="The Old Curiosity Shop — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/lightning,motif/storm,motif/time,motif/window,concept/wonder"></span>
 
 
 ‘Now, mister,’ said the stout man.  ‘If you’re not coming yourself,
@@ -33540,7 +33540,7 @@ forgotten.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="The Old Curiosity Shop — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="The Old Curiosity Shop — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/night,motif/rose,motif/storm,motif/time,concept/poverty"></span>
 
 
 CHAPTER 30
@@ -33667,7 +33667,7 @@ thinking of it, when a girl came to light her to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="The Old Curiosity Shop — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="The Old Curiosity Shop — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/dawn,motif/dreams,motif/night,motif/sleep,motif/summer,motif/time,motif/window,concept/body,character/bottom"></span>
 
 
 The old man took leave of the company at the same [[Time|time]], and they went
@@ -33776,7 +33776,7 @@ bright--counting the money of which his hands had robbed her.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="The Old Curiosity Shop — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="The Old Curiosity Shop — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/desire,motif/love,motif/night,motif/road,motif/silence,motif/sleep,motif/tears,motif/well,concept/courage,concept/fear,concept/hope,concept/imagination,concept/truth,character/little_nell,character/phantom"></span>
 
 
 CHAPTER 31
@@ -33894,7 +33894,7 @@ secret, cunning way in which he had spoken until now.  ‘Poor Nell, poor
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="The Old Curiosity Shop — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="The Old Curiosity Shop — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/garden,motif/home,motif/rose,motif/silence,motif/storm,motif/tears,motif/time,motif/well,concept/doubt,concept/truth"></span>
 
 
 The [[Child|child]] hung down her head and wept.  The sympathising tone in which
@@ -34010,7 +34010,7 @@ commanded that the line should halt.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="The Old Curiosity Shop — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="The Old Curiosity Shop — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/rose,motif/tears,motif/time,concept/humility,concept/pride,concept/wonder"></span>
 
 
 ‘You’re the wax-work [[Child|child]], are you not?’ said Miss Monflathers.
@@ -34142,7 +34142,7 @@ vexed and irritated with the poor apprentice--how did that come to pass?
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="The Old Curiosity Shop — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="The Old Curiosity Shop — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/nature,motif/time,concept/honour,concept/nature,character/little_nell"></span>
 
 
 Why, the gayest feather in Miss Monflathers’s cap, and the brightest
@@ -34196,7 +34196,7 @@ obliged to walk together.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="The Old Curiosity Shop — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="The Old Curiosity Shop — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/fire,motif/home,motif/memory,motif/night,motif/tears,motif/time,motif/well,concept/body,concept/despair,concept/history,concept/hope,concept/humility,concept/imagination,concept/revenge,concept/truth,concept/wonder,form/history,setting/london"></span>
 
 
 CHAPTER 32
@@ -34302,7 +34302,7 @@ and the [[Tears|tears]] they shed, would have told their [[history]] by themselv
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="The Old Curiosity Shop — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="The Old Curiosity Shop — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/nature,motif/night,motif/noon,motif/pain,motif/river,motif/tears,motif/time,motif/well,concept/body,concept/nature,character/little_nell,character/nurse"></span>
 
 
 They became a little more composed in a short [[Time|time]], and went away, not
@@ -34412,7 +34412,7 @@ in [[Time|time]], be in [[Time|time]], be in [[Time|time]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="The Old Curiosity Shop — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="The Old Curiosity Shop — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/love,motif/nature,motif/soul,motif/window,concept/doubt,concept/history,concept/imagination,concept/nature,form/history,character/sally_brass,character/sampson_brass"></span>
 
 
 CHAPTER 33
@@ -34518,7 +34518,7 @@ had come to the ground.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="The Old Curiosity Shop — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="The Old Curiosity Shop — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/leaves,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/fear,character/daniel_quilp,character/dwarf,character/richard,character/sally_brass,character/sampson_brass"></span>
 
 
 One morning Mr [[Sampson Brass]] sat upon his stool copying some legal
@@ -34646,7 +34646,7 @@ To this amorous address Miss Brass briefly responded ‘Bother!’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="The Old Curiosity Shop — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="The Old Curiosity Shop — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/dawn,motif/leaves,motif/time,motif/well,motif/wind,motif/window,concept/friendship,concept/wonder,character/dick_swiveller,character/dwarf,character/richard,character/sally_brass"></span>
 
 
 ‘Hold your nonsense, Mr Quilp, do,’ returned Miss Sally, with a grim
@@ -34805,7 +34805,7 @@ a great victory.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="The Old Curiosity Shop — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="The Old Curiosity Shop — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="topos/double,motif/home,motif/nature,motif/silence,motif/time,motif/window,concept/doubt,concept/hope,concept/nature,concept/self,character/fred"></span>
 
 
 CHAPTER 34
@@ -34922,7 +34922,7 @@ office door.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="The Old Curiosity Shop — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="The Old Curiosity Shop — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/sleep,motif/storm,motif/supernatural,motif/time,motif/well,motif/window,motif/winter,concept/hope,character/richard,character/sampson_brass"></span>
 
 
 ‘Come in!’ said Dick.  ‘Don’t stand upon ceremony.  The business will
@@ -35062,7 +35062,7 @@ But it’s no business of mine--I have nothing whatever to do with it!’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="The Old Curiosity Shop — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="The Old Curiosity Shop — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,motif/home,motif/nature,motif/silence,motif/sleep,motif/time,motif/well,concept/hope,concept/nature,character/richard"></span>
 
 
 CHAPTER 35
@@ -35181,7 +35181,7 @@ evidence.’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="The Old Curiosity Shop — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="The Old Curiosity Shop — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/clock,motif/memory,motif/night,motif/sleep,motif/time,motif/water,motif/window,setting/london,character/richard"></span>
 
 
 Mr Swiveller took a large sheet of foolscap, and with a countenance of
@@ -35328,7 +35328,7 @@ lest she should be rendered deaf for life.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="The Old Curiosity Shop — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="The Old Curiosity Shop — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/fire,motif/road,motif/silence,motif/sleep,motif/time,motif/water,concept/courage,concept/hope,character/richard"></span>
 
 
 Suddenly the door was unlocked on the inside, and flung violently open.
@@ -35456,7 +35456,7 @@ here.’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="The Old Curiosity Shop — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="The Old Curiosity Shop — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/clock,motif/time,motif/water,motif/well,concept/history,concept/imagination,concept/self,concept/truth,form/history"></span>
 
 
 ‘And a very little one,’ repeated the lodger.  ‘[[Well]], the place will
@@ -35531,7 +35531,7 @@ the public-[[house]] in the course of the evening.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="The Old Curiosity Shop — Chapter 36" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="The Old Curiosity Shop — Chapter 36" data-chapter="Chapter 36" data-kind="chapter" data-tags="archetype/child,archetype/ghost,motif/childhood,motif/fire,motif/home,motif/love,motif/rose,motif/time,motif/water,concept/despair,concept/doubt,concept/friendship,concept/humility,concept/truth,concept/wonder,character/mermaid,character/nurse,character/richard,character/sally_brass"></span>
 
 
 CHAPTER 36
@@ -35748,7 +35748,7 @@ just as [[Richard]] had safely reached the office.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="The Old Curiosity Shop — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="The Old Curiosity Shop — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/rose,motif/time,motif/water,motif/well,motif/window,concept/despair,concept/doubt,concept/faith,concept/honour,character/speed"></span>
 
 
 CHAPTER 37
@@ -35868,7 +35868,7 @@ established themselves as comfortably as the circumstances would allow.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="The Old Curiosity Shop — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="The Old Curiosity Shop — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/spring,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/body,concept/doubt,concept/hope,concept/melancholy,setting/london,character/speed"></span>
 
 
 The glass being dim, Mr Swiveller, agreeably to a friendly custom which
@@ -35996,7 +35996,7 @@ pitch.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="The Old Curiosity Shop — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="The Old Curiosity Shop — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/well,concept/hope,character/sally_brass"></span>
 
 
 ‘You are the two men I want,’ he said, ‘the two men I have been looking
@@ -36075,7 +36075,7 @@ Swiveller and Miss [[Sally Brass]].
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="The Old Curiosity Shop — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="The Old Curiosity Shop — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/animals,motif/blood,motif/desire,motif/home,motif/love,motif/spring,motif/time,concept/guilt,concept/honour,concept/poverty,concept/pride,concept/self,concept/truth,setting/court"></span>
 
 
 CHAPTER 38
@@ -36184,7 +36184,7 @@ pleasantry with patronage.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="The Old Curiosity Shop — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="The Old Curiosity Shop — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/city,motif/desire,motif/time,concept/forgiveness,concept/honour,concept/hope,concept/wonder,character/sampson_brass,character/speed"></span>
 
 
 One morning Kit drove Mr Abel to the Notary’s office, as he sometimes
@@ -36312,7 +36312,7 @@ learn some further particulars.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="The Old Curiosity Shop — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="The Old Curiosity Shop — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/time,motif/well,concept/doubt,concept/eternity,concept/honour,concept/hope,concept/truth,character/apollo,character/richard"></span>
 
 
 ‘Not by inquiry,’ said the gentleman shaking his head.  ‘I live there.’
@@ -36476,7 +36476,7 @@ into his pockets and sauntered away: still pondering as he went.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="The Old Curiosity Shop — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="The Old Curiosity Shop — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dreams,motif/love,motif/night,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/truth"></span>
 
 
 CHAPTER 39
@@ -36591,7 +36591,7 @@ have said it.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="The Old Curiosity Shop — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="The Old Curiosity Shop — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="topos/double,archetype/tyrant,motif/home,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/wonder,character/chorus"></span>
 
 
 However, it was high [[Time|time]] now to be thinking of the play; for which
@@ -36727,7 +36727,7 @@ baby, they all trudged merrily [[Home|home]] together.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="The Old Curiosity Shop — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="The Old Curiosity Shop — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/chalk,motif/cross,motif/garden,motif/home,motif/horse,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/courage,concept/doubt,concept/faith,concept/hope,concept/nature,concept/wonder,form/inscription,setting/london"></span>
 
 
 CHAPTER 40
@@ -36849,7 +36849,7 @@ think he might have done at first.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="The Old Curiosity Shop — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="The Old Curiosity Shop — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/home,motif/horse,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,setting/court"></span>
 
 
 ‘He has no right to think that I’d be led away to go to him, sir,’ said
@@ -36967,7 +36967,7 @@ the front windows.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="The Old Curiosity Shop — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="The Old Curiosity Shop — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/night,motif/time,form/novel"></span>
 
 
 When they reached the Notary’s [[house]], Kit followed into the office, and
@@ -37064,7 +37064,7 @@ and taking measures for its immediate fulfilment.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="The Old Curiosity Shop — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="The Old Curiosity Shop — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/clock,motif/fire,motif/night,motif/road,motif/time,motif/well,concept/truth,character/speed"></span>
 
 
 CHAPTER 41
@@ -37178,7 +37178,7 @@ clerk’s desk, could scarcely believe them when they showed him--Quilp!
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="The Old Curiosity Shop — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="The Old Curiosity Shop — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/night,motif/time,concept/hope,concept/wonder,character/dwarf,character/satan"></span>
 
 
 He rubbed them twice or thrice, but still they insisted that Quilp was
@@ -37299,7 +37299,7 @@ say to him, Jacob.’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="The Old Curiosity Shop — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="The Old Curiosity Shop — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/home,motif/road,motif/tears,motif/time,motif/well,motif/window,concept/honour"></span>
 
 
 Talking on in this way, half in jest and half in earnest, and cheering
@@ -37376,7 +37376,7 @@ could possibly detain him.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="The Old Curiosity Shop — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="The Old Curiosity Shop — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/clock,motif/fire,motif/home,motif/nature,motif/night,motif/river,motif/stars,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/loneliness,concept/nature,concept/resignation,concept/solitude,concept/wonder,character/little_nell"></span>
 
 
 CHAPTER 42
@@ -37485,7 +37485,7 @@ master, I [[Hope|hope]]?’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="The Old Curiosity Shop — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="The Old Curiosity Shop — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/lamb,motif/time,motif/water,concept/doubt,concept/fear,concept/honour,concept/humility,concept/providence,concept/revenge"></span>
 
 
 ‘Don’t vex him,’ returned Isaac List, who was squatting like a frog on
@@ -37606,7 +37606,7 @@ it; so don’t blame me, Isaac List.’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="The Old Curiosity Shop — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="The Old Curiosity Shop — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/dreams,motif/fire,motif/hill,motif/moon,motif/night,motif/river,motif/road,motif/rose,motif/silence,motif/sleep,motif/tears,motif/time,concept/fear,concept/hope,concept/revenge,setting/castle"></span>
 
 
 ‘I blame you!’ returned the person addressed; ‘not for the world, Mr
@@ -37774,7 +37774,7 @@ man’s neck.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="The Old Curiosity Shop — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="The Old Curiosity Shop — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dreams,motif/hill,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/stars,motif/time,motif/water,motif/wind,concept/courage,concept/nature,character/phantom"></span>
 
 
 CHAPTER 43
@@ -37894,7 +37894,7 @@ track.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="The Old Curiosity Shop — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="The Old Curiosity Shop — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/memory,motif/night,motif/noon,motif/sleep,motif/time,motif/water,motif/wind,concept/fear,concept/imagination,concept/madness,concept/pride,concept/suffering,concept/truth,character/chorus"></span>
 
 
 Nell was rather disheartened, when they stopped at a kind of wharf late
@@ -38030,7 +38030,7 @@ and placed there by a miracle.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="The Old Curiosity Shop — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="The Old Curiosity Shop — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/night,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,concept/body,concept/hope,concept/solitude,concept/suffering,concept/truth"></span>
 
 
 CHAPTER 44
@@ -38135,7 +38135,7 @@ warm too, for the [[Wind|wind]] don’t blow in here--What’s that!’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="The Old Curiosity Shop — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="The Old Curiosity Shop — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/grave,motif/nature,motif/night,motif/silence,motif/sleep,motif/time,motif/water,motif/well,concept/endurance,concept/nature"></span>
 
 
 Uttering a half shriek, she recoiled from a black figure which came
@@ -38257,7 +38257,7 @@ softly rising and drawing close to him, ventured to whisper in his ear.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="The Old Curiosity Shop — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="The Old Curiosity Shop — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/memory,motif/night,motif/road,motif/summer,motif/time,motif/winter,concept/guilt"></span>
 
 
 He moved, and glancing from her to the place she had lately occupied,
@@ -38392,7 +38392,7 @@ spot where his guests had slept, and read new histories in his furnace
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="The Old Curiosity Shop — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="The Old Curiosity Shop — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/chains,motif/death,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/garden,motif/home,motif/journey,motif/leaves,motif/machine,motif/night,motif/road,motif/sleep,motif/spring,motif/tears,motif/time,concept/freedom,concept/hope,concept/melancholy,concept/mercy,concept/suffering,concept/truth,setting/mountains"></span>
 
 
 CHAPTER 45
@@ -38509,7 +38509,7 @@ quiet, nor signs of blessed [[Sleep|sleep]]--who shall tell the terrors of the
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="The Old Curiosity Shop — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="The Old Curiosity Shop — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/fire,motif/grave,motif/journey,motif/night,motif/prayer,motif/sleep,motif/soul,motif/time,concept/body,concept/charity,concept/fear,concept/hope,concept/mercy"></span>
 
 
 And yet she lay down, with nothing between her and the sky; and, with
@@ -38654,7 +38654,7 @@ wild shriek, and fell senseless at his feet.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="The Old Curiosity Shop — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="The Old Curiosity Shop — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/fire,motif/rose,motif/sleep,motif/time,motif/water,motif/well,concept/history,concept/self,concept/suffering,form/history,character/speed"></span>
 
 
 CHAPTER 46
@@ -38784,7 +38784,7 @@ he pleased; nobody could dispute that for a moment.  Oh dear, no!
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="The Old Curiosity Shop — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="The Old Curiosity Shop — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/love,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/heroism,concept/hope,concept/poverty,concept/suffering,concept/temptation,concept/truth"></span>
 
 
 ‘I assure you, my good lady,’ said the mild schoolmaster, ‘that I have
@@ -38902,7 +38902,7 @@ wishes and farewells.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="The Old Curiosity Shop — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="The Old Curiosity Shop — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/bells,motif/birds,motif/fire,motif/journey,motif/night,motif/road,motif/sleep,motif/stars,motif/summer,motif/water,concept/self,setting/mountains"></span>
 
 
 What a soothing, luxurious, drowsy way of travelling, to lie inside
@@ -39001,7 +39001,7 @@ but, as they receded, she had loved and panted for them more.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_04" data-title="The Old Curiosity Shop — Chapter 46 (part 4)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_04" data-title="The Old Curiosity Shop — Chapter 46 (part 4)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/dust,motif/leaves,motif/silence"></span>
 
 
 ‘I must leave you somewhere for a few minutes,’ said the schoolmaster,
@@ -39048,7 +39048,7 @@ felt as if fascinated towards that spot.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="The Old Curiosity Shop — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="The Old Curiosity Shop — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/journey,motif/nature,motif/silence,motif/sleep,motif/swallow,motif/tears,motif/time,motif/water,motif/window,concept/doubt,concept/history,concept/hope,concept/nature,form/history"></span>
 
 
 CHAPTER 47
@@ -39176,7 +39176,7 @@ and there stopped.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="The Old Curiosity Shop — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="The Old Curiosity Shop — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/night,motif/tears,motif/time,motif/well,concept/despair,concept/fear,concept/hope,concept/truth"></span>
 
 
 ‘What’s this?’ said the single gentleman thrusting out his head.  ‘Is
@@ -39316,7 +39316,7 @@ schoolmaster’s return!
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="The Old Curiosity Shop — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="The Old Curiosity Shop — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/fear,concept/grotesque,concept/honour,concept/hope,concept/providence,setting/london,character/daniel_quilp,character/dwarf,character/sampson_brass"></span>
 
 
 CHAPTER 48
@@ -39451,7 +39451,7 @@ accord--vanished in the [[Night|night]], sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="The Old Curiosity Shop — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="The Old Curiosity Shop — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/home,motif/journey,motif/night,motif/road,motif/soul,motif/time,motif/water,concept/doubt,concept/truth,character/dwarf,character/sampson_brass"></span>
 
 
 ‘No matter,’ said the single gentleman angrily.  ‘He was gone.’
@@ -39583,7 +39583,7 @@ these occurrences.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="The Old Curiosity Shop — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="The Old Curiosity Shop — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/desire,motif/journey,motif/night,motif/prison,motif/road,motif/stars,motif/time,motif/well,motif/window,concept/fear,concept/melancholy,concept/self,setting/london,character/daniel_quilp,character/dwarf"></span>
 
 
 ‘You are there, are you, my friend?’ he repeated, greedily biting his
@@ -39703,7 +39703,7 @@ following.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="The Old Curiosity Shop — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="The Old Curiosity Shop — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/nature,motif/tears,motif/time,motif/water,motif/window,concept/nature,character/dwarf"></span>
 
 
 CHAPTER 49
@@ -39828,7 +39828,7 @@ comfort, which was the great characteristic of the party.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="The Old Curiosity Shop — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="The Old Curiosity Shop — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/ghost,motif/love,motif/night,motif/poison,motif/river,motif/silence,motif/tears,motif/water,concept/body,concept/doubt,concept/melancholy,concept/resignation,concept/truth,character/bottom,character/dwarf,character/hamlet,character/sampson_brass"></span>
 
 
 ‘If I could [[Poison|poison]] that dear old lady’s rum and [[Water|water]],’ murmured Quilp,
@@ -39966,7 +39966,7 @@ at his insensible wife like a dismounted [[nightmare]].
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="The Old Curiosity Shop — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="The Old Curiosity Shop — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/freedom,concept/nature,concept/truth,character/dwarf"></span>
 
 
 CHAPTER 50
@@ -40097,7 +40097,7 @@ comfortable.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="The Old Curiosity Shop — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="The Old Curiosity Shop — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/love,motif/pain,motif/poison,motif/river,motif/rose,motif/ship,motif/silence,motif/time,concept/hope,setting/london,setting/ship,character/daniel_quilp,character/dwarf,character/fred,character/lord_mayor"></span>
 
 
 With this view, he issued forth to a place hard by, where sea-stores
@@ -40224,7 +40224,7 @@ spirits of Great Britain.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="The Old Curiosity Shop — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="The Old Curiosity Shop — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/night,motif/silence,motif/sleep,motif/spring,motif/tears,motif/time,motif/well,concept/melancholy,concept/poverty,setting/castle,character/dwarf,character/fred,character/little_nell"></span>
 
 
 ‘That’s unfortunate,’ said the [[Dwarf|dwarf]], ‘for I came, in fact, to ask you
@@ -40373,7 +40373,7 @@ to [[Sleep|sleep]] again.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="The Old Curiosity Shop — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="The Old Curiosity Shop — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/home,motif/journey,motif/nature,motif/river,motif/summer,motif/time,motif/water,concept/fear,concept/nature,character/dwarf,character/sally_brass,character/sampson_brass"></span>
 
 
 CHAPTER 51
@@ -40511,7 +40511,7 @@ her.  ‘Gentle, charming, overwhelming Sally.’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="The Old Curiosity Shop — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="The Old Curiosity Shop — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/fire,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/self,form/history,character/dwarf,character/sally_brass"></span>
 
 
 ‘He’s a very remarkable man indeed!’ soliloquised Mr Brass.  ‘He’s
@@ -40660,7 +40660,7 @@ them as they sat and watched.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="The Old Curiosity Shop — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="The Old Curiosity Shop — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/dust,motif/fire,motif/leaves,motif/nature,motif/silence,motif/time,motif/water,motif/window,motif/winter,concept/body,concept/courage,concept/eternity,concept/fear,concept/hope,concept/nature"></span>
 
 
 CHAPTER 52
@@ -40782,7 +40782,7 @@ tranquil life.  But we must look at MY [[house]] now.  Come!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="The Old Curiosity Shop — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="The Old Curiosity Shop — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/decay,motif/dreams,motif/fire,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/noon,motif/rose,motif/stars,motif/time,motif/window,concept/fear,concept/history,concept/hope,concept/loneliness,concept/melancholy,concept/nature,form/history"></span>
 
 
 They repaired to the other tenement; tried the rusty keys as before; at
@@ -40881,7 +40881,7 @@ since lost sight of any earthly cares or hopes beyond it.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="The Old Curiosity Shop — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="The Old Curiosity Shop — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/desire,motif/home,motif/memory,motif/time,motif/well,concept/charity,concept/suffering"></span>
 
 
 He received them very kindly, and at once showed an interest in Nell;
@@ -41012,7 +41012,7 @@ It’s beautiful!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_04" data-title="The Old Curiosity Shop — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_04" data-title="The Old Curiosity Shop — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/memory,motif/night,motif/time,motif/water,concept/hope,concept/truth,character/richard"></span>
 
 
 John Owen having been thus rebuked, and being in perfect possession of
@@ -41068,7 +41068,7 @@ churchyard with a sigh.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="The Old Curiosity Shop — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="The Old Curiosity Shop — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/birds,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/memory,motif/silence,motif/spring,motif/summer,motif/tears,motif/time,motif/water,motif/well"></span>
 
 
 CHAPTER 53
@@ -41197,7 +41197,7 @@ their own failing strength, and lessening life?  Not one!’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="The Old Curiosity Shop — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="The Old Curiosity Shop — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/birds,motif/cross,motif/death,motif/decay,motif/dust,motif/home,motif/leaves,motif/nature,motif/night,motif/pain,motif/sleep,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/fear,concept/nature,histref/bible"></span>
 
 
 ‘Are you very old yourself?’ asked the [[Child|child]], involuntarily.
@@ -41323,7 +41323,7 @@ upon his face.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="The Old Curiosity Shop — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="The Old Curiosity Shop — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/bells,motif/city,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/history,concept/pride,concept/truth,form/history,character/monks,character/queen"></span>
 
 
 CHAPTER 54
@@ -41427,7 +41427,7 @@ strongest and heartiest man alive.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="The Old Curiosity Shop — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="The Old Curiosity Shop — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/garden,motif/grave,motif/memory,motif/nature,motif/night,motif/noon,motif/rose,motif/stars,motif/summer,motif/time,concept/melancholy,concept/nature,concept/truth,concept/vanity,character/hamlet"></span>
 
 
 ‘I’m sorry to see there is this to do,’ said the [[Child|child]] when she
@@ -41587,7 +41587,7 @@ satisfaction, the sexton, with his friend’s assistance, [[Rose|rose]] to go.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="The Old Curiosity Shop — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="The Old Curiosity Shop — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/clock,motif/death,motif/dreams,motif/garden,motif/grave,motif/leaves,motif/silence,motif/summer,motif/tears,motif/time,concept/body,concept/charity,concept/faith,concept/mercy,concept/truth"></span>
 
 
 ‘It’s chilly, sitting here, and I must be careful--till the [[Summer|summer]],’ he
@@ -41767,7 +41767,7 @@ she grew stronger every day, and would be a woman, soon.
 
 
 
-<span class="atom-split" data-atom="chapter_55" data-title="The Old Curiosity Shop — Chapter 55" data-chapter="Chapter 55" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_55" data-title="The Old Curiosity Shop — Chapter 55" data-chapter="Chapter 55" data-kind="chapter" data-tags="archetype/child,motif/birds,motif/fire,motif/garden,motif/grave,motif/home,motif/love,motif/night,motif/noon,motif/pain,motif/rose,motif/silence,motif/sleep,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/suffering,concept/truth,setting/castle,character/monks,character/sunday"></span>
 
 
 CHAPTER 55
@@ -41992,7 +41992,7 @@ beautiful and happy [[Time|time]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="The Old Curiosity Shop — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="The Old Curiosity Shop — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/clock,motif/decay,motif/home,motif/love,motif/night,motif/soul,motif/well,motif/wind,concept/honour,form/fragment,character/richard,character/sampson_brass,character/speed"></span>
 
 
 CHAPTER 56
@@ -42131,7 +42131,7 @@ obliged to cut the connection.  I should have no alternative.’
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="The Old Curiosity Shop — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="The Old Curiosity Shop — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/avenger,motif/fire,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/courage,concept/doubt,concept/honour,concept/nature,character/richard"></span>
 
 
 Mr Swiveller, who sat on another stool opposite to his friend, stirred
@@ -42266,7 +42266,7 @@ Nobody else at all, been, Mr [[Richard]]?’
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="The Old Curiosity Shop — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="The Old Curiosity Shop — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/fire,motif/home,motif/rose,motif/soul,motif/time,motif/well,motif/wind,concept/hope,concept/self,concept/suffering,concept/union,form/hymn,character/richard,character/sally_brass,character/sampson_brass"></span>
 
 
 ‘Only somebody to the lodger,’ replied Mr Swiveller.
@@ -42418,7 +42418,7 @@ smile, simultaneously.
 
 
 
-<span class="atom-split" data-atom="chapter_57" data-title="The Old Curiosity Shop — Chapter 57" data-chapter="Chapter 57" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_57" data-title="The Old Curiosity Shop — Chapter 57" data-chapter="Chapter 57" data-kind="chapter" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/friendship,concept/pride,concept/truth,character/bottom,character/king_lear,character/marchioness,character/richard,character/sampson_brass"></span>
 
 
 CHAPTER 57
@@ -42659,7 +42659,7 @@ waited for her lead.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="The Old Curiosity Shop — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="The Old Curiosity Shop — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/death,motif/nature,motif/night,motif/river,motif/soul,motif/time,motif/well,concept/faith,concept/history,concept/honour,concept/hope,concept/humility,concept/nature,form/history,form/novel,character/marchioness,character/richard,character/sally_brass"></span>
 
 
 CHAPTER 58
@@ -42791,7 +42791,7 @@ if I had found it--only enough to squench my hunger.’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="The Old Curiosity Shop — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="The Old Curiosity Shop — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/dawn,motif/moon,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/hope,concept/melancholy,character/marchioness,character/richard"></span>
 
 
 ‘You didn’t find it then?’ said Dick.  ‘But of course you didn’t, or
@@ -42906,7 +42906,7 @@ haven’t missed anything yourself, have you?’
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="The Old Curiosity Shop — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="The Old Curiosity Shop — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/innocent,motif/nature,motif/time,motif/well,concept/doubt,concept/faith,concept/nature,character/marchioness,character/richard,character/sampson_brass"></span>
 
 
 Mr Swiveller involuntarily clapped his hands to the jacket to be quite
@@ -43073,7 +43073,7 @@ half-closed lid.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="The Old Curiosity Shop — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="The Old Curiosity Shop — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/nature,motif/time,motif/well,concept/hope,concept/nature,character/richard,character/sampson_brass"></span>
 
 
 CHAPTER 59
@@ -43210,7 +43210,7 @@ can have become of it?  I laid it down here--God bless me!’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="The Old Curiosity Shop — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="The Old Curiosity Shop — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/road,motif/tears,motif/time,concept/fear,concept/guilt,concept/hope,setting/court,character/richard,character/sampson_brass"></span>
 
 
 ‘What!’ cried Miss Sally, starting up, clapping her hands, and
@@ -43349,7 +43349,7 @@ please!’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="The Old Curiosity Shop — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="The Old Curiosity Shop — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/cross,motif/road,motif/soul,motif/time,motif/well,motif/window,concept/doubt,character/richard,character/sampson_brass"></span>
 
 
 CHAPTER 60
@@ -43479,7 +43479,7 @@ thought and deed; and they were carrying him back, a prisoner.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="The Old Curiosity Shop — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="The Old Curiosity Shop — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/time,motif/well,motif/window,concept/body,concept/courage,concept/grotesque,concept/honour,concept/hope,concept/melancholy,character/dwarf,character/richard"></span>
 
 
 Absorbed in these painful ruminations, thinking with a drooping heart
@@ -43594,7 +43594,7 @@ Brass?’ said the notary.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="The Old Curiosity Shop — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="The Old Curiosity Shop — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/innocent,archetype/prophet,motif/grave,motif/love,motif/prison,motif/silence,motif/time,motif/window,concept/doubt,concept/guilt,concept/honour,concept/hope,concept/mercy,concept/truth,character/speed"></span>
 
 
 ‘Sir,’ rejoined Brass, ‘I will.  Ah Mr Witherden! you little know
@@ -43763,7 +43763,7 @@ transported, in less than a fortnight.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="The Old Curiosity Shop — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="The Old Curiosity Shop — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/monster,motif/night,motif/prison,motif/time,motif/well,motif/winter,concept/conscience,concept/melancholy"></span>
 
 
 CHAPTER 61
@@ -43874,7 +43874,7 @@ appeared to occur to him, for the first [[Time|time]], that somebody was crying.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="The Old Curiosity Shop — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="The Old Curiosity Shop — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/courage,concept/guilt,concept/mortality,character/helen,character/richard"></span>
 
 
 ‘Now, ladies, ladies,’ he said, looking round with surprise, ‘I’d
@@ -44008,7 +44008,7 @@ Swiveller.  [[Well]], its very kind of him, and I thank him heartily.’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="The Old Curiosity Shop — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="The Old Curiosity Shop — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/love,motif/night,motif/pain,motif/river,motif/ship,motif/time,motif/window,concept/doubt,concept/wonder,setting/ship,character/dwarf,character/phantom,character/sampson_brass"></span>
 
 
 CHAPTER 62
@@ -44130,7 +44130,7 @@ figure such a stroke on the nose that it rocked again.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="The Old Curiosity Shop — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="The Old Curiosity Shop — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/tears,motif/time,motif/water,concept/hope,concept/self,character/dwarf,character/richard"></span>
 
 
 ‘Is it like Kit--is it his picture, his image, his very [[Self|self]]?’ cried
@@ -44261,7 +44261,7 @@ I [[Hope|hope]] we may not lose him.’
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="The Old Curiosity Shop — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="The Old Curiosity Shop — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/love,motif/night,motif/road,motif/spring,motif/time,motif/well,concept/honour,concept/pride,concept/providence,concept/truth,concept/union,form/novel,character/dwarf,character/richard,character/sampson_brass"></span>
 
 
 ‘Yah!’ cried the [[Dwarf|dwarf]].  ‘Never thinking of anybody but yourself--why
@@ -44420,7 +44420,7 @@ The [[Dwarf|dwarf]] shut himself up again, and sprang once more into his hammock
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="The Old Curiosity Shop — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="The Old Curiosity Shop — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/crown,motif/desire,motif/home,motif/time,motif/well,concept/hope,concept/truth,concept/wonder,setting/court,character/richard,character/sampson_brass"></span>
 
 
 CHAPTER 63
@@ -44543,7 +44543,7 @@ him up short.  ‘And a very pretty witness YOU are!’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="The Old Curiosity Shop — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="The Old Curiosity Shop — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/home,motif/nature,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/hope,concept/nature,concept/truth,character/richard"></span>
 
 
 Down sits Mr Brass’s gentleman.  Kit’s gentleman, not knowing how the
@@ -44667,7 +44667,7 @@ and in twenty-four hours was stricken with a raging fever.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="The Old Curiosity Shop — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="The Old Curiosity Shop — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/night,motif/sleep,motif/time,concept/body,concept/conscience,concept/doubt,concept/imagination,concept/suffering,setting/london,character/marchioness,character/phantom,character/richard"></span>
 
 
 CHAPTER 64
@@ -44783,7 +44783,7 @@ didn’t know what to do.’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="The Old Curiosity Shop — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="The Old Curiosity Shop — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/death,motif/home,motif/night,motif/silence,motif/sleep,motif/time,motif/well,character/marchioness,character/nurse,character/richard,character/sally_brass"></span>
 
 
 ‘[[Marchioness]],’ said Mr Swiveller, thoughtfully, ‘be pleased to draw
@@ -44927,7 +44927,7 @@ you’ll go to [[Sleep|sleep]].  You’ll be all the better for it, if you do.�
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="The Old Curiosity Shop — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="The Old Curiosity Shop — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/nature,motif/night,motif/sleep,motif/time,motif/water,motif/well,concept/nature,concept/truth,character/marchioness,character/nurse,character/richard"></span>
 
 
 The [[Marchioness]], in saying these words, brought a little table to the
@@ -45073,7 +45073,7 @@ again.--There!’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_04" data-title="The Old Curiosity Shop — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_04" data-title="The Old Curiosity Shop — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/time,character/marchioness,character/nurse,character/richard"></span>
 
 
 The small servant had gradually worked herself into as much agitation
@@ -45133,7 +45133,7 @@ I should have died without you!’
 
 
 
-<span class="atom-split" data-atom="chapter_65" data-title="The Old Curiosity Shop — Chapter 65" data-chapter="Chapter 65" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_65" data-title="The Old Curiosity Shop — Chapter 65" data-chapter="Chapter 65" data-kind="chapter" data-tags="archetype/child,motif/city,motif/fire,motif/home,motif/journey,motif/nature,motif/night,motif/road,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,character/marchioness,character/nurse,character/richard,character/sally_brass,character/speed"></span>
 
 
 CHAPTER 65
@@ -45354,7 +45354,7 @@ strew, a bed of rushes.  Here will we stay, till morning blushes.  Good
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_01" data-title="The Old Curiosity Shop — Chapter 66 (part 1)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_01" data-title="The Old Curiosity Shop — Chapter 66 (part 1)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="topos/double,motif/dreams,motif/night,motif/time,motif/water,motif/well,concept/doubt,concept/jealousy,concept/truth,character/marchioness,character/nurse,character/richard"></span>
 
 
 CHAPTER 66
@@ -45470,7 +45470,7 @@ somebody must escape, let it be any one but he.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_02" data-title="The Old Curiosity Shop — Chapter 66 (part 2)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_02" data-title="The Old Curiosity Shop — Chapter 66 (part 2)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/leaves,motif/night,motif/time,motif/well,motif/wind,concept/beauty,concept/guilt,character/richard,character/sally_brass"></span>
 
 
 ‘Yes,’ returned Dick, ‘certainly.  That is if somebody must--but upon
@@ -45575,7 +45575,7 @@ case lawful money and lawful notice are pretty much the same.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_03" data-title="The Old Curiosity Shop — Chapter 66 (part 3)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_03" data-title="The Old Curiosity Shop — Chapter 66 (part 3)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/innocent,archetype/villain,motif/death,motif/dust,motif/grave,motif/night,motif/time,motif/well,concept/history,concept/honour,concept/hope,concept/imagination,concept/mercy,concept/truth,form/history,character/sampson_brass"></span>
 
 
 ‘I am obliged to you for your good opinion,’ retorted the single
@@ -45702,7 +45702,7 @@ servilely as if it were the [[Dust|dust]], and made a most abject bow.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_04" data-title="The Old Curiosity Shop — Chapter 66 (part 4)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_04" data-title="The Old Curiosity Shop — Chapter 66 (part 4)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/time,motif/well,concept/honour,concept/sublime,concept/truth,concept/wonder"></span>
 
 
 ‘Sarah,’ said Brass, ‘hold your tongue if you please, and let me speak.
@@ -45814,7 +45814,7 @@ done as much by me, for many and many a day.’
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_05" data-title="The Old Curiosity Shop — Chapter 66 (part 5)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_05" data-title="The Old Curiosity Shop — Chapter 66 (part 5)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="archetype/damsel,archetype/innocent,motif/sleep,motif/time,motif/well,concept/doubt,concept/humility,concept/jealousy,concept/melancholy"></span>
 
 
 Having now arrived at the conclusion of his discourse, Sampson checked
@@ -45927,7 +45927,7 @@ liberation without delay.
 
 
 
-<span class="atom-split" data-atom="chapter_66--part_06" data-title="The Old Curiosity Shop — Chapter 66 (part 6)" data-chapter="Chapter 66" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_66--part_06" data-title="The Old Curiosity Shop — Chapter 66 (part 6)" data-chapter="Chapter 66" data-kind="excerpt" data-tags="motif/home,motif/leaves,motif/nature,motif/night,motif/time,concept/doubt,concept/hope,concept/nature,character/marchioness,character/richard"></span>
 
 
 And now, indeed, it seemed that Quilp’s malignant career was drawing to
@@ -45988,7 +45988,7 @@ this bed again!’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_01" data-title="The Old Curiosity Shop — Chapter 67 (part 1)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_01" data-title="The Old Curiosity Shop — Chapter 67 (part 1)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/love,motif/nature,motif/river,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/nature,concept/solitude,setting/castle,character/dwarf"></span>
 
 
 CHAPTER 67
@@ -46106,7 +46106,7 @@ warm her hands, delivered into his a little packet.
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_02" data-title="The Old Curiosity Shop — Chapter 67 (part 2)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_02" data-title="The Old Curiosity Shop — Chapter 67 (part 2)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/night,motif/river,motif/silence,motif/time,motif/well,motif/window,concept/conscience,character/dwarf,character/little_nell"></span>
 
 
 ‘I’m glad you’re wet,’ said Quilp, snatching it, and squinting at her.
@@ -46231,7 +46231,7 @@ may look better here.  This is too hospitable and free.’
 
 
 
-<span class="atom-split" data-atom="chapter_67--part_03" data-title="The Old Curiosity Shop — Chapter 67 (part 3)" data-chapter="Chapter 67" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_67--part_03" data-title="The Old Curiosity Shop — Chapter 67 (part 3)" data-chapter="Chapter 67" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/chains,motif/clock,motif/cross,motif/death,motif/fire,motif/night,motif/noon,motif/road,motif/ship,motif/sleep,motif/time,motif/water,motif/well,motif/wind,concept/fear,setting/ship,character/dwarf"></span>
 
 
 By a great exertion of strength, he closed the two old gates, which
@@ -46368,7 +46368,7 @@ when alive--about its head, and its dress fluttered idly in the [[Night|night]]
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_01" data-title="The Old Curiosity Shop — Chapter 68 (part 1)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_01" data-title="The Old Curiosity Shop — Chapter 68 (part 1)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="motif/dreams,motif/garden,motif/home,motif/journey,motif/love,motif/night,motif/river,motif/road,motif/tears,motif/time,motif/water,concept/truth,character/bottom"></span>
 
 
 CHAPTER 68
@@ -46483,7 +46483,7 @@ to the place from whence he came.
 
 
 
-<span class="atom-split" data-atom="chapter_68--part_02" data-title="The Old Curiosity Shop — Chapter 68 (part 2)" data-chapter="Chapter 68" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_68--part_02" data-title="The Old Curiosity Shop — Chapter 68 (part 2)" data-chapter="Chapter 68" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/leaves,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/charity,concept/doubt,concept/honour,concept/hope,concept/suffering"></span>
 
 
 [[Well]]!  In that place (which is the next room) there are decanters of
@@ -46632,7 +46632,7 @@ this would wear out the strongest man.  Good [[Night|night]], and Heaven send ou
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_01" data-title="The Old Curiosity Shop — Chapter 69 (part 1)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_01" data-title="The Old Curiosity Shop — Chapter 69 (part 1)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/dawn,motif/dreams,motif/home,motif/journey,motif/love,motif/night,motif/sleep,motif/time,concept/endurance,concept/honour,concept/suffering,concept/truth"></span>
 
 
 CHAPTER 69
@@ -46765,7 +46765,7 @@ Barbara, upon my word it is!’
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_02" data-title="The Old Curiosity Shop — Chapter 69 (part 2)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_02" data-title="The Old Curiosity Shop — Chapter 69 (part 2)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/frost,motif/garden,motif/journey,motif/leaves,motif/nature,motif/night,motif/road,motif/soul,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/doubt,concept/freedom,concept/nature,character/speed"></span>
 
 
 Little Barbara was not of a wayward or capricious [[Nature|nature]], and, being
@@ -46873,7 +46873,7 @@ in their warm beds, pursued their course along the lonely [[Road|road]].
 
 
 
-<span class="atom-split" data-atom="chapter_69--part_03" data-title="The Old Curiosity Shop — Chapter 69 (part 3)" data-chapter="Chapter 69" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_69--part_03" data-title="The Old Curiosity Shop — Chapter 69 (part 3)" data-chapter="Chapter 69" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/dreams,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/wind,concept/fear,concept/hope,concept/nature,concept/poverty,concept/truth,concept/union,character/nurse,character/speed"></span>
 
 
 Meantime the two gentlemen inside, who were little disposed to [[Sleep|sleep]],
@@ -47030,7 +47030,7 @@ indeed!  Hark! how the [[Wind|wind]] is howling!’
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_01" data-title="The Old Curiosity Shop — Chapter 70 (part 1)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_01" data-title="The Old Curiosity Shop — Chapter 70 (part 1)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/clock,motif/cross,motif/death,motif/home,motif/horse,motif/journey,motif/night,motif/road,motif/rose,motif/silence,motif/snow,motif/time,motif/water,motif/wind,motif/window,motif/winter,concept/melancholy,character/phantom"></span>
 
 
 CHAPTER 70
@@ -47141,7 +47141,7 @@ the [[Melancholy|melancholy]] [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_70--part_02" data-title="The Old Curiosity Shop — Chapter 70 (part 2)" data-chapter="Chapter 70" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_70--part_02" data-title="The Old Curiosity Shop — Chapter 70 (part 2)" data-chapter="Chapter 70" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/fire,motif/frost,motif/journey,motif/night,motif/pain,motif/road,motif/silence,motif/sleep,motif/snow,motif/stars,motif/summer,motif/tears,motif/time,motif/window,concept/despair,concept/hope,character/speed"></span>
 
 
 A wicket gate was close at hand, but there was more than one path
@@ -47288,7 +47288,7 @@ glimmering of a [[Fire|fire]] upon the old walls, and entered.
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_01" data-title="The Old Curiosity Shop — Chapter 71 (part 1)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_01" data-title="The Old Curiosity Shop — Chapter 71 (part 1)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/fire,motif/journey,motif/night,motif/sleep,motif/snow,motif/tears,motif/time,motif/well,concept/body,concept/solitude,concept/wonder"></span>
 
 
 CHAPTER 71
@@ -47421,7 +47421,7 @@ keep her warm!’
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_02" data-title="The Old Curiosity Shop — Chapter 71 (part 2)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_02" data-title="The Old Curiosity Shop — Chapter 71 (part 2)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/truth,form/fragment"></span>
 
 
 The door was indeed opened, for the entrance of Mr Garland and his
@@ -47559,7 +47559,7 @@ affliction.’
 
 
 
-<span class="atom-split" data-atom="chapter_71--part_03" data-title="The Old Curiosity Shop — Chapter 71 (part 3)" data-chapter="Chapter 71" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_71--part_03" data-title="The Old Curiosity Shop — Chapter 71 (part 3)" data-chapter="Chapter 71" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/garden,motif/leaves,motif/night,motif/pain,motif/sleep,motif/summer,motif/tears,motif/winter,concept/beauty,concept/self"></span>
 
 
 By little and little, the old man had drawn back towards the inner
@@ -47632,7 +47632,7 @@ back to life, which of us would utter it!’
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_01" data-title="The Old Curiosity Shop — Chapter 72 (part 1)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_01" data-title="The Old Curiosity Shop — Chapter 72 (part 1)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/leaves,motif/love,motif/night,motif/river,motif/road,motif/rose,motif/sleep,motif/snow,motif/summer,motif/tears,motif/time,motif/window,concept/fear,character/sunday"></span>
 
 
 CHAPTER 72
@@ -47763,7 +47763,7 @@ so submitted to be led away.
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_02" data-title="The Old Curiosity Shop — Chapter 72 (part 2)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_02" data-title="The Old Curiosity Shop — Chapter 72 (part 2)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/birds,motif/dawn,motif/death,motif/dust,motif/grave,motif/home,motif/love,motif/moon,motif/nature,motif/night,motif/sleep,motif/snow,motif/spring,motif/summer,motif/time,motif/window,concept/charity,concept/hope,concept/immortality,concept/mercy,concept/nature,concept/pride,concept/truth"></span>
 
 
 And now the bell--the bell she had so often heard, by [[Night|night]] and day,
@@ -47878,7 +47878,7 @@ as seeking something, and had no comfort.
 
 
 
-<span class="atom-split" data-atom="chapter_72--part_03" data-title="The Old Curiosity Shop — Chapter 72 (part 3)" data-chapter="Chapter 72" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_72--part_03" data-title="The Old Curiosity Shop — Chapter 72 (part 3)" data-chapter="Chapter 72" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/road,motif/rose,motif/spring,motif/time,motif/well,motif/wind,concept/hope"></span>
 
 
 Whatever power of thought or [[Memory|memory]] he retained, was all bound up in
@@ -47958,7 +47958,7 @@ hand, the [[Child|child]] and the old man slept together.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_01" data-title="The Old Curiosity Shop — Chapter 73 (part 1)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_01" data-title="The Old Curiosity Shop — Chapter 73 (part 1)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/death,motif/journey,motif/nature,motif/road,motif/time,motif/well,concept/body,concept/doubt,concept/nature,concept/suicide,concept/truth,setting/london,character/sally_brass,character/sampson_brass"></span>
 
 
 CHAPTER 73
@@ -48066,7 +48066,7 @@ with a stake through his heart in the centre of four lonely roads.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_02" data-title="The Old Curiosity Shop — Chapter 73 (part 2)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_02" data-title="The Old Curiosity Shop — Chapter 73 (part 2)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/love,motif/marriage,motif/nature,motif/tears,motif/time,motif/window,concept/conscience,concept/education,concept/friendship,concept/nature,setting/court,character/dwarf,character/marchioness,character/richard"></span>
 
 
 It was rumoured afterwards that this horrible and barbarous ceremony
@@ -48172,7 +48172,7 @@ for him after all.
 
 
 
-<span class="atom-split" data-atom="chapter_73--part_03" data-title="The Old Curiosity Shop — Chapter 73 (part 3)" data-chapter="Chapter 73" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_73--part_03" data-title="The Old Curiosity Shop — Chapter 73 (part 3)" data-chapter="Chapter 73" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/orphan,motif/fire,motif/garden,motif/home,motif/memory,motif/moon,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/body,concept/guilt,concept/history,concept/honour,concept/hope,concept/misanthropy,concept/wonder,form/history,form/riddle,setting/paris,character/marchioness,character/sunday"></span>
 
 
 A little cottage at Hampstead being to let, which had in its [[Garden|garden]] a

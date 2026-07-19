@@ -67,7 +67,7 @@ udì tutti i grilli cantare, e ne fu lieto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="prayer (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="prayer (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,motif/night,motif/prayer,motif/silence,motif/stars,motif/tears,concept/madness"></span>
 
 
 A [[prayer|Prayer]] in Darkness  

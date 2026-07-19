@@ -787,7 +787,7 @@ ON PAGE 49.
 
 
 
-<span class="atom-split" data-atom="story_02_the_alphabet--part_01" data-title="A Moral Alphabet — THE ALPHABET. (part 1)" data-chapter="THE ALPHABET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_alphabet--part_01" data-title="A Moral Alphabet — THE ALPHABET. (part 1)" data-chapter="THE ALPHABET" data-kind="excerpt" data-tags="archetype/child,motif/animals,concept/nonsense,concept/education,concept/satire_of_society,form/comic_verse_song"></span>
 
 
 THE ALPHABET.
@@ -1139,7 +1139,7 @@ Not infrequently nuggets of value are found.
 
 
 
-<span class="atom-split" data-atom="story_02_the_alphabet--part_02" data-title="A Moral Alphabet — THE ALPHABET. (part 2)" data-chapter="THE ALPHABET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_alphabet--part_02" data-title="A Moral Alphabet — THE ALPHABET. (part 2)" data-chapter="THE ALPHABET" data-kind="excerpt" data-tags="motif/animals,concept/nonsense,concept/satire_of_society,form/comic_verse_song,setting/oxford"></span>
 
 
 They bring us the gold when their labours are ended,

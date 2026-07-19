@@ -7163,7 +7163,7 @@ Carattere: Bernhard
 
 
 
-<span class="atom-split" data-atom="section_00_dedication" data-title="The Ballad of the White Horse — Dedication" data-chapter="dedication" data-kind="section"></span>
+<span class="atom-split" data-atom="section_00_dedication" data-title="The Ballad of the White Horse — Dedication" data-chapter="dedication" data-kind="section" data-tags="archetype/king,motif/cross,motif/dawn,motif/dust,motif/home,motif/horse,motif/love,motif/memory,motif/moon,motif/night,motif/road,motif/stars,motif/time,concept/history,concept/honour,concept/pride,concept/wonder,form/history"></span>
 
 
 DEDICATION  
@@ -7365,7 +7365,7 @@ G. K. C.
 
 
 
-<span class="atom-split" data-atom="section_01_book_i" data-title="The Ballad of the White Horse — Book I" data-chapter="book i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_book_i" data-title="The Ballad of the White Horse — Book I" data-chapter="book i" data-kind="section" data-tags="archetype/child,archetype/king,motif/birds,motif/blood,motif/cross,motif/crown,motif/dawn,motif/death,motif/desire,motif/dust,motif/fire,motif/flag,motif/flowers,motif/frost,motif/ghosts,motif/hill,motif/home,motif/horse,motif/jewel,motif/night,motif/river,motif/rose,motif/stars,motif/tears,motif/wheel,concept/faith,concept/fear,concept/hope,histref/king_alfred,character/christ,character/queen"></span>
 
 
 BOOK I  
@@ -7941,7 +7941,7 @@ quando la terra è lasciata alle spalle.
 
 
 
-<span class="atom-split" data-atom="section_02_book_ii" data-title="The Ballad of the White Horse — Book II" data-chapter="book II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_book_ii" data-title="The Ballad of the White Horse — Book II" data-chapter="book II" data-kind="section" data-tags="archetype/king,archetype/shadow,motif/cave,motif/cross,motif/crown,motif/dawn,motif/death,motif/desire,motif/dust,motif/fire,motif/flowers,motif/hill,motif/horse,motif/lion,motif/night,motif/prayer,motif/rose,motif/ship,motif/silence,motif/sleep,motif/soul,motif/stars,motif/swallow,motif/well,motif/wind,concept/beauty,concept/body,concept/doubt,concept/fear,concept/truth,form/fable,histref/king_alfred,setting/italy,setting/london,setting/ship,character/arthur,character/hamlet"></span>
 
 
 BOOK II  
@@ -8517,7 +8517,7 @@ Andò lentamente alla sua [[Cave|caverna]]. [280]
 
 
 
-<span class="atom-split" data-atom="section_03_book_iii" data-title="The Ballad of the White Horse — Book III" data-chapter="book III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_book_iii" data-title="The Ballad of the White Horse — Book III" data-chapter="book III" data-kind="section" data-tags="archetype/child,archetype/hero,archetype/king,archetype/shadow,motif/blood,motif/cross,motif/crown,motif/death,motif/desire,motif/fire,motif/flowers,motif/garden,motif/hill,motif/home,motif/horse,motif/love,motif/pain,motif/river,motif/snow,motif/soul,motif/spring,motif/stars,motif/tears,motif/time,motif/well,motif/wheel,concept/body,concept/hope,concept/truth,histref/king_alfred,character/monks"></span>
 
 
 BOOK III  
@@ -9297,7 +9297,7 @@ E i Danesi risero forte e a lungo.
 
 
 
-<span class="atom-split" data-atom="section_04_book_iv" data-title="The Ballad of the White Horse — Book IV" data-chapter="book IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_book_iv" data-title="The Ballad of the White Horse — Book IV" data-chapter="book IV" data-kind="section" data-tags="archetype/king,motif/autumn,motif/birds,motif/clock,motif/desire,motif/dreams,motif/fire,motif/grave,motif/hill,motif/home,motif/horse,motif/love,motif/night,motif/pain,motif/river,motif/road,motif/rose,motif/sleep,motif/spring,motif/stars,motif/time,motif/well,motif/wind,concept/greed,concept/humility,concept/mercy,concept/pride,form/hymn,form/riddle,histref/king_alfred,setting/italy,character/christ"></span>
 
 
 BOOK IV  
@@ -9933,7 +9933,7 @@ Piombarono sul Danese. [310]
 
 
 
-<span class="atom-split" data-atom="section_05_book_v" data-title="The Ballad of the White Horse — Book V" data-chapter="book v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_book_v" data-title="The Ballad of the White Horse — Book V" data-chapter="book v" data-kind="section" data-tags="archetype/fool,archetype/king,motif/autumn,motif/birds,motif/blood,motif/chalk,motif/cross,motif/dawn,motif/death,motif/desire,motif/fire,motif/hill,motif/home,motif/horse,motif/leaves,motif/love,motif/moon,motif/night,motif/pain,motif/road,motif/rose,motif/sleep,motif/soul,motif/stars,motif/well,motif/wheel,concept/body,concept/despair,concept/hope,character/arthur,character/christ,character/monks"></span>
 
 
 BOOK V  
@@ -10551,7 +10551,7 @@ col lancio della [[Sword|spada]]. [300]
 
 
 
-<span class="atom-split" data-atom="section_06_book_vi" data-title="The Ballad of the White Horse — Book VI" data-chapter="book VI" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_book_vi" data-title="The Ballad of the White Horse — Book VI" data-chapter="book VI" data-kind="section" data-tags="archetype/king,archetype/rebel,motif/birds,motif/blood,motif/city,motif/crown,motif/death,motif/dust,motif/home,motif/horse,motif/lightning,motif/night,motif/pain,motif/prayer,motif/river,motif/road,motif/ship,motif/sleep,motif/time,motif/water,motif/well,concept/doubt,concept/faith,concept/fear,histref/king_alfred,setting/italy,setting/ship,character/christ"></span>
 
 
 BOOK VI  
@@ -11167,7 +11167,7 @@ l'ultimo grido del Gaelo.
 
 
 
-<span class="atom-split" data-atom="section_07_book_vii" data-title="The Ballad of the White Horse — Book VII" data-chapter="book VII" data-kind="section"></span>
+<span class="atom-split" data-atom="section_07_book_vii" data-title="The Ballad of the White Horse — Book VII" data-chapter="book VII" data-kind="section" data-tags="topos/double,archetype/child,archetype/ghost,archetype/innocent,archetype/king,motif/birds,motif/blood,motif/chalk,motif/city,motif/cross,motif/death,motif/fire,motif/flag,motif/flowers,motif/grave,motif/hill,motif/home,motif/horse,motif/moon,motif/night,motif/river,motif/road,motif/rose,motif/ship,motif/snow,motif/stars,motif/storm,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/despair,concept/fear,concept/pride,concept/slavery,concept/wonder,histref/king_alfred,setting/denmark,setting/paris,setting/ship,character/christ,character/edgar,character/queen,character/speed,character/witch"></span>
 
 
 BOOK VII  
@@ -11921,7 +11921,7 @@ Al bivio delle vie. [370]
 
 
 
-<span class="atom-split" data-atom="section_08_book_viii" data-title="The Ballad of the White Horse — Book VIII" data-chapter="book VIII" data-kind="section"></span>
+<span class="atom-split" data-atom="section_08_book_viii" data-title="The Ballad of the White Horse — Book VIII" data-chapter="book VIII" data-kind="section" data-tags="topos/double,topos/quest,archetype/child,archetype/fool,archetype/ghost,archetype/hero,archetype/king,archetype/lover,archetype/pilgrim,archetype/rebel,motif/animals,motif/autumn,motif/birds,motif/blood,motif/cave,motif/chalk,motif/childhood,motif/city,motif/cross,motif/crown,motif/dance,motif/dawn,motif/death,motif/decay,motif/desire,motif/dreams,motif/fire,motif/flag,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/horse,motif/jewel,motif/leaves,motif/love,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/poison,motif/prayer,motif/river,motif/road,motif/rose,motif/secrets,motif/silence,motif/soul,motif/spring,motif/stars,motif/storm,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/winter,concept/beauty,concept/body,concept/charity,concept/common_man,concept/conversion,concept/courage,concept/despair,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/grotesque,concept/history,concept/honour,concept/hope,concept/humility,concept/imagination,concept/nature,concept/original_sin,concept/poverty,concept/pride,concept/slavery,concept/survival,concept/truth,concept/union,concept/wonder,form/epic,form/history,form/hymn,form/translation,histref/america,histref/arthurian_legend,histref/battle_of_ethandun,histref/christianity,histref/king_alfred,setting/america,setting/battlefield,setting/castle,setting/court,setting/denmark,setting/egypt,setting/germany,setting/italy,setting/london,setting/mountains,setting/new_york,setting/oxford,setting/paris,character/arthur,character/christ,character/clifford,character/duncan,character/dwarf,character/edmund,character/father_brown,character/hastings,character/kent,character/king_arthur,character/michael,character/monks,character/queen,character/richard,character/satan,character/tolstoy,character/virgin_mary,character/witch"></span>
 
 
 BOOK VIII

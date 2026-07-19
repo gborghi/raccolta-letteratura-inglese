@@ -6291,7 +6291,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Napoleon of Notting Hill — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Napoleon of Notting Hill — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/prophet,motif/animals,motif/blood,motif/city,motif/desire,motif/garden,motif/hill,motif/machine,motif/moon,motif/nature,motif/night,motif/pain,motif/sleep,motif/swallow,motif/time,concept/doubt,concept/imagination,concept/nature,concept/truth,concept/union,histref/america,setting/america,setting/germany,setting/london,setting/russia,character/saturn,character/tolstoy"></span>
 
 
 CHAPTER I
@@ -6641,7 +6641,7 @@ com'è ora.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/monster,archetype/shadow,motif/animals,motif/blood,motif/hill,motif/memory,motif/nature,motif/snow,motif/soul,motif/time,motif/wind,motif/winter,concept/democracy,concept/faith,concept/nature,concept/truth,histref/christianity,setting/london"></span>
 
 
 CHAPTER II
@@ -6873,7 +6873,7 @@ di essere tra draghi d'abisso che possedevano l'abisso.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,motif/hill,motif/nature,motif/rose,motif/time,motif/well,motif/window,motif/winter,concept/nature,histref/dante,setting/london,character/auberon_quin,character/james_barker"></span>
 
 
 The two young men in front were like the small young man himself,
@@ -7145,7 +7145,7 @@ ma non un volto inglese.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/hill,motif/love,motif/road,motif/time,motif/well,concept/body,concept/honour,concept/pride,concept/sublime,setting/london,character/auberon_quin"></span>
 
 
 The magnificence with which the green-clad gentleman walked down
@@ -7417,7 +7417,7 @@ del Fuego, Presidente del Nicaragua."
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Napoleon of Notting Hill — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Napoleon of Notting Hill — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/desire,motif/fire,motif/hill,motif/horse,motif/stars,motif/well,concept/democracy,histref/america,setting/america,character/auberon_quin"></span>
 
 
 The manner with which the President of Nicaragua leant back and drank
@@ -7671,7 +7671,7 @@ Molte cose sono accadute."
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Napoleon of Notting Hill — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Napoleon of Notting Hill — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/decay,motif/hill,motif/rose,motif/soul,motif/time,motif/well,concept/democracy,concept/faith,concept/history,concept/paradox,concept/poverty,concept/self,form/history,form/tragedy,character/auberon_quin"></span>
 
 
 "And what," asked the other, "would you call the summary
@@ -7963,7 +7963,7 @@ parlando nell'interesse del pubblico...."
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/garden,motif/hill,motif/memory,motif/silence,motif/sleep,motif/stars,motif/tears,motif/time,motif/well,concept/body,concept/sublime,character/auberon_quin"></span>
 
 
 CHAPTER III
@@ -8229,7 +8229,7 @@ Barker si fece di un rosso acceso, ma continuò a fissare l'orizzonte.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/grave,motif/hill,motif/home,motif/soul,motif/time,motif/wind,concept/ambition,concept/body,concept/honour,concept/madness,concept/martyrdom,setting/london,character/auberon_quin"></span>
 
 
 "You ass," said Lambert; "why can't you be like other people?
@@ -8561,7 +8561,7 @@ quale non aveva mai prima salutato alcuno dei re della terra.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/rebel,motif/crown,motif/desire,motif/grave,motif/hill,motif/nature,motif/river,motif/time,motif/well,concept/nature,character/james_barker"></span>
 
 
 BOOK II
@@ -8829,7 +8829,7 @@ con espressione assorta.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/crown,motif/death,motif/hill,motif/home,motif/leaves,motif/night,motif/rose,motif/soul,motif/stars,motif/time,motif/water,concept/honour,histref/renaissance,setting/castle,setting/london,character/speed"></span>
 
 
 Barker ran round the room after him, bombarding him with demands
@@ -9053,7 +9053,7 @@ Avrebbe pertanto invitato [[King|Re]] Auberon a rivolgere brevemente la parola a
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/shadow,motif/birds,motif/blood,motif/city,motif/desire,motif/dreams,motif/fire,motif/garden,motif/hill,motif/night,motif/rose,motif/silence,concept/democracy,concept/doubt,concept/history,concept/honour,concept/hope,concept/pride,concept/reconciliation,concept/sublime,form/history,setting/london"></span>
 
 
 The [[King]] began by saying that this speech might be regarded
@@ -9305,7 +9305,7 @@ corse fuori dalla stanza.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/hill,motif/love,motif/night,motif/road,motif/rose,motif/sleep,motif/time,motif/water,setting/london,character/james_barker"></span>
 
 
 CHAPTER II
@@ -9551,7 +9551,7 @@ La sua eccitazione dovette positivamente essere calmata come quella di un [[Chil
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/city,motif/hill,motif/machine,motif/road,motif/well,motif/winter,concept/grotesque,setting/russia"></span>
 
 
 The reception which the Charter of the Cities met at
@@ -9769,7 +9769,7 @@ Non importa, non importa.  La cerimonia non è tutto.»
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/city,motif/hill,motif/road,motif/silence,motif/snow,motif/time,motif/well,motif/window,concept/doubt,concept/madness"></span>
 
 
 "I don't understand your Majesty," said the Provost stolidly.
@@ -10039,7 +10039,7 @@ Non potete farlo adesso?  Oh, fatelo adesso.»
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Napoleon of Notting Hill — Chapter 2 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Napoleon of Notting Hill — Chapter 2 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/blood,motif/dreams,motif/hill,motif/home,motif/rose,concept/friendship,concept/wonder,character/james_barker"></span>
 
 
 A smothered sound of amusement appeared to come from the halberdiers,
@@ -10213,7 +10213,7 @@ Gridò con voce forte ma priva d'emozione:
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/king,motif/city,motif/crown,motif/death,motif/hill,motif/lion,motif/love,motif/silence,motif/well,concept/doubt,concept/pride,character/adam_wayne,character/james_barker"></span>
 
 
 CHAPTER III
@@ -10467,7 +10467,7 @@ altrui, mio Lord Buck,» disse il Prevosto Wayne.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/blood,motif/city,motif/crown,motif/dance,motif/hill,motif/lion,motif/nature,motif/road,motif/soul,motif/stars,motif/tears,concept/doubt,concept/fear,concept/nature,character/adam_wayne"></span>
 
 
 "They've sold dirtier things," said Wayne, calmly; "they have
@@ -10781,7 +10781,7 @@ pronto a morire.»
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,motif/dust,motif/hill,motif/love,motif/tears,motif/time,motif/well,concept/fear,concept/grotesque,concept/hope,concept/truth,form/epic,form/riddle,form/tragedy"></span>
 
 
 The [[King]] was lying back in his chair, a kind of wreck.
@@ -11045,7 +11045,7 @@ Notting [[Hill]], gli uomini le [[Love|ameranno]], e ne avranno paura per sempre
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/childhood,motif/hill,motif/love,motif/ship,motif/soul,motif/uncanny,motif/well,concept/uncanny,histref/islam,setting/ship"></span>
 
 
 "It has made mean landscapes magnificent, and hovels outlast cathedrals,"
@@ -11189,7 +11189,7 @@ di risa rabelaisiane.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/birds,motif/city,motif/desire,motif/flowers,motif/garden,motif/hill,motif/nature,motif/rose,motif/soul,motif/stars,motif/wind,concept/melancholy,concept/nature,concept/truth,form/lyric,setting/london,setting/mountains,character/adam_wayne"></span>
 
 
 BOOK III
@@ -11453,7 +11453,7 @@ così un cattivo poeta è nondimeno un poeta.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/childhood,motif/city,motif/desire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/nature,motif/night,motif/secrets,motif/soul,motif/time,concept/history,concept/humility,concept/imagination,concept/madness,concept/nature,form/history,setting/london,character/adam_wayne"></span>
 
 
 Mr. Wayne's little volume of verse was a complete failure;
@@ -11695,7 +11695,7 @@ lance gli ricordavano di tanto in tanto le ringhiere.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/city,motif/cross,motif/hill,motif/lion,motif/soul,concept/faith,concept/wonder,histref/america,setting/america,character/adam_wayne"></span>
 
 
 A couple of days after his interview with the [[King]], [[Adam Wayne]]
@@ -11917,7 +11917,7 @@ da Notting [[Hill]]."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/pilgrim,motif/blood,motif/childhood,motif/city,motif/hill,motif/night,motif/pain,motif/soul,motif/supernatural,motif/uncanny,motif/water,concept/fear,concept/uncanny,character/adam_wayne"></span>
 
 
 The [[grocer]] sat for some little while, with dim eyes and his mouth open,
@@ -12165,7 +12165,7 @@ Dove sarei senza il tatto?"
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/hill,motif/lion,motif/silence,motif/well,concept/beauty,concept/conscience,concept/freedom,concept/history,concept/loneliness,concept/melancholy,concept/union,form/history,setting/battlefield,setting/london,character/adam_wayne"></span>
 
 
 CHAPTER II
@@ -12429,7 +12429,7 @@ dai capelli prematuramente bianchi, e l'aspetto di un grosso bambino.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/death,motif/desire,motif/garden,motif/hill,motif/memory,motif/pain,motif/stars,motif/time,concept/beauty,concept/doubt,concept/immortality,concept/wonder"></span>
 
 
 "Sir," said Wayne, "I am going from [[house]] to [[house]] in this street of ours,
@@ -12703,7 +12703,7 @@ Pare che interessi anche lei."
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/dawn,motif/grave,motif/hill,motif/night,motif/silence,motif/time,concept/education,concept/reform,form/sketch,setting/london,character/adam_wayne,character/bottom"></span>
 
 
 "If it were ever attacked," repeated Wayne, awed into an
@@ -12907,7 +12907,7 @@ preferenza per una vita breve e allegra.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/garden,motif/hill,motif/love,motif/rose,motif/time,motif/water,motif/well,concept/doubt,concept/fear,concept/hope,setting/court,character/adam_wayne"></span>
 
 
 CHAPTER III
@@ -13117,7 +13117,7 @@ Buck parve sinceramente compiaciuto, poiché gli uomini d'affari sono tutti d'an
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/city,motif/desire,motif/hill,motif/nature,motif/road,motif/rose,motif/silence,motif/well,concept/doubt,concept/nature,setting/mountains,character/adam_wayne"></span>
 
 
 "This very kind speech of the Provost of Notting [[Hill]]," began Buck,
@@ -13318,7 +13318,7 @@ Barker e Wilson lo guardarono con ammirazione; il [[King|Re]] ancor più ammirat
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/birds,motif/desire,motif/hill,motif/nature,motif/road,motif/rose,motif/stars,motif/well,motif/wheel,concept/aspiration,concept/hope,concept/madness,concept/nature,setting/mountains,character/adam_wayne,character/james_barker"></span>
 
 
 And Mr. Buck sat down amid subdued but excited applause among the allies.
@@ -13540,7 +13540,7 @@ Il [[King|Re]] osservò la coda del reggimento che si ritirava con uno sguardo d
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/chains,motif/garden,motif/hill,motif/horse,motif/lion,motif/moon,motif/nature,motif/road,motif/sleep,motif/time,motif/wind,concept/fear,concept/nature,concept/wonder,histref/christianity,character/adam_wayne"></span>
 
 
 It took about an hour to erect in Holland Lane the monarch's
@@ -13693,7 +13693,7 @@ Il [[King|Re]] aveva ancora poco più della confusa sensazione di un uomo preso 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/hill,motif/road,motif/silence,motif/soul,motif/spring,motif/summer,motif/time,motif/well,concept/doubt,concept/eternity,concept/self,concept/truth,histref/america,setting/america"></span>
 
 
 BOOK IV
@@ -13987,7 +13987,7 @@ Ma ferii la testa di un uomo.»
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/hill,motif/journey,motif/lightning,motif/night,motif/road,motif/silence,motif/well,character/adam_wayne"></span>
 
 
 Buck set down his glass with a bang, and spat out curses through
@@ -14273,7 +14273,7 @@ fosse sprofondato dal cielo nero.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/bees,motif/city,motif/fire,motif/hill,motif/journey,motif/machine,motif/night,motif/road,motif/time,motif/well,concept/fear,concept/melancholy,setting/london,character/queen"></span>
 
 
 The sky was particularly black, and on this [[Alone|alone]] was one false
@@ -14499,7 +14499,7 @@ Poi attraverso l'oscurità gridò con voce spaventosa:
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/dawn,motif/hill,motif/night,motif/road,motif/stars,setting/london,character/adam_wayne"></span>
 
 
 "Did I blaspheme God?...I am struck blind."
@@ -14629,7 +14629,7 @@ che [[Adam Wayne]] era barricato in Pump Street.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/death,motif/hill,motif/home,motif/night,motif/time,motif/water,motif/well,form/translation,setting/court,character/james_barker"></span>
 
 
 CHAPTER II
@@ -14903,7 +14903,7 @@ il puro sapore giornalistico.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/clock,motif/hill,motif/night,motif/road,motif/silence,motif/well,concept/madness,concept/self,form/epigram,setting/court"></span>
 
 
 "The news of the disaster to our forces in Notting [[Hill]], awful as
@@ -15159,7 +15159,7 @@ su una sedia.  L'[[Clock|orologio]] dell'ufficio ticchettava netto nella quiete.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Napoleon of Notting Hill — Chapter 2 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/desire,motif/flag,motif/hill,motif/lion,motif/road,motif/sleep,motif/soul,motif/well,motif/window,concept/beauty,concept/honour,concept/wonder,setting/court,setting/london,character/adam_wayne,character/queen,character/speed"></span>
 
 
 At length Barker said suddenly:
@@ -15385,7 +15385,7 @@ della compagnia O.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,motif/hill,motif/moon,motif/night,motif/road,motif/rose,motif/stars,motif/time,motif/water,concept/melancholy,concept/truth,form/fragment,setting/court,setting/london,character/queen"></span>
 
 
 CHAPTER III
@@ -15633,7 +15633,7 @@ Nei circoli militari si crede che si stia facendo crescere i baffi....
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,motif/bells,motif/blood,motif/hill,motif/horse,motif/road,motif/stars,concept/body,concept/humility,concept/pride,form/riddle,setting/london,setting/paris"></span>
 
 
 "As I have said, there is nothing to report.  I walk wearily
@@ -15855,7 +15855,7 @@ Io inseguirò. Avanti, Guardie Verdi!'
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Napoleon of Notting Hill — Chapter 3 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/hill,motif/night,motif/road,motif/time,motif/well,motif/wheel"></span>
 
 
 "A wall of dark blue uniforms and a wood of pole-axes was
@@ -16087,7 +16087,7 @@ stelo di pietra che l'umanità avrebbe potuto spezzare come un bastoncino.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Napoleon of Notting Hill — Chapter 3 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/blood,motif/flag,motif/hill,motif/lion,motif/moon,motif/night,motif/road,motif/rose,motif/soul,motif/spring,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/doubt,concept/madness,character/adam_wayne,character/bottom"></span>
 
 
 "I don't know why I have talked so much about this silly
@@ -16319,7 +16319,7 @@ che si arricciano fuori nella via maestra e brillano nella [[Moon|luna]].
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Napoleon of Notting Hill — Chapter 3 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Napoleon of Notting Hill — Chapter 3 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,motif/cave,motif/city,motif/dawn,motif/flowers,motif/hill,motif/night,motif/road,motif/spring,concept/beauty,concept/history,form/history,form/tragedy,setting/court,setting/london,character/achilles"></span>
 
 
 "Later... The final touch has been given to all this terrible futility.
@@ -16549,7 +16549,7 @@ settecento uomini. Che lo facciano se li diverte."
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="Napoleon of Notting Hill — Chapter 3 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="Napoleon of Notting Hill — Chapter 3 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/city,motif/hill,motif/lion,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/wonder,character/adam_wayne,character/james_barker"></span>
 
 
 And the Provost of North Kensington laughed.
@@ -16827,7 +16827,7 @@ giustizia alquanto minore del dovuto.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Napoleon of Notting Hill — Chapter 1 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/hill,motif/lion,motif/memory,motif/time,motif/well,concept/honour,setting/london,character/adam_wayne"></span>
 
 
 BOOK V
@@ -17000,7 +17000,7 @@ Il [[grocer|droghiere]], avendo avvolto i bastoncini di liquirizia in un pezzo d
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Napoleon of Notting Hill — Chapter 1 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,archetype/tyrant,motif/chains,motif/city,motif/dreams,motif/fire,motif/garden,motif/hill,motif/time,motif/water,motif/well,concept/charity,concept/freedom,concept/history,concept/self,concept/wonder,form/history,histref/renaissance,character/adam_wayne"></span>
 
 
 The [[King]] turned also, and stared out into the dark, where the great
@@ -17244,7 +17244,7 @@ Dovevamo conservare i nostri costumi e il nostro [[Self|auto]]-[[government|gove
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Napoleon of Notting Hill — Chapter 1 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/fire,motif/hill,motif/lion,motif/night,motif/pain,motif/soul,motif/stars,motif/time,motif/well,motif/window,concept/truth,character/adam_wayne"></span>
 
 
 "It is so," said a deep voice; and both men turned round.
@@ -17451,7 +17451,7 @@ Vi fu di nuovo un tumulto e un'incertezza per un momento, poi l'intera strada e 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Napoleon of Notting Hill — Chapter 1 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/flowers,motif/hill,motif/spring,motif/stars,motif/time,concept/doubt,character/adam_wayne"></span>
 
 
 A roar of cheers broke in upon his words, and further speech
@@ -17579,7 +17579,7 @@ prima del mattino.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Napoleon of Notting Hill — Chapter 2 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/birds,motif/city,motif/crown,motif/flag,motif/hill,motif/lion,motif/moon,motif/night,motif/river,motif/soul,motif/uncanny,motif/well,concept/uncanny,histref/crusades"></span>
 
 
 CHAPTER II
@@ -17740,7 +17740,7 @@ Due terzi degli uomini di Buck furono fatti a pezzi prima che i loro alleati pot
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Napoleon of Notting Hill — Chapter 2 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/lover,motif/blood,motif/city,motif/garden,motif/hill,motif/lion,motif/night,motif/road,motif/rose,motif/ship,motif/stars,motif/time,concept/body,concept/solitude,setting/ship,character/adam_wayne,character/christ"></span>
 
 
 When Turnbull saw it, he ceased a moment from fighting,
@@ -18026,7 +18026,7 @@ si rovesciò come una [[Ship|nave]], schiacciando tutti nella sua caduta.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Napoleon of Notting Hill — Chapter 3 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/city,motif/garden,motif/grave,motif/hill,motif/lightning,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/pain,motif/silence,motif/soul,motif/stars,motif/swallow,motif/wind,concept/grotesque,concept/nature,concept/truth,form/riddle"></span>
 
 
 CHAPTER III
@@ -18195,7 +18195,7 @@ Una figura più piccola parve levarsi a metà nel buio.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Napoleon of Notting Hill — Chapter 3 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/city,motif/dawn,motif/flag,motif/hill,motif/leaves,motif/love,motif/silence,motif/wind,concept/common_man,concept/freedom,concept/hope,concept/truth,form/tragedy,character/adam_wayne,character/auberon_quin"></span>
 
 
 The sky close about the crest of the hills and trees was beginning

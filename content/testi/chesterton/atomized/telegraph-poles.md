@@ -161,7 +161,7 @@ twilight before [[Dawn|dawn]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="telegraph-poles (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="telegraph-poles (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/leaves,motif/nature,motif/time,concept/beauty,concept/democracy,concept/grotesque,concept/hope,concept/madness,concept/nature,concept/solitude,concept/truth,setting/desert"></span>
 
 
 The Telegraph Poles
@@ -298,7 +298,7 @@ Avevamo iniziato a camminare dalla nostra [[Home|casa]] provvisoria più tardi n
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="telegraph-poles (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="telegraph-poles (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dance,motif/dawn,motif/home,motif/night,motif/soul,motif/well"></span>
 
 
 "At this moment," I answered, "they are probably carrying across the world

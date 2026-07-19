@@ -1178,7 +1178,7 @@ Also F. H. Bradley, Appearance and Reality, p. 306. ‘My external sensations ar
 
 
 
-<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="I. The Burial of the Dead" data-chapter="i the burial of the dead" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_i_the_burial_of_the_dead" data-title="I. The Burial of the Dead" data-chapter="i the burial of the dead" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/shadow,motif/city,motif/dawn,motif/death,motif/desert,motif/desire,motif/dust,motif/frost,motif/garden,motif/hill,motif/home,motif/memory,motif/night,motif/nightingale,motif/rose,motif/silence,motif/snow,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/beauty,concept/fear,setting/desert,setting/london,setting/mountains,character/madame_sosostris,character/sunday"></span>
 
 
 I. The Burial of the Dead  
@@ -1396,7 +1396,7 @@ Good [[Night|night]], ladies, good [[Night|night]], sweet ladies, good [[Night|n
 
 
 
-<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="II. A Game of Chess" data-chapter="II a game of chess" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_ii_a_game_of_chess" data-title="II. A Game of Chess" data-chapter="II a game of chess" data-kind="section" data-tags="archetype/fool,archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/desert,motif/fire,motif/home,motif/moon,motif/night,motif/nightingale,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/vanity,setting/desert,setting/london,character/queen,character/sunday,character/sweeney,character/tiresias"></span>
 
 
 II. A Game of Chess  
@@ -1691,7 +1691,7 @@ Inexplicable splendour of Ionian white and gold.
 
 
 
-<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="III. The Fire Sermon" data-chapter="III the fire sermon" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_iii_the_fire_sermon" data-title="III. The Fire Sermon" data-chapter="III the fire sermon" data-kind="section" data-tags="archetype/king,archetype/lover,motif/bells,motif/city,motif/death,motif/fire,motif/home,motif/moon,motif/night,motif/noon,motif/river,motif/rose,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/window,motif/winter,concept/vanity,setting/london,character/queen,character/sweeney,character/tiresias"></span>
 
 
 III. The [[Fire]] Sermon  
@@ -1880,7 +1880,7 @@ Consider Phlebas, who was once handsome and tall as you.
 
 
 
-<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="IV. Death by Water" data-chapter="IV death by water" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_iv_death_by_water" data-title="IV. Death by Water" data-chapter="IV death by water" data-kind="section" data-tags="motif/bells,motif/blood,motif/city,motif/death,motif/home,motif/leaves,motif/lightning,motif/prison,motif/road,motif/rose,motif/silence,motif/spring,motif/swallow,motif/water,motif/wheel,motif/wind,concept/solitude,setting/london,setting/mountains,character/coriolanus"></span>
 
 
 IV. [[Death]] by [[Water]]  
@@ -2045,7 +2045,7 @@ Datta. Dayadhvam. Damyata.
 
 
 
-<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="V. What the Thunder said" data-chapter="v what the thunder said" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_v_what_the_thunder_said" data-title="V. What the Thunder said" data-chapter="v what the thunder said" data-kind="section" data-tags="topos/paradise_lost,archetype/king,motif/bees,motif/bells,motif/birds,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/home,motif/journey,motif/leaves,motif/lightning,motif/prison,motif/river,motif/road,motif/silence,motif/soul,motif/spring,motif/swallow,motif/water,motif/wind,concept/self,concept/solitude,form/dirge,form/fable,form/sonnet,form/tragedy,form/translation,histref/america,histref/grail_legend,histref/milton,setting/america,setting/london,setting/mountains,character/adonis,character/cleopatra,character/coriolanus,character/diana,character/ferdinand,character/milton,character/queen,character/tiresias,character/venus"></span>
 
 
 V. What the Thunder said  

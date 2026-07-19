@@ -985,7 +985,7 @@ This 1893 historical novel revolves around Amory de Catinat, a Huguenot guardsma
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE GREAT SHADOW — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE GREAT SHADOW — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/fire"></span>
 
 
 CHAPTER I.
@@ -1027,7 +1027,7 @@ Well, it was this business of the burglar that drew his attention to me; for he 
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE GREAT SHADOW — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE GREAT SHADOW — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/journey,motif/ship,setting/ship,character/wellington"></span>
 
 
 CHAPTER II.
@@ -1078,7 +1078,7 @@ And then for the first time I remembered that she had never said a word about th
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE GREAT SHADOW — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE GREAT SHADOW — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/ship,setting/ship,character/wellington"></span>
 
 
 CHAPTER III.
@@ -1158,7 +1158,7 @@ But she laughed when I spoke of marriage.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE GREAT SHADOW — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE GREAT SHADOW — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/hero"></span>
 
 
 CHAPTER IV.
@@ -1249,7 +1249,7 @@ I left it.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE GREAT SHADOW — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE GREAT SHADOW — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/fire,motif/ship,setting/ship"></span>
 
 
 CHAPTER V.
@@ -1333,7 +1333,7 @@ With my head cocked and feeling as if I was doing something very fine, instead o
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE GREAT SHADOW — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE GREAT SHADOW — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/fire,concept/courage"></span>
 
 
 CHAPTER VI.
@@ -1388,7 +1388,7 @@ What sort of eagle was this which had flown into our humble little nest?
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE GREAT SHADOW — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE GREAT SHADOW — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/fire"></span>
 
 
 CHAPTER VII.
@@ -1477,7 +1477,7 @@ He whisked off his hat, and turning briskly he walked off in the direction of We
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE GREAT SHADOW — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE GREAT SHADOW — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER VIII.
@@ -1517,7 +1517,7 @@ The coolness of the woman amazed and enraged me.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE GREAT SHADOW — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE GREAT SHADOW — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/marriage,concept/marriage_and_fidelity,form/historical_novel,histref/napoleonic_wars,setting/scotland"></span>
 
 
 CHAPTER IX.
@@ -1569,7 +1569,7 @@ They thought I was daffing when I said that; but when they came to understand th
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE GREAT SHADOW — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE GREAT SHADOW — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/storm,character/wellington"></span>
 
 
 CHAPTER X.
@@ -1662,7 +1662,7 @@ And this was what a single day brought about; and yet years pass away so often w
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE GREAT SHADOW — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE GREAT SHADOW — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/fire,motif/ship,motif/storm,setting/ship,character/wellington"></span>
 
 
 CHAPTER XI.
@@ -1701,7 +1701,7 @@ And soon we saw that this rumour was true; for the weather cleared towards eveni
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE GREAT SHADOW — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE GREAT SHADOW — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/fire"></span>
 
 
 CHAPTER XII.
@@ -1759,7 +1759,7 @@ That was one to them, but we scored one for us presently. They had pushed forwar
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE GREAT SHADOW — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE GREAT SHADOW — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/fire,motif/storm,character/wellington"></span>
 
 
 CHAPTER XIII.
@@ -1788,7 +1788,7 @@ But now anyone could see that the French army was breaking up. The columns and s
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE GREAT SHADOW — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE GREAT SHADOW — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/battlefield_2,motif/death,concept/war_and_its_cost,concept/fate_and_free_will,form/historical_novel,histref/napoleonic_wars,setting/battlefield"></span>
 
 
 CHAPTER XIV.
@@ -1826,7 +1826,7 @@ He threw out both his hands, with all the fingers feeling and quivering in the a
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE GREAT SHADOW — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE GREAT SHADOW — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/memory,form/historical_novel,histref/napoleonic_wars,setting/paris,setting/france,character/napoleon"></span>
 
 
 CHAPTER XV.
@@ -1855,7 +1855,7 @@ And as for us, our work was done, for the great shadow had been cleared away fro
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE GREAT SHADOW — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE GREAT SHADOW — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/ship,concept/courage,setting/ship,character/wellington"></span>
 
 
 THE CRIME OF THE BRIGADIER.
@@ -1915,7 +1915,7 @@ But they would not leave me so easily, these gallant huntsmen. I was the fox now
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="THE GREAT SHADOW — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="THE GREAT SHADOW — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/ship,motif/storm,setting/ship"></span>
 
 
 THE “SLAPPING SAL.”

@@ -159,7 +159,7 @@ A presto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="kingcole (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="kingcole (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/desire,motif/fire,motif/moon,motif/soul,motif/stars,motif/summer,motif/tears"></span>
 
 
 Variations of an Air  

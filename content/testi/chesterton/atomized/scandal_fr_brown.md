@@ -6537,7 +6537,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_01" data-title="scandal Fr Brown — The Scandal of Father Brown (part 1)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_01" data-title="scandal Fr Brown — The Scandal of Father Brown (part 1)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,motif/grave,motif/hill,motif/love,motif/road,motif/well,motif/window,concept/beauty,concept/self,form/satire,histref/bible,setting/court,character/father_brown,character/helen,character/queen"></span>
 
 
 ONE: The Scandal of [[Father Brown]]
@@ -6661,7 +6661,7 @@ Poiché il signor Rock era assai fermamente e giustamente convinto che un gran n
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_02" data-title="scandal Fr Brown — The Scandal of Father Brown (part 2)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_02" data-title="scandal Fr Brown — The Scandal of Father Brown (part 2)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="motif/mirror,motif/road,motif/rose,motif/silence,motif/well,motif/window,concept/beauty,concept/courage,concept/faith,concept/grotesque,concept/self,form/comedy,character/father_brown"></span>
 
 
 One of the figures was rather remarkable in itself. It was poised at the
@@ -6785,7 +6785,7 @@ Ma in ciò la signora si sbagliava; come talvolta le accadeva. Poiché Agar Rock
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_03" data-title="scandal Fr Brown — The Scandal of Father Brown (part 3)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_03" data-title="scandal Fr Brown — The Scandal of Father Brown (part 3)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/marriage,motif/rose,motif/time,motif/well,concept/fear,concept/history,concept/pride,form/history,histref/america,histref/christianity,setting/america,character/father_brown,character/julius_caesar"></span>
 
 
 'If you'll pardon me. Madam, I should like to have a word with you in
@@ -6947,7 +6947,7 @@ Tutta l'integrale indignazione della vita di Agar Rock si [[Rose|levò]] dentro 
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_04" data-title="scandal Fr Brown — The Scandal of Father Brown (part 4)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_04" data-title="scandal Fr Brown — The Scandal of Father Brown (part 4)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,motif/cross,motif/garden,motif/home,motif/love,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,form/tragedy,histref/america,setting/america,character/father_brown"></span>
 
 
 'I've no [[Doubt|doubt]] his business does [[Well|well]],' said Rock. 'He's quite the best
@@ -7104,7 +7104,7 @@ Agar Rock volse verso il suo compagno un volto di giustizia finale e tremenda; c
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_05" data-title="scandal Fr Brown — The Scandal of Father Brown (part 5)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_05" data-title="scandal Fr Brown — The Scandal of Father Brown (part 5)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,archetype/shadow,motif/dance,motif/dawn,motif/fire,motif/moon,motif/time,motif/well,concept/beauty,concept/truth,character/christ,character/father_brown"></span>
 
 
 'Yes,' said [[Father Brown]], 'I helped her to bolt with that curly - haired
@@ -7276,7 +7276,7 @@ Rock ruminò per un [[Time|po']] e disse infine: «Suppongo sia appena possibile
 
 
 
-<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_06" data-title="scandal Fr Brown — The Scandal of Father Brown (part 6)" data-chapter="The Scandal of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_scandal_of_father_brown--part_06" data-title="scandal Fr Brown — The Scandal of Father Brown (part 6)" data-chapter="The Scandal of Father Brown" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/home,motif/love,motif/stars,motif/time,motif/well,concept/ambition,concept/beauty,concept/pride,concept/self,concept/truth,character/father_brown"></span>
 
 
 'You say down with [[Romance|romance]]. I say I'd take my chance in fighting the
@@ -7379,7 +7379,7 @@ Non era passata molto più di una mezz'ora, tra il [[Time|momento]] in cui Rock 
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_01" data-title="scandal Fr Brown — The Quick One (part 1)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_01" data-title="scandal Fr Brown — The Quick One (part 1)" data-chapter="The Quick One" data-kind="excerpt" data-tags="archetype/king,motif/time,motif/well,concept/hope,concept/truth,character/father_brown"></span>
 
 
 TWO: The Quick One
@@ -7596,7 +7596,7 @@ sempre uccidere chi gli pare.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_02" data-title="scandal Fr Brown — The Quick One (part 2)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_02" data-title="scandal Fr Brown — The Quick One (part 2)" data-chapter="The Quick One" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/pain,motif/well,concept/doubt,concept/fear,concept/honour,concept/purification,concept/self,histref/christianity,character/jones"></span>
 
 
 Before the priest could reply, a joyous band of bagmen rolled into the
@@ -7809,7 +7809,7 @@ lingua del vecchio brontolone.
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_03" data-title="scandal Fr Brown — The Quick One (part 3)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_03" data-title="scandal Fr Brown — The Quick One (part 3)" data-chapter="The Quick One" data-kind="excerpt" data-tags="archetype/prophet,motif/desert,motif/grave,motif/memory,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/honour,concept/reconciliation,concept/self,setting/desert,character/father_brown,character/jones"></span>
 
 
 'And you will have your usual, Sir,' said Mr Wills, leaning and leering
@@ -8031,7 +8031,7 @@ dritto in Paradiso per aver difeso l'[[Honour|onore]] del [[Prophet|Profeta]].»
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_04" data-title="scandal Fr Brown — The Quick One (part 4)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_04" data-title="scandal Fr Brown — The Quick One (part 4)" data-chapter="The Quick One" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/memory,motif/poison,motif/secrets,motif/time,motif/well,concept/doubt,concept/hope,character/father_brown,character/jones"></span>
 
 
 'There is that, of course,' said [[Father Brown]]. 'It would be very
@@ -8266,7 +8266,7 @@ bicchiere fu lasciato indietro.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_05" data-title="scandal Fr Brown — The Quick One (part 5)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_05" data-title="scandal Fr Brown — The Quick One (part 5)" data-chapter="The Quick One" data-kind="excerpt" data-tags="motif/lion,motif/road,motif/time,motif/well,concept/hope,histref/christianity,setting/oxford,character/father_brown"></span>
 
 
 'An accident, I suppose,' said Greenwood doubtfully. 'The man could
@@ -8482,7 +8482,7 @@ volta tanto, voglio davvero servirmi di voi.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_06" data-title="scandal Fr Brown — The Quick One (part 6)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_06" data-title="scandal Fr Brown — The Quick One (part 6)" data-chapter="The Quick One" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/crown,motif/night,motif/well,concept/honour,concept/wonder,form/biography,character/father_brown,character/jones"></span>
 
 
 And so, for some stretch of those strange days and nights, we might
@@ -8705,7 +8705,7 @@ fissandolo. «Sentite, non so se davvero facciate sul serio oppure no.»
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_07" data-title="scandal Fr Brown — The Quick One (part 7)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_07" data-title="scandal Fr Brown — The Quick One (part 7)" data-chapter="The Quick One" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/love,motif/mirror,motif/snow,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/solitude,character/father_brown"></span>
 
 
 Even as he was looking steadily in his friend's face, finding something
@@ -8936,7 +8936,7 @@ autorità dell'albergo; e credevo che aveste convenuto che il direttore non
 
 
 
-<span class="atom-split" data-atom="story_02_the_quick_one--part_08" data-title="scandal Fr Brown — The Quick One (part 8)" data-chapter="The Quick One" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_quick_one--part_08" data-title="scandal Fr Brown — The Quick One (part 8)" data-chapter="The Quick One" data-kind="excerpt" data-tags="motif/home,motif/poison,motif/rose,motif/time,motif/well,concept/guilt,concept/slavery,character/father_brown"></span>
 
 
 'I don't know,' said the priest blankly. 'I don't know for certain even
@@ -9162,7 +9162,7 @@ che era un impostore quando vidi quella grossa lucente spilla da petto.»
 
 
 
-<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_01" data-title="scandal Fr Brown — The Blast of the Book (part 1)" data-chapter="The Blast of the Book" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_01" data-title="scandal Fr Brown — The Blast of the Book (part 1)" data-chapter="The Blast of the Book" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,archetype/innocent,motif/ghosts,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/history,concept/nature,concept/pride,form/history,character/father_brown,character/oberon,character/oliver,character/titania"></span>
 
 
 THREE: The Blast of the Book
@@ -9308,7 +9308,7 @@ Con ciò si separarono, e Openshaw voltò l'angolo verso un piccolo ufficio che 
 
 
 
-<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_02" data-title="scandal Fr Brown — The Blast of the Book (part 2)" data-chapter="The Blast of the Book" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_02" data-title="scandal Fr Brown — The Blast of the Book (part 2)" data-chapter="The Blast of the Book" data-kind="excerpt" data-tags="motif/ghosts,motif/grave,motif/ship,motif/silence,motif/well,concept/hope,concept/vanity,setting/ship"></span>
 
 
 And he went into his private office, still brooding on the problem which
@@ -9449,7 +9449,7 @@ Vi fu un altro [[Silence|silenzio]]; finché egli riprese nello stesso tono di c
 
 
 
-<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_03" data-title="scandal Fr Brown — The Blast of the Book (part 3)" data-chapter="The Blast of the Book" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_03" data-title="scandal Fr Brown — The Blast of the Book (part 3)" data-chapter="The Blast of the Book" data-kind="excerpt" data-tags="archetype/innocent,motif/grave,motif/home,motif/machine,motif/silence,motif/time,motif/well,motif/window,concept/body"></span>
 
 
 'The tent was empty. The book was lying on the table; open, but on its
@@ -9605,7 +9605,7 @@ Era ancora nella stessa poltrona e quasi nella stessa posizione, quando gli stes
 
 
 
-<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_04" data-title="scandal Fr Brown — The Blast of the Book (part 4)" data-chapter="The Blast of the Book" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_04" data-title="scandal Fr Brown — The Blast of the Book (part 4)" data-chapter="The Blast of the Book" data-kind="excerpt" data-tags="motif/garden,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/despair,concept/hope,concept/identity,setting/london,character/father_brown"></span>
 
 
 'Dr Hankey,' said Pringle gravely, 'wants to keep the book for an hour
@@ -9754,7 +9754,7 @@ Openshaw credette di udire qualcosa come una sorta di schianto vibrante o tremol
 
 
 
-<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_05" data-title="scandal Fr Brown — The Blast of the Book (part 5)" data-chapter="The Blast of the Book" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_blast_of_the_book--part_05" data-title="scandal Fr Brown — The Blast of the Book (part 5)" data-chapter="The Blast of the Book" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/home,motif/machine,motif/silence,motif/soul,motif/time,motif/window,concept/doubt,concept/truth,character/father_brown,character/macbeth"></span>
 
 
 'Five men have now vanished in this impossible way,' he said. 'Every one
@@ -9945,7 +9945,7 @@ Vi fu un altro lungo [[Silence|silenzio]] e poi il professor Openshaw rise; con 
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_01" data-title="scandal Fr Brown — The Green Man (part 1)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_01" data-title="scandal Fr Brown — The Green Man (part 1)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/dance,motif/ghosts,motif/great_house,motif/road,motif/ship,motif/time,motif/well,concept/history,form/history,setting/court,setting/ship,character/michael"></span>
 
 
 FOUR: The Green Man
@@ -10063,7 +10063,7 @@ Fu a questo punto culminante del prodigio che le due figure di passaggio scompar
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_02" data-title="scandal Fr Brown — The Green Man (part 2)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_02" data-title="scandal Fr Brown — The Green Man (part 2)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,motif/dance,motif/home,motif/night,motif/road,motif/rose,motif/well,motif/window,concept/body,concept/melancholy,concept/suicide"></span>
 
 
 It was up this curving [[Road|road]] from the coast that the Admiral might be
@@ -10227,7 +10227,7 @@ Chiunque conosca il signor Harold Harker, segretario, capirà che, qualunque fos
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_03" data-title="scandal Fr Brown — The Green Man (part 3)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_03" data-title="scandal Fr Brown — The Green Man (part 3)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/home,motif/jewel,motif/silence,motif/storm,motif/time,motif/well,concept/body,character/father_brown"></span>
 
 
 'So that we come,' said the secretary, lowering his voice with the
@@ -10430,7 +10430,7 @@ L'ispettore si voltò con una prontezza del tutto nuova e gli sparò una domanda
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_04" data-title="scandal Fr Brown — The Green Man (part 4)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_04" data-title="scandal Fr Brown — The Green Man (part 4)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/fool,motif/leaves,motif/night,motif/road,motif/silence,motif/time,motif/well,concept/ambition,concept/truth,character/father_brown"></span>
 
 
 The doctor and the priest walked slowly down the street that struck out
@@ -10624,7 +10624,7 @@ Ella si irrigidì e aggrottò la fronte, e poi con altrettanta bruschezza sorris
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_05" data-title="scandal Fr Brown — The Green Man (part 5)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_05" data-title="scandal Fr Brown — The Green Man (part 5)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/ghost,motif/garden,motif/moon,motif/night,motif/rose,motif/well,concept/body,concept/truth,character/father_brown"></span>
 
 
 Then he also [[Rose|rose]]; clutching his clumsy umbrella with a new resolution,
@@ -10795,7 +10795,7 @@ Ma [[Father Brown|Padre Brown]] era già fuori portata d'udito, e un momento dop
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_06" data-title="scandal Fr Brown — The Green Man (part 6)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_06" data-title="scandal Fr Brown — The Green Man (part 6)" data-chapter="The Green Man" data-kind="excerpt" data-tags="archetype/fool,archetype/monster,motif/birds,motif/garden,motif/leaves,motif/rose,motif/silence,motif/stars,motif/time,motif/well,concept/body,concept/grotesque,concept/honour,concept/survival,character/father_brown"></span>
 
 
 To their surprise he showed no dispostion to re - enter the [[house]], now
@@ -10973,7 +10973,7 @@ In mezzo al [[Silence|silenzio]] che seguì fu lui a riprendere la sua spiegazio
 
 
 
-<span class="atom-split" data-atom="story_04_the_green_man--part_07" data-title="scandal Fr Brown — The Green Man (part 7)" data-chapter="The Green Man" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_green_man--part_07" data-title="scandal Fr Brown — The Green Man (part 7)" data-chapter="The Green Man" data-kind="excerpt" data-tags="motif/death,motif/home,motif/ship,motif/silence,motif/well,concept/body,concept/hope,concept/imagination,form/comedy,form/parable,form/tragedy,setting/ship,character/father_brown"></span>
 
 
 'I did not tell the Admiral; but somebody did. Word came to him somehow,
@@ -11070,7 +11070,7 @@ Fece una pausa un momento per svuotare la pipa e riprese pensosamente: «Ora, qu
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_01" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 1)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_01" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 1)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="archetype/detective,motif/moon,motif/soul,motif/time,motif/water,concept/body,concept/courage,concept/history,concept/truth,form/history"></span>
 
 
 FIVE: The Pursuit of Mr Blue
@@ -11199,7 +11199,7 @@ Quando il prete criminologo, il cui nome pareva essere Brown, fu finalmente stac
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_02" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 2)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_02" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 2)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="archetype/avenger,archetype/ghost,motif/blood,motif/lightning,motif/love,motif/mirror,motif/time,motif/well,motif/window,concept/ambition,concept/guilt,concept/pride,character/father_brown"></span>
 
 
 'Can't we go and sit down somewhere,' said Muggleton impatiently. 'I've
@@ -11344,7 +11344,7 @@ Muggleton annuì; e dopo una pausa cominciò la propria storia, con una voce str
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_03" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 3)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_03" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 3)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/shadow,motif/death,motif/prison,motif/silence,motif/well,motif/window,character/father_brown"></span>
 
 
 'Three times the pursued and the pursuer passed in succession outside
@@ -11503,7 +11503,7 @@ Ci fu un lungo [[Silence|silenzio]], e poi l'agente investigativo disse con una 
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_04" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 4)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_04" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 4)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="archetype/fool,motif/time,motif/well,concept/body,concept/history,form/history,character/father_brown"></span>
 
 
 And he turned away, ploughing through the sand to the place where the
@@ -11688,7 +11688,7 @@ Poi, dopo una pausa, proseguì: «Ma anche se è uno [[Fool|sciocco]] e un falli
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_05" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 5)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_05" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 5)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,motif/blood,motif/rose,motif/time,motif/water,motif/well,concept/body,concept/suicide,concept/truth,character/father_brown"></span>
 
 
 The secretary was silent for a moment; then he snorted and said: 'If
@@ -11870,7 +11870,7 @@ Perciò, vedendo [[Father Brown]] allontanarsi pian piano dal gruppo, fece un mo
 
 
 
-<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_06" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 6)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_pursuit_of_mr_blue--part_06" data-title="scandal Fr Brown — The Pursuit of Mr Blue (part 6)" data-chapter="The Pursuit of Mr Blue" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/ghost,archetype/innocent,archetype/lover,motif/home,motif/machine,motif/stars,motif/time,motif/well,concept/body,concept/truth,form/tragedy,character/father_brown,character/hamlet,character/julius_caesar,character/king_lear,character/pistol"></span>
 
 
 'What do you mean?' asked Taylor sharply.
@@ -12049,7 +12049,7 @@ Recitando questa notevole citazione di Keats, con una certa emozione, Padre Brow
 
 
 
-<span class="atom-split" data-atom="story_06_the_crime_of_the_communist" data-title="scandal Fr Brown — The Crime of the Communist" data-chapter="The Crime of the Communist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_crime_of_the_communist" data-title="scandal Fr Brown — The Crime of the Communist" data-chapter="The Crime of the Communist" data-kind="story" data-tags="motif/lightning,motif/summer,motif/well"></span>
 
 
 SIX: The Crime of the Communist
@@ -12092,7 +12092,7 @@ quattro secoli), pure qualcosa nello spirito del luogo li rendeva tutti a
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_01" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 1)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_01" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 1)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/storm,motif/time,motif/well,concept/freedom,histref/roman_history,setting/new_york,character/coriolanus,character/father_brown"></span>
 
 
 one. The gardens had been tended so carefully as to achieve the final
@@ -12236,7 +12236,7 @@ Il motivo per cui i primi tre uomini avevano raggiunto gli altri due tanto tardi
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_02" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 2)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_02" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 2)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="archetype/shadow,motif/nature,motif/river,motif/well,concept/conscience,concept/faith,concept/freedom,concept/nature,concept/wonder,character/father_brown,character/monks"></span>
 
 
 'I don't know whether Craken is coming,' said the Master, not without a
@@ -12400,7 +12400,7 @@ Un'[[Shadow|ombra]] scattò o scivolò rapida lungo la parete rivestita di panne
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_03" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 3)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_03" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 3)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/cross,motif/garden,motif/memory,motif/rose,motif/well,motif/window,concept/comradeship,concept/hope,concept/reconciliation,concept/truth,histref/roman_history,character/father_brown"></span>
 
 
 The tall man shot along the wall like his own [[Shadow|shadow]] until he sank into
@@ -12539,7 +12539,7 @@ Craken lo guardò con occhi covanti; e disse infine, dopo aver lentamente vuotat
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_04" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 4)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_04" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 4)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/garden,motif/time,motif/well,concept/body,concept/doubt,concept/grotesque,concept/longing,concept/self,form/tragedy,character/father_brown"></span>
 
 
 'Yes,' said [[Father Brown]], suddenly coming out of his trance. 'That's
@@ -12690,7 +12690,7 @@ A questo punto, per un netto contrasto, i prati furono attraversati da una figur
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_05" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 5)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_05" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 5)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="motif/garden,motif/poison,motif/soul,motif/well,concept/despair,concept/identity,character/father_brown,character/pistol"></span>
 
 
 'Look here,' said the Master to the priest, before the doctor was within
@@ -12876,7 +12876,7 @@ Nel momento in cui [[Father Brown]] udì la parola «fiammiferi», balzò dal su
 
 
 
-<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_06" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 6)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_gardens_had_been_tended_so_carefully--part_06" data-title="scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 6)" data-chapter="The gardens had been tended so carefully" data-kind="excerpt" data-tags="archetype/monster,motif/flowers,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/nature,concept/survival,concept/truth,setting/oxford,character/father_brown"></span>
 
 
 [[Father Brown]] laughed in a rather shamefaced manner.
@@ -13083,7 +13083,7 @@ Il volto di [[Father Brown]] si fece quasi grave di rimprovero; e la sua voce eb
 
 
 
-<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_01" data-title="scandal Fr Brown — The Point of a Pin (part 1)" data-chapter="The Point of a Pin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_01" data-title="scandal Fr Brown — The Point of a Pin (part 1)" data-chapter="The Point of a Pin" data-kind="excerpt" data-tags="motif/bells,motif/nature,motif/road,motif/silence,motif/sleep,motif/time,concept/doubt,concept/hope,concept/nature,concept/union,setting/oxford,character/father_brown,character/hubert"></span>
 
 
 SEVEN: The Point of a Pin
@@ -13206,7 +13206,7 @@ Nel complesso, [[Father Brown]] preferiva piuttosto il gruppo più borghese dei 
 
 
 
-<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_02" data-title="scandal Fr Brown — The Point of a Pin (part 2)" data-chapter="The Point of a Pin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_02" data-title="scandal Fr Brown — The Point of a Pin (part 2)" data-chapter="The Point of a Pin" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/memory,motif/silence,motif/time,motif/well,concept/pride,character/father_brown,character/hubert"></span>
 
 
 [[Father Brown]] had looked at all these things before; and at that moment
@@ -13369,7 +13369,7 @@ Vi fu un breve [[Silence|silenzio]]; e poi Sir [[Hubert]] Sand fece seccamente i
 
 
 
-<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_03" data-title="scandal Fr Brown — The Point of a Pin (part 3)" data-chapter="The Point of a Pin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_03" data-title="scandal Fr Brown — The Point of a Pin (part 3)" data-chapter="The Point of a Pin" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/garden,motif/river,motif/sleep,motif/time,motif/well,motif/wind,concept/body,concept/suicide,concept/truth,character/father_brown,character/hubert"></span>
 
 
 Nobody, not even the least fastidious lady, would have said that the
@@ -13514,7 +13514,7 @@ Ormai a questo [[Time|punto]] sfrecciavano lungo la strada in automobile attrave
 
 
 
-<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_04" data-title="scandal Fr Brown — The Point of a Pin (part 4)" data-chapter="The Point of a Pin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_04" data-title="scandal Fr Brown — The Point of a Pin (part 4)" data-chapter="The Point of a Pin" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/garden,motif/love,motif/river,motif/silence,motif/water,motif/well,concept/doubt,concept/fear,concept/suicide,concept/truth,form/tragedy,character/father_brown,character/hubert,character/queen"></span>
 
 
 In the tangle of thin trees by the [[River|river]] two figures seemed to divide or
@@ -13672,7 +13672,7 @@ Henry lo guardava con aria piuttosto trasalita, gli occhiali storti sul naso a p
 
 
 
-<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_05" data-title="scandal Fr Brown — The Point of a Pin (part 5)" data-chapter="The Point of a Pin" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_point_of_a_pin--part_05" data-title="scandal Fr Brown — The Point of a Pin (part 5)" data-chapter="The Point of a Pin" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/leaves,motif/love,motif/river,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/history,concept/suicide,concept/truth,form/history,character/father_brown,character/hubert"></span>
 
 
 It was evident that Sand felt something creepy about the priest's
@@ -13812,7 +13812,7 @@ La felce e i cespugli del sottobosco scricchiolarono e crepitarono mentre il gro
 
 
 
-<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_01" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 1)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_01" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 1)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt" data-tags="archetype/detective,motif/garden,motif/silence,motif/time,motif/well,concept/body,concept/grotesque,concept/self,concept/suicide,concept/union,concept/wonder,form/riddle,character/father_brown"></span>
 
 
 one. I mean, it's easy to say you've thrown it in, because it might be
@@ -14035,7 +14035,7 @@ assassino sia una persona assai riflessiva. Riesce a cavarne qualcosa?»
 
 
 
-<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_02" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 2)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_02" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 2)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/fire,motif/night,motif/river,motif/rose,concept/body,concept/guilt,concept/suicide,concept/truth,character/father_brown,character/hubert,character/pistol"></span>
 
 
 'No; but I see what you mean,' said Stanes, 'by saying that I didn't
@@ -14260,7 +14260,7 @@ trova il [[Body|cadavere]].»
 
 
 
-<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_03" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 3)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_i_mean_it_s_easy_to_say_you_ve_thrown_it--part_03" data-title="scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be (part 3)" data-chapter="I mean it s easy to say you ve thrown it" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/dawn,motif/night,motif/sleep,motif/stars,motif/window,concept/body,concept/honour,setting/egypt,character/father_brown,character/hubert"></span>
 
 
 'It is here,' said [[Father Brown]], and stamped on the hearthrug. 'Here,
@@ -14424,7 +14424,7 @@ case; eppure l'intera montagna d'edificio non è che la tomba di un solo uomo.»
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_01" data-title="scandal Fr Brown — The Insoluble Problem (part 1)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_01" data-title="scandal Fr Brown — The Insoluble Problem (part 1)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/jewel,motif/journey,motif/leaves,motif/noon,motif/road,motif/time,motif/well,concept/ambition,setting/cathedral,character/father_brown,character/flambeau"></span>
 
 
 EIGHT: The Insoluble Problem
@@ -14547,7 +14547,7 @@ Mentre procedevano in automobile attraverso un paesaggio densamente boscoso ma s
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_02" data-title="scandal Fr Brown — The Insoluble Problem (part 2)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_02" data-title="scandal Fr Brown — The Insoluble Problem (part 2)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="topos/double,motif/garden,motif/horse,motif/leaves,motif/love,motif/rose,motif/silence,motif/time,motif/window,concept/body,character/father_brown,character/flambeau"></span>
 
 
 The two old companions had often arrived together at inns and other
@@ -14699,7 +14699,7 @@ Mosse quasi meccanicamente verso la porta; e per poco non urtò un uomo che entr
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_03" data-title="scandal Fr Brown — The Insoluble Problem (part 3)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_03" data-title="scandal Fr Brown — The Insoluble Problem (part 3)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="motif/blood,motif/garden,motif/memory,motif/storm,motif/time,motif/wind,concept/body,character/father_brown,character/flambeau"></span>
 
 
 'His name is Dunn,' said the doctor, with a certain restraint of manner.
@@ -14854,7 +14854,7 @@ I due investigatori dilettanti si guardarono l'un l'altro. «Trovo intriganti pa
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_04" data-title="scandal Fr Brown — The Insoluble Problem (part 4)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_04" data-title="scandal Fr Brown — The Insoluble Problem (part 4)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="archetype/lover,motif/blood,motif/dawn,motif/dust,motif/garden,motif/leaves,motif/memory,motif/moon,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/window,character/father_brown,character/flambeau"></span>
 
 
 'I think,' remarked the other, 'that we'd better go back to the [[house]]
@@ -15040,7 +15040,7 @@ Il calore e il peso e l'oscurità del cielo tempestoso parevano premere ancor pi
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_05" data-title="scandal Fr Brown — The Insoluble Problem (part 5)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_05" data-title="scandal Fr Brown — The Insoluble Problem (part 5)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/horse,motif/love,motif/marriage,motif/silence,motif/soul,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/hope,concept/truth,form/tragedy,character/father_brown,character/flambeau,character/pistol"></span>
 
 
 He was hesitant and almost shaky as he approached the woman; but he
@@ -15220,7 +15220,7 @@ Alla fine, dopo un lungo [[Silence|silenzio]], il prete osservò: «Potrei quasi
 
 
 
-<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_06" data-title="scandal Fr Brown — The Insoluble Problem (part 6)" data-chapter="The Insoluble Problem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_insoluble_problem--part_06" data-title="scandal Fr Brown — The Insoluble Problem (part 6)" data-chapter="The Insoluble Problem" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,archetype/shadow,motif/death,motif/night,motif/prayer,motif/road,motif/time,motif/well,motif/window,concept/body,concept/faith,concept/history,concept/truth,form/history,character/edmund,character/father_brown,character/flambeau"></span>
 
 
 'I'm sure you do,' said [[Flambeau]], 'but I don't yet know much about my
@@ -15422,7 +15422,7 @@ Alzò gli occhi e vide, attraverso il velo del fumo d'incenso e delle luci tremu
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_01" data-title="scandal Fr Brown — The Vampire of the Village (part 1)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_01" data-title="scandal Fr Brown — The Vampire of the Village (part 1)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/garden,motif/journey,motif/lion,motif/well,motif/wind,concept/body,form/riddle,form/tragedy,histref/bible,character/father_brown,character/hamlet"></span>
 
 
 NINE: The Vampire of the Village
@@ -15571,7 +15571,7 @@ Un anno o due dopo la questione fu riaperta in modo curioso; una serie di eventi
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_02" data-title="scandal Fr Brown — The Vampire of the Village (part 2)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_02" data-title="scandal Fr Brown — The Vampire of the Village (part 2)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="archetype/fool,motif/grave,motif/love,motif/poison,motif/secrets,motif/time,motif/well,motif/window,concept/charity,concept/doubt,concept/natural_order,character/chorus,character/father_brown"></span>
 
 
 'People who lose all their [[Charity|charity]] generally lose all their [[logic]],'
@@ -15742,7 +15742,7 @@ Sedeva torvo a guardare il paesaggio che scivolava via oltre il [[Window|finestr
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_03" data-title="scandal Fr Brown — The Vampire of the Village (part 3)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_03" data-title="scandal Fr Brown — The Vampire of the Village (part 3)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,archetype/monster,archetype/rebel,motif/decay,motif/lion,motif/love,motif/night,motif/well,motif/window,histref/puritanism,character/father_brown,character/shylock"></span>
 
 
 He was not so illogical (nor so unorthodox) as to infer from this [[Alone|alone]]
@@ -15869,7 +15869,7 @@ Il suo successivo scalo fu un vero e proprio contrasto; poiché scomparve giù p
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_04" data-title="scandal Fr Brown — The Vampire of the Village (part 4)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_04" data-title="scandal Fr Brown — The Vampire of the Village (part 4)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="archetype/villain,motif/night,motif/poison,motif/silence,motif/time,motif/well,concept/conscience,form/riddle,histref/bible,character/father_brown,character/polonius,character/sunday"></span>
 
 
 'I'm quite sure they were splendid and very [[Well|well]] - deserved,' gasped the
@@ -16042,7 +16042,7 @@ In quel momento un impiegato portò una lettera senza francobollo per l'avvocato
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_05" data-title="scandal Fr Brown — The Vampire of the Village (part 5)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_05" data-title="scandal Fr Brown — The Vampire of the Village (part 5)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/city,motif/death,motif/poison,motif/well,concept/body,concept/doubt,concept/wonder,form/tragedy,setting/denmark,character/father_brown,character/hamlet,character/polonius"></span>
 
 
 'It's that melodramatic actor that's always pestering us,' he said.
@@ -16216,7 +16216,7 @@ Ma [[Father Brown]] non si era mosso; fissava ancora serenamente il soffitto.
 
 
 
-<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_06" data-title="scandal Fr Brown — The Vampire of the Village (part 6)" data-chapter="The Vampire of the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_the_vampire_of_the_village--part_06" data-title="scandal Fr Brown — The Vampire of the Village (part 6)" data-chapter="The Vampire of the Village" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/death,motif/journey,motif/love,motif/memory,motif/poison,motif/time,motif/well,concept/history,concept/hope,form/history,form/melodrama,form/novel,character/father_brown,character/hamlet,character/polonius,character/shylock"></span>
 
 
 They passed out of the room uninterrupted by the two others, the one

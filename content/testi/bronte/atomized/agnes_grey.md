@@ -7003,7 +7003,7 @@ _Spottiswode & Co. Ltd._, _Printers_, _London_. _Colchester and Eton_.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Agnes Grey — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Agnes Grey — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/nature,motif/ship,motif/soul,motif/time,motif/well,concept/education,concept/fear,concept/history,concept/nature,concept/wonder,form/history,setting/ship,character/agnes_grey,character/richard"></span>
 
 
 CHAPTER I.
@@ -7117,7 +7117,7 @@ stinted: but he, for once, was incorrigible.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Agnes Grey — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Agnes Grey — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/fire,motif/garden,motif/love,motif/soul,motif/time,motif/well,concept/body,concept/courage,concept/imagination,concept/poverty,concept/self,concept/truth,character/agnes_grey,character/bottom"></span>
 
 
 What happy hours Mary and I have passed while sitting at our work by
@@ -7224,7 +7224,7 @@ dejected.”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Agnes Grey — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Agnes Grey — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/grave,motif/love,motif/marriage,motif/nature,motif/summer,motif/time,motif/water,motif/well,concept/education,concept/fear,concept/nature,character/agnes_grey"></span>
 
 
 “Mary, mamma says I’m to help you; or get you to take a walk with me;
@@ -7379,7 +7379,7 @@ were inclined to think the better plan.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Agnes Grey — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Agnes Grey — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/hill,motif/home,motif/night,motif/rose,motif/silence,motif/sleep,motif/snow,motif/tears,motif/time,motif/wind,concept/hope,concept/solitude,character/agnes_grey"></span>
 
 
 But some weeks more were yet to be devoted to preparation. How long,
@@ -7461,7 +7461,7 @@ lest I should see it in gloomy [[Shadow|shadow]], like the rest of the landscape
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Agnes Grey — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Agnes Grey — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/horse,motif/journey,motif/road,motif/time,motif/well,motif/wind,concept/deception,concept/education,concept/self,concept/truth,character/agnes_grey,character/tom_bloomfield"></span>
 
 
 CHAPTER II.
@@ -7576,7 +7576,7 @@ that I coveted more than all the rest—but with her I had nothing to do.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Agnes Grey — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Agnes Grey — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/birds,motif/clock,motif/fire,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/fear,concept/hope,histref/reformation,character/agnes_grey"></span>
 
 
 I talked to my little pupils as [[Well|well]] as I could, and tried to render
@@ -7754,7 +7754,7 @@ hopes had depicted her to be.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Agnes Grey — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Agnes Grey — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/garden,motif/leaves,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/fear,character/agnes_grey,character/bottom,character/nurse"></span>
 
 
 CHAPTER III.
@@ -7882,7 +7882,7 @@ anything that was not my own fault.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Agnes Grey — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Agnes Grey — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/night,motif/tears,motif/time,concept/body,concept/doubt,concept/faith,concept/fear,concept/grotesque,concept/hope,concept/self,character/agnes_grey"></span>
 
 
 In the afternoon we applied to lessons again: then went out again; then
@@ -7996,7 +7996,7 @@ till, in spite of his resistance, the line was in some sort completed.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Agnes Grey — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Agnes Grey — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desire,motif/night,motif/tears,motif/time,motif/well,concept/hope,concept/suffering,character/agnes_grey,character/nurse"></span>
 
 
 Yet Tom was by no means the most unmanageable of my pupils: sometimes,
@@ -8125,7 +8125,7 @@ then complain bitterly of the trouble it gave her.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Agnes Grey — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Agnes Grey — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/time,concept/deception,character/agnes_grey"></span>
 
 
 When little Fanny came into the schoolroom, I hoped she would be mild
@@ -8196,7 +8196,7 @@ vacation.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Agnes Grey — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Agnes Grey — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/garden,motif/home,motif/snow,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/indolence,concept/solitude,character/agnes_grey"></span>
 
 
 CHAPTER IV.
@@ -8315,7 +8315,7 @@ Do you think, my dear, she’s a _proper person_? Take my word for it—”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Agnes Grey — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Agnes Grey — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/time,motif/well,concept/body,concept/friendship,concept/history,concept/resignation,concept/wonder,form/history,character/agnes_grey"></span>
 
 
 I heard no more; but that sufficed.
@@ -8427,7 +8427,7 @@ ungentleness of tone and language.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Agnes Grey — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Agnes Grey — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/leaves,motif/spring,motif/window,concept/wonder,character/agnes_grey,character/nurse"></span>
 
 
 I remember one afternoon in [[Spring|spring]], when, owing to the rain, they could
@@ -8542,7 +8542,7 @@ Ann’s worse by the half nor her sisters!”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Agnes Grey — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Agnes Grey — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/birds,motif/dust,motif/garden,motif/grave,motif/rose,motif/spring,motif/time,motif/water,motif/well,concept/body,concept/self,character/agnes_grey"></span>
 
 
 CHAPTER V.
@@ -8665,7 +8665,7 @@ to-morrow.”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Agnes Grey — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Agnes Grey — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/home,motif/love,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/mercy,concept/self,character/agnes_grey"></span>
 
 
 “If you do, Mr. Robson, I shall kill them too,” said I.
@@ -8786,7 +8786,7 @@ than that of all the world to me.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Agnes Grey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Agnes Grey — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/death,motif/home,motif/love,motif/swallow,motif/time,motif/well,concept/body,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/wonder,character/agnes_grey,character/richard"></span>
 
 
 CHAPTER VI.
@@ -9005,7 +9005,7 @@ services I might render them by my continuance there.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Agnes Grey — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Agnes Grey — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/damsel,motif/clock,motif/fire,motif/home,motif/horse,motif/journey,motif/nature,motif/road,motif/rose,motif/snow,motif/storm,motif/time,motif/well,motif/wind,motif/winter,concept/body,concept/nature,character/agnes_grey"></span>
 
 
 CHAPTER VII.
@@ -9119,7 +9119,7 @@ with a world of waters between himself and all that knew him.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Agnes Grey — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Agnes Grey — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/clock,motif/fire,motif/horse,motif/journey,motif/snow,motif/well,concept/doubt,concept/hope,concept/self,form/sketch,character/agnes_grey,character/dogberry"></span>
 
 
 I shall not soon forget the peculiar feeling with which I raised my
@@ -9227,7 +9227,7 @@ happy as you can, Miss Grey, and I dare say you will do very [[Well|well]].”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Agnes Grey — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Agnes Grey — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/love,motif/time,motif/well,concept/ambition,concept/despair,concept/education,concept/truth,character/agnes_grey"></span>
 
 
 I observed that while Mrs. Murray was so extremely solicitous for the
@@ -9337,7 +9337,7 @@ keep the situation, I must even let Miss Matilda go on in her own way.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Agnes Grey — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Agnes Grey — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/home,motif/time,motif/well,concept/conscience,concept/education,concept/pride,concept/vanity,character/agnes_grey"></span>
 
 
 When her lessons were over, however, her ill-[[Humour|humour]] was generally over
@@ -9437,7 +9437,7 @@ flat to one born and nurtured among the rugged hills of ——.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Agnes Grey — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Agnes Grey — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/storm,motif/summer,motif/time,motif/well,motif/window,concept/charity,concept/fear,concept/humility,concept/wonder,character/agnes_grey,character/sunday"></span>
 
 
 We were situated nearly two miles from the village church, and,
@@ -9551,7 +9551,7 @@ unaccountable liking to good people.”
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Agnes Grey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Agnes Grey — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/garden,motif/home,motif/time,motif/well,concept/body,concept/hope,concept/mercy,concept/truth,setting/london,character/agnes_grey"></span>
 
 
 CHAPTER VIII.
@@ -9682,7 +9682,7 @@ example.”
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Agnes Grey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Agnes Grey — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/blood,motif/cross,motif/dance,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/humility,character/agnes_grey"></span>
 
 
 CHAPTER IX.
@@ -9864,7 +9864,7 @@ old-maidenhood.”
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="Agnes Grey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="Agnes Grey — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/garden,motif/home,motif/journey,motif/prayer,motif/time,motif/well,concept/conscience,concept/hope,concept/resurrection,concept/truth,character/agnes_grey,character/sunday"></span>
 
 
 CHAPTER X.
@@ -10071,7 +10071,7 @@ carriage-door, and letting down the steps for our descent.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Agnes Grey — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Agnes Grey — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/snow,motif/spring,motif/time,motif/well,motif/wind,concept/education,concept/fear,concept/hope,concept/melancholy,concept/pride,concept/solitude,histref/bible,character/agnes_grey,character/nancy,character/queen"></span>
 
 
 CHAPTER XI.
@@ -10178,7 +10178,7 @@ part she should like me to read, she answered—
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Agnes Grey — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Agnes Grey — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/home,motif/love,motif/prayer,motif/time,motif/well,motif/winter,concept/body,histref/bible,character/agnes_grey,character/nancy"></span>
 
 
 “[[Well]], Miss Grey, if it’s all the same to you, I should like to hear
@@ -10300,7 +10300,7 @@ was weary to bear it.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Agnes Grey — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Agnes Grey — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/love,motif/prayer,motif/soul,motif/time,motif/well,concept/conscience,concept/fear,concept/truth,concept/wonder,character/agnes_grey,character/nancy,character/satan,character/sunday"></span>
 
 
 “Howsever, I follered his advice: I thought he meant it all for th’
@@ -10422,7 +10422,7 @@ Him and the more of His spirit we possess.’
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Agnes Grey — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Agnes Grey — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/love,motif/prayer,motif/soul,motif/time,motif/well,motif/winter,concept/body,concept/suffering,histref/bible,character/agnes_grey,character/nancy,character/sunday"></span>
 
 
 “‘[[Well]], sir,’ I said, ‘if I can always think on these things, I think I
@@ -10536,7 +10536,7 @@ that’s little enough they say.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Agnes Grey — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Agnes Grey — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/home,motif/rose,motif/soul,motif/time,concept/beauty,concept/faith,concept/fear,concept/hope,concept/imagination,concept/solitude,character/agnes_grey,character/nancy,character/sunday"></span>
 
 
 I remembered then, with a species of exultation, that he had frequently
@@ -10621,7 +10621,7 @@ delighted me the more, as I had not been prepared to expect it.
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="Agnes Grey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="Agnes Grey — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/fire,motif/grave,motif/home,motif/time,motif/well,motif/window,concept/fear,concept/hope,concept/resignation,character/agnes_grey,character/nancy,character/sunday"></span>
 
 
 CHAPTER XII.
@@ -10784,7 +10784,7 @@ the stables, and left me to the quiet enjoyment of my solitary meal.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Agnes Grey — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Agnes Grey — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/flowers,motif/grave,motif/hill,motif/home,motif/journey,motif/nature,motif/road,motif/tears,motif/water,motif/well,concept/doubt,concept/misanthropy,concept/nature,concept/truth,character/agnes_grey"></span>
 
 
 CHAPTER XIII.
@@ -10889,7 +10889,7 @@ for him.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Agnes Grey — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Agnes Grey — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/desire,motif/flowers,motif/home,motif/journey,motif/leaves,motif/prayer,motif/road,motif/time,concept/hope,histref/bible,character/agnes_grey,character/nancy"></span>
 
 
 “Your young ladies have left you [[Alone|alone]],” said he.
@@ -11045,7 +11045,7 @@ still, and mean to keep them always.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Agnes Grey — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Agnes Grey — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/fear,concept/vanity,form/novel,character/agnes_grey"></span>
 
 
 CHAPTER XIV.
@@ -11162,7 +11162,7 @@ see you again, Miss Murray?”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Agnes Grey — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Agnes Grey — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/garden,motif/love,motif/road,motif/time,motif/well,concept/doubt,concept/fear,setting/london,character/agnes_grey"></span>
 
 
 “At church, I suppose,” replied she, “unless your business chances to
@@ -11300,7 +11300,7 @@ them what you like; I would go with you, but I want to finish this
 
 
 
-<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_01" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 1)" data-chapter="ll come and meet you when Ive" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_01" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 1)" data-chapter="ll come and meet you when Ive" data-kind="excerpt" data-tags="archetype/ghost,motif/crown,motif/grave,motif/road,motif/silence,motif/time,motif/well,concept/beauty,concept/despair,concept/fear,concept/honour,concept/hope,concept/pride,concept/suffering,concept/truth,character/agnes_grey,character/nancy"></span>
 
 
 volume. I’ll come and meet you when I’ve done it. Be quick, will
@@ -11422,7 +11422,7 @@ you have led me to foster, but I forbear, on condition—’
 
 
 
-<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_02" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 2)" data-chapter="ll come and meet you when Ive" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_ll_come_and_meet_you_when_ive--part_02" data-title="Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 2)" data-chapter="ll come and meet you when Ive" data-kind="excerpt" data-tags="motif/home,motif/love,motif/silence,motif/tears,motif/well,concept/beauty,concept/despair,concept/doubt,concept/faith,concept/longing,concept/pride,concept/self,concept/truth,concept/vanity,character/agnes_grey"></span>
 
 
 “‘No conditions, Mr. Hatfield!’ said I, now truly indignant at his
@@ -11580,7 +11580,7 @@ may be useful to punish them.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Agnes Grey — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Agnes Grey — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/lover,motif/cross,motif/home,motif/horse,motif/road,motif/time,motif/window,concept/charity,concept/doubt,concept/hope,concept/pride,concept/self,concept/wonder,setting/london,character/adonis,character/agnes_grey,character/sunday"></span>
 
 
 CHAPTER XV.
@@ -11692,7 +11692,7 @@ even he would be better than nothing.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Agnes Grey — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Agnes Grey — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/lamb,motif/swallow,motif/tears,motif/time,motif/well,concept/hope,character/agnes_grey"></span>
 
 
 She greeted them, however, with a cheerful smile, and protestations of
@@ -11858,7 +11858,7 @@ from a pleasant walk.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Agnes Grey — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Agnes Grey — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/clock,motif/desire,motif/love,motif/road,motif/soul,motif/time,motif/well,motif/window,concept/conscience,concept/fear,concept/hope,concept/imagination,concept/self,concept/truth,character/agnes_grey,character/sunday"></span>
 
 
 CHAPTER XVI.
@@ -12003,7 +12003,7 @@ condescension, &c. &c.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Agnes Grey — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Agnes Grey — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desire,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/doubt,concept/longing,concept/nature,concept/union,setting/london,character/agnes_grey,character/nancy"></span>
 
 
 CHAPTER XVII.
@@ -12116,7 +12116,7 @@ from deceiving and injuring others the better.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Agnes Grey — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Agnes Grey — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/home,motif/pain,motif/time,motif/well,concept/courage,concept/vanity,form/novel,setting/london,character/agnes_grey"></span>
 
 
 The wedding was fixed for the first of June. Between that and the
@@ -12222,7 +12222,7 @@ church—so he’ll think you’re turned wicked.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Agnes Grey — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Agnes Grey — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/melancholy,concept/suffering,concept/truth,concept/vanity,character/agnes_grey,character/nancy"></span>
 
 
 All chance meetings on week-days were likewise carefully prevented;
@@ -12336,7 +12336,7 @@ My [[Soul|soul]] delights to hear.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Agnes Grey — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Agnes Grey — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/storm,motif/time,motif/well,concept/faith,character/agnes_grey"></span>
 
 
 They will not let me see that face
@@ -12388,7 +12388,7 @@ desolate our hearth.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Agnes Grey — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Agnes Grey — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/home,motif/marriage,motif/tears,motif/time,motif/well,concept/hope,concept/pride,concept/reform,setting/london,setting/paris,character/agnes_grey,character/nancy,character/rosalie_murray,character/sunday"></span>
 
 
 CHAPTER XVIII.
@@ -12496,7 +12496,7 @@ her watchful mother’s knowledge.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Agnes Grey — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Agnes Grey — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/desire,motif/nature,motif/soul,motif/time,motif/well,concept/ambition,concept/body,concept/hope,concept/indolence,concept/nature,concept/self,concept/wonder,setting/paris,character/agnes_grey"></span>
 
 
 Amid all this, let it not be imagined that I escaped without many a
@@ -12614,7 +12614,7 @@ back, with the lacerated [[Body|body]] of the young hare in her hand.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Agnes Grey — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Agnes Grey — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/dreams,motif/flowers,motif/home,motif/journey,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/nature,character/agnes_grey,character/rosalie_murray"></span>
 
 
 “Was it your intention to kill that hare, or to save it, Miss Murray?”
@@ -12747,7 +12747,7 @@ tremendous.
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="Agnes Grey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="Agnes Grey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter" data-tags="motif/death,motif/marriage,motif/tears,motif/time,motif/well,concept/doubt,concept/pride,character/agnes_grey,character/nurse"></span>
 
 
 CHAPTER XIX.
@@ -12865,7 +12865,7 @@ left to our wealthy unknown cousins.
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Agnes Grey — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Agnes Grey — Chapter 20" data-chapter="Chapter 21" data-kind="chapter" data-tags="motif/garden,motif/love,motif/pain,motif/silence,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/hope,concept/self,concept/wonder,character/agnes_grey,character/edward_weston,character/nancy,character/sunday"></span>
 
 
 CHAPTER XX.
@@ -13074,7 +13074,7 @@ looked up and asked what she had been saying.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Agnes Grey — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Agnes Grey — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/memory,motif/time,motif/well,concept/honour,concept/hope,concept/imagination,concept/self,character/agnes_grey"></span>
 
 
 CHAPTER XXI.
@@ -13177,7 +13177,7 @@ little.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Agnes Grey — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Agnes Grey — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/grave,motif/home,motif/love,motif/spring,motif/summer,motif/time,motif/well,concept/doubt,concept/mercy,setting/paris,character/agnes_grey,character/edward_weston"></span>
 
 
 So said my mother, as we sat at work one morning during the Easter
@@ -13280,7 +13280,7 @@ something about him.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Agnes Grey — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Agnes Grey — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/time,motif/water,motif/well,concept/beauty,concept/conscience,concept/honour,concept/melancholy,concept/pride,setting/italy,character/agnes_grey,character/rosalie_murray"></span>
 
 
 CHAPTER XXII.
@@ -13402,7 +13402,7 @@ insatiate demands.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Agnes Grey — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Agnes Grey — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,archetype/tyrant,archetype/usurper,motif/fire,motif/home,motif/love,motif/silence,motif/summer,motif/time,motif/well,motif/window,concept/wonder,setting/london,character/agnes_grey"></span>
 
 
 Then, stretching herself upon a couch, she motioned me to a capacious
@@ -13523,7 +13523,7 @@ there doing nothing till bed-[[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Agnes Grey — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Agnes Grey — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/home,motif/night,motif/road,motif/sleep,motif/time,motif/well,motif/window,concept/doubt,concept/mercy,concept/reform,character/agnes_grey"></span>
 
 
 As I was not rich enough to possess a watch, I could not tell how [[Time|time]]
@@ -13590,7 +13590,7 @@ to-[[Night|night]], for at present I am tired and wish to go to bed.”
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Agnes Grey — Chapter 23" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Agnes Grey — Chapter 23" data-chapter="Chapter 24" data-kind="chapter" data-tags="archetype/child,motif/clock,motif/desire,motif/home,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/fear,concept/longing,setting/london,character/agnes_grey"></span>
 
 
 CHAPTER XXIII.
@@ -13736,7 +13736,7 @@ have half her heart’s [[Desire|desire]].
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Agnes Grey — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Agnes Grey — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/night,motif/road,motif/seasons,motif/summer,motif/time,motif/water,motif/well,motif/wind,character/agnes_grey"></span>
 
 
 CHAPTER XXIV.
@@ -13847,7 +13847,7 @@ steps; and he walked beside me.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Agnes Grey — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Agnes Grey — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/beauty,concept/fear,concept/hope,concept/solitude,concept/truth,character/agnes_grey"></span>
 
 
 “In what part of the town do you live?” asked he. “I never could
@@ -13982,7 +13982,7 @@ crushed.
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="Agnes Grey — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="Agnes Grey — Chapter 25" data-chapter="Chapter 26" data-kind="chapter" data-tags="motif/desire,motif/dust,motif/grave,motif/hill,motif/love,motif/noon,motif/rose,motif/silence,motif/storm,motif/summer,motif/time,motif/well,motif/window,concept/education,concept/history,concept/hope,concept/wonder,form/history,character/agnes_grey,character/edward_weston"></span>
 
 
 CHAPTER XXV.

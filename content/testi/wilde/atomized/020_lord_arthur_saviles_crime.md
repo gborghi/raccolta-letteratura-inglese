@@ -259,7 +259,7 @@ Some years afterwards, when two beautiful children had been born to them, [[Lady
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Lord Arthur Savile's Crime (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Lord Arthur Savile's Crime (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/animals,motif/blood,motif/journey,motif/love,motif/marriage,motif/moon,motif/nature,motif/rose,motif/ship,motif/silence,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/ambition,concept/fear,concept/freedom,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/providence,concept/temptation,concept/truth,form/comedy,form/tragedy,setting/castle,setting/london,setting/ship,character/arthur,character/hamlet,character/lady_windermere,character/lord_arthur_savile,character/marchioness,character/prince_hal,character/sybil_merton"></span>
 
 
 CHAPTER I
@@ -360,7 +360,7 @@ Mr. Podgers smiled, drew from his breast-pocket a small magnifying glass, and wi
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Lord Arthur Savile's Crime (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Lord Arthur Savile's Crime (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/blood,motif/city,motif/dawn,motif/desire,motif/dreams,motif/fire,motif/garden,motif/home,motif/horse,motif/memory,motif/nature,motif/night,motif/rose,motif/silence,motif/storm,motif/time,motif/wind,concept/beauty,concept/grotesque,concept/nature,concept/poverty,concept/suffering,form/comedy,setting/london,setting/oxford,character/arthur,character/lord_arthur_savile"></span>
 
 
 CHAPTER II
@@ -377,7 +377,7 @@ By the [[Time|time]] he had reached Belgrave Square the sky was a faint blue, an
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Lord Arthur Savile's Crime (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Lord Arthur Savile's Crime (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/fire,motif/grave,motif/love,motif/marriage,motif/memory,motif/moon,motif/nature,motif/night,motif/poison,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/conscience,concept/honour,concept/hope,concept/nature,concept/self_sacrifice,concept/wonder,setting/oxford,setting/venice,character/arthur,character/buckingham,character/erskine,character/hamlet,character/lady_clementina_beauchamp,character/lady_windermere,character/lord_arthur_savile,character/sybil_merton"></span>
 
 
 CHAPTER III
@@ -416,7 +416,7 @@ He stayed with Sybil till nearly midnight, comforting her and being comforted in
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Lord Arthur Savile's Crime (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Lord Arthur Savile's Crime (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/clock,motif/cross,motif/death,motif/dust,motif/fire,motif/home,motif/horse,motif/lion,motif/love,motif/machine,motif/marriage,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/poison,motif/river,motif/ship,motif/stars,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/hope,concept/nature,concept/pride,concept/suffering,concept/suicide,histref/french_revolution,setting/court,setting/london,setting/ship,setting/venice,character/arthur,character/buckingham,character/cleopatra,character/julia,character/lady_windermere,character/lord_arthur_savile,character/maria,character/sybil_merton"></span>
 
 
 CHAPTER IV
@@ -505,7 +505,7 @@ Lord [[Arthur]] rushed out of the club with the paper still in his hand, to the 
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Lord Arthur Savile's Crime (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Lord Arthur Savile's Crime (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/rose,motif/time,character/arthur,character/lady_windermere,character/lord_arthur_savile"></span>
 
 
 CHAPTER VI

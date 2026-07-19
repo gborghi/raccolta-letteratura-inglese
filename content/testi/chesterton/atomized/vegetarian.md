@@ -109,7 +109,7 @@ tanto, tanto, tanto [[vegetarian|vegetariani]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="vegetarian (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="vegetarian (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 THE LOGICAL [[vegetarian|VEGETARIAN]]  

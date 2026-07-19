@@ -125,7 +125,7 @@ Con terremoto, caos, nata e nutrita, si [[Rose|levò]],--e la parola fu "Pace."
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="a_word (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="a_word (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/cross,motif/crown,motif/fire,motif/hill,motif/river,motif/rose,motif/time,concept/apocalypse,concept/hope,form/riddle"></span>
 
 
 # a word

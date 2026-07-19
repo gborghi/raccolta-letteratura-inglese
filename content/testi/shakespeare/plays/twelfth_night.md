@@ -1174,7 +1174,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Twelfth Night — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Twelfth Night — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/flowers,motif/love,motif/water,concept/self,character/olivia,character/orsino,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -1196,7 +1196,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Twelfth Night — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Twelfth Night — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/love,motif/nature,motif/ship,motif/silence,motif/time,motif/well,concept/courage,concept/hope,concept/nature,setting/ship,character/olivia,character/orsino,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1228,7 +1228,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Twelfth Night — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Twelfth Night — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/death,motif/desire,motif/dust,motif/grave,motif/home,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/faith,concept/hope,concept/nature,character/maria,character/sir_andrew_aguecheek,character/sir_toby_belch"></span>
 
 
 | Speaker | Line |
@@ -1307,7 +1307,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Twelfth Night — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Twelfth Night — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/grave,motif/love,motif/soul,motif/well,concept/faith,concept/fear,character/diana,character/orsino,character/valentine,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1335,7 +1335,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Twelfth Night — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Twelfth Night — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/honour,concept/nature,concept/self,concept/wonder,character/feste,character/malvolio,character/maria,character/olivia,character/orsino,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1478,7 +1478,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Twelfth Night — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Twelfth Night — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/desire,motif/love,motif/stars,motif/water,motif/well,concept/wonder,setting/court,character/antonio,character/orsino,character/roderigo,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -1500,7 +1500,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Twelfth Night — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Twelfth Night — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/monster,motif/love,motif/time,character/malvolio,character/olivia,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1516,7 +1516,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Twelfth Night — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Twelfth Night — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/dance,motif/horse,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/faith,concept/revenge,character/feste,character/malvolio,character/maria"></span>
 
 
 | Speaker | Line |
@@ -1613,7 +1613,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Twelfth Night — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Twelfth Night — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/death,motif/grave,motif/jewel,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/faith,concept/history,concept/longing,concept/melancholy,concept/nature,form/history,character/feste,character/olivia,character/orsino,character/queen,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1667,7 +1667,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Twelfth Night — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Twelfth Night — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/shadow,archetype/villain,motif/blood,motif/cross,motif/death,motif/fire,motif/jewel,motif/leaves,motif/love,motif/poison,motif/silence,motif/stars,motif/time,motif/well,motif/wind,concept/faith,concept/freedom,concept/greatness,concept/hope,concept/imagination,concept/melancholy,form/riddle,character/lucrece,character/malvolio,character/maria,character/olivia,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1766,7 +1766,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Twelfth Night — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Twelfth Night — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/clock,motif/garden,motif/lion,motif/love,motif/night,motif/noon,motif/spring,motif/tears,motif/time,motif/well,concept/conscience,concept/fear,concept/guilt,concept/honour,concept/hope,concept/pride,concept/truth,character/cressida,character/feste,character/maria,character/olivia,character/orsino,character/pandarus,character/troilus,character/viola"></span>
 
 
 | Speaker | Line |
@@ -1847,7 +1847,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Twelfth Night — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Twelfth Night — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,motif/blood,motif/cross,motif/desire,motif/fire,motif/love,motif/time,concept/faith,character/malvolio,character/maria"></span>
 
 
 | Speaker | Line |
@@ -1887,7 +1887,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Twelfth Night — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Twelfth Night — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/city,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/fear,concept/jealousy,concept/nature,character/antonio,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -1913,7 +1913,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Twelfth Night — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Twelfth Night — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/cross,motif/crown,motif/death,motif/desire,motif/home,motif/horse,motif/jewel,motif/love,motif/nature,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/greatness,concept/honour,concept/hope,concept/imagination,concept/madness,concept/mercy,concept/nature,concept/wonder,form/sonnet,character/antonio,character/biddy,character/capulet,character/malvolio,character/maria,character/olivia,character/orsino,character/satan,character/sebastian,character/viola"></span>
 
 
 | Speaker | Line |
@@ -2096,7 +2096,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Twelfth Night — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Twelfth Night — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/sleep,motif/soul,motif/well,concept/faith,setting/mountains,character/feste,character/olivia,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -2135,7 +2135,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Twelfth Night — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Twelfth Night — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/prison,motif/sleep,motif/soul,motif/well,concept/fear,character/feste,character/malvolio,character/maria,character/satan"></span>
 
 
 | Speaker | Line |
@@ -2203,7 +2203,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Twelfth Night — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Twelfth Night — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/soul,motif/time,motif/well,concept/faith,concept/madness,concept/truth,concept/wonder,character/antonio,character/olivia,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -2219,7 +2219,7 @@ Musicians, sailors, lords, attendants
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Twelfth Night — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Twelfth Night — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/hero,archetype/king,archetype/tragic_hero,archetype/tyrant,motif/blood,motif/cross,motif/crown,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/lamb,motif/love,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/charity,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/jealousy,concept/madness,concept/nature,concept/revenge,form/translation,setting/germany,setting/paris,character/achilles,character/agamemnon,character/antonio,character/bottom,character/cressida,character/feste,character/hector,character/helen,character/malvolio,character/maria,character/olivia,character/orsino,character/pandarus,character/queen,character/sebastian,character/thersites,character/troilus,character/viola"></span>
 
 
 | Speaker | Line |

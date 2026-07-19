@@ -1223,7 +1223,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Loves Labours Lost — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Loves Labours Lost — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/damsel,archetype/king,motif/birds,motif/blood,motif/death,motif/desire,motif/fire,motif/frost,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/rose,motif/secrets,motif/sleep,motif/snow,motif/soul,motif/spring,motif/summer,motif/time,motif/water,motif/well,concept/body,concept/eternity,concept/faith,concept/honour,concept/hope,concept/imprisonment,concept/melancholy,concept/truth,concept/wonder,setting/court,character/costard,character/don_armado,character/dumaine,character/ferdinand,character/longueville"></span>
 
 
 | Speaker | Line |
@@ -1333,7 +1333,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Loves Labours Lost — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Loves Labours Lost — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/damsel,archetype/king,archetype/villain,motif/blood,motif/desire,motif/horse,motif/love,motif/prison,motif/time,motif/water,motif/well,motif/white_and_red,concept/fear,concept/hope,concept/melancholy,form/sonnet,character/costard"></span>
 
 
 | Speaker | Line |
@@ -1433,7 +1433,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Loves Labours Lost — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Loves Labours Lost — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/dance,motif/desire,motif/lamb,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/beauty,concept/friendship,concept/honour,concept/nature,concept/pride,concept/self,concept/truth,setting/court,character/dumaine,character/jaques,character/king_of_france,character/longueville,character/maria,character/princess_of_france,character/queen,character/rosaline,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1580,7 +1580,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Loves Labours Lost — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Loves Labours Lost — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/clock,motif/crown,motif/desire,motif/horse,motif/love,motif/night,motif/soul,motif/stars,motif/well,concept/honour,concept/melancholy,concept/wonder,form/riddle,character/costard,character/dwarf,character/rosaline"></span>
 
 
 | Speaker | Line |
@@ -1670,7 +1670,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Loves Labours Lost — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Loves Labours Lost — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/hill,motif/horse,motif/lamb,motif/lion,motif/love,motif/memory,motif/soul,motif/well,concept/beauty,concept/faith,concept/fear,concept/mercy,concept/pride,concept/self,concept/truth,setting/court,character/costard,character/maria,character/queen,character/rosaline"></span>
 
 
 | Speaker | Line |
@@ -1749,7 +1749,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Loves Labours Lost — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Loves Labours Lost — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/monster,motif/blood,motif/death,motif/fire,motif/flowers,motif/horse,motif/jewel,motif/leaves,motif/lightning,motif/love,motif/memory,motif/moon,motif/snow,motif/soul,motif/well,motif/wind,concept/beauty,concept/conscience,concept/faith,concept/fear,concept/wonder,setting/venice,character/cain,character/costard,character/don_armado,character/phoebe,character/queen,character/rosaline"></span>
 
 
 | Speaker | Line |
@@ -1804,7 +1804,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Loves Labours Lost — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Loves Labours Lost — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,archetype/lover,motif/blood,motif/cross,motif/death,motif/fire,motif/flowers,motif/leaves,motif/love,motif/moon,motif/night,motif/pain,motif/rose,motif/secrets,motif/tears,motif/time,motif/well,motif/wind,concept/beauty,concept/charity,concept/faith,concept/fear,concept/hope,concept/humility,concept/melancholy,concept/paradox,concept/wonder,form/sonnet,character/ajax,character/apollo,character/costard,character/dumaine,character/longueville,character/maria,character/queen,character/rosaline,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1919,7 +1919,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Loves Labours Lost — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Loves Labours Lost — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/dance,motif/hill,motif/home,motif/time,motif/well,concept/doubt,concept/greatness,concept/self,form/fable,character/costard,character/hector,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1985,7 +1985,7 @@ A FORESTER
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Loves Labours Lost — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Loves Labours Lost — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,archetype/lover,archetype/pilgrim,archetype/villain,motif/birds,motif/blood,motif/cross,motif/dance,motif/death,motif/desire,motif/fire,motif/home,motif/jewel,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/ship,motif/snow,motif/soul,motif/spring,motif/stars,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/body,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/melancholy,concept/mercy,concept/nature,concept/poverty,concept/self,concept/truth,concept/wonder,form/comedy,form/fragment,form/translation,histref/reformation,setting/court,setting/ship,setting/venice,setting/verona,character/achilles,character/ajax,character/apollo,character/costard,character/cressida,character/dumaine,character/hector,character/henry_iv,character/longueville,character/maria,character/pompey,character/queen,character/rosaline,character/speed,character/titus_andronicus,character/troilus"></span>
 
 
 | Speaker | Line |

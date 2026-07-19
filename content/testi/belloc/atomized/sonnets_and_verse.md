@@ -5455,7 +5455,7 @@ Haro!
 
 
 
-<span class="atom-split" data-atom="story_01_sonnets" data-title="Sonnets and Verse — Sonnets" data-chapter="Sonnets" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_sonnets" data-title="Sonnets and Verse — Sonnets" data-chapter="Sonnets" data-kind="story" data-tags="form/sonnet"></span>
 
 
 SONNETS
@@ -5465,7 +5465,7 @@ LYRICAL, DIDACTIC AND GROTESQUE
 
 
 
-<span class="atom-split" data-atom="story_02_to_dives" data-title="Sonnets and Verse — To Dives" data-chapter="To Dives" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_to_dives" data-title="Sonnets and Verse — To Dives" data-chapter="To Dives" data-kind="story" data-tags="form/poem"></span>
 
 
 TO DIVES
@@ -5475,7 +5475,7 @@ STANZAS WRITTEN ON BATTERSEA BRIDGE DURING A SOUTH-WESTERLY GALE
 
 
 
-<span class="atom-split" data-atom="story_03_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story" data-tags="form/poem"></span>
 
 
 THE SOUTH COUNTRY
@@ -5485,7 +5485,7 @@ THE EARLY MORNING
 
 
 
-<span class="atom-split" data-atom="story_04_our_lord_and_our_lady" data-title="Sonnets and Verse — Our Lord And Our Lady" data-chapter="Our Lord And Our Lady" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_our_lord_and_our_lady" data-title="Sonnets and Verse — Our Lord And Our Lady" data-chapter="Our Lord And Our Lady" data-kind="story" data-tags="form/poem"></span>
 
 
 OUR LORD AND OUR LADY
@@ -5496,7 +5496,7 @@ THE LEADER
 
 
 
-<span class="atom-split" data-atom="story_05_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story" data-tags="form/poem"></span>
 
 
 A BIVOUAC
@@ -5505,7 +5505,7 @@ TO THE BALLIOL MEN STILL IN AFRICA
 
 
 
-<span class="atom-split" data-atom="story_06_the_rebel" data-title="Sonnets and Verse — The Rebel" data-chapter="The Rebel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_rebel" data-title="Sonnets and Verse — The Rebel" data-chapter="The Rebel" data-kind="story" data-tags="form/poem"></span>
 
 
 THE REBEL
@@ -5516,7 +5516,7 @@ THE END OF THE ROAD
 
 
 
-<span class="atom-split" data-atom="story_07_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story" data-tags="form/poem"></span>
 
 
 AN ORACLE
@@ -5525,7 +5525,7 @@ THAT WARNED THE WRITER WHEN ON PILGRIMAGE
 
 
 
-<span class="atom-split" data-atom="story_08_the_death_and_last_confession_of_wanderi" data-title="Sonnets and Verse — The Death And Last Confession Of Wandering Peter" data-chapter="The Death And Last Confession Of Wanderi" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_death_and_last_confession_of_wanderi" data-title="Sonnets and Verse — The Death And Last Confession Of Wandering Peter" data-chapter="The Death And Last Confession Of Wanderi" data-kind="story" data-tags="form/poem"></span>
 
 
 THE DEATH AND LAST CONFESSION OF WANDERING PETER
@@ -5535,7 +5535,7 @@ DEDICATION ON THE GIFT OF A BOOK TO A CHILD
 
 
 
-<span class="atom-split" data-atom="story_09_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story" data-tags="form/poem"></span>
 
 
 DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES
@@ -5544,7 +5544,7 @@ WHEREIN WRONG-DOERS SUFFER
 
 
 
-<span class="atom-split" data-atom="story_10_homage" data-title="Sonnets and Verse — Homage" data-chapter="Homage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_homage" data-title="Sonnets and Verse — Homage" data-chapter="Homage" data-kind="story" data-tags="form/poem"></span>
 
 
 HOMAGE
@@ -5554,7 +5554,7 @@ THE HAPPY JOURNALIST
 
 
 
-<span class="atom-split" data-atom="story_11_lines_to_a_don" data-title="Sonnets and Verse — Lines To A Don" data-chapter="Lines To A Don" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_lines_to_a_don" data-title="Sonnets and Verse — Lines To A Don" data-chapter="Lines To A Don" data-kind="story" data-tags="form/poem"></span>
 
 
 LINES TO A DON
@@ -5564,7 +5564,7 @@ THE YELLOW MUSTARD
 
 
 
-<span class="atom-split" data-atom="story_12_the_politician_or_the_irish_earldom" data-title="Sonnets and Verse — The Politician Or The Irish Earldom" data-chapter="The Politician Or The Irish Earldom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_politician_or_the_irish_earldom" data-title="Sonnets and Verse — The Politician Or The Irish Earldom" data-chapter="The Politician Or The Irish Earldom" data-kind="story" data-tags="form/poem"></span>
 
 
 THE POLITICIAN OR THE IRISH EARLDOM
@@ -5577,7 +5577,7 @@ THE BIRDS
 
 
 
-<span class="atom-split" data-atom="story_13_in_a_boat" data-title="Sonnets and Verse — In A Boat" data-chapter="In A Boat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_in_a_boat" data-title="Sonnets and Verse — In A Boat" data-chapter="In A Boat" data-kind="story" data-tags="form/poem"></span>
 
 
 IN A BOAT
@@ -5590,7 +5590,7 @@ THE LITTLE SERVING MAID
 
 
 
-<span class="atom-split" data-atom="story_14_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story" data-tags="motif/wine_and_drink,form/poem"></span>
 
 
 AUVERGNAT
@@ -5600,7 +5600,7 @@ ON THE EXCELLENCE OF BURGUNDY WINE
 
 
 
-<span class="atom-split" data-atom="story_15_drinking_dirge" data-title="Sonnets and Verse — Drinking Dirge" data-chapter="Drinking Dirge" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_drinking_dirge" data-title="Sonnets and Verse — Drinking Dirge" data-chapter="Drinking Dirge" data-kind="story" data-tags="motif/wine_and_drink,form/poem"></span>
 
 
 DRINKING DIRGE
@@ -5610,7 +5610,7 @@ WEST SUSSEX DRINKING SONG
 
 
 
-<span class="atom-split" data-atom="story_16_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story" data-tags="form/ballad"></span>
 
 
 A BALLAD ON SOCIOLOGICAL ECONOMICS
@@ -5620,7 +5620,7 @@ HA’NACKER MILL
 
 
 
-<span class="atom-split" data-atom="story_17_tarantella" data-title="Sonnets and Verse — Tarantella" data-chapter="Tarantella" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_tarantella" data-title="Sonnets and Verse — Tarantella" data-chapter="Tarantella" data-kind="story" data-tags="form/poem"></span>
 
 
 TARANTELLA
@@ -5630,7 +5630,7 @@ THE CHAUNTY OF THE “NONA”
 
 
 
-<span class="atom-split" data-atom="story_18_the_winged_horse" data-title="Sonnets and Verse — The Winged Horse" data-chapter="The Winged Horse" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_winged_horse" data-title="Sonnets and Verse — The Winged Horse" data-chapter="The Winged Horse" data-kind="story" data-tags="form/ballad"></span>
 
 
 THE WINGED HORSE
@@ -5641,7 +5641,7 @@ SHORT BALLADE AND POSTSCRIPT ON CONSOLS AND BOERS
 
 
 
-<span class="atom-split" data-atom="story_19_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story" data-tags="form/ballad"></span>
 
 
 BALLADE OF THE UNANSWERED QUESTION
@@ -5650,7 +5650,7 @@ BALLADE TO OUR LADY OF CZESTOCHOWA
 
 
 
-<span class="atom-split" data-atom="story_20_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story" data-tags="form/ballad"></span>
 
 
 BALLADE OF HELL AND OF MRS ROEBECK
@@ -5659,7 +5659,7 @@ BALLADE OF UNSUCCESSFUL MEN
 
 
 
-<span class="atom-split" data-atom="story_21_ballade_of_the_heresiarchs" data-title="Sonnets and Verse — Ballade Of The Heresiarchs" data-chapter="Ballade Of The Heresiarchs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_ballade_of_the_heresiarchs" data-title="Sonnets and Verse — Ballade Of The Heresiarchs" data-chapter="Ballade Of The Heresiarchs" data-kind="story" data-tags="form/ballad"></span>
 
 
 BALLADE OF THE HERESIARCHS
@@ -5672,7 +5672,7 @@ To
 
 
 
-<span class="atom-split" data-atom="story_22_john_swinnerton_phillimore" data-title="Sonnets and Verse — John Swinnerton Phillimore" data-chapter="John Swinnerton Phillimore" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_john_swinnerton_phillimore" data-title="Sonnets and Verse — John Swinnerton Phillimore" data-chapter="John Swinnerton Phillimore" data-kind="story" data-tags="motif/childhood,concept/memory,concept/nostalgia,form/poem"></span>
 
 
 JOHN SWINNERTON PHILLIMORE
@@ -5698,7 +5698,7 @@ They too attain the form of perfect things.
 
 
 
-<span class="atom-split" data-atom="story_23_sonnets--part_01" data-title="Sonnets and Verse — Sonnets (part 1)" data-chapter="Sonnets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_sonnets--part_01" data-title="Sonnets and Verse — Sonnets (part 1)" data-chapter="Sonnets" data-kind="excerpt" data-tags="motif/hill,concept/faith,concept/mortality"></span>
 
 
 SONNETS
@@ -5997,7 +5997,7 @@ Then mock me as you do my narrow scope,
 
 
 
-<span class="atom-split" data-atom="story_23_sonnets--part_02" data-title="Sonnets and Verse — Sonnets (part 2)" data-chapter="Sonnets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_sonnets--part_02" data-title="Sonnets and Verse — Sonnets (part 2)" data-chapter="Sonnets" data-kind="excerpt" data-tags="concept/faith,concept/mortality"></span>
 
 
 For you it was put out this light of mine:
@@ -6295,7 +6295,7 @@ And there, beyond, a radiance rose to take
 
 
 
-<span class="atom-split" data-atom="story_23_sonnets--part_03" data-title="Sonnets and Verse — Sonnets (part 3)" data-chapter="Sonnets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_sonnets--part_03" data-title="Sonnets and Verse — Sonnets (part 3)" data-chapter="Sonnets" data-kind="excerpt" data-tags="topos/theatrum_mundi,topos/memento_mori,motif/sleep,motif/death,motif/winter,concept/despair,concept/poverty,form/sonnet,character/hector,character/helen,character/god"></span>
 
 
 My soul at passing, in which light your eyes
@@ -6651,7 +6651,7 @@ II
 
 
 
-<span class="atom-split" data-atom="story_24_lyrical_didactic_and_grotesque" data-title="Sonnets and Verse — Lyrical, Didactic And Grotesque" data-chapter="Lyrical Didactic And Grotesque" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_lyrical_didactic_and_grotesque" data-title="Sonnets and Verse — Lyrical, Didactic And Grotesque" data-chapter="Lyrical Didactic And Grotesque" data-kind="story" data-tags="topos/katabasis_descent,motif/sea,motif/wind,concept/money_and_avarice,concept/nostalgia,concept/mortality,form/poem,setting/the_underworld,character/king_dives"></span>
 
 
 LYRICAL, DIDACTIC AND GROTESQUE
@@ -6848,7 +6848,7 @@ What have you not refused?
 
 
 
-<span class="atom-split" data-atom="story_25_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_south_country" data-title="Sonnets and Verse — The South Country" data-chapter="The South Country" data-kind="story" data-tags="concept/faith"></span>
 
 
 THE SOUTH COUNTRY
@@ -6976,7 +6976,7 @@ Shall sit and drink with me.
 
 
 
-<span class="atom-split" data-atom="story_26_the_fanatic" data-title="Sonnets and Verse — The Fanatic" data-chapter="The Fanatic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_the_fanatic" data-title="Sonnets and Verse — The Fanatic" data-chapter="The Fanatic" data-kind="story" data-tags="topos/last_stand,archetype/fanatic,motif/vow,concept/fanaticism,concept/honour,concept/faith,concept/poverty,form/poem,setting/london"></span>
 
 
 THE FANATIC
@@ -7132,7 +7132,7 @@ But foul forever, rolled along.”
 
 
 
-<span class="atom-split" data-atom="story_27_the_early_morning" data-title="Sonnets and Verse — The Early Morning" data-chapter="The Early Morning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_early_morning" data-title="Sonnets and Verse — The Early Morning" data-chapter="The Early Morning" data-kind="story" data-tags="motif/moon,motif/dawn,form/poem"></span>
 
 
 THE EARLY MORNING
@@ -7148,7 +7148,7 @@ My brother, good morning: my sister, good night.
 
 
 
-<span class="atom-split" data-atom="story_28_our_lord_and_our_lady" data-title="Sonnets and Verse — Our Lord And Our Lady" data-chapter="Our Lord And Our Lady" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_our_lord_and_our_lady" data-title="Sonnets and Verse — Our Lord And Our Lady" data-chapter="Our Lord And Our Lady" data-kind="story" data-tags="motif/cross,motif/moon,concept/incarnation,concept/self_sacrifice,form/ballad,setting/jerusalem,character/the_virgin_mary,character/christ"></span>
 
 
 OUR LORD AND OUR LADY
@@ -7204,7 +7204,7 @@ With the white Moon at Her feet.
 
 
 
-<span class="atom-split" data-atom="story_29_courtesy" data-title="Sonnets and Verse — Courtesy" data-chapter="Courtesy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_courtesy" data-title="Sonnets and Verse — Courtesy" data-chapter="Courtesy" data-kind="story" data-tags="concept/grace_and_redemption,concept/humility,concept/incarnation,form/poem,character/gabriel,character/the_virgin_mary,character/christ"></span>
 
 
 COURTESY
@@ -7266,7 +7266,7 @@ My Rhyme is written, my work is done.
 
 
 
-<span class="atom-split" data-atom="story_30_the_night" data-title="Sonnets and Verse — The Night" data-chapter="The Night" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_night" data-title="Sonnets and Verse — The Night" data-chapter="The Night" data-kind="story" data-tags="motif/night,motif/sleep,motif/dreams,motif/moon,form/poem"></span>
 
 
 THE NIGHT
@@ -7306,7 +7306,7 @@ Most Holy Night.
 
 
 
-<span class="atom-split" data-atom="story_31_the_leader" data-title="Sonnets and Verse — The Leader" data-chapter="The Leader" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_leader" data-title="Sonnets and Verse — The Leader" data-chapter="The Leader" data-kind="story" data-tags="motif/swords_weapons,motif/horse,concept/heroism,form/poem,histref/the_french_revolution"></span>
 
 
 THE LEADER
@@ -7386,7 +7386,7 @@ We lost her in the dawn.
 
 
 
-<span class="atom-split" data-atom="story_32_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_a_bivouac" data-title="Sonnets and Verse — A Bivouac" data-chapter="A Bivouac" data-kind="story" data-tags="motif/cross,motif/night,motif/supernatural,form/poem,setting/military_camp,setting/france"></span>
 
 
 A BIVOUAC
@@ -7430,7 +7430,7 @@ At midnight, in the Pines of Var.
 
 
 
-<span class="atom-split" data-atom="story_33_to_the_balliol_men_still_in_africa" data-title="Sonnets and Verse — To The Balliol Men Still In Africa" data-chapter="To The Balliol Men Still In Africa" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_to_the_balliol_men_still_in_africa" data-title="Sonnets and Verse — To The Balliol Men Still In Africa" data-chapter="To The Balliol Men Still In Africa" data-kind="story" data-tags="motif/hill"></span>
 
 
 TO THE BALLIOL MEN STILL IN AFRICA
@@ -7562,7 +7562,7 @@ We mean to rub them in.
 
 
 
-<span class="atom-split" data-atom="story_34_the_rebel" data-title="Sonnets and Verse — The Rebel" data-chapter="The Rebel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_rebel" data-title="Sonnets and Verse — The Rebel" data-chapter="The Rebel" data-kind="story" data-tags="topos/combat_strife,archetype/rebel,motif/horse,concept/justice,concept/social_injustice,concept/distributism,concept/class_conflict,form/poem"></span>
 
 
 THE REBEL
@@ -7640,7 +7640,7 @@ Should break his hands, as I have done.
 
 
 
-<span class="atom-split" data-atom="story_35_the_prophet_lost_in_the_hills_at_evening" data-title="Sonnets and Verse — The Prophet Lost In The Hills At Evening" data-chapter="The Prophet Lost In The Hills At Evening" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_prophet_lost_in_the_hills_at_evening" data-title="Sonnets and Verse — The Prophet Lost In The Hills At Evening" data-chapter="The Prophet Lost In The Hills At Evening" data-kind="story" data-tags="concept/faith"></span>
 
 
 THE PROPHET LOST IN THE HILLS AT EVENING
@@ -7776,7 +7776,7 @@ Till I had slaked my heart at Rome.
 
 
 
-<span class="atom-split" data-atom="story_36_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_an_oracle" data-title="Sonnets and Verse — An Oracle" data-chapter="An Oracle" data-kind="story" data-tags="archetype/pilgrim"></span>
 
 
 AN ORACLE
@@ -7819,7 +7819,7 @@ The [[Pilgrim]]’s great attempt shall fail.
 
 
 
-<span class="atom-split" data-atom="story_37_the_death_and_last_confession_of_wanderi" data-title="Sonnets and Verse — The Death And Last Confession Of Wandering Peter" data-chapter="The Death And Last Confession Of Wanderi" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_the_death_and_last_confession_of_wanderi" data-title="Sonnets and Verse — The Death And Last Confession Of Wandering Peter" data-chapter="The Death And Last Confession Of Wanderi" data-kind="story" data-tags="topos/journey_of_life,motif/journey,concept/death,concept/heaven_and_the_afterlife,concept/faith,form/narrative_poem,setting/france,character/st_peter,character/satan,character/michael"></span>
 
 
 THE DEATH AND LAST CONFESSION OF WANDERING PETER
@@ -7909,7 +7909,7 @@ And having spoken it, he died.
 
 
 
-<span class="atom-split" data-atom="story_38_dedicatory_ode" data-title="Sonnets and Verse — Dedicatory Ode" data-chapter="Dedicatory Ode" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_dedicatory_ode" data-title="Sonnets and Verse — Dedicatory Ode" data-chapter="Dedicatory Ode" data-kind="story" data-tags="concept/faith"></span>
 
 
 DEDICATORY ODE
@@ -8229,7 +8229,7 @@ And drink it, “Gentlemen: the Club.”
 
 
 
-<span class="atom-split" data-atom="story_39_dedication_on_the_gift_of_a_book_to_a_ch" data-title="Sonnets and Verse — Dedication On The Gift Of A Book To A Child" data-chapter="Dedication On The Gift Of A Book To A Ch" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_dedication_on_the_gift_of_a_book_to_a_ch" data-title="Sonnets and Verse — Dedication On The Gift Of A Book To A Child" data-chapter="Dedication On The Gift Of A Book To A Ch" data-kind="story" data-tags="archetype/child,motif/childhood,motif/book_reading,motif/prayer,motif/hands,concept/childhood_and_growth,form/poem"></span>
 
 
 DEDICATION ON THE GIFT OF A BOOK TO A CHILD
@@ -8269,7 +8269,7 @@ For men that lose their fairylands.
 
 
 
-<span class="atom-split" data-atom="story_40_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_dedication_of_a_childs_book_of_imaginary" data-title="Sonnets and Verse — Dedication Of A Child’S Book Of Imaginary Tales" data-chapter="Dedication Of A ChildS Book Of Imaginary" data-kind="story" data-tags="archetype/child,motif/childhood,concept/imagination,form/poem"></span>
 
 
 DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES
@@ -8288,7 +8288,7 @@ Are doing something rather wrong.
 
 
 
-<span class="atom-split" data-atom="story_41_homage" data-title="Sonnets and Verse — Homage" data-chapter="Homage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_homage" data-title="Sonnets and Verse — Homage" data-chapter="Homage" data-kind="story" data-tags="motif/light_and_dark,motif/flowers,motif/stars,motif/dawn,concept/beauty,form/lyric,setting/mountains"></span>
 
 
 HOMAGE
@@ -8324,7 +8324,7 @@ The early hours of all their happy circuit take.
 
 
 
-<span class="atom-split" data-atom="story_42_the_moons_funeral" data-title="Sonnets and Verse — The Moon’S Funeral" data-chapter="The MoonS Funeral" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_the_moons_funeral" data-title="Sonnets and Verse — The Moon’S Funeral" data-chapter="The MoonS Funeral" data-kind="story" data-tags="motif/moon,motif/death,motif/night,motif/ghosts,motif/mutability,concept/mortality,concept/grief_and_loss,form/elegy"></span>
 
 
 THE MOON’S FUNERAL
@@ -8388,7 +8388,7 @@ The Moon is dead. I saw her die.
 
 
 
-<span class="atom-split" data-atom="story_43_the_happy_journalist" data-title="Sonnets and Verse — The Happy Journalist" data-chapter="The Happy Journalist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_the_happy_journalist" data-title="Sonnets and Verse — The Happy Journalist" data-chapter="The Happy Journalist" data-kind="story" data-tags="motif/city,motif/night,concept/satire_of_society,concept/deception,concept/vulgarity,form/satire"></span>
 
 
 THE HAPPY JOURNALIST
@@ -8452,7 +8452,7 @@ I am as happy as a lord!
 
 
 
-<span class="atom-split" data-atom="story_44_lines_to_a_don" data-title="Sonnets and Verse — Lines To A Don" data-chapter="Lines To A Don" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_lines_to_a_don" data-title="Sonnets and Verse — Lines To A Don" data-chapter="Lines To A Don" data-kind="story" data-tags="concept/satire_of_society,concept/education,concept/wit,form/satire,setting/oxford,character/g_k_chesterton"></span>
 
 
 LINES TO A DON
@@ -8582,7 +8582,7 @@ That dared attack my Chesterton.
 
 
 
-<span class="atom-split" data-atom="story_45_newdigate_poem" data-title="Sonnets and Verse — Newdigate Poem" data-chapter="Newdigate Poem" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_newdigate_poem" data-title="Sonnets and Verse — Newdigate Poem" data-chapter="Newdigate Poem" data-kind="story" data-tags="concept/satire_of_society,concept/critique_of_progress,concept/education,concept/empire_and_imperialism,concept/nationalism_and_patriotism,form/mock_epic,setting/oxford,character/napoleon"></span>
 
 
 NEWDIGATE POEM
@@ -8796,7 +8796,7 @@ The Benefits of the Electric Light.
 
 
 
-<span class="atom-split" data-atom="story_46_the_yellow_mustard" data-title="Sonnets and Verse — The Yellow Mustard" data-chapter="The Yellow Mustard" data-kind="story"></span>
+<span class="atom-split" data-atom="story_46_the_yellow_mustard" data-title="Sonnets and Verse — The Yellow Mustard" data-chapter="The Yellow Mustard" data-kind="story" data-tags="motif/flowers,motif/nature,motif/pain,motif/rain,motif/summer,concept/loneliness,form/lyric"></span>
 
 
 THE YELLOW MUSTARD
@@ -8846,7 +8846,7 @@ To see the yellow mustard grow!
 
 
 
-<span class="atom-split" data-atom="story_47_the_politician_or_the_irish_earldom" data-title="Sonnets and Verse — The Politician Or The Irish Earldom" data-chapter="The Politician Or The Irish Earldom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_47_the_politician_or_the_irish_earldom" data-title="Sonnets and Verse — The Politician Or The Irish Earldom" data-chapter="The Politician Or The Irish Earldom" data-kind="story" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,form/satire"></span>
 
 
 THE POLITICIAN OR THE IRISH EARLDOM
@@ -8944,7 +8944,7 @@ To know each other’s value more.
 
 
 
-<span class="atom-split" data-atom="story_48_the_loser" data-title="Sonnets and Verse — The Loser" data-chapter="The Loser" data-kind="story"></span>
+<span class="atom-split" data-atom="story_48_the_loser" data-title="Sonnets and Verse — The Loser" data-chapter="The Loser" data-kind="story" data-tags="topos/fortune_s_wheel,motif/money_and_gold,concept/despair,concept/grief_and_loss,concept/disillusionment,form/poem"></span>
 
 
 THE LOSER
@@ -8994,7 +8994,7 @@ III
 
 
 
-<span class="atom-split" data-atom="story_49_songs" data-title="Sonnets and Verse — Songs" data-chapter="Songs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_49_songs" data-title="Sonnets and Verse — Songs" data-chapter="Songs" data-kind="story" data-tags="motif/bells"></span>
 
 
 SONGS
@@ -9076,7 +9076,7 @@ And the small child Jesus smile on you.
 
 
 
-<span class="atom-split" data-atom="story_50_the_birds" data-title="Sonnets and Verse — The Birds" data-chapter="The Birds" data-kind="story"></span>
+<span class="atom-split" data-atom="story_50_the_birds" data-title="Sonnets and Verse — The Birds" data-chapter="The Birds" data-kind="story" data-tags="archetype/child,motif/birds,motif/prayer,motif/supernatural,concept/incarnation,form/hymn,character/jesus"></span>
 
 
 THE BIRDS
@@ -9104,7 +9104,7 @@ And bring my soul to Paradise.
 
 
 
-<span class="atom-split" data-atom="story_51_in_a_boat" data-title="Sonnets and Verse — In A Boat" data-chapter="In A Boat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_51_in_a_boat" data-title="Sonnets and Verse — In A Boat" data-chapter="In A Boat" data-kind="story" data-tags="motif/sea,motif/prayer,motif/wind,motif/spring,motif/flowers,concept/faith,form/lyric,character/virgin_mary"></span>
 
 
 IN A BOAT
@@ -9208,7 +9208,7 @@ Could so lead on the Spring.
 
 
 
-<span class="atom-split" data-atom="story_52_the_ring" data-title="Sonnets and Verse — The Ring" data-chapter="The Ring" data-kind="story"></span>
+<span class="atom-split" data-atom="story_52_the_ring" data-title="Sonnets and Verse — The Ring" data-chapter="The Ring" data-kind="story" data-tags="motif/gems_jewels,motif/sea,motif/supernatural,concept/unrequited_love,concept/love_romantic,form/ballad,setting/france"></span>
 
 
 THE RING
@@ -9252,7 +9252,7 @@ But what I had was lost to me.
 
 
 
-<span class="atom-split" data-atom="story_53_cuckoo" data-title="Sonnets and Verse — Cuckoo!" data-chapter="Cuckoo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_53_cuckoo" data-title="Sonnets and Verse — Cuckoo!" data-chapter="Cuckoo" data-kind="story" data-tags="motif/birds,motif/music_and_song,motif/winter,motif/nature,concept/joy,form/lyric"></span>
 
 
 CUCKOO!
@@ -9298,7 +9298,7 @@ In woods so long time bare.
 
 
 
-<span class="atom-split" data-atom="story_54_the_little_serving_maid" data-title="Sonnets and Verse — The Little Serving Maid" data-chapter="The Little Serving Maid" data-kind="story"></span>
+<span class="atom-split" data-atom="story_54_the_little_serving_maid" data-title="Sonnets and Verse — The Little Serving Maid" data-chapter="The Little Serving Maid" data-kind="story" data-tags="topos/love_death,motif/marriage,motif/grave,concept/love_romantic,concept/death_and_love,form/ballad,setting/england"></span>
 
 
 THE LITTLE SERVING MAID
@@ -9414,7 +9414,7 @@ Of the Little Serving Maid.
 
 
 
-<span class="atom-split" data-atom="story_55_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_55_auvergnat" data-title="Sonnets and Verse — Auvergnat" data-chapter="Auvergnat" data-kind="story" data-tags="motif/bells"></span>
 
 
 AUVERGNAT
@@ -9454,7 +9454,7 @@ At Pontgibaud they mended it.
 
 
 
-<span class="atom-split" data-atom="story_56_drinking_song" data-title="Sonnets and Verse — Drinking Song" data-chapter="Drinking Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_56_drinking_song" data-title="Sonnets and Verse — Drinking Song" data-chapter="Drinking Song" data-kind="story" data-tags="motif/hill"></span>
 
 
 DRINKING SONG
@@ -9505,7 +9505,7 @@ Burgundy’s Burgundy all the year round.
 
 
 
-<span class="atom-split" data-atom="story_57_drinking_dirge" data-title="Sonnets and Verse — Drinking Dirge" data-chapter="Drinking Dirge" data-kind="story"></span>
+<span class="atom-split" data-atom="story_57_drinking_dirge" data-title="Sonnets and Verse — Drinking Dirge" data-chapter="Drinking Dirge" data-kind="story" data-tags="concept/comradeship"></span>
 
 
 DRINKING DIRGE
@@ -9561,7 +9561,7 @@ I put my pleasure in a pint of ale.
 
 
 
-<span class="atom-split" data-atom="story_58_envoi" data-title="Sonnets and Verse — Envoi" data-chapter="Envoi" data-kind="story"></span>
+<span class="atom-split" data-atom="story_58_envoi" data-title="Sonnets and Verse — Envoi" data-chapter="Envoi" data-kind="story" data-tags="motif/wine_and_drink,concept/friendship,form/epigram"></span>
 
 
 ENVOI
@@ -9577,7 +9577,7 @@ I put my pleasure in a pint of ale.
 
 
 
-<span class="atom-split" data-atom="story_59_west_sussex_drinking_song" data-title="Sonnets and Verse — West Sussex Drinking Song" data-chapter="West Sussex Drinking Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_59_west_sussex_drinking_song" data-title="Sonnets and Verse — West Sussex Drinking Song" data-chapter="West Sussex Drinking Song" data-kind="story" data-tags="motif/hill"></span>
 
 
 WEST SUSSEX DRINKING SONG
@@ -9645,7 +9645,7 @@ And it has a rousing Chorus.
 
 
 
-<span class="atom-split" data-atom="story_60_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story"></span>
+<span class="atom-split" data-atom="story_60_a_ballad_on_sociological_economics" data-title="Sonnets and Verse — A Ballad On Sociological Economics" data-chapter="A Ballad On Sociological Economics" data-kind="story" data-tags="topos/carpe_diem,motif/wine_and_drink,motif/tobacco_and_cigars,motif/animals,concept/joy,form/ballad"></span>
 
 
 A BALLAD ON SOCIOLOGICAL ECONOMICS
@@ -9693,7 +9693,7 @@ Remarkable artifice).
 
 
 
-<span class="atom-split" data-atom="story_61_heretics_all" data-title="Sonnets and Verse — Heretics All" data-chapter="Heretics All" data-kind="story"></span>
+<span class="atom-split" data-atom="story_61_heretics_all" data-title="Sonnets and Verse — Heretics All" data-chapter="Heretics All" data-kind="story" data-tags="motif/wine_and_drink,motif/prayer,concept/faith,concept/heresy_and_schism,form/song,histref/catholic_church"></span>
 
 
 HERETICS ALL
@@ -9733,7 +9733,7 @@ Dona Eis Requiem.
 
 
 
-<span class="atom-split" data-atom="story_62_hanacker_mill" data-title="Sonnets and Verse — Ha’Nacker Mill" data-chapter="HaNacker Mill" data-kind="story"></span>
+<span class="atom-split" data-atom="story_62_hanacker_mill" data-title="Sonnets and Verse — Ha’Nacker Mill" data-chapter="HaNacker Mill" data-kind="story" data-tags="motif/hill"></span>
 
 
 HA’NACKER MILL
@@ -9771,7 +9771,7 @@ Never a ploughman. Never a one.
 
 
 
-<span class="atom-split" data-atom="story_63_tarantella" data-title="Sonnets and Verse — Tarantella" data-chapter="Tarantella" data-kind="story"></span>
+<span class="atom-split" data-atom="story_63_tarantella" data-title="Sonnets and Verse — Tarantella" data-chapter="Tarantella" data-kind="story" data-tags="motif/bells"></span>
 
 
 TARANTELLA
@@ -9933,7 +9933,7 @@ The Long Bridge of Bideford is the end of the World.
 
 
 
-<span class="atom-split" data-atom="story_64_the_winged_horse" data-title="Sonnets and Verse — The Winged Horse" data-chapter="The Winged Horse" data-kind="story"></span>
+<span class="atom-split" data-atom="story_64_the_winged_horse" data-title="Sonnets and Verse — The Winged Horse" data-chapter="The Winged Horse" data-kind="story" data-tags="motif/hill"></span>
 
 
 THE WINGED HORSE
@@ -9993,7 +9993,7 @@ And I ride.
 
 
 
-<span class="atom-split" data-atom="story_65_strephons_song" data-title="Sonnets and Verse — Strephon’S Song" data-chapter="StrephonS Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_65_strephons_song" data-title="Sonnets and Verse — Strephon’S Song" data-chapter="StrephonS Song" data-kind="story" data-tags="motif/flowers,concept/love_romantic,concept/desire,concept/unrequited_love,form/song,character/venus"></span>
 
 
 STREPHON’S SONG
@@ -10047,7 +10047,7 @@ IV
 
 
 
-<span class="atom-split" data-atom="story_66_ballades" data-title="Sonnets and Verse — Ballades" data-chapter="Ballades" data-kind="story"></span>
+<span class="atom-split" data-atom="story_66_ballades" data-title="Sonnets and Verse — Ballades" data-chapter="Ballades" data-kind="story" data-tags="archetype/pilgrim"></span>
 
 
 BALLADES
@@ -10164,7 +10164,7 @@ And 3 per cents were really 82!
 
 
 
-<span class="atom-split" data-atom="story_67_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story"></span>
+<span class="atom-split" data-atom="story_67_ballade_of_the_unanswered_question" data-title="Sonnets and Verse — Ballade Of The Unanswered Question" data-chapter="Ballade Of The Unanswered Question" data-kind="story" data-tags="topos/ubi_sunt,motif/death,motif/prayer,concept/mortality,form/ballad_ballade"></span>
 
 
 BALLADE OF THE UNANSWERED QUESTION
@@ -10236,7 +10236,7 @@ But where are the unanswering dead?
 
 
 
-<span class="atom-split" data-atom="story_68_ballade_to_our_lady_of_czestochowa" data-title="Sonnets and Verse — Ballade To Our Lady Of Czestochowa" data-chapter="Ballade To Our Lady Of Czestochowa" data-kind="story"></span>
+<span class="atom-split" data-atom="story_68_ballade_to_our_lady_of_czestochowa" data-title="Sonnets and Verse — Ballade To Our Lady Of Czestochowa" data-chapter="Ballade To Our Lady Of Czestochowa" data-kind="story" data-tags="concept/faith"></span>
 
 
 BALLADE TO OUR LADY OF CZESTOCHOWA
@@ -10308,7 +10308,7 @@ And publish that in which I mean to die.
 
 
 
-<span class="atom-split" data-atom="story_69_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story"></span>
+<span class="atom-split" data-atom="story_69_ballade_of_hell_and_of_mrs_roebeck" data-title="Sonnets and Verse — Ballade Of Hell And Of Mrs Roebeck" data-chapter="Ballade Of Hell And Of Mrs Roebeck" data-kind="story" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/spiritual_emptiness,concept/heaven_and_the_afterlife,form/ballad_ballade,setting/london"></span>
 
 
 BALLADE OF HELL AND OF MRS ROEBECK
@@ -10380,7 +10380,7 @@ And Mrs Roebeck will be there.
 
 
 
-<span class="atom-split" data-atom="story_70_ballade_of_unsuccessful_men" data-title="Sonnets and Verse — Ballade Of Unsuccessful Men" data-chapter="Ballade Of Unsuccessful Men" data-kind="story"></span>
+<span class="atom-split" data-atom="story_70_ballade_of_unsuccessful_men" data-title="Sonnets and Verse — Ballade Of Unsuccessful Men" data-chapter="Ballade Of Unsuccessful Men" data-kind="story" data-tags="concept/heroism,concept/death,form/ballad_ballade,histref/the_french_revolution,character/napoleon,character/nelson,character/joan_of_arc,character/christ"></span>
 
 
 BALLADE OF UNSUCCESSFUL MEN
@@ -10452,7 +10452,7 @@ The Devil didn’t like Him, and He died.
 
 
 
-<span class="atom-split" data-atom="story_71_ballade_of_the_heresiarchs" data-title="Sonnets and Verse — Ballade Of The Heresiarchs" data-chapter="Ballade Of The Heresiarchs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_71_ballade_of_the_heresiarchs" data-title="Sonnets and Verse — Ballade Of The Heresiarchs" data-chapter="Ballade Of The Heresiarchs" data-kind="story" data-tags="motif/wind,concept/heresy_and_schism,concept/faith,concept/transience,form/ballad_ballade,histref/calvinism,character/friedrich_nietzsche,character/leo_tolstoy"></span>
 
 
 BALLADE OF THE HERESIARCHS
@@ -10526,7 +10526,7 @@ V
 
 
 
-<span class="atom-split" data-atom="story_72_epigrams--part_01" data-title="Sonnets and Verse — Epigrams (part 1)" data-chapter="Epigrams" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_72_epigrams--part_01" data-title="Sonnets and Verse — Epigrams (part 1)" data-chapter="Epigrams" data-kind="excerpt" data-tags="concept/wit,concept/satire_of_society,concept/love_romantic,concept/death,form/epigram,histref/norse_myth,setting/france,character/william_the_conqueror"></span>
 
 
 EPIGRAMS
@@ -10878,7 +10878,7 @@ They weave upon their loom;
 
 
 
-<span class="atom-split" data-atom="story_72_epigrams--part_02" data-title="Sonnets and Verse — Epigrams (part 2)" data-chapter="Epigrams" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_72_epigrams--part_02" data-title="Sonnets and Verse — Epigrams (part 2)" data-chapter="Epigrams" data-kind="excerpt" data-tags="topos/combat_strife,topos/war_as_glory,motif/sea,motif/swords_and_weapons,form/ballad,histref/norse_myth,setting/france,character/william_the_conqueror"></span>
 
 
 And round about them as they weave

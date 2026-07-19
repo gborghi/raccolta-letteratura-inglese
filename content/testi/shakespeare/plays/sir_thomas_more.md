@@ -1007,7 +1007,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1" data-title="Sir Thomas More — Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_1" data-title="Sir Thomas More — Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/home,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/faith,concept/poverty,concept/reform,concept/revenge,setting/london,character/lincoln,character/lord_mayor,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1063,7 +1063,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2" data-title="Sir Thomas More — Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_2" data-title="Sir Thomas More — Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/death,motif/garden,motif/home,motif/silence,motif/time,motif/well,concept/body,concept/charity,concept/conscience,concept/faith,concept/fear,concept/honour,concept/longing,concept/truth,character/lord_mayor,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1152,7 +1152,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_3" data-title="Sir Thomas More — Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_3" data-title="Sir Thomas More — Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/grave,motif/horse,motif/spring,motif/well,concept/fear,concept/greatness,concept/honour,concept/mercy,concept/pride,setting/london,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1184,7 +1184,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_4" data-title="Sir Thomas More — Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_4" data-title="Sir Thomas More — Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/city,motif/fire,motif/home,motif/silence,motif/well,concept/fear,concept/honour,character/lincoln,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1224,7 +1224,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_5" data-title="Sir Thomas More — Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_5" data-title="Sir Thomas More — Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/city,motif/fire,motif/time,motif/well,concept/doubt,concept/fear,concept/self,character/lincoln,character/lord_mayor,character/sir_thomas_more,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1248,7 +1248,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_6" data-title="Sir Thomas More — Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_6" data-title="Sir Thomas More — Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="topos/double,archetype/king,archetype/rebel,motif/blood,motif/city,motif/death,motif/desire,motif/grave,motif/horse,motif/love,motif/nature,motif/silence,motif/sleep,motif/tears,motif/well,concept/doubt,concept/faith,concept/fear,concept/honour,concept/mercy,concept/nature,concept/self,setting/court,character/arthur,character/earl_of_surrey,character/lincoln,character/lord_mayor,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1347,7 +1347,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_7" data-title="Sir Thomas More — Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_7" data-title="Sir Thomas More — Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/death,motif/desire,motif/journey,motif/love,motif/pain,motif/time,motif/well,concept/faith,concept/hope,concept/mercy,setting/london,character/lincoln,character/nurse,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1418,7 +1418,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_8" data-title="Sir Thomas More — Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_8" data-title="Sir Thomas More — Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="motif/city,motif/death,motif/grave,motif/nature,motif/night,motif/noon,motif/prison,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/fear,concept/greatness,concept/honour,concept/melancholy,concept/mercy,concept/nature,concept/sexuality,concept/truth,concept/union,concept/vanity,concept/wonder,form/comedy,form/problem_play,form/tragicomedy,setting/court,setting/london,setting/venice,character/angelo,character/christ,character/claudio,character/earl_of_surrey,character/escalus,character/isabella,character/juliet,character/lord_mayor,character/lucio,character/mariana,character/pompey,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1495,7 +1495,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_9" data-title="Sir Thomas More — Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_9" data-title="Sir Thomas More — Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/birds,motif/city,motif/death,motif/desire,motif/fire,motif/grave,motif/horse,motif/love,motif/marriage,motif/night,motif/rose,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/faith,concept/honour,concept/hope,concept/mercy,concept/poverty,concept/pride,concept/vanity,setting/court,setting/london,character/lord_mayor,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1634,7 +1634,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_10" data-title="Sir Thomas More — Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_10" data-title="Sir Thomas More — Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/clock,motif/cross,motif/flag,motif/lion,motif/love,motif/night,motif/tears,motif/time,concept/conscience,concept/doubt,concept/faith,concept/honour,concept/wonder,setting/court,setting/germany,character/earl_of_surrey,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1681,7 +1681,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_11" data-title="Sir Thomas More — Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_11" data-title="Sir Thomas More — Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="archetype/king,motif/blood,motif/dance,motif/dreams,motif/home,motif/nature,motif/night,motif/sleep,motif/storm,motif/well,concept/faith,concept/fear,concept/greatness,concept/honour,concept/nature,setting/court,character/queen,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1723,7 +1723,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_12" data-title="Sir Thomas More — Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_12" data-title="Sir Thomas More — Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/king,motif/love,motif/soul,concept/body,concept/doubt,concept/freedom,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1742,7 +1742,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_13" data-title="Sir Thomas More — Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_13" data-title="Sir Thomas More — Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/death,motif/grave,motif/love,motif/night,motif/prayer,motif/prison,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/conscience,concept/conversion,concept/exile,concept/fear,concept/greatness,concept/honour,concept/hope,concept/melancholy,concept/pride,concept/self,concept/vanity,setting/court,character/julius_caesar,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1805,7 +1805,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_14" data-title="Sir Thomas More — Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_14" data-title="Sir Thomas More — Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/orphan,motif/death,motif/prison,motif/sleep,motif/soul,motif/tears,motif/well,concept/conscience,concept/faith,concept/fear,concept/hope,character/christ,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1851,7 +1851,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_15" data-title="Sir Thomas More — Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_15" data-title="Sir Thomas More — Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="archetype/king,motif/home,motif/horse,motif/soul,motif/well,concept/doubt,concept/faith,concept/fear,character/sir_thomas_more,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1878,7 +1878,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_16" data-title="Sir Thomas More — Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_16" data-title="Sir Thomas More — Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/orphan,motif/crown,motif/death,motif/love,motif/prison,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/hope,concept/imprisonment,concept/truth,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |
@@ -1931,7 +1931,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_17" data-title="Sir Thomas More — Scene 17" data-chapter="Scene 17" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_17" data-title="Sir Thomas More — Scene 17" data-chapter="Scene 17" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/city,motif/clock,motif/death,motif/fire,motif/garden,motif/home,motif/horse,motif/journey,motif/leaves,motif/memory,motif/night,motif/pain,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/doubt,concept/faith,concept/fear,concept/mercy,form/tragedy,setting/court,setting/london,character/lincoln,character/sir_thomas_more"></span>
 
 
 | Speaker | Line |

@@ -3435,7 +3435,7 @@ weight to give to his authority.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Battle of Life — Part 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Battle of Life — Part 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent,motif/bells,motif/birds,motif/blood,motif/death,motif/dust,motif/fire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/seasons,motif/secrets,motif/summer,motif/time,motif/wind,motif/window,motif/winter,concept/nature,concept/suffering,character/nurse"></span>
 
 
 Part the First
@@ -3530,7 +3530,7 @@ had been killed in the great fight.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Battle of Life — Part 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Battle of Life — Part 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/autumn,motif/bees,motif/dance,motif/flowers,motif/leaves,motif/love,motif/night,motif/water,motif/well,motif/wind,concept/beauty,concept/freedom,concept/hope,concept/truth,character/doctor_jeddler"></span>
 
 
 Nowhere more altered, perhaps, about a hundred years ago, than in one
@@ -3651,7 +3651,7 @@ Alfred.  Didn’t we, dear Marion?’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Battle of Life — Part 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Battle of Life — Part 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/shadow,motif/flowers,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/well,concept/beauty,concept/conscience,concept/nature,concept/self"></span>
 
 
 ‘Oh, I don’t know, Grace.  How you tease me about Alfred.’
@@ -3774,7 +3774,7 @@ until they fell into a symmetrical arrangement.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Battle of Life — Part 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Battle of Life — Part 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/journey,motif/soul,motif/well,motif/winter,concept/doubt,concept/hope,concept/melancholy,concept/self,character/clemency_newcome,character/doctor_jeddler"></span>
 
 
 Such, in outward form and garb, was [[Clemency Newcome]]; who was supposed to
@@ -3911,7 +3911,7 @@ board, acted as Grand Carver of a round of beef and a ham.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Battle of Life — Part 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Battle of Life — Part 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,motif/dance,motif/dust,motif/fire,motif/well,concept/self,character/clemency_newcome"></span>
 
 
 ‘Meat?’ said Britain, approaching Mr. Snitchey, with the carving knife
@@ -4048,7 +4048,7 @@ as if he would have added, ‘you may do this instead!’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Battle of Life — Part 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Battle of Life — Part 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desire,motif/well,concept/heroism,concept/history,concept/hope,concept/melancholy,concept/self,concept/truth,form/history,setting/london,character/benjamin_britain,character/bottom,character/clemency_newcome"></span>
 
 
 ‘[[Well]], Alfred!’ cried the Doctor, ‘what do you say now?’
@@ -4167,7 +4167,7 @@ which are to be signed, sealed, and delivered.’
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Battle of Life — Part 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Battle of Life — Part 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/journey_of_life,motif/marriage,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/nature,concept/self,character/bottom,character/clemency_newcome"></span>
 
 
 ‘And duly witnessed as by law required,’ said Snitchey, pushing away his
@@ -4314,7 +4314,7 @@ himself, was fairly started on the [[Journey of Life|journey of life]].
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Battle of Life — Part 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Battle of Life — Part 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/lover,motif/hill,motif/love,motif/road,motif/time,motif/well,concept/wonder,character/clemency_newcome"></span>
 
 
 ‘Britain!’ said the Doctor.  ‘Run to the gate, and watch for the coach.
@@ -4436,7 +4436,7 @@ breaks my heart.’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Battle of Life — Part 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Battle of Life — Part 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/night,motif/time,motif/water,motif/well,motif/window,concept/body,concept/hope,concept/truth,concept/wonder,character/michael_warden"></span>
 
 
 Part the Second
@@ -4546,7 +4546,7 @@ you?’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Battle of Life — Part 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Battle of Life — Part 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/love,motif/time,motif/well,concept/beauty,concept/doubt,concept/self,character/alfred_heathfield,character/doctor_jeddler,character/michael_warden"></span>
 
 
 ‘In no part of the United Kingdom of Great Britain and Ireland,’ replied
@@ -4695,7 +4695,7 @@ lovely daughter, and to carry her away with him.’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Battle of Life — Part 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Battle of Life — Part 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/grave,motif/horse,motif/love,motif/night,motif/soul,motif/well,concept/hope,character/alfred_heathfield"></span>
 
 
 ‘Really, Mr. Snitchey, and Mr. Craggs, partners both,’ said the client,
@@ -4810,7 +4810,7 @@ so.  I thought he’d have stipulated for three,’ he murmured to himself.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Battle of Life — Part 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Battle of Life — Part 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/beauty,concept/hope,concept/mercy,concept/nature,character/doctor_jeddler,character/phantom"></span>
 
 
 ‘You’ll live to see me making a good use of riches yet.  Henceforth the
@@ -4937,7 +4937,7 @@ sound and whole as any [[Beauty|beauty]]’s in the land.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Battle of Life — Part 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Battle of Life — Part 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/love,motif/secrets,motif/tears,motif/time,motif/well,concept/body,concept/despair,concept/hope"></span>
 
 
 ‘Nothing an’t the matter with me,’ said Clemency, entering, ‘but—come a
@@ -5064,7 +5064,7 @@ all the [[Time|time]], dearer and dearer every day; and O! how dearly now!’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Battle of Life — Part 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Battle of Life — Part 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/faith,concept/imagination,concept/nature,character/clemency_newcome"></span>
 
 
 ‘Nay,’ said her cheerful sister, returning her embrace, ‘I can scarcely
@@ -5194,7 +5194,7 @@ elbows.  ‘Such a short cut, an’t it?’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="The Battle of Life — Part 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="The Battle of Life — Part 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/beauty,concept/imagination,concept/pride,character/michael_warden"></span>
 
 
 ‘I’m not sure,’ said Mr. Britain, ‘that it’s what would be considered
@@ -5339,7 +5339,7 @@ know that this should not be.  Think of what you do!’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_08" data-title="The Battle of Life — Part 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_08" data-title="The Battle of Life — Part 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,archetype/prophet,motif/cross,motif/fire,motif/flowers,motif/home,motif/leaves,motif/love,motif/marriage,motif/night,motif/sleep,motif/tears,motif/time,motif/well,motif/winter,concept/beauty"></span>
 
 
 ‘I have thought of it many times,’ said Marion, gently.
@@ -5475,7 +5475,7 @@ the father of two handsome girls.’
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_09" data-title="The Battle of Life — Part 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_09" data-title="The Battle of Life — Part 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/dance,motif/fire,motif/home,motif/leaves,motif/love,motif/night,motif/pain,motif/river,motif/road,motif/rose,motif/soul,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/wonder"></span>
 
 
 ‘All that one of them has ever done, or may do—may do, dearest father—to
@@ -5608,7 +5608,7 @@ forehead, which looked hot and anxious.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_10" data-title="The Battle of Life — Part 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_10" data-title="The Battle of Life — Part 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/bells,motif/cross,motif/dance,motif/fire,motif/love,motif/night,motif/noon,motif/secrets,motif/time,motif/wind,concept/conscience,concept/courage,concept/doubt,concept/hope,concept/self,concept/truth,concept/wonder"></span>
 
 
 ‘What do you think,’ said Mr. Craggs, ‘about—’
@@ -5735,7 +5735,7 @@ general illumination in Mrs. Craggs’s little belfry.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_11" data-title="The Battle of Life — Part 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_11" data-title="The Battle of Life — Part 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,motif/bells,motif/birds,motif/dance,motif/fire,motif/home,motif/horse,motif/leaves,motif/moon,motif/night,motif/snow,motif/summer,motif/tears,motif/time,motif/well,motif/window,motif/winter,character/speed"></span>
 
 
 Now, too, the lively air that fanned it, grew less gentle as the music
@@ -5867,7 +5867,7 @@ the weather and he never stirred.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Battle of Life — Part 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Battle of Life — Part 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/autumn,motif/birds,motif/flowers,motif/garden,motif/horse,motif/leaves,motif/nature,motif/night,motif/road,motif/time,motif/water,motif/well,motif/window,concept/nature,character/benjamin_britain,character/clemency_newcome"></span>
 
 
 Part the Third
@@ -5985,7 +5985,7 @@ upon the pathway, which shoes could hardly have belonged to any one but
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Battle of Life — Part 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Battle of Life — Part 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/clock,motif/horse,motif/night,motif/silence,motif/soul,motif/time,motif/window,character/michael_warden"></span>
 
 
 In fact they did belong to her, and she stood in them, and a rosy
@@ -6117,7 +6117,7 @@ notice of sale, ‘lost me my old place.’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Battle of Life — Part 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Battle of Life — Part 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/marriage,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/self,concept/truth"></span>
 
 
 ‘[[Well]]!  So he did,’ retorted Clemency, ‘and many thanks to him.’
@@ -6261,7 +6261,7 @@ No one better,’ added Clemency, wiping her eyes with her hand.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Battle of Life — Part 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Battle of Life — Part 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/love,motif/night,motif/soul,motif/water,motif/well,motif/wind,motif/window,concept/despair,concept/history,concept/pride,concept/wonder,form/history,character/doctor_jeddler,character/michael_warden"></span>
 
 
 ‘And so,’ suggested the stranger.
@@ -6389,7 +6389,7 @@ retorted Snitchey.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Battle of Life — Part 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Battle of Life — Part 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/autumn,motif/grave,motif/home,motif/leaves,motif/memory,motif/silence,motif/summer,motif/time,motif/well,motif/winter,concept/honour,concept/hope,concept/self,concept/truth,character/doctor_jeddler,character/michael_warden"></span>
 
 
 ‘Come!  How should I know who kept the [[house]]?  When I sent my servant on
@@ -6507,7 +6507,7 @@ rival, no successor; upon whose gentle lips her name was trembling then.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Battle of Life — Part 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Battle of Life — Part 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/love,motif/night,motif/pain,motif/tears,motif/time,concept/courage,concept/faith,concept/history,concept/poverty,concept/truth,form/history"></span>
 
 
 The spirit of the lost girl looked out of those eyes.  Those eyes of
@@ -6646,7 +6646,7 @@ birth-day.  [[Courage]], [[Courage|courage]], Grace!’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="The Battle of Life — Part 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="The Battle of Life — Part 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/endurance,concept/fear,concept/hope,concept/self_sacrifice,character/phantom"></span>
 
 
 She raised her head, and, looking at him, told him she was ready.  As she
@@ -6762,7 +6762,7 @@ lost to Alfred—hopeless to him—dead.  Do you understand me, [[Love|love]]?�
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="The Battle of Life — Part 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="The Battle of Life — Part 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/tears,motif/well,concept/doubt,concept/honour,concept/self,concept/solitude,concept/truth,character/alfred_heathfield,character/michael_warden"></span>
 
 
 Her sister looked into her face, attentively.  She seemed in [[Doubt|doubt]].
@@ -6887,7 +6887,7 @@ from behind the door, ‘you are among old friends.’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_09" data-title="The Battle of Life — Part 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_09" data-title="The Battle of Life — Part 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/memory,motif/nature,motif/night,motif/secrets,motif/time,motif/well,concept/forgiveness,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/wonder,character/michael,character/michael_warden"></span>
 
 
 Mrs. Snitchey having delivered her congratulations, took her husband

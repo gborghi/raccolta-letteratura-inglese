@@ -1031,7 +1031,7 @@ LYTTLETON BARRY.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Loss of Breath (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Loss of Breath (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/mirror,motif/nature,motif/snow,motif/soul,motif/time,motif/water,concept/courage,concept/despair,concept/honour,concept/nature,concept/self,concept/suicide,concept/wonder,character/witch"></span>
 
 
 O breathe not, etc.
@@ -1239,7 +1239,7 @@ only a set of false teeth, two pair of hips, an eye, and a bundle
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Loss of Breath (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Loss of Breath (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/memory,motif/mirror,motif/night,motif/time,motif/well,motif/wheel,concept/body,concept/truth,concept/wonder,form/tragedy"></span>
 
 
 of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
@@ -1437,7 +1437,7 @@ driver the justice to state that he did not forget to throw after
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Loss of Breath (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Loss of Breath (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/city,motif/pain,motif/silence,motif/sleep,motif/well,motif/window,concept/body,character/bottom,character/mark_antony"></span>
 
 
 me the largest of my trunks, which, unfortunately falling on my
@@ -1639,7 +1639,7 @@ should confine himself to matters of experience. Thus [[Mark Antony]]
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Loss of Breath (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Loss of Breath (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/death,motif/hill,motif/home,motif/lightning,motif/time,motif/wind,concept/body,concept/doubt,concept/mortality,concept/self,concept/wonder,form/sketch,setting/mountains"></span>
 
 
 composed a treatise upon getting drunk.
@@ -1849,7 +1849,7 @@ of a gentleman’s discourse. Interruptions are annoying and should
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Loss of Breath (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Loss of Breath (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/desire,motif/nature,motif/time,concept/nature,character/brutus"></span>
 
 
 undoubtedly be abolished—don’t you think so?—no reply, I beg you,—one

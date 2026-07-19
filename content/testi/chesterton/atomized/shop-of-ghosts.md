@@ -213,7 +213,7 @@ a mob to rise.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="shop-of-ghosts (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="shop-of-ghosts (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/decay,motif/desert,motif/ghosts,motif/moon,motif/night,motif/ship,motif/soul,motif/stars,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/london,setting/ship"></span>
 
 
 The Shop Of [[Ghosts]]
@@ -406,7 +406,7 @@ Non parlai e fu lui a riprendere la parola.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="shop-of-ghosts (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="shop-of-ghosts (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/grave,motif/silence,motif/time,motif/well,character/queen,character/richard,character/robin_hood"></span>
 
 
 "All the new people have left my shop.  I cannot understand it.

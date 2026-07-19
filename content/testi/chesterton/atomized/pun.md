@@ -150,7 +150,7 @@ a landscape as [[Well|well]] as a trap.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="pun (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="pun (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/time,motif/well,concept/fear,concept/freedom,concept/hope,concept/self"></span>
 
 
 # pun
@@ -378,7 +378,7 @@ quell'esito alla fine.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="pun (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="pun (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/well,character/sunday"></span>
 
 
 Here the verbal jest, falling so ridiculously right,

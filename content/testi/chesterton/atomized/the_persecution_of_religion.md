@@ -179,7 +179,7 @@ and even by a divine [[Child|child]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Persecution_of_Religion (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Persecution_of_Religion (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/stars,motif/time,motif/well,concept/imagination,concept/paradox,concept/self,concept/suffering,form/riddle,setting/london,character/phantom"></span>
 
 
 # The Persecution of Religion
@@ -305,7 +305,7 @@ vi sono evidentemente saggi che desiderano tornare a Matusalemme.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The_Persecution_of_Religion (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The_Persecution_of_Religion (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/animals,motif/desire,motif/leaves,motif/nature,concept/nature,concept/truth,form/fable,histref/christianity"></span>
 
 
 I need hardly say that I am not arguing that Mr. Bernard [[Shaw]]
@@ -380,7 +380,7 @@ La prefazione a questa particolare commedia tratta anzitutto un punto più parti
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The_Persecution_of_Religion (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The_Persecution_of_Religion (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/childhood,concept/history,concept/reform,form/history"></span>
 
 
 Mr. [[Shaw]]'s notion is not meant to be nonsensical, but it is nonsensical;

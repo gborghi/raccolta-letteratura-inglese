@@ -139,7 +139,7 @@ Piantala, [[smith|Smith]]!
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="smith (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="smith (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/well,concept/conscience,concept/hope,histref/islam,character/clifford"></span>
 
 
 Antichrist, or the Reunion of Christendom: An Ode  

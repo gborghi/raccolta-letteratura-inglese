@@ -864,7 +864,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard II — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Richard II — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/villain,motif/blood,motif/crown,motif/death,motif/fire,motif/grave,motif/home,motif/jewel,motif/love,motif/poison,motif/soul,motif/spring,motif/swallow,motif/time,motif/well,concept/body,concept/fear,concept/honour,concept/hope,character/duke_of_gloucester,character/gloucester,character/john_of_gaunt,character/mowbray,character/queen,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -908,7 +908,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard II — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Richard II — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/death,motif/fire,motif/leaves,motif/love,motif/nature,motif/summer,concept/despair,concept/nature,concept/revenge,concept/self,character/edmund,character/gloucester,character/john_of_gaunt,character/mowbray,character/richard_ii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -927,7 +927,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard II — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Richard II — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/chains,motif/death,motif/desire,motif/fire,motif/home,motif/jewel,motif/lightning,motif/love,motif/night,motif/pain,motif/snow,motif/soul,motif/summer,motif/time,concept/body,concept/exile,concept/fear,concept/hope,concept/imagination,concept/revenge,concept/truth,character/duke_of_aumerle,character/john_of_gaunt,character/mowbray,character/nurse,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1017,7 +1017,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard II — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Richard II — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/grave,motif/home,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/hope,setting/court,character/john_of_gaunt,character/richard,character/richard_ii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1043,7 +1043,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard II — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Richard II — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/prophet,motif/blood,motif/crown,motif/death,motif/dust,motif/grave,motif/home,motif/horse,motif/lamb,motif/lion,motif/love,motif/marriage,motif/nature,motif/pain,motif/silence,motif/soul,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/fear,concept/honour,concept/nature,concept/suffering,concept/truth,concept/vanity,setting/italy,character/duke_of_aumerle,character/duke_of_exeter,character/duke_of_york,character/earl_of_northumberland,character/gloucester,character/john_of_gaunt,character/nurse,character/queen,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1118,7 +1118,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Richard II — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Richard II — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/death,motif/home,motif/love,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/conscience,concept/despair,concept/fear,concept/hope,concept/mercy,setting/castle,character/duke_of_york,character/earl_of_worcester,character/gloucester,character/queen,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1174,7 +1174,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard II — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Richard II — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/desert,motif/dust,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/honour,concept/hope,concept/mercy,concept/self,setting/castle,setting/court,setting/desert,character/duke_of_york,character/earl_of_northumberland,character/queen,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1232,7 +1232,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Richard II — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Richard II — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/dance,motif/death,motif/moon,motif/stars,motif/well,concept/fear,character/earl_of_salisbury,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1247,7 +1247,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard II — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Richard II — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/rebel,motif/blood,motif/crown,motif/death,motif/decay,motif/dust,motif/ghosts,motif/love,motif/night,motif/sleep,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/charity,concept/despair,concept/faith,concept/fear,concept/hope,concept/pride,concept/self,setting/castle,setting/court,character/duke_of_aumerle,character/duke_of_york,character/earl_of_northumberland,character/earl_of_salisbury,character/queen,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1306,7 +1306,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Richard II — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Richard II — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/dust,motif/fire,motif/grave,motif/love,motif/night,motif/spring,motif/summer,motif/tears,motif/time,motif/water,motif/well,concept/faith,concept/honour,setting/castle,setting/court,setting/london,character/duke_of_aumerle,character/duke_of_york,character/earl_of_northumberland,character/earl_of_salisbury,character/henry_bolingbroke,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1365,7 +1365,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Richard II — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Richard II — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/crown,motif/dance,motif/death,motif/flowers,motif/garden,motif/leaves,motif/night,motif/spring,motif/time,motif/well,concept/doubt,setting/london,character/duke_of_york,character/queen,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1411,7 +1411,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard II — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Richard II — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/cross,motif/crown,motif/death,motif/home,motif/horse,motif/love,motif/mirror,motif/silence,motif/sleep,motif/snow,motif/soul,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/guilt,concept/honour,concept/pride,concept/resignation,concept/revenge,concept/truth,setting/court,setting/italy,setting/venice,character/christ,character/duke_of_aumerle,character/duke_of_york,character/earl_of_northumberland,character/gloucester,character/henry_bolingbroke,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1504,7 +1504,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard II — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Richard II — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/crown,motif/death,motif/fire,motif/lion,motif/love,motif/marriage,motif/rose,motif/soul,motif/tears,motif/time,motif/winter,concept/fear,concept/guilt,concept/honour,concept/humility,concept/truth,character/earl_of_northumberland,character/julius_caesar,character/queen,character/richard,character/richard_ii,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1537,7 +1537,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard II — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Richard II — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/villain,motif/dust,motif/home,motif/horse,motif/leaves,motif/love,motif/spring,motif/tears,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/mercy,concept/truth,setting/london,setting/oxford,character/duke_of_aumerle,character/richard,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1592,7 +1592,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard II — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Richard II — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/death,motif/desire,motif/love,motif/prayer,motif/soul,motif/tears,motif/well,concept/fear,concept/forgiveness,concept/honour,concept/hope,concept/mercy,setting/london,setting/oxford,character/duke_of_aumerle,character/duke_of_york,character/nurse,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1658,7 +1658,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard II — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Richard II — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,concept/fear,character/richard_ii"></span>
 
 
 | Speaker | Line |
@@ -1674,7 +1674,7 @@ The [[Tragedy]] of [[King]] [[Richard]] the Second
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard II — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Richard II — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/birds,motif/blood,motif/clock,motif/dance,motif/death,motif/fire,motif/flowers,motif/grave,motif/horse,motif/love,motif/marriage,motif/night,motif/poison,motif/prison,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/ambition,concept/body,concept/conscience,concept/faith,concept/fear,concept/forgiveness,concept/freedom,concept/guilt,concept/history,concept/honour,concept/imagination,concept/melancholy,concept/pride,concept/reconciliation,form/history,form/sonnet,form/tragedy,setting/london,setting/oxford,setting/paris,setting/verona,character/arthur,character/benvolio,character/cain,character/capulet,character/duke_of_york,character/earl_of_northumberland,character/escalus,character/friar_laurence,character/john_of_gaunt,character/juliet,character/kent,character/mercutio,character/nurse,character/prince_escalus,character/richard,character/richard_ii,character/romeo,character/tybalt"></span>
 
 
 | Speaker | Line |

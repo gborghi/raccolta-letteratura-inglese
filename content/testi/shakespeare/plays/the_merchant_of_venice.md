@@ -864,7 +864,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Merchant of Venice — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Merchant of Venice — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/quest,archetype/fool,motif/blood,motif/childhood,motif/love,motif/nature,motif/silence,motif/sleep,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/fear,concept/honour,concept/melancholy,concept/nature,concept/self,setting/venice,character/antonio,character/bassanio,character/bottom,character/brutus,character/lorenzo,character/portia"></span>
 
 
 | Speaker | Line |
@@ -911,7 +911,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Merchant of Venice — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Merchant of Venice — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/shadow,motif/blood,motif/death,motif/home,motif/horse,motif/love,motif/time,motif/well,concept/body,concept/charity,concept/doubt,concept/fear,concept/hope,concept/madness,concept/temptation,concept/truth,setting/court,setting/germany,setting/italy,setting/venice,character/bassanio,character/diana,character/nerissa,character/portia"></span>
 
 
 | Speaker | Line |
@@ -952,7 +952,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merchant of Venice — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merchant of Venice — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/prophet,archetype/villain,motif/autumn,motif/blood,motif/desire,motif/fire,motif/home,motif/lion,motif/love,motif/marriage,motif/memory,motif/soul,motif/storm,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/friendship,setting/venice,character/antonio,character/bassanio,character/nerissa,character/portia,character/queen,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1023,7 +1023,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Merchant of Venice — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Merchant of Venice — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,motif/blood,motif/clock,motif/desire,motif/horse,motif/pain,motif/prayer,motif/soul,motif/time,motif/well,concept/conscience,concept/hope,concept/truth,setting/italy,setting/venice,character/bassanio,character/lorenzo,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1097,7 +1097,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="The Merchant of Venice — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="The Merchant of Venice — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/tears,motif/well,setting/venice,character/jessica,character/lorenzo"></span>
 
 
 | Speaker | Line |
@@ -1110,7 +1110,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="The Merchant of Venice — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="The Merchant of Venice — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/clock,motif/cross,motif/love,motif/time,concept/faith,form/masque,setting/venice,character/jessica,character/lorenzo"></span>
 
 
 | Speaker | Line |
@@ -1140,7 +1140,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="The Merchant of Venice — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="The Merchant of Venice — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,motif/clock,motif/death,motif/desire,motif/fire,motif/frost,motif/grave,motif/horse,motif/love,motif/night,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/faith,concept/hope,form/inscription,form/masque,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/portia,character/shylock,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1207,7 +1207,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_8" data-title="The Merchant of Venice — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_8" data-title="The Merchant of Venice — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="topos/double,archetype/villain,motif/love,motif/ship,motif/silence,motif/tears,motif/time,motif/well,setting/ship,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1228,7 +1228,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_2--scene_9" data-title="The Merchant of Venice — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_9" data-title="The Merchant of Venice — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/fool,archetype/shadow,motif/desert,motif/desire,motif/fire,motif/love,motif/marriage,motif/road,motif/summer,motif/time,motif/well,concept/honour,concept/hope,concept/self,setting/desert,setting/venice,character/bassanio,character/nerissa,character/portia"></span>
 
 
 | Speaker | Line |
@@ -1259,7 +1259,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Merchant of Venice — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Merchant of Venice — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/rebel,motif/blood,motif/cross,motif/death,motif/night,motif/poison,motif/prayer,motif/ship,motif/summer,motif/tears,motif/well,motif/winter,concept/humility,concept/revenge,setting/ship,setting/venice,character/antonio,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1312,7 +1312,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Merchant of Venice — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Merchant of Venice — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,archetype/monster,archetype/shadow,motif/blood,motif/death,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/snow,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/honour,concept/jealousy,concept/nature,concept/truth,setting/italy,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/nerissa,character/portia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1377,7 +1377,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Merchant of Venice — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Merchant of Venice — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/city,motif/well,concept/mercy,concept/wonder,setting/venice,character/antonio,character/bassanio,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1396,7 +1396,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="The Merchant of Venice — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="The Merchant of Venice — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/lover,motif/desire,motif/love,motif/prayer,motif/soul,motif/time,motif/well,concept/honour,setting/venice,character/antonio,character/bassanio,character/jessica,character/lorenzo,character/nerissa,character/portia,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1421,7 +1421,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="The Merchant of Venice — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="The Merchant of Venice — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/memory,motif/silence,motif/well,concept/fear,concept/hope,concept/mercy,setting/venice,character/bassanio,character/jessica,character/lorenzo,character/portia"></span>
 
 
 | Speaker | Line |
@@ -1459,7 +1459,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Merchant of Venice — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Merchant of Venice — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/madwoman,motif/animals,motif/blood,motif/city,motif/crown,motif/death,motif/desire,motif/home,motif/lamb,motif/love,motif/nature,motif/night,motif/prayer,motif/seasons,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/courage,concept/faith,concept/fear,concept/freedom,concept/greatness,concept/honour,concept/hope,concept/mercy,concept/nature,concept/poverty,concept/truth,setting/court,setting/venice,character/antonio,character/bassanio,character/christ,character/lorenzo,character/nerissa,character/portia,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1618,7 +1618,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Merchant of Venice — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Merchant of Venice — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/home,motif/well,setting/venice,character/bassanio,character/lorenzo,character/nerissa,character/portia,character/shylock"></span>
 
 
 | Speaker | Line |
@@ -1638,7 +1638,7 @@ The Comical [[history|History]] of the Merchant of [[Venice]], or Otherwise Call
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merchant of Venice — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merchant of Venice — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/king,archetype/shadow,motif/blood,motif/death,motif/decay,motif/grave,motif/home,motif/jewel,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/nightingale,motif/road,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/history,concept/honour,concept/hope,concept/nature,concept/self,concept/truth,form/comedy,form/fragment,form/history,form/hymn,setting/venice,character/antonio,character/bassanio,character/diana,character/endymion,character/falstaff,character/henry_bolingbroke,character/henry_iv,character/henry_v,character/hotspur,character/jessica,character/lorenzo,character/nerissa,character/portia,character/richard_ii,character/speed,character/troilus"></span>
 
 
 | Speaker | Line |

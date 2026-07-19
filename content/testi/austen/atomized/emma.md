@@ -16507,7 +16507,7 @@ FINIS
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Emma — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Emma — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/home,motif/marriage,motif/sleep,motif/time,motif/well,concept/body,concept/friendship,concept/melancholy,concept/self,concept/solitude,concept/suffering,setting/london,character/emma_woodhouse,character/isabella"></span>
 
 
 CHAPTER I
@@ -16621,7 +16621,7 @@ said at dinner,
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Emma — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Emma — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/hope,setting/london,character/emma_woodhouse,character/isabella"></span>
 
 
 “Poor Miss Taylor!—I wish she were here again. What a pity it is that
@@ -16750,7 +16750,7 @@ every day.”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Emma — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Emma — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/pain,motif/tears,motif/time,motif/well,concept/body"></span>
 
 
 “Dear [[Emma]] bears every thing so [[Well|well]],” said her father. “But, Mr.
@@ -16856,7 +16856,7 @@ man of six or seven-and-twenty can take care of himself.”
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Emma — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Emma — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/child,motif/home,motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/body,concept/education,concept/friendship,concept/hope,concept/nature,concept/pride,concept/reconciliation,concept/suffering,setting/london,character/frank_churchill,character/miss_bates"></span>
 
 
 CHAPTER II
@@ -17026,7 +17026,7 @@ Woodhouse would never believe it.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Emma — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Emma — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/fire,motif/garden,motif/home,motif/nature,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/beauty,concept/body,concept/education,concept/history,concept/nature,concept/self,concept/solitude,concept/vanity,concept/wonder,form/history,character/harriet_smith,character/miss_bates"></span>
 
 
 CHAPTER III
@@ -17211,7 +17211,7 @@ hands with her at last!
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Emma — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Emma — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/marriage,motif/nature,motif/night,motif/summer,motif/time,motif/well,concept/body,concept/nature,concept/truth,character/harriet_smith,character/sunday"></span>
 
 
 CHAPTER IV
@@ -17316,7 +17316,7 @@ her.”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Emma — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Emma — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/education,concept/hope,concept/wonder,character/robert_martin"></span>
 
 
 “Mr. Martin, I suppose, is not a man of information beyond the line of
@@ -17439,7 +17439,7 @@ Martin looked as if he did not know what manner was.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Emma — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Emma — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/road,motif/time,motif/well,concept/body,concept/doubt,concept/wonder,character/robert_martin"></span>
 
 
 They remained but a few minutes together, as Miss Woodhouse must not be
@@ -17573,7 +17573,7 @@ by Mr. Elton’s admiration.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Emma — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Emma — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/child,motif/cross,motif/home,motif/love,motif/memory,motif/night,motif/time,motif/well,concept/beauty,concept/body,concept/despair,concept/doubt,concept/education,concept/hope,concept/truth,concept/vanity,concept/wonder,character/harriet_smith,character/isabella"></span>
 
 
 CHAPTER V
@@ -17780,7 +17780,7 @@ about Hartfield.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/flowers,motif/love,motif/nature,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/doubt,concept/nature,concept/vanity,form/sketch,character/isabella"></span>
 
 
 CHAPTER VI
@@ -17941,7 +17941,7 @@ _present_, I will break my resolution now.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/love,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/friendship,form/sketch,setting/london,character/isabella"></span>
 
 
 Mr. Elton seemed very properly struck and delighted by the idea, and
@@ -18077,7 +18077,7 @@ But it is his gratitude on Harriet’s account.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/pain,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/longing,setting/london"></span>
 
 
 CHAPTER VII
@@ -18204,7 +18204,7 @@ moment whom are you thinking of?”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/nature,motif/time,motif/well,concept/conscience,concept/honour,concept/hope,concept/nature,concept/pride,concept/wonder,character/robert_martin"></span>
 
 
 The symptoms were favourable.—Instead of answering, Harriet turned away
@@ -18350,7 +18350,7 @@ Harriet smiled again, and her smiles grew stronger.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/marriage,motif/night,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/hope,character/harriet_smith,character/robert_martin"></span>
 
 
 CHAPTER VIII
@@ -18482,7 +18482,7 @@ thinking him at all a tiresome wretch.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/summer,motif/well,concept/ambition,concept/body,concept/doubt,concept/education,concept/hope,concept/madness,concept/nature,concept/wonder,character/harriet_smith,character/robert_martin"></span>
 
 
 “Pray, Mr. Knightley,” said [[Emma]], who had been smiling to herself
@@ -18598,7 +18598,7 @@ he had encouragement.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/silence,motif/time,motif/well,concept/beauty,concept/body,concept/education,concept/hope,concept/nature,concept/vanity,character/harriet_smith,character/robert_martin"></span>
 
 
 It was most convenient to [[Emma]] not to make a direct reply to this
@@ -18704,7 +18704,7 @@ will be all labour in vain.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Emma — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Emma — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/friendship,concept/hope,concept/self,setting/london"></span>
 
 
 [[Emma]] laughed and disclaimed. He continued,
@@ -18797,7 +18797,7 @@ had not his equal for [[Beauty|beauty]] or agreeableness.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/grave,motif/memory,motif/time,motif/well,concept/freedom,concept/hope,concept/imagination,form/riddle"></span>
 
 
 CHAPTER IX
@@ -18935,7 +18935,7 @@ intentions in the same glance.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,concept/body,concept/doubt,concept/freedom,concept/hope,concept/pride,concept/wonder,character/mermaid"></span>
 
 
 May its approval beam in that soft eye!
@@ -19084,7 +19084,7 @@ looked! He was arm-in-arm with Mr. Cole.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Emma — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Emma — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/memory,motif/time,motif/well,concept/body,concept/hope,form/riddle"></span>
 
 
 “This is an alliance which, whoever—whatever your friends may be, must
@@ -19223,7 +19223,7 @@ the way through. But I think, my dear, you said you had got it.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Emma — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Emma — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,motif/clock,motif/time,motif/well,concept/body,concept/doubt,concept/honour,concept/hope,concept/sublime,concept/wonder,character/isabella"></span>
 
 
 “Yes, papa, it is written out in our second page. We copied it from the
@@ -19378,7 +19378,7 @@ the [[Sublime|sublime]] of pleasure to Harriet’s share.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Emma — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Emma — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/love,motif/nature,motif/road,motif/rose,motif/silence,motif/well,concept/body,concept/fear,concept/hope,concept/nature,concept/poverty,concept/truth,concept/wonder,form/riddle,character/miss_bates"></span>
 
 
 CHAPTER X
@@ -19503,7 +19503,7 @@ blinder. My nephews and nieces!—I shall often have a niece with me.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Emma — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Emma — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/home,motif/love,motif/road,motif/time,motif/well,concept/education,concept/hope,concept/poverty,concept/wonder,character/jane_fairfax,character/miss_bates"></span>
 
 
 “Do you know [[Miss Bates]]’s niece? That is, I know you must have seen her
@@ -19659,7 +19659,7 @@ them forward to the great event.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/autumn,motif/cross,motif/journey,motif/love,motif/marriage,motif/pain,motif/well,concept/charity,concept/hope,concept/melancholy,setting/london,character/isabella"></span>
 
 
 CHAPTER XI
@@ -19764,7 +19764,7 @@ her.—It is a sad change indeed.—But I [[Hope|hope]] she is pretty [[Well|wel
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/honour,concept/hope,concept/melancholy,concept/truth,character/isabella"></span>
 
 
 “Pretty [[Well|well]], my dear—I [[Hope|hope]]—pretty [[Well|well]].—I do not know but that the
@@ -19884,7 +19884,7 @@ important.—It had a high claim to forbearance.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/journey,motif/nature,motif/spring,motif/time,concept/body,concept/doubt,concept/friendship,concept/nature,character/isabella"></span>
 
 
 CHAPTER XII
@@ -20007,7 +20007,7 @@ taken every evening by every [[Body|body]], he proceeded to say, with an air of
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/home,motif/journey,motif/love,motif/time,motif/well,concept/body,concept/hope,concept/truth,setting/london,character/isabella,character/jane_fairfax,character/miss_bates"></span>
 
 
 “It was an awkward business, my dear, your spending the [[Autumn|autumn]] at South
@@ -20136,7 +20136,7 @@ moment very happy to assist in praising.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Emma — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Emma — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/autumn,motif/home,motif/journey,motif/nature,motif/time,motif/well,concept/hope,concept/nature,concept/wonder,setting/london,character/harriet_smith,character/jane_fairfax"></span>
 
 
 “That sweet, amiable [[Jane Fairfax]]!” said Mrs. John Knightley.—“It is so
@@ -20249,7 +20249,7 @@ other, prevented any renewal of it.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Emma — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Emma — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/snow,motif/tears,motif/well,concept/doubt,concept/hope,concept/nature"></span>
 
 
 CHAPTER XIII
@@ -20361,7 +20361,7 @@ he next looked at her.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Emma — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Emma — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/silence,motif/snow,motif/time,motif/well,concept/doubt,concept/heroism,concept/imagination,concept/nature,concept/wonder"></span>
 
 
 “[[Well]],” said she to herself, “this is most strange!—After I had got him
@@ -20477,7 +20477,7 @@ her lips.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Emma — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Emma — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/night,motif/snow,motif/time,motif/well,concept/body,concept/hope,concept/slavery,concept/wonder,setting/london"></span>
 
 
 They arrived, the carriage turned, the step was let down, and Mr.
@@ -20578,7 +20578,7 @@ the sweep-gate, “will be to find myself safe at Hartfield again.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Emma — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Emma — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/lover,motif/cross,motif/marriage,motif/nature,motif/time,motif/well,concept/body,concept/doubt,concept/history,concept/hope,concept/nature,form/history,character/frank_churchill,character/isabella"></span>
 
 
 CHAPTER XIV
@@ -20689,7 +20689,7 @@ January.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Emma — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Emma — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/secrets,motif/time,motif/well,concept/body,concept/doubt,concept/imagination,concept/jealousy,concept/truth,character/frank_churchill,character/isabella"></span>
 
 
 “What a very great pleasure it will be to you! and Mrs. Weston is so
@@ -20826,7 +20826,7 @@ of his coming away from them to visit us.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/road,motif/snow,motif/storm,motif/time,motif/well,motif/wind,motif/winter,concept/body,concept/charity,concept/nature,character/frank_churchill,character/nurse"></span>
 
 
 CHAPTER XV
@@ -20936,7 +20936,7 @@ their having so many friends about them, revived him a little.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/love,motif/night,motif/road,motif/snow,motif/well,concept/hope,concept/imagination,character/isabella"></span>
 
 
 His eldest daughter’s alarm was equal to his own. The horror of being
@@ -21044,7 +21044,7 @@ replied,
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Emma — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Emma — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/well,concept/body,concept/despair,concept/doubt,concept/honour,concept/wonder"></span>
 
 
 “I am very much astonished, Mr. Elton. This to _me_! you forget
@@ -21169,7 +21169,7 @@ reflection.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Emma — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Emma — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/frost,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/rose,motif/snow,motif/time,motif/well,concept/body,concept/hope,concept/nature,concept/self,concept/suffering,concept/truth,concept/wonder,character/sunday"></span>
 
 
 CHAPTER XVI
@@ -21361,7 +21361,7 @@ as made it impossible for [[Emma]] to be ever perfectly at ease.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Emma — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Emma — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/journey,motif/love,motif/tears,motif/time,motif/well,concept/body,concept/charity,concept/doubt,concept/hope,concept/imagination,concept/truth,character/isabella"></span>
 
 
 CHAPTER XVII
@@ -21490,7 +21490,7 @@ cure, there could be no true peace for herself.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,concept/body,concept/doubt,concept/friendship,concept/hope,concept/self,concept/temptation,character/frank_churchill"></span>
 
 
 CHAPTER XVIII
@@ -21613,7 +21613,7 @@ loud as he could!—How can you imagine such conduct practicable?”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/home,motif/love,motif/time,motif/well,concept/body,concept/doubt,character/frank_churchill"></span>
 
 
 “Depend upon it, [[Emma]], a sensible man would find no difficulty in it.
@@ -21758,7 +21758,7 @@ merit of another.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Emma — Chapter 1 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Emma — Chapter 1 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/time,motif/well,motif/winter,concept/body,concept/honour,concept/hope,character/jane_fairfax,character/miss_bates"></span>
 
 
 VOLUME II
@@ -21871,7 +21871,7 @@ too!—I only wish my eyes may last me as [[Well|well]].’”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Emma — Chapter 1 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Emma — Chapter 1 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/friendship,concept/history,concept/longing,form/history,character/jane_fairfax,character/miss_bates"></span>
 
 
 All this spoken extremely fast obliged [[Miss Bates]] to stop for breath;
@@ -21981,7 +21981,7 @@ had the [[history]] of that day, I have been so fond of Mr. Dixon!”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Emma — Chapter 1 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Emma — Chapter 1 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/beauty,concept/doubt,concept/fear,character/jane_fairfax,character/nurse"></span>
 
 
 “But, in spite of all her friends’ urgency, and her own wish of seeing
@@ -22057,7 +22057,7 @@ against her will, though she had in fact heard the whole substance of
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Emma — Chapter 2 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Emma — Chapter 2 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/home,motif/marriage,motif/nature,motif/time,motif/well,concept/beauty,concept/body,concept/education,concept/friendship,concept/history,concept/hope,concept/melancholy,concept/nature,concept/temptation,form/history,setting/london,character/jane_fairfax"></span>
 
 
 CHAPTER II
@@ -22168,7 +22168,7 @@ discharged with tolerable comfort.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Emma — Chapter 2 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Emma — Chapter 2 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/double,motif/home,motif/love,motif/poison,motif/rose,motif/time,motif/well,concept/beauty,concept/body,concept/conscience,concept/friendship,concept/greatness,concept/history,concept/honour,concept/imagination,concept/self,concept/truth,form/history,setting/london,character/frank_churchill,character/jane_fairfax"></span>
 
 
 With regard to her not accompanying them to Ireland, her account to her
@@ -22298,7 +22298,7 @@ manners pleasing.” [[Emma]] could not forgive her.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Emma — Chapter 3 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Emma — Chapter 3 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/time,motif/well,concept/body,concept/hope,character/miss_bates"></span>
 
 
 CHAPTER III
@@ -22429,7 +22429,7 @@ had passed between them.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Emma — Chapter 3 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Emma — Chapter 3 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/body,concept/hope,concept/nature,concept/wonder,character/miss_bates"></span>
 
 
 “But where could _you_ hear it?” cried [[Miss Bates]]. “Where could you
@@ -22551,7 +22551,7 @@ not very talkative.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Emma — Chapter 3 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Emma — Chapter 3 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/death,motif/home,motif/time,motif/well,concept/body,concept/courage,concept/hope,character/miss_bates"></span>
 
 
 “Quite wrong, my dear aunt; there is no likeness at all.”
@@ -22659,7 +22659,7 @@ talk to me and make me comfortable again.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Emma — Chapter 3 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Emma — Chapter 3 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/well,concept/ambition,concept/courage,concept/wonder"></span>
 
 
 Very sincerely did [[Emma]] wish to do so; but it was not immediately in
@@ -22713,7 +22713,7 @@ any necessity, or even any power of speech.
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="Emma — Chapter 4" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="Emma — Chapter 4" data-chapter="Chapter 22" data-kind="chapter" data-tags="archetype/shadow,motif/blood,motif/home,motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/doubt,concept/history,concept/hope,concept/nature,concept/self,concept/truth,concept/vanity,concept/wonder,form/history,character/robert_martin"></span>
 
 
 CHAPTER IV
@@ -22879,7 +22879,7 @@ glossed over—it must be done, or what would become of Harriet?
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Emma — Chapter 5 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Emma — Chapter 5 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/autumn,motif/home,motif/journey,motif/pain,motif/stars,motif/time,motif/well,motif/window,concept/history,form/history,setting/oxford"></span>
 
 
 CHAPTER V
@@ -22995,7 +22995,7 @@ speaking a very different conviction.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Emma — Chapter 5 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Emma — Chapter 5 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/journey,motif/marriage,motif/spring,motif/time,motif/well,concept/beauty,concept/body,setting/oxford,character/frank_churchill"></span>
 
 
 [[Emma]] could look perfectly unconscious and [[Innocent|innocent]], and answer in a
@@ -23113,7 +23113,7 @@ her person.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Emma — Chapter 5 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Emma — Chapter 5 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/cross,motif/crown,motif/journey,motif/marriage,motif/night,motif/road,motif/rose,motif/water,motif/well,motif/window,concept/body,concept/doubt,concept/honour,concept/hope,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 “Elegant, agreeable manners, I was prepared for,” said he; “but I
@@ -23237,7 +23237,7 @@ with full confidence in their comfort.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/quest,motif/crown,motif/death,motif/home,motif/road,motif/time,motif/winter,concept/body,concept/doubt,concept/history,concept/pride,form/history,character/frank_churchill"></span>
 
 
 CHAPTER VI
@@ -23349,7 +23349,7 @@ hour. The good lady had not given me the possibility of escape before.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/leaves,motif/love,motif/marriage,motif/well,concept/beauty,concept/body,concept/freedom,concept/truth,character/frank_churchill"></span>
 
 
 “And how did you think Miss Fairfax looking?”
@@ -23481,7 +23481,7 @@ Mrs. Dixon! [[Well]], I am glad she is gone to settle in Ireland.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Emma — Chapter 6 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Emma — Chapter 6 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/well,concept/body,concept/doubt,concept/friendship"></span>
 
 
 “You are right. It was not very flattering to Miss Campbell; but she
@@ -23562,7 +23562,7 @@ be allowed an early establishment.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/time,motif/well,concept/body,concept/honour,concept/hope,concept/imagination,concept/vanity,setting/london,character/frank_churchill"></span>
 
 
 CHAPTER VII
@@ -23679,7 +23679,7 @@ omission to be intended as a compliment, was but poor comfort.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/home,motif/love,motif/pain,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/honour,setting/london"></span>
 
 
 It was the arrival of this very invitation while the Westons were at
@@ -23794,7 +23794,7 @@ thing were safe in the [[house]], as usual.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/love,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/self,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 CHAPTER VIII
@@ -23910,7 +23910,7 @@ Colonel Campbell.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/silence,motif/summer,motif/water,motif/well,concept/body,concept/doubt,concept/nature,concept/wonder,setting/london,character/frank_churchill,character/jane_fairfax"></span>
 
 
 “One can suppose nothing else,” added Mrs. Cole, “and I was only
@@ -24043,7 +24043,7 @@ said,
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/silence,motif/tears,concept/body,concept/friendship,concept/guilt,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 “The arrival of this pianoforte is decisive with me. I wanted to know a
@@ -24159,7 +24159,7 @@ said, he was beginning to have no longer the same wish.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Emma — Chapter 8 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Emma — Chapter 8 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/longing,concept/nature,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 The unpersuadable point, which he did not mention, [[Emma]] guessed to be
@@ -24290,7 +24290,7 @@ have him do so mad a thing.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_05" data-title="Emma — Chapter 8 (part 5)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_05" data-title="Emma — Chapter 8 (part 5)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,concept/conscience,concept/honour,character/frank_churchill,character/isabella,character/jane_fairfax,character/miss_bates"></span>
 
 
 “Imprudent, if you please—but not mad. Excepting inequality of fortune,
@@ -24404,7 +24404,7 @@ marry. Little Henry must remain the heir of Donwell.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_06" data-title="Emma — Chapter 8 (part 6)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_06" data-title="Emma — Chapter 8 (part 6)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/time,motif/well,concept/mercy,character/frank_churchill,character/jane_fairfax,character/miss_bates,character/touchstone"></span>
 
 
 Presently Mr. Knightley looked back, and came and sat down by her. They
@@ -24496,7 +24496,7 @@ would not have agreed with me, after yours.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/memory,motif/night,motif/road,motif/summer,motif/well,motif/window,concept/body,concept/doubt,concept/hope,concept/truth,character/frank_churchill,character/jane_fairfax"></span>
 
 
 CHAPTER IX
@@ -24632,7 +24632,7 @@ Mrs. Weston was disappointed.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/death,motif/home,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/truth,character/frank_churchill,character/miss_bates"></span>
 
 
 “Me! I should be quite in the way. But, perhaps—I may be equally in the
@@ -24750,7 +24750,7 @@ excellent apple-dumpling. [[Well]], Mrs. Weston, you have prevailed, I
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Emma — Chapter 9 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Emma — Chapter 9 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/spring,motif/well,concept/doubt,character/frank_churchill,character/miss_bates"></span>
 
 
 [[Emma]] would be “very happy to wait on Mrs. Bates, &c.,” and they did at
@@ -24839,7 +24839,7 @@ Woodhouse, I am quite concerned, I am sure you hit your foot. Miss
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Emma — Chapter 10" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Emma — Chapter 10" data-chapter="Chapter 28" data-kind="chapter" data-tags="motif/crown,motif/dance,motif/fire,motif/home,motif/horse,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/mercy,concept/wonder,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 CHAPTER X
@@ -25083,7 +25083,7 @@ gates, before they set off for Randalls.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/dance,motif/nature,motif/well,concept/body,concept/hope,concept/nature,concept/self,concept/vanity,character/frank_churchill,character/jane_fairfax"></span>
 
 
 CHAPTER XI
@@ -25210,7 +25210,7 @@ acquaintance, he was quite amiable enough.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/crown,motif/dance,motif/nature,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/honour,concept/hope,concept/nature,character/frank_churchill,character/isabella"></span>
 
 
 Before the middle of the next day, he was at Hartfield; and he entered
@@ -25329,7 +25329,7 @@ satisfactorily without you.”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Emma — Chapter 11 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Emma — Chapter 11 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/hero,motif/crown,motif/dance,motif/time,motif/well,concept/body,concept/wonder,character/miss_bates"></span>
 
 
 [[Emma]] was most happy to be called to such a council; and her father,
@@ -25449,7 +25449,7 @@ her, my dear. That’s right. I knew he would!”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/love,motif/pain,motif/spring,motif/time,motif/well,concept/body,concept/hope,concept/suffering,character/frank_churchill,character/jane_fairfax"></span>
 
 
 CHAPTER XII
@@ -25571,7 +25571,7 @@ on it. Do not forget your engagement.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/love,motif/rose,motif/time,motif/well,motif/window,concept/charity,concept/doubt,concept/hope,concept/suffering,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 [[Emma]] looked graciously.
@@ -25697,7 +25697,7 @@ ill-health.
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="Emma — Chapter 13" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="Emma — Chapter 13" data-chapter="Chapter 31" data-kind="chapter" data-tags="motif/journey,motif/love,motif/pain,motif/spring,motif/time,motif/well,concept/body,concept/doubt,concept/friendship,concept/hope,concept/imagination,concept/self,character/frank_churchill,character/isabella,character/jane_fairfax"></span>
 
 
 CHAPTER XIII
@@ -25887,7 +25887,7 @@ mention no names; but happy the man who changes [[Emma]] for Harriet!”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Emma — Chapter 14 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Emma — Chapter 14 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,concept/beauty,concept/body,concept/pride"></span>
 
 
 CHAPTER XIV
@@ -26015,7 +26015,7 @@ of matrimony.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Emma — Chapter 14 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Emma — Chapter 14 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/garden,motif/home,motif/spring,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/truth"></span>
 
 
 [[Emma]] made as slight a reply as she could; but it was fully sufficient
@@ -26127,7 +26127,7 @@ long known that you are a superior performer.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Emma — Chapter 14 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Emma — Chapter 14 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,concept/vanity,character/frank_churchill"></span>
 
 
 “Oh! no, indeed; I must protest against any such idea. A superior
@@ -26297,7 +26297,7 @@ did they occupy her.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/time,motif/well,concept/beauty,concept/doubt,concept/self,setting/desert,character/jane_fairfax,character/miss_bates"></span>
 
 
 CHAPTER XV
@@ -26420,7 +26420,7 @@ seat for her in the barouche-landau in some of our exploring parties.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/home,motif/silence,concept/body,concept/fear,concept/friendship,concept/honour,concept/pride,concept/vanity,concept/wonder,form/riddle,character/emma_woodhouse,character/jane_fairfax,character/miss_bates"></span>
 
 
 “Poor [[Jane Fairfax]]!”—thought [[Emma]].—“You have not deserved this. You may
@@ -26536,7 +26536,7 @@ other.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Emma — Chapter 15 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Emma — Chapter 15 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/love,motif/well,concept/body,concept/faith,concept/self,concept/temptation,concept/wonder,character/jane_fairfax,character/miss_bates"></span>
 
 
 Mr. Knightley was hard at work upon the lower buttons of his thick
@@ -26621,7 +26621,7 @@ were to end in his being so at last. Do not beat me.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Emma — Chapter 16 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Emma — Chapter 16 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/marriage,motif/silence,motif/spring,motif/window,concept/body,concept/conscience,character/bottom,character/isabella,character/jane_fairfax"></span>
 
 
 CHAPTER XVI
@@ -26729,7 +26729,7 @@ was natural to have some civil hopes on the subject, and he said,
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Emma — Chapter 16 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Emma — Chapter 16 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/home,motif/spring,motif/time,motif/well,concept/body,concept/friendship,concept/honour,concept/hope"></span>
 
 
 “I [[Hope|hope]] you did not venture far, Miss Fairfax, this morning, or I am
@@ -26855,7 +26855,7 @@ scarcely ever had a bad morning before.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Emma — Chapter 16 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Emma — Chapter 16 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/time,motif/well,concept/beauty,concept/wonder,character/frank_churchill,character/isabella,character/jane_fairfax"></span>
 
 
 “My dear Jane, say no more about it. The thing is determined, that is
@@ -26972,7 +26972,7 @@ to the [[Beauty|beauty]] and grace of each.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Emma — Chapter 17 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Emma — Chapter 17 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/friendship,concept/guilt,concept/honour,character/jane_fairfax"></span>
 
 
 CHAPTER XVII
@@ -27096,7 +27096,7 @@ watch also, that nothing really unexceptionable may pass us.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Emma — Chapter 17 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Emma — Chapter 17 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/time,motif/well,concept/body,concept/doubt,concept/vanity,setting/london"></span>
 
 
 In this style she ran on; never thoroughly stopped by any thing till
@@ -27201,7 +27201,7 @@ subject with her.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/journey,motif/road,motif/sleep,motif/time,motif/well,motif/winter,concept/body,concept/faith,concept/hope,concept/wonder,setting/london,character/frank_churchill"></span>
 
 
 CHAPTER XVIII
@@ -27331,7 +27331,7 @@ been full of very little else than Mrs. Elton.”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/spring,motif/time,motif/well,concept/despair,concept/doubt,concept/hope,concept/pride,setting/london,character/frank_churchill"></span>
 
 
 He had done his duty and could return to his son.
@@ -27440,7 +27440,7 @@ spirits which would have made her prefer being silent.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Emma — Chapter 18 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Emma — Chapter 18 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/time,motif/well,concept/doubt,concept/hope,character/isabella"></span>
 
 
 Mr. John Knightley proved more talkative than his brother. He was to
@@ -27513,7 +27513,7 @@ difficulty, upon Mrs. Elton’s beginning to talk to him.
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="Emma — Chapter 1" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="Emma — Chapter 1" data-chapter="Chapter 37" data-kind="chapter" data-tags="motif/crown,motif/love,motif/nature,motif/spring,motif/time,motif/well,concept/doubt,concept/nature,concept/suffering,concept/vanity,setting/london,character/frank_churchill"></span>
 
 
 VOLUME III
@@ -27641,7 +27641,7 @@ any thing the matter with them, while dear [[Emma]] were gone.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Emma — Chapter 2 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Emma — Chapter 2 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/fire,motif/time,concept/body,concept/doubt,concept/friendship,concept/self,concept/vanity,character/frank_churchill,character/miss_bates"></span>
 
 
 CHAPTER II
@@ -27761,7 +27761,7 @@ opened she was heard,
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Emma — Chapter 2 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Emma — Chapter 2 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/time,motif/well,concept/body,concept/doubt,concept/honour,concept/hope,concept/nature,concept/truth,setting/london,character/arthur,character/frank_churchill,character/richard"></span>
 
 
 “So very obliging of you!—No rain at all. Nothing to signify. I do not
@@ -27868,7 +27868,7 @@ heard the sad [[Truth|truth]] with fortitude.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Emma — Chapter 2 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Emma — Chapter 2 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/love,motif/time,concept/body,concept/vanity,concept/wonder,character/bottom,character/frank_churchill"></span>
 
 
 “And what are we to do for a proper partner for her?” said Mr. Weston.
@@ -27972,7 +27972,7 @@ face might be as hot.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Emma — Chapter 2 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Emma — Chapter 2 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/love,motif/well,concept/body,concept/fear,character/harriet_smith,character/miss_bates,character/queen"></span>
 
 
 In another moment a happier sight caught her;—Mr. Knightley leading
@@ -28108,7 +28108,7 @@ not really so much brother and sister as to make it at all improper.”
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="Emma — Chapter 3" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="Emma — Chapter 3" data-chapter="Chapter 39" data-kind="chapter" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/memory,motif/night,motif/road,motif/summer,motif/well,concept/fear,concept/history,concept/imagination,form/history,character/frank_churchill,character/miss_bates"></span>
 
 
 CHAPTER III
@@ -28275,7 +28275,7 @@ slightest particular from the original recital.
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="Emma — Chapter 4" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="Emma — Chapter 4" data-chapter="Chapter 40" data-kind="chapter" data-tags="motif/fire,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/madness,concept/nature,concept/truth,concept/wonder,setting/court,character/frank_churchill,character/speed"></span>
 
 
 CHAPTER IV
@@ -28505,7 +28505,7 @@ be saving her from the danger of degradation.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Emma — Chapter 5 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Emma — Chapter 5 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="topos/double,motif/dreams,motif/fire,motif/home,motif/horse,motif/silence,motif/soul,motif/spring,motif/time,motif/well,concept/body,concept/doubt,concept/imagination,concept/truth,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 CHAPTER V
@@ -28643,7 +28643,7 @@ remember Mrs. Perry’s coming.—Extraordinary dream, indeed!”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Emma — Chapter 5 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Emma — Chapter 5 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/love,motif/night,motif/summer,motif/time,motif/winter,concept/body,concept/melancholy,character/frank_churchill,character/jane_fairfax"></span>
 
 
 They were entering the hall. Mr. Knightley’s eyes had preceded Miss
@@ -28753,7 +28753,7 @@ his duty.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Emma — Chapter 5 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Emma — Chapter 5 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/time,concept/doubt,concept/imagination,concept/nature,concept/solitude,form/essay,character/frank_churchill"></span>
 
 
 “Pray, [[Emma]],” said he, “may I ask in what lay the great amusement, the
@@ -28825,7 +28825,7 @@ leave, and walked [[Home|home]] to the coolness and [[Solitude|solitude]] of Don
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Emma — Chapter 6 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/hill,motif/horse,motif/lamb,motif/pain,motif/time,motif/well,concept/body,concept/hope,concept/melancholy,character/jane_fairfax"></span>
 
 
 CHAPTER VI
@@ -28947,7 +28947,7 @@ the Hartfield family. Don’t scruple. I know you are attached to them.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Emma — Chapter 6 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dust,motif/fire,motif/garden,motif/hill,motif/home,motif/horse,motif/memory,motif/nature,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/body,concept/faith,concept/nature,concept/pride,concept/self,setting/london,character/isabella,character/miss_bates"></span>
 
 
 “You certainly will meet them if I can prevail; and I shall call on
@@ -29094,7 +29094,7 @@ longer—must go and sit in the shade.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Emma — Chapter 6 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Emma — Chapter 6 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/garden,motif/horse,motif/river,motif/rose,motif/time,motif/well,concept/beauty,concept/doubt,character/bottom,character/frank_churchill,character/jane_fairfax,character/robert_martin"></span>
 
 
 Such, for half an hour, was the conversation—interrupted only once by
@@ -29207,7 +29207,7 @@ was the very person she was in [[Quest|quest]] of.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_04" data-title="Emma — Chapter 6 (part 4)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_04" data-title="Emma — Chapter 6 (part 4)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/hill,motif/home,motif/love,motif/time,motif/water,motif/well,concept/body,concept/endurance,concept/madness,setting/venice,character/frank_churchill"></span>
 
 
 “Will you be so kind,” said she, “when I am missed, as to say that I am
@@ -29370,7 +29370,7 @@ Richmond was to take him back before the following evening.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Emma — Chapter 7 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/hill,motif/time,motif/well,concept/body,concept/friendship,concept/self,concept/union,concept/wonder,character/frank_churchill,character/miss_bates"></span>
 
 
 CHAPTER VII
@@ -29497,7 +29497,7 @@ circle—exploring parties—young ladies—married women—”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Emma — Chapter 7 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/pain,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/mercy,character/frank_churchill,character/miss_bates"></span>
 
 
 Her mutterings were chiefly to her husband; and he murmured, in reply,
@@ -29624,7 +29624,7 @@ afterwards said, in a lively tone,
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Emma — Chapter 7 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Emma — Chapter 7 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/rose,motif/tears,motif/time,motif/well,concept/body,concept/education,concept/honour,concept/hope,concept/pride,concept/truth,character/miss_bates,character/speed"></span>
 
 
 “[[Well]], I have so little confidence in my own judgment, that whenever I
@@ -29749,7 +29749,7 @@ to check them, extraordinary as they were.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Emma — Chapter 8 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/fear,concept/hope,concept/wonder,character/miss_bates"></span>
 
 
 CHAPTER VIII
@@ -29864,7 +29864,7 @@ delayed till Colonel Campbell’s return.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Emma — Chapter 8 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/time,motif/well,concept/body,concept/hope,character/frank_churchill,character/miss_bates"></span>
 
 
 “So very kind!” replied [[Miss Bates]]. “But you are always kind.”
@@ -29987,7 +29987,7 @@ spoke to Mrs. Elton.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Emma — Chapter 8 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/home,motif/horse,motif/time,character/frank_churchill,character/jane_fairfax,character/miss_bates"></span>
 
 
 [[Miss Bates]] would hardly give [[Emma]] [[Time|time]] to say how perfectly new this
@@ -30033,7 +30033,7 @@ say of the good wishes which she really felt, took leave.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Emma — Chapter 9 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/nature,motif/pain,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/nature,concept/suffering,concept/truth,setting/london,character/harriet_smith,character/isabella,character/jane_fairfax,character/miss_bates"></span>
 
 
 CHAPTER IX
@@ -30162,7 +30162,7 @@ cause, [[Emma]] could feel no certainty of its being already formed.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Emma — Chapter 9 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/death,motif/home,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/self,concept/suffering,concept/truth,character/jane_fairfax,character/miss_bates"></span>
 
 
 Harriet behaved extremely [[Well|well]] on the occasion, with great
@@ -30279,7 +30279,7 @@ thing to reprove.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Emma — Chapter 10 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Emma — Chapter 10 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/body,concept/courage,concept/honour,concept/hope,concept/nature,character/frank_churchill,character/jane_fairfax"></span>
 
 
 CHAPTER X
@@ -30421,7 +30421,7 @@ engaged;—nay, that they have been long engaged!”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Emma — Chapter 10 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Emma — Chapter 10 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/love,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/faith,concept/hope,concept/truth,concept/wonder"></span>
 
 
 “You may [[Well|well]] be amazed,” returned Mrs. Weston, still averting her
@@ -30543,7 +30543,7 @@ concealment.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Emma — Chapter 10 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Emma — Chapter 10 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/night,motif/spring,motif/time,motif/well,motif/window,motif/winter,concept/honour,concept/hope,concept/truth"></span>
 
 
 “_His_ sufferings,” replied [[Emma]] dryly, “do not appear to have done him
@@ -30650,7 +30650,7 @@ thing that Frank could possibly have done.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Emma — Chapter 11 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/desert,motif/love,motif/poison,motif/time,motif/well,concept/body,concept/doubt,concept/imagination,concept/jealousy,concept/self,concept/truth,setting/desert,character/frank_churchill,character/harriet_smith,character/jane_fairfax"></span>
 
 
 CHAPTER XI
@@ -30760,7 +30760,7 @@ sure that if I had, I should have cautioned you accordingly.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Emma — Chapter 11 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/memory,motif/time,motif/well,concept/body,concept/hope,concept/madness,concept/truth,concept/wonder,character/frank_churchill,character/jane_fairfax,character/speed"></span>
 
 
 “Me!” cried Harriet, colouring, and astonished. “Why should you caution
@@ -30900,7 +30900,7 @@ of Mr. Knightley and themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Emma — Chapter 11 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Emma — Chapter 11 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/home,motif/memory,motif/night,motif/pain,motif/time,motif/well,concept/history,concept/hope,concept/self,concept/suffering,form/history,setting/london"></span>
 
 
 Harriet, who had been standing in no unhappy reverie, was yet very glad
@@ -31018,7 +31018,7 @@ wretchedness.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Emma — Chapter 11 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Emma — Chapter 11 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/time,concept/body,concept/self,concept/union,concept/vanity,concept/wonder,character/frank_churchill,character/harriet_smith,character/jane_fairfax"></span>
 
 
 To understand, thoroughly understand her own heart, was the first
@@ -31097,7 +31097,7 @@ Harriet, from being humble, were grown vain, it was her doing too.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Emma — Chapter 12 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/silence,motif/time,concept/body,concept/doubt,concept/friendship,concept/hope,concept/suffering,character/harriet_smith,character/isabella,character/miss_bates"></span>
 
 
 CHAPTER XII
@@ -31221,7 +31221,7 @@ subject.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Emma — Chapter 12 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/hill,motif/love,motif/pain,motif/well,concept/conscience,concept/doubt,concept/education,concept/hope,concept/suffering,character/frank_churchill,character/harriet_smith,character/jane_fairfax"></span>
 
 
 “On the misery of what she had suffered, during the concealment of so
@@ -31334,7 +31334,7 @@ more.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Emma — Chapter 12 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Emma — Chapter 12 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/time,motif/wind,motif/winter,concept/hope,concept/melancholy,character/frank_churchill"></span>
 
 
 The evening of this day was very long, and [[Melancholy|melancholy]], at Hartfield.
@@ -31391,7 +31391,7 @@ leave her less to regret when it were gone.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Emma — Chapter 13 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Emma — Chapter 13 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/silence,motif/storm,motif/summer,motif/time,motif/well,motif/wind,concept/friendship,concept/hope,concept/loneliness,concept/melancholy,concept/nature,setting/london,character/frank_churchill"></span>
 
 
 CHAPTER XIII
@@ -31512,7 +31512,7 @@ in his opinion. She went on, however.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Emma — Chapter 13 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Emma — Chapter 13 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/home,motif/love,motif/pain,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/temptation,concept/vanity,character/frank_churchill,character/jane_fairfax"></span>
 
 
 “I have very little to say for my own conduct.—I was tempted by his
@@ -31631,7 +31631,7 @@ say nothing.—“You are silent,” he cried, with great animation;
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Emma — Chapter 13 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Emma — Chapter 13 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/lover,archetype/villain,motif/hill,motif/home,motif/love,motif/pain,motif/silence,motif/time,motif/well,concept/despair,concept/heroism,concept/history,concept/hope,concept/jealousy,concept/truth,form/history,character/frank_churchill,character/isabella,character/jane_fairfax"></span>
 
 
 [[Emma]] was almost ready to sink under the agitation of this moment. The
@@ -31745,7 +31745,7 @@ fellow.
 
 
 
-<span class="atom-split" data-atom="chapter_50" data-title="Emma — Chapter 14" data-chapter="Chapter 50" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_50" data-title="Emma — Chapter 14" data-chapter="Chapter 50" data-kind="chapter" data-tags="archetype/child,archetype/fool,motif/death,motif/hill,motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/rose,motif/silence,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/charity,concept/courage,concept/doubt,concept/faith,concept/friendship,concept/history,concept/honour,concept/hope,concept/imagination,concept/nature,concept/pride,concept/self,concept/suffering,concept/temptation,concept/truth,form/history,setting/london,character/emma_woodhouse,character/frank_churchill,character/isabella"></span>
 
 
 CHAPTER XIV
@@ -32071,7 +32071,7 @@ F. C. WESTON CHURCHILL.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Emma — Chapter 15 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/love,motif/night,motif/pain,motif/time,motif/well,concept/beauty,concept/fear,concept/suffering,concept/temptation,concept/truth,character/frank_churchill,character/jane_fairfax"></span>
 
 
 CHAPTER XV
@@ -32197,7 +32197,7 @@ of giving [[Pain|pain]]—no remembrance of Box [[Hill]] seemed to exist.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Emma — Chapter 15 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/melancholy,concept/reconciliation,concept/wonder,character/jane_fairfax"></span>
 
 
 “There is no saying much for the delicacy of our good friends, the
@@ -32331,7 +32331,7 @@ could be in [[Love|love]] with more than _three_ men in one year.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Emma — Chapter 16 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Emma — Chapter 16 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/home,motif/time,motif/well,concept/body,concept/fear,concept/guilt,concept/hope,concept/longing,setting/london,character/isabella,character/miss_bates"></span>
 
 
 CHAPTER XVI
@@ -32445,7 +32445,7 @@ remember those lines—I forget the poem at this moment:
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Emma — Chapter 16 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Emma — Chapter 16 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/night,motif/time,motif/well,concept/doubt,concept/truth,character/miss_bates"></span>
 
 
 “For when a lady’s in the case,
@@ -32571,7 +32571,7 @@ evident, though it could not often proceed beyond a look.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Emma — Chapter 16 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Emma — Chapter 16 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/love,motif/time,motif/well,concept/body,concept/hope,concept/suffering"></span>
 
 
 Mr. Elton made his appearance. His lady greeted him with some of her
@@ -32698,7 +32698,7 @@ open!—Good-bye, good-bye.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Emma — Chapter 17 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Emma — Chapter 17 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/nature,motif/pain,motif/time,motif/well,concept/doubt,concept/friendship,concept/nature,concept/wonder,character/harriet_smith,character/isabella"></span>
 
 
 CHAPTER XVII
@@ -32816,7 +32816,7 @@ his answer, if you like to see it.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Emma — Chapter 17 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Emma — Chapter 17 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/body,concept/honour,concept/hope,concept/melancholy,character/isabella"></span>
 
 
 It was the answer to the communication of his intended [[Marriage|marriage]]. [[Emma]]
@@ -32934,7 +32934,7 @@ bad if the [[Marriage|marriage]] did take place.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Emma — Chapter 17 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Emma — Chapter 17 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/time,motif/water,motif/well,concept/body,concept/pride,concept/union,concept/wonder,character/miss_bates"></span>
 
 
 Mrs. Weston was acting no part, feigning no feelings in all that she
@@ -33016,7 +33016,7 @@ quarter.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Emma — Chapter 18 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/silence,motif/time,motif/well,concept/doubt,concept/history,concept/hope,form/history,setting/london,character/harriet_smith,character/robert_martin"></span>
 
 
 CHAPTER XVIII
@@ -33144,7 +33144,7 @@ determined against him, much more, than she was before.”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Emma — Chapter 18 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/humility,concept/wonder,character/robert_martin"></span>
 
 
 “You ought to know your friend best,” replied Mr. Knightley; “but I
@@ -33263,7 +33263,7 @@ the day with us.—They are coming in, I [[Hope|hope]].”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Emma — Chapter 18 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Emma — Chapter 18 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/friendship,concept/history,concept/hope,concept/reconciliation,concept/truth,form/history,setting/court,setting/london,character/frank_churchill"></span>
 
 
 In half a minute they were in the room. [[Emma]] was extremely glad to see
@@ -33439,7 +33439,7 @@ animated contemplation of his worth which this comparison produced.
 
 
 
-<span class="atom-split" data-atom="chapter_55" data-title="Emma — Chapter 19" data-chapter="Chapter 55" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_55" data-title="Emma — Chapter 19" data-chapter="Chapter 55" data-kind="chapter" data-tags="motif/blood,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/time,concept/courage,concept/doubt,concept/fear,concept/friendship,concept/hope,concept/nature,concept/resignation,concept/self,concept/suffering,concept/temptation,concept/union,setting/london,character/harriet_smith,character/isabella,character/jane_fairfax,character/robert_martin"></span>
 
 
 CHAPTER XIX

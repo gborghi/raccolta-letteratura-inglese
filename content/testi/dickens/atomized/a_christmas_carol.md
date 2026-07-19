@@ -3860,7 +3860,7 @@ observed, God bless Us, Every One!
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_01" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 1)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/frost,motif/nature,motif/night,motif/snow,motif/time,motif/wind,concept/doubt,concept/imagination,concept/nature,concept/self,setting/court,character/hamlet"></span>
 
 
 STAVE I:  MARLEY'S [[Ghost|GHOST]]
@@ -4000,7 +4000,7 @@ eyes sparkled, and his breath smoked again.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 2)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_02" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 2)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/grave,motif/love,motif/night,motif/time,motif/well,concept/body,concept/doubt,concept/union,concept/wonder"></span>
 
 
 "Christmas a humbug, uncle!" said Scrooge's
@@ -4188,7 +4188,7 @@ for?"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 3)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_03" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 3)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/crown,motif/fire,motif/frost,motif/home,motif/night,motif/water,motif/window,concept/honour,concept/melancholy,concept/solitude,setting/court,setting/london,character/lord_mayor"></span>
 
 
 "Nothing!" Scrooge replied.
@@ -4347,7 +4347,7 @@ process of change--not a knocker, but Marley's face.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_04" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 4)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/prophet,motif/blood,motif/chains,motif/desire,motif/fire,motif/ghosts,motif/night,motif/well,concept/body"></span>
 
 
 Marley's face. It was not in impenetrable [[Shadow|shadow]]
@@ -4496,7 +4496,7 @@ the two buttons on his coat behind.
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 5)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_05" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 5)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/grave,motif/silence,motif/swallow,motif/time,motif/well,concept/doubt,concept/humility,concept/mercy,concept/truth,form/fragment,character/ebenezer_scrooge,character/jacob_marley,character/phantom"></span>
 
 
 Scrooge had often heard it said that Marley had no
@@ -4676,7 +4676,7 @@ all the [[Time|time]]!"
 
 
 
-<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_marley_s_ghost_ghost--part_06" data-title="A Christmas Carol — Stave 1: MARLEY'S [[Ghost|GHOST (part 6)" data-chapter="MARLEY S Ghost GHOST" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/chains,motif/home,motif/night,motif/silence,motif/supernatural,motif/time,motif/water,motif/wind,motif/window,concept/charity,concept/eternity,concept/fear,concept/hope,concept/mercy,concept/self,form/dirge,character/phantom"></span>
 
 
 "The whole [[Time|time]]," said the [[Ghost]]. "No rest, no
@@ -4841,7 +4841,7 @@ instant.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_01" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_01" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 1)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/clock,motif/crown,motif/desire,motif/flowers,motif/frost,motif/night,motif/noon,motif/sleep,motif/spring,motif/summer,motif/supernatural,motif/time,motif/window,concept/body,concept/melancholy,concept/wonder,character/ebenezer_scrooge,character/ghost_of_christmas_past"></span>
 
 
 STAVE II:  THE FIRST OF THE THREE SPIRITS
@@ -4987,7 +4987,7 @@ to see the Spirit in his cap; and begged him to be covered.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_02" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_02" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/city,motif/cross,motif/fire,motif/night,motif/river,motif/road,motif/rose,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/melancholy,concept/self"></span>
 
 
 "What!" exclaimed the [[Ghost]], "would you so soon put out,
@@ -5132,7 +5132,7 @@ leading by the bridle an ass laden with wood.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_03" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_03" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 3)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/city,motif/frost,motif/garden,motif/home,motif/leaves,motif/nature,motif/night,motif/snow,motif/time,motif/well,concept/body,concept/nature,concept/self,character/valentine"></span>
 
 
 "Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
@@ -5270,7 +5270,7 @@ lighted up.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_04" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_04" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/dance,motif/desire,motif/fire,motif/home,motif/night,motif/soul,motif/time,motif/well,motif/winter,concept/self,character/bottom"></span>
 
 
 The [[Ghost]] stopped at a certain warehouse door, and asked
@@ -5407,7 +5407,7 @@ head burnt very clear.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_05" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_05" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 5)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/fire,motif/home,motif/love,motif/memory,motif/nature,motif/pain,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/fear,concept/hope,concept/nature,concept/poverty,concept/self,concept/truth"></span>
 
 
 "A small matter," said the [[Ghost]], "to make these silly
@@ -5590,7 +5590,7 @@ value.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_06" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_first_of_the_three_spirits--part_06" data-title="A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 6)" data-chapter="THE FIRST OF THE THREE SPIRITS" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/home,motif/sleep,motif/spring,motif/time,motif/window,motif/winter,concept/wonder"></span>
 
 
 But now a knocking at the door was heard, and such a
@@ -5676,7 +5676,7 @@ into a heavy [[Sleep|sleep]].
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_01" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_01" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 1)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/ghosts,motif/leaves,motif/night,motif/road,motif/rose,motif/snow,motif/time,motif/winter,concept/doubt,concept/wonder,character/ghost_of_christmas_present,character/jacob_marley,character/phantom"></span>
 
 
 STAVE III:  THE SECOND OF THE THREE SPIRITS
@@ -5821,7 +5821,7 @@ into artificial little [[Snow|snow]]-storms.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_02" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_02" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/fire,motif/home,motif/leaves,motif/love,motif/snow,motif/summer,motif/time,motif/water,concept/wonder"></span>
 
 
 The [[house]] fronts looked black enough, and the windows
@@ -5942,7 +5942,7 @@ enjoyment."
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_03" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_03" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 3)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/ghost,motif/blood,motif/fire,motif/home,motif/horse,motif/nature,motif/night,motif/rose,motif/supernatural,motif/well,concept/honour,concept/nature,concept/pride,character/bob_cratchit,character/ghost_of_christmas_present,character/tiny_tim"></span>
 
 
 "I!" cried the Spirit.
@@ -6086,7 +6086,7 @@ goose, with which they soon returned in high procession.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_04" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_04" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 4)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/birds,motif/dust,motif/fire,motif/marriage,motif/well,concept/hope,concept/truth,character/bob_cratchit,character/tiny_tim"></span>
 
 
 Such a bustle ensued that you might have thought a goose
@@ -6225,7 +6225,7 @@ Nobody knows it better than you do, poor fellow!"
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_05" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_05" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 5)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/desert,motif/fire,motif/frost,motif/home,motif/night,motif/rose,motif/snow,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/doubt,setting/desert,character/bob_cratchit,character/chorus,character/tiny_tim"></span>
 
 
 "My dear," was Bob's mild answer, "Christmas Day."
@@ -6346,7 +6346,7 @@ had worn, and fiercely tried to undermine the earth.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_06" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_06" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 6)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/death,motif/fire,motif/marriage,motif/rose,motif/secrets,motif/ship,motif/storm,motif/water,motif/well,motif/wheel,motif/wind,concept/doubt,concept/faith,concept/truth,setting/ship,character/fred"></span>
 
 
 Built upon a dismal reef of sunken rocks, some league
@@ -6492,7 +6492,7 @@ that's something; and I think I shook him yesterday."
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_07" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 7)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_07" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 7)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/fire,motif/horse,motif/love,motif/nature,motif/well,concept/doubt,concept/identity,concept/nature,setting/london,character/fred,character/ghost_of_christmas_present"></span>
 
 
 It was their turn to laugh now at the notion of his shaking
@@ -6622,7 +6622,7 @@ Scrooge!"
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_08" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 8)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_second_of_the_three_spirit--part_08" data-title="A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 8)" data-chapter="THE SECOND OF THE THREE SPIRIT" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/home,motif/night,motif/time,concept/hope,concept/humility,concept/poverty,character/jacob_marley,character/phantom"></span>
 
 
 Uncle Scrooge had imperceptibly become so gay and light
@@ -6724,7 +6724,7 @@ a mist along the ground, towards him.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_01" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_01" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/city,motif/death,motif/night,motif/spring,motif/time,motif/well,concept/fear,concept/hope,concept/self,character/phantom"></span>
 
 
 STAVE IV:  THE LAST OF THE SPIRITS
@@ -6894,7 +6894,7 @@ riddles easy.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_02" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_02" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="topos/quest,motif/chains,motif/clock,motif/crown,motif/death,motif/fire,motif/night,motif/secrets,motif/time,motif/well,concept/hope,setting/mountains,character/phantom"></span>
 
 
 He looked about in that very place for his own image; but
@@ -7037,7 +7037,7 @@ off half-a-[[Crown|crown]]."
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_03" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_03" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 3)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,archetype/shadow,motif/clock,motif/death,motif/memory,motif/window,concept/body,concept/hope,character/phantom"></span>
 
 
 "And now undo my bundle, Joe," said the first woman.
@@ -7187,7 +7187,7 @@ of which he felt ashamed, and which he struggled to repress.
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_04" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_04" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/death,motif/fire,motif/home,motif/night,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/forgiveness,concept/hope,concept/truth,character/bob_cratchit,character/speed,character/sunday,character/tiny_tim"></span>
 
 
 He sat down to the dinner that had been hoarding for
@@ -7351,7 +7351,7 @@ quite delightful. It really seemed as if he had known our
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_05" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_last_of_the_spirits--part_05" data-title="A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 5)" data-chapter="THE LAST OF THE SPIRITS" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/death,motif/grave,motif/nature,motif/prayer,motif/soul,motif/time,motif/window,concept/honour,concept/hope,concept/nature,setting/court,character/ebenezer_scrooge,character/ghost_of_christmas_yet_to_come,character/phantom,character/tiny_tim"></span>
 
 
 "I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
@@ -7493,7 +7493,7 @@ It shrunk, collapsed, and dwindled down into a bedpost.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_01" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 1)" data-chapter="THE END OF IT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_01" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 1)" data-chapter="THE END OF IT" data-kind="excerpt" data-tags="archetype/ghost,motif/bells,motif/blood,motif/crown,motif/dance,motif/love,motif/night,motif/tears,motif/time,motif/window,concept/hope,concept/wonder,character/bob_cratchit,character/ghost_of_christmas_present,character/jacob_marley,character/sunday,character/tiny_tim"></span>
 
 
 STAVE V:  THE END OF IT
@@ -7662,7 +7662,7 @@ sounds he had ever heard, those were the blithest in his ears.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_02" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 2)" data-chapter="THE END OF IT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_end_of_it--part_02" data-title="A Christmas Carol — Stave 5: THE END OF IT (part 2)" data-chapter="THE END OF IT" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/home,motif/love,motif/marriage,motif/soul,motif/time,motif/well,concept/courage,concept/fear,concept/hope,concept/mercy,setting/court,character/bob_cratchit,character/fred,character/tiny_tim"></span>
 
 
 He had not gone far, when coming on towards him he

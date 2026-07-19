@@ -883,7 +883,7 @@ that was used up_.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Man That Was Used Up (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Man That Was Used Up (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/soul,motif/time,motif/well,concept/courage,concept/doubt,concept/melancholy,concept/truth,character/apollo,character/brutus"></span>
 
 
 A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
@@ -1081,7 +1081,7 @@ friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blo
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Man That Was Used Up (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Man That Was Used Up (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/hero,motif/silence,motif/spring,motif/time,concept/martyrdom,concept/truth,setting/london,character/iago,character/miranda,character/sunday"></span>
 
 
 thunder, and all that!—_prodigies_ of valor!—heard of him of
@@ -1277,7 +1277,7 @@ making my wishes understood; especially, as our box was next the
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Man That Was Used Up (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Man That Was Used Up (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/sleep,motif/soul,motif/time,motif/well,concept/courage,character/miranda"></span>
 
 
 slips, and completely overlooked the stage.
@@ -1515,7 +1515,7 @@ conscientiously, that you don’t know all about that affair of
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Man That Was Used Up (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Man That Was Used Up (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/horse,motif/machine,motif/well,concept/wonder,histref/america,setting/america,character/pompey"></span>
 
 
 he’s the ma-a-an—”

@@ -925,7 +925,7 @@ THE END.
 
 
 
-<span class="atom-split" data-atom="section_01_book_i" data-title="Hyperion — Book I" data-chapter="book i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_book_i" data-title="Hyperion — Book I" data-chapter="book i" data-kind="section" data-tags="archetype/child,archetype/king,archetype/rebel,archetype/shadow,motif/blood,motif/crown,motif/dawn,motif/death,motif/dreams,motif/fire,motif/lightning,motif/love,motif/mirror,motif/moon,motif/night,motif/noon,motif/pain,motif/prison,motif/rose,motif/seasons,motif/silence,motif/sleep,motif/stars,motif/summer,motif/tears,motif/time,motif/wheel,concept/beauty,concept/fear,concept/hope,concept/identity,concept/melancholy,concept/self,concept/solitude,concept/truth,concept/wonder,setting/cathedral,setting/court,setting/egypt,character/achilles,character/hyperion,character/nurse,character/saturn"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK I
@@ -1298,7 +1298,7 @@ And plung’d all noiseless into the deep [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="section_02_book_ii" data-title="Hyperion — Book II" data-chapter="book II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_book_ii" data-title="Hyperion — Book II" data-chapter="book II" data-kind="section" data-tags="archetype/innocent,archetype/king,archetype/rebel,archetype/shadow,motif/death,motif/fire,motif/flowers,motif/lion,motif/moon,motif/nature,motif/night,motif/pain,motif/poison,motif/silence,motif/sleep,motif/swallow,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,concept/despair,concept/fear,concept/hope,concept/imagination,concept/nature,concept/revenge,concept/self,concept/solitude,concept/truth,setting/mountains,character/apollo,character/hyperion,character/nurse,character/phoebe,character/queen,character/saturn"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK II
@@ -1703,7 +1703,7 @@ Gave from their hollow throats the name of “[[Saturn]]!”
 
 
 
-<span class="atom-split" data-atom="section_03_book_iii" data-title="Hyperion — Book III" data-chapter="book III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_book_iii" data-title="Hyperion — Book III" data-chapter="book III" data-kind="section" data-tags="motif/cave,motif/death,motif/flowers,motif/leaves,motif/moon,motif/nightingale,motif/pain,motif/rose,motif/sleep,motif/stars,motif/tears,motif/well,motif/wind,concept/melancholy,concept/wonder,character/apollo,character/hyperion"></span>
 
 
 ## [[Hyperion|HYPERION]] BOOK III

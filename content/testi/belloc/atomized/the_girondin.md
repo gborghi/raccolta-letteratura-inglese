@@ -3605,7 +3605,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Girondin — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Girondin — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER I.
@@ -3653,7 +3653,7 @@ When he had done with the debts he turned to a more serious matter, and with a c
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Girondin — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Girondin — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
 
 
 After this reply there was a short silence. Georges occupied it in watching a large pilot cutter set out down the tide for the bar under the evening light. He was amused to see the halyard block jam as they put her down stream, and he remarked to himself half aloud, so that his uncle might hear it, that from the way the people on board were handling the sails they appeared to be patriots also.
@@ -3703,7 +3703,7 @@ Madame Boutroux gave a terrified look at her husband, but he refused to meet her
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Girondin — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Girondin — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/storm,concept/family,concept/exile,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 M. Boutroux, senior, was so incensed by the speech thus addressed to his wife rather than to himself — for his tall, straight nephew had turned his back upon him to speak to his wife — that his last answer was in a tone of constrained passion.
@@ -3729,7 +3729,7 @@ He sighed gently to himself and turned to the right to reach the great and noble
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Girondin — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Girondin — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER II.
@@ -3771,7 +3771,7 @@ The plebeian was willing enough, and they went off. As they went, the sister at 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Girondin — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Girondin — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “But why?” said Boutroux innocently.
@@ -3813,7 +3813,7 @@ As he spoke the audience saw the invaders already upon the march, the treason of
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Girondin — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Girondin — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fanatic,concept/deception,concept/power_and_corruption,concept/greed_and_money,concept/hypocrisy,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 The President’s speech over, there succeeded short violent interjections rather than harangues, each raising the heat of the gathering in some degree until at last emotion was exhausted, and at a signal from the chair the evening ended.
@@ -3913,7 +3913,7 @@ Boutroux did not answer, but strode on.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Girondin — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Girondin — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
 
 
 CHAPTER III.
@@ -3957,7 +3957,7 @@ The night with all, and wine with many, had led to exaltation, when — at that 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Girondin — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Girondin — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 The interest of the mob turned from the reader of the dispatch on the box-seat of the diligence to this new adventure. Some said it was the Mayor, others mentioned the name of an unpopular squire who had stuck out for the old wages in the vineyards. Others of simpler mind said that any one travelling in such a splendid coach must necessarily be an Austrian spy.
@@ -3989,7 +3989,7 @@ He lurched away from Miltiades’ side into the shadow of a small alley, swiftly
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Girondin — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Girondin — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Georges still lay hid, and watched them. He knew his uncle’s temper; he knew also, what his uncle did not, the temper of these men; and he knew that his moment had not yet come.
@@ -4045,7 +4045,7 @@ The President was in a quandary. He had nothing further to ask, but the mob had 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Girondin — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Girondin — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “When we have received your report, Citizen Boutroux, we shall take the document (I beg you to execute it upon stamped paper) back to the Section — which I may tell you sits permanently to-night after the news from [[Paris]] — and we shall there debate upon your evidence. I think we are agreed?” said the President to the Sovereign People, some of whom made a shuffling noise with their feet, most of whom were silent, and one only of whom, the political lady, shouted a wild approbation, adding the epithet “Pig,” addressed to whatever in her mind stood for those social forces which did not meet with her approval.
@@ -4079,7 +4079,7 @@ When he reached his room he did not undress. He saw the light in his wife’s or
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Girondin — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Girondin — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER IV.
@@ -4131,7 +4131,7 @@ The swart Miltiades was stubborn and continued his pacing, crossing once more be
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Girondin — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Girondin — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/combat_strife,motif/swords_weapons,motif/blood,motif/door,concept/death,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “And I believe,” continued Georges, a little more vivaciously, “that it can be done quite easily... it would be fun to try.” He slipped down from the stone pillar to the ground.
@@ -4195,7 +4195,7 @@ The man with the pike edged nearer to the door and set his weapon forward dogged
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Girondin — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Girondin — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 “I have my orders,” said the young fellow with the pike again sullenly.
@@ -4241,7 +4241,7 @@ He — turned his head weakly. — On — the — wall above — him was — a r
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Girondin — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Girondin — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/river,motif/dawn,motif/blood,concept/exile,concept/family,concept/suffering,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “I have read a good deal about fighting,” he said to himself. “It is quite, quite different from what I had imagined from my reading.”
@@ -4311,7 +4311,7 @@ In this way did Boutroux begin his adventures.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Girondin — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Girondin — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER V.
@@ -4367,7 +4367,7 @@ Boutroux remembered his tale. “My valuables, as I told you, have been taken fr
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Girondin — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Girondin — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/the_inn_tavern,motif/masks_disguise,concept/deception,concept/secrecy_and_concealment,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 The old peasant communed with himself and risked it, and Boutroux clambered up by his side.
@@ -4443,7 +4443,7 @@ Georges, mastering the pain in his forearm, signed with his uncertain right hand
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Girondin — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Girondin — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/the_inn_tavern,concept/appearance_vs_reality,concept/secrecy_and_concealment,concept/class_conflict,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 A short, good-natured, low-browed young fellow in a rough cotton shirt, with a dirty stuff jacket tied round his neck, his arms out of the sleeves, broke into a loud laugh.
@@ -4531,7 +4531,7 @@ The groom nodded.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Girondin — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Girondin — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,concept/deception,concept/secrecy_and_concealment,concept/survival,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “He was shot, I tell you,” said the first man angrily.
@@ -4599,7 +4599,7 @@ The machinery of the transfer was perfected.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Girondin — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Girondin — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/feigned_madness,motif/storm,motif/horse,concept/deception,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER VI.
@@ -4639,7 +4639,7 @@ He had covered all but another league, in which he must have received some hundr
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Girondin — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Girondin — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/night_journey,archetype/trickster,motif/madness_feigned,motif/night,motif/road,concept/deception,concept/fear,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
 
 
 “Good God!” cried the lawyer loudly. Then he muttered to himself, “I have to deal with a madman.”
@@ -4691,7 +4691,7 @@ The wretched beasts shook and shivered though the damp night was warm; a low and
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Girondin — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Girondin — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/trickster,motif/madness_feigned,motif/dawn,motif/horse,concept/deception,concept/class_conflict,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
 
 
 “It is here,” he said simply, “that I am to wait until the Messengers of the Kingdom meet us with the dawn.” He lowered his head as he spoke thus, but kept his eyes lifted, fixed with a dreadful glare upon his victim, and made with his hands the firm gesture of a man who ties knots in cords and binds a prisoner.
@@ -4749,7 +4749,7 @@ How he bargained with them for a mount to take him to the nearest post upon the 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Girondin — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Girondin — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/journey_of_life,archetype/pilgrim,archetype/outcast_wanderer,motif/dreams,motif/horse,concept/exile,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
 
 
 CHAPTER VII.
@@ -4787,7 +4787,7 @@ He first took off his coat and carefully turned it inside out. He was delighted 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Girondin — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Girondin — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/fire,concept/deception,concept/survival,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
 
 
 From the pocket of his coat, now turned inside out against his shirt, he drew a matchbox and tinder. With these he lit a little fire of dry twigs, whereon most thoughtfully he burned his cap; and as it burned he said to it, —
@@ -4843,7 +4843,7 @@ It is related of Ulysses that the extremity of evil was but a spur to him, and o
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Girondin — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Girondin — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/wine_and_drink,concept/deception,concept/survival,form/historical_novel,histref/ancient_greece,setting/pastoral_countryside,character/ulysses"></span>
 
 
 It led him, as he had expected, to an open clearing, and in that clearing he saw the stack of faggots, the little hut of turf, the cut stumps, and the signs of past dead fires which mark the burning of charcoal in a wood.
@@ -4875,7 +4875,7 @@ He heard steps within: the door opened, and in the cool dark room which it discl
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Girondin — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Girondin — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/love_as_war,archetype/lover,motif/masks_disguise,concept/love_romantic,concept/desire,concept/deception,form/historical_novel,setting/pastoral_countryside,character/st_george"></span>
 
 
 CHAPTER VIII.
@@ -4951,7 +4951,7 @@ She went a little further off, and leaned against the gatepost, still looking do
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Girondin — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Girondin — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 When she had gazed at him for a little while, smiling less strongly, but not wholly ceasing to smile, she said at last:— “I will bring it you, though you have burned no charcoal — no, nor anything, I think, in all your life but things you had no right to burn.”
@@ -5021,7 +5021,7 @@ He was very greatly fatigued, he had done more than a man should do in every way
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Girondin — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Girondin — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/lover,motif/secrets,motif/night,motif/dawn,motif/concealment_hidden_identity,concept/love_romantic,concept/secrecy_and_concealment,form/historical_novel,setting/pastoral_countryside"></span>
 
 
 CHAPTER IX.
@@ -5075,7 +5075,7 @@ She was gone immediately, so that none outside could have wondered at her delay;
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Girondin — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Girondin — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/love_as_war,motif/secrets,concept/love_romantic,concept/fear,concept/crime_and_punishment,concept/deception,form/historical_novel,histref/the_french_revolution"></span>
 
 
 Meanwhile, Boutroux in his hiding all day long waited for the evening, and was as patient as his strength permitted him to be.
@@ -5129,7 +5129,7 @@ Her speech was halting: she told him the last things first, so that he must ques
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Girondin — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Girondin — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/night,motif/secrets,concept/love_romantic,concept/crime_and_punishment,concept/guilt,concept/exile,form/historical_novel,histref/the_french_revolution"></span>
 
 
 “And what is that?”
@@ -5165,7 +5165,7 @@ She grasped his wrists with her hands, and he wondered at their sudden strength 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Girondin — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Girondin — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/night_journey,motif/dawn,motif/journey,motif/water,concept/love_romantic,concept/exile,form/historical_novel,setting/pastoral_countryside"></span>
 
 
 CHAPTER X.
@@ -5221,7 +5221,7 @@ As she said this the beauty of her young eyes filled with tears, and she watched
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Girondin — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Girondin — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/crone,motif/masks_disguise,motif/mirror,concept/deception,concept/love_romantic,form/historical_novel,setting/pastoral_countryside"></span>
 
 
 “Of all things,” he thought to himself, “I should have imagined that at least they cared for shaving. But there are three things no man can quite understand, and one of them I have always heard is horses, and the other is the sea, and it would seem that the third is Joyeuse.”
@@ -5283,7 +5283,7 @@ A small square of looking-glass, unframed, hung from a nail. There were black pa
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Girondin — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Girondin — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/crone,archetype/witch,motif/imprisonment,concept/deception,concept/crime_and_punishment,form/historical_novel,histref/the_french_revolution,setting/pastoral_countryside"></span>
 
 
 He came back to the little low kitchen with that fatigue apparent upon him, and eager for the refreshment of her face.... The room was stark bare. Its emptiness of her struck him like a chill of presentiment. There was no one there, only the old peasant woman, standing strict and forbidding, who watched him hardly; she was ready with orders rather than with counsel. She so eyed him, waiting for him to speak.
@@ -5337,7 +5337,7 @@ He climbed up into the cart. The big peasant, overjoyed at the completion of the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Girondin — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Girondin — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER XI.
@@ -5415,7 +5415,7 @@ The old sergeant smiled grimly. “You are not the only one,” said he, “who 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Girondin — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Girondin — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/wine_and_drink,concept/deception,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “Oh, give yourself any name you like, lad, only get down and follow.”
@@ -5501,7 +5501,7 @@ A man of the guards said respectfully: “They swear with the right hand spread 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Girondin — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Girondin — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/wine_and_drink,concept/deception,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 Boutroux spread out his right hand. The sergeant put his hand in the pocket of his leather breeches for a coin, and found none there. “We must have the coin,” he said stupidly. “It’s in the essence of the contract.”
@@ -5573,7 +5573,7 @@ This being gave orders to the young soldier who had marched them into the garden
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Girondin — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Girondin — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/horse,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “If they desire,” said a large, bold young man, whose trade it had been to sell cheese, “some one of us who certainly cannot ride, we will hand over this friend,” and he pointed to the weeping figure. When he had so spoken they disposed themselves upon the straw. Those who, like Boutroux, had had no repose during the whole night (and they were many), fell at once into a deep and exhausted sleep: the remainder talked, some despairingly, some eagerly, one with another; not a few were curious and pleased to find themselves upon the edge of soldiering. The little man who had cried wandered about by himself; if he had dared, he would have run away, but he had no friends and he did not know the country.
@@ -5633,7 +5633,7 @@ Far off a voice gave a loud, long-drawn cry that sounded like no word he had eve
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Girondin — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Girondin — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER XII.
@@ -5709,7 +5709,7 @@ When he had said this he proceeded to tell the whole tale. The news had come dow
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Girondin — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Girondin — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Perrin,” said the gentle Hamard to Boutroux, “do you ever pray?”
@@ -5803,7 +5803,7 @@ The cavalry-man answered that he had heard.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Girondin — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Girondin — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 He mounted and gave orders that all his command should mount. He dispatched two soldiers with orders, and in a few minutes there were gathered in the great place of the town quite three hundred mounted men; a hundred of them were still in their civilian clothes, sitting awkwardly in their knee-breeches or with trousers tied with string at the knee.
@@ -5853,7 +5853,7 @@ The politician and the new-made colonel went off together to the chief hotel of 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Girondin — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Girondin — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/wine_and_drink,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER XIII.
@@ -5937,7 +5937,7 @@ In the morning, after a night during which not one-third of the force had slept,
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Girondin — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Girondin — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 These scratch troops filed out, therefore, in some order in that early morning. There were few of the civilians about; the Commissioner from the Parliament was sleeping out his excess of the night before.
@@ -5967,7 +5967,7 @@ But especially the Clubs vexed him. Oh, he knew what it was, the spouting in the
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Girondin — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Girondin — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/rebel,setting/paris"></span>
 
 
 One thing was real to him and a friend in this hurried march of exile and of concealment. He had a horse, a horse of his own — a white horse by name Pascal.
@@ -6017,7 +6017,7 @@ Boutroux looked very grave. “Not of ours?” he said.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Girondin — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Girondin — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Quite young,” said the stranger pathetically, “a mere boy — barely of age.”
@@ -6071,7 +6071,7 @@ And having so considered the situation, he saluted the guard at the gate and wen
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Girondin — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Girondin — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fanatic,archetype/trickster,motif/masks_disguise,concept/deception,concept/revenge,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER XIV.
@@ -6151,7 +6151,7 @@ They turned off the narrow street into a still narrower court, at the end of whi
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Girondin — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Girondin — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,concept/deception,concept/popular_revolution,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 The Parisian, when the two of them had turned down this courtyard, peeped carefully round the corner of it and saw them enter; he saw the elder man open the garden door with a key and motion his companion in. The door shut behind them and there was no further sound.
@@ -6203,7 +6203,7 @@ They applauded without any more notion of what he meant than had he himself. He 
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Girondin — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Girondin — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Open!” he bawled.
@@ -6307,7 +6307,7 @@ Quarters were quiet again. The lieutenant went up towards stables; he saw Sergea
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Girondin — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="The Girondin — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="setting/paris"></span>
 
 
 CHAPTER XV.
@@ -6443,7 +6443,7 @@ Boutroux swivelled round and left the room. He knew he should find the leave on 
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Girondin — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Girondin — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/river,setting/paris"></span>
 
 
 CHAPTER XVI.
@@ -6489,7 +6489,7 @@ For some minutes he detailed to them, point by point, picking one from the other
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Girondin — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Girondin — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/trickster,concept/deception,concept/revenge,concept/crime_and_punishment,concept/popular_revolution,form/historical_novel,histref/the_french_revolution,setting/france,character/brutus"></span>
 
 
 Old Boutroux, he told them (and they believed it), was a fool. If they made him suffer for what had happened they would but be doing what so many of the societies had done — an injustice, and a wasted injustice, upon the wrong man. They had best let him go after fining him for the purposes of the nation... and let them bleed him well, he said, for the firm could stand it. Madame Boutroux could no more conspire than could an old hen: they would be wise and merciful and humorous in letting her go free. Many laughed and applauded as he spoke thus generously of his enemies.
@@ -6575,7 +6575,7 @@ With which meditation he fell into a very healthy and contented sleep, and woke 
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="The Girondin — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="The Girondin — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="setting/paris"></span>
 
 
 CHAPTER XVII.
@@ -6695,7 +6695,7 @@ The old man eyed him misunderstandingly, and made off. He had no love for the po
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Girondin — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Girondin — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/great_house,motif/rose,motif/wine_and_drink,concept/love_romantic,concept/class_conflict,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER XVIII.
@@ -6781,7 +6781,7 @@ She brought out the bread and the flask; he took them from her.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Girondin — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Girondin — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “The night is warm, Lieutenant; we will take this wine for you, and this bread, outside and put them upon a little iron table that is there, and sit there until your men have returned.”
@@ -6887,7 +6887,7 @@ The lady leaned towards him, and consented to put a hand for one moment upon his
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Girondin — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Girondin — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/lover,motif/night,concept/love_romantic,concept/desire,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 “Men do not often rise as you have risen,” she said. “Tell me before we part how you obtained your grade.”
@@ -6957,7 +6957,7 @@ The man answered him with a fine curse, and they parted.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Girondin — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Girondin — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/rain,motif/decay,motif/autumn,motif/horse,concept/war_and_its_cost,concept/despair,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER XIX.
@@ -7005,7 +7005,7 @@ Another, half an hour later, took the occasion of a driving gust which blinded t
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Girondin — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Girondin — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/rain,motif/food_and_feasting,motif/horse,concept/war_and_its_cost,concept/survival,concept/comradeship,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 The foragers had gone before; the house, were numbered in which the few privileged might sleep, and the barns in which the many must throw themselves, drenched as they were, upon the straw. There was no provision. A butcher’s shop, with the iron shutters tight fastened, and the gilded ox’s head which was its sign dripping rain in the darkness, stood upon the street where Boutroux’s troop were gathered huddled, a-foot, holding their unhappy beasts in the pouring darkness, and waiting for the appointment to shelter.
@@ -7043,7 +7043,7 @@ All that night only the girths had been loosened, for accoutrement that morning 
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Girondin — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Girondin — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Such is the life of soldiers that to ride so upon broken beasts in the rain, a straggling mass of hundreds, with no end before them and no knowledge of their goal, yet raised their hearts because through the dull rain it was yet daylight, and the hell of the hours before their sleep had been the dark hours of a hopeless night.
@@ -7065,7 +7065,7 @@ The men that were thus massed and huddled under Kellermann, after the storms of 
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Girondin — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Girondin — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER XX.
@@ -7115,7 +7115,7 @@ The veterinary’s orderly came and saw, and said that the horse was fitter to b
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Girondin — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Girondin — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Can you get another mount?” he asked.
@@ -7159,7 +7159,7 @@ It seemed in the small hours to more than one of the men as though something wou
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Girondin — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Girondin — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/rain,motif/fog_and_smoke,motif/dawn,motif/death,motif/horse,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
 
 
 CHAPTER XXI
@@ -7201,7 +7201,7 @@ What guns and whose had thus opened the game none but the staff could tell — b
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Girondin — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Girondin — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
 
 
 Boutroux’s old horse lifted its head with a faint gesture that years ago might have betrayed a recognition of that sound; but that head drooped again, and the beast stood as weary as ever in the long line of the cavalry drawn up beside the road...
@@ -7237,7 +7237,7 @@ It was ten o’clock when the halt came. Till noon there was no further movement
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Girondin — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Girondin — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/horse,concept/war_and_its_cost,concept/fear,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
 
 
 Boutroux and his troop were holding their mounts to the leeward of a great windmill which stood up, sheltering them somewhat from the weather; into the depth of that weather the ill-formed thousands of the army extended, all at haphazard. Beside the mill and along the crest before it were drawn up the foot in every form. Boutroux, from behind his shelter of the mill, saw with a complete indifference battery after battery, six batteries in all, get slowly through the press, and have a way made for them to positions on the ridge of the hill.
@@ -7269,7 +7269,7 @@ Having so seen, Boutroux went back to his shelter and tried to bear the noise. H
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="The Girondin — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="The Girondin — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/storm,motif/horse,concept/war_and_its_cost,concept/democracy,form/historical_novel,histref/the_french_revolution,setting/battlefield"></span>
 
 
 It was soon over. They got the paid men under control as one gets a fire under control. The mass was beaten and salved into shape: it shuffled back into some sort of order again, and one troop after another of cavalry were got together and sent forward. The hussars were still left alone, and empty of business in the shelter of the hill. No orders came for them. A fatigue came up (on the crest beyond, the guns still hammered and banged); it came staggering under a great measure of oats. It was high time, and Boutroux very contentedly filled his poor beast’s nose-bag, and tied it on. At first the old white horse would not eat, but Boutroux coaxed:
@@ -7321,7 +7321,7 @@ Boutroux pushed open the mill door, helped himself to a nice wisp of straw, and 
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="The Girondin — Chapter 22" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="The Girondin — Chapter 22" data-chapter="Chapter 22" data-kind="chapter" data-tags="setting/paris"></span>
 
 
 CHAPTER XXII.
@@ -7411,7 +7411,7 @@ Less conscious than a man in a drunken sleep, he knew that they were moving him,
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="The Girondin — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/pain,motif/death,motif/dreams,concept/death,concept/suffering_and_pain,concept/love_romantic,concept/faith,concept/war_and_its_cost,form/historical_novel,histref/the_french_revolution,setting/france"></span>
 
 
 CHAPTER XXIII.

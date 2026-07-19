@@ -3183,7 +3183,7 @@ required a dozen—who shall tell?”
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Gold-Bug (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Gold-Bug (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/quest,motif/city,motif/dust,motif/fire,motif/home,motif/night,motif/summer,motif/time,motif/well,concept/friendship,concept/melancholy,concept/misanthropy"></span>
 
 
 What ho! what ho! this fellow is dancing mad!
@@ -3389,7 +3389,7 @@ a bug in my life.”
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Gold-Bug (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Gold-Bug (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/death,motif/fire,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/truth,character/bottom"></span>
 
 
 earnestly, it seemed to me, than the case demanded, “is that any
@@ -3603,7 +3603,7 @@ of?”
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Gold-Bug (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Gold-Bug (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/dreams,motif/sleep,motif/time,motif/well,concept/endurance,concept/hope,character/bottom"></span>
 
 
 all dat.”
@@ -3881,7 +3881,7 @@ whole intellect seemed to be absorbed by “de bug,” I now stepped
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Gold-Bug (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Gold-Bug (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/home,motif/journey,motif/night,motif/tears,motif/time,motif/well,concept/fear,concept/self,concept/truth,concept/wonder"></span>
 
 
 into the boat and made sail. With a fair and strong breeze we
@@ -4115,7 +4115,7 @@ endeavored, but all in vain, to sound him in regard to the object
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Gold-Bug (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Gold-Bug (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/hill,motif/time,concept/beauty,concept/doubt"></span>
 
 
 of the expedition. Having succeeded in inducing me to accompany
@@ -4351,7 +4351,7 @@ stricken with lunacy, and I became seriously anxious about
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Gold-Bug (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Gold-Bug (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,concept/truth"></span>
 
 
 getting him [[Home|home]]. While I was pondering upon what was best to be
@@ -4625,7 +4625,7 @@ I would have had no hesitation in attempting to get the lunatic
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Gold-Bug (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Gold-Bug (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/villain,motif/grave,motif/home,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/madness"></span>
 
 
 disposition, to [[Hope|hope]] that he would assist me, under any
@@ -4841,7 +4841,7 @@ any great aversion from the labor imposed. I had become most
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Gold-Bug (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Gold-Bug (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/dust,motif/home,motif/nature,motif/night,motif/time,concept/nature"></span>
 
 
 unaccountably interested—nay, even excited. Perhaps there was
@@ -5033,7 +5033,7 @@ contents. There had been nothing like order or arrangement. Every
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Gold-Bug (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Gold-Bug (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="archetype/artist,motif/chains,motif/death,motif/fire,motif/leaves,motif/night,motif/time,motif/well,form/riddle,form/sketch"></span>
 
 
 thing had been heaped in promiscuously. Having assorted all with
@@ -5217,7 +5217,7 @@ in search of the cleanest spot. Had the skull been then there, of
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Gold-Bug (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Gold-Bug (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/flag,motif/home,motif/nature,motif/night,motif/ship,motif/time,motif/water,motif/well,concept/doubt,concept/history,concept/nature,concept/truth,form/history,form/sketch,setting/ship"></span>
 
 
 course I could not have failed to notice it. Here was indeed a
@@ -5411,7 +5411,7 @@ your shoulders. With your left hand you caressed him and kept him
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Gold-Bug (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Gold-Bug (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/time,motif/water,motif/well,concept/body,concept/hope"></span>
 
 
 off, while your right, holding the parchment, was permitted to
@@ -5617,7 +5617,7 @@ strangely found, involved a lost record of the place of deposit.”
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Gold-Bug (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Gold-Bug (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/water,motif/well,character/speed"></span>
 
 
 “I held the vellum again to the [[Fire|fire]], after increasing the heat;
@@ -5839,7 +5839,7 @@ language, ‘the’ is most usual; let us see, therefore, whether
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Gold-Bug (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Gold-Bug (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/time,motif/well,concept/nature,form/translation"></span>
 
 
 there are not repetitions of any three characters, in the same
@@ -6129,7 +6129,7 @@ more than usually close together. If you will observe the MS., in
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Gold-Bug (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Gold-Bug (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="motif/death,motif/home,motif/leaves,motif/time,motif/well,concept/doubt,form/riddle,setting/castle"></span>
 
 
 the present instance, you will easily detect five such cases of
@@ -6329,7 +6329,7 @@ afforded by the narrow ledge upon the face of the rock.
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Gold-Bug (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Gold-Bug (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,concept/doubt"></span>
 
 
 “In this expedition to the ‘Bishop’s Hotel’ I had been attended

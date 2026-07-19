@@ -75,7 +75,7 @@ soltanto [[Fear|temi]] Dio; ché hai Ragione di [[Fear|temere]].»
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Abou_ben_Adhem (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Abou_ben_Adhem (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/desert,motif/love,concept/fear,setting/desert,character/abou_ben_adhem"></span>
 
 
 # Abou ben Adhem

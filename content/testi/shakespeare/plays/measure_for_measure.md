@@ -1242,7 +1242,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Measure for Measure — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Measure for Measure — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/city,motif/desire,motif/leaves,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/history,concept/honour,concept/mercy,concept/mortality,concept/nature,form/history,character/angelo,character/bottom,character/escalus"></span>
 
 
 | Speaker | Line |
@@ -1273,7 +1273,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Measure for Measure — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Measure for Measure — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/city,motif/crown,motif/horse,motif/love,motif/prison,motif/time,motif/well,concept/body,concept/courage,concept/fear,concept/freedom,concept/hope,concept/imprisonment,concept/poverty,concept/truth,character/angelo,character/claudio,character/juliet,character/lucio,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1371,7 +1371,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Measure for Measure — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Measure for Measure — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/cave,motif/desire,motif/grave,motif/home,motif/lion,motif/love,motif/nature,motif/time,concept/fear,concept/nature,character/angelo,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -1389,7 +1389,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Measure for Measure — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Measure for Measure — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/lover,motif/blood,motif/night,motif/prayer,motif/prison,motif/snow,motif/time,concept/doubt,concept/fear,concept/hope,concept/truth,character/angelo,character/claudio,character/isabella,character/juliet,character/lucio"></span>
 
 
 | Speaker | Line |
@@ -1437,7 +1437,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Measure for Measure — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Measure for Measure — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/birds,motif/blood,motif/city,motif/clock,motif/death,motif/home,motif/jewel,motif/night,motif/time,motif/well,motif/winter,concept/faith,concept/fear,concept/honour,concept/hope,concept/longing,concept/mercy,setting/russia,character/angelo,character/claudio,character/escalus,character/nurse,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1572,7 +1572,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Measure for Measure — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Measure for Measure — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/king,archetype/prophet,motif/crown,motif/death,motif/desire,motif/love,motif/nature,motif/noon,motif/prayer,motif/time,motif/well,concept/honour,concept/mercy,concept/nature,concept/temptation,character/angelo,character/claudio,character/isabella,character/juliet,character/lucio,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1663,7 +1663,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Measure for Measure — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Measure for Measure — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/blood,motif/death,motif/love,motif/nature,motif/pain,motif/prayer,motif/prison,motif/soul,motif/well,concept/beauty,concept/body,concept/charity,concept/conscience,concept/fear,concept/honour,concept/longing,concept/mercy,concept/nature,concept/pride,character/angelo,character/isabella,character/juliet"></span>
 
 
 | Speaker | Line |
@@ -1754,7 +1754,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Measure for Measure — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Measure for Measure — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,archetype/shadow,archetype/tyrant,motif/blood,motif/death,motif/desire,motif/dust,motif/grave,motif/journey,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/prayer,motif/prison,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/courage,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/mortality,concept/nature,concept/self,concept/truth,concept/wonder,form/riddle,setting/russia,character/angelo,character/claudio,character/escalus,character/isabella,character/lucio,character/mariana,character/pompey,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1936,7 +1936,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Measure for Measure — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Measure for Measure — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/quest,motif/desire,motif/garden,motif/love,motif/night,motif/time,motif/well,concept/fear,concept/greatness,concept/greed,concept/mercy,character/isabella,character/mariana"></span>
 
 
 | Speaker | Line |
@@ -1981,7 +1981,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Measure for Measure — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Measure for Measure — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/clock,motif/cross,motif/dawn,motif/death,motif/desire,motif/love,motif/night,motif/prison,motif/sleep,motif/time,motif/well,concept/doubt,concept/forgiveness,concept/hope,concept/imprisonment,concept/mercy,concept/mortality,character/angelo,character/claudio,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2082,7 +2082,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Measure for Measure — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Measure for Measure — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/night,motif/prison,motif/sleep,motif/time,motif/water,motif/well,concept/charity,concept/despair,concept/honour,concept/self,character/angelo,character/claudio,character/escalus,character/isabella,character/lucio,character/mariana,character/pompey,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2168,7 +2168,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Measure for Measure — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Measure for Measure — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/night,motif/well,concept/body,concept/madness,concept/revenge,character/angelo,character/escalus"></span>
 
 
 | Speaker | Line |
@@ -2188,7 +2188,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Measure for Measure — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Measure for Measure — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/time,motif/well,character/flavius"></span>
 
 
 | Speaker | Line |
@@ -2204,7 +2204,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Measure for Measure — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Measure for Measure — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="concept/truth,character/isabella,character/mariana"></span>
 
 
 | Speaker | Line |
@@ -2221,7 +2221,7 @@ Measure for Measure
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Measure for Measure — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Measure for Measure — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,topos/quest,archetype/child,archetype/fool,archetype/ghost,archetype/tragic_hero,archetype/villain,motif/blood,motif/city,motif/death,motif/desert,motif/desire,motif/garden,motif/grave,motif/home,motif/lamb,motif/love,motif/marriage,motif/night,motif/prison,motif/river,motif/silence,motif/soul,motif/summer,motif/time,motif/well,concept/body,concept/courage,concept/faith,concept/fear,concept/greatness,concept/greed,concept/history,concept/honour,concept/hope,concept/imagination,concept/madness,concept/mercy,concept/self,concept/truth,concept/vanity,form/history,form/translation,setting/desert,setting/venice,character/aaron,character/angelo,character/bianca,character/cassio,character/claudio,character/desdemona,character/emilia,character/escalus,character/iago,character/isabella,character/juliet,character/lucio,character/mariana,character/michael,character/othello,character/pompey,character/richard,character/roderigo,character/titus_andronicus"></span>
 
 
 | Speaker | Line |

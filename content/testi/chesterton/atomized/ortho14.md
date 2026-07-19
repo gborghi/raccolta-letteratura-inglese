@@ -5810,7 +5810,7 @@ mirth.
 
 
 
-<span class="atom-split" data-atom="story_02_preface" data-title="Orthodoxy — Preface" data-chapter="Preface" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_preface" data-title="Orthodoxy — Preface" data-chapter="Preface" data-kind="story" data-tags="motif/flag,concept/faith,concept/suicide,form/riddle,histref/christianity"></span>
 
 
 PREFACE
@@ -5888,7 +5888,7 @@ IX.   L'autorità e l'avventuriero
 
 
 
-<span class="atom-split" data-atom="story_03_orthodoxy" data-title="Orthodoxy — Orthodoxy" data-chapter="Orthodoxy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_orthodoxy" data-title="Orthodoxy — Orthodoxy" data-chapter="Orthodoxy" data-kind="story" data-tags="topos/double,archetype/fool,archetype/hero,archetype/rebel,motif/flag,motif/flowers,motif/home,motif/nature,motif/tears,motif/time,motif/well,concept/faith,concept/honour,concept/nature,concept/paradox,concept/self,concept/truth,concept/wonder"></span>
 
 
 ORTHODOXY
@@ -6250,7 +6250,7 @@ un'altra sfida, e gli scriverò un altro libro.
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_01" data-title="Orthodoxy — II The Maniac (part 1)" data-chapter="II The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_01" data-title="Orthodoxy — II The Maniac (part 1)" data-chapter="II The Maniac" data-kind="excerpt" data-tags="concept/self,form/epic,form/tragedy"></span>
 
 
 II THE MANIAC
@@ -6373,7 +6373,7 @@ In questa notevole situazione non è evidentemente più possibile ora (con qualc
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_02" data-title="Orthodoxy — II The Maniac (part 2)" data-chapter="II The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_02" data-title="Orthodoxy — II The Maniac (part 2)" data-chapter="II The Maniac" data-kind="excerpt" data-tags="motif/madness,concept/madness,concept/reason_and_rationalism,concept/imagination,form/apologetics,histref/calvinism,character/william_shakespeare"></span>
 
 
 Let us begin, then, with the mad-house; from this evil and
@@ -6497,7 +6497,7 @@ E se i grandi ragionatori sono spesso maniaci, è altrettanto vero che i maniaci
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_03" data-title="Orthodoxy — II The Maniac (part 3)" data-chapter="II The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_03" data-title="Orthodoxy — II The Maniac (part 3)" data-chapter="II The Maniac" data-kind="excerpt" data-tags="motif/madness,concept/madness,concept/reason_and_rationalism,concept/paradox,form/apologetics"></span>
 
 
 The madman's explanation of a thing is always complete,
@@ -6622,7 +6622,7 @@ E bisogna ricordare che la scienza più puramente pratica prende davvero questa 
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_04" data-title="Orthodoxy — II The Maniac (part 4)" data-chapter="II The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_04" data-title="Orthodoxy — II The Maniac (part 4)" data-chapter="II The Maniac" data-kind="excerpt" data-tags="concept/materialism,concept/madness,concept/fate_and_free_will,concept/reason_and_rationalism,form/apologetics,character/mccabe"></span>
 
 
 Such is the madman of experience; he is commonly a reasoner,
@@ -6771,7 +6771,7 @@ Le dottrine spirituali non limitano realmente la mente come fanno le negazioni m
 
 
 
-<span class="atom-split" data-atom="story_04_ii_the_maniac--part_05" data-title="Orthodoxy — II The Maniac (part 5)" data-chapter="II The Maniac" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_ii_the_maniac--part_05" data-title="Orthodoxy — II The Maniac (part 5)" data-chapter="II The Maniac" data-kind="excerpt" data-tags="topos/eternal_return,motif/serpent_snake,motif/cross,concept/fate_and_free_will,concept/materialism,concept/individualism,concept/paradox,form/apologetics"></span>
 
 
 In passing from this subject I may note that there is
@@ -6947,7 +6947,7 @@ Soltanto i simboli hanno anche solo un nebuloso valore nel parlare di questa pro
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_01" data-title="Orthodoxy — III The Suicide Of Thought (part 1)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_01" data-title="Orthodoxy — III The Suicide Of Thought (part 1)" data-chapter="III The Suicide Of Thought" data-kind="excerpt" data-tags="concept/humility,concept/doubt,concept/charity,concept/virtue,form/apologetics,histref/the_reformation,character/robert_blatchford,character/george_bernard_shaw,character/thomas_henry_huxley"></span>
 
 
 III THE SUICIDE OF THOUGHT
@@ -7075,7 +7075,7 @@ Il capitolo precedente si è occupato soltanto di un dato di osservazione: che i
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_02" data-title="Orthodoxy — III The Suicide Of Thought (part 2)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_02" data-title="Orthodoxy — III The Suicide Of Thought (part 2)" data-chapter="III The Suicide Of Thought" data-kind="excerpt" data-tags="concept/reason_and_rationalism,concept/doubt,concept/authority,concept/darwinism_evolutionary_theory,form/apologetics,histref/the_crusades,histref/the_inquisition,character/h_g_wells"></span>
 
 
 The sages, it is often said, can see no answer to the riddle
@@ -7207,7 +7207,7 @@ C'è poi l'attacco opposto al pensiero: quello sostenuto dal signor H. G. Wells 
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_03" data-title="Orthodoxy — III The Suicide Of Thought (part 3)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_03" data-title="Orthodoxy — III The Suicide Of Thought (part 3)" data-chapter="III The Suicide Of Thought" data-kind="excerpt" data-tags="concept/critique_of_progress,concept/pragmatism_method_of_the_hypothesis,concept/doubt,form/apologetics,character/friedrich_nietzsche,character/alfred_lord_tennyson,character/hilaire_belloc"></span>
 
 
 Akin to these is the false theory of progress, which maintains
@@ -7376,7 +7376,7 @@ Ma bisogna aggiungere ancora una parola. All'inizio di questo preliminare schizz
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_04" data-title="Orthodoxy — III The Suicide Of Thought (part 4)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_04" data-title="Orthodoxy — III The Suicide Of Thought (part 4)" data-chapter="III The Suicide Of Thought" data-kind="excerpt" data-tags="concept/self_sacrifice,concept/freedom,concept/individualism,concept/anarchism,form/apologetics,histref/the_french_revolution,character/george_bernard_shaw,character/robespierre"></span>
 
 
 But they cannot escape.  This pure praise of volition ends
@@ -7515,7 +7515,7 @@ Nel caso il punto non fosse chiaro, un esempio storico può illustrarlo. La Rivo
 
 
 
-<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_05" data-title="Orthodoxy — III The Suicide Of Thought (part 5)" data-chapter="III The Suicide Of Thought" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_iii_the_suicide_of_thought--part_05" data-title="Orthodoxy — III The Suicide Of Thought (part 5)" data-chapter="III The Suicide Of Thought" data-kind="excerpt" data-tags="concept/madness,concept/heroism,concept/eastern_religion_and_asceticism,form/apologetics,character/friedrich_nietzsche,character/leo_tolstoy,character/joan_of_arc,character/christ"></span>
 
 
 It may be added that the same blank and bankruptcy can be
@@ -7642,7 +7642,7 @@ Qui pongo fine (grazie a Dio) alla prima e più tediosa faccenda di questo libro
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_01" data-title="Orthodoxy — IV The Ethics Of Elfland (part 1)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_01" data-title="Orthodoxy — IV The Ethics Of Elfland (part 1)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="concept/democracy,concept/tradition,concept/common_man,concept/liberty,form/apologetics"></span>
 
 
 IV THE ETHICS OF ELFLAND
@@ -7768,7 +7768,7 @@ Ma c'è una cosa che, fin dalla giovinezza, non sono mai riuscito a capire. Non 
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_02" data-title="Orthodoxy — IV The Ethics Of Elfland (part 2)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_02" data-title="Orthodoxy — IV The Ethics Of Elfland (part 2)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="topos/the_sleeper_awakes,concept/imagination,concept/wonder,concept/tradition,concept/the_supernatural,form/apologetics"></span>
 
 
 I have first to say, therefore, that if I have had a bias,
@@ -8006,7 +8006,7 @@ facciano cinque.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_03" data-title="Orthodoxy — IV The Ethics Of Elfland (part 3)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_03" data-title="Orthodoxy — IV The Ethics Of Elfland (part 3)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/metamorphosis,concept/wonder,concept/reason_and_rationalism,concept/the_supernatural,concept/agnosticism,concept/self,form/apologetics"></span>
 
 
 Here is the peculiar perfection of tone and truth in the
@@ -8263,7 +8263,7 @@ solo istante terribile, ricordiamo di dimenticare.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_04" data-title="Orthodoxy — IV The Ethics Of Elfland (part 4)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_04" data-title="Orthodoxy — IV The Ethics Of Elfland (part 4)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/dance,motif/hill,motif/horse,motif/love,motif/mirror,motif/well,motif/window,concept/hope,setting/castle,setting/mountains"></span>
 
 
 But though (like the man without memory in the novel)
@@ -8495,7 +8495,7 @@ terribile come gli alberi torreggianti.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_05" data-title="Orthodoxy — IV The Ethics Of Elfland (part 5)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_05" data-title="Orthodoxy — IV The Ethics Of Elfland (part 5)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/fire,motif/garden,motif/love,motif/marriage,motif/moon,motif/nature,motif/rose,motif/snow,motif/stars,motif/time,motif/well,concept/beauty,concept/democracy,concept/hope,concept/nature,character/endymion,character/nurse"></span>
 
 
 For this reason (we may call it the fairy godmother [[philosophy]])
@@ -8608,7 +8608,7 @@ Il mondo moderno, così come lo trovai, era compatto a favore di un calvinismo m
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_06" data-title="Orthodoxy — IV The Ethics Of Elfland (part 6)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_06" data-title="Orthodoxy — IV The Ethics Of Elfland (part 6)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/desire,motif/moon,motif/nature,motif/prison,motif/stars,concept/forgiveness,concept/nature,form/tragedy,character/speed"></span>
 
 
 All the towering materialism which dominates the modern mind
@@ -8724,7 +8724,7 @@ Ma l'espansione di cui parlo era assai più malefica di tutto questo. Ho osserva
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_07" data-title="Orthodoxy — IV The Ethics Of Elfland (part 7)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_07" data-title="Orthodoxy — IV The Ethics Of Elfland (part 7)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/jewel,motif/moon,motif/prison,motif/ship,motif/stars,motif/time,motif/window,concept/truth,histref/milton,setting/ship,character/milton"></span>
 
 
 In fairyland there had been a real law; a law that could be broken,
@@ -8837,7 +8837,7 @@ Ma sentivo davvero (il capriccio potrà parere sciocco) come se tutto l'ordine e
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_08" data-title="Orthodoxy — IV The Ethics Of Elfland (part 8)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_08" data-title="Orthodoxy — IV The Ethics Of Elfland (part 8)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/flag,motif/love,motif/road,motif/supernatural,motif/time,motif/well,concept/history,concept/honour,concept/humility,concept/truth,form/history"></span>
 
 
 Thus ends, in unavoidable inadequacy, the attempt to utter the
@@ -8968,7 +8968,7 @@ Supponiamo di trovarci di fronte a una cosa disperata: diciamo Pimlico. Se pensi
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_09" data-title="Orthodoxy — IV The Ethics Of Elfland (part 9)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_09" data-title="Orthodoxy — IV The Ethics Of Elfland (part 9)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/flag,motif/love,motif/nature,motif/supernatural,motif/time,concept/courage,concept/freedom,concept/history,concept/honour,concept/nature,concept/paradox,concept/reform,concept/self,form/history,setting/desert"></span>
 
 
 The eighteenth-century theories of the social contract have been
@@ -9092,7 +9092,7 @@ Diciamo che deve esistere una fedeltà primordiale alla vita: l'unica questione 
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_10" data-title="Orthodoxy — IV The Ethics Of Elfland (part 10)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_10" data-title="Orthodoxy — IV The Ethics Of Elfland (part 10)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="topos/golden_age,archetype/shadow,motif/birds,motif/city,motif/cross,motif/death,motif/flowers,motif/grave,motif/leaves,motif/love,motif/pain,motif/time,motif/well,concept/body,concept/despair,concept/endurance,concept/faith,concept/martyrdom,concept/reform,concept/self,concept/suicide,concept/truth,histref/christianity,setting/castle"></span>
 
 
 Perhaps the most everyday instance of this point is in the case
@@ -9235,7 +9235,7 @@ Verso lo stesso [[Time|tempo]] lessi una solenne frivolezza di un libero pensato
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_11" data-title="Orthodoxy — IV The Ethics Of Elfland (part 11)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_11" data-title="Orthodoxy — IV The Ethics Of Elfland (part 11)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/moon,motif/time,motif/well,concept/body,concept/martyrdom,concept/pride,concept/reform,concept/self,concept/suicide,concept/truth,form/riddle,histref/christianity,character/jones"></span>
 
 
 This was the first of the long train of enigmas with which [[Christianity]]
@@ -9349,7 +9349,7 @@ Sono di solito i cristiani rilassati e latitudinari a rivolgere al [[Christianit
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_12" data-title="Orthodoxy — IV The Ethics Of Elfland (part 12)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_12" data-title="Orthodoxy — IV The Ethics Of Elfland (part 12)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/monster,motif/blood,motif/city,motif/dawn,motif/death,motif/fire,motif/flag,motif/insects,motif/love,motif/moon,motif/nature,motif/stars,motif/time,motif/water,motif/well,concept/hope,concept/nature,concept/procreation,concept/self,concept/sexuality,concept/truth,histref/christianity,setting/mountains,character/jones"></span>
 
 
 All the same, it will be as [[Well|well]] if [[Jones]] does not worship
@@ -9548,7 +9548,7 @@ delle sue fauci spalancate.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_13" data-title="Orthodoxy — IV The Ethics Of Elfland (part 13)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_13" data-title="Orthodoxy — IV The Ethics Of Elfland (part 13)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/artist,motif/childhood,motif/clock,motif/home,motif/love,motif/moon,motif/noon,motif/ship,motif/soul,motif/spring,motif/stars,motif/supernatural,motif/uncanny,concept/body,concept/uncanny,histref/christianity,setting/ship"></span>
 
 
 And then followed an experience impossible to describe.
@@ -9672,7 +9672,7 @@ Il vero guaio di questo nostro mondo non è che sia un mondo irragionevole, e ne
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_14" data-title="Orthodoxy — IV The Ethics Of Elfland (part 14)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_14" data-title="Orthodoxy — IV The Ethics Of Elfland (part 14)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/hill,motif/moon,motif/time,concept/doubt,concept/faith,concept/truth,form/apologetics,histref/christianity,setting/court"></span>
 
 
 Now, actual insight or inspiration is best tested by whether
@@ -9789,7 +9789,7 @@ Vi è, dunque, in ogni convinzione completa una sorta di immensa impotenza. La f
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_15" data-title="Orthodoxy — IV The Ethics Of Elfland (part 15)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_15" data-title="Orthodoxy — IV The Ethics Of Elfland (part 15)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/cross,motif/nature,motif/rose,motif/tears,motif/time,concept/faith,concept/history,concept/nature,concept/paradox,concept/providence,concept/self,form/history,histref/christianity,histref/crusades,setting/cathedral,character/richard"></span>
 
 
 This odd effect of the great agnostics in arousing doubts deeper
@@ -9920,7 +9920,7 @@ Ecco un altro caso dello stesso genere. Sentivo che un forte argomento contro il
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_16" data-title="Orthodoxy — IV The Ethics Of Elfland (part 16)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_16" data-title="Orthodoxy — IV The Ethics Of Elfland (part 16)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/desert,motif/marriage,motif/rose,motif/soul,motif/supernatural,concept/conscience,concept/faith,concept/loneliness,concept/paradox,concept/sexuality,concept/truth,concept/union,histref/christianity,setting/desert,character/christ"></span>
 
 
 I take a third case; the strangest of all, because it involves
@@ -10136,7 +10136,7 @@ In verità, se Gesù di Nazaret non era il [[Christ|Cristo]], doveva essere l'An
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_17" data-title="Orthodoxy — IV The Ethics Of Elfland (part 17)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_17" data-title="Orthodoxy — IV The Ethics Of Elfland (part 17)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/desire,motif/love,concept/courage,concept/faith,concept/history,concept/paradox,concept/suicide,form/history,histref/christianity,character/christ"></span>
 
 
 And then in a quiet hour a strange thought struck me
@@ -10364,7 +10364,7 @@ se avrà l'ardire di rischiarla sul precipizio.
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_18" data-title="Orthodoxy — IV The Ethics Of Elfland (part 18)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_18" data-title="Orthodoxy — IV The Ethics Of Elfland (part 18)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/innocent,motif/death,motif/desire,motif/fire,motif/garden,motif/leaves,motif/love,motif/soul,motif/time,motif/water,concept/beauty,concept/charity,concept/courage,concept/humility,concept/paradox,concept/pride,concept/resignation,concept/self,concept/suicide,concept/truth,form/riddle,histref/christianity,character/bottom"></span>
 
 
 He can only get away from [[Death|death]] by continually stepping
@@ -10576,7 +10576,7 @@ lo scopo principale di quell'ordine era dare spazio alle cose buone perché corr
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_19" data-title="Orthodoxy — IV The Ethics Of Elfland (part 19)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_19" data-title="Orthodoxy — IV The Ethics Of Elfland (part 19)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="topos/double,archetype/tyrant,motif/city,motif/cross,motif/home,motif/lamb,motif/lion,motif/prison,motif/rose,motif/soul,motif/supernatural,motif/well,concept/charity,concept/faith,concept/madness,concept/paradox,concept/pride,concept/reform,concept/revenge,concept/sublime,concept/vanity,histref/christianity,setting/castle,character/henry_v,character/monks,character/tolstoy"></span>
 
 
 Mental and emotional liberty are not so simple as they look. 
@@ -10793,7 +10793,7 @@ QUESTO è il problema che la Chiesa tentò; QUESTO è il miracolo che ella comp�
 
 
 
-<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_20" data-title="Orthodoxy — IV The Ethics Of Elfland (part 20)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_iv_the_ethics_of_elfland--part_20" data-title="Orthodoxy — IV The Ethics Of Elfland (part 20)" data-chapter="IV The Ethics Of Elfland" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/lion,motif/nature,motif/water,concept/body,concept/fanaticism,concept/forgiveness,concept/history,concept/mercy,concept/nature,concept/truth,form/history,histref/christianity,setting/cathedral,setting/germany"></span>
 
 
 This is what I have called guessing the hidden eccentricities of life. 
@@ -11031,7 +11031,7 @@ vacillante ma eretta.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_01" data-title="Orthodoxy — VII The Eternal Revolution (part 1)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_01" data-title="Orthodoxy — VII The Eternal Revolution (part 1)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/clock,motif/death,motif/grave,motif/nature,motif/pain,motif/time,concept/courage,concept/democracy,concept/faith,concept/madness,concept/nature,concept/resignation,character/aquinas,character/chorus,character/christ"></span>
 
 
 VII THE ETERNAL REVOLUTION
@@ -11253,7 +11253,7 @@ non lo sanno nemmeno loro.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_02" data-title="Orthodoxy — VII The Eternal Revolution (part 2)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_02" data-title="Orthodoxy — VII The Eternal Revolution (part 2)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="motif/dawn,motif/dreams,motif/grave,motif/moon,motif/nature,motif/pain,motif/road,motif/time,concept/doubt,concept/history,concept/mercy,concept/nature,concept/reform,concept/truth,form/history,character/tolstoy"></span>
 
 
 Then again, some people fall back on sheer submission
@@ -11453,7 +11453,7 @@ dell'Arcivescovo di Canterbury.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_03" data-title="Orthodoxy — VII The Eternal Revolution (part 3)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_03" data-title="Orthodoxy — VII The Eternal Revolution (part 3)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/animals,motif/horse,motif/time,motif/window,concept/body,concept/courage,concept/freedom,concept/slavery,histref/french_revolution"></span>
 
 
 We may say broadly that free thought is the best of all the
@@ -11561,7 +11561,7 @@ Possiamo dunque dire che un ideale permanente è tanto necessario all'innovatore
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_04" data-title="Orthodoxy — VII The Eternal Revolution (part 4)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_04" data-title="Orthodoxy — VII The Eternal Revolution (part 4)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/artist,motif/animals,motif/dawn,motif/garden,motif/horse,motif/love,motif/nature,motif/supernatural,motif/time,motif/water,motif/well,concept/beauty,concept/history,concept/mercy,concept/nature,form/history,histref/christianity,character/satan"></span>
 
 
 When I had written this down, I felt once again the presence of
@@ -11688,7 +11688,7 @@ Se vuoi trattare una tigre ragionevolmente, devi tornare al [[Garden|giardino]] 
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_05" data-title="Orthodoxy — VII The Eternal Revolution (part 5)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_05" data-title="Orthodoxy — VII The Eternal Revolution (part 5)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/artist,archetype/king,archetype/rebel,archetype/tyrant,motif/animals,motif/birds,motif/city,motif/flowers,motif/love,motif/nature,motif/sleep,motif/stars,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/hope,concept/nature,concept/pride,concept/suffering,concept/wonder,histref/christianity"></span>
 
 
 This, however, is hardly our main point at present;
@@ -11970,7 +11970,7 @@ da parte della stampa.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_06" data-title="Orthodoxy — VII The Eternal Revolution (part 6)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_06" data-title="Orthodoxy — VII The Eternal Revolution (part 6)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/crown,motif/nature,motif/prison,motif/time,motif/well,concept/democracy,concept/history,concept/nature,concept/original_sin,concept/reform,concept/truth,form/history,histref/christianity,character/christ"></span>
 
 
 This startling swiftness with which popular systems turn oppressive
@@ -12106,7 +12106,7 @@ Vi è forse qualche risposta alla proposizione che coloro i quali hanno avuto le
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_07" data-title="Orthodoxy — VII The Eternal Revolution (part 7)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_07" data-title="Orthodoxy — VII The Eternal Revolution (part 7)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/birds,motif/crown,motif/nature,motif/well,concept/democracy,concept/faith,concept/history,concept/honour,concept/nature,concept/paradox,concept/pride,concept/self,form/history,histref/christianity,histref/crusades,character/jones,character/satan"></span>
 
 
 Much vague and sentimental journalism has been poured out
@@ -12237,7 +12237,7 @@ Ora, è il peculiare [[Honour|onore]] dell'Europa, da quando è divenuta cristia
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_08" data-title="Orthodoxy — VII The Eternal Revolution (part 8)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_08" data-title="Orthodoxy — VII The Eternal Revolution (part 8)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/prayer,concept/history,concept/honour,concept/hope,concept/nature,concept/truth,concept/unattainable,concept/vanity,form/history,histref/christianity,character/jones"></span>
 
 
 In short, I had spelled out slowly, as usual, the need for an
@@ -12435,7 +12435,7 @@ nella parola «dannazione» che nella parola «degenerazione».
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_09" data-title="Orthodoxy — VII The Eternal Revolution (part 9)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_09" data-title="Orthodoxy — VII The Eternal Revolution (part 9)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/tyrant,motif/grave,motif/love,motif/supernatural,motif/time,motif/water,motif/well,concept/doubt,concept/faith,concept/freedom,concept/immortality,concept/original_sin,concept/resurrection,concept/truth,histref/christianity,setting/london,character/christ"></span>
 
 
 But these long comfortable words that save modern people
@@ -12548,7 +12548,7 @@ Prendo per primo l'esempio più ovvio, il caso dei miracoli. Per qualche straord
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_10" data-title="Orthodoxy — VII The Eternal Revolution (part 10)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_10" data-title="Orthodoxy — VII The Eternal Revolution (part 10)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="motif/chains,motif/desire,motif/flowers,motif/leaves,motif/marriage,motif/nature,motif/soul,motif/supernatural,concept/apocalypse,concept/doubt,concept/faith,concept/freedom,concept/identity,concept/immortality,concept/nature,concept/reform,concept/truth,histref/catholic_church,histref/christianity"></span>
 
 
 Of the fact and evidence of the [[Supernatural|supernatural]] I will speak afterwards. 
@@ -12661,7 +12661,7 @@ Il grande esempio di questa pretesa [[Identity|identità]] di tutte le religioni
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_11" data-title="Orthodoxy — VII The Eternal Revolution (part 11)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_11" data-title="Orthodoxy — VII The Eternal Revolution (part 11)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="motif/chains,motif/love,motif/nature,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/divine_love,concept/mercy,concept/nature,concept/self,concept/truth,form/essay,histref/christianity,setting/cathedral,character/christ"></span>
 
 
 Students of popular science, like Mr. Blatchford, are always insisting
@@ -12801,7 +12801,7 @@ Poco [[Time|tempo]] fa la signora Besant, in un interessante [[Essay|saggio]], a
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_12" data-title="Orthodoxy — VII The Eternal Revolution (part 12)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_12" data-title="Orthodoxy — VII The Eternal Revolution (part 12)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/desert,motif/love,motif/nature,motif/summer,motif/well,concept/democracy,concept/honour,concept/mercy,concept/nature,concept/reform,concept/self,concept/truth,concept/wonder,histref/christianity,setting/desert,setting/italy,setting/mountains,character/monks"></span>
 
 
 This is the meaning of that almost insane happiness in the eyes
@@ -13013,7 +13013,7 @@ hanno devastato il mondo. Poiché non è [[Well|bene]] che Dio sia [[Alone|solo]
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_13" data-title="Orthodoxy — VII The Eternal Revolution (part 13)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_13" data-title="Orthodoxy — VII The Eternal Revolution (part 13)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/rebel,motif/cross,motif/death,motif/desire,motif/garden,motif/leaves,motif/prison,motif/road,motif/soul,motif/well,concept/courage,concept/doubt,concept/faith,concept/hope,concept/reform,concept/truth,form/novel,histref/christianity,character/christ,character/juliet,character/nurse,character/romeo,character/satan"></span>
 
 
 Again, the same is true of that difficult matter of
@@ -13249,7 +13249,7 @@ essere un ateo.
 
 
 
-<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_14" data-title="Orthodoxy — VII The Eternal Revolution (part 14)" data-chapter="VII The Eternal Revolution" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_vii_the_eternal_revolution--part_14" data-title="Orthodoxy — VII The Eternal Revolution (part 14)" data-chapter="VII The Eternal Revolution" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/fire,motif/love,motif/nature,concept/courage,concept/education,concept/faith,concept/freedom,concept/nature,concept/reform,histref/bible,setting/russia"></span>
 
 
 These can be called the essentials of the old orthodoxy,
@@ -13324,7 +13324,7 @@ E tuttavia la cosa pende dai cieli senza un graffio. I suoi avversari non riesco
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_01" data-title="Orthodoxy — IX Authority And The Adventurer (part 1)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_01" data-title="Orthodoxy — IX Authority And The Adventurer (part 1)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/hero,motif/animals,motif/bees,motif/desire,motif/hill,motif/leaves,motif/nature,motif/supernatural,motif/time,motif/well,concept/democracy,concept/fear,concept/imagination,concept/nature,concept/original_sin,concept/sexuality,concept/truth,form/apologetics,histref/christianity"></span>
 
 
 IX AUTHORITY AND THE ADVENTURER
@@ -13476,7 +13476,7 @@ Se mi si chiede, come pura questione intellettuale, perché io creda nel [[Chris
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_02" data-title="Orthodoxy — IX Authority And The Adventurer (part 2)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_02" data-title="Orthodoxy — IX Authority And The Adventurer (part 2)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/innocent,motif/nature,motif/supernatural,motif/time,motif/wind,concept/history,concept/natural_order,concept/nature,concept/paradox,form/history,histref/catholic_church,histref/christianity,setting/castle,setting/mountains,character/christ"></span>
 
 
 It would be the same if I examined the second of the three
@@ -13688,7 +13688,7 @@ da qualche altezza [[Supernatural|soprannaturale]] contempla una sintesi ancor p
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_03" data-title="Orthodoxy — IX Authority And The Adventurer (part 3)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_03" data-title="Orthodoxy — IX Authority And The Adventurer (part 3)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="motif/cross,motif/flag,motif/ship,motif/silence,motif/summer,motif/supernatural,concept/body,concept/doubt,concept/faith,concept/history,concept/poverty,concept/resurrection,concept/self,form/history,histref/christianity,setting/ship,character/monks"></span>
 
 
 I take in order the next instance offered:  the idea that [[Christianity]]
@@ -13898,7 +13898,7 @@ il [[Supernatural|soprannaturale]] con la rapidità di un treno.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_04" data-title="Orthodoxy — IX Authority And The Adventurer (part 4)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_04" data-title="Orthodoxy — IX Authority And The Adventurer (part 4)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/ghost,motif/desire,motif/ghosts,motif/love,motif/soul,motif/supernatural,motif/time,motif/well,concept/democracy,concept/faith,concept/history,concept/imagination,concept/self,concept/truth,form/history,histref/america,setting/america,character/chorus"></span>
 
 
 But among these million facts all flowing one way there is,
@@ -14012,7 +14012,7 @@ La questione se i miracoli avvengano mai è una questione di buon senso e di ord
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_05" data-title="Orthodoxy — IX Authority And The Adventurer (part 5)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_05" data-title="Orthodoxy — IX Authority And The Adventurer (part 5)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/ghost,motif/bees,motif/cross,motif/desert,motif/fire,motif/flowers,motif/garden,motif/ghosts,motif/home,motif/moon,motif/nature,motif/rose,motif/soul,motif/supernatural,motif/time,motif/water,motif/well,concept/democracy,concept/education,concept/eternity,concept/faith,concept/history,concept/hope,concept/nature,concept/pride,concept/resurrection,concept/truth,form/apologetics,form/history,histref/christianity,setting/desert"></span>
 
 
 As a common-sense conclusion, such as those to which we come
@@ -14260,7 +14260,7 @@ privilegio femminile, io non mi unirò al loro corteo.
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_06" data-title="Orthodoxy — IX Authority And The Adventurer (part 6)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_06" data-title="Orthodoxy — IX Authority And The Adventurer (part 6)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/childhood,motif/flowers,motif/garden,motif/nature,motif/snow,motif/time,motif/winter,concept/beauty,concept/despair,concept/freedom,concept/hope,concept/nature,concept/original_sin,concept/slavery,concept/truth,histref/christianity"></span>
 
 
 For I remember with certainty this fixed psychological fact;
@@ -14369,7 +14369,7 @@ E la sua [[Despair|disperazione]] è questa: che essa in realtà non crede vi si
 
 
 
-<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_07" data-title="Orthodoxy — IX Authority And The Adventurer (part 7)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_ix_authority_and_the_adventurer--part_07" data-title="Orthodoxy — IX Authority And The Adventurer (part 7)" data-chapter="IX Authority And The Adventurer" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/garden,motif/nature,motif/silence,motif/soul,motif/tears,concept/despair,concept/eternity,concept/melancholy,concept/nature,concept/paradox,form/comedy,form/tragedy,histref/christianity,character/oliver"></span>
 
 
 But this larger and more adventurous Christian universe

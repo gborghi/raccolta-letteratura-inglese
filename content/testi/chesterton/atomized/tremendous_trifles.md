@@ -5840,7 +5840,7 @@ The End
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Tremendous Trifles — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Tremendous Trifles — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/birds,motif/chalk,motif/ghosts,motif/lion,motif/wind,form/riddle,form/tragedy"></span>
 
 
 Chapter
@@ -5928,7 +5928,7 @@ XXXVIII La ballata di una strana città XXXIX Il mistero di un corteo
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Tremendous Trifles — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Tremendous Trifles — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/child,motif/fire,motif/garden,motif/home,motif/insects,motif/rose,motif/time,concept/history,concept/pride,concept/wonder,form/history,setting/mountains,character/satan"></span>
 
 
 I
@@ -6069,7 +6069,7 @@ Ho i miei dubbi su tutto questo reale valore dell'alpinismo, del raggiungere la 
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Tremendous Trifles — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Tremendous Trifles — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/artist,motif/blood,motif/chalk,motif/city,motif/dawn,motif/fire,motif/hill,motif/leaves,motif/nature,motif/pain,motif/snow,motif/soul,motif/stars,motif/summer,motif/time,motif/water,motif/well,concept/despair,concept/endurance,concept/mercy,concept/nature,concept/revenge,form/sketch,histref/christianity,character/apollo,character/robin_hood"></span>
 
 
 II
@@ -6255,7 +6255,7 @@ Sedevo sulla [[Hill|collina]] in una sorta di [[Despair|disperazione]]. Non c'er
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Tremendous Trifles — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Tremendous Trifles — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/artist,archetype/detective,motif/autumn,motif/city,motif/death,motif/desire,motif/fire,motif/memory,motif/nature,motif/noon,motif/road,motif/soul,motif/time,motif/water,motif/well,motif/window,concept/body,concept/doubt,concept/nature,concept/truth,form/fragment,setting/london,setting/oxford"></span>
 
 
 III
@@ -6399,7 +6399,7 @@ thing was my companion in the dark.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Tremendous Trifles — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Tremendous Trifles — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/ghost,archetype/lover,motif/chalk,motif/fire,motif/garden,motif/ghosts,motif/love,motif/night,motif/silence,motif/supernatural,motif/time,motif/well,concept/body,concept/honour,concept/martyrdom,concept/truth"></span>
 
 
 IV
@@ -6595,7 +6595,7 @@ Mi guardai attorno. Il [[Garden|giardino]] era pieno di un'ardente oscurità, in
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Tremendous Trifles — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Tremendous Trifles — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/horse,motif/road,motif/stars,motif/time,concept/democracy,concept/despair,concept/doubt,form/parable"></span>
 
 
 V
@@ -6766,7 +6766,7 @@ per quanto avesse vacillato per un istante, era rimasto eretto.
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Tremendous Trifles — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Tremendous Trifles — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/cross,motif/crown,motif/horse,motif/road,motif/soul,motif/time,motif/well,concept/charity,concept/democracy,concept/fear,concept/hope,concept/truth,form/fragment,histref/christianity,setting/london,character/bottom"></span>
 
 
 VI
@@ -6943,7 +6943,7 @@ Ma d'ora in poi comprenderò sempre con una più oscura e più delicata [[Charit
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Tremendous Trifles — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Tremendous Trifles — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/shadow,motif/crown,motif/desert,motif/love,motif/nature,motif/pain,motif/rose,concept/beauty,concept/comradeship,concept/nature,concept/poverty,concept/self_deception,concept/sublime,concept/truth,form/novel,setting/desert,setting/london,setting/mountains"></span>
 
 
 VII
@@ -7103,7 +7103,7 @@ Ogni pessimismo ha per suo oggetto un segreto ottimismo. Ogni rinuncia alla vita
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Tremendous Trifles — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Tremendous Trifles — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/city,motif/cross,motif/death,motif/desire,motif/hill,motif/horse,motif/love,motif/night,motif/river,motif/road,motif/rose,motif/silence,motif/stars,motif/time,motif/well,motif/wheel,concept/doubt,concept/exile,setting/london,setting/mountains,character/falstaff,character/hamlet,character/satan"></span>
 
 
 VIII
@@ -7399,7 +7399,7 @@ per Walham Green.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="Tremendous Trifles — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="Tremendous Trifles — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/city,motif/fire,motif/marriage,motif/nature,motif/night,motif/prison,motif/soul,motif/spring,motif/tears,motif/well,concept/grotesque,concept/history,concept/immortality,concept/nature,concept/reform,concept/truth,form/history,setting/cathedral,setting/london,setting/paris"></span>
 
 
 IX
@@ -7604,7 +7604,7 @@ Ha trovato l'unico metodo di [[Immortality|immortalità]]. Muore ogni giorno.
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Tremendous Trifles — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Tremendous Trifles — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/clock,motif/desire,motif/fire,motif/garden,motif/marriage,motif/night,motif/well,motif/window,concept/freedom,concept/unattainable,histref/bible,character/angelo,character/michael"></span>
 
 
 X
@@ -7870,7 +7870,7 @@ ipocondriaco.
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="Tremendous Trifles — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="Tremendous Trifles — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="archetype/king,motif/blood,motif/childhood,motif/dance,motif/death,motif/pain,motif/time,motif/well,concept/courage,concept/fear,concept/guilt,concept/humility,concept/paradox,concept/truth,form/tragedy,histref/christianity,setting/court"></span>
 
 
 XI
@@ -8160,7 +8160,7 @@ Fondatore del [[Christianity|Cristianesimo]].
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="Tremendous Trifles — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="Tremendous Trifles — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/blood,motif/city,motif/hill,motif/leaves,motif/prison,motif/time,motif/water,motif/well,motif/wind,concept/democracy,concept/history,concept/honour,concept/hope,concept/poverty,concept/truth,concept/wonder,form/history,form/parable,character/bottom"></span>
 
 
 XII
@@ -8450,7 +8450,7 @@ fanno il [[Wind|vento]].
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Tremendous Trifles — Chapter 13" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Tremendous Trifles — Chapter 13" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/ghost,motif/hill,motif/love,motif/river,motif/ship,motif/silence,motif/swallow,motif/time,motif/well,motif/window,concept/democracy,concept/education,concept/grotesque,concept/self,form/satire,form/tragedy,setting/cathedral,setting/ship"></span>
 
 
 XIII
@@ -8719,7 +8719,7 @@ Restai in piedi e ascoltai ancora, ma il mio amico se ne andò.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="Tremendous Trifles — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="Tremendous Trifles — Chapter 14" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/chains,motif/cross,motif/love,motif/marriage,motif/road,motif/soul,motif/time,motif/well,motif/wind,concept/democracy,concept/fear,concept/history,concept/truth,concept/unattainable,form/epic,form/history"></span>
 
 
 XIV
@@ -8987,7 +8987,7 @@ di queste [[Chains|catene]]?»
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Tremendous Trifles — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Tremendous Trifles — Chapter 15" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/blood,motif/chalk,motif/cross,motif/fire,motif/journey,motif/love,motif/summer,motif/tears,motif/time,motif/well,concept/hope,concept/truth,form/epic,character/apollo,character/christ"></span>
 
 
 XV
@@ -9251,7 +9251,7 @@ Alludo al mio biglietto ferroviario.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Tremendous Trifles — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Tremendous Trifles — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/hero,archetype/monster,motif/love,motif/moon,motif/nature,motif/soul,motif/stars,motif/water,concept/aspiration,concept/democracy,concept/doubt,concept/faith,concept/hope,concept/natural_order,concept/nature,concept/slavery,concept/temptation,form/novel,histref/bible"></span>
 
 
 XVI
@@ -9559,7 +9559,7 @@ che egli se ne andò davvero.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Tremendous Trifles — Chapter 17" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Tremendous Trifles — Chapter 17" data-chapter="Chapter 18" data-kind="chapter" data-tags="topos/double,archetype/child,archetype/hero,archetype/innocent,motif/fire,motif/ghosts,motif/marriage,motif/night,motif/pain,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/fear,concept/forgiveness,concept/imagination,form/tragedy,histref/america,setting/america"></span>
 
 
 XVII
@@ -9834,7 +9834,7 @@ Ho pensato vagamente a tutto questo fissando un grande [[Fire|fuoco]] rosso che 
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Tremendous Trifles — Chapter 18" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Tremendous Trifles — Chapter 18" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/child,motif/animals,motif/leaves,motif/love,motif/nature,motif/night,motif/snow,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/freedom,concept/history,concept/nature,concept/sublime,form/history,form/hymn,histref/christianity,setting/london,setting/mountains,character/apollo,character/christ"></span>
 
 
 XVIII
@@ -10005,7 +10005,7 @@ Poiché è quindi piuttosto dubbio che una persona si metta appositamente dalla 
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="Tremendous Trifles — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="Tremendous Trifles — Chapter 19" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/innocent,motif/chalk,motif/cross,motif/dance,motif/hill,motif/home,motif/night,motif/road,motif/tears,motif/time,concept/courage,concept/doubt,concept/education,concept/identity,concept/wonder"></span>
 
 
 XIX
@@ -10295,7 +10295,7 @@ abbattuto e gli uomini dal volto scuro nella fotografia regnarono al suo posto.
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="Tremendous Trifles — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="Tremendous Trifles — Chapter 20" data-chapter="Chapter 21" data-kind="chapter" data-tags="motif/cave,motif/city,motif/crown,motif/death,motif/home,motif/night,motif/river,motif/stars,motif/tears,motif/time,motif/wind,concept/apocalypse,concept/honour,concept/hope,form/epic,histref/crusades,histref/french_revolution,setting/paris"></span>
 
 
 XX
@@ -10489,7 +10489,7 @@ Poi raccolse Jack fra un grosso dito e il pollice e lo scagliò via; e mentre Ja
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="Tremendous Trifles — Chapter 21" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="Tremendous Trifles — Chapter 21" data-chapter="Chapter 22" data-kind="chapter" data-tags="archetype/artist,motif/cross,motif/desire,motif/garden,motif/grave,motif/love,motif/nature,motif/noon,motif/road,motif/snow,motif/stars,motif/supernatural,motif/time,concept/nature,concept/paradox,concept/self,concept/truth"></span>
 
 
 XXI
@@ -10645,7 +10645,7 @@ Era sordo e parlava come un torrente. Non parlava dei libri che aveva scritto; e
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="Tremendous Trifles — Chapter 22" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="Tremendous Trifles — Chapter 22" data-chapter="Chapter 23" data-kind="chapter" data-tags="archetype/shadow,motif/home,motif/love,motif/stars,motif/time,motif/well,concept/fear,concept/hope"></span>
 
 
 XXII
@@ -10857,7 +10857,7 @@ Egli sorrise e disse di no.
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Tremendous Trifles — Chapter 23" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Tremendous Trifles — Chapter 23" data-chapter="Chapter 24" data-kind="chapter" data-tags="archetype/child,motif/city,motif/grave,motif/love,motif/nature,motif/stars,motif/time,motif/water,motif/window,concept/beauty,concept/education,concept/hope,concept/immortality,concept/nature,concept/truth,histref/dante,setting/court,character/jones"></span>
 
 
 XXIII
@@ -11055,7 +11055,7 @@ Questo vale specialmente per il teatrino di giocattoli; che, riducendo la scala 
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="Tremendous Trifles — Chapter 24" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="Tremendous Trifles — Chapter 24" data-chapter="Chapter 25" data-kind="chapter" data-tags="motif/garden,motif/love,motif/nature,motif/time,concept/body,concept/conscience,concept/hope,concept/nature,concept/solitude,concept/truth,form/tragedy,histref/christianity,histref/french_revolution,setting/germany,setting/mountains,character/edgar"></span>
 
 
 XXIV
@@ -11216,7 +11216,7 @@ Questo è il resoconto vero ed esatto della Grande Frode del Sigaro, e la sua mo
 
 
 
-<span class="atom-split" data-atom="chapter_26" data-title="Tremendous Trifles — Chapter 25" data-chapter="Chapter 26" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26" data-title="Tremendous Trifles — Chapter 25" data-chapter="Chapter 26" data-kind="chapter" data-tags="archetype/king,motif/cross,motif/flowers,motif/garden,motif/home,motif/nature,motif/prayer,motif/road,motif/spring,motif/time,motif/well,motif/winter,concept/beauty,concept/democracy,concept/despair,concept/doubt,concept/faith,concept/nature,concept/pride,concept/self,form/epigram,histref/puritanism,setting/london,character/sunday"></span>
 
 
 XXV
@@ -11421,7 +11421,7 @@ Tenni il mio discorso, arrivando proprio quando tutti stavano decidendo di andar
 
 
 
-<span class="atom-split" data-atom="chapter_27" data-title="Tremendous Trifles — Chapter 26" data-chapter="Chapter 27" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27" data-title="Tremendous Trifles — Chapter 26" data-chapter="Chapter 27" data-kind="chapter" data-tags="archetype/innocent,archetype/lover,motif/city,motif/dust,motif/love,motif/moon,motif/nature,motif/night,motif/noon,motif/rose,motif/secrets,motif/stars,motif/storm,motif/time,motif/water,concept/doubt,concept/nature,concept/union"></span>
 
 
 XXVI
@@ -11626,7 +11626,7 @@ Ma il mare non volle fermarsi per me più di quanto facesse per Canuto; e quanto
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Tremendous Trifles — Chapter 27" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Tremendous Trifles — Chapter 27" data-chapter="Chapter 28" data-kind="chapter" data-tags="archetype/detective,motif/blood,motif/desire,motif/home,motif/poison,motif/silence,motif/well,motif/window,concept/pride,concept/self,concept/temptation,form/comedy,form/tragedy,character/michael"></span>
 
 
 XXVII
@@ -11797,7 +11797,7 @@ In questo caso dobbiamo essere logici ed esatti; poiché dobbiamo vigilare su no
 
 
 
-<span class="atom-split" data-atom="chapter_29" data-title="Tremendous Trifles — Chapter 28" data-chapter="Chapter 29" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29" data-title="Tremendous Trifles — Chapter 28" data-chapter="Chapter 29" data-kind="chapter" data-tags="topos/double,archetype/monster,motif/desire,motif/garden,motif/hill,motif/lion,motif/love,motif/night,motif/time,concept/democracy,concept/friendship,concept/history,form/history,setting/germany,setting/london,setting/paris"></span>
 
 
 XXVIII
@@ -11954,7 +11954,7 @@ Mentre lascio questo luogo e prendo la ferrovia per la [[Germany|Germania]], le 
 
 
 
-<span class="atom-split" data-atom="chapter_30" data-title="Tremendous Trifles — Chapter 29" data-chapter="Chapter 30" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30" data-title="Tremendous Trifles — Chapter 29" data-chapter="Chapter 30" data-kind="chapter" data-tags="archetype/child,archetype/king,motif/city,motif/crown,motif/decay,motif/horse,motif/love,motif/night,motif/pain,motif/road,motif/rose,motif/silence,motif/time,motif/well,concept/doubt,concept/education,concept/history,concept/loneliness,concept/purification,concept/sublime,concept/truth,form/history,histref/america,histref/crusades,setting/america,setting/germany,setting/paris,character/christ,character/phantom,character/tolstoy"></span>
 
 
 XXIX
@@ -12169,7 +12169,7 @@ Ritrovai la via per tornare alla [[City|città]], e qualche [[Time|tempo]] dopo 
 
 
 
-<span class="atom-split" data-atom="chapter_31" data-title="Tremendous Trifles — Chapter 30" data-chapter="Chapter 31" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31" data-title="Tremendous Trifles — Chapter 30" data-chapter="Chapter 31" data-kind="chapter" data-tags="motif/birds,motif/journey,motif/memory,motif/nature,motif/ship,motif/sleep,motif/snow,motif/stars,motif/time,concept/history,concept/nature,concept/resurrection,form/history,form/hymn,setting/battlefield,setting/cathedral,setting/london,setting/ship,character/chorus"></span>
 
 
 XXX
@@ -12372,7 +12372,7 @@ E più pensavo alla cosa, più dolorosamente certo mi pareva che le cose moderne
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="Tremendous Trifles — Chapter 31" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="Tremendous Trifles — Chapter 31" data-chapter="Chapter 32" data-kind="chapter" data-tags="motif/love,motif/nature,motif/night,motif/sleep,motif/time,concept/beauty,concept/democracy,concept/grotesque,concept/imagination,concept/mercy,concept/nature,concept/paradox,concept/truth,form/riddle,histref/catholic_church,setting/germany,setting/london,setting/paris,character/kent"></span>
 
 
 XXXI
@@ -12564,7 +12564,7 @@ Mentre lei guardava l'edera, aprii per la prima [[Time|volta]] da molte settiman
 
 
 
-<span class="atom-split" data-atom="chapter_33" data-title="Tremendous Trifles — Chapter 32" data-chapter="Chapter 33" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33" data-title="Tremendous Trifles — Chapter 32" data-chapter="Chapter 33" data-kind="chapter" data-tags="archetype/innocent,archetype/king,motif/clock,motif/fire,motif/silence,motif/well,motif/winter,concept/democracy,concept/history,concept/pride,concept/self,concept/truth,form/comedy,form/history,form/tragedy"></span>
 
 
 XXXII
@@ -12745,7 +12745,7 @@ Il treno avanza più rapido attraverso i soleggiati campi inglesi. Hanno portato
 
 
 
-<span class="atom-split" data-atom="chapter_34" data-title="Tremendous Trifles — Chapter 33" data-chapter="Chapter 34" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34" data-title="Tremendous Trifles — Chapter 33" data-chapter="Chapter 34" data-kind="chapter" data-tags="motif/cross,motif/fire,motif/lightning,motif/love,motif/silence,motif/time,motif/water,concept/faith,concept/history,concept/individualism,concept/sublime,form/history,form/litany,setting/cathedral,setting/court,setting/london"></span>
 
 
 XXXIII
@@ -12904,7 +12904,7 @@ Rimasi deluso. Non c'era nulla che corrispondesse alla furiosa perentorietà del
 
 
 
-<span class="atom-split" data-atom="chapter_35" data-title="Tremendous Trifles — Chapter 34" data-chapter="Chapter 35" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35" data-title="Tremendous Trifles — Chapter 34" data-chapter="Chapter 35" data-kind="chapter" data-tags="archetype/ghost,archetype/lover,motif/blood,motif/fire,motif/insects,motif/love,motif/nature,motif/night,motif/pain,motif/road,motif/soul,motif/stars,motif/time,motif/well,concept/democracy,concept/despair,concept/doubt,concept/humility,concept/nature,concept/suicide,concept/truth,histref/milton,setting/cathedral,character/milton"></span>
 
 
 XXXIV
@@ -13154,7 +13154,7 @@ al quale si fermò e si trattenne.
 
 
 
-<span class="atom-split" data-atom="chapter_36" data-title="Tremendous Trifles — Chapter 35" data-chapter="Chapter 36" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36" data-title="Tremendous Trifles — Chapter 35" data-chapter="Chapter 36" data-kind="chapter" data-tags="archetype/fool,motif/cross,motif/home,motif/nature,motif/night,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/democracy,concept/nature,form/tragedy,setting/london"></span>
 
 
 XXXV
@@ -13356,7 +13356,7 @@ E mentre me ne stavo lì nell'oscurità, quasi potei immaginare di udirla incrin
 
 
 
-<span class="atom-split" data-atom="chapter_37" data-title="Tremendous Trifles — Chapter 36" data-chapter="Chapter 37" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37" data-title="Tremendous Trifles — Chapter 36" data-chapter="Chapter 37" data-kind="chapter" data-tags="archetype/shadow,motif/blood,motif/city,motif/clock,motif/death,motif/garden,motif/hill,motif/home,motif/horse,motif/road,motif/silence,motif/stars,motif/time,concept/democracy,concept/honour,setting/london"></span>
 
 
 XXXVI
@@ -13617,7 +13617,7 @@ E inchinandosi leggermente al vasetto della senape, l'uomo nel ristorante si rit
 
 
 
-<span class="atom-split" data-atom="chapter_38" data-title="Tremendous Trifles — Chapter 37" data-chapter="Chapter 38" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38" data-title="Tremendous Trifles — Chapter 37" data-chapter="Chapter 38" data-kind="chapter" data-tags="archetype/child,archetype/king,archetype/shadow,motif/decay,motif/desert,motif/ghosts,motif/grave,motif/moon,motif/night,motif/ship,motif/silence,motif/soul,motif/stars,motif/time,motif/well,motif/window,concept/body,concept/hope,concept/suffering,form/comedy,setting/castle,setting/desert,setting/ship,character/queen,character/richard,character/robin_hood"></span>
 
 
 XXXVII
@@ -13959,7 +13959,7 @@ una folla a insorgere.
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="Tremendous Trifles — Chapter 38" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="Tremendous Trifles — Chapter 38" data-chapter="Chapter 39" data-kind="chapter" data-tags="motif/city,motif/cross,motif/hill,motif/home,motif/memory,motif/rose,motif/silence,motif/sleep,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/fear,setting/cathedral,character/queen"></span>
 
 
 XXXVIII
@@ -14251,7 +14251,7 @@ la leggiadra [[City|Città]] di Lierre.
 
 
 
-<span class="atom-split" data-atom="chapter_40" data-title="Tremendous Trifles — Chapter 39" data-chapter="Chapter 40" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40" data-title="Tremendous Trifles — Chapter 39" data-chapter="Chapter 40" data-kind="chapter" data-tags="archetype/detective,archetype/ghost,motif/garden,motif/memory,motif/night,motif/stars,motif/supernatural,motif/time,concept/solitude,histref/christianity,histref/renaissance,setting/london,character/monks,character/phantom"></span>
 
 
 XXXIX

@@ -145,7 +145,7 @@ Ciò che non si spezza è la parola.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="to_st_michael (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="to_st_michael (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/time,concept/honour,setting/mountains,character/michael"></span>
 
 
 # to st [[Michael|michael]]

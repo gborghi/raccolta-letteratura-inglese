@@ -3410,7 +3410,7 @@ Creator formed them to enjoy.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_01" data-title="The Chimes — Chapter 1: First Quarter (part 1)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_01" data-title="The Chimes — Chapter 1: First Quarter (part 1)" data-chapter="First Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/bells,motif/birds,motif/dust,motif/fire,motif/memory,motif/night,motif/sleep,motif/time,motif/well,motif/wheel,motif/wind,motif/winter,concept/doubt,character/trotty_veck"></span>
 
 
 CHAPTER I—First Quarter.
@@ -3520,7 +3520,7 @@ world where ticket-porters are unknown.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_02" data-title="The Chimes — Chapter 1: First Quarter (part 2)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_02" data-title="The Chimes — Chapter 1: First Quarter (part 2)" data-chapter="First Quarter" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/frost,motif/love,motif/road,motif/rose,motif/snow,motif/storm,motif/summer,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/faith,character/speed"></span>
 
 
 But, windy weather, in spite of its using him so roughly, was, after all,
@@ -3627,7 +3627,7 @@ was fain to take an extra trot or two, afterwards, to cure it.
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_03" data-title="The Chimes — Chapter 1: First Quarter (part 3)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_03" data-title="The Chimes — Chapter 1: First Quarter (part 3)" data-chapter="First Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/clock,motif/home,motif/lion,motif/time,motif/well,concept/hope,concept/poverty,concept/self,concept/wonder,character/trotty_veck"></span>
 
 
 The very thing he was in the act of doing one cold day, when the last
@@ -3759,7 +3759,7 @@ little bit more of the cover.  Now guess!’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_04" data-title="The Chimes — Chapter 1: First Quarter (part 4)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_04" data-title="The Chimes — Chapter 1: First Quarter (part 4)" data-chapter="First Quarter" data-kind="excerpt" data-tags="motif/bells,motif/time,motif/well,motif/window,concept/melancholy,form/sketch"></span>
 
 
 Meg was in a perfect fright lest he should guess right too soon;
@@ -3895,7 +3895,7 @@ to bits.  I have had my dinner.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_05" data-title="The Chimes — Chapter 1: First Quarter (part 5)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_05" data-title="The Chimes — Chapter 1: First Quarter (part 5)" data-chapter="First Quarter" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/hill,motif/leaves,motif/love,motif/road,motif/time,motif/well,character/richard,character/trotty_veck"></span>
 
 
 ‘Nonsense,’ said Trotty.  ‘Two dinners in one day!  It an’t possible!
@@ -4017,7 +4017,7 @@ it here.  So!  This is your dinner, is it?’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_06" data-title="The Chimes — Chapter 1: First Quarter (part 6)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_06" data-title="The Chimes — Chapter 1: First Quarter (part 6)" data-chapter="First Quarter" data-kind="excerpt" data-tags="motif/animals,motif/blood,motif/well,concept/body,concept/despair,concept/faith,concept/hope,concept/mortality"></span>
 
 
 ‘Yes, sir,’ repeated Trotty, looking with a fixed eye and a watery mouth,
@@ -4138,7 +4138,7 @@ enough.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_07" data-title="The Chimes — Chapter 1: First Quarter (part 7)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_07" data-title="The Chimes — Chapter 1: First Quarter (part 7)" data-chapter="First Quarter" data-kind="excerpt" data-tags="archetype/lover,motif/blood,motif/desire,motif/love,motif/marriage,motif/well,concept/hope,concept/pride,concept/self,concept/suicide,setting/mountains,character/alderman_cute,character/richard"></span>
 
 
 He anxiously signed, therefore, to the young [[smith]], to take her away.
@@ -4269,7 +4269,7 @@ it?  Ha, ha! now we understand each other.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_first_quarter--part_08" data-title="The Chimes — Chapter 1: First Quarter (part 8)" data-chapter="First Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_first_quarter--part_08" data-title="The Chimes — Chapter 1: First Quarter (part 8)" data-chapter="First Quarter" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/tears,motif/well,concept/wonder,character/alderman_cute"></span>
 
 
 Toby knew not whether to be agonised or glad, to see that Meg had turned
@@ -4363,7 +4363,7 @@ fell, mechanically, into his usual trot, and trotted off.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_01" data-title="The Chimes — Chapter 2: The Second Quarter (part 1)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_01" data-title="The Chimes — Chapter 2: The Second Quarter (part 1)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="motif/autumn,motif/frost,motif/journey,motif/rose,motif/seasons,motif/spring,motif/stars,motif/summer,motif/time,motif/winter,concept/hope,concept/melancholy,concept/mortality,form/allegory,character/alderman_cute"></span>
 
 
 CHAPTER II—The Second Quarter.
@@ -4486,7 +4486,7 @@ great respect.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_02" data-title="The Chimes — Chapter 2: The Second Quarter (part 2)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_02" data-title="The Chimes — Chapter 2: The Second Quarter (part 2)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/grave,motif/love,motif/nature,concept/body,concept/charity,concept/hope,concept/nature,concept/providence,concept/self"></span>
 
 
 Toby replied in the negative.
@@ -4613,7 +4613,7 @@ With that great sentiment, he opened the Alderman’s letter; and read it.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_03" data-title="The Chimes — Chapter 2: The Second Quarter (part 3)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_03" data-title="The Chimes — Chapter 2: The Second Quarter (part 3)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="motif/love,motif/night,motif/rose,motif/time,motif/well,motif/wind,motif/winter,concept/honour,concept/hope,setting/london,character/will_fern"></span>
 
 
 ‘Very polite and attentive, I am sure!’ exclaimed Sir Joseph.  ‘My lady,
@@ -4743,7 +4743,7 @@ Fathers,’ to the burden they had rung out last.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_04" data-title="The Chimes — Chapter 2: The Second Quarter (part 4)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_04" data-title="The Chimes — Chapter 2: The Second Quarter (part 4)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/cross,motif/night,motif/road,motif/time,motif/well,concept/faith,concept/history,concept/hope,concept/wonder,form/history,character/alderman_cute,character/speed,character/will_fern"></span>
 
 
 Toby discharged himself of his commission, therefore, with all possible
@@ -4867,7 +4867,7 @@ tell ’em off by hundreds and by thousands, sooner than by ones.’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_05" data-title="The Chimes — Chapter 2: The Second Quarter (part 5)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_05" data-title="The Chimes — Chapter 2: The Second Quarter (part 5)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/cross,motif/fire,motif/home,motif/night,motif/tears,motif/time,motif/water,motif/well,concept/truth,concept/union,setting/london"></span>
 
 
 Trotty knew he spoke the [[Truth]] in this, and shook his head to signify as
@@ -4986,7 +4986,7 @@ bonnet on the kettle, and hung the lid behind the door!’
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_06" data-title="The Chimes — Chapter 2: The Second Quarter (part 6)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_06" data-title="The Chimes — Chapter 2: The Second Quarter (part 6)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/fire,motif/love,motif/night,motif/prayer,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/wonder,setting/court,character/will_fern"></span>
 
 
 ‘I didn’t go for to do it, my [[Love|love]],’ said Trotty, hastily repairing this
@@ -5100,7 +5100,7 @@ journal drop, and fell back in his chair, appalled!
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_07" data-title="The Chimes — Chapter 2: The Second Quarter (part 7)" data-chapter="The Second Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_second_quarter--part_07" data-title="The Chimes — Chapter 2: The Second Quarter (part 7)" data-chapter="The Second Quarter" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/night,motif/time,motif/well,motif/window,concept/courage,concept/fear,concept/loneliness"></span>
 
 
 ‘Unnatural and cruel!’ Toby cried.  ‘Unnatural and cruel!  None but
@@ -5230,7 +5230,7 @@ vacantly, and sunk down in a swoon.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_01" data-title="The Chimes — Chapter 3: Third Quarter (part 1)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_01" data-title="The Chimes — Chapter 3: Third Quarter (part 1)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/chains,motif/clock,motif/cross,motif/dance,motif/dreams,motif/flowers,motif/grave,motif/home,motif/marriage,motif/night,motif/sleep,motif/supernatural,motif/time,motif/water,motif/well,concept/resurrection,character/dwarf,character/phantom,character/speed"></span>
 
 
 CHAPTER III—Third Quarter.
@@ -5346,7 +5346,7 @@ darksome and unwinking watch.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_02" data-title="The Chimes — Chapter 3: Third Quarter (part 2)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_02" data-title="The Chimes — Chapter 3: Third Quarter (part 2)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/bells,motif/pain,motif/prison,motif/rose,motif/tears,motif/time,motif/well,concept/eternity,concept/fear,concept/hope,concept/mercy,concept/truth,concept/wonder,form/dirge,character/phantom,character/will_fern"></span>
 
 
 A blast of air—how cold and shrill!—came moaning through the tower.  As
@@ -5488,7 +5488,7 @@ street; the [[Child|child]] whom Meg had watched, but now, asleep!
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_03" data-title="The Chimes — Chapter 3: Third Quarter (part 3)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_03" data-title="The Chimes — Chapter 3: Third Quarter (part 3)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/home,motif/night,motif/pain,motif/tears,motif/time,concept/honour,concept/hope,concept/providence,concept/self,character/alderman_cute,character/bottom,character/phantom"></span>
 
 
 ‘I carried her myself, to-[[Night|night]],’ said Trotty.  ‘In these arms!’
@@ -5627,7 +5627,7 @@ emotion.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_04" data-title="The Chimes — Chapter 3: Third Quarter (part 4)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_04" data-title="The Chimes — Chapter 3: Third Quarter (part 4)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/king,motif/love,motif/machine,motif/nature,motif/rose,motif/soul,motif/time,motif/window,concept/hope,concept/melancholy,concept/nature,concept/pride,concept/solitude,concept/suffering,concept/suicide,character/alderman_cute,character/pistol,character/richard"></span>
 
 
 But, there was more than this to happen.  Even more than this.  Sir
@@ -5751,7 +5751,7 @@ again, as fast as it could come.
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_05" data-title="The Chimes — Chapter 3: Third Quarter (part 5)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_05" data-title="The Chimes — Chapter 3: Third Quarter (part 5)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/nature,motif/night,motif/prison,motif/road,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,concept/identity,concept/nature,concept/truth,character/alderman_cute,character/bottom,character/richard,character/will_fern"></span>
 
 
 At its proper [[Time|time]], the Banquet was served up.  Trotty involuntarily
@@ -5869,7 +5869,7 @@ jail-bird known; and jail’s the only [[Home|home]] he’s got.’
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_06" data-title="The Chimes — Chapter 3: Third Quarter (part 6)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_06" data-title="The Chimes — Chapter 3: Third Quarter (part 6)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/love,motif/night,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/history,concept/mercy,form/history,histref/bible,character/richard"></span>
 
 
 The Alderman nodded sagaciously, as who should say, ‘A very good [[Home|home]]
@@ -5998,7 +5998,7 @@ I do?’
 
 
 
-<span class="atom-split" data-atom="chapter_03_third_quarter--part_07" data-title="The Chimes — Chapter 3: Third Quarter (part 7)" data-chapter="Third Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_third_quarter--part_07" data-title="The Chimes — Chapter 3: Third Quarter (part 7)" data-chapter="Third Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/fire,motif/love,motif/memory,motif/night,motif/rose,motif/tears,concept/beauty,concept/body,concept/hope,concept/mercy,concept/wonder,character/richard"></span>
 
 
 ‘You saw her!’ exclaimed Meg.  ‘You saw her!  O, Lilian, my sweet girl!
@@ -6105,7 +6105,7 @@ touched the old man with its hand, and beckoned him away.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_01" data-title="The Chimes — Chapter 4: Fourth Quarter (part 1)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_01" data-title="The Chimes — Chapter 4: Fourth Quarter (part 1)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/chalk,motif/fire,motif/grave,motif/memory,motif/night,motif/snow,motif/window,concept/conscience,form/fragment,form/inscription"></span>
 
 
 CHAPTER IV—Fourth Quarter.
@@ -6214,7 +6214,7 @@ yet unroasted parts, laughed as if somebody had tickled him.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_02" data-title="The Chimes — Chapter 4: Fourth Quarter (part 2)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_02" data-title="The Chimes — Chapter 4: Fourth Quarter (part 2)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/love,motif/sleep,motif/snow,motif/soul,motif/time,motif/well,concept/melancholy,concept/mercy,character/richard"></span>
 
 
 ‘You’re in spirits, Tugby, my dear,’ observed his wife.
@@ -6362,7 +6362,7 @@ truly for a man, than she for [[Richard]] when he first went wrong.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_03" data-title="The Chimes — Chapter 4: Fourth Quarter (part 3)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_03" data-title="The Chimes — Chapter 4: Fourth Quarter (part 3)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/love,motif/night,motif/pain,motif/prayer,motif/time,motif/well,concept/endurance,concept/history,concept/hope,concept/pride,concept/self,concept/suffering,form/history,character/richard"></span>
 
 
 ‘Oh! he went wrong, did he?’ said the gentleman, pulling out the vent-peg
@@ -6490,7 +6490,7 @@ thanked, she loves it!’
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_04" data-title="The Chimes — Chapter 4: Fourth Quarter (part 4)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_04" data-title="The Chimes — Chapter 4: Fourth Quarter (part 4)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/death,motif/fire,motif/love,motif/memory,motif/night,motif/silence,motif/sleep,motif/snow,motif/soul,motif/tears,motif/time,motif/winter,concept/charity,concept/courage"></span>
 
 
 He saw the woman tend her in the [[Night|night]]; return to her when her grudging
@@ -6626,7 +6626,7 @@ criminal, whose claims allowed of no delay.  Here, too, she failed.
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_05" data-title="The Chimes — Chapter 4: Fourth Quarter (part 5)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_05" data-title="The Chimes — Chapter 4: Fourth Quarter (part 5)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/blood,motif/death,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/soul,motif/wind,motif/winter,concept/eternity,concept/melancholy,concept/mercy,concept/nature,concept/wonder,character/speed"></span>
 
 
 She loved her [[Child|child]], and wished to have it lying on her breast.  And that
@@ -6761,7 +6761,7 @@ to her own, and dies herself, and perils her immortal [[Soul|soul]], to save it!
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_06" data-title="The Chimes — Chapter 4: Fourth Quarter (part 6)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_06" data-title="The Chimes — Chapter 4: Fourth Quarter (part 6)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/dance,motif/fire,motif/home,motif/leaves,motif/night,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,character/richard,character/trotty_veck,character/will_fern"></span>
 
 
 She was in his arms.  He held her now.  His strength was like a giant’s.
@@ -6890,7 +6890,7 @@ size, and closely followed by the marrow-bones and cleavers, and the
 
 
 
-<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_07" data-title="The Chimes — Chapter 4: Fourth Quarter (part 7)" data-chapter="Fourth Quarter" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_fourth_quarter--part_07" data-title="The Chimes — Chapter 4: Fourth Quarter (part 7)" data-chapter="Fourth Quarter" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/night,motif/soul,concept/honour,character/lilian_fern,character/richard,character/will_fern"></span>
 
 
 Trotty said, ‘It’s Mrs. Chickenstalker!’  And sat down and beat his knees

@@ -8897,7 +8897,7 @@ of a [[Cross|cross]].
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_01" data-title="ball and cross — A Discussion Somewhat in the Air (part 1)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_01" data-title="ball and cross — A Discussion Somewhat in the Air (part 1)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="motif/animals,motif/cross,motif/garden,motif/machine,motif/ship,motif/stars,motif/time,motif/well,concept/fear,concept/history,concept/hope,concept/truth,form/history,setting/mountains,setting/ship,character/bottom,character/lucifer,character/michael"></span>
 
 
 I. A DISCUSSION SOMEWHAT IN THE AIR
@@ -9006,7 +9006,7 @@ a foreign language."
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_02" data-title="ball and cross — A Discussion Somewhat in the Air (part 2)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/desert,motif/fire,motif/ship,motif/time,motif/well,concept/body,concept/truth,setting/cathedral,setting/desert,setting/london,setting/ship,character/lucifer,character/michael"></span>
 
 
 "Come, come," said [[The Professor|the Professor]], encouragingly, "I'll help you out.
@@ -9117,7 +9117,7 @@ The very shape of it is a contradiction in terms."
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_03" data-title="ball and cross — A Discussion Somewhat in the Air (part 3)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_03" data-title="ball and cross — A Discussion Somewhat in the Air (part 3)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="motif/cross,motif/hill,motif/river,motif/ship,motif/stars,motif/summer,motif/well,concept/history,concept/madness,concept/self,form/allegory,form/history,form/parable,histref/christianity,setting/ship,character/bottom,character/lucifer,character/michael"></span>
 
 
 "What you say is perfectly true," said [[Michael]], with serenity.
@@ -9235,7 +9235,7 @@ down a lever and the [[Ship|ship]] shot up with him in it [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_04" data-title="ball and cross — A Discussion Somewhat in the Air (part 4)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_04" data-title="ball and cross — A Discussion Somewhat in the Air (part 4)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/desire,motif/hill,motif/moon,motif/nature,motif/secrets,motif/ship,motif/soul,motif/storm,motif/time,concept/courage,concept/faith,concept/hope,concept/nature,concept/paradox,concept/resignation,concept/truth,concept/wonder,form/comedy,setting/ship,character/lucifer,character/michael"></span>
 
 
 "Ha! ha!" he yelled, "what sort of a support do you find it, old fellow?"
@@ -9367,7 +9367,7 @@ better than all the saints, greater than all the heroes--man Friday.
 
 
 
-<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_05" data-title="ball and cross — A Discussion Somewhat in the Air (part 5)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_a_discussion_somewhat_in_the_air--part_05" data-title="ball and cross — A Discussion Somewhat in the Air (part 5)" data-chapter="A Discussion Somewhat in the Air" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/death,motif/hill,motif/home,motif/love,motif/ship,motif/stars,motif/time,motif/window,concept/mercy,setting/cathedral,setting/ship,character/lucifer,character/michael"></span>
 
 
 In the confused colour and music of his new paradise,
@@ -9497,7 +9497,7 @@ in the world away to an asylum.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_01" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 1)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_01" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 1)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="motif/childhood,motif/cross,motif/death,motif/dust,motif/hill,motif/memory,motif/nature,motif/soul,motif/stars,motif/supernatural,motif/time,motif/window,concept/faith,concept/loneliness,concept/nature,histref/bible,setting/cathedral,setting/london,setting/mountains,character/evan_macian,character/queen,character/virgin_mary"></span>
 
 
 II.  THE RELIGION OF THE STIPENDIARY MAGISTRATE
@@ -9599,7 +9599,7 @@ the [[Stars|stars]] by accident.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_02" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 2)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_02" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 2)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,archetype/king,motif/city,motif/cross,motif/dawn,motif/summer,motif/well,motif/window,motif/winter,setting/london,character/evan_macian,character/nurse,character/queen"></span>
 
 
 His private tradition was equally wild and unworldly.
@@ -9710,7 +9710,7 @@ even the principles of their own existence.
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_03" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 3)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_03" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 3)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/dreams,motif/home,motif/horse,motif/memory,motif/silence,motif/well,motif/window,concept/truth,setting/court,character/evan_macian,character/nurse,character/pistol"></span>
 
 
 The police magistrate, before whom they were hurried and tried,
@@ -9860,7 +9860,7 @@ for my own existence?"
 
 
 
-<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_04" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 4)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_religion_of_the_stipendiary_magistra--part_04" data-title="ball and cross — The Religion of the Stipendiary Magistrate (part 4)" data-chapter="The Religion of the Stipendiary Magistra" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/cross,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/faith,concept/honour,setting/court,character/virgin_mary"></span>
 
 
 The magistrate recovered his voice and his presence of mind.
@@ -9957,7 +9957,7 @@ The atheist drew up his head.  "And I," he said, "give my word."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_01" data-title="ball and cross — Some Old Curiosities (part 1)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_01" data-title="ball and cross — Some Old Curiosities (part 1)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/grave,motif/home,motif/stars,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/honour,setting/london,character/fagin"></span>
 
 
 III.  SOME OLD CURIOSITIES
@@ -10080,7 +10080,7 @@ and I run you through the [[Body|body]]."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_02" data-title="ball and cross — Some Old Curiosities (part 2)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/garden,motif/machine,motif/pain,motif/prayer,motif/summer,motif/time,motif/well,concept/fear,concept/hope,character/evan_macian"></span>
 
 
 Turnbull put the bright point of the [[Sword|sword]] against the gay
@@ -10200,7 +10200,7 @@ second to lose either.  Do as I do."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_03" data-title="ball and cross — Some Old Curiosities (part 3)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_03" data-title="ball and cross — Some Old Curiosities (part 3)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/cross,motif/garden,motif/horse,motif/soul,motif/time,concept/truth,setting/london,character/bottom"></span>
 
 
 With a bound he was beside the little cluster of his clothes and boots
@@ -10328,7 +10328,7 @@ Yes, you open for me a vista of thought."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_04" data-title="ball and cross — Some Old Curiosities (part 4)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_04" data-title="ball and cross — Some Old Curiosities (part 4)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/outsider,motif/blood,motif/cross,motif/dawn,motif/garden,motif/hill,motif/night,motif/road,motif/time,motif/well,motif/window,concept/history,concept/honour,concept/melancholy,form/history,setting/court,setting/london,character/jones"></span>
 
 
 "Don't run into anything," said Evan, immovably.
@@ -10456,7 +10456,7 @@ by great beatitudes.
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_05" data-title="ball and cross — Some Old Curiosities (part 5)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_05" data-title="ball and cross — Some Old Curiosities (part 5)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/detective,motif/city,motif/cross,motif/dawn,motif/garden,motif/lion,motif/night,motif/time,motif/window,concept/democracy,concept/sublime,setting/london"></span>
 
 
 The next morning, five or six of the great [[London]] dailies burst
@@ -10562,7 +10562,7 @@ out like two householders coming out into their doorways.
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_06" data-title="ball and cross — Some Old Curiosities (part 6)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_06" data-title="ball and cross — Some Old Curiosities (part 6)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/grave,motif/home,motif/night,motif/silence,motif/sleep,motif/stars,motif/time,motif/well,concept/reform,setting/mountains"></span>
 
 
 There was a somewhat unmeaning [[Silence|silence]], and then MacIan said again:
@@ -10691,7 +10691,7 @@ for the rest of our days."
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_07" data-title="ball and cross — Some Old Curiosities (part 7)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_07" data-title="ball and cross — Some Old Curiosities (part 7)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/hill,motif/pain,motif/well,motif/window,concept/body,concept/doubt,setting/london,character/evan_macian"></span>
 
 
 MacIan was looking at the horizon with a rather misty look.
@@ -10846,7 +10846,7 @@ that if I thought that I should think wrong?"
 
 
 
-<span class="atom-split" data-atom="story_03_some_old_curiosities--part_08" data-title="ball and cross — Some Old Curiosities (part 8)" data-chapter="Some Old Curiosities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_some_old_curiosities--part_08" data-title="ball and cross — Some Old Curiosities (part 8)" data-chapter="Some Old Curiosities" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/garden,motif/grave,motif/love,motif/time,motif/well,concept/body,histref/catholic_church"></span>
 
 
 "Then you are quite certain that it would be wrong to like me?"
@@ -11000,7 +11000,7 @@ in capo, avanzava serenamente verso di loro.
 
 
 
-<span class="atom-split" data-atom="story_04_the_peacemaker--part_01" data-title="ball and cross — The Peacemaker (part 1)" data-chapter="The Peacemaker" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_peacemaker--part_01" data-title="ball and cross — The Peacemaker (part 1)" data-chapter="The Peacemaker" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/mercy,concept/nature,concept/wonder,setting/london,character/pistol,character/tolstoy"></span>
 
 
 V. THE PEACEMAKER
@@ -11137,7 +11137,7 @@ A surgeon commits bloodshed.
 
 
 
-<span class="atom-split" data-atom="story_04_the_peacemaker--part_02" data-title="ball and cross — The Peacemaker (part 2)" data-chapter="The Peacemaker" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_peacemaker--part_02" data-title="ball and cross — The Peacemaker (part 2)" data-chapter="The Peacemaker" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/hill,motif/love,motif/prayer,motif/silence,motif/soul,motif/time,motif/well,concept/fear,histref/christianity,character/tolstoy"></span>
 
 
 "Ah, you're a casuist!" said the large man, wagging his head.
@@ -11273,7 +11273,7 @@ said Turnbull, quietly.  "The police are coming up the [[Hill|hill]]."
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_01" data-title="ball and cross — The Other Philosopher (part 1)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_01" data-title="ball and cross — The Other Philosopher (part 1)" data-chapter="The Other Philosopher" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/childhood,motif/cross,motif/garden,motif/hill,motif/horse,motif/love,motif/night,motif/road,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/body,concept/friendship,form/epic,character/oliver"></span>
 
 
 VI.  THE OTHER PHILOSOPHER
@@ -11405,7 +11405,7 @@ and rattle of an express train.
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_02" data-title="ball and cross — The Other Philosopher (part 2)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_02" data-title="ball and cross — The Other Philosopher (part 2)" data-chapter="The Other Philosopher" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/fire,motif/garden,motif/grave,motif/silence,motif/sleep,motif/summer,motif/time,motif/well,motif/window,concept/fear,concept/honour,concept/martyrdom"></span>
 
 
 "I ought to tell you," continued MacIan, still staring stolidly
@@ -11546,7 +11546,7 @@ with your [[Summer|summer]]-[[house]] in order to arrange our..."
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_03" data-title="ball and cross — The Other Philosopher (part 3)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_03" data-title="ball and cross — The Other Philosopher (part 3)" data-chapter="The Other Philosopher" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/blood,motif/cross,motif/dreams,motif/flowers,motif/garden,motif/jewel,motif/ship,motif/silence,motif/well,motif/window,setting/court,setting/ship,character/evan_macian"></span>
 
 
 "Stop!" roared the little man in the butterfly necktie.
@@ -11761,7 +11761,7 @@ E si chinò rapidamente dietro la statua fino ad uno spazio aperto d'erba dall'a
 
 
 
-<span class="atom-split" data-atom="story_05_the_other_philosopher--part_04" data-title="ball and cross — The Other Philosopher (part 4)" data-chapter="The Other Philosopher" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_other_philosopher--part_04" data-title="ball and cross — The Other Philosopher (part 4)" data-chapter="The Other Philosopher" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/cross,motif/flowers,motif/garden,motif/road,motif/silence,motif/sleep,motif/spring,motif/stars,motif/water,motif/well,motif/wind,concept/honour,histref/renaissance"></span>
 
 
 MacIan turned his blue, blinking eyes, which seemed still misty with [[Sleep|sleep]]
@@ -11988,7 +11988,7 @@ Nell'energia del suo allarme l'ex membro di Magdalen riuscì a saltare la [[Gard
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_01" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 1)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_01" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 1)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/animals,motif/cross,motif/garden,motif/grave,motif/hill,motif/horse,motif/nature,motif/road,motif/window,concept/nature,setting/oxford"></span>
 
 
 VII.  THE VILLAGE OF GRASSLEY-IN-THE-HOLE
@@ -12120,7 +12120,7 @@ MacIan wore an expression of sad bewilderment not uncommon with him.
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_02" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 2)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_02" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 2)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/horse,motif/love,motif/nature,motif/supernatural,motif/time,motif/well,concept/nature"></span>
 
 
 "You may say so in a very special and emphatic sense," said Turnbull.
@@ -12250,7 +12250,7 @@ Did you not take in those things, too, along with your theology?"
 
 
 
-<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_03" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 3)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_village_of_grassley_in_the_hole--part_03" data-title="ball and cross — The Village of Grassley-in-the-Hole (part 3)" data-chapter="The Village of Grassley in the Hole" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/dawn,motif/hill,motif/night,motif/road,motif/rose,motif/time,motif/well,concept/hope,setting/london"></span>
 
 
 MacIan stared along the dim village [[Road|road]], down which the last
@@ -12399,7 +12399,7 @@ and your Shaws and your Tolstoys have not even got so far."
 
 
 
-<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_01" data-title="ball and cross — An Interlude of Argument (part 1)" data-chapter="An Interlude of Argument" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_01" data-title="ball and cross — An Interlude of Argument (part 1)" data-chapter="An Interlude of Argument" data-kind="excerpt" data-tags="archetype/hero,motif/cross,motif/hill,motif/nature,motif/night,motif/stars,motif/time,concept/doubt,concept/history,concept/nature,form/history,histref/catholic_church,histref/christianity,histref/renaissance,character/james_turnbull,character/monks"></span>
 
 
 VIII.  AN INTERLUDE OF ARGUMENT
@@ -12508,7 +12508,7 @@ virtue which is the result of all your theologies and sacraments."
 
 
 
-<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_02" data-title="ball and cross — An Interlude of Argument (part 2)" data-chapter="An Interlude of Argument" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_an_interlude_of_argument--part_02" data-title="ball and cross — An Interlude of Argument (part 2)" data-chapter="An Interlude of Argument" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/lion,motif/moon,motif/poison,motif/silence,motif/summer,motif/well,concept/faith,concept/truth,concept/union,histref/catholic_church,histref/christianity,histref/puritanism,setting/italy,setting/london,setting/mountains,setting/oxford,character/henry_viii,character/james_turnbull"></span>
 
 
 "Catholic virtue is often invisible because it is the normal,"
@@ -12649,7 +12649,7 @@ And indeed they scarcely spoke another word to each other all that day.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_01" data-title="ball and cross — The Strange Lady (part 1)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_01" data-title="ball and cross — The Strange Lady (part 1)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/lightning,motif/moon,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,motif/wind,concept/solitude"></span>
 
 
 IX.  THE STRANGE LADY
@@ -12778,7 +12778,7 @@ a young lady.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_02" data-title="ball and cross — The Strange Lady (part 2)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_02" data-title="ball and cross — The Strange Lady (part 2)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/cross,motif/hill,motif/moon,motif/road,motif/time,motif/well,concept/body,concept/conscience,concept/self,setting/court"></span>
 
 
 She was sitting bolt upright, a slender and rigid figure gripping
@@ -12890,7 +12890,7 @@ manner and pulled off his cap.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_03" data-title="ball and cross — The Strange Lady (part 3)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_03" data-title="ball and cross — The Strange Lady (part 3)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="archetype/hero,motif/cross,motif/home,motif/machine,motif/moon,motif/night,motif/road,motif/rose,motif/silence,motif/snow,motif/soul,motif/time,motif/well,motif/wheel,concept/self,character/witch"></span>
 
 
 For some solid seconds the lady and he merely looked at each other, and
@@ -13014,7 +13014,7 @@ All these facts were to him certain and incredible, like sacraments.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_04" data-title="ball and cross — The Strange Lady (part 4)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_04" data-title="ball and cross — The Strange Lady (part 4)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/moon,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/doubt,concept/truth"></span>
 
 
 When they had driven half a mile farther, a big [[Shadow|shadow]] was flung
@@ -13143,7 +13143,7 @@ or anything else, I think."  And she sighed again.
 
 
 
-<span class="atom-split" data-atom="story_08_the_strange_lady--part_05" data-title="ball and cross — The Strange Lady (part 5)" data-chapter="The Strange Lady" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_strange_lady--part_05" data-title="ball and cross — The Strange Lady (part 5)" data-chapter="The Strange Lady" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/dust,motif/fire,motif/flag,motif/hill,motif/machine,motif/moon,motif/nature,motif/night,motif/road,motif/secrets,motif/silence,motif/sleep,motif/well,motif/window,concept/courage,concept/grotesque,concept/nature,setting/london,character/evan_macian,character/james_turnbull,character/phantom,character/speed,character/witch"></span>
 
 
 She drove in [[Silence|silence]] a third of a mile before she added, as if
@@ -13259,7 +13259,7 @@ first signals of the sea.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_01" data-title="ball and cross — The Swords Rejoined (part 1)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_01" data-title="ball and cross — The Swords Rejoined (part 1)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,motif/cross,motif/death,motif/hill,motif/river,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/self,character/bottom,character/speed"></span>
 
 
 X. THE SWORDS REJOINED
@@ -13387,7 +13387,7 @@ she replied, with inhuman honesty.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_02" data-title="ball and cross — The Swords Rejoined (part 2)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_02" data-title="ball and cross — The Swords Rejoined (part 2)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/birds,motif/blood,motif/cross,motif/journey,motif/night,motif/pain,motif/road,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/doubt,concept/faith,concept/honour,concept/hope,character/proteus"></span>
 
 
 Evan stood and rolled his eyes in masculine bewilderment.
@@ -13515,7 +13515,7 @@ It was down this clamorous ladder of life that they went down to die.
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_03" data-title="ball and cross — The Swords Rejoined (part 3)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_03" data-title="ball and cross — The Swords Rejoined (part 3)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/cross,motif/death,motif/nature,motif/rose,motif/time,motif/water,motif/well,concept/nature,setting/court,character/bottom,character/evan_macian"></span>
 
 
 They broke out upon a brown semicircle of sand, so free from human
@@ -13641,7 +13641,7 @@ denounce you as a coward to the whole of that assembled company."
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_04" data-title="ball and cross — The Swords Rejoined (part 4)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_04" data-title="ball and cross — The Swords Rejoined (part 4)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/home,motif/night,motif/soul,motif/time,motif/water,motif/well,motif/wind,character/bottom,character/christ,character/evan_macian,character/james_turnbull"></span>
 
 
 Evan looked very doubtful and offered a somewhat wavering weapon;
@@ -13754,7 +13754,7 @@ And [[Christ]] receive thy [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_05" data-title="ball and cross — The Swords Rejoined (part 5)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_05" data-title="ball and cross — The Swords Rejoined (part 5)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/blood,motif/cross,motif/hill,motif/love,motif/poison,motif/prayer,motif/road,concept/courage,concept/faith,concept/honour,concept/pride,concept/self,concept/sublime,form/fragment,form/parody,histref/crusades,setting/london"></span>
 
 
 Turnbull had no such lyrical meditations, but he was in an
@@ -13883,7 +13883,7 @@ in the English uniform came up at a kind of half-military [[Double|double]].
 
 
 
-<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_06" data-title="ball and cross — The Swords Rejoined (part 6)" data-chapter="The Swords Rejoined" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_swords_rejoined--part_06" data-title="ball and cross — The Swords Rejoined (part 6)" data-chapter="The Swords Rejoined" data-kind="excerpt" data-tags="motif/cross,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/honour,setting/london,character/speed"></span>
 
 
 Turnbull saw the stare of consternation in his enemy's face and
@@ -14049,7 +14049,7 @@ Siamo rintracciati dappertutto, perché tutti sanno di noi.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_01" data-title="ball and cross — A Scandal in the Village (part 1)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_01" data-title="ball and cross — A Scandal in the Village (part 1)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,archetype/monster,motif/cross,motif/flag,motif/grave,motif/home,motif/machine,motif/nature,motif/silence,motif/water,motif/well,concept/education,concept/nature,character/hamlet"></span>
 
 
 XI.  A SCANDAL IN THE VILLAGE
@@ -14159,7 +14159,7 @@ that it all went into her prayers.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_02" data-title="ball and cross — A Scandal in the Village (part 2)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_02" data-title="ball and cross — A Scandal in the Village (part 2)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/silence,motif/time,motif/well,concept/loneliness,concept/mercy,concept/nature,concept/self,concept/solitude,concept/wonder,setting/denmark,setting/italy,setting/london,setting/paris,character/hamlet"></span>
 
 
 The conventions of the Isle of St. Loup were necessarily a compromise
@@ -14265,7 +14265,7 @@ with the black elderly beard and the young ardent eyes.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_03" data-title="ball and cross — A Scandal in the Village (part 3)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_03" data-title="ball and cross — A Scandal in the Village (part 3)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/home,motif/night,motif/soul,concept/body,concept/doubt,concept/fear,concept/truth"></span>
 
 
 Up to the moment when Camille had hit the Count, Madeleine had
@@ -14388,7 +14388,7 @@ do as you say--I mean not to do it at all?"
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_04" data-title="ball and cross — A Scandal in the Village (part 4)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_04" data-title="ball and cross — A Scandal in the Village (part 4)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/love,motif/pain,motif/road,motif/time,motif/window,concept/body,concept/truth,concept/wonder,form/fable,character/evan_macian,character/james_turnbull"></span>
 
 
 Then it was that Bert exploded with a brutality which might have come
@@ -14522,7 +14522,7 @@ in Mr. Turnbull's singular umbrella.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_05" data-title="ball and cross — A Scandal in the Village (part 5)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_05" data-title="ball and cross — A Scandal in the Village (part 5)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/desert,motif/hill,motif/road,motif/ship,motif/supernatural,motif/time,motif/well,concept/despair,concept/doubt,concept/truth,histref/america,setting/america,setting/desert,setting/ship,character/evan_macian"></span>
 
 
 The two had a long race for the harbour; but the English police
@@ -14645,7 +14645,7 @@ and her bowsprit pointing upward, as in a sort of idiotic triumph.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_06" data-title="ball and cross — A Scandal in the Village (part 6)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_06" data-title="ball and cross — A Scandal in the Village (part 6)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/grave,motif/hill,motif/night,motif/prayer,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,form/epic,form/tragedy,character/apollo,character/bottom"></span>
 
 
 They tumbled on shore and began to unload the vessel, setting the stores
@@ -14771,7 +14771,7 @@ The consequence of which was that he nearly fell off the rock.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_07" data-title="ball and cross — A Scandal in the Village (part 7)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_07" data-title="ball and cross — A Scandal in the Village (part 7)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/cross,motif/hill,motif/love,motif/road,motif/time,motif/well,concept/doubt,concept/fear,form/riddle,histref/america,setting/america,character/evan_macian,character/james_turnbull"></span>
 
 
 On three sides of this shelly and sandy islet the sea stretched blue
@@ -14974,7 +14974,7 @@ E fu nuovamente sopraffatto.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_08" data-title="ball and cross — A Scandal in the Village (part 8)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_08" data-title="ball and cross — A Scandal in the Village (part 8)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/cross,motif/garden,motif/grave,motif/hill,motif/machine,motif/road,motif/silence,motif/sleep,motif/time,motif/water,motif/well,concept/body,concept/truth,setting/cathedral,setting/london,setting/mountains,character/evan_macian,character/speed"></span>
 
 
 "[[Well]], the [[Truth|truth]] is," said Turnbull, suddenly and startlingly,
@@ -15170,7 +15170,7 @@ Una luce diurna stanca stava sorgendo sul paesaggio, e i campi e le strade erano
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_09" data-title="ball and cross — A Scandal in the Village (part 9)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_09" data-title="ball and cross — A Scandal in the Village (part 9)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/animals,motif/cross,motif/dust,motif/flowers,motif/garden,motif/horse,motif/leaves,motif/road,motif/rose,motif/ship,motif/silence,motif/well,motif/wind,concept/self,concept/unattainable,setting/ship"></span>
 
 
 A hundred and fifty yards behind them down the centre of the empty
@@ -15277,7 +15277,7 @@ whether for kindness or for insolence.
 
 
 
-<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_10" data-title="ball and cross — A Scandal in the Village (part 10)" data-chapter="A Scandal in the Village" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_scandal_in_the_village--part_10" data-title="ball and cross — A Scandal in the Village (part 10)" data-chapter="A Scandal in the Village" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/cross,motif/dance,motif/garden,motif/grave,motif/moon,motif/stars,motif/well"></span>
 
 
 MacIan bowed.  "You can extend to us your pardon," he said,
@@ -15424,7 +15424,7 @@ and one of his elbows had a singular outward jerk as he went by.
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_01" data-title="ball and cross — A Museum of Souls (part 1)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_01" data-title="ball and cross — A Museum of Souls (part 1)" data-chapter="A Museum of Souls" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/rose,motif/ship,motif/well,motif/wind,concept/beauty,concept/deception,concept/humility,concept/madness,concept/self,form/novel,setting/ship"></span>
 
 
 XIV.  A MUSEUM OF SOULS
@@ -15551,7 +15551,7 @@ other gentleman----"
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_02" data-title="ball and cross — A Museum of Souls (part 2)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_02" data-title="ball and cross — A Museum of Souls (part 2)" data-chapter="A Museum of Souls" data-kind="excerpt" data-tags="archetype/king,archetype/usurper,motif/blood,motif/cross,motif/stars,motif/well,concept/doubt,concept/fear,concept/freedom,concept/hope,concept/truth"></span>
 
 
 "The other gentleman," cried Turnbull, scornfully, "is a
@@ -15689,7 +15689,7 @@ but there is no one here who thinks he is Protoplasm."
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_03" data-title="ball and cross — A Museum of Souls (part 3)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_03" data-title="ball and cross — A Museum of Souls (part 3)" data-chapter="A Museum of Souls" data-kind="excerpt" data-tags="archetype/monster,motif/cross,motif/garden,motif/love,motif/silence,motif/time,motif/well,motif/wind,concept/apocalypse,concept/faith,concept/madness,histref/bible,character/christ,character/satan"></span>
 
 
 "They naturally prefer a bright part," said MacIan, wearily.
@@ -15834,7 +15834,7 @@ If there's half an hour of inquiry, we are cooked."
 
 
 
-<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_04" data-title="ball and cross — A Museum of Souls (part 4)" data-chapter="A Museum of Souls" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_a_museum_of_souls--part_04" data-title="ball and cross — A Museum of Souls (part 4)" data-chapter="A Museum of Souls" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/silence,motif/time,motif/well,concept/hope,form/inscription,character/chorus"></span>
 
 
 MacIan looked at the grass frowningly for a few seconds, and then
@@ -16013,7 +16013,7 @@ and then he nodded without a word.
 
 
 
-<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_01" data-title="ball and cross — The Dream of MacIan (part 1)" data-chapter="The Dream of MacIan" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_01" data-title="ball and cross — The Dream of MacIan (part 1)" data-chapter="The Dream of MacIan" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/garden,motif/moon,motif/nature,motif/night,motif/rose,motif/ship,motif/silence,motif/snow,motif/stars,motif/supernatural,motif/well,concept/beauty,concept/doubt,concept/imprisonment,concept/loneliness,concept/nature,concept/self,concept/solitude,setting/ship,character/apollo,character/diana,character/evan_macian"></span>
 
 
 XV.  THE DREAM OF MACIAN
@@ -16134,7 +16134,7 @@ because our kings have come back to us."
 
 
 
-<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_02" data-title="ball and cross — The Dream of MacIan (part 2)" data-chapter="The Dream of MacIan" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_dream_of_macian--part_02" data-title="ball and cross — The Dream of MacIan (part 2)" data-chapter="The Dream of MacIan" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/rebel,motif/cross,motif/crown,motif/death,motif/desire,motif/hill,motif/home,motif/night,motif/ship,motif/silence,motif/stars,motif/time,motif/window,concept/fear,concept/hope,concept/vanity,setting/cathedral,setting/court,setting/london,setting/ship,character/apollo,character/arthur,character/richard,character/saturn"></span>
 
 
 "The Stuart----" began Evan, earnestly.
@@ -16308,7 +16308,7 @@ of the car.
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_01" data-title="ball and cross — The Dream of Turnbull (part 1)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_01" data-title="ball and cross — The Dream of Turnbull (part 1)" data-chapter="The Dream of Turnbull" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/cross,motif/death,motif/flowers,motif/garden,motif/leaves,motif/memory,motif/mirror,motif/ship,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/courage,concept/hope,concept/inner_life,concept/mortality,form/parody,setting/ship"></span>
 
 
 XVI.  THE DREAM OF TURNBULL
@@ -16415,7 +16415,7 @@ all the [[Flowers|flowers]], but especially at the solitary man.
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_02" data-title="ball and cross — The Dream of Turnbull (part 2)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_02" data-title="ball and cross — The Dream of Turnbull (part 2)" data-chapter="The Dream of Turnbull" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/machine,motif/rose,motif/ship,motif/stars,motif/time,motif/well,motif/wind,concept/doubt,concept/eternity,concept/fear,concept/grotesque,histref/french_revolution,setting/ship,character/pistol"></span>
 
 
 "What do you want?" shouted Turnbull.
@@ -16546,7 +16546,7 @@ the other man out of the flying [[Ship|ship]].
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_03" data-title="ball and cross — The Dream of Turnbull (part 3)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_03" data-title="ball and cross — The Dream of Turnbull (part 3)" data-chapter="The Dream of Turnbull" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/fire,motif/hill,motif/machine,motif/pain,motif/prayer,motif/rose,motif/ship,motif/silence,motif/time,motif/well,concept/truth,setting/cathedral,setting/ship,character/evan_macian"></span>
 
 
 "I am an atheist," he said, in a stifled voice.
@@ -16692,7 +16692,7 @@ Then he added with a more open sneer:  "Perhaps they also have souls."
 
 
 
-<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_04" data-title="ball and cross — The Dream of Turnbull (part 4)" data-chapter="The Dream of Turnbull" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_dream_of_turnbull--part_04" data-title="ball and cross — The Dream of Turnbull (part 4)" data-chapter="The Dream of Turnbull" data-kind="excerpt" data-tags="archetype/artist,archetype/mentor,motif/cross,motif/machine,motif/rose,motif/ship,motif/silence,motif/stars,concept/faith,setting/ship,character/christ,character/satan"></span>
 
 
 "They have lives!" said Turnbull, sternly; "that is quite enough for me.
@@ -16854,7 +16854,7 @@ non era ancora scomparso.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_01" data-title="ball and cross — The Idiot (part 1)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_01" data-title="ball and cross — The Idiot (part 1)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/journey,motif/lion,motif/silence,motif/soul,motif/time,motif/well,concept/courage,setting/court,character/evan_macian,character/monks"></span>
 
 
 XVII.  THE IDIOT
@@ -16985,7 +16985,7 @@ which were written, respectively, in neat black capitals B and C.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_02" data-title="ball and cross — The Idiot (part 2)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_02" data-title="ball and cross — The Idiot (part 2)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/bells,motif/cross,motif/death,motif/desert,motif/machine,motif/nature,motif/poison,motif/ship,motif/silence,motif/soul,concept/madness,concept/nature,concept/pride,concept/truth,concept/wonder,setting/desert,setting/mountains,setting/ship"></span>
 
 
 "You go in here, sir," said the leader of the officials,
@@ -17113,7 +17113,7 @@ for the objectless iron peg in the wall.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_03" data-title="ball and cross — The Idiot (part 3)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_03" data-title="ball and cross — The Idiot (part 3)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/decay,motif/machine,motif/nature,motif/silence,motif/time,motif/well,motif/window,concept/imprisonment,concept/loneliness,concept/nature,character/james_turnbull"></span>
 
 
 But in all his moods, sane or insane, intolerant or stoical,
@@ -17240,7 +17240,7 @@ looked at it with a puzzled face.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_04" data-title="ball and cross — The Idiot (part 4)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_04" data-title="ball and cross — The Idiot (part 4)" data-chapter="The Idiot" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/cross,motif/prison,motif/soul,motif/well,motif/window,concept/body,concept/fear,setting/mountains,character/james_turnbull"></span>
 
 
 "What is in there?" he asked.
@@ -17374,7 +17374,7 @@ he said, "I cannot help you?"
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_05" data-title="ball and cross — The Idiot (part 5)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_05" data-title="ball and cross — The Idiot (part 5)" data-chapter="The Idiot" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/chains,motif/cross,motif/garden,motif/water,motif/well,motif/window,concept/courage,concept/fear,form/riddle"></span>
 
 
 Then he turned to MacIan who was standing close behind him,
@@ -17508,7 +17508,7 @@ us walk free in the [[Garden|garden]] again?"
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_06" data-title="ball and cross — The Idiot (part 6)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_06" data-title="ball and cross — The Idiot (part 6)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/silence,motif/well,concept/truth,setting/london"></span>
 
 
 "I understand," said Hutton, with arched eyebrows, "that your
@@ -17633,7 +17633,7 @@ to something connected with the inspection of asylums.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_07" data-title="ball and cross — The Idiot (part 7)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_07" data-title="ball and cross — The Idiot (part 7)" data-chapter="The Idiot" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/cross,motif/dawn,motif/death,motif/garden,motif/moon,motif/nature,motif/pain,motif/spring,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/faith,concept/hope,concept/nature,character/evan_macian"></span>
 
 
 Turnbull's heart gave a leap of excitement which was half [[Hope|hope]].
@@ -17761,7 +17761,7 @@ Now the star had gone out, and there was only misery.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_08" data-title="ball and cross — The Idiot (part 8)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_08" data-title="ball and cross — The Idiot (part 8)" data-chapter="The Idiot" data-kind="excerpt" data-tags="motif/cross,motif/dreams,motif/garden,motif/pain,motif/silence,motif/well,concept/faith,concept/pride,form/riddle,character/phantom"></span>
 
 
 Yet MacIan had the strength to answer the question where Turnbull,
@@ -17901,7 +17901,7 @@ with some hauteur.
 
 
 
-<span class="atom-split" data-atom="story_14_the_idiot--part_09" data-title="ball and cross — The Idiot (part 9)" data-chapter="The Idiot" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_idiot--part_09" data-title="ball and cross — The Idiot (part 9)" data-chapter="The Idiot" data-kind="excerpt" data-tags="archetype/fool,archetype/madwoman,motif/birds,motif/cross,motif/garden,motif/moon,motif/stars,motif/tears,motif/time,motif/well,character/beatrice,character/james_turnbull"></span>
 
 
 MacIan stared at her and then at his boots, and then at the sky and then
@@ -18021,7 +18021,7 @@ finché non cadranno le [[Stars|stelle]]."  Poi alzò gli occhi all'improvviso e
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_01" data-title="ball and cross — The Last Parley (part 1)" data-chapter="The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_01" data-title="ball and cross — The Last Parley (part 1)" data-chapter="The Last Parley" data-kind="excerpt" data-tags="archetype/innocent,motif/bells,motif/cross,motif/desire,motif/fire,motif/garden,motif/love,motif/ship,motif/soul,motif/well,motif/window,concept/guilt,concept/melancholy,setting/ship,character/beatrice,character/james_turnbull"></span>
 
 
 XIX.  THE LAST PARLEY
@@ -18150,7 +18150,7 @@ One never meets such old friends again except in [[A Dream|a dream]]."
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_02" data-title="ball and cross — The Last Parley (part 2)" data-chapter="The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_02" data-title="ball and cross — The Last Parley (part 2)" data-chapter="The Last Parley" data-kind="excerpt" data-tags="motif/cross,motif/garden,motif/love,motif/silence,motif/time,concept/apocalypse,concept/madness,concept/truth,histref/inquisition,character/tolstoy"></span>
 
 
 Then after a [[Silence|silence]] he cried with a rending sincerity:
@@ -18283,7 +18283,7 @@ Turnbull for the first [[Time|time]] started.
 
 
 
-<span class="atom-split" data-atom="story_15_the_last_parley--part_03" data-title="ball and cross — The Last Parley (part 3)" data-chapter="The Last Parley" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_last_parley--part_03" data-title="ball and cross — The Last Parley (part 3)" data-chapter="The Last Parley" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/dreams,motif/garden,motif/silence,motif/time,motif/well"></span>
 
 
 "The ball and----" he repeated.
@@ -18415,7 +18415,7 @@ verso qualche grande collisione.
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_01" data-title="ball and cross — Dies Irae (part 1)" data-chapter="Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_01" data-title="ball and cross — Dies Irae (part 1)" data-chapter="Dies Irae" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/cross,motif/garden,motif/machine,motif/nature,motif/night,motif/well,motif/window,concept/doubt,concept/humility,concept/nature,character/beatrice,character/james_turnbull"></span>
 
 
 XX.  DIES IRAE
@@ -18534,7 +18534,7 @@ as that of the Crucifixion."
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_02" data-title="ball and cross — Dies Irae (part 2)" data-chapter="Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_02" data-title="ball and cross — Dies Irae (part 2)" data-chapter="Dies Irae" data-kind="excerpt" data-tags="archetype/hero,motif/bees,motif/cross,motif/death,motif/fire,motif/machine,motif/soul,motif/time,motif/well,concept/history,concept/hope,concept/suicide,form/fable,form/history,histref/christianity,histref/french_revolution,character/speed"></span>
 
 
 Turnbull growled something which was presumably assent.
@@ -18660,7 +18660,7 @@ sign of [[Sanity|sanity]]."
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_03" data-title="ball and cross — Dies Irae (part 3)" data-chapter="Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_03" data-title="ball and cross — Dies Irae (part 3)" data-chapter="Dies Irae" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/fire,motif/garden,motif/night,motif/pain,motif/ship,motif/stars,motif/time,motif/wind,concept/fear,setting/cathedral,setting/london,setting/ship"></span>
 
 
 "Not at all--this is vengeance," answered Turnbull, quite calmly;
@@ -18792,7 +18792,7 @@ banner of defeat.
 
 
 
-<span class="atom-split" data-atom="story_16_dies_irae--part_04" data-title="ball and cross — Dies Irae (part 4)" data-chapter="Dies Irae" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_dies_irae--part_04" data-title="ball and cross — Dies Irae (part 4)" data-chapter="Dies Irae" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/ship,motif/spring,motif/wind,setting/ship,character/beatrice,character/james_turnbull,character/lucifer"></span>
 
 
 But it was not the [[Wind|wind]]; or, if it was the [[Wind|wind]], it was two winds

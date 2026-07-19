@@ -834,7 +834,7 @@ They are to be found in Crébillon’s ‘Atrée.’”
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Purloined Letter (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Purloined Letter (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/nature,motif/silence,motif/well,concept/doubt,concept/hope,concept/nature,concept/self,setting/paris,character/c_auguste_dupin"></span>
 
 
 Nil sapientiæ odiosius acumine nimio.—_Seneca_.
@@ -979,7 +979,7 @@ no importance—upon the table.”
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Purloined Letter (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Purloined Letter (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/night,motif/sleep,motif/time,concept/despair,setting/court,setting/paris"></span>
 
 
 “Here, then,” said Dupin to me, “you have precisely what you
@@ -1105,7 +1105,7 @@ not take to pieces all the chairs?”
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Purloined Letter (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Purloined Letter (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/dust,motif/time,motif/well,concept/doubt,concept/fear"></span>
 
 
 “Certainly not; but we did better—we examined the rungs of every
@@ -1245,7 +1245,7 @@ mentioned. When you have signed it, I will hand you the letter.”
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Purloined Letter (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Purloined Letter (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,motif/well,character/bottom"></span>
 
 
 I was astounded. The Prefect appeared absolutely
@@ -1389,7 +1389,7 @@ fools.”
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Purloined Letter (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Purloined Letter (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/home,motif/memory,motif/night,motif/well,concept/ambition,concept/deception,concept/doubt,concept/faith,concept/mercy,concept/self,concept/truth,setting/paris"></span>
 
 
 “But is this really the poet?” I asked. “There are two brothers,
@@ -1498,7 +1498,7 @@ being so very [[Self|self]]-evident.”
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Purloined Letter (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Purloined Letter (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/home,motif/river,motif/well,concept/body,concept/self,concept/truth"></span>
 
 
 “Yes,” said I, “I remember his merriment [[Well|well]]. I really thought
@@ -1606,7 +1606,7 @@ suspect.
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Purloined Letter (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Purloined Letter (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/memory,motif/well,motif/window,concept/doubt,concept/identity,setting/paris,character/pistol"></span>
 
 
 “I protracted my visit as long as possible, and, while I

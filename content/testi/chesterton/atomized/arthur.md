@@ -63,7 +63,7 @@ Non sarete un mito, ve lo prometto.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Arthur (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Arthur (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/time,form/fable,character/arthur"></span>
 
 
 "The Myth of [[Arthur]]"  

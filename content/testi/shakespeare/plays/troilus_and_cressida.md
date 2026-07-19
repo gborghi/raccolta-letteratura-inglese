@@ -1594,7 +1594,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Troilus and Cressida — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Troilus and Cressida — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/home,motif/love,motif/night,motif/sleep,motif/time,motif/well,concept/faith,concept/hope,concept/truth,setting/paris,character/apollo,character/cressida,character/hector,character/helen,character/pandarus,character/sunday,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -1647,7 +1647,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Troilus and Cressida — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Troilus and Cressida — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/prophet,motif/autumn,motif/blood,motif/desire,motif/fire,motif/flowers,motif/home,motif/lion,motif/love,motif/nature,motif/rose,motif/soul,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/faith,concept/melancholy,concept/mercy,concept/nature,concept/truth,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/pandarus,character/queen,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -1813,7 +1813,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Troilus and Cressida — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Troilus and Cressida — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/artist,archetype/fool,archetype/king,motif/blood,motif/fire,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/courage,concept/fear,concept/greatness,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,form/masque,setting/mountains,character/achilles,character/agamemnon,character/ajax,character/apollo,character/cressida,character/hector,character/speed,character/thersites,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -1879,7 +1879,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Troilus and Cressida — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/dreams,motif/home,motif/horse,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/nature,concept/revenge,concept/truth,setting/paris,character/achilles,character/agamemnon,character/ajax,character/apollo,character/bottom,character/cressida,character/hector,character/helen,character/queen,character/thersites,character/troilus,character/ulysses,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2007,7 +2007,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Troilus and Cressida — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Troilus and Cressida — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/lion,motif/nature,motif/prayer,motif/silence,motif/sleep,motif/well,concept/ambition,concept/eternity,concept/greatness,concept/melancholy,concept/nature,concept/pride,concept/self,character/achilles,character/agamemnon,character/ajax,character/cressida,character/dwarf,character/hyperion,character/thersites,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -2131,7 +2131,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Troilus and Cressida — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Troilus and Cressida — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/desire,motif/love,motif/soul,motif/well,concept/beauty,concept/faith,concept/honour,concept/hope,concept/melancholy,concept/truth,setting/paris,character/cressida,character/hector,character/helen,character/pandarus,character/queen,character/troilus,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2231,7 +2231,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Troilus and Cressida — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Troilus and Cressida — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/monster,archetype/prophet,archetype/tyrant,archetype/villain,motif/blood,motif/crown,motif/death,motif/desert,motif/desire,motif/fire,motif/lamb,motif/love,motif/memory,motif/moon,motif/night,motif/pain,motif/river,motif/silence,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/self,concept/truth,setting/desert,character/cressida,character/pandarus,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2302,7 +2302,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Troilus and Cressida — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Troilus and Cressida — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/monster,motif/blood,motif/clock,motif/desert,motif/desire,motif/dust,motif/fire,motif/home,motif/horse,motif/lion,motif/love,motif/nature,motif/pain,motif/soul,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/charity,concept/friendship,concept/greatness,concept/honour,concept/longing,concept/nature,concept/pride,concept/providence,concept/wonder,setting/desert,character/achilles,character/agamemnon,character/ajax,character/apollo,character/bottom,character/cressida,character/hector,character/thersites,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -2392,7 +2392,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Troilus and Cressida — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Troilus and Cressida — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/desire,motif/lion,motif/love,motif/pain,motif/silence,motif/soul,motif/time,motif/well,concept/courage,concept/faith,concept/fear,concept/honour,setting/paris,character/cressida,character/helen,character/troilus,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2430,7 +2430,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Troilus and Cressida — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Troilus and Cressida — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/love,motif/nature,motif/night,motif/sleep,concept/nature,setting/paris,character/cressida,character/pandarus,character/troilus,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2486,7 +2486,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Troilus and Cressida — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Troilus and Cressida — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/crown,motif/death,motif/love,motif/soul,motif/time,concept/body,character/cressida,character/pandarus,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2511,7 +2511,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Troilus and Cressida — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Troilus and Cressida — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/love,setting/paris,character/cressida,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2525,7 +2525,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Troilus and Cressida — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Troilus and Cressida — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/villain,motif/death,motif/love,motif/nature,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/faith,concept/fear,concept/friendship,concept/honour,concept/jealousy,concept/mercy,concept/nature,concept/truth,setting/paris,character/achilles,character/cressida,character/hector,character/pandarus,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -2594,7 +2594,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Troilus and Cressida — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/lover,archetype/villain,motif/blood,motif/city,motif/death,motif/desire,motif/home,motif/journey,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/aspiration,concept/body,concept/courage,concept/faith,concept/fear,concept/honour,concept/hope,concept/pride,concept/wonder,setting/paris,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/helen,character/troilus,character/ulysses,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2744,7 +2744,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Troilus and Cressida — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Troilus and Cressida — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/blood,motif/love,motif/moon,motif/nature,motif/night,motif/well,concept/honour,concept/nature,form/fragment,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/queen,character/thersites,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -2802,7 +2802,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Troilus and Cressida — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Troilus and Cressida — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/home,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/beauty,concept/faith,concept/fear,concept/madness,concept/nature,concept/truth,setting/castle,character/ajax,character/cressida,character/diana,character/hector,character/thersites,character/troilus,character/ulysses,character/venus"></span>
 
 
 | Speaker | Line |
@@ -2945,7 +2945,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Troilus and Cressida — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Troilus and Cressida — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/prophet,motif/dreams,motif/lion,motif/love,motif/night,motif/tears,motif/wind,concept/charity,concept/doubt,concept/faith,concept/honour,concept/mercy,character/cressida,character/hector,character/pandarus,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3015,7 +3015,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Troilus and Cressida — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Troilus and Cressida — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/river,concept/honour,concept/mercy,character/achilles,character/ajax,character/cressida,character/hector,character/thersites,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -3040,7 +3040,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Troilus and Cressida — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Troilus and Cressida — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/blood,motif/horse,motif/leaves,concept/beauty,concept/body,concept/courage,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/polixenes,character/troilus,character/ulysses"></span>
 
 
 | Speaker | Line |
@@ -3068,7 +3068,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Troilus and Cressida — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Troilus and Cressida — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/horse,motif/well,character/achilles,character/ajax,character/cressida,character/hector,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3105,7 +3105,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Troilus and Cressida — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Troilus and Cressida — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/wheel,character/achilles,character/cressida,character/hector,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3116,7 +3116,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_8" data-title="Troilus and Cressida — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_8" data-title="Troilus and Cressida — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="topos/double,motif/love,setting/paris,character/cressida,character/thersites,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3134,7 +3134,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_9" data-title="Troilus and Cressida — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_9" data-title="Troilus and Cressida — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,motif/death,motif/horse,motif/night,concept/body,character/achilles,character/cressida,character/hector,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3157,7 +3157,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_10" data-title="Troilus and Cressida — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_10" data-title="Troilus and Cressida — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/death,character/achilles,character/agamemnon,character/ajax,character/cressida,character/hector,character/troilus"></span>
 
 
 | Speaker | Line |
@@ -3174,7 +3174,7 @@ Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_11" data-title="Troilus and Cressida — Act V, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_11" data-title="Troilus and Cressida — Act V, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="archetype/lover,archetype/pilgrim,motif/death,motif/home,motif/horse,motif/love,motif/night,motif/time,concept/conscience,concept/fear,concept/hope,concept/identity,concept/mercy,concept/revenge,concept/self,form/comedy,form/sonnet,form/tragedy,setting/paris,character/chorus,character/cressida,character/hector,character/juliet,character/pandarus,character/romeo,character/speed,character/thersites,character/troilus"></span>
 
 
 | Speaker | Line |

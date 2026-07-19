@@ -668,7 +668,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1" data-title="Edward III — Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_1" data-title="Edward III — Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/crown,motif/death,motif/desire,motif/garden,motif/lion,motif/love,motif/nightingale,motif/storm,concept/courage,concept/honour,concept/hope,concept/pride,concept/self,concept/truth,setting/castle,character/bottom,character/earl_of_richmond,character/earl_of_warwick,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -711,7 +711,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2" data-title="Edward III — Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_2" data-title="Edward III — Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/city,motif/death,motif/desire,motif/fire,motif/flowers,motif/grave,motif/home,motif/horse,motif/lightning,motif/lion,motif/love,motif/marriage,motif/memory,motif/moon,motif/nature,motif/night,motif/nightingale,motif/noon,motif/poison,motif/prison,motif/rose,motif/soul,motif/spring,motif/stars,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/body,concept/charity,concept/faith,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/melancholy,concept/nature,concept/pride,concept/self,setting/castle,setting/court,character/achilles,character/countess_of_salisbury,character/earl_of_warwick,character/edward_iii,character/nurse,character/queen"></span>
 
 
 | Speaker | Line |
@@ -872,7 +872,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_3" data-title="Edward III — Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_3" data-title="Edward III — Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/hero,archetype/king,archetype/lover,motif/blood,motif/death,motif/desire,motif/fire,motif/horse,motif/love,motif/night,motif/river,motif/soul,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/honour,concept/poverty,concept/vanity,character/bottom,character/cleopatra,character/countess_of_salisbury,character/dauphin,character/earl_of_warwick,character/edward_iii,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -963,7 +963,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_4" data-title="Edward III — Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_4" data-title="Edward III — Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/crown,motif/death,motif/dust,motif/flowers,motif/home,motif/leaves,motif/lightning,motif/mirror,motif/moon,motif/night,motif/ship,motif/summer,motif/time,motif/well,motif/wind,concept/fear,concept/honour,concept/hope,concept/pride,setting/ship,character/agamemnon,character/dauphin,character/edward_iii,character/king_of_france,character/nurse,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1006,7 +1006,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_5" data-title="Edward III — Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_5" data-title="Edward III — Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/fire,motif/lion,motif/storm,motif/time,motif/well,motif/wind,motif/winter,concept/despair,concept/fear,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -1032,7 +1032,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_6" data-title="Edward III — Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_6" data-title="Edward III — Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/cross,motif/crown,motif/death,motif/grave,motif/horse,motif/love,motif/night,motif/poison,motif/river,motif/tears,motif/time,motif/well,concept/conscience,concept/courage,concept/faith,concept/honour,concept/pride,concept/revenge,character/dauphin,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1090,7 +1090,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_7" data-title="Edward III — Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_7" data-title="Edward III — Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/death,setting/paris,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1104,7 +1104,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_8" data-title="Edward III — Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_8" data-title="Edward III — Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/hill,motif/horse,motif/lion,motif/love,motif/pain,motif/summer,motif/well,motif/winter,concept/body,concept/courage,concept/fear,concept/honour,concept/hope,concept/providence,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -1148,7 +1148,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_9" data-title="Edward III — Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_9" data-title="Edward III — Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/king,motif/desire,motif/horse,concept/faith,concept/hope,character/earl_of_salisbury,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -1170,7 +1170,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_10" data-title="Edward III — Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_10" data-title="Edward III — Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="archetype/child,archetype/king,motif/death,motif/fire,motif/ghosts,motif/lion,motif/sleep,motif/well,motif/wind,concept/despair,concept/doubt,setting/castle,character/edward_iii,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1205,7 +1205,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_11" data-title="Edward III — Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_11" data-title="Edward III — Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/dreams,motif/prison,motif/well,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/revenge,concept/wonder,character/dauphin,character/edward_iii,character/king_of_france,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1238,7 +1238,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_12" data-title="Edward III — Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_12" data-title="Edward III — Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/death,motif/hill,motif/horse,motif/journey,motif/leaves,motif/love,motif/memory,motif/moon,motif/night,motif/prayer,motif/soul,motif/time,concept/body,concept/charity,concept/fear,concept/hope,concept/mercy,concept/self,character/dauphin,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1271,7 +1271,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_13" data-title="Edward III — Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_13" data-title="Edward III — Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/king,motif/birds,motif/grave,motif/hill,motif/horse,motif/leaves,motif/night,motif/noon,motif/silence,motif/sleep,motif/soul,concept/body,concept/faith,concept/fear,concept/hope,concept/pride,concept/wonder,character/dauphin,character/earl_of_salisbury,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1310,7 +1310,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_14" data-title="Edward III — Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_14" data-title="Edward III — Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="motif/dust,motif/fire,motif/soul,concept/courage,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -1325,7 +1325,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_15" data-title="Edward III — Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_15" data-title="Edward III — Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="archetype/king,archetype/rebel,motif/death,motif/soul,concept/fear,concept/hope,character/dauphin,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1348,7 +1348,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_16" data-title="Edward III — Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_16" data-title="Edward III — Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="motif/blood,concept/hope,character/edward_iii"></span>
 
 
 | Speaker | Line |
@@ -1361,7 +1361,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_17" data-title="Edward III — Scene 17" data-chapter="Scene 17" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_17" data-title="Edward III — Scene 17" data-chapter="Scene 17" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/death,motif/dust,motif/grave,motif/horse,motif/soul,concept/freedom,concept/honour,concept/revenge,setting/castle,character/dauphin,character/edward_iii,character/king_of_france"></span>
 
 
 | Speaker | Line |
@@ -1389,7 +1389,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_18" data-title="Edward III — Scene 18" data-chapter="Scene 18" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_18" data-title="Edward III — Scene 18" data-chapter="Scene 18" data-kind="scene" data-tags="archetype/king,archetype/prophet,motif/blood,motif/city,motif/cross,motif/crown,motif/death,motif/desert,motif/desire,motif/fire,motif/hill,motif/horse,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/well,motif/winter,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/revenge,concept/self,concept/suffering,form/comedy,setting/desert,setting/london,setting/orient,character/adriana,character/angelo,character/antipholus_of_ephesus,character/antipholus_of_syracuse,character/apollonius,character/dauphin,character/dromio_of_syracuse,character/earl_of_salisbury,character/edward_iii,character/egeon,character/emilia,character/king_of_france,character/luciana,character/pericles,character/queen,character/queen_philippa"></span>
 
 
 | Speaker | Line |

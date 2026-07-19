@@ -613,7 +613,7 @@ THE COMING OF THE FAIRIES
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/ship,concept/spiritualism,setting/ship"></span>
 
 
 CHAPTER I
@@ -639,7 +639,7 @@ Well, it is clear that if I do not begin my book I shall finish it before I have
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/africa,setting/egypt,setting/ship"></span>
 
 
 CHAPTER II
@@ -695,7 +695,7 @@ lAnd now we had to cross the dreaded Bight, where the great waves from the south
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/ship"></span>
 
 
 CHAPTER III
@@ -765,7 +765,7 @@ Before I left Adelaide I learned many pleasing things about the lectures, which 
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/journey,concept/spiritualism,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER IV
@@ -817,7 +817,7 @@ H
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/journey,motif/ship,setting/ship"></span>
 
 
 CHAPTER V
@@ -861,7 +861,7 @@ Alas! that we could not linger at Nerrin; but duty was calling at Melbourne. Bes
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER VI
@@ -895,7 +895,7 @@ This then was the climax of our mission in Melbourne. It was marred by the long 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/ship"></span>
 
 
 CHAPTER VII
@@ -945,7 +945,7 @@ On the other hand, I had many which were splendidly instructive and helpful. I w
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/ship"></span>
 
 
 CHAPTER VIII
@@ -1002,7 +1002,7 @@ Before I left Wellington the spiritualists made me a graceful presentation of a 
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,histref/british_empire,setting/africa,setting/ship,setting/south_africa"></span>
 
 
 CHAPTER IX
@@ -1067,7 +1067,7 @@ Anyhow, my own memory will remain. Every man looks on his own country as God’s
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/orient,setting/ship,setting/south_africa"></span>
 
 
 CHAPTER X
@@ -1121,7 +1121,7 @@ On January 17th we were back, tired but contented, in the Medlow Bath Hotel in t
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/ship,concept/spiritualism,setting/ship"></span>
 
 
 CHAPTER XI
@@ -1178,7 +1178,7 @@ The children were fishing for sharks, with a line warranted to hold eighteen pou
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/journey,motif/ship,concept/spiritualism,setting/egypt,setting/ship"></span>
 
 
 CHAPTER XII
@@ -1226,7 +1226,7 @@ I have received English letters which announce that I am to repeat my Australian
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE WANDERINGS OF A SPIRITUALIST — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/journey,concept/spiritualism"></span>
 
 
 CHAPTER XIII

@@ -73,7 +73,7 @@ dinanzi alla gloria del volto di Dio.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="sin (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="sin (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/prophet,motif/grave,motif/love,motif/silence,motif/stars,motif/well"></span>
 
 
 # sin

@@ -316,7 +316,7 @@ The picture hangs now in my library, where it is very much admired by my artisti
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Portrait of Mr. W. H. (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Portrait of Mr. W. H. (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,archetype/lover,motif/blood,motif/city,motif/clock,motif/dawn,motif/death,motif/desire,motif/dreams,motif/fire,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/rose,motif/soul,motif/stars,motif/tears,motif/time,motif/well,concept/beauty,concept/despair,concept/doubt,concept/education,concept/faith,concept/friendship,concept/honour,concept/hope,concept/identity,concept/immortality,concept/martyrdom,concept/nature,concept/self,concept/suicide,concept/truth,concept/wonder,form/allegory,form/comedy,form/short_story,form/sonnet,form/tragedy,histref/catholic_church,setting/court,setting/london,character/cleopatra,character/cyril_graham,character/desdemona,character/erskine,character/juliet,character/lord_arthur_savile,character/portia,character/rosalind,character/viola,character/willie_hughes"></span>
 
 
 This [[Short Story|short story]] was first published in Blackwood’s Magazine in 1889. It was later added to the collection [[Lord Arthur Savile]]’s Crime and Other Stories, though it does not appear in early editions.  The story narrates an attempt to uncover the [[Identity|identity]] of Mr W.H., the enigmatic dedicatee of Shakespeare’s Sonnets. It is based on a theory, originated by Thomas Tyrwhitt, that the Sonnets were addressed to one [[Willie Hughes]], portrayed in the story as a boy actor who specialised in playing women in Shakespeare’s company. This theory depends on the assumption that the dedicatee is also the ‘Fair Youth’ who is the subject of most of the [[Poems|poems]]. The only evidence for this theory is a number of sonnets (such as [[Sonnet]] 20) that make puns on the words ‘Will’ and ‘Hues.’
@@ -430,7 +430,7 @@ As I walked [[Home|home]] through St James’s Park the [[Dawn|dawn]] was just b
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Portrait of Mr. W. H. (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Portrait of Mr. W. H. (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,archetype/king,archetype/lover,archetype/shadow,motif/blood,motif/city,motif/clock,motif/death,motif/desire,motif/dust,motif/fire,motif/grave,motif/home,motif/leaves,motif/love,motif/marriage,motif/memory,motif/nature,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/doubt,concept/history,concept/honour,concept/imagination,concept/immortality,concept/nature,concept/self,concept/self_reliance,concept/truth,concept/wonder,form/comedy,form/history,form/sonnet,form/tragedy,setting/court,setting/germany,setting/london,character/beatrice,character/cyril_graham,character/hamlet,character/juliet,character/king_lear,character/ophelia,character/romeo,character/rosalind,character/theseus,character/willie_hughes"></span>
 
 
 II
@@ -595,7 +595,7 @@ Perhaps he had been one of those English actors who in 1604 went across sea to [
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Portrait of Mr. W. H. (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Portrait of Mr. W. H. (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/cross,motif/death,motif/journey,motif/memory,motif/night,motif/rose,motif/tears,motif/time,motif/well,concept/doubt,concept/faith,concept/grotesque,concept/history,concept/honour,concept/hope,concept/renunciation,concept/suicide,concept/truth,concept/wonder,form/history,form/tragedy,setting/germany,character/cyril_graham,character/erskine,character/phantom,character/willie_hughes"></span>
 
 
 III

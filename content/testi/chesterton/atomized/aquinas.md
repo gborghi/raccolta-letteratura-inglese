@@ -5003,7 +5003,7 @@ to the Everlasting [[philosophy|Philosophy]].
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="St. Thomas Aquinas — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="St. Thomas Aquinas — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/dreams,motif/fire,motif/great_house,motif/hill,motif/ship,motif/time,motif/wind,concept/fear,concept/history,concept/hope,concept/humility,concept/paradox,concept/truth,form/biography,form/history,form/hymn,form/sketch,setting/ship,character/aquinas,character/don_quixote,character/falstaff"></span>
 
 
 I
@@ -5118,7 +5118,7 @@ walked the world, is almost too efficient for me.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="St. Thomas Aquinas — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="St. Thomas Aquinas — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/animals,motif/love,motif/poison,motif/seasons,motif/time,motif/uncanny,motif/well,concept/history,concept/paradox,concept/uncanny,form/history,histref/christianity,histref/reformation,character/aquinas,character/christ"></span>
 
 
 St. Thomas [[aquinas|Aquinas]] has recently reappeared, in the current culture
@@ -5233,7 +5233,7 @@ Nay, in a constructive sense, it was the [[Reformation]].
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="St. Thomas Aquinas — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="St. Thomas Aquinas — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/animals,motif/leaves,motif/love,motif/nature,motif/prison,motif/time,motif/well,concept/history,concept/nature,concept/pride,concept/truth,form/history,histref/christianity,histref/renaissance,character/aquinas,character/christ"></span>
 
 
 About this medieval movement there are two facts that must first
@@ -5338,7 +5338,7 @@ substantially like this.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="St. Thomas Aquinas — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="St. Thomas Aquinas — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/monster,motif/animals,motif/birds,motif/garden,motif/soul,concept/body,concept/faith,concept/history,concept/humility,concept/imagination,concept/poverty,concept/truth,form/history,form/hymn,histref/reformation,histref/renaissance,character/apollo,character/aquinas,character/christ"></span>
 
 
 "Far be it from a poor friar to deny that you have these dazzling
@@ -5461,7 +5461,7 @@ because he had carefully learned all the trick of the Roman Augurs.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="St. Thomas Aquinas — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="St. Thomas Aquinas — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/birds,motif/childhood,motif/desire,motif/flowers,motif/nature,motif/night,motif/soul,motif/supernatural,motif/time,concept/body,concept/faith,concept/nature,concept/resurrection,concept/truth,concept/union,form/sketch,histref/renaissance,character/aquinas,character/christ"></span>
 
 
 In short, most people, Christian or heathen, would now agree
@@ -5587,7 +5587,7 @@ that is told out of the sky; the fairytale that is really true.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="St. Thomas Aquinas — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="St. Thomas Aquinas — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/chalk,motif/home,motif/road,motif/soul,motif/well,concept/body,concept/greatness,concept/paradox,concept/resurrection,concept/sublime,histref/crusades,histref/renaissance,character/aquinas,character/christ"></span>
 
 
 It is plainer still in more popular problems like Free Will.
@@ -5688,7 +5688,7 @@ So was God, when He worked in the workshop of Joseph.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="St. Thomas Aquinas — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="St. Thomas Aquinas — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/flowers,motif/home,motif/horse,concept/conversion,concept/despair,concept/faith,concept/history,concept/poverty,form/history,histref/christianity,setting/italy,character/aquinas"></span>
 
 
 Lastly, these two great men were not only united to each other
@@ -5803,7 +5803,7 @@ saw defeated the Asiatic [[Despair|despair]].
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="St. Thomas Aquinas — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="St. Thomas Aquinas — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/time,histref/french_revolution,character/aquinas"></span>
 
 
 But there is an earlier and more essential link between Dominic
@@ -5935,7 +5935,7 @@ straordinario evento della vita di San Tommaso d'[[aquinas|Aquino]].
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="St. Thomas Aquinas — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="St. Thomas Aquinas — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/crown,motif/river,motif/time,motif/well,concept/body,concept/history,concept/inner_life,concept/truth,concept/wonder,form/biography,form/history,form/translation,histref/catholic_church,histref/christianity,histref/crusades,histref/inquisition,setting/italy,setting/london,setting/oxford,setting/paris,character/aquinas"></span>
 
 
 II
@@ -6053,7 +6053,7 @@ modern admirers very stupid.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="St. Thomas Aquinas — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="St. Thomas Aquinas — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/education,concept/history,concept/nature,form/epic,form/history,histref/dante,setting/castle,setting/new_york,setting/oxford,setting/paris,character/aquinas,character/monks"></span>
 
 
 For Frederick II is the first figure, and that a rather fierce
@@ -6185,7 +6185,7 @@ widespread family quarrel.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="St. Thomas Aquinas — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="St. Thomas Aquinas — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/desire,motif/home,motif/nature,motif/time,motif/well,concept/ambition,concept/courage,concept/nature,setting/castle,character/aquinas"></span>
 
 
 The reason for dwelling here, however, upon the position of the
@@ -6306,7 +6306,7 @@ the lowest place.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="St. Thomas Aquinas — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="St. Thomas Aquinas — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,topos/golden_age,motif/blood,motif/cross,motif/fire,motif/hill,motif/journey,motif/road,motif/rose,motif/storm,motif/time,motif/well,concept/ambition,concept/democracy,concept/faith,concept/history,concept/humility,concept/imagination,concept/imprisonment,concept/mercy,concept/poverty,concept/pride,concept/temptation,form/history,form/riddle,setting/castle,setting/italy,setting/paris,character/aquinas,character/cain"></span>
 
 
 The first effect of his decision, as we have seen, was much more
@@ -6417,7 +6417,7 @@ that secret throne of contemplation, from which he never [[Rose|rose]] again.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="St. Thomas Aquinas — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="St. Thomas Aquinas — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/monster,motif/city,motif/desert,motif/fire,motif/time,motif/well,concept/truth,form/fable,histref/christianity,setting/desert,setting/paris,character/aquinas"></span>
 
 
 III
@@ -6526,7 +6526,7 @@ and strange whispers began to run round the schools.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="St. Thomas Aquinas — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="St. Thomas Aquinas — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,archetype/shadow,motif/animals,motif/home,motif/love,motif/prison,motif/road,motif/silence,motif/soul,motif/storm,motif/time,motif/well,concept/friendship,concept/humility,concept/temptation,concept/truth,form/fable,form/sketch,setting/paris,character/aquinas"></span>
 
 
 A regular religious biographer of Thomas [[aquinas|Aquinas]] (who, needless to say,
@@ -6651,7 +6651,7 @@ may outlast and even devour all the duller appetites of man.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="St. Thomas Aquinas — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="St. Thomas Aquinas — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/love,motif/time,concept/freedom,concept/history,concept/survival,form/history,histref/crusades,histref/islam,character/aquinas,character/monks"></span>
 
 
 At the moment [[aquinas|Aquinas]] and Bonaventure were encouraged in the possibility
@@ -6761,7 +6761,7 @@ quite so stale as that.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="St. Thomas Aquinas — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="St. Thomas Aquinas — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/soul,motif/stars,motif/time,concept/history,concept/immortality,concept/nature,concept/truth,form/history,histref/america,histref/catholic_church,histref/reformation,histref/renaissance,setting/america,character/aquinas,character/sunday"></span>
 
 
 When the moderns, drawing the blackest curtain of obscurantism that
@@ -6885,7 +6885,7 @@ and work requiring very scientific tools.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="St. Thomas Aquinas — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="St. Thomas Aquinas — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/cross,motif/desert,motif/desire,motif/love,motif/storm,motif/time,motif/well,motif/wheel,motif/wind,concept/body,concept/faith,concept/fear,histref/christianity,histref/islam,setting/desert,character/aquinas,character/christ"></span>
 
 
 What made the Aristotelian Revolution really revolutionary was the fact
@@ -6997,7 +6997,7 @@ for Albertus and [[aquinas|Aquinas]] stood firm.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="St. Thomas Aquinas — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="St. Thomas Aquinas — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/death,motif/nature,motif/time,concept/conversion,concept/freedom,concept/humility,concept/nature,concept/self,concept/truth,form/translation,histref/bible,setting/paris,character/apollo,character/aquinas,character/bottom"></span>
 
 
 In that sort of combat there is always confusion; and majorities
@@ -7102,7 +7102,7 @@ a just frontier between them.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="St. Thomas Aquinas — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="St. Thomas Aquinas — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/love,motif/pain,motif/supernatural,motif/well,concept/conscience,concept/faith,concept/greatness,concept/history,concept/humility,concept/truth,form/history,form/parody,histref/christianity,character/aquinas,character/christ"></span>
 
 
 It is often cheerfully remarked that [[Christianity]] has failed,
@@ -7214,7 +7214,7 @@ they had made him agree with them.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="St. Thomas Aquinas — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="St. Thomas Aquinas — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/journey,motif/nature,motif/silence,motif/time,concept/apocalypse,concept/body,concept/faith,concept/fanaticism,concept/history,concept/immortality,concept/nature,concept/pride,concept/self,concept/truth,form/history,character/aquinas,character/king_of_france"></span>
 
 
 Those who complain that theologians draw fine distinctions
@@ -7316,7 +7316,7 @@ But before he had gone many miles on the [[Journey|journey]], he was dead.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="St. Thomas Aquinas — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="St. Thomas Aquinas — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,motif/dawn,motif/hill,motif/lightning,motif/love,motif/sleep,motif/time,motif/well,concept/courage,concept/humility,concept/vanity,form/comedy,histref/christianity,setting/court,setting/paris,character/aquinas"></span>
 
 
 IV
@@ -7428,7 +7428,7 @@ that his wife may the more easily [[Love|love]] him."
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="St. Thomas Aquinas — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="St. Thomas Aquinas — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,archetype/outsider,motif/crown,motif/fire,motif/marriage,motif/nature,motif/silence,motif/well,motif/window,concept/history,concept/honour,concept/mercy,concept/nature,concept/renunciation,concept/truth,form/history,form/sketch,histref/catholic_church,setting/court,setting/italy,character/aquinas,character/monks"></span>
 
 
 And then suddenly the goblets leapt and rattled on the board and the great
@@ -7554,7 +7554,7 @@ and the fakir hanging himself on hooks.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="St. Thomas Aquinas — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="St. Thomas Aquinas — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/usurper,motif/death,motif/love,motif/mutability,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,histref/christianity,character/aquinas,character/kent,character/satan"></span>
 
 
 Now nobody will begin to understand the Thomist [[philosophy]],
@@ -7670,7 +7670,7 @@ the miscalculation of Platonism had come very near to Manicheanism.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="St. Thomas Aquinas — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="St. Thomas Aquinas — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/desert,motif/love,motif/marriage,motif/supernatural,motif/time,motif/well,concept/body,concept/despair,concept/divine_love,concept/melancholy,concept/truth,histref/renaissance,setting/desert,character/aquinas"></span>
 
 
 Popular errors are nearly always right.  They nearly always refer
@@ -7799,7 +7799,7 @@ never became normal to them--until now.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="St. Thomas Aquinas — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="St. Thomas Aquinas — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/hill,motif/silence,motif/well,motif/wheel,concept/charity,concept/comradeship,concept/despair,concept/doubt,concept/faith,concept/freedom,concept/renunciation,concept/sublime,form/sketch,character/aquinas,character/chorus,character/christ"></span>
 
 
 But this fact becomes very vivid indeed, when we compare
@@ -7913,7 +7913,7 @@ do no harm; and the whole world trusted his word.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="St. Thomas Aquinas — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="St. Thomas Aquinas — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/desire,motif/dust,motif/great_house,motif/nature,motif/soul,concept/body,concept/common_man,concept/history,concept/humility,concept/nature,concept/truth,concept/wonder,form/history,form/sketch,setting/italy,character/aquinas,character/christ"></span>
 
 
 Second, in the [[philosophy]] of St. Thomas, it is proved by the fact
@@ -8028,7 +8028,7 @@ as common to uncommon Italians.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="St. Thomas Aquinas — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="St. Thomas Aquinas — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,archetype/villain,motif/death,motif/desire,motif/dreams,motif/fire,motif/flowers,motif/home,motif/well,concept/body,concept/faith,concept/hope,concept/sublime,concept/truth,character/aquinas"></span>
 
 
 His bulk made it easy to regard him humorously as the sort
@@ -8152,7 +8152,7 @@ and surely the mightiest and most magnanimous of the Hounds of Heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_08" data-title="St. Thomas Aquinas — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_08" data-title="St. Thomas Aquinas — Chapter 4 (part 8)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/king,motif/fire,motif/nature,motif/ship,motif/time,motif/well,concept/imagination,concept/nature,setting/ship,character/aquinas,character/christ"></span>
 
 
 There may be many who do not understand the [[Nature|nature]] even of this
@@ -8263,7 +8263,7 @@ but more preoccupied with zeal and less sensitive about publicity.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_09" data-title="St. Thomas Aquinas — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_09" data-title="St. Thomas Aquinas — Chapter 4 (part 9)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/pain,motif/prayer,motif/road,motif/spring,motif/supernatural,motif/time,motif/well,concept/ambition,concept/history,concept/nature,concept/truth,form/history,form/sketch,setting/paris,character/aquinas"></span>
 
 
 The [[Truth|truth]] is that about all such things, in life and [[Death|death]],
@@ -8375,7 +8375,7 @@ knew or suffered greatly on this side of his mind.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_10" data-title="St. Thomas Aquinas — Chapter 4 (part 10)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_10" data-title="St. Thomas Aquinas — Chapter 4 (part 10)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/crown,motif/love,motif/nature,motif/prayer,motif/storm,motif/well,concept/body,concept/humility,concept/nature,concept/self_sufficiency,concept/solitude,setting/paris,character/aquinas,character/chorus,character/christ"></span>
 
 
 There are moments when the most orthodox reader is tempted to hate
@@ -8497,7 +8497,7 @@ of his being born up miraculously in mid-air.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_11" data-title="St. Thomas Aquinas — Chapter 4 (part 11)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_11" data-title="St. Thomas Aquinas — Chapter 4 (part 11)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/city,motif/fire,motif/love,motif/time,concept/charity,concept/conversion,concept/history,concept/hope,concept/truth,form/history,form/sketch,form/translation,histref/america,histref/renaissance,setting/america,character/aquinas,character/columbus"></span>
 
 
 An acute observer said of Thomas [[aquinas|Aquinas]] in his own [[Time|time]], "He could
@@ -8599,7 +8599,7 @@ earthly life; a hint that [[history]] has never been able to explain.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_12" data-title="St. Thomas Aquinas — Chapter 4 (part 12)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_12" data-title="St. Thomas Aquinas — Chapter 4 (part 12)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/animals,motif/childhood,motif/hill,motif/journey,motif/machine,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/wheel,concept/fear,concept/inner_life,concept/longing,concept/nature,concept/self,concept/truth,character/aquinas,character/christ"></span>
 
 
 He had returned victorious from his last combat with Siger of Brabant;
@@ -8690,7 +8690,7 @@ that of a [[Child|child]] of five.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="St. Thomas Aquinas — Chapter 6 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="St. Thomas Aquinas — Chapter 6 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,motif/dreams,motif/home,concept/hope,concept/paradox,concept/truth,histref/reformation,setting/london,character/aquinas,character/oliver"></span>
 
 
 VI
@@ -8862,7 +8862,7 @@ o chiudendo l'altro occhio per vedere una nuova semplificazione delle uova. Il t
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="St. Thomas Aquinas — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="St. Thomas Aquinas — Chapter 6 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/lamb,motif/love,motif/time,concept/history,concept/imagination,form/history,form/translation,character/aquinas,character/jones"></span>
 
 
 Thus, even those who appreciate the metaphysical depth of Thomism
@@ -8988,7 +8988,7 @@ people used it; or as if it might mean all sorts of different things.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="St. Thomas Aquinas — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="St. Thomas Aquinas — Chapter 6 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/nature,motif/well,motif/wind,concept/body,concept/humility,concept/imagination,concept/nature,concept/truth,histref/dante,character/aquinas"></span>
 
 
 Now the Latin word Ens has a sound like the English word End.
@@ -9093,7 +9093,7 @@ That is not another or new way of thinking; it is only ceasing to think.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="St. Thomas Aquinas — Chapter 6 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="St. Thomas Aquinas — Chapter 6 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/soul,motif/tears,motif/time,motif/window,concept/identity,concept/truth,form/sonnet,histref/renaissance,character/aquinas"></span>
 
 
 What is really meant, and what is much more reasonable, is that
@@ -9183,7 +9183,7 @@ as an intellectual equal.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="St. Thomas Aquinas — Chapter 7 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="St. Thomas Aquinas — Chapter 7 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/leaves,motif/nature,motif/supernatural,motif/well,motif/window,concept/conscience,concept/doubt,concept/history,concept/hope,concept/nature,form/history,histref/america,setting/america,character/aquinas"></span>
 
 
 VII
@@ -9296,7 +9296,7 @@ a sort of theology without theism.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="St. Thomas Aquinas — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="St. Thomas Aquinas — Chapter 7 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/city,motif/garden,motif/insects,motif/mirror,motif/nature,motif/stars,motif/window,concept/beauty,concept/history,concept/nature,concept/self,form/history,form/sketch,histref/islam,histref/milton,character/aquinas,character/milton"></span>
 
 
 I do not know for certain why St. Thomas was called the Angelic Doctor:
@@ -9400,7 +9400,7 @@ the whole cosmic system of Christendom.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="St. Thomas Aquinas — Chapter 7 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="St. Thomas Aquinas — Chapter 7 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/moon,motif/mutability,motif/road,motif/time,motif/water,concept/doubt,concept/history,concept/truth,form/history,character/aquinas"></span>
 
 
 Thus, [[aquinas|Aquinas]] insists very profoundly but very practically,
@@ -9508,7 +9508,7 @@ for God with all His powers at every instant is immortally in action.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="St. Thomas Aquinas — Chapter 7 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="St. Thomas Aquinas — Chapter 7 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/ship,motif/water,concept/self,form/comedy,setting/ship,character/aquinas"></span>
 
 
 A cosmic [[Comedy|comedy]] of a very curious sort occurred recently;
@@ -9612,7 +9612,7 @@ should turn itself into everything.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="St. Thomas Aquinas — Chapter 7 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="St. Thomas Aquinas — Chapter 7 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/mutability,motif/nature,motif/time,concept/doubt,concept/humility,concept/nature,concept/truth,form/riddle,form/sketch,form/tragedy,setting/russia,character/aquinas"></span>
 
 
 We have seen that most philosophers simply fail to philosophise
@@ -9731,7 +9731,7 @@ though there may be quite a number of them.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="St. Thomas Aquinas — Chapter 7 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="St. Thomas Aquinas — Chapter 7 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/mutability,setting/germany,character/aquinas"></span>
 
 
 He has seen grass; and will not say he has not seen grass, because it
@@ -9819,7 +9819,7 @@ considerable consideration, I have left out the only important thing.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="St. Thomas Aquinas — Chapter 8 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="St. Thomas Aquinas — Chapter 8 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/marriage,motif/memory,motif/nature,motif/soul,concept/beauty,concept/freedom,concept/imagination,concept/nature,concept/self,character/aquinas"></span>
 
 
 VIII
@@ -9926,7 +9926,7 @@ of an adventurous mind and a strange fact.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="St. Thomas Aquinas — Chapter 8 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="St. Thomas Aquinas — Chapter 8 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/city,motif/marriage,motif/time,motif/well,concept/doubt,concept/faith,concept/truth,histref/dante,character/aquinas"></span>
 
 
 M. Maritain has used an admirable metaphor, in his book Theonas,
@@ -10040,7 +10040,7 @@ Things are a little different now that it has led to universal bankruptcy.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="St. Thomas Aquinas — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="St. Thomas Aquinas — Chapter 8 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,motif/dawn,motif/death,motif/supernatural,motif/time,motif/uncanny,concept/faith,concept/fear,concept/freedom,concept/history,concept/hope,concept/paradox,concept/truth,concept/uncanny,form/history,histref/christianity,histref/reformation,histref/renaissance,setting/germany,character/aquinas,character/christ,character/monks"></span>
 
 
 Here, however, we collide with a colossal [[Paradox|paradox]] of [[history]].
@@ -10150,7 +10150,7 @@ even in mediaeval times.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="St. Thomas Aquinas — Chapter 8 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="St. Thomas Aquinas — Chapter 8 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/pain,motif/storm,motif/supernatural,motif/time,concept/body,concept/fear,concept/history,concept/mercy,concept/pride,concept/truth,form/history,character/aquinas,character/christ,character/monks"></span>
 
 
 It will be found earlier in this book; and it was a quarrel of [[Monks|monks]].
@@ -10250,7 +10250,7 @@ He destroyed Reason; and substituted Suggestion.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="St. Thomas Aquinas — Chapter 8 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="St. Thomas Aquinas — Chapter 8 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/time,motif/well,concept/history,concept/hope,form/history,histref/america,setting/america,character/aquinas"></span>
 
 
 It is said that the great Reformer publicly burned the Summa Theologica

@@ -37211,7 +37211,7 @@ softly of their poor dead cousin.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Nicholas Nickleby — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Nicholas Nickleby — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/marriage,motif/memory,motif/well,concept/poverty,form/satire,setting/court,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 1
@@ -37331,7 +37331,7 @@ them are to this day in the frequent habit of adopting it, with eminent
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Nicholas Nickleby — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Nicholas Nickleby — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,archetype/rebel,motif/death,motif/time,concept/doubt,concept/education,setting/london,character/nicholas_nickleby,character/nurse,character/ralph_nickleby"></span>
 
 
 In like manner, did young [[Ralph Nickleby]] avoid all those minute and
@@ -37438,7 +37438,7 @@ asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Nicholas Nickleby — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Nicholas Nickleby — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/autumn,motif/leaves,motif/night,motif/silence,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/melancholy,form/fragment,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 2
@@ -37542,7 +37542,7 @@ dirt.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Nicholas Nickleby — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Nicholas Nickleby — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/clock,motif/cross,motif/home,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/charity,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 It was into a place of this kind that Mr. [[Ralph Nickleby]] gazed, as he sat
@@ -37687,7 +37687,7 @@ a little mad, I think,’ said Mr. Nickleby, calling up a charitable look,
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Nicholas Nickleby — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Nicholas Nickleby — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/desire,motif/road,motif/time,concept/hope,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 The kind-hearted gentleman omitted to add that [[Newman Noggs]], being
@@ -37794,7 +37794,7 @@ Baking and Punctual Delivery Company!
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Nicholas Nickleby — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Nicholas Nickleby — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/orphan,motif/bells,motif/nature,motif/snow,motif/tears,motif/time,concept/despair,concept/doubt,concept/honour,concept/melancholy,concept/nature,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 Mr. Bonney then presented himself to move the first resolution; and
@@ -37894,7 +37894,7 @@ honourable and glorious Commons of England in Parliament assembled.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Nicholas Nickleby — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Nicholas Nickleby — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/bells,motif/clock,motif/night,motif/soul,motif/time,character/nicholas_nickleby"></span>
 
 
 Then, the gentleman who had been at Crockford’s all [[Night|night]], and who
@@ -37941,7 +37941,7 @@ every such attendance.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Nicholas Nickleby — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Nicholas Nickleby — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/home,motif/road,motif/time,motif/well,concept/body,setting/cathedral,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 3
@@ -38082,7 +38082,7 @@ over the banisters.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Nicholas Nickleby — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Nicholas Nickleby — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/nature,motif/rose,motif/time,motif/well,concept/hope,concept/nature,concept/poverty,character/nicholas_nickleby,character/ralph_nickleby,character/speed"></span>
 
 
 ‘I’ll speak to you a moment, ma’am, with your leave,’ said Ralph.
@@ -38231,7 +38231,7 @@ unbuttoned his spencer. ‘Husbands die every day, ma’am, and wives too.’
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Nicholas Nickleby — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Nicholas Nickleby — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/tears,motif/well,concept/beauty,concept/education,concept/fear,concept/hope,concept/suffering,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘And brothers also, sir,’ said Nicholas, with a glance of indignation.
@@ -38372,7 +38372,7 @@ ruined himself in consequence.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Nicholas Nickleby — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Nicholas Nickleby — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/quest,motif/hill,motif/love,motif/pain,motif/snow,motif/stars,motif/tears,motif/time,motif/well,concept/education,concept/hope,concept/suffering,concept/truth,setting/london,character/nicholas_nickleby,character/ralph_nickleby,character/wackford_squeers"></span>
 
 
 Mr. [[Ralph Nickleby]] heard all this with a half-smile; and when the widow
@@ -38503,7 +38503,7 @@ imprudence.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Nicholas Nickleby — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Nicholas Nickleby — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/city,motif/fire,motif/hill,motif/night,motif/snow,motif/time,motif/well,motif/window,concept/pride,setting/london,character/nicholas_nickleby,character/wackford_squeers"></span>
 
 
 CHAPTER 4
@@ -38604,7 +38604,7 @@ to [[Time|time]], with evident dread and apprehension.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Nicholas Nickleby — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Nicholas Nickleby — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/clock,motif/home,motif/tears,motif/well,motif/window,concept/hope,character/nicholas_nickleby,character/richard"></span>
 
 
 ‘Half-past three,’ muttered Mr. Squeers, turning from the [[Window|window]], and
@@ -38758,7 +38758,7 @@ as if he were some extraordinary natural curiosity.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Nicholas Nickleby — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Nicholas Nickleby — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/swallow,motif/time,motif/well,concept/education,concept/hope,character/nicholas_nickleby,character/ralph_nickleby,character/wackford_squeers"></span>
 
 
 ‘He goes down with me tomorrow, sir,’ said Squeers. ‘That’s his luggage
@@ -38920,7 +38920,7 @@ pocket-money--’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Nicholas Nickleby — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Nicholas Nickleby — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/home,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,character/nicholas_nickleby,character/wackford_squeers"></span>
 
 
 ‘Yes, we know all about that, sir,’ interrupted Ralph, testily. ‘It’s in
@@ -39081,7 +39081,7 @@ parcel, ‘and tell him to wait till I come [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Nicholas Nickleby — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Nicholas Nickleby — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/home,motif/rose,motif/time,concept/imagination,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 Nicholas cheerfully undertook the errand, and bidding his worthy
@@ -39164,7 +39164,7 @@ sounded louder that ever.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Nicholas Nickleby — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Nicholas Nickleby — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/journey,motif/night,motif/pain,motif/road,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,motif/window,motif/winter,concept/melancholy,form/sketch,character/nicholas_nickleby"></span>
 
 
 CHAPTER 5
@@ -39285,7 +39285,7 @@ breakfast at a pump.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Nicholas Nickleby — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Nicholas Nickleby — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/hill,motif/journey,motif/leaves,motif/road,motif/snow,motif/time,motif/water,motif/window,concept/hope,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 Regarding, with no small curiosity and interest, all the busy
@@ -39416,7 +39416,7 @@ I live as long.’
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Nicholas Nickleby — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Nicholas Nickleby — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/love,motif/sleep,motif/time,character/kate_nickleby,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/wackford_squeers"></span>
 
 
 ‘I should never have forgiven myself if I had not seen him,’ said Mrs
@@ -39550,7 +39550,7 @@ treatment and washing in.’
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Nicholas Nickleby — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Nicholas Nickleby — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/road,motif/rose,motif/silence,motif/sleep,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/beauty,character/nicholas_nickleby"></span>
 
 
 ‘Upon my word,’ said the gentleman, glancing at Nicholas with a
@@ -39668,7 +39668,7 @@ uncertainty by flinging him into the [[Road|road]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Nicholas Nickleby — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Nicholas Nickleby — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/animals,motif/fire,motif/snow,motif/time,motif/well,motif/wheel,concept/hope,concept/truth,character/nicholas_nickleby"></span>
 
 
 CHAPTER 6
@@ -39809,7 +39809,7 @@ of it all.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Nicholas Nickleby — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Nicholas Nickleby — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/birds,motif/childhood,motif/city,motif/fire,motif/flowers,motif/garden,motif/home,motif/insects,motif/love,motif/nature,motif/river,motif/rose,motif/silence,motif/summer,motif/time,motif/well,concept/beauty,concept/fear,concept/nature,form/fable,character/monks,character/nicholas_nickleby"></span>
 
 
 ‘As the guard has gone on horseback to Grantham to get another coach,’
@@ -39944,7 +39944,7 @@ a holy preacher have with either?
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Nicholas Nickleby — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Nicholas Nickleby — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/dust,motif/garden,motif/grave,motif/love,motif/nature,motif/noon,motif/rose,motif/silence,motif/soul,motif/tears,concept/doubt,concept/eternity,concept/hope,concept/nature,concept/pride,concept/truth,character/nicholas_nickleby"></span>
 
 
 ‘With eyes bent upon the ground, then, or only raised enough to prevent
@@ -40069,7 +40069,7 @@ towards the [[house]], hand in hand with Alice; the other sisters followed.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Nicholas Nickleby — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Nicholas Nickleby — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/dreams,motif/fire,motif/horse,motif/memory,motif/moon,motif/nature,motif/night,motif/prayer,motif/rose,motif/silence,motif/storm,motif/tears,motif/time,motif/well,motif/wind,concept/beauty,concept/eternity,concept/fear,concept/mercy,concept/nature,concept/pride,character/nicholas_nickleby"></span>
 
 
 ‘The holy man, who had often urged the same point before, but had never
@@ -40184,7 +40184,7 @@ distinguishable for his, as are the bones that crumble in the mould!”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Nicholas Nickleby — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Nicholas Nickleby — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,motif/ghosts,motif/grave,motif/home,motif/memory,motif/moon,motif/night,motif/pain,motif/prayer,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/ambition,concept/doubt,concept/hope,concept/melancholy,setting/castle,setting/cathedral,setting/germany,character/nicholas_nickleby"></span>
 
 
 ‘The lady groaned, and wrung her hands.
@@ -40316,7 +40316,7 @@ from Heaven, in full of all demands.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Nicholas Nickleby — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Nicholas Nickleby — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/home,motif/love,motif/marriage,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/despair,concept/friendship,setting/castle,character/lincoln,character/nicholas_nickleby"></span>
 
 
 ‘Talking of the baron’s ancestor puts me in mind of the baron’s great
@@ -40434,7 +40434,7 @@ off.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="Nicholas Nickleby — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="Nicholas Nickleby — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/lion,motif/love,motif/time,motif/well,motif/window,concept/honour,concept/melancholy,setting/castle,character/bottom,character/lincoln,character/nicholas_nickleby"></span>
 
 
 ‘The baroness pointed, from the [[Window|window]] at which they stood, to the
@@ -40559,7 +40559,7 @@ astonishment, that he was not [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_08" data-title="Nicholas Nickleby — Chapter 6 (part 8)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_08" data-title="Nicholas Nickleby — Chapter 6 (part 8)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/journey,motif/night,motif/pain,motif/time,motif/well,concept/body,concept/despair,concept/melancholy,concept/suicide,character/nicholas_nickleby"></span>
 
 
 ‘No, he was not; for, on the opposite side of the [[Fire|fire]], there sat with
@@ -40760,7 +40760,7 @@ were all put down together at the George and New Inn, Greta Bridge.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Nicholas Nickleby — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Nicholas Nickleby — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/home,motif/horse,motif/journey,motif/love,motif/night,motif/road,motif/silence,motif/snow,motif/time,motif/well,motif/wind,concept/humility,setting/london,character/nicholas_nickleby,character/smike,character/wackford_squeers"></span>
 
 
 CHAPTER 7
@@ -40913,7 +40913,7 @@ six months ago.’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Nicholas Nickleby — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Nicholas Nickleby — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/lamb,motif/silence,motif/sleep,motif/time,motif/well,concept/history,concept/hope,form/history,character/nicholas_nickleby,character/smike"></span>
 
 
 Pending these little endearments, Nicholas had stood, awkwardly enough,
@@ -41056,7 +41056,7 @@ myself on purpose for--’
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Nicholas Nickleby — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Nicholas Nickleby — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/animals,motif/clock,motif/crown,motif/death,motif/fire,motif/home,motif/journey,motif/night,motif/spring,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,setting/castle,setting/london,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘No, no; not for them,’ rejoined Mrs. Squeers; ‘on purpose for you
@@ -41190,7 +41190,7 @@ eyes were dimmed with a moisture that might have been taken for [[Tears|tears]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Nicholas Nickleby — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Nicholas Nickleby — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dreams,motif/home,motif/love,motif/night,motif/time,motif/well,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 8
@@ -41329,7 +41329,7 @@ lend me a hand with my school-coat, will you?’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Nicholas Nickleby — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Nicholas Nickleby — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/cross,motif/crown,motif/dawn,motif/fire,motif/journey,motif/night,motif/silence,motif/swallow,motif/time,concept/beauty,concept/endurance,concept/grotesque,concept/hope,concept/loneliness,concept/suffering,character/nicholas_nickleby,character/smike"></span>
 
 
 Nicholas assisted his master to put on an old fustian shooting-jacket,
@@ -41434,7 +41434,7 @@ virtue of his office, he sat himself down, to wait for school-[[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Nicholas Nickleby — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Nicholas Nickleby — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/horse,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/education,setting/london,character/nicholas_nickleby"></span>
 
 
 He could not but observe how silent and sad the boys all seemed to be.
@@ -41561,7 +41561,7 @@ strong and [[Well|well]] as ever.’
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Nicholas Nickleby — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Nicholas Nickleby — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/love,motif/rose,motif/well,concept/mercy,concept/providence,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 According to half-yearly custom, the boys gave three feeble cheers at
@@ -41694,7 +41694,7 @@ elastic, for hats and caps of all dimensions were alike to him.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Nicholas Nickleby — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Nicholas Nickleby — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/home,motif/journey,motif/night,motif/pain,motif/tears,motif/time,concept/beauty,concept/fear,concept/hope,concept/self,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 This business dispatched, a few slovenly lessons were performed, and
@@ -41805,7 +41805,7 @@ retirement there--followed--to his dirty and crowded dormitory.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Nicholas Nickleby — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Nicholas Nickleby — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/time,motif/well,concept/education,concept/hope,concept/imagination,concept/pride,character/nicholas_nickleby,character/wackford_squeers"></span>
 
 
 CHAPTER 9
@@ -41942,7 +41942,7 @@ and people by their wrong names.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Nicholas Nickleby — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Nicholas Nickleby — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/cross,motif/love,motif/night,motif/poison,motif/time,concept/hope,concept/pride,character/nicholas_nickleby"></span>
 
 
 ‘No matter for that,’ said Mrs. Squeers; ‘I see them with right eyes,
@@ -42079,7 +42079,7 @@ schoolroom door.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Nicholas Nickleby — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Nicholas Nickleby — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/clock,motif/journey,motif/love,motif/night,motif/soul,motif/time,character/nicholas_nickleby"></span>
 
 
 ‘I never saw such legs in the whole course of my life!’ said Miss
@@ -42196,7 +42196,7 @@ the long gloves on, all ready for company.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Nicholas Nickleby — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Nicholas Nickleby — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,motif/window,concept/body,character/nicholas_nickleby"></span>
 
 
 ‘Where’s John, ‘Tilda?’ said Miss Squeers.
@@ -42338,7 +42338,7 @@ on.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Nicholas Nickleby — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Nicholas Nickleby — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,motif/love,motif/nature,motif/tears,motif/time,motif/well,motif/wind,concept/jealousy,concept/nature,character/nicholas_nickleby"></span>
 
 
 It now became Miss Squeers’s turn to intercede with Nicholas, which she
@@ -42494,7 +42494,7 @@ hond.’
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Nicholas Nickleby — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Nicholas Nickleby — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/desire,motif/dreams,motif/love,motif/night,motif/sleep,motif/tears,motif/time,motif/well,concept/mercy,concept/vanity,character/nicholas_nickleby"></span>
 
 
 ‘[[Mercy]] on us, what’s all this?’ cried Miss Price, in affected
@@ -42597,7 +42597,7 @@ and crept into his poor bed.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Nicholas Nickleby — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Nicholas Nickleby — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,character/kate_nickleby,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 10
@@ -42734,7 +42734,7 @@ would a hundred a year for instance, be to him?’
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Nicholas Nickleby — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Nicholas Nickleby — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,motif/love,motif/nature,motif/tears,motif/time,motif/well,concept/fear,concept/nature,concept/poverty,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘I don’t know what it would be to him,’ said Kate, with energy, ‘but it
@@ -42874,7 +42874,7 @@ once.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Nicholas Nickleby — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Nicholas Nickleby — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/horse,motif/love,motif/silence,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/wonder,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘Repining is of no use, ma’am,’ said Ralph. ‘Of all fruitless errands,
@@ -43003,7 +43003,7 @@ as a piece of cunning mechanism, and yielding no one throb of [[Hope|hope]], or
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Nicholas Nickleby — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Nicholas Nickleby — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/night,motif/time,concept/body,concept/hope,concept/imagination,character/kate_nickleby,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Uncle,’ said Kate, when she judged they must be near their destination,
@@ -43129,7 +43129,7 @@ procure discount--at a percentage--for the customers’ bills.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Nicholas Nickleby — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Nicholas Nickleby — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/horse,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/honour,concept/hope,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘My life,’ said Mr. Mantalini, ‘what a demd devil of a [[Time|time]] you have
@@ -43288,7 +43288,7 @@ money-getting. Kate walked sadly back to their lodgings in the Strand.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Nicholas Nickleby — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Nicholas Nickleby — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/fear,concept/nature,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 11
@@ -43426,7 +43426,7 @@ strange figure before.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Nicholas Nickleby — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Nicholas Nickleby — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/death,motif/decay,motif/fire,motif/love,motif/river,motif/road,motif/time,motif/well,concept/fear,concept/truth,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Excuse my curiosity,’ she said, ‘but did I not see you in the
@@ -43544,7 +43544,7 @@ to own her fears, and [[Newman Noggs]] was on his [[Road|road]] homewards.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Nicholas Nickleby — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Nicholas Nickleby — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/hope,concept/nature,concept/renunciation,concept/truth,setting/desert,character/nicholas_nickleby,character/phoebe"></span>
 
 
 CHAPTER 12
@@ -43691,7 +43691,7 @@ tranquillity, that had a mighty effect in soothing her ruffled feelings.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Nicholas Nickleby — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Nicholas Nickleby — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/water,motif/well,concept/friendship,concept/melancholy,concept/nature,concept/reconciliation,character/nicholas_nickleby,character/sunday"></span>
 
 
 This happy state of mind had some influence in bringing about a
@@ -43822,7 +43822,7 @@ some faint notion of the vast importance and superiority of her family.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Nicholas Nickleby — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Nicholas Nickleby — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/love,motif/night,motif/time,motif/well,concept/fear,concept/hope,concept/melancholy,character/nicholas_nickleby"></span>
 
 
 It happened that that particular [[Time|time]], comprising the short daily
@@ -43955,7 +43955,7 @@ choked in right good earnest, at the thought of being so humbled.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Nicholas Nickleby — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Nicholas Nickleby — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/night,motif/noon,motif/soul,motif/tears,motif/well,concept/ambition,concept/pride,character/nicholas_nickleby,character/smike"></span>
 
 
 But, there was one thing clear in the midst of her mortification; and
@@ -44104,7 +44104,7 @@ his old corner.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Nicholas Nickleby — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Nicholas Nickleby — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/dawn,motif/dreams,motif/home,motif/night,motif/pain,motif/sleep,motif/time,motif/well,concept/body,concept/doubt,character/bottom,character/chorus,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 13
@@ -44245,7 +44245,7 @@ I shall be glad to have a talk with him.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Nicholas Nickleby — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Nicholas Nickleby — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/death,motif/journey,motif/night,motif/road,motif/silence,motif/swallow,motif/time,motif/well,concept/beauty,concept/doubt,concept/suffering,concept/wonder,character/bottom,character/nicholas_nickleby,character/smike"></span>
 
 
 There was, of course, a profound [[Silence|silence]], during which Nicholas showed
@@ -44380,7 +44380,7 @@ nothing to me.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Nicholas Nickleby — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Nicholas Nickleby — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/tyrant,motif/fire,motif/home,motif/silence,motif/time,motif/window,concept/fear,concept/identity,form/fragment,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Isn’t it?’ said Squeers in a threatening manner. ‘We shall see!’
@@ -44501,7 +44501,7 @@ out of the way, Mrs. Squeers, my dear; I’ve hardly got room enough.’
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Nicholas Nickleby — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Nicholas Nickleby — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/pain,motif/road,motif/time,concept/body,concept/forgiveness,concept/mercy,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Spare me, sir!’ cried [[Smike]].
@@ -44631,7 +44631,7 @@ stick, which seemed to have been recently cut from some stout sapling.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Nicholas Nickleby — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Nicholas Nickleby — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dreams,motif/grave,motif/hill,motif/home,motif/horse,motif/journey,motif/night,motif/rose,motif/snow,motif/time,motif/well,concept/truth,setting/london,character/dwarf,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘I am in no mood for more noise and riot,’ thought Nicholas, ‘and yet,
@@ -44791,7 +44791,7 @@ so they passed out of the old barn, together.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Nicholas Nickleby — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Nicholas Nickleby — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/time,motif/well,motif/window,concept/hope,concept/melancholy,concept/poverty,concept/revenge,setting/london,character/bottom,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 CHAPTER 14
@@ -44918,7 +44918,7 @@ sit by your [[Fire|fire]] till you come back again.’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Nicholas Nickleby — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Nicholas Nickleby — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/lion,motif/marriage,motif/tears,motif/time,motif/water,concept/beauty,concept/courage,concept/honour,concept/pride,character/nicholas_nickleby,character/sunday"></span>
 
 
 Newman cast a despairing glance at his small store of fuel, but, not
@@ -45034,7 +45034,7 @@ going to say ‘[[house]],’ but he rounded the sentence with ‘apartments’.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Nicholas Nickleby — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Nicholas Nickleby — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/seasons,motif/tears,motif/water,motif/well,concept/body,concept/honour,concept/pride,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 At the conclusion of these observations, which drew forth evidences
@@ -45152,7 +45152,7 @@ should feel proud of that; but don’t give way, don’t.’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Nicholas Nickleby — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Nicholas Nickleby — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/dance,motif/death,motif/grave,motif/love,motif/time,motif/well,concept/beauty,concept/doubt,concept/truth,character/nicholas_nickleby"></span>
 
 
 ‘I can--not help it, and it don’t signify,’ sobbed Mrs. Kenwigs; ‘oh!
@@ -45298,7 +45298,7 @@ think of the young dukes and marquises.’
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Nicholas Nickleby — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Nicholas Nickleby — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/rose,motif/time,concept/fear,concept/pride,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘Very right,’ said the collector.
@@ -45369,7 +45369,7 @@ listened attentively.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Nicholas Nickleby — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Nicholas Nickleby — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/fire,motif/journey,motif/night,motif/pain,motif/sleep,motif/swallow,motif/time,motif/water,motif/well,concept/hope,concept/poverty,concept/pride,concept/suffering,setting/london,character/newman_noggs,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 15
@@ -45496,7 +45496,7 @@ The black-hearted scoundrel!’
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Nicholas Nickleby — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Nicholas Nickleby — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/home,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/grotesque,concept/hope,concept/melancholy,concept/truth,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike,character/wackford_squeers"></span>
 
 
 With this gentle allusion to the absent Mr. Squeers, Nicholas repressed
@@ -45629,7 +45629,7 @@ in [[Melancholy|melancholy]] meditation.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Nicholas Nickleby — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Nicholas Nickleby — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/lion,motif/love,motif/memory,motif/soul,motif/time,motif/water,concept/hope,concept/wonder,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 Meanwhile, the company below stairs, after listening attentively and
@@ -45755,7 +45755,7 @@ oldest inhabitant.’
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Nicholas Nickleby — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Nicholas Nickleby — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/fire,motif/home,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,character/chorus,character/nicholas_nickleby"></span>
 
 
 ‘It’s a strange [[Time|time]] of [[Night|night]] to be called away, sir, certainly,’ said
@@ -45871,7 +45871,7 @@ being escheated to the Kenwigs family.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Nicholas Nickleby — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Nicholas Nickleby — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/journey,motif/love,motif/night,motif/time,motif/well,concept/hope,character/newman_noggs,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘And whatever we are to say to you, sir,’ exclaimed Mrs. Kenwigs,
@@ -45993,7 +45993,7 @@ acquaintance.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Nicholas Nickleby — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Nicholas Nickleby — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/fire,motif/leaves,motif/time,motif/well,motif/window,concept/conversion,setting/london,character/newman_noggs,character/nicholas_nickleby,character/smike,character/sunday"></span>
 
 
 CHAPTER 16
@@ -46117,7 +46117,7 @@ improve the cook.”’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Nicholas Nickleby — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Nicholas Nickleby — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/leaves,motif/well,concept/beauty,concept/doubt,character/nicholas_nickleby"></span>
 
 
 ‘I’ll take the address of that place,’ said the client; ‘I don’t know
@@ -46245,7 +46245,7 @@ steps towards the place whither he had been directed.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Nicholas Nickleby — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Nicholas Nickleby — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="topos/quest,motif/city,motif/ghosts,motif/night,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/melancholy,character/nicholas_nickleby"></span>
 
 
 Within the precincts of the ancient [[City|city]] of Westminster, and within
@@ -46356,7 +46356,7 @@ imperatively necessary.’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="Nicholas Nickleby — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="Nicholas Nickleby — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/nature,motif/night,motif/time,concept/greatness,concept/history,concept/hope,concept/nature,concept/reform,form/history,setting/desert,character/nicholas_nickleby"></span>
 
 
 ‘My conduct, Pugstyles,’ said Mr. Gregsbury, looking round upon the
@@ -46486,7 +46486,7 @@ doing so.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="Nicholas Nickleby — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="Nicholas Nickleby — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/self,concept/suicide,setting/russia,character/nicholas_nickleby"></span>
 
 
 ‘Will you do me the favour to present my compliments to the constituent
@@ -46651,7 +46651,7 @@ fluently about, because nobody understands it. Do you take me?’
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_06" data-title="Nicholas Nickleby — Chapter 16 (part 6)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_06" data-title="Nicholas Nickleby — Chapter 16 (part 6)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/death,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/fear,concept/pride,concept/self,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 ‘I think I understand,’ said Nicholas.
@@ -46779,7 +46779,7 @@ not,’ said Newman.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_07" data-title="Nicholas Nickleby — Chapter 16 (part 7)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_07" data-title="Nicholas Nickleby — Chapter 16 (part 7)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/home,motif/horse,motif/love,motif/night,motif/silence,motif/time,motif/water,concept/ambition,concept/hope,concept/pride,concept/truth,character/dwarf,character/newman_noggs,character/nicholas_nickleby,character/speed"></span>
 
 
 ‘Has it reference to what you said just now?’ asked Nicholas.
@@ -46950,7 +46950,7 @@ fresh discussion on the language.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Nicholas Nickleby — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Nicholas Nickleby — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/cross,motif/marriage,motif/night,motif/poison,motif/soul,motif/time,concept/hope,setting/london,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 CHAPTER 17
@@ -47093,7 +47093,7 @@ England be--’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Nicholas Nickleby — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Nicholas Nickleby — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/jewel,motif/soul,motif/time,motif/well,concept/beauty,character/nicholas_nickleby"></span>
 
 
 Mr. Mantalini did not finish the sentence, but he gave Madame Mantalini
@@ -47225,7 +47225,7 @@ indeed.”’
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Nicholas Nickleby — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Nicholas Nickleby — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/leaves,motif/silence,motif/summer,motif/tears,motif/time,motif/well,concept/greatness,concept/mercy,setting/court,character/nicholas_nickleby"></span>
 
 
 Here Miss Knag paused to take breath, and while she pauses it may be
@@ -47361,7 +47361,7 @@ Miss Knag, and officered of course by Madame Mantalini.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Nicholas Nickleby — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Nicholas Nickleby — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/soul,motif/tears,motif/time,motif/well,concept/pride,character/nicholas_nickleby"></span>
 
 
 Kate’s part in the pageant was humble enough, her duties being limited
@@ -47418,7 +47418,7 @@ she would be undeceived.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Nicholas Nickleby — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Nicholas Nickleby — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/city,motif/horse,motif/love,motif/mirror,motif/nature,motif/night,motif/pain,motif/road,motif/soul,motif/time,motif/well,concept/charity,concept/friendship,concept/hope,concept/nature,concept/suffering,concept/truth,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 CHAPTER 18
@@ -47537,7 +47537,7 @@ upon, the motives that dictated it.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Nicholas Nickleby — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Nicholas Nickleby — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/love,motif/silence,motif/sleep,motif/snow,motif/soul,motif/time,motif/well,concept/doubt,concept/fear,concept/pride,concept/vanity,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 ‘I take quite a lively interest in you, my dear [[Soul|soul]], upon my word,’
@@ -47682,7 +47682,7 @@ afterwards.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Nicholas Nickleby — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Nicholas Nickleby — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/road,motif/time,motif/water,motif/well,motif/window,concept/greatness,concept/history,concept/melancholy,concept/truth,form/history,setting/court,character/nicholas_nickleby"></span>
 
 
 Having quoted this extraordinary and most disinterested testimony to her
@@ -47810,7 +47810,7 @@ devotedly attached to--hem--to Madame Mantalini.’
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Nicholas Nickleby — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Nicholas Nickleby — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/time,motif/water,concept/beauty,concept/friendship,form/novel,character/nicholas_nickleby"></span>
 
 
 ‘Bless me!’ exclaimed Mrs. Nickleby.
@@ -47932,7 +47932,7 @@ week or two,’ interposed Madame Mantalini with a gracious smile.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="Nicholas Nickleby — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="Nicholas Nickleby — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/soul,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/greatness,concept/grotesque,concept/hope,character/chorus,character/nicholas_nickleby"></span>
 
 
 ‘I am afraid you have been giving her some of your wicked looks, my
@@ -48075,7 +48075,7 @@ them fall.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Nicholas Nickleby — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Nicholas Nickleby — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/melancholy,concept/truth,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 19
@@ -48204,7 +48204,7 @@ down again.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Nicholas Nickleby — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Nicholas Nickleby — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="topos/double,motif/city,motif/death,motif/home,motif/silence,motif/time,motif/winter,concept/beauty,concept/doubt,concept/fear,concept/hope,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘What has come over you, my dear, in the name of goodness?’ asked Mrs
@@ -48309,7 +48309,7 @@ crafty face.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Nicholas Nickleby — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Nicholas Nickleby — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/home,motif/jewel,motif/nature,motif/seasons,motif/time,motif/well,concept/nature,setting/london,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘I couldn’t see you before, my dear,’ he said, in a low tone, and
@@ -48449,7 +48449,7 @@ dare say.’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Nicholas Nickleby — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Nicholas Nickleby — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="topos/double,motif/grave,motif/love,motif/time,motif/well,character/bottom,character/nicholas_nickleby"></span>
 
 
 ‘I wish you’d interfere here, Nickleby,’ said Lord Frederick.
@@ -48582,7 +48582,7 @@ at Miss Nickleby’s eyes is worth [[Double|double]] the money.’
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_05" data-title="Nicholas Nickleby — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_05" data-title="Nicholas Nickleby — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/rose,motif/soul,motif/tears,motif/time,concept/fear,concept/pride,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘How goes the enemy, Snobb?’ asked Sir Mulberry Hawk.
@@ -48719,7 +48719,7 @@ wrung them; but he smiled disdainfully, and again pointed to the door.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_06" data-title="Nicholas Nickleby — Chapter 19 (part 6)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_06" data-title="Nicholas Nickleby — Chapter 19 (part 6)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/grave,motif/home,motif/memory,motif/tears,motif/time,motif/well,concept/poverty,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Do you know me, you old madman?’ asked Sir Mulberry.
@@ -48857,7 +48857,7 @@ man who had seen a spirit from some world beyond the [[Grave|grave]].
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Nicholas Nickleby — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Nicholas Nickleby — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/cross,motif/home,motif/night,motif/soul,motif/well,concept/revenge,concept/solitude,concept/truth,concept/wonder,setting/london,character/nicholas_nickleby"></span>
 
 
 CHAPTER 20
@@ -48992,7 +48992,7 @@ manner, that Nicholas was quite moved.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Nicholas Nickleby — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Nicholas Nickleby — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/desire,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/body,concept/honour,concept/hope,concept/suffering,concept/truth,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘I need look somewhat changed,’ he said, after a short [[Silence|silence]]; ‘for
@@ -49124,7 +49124,7 @@ what do you call these?’
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Nicholas Nickleby — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Nicholas Nickleby — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/blood,motif/childhood,motif/grave,motif/love,motif/nature,motif/pain,motif/road,motif/rose,motif/well,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘A lie!’ cried a voice, as the door was dashed open, and Nicholas came
@@ -49258,7 +49258,7 @@ calculated to strike deep into a young and ardent spirit.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Nicholas Nickleby — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Nicholas Nickleby — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/journey,motif/nature,motif/tears,motif/well,concept/hope,concept/melancholy,concept/nature,concept/poverty,concept/suffering,concept/wonder,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 ‘I can’t help it,’ cried Mrs. Nickleby. ‘I know you have been very good
@@ -49406,7 +49406,7 @@ will be poor together.’
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Nicholas Nickleby — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Nicholas Nickleby — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/horse,motif/mirror,motif/rose,motif/soul,motif/time,motif/well,character/kate_nickleby,character/nicholas_nickleby,character/venus"></span>
 
 
 CHAPTER 21
@@ -49552,7 +49552,7 @@ the fine weather.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Nicholas Nickleby — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Nicholas Nickleby — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/home,motif/sleep,motif/time,motif/well,concept/fear,character/bottom,character/nicholas_nickleby"></span>
 
 
 Kate’s very natural impression was, that these engaging individuals
@@ -49683,7 +49683,7 @@ Alfred.’
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Nicholas Nickleby — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Nicholas Nickleby — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/quest,motif/love,motif/poison,motif/road,motif/time,motif/well,concept/education,concept/pride,concept/truth,concept/wonder,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 With such exclamations, she hurried upstairs, followed by Kate who,
@@ -49803,7 +49803,7 @@ bodies, and yet belongs to neither.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Nicholas Nickleby — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Nicholas Nickleby — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/nature,motif/silence,motif/soul,motif/time,concept/body,concept/hope,concept/nature,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 Upon this doubtful ground, lived Mrs. Wititterly, and at Mrs. Wititterly’s
@@ -49952,7 +49952,7 @@ violent machinery.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Nicholas Nickleby — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Nicholas Nickleby — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/love,motif/night,motif/soul,motif/window,concept/body,concept/hope,character/julia,character/nicholas_nickleby"></span>
 
 
 ‘You make me out worse than I am, Henry,’ said Mrs. Wititterly, with a
@@ -50035,7 +50035,7 @@ present we will leave her.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Nicholas Nickleby — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Nicholas Nickleby — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/frost,motif/horse,motif/journey,motif/night,motif/pain,motif/road,motif/ship,motif/sleep,motif/spring,motif/time,motif/well,motif/window,concept/courage,concept/hope,setting/london,setting/ship,character/newman_noggs,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 CHAPTER 22
@@ -50159,7 +50159,7 @@ prospect of displaying his abilities; ‘I could milk a cow, and groom a
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Nicholas Nickleby — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Nicholas Nickleby — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/bells,motif/city,motif/clock,motif/dreams,motif/memory,motif/night,motif/noon,motif/ship,motif/silence,motif/summer,motif/time,motif/water,motif/well,concept/hope,concept/melancholy,concept/mercy,concept/wonder,setting/london,setting/ship,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Ha!’ said Nicholas, gravely. ‘I am afraid they don’t keep many [[Animals|animals]]
@@ -50294,7 +50294,7 @@ the strength of lions.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Nicholas Nickleby — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Nicholas Nickleby — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/grave,motif/hill,motif/journey,motif/love,motif/nature,motif/night,motif/road,motif/time,motif/well,concept/courage,concept/doubt,concept/grotesque,concept/hope,concept/nature,concept/truth,form/inscription,character/nicholas_nickleby,character/smike,character/speed"></span>
 
 
 The day wore on, and all these bright colours subsided, and assumed
@@ -50420,7 +50420,7 @@ But we’ll soon see all about that. Just wait a minute.’
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Nicholas Nickleby — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Nicholas Nickleby — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,motif/crown,motif/fire,motif/night,motif/time,motif/water,motif/wind,concept/body,character/nicholas_nickleby,character/pistol,character/smike,character/vincent_crummles"></span>
 
 
 The landlord hurried into the parlour, without staying for further
@@ -50548,7 +50548,7 @@ greatest applause.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_05" data-title="Nicholas Nickleby — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_05" data-title="Nicholas Nickleby — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/ship,motif/sleep,motif/time,motif/well,concept/body,concept/history,concept/truth,form/history,setting/ship,character/juliet,character/nicholas_nickleby,character/romeo,character/smike,character/vincent_crummles"></span>
 
 
 ‘You are going that way?’ asked the manager.
@@ -50685,7 +50685,7 @@ they as plentiful there, as the oysters in the streets.’
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_06" data-title="Nicholas Nickleby — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_06" data-title="Nicholas Nickleby — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/fire,motif/well,concept/education,form/comedy,form/tragedy,setting/london,character/nicholas_nickleby,character/vincent_crummles"></span>
 
 
 ‘What do you mean?’ asked Nicholas, alarmed by this prediction, and
@@ -50793,7 +50793,7 @@ and gave Mr. [[Vincent Crummles]] his hand upon it.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Nicholas Nickleby — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Nicholas Nickleby — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/education,concept/wonder,form/comedy,form/melodrama,character/bottom,character/newman_noggs,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 CHAPTER 23
@@ -50930,7 +50930,7 @@ slide, and chattering his teeth, fiercely brandished a walking-stick.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Nicholas Nickleby — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Nicholas Nickleby — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/flowers,motif/love,motif/memory,motif/night,motif/stars,motif/tears,motif/water,motif/well,concept/beauty,concept/charity,concept/jealousy,setting/london,character/nicholas_nickleby,character/vincent_crummles"></span>
 
 
 ‘They are going through the Indian Savage and the Maiden,’ said Mrs
@@ -51074,7 +51074,7 @@ gallery, every [[Night|night]].’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Nicholas Nickleby — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Nicholas Nickleby — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/hero,motif/chalk,motif/crown,motif/dance,motif/dust,motif/night,motif/time,motif/well,motif/window,concept/imagination,form/comedy,form/tragedy,setting/court,character/lady_macbeth,character/nicholas_nickleby"></span>
 
 
 ‘If I may judge from what I have seen of you,’ said Nicholas, ‘you must
@@ -51182,7 +51182,7 @@ whatever, that occurred to Mr. Crummles as looking [[Well|well]] in print.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Nicholas Nickleby — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Nicholas Nickleby — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,motif/window,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 Mr. Folair having obligingly confided these particulars to Nicholas, left
@@ -51330,7 +51330,7 @@ to partake of it.’
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="Nicholas Nickleby — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="Nicholas Nickleby — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,character/cassio,character/juliet,character/nicholas_nickleby,character/nurse,character/romeo,character/smike"></span>
 
 
 ‘Vincent,’ said Mrs. Crummles, ‘what is the hour?’
@@ -51433,7 +51433,7 @@ these three days, and will postpone reflection till tomorrow--if I can.’
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Nicholas Nickleby — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Nicholas Nickleby — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/clock,motif/dance,motif/fire,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/hope,concept/jealousy,concept/nature,character/nicholas_nickleby,character/pistol,character/smike"></span>
 
 
 CHAPTER 24
@@ -51572,7 +51572,7 @@ everything was on a scale of the utmost splendour and preparation.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Nicholas Nickleby — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Nicholas Nickleby — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/home,motif/love,motif/night,motif/prison,motif/water,concept/wonder,setting/castle,character/nicholas_nickleby"></span>
 
 
 Nicholas was standing with his back to the curtain, now contemplating
@@ -51680,7 +51680,7 @@ outlaws are desperate fellows to shout.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Nicholas Nickleby — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Nicholas Nickleby — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/nature,concept/pride,form/tragedy,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘I think it was very capital indeed,’ replied Nicholas; ‘Miss
@@ -51817,7 +51817,7 @@ very much the appearance of stockings, and darted off.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Nicholas Nickleby — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Nicholas Nickleby — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/city,motif/home,motif/love,motif/night,motif/time,motif/window,concept/honour,concept/melancholy,character/nicholas_nickleby"></span>
 
 
 As there were not many objects of interest outside the [[Window|window]], Nicholas
@@ -51932,7 +51932,7 @@ upstairs with Miss Snevellicci’s name.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="Nicholas Nickleby — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="Nicholas Nickleby — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/love,motif/time,motif/well,concept/hope,setting/london,character/hamlet,character/juliet,character/nicholas_nickleby,character/nurse,character/romeo"></span>
 
 
 Now, Mrs. Curdle was supposed, by those who were best informed on
@@ -52057,7 +52057,7 @@ they would have been quite certain of that from the very beginning.’
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_06" data-title="Nicholas Nickleby — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_06" data-title="Nicholas Nickleby — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/fire,motif/home,motif/rose,motif/time,motif/well,concept/fear,concept/honour,character/nicholas_nickleby"></span>
 
 
 At the next [[house]] they visited, they were in great glory; for, there,
@@ -52201,7 +52201,7 @@ led her on, and divided the applause.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Nicholas Nickleby — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Nicholas Nickleby — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/blood,motif/dance,motif/nature,motif/time,motif/well,concept/body,concept/friendship,concept/honour,concept/nature,setting/london,character/helen,character/juliet,character/nicholas_nickleby"></span>
 
 
 CHAPTER 25
@@ -52347,7 +52347,7 @@ long.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Nicholas Nickleby — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Nicholas Nickleby — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/home,motif/memory,motif/night,motif/time,motif/water,motif/well,concept/doubt,concept/honour,concept/hope,concept/wonder,character/nicholas_nickleby,character/smike"></span>
 
 
 Nicholas had the [[Honour|honour]] of playing in a slight piece with Miss Petowker
@@ -52492,7 +52492,7 @@ the family.’
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Nicholas Nickleby — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Nicholas Nickleby — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/humility,concept/providence,concept/resignation,concept/self,setting/court,character/nicholas_nickleby"></span>
 
 
 ‘Family!’ said Nicholas. ‘What family?’
@@ -52621,7 +52621,7 @@ Ledrook.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Nicholas Nickleby — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Nicholas Nickleby — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/flowers,motif/silence,motif/time,motif/water,motif/well,concept/fear,character/nicholas_nickleby"></span>
 
 
 ‘Do you think he won’t?’ cried Miss Petowker, really showing great
@@ -52743,7 +52743,7 @@ expression.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_05" data-title="Nicholas Nickleby — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_05" data-title="Nicholas Nickleby — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/tears,motif/time,motif/well,character/nicholas_nickleby,character/romeo,character/smike"></span>
 
 
 ‘To hang himself!’ cried Mr. Lillyvick again. ‘Is any parallel attempted
@@ -52882,7 +52882,7 @@ prince and prodigy of Apothecaries.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Nicholas Nickleby — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Nicholas Nickleby — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/nature,concept/pride,concept/revenge,concept/truth,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 26
@@ -53041,7 +53041,7 @@ Mulberry Hawk.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Nicholas Nickleby — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Nicholas Nickleby — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,form/fragment,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 Thus reasoned Sir Mulberry, and in pursuance of this reasoning he
@@ -53178,7 +53178,7 @@ Nickleby!’
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Nicholas Nickleby — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Nicholas Nickleby — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/city,motif/home,motif/marriage,motif/soul,motif/time,motif/well,motif/window,concept/hope,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 ‘Mrs. Nickleby!’ cried Sir Mulberry Hawk, as his friend looked back, and
@@ -53315,7 +53315,7 @@ at least between two large fortunes, and most unexceptionable husbands.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Nicholas Nickleby — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Nicholas Nickleby — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/tears,motif/time,motif/well,concept/beauty,concept/greatness,concept/hope,concept/nature,concept/temptation,concept/truth,character/nicholas_nickleby"></span>
 
 
 As she was carried away for the moment by an irresistible train of
@@ -53409,7 +53409,7 @@ chance.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Nicholas Nickleby — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Nicholas Nickleby — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/home,motif/night,motif/sleep,motif/time,motif/well,concept/honour,concept/imagination,setting/castle,setting/court,character/nicholas_nickleby"></span>
 
 
 CHAPTER 27
@@ -53535,7 +53535,7 @@ to our friend, Sir Mulberry, is the good opinion of Mrs. Nickleby?’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Nicholas Nickleby — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Nicholas Nickleby — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/night,motif/pain,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/honour,concept/pride,character/nicholas_nickleby"></span>
 
 
 ‘Of the very greatest consequence,’ replied Pyke.
@@ -53677,7 +53677,7 @@ astonishment at the ecstasies of the two friendly visitors.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Nicholas Nickleby — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Nicholas Nickleby — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/grave,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/greatness,concept/truth,character/nicholas_nickleby"></span>
 
 
 By degrees these raptures subsided, and Mrs. Nickleby went on to
@@ -53789,7 +53789,7 @@ upon my [[Soul|soul]] it is. It was so kind of you to come tonight.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Nicholas Nickleby — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Nicholas Nickleby — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/soul,motif/time,concept/hope,concept/nature,character/julia,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘So very kind of you to invite me, you mean, Sir Mulberry,’ replied Mrs
@@ -53920,7 +53920,7 @@ indeed.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Nicholas Nickleby — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Nicholas Nickleby — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/silence,motif/soul,motif/time,concept/body,concept/despair,concept/imagination,concept/jealousy,concept/mercy,form/tragedy,setting/paris,character/julia,character/nicholas_nickleby"></span>
 
 
 ‘I take an interest, my lord,’ said Mrs. Wititterly, with a faint smile,
@@ -54040,7 +54040,7 @@ will resent it dearly, one day.’
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_06" data-title="Nicholas Nickleby — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_06" data-title="Nicholas Nickleby — Chapter 27 (part 6)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/night,motif/soul,motif/tears,motif/well,concept/honour,concept/revenge,concept/truth,character/nicholas_nickleby"></span>
 
 
 ‘Upon my [[Soul|soul]]!’ exclaimed Sir Mulberry, as though quietly communing with
@@ -54117,7 +54117,7 @@ distance.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Nicholas Nickleby — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Nicholas Nickleby — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/lover,motif/clock,motif/nature,motif/night,motif/time,motif/well,concept/hope,concept/nature,concept/self,concept/wonder,form/novel,setting/italy,character/kate_nickleby,character/nicholas_nickleby"></span>
 
 
 CHAPTER 28
@@ -54233,7 +54233,7 @@ on a golden salver gorgeously chased, a scented BILLET.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Nicholas Nickleby — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Nicholas Nickleby — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/night,motif/silence,motif/soul,motif/well,concept/honour,concept/suffering,concept/wonder,character/nicholas_nickleby"></span>
 
 
 ‘The Lady Flabella, with an agitation she could not repress, hastily
@@ -54380,7 +54380,7 @@ B.?’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Nicholas Nickleby — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Nicholas Nickleby — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/home,motif/rose,motif/seasons,motif/soul,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/pride,character/julia,character/nicholas_nickleby"></span>
 
 
 ‘The C. of B.,’ replied Pyke, with the faintest trace of a grin
@@ -54505,7 +54505,7 @@ with high folks.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Nicholas Nickleby — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Nicholas Nickleby — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="topos/double,motif/night,motif/time,motif/well,concept/freedom,form/novel,character/nicholas_nickleby"></span>
 
 
 If the mistress put such a construction upon the behaviour of her new
@@ -54627,7 +54627,7 @@ something like womanly aid and sympathy? I do not--I cannot believe it!’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_05" data-title="Nicholas Nickleby — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_05" data-title="Nicholas Nickleby — Chapter 28 (part 5)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/silence,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/endurance,concept/hope,concept/melancholy,concept/providence,character/julia,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 If poor Kate had possessed the slightest knowledge of the world, she
@@ -54761,7 +54761,7 @@ insults longer.’
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_06" data-title="Nicholas Nickleby — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_06" data-title="Nicholas Nickleby — Chapter 28 (part 6)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/nature,motif/rose,motif/soul,motif/spring,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/doubt,concept/hope,concept/imagination,concept/nature,concept/pride,character/bottom,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘What insults, girl?’ demanded Ralph, sharply.
@@ -54914,7 +54914,7 @@ life, his [[Body|body]]’s most active employer, Mr. [[Ralph Nickleby]].
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Nicholas Nickleby — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Nicholas Nickleby — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/villain,motif/crown,motif/love,motif/night,motif/time,motif/well,concept/fear,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 CHAPTER 29
@@ -55056,7 +55056,7 @@ expression of his face in the slightest degree.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Nicholas Nickleby — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Nicholas Nickleby — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/truth,concept/wonder,setting/london,character/nicholas_nickleby,character/tybalt"></span>
 
 
 ‘Do you know the contents of this note, sir?’ he asked, at length.
@@ -55182,7 +55182,7 @@ stage face, sitting majestically on a table, whistling defiance.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Nicholas Nickleby — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Nicholas Nickleby — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/monster,motif/crown,motif/home,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/courage,concept/history,concept/hope,concept/jealousy,concept/mercy,concept/nature,concept/revenge,form/history,setting/castle,character/newman_noggs,character/nicholas_nickleby,character/smike"></span>
 
 
 Now the ladies were on the side of Nicholas, and the gentlemen (being
@@ -55314,7 +55314,7 @@ him to that effect, either by the next post or the next but one.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Nicholas Nickleby — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Nicholas Nickleby — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/fear,concept/imagination,concept/nature,setting/london,character/nicholas_nickleby"></span>
 
 
 Nicholas read this passage very often, and the more he thought of it
@@ -55368,7 +55368,7 @@ vainly too--for him!
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Nicholas Nickleby — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Nicholas Nickleby — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/night,motif/silence,motif/well,concept/despair,concept/honour,setting/london,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 CHAPTER 30
@@ -55498,7 +55498,7 @@ some abruptness.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Nicholas Nickleby — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Nicholas Nickleby — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/garden,motif/home,motif/nature,motif/night,motif/time,concept/nature,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Zooks! what a [[Fire|fire]]-eater you are, Johnson!’ returned Mr. Folair, pulling
@@ -55634,7 +55634,7 @@ days--never.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Nicholas Nickleby — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Nicholas Nickleby — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/hero,motif/dance,motif/silence,motif/time,motif/water,motif/well,concept/honour,concept/hope,setting/london,character/bottom,character/chorus,character/nicholas_nickleby"></span>
 
 
 Lightening the way with such pleasantry as this, they arrived at the
@@ -55759,7 +55759,7 @@ together.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Nicholas Nickleby — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Nicholas Nickleby — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/love,motif/well,concept/honour,concept/hope,concept/humility,concept/truth,setting/court,character/nicholas_nickleby,character/phantom,character/smike"></span>
 
 
 Now this was not exactly the kind of reply suited to Mr. Snevellicci’s
@@ -55899,7 +55899,7 @@ quite an object of compassion.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_05" data-title="Nicholas Nickleby — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_05" data-title="Nicholas Nickleby — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/lover,archetype/monster,motif/death,motif/home,motif/memory,motif/night,motif/time,concept/body,concept/doubt,concept/history,concept/honour,form/history,setting/london,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 Miss Snevellicci’s papa being greatly exalted by this triumph, and
@@ -56001,7 +56001,7 @@ and walked [[Home|home]] to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_06" data-title="Nicholas Nickleby — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_06" data-title="Nicholas Nickleby — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/fire,motif/lion,motif/night,motif/time,motif/well,concept/honour,concept/truth,form/melodrama,setting/london,character/newman_noggs,character/nicholas_nickleby,character/smike,character/speed"></span>
 
 
 With the post next morning came a letter from [[Newman Noggs]], very inky,
@@ -56120,7 +56120,7 @@ Mrs. Crummles as they rolled away.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Nicholas Nickleby — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Nicholas Nickleby — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,motif/city,motif/cross,motif/crown,motif/home,motif/nature,motif/soul,motif/time,motif/window,concept/nature,form/fragment,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/speed"></span>
 
 
 CHAPTER 31
@@ -56247,7 +56247,7 @@ knock, or rather a nervous single one, at Miss La Creevy’s door.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Nicholas Nickleby — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Nicholas Nickleby — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/garden,motif/night,motif/soul,motif/time,motif/well,concept/truth,concept/wonder,setting/london,character/nicholas_nickleby"></span>
 
 
 It was opened by a strange servant, on whom the odd figure of the
@@ -56366,7 +56366,7 @@ Creevy; ‘I’m sure I shan’t be able to help it.’
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Nicholas Nickleby — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Nicholas Nickleby — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/city,motif/home,motif/night,motif/time,motif/wind,concept/doubt,concept/truth,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Never mind,’ rejoined Newman, darting violently to and fro. ‘He’s
@@ -56479,7 +56479,7 @@ terminated.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Nicholas Nickleby — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Nicholas Nickleby — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/dance,motif/death,motif/fire,motif/home,motif/journey,motif/time,motif/water,motif/well,motif/window,concept/poverty,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike,character/speed"></span>
 
 
 CHAPTER 32
@@ -56601,7 +56601,7 @@ that.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Nicholas Nickleby — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Nicholas Nickleby — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/mirror,motif/nature,motif/time,concept/hope,concept/nature,concept/truth,character/kate_nickleby,character/nicholas_nickleby,character/smike"></span>
 
 
 With his heart beating violently, and apprehending he knew not what
@@ -56717,7 +56717,7 @@ kept himself quiet by a great effort, and did not even turn his head.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Nicholas Nickleby — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Nicholas Nickleby — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/rose,motif/silence,motif/soul,motif/time,concept/doubt,concept/freedom,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘The jade!’ said the same voice which had spoken before. ‘She’s a true
@@ -56867,7 +56867,7 @@ presently retired, leaving their friend [[Alone|alone]] with Nicholas.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Nicholas Nickleby — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Nicholas Nickleby — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/clock,motif/horse,motif/rose,motif/silence,motif/time,concept/body,concept/education,concept/madness,character/nicholas_nickleby,character/speed"></span>
 
 
 It will be very readily supposed that to one in the condition of
@@ -56984,7 +56984,7 @@ or two that he was reeling like a drunken man, and aware for the first
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Nicholas Nickleby — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Nicholas Nickleby — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/pain,motif/tears,motif/time,motif/water,motif/well,concept/fear,concept/imagination,concept/martyrdom,concept/suffering,concept/truth,concept/wonder,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 CHAPTER 33
@@ -57104,7 +57104,7 @@ broken heart.’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Nicholas Nickleby — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Nicholas Nickleby — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/monster,motif/blood,motif/city,motif/fire,motif/journey,motif/night,motif/time,motif/well,concept/honour,setting/court,character/nicholas_nickleby,character/speed"></span>
 
 
 ‘I will leave you nowhere,’ answered Nicholas--‘never again, Kate,’ he
@@ -57222,7 +57222,7 @@ told your friend Sir Mulberry is a base wretch,” they’d laugh at me.’
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Nicholas Nickleby — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Nicholas Nickleby — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/blood,motif/death,motif/grave,motif/night,motif/time,motif/well,concept/despair,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘They will laugh no more at us, I take it,’ said Nicholas, advancing.
@@ -57321,7 +57321,7 @@ apparently quite abstracted from every other object.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Nicholas Nickleby — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Nicholas Nickleby — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/city,motif/leaves,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/nature,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 34
@@ -57473,7 +57473,7 @@ me into a demd state.’
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Nicholas Nickleby — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Nicholas Nickleby — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/villain,motif/soul,motif/tears,motif/time,motif/water,concept/body,concept/doubt,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Don’t talk of feelings, sir,’ rejoined Madame Mantalini, seating
@@ -57605,7 +57605,7 @@ were postponed.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Nicholas Nickleby — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Nicholas Nickleby — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/prophet,motif/home,motif/horse,motif/leaves,motif/love,motif/night,motif/soul,motif/time,concept/vanity,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘But it will come soon enough,’ thought Ralph; ‘all [[Love|love]]--bah! that I
@@ -57744,7 +57744,7 @@ I’ll make him a true [[Prophet|prophet]], for it shall surely come.’
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Nicholas Nickleby — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Nicholas Nickleby — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/home,motif/night,motif/sleep,motif/tears,motif/well,concept/self,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘No,’ replied Ralph, with equal abruptness.
@@ -57881,7 +57881,7 @@ their little bills, and the parents paid it. Ha! ha! ha!’
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_05" data-title="Nicholas Nickleby — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_05" data-title="Nicholas Nickleby — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/autumn,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/hope,concept/truth,character/nicholas_nickleby,character/nurse"></span>
 
 
 ‘And a good plan too,’ said Ralph, eyeing the schoolmaster stealthily.
@@ -58021,7 +58021,7 @@ might have been five or six year old at that [[Time|time]]--not more.’
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_06" data-title="Nicholas Nickleby — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_06" data-title="Nicholas Nickleby — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/blood,motif/love,motif/night,motif/time,motif/well,concept/charity,setting/london,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘What more do you know about him?’ demanded Ralph.
@@ -58139,7 +58139,7 @@ Nickleby went to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Nicholas Nickleby — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Nicholas Nickleby — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/dawn,motif/grave,motif/home,motif/love,motif/night,motif/summer,motif/tears,motif/time,character/newman_noggs,character/nicholas_nickleby,character/smike,character/vincent_crummles"></span>
 
 
 CHAPTER 35
@@ -58263,7 +58263,7 @@ than Miss La Creevy.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Nicholas Nickleby — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Nicholas Nickleby — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/night,motif/sleep,motif/time,motif/water,concept/doubt,concept/history,concept/melancholy,concept/truth,form/history,setting/oxford,character/nicholas_nickleby,character/smike"></span>
 
 
 At length the door opened again, and a lady in mourning came in; and
@@ -58385,7 +58385,7 @@ exertions.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Nicholas Nickleby — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Nicholas Nickleby — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="topos/double,motif/time,motif/window,concept/history,concept/hope,concept/truth,concept/wonder,form/history,character/nicholas_nickleby"></span>
 
 
 Mr. Crummles occurred to him more than once; but although Kate was
@@ -58493,7 +58493,7 @@ motioned towards the [[Window|window]].
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Nicholas Nickleby — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Nicholas Nickleby — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/grave,motif/well,concept/education,concept/history,concept/truth,form/history,form/inscription,setting/london,setting/oxford,character/nicholas_nickleby"></span>
 
 
 ‘A great many people willing and anxious to be employed have seriously
@@ -58633,7 +58633,7 @@ was killed in the East India Docks this morning, sir,’ rejoined Tim.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_05" data-title="Nicholas Nickleby — Chapter 35 (part 5)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_05" data-title="Nicholas Nickleby — Chapter 35 (part 5)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/nature,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘He is a good creature,’ said Mr. Cheeryble, with great earnestness. ‘He
@@ -58761,7 +58761,7 @@ expression of kindness and sympathy, and sob like a little [[Child|child]].
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_06" data-title="Nicholas Nickleby — Chapter 35 (part 6)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_06" data-title="Nicholas Nickleby — Chapter 35 (part 6)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/silence,motif/sleep,motif/spring,motif/summer,motif/time,motif/window,motif/winter,concept/deception,concept/wonder,character/nicholas_nickleby"></span>
 
 
 At length brother Ned and Tim Linkinwater came back together, when Tim
@@ -58875,7 +58875,7 @@ something under the usual rent, now? Eh, brother Ned?’
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_07" data-title="Nicholas Nickleby — Chapter 35 (part 7)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_07" data-title="Nicholas Nickleby — Chapter 35 (part 7)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/night,motif/water,motif/well,motif/window,concept/fear,concept/hope,concept/wonder,character/bottom,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘For nothing at all,’ said brother Ned. ‘We are rich, and should be
@@ -58926,7 +58926,7 @@ Nickleby was [[Alone|alone]] and miserable.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Nicholas Nickleby — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Nicholas Nickleby — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dance,motif/fire,motif/horse,motif/road,motif/tears,motif/time,motif/well,concept/body,concept/wonder,character/nicholas_nickleby"></span>
 
 
 CHAPTER 36
@@ -59052,7 +59052,7 @@ within the last forty-eight hours.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Nicholas Nickleby — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Nicholas Nickleby — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/fire,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/honour,concept/hope,character/nicholas_nickleby,character/nurse"></span>
 
 
 ‘[[Well]], Mr. Kenwigs,’ said Dr Lumbey, ‘this makes six. You’ll have a fine
@@ -59192,7 +59192,7 @@ without having had an opportunity of doing so.’
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Nicholas Nickleby — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Nicholas Nickleby — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/monster,archetype/villain,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,character/nicholas_nickleby,character/nurse"></span>
 
 
 ‘It’s no matter, sir,’ said Mr. Kenwigs. ‘I dare say it’s none the
@@ -59339,7 +59339,7 @@ were left to their repose.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Nicholas Nickleby — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Nicholas Nickleby — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/clock,motif/fire,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/insects,motif/leaves,motif/snow,motif/spring,motif/summer,motif/time,motif/winter,concept/melancholy,concept/suffering,setting/london,character/cheeryble_brothers,character/nicholas_nickleby"></span>
 
 
 CHAPTER 37
@@ -59437,7 +59437,7 @@ or Tim Linkinwater.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Nicholas Nickleby — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Nicholas Nickleby — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/city,motif/grave,motif/leaves,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/mercy,concept/nature,setting/london,character/cheeryble_brothers,character/nicholas_nickleby"></span>
 
 
 Nor was this all. Everything gave back, besides, some reflection of the
@@ -59552,7 +59552,7 @@ never will be such books--as the books of [[Cheeryble Brothers]].’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Nicholas Nickleby — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Nicholas Nickleby — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/pain,motif/well,motif/window,concept/doubt,concept/fear,concept/history,form/history,setting/london,character/nicholas_nickleby,character/speed"></span>
 
 
 Having thus expressed his sentiments, Mr. Linkinwater gave vent to
@@ -59667,7 +59667,7 @@ a great many things before he said anything which would beat THAT.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Nicholas Nickleby — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Nicholas Nickleby — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/memory,motif/rose,motif/silence,motif/time,motif/well,concept/body,concept/honour,concept/melancholy,character/nicholas_nickleby"></span>
 
 
 There was one little ceremony peculiar to the day, both the matter and
@@ -59790,7 +59790,7 @@ coffee, and a round game of cards.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Nicholas Nickleby — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Nicholas Nickleby — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/leaves,motif/night,motif/prayer,motif/time,motif/well,concept/body,setting/oxford,character/nicholas_nickleby,character/smike"></span>
 
 
 At half-past ten--late hours for the square--there appeared a little
@@ -59898,7 +59898,7 @@ sons at all, unless people could put confidence in them.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_06" data-title="Nicholas Nickleby — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_06" data-title="Nicholas Nickleby — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/garden,motif/tears,motif/time,motif/well,concept/despair,concept/doubt,character/bottom,character/nicholas_nickleby"></span>
 
 
 Nicholas stopped in the middle of a sleepy yawn, as his mother began to
@@ -60027,7 +60027,7 @@ the leather, I suppose.’
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_07" data-title="Nicholas Nickleby — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_07" data-title="Nicholas Nickleby — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/garden,motif/marriage,motif/memory,motif/night,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/endurance,character/nicholas_nickleby"></span>
 
 
 ‘But this man, who is not a shoemaker--what has he done, mother, what
@@ -60115,7 +60115,7 @@ bottles at the top of the wall!’
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Nicholas Nickleby — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Nicholas Nickleby — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/night,motif/noon,motif/pain,motif/tears,motif/time,concept/hope,concept/truth,concept/wonder,character/kate_nickleby,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 38
@@ -60233,7 +60233,7 @@ huge vehicle, with the noise of half-a-dozen brewers’ drays at least.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Nicholas Nickleby — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Nicholas Nickleby — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/mentor,archetype/shadow,motif/journey,motif/pain,motif/time,motif/well,motif/wheel,concept/body,concept/humility,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 Leaving it to pursue its [[Journey|journey]] at the pleasure of the conductor
@@ -60364,7 +60364,7 @@ closed his eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Nicholas Nickleby — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Nicholas Nickleby — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/seasons,motif/silence,motif/time,motif/well,concept/hope,concept/revenge,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘More than enough to please me, and less than enough to please some
@@ -60497,7 +60497,7 @@ his presence.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Nicholas Nickleby — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Nicholas Nickleby — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/city,motif/hill,motif/home,motif/journey,motif/nature,motif/road,motif/soul,motif/time,motif/well,motif/window,concept/honour,concept/nature,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 ‘Mind that, Hawk!’ he added, with unusual energy. ‘I never will be a
@@ -60618,7 +60618,7 @@ it at their leisure.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_05" data-title="Nicholas Nickleby — Chapter 38 (part 5)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_05" data-title="Nicholas Nickleby — Chapter 38 (part 5)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/monster,archetype/rebel,motif/blood,motif/home,motif/journey,motif/road,motif/stars,motif/time,motif/well,concept/body,concept/history,concept/mercy,form/history,character/nicholas_nickleby,character/smike"></span>
 
 
 Mr. Squeers sat himself down on the opposite seat to the unfortunate
@@ -60741,7 +60741,7 @@ upright on the table, and opening his eyes to their full width.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_06" data-title="Nicholas Nickleby — Chapter 38 (part 6)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_06" data-title="Nicholas Nickleby — Chapter 38 (part 6)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/love,motif/night,motif/prison,motif/sleep,motif/time,motif/well,concept/doubt,concept/hope,concept/humility,concept/providence,concept/suffering,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘The very boy’, said Squeers, putting his fist close to [[Smike]]’s nose,
@@ -60827,7 +60827,7 @@ at the Yorkshire school.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Nicholas Nickleby — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Nicholas Nickleby — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/monster,motif/cross,motif/fire,motif/frost,motif/journey,motif/nature,motif/night,motif/noon,motif/rose,motif/sleep,motif/soul,motif/summer,motif/supernatural,motif/time,motif/well,concept/hope,concept/nature,concept/wonder,setting/cathedral,character/lord_mayor,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 39
@@ -60974,7 +60974,7 @@ new and inextinguishable fuel to the [[Fire|fire]] of youth.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Nicholas Nickleby — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Nicholas Nickleby — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/home,motif/well,motif/window,concept/fear,concept/wonder,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 The waiter was touched. Waiter as he was, he had human passions and
@@ -61119,7 +61119,7 @@ you before we go away.’
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Nicholas Nickleby — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Nicholas Nickleby — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/night,motif/time,motif/wind,concept/hope,concept/mercy,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Dean’t say anoother wurd,’ returned the Yorkshireman, shaking him by
@@ -61271,7 +61271,7 @@ been scarcely less amused than John Browdie himself.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Nicholas Nickleby — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Nicholas Nickleby — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dust,motif/home,motif/love,motif/road,motif/time,motif/water,motif/well,concept/fear,concept/hope,concept/melancholy,setting/london,character/newman_noggs,character/nicholas_nickleby,character/smike,character/speed"></span>
 
 
 CHAPTER 40
@@ -61382,7 +61382,7 @@ she, has she? Don’t tell me so if she has not.’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Nicholas Nickleby — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Nicholas Nickleby — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/fire,motif/flowers,motif/nature,motif/night,motif/prison,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/nature,setting/court,setting/london,character/newman_noggs,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘She has,’ cried Newman. ‘She is as noble-hearted as she is beautiful.’
@@ -61512,7 +61512,7 @@ patient.’
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Nicholas Nickleby — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Nicholas Nickleby — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/flowers,motif/leaves,motif/night,motif/pain,motif/sleep,motif/time,motif/water,motif/window,concept/beauty,concept/melancholy,concept/pride,concept/wonder,setting/court,setting/london,character/nicholas_nickleby,character/speed"></span>
 
 
 ‘Is there nobody in the [[house]] to cheer or help him?’ asked Nicholas.
@@ -61634,7 +61634,7 @@ discarded all other subjects of reflection and dwelt upon that [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Nicholas Nickleby — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Nicholas Nickleby — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/lover,motif/clock,motif/grave,motif/home,motif/lightning,motif/love,motif/memory,motif/night,motif/time,motif/well,concept/beauty,concept/friendship,concept/history,concept/hope,concept/imagination,concept/truth,form/history,setting/germany,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 At length Tim Linkinwater came back--provokingly cool, and with papers
@@ -61755,7 +61755,7 @@ possible delay.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="Nicholas Nickleby — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="Nicholas Nickleby — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/city,motif/clock,motif/home,motif/night,motif/time,motif/water,motif/well,concept/beauty,concept/friendship,concept/history,concept/suffering,form/history,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 Beyond all measure proud of this commission, [[Newman Noggs]] took up his
@@ -61906,7 +61906,7 @@ o’[[Clock|clock]].
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_06" data-title="Nicholas Nickleby — Chapter 40 (part 6)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_06" data-title="Nicholas Nickleby — Chapter 40 (part 6)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/clock,motif/crown,motif/home,motif/love,motif/road,motif/silence,motif/time,motif/well,concept/hope,concept/imagination,character/bottom,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘Things come about very strangely!’ thought Nicholas, as he walked
@@ -62038,7 +62038,7 @@ It was but a moment, but the confusion crowded into that one moment no
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_07" data-title="Nicholas Nickleby — Chapter 40 (part 7)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_07" data-title="Nicholas Nickleby — Chapter 40 (part 7)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/home,motif/tears,motif/time,motif/well,motif/wind,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘Leave the [[house]], for Heaven’s sake! We have done wrong, we deserve it
@@ -62102,7 +62102,7 @@ lady, now as far beyond his reach as ever.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Nicholas Nickleby — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Nicholas Nickleby — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/birds,motif/flowers,motif/night,motif/summer,motif/time,motif/well,concept/beauty,concept/charity,concept/doubt,concept/mercy,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 41
@@ -62216,7 +62216,7 @@ leave nothing but mould for me.’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Nicholas Nickleby — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Nicholas Nickleby — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/love,motif/night,motif/rose,motif/ship,motif/time,motif/well,concept/self,setting/ship,character/nicholas_nickleby"></span>
 
 
 ‘Dear mama,’ returned Kate, hastily, ‘take this seat--do--to oblige me,
@@ -62354,7 +62354,7 @@ ugly to behold.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Nicholas Nickleby — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Nicholas Nickleby — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/bees,motif/cross,motif/garden,motif/home,motif/horse,motif/love,motif/sleep,motif/soul,motif/tears,motif/window,concept/beauty,concept/doubt,setting/court,character/lord_mayor,character/nicholas_nickleby,character/queen,character/venus"></span>
 
 
 ‘Mama!’ cried Kate, really terrified for the moment, ‘why do you stop,
@@ -62487,7 +62487,7 @@ iron on the top to keep the thunder off!’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_04" data-title="Nicholas Nickleby — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_04" data-title="Nicholas Nickleby — Chapter 41 (part 4)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/crown,motif/love,motif/time,character/nicholas_nickleby"></span>
 
 
 Issuing these commands, as if there were a dozen attendants all actively
@@ -62607,7 +62607,7 @@ worse.’
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_05" data-title="Nicholas Nickleby — Chapter 41 (part 5)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_05" data-title="Nicholas Nickleby — Chapter 41 (part 5)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/crown,motif/love,motif/nature,motif/well,concept/faith,concept/hope,concept/madness,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘The young Prince of China,’ said the old gentleman, with much interest.
@@ -62706,7 +62706,7 @@ method in HIS [[Madness|madness]]; depend upon that, my dear.’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Nicholas Nickleby — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Nicholas Nickleby — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/monster,motif/hill,motif/home,motif/night,motif/rose,motif/snow,motif/stars,motif/swallow,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/suffering,character/nicholas_nickleby"></span>
 
 
 CHAPTER 42
@@ -62861,7 +62861,7 @@ Ha! ha! ha!’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Nicholas Nickleby — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Nicholas Nickleby — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/road,motif/time,concept/nature,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 Nicholas laughed very heartily at this story, both on account of its
@@ -62998,7 +62998,7 @@ her. ‘She wur always as skittish and full o’ tricks as a--’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Nicholas Nickleby — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Nicholas Nickleby — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/grave,motif/home,motif/stars,motif/time,motif/well,concept/friendship,character/mermaid,character/nicholas_nickleby"></span>
 
 
 ‘[[Well]], as a what?’ said his wife.
@@ -63132,7 +63132,7 @@ named ‘Tilda, not to save it from its [[Grave|grave]].’
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_04" data-title="Nicholas Nickleby — Chapter 42 (part 4)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_04" data-title="Nicholas Nickleby — Chapter 42 (part 4)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/blood,motif/clock,motif/nature,motif/poison,motif/time,motif/wind,concept/hope,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘As for the matther o’ that,’ observed John, ‘it’ll be [[Time|time]] eneaf to
@@ -63281,7 +63281,7 @@ evening in airnest.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Nicholas Nickleby — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Nicholas Nickleby — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/desire,motif/storm,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/fear,character/nicholas_nickleby,character/speed"></span>
 
 
 CHAPTER 43
@@ -63397,7 +63397,7 @@ again. That’s all.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Nicholas Nickleby — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Nicholas Nickleby — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/journey,motif/mirror,motif/nature,motif/night,motif/time,motif/window,concept/beauty,concept/honour,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘Let me hear you make those remarks again,’ said the young man, ‘and
@@ -63521,7 +63521,7 @@ where I can thank you.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Nicholas Nickleby — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Nicholas Nickleby — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/nature,concept/sublime,concept/suffering,concept/wonder,setting/germany,character/nicholas_nickleby"></span>
 
 
 Nicholas took the card, and glancing at it involuntarily as he returned
@@ -63634,7 +63634,7 @@ hearty reception from Mr. Timothy Linkinwater.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Nicholas Nickleby — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Nicholas Nickleby — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/home,motif/night,motif/time,motif/well,concept/imagination,concept/pride,concept/wonder,histref/america,setting/america,setting/london,character/nicholas_nickleby,character/sunday"></span>
 
 
 ‘That Mr. Frank and Mr. Nickleby should have met last [[Night|night]],’ said
@@ -63749,7 +63749,7 @@ take things with such provoking calmness.’
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Nicholas Nickleby — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Nicholas Nickleby — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/garden,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/poverty,concept/pride,concept/self,concept/wonder,setting/germany,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘My dear mama,’ said Kate, stealing her arm round her mother’s neck,
@@ -63856,7 +63856,7 @@ colour the story, and not themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_06" data-title="Nicholas Nickleby — Chapter 43 (part 6)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_06" data-title="Nicholas Nickleby — Chapter 43 (part 6)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/night,motif/silence,motif/tears,motif/time,concept/faith,concept/hope,concept/pride,character/nicholas_nickleby,character/smike"></span>
 
 
 After tea there was a walk in the [[Garden|garden]], and the evening being very
@@ -63910,7 +63910,7 @@ bitter grief?
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Nicholas Nickleby — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Nicholas Nickleby — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/hope,concept/nature,concept/self,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 44
@@ -64041,7 +64041,7 @@ will be--perhaps,’ said Ralph, checking himself, ‘let him wait too.’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Nicholas Nickleby — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Nicholas Nickleby — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/home,motif/storm,motif/time,motif/well,concept/body,concept/doubt,character/nicholas_nickleby"></span>
 
 
 ‘Let ‘em both wait?’ said Newman.
@@ -64164,7 +64164,7 @@ reproach, ‘will you hear a few words that I have to say?’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Nicholas Nickleby — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Nicholas Nickleby — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/chains,motif/prayer,motif/time,motif/well,concept/hope,concept/humility,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘I am obliged to wait here till the rain holds a little,’ said Ralph,
@@ -64304,7 +64304,7 @@ Keep it, or publish it to the world, if you like.’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_04" data-title="Nicholas Nickleby — Chapter 44 (part 4)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_04" data-title="Nicholas Nickleby — Chapter 44 (part 4)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/love,motif/summer,motif/tears,motif/time,motif/well,concept/body,concept/honour,character/bottom,character/nicholas_nickleby"></span>
 
 
 ‘I can’t do that,’ interposed Brooker. ‘That wouldn’t serve me.’
@@ -64425,7 +64425,7 @@ verge of distraction.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_05" data-title="Nicholas Nickleby — Chapter 44 (part 5)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_05" data-title="Nicholas Nickleby — Chapter 44 (part 5)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/hope,character/nicholas_nickleby"></span>
 
 
 ‘What is the matter here?’ said Ralph, pressing forward.
@@ -64550,7 +64550,7 @@ was a demder.” But I forgive her.’
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_06" data-title="Nicholas Nickleby — Chapter 44 (part 6)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_06" data-title="Nicholas Nickleby — Chapter 44 (part 6)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/home,motif/lightning,motif/night,motif/well,motif/wind,concept/hope,concept/wonder,character/newman_noggs,character/nicholas_nickleby,character/speed"></span>
 
 
 With this affecting speech Mr. Mantalini fell down again very flat, and
@@ -64634,7 +64634,7 @@ side--the strange man talking earnestly, and Newman listening.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Nicholas Nickleby — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Nicholas Nickleby — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/time,motif/well,concept/beauty,concept/doubt,concept/greatness,concept/pride,concept/suffering,setting/cathedral,character/kate_nickleby,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 45
@@ -64755,7 +64755,7 @@ uncomfortable, and how very foolish and inconsiderate that would be!”’
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Nicholas Nickleby — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Nicholas Nickleby — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/clock,motif/flowers,motif/love,motif/night,motif/pain,motif/road,motif/rose,motif/tears,motif/time,concept/despair,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 ‘I am very much obliged to you, I am sure, ma’am,’ returned Mrs. Browdie,
@@ -64872,7 +64872,7 @@ disposition to join him.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Nicholas Nickleby — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Nicholas Nickleby — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/blood,motif/love,motif/nature,motif/silence,motif/time,concept/body,concept/doubt,concept/nature,concept/truth,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Pratty nigh for the prasant [[Time|time]], sir,’ replied John.
@@ -65002,7 +65002,7 @@ under the name of [[Smike]]. Do you?’
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="Nicholas Nickleby — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="Nicholas Nickleby — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/marriage,motif/time,motif/well,concept/education,concept/fear,concept/forgiveness,concept/truth,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Do I!’ returned Squeers. ‘Don’t I?’
@@ -65138,7 +65138,7 @@ gentleman off his chair, and stumbled heavily upon him.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_05" data-title="Nicholas Nickleby — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_05" data-title="Nicholas Nickleby — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/hero,motif/dance,motif/home,motif/love,motif/tears,motif/time,concept/hope,concept/pride,concept/truth,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 This accidental circumstance was the signal for some very decisive
@@ -65242,7 +65242,7 @@ friends, and the family were left to meditate upon recent occurrences.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Nicholas Nickleby — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Nicholas Nickleby — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/lion,motif/love,motif/nature,motif/poison,motif/silence,motif/time,concept/history,concept/hope,concept/nature,concept/suffering,form/history,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 46
@@ -65363,7 +65363,7 @@ find.’
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Nicholas Nickleby — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Nicholas Nickleby — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/love,motif/night,motif/pain,motif/silence,motif/water,motif/well,concept/friendship,concept/jealousy,concept/poverty,concept/suffering,concept/truth,concept/vanity,character/nicholas_nickleby"></span>
 
 
 ‘Of that I am [[Well|well]] assured,’ returned brother Charles, ‘[[Well|well]] assured.
@@ -65481,7 +65481,7 @@ confide in him at last.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Nicholas Nickleby — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Nicholas Nickleby — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/desert,motif/desire,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/doubt,concept/jealousy,concept/nature,concept/self,setting/desert,character/nicholas_nickleby"></span>
 
 
 ‘If I had been poor,’ said brother Charles, with sparkling eyes; ‘if
@@ -65596,7 +65596,7 @@ subject.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_04" data-title="Nicholas Nickleby — Chapter 46 (part 4)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_04" data-title="Nicholas Nickleby — Chapter 46 (part 4)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/dust,motif/flowers,motif/home,motif/love,motif/night,motif/noon,motif/prison,motif/road,motif/spring,motif/time,motif/wind,motif/window,concept/endurance,concept/honour,concept/self,concept/truth,character/nicholas_nickleby"></span>
 
 
 All this [[Time|time]], however, there hovered upon the tip of his tongue a
@@ -65705,7 +65705,7 @@ being akin in spirit to them, and its light were visibly before him.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_05" data-title="Nicholas Nickleby — Chapter 46 (part 5)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_05" data-title="Nicholas Nickleby — Chapter 46 (part 5)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/love,motif/nature,motif/pain,motif/prison,motif/soul,motif/time,motif/well,concept/body,concept/history,concept/honour,concept/nature,concept/truth,form/history,setting/italy,character/madeline,character/madeline_bray,character/nicholas_nickleby"></span>
 
 
 And yet Nicholas was in the Rules of the [[King]]’s Bench [[Prison]]! If he
@@ -65878,7 +65878,7 @@ first interview with [[Madeline Bray]].
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Nicholas Nickleby — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Nicholas Nickleby — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/home,motif/swallow,motif/time,motif/well,motif/wind,motif/winter,character/arthur,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 47
@@ -66001,7 +66001,7 @@ what a bold man you are!’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Nicholas Nickleby — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Nicholas Nickleby — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/time,motif/well,motif/wind,concept/doubt,character/arthur,character/madeline_bray,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘Why, you have a sleek and slinking way with you that makes me seem so
@@ -66138,7 +66138,7 @@ him. Why, he owes you money!’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Nicholas Nickleby — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Nicholas Nickleby — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/time,motif/water,motif/well,concept/freedom,character/arthur,character/madeline_bray,character/nicholas_nickleby"></span>
 
 
 ‘Oh HIM!’ rejoined Ralph. ‘Ay, ay. Now you speak. Oh! It’s HIS daughter,
@@ -66250,7 +66250,7 @@ week, a month, a day--any [[Time|time]] I chose to name?’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Nicholas Nickleby — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Nicholas Nickleby — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/marriage,motif/noon,motif/pain,motif/silence,motif/soul,motif/time,motif/well,character/arthur,character/madeline_bray,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘Go on,’ said Ralph, nodding his head deliberately, and speaking in
@@ -66367,7 +66367,7 @@ roguery!’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_05" data-title="Nicholas Nickleby — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_05" data-title="Nicholas Nickleby — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/home,motif/marriage,motif/nature,motif/tears,motif/time,concept/beauty,concept/courage,concept/freedom,concept/hope,concept/nature,character/arthur,character/madeline,character/newman_noggs,character/nicholas_nickleby,character/pistol"></span>
 
 
 With these reflections, and a very hard knock on the [[Crown|crown]] of his
@@ -66482,7 +66482,7 @@ happy. But can you bear the thought of that?’
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_06" data-title="Nicholas Nickleby — Chapter 47 (part 6)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_06" data-title="Nicholas Nickleby — Chapter 47 (part 6)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/love,motif/pain,motif/tears,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/fear,concept/vanity,character/arthur,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘I should imagine not, indeed!’ said Ralph, quietly. ‘If she profits
@@ -66621,7 +66621,7 @@ with confidence for this day week.’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Nicholas Nickleby — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Nicholas Nickleby — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="topos/double,motif/dance,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,concept/beauty,concept/doubt,concept/heroism,concept/honour,concept/loneliness,concept/nature,concept/truth,form/melodrama,character/cheeryble_brothers,character/madeline_bray,character/nicholas_nickleby,character/vincent_crummles"></span>
 
 
 CHAPTER 48
@@ -66734,7 +66734,7 @@ they went.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Nicholas Nickleby — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Nicholas Nickleby — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/night,motif/soul,motif/time,concept/honour,concept/hope,concept/wonder,form/tragedy,histref/america,setting/america,character/nicholas_nickleby,character/vincent_crummles"></span>
 
 
 ‘You were always a favourite of hers, Johnson,’ said Crummles, ‘always
@@ -66856,7 +66856,7 @@ hot and glaring theatre.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Nicholas Nickleby — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Nicholas Nickleby — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/death,motif/night,motif/time,motif/well,concept/fear,concept/honour,concept/hope,form/tragedy,setting/london,character/bottom,character/nicholas_nickleby,character/othello,character/smike"></span>
 
 
 He availed himself of this interval to buy a silver snuff-box--the best
@@ -66978,7 +66978,7 @@ hear a definition of fame, sir?’
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_04" data-title="Nicholas Nickleby — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_04" data-title="Nicholas Nickleby — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/leaves,motif/rose,motif/silence,motif/time,motif/well,concept/honour,concept/mercy,character/nicholas_nickleby,character/richard,character/vincent_crummles"></span>
 
 
 ‘I have heard several,’ replied Nicholas, with a smile. ‘What is yours?’
@@ -67139,7 +67139,7 @@ took farewell of the Vincent Crummleses.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Nicholas Nickleby — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Nicholas Nickleby — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/fire,motif/home,motif/rose,motif/silence,motif/soul,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/hope,concept/immortality,concept/poverty,character/madeline_bray,character/nicholas_nickleby,character/smike,character/sunday"></span>
 
 
 CHAPTER 49
@@ -67245,7 +67245,7 @@ week.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Nicholas Nickleby — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Nicholas Nickleby — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/ghost,motif/city,motif/love,motif/night,motif/road,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘He is the most attentive young man I ever saw, Kate,’ said Mrs. Nickleby
@@ -67376,7 +67376,7 @@ when he grew up. Ah! Train up a [[Ghost]]--[[Child|child]], I mean--’
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Nicholas Nickleby — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Nicholas Nickleby — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/home,motif/night,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/truth,character/nicholas_nickleby,character/smike"></span>
 
 
 Any further reflections on this fruitful theme were abruptly cut short
@@ -67485,7 +67485,7 @@ apply restoratives, in case of extremity.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Nicholas Nickleby — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Nicholas Nickleby — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/pain,motif/tears,motif/time,motif/well,concept/fear,concept/hope,concept/melancholy,concept/resignation,concept/truth,character/nicholas_nickleby,character/sunday"></span>
 
 
 Advancing to the door of the mysterious apartment, they were not
@@ -67615,7 +67615,7 @@ a moment. It’s quite impossible.’
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_05" data-title="Nicholas Nickleby — Chapter 49 (part 5)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_05" data-title="Nicholas Nickleby — Chapter 49 (part 5)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/animals,motif/dance,motif/lightning,motif/love,motif/silence,motif/time,concept/beauty,concept/doubt,setting/oxford,character/nicholas_nickleby,character/queen"></span>
 
 
 While this address was in course of delivery, the old gentleman, with
@@ -67730,7 +67730,7 @@ himself on the other.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_06" data-title="Nicholas Nickleby — Chapter 49 (part 6)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_06" data-title="Nicholas Nickleby — Chapter 49 (part 6)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/doubt,concept/fear,concept/freedom,concept/melancholy,character/nicholas_nickleby,character/smike"></span>
 
 
 ‘Kate,’ murmured Mrs. Nickleby, reviving when the coast was clear, ‘is he
@@ -67846,7 +67846,7 @@ quiet roof.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Nicholas Nickleby — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Nicholas Nickleby — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="topos/quest,archetype/innocent,motif/childhood,motif/horse,motif/tears,motif/well,concept/body,concept/charity,concept/poverty,concept/truth,character/nicholas_nickleby"></span>
 
 
 CHAPTER 50
@@ -67966,7 +67966,7 @@ could not have marked. And he was the proprietor of the place.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Nicholas Nickleby — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Nicholas Nickleby — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="topos/double,motif/night,motif/soul,motif/time,motif/well,concept/beauty,concept/courage,concept/hope,setting/paris,character/nicholas_nickleby"></span>
 
 
 The other presided over the ROUGE-ET-NOIR table. He was probably some
@@ -68079,7 +68079,7 @@ that, and may I be--’
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Nicholas Nickleby — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Nicholas Nickleby — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/mentor,motif/clock,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/nature,character/nicholas_nickleby"></span>
 
 
 ‘Look in the papers,’ interrupted Sir Mulberry, turning suddenly round,
@@ -68221,7 +68221,7 @@ since the period to which Sir Mulberry referred), effected.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_04" data-title="Nicholas Nickleby — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_04" data-title="Nicholas Nickleby — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/time,concept/honour,character/nicholas_nickleby"></span>
 
 
 Thus they rejoined their friends: each with causes of dislike against
@@ -68346,7 +68346,7 @@ part of Sir Mulberry, Lord Frederick is ready to justify.’
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_05" data-title="Nicholas Nickleby — Chapter 50 (part 5)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_05" data-title="Nicholas Nickleby — Chapter 50 (part 5)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/cross,motif/leaves,motif/night,motif/river,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/fear,character/nicholas_nickleby,character/speed"></span>
 
 
 ‘There is no more to be said,’ returned the other, ‘but to settle the
@@ -68482,7 +68482,7 @@ upwards to the sky.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Nicholas Nickleby — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Nicholas Nickleby — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/dreams,motif/silence,motif/time,motif/well,motif/wind,concept/fear,character/arthur,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 51
@@ -68620,7 +68620,7 @@ make no difference in you.’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Nicholas Nickleby — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Nicholas Nickleby — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/fool,motif/chains,concept/body,concept/wonder,character/arthur,character/newman_noggs,character/nicholas_nickleby,character/witch"></span>
 
 
 With which consolatory assurance, Peg Sliderskew gathered up the chosen
@@ -68756,7 +68756,7 @@ may say that I do too, and always did. I always say the same of you.’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Nicholas Nickleby — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Nicholas Nickleby — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/marriage,motif/time,motif/water,motif/well,concept/courage,concept/history,concept/wonder,form/history,character/arthur,character/madeline,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘That’s “Curse Mr. Noggs with all my heart!” then, if you do,’ thought
@@ -68894,7 +68894,7 @@ sir.’
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Nicholas Nickleby — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Nicholas Nickleby — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/marriage,motif/memory,motif/night,motif/storm,motif/time,motif/well,concept/fear,character/madeline,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 Newman handed in the note, and looked very virtuous and [[Innocent|innocent]] while
@@ -69063,7 +69063,7 @@ thief! stop thief!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Nicholas Nickleby — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Nicholas Nickleby — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/marriage,motif/memory,motif/night,motif/silence,motif/time,motif/well,concept/despair,concept/heroism,concept/hope,concept/imagination,concept/truth,concept/union,character/arthur,character/madeline,character/madeline_bray,character/newman_noggs,character/nicholas_nickleby,character/pistol,character/ralph_nickleby"></span>
 
 
 CHAPTER 52
@@ -69188,7 +69188,7 @@ though it is the eleventh hour, and she upon the very brink of ruin.’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Nicholas Nickleby — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Nicholas Nickleby — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/home,motif/night,motif/tears,motif/well,concept/despair,concept/honour,concept/hope,concept/melancholy,concept/pride,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Bravely spoken!’ said Newman. ‘[[Well]] done, [[Well|well]] done! Yes. Very good.’
@@ -69309,7 +69309,7 @@ hairdresser’s.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Nicholas Nickleby — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Nicholas Nickleby — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/desert,motif/silence,motif/time,motif/water,motif/window,concept/beauty,concept/body,concept/melancholy,setting/desert,character/newman_noggs,character/nicholas_nickleby,character/sunday"></span>
 
 
 It was not exactly a hairdresser’s; that is to say, people of a coarse
@@ -69437,7 +69437,7 @@ Lillyvick, that he thought the baby might possibly come like him in
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_04" data-title="Nicholas Nickleby — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_04" data-title="Nicholas Nickleby — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/home,motif/lightning,motif/rose,motif/silence,motif/tears,motif/time,concept/honour,concept/hope,concept/self,character/newman_noggs,character/nicholas_nickleby,character/pompey"></span>
 
 
 ‘I should be glad to have somebody like me, somehow,’ said Mr. Lillyvick,
@@ -69568,7 +69568,7 @@ won’t, I won’t!’
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_05" data-title="Nicholas Nickleby — Chapter 52 (part 5)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_05" data-title="Nicholas Nickleby — Chapter 52 (part 5)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/crown,motif/nature,motif/tears,motif/time,concept/friendship,concept/nature,concept/revenge,concept/truth,concept/wonder,character/nicholas_nickleby"></span>
 
 
 ‘Susan, my dear,’ said Mr. Kenwigs, ‘consider your [[Child|child]].’
@@ -69670,7 +69670,7 @@ Evins itself looks down!”’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Nicholas Nickleby — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Nicholas Nickleby — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/grave,motif/home,motif/nature,motif/night,motif/rose,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/wonder,setting/london,setting/mountains,character/arthur,character/madeline,character/madeline_bray,character/nicholas_nickleby"></span>
 
 
 CHAPTER 53
@@ -69774,7 +69774,7 @@ opened the door and walked in.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Nicholas Nickleby — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Nicholas Nickleby — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/flowers,motif/leaves,motif/love,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/hope,concept/suffering,character/madeline,character/madeline_bray,character/nicholas_nickleby"></span>
 
 
 Bray and his daughter were sitting there [[Alone|alone]]. It was nearly three
@@ -69892,7 +69892,7 @@ further--ha!--any further orders.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Nicholas Nickleby — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Nicholas Nickleby — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/love,motif/marriage,motif/nature,motif/pain,motif/tears,motif/time,motif/well,concept/conscience,concept/faith,concept/history,concept/nature,concept/poverty,concept/truth,form/history,character/arthur,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘I have none,’ said Nicholas; ‘nor, in the consideration of the station
@@ -70028,7 +70028,7 @@ back upon it, and all is done, I know.’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="Nicholas Nickleby — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="Nicholas Nickleby — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/leaves,motif/marriage,motif/memory,motif/night,motif/tears,motif/time,motif/well,concept/freedom,concept/mercy,character/arthur,character/madeline,character/nicholas_nickleby,character/phantom"></span>
 
 
 ‘Your [[Tears|tears]] fall faster as you talk of happiness,’ said Nicholas, ‘and
@@ -70144,7 +70144,7 @@ very little one. Quite a phenomenon of a fowl. So very small and skinny.
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_05" data-title="Nicholas Nickleby — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_05" data-title="Nicholas Nickleby — Chapter 53 (part 5)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/death,motif/lamb,motif/leaves,motif/love,concept/courage,concept/revenge,character/arthur,character/madeline_bray,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘A beautiful bird!’ said [[arthur|Arthur]], after inquiring the price, and finding
@@ -70281,7 +70281,7 @@ we do not, when we shall have you down!’
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_06" data-title="Nicholas Nickleby — Chapter 53 (part 6)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_06" data-title="Nicholas Nickleby — Chapter 53 (part 6)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="topos/double,archetype/lover,archetype/villain,motif/blood,motif/love,motif/nature,motif/silence,motif/sleep,motif/tears,motif/well,motif/window,concept/beauty,concept/hope,concept/jealousy,concept/mercy,concept/nature,concept/wonder,character/arthur,character/bottom,character/madeline,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 He paused again, and still [[arthur|Arthur]] Gride glared upon him in [[Silence|silence]].
@@ -70420,7 +70420,7 @@ warmer familiarity, and stole away to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Nicholas Nickleby — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Nicholas Nickleby — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,motif/dust,motif/fire,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/fear,concept/nature,character/arthur,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 54
@@ -70545,7 +70545,7 @@ trouble afterwards.’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Nicholas Nickleby — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Nicholas Nickleby — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/clock,motif/marriage,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/courage,concept/faith,concept/suffering,character/arthur,character/madeline,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Oh what a man you are!’ croaked [[arthur|Arthur]].
@@ -70676,7 +70676,7 @@ own ears with them, to that very man yonder, ape and mummy as he looks.’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Nicholas Nickleby — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Nicholas Nickleby — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/dreams,motif/grave,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/freedom,concept/hope,concept/imagination,concept/pride,concept/suffering,concept/truth,character/arthur,character/madeline,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘So there are!’ exclaimed Bray, eagerly catching at anything which
@@ -70795,7 +70795,7 @@ purpose.’
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Nicholas Nickleby — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Nicholas Nickleby — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/marriage,motif/night,motif/silence,motif/time,concept/body,concept/hope,character/arthur,character/madeline,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘And what may your purpose be, most lofty lady?’ said Ralph.
@@ -70918,7 +70918,7 @@ be taken away.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Nicholas Nickleby — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Nicholas Nickleby — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/dust,motif/nature,motif/night,concept/nature,character/arthur,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘Who says so?’ cried Nicholas, rising from his knee and confronting
@@ -70991,7 +70991,7 @@ drive away.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Nicholas Nickleby — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Nicholas Nickleby — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/love,motif/night,motif/prison,motif/summer,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/wonder,form/history,character/madeline_bray,character/nicholas_nickleby"></span>
 
 
 CHAPTER 55
@@ -71101,7 +71101,7 @@ permanently provided for, on a scale of great splendour.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Nicholas Nickleby — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Nicholas Nickleby — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/home,motif/horse,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/hope,concept/nature,concept/suffering,concept/wonder,character/madeline,character/nicholas_nickleby,character/nurse"></span>
 
 
 The sudden and terrible shock she had received, combined with the great
@@ -71210,7 +71210,7 @@ the family would ever get on without her.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Nicholas Nickleby — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Nicholas Nickleby — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/hope,concept/melancholy,concept/pride,concept/resignation,concept/suffering,histref/america,setting/america,character/horatio,character/madeline,character/nicholas_nickleby,character/smike"></span>
 
 
 At other times, when Nicholas came [[Home|home]] at [[Night|night]], he would be
@@ -71352,7 +71352,7 @@ which is very nonsensical, perhaps, but still they will do it.’
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_04" data-title="Nicholas Nickleby — Chapter 55 (part 4)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_04" data-title="Nicholas Nickleby — Chapter 55 (part 4)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/home,motif/love,motif/tears,motif/water,motif/well,concept/doubt,concept/education,concept/hope,concept/poverty,concept/pride,concept/self,concept/truth,character/madeline,character/nicholas_nickleby"></span>
 
 
 The profound astonishment with which her son regarded her during this
@@ -71473,7 +71473,7 @@ putting it in practice by a new source of anxiety and uneasiness.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_05" data-title="Nicholas Nickleby — Chapter 55 (part 5)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_05" data-title="Nicholas Nickleby — Chapter 55 (part 5)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/journey,motif/night,motif/prayer,motif/time,motif/window,concept/history,concept/hope,form/history,setting/london,character/nicholas_nickleby,character/smike"></span>
 
 
 [[Smike]] became alarmingly ill; so reduced and exhausted that he could
@@ -71538,7 +71538,7 @@ It sounded like the [[prayer]] of a broken heart.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Nicholas Nickleby — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Nicholas Nickleby — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/time,motif/water,motif/window,concept/body,concept/loneliness,character/arthur,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 56
@@ -71676,7 +71676,7 @@ other side.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Nicholas Nickleby — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Nicholas Nickleby — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/home,motif/night,motif/time,motif/water,motif/well,concept/courage,concept/fear,concept/melancholy,character/arthur,character/nicholas_nickleby"></span>
 
 
 ‘I am almost afraid to go in, I declare,’ said [[arthur|Arthur]], turning to Ralph
@@ -71818,7 +71818,7 @@ folks, who wouldn’t be so mean as save a sixpence for the world!’
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Nicholas Nickleby — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Nicholas Nickleby — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="motif/time,motif/well,motif/wind,concept/mortality,character/nicholas_nickleby,character/smike"></span>
 
 
 Striving, as it would seem, to lose part of the bitterness of his
@@ -71959,7 +71959,7 @@ Snawley; a man whom I have paid much less than I have you?’
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_04" data-title="Nicholas Nickleby — Chapter 56 (part 4)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_04" data-title="Nicholas Nickleby — Chapter 56 (part 4)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/city,motif/death,motif/fire,motif/marriage,motif/nature,motif/night,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,concept/nature,concept/revenge,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘He did it cheap!’ retorted Ralph, testily; ‘yes, and he did it [[Well|well]],
@@ -72139,7 +72139,7 @@ such a chain which I will [[Wind|wind]] about him, as never man forged yet.’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Nicholas Nickleby — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Nicholas Nickleby — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/nature,setting/court,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 57
@@ -72249,7 +72249,7 @@ in a new train of ideas, a subject of consolation.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Nicholas Nickleby — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Nicholas Nickleby — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/monster,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/body,concept/doubt,setting/london,character/nicholas_nickleby"></span>
 
 
 ‘It’s a long [[Time|time]] to have been a-lingering in [[London]],’ he said; ‘and
@@ -72376,7 +72376,7 @@ passing the bottle: to which Peg did becoming reverence.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Nicholas Nickleby — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Nicholas Nickleby — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/rose,motif/time,motif/well,concept/truth,character/arthur,character/bottom,character/nicholas_nickleby"></span>
 
 
 ‘That’s the [[Time|time]] of day!’ said Mr. Squeers. ‘You look twenty pound ten
@@ -72504,7 +72504,7 @@ to do when I left him.’
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_04" data-title="Nicholas Nickleby — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_04" data-title="Nicholas Nickleby — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/fire,motif/secrets,motif/soul,motif/well,character/arthur,character/bottom,character/madeline,character/madeline_bray,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘I thought,’ said Squeers, ‘that you didn’t bear him any particular
@@ -72640,7 +72640,7 @@ the floor, and stretched him on it flat and senseless.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Nicholas Nickleby — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Nicholas Nickleby — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/birds,motif/childhood,motif/death,motif/flowers,motif/garden,motif/grave,motif/home,motif/journey,motif/memory,motif/night,motif/rose,motif/seasons,motif/silence,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/window,concept/fear,concept/history,concept/hope,concept/mercy,concept/self,form/history,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 58
@@ -72750,7 +72750,7 @@ together.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Nicholas Nickleby — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Nicholas Nickleby — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/dreams,motif/grave,motif/leaves,motif/nature,motif/night,motif/pain,motif/road,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/body,concept/hope,concept/imagination,concept/nature,concept/poverty,concept/truth,character/nicholas_nickleby,character/smike"></span>
 
 
 It was on one of these occasions that a circumstance took place, which
@@ -72920,7 +72920,7 @@ upon their faces; then, whispered that it was Eden--and so died.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Nicholas Nickleby — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Nicholas Nickleby — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/shadow,motif/dreams,motif/home,motif/night,motif/noon,motif/sleep,motif/time,motif/well,concept/hope,concept/temptation,concept/truth,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 59
@@ -73052,7 +73052,7 @@ resolutely determined not to hear you.’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Nicholas Nickleby — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Nicholas Nickleby — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/dreams,motif/home,motif/road,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/mercy,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 ‘Mr. Nickleby, sir,’ returned brother Charles: no less mildly than
@@ -73174,7 +73174,7 @@ keep ‘em.’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Nicholas Nickleby — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Nicholas Nickleby — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/dust,motif/home,motif/night,motif/time,motif/well,motif/window,concept/body,concept/hope,concept/melancholy,character/nicholas_nickleby"></span>
 
 
 ‘Will you,’ said Ralph, suppressing his passion as [[Well|well]] as he could,
@@ -73295,7 +73295,7 @@ the glass case, found Tim Linkinwater [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Nicholas Nickleby — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Nicholas Nickleby — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/fool,motif/secrets,motif/soul,motif/well,character/arthur,character/cheeryble_brothers,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 ‘My name’s Nickleby,’ said Ralph.
@@ -73427,7 +73427,7 @@ IN THE ROOM?’
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_05" data-title="Nicholas Nickleby — Chapter 59 (part 5)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_05" data-title="Nicholas Nickleby — Chapter 59 (part 5)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/nature,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/mercy,concept/nature,concept/truth,setting/london,character/arthur,character/madeline,character/newman_noggs,character/nicholas_nickleby,character/ralph_nickleby,character/smike"></span>
 
 
 Ralph had put a great command upon himself; but he could not have
@@ -73599,7 +73599,7 @@ Thus they parted, for that [[Time|time]]; but the worst had not come yet.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="Nicholas Nickleby — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="Nicholas Nickleby — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/crown,motif/fire,motif/home,motif/nature,motif/silence,motif/water,motif/well,concept/nature,concept/pride,character/madeline,character/nicholas_nickleby"></span>
 
 
 CHAPTER 60
@@ -73723,7 +73723,7 @@ youth. Total, all up with Squeers!’
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="Nicholas Nickleby — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="Nicholas Nickleby — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/imprisonment,concept/truth,form/fable,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 His running on, in this way, had afforded Ralph an opportunity of
@@ -73847,7 +73847,7 @@ undergone that day.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="Nicholas Nickleby — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="Nicholas Nickleby — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/death,motif/grave,motif/home,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/self,concept/suffering,concept/wonder,character/nicholas_nickleby"></span>
 
 
 A profound [[Silence|silence]] was observed during the ride. Arrived at their place
@@ -73976,7 +73976,7 @@ the slightest sound or gesture.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_04" data-title="Nicholas Nickleby — Chapter 60 (part 4)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_04" data-title="Nicholas Nickleby — Chapter 60 (part 4)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/secrets,motif/soul,motif/time,motif/well,concept/guilt,concept/hope,concept/nature,concept/revenge,concept/suffering,setting/london,character/nicholas_nickleby,character/nurse,character/ralph_nickleby,character/smike"></span>
 
 
 ‘Gentlemen,’ said the man, ‘I offer no excuses for myself. I am long
@@ -74116,7 +74116,7 @@ concluded to act upon this resolution before going to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Nicholas Nickleby — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Nicholas Nickleby — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/garden,motif/home,motif/journey,motif/love,motif/nature,motif/pain,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/nature,concept/pride,concept/truth,character/madeline,character/nicholas_nickleby,character/nurse"></span>
 
 
 CHAPTER 61
@@ -74244,7 +74244,7 @@ rigidly, and to put further delays and temptations beyond my reach.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Nicholas Nickleby — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Nicholas Nickleby — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/silence,motif/tears,motif/time,motif/well,concept/courage,concept/doubt,concept/history,concept/hope,concept/melancholy,concept/pride,form/history,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘Before you say another word, dear Nicholas,’ said Kate, turning pale,
@@ -74371,7 +74371,7 @@ Kate threw her arms about his neck, and declared she would weep no more.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Nicholas Nickleby — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Nicholas Nickleby — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/love,motif/nature,motif/pain,motif/soul,motif/time,motif/well,concept/beauty,concept/history,concept/nature,concept/self,concept/truth,form/history,setting/london,character/cheeryble_brothers,character/nicholas_nickleby,character/nurse"></span>
 
 
 ‘What man,’ thought Nicholas proudly, while on his way, soon afterwards,
@@ -74494,7 +74494,7 @@ consideration subservient to my duty to you.’
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_04" data-title="Nicholas Nickleby — Chapter 61 (part 4)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_04" data-title="Nicholas Nickleby — Chapter 61 (part 4)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/pride,concept/self,concept/temptation,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘Mr. Nickleby,’ said brother Charles, ‘you did not violate the confidence
@@ -74597,7 +74597,7 @@ full of uneasiness, uncertainty, and disquiet.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Nicholas Nickleby — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Nicholas Nickleby — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dance,motif/death,motif/dust,motif/grave,motif/home,motif/love,motif/night,motif/road,motif/time,motif/well,motif/wind,concept/body,concept/grotesque,concept/imagination,concept/suicide,concept/truth,character/nicholas_nickleby,character/ralph_nickleby"></span>
 
 
 CHAPTER 62
@@ -74706,7 +74706,7 @@ loss of fortune on his head.
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Nicholas Nickleby — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Nicholas Nickleby — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/home,motif/love,motif/night,motif/road,motif/rose,motif/silence,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/despair,concept/madness,concept/mercy,character/nicholas_nickleby"></span>
 
 
 But one tender thought, or one of natural regret, in his whirlwind of
@@ -74857,7 +74857,7 @@ had so often been directed in childish terror, fourteen years before.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="Nicholas Nickleby — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="Nicholas Nickleby — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/home,motif/night,motif/time,motif/well,concept/doubt,concept/honour,character/madeline,character/nicholas_nickleby"></span>
 
 
 CHAPTER 63
@@ -74983,7 +74983,7 @@ quite so soon, Ned.’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="Nicholas Nickleby — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="Nicholas Nickleby — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/love,motif/silence,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/suffering,character/madeline,character/nicholas_nickleby,character/nurse"></span>
 
 
 ‘Oh! sad, sad; very sad!’ said Ned.
@@ -75105,7 +75105,7 @@ Why, this is almost the best of all!’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_03" data-title="Nicholas Nickleby — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_03" data-title="Nicholas Nickleby — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/villain,motif/night,motif/noon,motif/soul,motif/time,motif/well,motif/window,motif/winter,concept/truth,character/cheeryble_brothers,character/madeline,character/nicholas_nickleby"></span>
 
 
 ‘Come, come,’ said Ned, ‘Frank will be jealous, and we shall have some
@@ -75250,7 +75250,7 @@ here on purpose.’
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_04" data-title="Nicholas Nickleby — Chapter 63 (part 4)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_04" data-title="Nicholas Nickleby — Chapter 63 (part 4)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/child,motif/tears,motif/time,setting/london,character/madeline,character/newman_noggs,character/nicholas_nickleby,character/sunday"></span>
 
 
 ‘I can never look ‘em in the face again!’ exclaimed Miss La Creevy,
@@ -75365,7 +75365,7 @@ misdemeanour she had so flagrantly committed.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Nicholas Nickleby — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Nicholas Nickleby — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="topos/quest,motif/clock,motif/fire,motif/home,motif/horse,motif/journey,motif/lamb,motif/love,motif/night,motif/prison,motif/road,motif/soul,concept/friendship,concept/hope,concept/melancholy,setting/london,character/biddy,character/madeline,character/nicholas_nickleby,character/smike"></span>
 
 
 CHAPTER 64
@@ -75490,7 +75490,7 @@ pet and comfort? Oh, demmit!’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Nicholas Nickleby — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Nicholas Nickleby — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/grave,motif/home,motif/journey,motif/night,motif/pain,motif/road,motif/snow,motif/time,motif/well,motif/window,motif/winter,concept/longing,setting/london,character/bottom,character/madeline,character/nicholas_nickleby,character/smike"></span>
 
 
 Very little affected, to judge from her action, by this tender appeal,
@@ -75614,7 +75614,7 @@ thither, to hear what Nicholas had to tell.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Nicholas Nickleby — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Nicholas Nickleby — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/rebel,motif/death,motif/horse,motif/journey,motif/pain,motif/prison,motif/silence,motif/sleep,motif/swallow,motif/time,motif/well,concept/friendship,setting/london,character/madeline,character/nicholas_nickleby"></span>
 
 
 Nicholas told them all, and never was there a story which awakened so
@@ -75730,7 +75730,7 @@ out. Hip--hip,--hip--hurrah!’
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_04" data-title="Nicholas Nickleby — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_04" data-title="Nicholas Nickleby — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/horse,motif/tears,motif/time,motif/well,concept/courage,concept/solitude,character/nicholas_nickleby"></span>
 
 
 The boys obeyed.
@@ -75798,7 +75798,7 @@ neighbours, or to be only spoken of as among the things that had been.
 
 
 
-<span class="atom-split" data-atom="chapter_65" data-title="Nicholas Nickleby — Chapter 65" data-chapter="Chapter 65" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_65" data-title="Nicholas Nickleby — Chapter 65" data-chapter="Chapter 65" data-kind="chapter" data-tags="archetype/child,motif/fire,motif/flowers,motif/grave,motif/love,motif/nature,motif/night,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/winter,concept/faith,concept/hope,concept/nature,setting/london,character/arthur,character/cheeryble_brothers,character/madeline,character/newman_noggs,character/nicholas_nickleby"></span>
 
 
 CHAPTER 65

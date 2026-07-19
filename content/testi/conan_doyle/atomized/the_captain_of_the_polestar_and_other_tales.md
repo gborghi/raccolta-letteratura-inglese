@@ -1058,7 +1058,7 @@ THE LIFT
 
 
 
-<span class="atom-split" data-atom="story_01_the_captain_of_the_pole_star" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE CAPTAIN OF THE “POLE-STAR.”" data-chapter="THE CAPTAIN OF THE POLE STAR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_captain_of_the_pole_star" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE CAPTAIN OF THE “POLE-STAR.”" data-chapter="THE CAPTAIN OF THE POLE STAR" data-kind="story" data-tags="archetype/ghost,motif/ship,motif/snow,motif/uncanny,concept/madness,concept/uncanny,setting/ship"></span>
 
 
 THE CAPTAIN OF THE “POLE-STAR.”
@@ -1152,7 +1152,7 @@ I shall not continue my journal. Our road to home lies plain and clear before us
 
 
 
-<span class="atom-split" data-atom="story_02_f_habakuk_jephsons_statement" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — F. HABAKUK JEPHSON’S STATEMENT." data-chapter="F HABAKUK JEPHSONS STATEMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_f_habakuk_jephsons_statement" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — F. HABAKUK JEPHSON’S STATEMENT." data-chapter="F HABAKUK JEPHSONS STATEMENT" data-kind="story" data-tags="motif/ship,histref/america,setting/america,setting/ship"></span>
 
 
 F. HABAKUK JEPHSON’S STATEMENT.
@@ -1257,7 +1257,7 @@ From the day on which I found myself once more in the bosom of my family I have 
 
 
 
-<span class="atom-split" data-atom="story_03_the_great_keinplatz_experiment" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE GREAT KEINPLATZ EXPERIMENT." data-chapter="THE GREAT KEINPLATZ EXPERIMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_great_keinplatz_experiment" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE GREAT KEINPLATZ EXPERIMENT." data-chapter="THE GREAT KEINPLATZ EXPERIMENT" data-kind="story" data-tags="concept/mesmerism"></span>
 
 
 THE GREAT KEINPLATZ EXPERIMENT.
@@ -1355,7 +1355,7 @@ When the worthy lecturer returned home that night he did not receive the cordial
 
 
 
-<span class="atom-split" data-atom="story_04_the_man_from_archangel" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE MAN FROM ARCHANGEL." data-chapter="THE MAN FROM ARCHANGEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_man_from_archangel" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THE MAN FROM ARCHANGEL." data-chapter="THE MAN FROM ARCHANGEL" data-kind="story" data-tags="motif/ship,concept/madness,setting/ship"></span>
 
 
 THE MAN FROM ARCHANGEL.
@@ -1448,7 +1448,7 @@ Madge and I buried them there on the shores of the desolate northern sea. They l
 
 
 
-<span class="atom-split" data-atom="story_05_that_little_square_box" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THAT LITTLE SQUARE BOX." data-chapter="THAT LITTLE SQUARE BOX" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_that_little_square_box" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — THAT LITTLE SQUARE BOX." data-chapter="THAT LITTLE SQUARE BOX" data-kind="story" data-tags="archetype/ghost,motif/ship,motif/supernatural,histref/america,setting/america,setting/ship"></span>
 
 
 THAT LITTLE SQUARE BOX.
@@ -1637,7 +1637,7 @@ Little more need be said. It is not a subject on which I care to dwell. The whol
 
 
 
-<span class="atom-split" data-atom="story_06_john_huxfords_hiatus" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — JOHN HUXFORD’S HIATUS." data-chapter="JOHN HUXFORDS HIATUS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_john_huxfords_hiatus" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — JOHN HUXFORD’S HIATUS." data-chapter="JOHN HUXFORDS HIATUS" data-kind="story" data-tags="motif/ship,motif/snow,setting/ship"></span>
 
 
 JOHN HUXFORD’S HIATUS.
@@ -1735,7 +1735,7 @@ And there in their snug new home, sitting out on the lawn in the summer-time, an
 
 
 
-<span class="atom-split" data-atom="story_07_cyprian_overbeck_wells_a_literary_mosaic" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — CYPRIAN OVERBECK WELLS — A LITERARY MOSAIC." data-chapter="CYPRIAN OVERBECK WELLS A LITERARY MOSAIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_cyprian_overbeck_wells_a_literary_mosaic" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — CYPRIAN OVERBECK WELLS — A LITERARY MOSAIC." data-chapter="CYPRIAN OVERBECK WELLS A LITERARY MOSAIC" data-kind="story" data-tags="archetype/ghost,motif/ship,motif/supernatural,setting/ship"></span>
 
 
 CYPRIAN OVERBECK WELLS — A LITERARY MOSAIC.
@@ -1843,7 +1843,7 @@ Lytton was so enraged at these remarks, and at the favour with which they appear
 
 
 
-<span class="atom-split" data-atom="story_08_john_barrington_cowles" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — JOHN BARRINGTON COWLES." data-chapter="JOHN BARRINGTON COWLES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_john_barrington_cowles" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — JOHN BARRINGTON COWLES." data-chapter="JOHN BARRINGTON COWLES" data-kind="story" data-tags="motif/snow,concept/mesmerism"></span>
 
 
 JOHN BARRINGTON COWLES.
@@ -2030,7 +2030,7 @@ You ask me, no doubt, what my own theory is which will explain all these strange
 
 
 
-<span class="atom-split" data-atom="story_09_elias_b_hopkins_the_parson_of_jackmans_g" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH." data-chapter="ELIAS B HOPKINS THE PARSON OF JACKMANS G" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_elias_b_hopkins_the_parson_of_jackmans_g" data-title="THE CAPTAIN OF THE POLESTAR AND OTHER TALES. — ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH." data-chapter="ELIAS B HOPKINS THE PARSON OF JACKMANS G" data-kind="story" data-tags="archetype/trickster,motif/money_gold,concept/conversion,concept/faith,concept/greed_and_money,concept/hypocrisy,form/short_story,setting/australia"></span>
 
 
 ELIAS B. HOPKINS, THE PARSON OF JACKMAN’S GULCH.

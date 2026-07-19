@@ -1079,7 +1079,7 @@ APPENDIX
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER XIV
@@ -1097,7 +1097,7 @@ ARTHUR CONAN DOYLE. THE PSYCHIC BOOKSHOP, ABBEY HOUSE, VICTORIA STREET, S.W.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/soul,concept/spiritualism,histref/bible,histref/christianity,setting/london,character/emanuel_swedenborg"></span>
 
 
 CHAPTER I
@@ -1144,7 +1144,7 @@ The general reader who desires to go further will find Swedenborg’s most chara
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/prophet,motif/soul,motif/supernatural,concept/spiritualism,histref/america,histref/bible,setting/america,setting/london"></span>
 
 
 CHAPTER II
@@ -1185,7 +1185,7 @@ This episode of the Shaker manifestations is a very distinct link between the Sw
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/prophet,motif/soul,concept/spiritualism,histref/christianity"></span>
 
 
 CHAPTER III
@@ -1238,7 +1238,7 @@ Church took such possibilities into account. But whether Davis stood alone, or w
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/soul,motif/supernatural,motif/uncanny,concept/immortality_of_the_soul,concept/spiritualism,concept/uncanny,histref/america,histref/christianity,setting/america"></span>
 
 
 CHAPTER IV
@@ -1323,7 +1323,7 @@ After a return to Rochester, the Fox family made a tour of the Western States, a
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/soul,motif/uncanny,concept/spiritualism,concept/uncanny,histref/america,histref/bible,setting/america,setting/london,character/emanuel_swedenborg"></span>
 
 
 CHAPTER V
@@ -1441,7 +1441,7 @@ The author has said that there is little connection between physical mediumship 
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/prophet,concept/spiritualism,histref/america,histref/bible,histref/christianity,setting/america,setting/london"></span>
 
 
 CHAPTER VI
@@ -1522,7 +1522,7 @@ It is impossible that the United States, if it appreciated the truth, would allo
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/supernatural,concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER VII
@@ -1619,7 +1619,7 @@ This was due to a visit of a Mr. David Richmond, an American Shaker, to the town
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER VIII
@@ -1671,7 +1671,7 @@ There only remains the hypothesis of complex personality, which may well influen
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/prophet,motif/supernatural,concept/spiritualism,histref/america,histref/christianity,setting/america,setting/london"></span>
 
 
 CHAPTER IX
@@ -1727,7 +1727,7 @@ Such were his witnesses and such his works. And yet, when his most useful and un
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/supernatural,concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER X
@@ -1798,7 +1798,7 @@ The fault lies not with the immortals, but in us; for, as is the demand, so is t
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER XI
@@ -1874,7 +1874,7 @@ The author has had an opportunity lately, through the courtesy of Mr. Thomas Bly
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/ghosts,motif/soul,concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER XII
@@ -1933,7 +1933,7 @@ What are we to make of such a result as that? There were eleven witnesses beside
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 13" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 13" data-chapter="Chapter 14" data-kind="chapter" data-tags="concept/spiritualism,histref/america,setting/america,setting/london"></span>
 
 
 CHAPTER XIII
@@ -2036,7 +2036,7 @@ Such an exposure, coming from so sure a source, arouses a feeling of disgust whi
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/supernatural,concept/spiritualism,setting/london"></span>
 
 
 CHAPTER XIV
@@ -2124,7 +2124,7 @@ The author has seen numerous photographs of the ectoplasmic flow from “Margery
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/supernatural,concept/spiritualism"></span>
 
 
 APPENDIX
@@ -2184,7 +2184,7 @@ CONTENTS
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 1" data-chapter="Chapter 16" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER I
@@ -2193,7 +2193,7 @@ THE CAREER OF EUSAPIA PALLADINO
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 2" data-chapter="Chapter 17" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER II
@@ -2202,7 +2202,7 @@ GREAT MEDIUMS FROM 1870 TO 1900: CHARLES H. FOSTER-MADAME D’ESPERANCE-WILLIAM 
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 3" data-chapter="Chapter 18" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER III
@@ -2211,7 +2211,7 @@ THE SOCIETY FOR PSYCHICAL RESEARCH
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 5" data-chapter="Chapter 19" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER IV
@@ -2222,7 +2222,7 @@ SPIRIT PHOTOGRAPHY
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 6" data-chapter="Chapter 20" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER VI
@@ -2231,7 +2231,7 @@ VOICE MEDIUMSHIP AND MOULDS
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 7" data-chapter="Chapter 21" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER VII
@@ -2240,7 +2240,7 @@ FRENCH, GERMAN, AND ITALIAN [[Spiritualism|SPIRITUALISM]]
 
 
 
-<span class="atom-split" data-atom="chapter_22" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 22" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 8" data-chapter="Chapter 22" data-kind="chapter" data-tags="concept/spiritualism,form/nonfiction"></span>
 
 
 CHAPTER VIII
@@ -2249,7 +2249,7 @@ SOME GREAT MODERN MEDIUMS
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 10" data-chapter="Chapter 23" data-kind="chapter" data-tags="concept/spiritualism"></span>
 
 
 CHAPTER IX
@@ -2260,7 +2260,7 @@ THE RELIGIOUS ASPECT OF [[Spiritualism|SPIRITUALISM]]
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="THE HISTORY OF SPIRITUALISM VOLUME I — Chapter 11" data-chapter="Chapter 24" data-kind="chapter" data-tags="concept/spiritualism,concept/heaven_and_the_afterlife,form/nonfiction"></span>
 
 
 CHAPTER XI

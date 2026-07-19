@@ -3341,7 +3341,7 @@ Antyga par pymatên sakeos pyka poiêtoio.}
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="A Change in the Cabinet — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="A Change in the Cabinet — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER I
@@ -3373,7 +3373,7 @@ The Wardenship of the Court of Dowry carried with it something regal in that gre
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="A Change in the Cabinet — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="A Change in the Cabinet — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 It would be an exaggeration to say that he had raised one of the minor Government posts to the level of the Foreign Office, but, at any rate, it had under his reign become almost as prominent as it had been when GHERKIN had first raised it to the rank of a principal function in the State. It was one of the great spending departments; Repton saw to that.
@@ -3419,7 +3419,7 @@ From her room Maria, Lady Repton, when she was quite sure that her husband was g
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="A Change in the Cabinet — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="A Change in the Cabinet — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He, meanwhile, was out in Oxford Street, and with the rapidity that distinguishes successful men, had decided not to take a motor-bus but to walk. The March day was cold and clear and breezy, and he went eastward at a happy gait. He did not need to be at his work until close upon eleven, and even that he knew to be full early for at least one colleague, the stupidest of all the Directors, a certain Bingham, upon whose late rising he counted. For the intolerable tedium of arguing against a man who invariably took the unintelligent side was one of the few things which caused Sir Charles to betray some slight shade of impatience.
@@ -3439,7 +3439,7 @@ Let the reader leave him there walking in Oxford Street and turn her attention t
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="A Change in the Cabinet — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="A Change in the Cabinet — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER II
@@ -3479,7 +3479,7 @@ He was of good birth, and doubtless had he possessed a secure and flowing fortun
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="A Change in the Cabinet — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="A Change in the Cabinet — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 George Mulross Demaine, like so many of his rank, was related to Mary Smith.
@@ -3513,7 +3513,7 @@ No profession naturally proposed itself to a man of his talents, and he had not 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="A Change in the Cabinet — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="A Change in the Cabinet — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 The two were forcibly introduced — I mean the boy and the girl — they understood from the first what their destiny was to be. She could find no fault in the society which swam round her and to which such a marriage would introduce her activities; he saw no drawback to the alliance save one or two mannerisms in his prospective father-in-law, which time might modify — or on the other hand, might not.
@@ -3559,7 +3559,7 @@ It was a Wednesday in that March of 1915 that the Statesman was to speak in Wash
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="A Change in the Cabinet — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="A Change in the Cabinet — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER III
@@ -3613,7 +3613,7 @@ His daughter with filial gaiety assured him that she had waited his orders, to w
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="A Change in the Cabinet — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="A Change in the Cabinet — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 During the meal he was as silent as he had been upon the journey, and at the end of it he gave his son-in-law to understand that he desired to talk business with his daughter and preferred to be alone with her: and George Mulross went out, taking his wine with him, for his wife’s father drank none, but only Toxine.
@@ -3659,7 +3659,7 @@ The first thing she did was to tell him that he could not let his house that sea
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="A Change in the Cabinet — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="A Change in the Cabinet — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Meanwhile he must post a letter for her.
@@ -3697,7 +3697,7 @@ For the moment she thought of warning him not to come, then, remembering certain
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Change in the Cabinet — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="A Change in the Cabinet — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER IV
@@ -3737,7 +3737,7 @@ For his colleague Bingham added to a native idiocy of solid texture and formidab
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Change in the Cabinet — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="A Change in the Cabinet — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/greed_and_money,concept/deception,concept/power_and_corruption,concept/ambition,concept/satire_of_society,concept/empire_and_imperialism,form/satire,form/novel"></span>
 
 
 It was just as Repton had feared. Business that might have been done in a quarter of an hour and a decision which contained no more than the issue of pieces of paper was turned into a long practical discussion by the intolerable ponderance of Bingham, who would wait until every one had had his say, and then would bring in some dreadful little technical point about a marsh, a rainy season or a fly; he was careful to pepper his conversation with local terms a hundred times more remote than the Kawanga and Mutchi-time; in every conceivable manner he put his spoke into the wheels of business.
@@ -3761,7 +3761,7 @@ The foreigner was as wax in his hands: not as good warm wax, adulterated wax, ca
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Change in the Cabinet — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="A Change in the Cabinet — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Then Repton went on to the House of Commons, and there, as in every duty of the day, the weight of his character told.
@@ -3785,7 +3785,7 @@ So Repton stood in the middle of May, 1915, when he became aware that an obscure
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="A Change in the Cabinet — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="A Change in the Cabinet — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER V
@@ -3893,7 +3893,7 @@ He, poor fellow, saw in all this nothing but that eternity of bad luck to which 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Change in the Cabinet — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="A Change in the Cabinet — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER VI
@@ -3943,7 +3943,7 @@ During the eighteenth century the fixed yearly salary of £2000 hereditarily enj
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Change in the Cabinet — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Change in the Cabinet — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/tradition,concept/authority,concept/hypocrisy,concept/ambition,concept/power_and_corruption,form/satire,form/novel"></span>
 
 
 Our grandfathers, in the zeal of that somewhat iconoclastic moment, swept away the corrupt figment. The emoluments of the post were ruthlessly cut down to the original £2000; its hereditary character was, after a violent debate in the House of Lords, destroyed by a majority of over fifty votes, determined (as were so many of the great changes of that time!) by the voice of Eldon. The Detainer of the office (for such was his official title) received in compensation a lump sum of half a million only — not twenty years’ purchase — and certain apparently unimportant functions were attached to the place which from that day forward became an appointment changing with the Administration.
@@ -3981,7 +3981,7 @@ A note in the firm hand of Mary Smith was always a pleasant thing to get; for a 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Change in the Cabinet — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="A Change in the Cabinet — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 George Mulross went in a mood lighter than any he had known for many weeks, towards his cousin’s house. He found her, of course, alone.
@@ -4043,7 +4043,7 @@ Morning and afternoon, a patient governess, Mary Smith heard him recite that spe
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="A Change in the Cabinet — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="A Change in the Cabinet — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 First he would yield to a right honourable gentleman; then no one would yield to him; then he would yield to no admiration, and at last she gave it up in despair.
@@ -4125,7 +4125,7 @@ The full absurdity of it grew increasingly upon Demaine’s imagination. “The 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="A Change in the Cabinet — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="A Change in the Cabinet — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 “How many people do you know in the House?” she asked.
@@ -4187,7 +4187,7 @@ She put both hands on his awkward shoulders to stop him, and she kissed him anyw
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Change in the Cabinet — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="A Change in the Cabinet — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,setting/england,setting/london"></span>
 
 
 CHAPTER VII
@@ -4235,7 +4235,7 @@ The mood was of no long duration. She could have wished it had been longer. He s
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Change in the Cabinet — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="A Change in the Cabinet — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 She was to see nothing of him while he went through every detail of his affairs for the week and the month with his assistant; she was not even to be allowed to see something of him at his midday meal; she watched him as he went out of the house at the invariable hour to drive to the office of the Court of Dowry. And as she watched him with new feelings in her, and the breaking of dead crusts, she saw another man accost him, the cab turned away, and the two go together, walking, towards the Park. She knew the figure though she came so little into the life of [[London]], and she recognised, in the sloppy clothes and the stooping walk, the Prime Minister.
@@ -4283,7 +4283,7 @@ But Charles Repton was firm. These solid masters of finance are glad to think ou
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="A Change in the Cabinet — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="A Change in the Cabinet — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/ambition,concept/power_and_corruption,concept/satire_of_society,concept/hypocrisy,concept/greed_and_money,form/satire,form/novel,setting/london"></span>
 
 
 Long before the simple intrigues of the drawing-rooms had taken shape, Charles Repton had swept the whole landscape with his inward eye. He knew every fold of the terrain, he had measured every range. He had determined that, upon the whole, a peerage was worth his while: now; at the very height of his fortune.
@@ -4367,7 +4367,7 @@ Past him, as he so stood, strode, full of vigour and of will, the fixed form of 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Change in the Cabinet — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="A Change in the Cabinet — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/madness,concept/madness,concept/satire_of_society,concept/appearance_vs_reality,form/satire,form/novel,setting/london"></span>
 
 
 CHAPTER VIII
@@ -4419,7 +4419,7 @@ Yet again his mood changed and he burst into an explosion of laughter as he reme
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Change in the Cabinet — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="A Change in the Cabinet — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Long before they reached the Marble Arch he had forgotten all about his intention of secrecy. Nay, he had forgotten about his dinner; he only knew he was going home. And when he got out he saw upon the little machine the notice “1/10.”
@@ -4493,7 +4493,7 @@ For the first time since her husband had decided to enter Parliament and had ent
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="A Change in the Cabinet — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="A Change in the Cabinet — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 As he was dressing she heard him now and then humming a chance tune (a thing which in his normal self he would no more have dreamed of doing than of walking the streets without his hat) and now and then commenting upon the character and attributes of the opera singer whom he had last heard sing it. She heard him launch out into a long monologue, describing the exact career of the new soprano at Covent Garden, the name of her father and her mother, the name of the Russian Grand Duke, the name of a wealthy English lady who had asked her (and him) to supper, and then, oh horror! the name of an English statesman. There was a burst of laughter which Lady Repton could hardly bear: and then a silence.
@@ -4541,7 +4541,7 @@ He came back again. He remembered something: “Of course,” he said a little a
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="A Change in the Cabinet — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="A Change in the Cabinet — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/fame_and_publicity,concept/hypocrisy,concept/ambition,form/satire,form/novel,setting/london"></span>
 
 
 “It’s not like business,” said Withers. “There’d be excitement, you know. Good-night.” And he went out.
@@ -4567,7 +4567,7 @@ So ended for George Mulross Demaine that Monday, June 1st, 1915.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Change in the Cabinet — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="A Change in the Cabinet — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER IX
@@ -4609,7 +4609,7 @@ The driver, now convinced that he had to do with something quite out of the ordi
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Change in the Cabinet — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="A Change in the Cabinet — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 After this, which had all been acted in the most rapid and violent manner, he ran up the steps, stood for a few moments with his hands in his pockets gazing at the telegrams, and forgetful that he had no collar on, that his coat was torn, that there was blood upon his hands, and that half of his waistcoat was wide open with two buttons missing. He found the telegrams of some interest; he did not notice the glances directed towards him by those who passed in and out of the building, nor the act of a page who in passing the porter’s box tapped his forehead twice with his forefinger.
@@ -4653,7 +4653,7 @@ He paused a moment, more for breath than for anything else, for he had been spea
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Change in the Cabinet — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="A Change in the Cabinet — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/greed_and_money,concept/deception,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,form/satire,form/novel"></span>
 
 
 “‘From figures that have been laid before me I find that the average price at which the present shareholders bought was eight pounds sixteen shillings and a few pence,’” and then added “We’ll call it eight pounds. Always be on the Conservative side.”
@@ -4693,7 +4693,7 @@ Two or three voices rose in protest at the back of the hall. Sir Charles leaned 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="A Change in the Cabinet — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="A Change in the Cabinet — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 “One moment, one moment pray! Hear me out! I don’t mean that no one will build it. That’s not our funeral. I mean that we won’t. The ‘Company’ may, whatever that means. But you and I — the people who have got into this hole — we won’t. It won’t be our money. Seize that! Get a hold of that! It’s the key to the whole business.”
@@ -4733,7 +4733,7 @@ An angry fanatic hearing the word “gin” rose at once and put the supplementa
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="A Change in the Cabinet — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="A Change in the Cabinet — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/madness,concept/madness,concept/satire_of_society,concept/hypocrisy,concept/deception,form/satire,form/novel,setting/london"></span>
 
 
 He sat down. It was a quarter to four and the House was saved. But though the decorum of that great assembly prevented one word from being uttered as to what had passed, the Lobbies were full of it, and when the first division was taken men who ordinarily filed past the Treasury bench avoided it, while from distant and dark corners where one cannot be observed, long and intent looks were darted at the happy Warden of the Court of Dowry.
@@ -4775,7 +4775,7 @@ The colleague didn’t know. “I have my back turned to the benches behind us y
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="A Change in the Cabinet — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="A Change in the Cabinet — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 The Prime Minister cast upon him a look of contempt, and asked the doorkeeper whether he had seen Mr. Demaine.
@@ -4821,7 +4821,7 @@ It was perfectly damnable! As though the cares of his office were not enough, th
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Change in the Cabinet — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="A Change in the Cabinet — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER X
@@ -4869,7 +4869,7 @@ Alas, for the various locutions of various ranks in our society! he did turn sha
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Change in the Cabinet — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="A Change in the Cabinet — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/imprisonment,concept/satire_of_society,concept/class_conflict,concept/crime_and_punishment,form/satire,form/novel"></span>
 
 
 He stepped up to one and asked whether he were yet near the station. The voluble reply “Shriska beth haumelshee! Chragso! Yeh!” illumined him not at all, and as he moved off uncertainly up the street, a roar of harsh laughter tended to upset his nerves.
@@ -4905,7 +4905,7 @@ But for the moment other considerations occupied him to the exclusion of the con
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="A Change in the Cabinet — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="A Change in the Cabinet — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/masks_disguise,motif/clothing,concept/satire_of_society,concept/class_conflict,concept/appearance_vs_reality,form/satire,form/novel"></span>
 
 
 The next thing that met his eye was a peculiarly repulsive pair of breeches, an old green-black torn overcoat, and a pair of workmen’s boots, cracked, grey with weather, laceless and apparently as stiff as wood. He had no choice: his first business was to find aid. He must put these on, break his way out of this den as best he could, and summon the Police.
@@ -4951,7 +4951,7 @@ Now to slip over the side in a book is one thing, but to do it on a real ship is
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="A Change in the Cabinet — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="A Change in the Cabinet — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 It was a new misadventure and one that had to be repaired. He heard voices and bolted for a large coil of rope which lay beneath the shadow of the turtle-deck. Here the stench, though somewhat different in quality from that of the fishbone manure, was not less noisome, and carried with it a reminiscence of Channel passages which weakened the very soul within George Mulross Demaine. But the sensation was soon swamped in one much more poignant; this was aroused in him by the approach of two inharmonious voices, one of which was borne towards him perpetually clamouring:
@@ -4999,7 +4999,7 @@ For some little time, therefore, Demaine still stood a butt for the occasional b
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="A Change in the Cabinet — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="A Change in the Cabinet — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Captain Higgins was a man who had made method and self-control the hinges of success in life. His Caryll’s Ganglia were all right!
@@ -5051,7 +5051,7 @@ Doggedly and despairingly the poor fellow scrubbed away. He scrubbed perhaps too
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="A Change in the Cabinet — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="A Change in the Cabinet — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 But the friend and brother (if I may so term the Eurafrican) could bear no more, and seizing the unstable landsman by the arm he thrust him, stumbling, down the stairway, and locked him again into his cell.
@@ -5137,7 +5137,7 @@ He fell into a profound sleep.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Change in the Cabinet — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="A Change in the Cabinet — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER XI
@@ -5203,7 +5203,7 @@ The Prime Minister almost forced him down into the chair from which he had risen
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Change in the Cabinet — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="A Change in the Cabinet — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He got up, walking slowly towards the door, and still murmuring: “There was something else, I know.” He touched his forehead with his hand, stood still a moment as if attempting to remember, then shook his head and said: “No, it’s no use. It was something to do with some concession or other, but I’m not fit for business to-day.”
@@ -5255,7 +5255,7 @@ A few moments later there walked up to it the tall strong frame of a man a trifl
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="A Change in the Cabinet — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="A Change in the Cabinet — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Two things dominated the conceptions of Sir Anthony: the first the antiquity of his family, which was considerable; the second a healthy contempt for the vagaries of the modern physical science.
@@ -5295,7 +5295,7 @@ Sir Anthony asked him what he ate and drank, received very commonplace answers, 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="A Change in the Cabinet — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="A Change in the Cabinet — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Yes I know,” said Repton, with a slight smile, “it’s a pity you called in old Bowker. I know he’s very good at nerves or aches or something, but he’s such an intolerable old stick. The fact is, Sir Anthony,” he said, fixing that eminent scientist with a keen look and slightly lowering his voice, “the fact is, Dr. Bowker isn’t quite a gentleman.”
@@ -5363,7 +5363,7 @@ The Premier’s cup was full. His Warden of the Court of Dowry had resigned: the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="A Change in the Cabinet — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="A Change in the Cabinet — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 It was enough to make a man cut his throat.
@@ -5443,7 +5443,7 @@ At the Treasury Evans had written regularly for a large evening paper, — he kn
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="A Change in the Cabinet — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="A Change in the Cabinet — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 He wrote his message: “If you have begun machining, stop. I’ve been sent up here urgently. — E. E.”
@@ -5515,7 +5515,7 @@ Mr. Price nodded and at the same time inwardly admired the omniscience of the Go
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_07" data-title="A Change in the Cabinet — Chapter 11 (part 7)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_07" data-title="A Change in the Cabinet — Chapter 11 (part 7)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “But, Mr. Evans,” began the sub-editor blankly.
@@ -5557,7 +5557,7 @@ As for Ole Man Benson, beyond a natural regret that such an asset as a son-in-la
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Change in the Cabinet — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="A Change in the Cabinet — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER XII
@@ -5623,7 +5623,7 @@ A voice came bawling down from above, ordering him to tumble up with the prisone
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Change in the Cabinet — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="A Change in the Cabinet — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 Tumble up George did; that is, he crawled up the steep and noisome ladder, and as he put his head out into the glorious air, thought that never was such contrast between heaven and hell. He drank the air and put his shoulders back to it, to the risk of the green-black coat.
@@ -5681,7 +5681,7 @@ He was up, on to the bale, over the bulwark and down ten feet into the sea, befo
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Change in the Cabinet — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="A Change in the Cabinet — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 The splash made by Demaine’s considerable form as it displaced in an amount equal to his weight the waters of the English Channel, came to the ears of the Watch, who was leaning comfortably over the farther railing at the other end of the vessel, looking out to seaward and ruminating upon a small debt which he had left behind him in the parish of Wapping. With no loss of dignity the Watch shuffled forward to see whether aught was displaced. The splash had been a loud one, but it might have been something thrown from the galley.
@@ -5715,7 +5715,7 @@ When Demaine heard the beat of the oars and again floated to look backwards, he 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="A Change in the Cabinet — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="A Change in the Cabinet — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 The Shining Goddesses of the Sea loved him more than they loved the odious denizens of the Lily; they set the tide in shore, and the Sea Lady, the Silver-Footed One, led the little waves along in his favour.
@@ -5751,7 +5751,7 @@ Manuscripts were lying upon the table, manuscripts consisting of long double lis
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="A Change in the Cabinet — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="A Change in the Cabinet — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,concept/satire_of_society,concept/class_conflict,concept/antisemitism,form/satire,form/novel,character/napoleon"></span>
 
 
 Forgetting the deplorable condition in which he was, a big scarecrow reeking and dripping salt water from sodden black rags that clung to his nakedness, George Mulross sank into a large easy-chair and breathed a sigh of profound content.
@@ -5793,7 +5793,7 @@ Hardly had she shut the garden door behind her when a key was heard turning in t
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="A Change in the Cabinet — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="A Change in the Cabinet — Chapter 12 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Two very large flat boots slowly tramped into the narrow region he could survey: above each nine inches of creased grey trouser leg could be seen; the boots, the trouser legs, did not approach the arm-chair; they took little notice apparently of things about them. Their owner grunted his satisfaction that none of his papers had been removed by the maid to whom he applied a most indiscreet epithet; he grunted further satisfaction that she had laid his fire and not lit it. Apparently it was among his other eccentricities to have a fire upon a June morning simply because the room was cold, and to let it die down before noon.
@@ -5851,7 +5851,7 @@ William Bailey opened the door and peered cautiously into the corridor, listened
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_07" data-title="A Change in the Cabinet — Chapter 12 (part 7)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_07" data-title="A Change in the Cabinet — Chapter 12 (part 7)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 They were not quite out of the range of the front door when there came a violent pull at the bell, and Elise went forward to open it.
@@ -5949,7 +5949,7 @@ Nothing would suit them but ladders must be brought, and they must climb upon th
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_08" data-title="A Change in the Cabinet — Chapter 12 (part 8)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_08" data-title="A Change in the Cabinet — Chapter 12 (part 8)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/masks_disguise,motif/concealment_hidden_identity,concept/satire_of_society,concept/appearance_vs_reality,form/satire,form/novel"></span>
 
 
 “Are your feet quite dry, Dimmy?”
@@ -6053,7 +6053,7 @@ And thus, after so many and so great adventures, George Mulross Demaine slept on
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Change in the Cabinet — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="A Change in the Cabinet — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER XIII
@@ -6115,7 +6115,7 @@ A thousand horrid thoughts! Found dead? Found wandering and imbecile? Found —�
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Change in the Cabinet — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="A Change in the Cabinet — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Where did it come from?”
@@ -6195,7 +6195,7 @@ His clothes were indeed extraordinary. You could not say they fitted, and you co
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Change in the Cabinet — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="A Change in the Cabinet — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/flag,motif/sea,concept/satire_of_society,concept/nationalism_and_patriotism,concept/deception,form/satire,form/novel"></span>
 
 
 His hair — oh horror! — was oiled; one might have sworn that his face was oiled as well.
@@ -6271,7 +6271,7 @@ It was an understood matter. George did now and then like to row and fish; a fri
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="A Change in the Cabinet — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="A Change in the Cabinet — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 These nautical experiences filled George with doubts.
@@ -6369,7 +6369,7 @@ Repton was at that very moment restored to his right mind — his Caryll’s Gan
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="A Change in the Cabinet — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="A Change in the Cabinet — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/england,setting/london"></span>
 
 
 CHAPTER XIV
@@ -6407,7 +6407,7 @@ Another attack of pain in the head seized him and passed. She sat doggedly, and 
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="A Change in the Cabinet — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="A Change in the Cabinet — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The superscription was peculiar; it ran:
@@ -6505,7 +6505,7 @@ Any doubts upon the matter were settled not only by his appearance but by his fi
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="A Change in the Cabinet — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="A Change in the Cabinet — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/madness,motif/disease_and_contagion,concept/satire_of_society,concept/madness,form/satire,form/novel,setting/london"></span>
 
 
 “Come into this room,” said Lady Repton hurriedly. She took him into a small room next to the dining-room, and communicating with it by a little door; she switched on the electric light and stood while she asked him breathlessly what credentials he had.
@@ -6569,7 +6569,7 @@ If proof were wanted of the truth of Scipio’s contention, his demeanour at thi
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="A Change in the Cabinet — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="A Change in the Cabinet — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Sir Charles as politely commented: “I’m not a Senator, you skimpy little fool! Good lord, Maria, where do people like that come from?”
@@ -6639,7 +6639,7 @@ Thus was Sir Charles Repton cured of Veracititis, late upon Wednesday night, the
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Change in the Cabinet — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="A Change in the Cabinet — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/madness,concept/satire_of_society,concept/tradition,concept/madness,concept/appearance_vs_reality,form/satire,form/novel"></span>
 
 
 CHAPTER XV
@@ -6709,7 +6709,7 @@ Dolly came in nervously and shook hands with him.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Change in the Cabinet — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="A Change in the Cabinet — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Sir Charles took his hand rather coldly; he did not see why a couple of days’ headache which no one had heard about should be made the excuse for so much public affection. It emphasised the thing. And he sat through the first hour of the debate looking as if he would have been just as well pleased to be made less fuss about. “Anyhow,” he thought to himself by way of consolation, “I shall be rid of it next week,” and his mind turned in an equable fashion to his taking his seat in the Upper House and to what his first business there might be.
@@ -6775,7 +6775,7 @@ Charles Repton returned to the House of Commons. Another message!
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Change in the Cabinet — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="A Change in the Cabinet — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “The Prime Minister begged to see Sir Charles Repton:” really there was no end to the number of people wanting to see him that day! Charles Repton went towards Dolly’s room with such muscles showing upon his face as would have made any one afraid to say another word about the headache, — but it was not of the headache, at least not of that directly, that Dolly had to speak.
@@ -6827,7 +6827,7 @@ He heard a low mumbling noise some distance down the benches which he would neve
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="A Change in the Cabinet — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="A Change in the Cabinet — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,concept/class_conflict,form/satire,form/novel,setting/london"></span>
 
 
 He had read all of it out now, anyhow, and he sat down, a trifle unsteadily, feeling for the seat.
@@ -6881,7 +6881,7 @@ It was upon this very account that the general resolution of which he had spoken
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="A Change in the Cabinet — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="A Change in the Cabinet — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/hypocrisy,concept/self_made_man_theme,concept/class_conflict,form/satire,form/novel"></span>
 
 
 “Now, Melords,” he continued, “of the eleven hundred remaining — they are roughly eleven hundred, — what do we find? We find” — emphatically striking his right-hand fist into his left-hand palm,— “we find no less than five hundred and twelve to be the sons of their fathers — or in some other way direct heirs: ninety-eight to have succeeded to their titles from collaterals of the first or of the second degree; sixteen to have succeeded in some more distant manner; eleven to owe their position to the revival of ancient tenures; the claims of six to have been recently proved through the female line; and one by Warranty and Novel Disseizin. What remains?”
@@ -6923,7 +6923,7 @@ Thus was destroyed, let us hope for ever, what was rapidly growing to be a formi
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_06" data-title="A Change in the Cabinet — Chapter 15 (part 6)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_06" data-title="A Change in the Cabinet — Chapter 15 (part 6)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 It was not the least of the services which Charles Repton had rendered to the State, and as we raise our grateful hats to Providence for the recovery that made his action possible, let us not forget the genius of the Young Canadian Doctor who was the author of that miraculous moment in a story of a thousand years.
@@ -6983,7 +6983,7 @@ Extract from a lecture delivered, for a grossly insufficient fee, by a professor
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_07" data-title="A Change in the Cabinet — Chapter 15 (part 7)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_07" data-title="A Change in the Cabinet — Chapter 15 (part 7)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “In every text-book we read (and we believed the statement) that between a really poor man and the highest specimens of our race lay a gulf wider than that which separated the former from the Ringtailed Baboon and even from the Gorilla and the Barbary Ape. To-day all that is gone!

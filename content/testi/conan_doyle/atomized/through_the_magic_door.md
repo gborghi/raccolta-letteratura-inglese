@@ -390,7 +390,7 @@ APPENDIX
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THROUGH THE MAGIC DOOR (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THROUGH THE MAGIC DOOR (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/book_reading,motif/the_book,concept/literary_criticism,concept/immortality_of_art,concept/imagination,form/essay,character/shakespeare"></span>
 
 
 THROUGH THE MAGIC DOOR
@@ -448,7 +448,7 @@ However, all this has nothing to do with Macaulay’s glorious lays, save that w
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THROUGH THE MAGIC DOOR (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THROUGH THE MAGIC DOOR (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/the_writer,motif/the_book,concept/imagination"></span>
 
 
 II.
@@ -483,7 +483,7 @@ It’s a sad book, Lockhart’s “Life.” It leaves gloom in the mind. The sig
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="THROUGH THE MAGIC DOOR (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="THROUGH THE MAGIC DOOR (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/imagination"></span>
 
 
 III.
@@ -509,7 +509,7 @@ There is always to me something of interest in the view which a great man takes 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="THROUGH THE MAGIC DOOR (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="THROUGH THE MAGIC DOOR (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/imagination"></span>
 
 
 IV.
@@ -540,7 +540,7 @@ What national change is it which has driven music from the land? Has life become
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="THROUGH THE MAGIC DOOR (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="THROUGH THE MAGIC DOOR (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/the_writer,concept/imagination"></span>
 
 
 V.
@@ -570,7 +570,7 @@ Many of these men had served their country well with that strength and courage w
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="THROUGH THE MAGIC DOOR (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="THROUGH THE MAGIC DOOR (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/the_writer,motif/the_book,concept/imagination"></span>
 
 
 VI.
@@ -604,7 +604,7 @@ There is a quality of heart about his work which I recognise nowhere else. He so
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="THROUGH THE MAGIC DOOR (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="THROUGH THE MAGIC DOOR (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/the_book,concept/imagination"></span>
 
 
 VII.
@@ -640,7 +640,7 @@ He has, as you see, a goodly line of his brothers beside him. There are the Ital
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="THROUGH THE MAGIC DOOR (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="THROUGH THE MAGIC DOOR (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/the_book"></span>
 
 
 VIII.
@@ -677,7 +677,7 @@ Wellington used to say that too much was made of it, and that one would imagine 
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="THROUGH THE MAGIC DOOR (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="THROUGH THE MAGIC DOOR (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/the_book,concept/imagination"></span>
 
 
 IX.
@@ -700,7 +700,7 @@ Parkman is worth reading, if it were only for his account of the Indians. Perhap
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="THROUGH THE MAGIC DOOR (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="THROUGH THE MAGIC DOOR (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="archetype/the_writer,concept/imagination"></span>
 
 
 X.
@@ -737,7 +737,7 @@ But Meinhold belongs to a bygone generation. This other author, in whom I find a
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="THROUGH THE MAGIC DOOR (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="THROUGH THE MAGIC DOOR (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/the_book"></span>
 
 
 XI.
@@ -759,7 +759,7 @@ The second book to which I alluded is Wallace’s “Malay Archipelago.” There
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="THROUGH THE MAGIC DOOR (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="THROUGH THE MAGIC DOOR (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/the_book,concept/imagination"></span>
 
 
 XII.

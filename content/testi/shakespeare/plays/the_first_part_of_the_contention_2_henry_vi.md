@@ -1281,7 +1281,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/city,motif/crown,motif/death,motif/love,motif/marriage,motif/memory,motif/rose,motif/secrets,motif/soul,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/ambition,concept/fear,concept/greatness,concept/honour,concept/hope,concept/pride,setting/paris,character/buckingham,character/cardinal_beaufort,character/duke_of_buckingham,character/duke_of_gloucester,character/duke_of_suffolk,character/duke_of_york,character/gloucester,character/henry_vi,character/queen,character/queen_margaret,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1331,7 +1331,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/dreams,motif/love,motif/night,motif/time,motif/well,concept/fear,concept/honour,setting/cathedral,setting/court,character/duke_of_suffolk,character/edmund,character/eleanor,character/gloucester,character/henry_vi,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1364,7 +1364,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/usurper,archetype/villain,motif/birds,motif/city,motif/crown,motif/love,motif/night,motif/prison,motif/soul,motif/tears,motif/time,concept/beauty,concept/courage,concept/honour,concept/mercy,concept/poverty,concept/pride,setting/court,setting/paris,character/buckingham,character/cardinal_beaufort,character/dauphin,character/duke_of_buckingham,character/duke_of_suffolk,character/duke_of_york,character/eleanor,character/gloucester,character/henry_vi,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1462,7 +1462,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/death,motif/fire,motif/ghosts,motif/horse,motif/lightning,motif/night,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/fear,concept/hope,character/buckingham,character/duke_of_suffolk,character/eleanor,character/gloucester,character/henry_vi,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1520,7 +1520,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/birds,motif/blood,motif/crown,motif/death,motif/night,motif/sleep,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/ambition,concept/despair,concept/faith,concept/honour,concept/hope,setting/london,character/buckingham,character/cardinal_beaufort,character/duke_of_buckingham,character/duke_of_suffolk,character/eleanor,character/gloucester,character/henry_vi,character/john_of_gaunt,character/queen,character/queen_margaret"></span>
 
 
 | Speaker | Line |
@@ -1663,7 +1663,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/well,concept/ambition,concept/honour,concept/pride,concept/truth,character/buckingham,character/clarence,character/duke_of_suffolk,character/duke_of_york,character/earl_of_warwick,character/edmund,character/edward_the_black_prince,character/eleanor,character/gloucester,character/henry_bolingbroke,character/henry_vi,character/john_of_gaunt,character/queen,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1691,7 +1691,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,motif/death,motif/grave,motif/prison,motif/tears,motif/well,concept/body,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/pride,concept/truth,setting/court,character/duke_of_buckingham,character/duke_of_gloucester,character/duke_of_suffolk,character/duke_of_york,character/eleanor,character/gloucester,character/henry_vi,character/queen,character/queen_margaret,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1741,7 +1741,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/clock,motif/death,motif/journey,motif/night,motif/prison,motif/seasons,motif/summer,motif/tears,motif/well,motif/winter,concept/eternity,concept/fear,concept/wonder,setting/london,character/eleanor,character/gloucester,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -1786,7 +1786,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/ghost,archetype/innocent,archetype/king,motif/bees,motif/bells,motif/blood,motif/cave,motif/death,motif/decay,motif/fire,motif/garden,motif/grave,motif/home,motif/jewel,motif/lamb,motif/leaves,motif/lion,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/poison,motif/secrets,motif/ship,motif/sleep,motif/snow,motif/soul,motif/spring,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/ambition,concept/beauty,concept/body,concept/charity,concept/conscience,concept/exile,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/madness,concept/nature,concept/revenge,concept/truth,form/tragedy,setting/court,setting/ship,character/buckingham,character/cardinal_beaufort,character/duke_of_suffolk,character/duke_of_york,character/earl_of_salisbury,character/gloucester,character/henry_vi,character/nurse,character/queen,character/queen_margaret,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1988,7 +1988,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/death,motif/dust,motif/pain,motif/poison,motif/soul,concept/despair,concept/hope,character/cardinal_beaufort,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -2011,7 +2011,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/cross,motif/crown,motif/dance,motif/death,motif/fire,motif/home,motif/night,motif/ship,motif/spring,motif/water,concept/body,concept/fear,concept/honour,concept/melancholy,concept/pride,concept/revenge,setting/ship,character/brutus,character/duke_of_suffolk,character/henry_vi,character/julius_caesar,character/kent,character/pompey,character/queen,character/queen_margaret"></span>
 
 
 | Speaker | Line |
@@ -2071,7 +2071,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/rebel,archetype/villain,motif/blood,motif/crown,motif/fire,motif/home,motif/lamb,motif/love,motif/silence,motif/sleep,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/hope,histref/reformation,setting/court,character/clarence,character/duke_of_york,character/edmund,character/henry_vi,character/jack_cade,character/kent,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -2168,7 +2168,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/desire,motif/horse,concept/fear,concept/truth,setting/london,character/henry_vi,character/jack_cade"></span>
 
 
 | Speaker | Line |
@@ -2186,7 +2186,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,archetype/usurper,motif/city,motif/crown,motif/death,motif/horse,motif/love,concept/body,concept/courage,concept/fear,concept/hope,concept/revenge,setting/court,setting/london,character/buckingham,character/clarence,character/duke_of_buckingham,character/duke_of_suffolk,character/henry_vi,character/jack_cade,character/queen_margaret"></span>
 
 
 | Speaker | Line |
@@ -2222,7 +2222,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/city,concept/honour,character/henry_vi,character/jack_cade,character/lord_mayor"></span>
 
 
 | Speaker | Line |
@@ -2236,7 +2236,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/city,concept/body,setting/london,character/henry_vi,character/jack_cade"></span>
 
 
 | Speaker | Line |
@@ -2252,7 +2252,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,archetype/rebel,archetype/villain,motif/city,motif/crown,motif/death,motif/home,motif/horse,motif/night,motif/prison,motif/tears,motif/well,concept/doubt,concept/fear,concept/freedom,concept/honour,concept/hope,concept/mercy,concept/slavery,setting/court,setting/london,character/buckingham,character/clifford,character/dauphin,character/duke_of_buckingham,character/henry_vi,character/jack_cade,character/kent"></span>
 
 
 | Speaker | Line |
@@ -2337,7 +2337,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_8" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_8" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/king,motif/death,motif/love,motif/prison,motif/ship,motif/well,concept/doubt,setting/ship,character/buckingham,character/clifford,character/duke_of_buckingham,character/duke_of_york,character/edmund,character/henry_vi,character/queen_margaret"></span>
 
 
 | Speaker | Line |
@@ -2363,7 +2363,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_4--scene_9" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_9" data-title="The First Part of the Contention (2 Henry VI) — Act IV, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/blood,motif/garden,motif/grave,motif/sleep,motif/soul,motif/swallow,motif/time,motif/well,concept/body,concept/greatness,concept/honour,setting/court,character/henry_vi,character/jack_cade,character/kent"></span>
 
 
 | Speaker | Line |
@@ -2390,7 +2390,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The First Part of the Contention (2 Henry VI) — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/orphan,archetype/rebel,archetype/tyrant,motif/bells,motif/blood,motif/chains,motif/crown,motif/death,motif/dreams,motif/fire,motif/grave,motif/horse,motif/leaves,motif/love,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/charity,concept/conscience,concept/faith,concept/fear,concept/honour,concept/humility,concept/melancholy,concept/self,setting/castle,setting/court,setting/london,character/achilles,character/ajax,character/bottom,character/buckingham,character/christ,character/clifford,character/duke_of_buckingham,character/duke_of_york,character/earl_of_warwick,character/henry_vi,character/kent,character/queen,character/queen_margaret,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2513,7 +2513,7 @@ The First Part of the Contention of the Two Famous Houses of York and Lancaster
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="The First Part of the Contention (2 Henry VI) — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="The First Part of the Contention (2 Henry VI) — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/death,motif/dreams,motif/horse,motif/lion,motif/love,motif/nature,motif/night,motif/river,motif/road,motif/soul,motif/time,motif/well,motif/winter,concept/ambition,concept/body,concept/history,concept/honour,concept/hope,concept/nature,concept/self,form/history,form/tragedy,setting/court,setting/london,setting/oxford,character/buckingham,character/clarence,character/clifford,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_northumberland,character/earl_of_richmond,character/earl_of_warwick,character/edmund,character/edward_iv,character/gloucester,character/hastings,character/henry_vi,character/queen,character/queen_margaret,character/richard,character/richard_iii"></span>
 
 
 | Speaker | Line |

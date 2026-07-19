@@ -20237,7 +20237,7 @@ opinion upon that.”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/hill,motif/home,motif/moon,motif/night,motif/sleep,motif/time,motif/water,motif/well,motif/wind,character/ariel,character/arthur"></span>
 
 
 CHAPTER 1
@@ -20421,7 +20421,7 @@ entirely upon the nautical skill of my friend. The [[Wind|wind]], too, had
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/home,motif/night,motif/rose,motif/ship,motif/silence,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/despair,concept/doubt,concept/freedom,concept/madness,concept/truth,setting/ship,character/bottom"></span>
 
 
 suddenly increased, as we were fast getting out of the lee of the
@@ -20599,7 +20599,7 @@ whaling-[[Ship|ship]] (the Penguin) bound to Nantucket. Several persons
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/chains,motif/death,motif/moon,motif/ship,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/providence,setting/london,setting/ship,character/bottom"></span>
 
 
 were standing over me, and Augustus, paler than [[Death|death]], was busily
@@ -20775,7 +20775,7 @@ been gone many minutes when he fell in with some fragments of our
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/nature,motif/night,motif/ship,motif/time,motif/water,motif/wind,concept/deception,concept/despair,concept/doubt,concept/freedom,concept/nature,setting/ship,character/ariel"></span>
 
 
 boat, and shortly afterward one of the men with him asserted that
@@ -20957,7 +20957,7 @@ himself sinking beneath its influence.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/memory,motif/night,motif/tears,motif/time,motif/well,concept/deception,concept/despair,concept/imagination,concept/longing,concept/melancholy,concept/suffering,character/ariel"></span>
 
 
 CHAPTER 2
@@ -21141,7 +21141,7 @@ should then, he said, be formally installed in all the comforts
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/nature,character/edmund"></span>
 
 
 of the cabin; and as to his father, he would only laugh heartily
@@ -21325,7 +21325,7 @@ me, at length, after creeping and winding through innumerable
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/journey,motif/ship,motif/time,motif/water,motif/well,concept/fear,setting/ship,character/bottom"></span>
 
 
 narrow passages, to an iron-bound box, such as is used sometimes
@@ -21513,7 +21513,7 @@ long I slept. My limbs were greatly cramped, and I was forced to
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/monster,motif/death,motif/desire,motif/dreams,motif/lion,motif/rose,motif/sleep,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/mercy,concept/suffering"></span>
 
 
 relieve them by standing between the crates. Presently feeling an
@@ -21689,7 +21689,7 @@ that my powers of [[Body|body]] and mind were fast leaving me—in a word,
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/death,motif/journey,motif/love,motif/memory,motif/rose,motif/ship,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/solitude,setting/ship"></span>
 
 
 that I was perishing, and perishing of sheer fright. My brain
@@ -21869,7 +21869,7 @@ a new passage, or to climb over the obstacle, and resume the path
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/nature,concept/body,concept/despair,concept/hope,concept/nature,concept/suffering,character/bottom"></span>
 
 
 on the other side. The former alternative presented too many
@@ -22067,7 +22067,7 @@ immediately beneath the left shoulder of the animal.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/journey,motif/prison,motif/sleep,motif/time,motif/water,motif/well,concept/wonder"></span>
 
 
 CHAPTER 3
@@ -22255,7 +22255,7 @@ itself that I had examined only one side of the paper. I shall
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/prison,motif/soul,motif/time,concept/courage,concept/doubt,concept/suffering"></span>
 
 
 not attempt to describe my feelings of rage (for I believe I was
@@ -22439,7 +22439,7 @@ I now, for the first [[Time|time]], felt all the misery of my fate. In a
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/night,motif/rose,motif/time,motif/water,concept/body,concept/despair,concept/doubt,concept/fear,concept/imprisonment"></span>
 
 
 paroxysm of [[Despair|despair]] I threw myself again upon the mattress,
@@ -22621,7 +22621,7 @@ kind, and so intense was the emotion excited within me by the
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/death,motif/prison,motif/time,motif/water,concept/hope,character/arthur"></span>
 
 
 sound, that I endeavoured in vain to reply. My powers of speech
@@ -22721,7 +22721,7 @@ had happened on board during my incarceration.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/nature,motif/time,motif/water,motif/well,concept/nature,concept/wonder,character/pistol"></span>
 
 
 CHAPTER 4
@@ -22909,7 +22909,7 @@ spare his life. The only reply was a blow on the forehead from an
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/nature,motif/river,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/nature"></span>
 
 
 axe. The poor fellow fell to the deck without a groan, and the
@@ -23089,7 +23089,7 @@ experience, and for this reason so far beyond the limits of human
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/moon,motif/night,motif/ship,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/friendship,concept/hope,setting/ship"></span>
 
 
 credulity, that I proceed in utter hopelessness of obtaining
@@ -23263,7 +23263,7 @@ means of my relief, as will presently appear.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/dawn,motif/night,motif/time,motif/water,motif/well,concept/body,concept/despair,concept/doubt"></span>
 
 
 CHAPTER 5
@@ -23451,7 +23451,7 @@ covering with his paws. There could be no [[Doubt|doubt]], from his
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/ship,motif/time,motif/water,motif/well,concept/beauty,concept/freedom,concept/grotesque,setting/ship"></span>
 
 
 behaviour, that he was aware of my being in the hold, and
@@ -23637,7 +23637,7 @@ pockets at the same [[Time|time]] with cold potatoes. To his great joy he
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/despair,concept/doubt,concept/faith,concept/friendship,concept/nature,concept/truth"></span>
 
 
 also came across a lantern, with a small piece of tallow candle
@@ -23837,7 +23837,7 @@ exhaustion.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/nature"></span>
 
 
 CHAPTER 6
@@ -24023,7 +24023,7 @@ regaining her equilibrium, as she would otherwise necessarily do,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,motif/night,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/doubt,concept/wonder,setting/ship,character/bottom"></span>
 
 
 she is certain to fill in a few seconds and go down. It is not
@@ -24207,7 +24207,7 @@ might not be seen by its swinging to one side. All this [[Time|time]]
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/noon,motif/sleep,motif/time,motif/water,motif/wind,concept/doubt,concept/freedom,concept/madness,concept/nature"></span>
 
 
 Tiger was lying in the foot of the berth, and appeared to have
@@ -24395,7 +24395,7 @@ July 5th. About daybreak there came on a stiff breeze from the
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/noon,motif/ship,motif/water,motif/wind,setting/ship,character/jones,character/richard"></span>
 
 
 west, which at [[Noon|noon]] freshened into a gale, so that the brig could
@@ -24517,7 +24517,7 @@ with him privately.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/night,motif/time,motif/water,motif/well,motif/wind,concept/fear,character/jones"></span>
 
 
 CHAPTER 7
@@ -24705,7 +24705,7 @@ discipline is most rigidly enforced, to station a watch on deck
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/nature,motif/storm,motif/water,motif/well,motif/wind,concept/conscience,concept/doubt,concept/mercy,concept/nature"></span>
 
 
 when a vessel is lying-to in a gale of [[Wind|wind]]. As I address myself
@@ -24887,7 +24887,7 @@ during the morning, having been attacked two days before with
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/chalk,motif/death,motif/noon,motif/time,motif/water,motif/well,concept/body"></span>
 
 
 spasms after drinking some spirits and [[Water|water]]. Peters had
@@ -25045,7 +25045,7 @@ appearance.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/time,motif/well,motif/wind,form/fragment,character/jones"></span>
 
 
 CHAPTER 8
@@ -25243,7 +25243,7 @@ superstitions which are so universally current among seamen. I
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,archetype/villain,motif/nature,motif/time,concept/body,concept/deception,concept/despair,concept/doubt,concept/hope,concept/nature,concept/suffering,concept/wonder,character/bottom,character/jones,character/richard"></span>
 
 
 could not make out all that was said, but I could plainly see the
@@ -25417,7 +25417,7 @@ now too much injured to render us any aid whatever, and I was so
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/crown,motif/night,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/mercy,setting/ship,character/jones,character/richard"></span>
 
 
 encumbered with my disguise that I could do but little. The dog
@@ -25605,7 +25605,7 @@ longboat, which had received no damage from any of the huge seas
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/noon,motif/time,motif/water,concept/hope"></span>
 
 
 which had come on board. But we had not long to congratulate
@@ -25689,7 +25689,7 @@ the vessel with [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/pain,motif/silence,motif/time,motif/water,motif/wind,concept/body,concept/courage,concept/hope,concept/mercy,concept/nature"></span>
 
 
 CHAPTER 9
@@ -25869,7 +25869,7 @@ fortitude, and promised to seize the first opportunity which
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,motif/birds,motif/blood,motif/death,motif/pain,motif/time,motif/water,motif/wind,concept/body,concept/courage,concept/doubt,concept/imagination"></span>
 
 
 should offer itself to relieve him. He replied that it would soon
@@ -26051,7 +26051,7 @@ speak. By the [[Time|time]] we had thus got clear of our lashings it was
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/night,motif/tears,motif/time,motif/water,concept/body,concept/despair,concept/freedom,concept/hope"></span>
 
 
 quite dark, and it began to cloud up, so that we were again in
@@ -26295,7 +26295,7 @@ deliverance.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/death,motif/nature,motif/poison,motif/soul,motif/tears,motif/time,motif/water,concept/body,concept/despair,concept/doubt,concept/hope,concept/nature"></span>
 
 
 CHAPTER 10
@@ -26653,7 +26653,7 @@ unfathomable mystery.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/chains,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/hope"></span>
 
 
 CHAPTER 11
@@ -26847,7 +26847,7 @@ I now found myself, as it were, [[Alone|alone]] in the brig, and my
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/nature,motif/night,motif/spring,motif/swallow,motif/time,motif/water,concept/body,concept/despair,concept/hope,concept/melancholy,concept/nature,concept/suffering"></span>
 
 
 reflections, to be sure, were of the most fearful and gloomy
@@ -27027,7 +27027,7 @@ smiles, and uttering the most absurd platitudes. At intervals,
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/noon,motif/ship,motif/spring,motif/swallow,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/hope,concept/madness,concept/nature,concept/self,setting/ship"></span>
 
 
 however, they would appear to revive suddenly, as if inspired all
@@ -27191,7 +27191,7 @@ to preserve the existence of the others.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/death,motif/memory,motif/nature,motif/ship,motif/time,motif/well,concept/fear,concept/hope,concept/nature,form/tragedy,setting/ship"></span>
 
 
 CHAPTER 12
@@ -27387,7 +27387,7 @@ terrific lottery, in which we were to take each a chance, was
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/nature,motif/storm,motif/time,motif/water,motif/wind,concept/body,concept/hope,concept/nature,form/tragedy"></span>
 
 
 that of drawing straws. Small splinters of wood were made to
@@ -27577,7 +27577,7 @@ On the twenty-second, as we were sitting close huddled together,
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/chains,motif/moon,motif/night,motif/noon,motif/time,motif/water,concept/body,concept/hope"></span>
 
 
 gloomily revolving over our lamentable condition, there flashed
@@ -27767,7 +27767,7 @@ when they were first put in. In one particular these
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/animals,motif/desert,motif/night,motif/water,motif/well,concept/doubt,setting/desert"></span>
 
 
 extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
@@ -27871,7 +27871,7 @@ could, we threw on its back, and otherwise carefully fastened.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/monster,motif/chains,motif/lightning,motif/night,motif/noon,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/doubt,concept/mercy,character/bottom"></span>
 
 
 CHAPTER 13
@@ -28063,7 +28063,7 @@ July 29. A continuance of the same weather. Augustus’s wounded
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/death,motif/lightning,motif/night,motif/pain,motif/swallow,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/courage"></span>
 
 
 arm began to evince symptoms of mortification. He complained of
@@ -28247,7 +28247,7 @@ by mixing the wine with seawater; but this instantly brought
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/chains,motif/night,motif/sleep,motif/water,motif/well,concept/body,concept/despair,concept/doubt,concept/melancholy"></span>
 
 
 about the most violent retchings, so that we never again
@@ -28435,7 +28435,7 @@ will, no [[Doubt|doubt]], appear unnatural; but it must be remembered that
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/flag,motif/night,motif/noon,motif/sleep,motif/time,motif/water,motif/wind,concept/mercy,concept/suffering,character/bottom"></span>
 
 
 our intellects were so entirely disordered by the long course of
@@ -28611,7 +28611,7 @@ on a sealing and trading voyage to the South Seas and Pacific.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/cross,motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/nature"></span>
 
 
 CHAPTER 14
@@ -28803,7 +28803,7 @@ be blowing at one moment from the northward or northeast, and in
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/home,motif/ship,motif/snow,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/body,concept/hope,setting/ship,character/bottom"></span>
 
 
 the next not a breath of [[Wind|wind]] will be felt in that direction,
@@ -28989,7 +28989,7 @@ erect; with a stately carriage. They carry their heads high with
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/birds,motif/leaves,motif/nature,motif/water,concept/body,concept/friendship,concept/nature"></span>
 
 
 their wings drooping like two arms, and, as their tails project
@@ -29185,7 +29185,7 @@ stations of the larger species. The appearance of such
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/time,motif/well,concept/nature"></span>
 
 
 encampments, when seen from a distance, is exceedingly singular.
@@ -29275,7 +29275,7 @@ the sending a jollyboat from the schooner to take them off.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="topos/double,motif/animals,motif/birds,motif/home,motif/moon,motif/nightingale,motif/ship,motif/snow,motif/time,motif/water,motif/well,motif/wind,concept/hope,setting/london,setting/ship"></span>
 
 
 CHAPTER 15
@@ -29625,7 +29625,7 @@ both cases with the same result as in our own.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/birds,motif/water,motif/well,concept/body,concept/hope,setting/mountains,setting/russia"></span>
 
 
 CHAPTER 16
@@ -29815,7 +29815,7 @@ that, if Kreutzenstern had arrived where he did earlier in the
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/birds,motif/ship,motif/snow,motif/time,motif/water,motif/wind,motif/winter,concept/body,concept/honour,setting/london,setting/mountains,setting/ship,character/queen"></span>
 
 
 season, he must have encountered ice—it was March when he reached
@@ -30039,7 +30039,7 @@ to the southward.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/birds,motif/noon,motif/snow,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,setting/mountains,setting/new_york"></span>
 
 
 CHAPTER 17
@@ -30241,7 +30241,7 @@ diminished, and the temperature of the air was mild and pleasant,
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/monster,motif/animals,motif/birds,motif/blood,motif/secrets,motif/water,motif/well,concept/body,concept/honour,character/bottom"></span>
 
 
 the thermometer being as high as fifty-one. At this period not a
@@ -30451,7 +30451,7 @@ engrossed its attention.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well,motif/wind,concept/body,character/bottom"></span>
 
 
 CHAPTER 18
@@ -30641,7 +30641,7 @@ Twenty of the savages now got on board, and proceeded to ramble
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/hope,concept/self,concept/wonder,character/bottom"></span>
 
 
 over every part of the deck, and scramble about among the
@@ -30823,7 +30823,7 @@ abundance of wood in the vicinity. The four canoes followed us
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/mirror,motif/nature,motif/time,motif/water,motif/well,concept/nature,form/novel"></span>
 
 
 in, keeping, however, at a respectful distance. Too-wit himself
@@ -30949,7 +30949,7 @@ miracles with which I was destined to be at length encircled.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/home,motif/road,motif/water,concept/body,concept/faith"></span>
 
 
 CHAPTER 19
@@ -31139,7 +31139,7 @@ one or two exceptions, these new comers were entirely naked, and
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/leaves,motif/silence,motif/well,concept/beauty,concept/freedom,concept/friendship,character/bottom"></span>
 
 
 skins being used only by the men of the canoes. All the weapons
@@ -31345,7 +31345,7 @@ our route from the schooner to the village.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/birds,motif/nature,motif/seasons,motif/swallow,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/history,concept/nature,form/history,character/bottom"></span>
 
 
 CHAPTER 20
@@ -31537,7 +31537,7 @@ in shallow [[Water|water]], as we never see any of their progeny, and
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/time,motif/water,motif/well,concept/faith,setting/london"></span>
 
 
 full-grown ones are always observed coming in from deep [[Water|water]].
@@ -31729,7 +31729,7 @@ merely answered that _Mattee non we pa pa si_—meaning that there
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/hill,motif/spring,concept/body,concept/friendship"></span>
 
 
 was no need of arms where all were brothers. We took this in good
@@ -31857,7 +31857,7 @@ universal dissolution was at hand.
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 21" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 21" data-chapter="Chapter 21" data-kind="chapter" data-tags="motif/hill,motif/nature,motif/prison,motif/time,motif/well,concept/body,concept/courage,concept/despair,concept/doubt,concept/hope,concept/nature,character/bottom"></span>
 
 
 CHAPTER 21
@@ -32183,7 +32183,7 @@ the island.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/death,motif/time,motif/winter,concept/honour,concept/hope,character/bottom,character/pistol"></span>
 
 
 CHAPTER 22
@@ -32379,7 +32379,7 @@ The discharge to larboard produced the most terrible effect. The
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,motif/chains,motif/fire,motif/hill,motif/spring,motif/water"></span>
 
 
 star and [[Double|double]]-headed shot of the large guns cut seven or eight
@@ -32565,7 +32565,7 @@ caught immediately, and the [[Fire|fire]] spread rapidly along the decks.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/time,concept/body"></span>
 
 
 Still a great many of the savages retained their stations about
@@ -32693,7 +32693,7 @@ screams of “Tekeli-li! Tekeli-li!”
 
 
 
-<span class="atom-split" data-atom="chapter_23" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 23" data-chapter="Chapter 23" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 23" data-chapter="Chapter 23" data-kind="chapter" data-tags="motif/dust,motif/fire,motif/hill,motif/leaves,motif/nature,motif/prison,motif/time,motif/water,motif/well,concept/hope,concept/imagination,concept/nature,character/bottom"></span>
 
 
 CHAPTER 23
@@ -33055,7 +33055,7 @@ regard to the third chasm, is shown in figure 5. {image}
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/desire,motif/hill,motif/nature,motif/soul,motif/time,motif/well,concept/imagination,concept/longing,concept/nature,character/bottom,character/pistol"></span>
 
 
 CHAPTER 24
@@ -33239,7 +33239,7 @@ the next my whole [[Soul|soul]] was pervaded with a [[Longing|longing]] to fall;
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/death,motif/hill,motif/time,concept/courage,character/bottom,character/phantom"></span>
 
 
 once my grasp upon the peg, and, turning half round from the
@@ -33425,7 +33425,7 @@ dismay, an immense crowd of the natives pouring from the village,
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/time,motif/water,motif/well,concept/body,concept/hope,concept/mercy,concept/truth,character/pistol,character/speed"></span>
 
 
 and from all visible quarters of the island, making toward us
@@ -33571,7 +33571,7 @@ despairing to overtake us.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/water,motif/well,motif/wind,motif/winter,concept/body,concept/hope,concept/wonder"></span>
 
 
 CHAPTER 25
@@ -33761,7 +33761,7 @@ dress of the warriors came from an animal of huge size to be
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/animals,motif/birds,motif/hill,motif/nature,motif/water,motif/wind,motif/winter,concept/body,concept/nature,setting/court,character/bottom"></span>
 
 
 found only in a valley near the [[Court|court]] of the [[King|king]]—that the
@@ -33961,7 +33961,7 @@ continuously now from beyond the veil, and their scream was the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/dust,motif/snow,motif/well,concept/body,concept/doubt,concept/truth,character/bottom"></span>
 
 
 eternal _Tekeli-li!_as they retreated from our vision. Hereupon
@@ -34165,7 +34165,7 @@ exclamatives of Tsalal upon discovering the carcass of the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/death,motif/dust,motif/fire,motif/home,motif/memory,motif/nature,motif/night,motif/ship,motif/soul,motif/time,motif/wind,concept/beauty,concept/nature,concept/suffering,concept/truth,setting/ship"></span>
 
 
 _white_materials in possession of Mr. Pym. This also was the
@@ -34387,7 +34387,7 @@ doubted. Ligeia! Ligeia! Buried in studies of a [[Nature|nature]] more than
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/memory,motif/nature,motif/night,motif/well,concept/beauty,concept/nature,concept/wonder,setting/egypt,character/apollo"></span>
 
 
 all else adapted to deaden impressions of the outward world, it
@@ -34563,7 +34563,7 @@ within the pupils of my beloved? What was it? I was possessed
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_06" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 6)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_06" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 6)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/death,motif/marriage,motif/memory,motif/nature,motif/stars,motif/water,motif/well,concept/beauty,concept/hope,concept/nature"></span>
 
 
 with a passion to discover. Those eyes! those large, those
@@ -34747,7 +34747,7 @@ now those eyes shone less and less frequently upon the pages over
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_07" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 7)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_07" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 7)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/blood,motif/city,motif/death,motif/desire,motif/dust,motif/grave,motif/love,motif/nature,motif/night,motif/noon,motif/soul,motif/storm,motif/tears,concept/longing,concept/madness,concept/mortality,concept/nature,concept/self,concept/solitude,form/tragedy,character/phantom"></span>
 
 
 which I pored. Ligeia grew ill. The wild eyes blazed with a
@@ -34983,7 +34983,7 @@ wildest and least frequented portions of fair England. The gloomy
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_08" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 8)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_08" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 8)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/decay,motif/dreams,motif/marriage,motif/memory,motif/moon,motif/time,motif/wind,motif/window,concept/alienation,concept/grotesque,concept/hope,concept/madness,concept/melancholy,setting/egypt,setting/venice"></span>
 
 
 and dreary grandeur of the building, the almost savage aspect of
@@ -35163,7 +35163,7 @@ back, (oh, with what intensity of regret!) to Ligeia, the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_09" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 9)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_09" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 9)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/dreams,motif/love,motif/marriage,motif/nature,motif/night,motif/silence,motif/spring,motif/well,motif/wind,concept/body,concept/fear,concept/imagination,concept/longing,concept/nature,concept/suffering"></span>
 
 
 beloved, the august, the beautiful, the entombed. I revelled in
@@ -35343,7 +35343,7 @@ I gazed with unquiet eye upon the sarcophagi in the angles of the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_10" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 10)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_10" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 10)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/dawn,motif/death,motif/night,motif/soul,motif/time,concept/body,concept/doubt,concept/freedom,concept/mortality,concept/self"></span>
 
 
 room, upon the varying figures of the drapery, and upon the
@@ -35525,7 +35525,7 @@ hitherto, although arousing from a dissolution more appalling in
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_11" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 11)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_11" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 11)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/grave,motif/love,motif/memory,motif/noon,motif/soul,motif/time,concept/doubt,concept/education,concept/hope,concept/madness,concept/wonder"></span>
 
 
 its utter hopelessness than any. I had long ceased to struggle or
@@ -35729,7 +35729,7 @@ unlearned they would, at all events, be little understood. The
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_12" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 12)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_12" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 12)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/leaves,motif/love,motif/nature,motif/soul,motif/time,concept/alienation,concept/beauty,concept/identity,concept/melancholy,concept/nature"></span>
 
 
 wild Pantheism of Fichte; the modified Paliggenedia of the
@@ -35935,7 +35935,7 @@ to receive it—is it to be wondered at that suspicions, of a
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_13" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 13)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_13" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 13)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/flowers,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/silence,motif/soul,motif/stars,motif/time,concept/melancholy,concept/nature,setting/mountains"></span>
 
 
 [[Nature|nature]] fearful and exciting, crept in upon my spirit, or that my
@@ -36127,7 +36127,7 @@ variation whatever. It was one of profound [[Melancholy|melancholy]]—of a
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_14" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 14)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_14" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 14)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/seasons,motif/sleep,motif/summer,motif/time,concept/beauty,concept/doubt,concept/imagination,concept/solitude,histref/america,setting/america,setting/mountains,setting/paris"></span>
 
 
 phaseless and unceasing gloom. His eyes were abnormally large,
@@ -36317,7 +36317,7 @@ The [[Solitude|solitude]] seemed absolutely virgin. I could not help believing
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_15" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 15)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_15" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 15)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/city,motif/leaves,motif/river,motif/soul,motif/spring,motif/summer,motif/time,motif/water,motif/wind,concept/doubt,form/novel"></span>
 
 
 that the green sods and the gray rocks upon which I trod had been
@@ -36511,7 +36511,7 @@ dazzling cutlery, the most magnificent jewels and gems. Besides
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_16" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 16)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_16" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 16)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/river,motif/soul,motif/time,motif/window,concept/body,concept/despair,concept/self"></span>
 
 
 these things, were seen, on all sides, banners and palanquins,
@@ -36699,7 +36699,7 @@ toward Templeton. He sat erect and rigid in his chair—his teeth
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_17" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 17)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_17" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 17)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/home,motif/memory,motif/river,motif/soul,concept/friendship,concept/self,setting/mountains,character/hastings"></span>
 
 
 chattered, and his eyes were starting from their sockets.
@@ -36897,7 +36897,7 @@ late.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_18" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 18)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_18" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 18)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/love,motif/night,motif/time,motif/well,motif/winter,concept/pride,concept/truth,setting/paris"></span>
 
 
 distinguished from the medicinal leech by its blackness, and
@@ -37111,7 +37111,7 @@ of the very elite of the [[City|city]]. Having satisfied myself upon this
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_19" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 19)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_19" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 19)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/soul,motif/well,concept/beauty,concept/despair,concept/nature,concept/truth"></span>
 
 
 point, I was about turning my eyes to the prima donna, when they
@@ -37307,7 +37307,7 @@ opera-glass?” Here he turned impatiently toward the stage.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_20" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 20)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_20" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 20)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/love,motif/soul,motif/time,concept/beauty,concept/doubt,concept/wonder,setting/paris"></span>
 
 
 to me will you? Do you see the stage-box?—there!—no, the next.—
@@ -37535,7 +37535,7 @@ loveliness of the vision which confronted my gaze. Watching my
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_21" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 21)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_21" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 21)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/despair,concept/doubt,setting/paris"></span>
 
 
 opportunity, when I thought the audience were fully engaged with
@@ -37753,7 +37753,7 @@ her friend she is as a rush-light to the [[Evening Star|evening star]]—a glow-
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_22" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 22)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_22" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 22)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/home,motif/love,motif/memory,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/madness,concept/nature,concept/suffering,setting/paris"></span>
 
 
 to Antares.”
@@ -37977,7 +37977,7 @@ passed between us, what act of mere informality could I commit,
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_23" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 23)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_23" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 23)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/lover,motif/chains,motif/love,motif/marriage,motif/nature,motif/soul,motif/well,concept/beauty,concept/imagination,concept/nature"></span>
 
 
 within bounds, that ought to be regarded as indecorous by Madame
@@ -38173,7 +38173,7 @@ represents. Besides, upon the back of the trinket you may
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_24" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 24)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_24" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 24)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/home,motif/love,motif/memory,motif/night,motif/summer,motif/time,motif/water,motif/well,concept/courage,concept/doubt"></span>
 
 
 discover, perhaps, the very information you seem to [[Desire|desire]]. It is
@@ -38369,7 +38369,7 @@ without the confession, I take it for granted that no one would
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_25" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 25)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_25" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 25)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/dawn,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/well,concept/nature"></span>
 
 
 have accused you of the crime. By the by,” she continued, “have
@@ -38577,7 +38577,7 @@ up all [[Night|night]], we should make our first stop at C——, a village
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_26" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 26)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_26" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 26)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/city,motif/dance,motif/dawn,motif/desire,motif/memory,motif/night,motif/time,concept/truth"></span>
 
 
 about twenty miles from the [[City|city]], and there get an early
@@ -38803,7 +38803,7 @@ mean?”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_27" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 27)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_27" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 27)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/identity,concept/nature,concept/truth,histref/america,setting/america,setting/paris"></span>
 
 
 dat, I mean Croissart and Froissart, too, if I only tink proper
@@ -39003,7 +39003,7 @@ after leaving Talbot’s hotel will be easily explained, as also
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_28" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 28)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_28" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 28)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/death,motif/nature,motif/night,motif/river,motif/time,motif/well,motif/window,concept/deception,concept/grotesque,concept/nature,concept/self,form/allegory,form/epigram,form/tragedy,setting/london"></span>
 
 
 their allusion to Ninon De L’Enclos. I had no opportunity of
@@ -39217,7 +39217,7 @@ Various and eventful, however, had been the peregrinations of the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_29" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 29)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_29" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 29)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/chalk,motif/city,motif/clock,motif/death,motif/fire,motif/night,motif/pain,motif/ship,motif/silence,motif/time,motif/wind,motif/winter,concept/exile,concept/history,concept/solitude,concept/truth,form/history,setting/ship"></span>
 
 
 worthy couple in and about the different tap-houses of the
@@ -39411,7 +39411,7 @@ in the very perpetration of his robbery.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_30" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 30)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_30" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 30)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/death,motif/fire,motif/nature,motif/time,motif/well,concept/courage,concept/nature"></span>
 
 
 But it lay not in the power of images, or sensations, or
@@ -39601,7 +39601,7 @@ gave evident indications of a galloping consumption. An air of
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_31" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 31)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_31" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 31)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/well,motif/wind,concept/body,concept/doubt,concept/truth"></span>
 
 
 extreme _haut ton_, however, pervaded her whole appearance; she
@@ -39797,7 +39797,7 @@ following speech:
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_32" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 32)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_32" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 32)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/death,motif/nature,motif/night,motif/swallow,motif/water,motif/winter,concept/doubt,concept/nature,character/jones,character/queen"></span>
 
 
 “Avast there!” interrupted Legs, looking very serious, “avast
@@ -40001,7 +40001,7 @@ condemnation!” shouted the Pest family altogether. The [[King|king]]
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_33" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 33)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_33" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 33)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/fire,motif/time,motif/well,concept/courage,concept/imagination,concept/union"></span>
 
 
 elevated his forehead into innumerable wrinkles; the gouty little
@@ -40245,7 +40245,7 @@ just _now_, you know, uncle, is that you would indicate the [[Time|time]]
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_34" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 34)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_34" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 34)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/nature,motif/time,motif/well,concept/charity,concept/despair,concept/faith,concept/nature,concept/union,form/translation,character/sunday"></span>
 
 
 precisely.”
@@ -40447,7 +40447,7 @@ had been so imprudent as to broach the subject ourselves. Not to
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_35" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 35)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_35" data-title="The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 35)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/dreams,motif/time,motif/well,concept/doubt,concept/hope,setting/london,character/sunday"></span>
 
 
 oppose it under such circumstances, I sincerely believe, was not

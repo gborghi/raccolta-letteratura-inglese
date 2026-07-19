@@ -142,7 +142,7 @@ the world becomes suddenly rational.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Return_of_the_Angels (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Return_of_the_Angels (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/conversion,concept/history,concept/hope,concept/paradox,form/history"></span>
 
 
 # Return of the Angels
@@ -312,7 +312,7 @@ e la [[history|storia]] diventa translucida come una [[house|casa]] di vetro.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Return_of_the_Angels (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Return_of_the_Angels (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/well"></span>
 
 
 Let us begin at the beginning.  A startling and sensational event

@@ -872,7 +872,7 @@ Our business is like men to fight.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Poetic Principle (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Poetic Principle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/paradise_lost,motif/soul,motif/time,motif/wind,concept/doubt,concept/self,concept/sublime,form/epic"></span>
 
 
 In speaking of [[The Poetic Principle|the Poetic Principle]], I have no design to be either
@@ -963,7 +963,7 @@ of fancy, have been blown aloft only to be whistled down the [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Poetic Principle (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Poetic Principle (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dreams,motif/flowers,motif/love,motif/night,motif/nightingale,motif/prayer,motif/sleep,motif/stars,motif/well,motif/window,concept/beauty,concept/conscience,concept/doubt,concept/imagination,concept/mercy,concept/paradox,concept/pride,concept/truth,form/epic,character/christ"></span>
 
 
 A remarkable instance of the effect of undue brevity in depressing a poem,
@@ -1101,7 +1101,7 @@ to the appropriate, to the harmonious—in a word, to [[Beauty]].
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Poetic Principle (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Poetic Principle (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/dance,motif/desire,motif/grave,motif/mirror,motif/soul,motif/spring,motif/tears,motif/time,concept/beauty,concept/conscience,concept/doubt,concept/eternity,concept/immortality,concept/sublime,concept/truth,concept/union"></span>
 
 
 An immortal instinct deep within the spirit of man is thus plainly a sense
@@ -1190,7 +1190,7 @@ consideration, than by the citation of the Proem to Longfellow’s “Waif”:�
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Poetic Principle (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Poetic Principle (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/flowers,motif/grave,motif/love,motif/moon,motif/night,motif/noon,motif/pain,motif/prayer,motif/sleep,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/beauty,concept/imagination,concept/longing,concept/melancholy,concept/sublime"></span>
 
 
 The day is done, and the darkness
@@ -1322,7 +1322,7 @@ As the mist resembles the rain.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Poetic Principle (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Poetic Principle (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/lover,motif/birds,motif/cross,motif/death,motif/flowers,motif/home,motif/love,motif/memory,motif/moon,motif/night,motif/rose,motif/stars,motif/well,concept/fear,concept/guilt,concept/imagination,concept/self,form/fable,character/apollo"></span>
 
 
 The taint of which I speak is clearly perceptible even in a poem so full
@@ -1487,7 +1487,7 @@ Has broken many more!
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Poetic Principle (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Poetic Principle (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/death,motif/desert,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/river,motif/soul,motif/wind,motif/window,concept/charity,concept/history,concept/hope,concept/nature,concept/providence,concept/solitude,form/history,setting/desert"></span>
 
 
 “The Haunted [[house|House]],” by the same author, is one of the truest [[Poems|poems]] ever
@@ -1664,7 +1664,7 @@ Which speaks to my spirit of _thee._
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Poetic Principle (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Poetic Principle (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/death,motif/love,motif/night,motif/soul,motif/summer,motif/tears,motif/time,motif/wind,concept/aspiration,concept/beauty,concept/despair,concept/faith,concept/self,concept/truth,setting/mountains,character/venus"></span>
 
 
 Although the rhythm here is one of the most difficult, the versification

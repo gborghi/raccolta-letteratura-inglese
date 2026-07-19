@@ -995,7 +995,7 @@ THE CENTURION
 
 
 
-<span class="atom-split" data-atom="story_01_the_man_with_the_watches" data-title="ROUND THE FIRE STORIES — THE MAN WITH THE WATCHES" data-chapter="THE MAN WITH THE WATCHES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_man_with_the_watches" data-title="ROUND THE FIRE STORIES — THE MAN WITH THE WATCHES" data-chapter="THE MAN WITH THE WATCHES" data-kind="story" data-tags="archetype/detective,archetype/villain,motif/night,motif/secrets,setting/london"></span>
 
 
 THE MAN WITH THE WATCHES
@@ -1068,7 +1068,7 @@ To this elaborate and plausible hypothesis the answer of the police and of the c
 
 
 
-<span class="atom-split" data-atom="story_02_the_black_doctor" data-title="ROUND THE FIRE STORIES — THE BLACK DOCTOR" data-chapter="THE BLACK DOCTOR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_black_doctor" data-title="ROUND THE FIRE STORIES — THE BLACK DOCTOR" data-chapter="THE BLACK DOCTOR" data-kind="story" data-tags="motif/night,motif/secrets,concept/fear"></span>
 
 
 THE BLACK DOCTOR
@@ -1163,7 +1163,7 @@ A marriage was solemnized upon September 19th, by the Rev. Stephen Johnson, at t
 
 
 
-<span class="atom-split" data-atom="story_03_the_jews_breastplate" data-title="ROUND THE FIRE STORIES — THE JEW’S BREASTPLATE" data-chapter="THE JEWS BREASTPLATE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_jews_breastplate" data-title="ROUND THE FIRE STORIES — THE JEW’S BREASTPLATE" data-chapter="THE JEWS BREASTPLATE" data-kind="story" data-tags="archetype/villain,motif/night,concept/fear"></span>
 
 
 THE JEW’S BREASTPLATE
@@ -1341,7 +1341,7 @@ Just one footnote to this narrative. Within a month Elise Andreas was married to
 
 
 
-<span class="atom-split" data-atom="story_04_the_lost_special" data-title="ROUND THE FIRE STORIES — THE LOST SPECIAL" data-chapter="THE LOST SPECIAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_lost_special" data-title="ROUND THE FIRE STORIES — THE LOST SPECIAL" data-chapter="THE LOST SPECIAL" data-kind="story" data-tags="archetype/detective,motif/secrets,motif/supernatural,setting/london"></span>
 
 
 THE LOST SPECIAL
@@ -1422,7 +1422,7 @@ And so the matter stood, and has continued to stand up to the present year of 18
 
 
 
-<span class="atom-split" data-atom="story_05_the_club_footed_grocer" data-title="ROUND THE FIRE STORIES — THE CLUB-FOOTED GROCER" data-chapter="THE CLUB FOOTED GROCER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_club_footed_grocer" data-title="ROUND THE FIRE STORIES — THE CLUB-FOOTED GROCER" data-chapter="THE CLUB FOOTED GROCER" data-kind="story" data-tags="motif/night,motif/secrets,concept/fear,setting/london"></span>
 
 
 THE CLUB-FOOTED GROCER
@@ -1593,7 +1593,7 @@ One word in conclusion. A strange cutter, which had been hanging about the coast
 
 
 
-<span class="atom-split" data-atom="story_06_the_sealed_room" data-title="ROUND THE FIRE STORIES — THE SEALED ROOM" data-chapter="THE SEALED ROOM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_sealed_room" data-title="ROUND THE FIRE STORIES — THE SEALED ROOM" data-chapter="THE SEALED ROOM" data-kind="story" data-tags="motif/night,setting/london"></span>
 
 
 THE SEALED ROOM
@@ -1751,7 +1751,7 @@ There was silence for some time. It was broken by young Stanniford.
 
 
 
-<span class="atom-split" data-atom="story_07_the_brazilian_cat" data-title="ROUND THE FIRE STORIES — THE BRAZILIAN CAT" data-chapter="THE BRAZILIAN CAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_brazilian_cat" data-title="ROUND THE FIRE STORIES — THE BRAZILIAN CAT" data-chapter="THE BRAZILIAN CAT" data-kind="story" data-tags="archetype/villain,motif/night,concept/fear,setting/london"></span>
 
 
 THE BRAZILIAN CAT

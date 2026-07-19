@@ -1328,7 +1328,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Merry Wives of Windsor — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Merry Wives of Windsor — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/desire,motif/love,motif/marriage,motif/time,motif/well,concept/faith,concept/fear,concept/hope,character/anne_page,character/falstaff,character/gloucester,character/justice_shallow,character/master_page,character/mistress_ford,character/mistress_page,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1485,7 +1485,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Merry Wives of Windsor — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Merry Wives of Windsor — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/desire,motif/well,character/anne_page,character/doctor_caius,character/mistress_quickly,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -1498,7 +1498,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merry Wives of Windsor — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="The Merry Wives of Windsor — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/love,motif/poison,motif/stars,motif/time,motif/well,concept/revenge,character/falstaff,character/hector,character/lucifer,character/mistress_ford,character/mistress_page,character/pandarus,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1555,7 +1555,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="The Merry Wives of Windsor — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="The Merry Wives of Windsor — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/desire,motif/fire,motif/home,motif/love,motif/marriage,motif/night,motif/prayer,motif/time,motif/well,concept/body,concept/doubt,concept/faith,concept/melancholy,concept/truth,setting/court,character/anne_page,character/cain,character/doctor_caius,character/fenton,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -1643,7 +1643,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Merry Wives of Windsor — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Merry Wives of Windsor — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/birds,motif/desire,motif/fire,motif/home,motif/love,motif/night,motif/summer,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/honour,concept/hope,concept/jealousy,concept/melancholy,concept/truth,character/falstaff,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/mistress_quickly,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -1736,7 +1736,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="The Merry Wives of Windsor — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="The Merry Wives of Windsor — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/shadow,motif/clock,motif/desire,motif/fire,motif/home,motif/jewel,motif/love,motif/marriage,motif/night,motif/prayer,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/honour,concept/hope,concept/jealousy,concept/truth,setting/court,character/doctor_caius,character/falstaff,character/lucifer,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/mistress_quickly,character/pistol,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1844,7 +1844,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="The Merry Wives of Windsor — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="The Merry Wives of Windsor — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/clock,motif/home,motif/love,motif/soul,motif/water,motif/well,character/anne_page,character/doctor_caius,character/hector,character/justice_shallow,character/master_page"></span>
 
 
 | Speaker | Line |
@@ -1903,7 +1903,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Merry Wives of Windsor — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Merry Wives of Windsor — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/birds,motif/desire,motif/soul,motif/time,motif/well,concept/body,concept/friendship,concept/mercy,concept/revenge,character/anne_page,character/costard,character/doctor_caius,character/justice_shallow"></span>
 
 
 | Speaker | Line |
@@ -1967,7 +1967,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Merry Wives of Windsor — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Merry Wives of Windsor — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/monster,motif/clock,motif/dance,motif/home,motif/love,motif/sleep,motif/well,motif/wind,concept/faith,concept/hope,character/anne_page,character/doctor_caius,character/dwarf,character/falstaff,character/fenton,character/justice_shallow,character/master_ford,character/master_page,character/mistress_page"></span>
 
 
 | Speaker | Line |
@@ -2012,7 +2012,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Merry Wives of Windsor — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Merry Wives of Windsor — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/tyrant,motif/clock,motif/jewel,motif/love,motif/nature,motif/ship,motif/time,motif/water,motif/well,concept/ambition,concept/beauty,concept/conscience,concept/fear,concept/hope,concept/imagination,concept/jealousy,concept/nature,setting/castle,setting/court,setting/ship,character/doctor_caius,character/falstaff,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -2131,7 +2131,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="The Merry Wives of Windsor — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="The Merry Wives of Windsor — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/death,motif/fire,motif/love,motif/time,motif/water,motif/well,character/anne_page,character/falstaff,character/fenton,character/justice_shallow,character/master_page,character/mistress_page,character/mistress_quickly,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2195,7 +2195,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="The Merry Wives of Windsor — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="The Merry Wives of Windsor — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/death,motif/love,motif/river,motif/sleep,motif/water,motif/well,concept/fear,concept/jealousy,concept/mercy,form/comedy,character/bottom,character/falstaff,character/master_ford,character/mistress_ford,character/mistress_page,character/mistress_quickly,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2257,7 +2257,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Merry Wives of Windsor — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Merry Wives of Windsor — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,motif/home,motif/memory,motif/water,motif/well,character/mistress_ford,character/mistress_page,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -2315,7 +2315,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="The Merry Wives of Windsor — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="The Merry Wives of Windsor — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/death,motif/home,motif/love,motif/time,motif/well,concept/conscience,concept/hope,concept/jealousy,concept/madness,concept/revenge,character/doctor_caius,character/falstaff,character/justice_shallow,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2426,7 +2426,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="The Merry Wives of Windsor — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="The Merry Wives of Windsor — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/desire,setting/court"></span>
 
 
 | Speaker | Line |
@@ -2440,7 +2440,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="The Merry Wives of Windsor — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="The Merry Wives of Windsor — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/blood,motif/home,motif/night,motif/time,motif/well,motif/winter,concept/faith,concept/fear,concept/honour,concept/truth,setting/court,character/falstaff,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2479,7 +2479,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="The Merry Wives of Windsor — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="The Merry Wives of Windsor — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/villain,motif/love,motif/time,motif/well,motif/wind,concept/wonder,setting/castle,setting/court,character/anne_page,character/doctor_caius,character/falstaff,character/fenton,character/mistress_ford,character/mistress_quickly,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2555,7 +2555,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merry Wives of Windsor — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Merry Wives of Windsor — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/time,concept/fear,concept/hope,concept/jealousy,character/falstaff,character/master_ford,character/mistress_quickly"></span>
 
 
 | Speaker | Line |
@@ -2573,7 +2573,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="The Merry Wives of Windsor — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="The Merry Wives of Windsor — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/clock,motif/night,motif/well,setting/castle,character/justice_shallow,character/master_page"></span>
 
 
 | Speaker | Line |
@@ -2587,7 +2587,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="The Merry Wives of Windsor — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="The Merry Wives of Windsor — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/night,motif/time,motif/well,character/doctor_caius,character/falstaff,character/mistress_ford,character/mistress_page"></span>
 
 
 | Speaker | Line |
@@ -2607,7 +2607,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="The Merry Wives of Windsor — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="The Merry Wives of Windsor — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/masks_disguise,motif/supernatural,concept/deception,form/comedy,setting/england"></span>
 
 
 | Speaker | Line |
@@ -2618,7 +2618,7 @@ The Merry Wives of Windsor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="The Merry Wives of Windsor — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="The Merry Wives of Windsor — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/orphan,motif/clock,motif/cross,motif/crown,motif/dance,motif/decay,motif/desire,motif/fire,motif/flowers,motif/home,motif/love,motif/marriage,motif/night,motif/pain,motif/silence,motif/sleep,motif/snow,motif/time,motif/well,concept/conscience,concept/doubt,concept/faith,concept/truth,form/comedy,setting/castle,character/anne_page,character/doctor_caius,character/doll_tearsheet,character/earl_of_northumberland,character/falstaff,character/fenton,character/hastings,character/henry_iv,character/henry_v,character/justice_shallow,character/master_ford,character/master_page,character/mistress_ford,character/mistress_page,character/mistress_quickly,character/mowbray,character/queen,character/satan,character/witch"></span>
 
 
 | Speaker | Line |

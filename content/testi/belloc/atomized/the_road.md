@@ -957,7 +957,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_future" data-title="The Road — Chapter 14: THE FUTURE" data-chapter="THE FUTURE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_future" data-title="The Road — Chapter 14: THE FUTURE" data-chapter="THE FUTURE" data-kind="chapter" data-tags="motif/the_road,motif/road,motif/journey,concept/history,concept/critique_of_progress,form/essay,form/nonfiction,histref/ancient_rome,setting/england"></span>
 
 
 CHAPTER XIV. THE FUTURE
@@ -985,7 +985,7 @@ THE BRITISH REINFORCED Concrete Engineering Co. Ltd. recently became acquainted 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_origin_of_roads" data-title="The Road — Chapter 1: THE ORIGIN OF ROADS" data-chapter="THE ORIGIN OF ROADS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_origin_of_roads" data-title="The Road — Chapter 1: THE ORIGIN OF ROADS" data-chapter="THE ORIGIN OF ROADS" data-kind="chapter" data-tags="motif/river"></span>
 
 
 PART I. THE ROAD IN GENERAL
@@ -1042,7 +1042,7 @@ When we come to consider even the first of succeeding modifications we see still
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_01" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 1)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_01" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 1)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER II. THE CROSSING OF MARSH AND WATER
@@ -1080,7 +1080,7 @@ Water Courses. The crossing of water courses does not seem to have been original
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_02" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 2)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_02" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 2)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 If you take such a very old road as that of the primitive British trackway whose two branches, from Stonehenge and Winchester, unite in what is called the “Pilgrim’s Way” and make for the Straits of Dover, you find this trackway crossing the Mole, the Wey, and the Medway, as also the Darenth, at places where the obvious consideration has been a dry approach upon either side, and not the local shallowness of the stream. (We must remember in this connection that the word “ford” is used at plenty of places where the stream is too deep for crossing on foot: it means simply “a going.” A false etymology here has misled many historians.) Of more importance to the first makers of the Road than the depth of a water course was its swiftness. We have in this country few examples of swift streams of any magnitude, and none of streams so swift as to be impassable or passable with great difficulty, but where such examples occur abroad it is easy to see what a boundary and obstacle a rapid current afforded. It works in all manner of ways to the disadvantage of travel, it makes both swimming and ferrying more difficult (or impossible), it makes bridging either more difficult or (in early times) impossible, it usually connotes great differences of level, sudden floods, etc., and it also usually connotes changes and variety of currents, as well as the destruction of the banks.
@@ -1100,7 +1100,7 @@ Again, bridges tended, especially in times of low economic development, to intro
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_03" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 3)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_crossing_of_marsh_and_wate--part_03" data-title="The Road — Chapter 2: THE CROSSING OF MARSH AND WATER (part 3)" data-chapter="THE CROSSING OF MARSH AND WATE" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 There were particular structures — that of London is an example in point — where the disadvantage of a gradient was avoided at great expense because a mass of traffic and merchandise made it worth while. London Bridge was carried on a great number of arches precisely in order to avoid this element of gradient. A side-effect of this was the blocking of the stream and great difficulty for boats in “shooting” the arches on a tide; but this drawback to [[River|river]] traffic was thought worth while as the price of a level road.
@@ -1130,7 +1130,7 @@ There is a little note on the crossing of water courses which is curious and int
 
 
 
-<span class="atom-split" data-atom="chapter_04_passability--part_01" data-title="The Road — Chapter 3: PASSABILITY (part 1)" data-chapter="PASSABILITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_passability--part_01" data-title="The Road — Chapter 3: PASSABILITY (part 1)" data-chapter="PASSABILITY" data-kind="excerpt" data-tags="motif/road,motif/chalk,motif/hill,concept/nature,form/essay,form/nonfiction,setting/england,setting/rural_england"></span>
 
 
 CHAPTER III. PASSABILITY
@@ -1160,7 +1160,7 @@ Gradients. The obstacle of gradient the “minimum of vertical effort” is the 
 
 
 
-<span class="atom-split" data-atom="chapter_04_passability--part_02" data-title="The Road — Chapter 3: PASSABILITY (part 2)" data-chapter="PASSABILITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_passability--part_02" data-title="The Road — Chapter 3: PASSABILITY (part 2)" data-chapter="PASSABILITY" data-kind="excerpt" data-tags="motif/road,motif/hill,concept/history,form/essay,form/nonfiction,histref/ancient_rome,setting/england"></span>
 
 
 There is also the question of durability. A primitive road, taking a very steep gradient, will be more durable than one taking a lesser gradient round the slopes of a hill and subject to falls from above and to degradation down the slope below; it will need less upkeep, for it is always shorter — and this last consideration explains what would otherwise be inexplicable: the extraordinarily steep gradients which primitive roads and even the roads of a high civilization will take.
@@ -1188,7 +1188,7 @@ A special case in this general category of gradients, and one much more complex 
 
 
 
-<span class="atom-split" data-atom="chapter_04_passability--part_03" data-title="The Road — Chapter 3: PASSABILITY (part 3)" data-chapter="PASSABILITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_passability--part_03" data-title="The Road — Chapter 3: PASSABILITY (part 3)" data-chapter="PASSABILITY" data-kind="excerpt" data-tags="motif/road,motif/hill,concept/nature,form/essay,form/nonfiction,setting/the_mountains,setting/france"></span>
 
 
 Another was the conformation of many ranges, which is such that the approach to the ridge is much steeper at the summit of a “col” or pass than it is by tracks to one side.
@@ -1208,7 +1208,7 @@ Here the contours are such that had the road deflected to the west or the east i
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_obstacle_of_vegetation" data-title="The Road — Chapter 4: THE OBSTACLE OF VEGETATION" data-chapter="THE OBSTACLE OF VEGETATION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_obstacle_of_vegetation" data-title="The Road — Chapter 4: THE OBSTACLE OF VEGETATION" data-chapter="THE OBSTACLE OF VEGETATION" data-kind="chapter" data-tags="motif/river"></span>
 
 
 CHAPTER IV. THE OBSTACLE OF VEGETATION
@@ -1242,7 +1242,7 @@ The Romans fought this difficulty with singular tenacity. They made all their gr
 
 
 
-<span class="atom-split" data-atom="chapter_06_political_influences" data-title="The Road — Chapter 5: POLITICAL INFLUENCES" data-chapter="POLITICAL INFLUENCES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_political_influences" data-title="The Road — Chapter 5: POLITICAL INFLUENCES" data-chapter="POLITICAL INFLUENCES" data-kind="chapter" data-tags="concept/tradition"></span>
 
 
 CHAPTER V. POLITICAL INFLUENCES
@@ -1282,7 +1282,7 @@ We have a good example of this along the south-eastern coast of England. Our anc
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_01" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 1)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_01" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 1)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER VI. THE REACTION OF THE ROAD
@@ -1322,7 +1322,7 @@ In direct connection with this you have a mass of subsidiary effects, all of the
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_02" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 2)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_02" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 2)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt" data-tags="motif/road,motif/city,concept/history,form/essay,form/nonfiction,histref/ancient_rome,histref/christianity,setting/england"></span>
 
 
 At bottom, like so many other human arrangements, this “pulse” is a negation of its own principles — a sub-conscious effect which a fully thought-out plan could have avoided. There is no true economic basis for it, or, at any rate, not for the most of it.
@@ -1350,7 +1350,7 @@ You may next observe the Road producing the economic effect of maintaining towns
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_03" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 3)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_reaction_of_the_road--part_03" data-title="The Road — Chapter 6: THE REACTION OF THE ROAD (part 3)" data-chapter="THE REACTION OF THE ROAD" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 The Road has the same canalizing effect where it overcomes an obstacle such as a broad [[River|river]], or a mountain chain, or a belt of dense woodland. For instance, the fertile lowland fringe of South Wales and the corresponding fertile land to the east of the Severn were connected, when primitive methods alone could be used, by the bridge at Gloucester, high up the [[River|river]]. The lower reaches were too much for the earlier engineers, especially in the face of such a tide as runs on them. As a result the whole of that line of communications remained for 2000 years highly deflected, and only quite recently has there been some attempt at the more natural line by the piercing of the Severn tunnel.
@@ -1368,7 +1368,7 @@ A last minor effect of the Road upon human society is the use of the Road as a b
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_road_in_history" data-title="The Road — Chapter 7: THE ROAD IN HISTORY" data-chapter="THE ROAD IN HISTORY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_the_road_in_history" data-title="The Road — Chapter 7: THE ROAD IN HISTORY" data-chapter="THE ROAD IN HISTORY" data-kind="chapter" data-tags="concept/tradition,histref/industrial_revolution"></span>
 
 
 PART II. THE ENGLISH ROAD
@@ -1427,7 +1427,7 @@ I propose, therefore, in what follows to consider, first, how this particular ch
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_blindness_of_english_roads" data-title="The Road — Chapter 8: THE “BLINDNESS” OF ENGLISH ROADS" data-chapter="THE BLINDNESS OF ENGLISH ROADS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_blindness_of_english_roads" data-title="The Road — Chapter 8: THE “BLINDNESS” OF ENGLISH ROADS" data-chapter="THE BLINDNESS OF ENGLISH ROADS" data-kind="chapter" data-tags="motif/river"></span>
 
 
 CHAPTER VIII. THE “BLINDNESS” OF ENGLISH ROADS
@@ -1459,7 +1459,7 @@ If you look at the Roman road system you will see how, for the considerations wh
 
 
 
-<span class="atom-split" data-atom="chapter_10_sketch_ii--part_01" data-title="The Road — Part 2: , Sketch II (part 1)" data-chapter="Sketch II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_sketch_ii--part_01" data-title="The Road — Part 2: , Sketch II (part 1)" data-chapter="Sketch II" data-kind="excerpt" data-tags="motif/journey,motif/river,histref/roman_history"></span>
 
 
 Part II, Sketch II
@@ -1487,7 +1487,7 @@ The third principal case, that of the Severn, is partially met by a railway tunn
 
 
 
-<span class="atom-split" data-atom="chapter_10_sketch_ii--part_02" data-title="The Road — Part 2: , Sketch II (part 2)" data-chapter="Sketch II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_sketch_ii--part_02" data-title="The Road — Part 2: , Sketch II (part 2)" data-chapter="Sketch II" data-kind="excerpt" data-tags="motif/road,motif/river,concept/history,form/essay,form/nonfiction,histref/ancient_rome,setting/england,setting/river_thames"></span>
 
 
 This negative factor, the absence of a strategic “driving motive,” has also left the windings of the internal road system at the mercy of the easiest crossings of the rivers, and we see how different the thing would have been under a strategic scheme. Consider the Roman contrast. The Roman roads of Britain were principally military. The whole scheme of Roman government was military, and the life of all that civilization was founded on the army. With the marching of men rapidly and easily from place to place as the main motive of the builders, the roads follow those great straight lines which, while duly seeking a formula of minimum effort, never sacrificed to it directness of plan. As we have seen, even at the great estuaries Roman engineers preferred a supplementary ferry to continue the road rather than deflecting it round by the first bridge.
@@ -1517,7 +1517,7 @@ All these things have affected the development of the English Road, but most of 
 
 
 
-<span class="atom-split" data-atom="chapter_11_five_stages" data-title="The Road — Chapter 9: FIVE STAGES" data-chapter="FIVE STAGES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_five_stages" data-title="The Road — Chapter 9: FIVE STAGES" data-chapter="FIVE STAGES" data-kind="chapter" data-tags="motif/river"></span>
 
 
 CHAPTER IX. FIVE STAGES
@@ -1565,7 +1565,7 @@ The turnpike system continued to develop with continual changes through three or
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_trackways--part_01" data-title="The Road — Chapter 10: THE TRACKWAYS (part 1)" data-chapter="THE TRACKWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_trackways--part_01" data-title="The Road — Chapter 10: THE TRACKWAYS (part 1)" data-chapter="THE TRACKWAYS" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 CHAPTER X. THE TRACKWAYS
@@ -1613,7 +1613,7 @@ The crossing of a [[River|river]] is determined by the hardness of the land upon
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_trackways--part_02" data-title="The Road — Chapter 10: THE TRACKWAYS (part 2)" data-chapter="THE TRACKWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_trackways--part_02" data-title="The Road — Chapter 10: THE TRACKWAYS (part 2)" data-chapter="THE TRACKWAYS" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 The first good crossing-place was at Lambeth, and it is generally assumed that the earliest of all the tracks took the stream here, for the alignment of the main approach from Kent through Canterbury, Rochester, and Shooters’ Hill does not point at the centre of London, but at Lambeth. This, it is presumed, was the track followed by what is now Park Lane, and so ultimately north-westward by the Edgware Road and its continuations to Chester, with a branch thrown off through the pass between the marshes of the Mersey and the Pennine range in the district of Manchester, and so on through Lancashire. But at some very early stage there was established a crossing below Lambeth in the neighbourhood of London Bridge, even before that bridge came into existence. It is true that there is here a belt of marsh on the right bank, but the considerable gravelly hill on the left, or north, bank there would give an opportunity not to be lost. It had three great advantages: it was a large area of dry land for settlement; it had defences all round it — marshy land to the north, the Fleet to the west, the Lea to the east; it had a considerable area for the drawing up of boats, and a steep shore for wharfage. Under these conditions, whenever men could first construct a causeway it would have been worth while to have been at that labour across the Southwark marshes in order to establish a permanent crossing by ferry, and later by a bridge, upon the site of London Bridge. At any rate, from that centre — London Bridge — at some very early period you get trackways radiating.
@@ -1635,7 +1635,7 @@ England has always tended to fall into two cross divisions — a northern and a 
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_trackways--part_03" data-title="The Road — Chapter 10: THE TRACKWAYS (part 3)" data-chapter="THE TRACKWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_trackways--part_03" data-title="The Road — Chapter 10: THE TRACKWAYS (part 3)" data-chapter="THE TRACKWAYS" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 iv
@@ -1655,7 +1655,7 @@ There was one kind of soil, and one only, which could compete with the chalk as 
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_making_of_the_roman_road" data-title="The Road — Chapter 11: THE MAKING OF THE ROMAN ROAD" data-chapter="THE MAKING OF THE ROMAN ROAD" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_making_of_the_roman_road" data-title="The Road — Chapter 11: THE MAKING OF THE ROMAN ROAD" data-chapter="THE MAKING OF THE ROMAN ROAD" data-kind="chapter" data-tags="motif/road,motif/the_road,concept/history,form/essay,form/nonfiction,histref/ancient_rome,setting/england"></span>
 
 
 CHAPTER XI. THE MAKING OF THE ROMAN ROAD
@@ -1671,7 +1671,7 @@ The Roman Road had a structure and character of its own which it has retained to
 
 
 
-<span class="atom-split" data-atom="chapter_14_sketch_iv_the_roman_road_schem" data-title="The Road — Part 2: , Sketch IV, The ROMAN ROAD SCHEME" data-chapter="Sketch IV The ROMAN ROAD SCHEM" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_sketch_iv_the_roman_road_schem" data-title="The Road — Part 2: , Sketch IV, The ROMAN ROAD SCHEME" data-chapter="Sketch IV The ROMAN ROAD SCHEM" data-kind="chapter" data-tags="motif/river"></span>
 
 
 Part II, Sketch IV, The ROMAN ROAD SCHEME
@@ -1707,7 +1707,7 @@ Suppose that you have to construct a straight line from A to B, A and B not bein
 
 
 
-<span class="atom-split" data-atom="chapter_15_sketch_v_part_ii_sketch_vi" data-title="The Road — Part 2: , Sketch V Part II, Sketch VI" data-chapter="Sketch V Part II Sketch VI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_sketch_v_part_ii_sketch_vi" data-title="The Road — Part 2: , Sketch V Part II, Sketch VI" data-chapter="Sketch V Part II Sketch VI" data-kind="chapter" data-tags="motif/road,form/essay,form/nonfiction,histref/ancient_rome"></span>
 
 
 Part II, Sketch V Part II, Sketch VI
@@ -1717,7 +1717,7 @@ At any rate, having established this rough winding line, you next make the men n
 
 
 
-<span class="atom-split" data-atom="chapter_16_sketch_vii_part_ii_sketch_viii" data-title="The Road — Part 2: , Sketch VII Part II, Sketch VIII" data-chapter="Sketch VII Part II Sketch VIII" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_sketch_vii_part_ii_sketch_viii" data-title="The Road — Part 2: , Sketch VII Part II, Sketch VIII" data-chapter="Sketch VII Part II Sketch VIII" data-kind="chapter" data-tags="motif/road,concept/history,form/essay,form/nonfiction,histref/ancient_rome"></span>
 
 
 Part II, Sketch VII Part II, Sketch VIII
@@ -1735,7 +1735,7 @@ It must not, of course, be imagined that these great military ways were the only
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_dark_ages" data-title="The Road — Chapter 12: THE DARK AGES" data-chapter="THE DARK AGES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_the_dark_ages" data-title="The Road — Chapter 12: THE DARK AGES" data-chapter="THE DARK AGES" data-kind="chapter" data-tags="motif/river"></span>
 
 
 CHAPTER XII. THE DARK AGES
@@ -1767,7 +1767,7 @@ There are scores of examples of this up and down the country. The most prominent
 
 
 
-<span class="atom-split" data-atom="chapter_18_sketch_ix" data-title="The Road — Part 2: , Sketch IX" data-chapter="Sketch IX" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_sketch_ix" data-title="The Road — Part 2: , Sketch IX" data-chapter="Sketch IX" data-kind="chapter" data-tags="motif/river"></span>
 
 
 Part II, Sketch IX
@@ -1783,7 +1783,7 @@ We have seen that the main cause of the breaking down of the Roman Road was mars
 
 
 
-<span class="atom-split" data-atom="chapter_19_sketch_x" data-title="The Road — Part 2: , Sketch X" data-chapter="Sketch X" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_sketch_x" data-title="The Road — Part 2: , Sketch X" data-chapter="Sketch X" data-kind="chapter" data-tags="motif/road,motif/ruins,motif/decay,concept/history,form/essay,form/nonfiction,histref/ancient_rome,setting/england"></span>
 
 
 Part II, Sketch X
@@ -1833,7 +1833,7 @@ Now, if you look at the present scheme of roads surrounding this original Roman 
 
 
 
-<span class="atom-split" data-atom="chapter_20_sketch_xi" data-title="The Road — Part 2: , Sketch XI" data-chapter="Sketch XI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_sketch_xi" data-title="The Road — Part 2: , Sketch XI" data-chapter="Sketch XI" data-kind="chapter" data-tags="motif/road,motif/hill,concept/history,form/essay,form/nonfiction,histref/ancient_rome,setting/england,setting/rural_england"></span>
 
 
 Part II, Sketch XI
@@ -1883,7 +1883,7 @@ There was no regular plan or order in all this. Local usage, local necessity dev
 
 
 
-<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_01" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 1)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_01" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 1)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt" data-tags="motif/road,motif/horse,concept/history,concept/capitalism,concept/individualism,form/essay,form/nonfiction,histref/english_civil_war,histref/the_thirty_years_war,setting/england"></span>
 
 
 CHAPTER XIII. WHEELED TRAFFIC AND THE MODERN ROAD
@@ -1927,7 +1927,7 @@ The date to which must be referred the great change in this respect — the date
 
 
 
-<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_02" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 2)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_02" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 2)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt" data-tags="motif/road,concept/history,form/essay,form/nonfiction,histref/the_industrial_revolution,histref/irish_question,setting/england,character/william_pitt"></span>
 
 
 If we consider the use and character of the Road, its texture and appearance, its effect upon the landscape, its connection with society as distinct from the legislation connected with it, 1810 is much more of a pivotal date than such dates as 1555 or 1822, which mark the political changes in the statutory powers of dealing with roads. Already stage coaches driven from the box, and every year increasing the rate of travel, had been upon the road for a generation — for twenty-six years; and already great lengths of turnpike trust roads had come to a sufficient excellence of surface to permit travel at an average rate over those branches of ten miles an hour. But, as I have said, there was not as yet one continuous piece of road designed to connect two important termini, of equal value throughout, and ordered in all its length towards that one end of making equable and rapid transit possible between the two extremities. That is the point. The thing had not existed in this island (save in the “four Regal Ways”) since the breakdown of the Roman central government in the fifth century.
@@ -1953,7 +1953,7 @@ The real point of Macadam in our road history is his intense devotion to his tas
 
 
 
-<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_03" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 3)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wheeled_traffic_and_the_modern--part_03" data-title="The Road — Chapter 13: WHEELED TRAFFIC AND THE MODERN ROAD (part 3)" data-chapter="WHEELED TRAFFIC AND THE MODERN" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 Just as the Post Office had been the Government department for using Telford, so the Board of Works was the Government department backing Macadam.
@@ -1971,7 +1971,7 @@ The introduction of the railway had two deplorable effects upon the economic lif
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_future--part_01" data-title="The Road — Chapter 14: THE FUTURE (part 1)" data-chapter="THE FUTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_future--part_01" data-title="The Road — Chapter 14: THE FUTURE (part 1)" data-chapter="THE FUTURE" data-kind="excerpt" data-tags="motif/road,motif/machine,motif/journey,concept/critique_of_progress,form/essay,form/nonfiction,setting/england,setting/london"></span>
 
 
 CHAPTER XIV. THE FUTURE
@@ -2021,7 +2021,7 @@ We need five things:
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_future--part_02" data-title="The Road — Chapter 14: THE FUTURE (part 2)" data-chapter="THE FUTURE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_future--part_02" data-title="The Road — Chapter 14: THE FUTURE (part 2)" data-chapter="THE FUTURE" data-kind="excerpt" data-tags="motif/journey"></span>
 
 
 It is for experts in the science (of which I know nothing, and allusion to which I have therefore kept carefully out of this essay) to decide what these details of surface, width, foundation, etc., mean in practice: their expense and character.

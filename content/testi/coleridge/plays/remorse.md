@@ -19,7 +19,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="REMORSE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="REMORSE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,motif/cave,motif/dawn,motif/death,motif/night,motif/poison,motif/sleep,motif/soul,motif/tears,motif/well,concept/conscience,concept/exile,concept/faith,concept/guilt,concept/hope,concept/imprisonment,concept/melancholy,concept/truth,setting/mountains"></span>
 
 
 | Speaker | Line |
@@ -59,7 +59,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="REMORSE — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="REMORSE — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/innocent,archetype/lover,archetype/rebel,archetype/shadow,motif/blood,motif/childhood,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/hill,motif/home,motif/leaves,motif/lightning,motif/lion,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/prison,motif/rose,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/doubt,concept/endurance,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/imprisonment,concept/jealousy,concept/mercy,concept/nature,concept/revenge,concept/self,concept/truth,histref/inquisition,setting/castle,setting/mountains"></span>
 
 
 | Speaker | Line |
@@ -183,7 +183,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="REMORSE — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="REMORSE — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/shadow,archetype/villain,motif/blood,motif/death,motif/flowers,motif/hill,motif/love,motif/nature,motif/night,motif/road,motif/silence,motif/soul,motif/tears,motif/water,motif/well,motif/wind,concept/faith,concept/guilt,concept/honour,concept/nature,concept/suicide,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -263,7 +263,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="REMORSE — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="REMORSE — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/avenger,archetype/fool,archetype/lover,archetype/villain,motif/blood,motif/death,motif/dust,motif/flowers,motif/grave,motif/love,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/conscience,concept/faith,concept/forgiveness,concept/guilt,concept/poverty,concept/truth,histref/inquisition,character/lucifer"></span>
 
 
 | Speaker | Line |
@@ -342,7 +342,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="REMORSE — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="REMORSE — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/innocent,motif/dance,motif/death,motif/fire,motif/love,motif/memory,motif/night,motif/soul,motif/tears,motif/wheel,concept/conscience,concept/doubt,concept/faith,concept/guilt,concept/hope,concept/melancholy,concept/pride,concept/self,histref/inquisition,setting/castle,character/chorus,character/witch"></span>
 
 
 | Speaker | Line |
@@ -387,7 +387,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="REMORSE — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="REMORSE — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/lover,archetype/villain,motif/blood,motif/death,motif/fire,motif/grave,motif/love,motif/nature,motif/night,motif/poison,motif/sleep,motif/soul,motif/storm,motif/supernatural,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/hope,concept/madness,concept/nature,concept/pride,concept/revenge,concept/self,concept/truth,form/dirge,character/phantom"></span>
 
 
 | Speaker | Line |
@@ -471,7 +471,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="REMORSE — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="REMORSE — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/monster,archetype/pilgrim,archetype/villain,motif/blood,motif/death,motif/fire,motif/frost,motif/lightning,motif/moon,motif/nature,motif/night,motif/prison,motif/silence,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/faith,concept/fear,concept/guilt,concept/honour,concept/nature,concept/self,concept/truth,character/phantom"></span>
 
 
 | Speaker | Line |
@@ -541,7 +541,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="REMORSE — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="REMORSE — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/childhood,motif/dawn,motif/love,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/tears,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/madness,concept/nature,concept/revenge,concept/truth,concept/wonder,histref/inquisition,setting/castle,setting/court,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -572,7 +572,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="REMORSE — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="REMORSE — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/orphan,archetype/prophet,archetype/tyrant,motif/autumn,motif/blood,motif/death,motif/decay,motif/fire,motif/memory,motif/moon,motif/night,motif/sleep,motif/soul,concept/beauty,concept/hope,concept/revenge,concept/solitude,form/fragment,setting/mountains"></span>
 
 
 | Speaker | Line |
@@ -612,7 +612,7 @@ Coleridge's Gothic verse tragedy set in Spain during the persecution of the Moor
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="REMORSE — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="REMORSE — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/orphan,archetype/shadow,archetype/villain,motif/autumn,motif/birds,motif/blood,motif/dance,motif/death,motif/dreams,motif/fire,motif/flowers,motif/home,motif/love,motif/nature,motif/pain,motif/poison,motif/prayer,motif/river,motif/road,motif/silence,motif/sleep,motif/soul,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/conscience,concept/courage,concept/despair,concept/faith,concept/fear,concept/forgiveness,concept/greatness,concept/guilt,concept/honour,concept/hope,concept/imprisonment,concept/mercy,concept/nature,concept/poverty,concept/pride,concept/self,concept/solitude,concept/truth,concept/wonder,form/tragedy,setting/castle"></span>
 
 
 | Speaker | Line |

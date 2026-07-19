@@ -126,7 +126,7 @@ They have changed the password.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="asparagus (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="asparagus (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/birds,motif/machine,motif/nature,motif/well,concept/body,concept/democracy,concept/nature"></span>
 
 
 [[asparagus|Asparagus]]
@@ -251,7 +251,7 @@ La fratellanza degli uomini è un fatto che, alla lunga, logora tutti gli altri 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="asparagus (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="asparagus (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/food_and_feasting,concept/paradox,concept/satire_of_society,form/essay"></span>
 
 
 Do you tell me they don't eat [[asparagus]] with their fingers now?

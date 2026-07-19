@@ -962,7 +962,7 @@ hysterical laugh which will forever ring within my ears.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Oblong Box (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Oblong Box (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/city,motif/home,motif/ship,motif/well,concept/beauty,concept/doubt,concept/friendship,concept/hope,concept/misanthropy,concept/truth,concept/wonder,setting/new_york,setting/ship"></span>
 
 
 Some years ago, I engaged passage from Charleston, S. C., to the
@@ -1158,7 +1158,7 @@ my friend’s heart by the more enduring graces of the intellect
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Oblong Box (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Oblong Box (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/love,motif/secrets,motif/soul,motif/time,motif/well,motif/wind,concept/doubt,concept/truth,concept/wonder,setting/new_york"></span>
 
 
 and [[Soul|soul]]. She said very few words, and passed at once into her
@@ -1348,7 +1348,7 @@ to live altogether, leaving his wife at full liberty to amuse
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Oblong Box (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Oblong Box (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/clock,motif/night,motif/ship,motif/sleep,motif/time,motif/well,motif/wind,concept/doubt,concept/revenge,setting/ship,character/bottom"></span>
 
 
 herself as she thought best, in the public society of the main
@@ -1540,7 +1540,7 @@ by certain slight taps which the lid made in striking against the
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Oblong Box (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Oblong Box (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,motif/dawn,motif/love,motif/moon,motif/ship,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/doubt,concept/hope,concept/imagination,concept/suffering,setting/ship"></span>
 
 
 wooden edges of the berth, as he endeavored to lay it down very
@@ -1742,7 +1742,7 @@ who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvat
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Oblong Box (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Oblong Box (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/artist,motif/chains,motif/night,motif/ship,motif/silence,motif/sleep,motif/spring,motif/time,motif/well,concept/body,concept/hope,concept/mercy,setting/new_york,setting/ship"></span>
 
 
 implore you to put back for the box!”

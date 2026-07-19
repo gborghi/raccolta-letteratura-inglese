@@ -67,7 +67,7 @@ quando tutte le [[Leaves|foglie]] sono d'oro.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="gold-leaves (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="gold-leaves (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/leaves,motif/stars,concept/democracy"></span>
 
 
 Gold [[Leaves]]  

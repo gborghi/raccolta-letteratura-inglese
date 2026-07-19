@@ -244,7 +244,7 @@ Part of an etext in progress by Rob Szarka.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="cockneys (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="cockneys (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/nature,motif/stars,motif/swallow,motif/tears,motif/time,concept/nature,concept/poverty,concept/truth,form/comedy,form/tragedy,setting/london,setting/new_york,character/mermaid"></span>
 
 
 -=[ [[cockneys|COCKNEYS]] AND THEIR JOKES ]=-
@@ -337,7 +337,7 @@ No; [[London|Londra]], in questa faccenda, è attaccata sul suo terreno più for
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="cockneys (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="cockneys (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/leaves,motif/love,motif/marriage,motif/nature,motif/well,motif/wind,concept/democracy,concept/mercy,concept/nature,concept/paradox,concept/truth"></span>
 
 
 I believe firmly in the value of all vulgar notions, especially of
@@ -524,7 +524,7 @@ della [[house|casa]], egli sa di esserne la polena.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="cockneys (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="cockneys (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/time,concept/democracy,concept/grotesque,concept/truth"></span>
 
 
 But the vulgar comic papers are so subtle and true that they

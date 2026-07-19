@@ -101,7 +101,7 @@ di [[Dust|polvere]] e nulla più.»
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="praise_of_dust (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="praise_of_dust (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/city,motif/dust,motif/fire,motif/flowers,motif/well,concept/body"></span>
 
 
 # praise of [[Dust|dust]]

@@ -175,7 +175,7 @@ APPENDIX
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME I.
@@ -196,7 +196,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME II.
@@ -214,7 +214,7 @@ IX. THE BATTLE OF LOOS From September 27 to the End of the Year
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME III.
@@ -236,7 +236,7 @@ XIII. THE BATTLE OF THE ANCRE November 13, 1916
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME IV.
@@ -256,7 +256,7 @@ XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME V.
@@ -276,7 +276,7 @@ XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE LOVE AFFAIR OF GEORGE VINCENT PARKER — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 VOLUME VI.

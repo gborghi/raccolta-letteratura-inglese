@@ -7734,7 +7734,7 @@ he is also a poet.'
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_01" data-title="Incredulity — The Resurrection of Father Brown (part 1)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_01" data-title="Incredulity — The Resurrection of Father Brown (part 1)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/autumn,motif/blood,motif/city,motif/leaves,concept/resurrection,concept/wonder,histref/america,setting/america,character/father_brown"></span>
 
 
 ONE:  The [[Resurrection]] of [[Father Brown]]
@@ -7873,7 +7873,7 @@ Il signor Paul Snaith si accomodò dentro; e fu l'inizio di un notevole accresci
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_02" data-title="Incredulity — The Resurrection of Father Brown (part 2)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_02" data-title="Incredulity — The Resurrection of Father Brown (part 2)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="concept/body,concept/honour,concept/hope,concept/reconciliation,concept/resurrection,character/father_brown,character/sunday"></span>
 
 
 There had recently swept through that region one of those fevers
@@ -8024,7 +8024,7 @@ Inutile dire che questo strano clamore al Nord si ripercosse sul piccolo avampos
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_03" data-title="Incredulity — The Resurrection of Father Brown (part 3)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_03" data-title="Incredulity — The Resurrection of Father Brown (part 3)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="motif/home,motif/time,concept/resurrection,concept/temptation,concept/truth,histref/bible,character/father_brown"></span>
 
 
 Eckstein was a fussy little man with fuzzy hair and pince--
@@ -8145,7 +8145,7 @@ In quella stessa cittadina viveva a quel tempo un altro giovane americano, parti
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_04" data-title="Incredulity — The Resurrection of Father Brown (part 4)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_04" data-title="Incredulity — The Resurrection of Father Brown (part 4)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/moon,motif/night,motif/road,motif/time,motif/window,concept/body,concept/doubt,concept/resurrection,form/riddle,character/father_brown"></span>
 
 
 He found himself insensibly watching that commonplace and even comic
@@ -8298,7 +8298,7 @@ In verità si sarebbero certamente sollevati in rivolta e avrebbero linciato il 
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_05" data-title="Incredulity — The Resurrection of Father Brown (part 5)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_05" data-title="Incredulity — The Resurrection of Father Brown (part 5)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="motif/prayer,motif/silence,motif/well,concept/resurrection,character/father_brown"></span>
 
 
 Behind the veranda a flight of stone steps scaled a very
@@ -8460,7 +8460,7 @@ Poi d'un tratto parve riprendersi, si slanciò verso i gradini con la sua andatu
 
 
 
-<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_06" data-title="Incredulity — The Resurrection of Father Brown (part 6)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_resurrection_of_father_brown--part_06" data-title="Incredulity — The Resurrection of Father Brown (part 6)" data-chapter="The Resurrection of Father Brown" data-kind="excerpt" data-tags="motif/death,motif/home,motif/sleep,motif/time,motif/well,concept/faith,concept/resurrection,character/father_brown"></span>
 
 
 And he came tumbling down the steps, the people flinging themselves
@@ -8714,7 +8714,7 @@ John Race appariva molto pensieroso. «Mi avete detto molte cose che non sapevo�
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_01" data-title="Incredulity — The Arrow of Heaven (part 1)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_01" data-title="Incredulity — The Arrow of Heaven (part 1)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="archetype/detective,motif/well,concept/fanaticism,histref/america,setting/america,character/father_brown,character/flambeau"></span>
 
 
 TWO:  The Arrow of Heaven
@@ -8852,7 +8852,7 @@ Padre Brown fu trascinato, in uno stato alquanto stordito, verso un'automobile a
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_02" data-title="Incredulity — The Arrow of Heaven (part 2)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_02" data-title="Incredulity — The Arrow of Heaven (part 2)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="archetype/king,motif/dawn,motif/flowers,motif/garden,motif/rose,concept/hope,concept/wonder,character/father_brown"></span>
 
 
 It seemed that Wain had an uncle named Crake who had a
@@ -9005,7 +9005,7 @@ E se ne andò a grandi passi, mentre [[Father Brown|Padre Brown]], con crescente
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_03" data-title="Incredulity — The Arrow of Heaven (part 3)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_03" data-title="Incredulity — The Arrow of Heaven (part 3)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/grave,motif/silence,motif/well,motif/window,concept/hope,concept/solitude,character/father_brown"></span>
 
 
 ‘Not at all,' said Father Brown, quietly.  ‘It is my duty to visit
@@ -9186,7 +9186,7 @@ Il segretario lo guardò con [[Grave|gravi]] occhi grigi. «Per quindici minuti�
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_04" data-title="Incredulity — The Arrow of Heaven (part 4)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_04" data-title="Incredulity — The Arrow of Heaven (part 4)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/silence,motif/well,motif/window,concept/loneliness,concept/truth,character/father_brown"></span>
 
 
 ‘Indeed,' remarked Wilton, ‘and what about me?'
@@ -9321,7 +9321,7 @@ It's nonsense your suggesting a parallel.'
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_05" data-title="Incredulity — The Arrow of Heaven (part 5)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_05" data-title="Incredulity — The Arrow of Heaven (part 5)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/machine,motif/time,motif/well,motif/window,concept/doubt,concept/history,concept/wonder,form/history,character/father_brown"></span>
 
 
 ‘I don't think you've got the moral quite right,' said Father Brown.
@@ -9484,7 +9484,7 @@ Fosse per l'influsso dei passi del poliziotto o per quello degli occhi del prete
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_06" data-title="Incredulity — The Arrow of Heaven (part 6)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_06" data-title="Incredulity — The Arrow of Heaven (part 6)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/death,motif/rose,motif/well,concept/doubt,character/apollo,character/father_brown"></span>
 
 
 ‘My God!' he said, in a low voice;' my God!'
@@ -9658,7 +9658,7 @@ Ogni giornale del mondo era pieno della catastrofe del colosso della finanza, de
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_07" data-title="Incredulity — The Arrow of Heaven (part 7)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_07" data-title="Incredulity — The Arrow of Heaven (part 7)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/silence,motif/well,motif/window,setting/paris,character/father_brown"></span>
 
 
 Peter Wain leaned forward, the eyes bright in his haggard face, and said:
@@ -9858,7 +9858,7 @@ Ora lo guardavano tutti; ma egli proseguì nello stesso tono casuale e distratto
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_08" data-title="Incredulity — The Arrow of Heaven (part 8)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_08" data-title="Incredulity — The Arrow of Heaven (part 8)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="archetype/avenger,motif/blood,motif/machine,motif/silence,motif/time,motif/well,motif/window,character/father_brown"></span>
 
 
 The telephone bell rang with a strident and horrible clamour
@@ -10050,7 +10050,7 @@ Peter Wain balzò in piedi per l'eccitazione.
 
 
 
-<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_09" data-title="Incredulity — The Arrow of Heaven (part 9)" data-chapter="The Arrow of Heaven" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_arrow_of_heaven--part_09" data-title="Incredulity — The Arrow of Heaven (part 9)" data-chapter="The Arrow of Heaven" data-kind="excerpt" data-tags="motif/silence,motif/well,motif/window,character/father_brown"></span>
 
 
 ‘Oh, I've no patience with all this sentimental whitewashing
@@ -10214,7 +10214,7 @@ Si incamminò lentamente verso la stanza interna e vi rimase in piedi accanto al
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_01" data-title="Incredulity — The Oracle of the Dog (part 1)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_01" data-title="Incredulity — The Oracle of the Dog (part 1)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="motif/summer,character/father_brown"></span>
 
 
 THREE:  The Oracle of the Dog
@@ -10367,7 +10367,7 @@ Traill, l'avvocato, dice di aver lasciato il colonnello del tutto solo nel padig
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_02" data-title="Incredulity — The Oracle of the Dog (part 2)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_02" data-title="Incredulity — The Oracle of the Dog (part 2)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="archetype/shadow,motif/flowers,motif/home,motif/horse,motif/silence,motif/time,motif/well,form/tragedy,character/father_brown,character/valentine"></span>
 
 
 ‘So Colonel Druce wore a white coat, did he?' said [[Father Brown]]
@@ -10510,7 +10510,7 @@ Padre Brown sospirò e poi disse distrattamente: «Lei era lì come amico del gi
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_03" data-title="Incredulity — The Oracle of the Dog (part 3)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_03" data-title="Incredulity — The Oracle of the Dog (part 3)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/blood,motif/garden,motif/home,motif/horse,motif/silence,motif/soul,motif/time,motif/well,concept/body,character/father_brown,character/valentine"></span>
 
 
 ‘You went back, I suppose,' said [[Father Brown]] patiently.
@@ -10660,7 +10660,7 @@ Vi fu un breve [[Silence|silenzio]], e poi [[Father Brown|Padre Brown]] disse d'
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_04" data-title="Incredulity — The Oracle of the Dog (part 4)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_04" data-title="Incredulity — The Oracle of the Dog (part 4)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/home,motif/well,concept/doubt,form/tragedy,character/father_brown,character/valentine"></span>
 
 
 ‘He fold us the Colonel sent for him to alter his will,'
@@ -10821,7 +10821,7 @@ Padre Brown scosse il capo. «Tutti questi suggerimenti per ora sono fantasie»,
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_05" data-title="Incredulity — The Oracle of the Dog (part 5)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_05" data-title="Incredulity — The Oracle of the Dog (part 5)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="motif/garden,motif/moon,motif/time,motif/well,motif/wind,concept/fanaticism,concept/hope,character/father_brown"></span>
 
 
 He was staring reflectively at the ceiling as he spoke,
@@ -11004,7 +11004,7 @@ Padre Brown aveva alzato il capo e ascoltava intento.
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_06" data-title="Incredulity — The Oracle of the Dog (part 6)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_06" data-title="Incredulity — The Oracle of the Dog (part 6)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/garden,motif/summer,motif/well,concept/hope,concept/pride,concept/sublime,concept/truth,concept/wonder,histref/crusades,character/father_brown,character/valentine"></span>
 
 
 ‘‘I [[Hope|hope]] it'll stop that red--haired [[Fool|fool]] from fussing any more
@@ -11176,7 +11176,7 @@ S'interruppe imbarazzato per un momento, e poi disse, con un'aria di scusa piutt
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_07" data-title="Incredulity — The Oracle of the Dog (part 7)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_07" data-title="Incredulity — The Oracle of the Dog (part 7)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/summer,motif/water,concept/temptation,character/father_brown"></span>
 
 
 ‘But when we come to that business by the seashore, things are much
@@ -11333,7 +11333,7 @@ Il volto di Padre Brown si animò. «Lei fraintende il carattere dell'uomo», di
 
 
 
-<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_08" data-title="Incredulity — The Oracle of the Dog (part 8)" data-chapter="The Oracle of the Dog" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_oracle_of_the_dog--part_08" data-title="Incredulity — The Oracle of the Dog (part 8)" data-chapter="The Oracle of the Dog" data-kind="excerpt" data-tags="motif/blood,motif/soul,motif/swallow,motif/time,concept/fear,character/father_brown"></span>
 
 
 He paused a moment, and then went on with a certain quiet emphasis.
@@ -11417,7 +11417,7 @@ Il giovane si alzò con un lieve imbarazzo, quasi avesse origliato un soliloquio
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_01" data-title="Incredulity — The Miracle of Moon Crescent (part 1)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_01" data-title="Incredulity — The Miracle of Moon Crescent (part 1)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/city,motif/garden,motif/moon,motif/well,concept/survival,histref/america,setting/america,character/queen"></span>
 
 
 FOUR:  The Miracle of [[Moon]] Crescent
@@ -11644,7 +11644,7 @@ dopo di che avrò bisogno di te.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_02" data-title="Incredulity — The Miracle of Moon Crescent (part 2)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_02" data-title="Incredulity — The Miracle of Moon Crescent (part 2)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/home,motif/leaves,motif/moon,motif/supernatural,motif/wind"></span>
 
 
 The three men went out into the hallway together, closing the door
@@ -11882,7 +11882,7 @@ Voglio soltanto vedere se è là, da poter esser visto.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_03" data-title="Incredulity — The Miracle of Moon Crescent (part 3)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_03" data-title="Incredulity — The Miracle of Moon Crescent (part 3)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/home,motif/moon,motif/nature,motif/river,motif/well,concept/body,concept/nature,concept/suffering,character/father_brown,character/pistol"></span>
 
 
 ‘[[Well]], I tell you he's there and can't be seen,' said Fenner,
@@ -12039,7 +12039,7 @@ Penner, il segretario, rise. «Posso risolvervi in un attimo questa difficoltà.
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_04" data-title="Incredulity — The Miracle of Moon Crescent (part 4)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_04" data-title="Incredulity — The Miracle of Moon Crescent (part 4)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/memory,motif/moon,motif/rose,motif/well,motif/wind,motif/window,concept/truth,character/father_brown,character/pistol"></span>
 
 
 ‘But men can open a door, even in an American hotel,'
@@ -12299,7 +12299,7 @@ di vero, dopotutto!»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_05" data-title="Incredulity — The Miracle of Moon Crescent (part 5)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_05" data-title="Incredulity — The Miracle of Moon Crescent (part 5)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/garden,motif/moon,motif/time,motif/well,concept/body,concept/suicide,character/father_brown"></span>
 
 
 ‘I must confess,' said Fenner, frowning at the table, ‘that his
@@ -12482,7 +12482,7 @@ Padre Brown era già andato ad occuparsi delle sue faccende quotidiane; ma Silas
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_06" data-title="Incredulity — The Miracle of Moon Crescent (part 6)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_06" data-title="Incredulity — The Miracle of Moon Crescent (part 6)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/moon,motif/supernatural,character/mr_collins"></span>
 
 
 ‘Quite so,' said Fenner; ‘but as out evidence is that nobody let him out,
@@ -12642,7 +12642,7 @@ Il professor Vair era un gentiluomo cortese, vestito con sobrietà di grigio pal
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_07" data-title="Incredulity — The Miracle of Moon Crescent (part 7)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_07" data-title="Incredulity — The Miracle of Moon Crescent (part 7)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/moon,motif/prayer,concept/suicide,character/father_brown,character/pistol"></span>
 
 
 ‘Professor,' cried Fenner, ‘I'd swear on my deathbed that
@@ -12793,7 +12793,7 @@ Pochi giorni dopo [[Father Brown]] ricevette un biglietto assai cortese firmato 
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_08" data-title="Incredulity — The Miracle of Moon Crescent (part 8)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_08" data-title="Incredulity — The Miracle of Moon Crescent (part 8)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/grave,motif/moon,motif/rose,motif/well,motif/window,concept/wonder,character/father_brown,character/pistol"></span>
 
 
 ‘No, really,' said Father Brown, in embarrassment.
@@ -13049,7 +13049,7 @@ riuscite tutti a indovinare chi fossero.»
 
 
 
-<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_09" data-title="Incredulity — The Miracle of Moon Crescent (part 9)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_miracle_of_moon_crescent--part_09" data-title="Incredulity — The Miracle of Moon Crescent (part 9)" data-chapter="The Miracle of Moon Crescent" data-kind="excerpt" data-tags="motif/moon,motif/supernatural,motif/window,concept/friendship,character/father_brown"></span>
 
 
 They were all three staring at the plain, square [[Window|window]] and the blank,
@@ -13138,7 +13138,7 @@ Lo fissarono tutti, ma egli proseguì, quasi come se non fossero presenti.
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_01" data-title="Incredulity — The Curse of the Golden Cross (part 1)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_01" data-title="Incredulity — The Curse of the Golden Cross (part 1)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="motif/time,setting/italy"></span>
 
 
 FIVE:  The Curse of the Golden Cross
@@ -13284,7 +13284,7 @@ I due viaggiatori seguenti venivano naturalmente accomunati; e ciò per il solo 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_02" data-title="Incredulity — The Curse of the Golden Cross (part 2)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_02" data-title="Incredulity — The Curse of the Golden Cross (part 2)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="motif/cross,motif/lion,motif/silence,motif/time,concept/body,character/father_brown"></span>
 
 
 There was an abrupt accidental [[Silence|silence]]; and then the lady said,
@@ -13435,7 +13435,7 @@ Tornò a fare una pausa, tracciando piante come disegni architettonici col dito 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_03" data-title="Incredulity — The Curse of the Golden Cross (part 3)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_03" data-title="Incredulity — The Curse of the Golden Cross (part 3)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/cross,motif/death,motif/silence,motif/time,motif/well,concept/body,form/melodrama"></span>
 
 
 ‘Something about it made it seem as if it might be a fossil fish
@@ -13575,7 +13575,7 @@ Padre Brown parve di nuovo imbarazzato; poi sorrise e disse: «[[Well|Ebbene]], 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_04" data-title="Incredulity — The Curse of the Golden Cross (part 4)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_04" data-title="Incredulity — The Curse of the Golden Cross (part 4)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="archetype/shadow,motif/grave,motif/road,concept/grotesque,concept/melancholy,character/diana,character/father_brown,character/hamlet"></span>
 
 
 ‘There is one chance of finding out, I think,' remarked the Professor
@@ -13728,7 +13728,7 @@ Sentì [[Father Brown|Padre Brown]] ridere sommessamente al suo fianco; e in ver
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_05" data-title="Incredulity — The Curse of the Golden Cross (part 5)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_05" data-title="Incredulity — The Curse of the Golden Cross (part 5)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/time,concept/fear,concept/hope,form/inscription,character/diana"></span>
 
 
 ‘I do not know all about it,' said [[The Professor|the Professor]] gravely, not to
@@ -13861,7 +13861,7 @@ Sbucarono in una camera circolare, simile a una basilica, entro un anello di arc
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_06" data-title="Incredulity — The Curse of the Golden Cross (part 6)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_06" data-title="Incredulity — The Curse of the Golden Cross (part 6)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/fire,motif/silence,motif/time,motif/well,concept/wonder,character/diana,character/father_brown"></span>
 
 
 Whether out of the sense of fitness or from the lack of more
@@ -14022,7 +14022,7 @@ Mentre parlavano, Tarrant aveva sollevato la fragile figura dell'uomo caduto con
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_07" data-title="Incredulity — The Curse of the Golden Cross (part 7)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_07" data-title="Incredulity — The Curse of the Golden Cross (part 7)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,motif/cross,motif/supernatural,concept/body,concept/doubt,concept/fear,concept/history,concept/suicide,concept/truth,form/history,setting/london,character/father_brown,character/queen"></span>
 
 
 As he stood in unusual perplexity in the middle of the
@@ -14214,7 +14214,7 @@ Padre Brown scosse il capo e rispose con tranquilla enfasi: «Non discuterò se 
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_08" data-title="Incredulity — The Curse of the Golden Cross (part 8)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_08" data-title="Incredulity — The Curse of the Golden Cross (part 8)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="archetype/king,motif/moon,motif/silence,concept/body,concept/history,concept/hope,concept/truth,form/history,character/diana,character/father_brown,character/queen"></span>
 
 
 Lady [[Diana]] had recovered a little from her trance of Cassandra,
@@ -14492,7 +14492,7 @@ mazza di pietra.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_09" data-title="Incredulity — The Curse of the Golden Cross (part 9)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_curse_of_the_golden_cross--part_09" data-title="Incredulity — The Curse of the Golden Cross (part 9)" data-chapter="The Curse of the Golden Cross" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/fire,motif/memory,character/christ,character/diana,character/father_brown"></span>
 
 
 ‘By George!' said Tarrant; ‘I'm beginning to think there's something
@@ -14663,7 +14663,7 @@ Non fu tuttavia su questo punto che [[Father Brown|padre Brown]] si trovò a con
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_01" data-title="Incredulity — The Dagger with Wings (part 1)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_01" data-title="Incredulity — The Dagger with Wings (part 1)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="motif/hill,motif/silence,motif/well,character/father_brown"></span>
 
 
 SIX:  The Dagger with Wings
@@ -14908,7 +14908,7 @@ da guardia armata.»
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_02" data-title="Incredulity — The Dagger with Wings (part 2)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_02" data-title="Incredulity — The Dagger with Wings (part 2)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="archetype/shadow,motif/frost,motif/garden,motif/leaves,motif/snow,motif/water,motif/well,motif/wind,motif/window,motif/winter,form/comedy,form/tragedy,character/father_brown"></span>
 
 
 ‘And so,' said the priest with a smile, ‘he wants a policeman
@@ -15045,7 +15045,7 @@ La porta si aprì e ne uscì un gentiluomo in vestaglia verde pavone, con aria i
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_03" data-title="Incredulity — The Dagger with Wings (part 3)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_03" data-title="Incredulity — The Dagger with Wings (part 3)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/silence,form/sketch,character/father_brown"></span>
 
 
 ‘I am Mr Aylmer,' he said, ‘but I've got out of the way
@@ -15234,7 +15234,7 @@ Ora si era abbandonato all'indietro sulla sedia, con le lunghe gambe protese fuo
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_04" data-title="Incredulity — The Dagger with Wings (part 4)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_04" data-title="Incredulity — The Dagger with Wings (part 4)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/death,motif/fire,motif/garden,motif/snow,motif/uncanny,concept/suicide,concept/uncanny,character/father_brown,character/pistol"></span>
 
 
 Father Brown tossed the paper on the floor and sat bolt upright
@@ -15398,7 +15398,7 @@ Aylmer si sollevò a metà dalla poltrona con l'entusiasmo di un fervido assenso
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_05" data-title="Incredulity — The Dagger with Wings (part 5)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_05" data-title="Incredulity — The Dagger with Wings (part 5)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="motif/blood,motif/silence,motif/snow,motif/time,motif/wheel,motif/wind,concept/body,character/father_brown,character/pistol"></span>
 
 
 Then he raised himself and stood looking at the priest with a
@@ -15565,7 +15565,7 @@ Dentro l'appartamento centrale, tra la palma e la boccia dei pesci, Aylmer si la
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_06" data-title="Incredulity — The Dagger with Wings (part 6)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_06" data-title="Incredulity — The Dagger with Wings (part 6)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="archetype/detective,motif/rose,motif/snow,motif/time,motif/well,motif/window,concept/doubt,concept/identity,form/tragedy,character/father_brown,character/pistol"></span>
 
 
 ‘I see you are still doubtful,' he said, ‘though you have seen the thing
@@ -15746,7 +15746,7 @@ Quella sera [[Father Brown|Padre Brown]] ebbe un'altra e più lunga conversazion
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_07" data-title="Incredulity — The Dagger with Wings (part 7)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_07" data-title="Incredulity — The Dagger with Wings (part 7)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="topos/dance_of_death,motif/death,motif/snow,motif/soul,motif/well,concept/body,concept/identity,concept/wonder,character/father_brown,character/speed"></span>
 
 
 ‘Poor Arnold Aylmer doubtless slept and perhaps lived upstairs, and came
@@ -15854,7 +15854,7 @@ I [[Wonder|wonder]] when you suspected and when you were sure.'
 
 
 
-<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_08" data-title="Incredulity — The Dagger with Wings (part 8)" data-chapter="The Dagger with Wings" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_dagger_with_wings--part_08" data-title="Incredulity — The Dagger with Wings (part 8)" data-chapter="The Dagger with Wings" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/dust,motif/garden,motif/jewel,motif/pain,motif/snow,motif/soul,motif/time,motif/well,motif/wheel,concept/doubt,concept/fear,concept/purification,concept/truth,form/parody,histref/christianity"></span>
 
 
 ‘I think I really suspected when I telephoned to you,'
@@ -16070,7 +16070,7 @@ purché sappia dove cercarla.»
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_01" data-title="Incredulity — The Doom of the Darnaways (part 1)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_01" data-title="Incredulity — The Doom of the Darnaways (part 1)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="archetype/artist,motif/cave,motif/ghosts,motif/silence,motif/soul,motif/water,motif/well,concept/paradox,concept/truth,concept/wonder,setting/london"></span>
 
 
 SEVEN:  The Doom of the Darnaways
@@ -16239,7 +16239,7 @@ Man mano che si avvicinavano alla [[house|casa]], la si vide isolata come un'iso
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_02" data-title="Incredulity — The Doom of the Darnaways (part 2)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_02" data-title="Incredulity — The Doom of the Darnaways (part 2)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/death,motif/memory,motif/mirror,motif/well,motif/window,concept/beauty,concept/melancholy,setting/castle"></span>
 
 
 When the brisk doctor led them inside without ceremony,
@@ -16374,7 +16374,7 @@ Era un ritratto nella maniera dura ma sincera e viva del periodo, che raffigurav
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_03" data-title="Incredulity — The Doom of the Darnaways (part 3)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_03" data-title="Incredulity — The Doom of the Darnaways (part 3)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="character/henry_viii"></span>
 
 
 ‘I believe in the devil, thank you,' said the priest with
@@ -16566,7 +16566,7 @@ Egli sentiva evidentemente che c'era qualcosa di curioso e di sgradevole nella s
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_04" data-title="Incredulity — The Doom of the Darnaways (part 4)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_04" data-title="Incredulity — The Doom of the Darnaways (part 4)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="archetype/monster,motif/dreams,motif/night,motif/silence,motif/sleep,motif/well,form/novel"></span>
 
 
 Payne was surprised, when taking his leave a little while after,
@@ -16746,7 +16746,7 @@ Un mattino, all'improvviso, il nuovo erede ruppe il suo lungo e sconcertante [[S
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_05" data-title="Incredulity — The Doom of the Darnaways (part 5)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_05" data-title="Incredulity — The Doom of the Darnaways (part 5)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="motif/rose,motif/soul,motif/time,concept/courage"></span>
 
 
 The five men, including the doctor, were sitting round a table;
@@ -16915,7 +16915,7 @@ Darnaway si era alzato all'alba il giorno in cui intendeva fotografare il mister
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_06" data-title="Incredulity — The Doom of the Darnaways (part 6)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_06" data-title="Incredulity — The Doom of the Darnaways (part 6)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="motif/time,motif/well,character/father_brown"></span>
 
 
 Perhaps this was why he preferred to do it by himself,
@@ -17090,7 +17090,7 @@ Mentre tutti i visitatori, il dottore, il sacerdote e i due artisti si allontana
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_07" data-title="Incredulity — The Doom of the Darnaways (part 7)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_07" data-title="Incredulity — The Doom of the Darnaways (part 7)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="motif/memory,motif/well,concept/beauty,concept/suicide"></span>
 
 
 ‘I'm afraid everybody will always believe in the Darnaway
@@ -17273,7 +17273,7 @@ Ella non capì una sola parola di ciò che diceva, ma qualcosa la spinse ad alza
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_08" data-title="Incredulity — The Doom of the Darnaways (part 8)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_08" data-title="Incredulity — The Doom of the Darnaways (part 8)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/death,motif/time,motif/well,motif/wind,concept/truth,form/tragedy,setting/london,character/father_brown"></span>
 
 
 She suddenly smiled.  ‘Yes, I believe I understand.
@@ -17543,7 +17543,7 @@ a causare la [[Death|morte]] di un altro uomo per derubarlo della sposa promessa
 
 
 
-<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_09" data-title="Incredulity — The Doom of the Darnaways (part 9)" data-chapter="The Doom of the Darnaways" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_doom_of_the_darnaways--part_09" data-title="Incredulity — The Doom of the Darnaways (part 9)" data-chapter="The Doom of the Darnaways" data-kind="excerpt" data-tags="form/riddle"></span>
 
 
 The priest suddenly gave Payne a sad smile, as if in reassurance.
@@ -17632,7 +17632,7 @@ Il sacerdote rivolse a un tratto a Payne un sorriso mesto, quasi a rassicurarlo.
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_01" data-title="Incredulity — The Ghost of Gideon Wise (part 1)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_01" data-title="Incredulity — The Ghost of Gideon Wise (part 1)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="motif/home,motif/well,concept/democracy,character/sunday"></span>
 
 
 EIGHT:  The Ghost of Gideon Wise
@@ -17805,7 +17805,7 @@ Il luogo d'incontro dei rivoluzionari era uno strano ambiente spoglio e imbianca
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_02" data-title="Incredulity — The Ghost of Gideon Wise (part 2)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_02" data-title="Incredulity — The Ghost of Gideon Wise (part 2)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/marriage,motif/road,motif/uncanny,motif/well,concept/fear,concept/self,concept/truth,concept/uncanny,form/riddle,histref/christianity"></span>
 
 
 The third man also had a curious taste in drinks, and his drink was
@@ -17972,7 +17972,7 @@ Mentre parlava, il segretario ascoltava con un volto che aveva una certa immobil
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_03" data-title="Incredulity — The Ghost of Gideon Wise (part 3)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_03" data-title="Incredulity — The Ghost of Gideon Wise (part 3)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/garden,motif/great_house,motif/home,motif/night,motif/prison,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/truth,form/tragedy,histref/inquisition,character/father_brown"></span>
 
 
 ‘What has that--oh yes, that sort of thunderbolt; so sorry, my mistake.
@@ -18107,7 +18107,7 @@ Jake Halket, come al solito, parlava più di tutti; e da un uomo del suo stampo 
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_04" data-title="Incredulity — The Ghost of Gideon Wise (part 4)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_04" data-title="Incredulity — The Ghost of Gideon Wise (part 4)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/cross,motif/home,motif/lightning,motif/night,motif/rose,motif/time,motif/well,concept/wonder,character/father_brown,character/julius_caesar"></span>
 
 
 Nares was silent; and nobody spoke until Elias interposed with his clear
@@ -18308,7 +18308,7 @@ Sul tavolo c'erano gli avanzi dei rinfreschi serali, ed Henry Home, quel proibiz
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_05" data-title="Incredulity — The Ghost of Gideon Wise (part 5)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_05" data-title="Incredulity — The Ghost of Gideon Wise (part 5)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="archetype/detective,motif/home,motif/night,motif/silence,motif/time,motif/well,character/father_brown"></span>
 
 
 ‘And it was Gideon Wise, you say?'
@@ -18506,7 +18506,7 @@ Byrne parve alquanto vergognarsi di sé, e lanciò quasi di soppiatto un'occhiat
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_06" data-title="Incredulity — The Ghost of Gideon Wise (part 6)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_06" data-title="Incredulity — The Ghost of Gideon Wise (part 6)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,motif/death,motif/home,motif/well,concept/eternity,character/father_brown"></span>
 
 
 ‘I have confessed,' they heard him crying.  ‘Why have you come
@@ -18689,7 +18689,7 @@ Padre Brown girò su se stesso come una trottola e afferrò l'amico per la giacc
 
 
 
-<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_07" data-title="Incredulity — The Ghost of Gideon Wise (part 7)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_ghost_of_gideon_wise--part_07" data-title="Incredulity — The Ghost of Gideon Wise (part 7)" data-chapter="The Ghost of Gideon Wise" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/silence,motif/time,concept/history,form/history,character/father_brown"></span>
 
 
 ‘And a very lucid explanation too,' said the journalist with feeling.

@@ -287,7 +287,7 @@ And the [[Fire|fire]] and the [[Rose|rose]] are one.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="Little Gidding — I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="Little Gidding — I" data-chapter="part i" data-kind="section" data-tags="archetype/king,motif/city,motif/desert,motif/fire,motif/frost,motif/journey,motif/mirror,motif/night,motif/prayer,motif/road,motif/snow,motif/soul,motif/spring,motif/summer,motif/time,motif/wind,setting/desert"></span>
 
 
 I  
@@ -350,7 +350,7 @@ Is England and nowhere. Never and always.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="Little Gidding — II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="Little Gidding — II" data-chapter="part II" data-kind="section" data-tags="topos/double,archetype/ghost,archetype/shadow,motif/crown,motif/dawn,motif/death,motif/dust,motif/fire,motif/leaves,motif/night,motif/pain,motif/soul,motif/time,motif/water,motif/wind,concept/body,concept/despair,concept/honour,concept/hope,concept/vanity,concept/wonder"></span>
 
 
 II  
@@ -456,7 +456,7 @@ The day was breaking. In the disfigured street
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="Little Gidding — III" data-chapter="part III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="Little Gidding — III" data-chapter="part III" data-kind="section" data-tags="archetype/king,motif/death,motif/desire,motif/love,motif/memory,motif/rose,motif/silence,motif/well,concept/freedom,concept/history,concept/purification,concept/self,form/history"></span>
 
 
 III  
@@ -514,7 +514,7 @@ In the ground of our beseeching.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="Little Gidding — IV" data-chapter="part IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="Little Gidding — IV" data-chapter="part IV" data-kind="section" data-tags="motif/fire,motif/love,concept/despair,concept/hope"></span>
 
 
 IV  
@@ -536,7 +536,7 @@ Which human power cannot remove.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="Little Gidding — V" data-chapter="part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="Little Gidding — V" data-chapter="part v" data-kind="section" data-tags="motif/fire,motif/home,motif/love,motif/river,motif/rose,motif/time,motif/well,motif/winter,concept/history,form/history"></span>
 
 
 V  

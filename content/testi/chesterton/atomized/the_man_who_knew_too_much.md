@@ -9804,7 +9804,7 @@ who knew too much knew what is worth knowing.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_01" data-title="The Man Who Knew Too Much — The Face in the Target (part 1)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_01" data-title="The Man Who Knew Too Much — The Face in the Target (part 1)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="motif/dreams,motif/river,motif/stars,motif/water,motif/wind,concept/beauty,concept/fear,concept/friendship"></span>
 
 
 I - The Face in the Target
@@ -10172,7 +10172,7 @@ Si fermò, e prima che giungesse la parola successiva qualcosa era accaduto
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_02" data-title="The Man Who Knew Too Much — The Face in the Target (part 2)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_02" data-title="The Man Who Knew Too Much — The Face in the Target (part 2)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/machine,motif/ship,motif/time,motif/well,motif/wheel,concept/body,concept/history,concept/suicide,form/epic,form/history,setting/ship"></span>
 
 
 almost too quickly and completely to be realized. From behind the
@@ -10528,7 +10528,7 @@ potesse svanire.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_03" data-title="The Man Who Knew Too Much — The Face in the Target (part 3)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_03" data-title="The Man Who Knew Too Much — The Face in the Target (part 3)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="archetype/shadow,motif/lion,motif/moon,motif/noon,motif/road,motif/time,motif/well,concept/wonder"></span>
 
 
 the social reformer? I mean the man who's fighting for the new
@@ -10888,7 +10888,7 @@ occhi neri e inquieti. Per quanto taciturno, l'investigatore riuscì
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_04" data-title="The Man Who Knew Too Much — The Face in the Target (part 4)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_04" data-title="The Man Who Knew Too Much — The Face in the Target (part 4)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="motif/road,motif/secrets,motif/silence,motif/time,motif/well,motif/window,concept/body,concept/suicide,character/ancient_mariner"></span>
 
 
 at last in extracting a scrap of information from him, by dint of
@@ -11244,7 +11244,7 @@ dietro di lui con la stessa oziosa perseveranza, e lo trovò che fissava
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_05" data-title="The Man Who Knew Too Much — The Face in the Target (part 5)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_05" data-title="The Man Who Knew Too Much — The Face in the Target (part 5)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/birds,motif/garden,motif/ghosts,motif/great_house,motif/lion,motif/night,motif/rose,motif/well,motif/wind,motif/window,form/satire"></span>
 
 
 through a gap in giant weeds and thorns at the flat face of a
@@ -11596,7 +11596,7 @@ Mr. Halkett e anche (per inciso) al suo ospite, Mr.
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_06" data-title="The Man Who Knew Too Much — The Face in the Target (part 6)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_06" data-title="The Man Who Knew Too Much — The Face in the Target (part 6)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/garden,motif/great_house,motif/stars,motif/time,motif/well,concept/grotesque"></span>
 
 
 Jenkins, a commonplace little man in loud tweeds, whom everybody
@@ -11960,7 +11960,7 @@ racconto di mio cugino sulla sua pessima mira. Aveva staccato con un colpo una c
 
 
 
-<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_07" data-title="The Man Who Knew Too Much — The Face in the Target (part 7)" data-chapter="The Face in the Target" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_face_in_the_target--part_07" data-title="The Man Who Knew Too Much — The Face in the Target (part 7)" data-chapter="The Face in the Target" data-kind="excerpt" data-tags="archetype/innocent,archetype/villain,motif/garden,motif/moon,motif/river,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/courage,concept/truth"></span>
 
 
 and a weathercock off a building. Now, in fact, a man must shoot
@@ -12352,7 +12352,7 @@ e poi aggiunse:
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_01" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 1)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_01" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 1)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/shadow,motif/dust,motif/garden,motif/hill,motif/nature,motif/river,motif/road,motif/soul,motif/summer,motif/uncanny,motif/water,motif/well,motif/wind,concept/beauty,concept/doubt,concept/fear,concept/freedom,concept/nature,concept/uncanny,character/michael"></span>
 
 
 II - The Vanishing Prince
@@ -12702,7 +12702,7 @@ momento in cui gli inseguitori misero piede sul balcone, esso cedette sotto di l
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_02" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 2)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_02" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 2)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/detective,archetype/rebel,motif/grave,motif/journey,motif/night,motif/road,motif/silence,motif/well,motif/window,concept/hope,concept/melancholy,concept/truth,setting/castle,character/michael"></span>
 
 
 and they dropped pell-mell into the eddying waters, while [[Michael]],
@@ -13046,7 +13046,7 @@ primitivi capiclan irlandesi che caddero combattendo contro il mare.
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_03" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 3)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_03" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 3)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/blood,motif/dawn,motif/grave,motif/love,motif/moon,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/hope,setting/london,setting/venice,character/michael"></span>
 
 
 Walter Carey. "I suppose they were your witnesses. But why do they
@@ -13388,7 +13388,7 @@ Qualcosa nella sua semplice e primitiva forma suggeriva vagamente l'
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_04" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 4)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_04" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 4)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/fire,motif/silence,motif/time,motif/window,concept/doubt,form/tragedy,character/pistol"></span>
 
 
 even the colors were hardly created, when there was only blank
@@ -13740,7 +13740,7 @@ a un grande scaffale. Vi si accedeva solo con una scala, e pareva
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_05" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 5)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_05" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 5)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/detective,motif/dust,motif/silence,motif/time,motif/well,motif/window,concept/education,concept/faith,setting/london"></span>
 
 
 to be as bare as the bare walls. Wilson completed his survey of the
@@ -14092,7 +14092,7 @@ intendete?», gridò. «Come diavolo potete vedere un uomo?»
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_06" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 6)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_06" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 6)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/detective,archetype/king,archetype/shadow,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/identity,concept/truth,concept/wonder,character/michael"></span>
 
 
 "I see him coming across the moor. He's making a bee line across the
@@ -14450,7 +14450,7 @@ acrobata e strappò il revolver dalla mano dell'[[Detective|investigatore]].
 
 
 
-<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_07" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 7)" data-chapter="The Vanishing Prince" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_vanishing_prince--part_07" data-title="The Man Who Knew Too Much — The Vanishing Prince (part 7)" data-chapter="The Vanishing Prince" data-kind="excerpt" data-tags="archetype/detective,archetype/hero,archetype/innocent,archetype/king,motif/blood,motif/dawn,motif/fire,motif/soul,motif/time,motif/well,concept/ambition,concept/body,concept/despair,concept/revenge,concept/truth,concept/vanity,concept/wonder,form/tragedy,setting/castle,character/michael,character/pistol"></span>
 
 
 of Irish [[Tragedy|tragedy]]—you who come to kill me, wading through the [[Blood|blood]]
@@ -14842,7 +14842,7 @@ che egli sapesse troppo.
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_01" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_01" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/crown,motif/journey,motif/soul,motif/time,motif/well,concept/paradox,concept/resignation,setting/cathedral,setting/court,setting/london,character/cardinal_wolsey"></span>
 
 
 III - The [[Soul]] of the Schoolboy
@@ -15198,7 +15198,7 @@ supponeva appartenesse. Altre cause concorsero a concentrare la vigilanza uffici
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_02" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_02" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/grave,motif/horse,motif/leaves,motif/night,motif/soul,motif/stars,motif/well,concept/conversion,concept/eternity,concept/fear,concept/truth,setting/oxford,character/monks"></span>
 
 
 vigilance upon it; there had been a scare about spies carrying
@@ -15556,7 +15556,7 @@ Sfortunatamente a questo punto Summers Minor, la cui attenzione si era alquanto
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_03" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_03" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/innocent,motif/flowers,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/truth"></span>
 
 
 strayed from the religious wars of the ninth century, caught sight
@@ -15908,7 +15908,7 @@ zio; sto bene. Ci vediamo all'albergo più tardi», e poi la
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_04" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_04" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 4)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/memory,motif/night,motif/silence,motif/soul,motif/window"></span>
 
 
 signature.
@@ -16268,7 +16268,7 @@ senso volgare. La polizia pare sempre pensare che l'argento sia rubato
 
 
 
-<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_05" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_soul_of_the_schoolboy--part_05" data-title="The Man Who Knew Too Much — The Soul of the Schoolboy (part 5)" data-chapter="The Soul of the Schoolboy" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/night,motif/ship,motif/silence,motif/soul,motif/time,motif/well,concept/hope,concept/madness,concept/temptation,concept/truth,setting/ship"></span>
 
 
 for the sake of silver, but a thing like that might [[Well|well]] be stolen
@@ -16640,7 +16640,7 @@ quel [[Ship|vascello]] fatato.
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_01" data-title="The Man Who Knew Too Much — The Bottomless Well (part 1)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_01" data-title="The Man Who Knew Too Much — The Bottomless Well (part 1)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="motif/time,motif/well,concept/exile,concept/paradox,setting/battlefield,character/hastings"></span>
 
 
 IV - The Bottomless [[Well]]
@@ -17002,7 +17002,7 @@ piuttosto rigido.
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_02" data-title="The Man Who Knew Too Much — The Bottomless Well (part 2)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_02" data-title="The Man Who Knew Too Much — The Bottomless Well (part 2)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="motif/crown,motif/soul,motif/stars,motif/water,motif/well,concept/doubt,concept/wonder,form/fable,character/bottom,character/hastings,character/queen"></span>
 
 
 point of view. Lord [[Hastings]] himself is an Arab legend. That is
@@ -17362,7 +17362,7 @@ dal solco dell'ideale più marcio."
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_03" data-title="The Man Who Knew Too Much — The Bottomless Well (part 3)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_03" data-title="The Man Who Knew Too Much — The Bottomless Well (part 3)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/desert,motif/garden,motif/leaves,motif/moon,motif/night,motif/silence,motif/well,concept/hope,concept/truth,setting/desert,character/hastings"></span>
 
 
 direction," answered Fisher; "a pretty endless sort of direction, a
@@ -17702,7 +17702,7 @@ davanti al [[Well|pozzo]] senza fondo, e a pochi metri da esso, in una
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_04" data-title="The Man Who Knew Too Much — The Bottomless Well (part 4)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_04" data-title="The Man Who Knew Too Much — The Bottomless Well (part 4)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/desert,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/body,concept/despair,setting/desert,character/hastings"></span>
 
 
 moonlight almost as broad as daylight, they saw what they had come
@@ -18056,7 +18056,7 @@ la parte della donna nella storia. Ma come fate a sapere del
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_05" data-title="The Man Who Knew Too Much — The Bottomless Well (part 5)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_05" data-title="The Man Who Knew Too Much — The Bottomless Well (part 5)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/death,motif/poison,motif/silence,motif/stars,motif/well,motif/wheel,motif/window,concept/body,character/hastings"></span>
 
 
 letter?"
@@ -18394,7 +18394,7 @@ come quello ci rovinerebbe qui. Ne avevate qualche sospetto al
 
 
 
-<span class="atom-split" data-atom="story_04_the_bottomless_well--part_06" data-title="The Man Who Knew Too Much — The Bottomless Well (part 6)" data-chapter="The Bottomless Well" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_bottomless_well--part_06" data-title="The Man Who Knew Too Much — The Bottomless Well (part 6)" data-chapter="The Bottomless Well" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/blood,motif/silence,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/jealousy,concept/truth,concept/union,character/hastings"></span>
 
 
 start?"
@@ -18722,7 +18722,7 @@ s'allontanò a passo lento verso il [[Well|pozzo]] senza fondo.
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_01" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 1)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_01" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 1)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="motif/dawn,motif/dreams,motif/journey,motif/memory,motif/night,motif/river,motif/time,motif/water,concept/grotesque"></span>
 
 
 V - The Fad of the Fisherman
@@ -19090,7 +19090,7 @@ una delle dimore minori di Sir Isaac Hook, il padrone di molta
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_02" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 2)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_02" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 2)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/childhood,motif/dance,motif/garden,motif/ghosts,motif/night,motif/river,motif/road,motif/water,motif/well,concept/history,concept/pride,form/history"></span>
 
 
 shipping and many newspapers. He entered by the gate giving on the
@@ -19432,7 +19432,7 @@ sfondo del ruscello al di là. Il pescatore pareva star seduto
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_03" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 3)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_03" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 3)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="motif/night,motif/river,motif/rose,motif/sleep,motif/time,motif/well,concept/doubt,concept/hope,form/satire,setting/denmark"></span>
 
 
 against the stump of a tree and facing toward the other bank, so
@@ -19780,7 +19780,7 @@ indifferenza, e si servivano la colazione dal
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_04" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 4)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_04" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 4)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/journey,motif/river,motif/silence,motif/time,motif/water,motif/well,concept/doubt,concept/wonder"></span>
 
 
 sideboard at intervals during the hours verging upon lunch. So that
@@ -20140,7 +20140,7 @@ del tutto immobile, e per alcuni secondi parve un manichino da sarto
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_05" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 5)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_05" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 5)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/garden,motif/river,motif/well,concept/body,concept/hope,concept/madness,concept/wonder,setting/denmark,setting/desert"></span>
 
 
 standing and staring outside some antiquated shop. Then March heard
@@ -20490,7 +20490,7 @@ Il duca continuò a fissare, ma pareva incapace di parlare.
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_06" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 6)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_06" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 6)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/memory,motif/river,motif/silence,motif/well,concept/body,concept/fear,concept/hope,concept/truth,concept/wonder"></span>
 
 
 "You see, it's rather a curious situation. If you have a motive for
@@ -20850,7 +20850,7 @@ che fugga.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_07" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 7)" data-chapter="The Fad of the Fisherman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_fad_of_the_fisherman--part_07" data-title="The Man Who Knew Too Much — The Fad of the Fisherman (part 7)" data-chapter="The Fad of the Fisherman" data-kind="excerpt" data-tags="motif/blood,motif/marriage,motif/night,motif/secrets,motif/stars,motif/time,motif/water,motif/well,concept/revenge,concept/self,concept/slavery"></span>
 
 
 be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
@@ -21082,7 +21082,7 @@ lenza e scappare."
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_01" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 1)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_01" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 1)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/great_house,motif/sleep,motif/time,motif/water,motif/well,motif/winter,concept/doubt,concept/fear,concept/history,concept/hope,concept/melancholy,concept/truth,form/history,setting/court,character/juliet"></span>
 
 
 VI - The Hole in the Wall
@@ -21438,7 +21438,7 @@ i salotti suburbani del crepuscolo celtico. Mentre chiunque
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_02" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 2)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_02" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 2)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/night,motif/well,concept/education,concept/history,form/history,setting/italy,setting/london,character/juliet,character/witch"></span>
 
 
 acquainted with the facts knows that 'Hollinwall' simply means 'the
@@ -21796,7 +21796,7 @@ Il vecchio muro che correva attorno al parco manteneva quella cinta stessa ancor
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_03" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 3)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_03" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 3)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/poison,motif/silence,motif/sleep,motif/spring,motif/time,motif/well,concept/doubt,setting/court,character/juliet,character/lincoln,character/monks,character/robin_hood"></span>
 
 
 entirely rural and romantic, and one could easily imagine that the
@@ -22158,7 +22158,7 @@ essere cosciente d'un rumore udibile nel gelato [[Silence|silenzio]] della [[Nig
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_04" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 4)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_04" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 4)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/shadow,motif/dawn,motif/frost,motif/memory,motif/nature,motif/night,motif/secrets,motif/silence,motif/stars,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/fear,concept/nature"></span>
 
 
 was not a particularly loud noise, but it seemed to consist of a
@@ -22504,7 +22504,7 @@ avrebbe detto granché sul momento, benché forse parecchio
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_05" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 5)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_05" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 5)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/pain,motif/silence,motif/well,concept/body,concept/hope,concept/melancholy,form/tragedy,character/bottom,character/juliet"></span>
 
 
 afterward. We should have found him stamping and damning up and down
@@ -22681,7 +22681,7 @@ like a bloodthirsty maniac for no reason in the world. And because
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_06" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 6)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_06" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 6)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="motif/cross,motif/ghosts,motif/silence,motif/well,concept/body,form/allegory,form/tragedy,character/juliet,character/robin_hood"></span>
 
 
 he could have hit my brother and didn't, you deduce that he did.
@@ -23041,7 +23041,7 @@ in qualche modo sapevano inconsciamente che l'intera vicenda aveva preso una nuo
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_07" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 7)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_07" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 7)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/frost,motif/lightning,motif/moon,motif/night,motif/well,motif/wind,motif/window,concept/body,concept/truth,form/riddle"></span>
 
 
 and terrible turn, when they saw the prince stand in the gap of the
@@ -23401,7 +23401,7 @@ la fronte rugosa e il paziente volto di Horne Fisher, ancora vestito da
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_08" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 8)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_08" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 8)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/king,archetype/usurper,motif/swallow,motif/time,motif/water,motif/well,concept/body,concept/madness,concept/pride,concept/solitude,concept/truth,form/tragedy,histref/renaissance,character/bottom,character/robin_hood"></span>
 
 
 a hermit and apparently practicing something of the [[Solitude|solitude]] of a
@@ -23757,7 +23757,7 @@ deliberatamente, con la mannaia da cucina, in quel punto speciale; e io
 
 
 
-<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_09" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 9)" data-chapter="The Hole in the Wall" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_hole_in_the_wall--part_09" data-title="The Man Who Knew Too Much — The Hole in the Wall (part 9)" data-chapter="The Hole in the Wall" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/dance,motif/death,motif/nature,motif/night,motif/rose,motif/water,motif/well,concept/history,concept/nature,concept/truth,form/history,character/monks,character/venus"></span>
 
 
 myself heard the hammering and did not understand it. The place had
@@ -23949,7 +23949,7 @@ restasse sul mio cranio calvo."
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_01" data-title="The Man Who Knew Too Much — The Temple of Silence (part 1)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_01" data-title="The Man Who Knew Too Much — The Temple of Silence (part 1)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/fool,archetype/orphan,motif/great_house,motif/home,motif/love,motif/marriage,motif/nature,motif/silence,motif/well,concept/education,concept/friendship,concept/nature,concept/solitude,form/novel"></span>
 
 
 VII - The Temple of [[Silence]]
@@ -24309,7 +24309,7 @@ lasciando gli altri al loro caffè e ai loro sigari. Questa era stata una figura
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_02" data-title="The Man Who Knew Too Much — The Temple of Silence (part 2)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_02" data-title="The Man Who Knew Too Much — The Temple of Silence (part 2)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/rose,motif/silence,motif/time,motif/well,concept/democracy,concept/hope,concept/reform,character/lincoln"></span>
 
 
 of some interest—a young Cambridge man named Eric Hughes who was
@@ -24655,7 +24655,7 @@ e, naturalmente, ha ragione. Ha sempre ragione».
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_03" data-title="The Man Who Knew Too Much — The Temple of Silence (part 3)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_03" data-title="The Man Who Knew Too Much — The Temple of Silence (part 3)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/dawn,motif/home,motif/silence,motif/well,concept/history,concept/hope,concept/imagination,concept/reform,concept/slavery,form/history,histref/america,setting/america"></span>
 
 
 smile.
@@ -25023,7 +25023,7 @@ il suo inseguitore con uno sguardo fisso.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_04" data-title="The Man Who Knew Too Much — The Temple of Silence (part 4)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_04" data-title="The Man Who Knew Too Much — The Temple of Silence (part 4)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="archetype/tyrant,motif/flag,motif/secrets,motif/silence,motif/time,motif/well,concept/ambition,concept/conscience,concept/doubt,concept/freedom,concept/reform,concept/truth,setting/london"></span>
 
 
 The agent stared still more, but assented civilly, and led the other
@@ -25373,7 +25373,7 @@ una breve frase di ringraziamento e di commiato, e uscì in strada,
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_05" data-title="The Man Who Knew Too Much — The Temple of Silence (part 5)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_05" data-title="The Man Who Knew Too Much — The Temple of Silence (part 5)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/leaves,motif/love,motif/memory,motif/road,motif/silence,motif/water,motif/well,motif/winter,concept/history,concept/hope,form/history,character/bottom,character/venus"></span>
 
 
 still very thoughtful.
@@ -25729,7 +25729,7 @@ che la gente della sua specie mi prende per un ladro, e suppongo
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_06" data-title="The Man Who Knew Too Much — The Temple of Silence (part 6)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_06" data-title="The Man Who Knew Too Much — The Temple of Silence (part 6)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="motif/garden,motif/great_house,motif/prison,motif/silence,motif/water,motif/well,motif/wind,concept/exile,concept/fear"></span>
 
 
 you will try to land me in jail."
@@ -26093,7 +26093,7 @@ che il suo nome era Franz Werner.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_07" data-title="The Man Who Knew Too Much — The Temple of Silence (part 7)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_07" data-title="The Man Who Knew Too Much — The Temple of Silence (part 7)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="topos/double,motif/desert,motif/dreams,motif/ghosts,motif/night,motif/silence,motif/storm,concept/hope,concept/solitude,concept/truth,concept/wonder,setting/desert"></span>
 
 
 occasion, and I shall remain standing. Possibly you know that I am
@@ -26443,7 +26443,7 @@ dibattendosi, verso la soglia. Perfino nello smarrimento della
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_08" data-title="The Man Who Knew Too Much — The Temple of Silence (part 8)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_08" data-title="The Man Who Knew Too Much — The Temple of Silence (part 8)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/desert,motif/night,motif/prison,motif/silence,motif/storm,motif/time,motif/well,concept/democracy,concept/hope,concept/imagination,concept/wonder,setting/desert"></span>
 
 
 battle he was conscious that the door was standing open. Somebody
@@ -26795,7 +26795,7 @@ poteva accadere da un momento all'altro.
 
 
 
-<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_09" data-title="The Man Who Knew Too Much — The Temple of Silence (part 9)" data-chapter="The Temple of Silence" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_temple_of_silence--part_09" data-title="The Man Who Knew Too Much — The Temple of Silence (part 9)" data-chapter="The Temple of Silence" data-kind="excerpt" data-tags="archetype/child,motif/great_house,motif/silence,motif/time,motif/well,concept/reform,concept/vanity"></span>
 
 
 may hold a candle to show me your infernal face."
@@ -27087,7 +27087,7 @@ attraverso il vasto parco verde verso il grigio orizzonte.
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_01" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 1)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_01" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 1)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="motif/death,motif/road,motif/silence,motif/time,motif/well,concept/conscience,concept/friendship,concept/reform,concept/truth,form/tragedy"></span>
 
 
 VIII - The Vengeance of the Statue
@@ -27449,7 +27449,7 @@ signore. Sto assaporando un'emozione del tutto nuova per me; una felice
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_02" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 2)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_02" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 2)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/road,motif/silence,motif/soul,motif/time,motif/well,concept/conscience,concept/wonder,setting/battlefield,character/bottom,character/kent"></span>
 
 
 sensation I never remember having had before."
@@ -27784,7 +27784,7 @@ fino a una [[Road|strada]] lungo il crinale in alto; e un sentiero a zigzag scal
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_03" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 3)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_03" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 3)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="archetype/detective,archetype/self_made_man,motif/garden,motif/night,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/faith,concept/grotesque,character/bottom"></span>
 
 
 in sharp angles, turning to and fro amid evergreens so somber that
@@ -28136,7 +28136,7 @@ nostra. È stato un po' uno shock per me, ve lo posso dire; benché io
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_04" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 4)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_04" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 4)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/blood,motif/death,motif/garden,motif/hill,motif/mirror,motif/moon,motif/night,motif/wind,motif/window,concept/fear"></span>
 
 
 suppose it's illogical. After all, I was full of admiration at
@@ -28470,7 +28470,7 @@ maniera, e guardare in basso il rovinoso scempio che aveva fatto. Ma lo scempio 
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_05" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 5)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_05" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 5)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/dawn,motif/death,motif/garden,motif/journey,motif/memory,motif/silence,motif/well,concept/body,concept/fear"></span>
 
 
 had made here was not only a wreck of stone.
@@ -28794,7 +28794,7 @@ loro [[Journey|giornata]] di viaggio consistette nel procedere verso est in mezz
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_06" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 6)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_06" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 6)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="archetype/detective,motif/birds,motif/blood,motif/death,motif/desire,motif/garden,motif/grave,motif/secrets,motif/silence,motif/time,motif/well,concept/fear,concept/slavery,concept/truth,character/bottom,character/kent,character/pompey"></span>
 
 
 unconversational noise of those uncomfortable engines. But when they
@@ -29119,7 +29119,7 @@ ferita mortale, tutto il resto mi abbandonò; lasciai cadere la mia [[Sword|spad
 
 
 
-<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_07" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 7)" data-chapter="The Vengeance of the Statue" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_vengeance_of_the_statue--part_07" data-title="The Man Who Knew Too Much — The Vengeance of the Statue (part 7)" data-chapter="The Vengeance of the Statue" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/fire,motif/garden,motif/night,motif/road,motif/ship,motif/stars,motif/storm,motif/time,concept/body,form/allegory,setting/ship,character/arthur,character/chorus"></span>
 
 
 ran as if to lift him up. As I bent toward him something happened

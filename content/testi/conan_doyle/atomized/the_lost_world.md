@@ -1316,7 +1316,7 @@ This novella is Doyle’s second story about Professor Challenger. Written in 19
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE LOST WORLD — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE LOST WORLD — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/nature,concept/nature,concept/wonder"></span>
 
 
 CHAPTER I
@@ -1373,7 +1373,7 @@ And, after all, this opening chapter will seem to the reader to have nothing to 
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE LOST WORLD — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE LOST WORLD — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/animals,motif/nature,concept/nature,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER II
@@ -1456,7 +1456,7 @@ EDWARD D. MALONE.”
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE LOST WORLD — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE LOST WORLD — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER III
@@ -1536,7 +1536,7 @@ The speech had a sinister sound, but I followed him none the less into the house
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE LOST WORLD — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE LOST WORLD — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/journey,motif/nature,concept/nature"></span>
 
 
 CHAPTER IV
@@ -1693,7 +1693,7 @@ I nursed my eye and was silent.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE LOST WORLD — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE LOST WORLD — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/nature,concept/wonder,setting/mountains,character/professor_challenger"></span>
 
 
 CHAPTER V
@@ -1777,7 +1777,7 @@ Suddenly there was a touch at my elbow. I turned, and found myself looking into 
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE LOST WORLD — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE LOST WORLD — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/journey,concept/courage,character/professor_challenger"></span>
 
 
 CHAPTER VI
@@ -1829,7 +1829,7 @@ So he turned upon his heel, and a minute later from the deck I could see his sho
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE LOST WORLD — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE LOST WORLD — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/journey,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER VII
@@ -1874,7 +1874,7 @@ So to-morrow we disappear into the unknown. This account I am transmitting down 
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE LOST WORLD — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE LOST WORLD — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/nature,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER VIII
@@ -1936,7 +1936,7 @@ And now, my readers, if ever I have any, I have brought you up the broad river, 
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE LOST WORLD — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE LOST WORLD — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/journey,motif/nature,concept/courage,concept/nature,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER IX
@@ -2093,7 +2093,7 @@ P.S. — The more I think the more desperate does our position seem. I see no po
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE LOST WORLD — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE LOST WORLD — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/nature,concept/nature,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER X
@@ -2178,7 +2178,7 @@ One other memory remains with me of this wonderful day, and with it I will close
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE LOST WORLD — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE LOST WORLD — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/hero,motif/animals,motif/nature,concept/courage,concept/nature,character/professor_challenger"></span>
 
 
 CHAPTER XI
@@ -2285,7 +2285,7 @@ Challenger looked at me sympathetically, and shook his great head in mock disapp
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE LOST WORLD — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE LOST WORLD — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/courage,concept/nature"></span>
 
 
 CHAPTER XII
@@ -2336,7 +2336,7 @@ So now you will understand, my dear Mr. McArdle, how this communication reaches 
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE LOST WORLD — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE LOST WORLD — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/nature,concept/nature,concept/wonder,character/professor_challenger"></span>
 
 
 CHAPTER XIII
@@ -2420,7 +2420,7 @@ And the Professor, much eased in his mind, settled down to his slumber once more
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE LOST WORLD — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE LOST WORLD — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/courage,concept/nature,concept/wonder"></span>
 
 
 CHAPTER XIV
@@ -2482,7 +2482,7 @@ For us the victory brought much advantage. Once again we were able to visit our 
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="THE LOST WORLD — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="THE LOST WORLD — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/nature,concept/wonder"></span>
 
 
 CHAPTER XV
@@ -2570,7 +2570,7 @@ And so, in humble and thankful mood, I close this account. Our eyes have seen gr
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="THE LOST WORLD — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="THE LOST WORLD — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/animals,motif/journey,motif/nature,concept/nature,character/professor_challenger"></span>
 
 
 CHAPTER XVI

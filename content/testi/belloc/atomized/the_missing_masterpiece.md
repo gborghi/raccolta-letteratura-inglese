@@ -2699,7 +2699,7 @@ FAREWELL!
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Missing Masterpiece — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Missing Masterpiece — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER I
@@ -2733,7 +2733,7 @@ A high, wild voice bade him enter. He saw before him something which made thirty
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Missing Masterpiece — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Missing Masterpiece — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,setting/paris"></span>
 
 
 At the feet of this figure sat upon a little footstool a young dark girl, very hideous, very affectionate; and both met their visitors with a defiant gaze — they thought it was The Rent. For it was the Fatal Day beyond which the infamous landlord would wait no more.
@@ -2767,7 +2767,7 @@ Then the Englishman came back to the simple suffering of the thing, and did some
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Missing Masterpiece — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Missing Masterpiece — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,motif/eyes_and_sight,concept/the_artist_and_society,concept/satire_of_society,concept/decadence_and_aestheticism,concept/appearance_vs_reality,concept/creativity,concept/vanity,form/satire"></span>
 
 
 The white and angry face of the Genius turned round; the dark and angry face of the very short companion to Genius turned round at the same moment; they perceived that their enemy had departed. They did not at once understand what had happened, but when they grasped it, and when they had got over the second gust of another kind of anger, they had the simplicity to pass into a mood of extreme gratitude, and Bourrot discovered a phrase worthy of the ancestor on whose memory he doted, and who had said some excellent word or other on surrendering his sword at Leipzig. At any rate, what Bourrot said with quiet dignity was:
@@ -2819,7 +2819,7 @@ Thus was it that Mr. Delgairn found himself saddled with something which seemed 
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="topos/the_double,archetype/double_doppelganger,motif/the_mirror,motif/great_house,concept/appearance_vs_reality,concept/deception,concept/creativity_and_artistic_labor,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 CHAPTER II
@@ -2857,7 +2857,7 @@ The Masterpiece was ten years old.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="The Missing Masterpiece — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="The Missing Masterpiece — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/artist"></span>
 
 
 CHAPTER III
@@ -2915,7 +2915,7 @@ Such was the man to whose powerful mind that early Bourrot, the “A me Bourgeoi
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Missing Masterpiece — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Missing Masterpiece — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER IV
@@ -2961,7 +2961,7 @@ Then the story of the Masterpiece was told, and Bourrot shook his head as he rec
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Missing Masterpiece — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Missing Masterpiece — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Yet it was not lost after all,” he added, his fevered eyes shining. “It was an act of homage, and that is never lost. Nevertheless, if only I could find it — if only I could hear of it!”
@@ -3015,7 +3015,7 @@ And once more did Sir Henry Bensington control his face and leave it as impassiv
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Missing Masterpiece — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Missing Masterpiece — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,motif/great_house,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 “Ah, yes, of course,” said Bensington. “Delgairn’s place down in Hampshire—” he waited to see whether he had to push a little farther, but Lord Birmingham supplied him.
@@ -3065,7 +3065,7 @@ The older man and the younger man stood before the Masterpiece of which the elde
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Missing Masterpiece — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Missing Masterpiece — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/appearance_vs_reality,concept/value_and_scarcity,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 “Bourrots will always be worth something,” said Sir Henry carefully. “But it’s only right I should tell you that they are falling in value. Bourrot is still a young man, and he turns out a prodigious amount.”
@@ -3101,7 +3101,7 @@ He had made good over the prize boar!
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Missing Masterpiece — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Missing Masterpiece — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,setting/paris"></span>
 
 
 CHAPTER V
@@ -3135,7 +3135,7 @@ On his way out from the Clinique, which was near the Observatory, he passed the 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Missing Masterpiece — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Missing Masterpiece — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,setting/france"></span>
 
 
 Next morning it was as Henry Bensington had expected; the news came to him early, brought to his hotel by a respectful messenger. Bourrot was dead; and he knew enough of the stiff Continental conventions not to come back at once to London, but to wait for the funeral, to follow it bare-headed, and to listen with bowed head to no less than fourteen interminable speeches, upon the loss which [[France]] had suffered by the passing into the Unknown (not the Néant this time) of her immortal son.
@@ -3171,7 +3171,7 @@ And the two together, I say, are Lothario, half and half. Between them they furn
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Missing Masterpiece — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Missing Masterpiece — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Now the Golders Green half of Lothario had strict orders from the Chief himself (it was a high honour) to produce two paragraphs on Bourrot. The Chief knew his man, and the Golders Green Lothario was the sort of conscientious fellow who would look up all the facts about that Immortal Genius, so recently dead and buried; but the Public-House Lothario (of whom the sub-editor was a trifle afraid) had a more general commission. He was to let out the great secret that Bourrot long ago had painted a Masterpiece, which he loved beyond any other of his canvases, and that the great Sir Henry Bensington had bought it, and that it was called “The Bourgeois Soul,” exposing with symbolical but fiery satire the shame of that vile abstraction. It was his to explain to the many-headed, the two million who got their own souls from The Howl, why artists hate Bourgeois, and what Bourgeois means, and how they hate ’em, and so on.
@@ -3207,7 +3207,7 @@ This second dig of the spur did more even than was expected of it. Chelsea went 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Missing Masterpiece — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Missing Masterpiece — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/vanity,concept/decadence_and_aestheticism,concept/fame_and_publicity,concept/appearance_vs_reality,concept/value_and_scarcity,form/satire,setting/london"></span>
 
 
 Certainly Henry Bensington had staged the thing well, as he did all things well. The great inner room of Martin’s was draped entirely in dead black, with black hangings hiding the ceiling, black carpet, black coverings for the rails. Black everything, except at the skylight. And at the end, absolutely by itself, on the huge void of darkness, hung that little piece of immortality, the “Ame Bourgeoise,” proving that Art can survive, even in modern times. Under it, in a great Mourning Frame of ebony, was the pathetic pencilled line in the dead man’s own hand: “My Masterpiece! My Masterpiece!”
@@ -3227,7 +3227,7 @@ But Verecundia merits a full introduction, and I will proceed to give it you.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="The Missing Masterpiece — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="The Missing Masterpiece — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="setting/paris"></span>
 
 
 CHAPTER VI
@@ -3277,7 +3277,7 @@ At any rate, there things stood; and Verecundia queened it over London, while po
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Missing Masterpiece — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Missing Masterpiece — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/trickster,archetype/outcast_wanderer,motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/power_and_corruption,concept/satire_of_society,concept/crime_and_punishment,form/satire,setting/london"></span>
 
 
 CHAPTER VII
@@ -3329,7 +3329,7 @@ There was a good deal more to the same effect. Sir Henry read it thoughtfully th
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Missing Masterpiece — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Missing Masterpiece — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/imprisonment,concept/crime_and_punishment,concept/deception,concept/power_and_corruption,concept/satire_of_society,concept/imprisonment,form/satire"></span>
 
 
 “I cannot say more. But if you knew what prisons were like and how our Courts look at criminal libel, I should not be at the painful duty of having to write this letter. I hope we may neither of us hear anything more about it; but of course I must warn you that if you persist, I shall be compelled to take action.
@@ -3369,7 +3369,7 @@ A novice, I say, would have wondered why Bensington chose a slave of this kind; 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Missing Masterpiece — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Missing Masterpiece — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/outcast_wanderer,concept/power_and_corruption,concept/deception,concept/satire_of_society,form/satire"></span>
 
 
 The task Henry Bensington had it in mind to apportion to his Slave was simple indeed. He could be quite certain of the man’s sobriety in the early part of the evening, for on the only occasion when he had dared to break the rule Bensington had shaken him with such a terror that he was never likely to break it again. After the agreed hour of five-thirty he could get as drunk as he liked — and Bensington had hitherto never used him later.
@@ -3447,7 +3447,7 @@ And the last words that rang in his ears as he passed through the front door (to
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Missing Masterpiece — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Missing Masterpiece — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/spiritualism,concept/satire_of_society,concept/greed,concept/money_and_avarice,concept/vanity,form/satire,setting/london"></span>
 
 
 CHAPTER VIII
@@ -3527,7 +3527,7 @@ And Elless, who had command of the ear trumpet, supplemented the shock with a ne
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Missing Masterpiece — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Missing Masterpiece — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/deception,concept/vanity,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 “Well, it’s her money,” murmured the old lady. “But really, you know... fifty thousand!”
@@ -3599,7 +3599,7 @@ When all these things had passed between Henry Bensington and his own great soul
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Missing Masterpiece — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Missing Masterpiece — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 “Yours,
@@ -3669,7 +3669,7 @@ After the long rest which such violent emotions needed, she did at last receive 
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="The Missing Masterpiece — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="The Missing Masterpiece — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/outcast_wanderer,motif/inn_tavern,motif/wine_and_drink,concept/satire_of_society,concept/crime_and_punishment,form/satire,setting/inn,setting/london"></span>
 
 
 CHAPTER IX
@@ -3749,7 +3749,7 @@ Bruised, weeping, in the last stages, he staggered up those dirty stone stairs, 
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Missing Masterpiece — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Missing Masterpiece — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/money_and_gold,concept/deception,concept/ratiocination_detection,concept/greed,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 CHAPTER X
@@ -3831,7 +3831,7 @@ It was a good plan of campaign. I can’t remember whether I have said it before
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Missing Masterpiece — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Missing Masterpiece — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER XI
@@ -3865,7 +3865,7 @@ The result was the same. For each of these gentlemen, though their methods of st
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Missing Masterpiece — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Missing Masterpiece — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/deception,concept/ratiocination_detection,concept/indirection_and_impersonal_systems,concept/greed,concept/satire_of_society,form/satire"></span>
 
 
 M. Henri Caen had no doubt about it. Henry Bensington was advertising. This theft-stunt in picture publicity is an old, stale thing — and a stern, ironic expression marked M. Henri Caen’s face’ as he considered it. He had only to wait, and when the picture came back again it would be time enough to set to work.
@@ -3897,7 +3897,7 @@ His letter to Harry Delgairn was simple, straight-forward, and couched (if I may
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Missing Masterpiece — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Missing Masterpiece — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/temptation,archetype/trickster,motif/money_and_gold,concept/temptation,concept/deception,concept/greed,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 Signor Alessandria did not believe in pressing things. He was right. Yet on the second day he got his answer. Harry Delgairn had been touched profoundly (the scholarly Parson of North Merton had read the letter for him). Though he had an instinctive dislike of foreigners he sent a stiff note, saying that if Signor Alessandria did him the honour to call, he would be happy to receive him.
@@ -3957,7 +3957,7 @@ For her part, she turned abruptly from the room. But she took that garish sketch
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Missing Masterpiece — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="The Missing Masterpiece — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/artist"></span>
 
 
 “It’s not that,” said Millie in a reverie. “That’s all right. It’s where it is that troubles me.” (The parlourmaid was the realist of the two.) “There’s only one place it could be, in a manner of speaking, and that’s the lumber-room. It’s not an ‘ouse where they could ‘ide anything.” There was a little disdain in her voice as she said it.
@@ -4037,7 +4037,7 @@ And there they were, together again.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Missing Masterpiece — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Missing Masterpiece — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/trickster,motif/masks_disguise,motif/great_house,concept/deception,concept/appearance_vs_reality,concept/secrecy_and_concealment,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 CHAPTER XII
@@ -4091,7 +4091,7 @@ Said the picture dealer to himself (whether in German, Maltese or Smyrna Greek):
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Missing Masterpiece — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Missing Masterpiece — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/trickster,motif/serpent_snake,concept/deception,concept/secrecy_and_concealment,concept/crime_and_punishment,concept/satire_of_society,form/satire,setting/rural_england"></span>
 
 
 And for half an hour more, as they sat over tea, he poured out so much knowledge of the things of England, and their contrast with the things of Italy, his dear native land (or rather, that of his ancestors; for Malta was his own dear island, he admitted — and that made him an Englishman, he hoped — with a smile), he poured out, I say, so fine a stream of sympathy and information that his host was ashamed to let him go.
@@ -4141,7 +4141,7 @@ Out went the little lamp, down the oak stairs went the cat-like feet — one wou
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Missing Masterpiece — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Missing Masterpiece — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/artist"></span>
 
 
 Signor Alessandria had often had cause to bless the reign of law in England and the corresponding habits of casual ease. He had registered, when first he had come in, the open garage; he reached his car, and then bethought him of something so obvious one would have imagined he would have planned for it all beforehand — but he had not. A car starting at night is like the opening of machine-gun fire. And what would he do about the lodge gate? There was nothing for it; he must deal with that gate. It was a quarter of a mile off, and no one must hear him.
@@ -4189,7 +4189,7 @@ It was while young Mr. Delgairn had been enjoying those moments (alas! too brief
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Missing Masterpiece — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Missing Masterpiece — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/artist"></span>
 
 
 “Well, M. Caen,” he said, “ — you’ll excuse me using your name? It’s deservedly famous! — so we’re travelling together?”
@@ -4247,7 +4247,7 @@ Before the bewildered Secretary could make a comment upon so astonishing a discr
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Missing Masterpiece — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Missing Masterpiece — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/artist,setting/france"></span>
 
 
 CHAPTER XIII
@@ -4313,7 +4313,7 @@ He also was in the trade; he also knew very well what was meant by these periodi
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Missing Masterpiece — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Missing Masterpiece — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/appearance_vs_reality,concept/money_and_avarice,concept/satire_of_society,form/satire"></span>
 
 
 “I will your conditions accept,” he said.
@@ -4373,7 +4373,7 @@ The well-groomed guest made no sign of understanding. He answered in the Italian
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Missing Masterpiece — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Missing Masterpiece — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/appearance_vs_reality,concept/crime_and_punishment,concept/power_and_corruption,concept/satire_of_society,form/satire"></span>
 
 
 “Negotiation even of the simple between market-men, boorish cow-driver sort there will not be,” answered the English baronet — with a mastery, of the idiom he was using!
@@ -4409,7 +4409,7 @@ Signor Alessandria answered in German, that though he could not speak the langua
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Missing Masterpiece — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Missing Masterpiece — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/the_double,motif/dawn,concept/appearance_vs_reality,concept/deception,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 CHAPTER XIV
@@ -4449,7 +4449,7 @@ He had not long to wait. Twelve had but just struck when there came a knock at t
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Missing Masterpiece — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Missing Masterpiece — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 The orders were clear and brief. They involved a sum of money — but Mr. Gabriel was used to that. He had passed on many such — no one of them quite so large, but in the aggregate and over many years, enormous — and his tiny commissions, hoarded without purpose over so many years, were his absorbing interest. He heard what his commission was to be in this case, and he was more than content. He knew it would be paid at the moment of delivery. And the details of delivery were made clear. He need not hurry. It might be days before the client would come (the name was given), but once the transaction was finished there would be need for promptitude. The money, when it was taken by him, was to be paid within the hour by hand, not post, at King Street. Mr. Gabriel would then have his little commission in cash, and all would be in order.
@@ -4525,7 +4525,7 @@ It isn’t always easy to shepherd people, but Morning Coat never failed; and th
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Missing Masterpiece — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Missing Masterpiece — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/vanity,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 “You heard about the Bourrot?” Then he stopped short as having said a word too much, glanced at the Duke and hesitated.
@@ -4573,7 +4573,7 @@ Once he had that canvas he was in command. Possession was everything. Even if Be
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Missing Masterpiece — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Missing Masterpiece — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 He grasped the chewed pencil with decision and rapidly jotted down half a dozen headings in his pocket-book. Then he pulled towards him two sheets of the Plantagenet paper (with its three golden leopards of Anjou on a field Azure, quartering the fleur de lys argent) and wrote in ink the two decisive documents.
@@ -4623,7 +4623,7 @@ Mr. Gabriel sat down in great relief.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="The Missing Masterpiece — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="The Missing Masterpiece — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/money_and_gold,concept/deception,concept/greed,concept/money_and_avarice,concept/hypocrisy,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 There was a long pause, at the end of which old Mr. Gabriel spoke with lowered eyes.
@@ -4663,7 +4663,7 @@ Mr. Gabriel went away to his safe, came back with the Masterpiece, and carefully
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Missing Masterpiece — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Missing Masterpiece — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/deception,concept/appearance_vs_reality,concept/greed,concept/money_and_avarice,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 CHAPTER XV
@@ -4731,7 +4731,7 @@ There was just that little interval of time without speech which separates the c
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Missing Masterpiece — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Missing Masterpiece — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/artist"></span>
 
 
 “As I told you, you have just recouped me. There was £500 each to my distinguished colleagues, French and Italian, there was a very well-earned payment I have made to my agents, and there have been sundry other little out-of-pocket expenses, as you know. I’ll call the whole thing fifteen hundred, as I said, and there’s five hundred for you, Gabriel, five hundred for you, five hundred for you!”
@@ -4803,7 +4803,7 @@ And so the thing ended, and you may think that with Verecundia in possession, my
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="The Missing Masterpiece — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="The Missing Masterpiece — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="concept/deception,concept/fame_and_publicity,concept/appearance_vs_reality,concept/vulgarity,concept/satire_of_society,form/satire,setting/london"></span>
 
 
 CHAPTER XVI
@@ -4895,7 +4895,7 @@ Very pleased was Capstan to note that this essential friend was so far mollified
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Missing Masterpiece — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Missing Masterpiece — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/hypocrisy,concept/value_and_scarcity,form/satire,setting/court,setting/london"></span>
 
 
 CHAPTER XVII
@@ -4927,7 +4927,7 @@ A Parisian Master of the name of Bourrot (said Sir Anselm) — the Jury were wel
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Missing Masterpiece — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Missing Masterpiece — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 The Masterpiece came into the possession of our great Connoisseur in the Art World, Sir Henry Bensington, who patriotically exhibited it to the public in Bond Street before relegating it to his own famous collection, or selling it to some wealthy devotee of the Muses, according as he might decide. And here let him add (Sir Anselm looked up at the Jury with a generous regard) that nothing should fall from him which could by one syllable suggest that Sir Henry, in all that followed, acted from any but the highest motives. He believed that Sir Henry was mistaken — nothing more.
@@ -4957,7 +4957,7 @@ The learned Counsel secretly conveyed to his mouth a lozenge lovingly provided f
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Missing Masterpiece — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Missing Masterpiece — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/doubt,concept/deception,form/satire,setting/court"></span>
 
 
 The first witness to be called was Mr. Gabriel. To Sir Anselm’s plain questions he gave plain answers, setting forth the whole story, without the addition of any tedious detail such as the Duke’s first payment of money. At the end, on the essential point of the picture’s authenticity, he was quietly emphatic. Yes, he had the experience of a long lifetime, nearly all spent in purchases upon the Continent of modern pictures and especially of French. Sir Anselm brought out the fact that he had valued Bourrots for Sir Henry Bensington himself (whose name Mr. Gabriel pronounced with great respect). He had sold and resold examples of that master perhaps a hundred times. He was intimately acquainted with the “Ame Bourgeoise.” He had made a special study of it. There could be no manner of doubt that the Duke’s copy was the original.
@@ -5019,7 +5019,7 @@ Of all moods which affect the atmosphere of Human Converse, and can be felt perv
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="The Missing Masterpiece — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="The Missing Masterpiece — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/vulgarity,concept/class_conflict,form/satire,setting/court"></span>
 
 
 Moreover, Sir Anselm was in some dread of what the Duke’s accent and manner might work on the Jury. He himself was so sensitive to anything savouring of the exceptional — the outer things — especially the things of Crown and Anchor, Double Cross, Morning Champagne, stale tobacco, so-dreadfully-coarse-ness, the unprintable, monkey-business and gee-gees, that he exaggerated the handicap. He didn’t allow enough for the counterweight of twelve millions and a title of romantic sonority.
@@ -5081,7 +5081,7 @@ A string of lesser witnesses followed, men who had in various degrees a claim to
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Missing Masterpiece — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Missing Masterpiece — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER XVIII
@@ -5137,7 +5137,7 @@ The stricken Monarch of the Herd faced his adversary: “No, Sir Rory,” he sai
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Missing Masterpiece — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Missing Masterpiece — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/deception,concept/jealousy,form/satire,setting/court"></span>
 
 
 “You don’t see!” thundered Sir Rory. “We don’t want to hear what you don’t see; we’ve just heard what you didn’t see. You stand there, Sir, and you tell the Jury...”
@@ -5167,7 +5167,7 @@ Lastly, young Mr. Delgairn was put into the box and sworn, told the story of the
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Missing Masterpiece — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Missing Masterpiece — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/appearance_vs_reality,concept/deception,concept/doubt,form/satire,setting/court"></span>
 
 
 Sir Henry Bensington’s copy of the Bourrot (now Lady Norbolt’s) was held up for the young man to judge, and he swore with a pained expression but emphatically that it was the picture he had lived with all his life, and which he could no more mistake than he could mistake any other familiar object of the old home.
@@ -5233,7 +5233,7 @@ That master of our Common Law marshalled the evidence with that genius which —
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Missing Masterpiece — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Missing Masterpiece — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/the_court,concept/satire_of_society,concept/justice,concept/appearance_vs_reality,form/satire,setting/court"></span>
 
 
 He concluded by submitting to the Jury (who by the way, he reminded, were there to judge facts, not law) the following six points: —
@@ -5293,7 +5293,7 @@ Mr. Justice Dove complimented the Jury on their answers, with which he thoroughl
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Missing Masterpiece — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Missing Masterpiece — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/inn_tavern,concept/providence,concept/fate_and_free_will,concept/poverty,form/satire,setting/london,character/william_shakespeare"></span>
 
 
 CHAPTER XIX
@@ -5337,7 +5337,7 @@ She looked at him with a proper disdain, priced the squalor into which his recen
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Missing Masterpiece — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Missing Masterpiece — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,motif/inn_tavern,concept/greed_and_money,concept/deception,form/satire,setting/london"></span>
 
 
 “Tell the Guv’nor,” he whispered hoarsely, “that I can make it worth his while about that picture,” and he butted his head vaguely forward. She turned to see what he meant.
@@ -5383,7 +5383,7 @@ He listened carefully to Mr. Goatcher’s tale, how he had sought high and low f
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Missing Masterpiece — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Missing Masterpiece — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/greed_and_money,concept/deception,form/satire,histref/the_bible"></span>
 
 
 He was taking none.
@@ -5425,7 +5425,7 @@ Then she paid.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Missing Masterpiece — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Missing Masterpiece — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,form/satire"></span>
 
 
 CHAPTER XX
@@ -5493,7 +5493,7 @@ But there was no mistaking the dreamy, soft, inspired voice which replied. Verec
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Missing Masterpiece — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Missing Masterpiece — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Puzzlement. “Exactly! and it is so difficult to get the men during the day now that everybody is in the City.”
@@ -5527,7 +5527,7 @@ Then in lower, much lower, vibrating triumphant tones — once more the name of 
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Missing Masterpiece — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Missing Masterpiece — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="concept/satire_of_society,concept/appearance_vs_reality,concept/deception,concept/decadence_and_aestheticism,concept/vulgarity,form/satire,setting/london"></span>
 
 
 The audience sat as still as death, except for old Lord Gunter who coughed horribly and began shouting, “Oh! Dear! Oh! Dear!” until Peach who was just behind him, slapped him hard on the back and whispered, “Shut up, you old fool!” whereat once more mysterious silence reigned. It reigned about another minute and a half, during which you might have heard your own conscience, and then for the third time came the awful summons — but this time from a clarion; there was no doubt but Vavassour had a range of notes — and once more, imperatively this time, the imperial name—” BOURROT!”... What shall we say” (the voice sank, the head drooped) “of Bourrot... What of the dead, the vanished.... Ah! Humanity, Promethean, doomed, indefatigable, unconquered... is Bourrot dead?”
@@ -5589,7 +5589,7 @@ As for Vavassour, he had slipped back into the little side room off the stage, a
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="The Missing Masterpiece — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="The Missing Masterpiece — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/artist,setting/france"></span>
 
 
 Profiting by a moment when Monsieur Caen was peering with too much caution at the lessening crowd, to make sure his opportunity had come, Signor Alessandria, with Italian, or rather Maltese, agility, leapt on to the stage and slithered to the Masterpiece. He would see that Cross and learn its colour. Not a second later Monsieur Caen had satisfied himself that all was clear, and with Gallic acrobatics had bounded to the same goal — he would see that circle! Each peered behind the canvas at the same moment. Each made the Great Discovery. There was no Rough Circle, no Cross — green, blue, yellow, black, or Femme Enragée. There was nothing. Henry Bensington had proved their master.

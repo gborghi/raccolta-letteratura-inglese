@@ -3291,7 +3291,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Green Overcoat — Chapter 18" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Green Overcoat — Chapter 18" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/clothing,motif/animals,concept/wit,concept/nonsense,concept/paradox,form/essay"></span>
 
 
 CHAPTER XVIII.
@@ -3333,7 +3333,7 @@ H. BELLOC.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Green Overcoat — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Green Overcoat — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 CHAPTER I.
@@ -3377,7 +3377,7 @@ He had hardly shut the door, and as he was doing so, felt, or thought he felt, s
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Green Overcoat — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Green Overcoat — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/machine,motif/rain"></span>
 
 
 He had just time to begin, “I beg your—” when he felt each wrist held in a pair of strong hands and a shawl or cloth tightening about his mouth. All that he next attempted to say was lost to himself and to the world. He gave one vigorous kick with his long legs; before he could give a second his feet were held as firmly as his hands, and he felt what must have been a handkerchief being tied uncomfortably tightly round his ankles, while his wrists were still held in a grasp that suggested something professional.
@@ -3429,7 +3429,7 @@ Melba was a stout, rather pasty-faced young man, with fat cheeks and blue, protu
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Green Overcoat — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Green Overcoat — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/imprisonment,motif/clothing,concept/crime_and_punishment,concept/deception,form/novel,setting/england"></span>
 
 
 Jimmy was quite another pair of shoes. He was tall also, but clean cut and very dark, with the black eyes and hair and fresh colouring of a Gael. No trace of his native accent remained with him. Indeed, he had been born south of the border, but his supple strength and the balance of his body were those of the mountains. He had race. Unlike his colleague, he looked as strong as he was. Jimmy, if you care to know it, did not row; he swam and dived. He swam and dived with remarkable excellence, and was the champion, or whatever it is called, of some district or other of considerable size. He was also of the University that had nourished Melba — Cambridge.
@@ -3489,7 +3489,7 @@ So it was all going to end happily after all? The Professor almost felt himself 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Green Overcoat — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Green Overcoat — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/clothing,motif/imprisonment,concept/identity,concept/deception,concept/appearance_vs_reality,concept/crime_and_punishment,form/novel"></span>
 
 
 CHAPTER II.
@@ -3575,7 +3575,7 @@ Jimmy by this time was in a mood to stand no nonsense.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Green Overcoat — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Green Overcoat — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,motif/clothing,concept/identity,concept/appearance_vs_reality,concept/crime_and_punishment,concept/deception,form/novel"></span>
 
 
 Men in bewilderment do foolish things even when they are men of judgment, and Professor Higginson certainly was not that. His next words were fatal.
@@ -3629,7 +3629,7 @@ If the money of this ridiculous John Brassington, whoever he might be, was there
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Green Overcoat — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Green Overcoat — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/serpent_snake,motif/money_and_gold,motif/imprisonment,concept/deception,concept/crime_and_punishment,concept/temptation,concept/good_vs_evil,form/novel"></span>
 
 
 Professor Higginson leant lovingly upon that word “cleared.” It had a technical, salutary sound. It was his haven of refuge. Cheques had to go up to London, hadn’t they? and to go to a place called a Clearing House? He knew that much, though economics were not his department of learning. He knew that much, and he was rather proud of it — as Professors are of knowing something outside their beat.
@@ -3675,7 +3675,7 @@ Nature had done what virtue could not do and the Professor was stumped.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Green Overcoat — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Green Overcoat — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="concept/virtue,concept/grief_and_loss,concept/temperance_and_teetotalism,form/novel,setting/england,character/leo_tolstoy"></span>
 
 
 CHAPTER III.
@@ -3709,7 +3709,7 @@ Mr. Brassington was at it again — the old, familiar story! How, properly speak
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Green Overcoat — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Green Overcoat — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 Mr. Kirby listened, more and more bored.
@@ -3803,7 +3803,7 @@ Mr. Brassington looked at the fire and thought, without much result.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Green Overcoat — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Green Overcoat — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 “Oh, he’ll learn that all right!” said Mr. Kirby carelessly. “He’s learning it now like the devil. It’s an abominable shame, mind you, and I don’t mind telling you so. I’ve a good mind to send him the money myself.”
@@ -3897,7 +3897,7 @@ The two men went out into the night and the storm. Charles Kirby enjoyed bad wea
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Green Overcoat — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="The Green Overcoat — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 And after that nothing more was said until they came to the lodge gates of that very large, ugly, convenient and modern house, which John Brassington had built and for no reason at all had called “Lauderdale.”
@@ -3943,7 +3943,7 @@ The man was so startled that he blurted out —
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Green Overcoat — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Green Overcoat — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 CHAPTER IV.
@@ -3993,7 +3993,7 @@ He first took up from the table that note-signed John Brassington in strong, swi
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Green Overcoat — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Green Overcoat — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,motif/imprisonment,concept/deception,concept/crime_and_punishment,concept/temptation,concept/good_vs_evil,form/novel"></span>
 
 
 He next took up the cheque form that had been left him; he lifted it with a gesture of purpose too deliberate for such a character as his, and one that nothing but the most severe fortune could have bred in it.
@@ -4035,7 +4035,7 @@ Mr. Higginson, lowering and furtive like a caged cheetah, snarled and pulled the
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Green Overcoat — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Green Overcoat — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/imprisonment,motif/money_and_gold,concept/deception,concept/crime_and_punishment,form/novel"></span>
 
 
 “James McAuley, Esq.
@@ -4091,7 +4091,7 @@ A hearty oath assured him that all was well. He tramped with his companion down 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Green Overcoat — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Green Overcoat — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/imprisonment,motif/food_and_feasting,concept/solitude,concept/crime_and_punishment,form/novel"></span>
 
 
 CHAPTER V.
@@ -4141,7 +4141,7 @@ It is a pity that too profound a study of Subliminal Consciousness destroys Fait
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Green Overcoat — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Green Overcoat — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/imprisonment,motif/book_reading,concept/solitude,concept/despair,form/novel,character/milton"></span>
 
 
 Quaint memories of his childhood returned to him as he fixed the wooden chairs one upon the other, and jammed the lowest of them in between the arms of the padded easy-chair, which was to support the whole.
@@ -4181,7 +4181,7 @@ As he turned round helplessly to discover whether some object might not suggest 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Green Overcoat — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Green Overcoat — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/clothing,motif/sun,concept/temptation,concept/good_vs_evil,form/novel,setting/rural_england,character/apollo"></span>
 
 
 Someone had slipped those bolts in the night, and if that someone were Jimmy, Jimmy had kept his word.
@@ -4223,7 +4223,7 @@ His offer of no less than a shilling for a piece of bread and a cup of coffee wa
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Green Overcoat — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Green Overcoat — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/clothing,concept/deception,concept/temptation,concept/good_vs_evil,concept/self_deception,form/novel,setting/england"></span>
 
 
 The Professor felt that he was with friends, and his self-discipline weakened and weakened by degree after degree. It sank with the coffee and the bread, it sank lower with the respectful tones in which he was addressed; then without warning it vanished, and that soul which had already fallen to forgery and intemperate language went down a further step to Sheol.
@@ -4251,7 +4251,7 @@ You are in error. The depths of evil are infinite, and the Professor, as he walk
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Green Overcoat — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Green Overcoat — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/clothing,concept/fame_and_publicity,concept/satire_of_society,form/novel,setting/england"></span>
 
 
 CHAPTER VI.
@@ -4291,7 +4291,7 @@ Mr. Higginson looked blankly at these men, then his eyes lit with anger. He was 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Green Overcoat — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Green Overcoat — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/madness_feigned,concept/deception,concept/self_deception,concept/madness,form/novel,setting/england"></span>
 
 
 “You’d better leave me!” he muttered. “You’d better leave me, officer!”
@@ -4365,7 +4365,7 @@ And having put the matter plainly and simply in such a fashion, Professor Higgin
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Green Overcoat — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Green Overcoat — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/deception,concept/self_deception,concept/crime_and_punishment,form/novel,setting/england"></span>
 
 
 “No,” said Professor Higginson firmly, “I am determined to do my duty in this matter; those whom it is proper to tell—”
@@ -4443,7 +4443,7 @@ One cross-questioned a little too closely about the sense of Time. Had he an ide
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Green Overcoat — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Green Overcoat — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/ghosts,motif/death,concept/deception,concept/spiritualism,concept/fame_and_publicity,form/novel"></span>
 
 
 What! a flight through space?
@@ -4511,7 +4511,7 @@ George Babcock remained after all his escapades and alarms — such as they may 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="The Green Overcoat — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="The Green Overcoat — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/power_and_corruption,concept/vulgarity,form/novel,form/satire,histref/alfred_harmsworth_lord_northcliffe,setting/england"></span>
 
 
 This was the figure Garden saw coming up the street towards him as Professor Higginson shambled off, already a distant figure, nearing the gates of the College (for it was in the street without that the Philosopher had met the Research man and made that fatal move).
@@ -4577,7 +4577,7 @@ And so, having dined well with his Vice Principal and had his fill, Professor Hi
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Green Overcoat — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Green Overcoat — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/deception,concept/spiritualism,concept/doubt,concept/appearance_vs_reality,form/novel,setting/england"></span>
 
 
 CHAPTER VII.
@@ -4651,7 +4651,7 @@ Professor Higginson thought. Detailed imaginative fiction had never been in his 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Green Overcoat — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Green Overcoat — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 “Very well, Babcock, listen to this. There was in that crowd a figure very different from the others — a mad figure, you will say. Most mournful eyes, Babcock, and — well, it’s unpleasant, but it smelt of seaweed.”
@@ -4721,7 +4721,7 @@ A timid, fair-haired girl to the rear of the left centre asked whether they need
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Green Overcoat — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Green Overcoat — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 “That’ll do! That’ll do!” cried Professor Higginson sharply.
@@ -4795,7 +4795,7 @@ Then it was that Professor Higginson noticed, standing in the mean little hall h
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Green Overcoat — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Green Overcoat — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/machine,motif/rain"></span>
 
 
 “Professor Higginson,” said this apparition gently, “Professor Higginson, I presume?”
@@ -4855,7 +4855,7 @@ What followed, and what his pained eyes most wearily discerned, was the nature o
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Green Overcoat — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Green Overcoat — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/vanity,concept/deception,concept/satire_of_society,form/novel,setting/england"></span>
 
 
 CHAPTER VIII.
@@ -4915,7 +4915,7 @@ The heavy Babcock rapidly diagnosed the case within his mind. He forbore to exas
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Green Overcoat — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Green Overcoat — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 “That’s all right,” he said about as soothingly as ogres can. “That’s all right. What you want is a shorthand writer.”
@@ -5021,7 +5021,7 @@ Professor Higginson dared not say he didn’t. But he still looked helpless.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Green Overcoat — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Green Overcoat — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/fame_and_publicity,concept/hypocrisy,concept/materialism,form/novel,form/satire,setting/england"></span>
 
 
 “Oh!” said Higginson, with an appearance of comprehension, though in truth the mysteries of our plutocracy were for him mysteries indeed. “Is he in Parliament?”
@@ -5085,7 +5085,7 @@ Thus it was that there fell upon this worthy, stilted and hitherto rather obscur
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Green Overcoat — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Green Overcoat — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/rain"></span>
 
 
 CHAPTER IX.
@@ -5179,7 +5179,7 @@ He was in the midst of the tale when his whole being fainted within him, as it w
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Green Overcoat — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Green Overcoat — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/clothing,concept/crime_and_punishment,concept/deception,form/novel,histref/the_crusades,setting/england"></span>
 
 
 CHAPTER X.
@@ -5261,7 +5261,7 @@ Mr. Montague knew all the ropes.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Green Overcoat — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Green Overcoat — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/corrupt_official,motif/money_and_gold,motif/clothing,motif/prison,concept/crime_and_punishment,concept/superstition_and_omen,concept/greed_and_money,concept/poverty,concept/deception,form/novel,form/satire"></span>
 
 
 Mr. Montague was reassured.
@@ -5319,7 +5319,7 @@ For a moment he fingered (and felt sacrilegious as he did so) the right-hand poc
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Green Overcoat — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Green Overcoat — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/money_and_gold,motif/clothing,motif/prayer,concept/crime_and_punishment,concept/superstition_and_omen,concept/greed_and_money,concept/poverty,concept/deception,form/novel,form/satire"></span>
 
 
 Then, with sudden haste, and muttering all the while those curious curses in a tongue which is not ours, he folded the thing together, drew from beneath the ramshackle bed (where there was a great store of it) a large sheet of dirty and thick paper, and one of many lengths of string that there lay rolled.
@@ -5361,7 +5361,7 @@ An odd relief filled him as he walked, and an odd lightness as he entered. He ha
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="The Green Overcoat — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="The Green Overcoat — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/money_and_gold,motif/clothing,concept/crime_and_punishment,concept/poverty,concept/superstition_and_omen,concept/guilt,concept/deception,concept/social_injustice,form/novel,form/satire"></span>
 
 
 CHAPTER XI.
@@ -5429,7 +5429,7 @@ The voice you will find, Readerkin, was that of Mr. Kirby, and Mr. Kirby was ask
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Green Overcoat — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Green Overcoat — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,motif/money_and_gold,concept/greed_and_money,concept/deception,concept/crime_and_punishment,form/novel,form/satire"></span>
 
 
 CHAPTER XII.
@@ -5485,7 +5485,7 @@ Mr. Postlethwaite, like most of his kind, was rather relieved by insults than fi
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Green Overcoat — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Green Overcoat — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 Mr. Kirby put up his hand.
@@ -5563,7 +5563,7 @@ Mr. Postlethwaite was agreeable. Mr. Kirby called at the cottage and sent the ma
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Green Overcoat — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Green Overcoat — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/detective,motif/clothing,motif/letters_and_writing,motif/secrets,concept/ratiocination_detection,concept/superstition_and_omen,concept/deception,form/novel,form/satire"></span>
 
 
 He knew what was coming. Mr. Postlethwaite’s face grew dark and determined. Then there passed over it a not very sane leer. He nudged the lawyer in the ribs —
@@ -5641,7 +5641,7 @@ If it were either of those two men who had been larking with younger men that ni
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Green Overcoat — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Green Overcoat — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,motif/clothing,concept/crime_and_punishment,concept/deception,concept/greed_and_money,concept/superstition_and_omen,form/novel,form/satire"></span>
 
 
 The problem which was beginning to fascinate and enthrall Mr. Kirby would have advanced a stage or two further towards its solution had not the swing door of the smoking-room been flung up, and had there not burst through it, like a shell, the excited and angry form of Mr. Brassington.
@@ -5747,7 +5747,7 @@ Mr. Brassington started.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Green Overcoat — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Green Overcoat — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/detective,motif/clothing,motif/money_and_gold,concept/ratiocination_detection,concept/deception,concept/crime_and_punishment,concept/power_and_corruption,form/novel,form/satire"></span>
 
 
 “I’m not superstitious, Kirby,” said Mr. Brassington uncomfortably.
@@ -5827,7 +5827,7 @@ Now that he was fairly in cry, he did what no dog does — not even the dogs tha
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Green Overcoat — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Green Overcoat — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/house_mansion,motif/letters_and_writing,motif/secrets,concept/perception_and_consciousness,concept/crime_and_punishment,concept/deception,concept/self_deception,form/novel,form/satire"></span>
 
 
 CHAPTER XIII.
@@ -5893,7 +5893,7 @@ Professor Higginson felt in his trouser pocket and produced a florin. The careta
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Green Overcoat — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Green Overcoat — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,concept/perception_and_consciousness,concept/self_deception,concept/deception,concept/appearance_vs_reality,form/novel,form/satire"></span>
 
 
 “Is that the name of the agent for this house? Could I get an order from him? I want to look for — I mean I want to get inside!”
@@ -5963,7 +5963,7 @@ The Professor shook his head impatiently. “You don’t understand,” he said.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Green Overcoat — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Green Overcoat — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,concept/perception_and_consciousness,concept/self_deception,concept/deception,concept/appearance_vs_reality,form/novel,form/satire"></span>
 
 
 “Of course!” said Mr. Kirby. “Naturally. Quite clear.”
@@ -6025,7 +6025,7 @@ Mr. Kirby said nothing and looked nothing, and the Professor eagerly went on to 
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Green Overcoat — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Green Overcoat — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,motif/house_mansion,concept/perception_and_consciousness,concept/deception,concept/self_deception,form/novel,form/satire"></span>
 
 
 “Well,” said Mr. Kirby, after that outburst, shaking his head slowly from side to side, “then I’m of no use, none at all. I do know by chance that place in the Hebrides, saw it only last year. Doing it to oblige a cousin. Would have been most interesting, most interesting, if it had been that. Don’t you think it could be that? They ‘re full of second sight in those parts.”
@@ -6059,7 +6059,7 @@ The great Psychologist slowly paced the street outside, then despair gave him re
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Green Overcoat — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="The Green Overcoat — Chapter 14" data-chapter="Chapter 15" data-kind="chapter" data-tags="archetype/detective,archetype/trickster,motif/clothing,concept/ratiocination_detection,concept/immortality_of_the_soul,concept/deception,concept/crime_and_punishment,form/novel,form/satire"></span>
 
 
 CHAPTER XIV.
@@ -6153,7 +6153,7 @@ Mr. Kirby was wholly devoid of superstition. None the less, he went out of the h
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="The Green Overcoat — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="The Green Overcoat — Chapter 15" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/machine"></span>
 
 
 CHAPTER XV.
@@ -6313,7 +6313,7 @@ He thrust himself into his coat, looked over his shoulder as he ran down the sta
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="The Green Overcoat — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="The Green Overcoat — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/trickster,motif/money_and_gold,concept/crime_and_punishment,concept/deception,concept/greed_and_money,concept/guilt,concept/justice_right_and_wrong,form/novel,form/satire"></span>
 
 
 CHAPTER XVI.
@@ -6463,7 +6463,7 @@ With that he switched off the light and made his way to bed, maturing his plans 
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Green Overcoat — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Green Overcoat — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/grave,concept/satire_of_society,concept/heaven_and_the_afterlife,concept/immortality_of_the_soul,concept/fear,concept/perception_and_consciousness,form/novel,form/satire"></span>
 
 
 CHAPTER XVII.
@@ -6517,7 +6517,7 @@ That day he read no more. With a curious unformed cry, such as a hunted animal w
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Green Overcoat — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Green Overcoat — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="concept/fear,concept/perception_and_consciousness,concept/deception,form/novel,form/satire,setting/london"></span>
 
 
 He was off, racing through the little anteroom, he was flying down the stone staircase three steps at a time. The Subliminal Self was out on holiday; it was working top-notch, and Lord! how it drove the man!
@@ -6559,7 +6559,7 @@ She had already seized the handle of the pump and drawn him his glass, when the 
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Green Overcoat — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="The Green Overcoat — Chapter 17 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/deception,concept/power_and_corruption,concept/fear,concept/class_conflict,form/novel,form/satire,setting/london"></span>
 
 
 Professor Higginson had exhausted that vein of invention which the Evil One had hitherto so liberally supplied. He sank upon the dirty little beer-stained stool behind him, and jibbered at the avenger of the law.
@@ -6631,7 +6631,7 @@ The Professor, with a confused memory of a recent experience, muttered, “ A li
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Green Overcoat — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="The Green Overcoat — Chapter 17 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,concept/crime_and_punishment,concept/deception,concept/self_deception,form/novel,form/satire"></span>
 
 
 “Certainly, Professor Higginson,” said Jimmy, in exactly the same tone in which he had said “Mr. Brassington” a minute before. “ I quite understand. Unfortunately, during that terrible mental trouble of yours you signed something—”
@@ -6679,7 +6679,7 @@ Jimmy winced. There was an interval of silence, during which all three men were 
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Green Overcoat — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Green Overcoat — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/rain"></span>
 
 
 CHAPTER XVIII.
@@ -6765,7 +6765,7 @@ And at that dread word from a lawyer the Professor sat down defeated.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Green Overcoat — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Green Overcoat — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/trickster,motif/money_and_gold,motif/clothing,concept/deception,concept/greed_and_money,concept/superstition_and_omen,concept/spiritualism,concept/immortality_of_the_soul,form/novel,form/satire"></span>
 
 
 So, why! they just took him off and kidnapped him. That’s all!”

@@ -74,7 +74,7 @@ From Chesterton's The Poet and the Lunatics
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="lovers (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="lovers (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/silence,character/diana"></span>
 
 
 For [[lovers|Lovers]] Only

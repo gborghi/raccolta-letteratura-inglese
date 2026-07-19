@@ -323,7 +323,7 @@ sdegnose dell'ignoranza della moltitudine.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Doubts_About_Darwinism (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Doubts_About_Darwinism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/nature,motif/water,motif/well,concept/nature,concept/truth,setting/london,character/bottom"></span>
 
 
 # Doubts About Darwinism
@@ -521,7 +521,7 @@ o spera, che l'ipotesi davvero REGGERÀ all'[[Water|acqua]].
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Doubts_About_Darwinism (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Doubts_About_Darwinism (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,concept/history,concept/survival,form/history,form/riddle,character/chorus"></span>
 
 
 Thus Mr. H. G. Wells, in his wonderfully interesting and valuable

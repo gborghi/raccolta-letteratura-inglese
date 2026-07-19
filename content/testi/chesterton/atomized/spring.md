@@ -123,7 +123,7 @@ e tutti gli uomini sono a [[Home|casa]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="spring (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="spring (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/ship,motif/spring,concept/honour,concept/wonder,setting/ship"></span>
 
 
 Second [[spring|Spring]]  

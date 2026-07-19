@@ -5354,7 +5354,7 @@ not sure whether he would have written such good essays.
 
 
 
-<span class="atom-split" data-atom="story_01_the_glass_walking_stick" data-title="The Glass Walking Stick — The Glass Walking-Stick" data-chapter="The Glass Walking Stick" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_glass_walking_stick" data-title="The Glass Walking Stick — The Glass Walking-Stick" data-chapter="The Glass Walking Stick" data-kind="story" data-tags="archetype/king,motif/home,motif/nature,motif/night,concept/beauty,concept/hope,concept/madness,concept/nature,concept/reconciliation,concept/truth,character/lucifer"></span>
 
 
 THE GLASS WALKING-STICK
@@ -5472,7 +5472,7 @@ Gli altri oggetti esposti avevano, in un modo o nell'altro, questo stesso caratt
 
 
 
-<span class="atom-split" data-atom="story_02_history_in_stone--part_01" data-title="The Glass Walking Stick — History In Stone (part 1)" data-chapter="History In Stone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_history_in_stone--part_01" data-title="The Glass Walking Stick — History In Stone (part 1)" data-chapter="History In Stone" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,concept/history,form/history,setting/cathedral,character/henry_vi,character/thomas_becket"></span>
 
 
 HISTORY IN STONE
@@ -5700,7 +5700,7 @@ libri prima di cominciare a comprenderle.
 
 
 
-<span class="atom-split" data-atom="story_02_history_in_stone--part_02" data-title="The Glass Walking Stick — History In Stone (part 2)" data-chapter="History In Stone" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_history_in_stone--part_02" data-title="The Glass Walking Stick — History In Stone (part 2)" data-chapter="History In Stone" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/animals,motif/childhood,motif/machine,motif/well,concept/education,concept/history,concept/paradox,concept/truth,form/history,histref/america,setting/america,character/nurse"></span>
 
 
 So there hangs over all England this singular [[Double|double]]
@@ -5828,7 +5828,7 @@ Non venne mai in mente al [[Child|bambino]] vittoriano, mentre la sua [[Nurse|ba
 
 
 
-<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_01" data-title="The Glass Walking Stick — Playing With An Idea (part 1)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_01" data-title="The Glass Walking Stick — Playing With An Idea (part 1)" data-chapter="Playing With An Idea" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/fool,archetype/hero,archetype/monster,motif/dance,motif/horse,motif/love,motif/rose,motif/stars,motif/time,motif/wheel,concept/history,form/history,form/lyric,histref/christianity,histref/milton,histref/renaissance,character/don_quixote,character/michael,character/milton"></span>
 
 
 PLAYING WITH AN IDEA
@@ -5969,7 +5969,7 @@ Oppure prendiamo un esempio classico. Può qualcuno leggere l'opera fredda e tag
 
 
 
-<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_02" data-title="The Glass Walking Stick — Playing With An Idea (part 2)" data-chapter="Playing With An Idea" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_playing_with_an_idea--part_02" data-title="The Glass Walking Stick — Playing With An Idea (part 2)" data-chapter="Playing With An Idea" data-kind="excerpt" data-tags="motif/rose,concept/paradox"></span>
 
 
 THE WALKING [[Paradox|PARADOX]]
@@ -6128,7 +6128,7 @@ Tutto ciò appartiene a un mondo di sfrenato e pur sottile capovolgimento con cu
 
 
 
-<span class="atom-split" data-atom="story_04_the_colour_of_spain" data-title="The Glass Walking Stick — The Colour Of Spain" data-chapter="The Colour Of Spain" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_colour_of_spain" data-title="The Glass Walking Stick — The Colour Of Spain" data-chapter="The Colour Of Spain" data-kind="story" data-tags="archetype/artist,archetype/shadow,motif/dance,motif/death,motif/soul,motif/window,concept/fear,form/sketch,setting/castle,setting/court,setting/paris"></span>
 
 
 THE COLOUR OF SPAIN
@@ -6279,7 +6279,7 @@ Ma questa è una parentesi; stavo osservando che la celebre processione di Sivig
 
 
 
-<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_01" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 1)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_01" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 1)" data-chapter="The Tradition Of Toledo" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/desert,motif/hill,motif/rose,motif/well,concept/fear,concept/history,concept/imagination,concept/truth,concept/wonder,form/history,histref/christianity,histref/islam,setting/cathedral,setting/desert,character/jones"></span>
 
 
 THE TRADITION OF TOLEDO
@@ -6415,7 +6415,7 @@ Mi [[Wonder|CHIEDO]] quante persone abbiano notato che una celebre citazione di 
 
 
 
-<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_02" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 2)" data-chapter="The Tradition Of Toledo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_tradition_of_toledo--part_02" data-title="The Glass Walking Stick — The Tradition Of Toledo (part 2)" data-chapter="The Tradition Of Toledo" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/well,concept/suffering,character/jones"></span>
 
 
 But there is one other quotation from it that still deserves
@@ -6542,7 +6542,7 @@ Penso che la profezia di Gibbon, come la preghiera di un tale in Virgilio, sarà
 
 
 
-<span class="atom-split" data-atom="story_06_poetry_in_action" data-title="The Glass Walking Stick — Poetry In Action" data-chapter="Poetry In Action" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_poetry_in_action" data-title="The Glass Walking Stick — Poetry In Action" data-chapter="Poetry In Action" data-kind="story" data-tags="motif/christmas,motif/childhood,concept/anti_industrialism,concept/tradition,concept/christmas_and_the_nativity,form/essay,setting/spain,character/santa_claus,character/magi"></span>
 
 
 POETRY IN ACTION
@@ -6685,7 +6685,7 @@ Ora, questo è soltanto un esempio, tra le centinaia che se ne possono raccoglie
 
 
 
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_01" data-title="The Glass Walking Stick — The Romance Of History (part 1)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_01" data-title="The Glass Walking Stick — The Romance Of History (part 1)" data-chapter="The Romance Of History" data-kind="excerpt" data-tags="archetype/hero,archetype/tragic_hero,motif/cross,motif/home,motif/ship,motif/soul,motif/time,motif/well,concept/body,concept/courage,concept/doubt,concept/heroism,concept/history,concept/pride,form/history,form/tragedy,histref/crusades,histref/french_revolution,setting/germany,setting/ship,character/don_john_of_austria,character/don_quixote"></span>
 
 
 THE ROMANCE OF HISTORY
@@ -6831,7 +6831,7 @@ Per esempio, Goffredo di Buglione morì giovane, consumato da una febbre che in 
 
 
 
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_02" data-title="The Glass Walking Stick — The Romance Of History (part 2)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_02" data-title="The Glass Walking Stick — The Romance Of History (part 2)" data-chapter="The Romance Of History" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/horse,motif/lion,motif/nature,motif/ship,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/nature,form/history,form/sketch,histref/renaissance,setting/ship,character/bottom"></span>
 
 
 There are any number of other examples of the kind.
@@ -7021,7 +7021,7 @@ Prendiamo questo esempio di ciò che intendo. Ogni persona moderna d'intelligenz
 
 
 
-<span class="atom-split" data-atom="story_07_the_romance_of_history--part_03" data-title="The Glass Walking Stick — The Romance Of History (part 3)" data-chapter="The Romance Of History" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_romance_of_history--part_03" data-title="The Glass Walking Stick — The Romance Of History (part 3)" data-chapter="The Romance Of History" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/nature,motif/stars,motif/time,motif/well,concept/doubt,concept/history,concept/nature,concept/truth,form/history,histref/renaissance,setting/court,character/arthur,character/king_arthur"></span>
 
 
 THE [[Court|COURT]] OF CAMELOT
@@ -7174,7 +7174,7 @@ Buona parte della tediosità della storia moderna venne dall'idea di progresso. 
 
 
 
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_01" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 1)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_01" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 1)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt" data-tags="motif/the_grave,concept/heroism,concept/realism,concept/truth,concept/history,form/essay,setting/canada,character/general_wolfe,character/thomas_gray"></span>
 
 
 WOLFE AND THE MIDSHIPMAN
@@ -7315,7 +7315,7 @@ Ebbene, la storia popolare è che qualche tempo prima dell'assalto, forse il gio
 
 
 
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_02" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 2)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_02" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 2)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/desire,motif/ship,motif/time,concept/body,concept/doubt,concept/imagination,concept/truth,form/allegory,histref/christianity,histref/islam,setting/ship,character/apollo,character/christ,character/speed"></span>
 
 
 Then the massive sceptical mind moves on to the next great difficulty
@@ -7441,7 +7441,7 @@ Devono esserci state moltitudini di intellettuali, nutriti della tradizione di E
 
 
 
-<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_03" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 3)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_wolfe_and_the_midshipman--part_03" data-title="The Glass Walking Stick — Wolfe And The Midshipman (part 3)" data-chapter="Wolfe And The Midshipman" data-kind="excerpt" data-tags="motif/city,concept/body,concept/history,form/allegory,form/history,histref/christianity,character/apollo,character/diana"></span>
 
 
 The people arranging for the Peace Memorial of the League
@@ -7569,7 +7569,7 @@ ciò che proviene dai miti o dai misteri o dal passato?
 
 
 
-<span class="atom-split" data-atom="story_09_st_george_for_england" data-title="The Glass Walking Stick — St George For England" data-chapter="St George For England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_st_george_for_england" data-title="The Glass Walking Stick — St George For England" data-chapter="St George For England" data-kind="story" data-tags="archetype/martyr_saint,motif/dragon,concept/courage,concept/heroism,concept/hero_worship,concept/nationalism_and_patriotism,concept/martyrdom,form/essay,character/st_george"></span>
 
 
 ST GEORGE FOR ENGLAND
@@ -7711,7 +7711,7 @@ Io stesso penso che qualcosa potrebbe essere fatto dalla nazione inglese con la 
 
 
 
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_01" data-title="The Glass Walking Stick — The National Anthem (part 1)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_01" data-title="The Glass Walking Stick — The National Anthem (part 1)" data-chapter="The National Anthem" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/memory,motif/well,concept/comradeship,concept/hope,concept/wonder,form/biography,setting/court,character/pistol"></span>
 
 
 THE NATIONAL ANTHEM
@@ -7869,7 +7869,7 @@ HO appena finito di leggere quella che non è soltanto un'eccellente [[Biography
 
 
 
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_02" data-title="The Glass Walking Stick — The National Anthem (part 2)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_02" data-title="The Glass Walking Stick — The National Anthem (part 2)" data-chapter="The National Anthem" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/king,archetype/monster,motif/time,concept/honour,concept/jealousy,concept/truth,character/queen"></span>
 
 
 The truth is that poor George has been the victim of a prolonged effort
@@ -7996,7 +7996,7 @@ Gli fu proibito da bigotti e tiranni di chiamare sua moglie sua moglie, e quella
 
 
 
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_03" data-title="The Glass Walking Stick — The National Anthem (part 3)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_03" data-title="The Glass Walking Stick — The National Anthem (part 3)" data-chapter="The National Anthem" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/crown,motif/death,motif/garden,motif/memory,motif/night,motif/stars,motif/well,concept/apocalypse,concept/democracy,concept/truth,concept/wonder,form/tragedy,setting/london,character/queen"></span>
 
 
 George's liberality was anything but a mere party pose and the making
@@ -8137,7 +8137,7 @@ L'ampiezza della lode di [[King|Re]] Edoardo nella leggenda popolare era fondame
 
 
 
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_04" data-title="The Glass Walking Stick — The National Anthem (part 4)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_04" data-title="The Glass Walking Stick — The National Anthem (part 4)" data-chapter="The National Anthem" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/desert,motif/insects,motif/leaves,motif/night,motif/well,concept/courage,concept/doubt,concept/honour,concept/suffering,form/tragedy,setting/desert,character/lord_mayor"></span>
 
 
 His reputation for a humane normality had one aspect in which he was
@@ -8267,7 +8267,7 @@ Ma sebbene in questo, come in molte altre cose, sia la religione [[Alone|soltant
 
 
 
-<span class="atom-split" data-atom="story_10_the_national_anthem--part_05" data-title="The Glass Walking Stick — The National Anthem (part 5)" data-chapter="The National Anthem" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_national_anthem--part_05" data-title="The Glass Walking Stick — The National Anthem (part 5)" data-chapter="The National Anthem" data-kind="excerpt" data-tags="motif/soul"></span>
 
 
 Now, of this [[Soul|soul]] in masculine ‘good form', this slight but
@@ -8358,7 +8358,7 @@ Eppure ancora una volta, in relazione con quegli aspetti del defunto Re che poss
 
 
 
-<span class="atom-split" data-atom="story_11_king_george_v" data-title="The Glass Walking Stick — King George V" data-chapter="King George V" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_king_george_v" data-title="The Glass Walking Stick — King George V" data-chapter="King George V" data-kind="story" data-tags="archetype/king,motif/soul,motif/well,concept/pride"></span>
 
 
 KING GEORGE V
@@ -8516,7 +8516,7 @@ Come sovrano patriottico e servitore pubblico, specialmente in materia di respon
 
 
 
-<span class="atom-split" data-atom="story_12_on_lying_in_state" data-title="The Glass Walking Stick — On Lying In State" data-chapter="On Lying In State" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_on_lying_in_state" data-title="The Glass Walking Stick — On Lying In State" data-chapter="On Lying In State" data-kind="story" data-tags="archetype/child,archetype/king,archetype/tyrant,motif/crown,motif/death,motif/horse,motif/secrets,motif/time,motif/well,concept/body,concept/common_man,concept/history,concept/truth,form/history,character/king_john"></span>
 
 
 ON LYING IN STATE
@@ -8648,7 +8648,7 @@ Che questa visione popolare del Monarca fosse cresciuta a dismisura al [[Time|te
 
 
 
-<span class="atom-split" data-atom="story_13_the_alphabet_of_giants" data-title="The Glass Walking Stick — The Alphabet Of Giants" data-chapter="The Alphabet Of Giants" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_alphabet_of_giants" data-title="The Glass Walking Stick — The Alphabet Of Giants" data-chapter="The Alphabet Of Giants" data-kind="story" data-tags="motif/city,motif/home,motif/lion,motif/moon,concept/education,concept/history,concept/imagination,concept/paradox,concept/truth,form/history,histref/islam,histref/renaissance,character/queen"></span>
 
 
 THE ALPHABET OF GIANTS
@@ -8793,7 +8793,7 @@ Non è affatto sorprendente che la persona superiore non potesse imparare alcuna
 
 
 
-<span class="atom-split" data-atom="story_14_baroque_and_gothic_architecture" data-title="The Glass Walking Stick — Baroque And Gothic Architecture" data-chapter="Baroque And Gothic Architecture" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_baroque_and_gothic_architecture" data-title="The Glass Walking Stick — Baroque And Gothic Architecture" data-chapter="Baroque And Gothic Architecture" data-kind="story" data-tags="archetype/fool,archetype/king,motif/birds,motif/time,motif/well,concept/freedom,concept/grotesque,concept/history,form/comedy,form/history,form/tragedy,histref/reformation,histref/renaissance,character/henry_viii,character/monks"></span>
 
 
 BAROQUE AND GOTHIC ARCHITECTURE
@@ -8944,7 +8944,7 @@ In Francia questo Stato forte fu stabilito, con i vantaggi che quella concezione
 
 
 
-<span class="atom-split" data-atom="story_15_robert_bruce_and_his_age" data-title="The Glass Walking Stick — Robert Bruce And His Age" data-chapter="Robert Bruce And His Age" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_robert_bruce_and_his_age" data-title="The Glass Walking Stick — Robert Bruce And His Age" data-chapter="Robert Bruce And His Age" data-kind="story" data-tags="archetype/hero,archetype/king,motif/death,motif/decay,motif/nature,motif/river,motif/time,concept/body,concept/faith,concept/freedom,concept/nature,setting/castle,character/queen"></span>
 
 
 ROBERT BRUCE AND HIS AGE
@@ -9108,7 +9108,7 @@ Questo secondo capovolgimento della visione avviene di solito se o quando lo stu
 
 
 
-<span class="atom-split" data-atom="story_16_what_might_have_been" data-title="The Glass Walking Stick — What Might Have Been" data-chapter="What Might Have Been" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_what_might_have_been" data-title="The Glass Walking Stick — What Might Have Been" data-chapter="What Might Have Been" data-kind="story" data-tags="concept/history,concept/critique_of_progress,concept/nationalism_and_patriotism,form/essay,histref/hundred_years_war,histref/the_french_revolution,setting/england,setting/france,character/napoleon,character/sir_thomas_more,character/st_joan_of_arc"></span>
 
 
 WHAT MIGHT HAVE BEEN
@@ -9255,7 +9255,7 @@ Che il mondo stia o no viaggiando verso la meta giusta, mi sembra che abbia quas
 
 
 
-<span class="atom-split" data-atom="story_17_the_age_of_reason--part_01" data-title="The Glass Walking Stick — The Age Of Reason (part 1)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_age_of_reason--part_01" data-title="The Glass Walking Stick — The Age Of Reason (part 1)" data-chapter="The Age Of Reason" data-kind="excerpt" data-tags="concept/history,concept/reason_and_rationalism,concept/classical_education,form/essay,histref/the_age_of_reason_eighteenth_century_rationalism,histref/ancient_rome,histref/samuel_johnson"></span>
 
 
 THE AGE OF REASON
@@ -9401,7 +9401,7 @@ La religione del Settecento fu finemente espressa nel motto di un gruppo di soci
 
 
 
-<span class="atom-split" data-atom="story_17_the_age_of_reason--part_02" data-title="The Glass Walking Stick — The Age Of Reason (part 2)" data-chapter="The Age Of Reason" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_the_age_of_reason--part_02" data-title="The Glass Walking Stick — The Age Of Reason (part 2)" data-chapter="The Age Of Reason" data-kind="excerpt" data-tags="concept/democracy,concept/liberty,concept/economics,concept/critique_of_progress,form/essay,histref/the_french_revolution,histref/the_industrial_revolution,histref/ancient_rome,histref/the_age_of_reason_eighteenth_century_rationalism,character/marie_antoinette,character/thomas_jefferson"></span>
 
 
 We sneer at the old gentlemen quoting Horace while hobnobbing
@@ -9557,7 +9557,7 @@ Bisogna sempre ricordare che la scala dell'azione finanziaria era allora più pi
 
 
 
-<span class="atom-split" data-atom="story_18_the_victorians" data-title="The Glass Walking Stick — The Victorians" data-chapter="The Victorians" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_victorians" data-title="The Glass Walking Stick — The Victorians" data-chapter="The Victorians" data-kind="story" data-tags="motif/time,concept/doubt,concept/fear,concept/self,histref/christianity,histref/puritanism,setting/germany,setting/italy,character/jane_eyre,character/queen"></span>
 
 
 THE VICTORIANS
@@ -9685,7 +9685,7 @@ In breve, fu un [[Time|tempo]] di tradizione; e nel modo più enfatico non un [[
 
 
 
-<span class="atom-split" data-atom="story_19_the_national_spirit" data-title="The Glass Walking Stick — The National Spirit" data-chapter="The National Spirit" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_national_spirit" data-title="The Glass Walking Stick — The National Spirit" data-chapter="The National Spirit" data-kind="story" data-tags="motif/death,motif/desert,motif/snow,motif/soul,motif/stars,motif/time,motif/well,motif/winter,concept/doubt,concept/freedom,concept/history,concept/paradox,concept/truth,form/history,form/tragedy,histref/christianity,setting/desert,setting/egypt,character/christ"></span>
 
 
 THE NATIONAL SPIRIT
@@ -9841,7 +9841,7 @@ Una nazione può esagerare se stessa o restare al di sotto di se stessa; ma una 
 
 
 
-<span class="atom-split" data-atom="story_20_the_rights_of_ritual" data-title="The Glass Walking Stick — The Rights Of Ritual" data-chapter="The Rights Of Ritual" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_rights_of_ritual" data-title="The Glass Walking Stick — The Rights Of Ritual" data-chapter="The Rights Of Ritual" data-kind="story" data-tags="motif/night,motif/time,motif/well,concept/truth"></span>
 
 
 THE RIGHTS OF RITUAL
@@ -10022,7 +10022,7 @@ e quando l'avremo compreso potremo capire perché la grande voce che un tempo di
 
 
 
-<span class="atom-split" data-atom="story_21_the_inside_of_life" data-title="The Glass Walking Stick — The Inside Of Life" data-chapter="The Inside Of Life" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_inside_of_life" data-title="The Glass Walking Stick — The Inside Of Life" data-chapter="The Inside Of Life" data-kind="story" data-tags="motif/animals,motif/desert,motif/soul,motif/time,setting/desert,setting/paris"></span>
 
 
 THE INSIDE OF LIFE
@@ -10168,7 +10168,7 @@ Spesso, viaggiando con tre o quattro sconosciuti sull'imperiale di un omnibus, h
 
 
 
-<span class="atom-split" data-atom="story_22_tricks_of_memory" data-title="The Glass Walking Stick — Tricks Of Memory" data-chapter="Tricks Of Memory" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_tricks_of_memory" data-title="The Glass Walking Stick — Tricks Of Memory" data-chapter="Tricks Of Memory" data-kind="story" data-tags="archetype/artist,archetype/child,motif/desire,motif/memory,motif/well,concept/conscience,concept/humility,form/novel"></span>
 
 
 TRICKS OF MEMORY
@@ -10305,7 +10305,7 @@ Hyde è l'innocenza del male. Egli rappresenta la verità (attestata da cento ra
 
 
 
-<span class="atom-split" data-atom="story_23_the_code_napoleon" data-title="The Glass Walking Stick — The Code Napoleon" data-chapter="The Code Napoleon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_code_napoleon" data-title="The Glass Walking Stick — The Code Napoleon" data-chapter="The Code Napoleon" data-kind="story" data-tags="archetype/monster,archetype/tyrant,motif/city,motif/desire,motif/flag,motif/memory,motif/well,concept/doubt,concept/fear,concept/freedom,concept/history,concept/reform,form/history,histref/french_revolution,setting/paris"></span>
 
 
 THE CODE NAPOLEON
@@ -10491,7 +10491,7 @@ In breve, Napoleone può aver avuto o meno tutte queste stravaganti virtù e viz
 
 
 
-<span class="atom-split" data-atom="story_24_cyrano_and_chantecler" data-title="The Glass Walking Stick — Cyrano And Chantecler" data-chapter="Cyrano And Chantecler" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_cyrano_and_chantecler" data-title="The Glass Walking Stick — Cyrano And Chantecler" data-chapter="Cyrano And Chantecler" data-kind="story" data-tags="archetype/hero,motif/cross,motif/death,motif/love,motif/night,motif/stars,concept/heroism,concept/resurrection,concept/union,form/satire,form/tragedy,form/translation"></span>
 
 
 CYRANO AND CHANTECLER
@@ -10628,7 +10628,7 @@ Proprio perché Rostand, francese romantico e patriottico, ride dell'onnipotenza
 
 
 
-<span class="atom-split" data-atom="story_25_passing_through_the_customs" data-title="The Glass Walking Stick — Passing Through The Customs" data-chapter="Passing Through The Customs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_passing_through_the_customs" data-title="The Glass Walking Stick — Passing Through The Customs" data-chapter="Passing Through The Customs" data-kind="story" data-tags="motif/animals,motif/clock,motif/marriage,motif/time,histref/french_revolution,setting/cathedral,setting/germany"></span>
 
 
 PASSING THROUGH THE CUSTOMS
@@ -10716,7 +10716,7 @@ L'atmosfera del porto e della dogana inglesi è poi una terza cosa; meno descriv
 
 
 
-<span class="atom-split" data-atom="story_26_his_sigh_is_a_hullaballoo" data-title="The Glass Walking Stick — His Sigh Is A Hullaballoo" data-chapter="His Sigh Is A Hullaballoo" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_his_sigh_is_a_hullaballoo" data-title="The Glass Walking Stick — His Sigh Is A Hullaballoo" data-chapter="His Sigh Is A Hullaballoo" data-kind="story" data-tags="concept/nationalism_and_patriotism,concept/democracy,concept/liberty,form/essay,histref/the_first_world_war,setting/france,setting/paris,character/e_c_bentley"></span>
 
 
 HIS SIGH IS A HULLABALLOO
@@ -10841,7 +10841,7 @@ Sono profondamente convinto che i francesi torneranno ancora una volta a guidare
 
 
 
-<span class="atom-split" data-atom="story_27_the_narrowness_of_novelty" data-title="The Glass Walking Stick — The Narrowness Of Novelty" data-chapter="The Narrowness Of Novelty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_narrowness_of_novelty" data-title="The Glass Walking Stick — The Narrowness Of Novelty" data-chapter="The Narrowness Of Novelty" data-kind="story" data-tags="concept/literary_criticism,concept/tradition,concept/critique_of_progress,concept/imagination,form/essay,histref/the_romantic_movement,histref/the_french_revolution,histref/algernon_charles_swinburne,character/tennyson"></span>
 
 
 THE NARROWNESS OF NOVELTY
@@ -10992,7 +10992,7 @@ Ciò che serve è la immaginazione veramente divina che fa nuove tutte le cose, 
 
 
 
-<span class="atom-split" data-atom="story_28_the_merits_of_shakespeare_s_plots" data-title="The Glass Walking Stick — The Merits Of Shakespeare'S Plots" data-chapter="The Merits Of Shakespeare S Plots" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_merits_of_shakespeare_s_plots" data-title="The Glass Walking Stick — The Merits Of Shakespeare'S Plots" data-chapter="The Merits Of Shakespeare S Plots" data-kind="story" data-tags="archetype/detective,archetype/hero,motif/secrets,motif/soul,motif/time,concept/imagination,concept/madness,concept/truth,character/hamlet,character/oberon,character/polonius"></span>
 
 
 THE MERITS OF SHAKESPEARE'S PLOTS
@@ -11127,7 +11127,7 @@ Quella nota fu trascurata e quasi perduta nell'intero mondo moderno; e a stento 
 
 
 
-<span class="atom-split" data-atom="story_29_a_plea_for_the_heroic_couplet" data-title="The Glass Walking Stick — A Plea For The Heroic Couplet" data-chapter="A Plea For The Heroic Couplet" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_a_plea_for_the_heroic_couplet" data-title="The Glass Walking Stick — A Plea For The Heroic Couplet" data-chapter="A Plea For The Heroic Couplet" data-kind="story" data-tags="motif/decay,motif/time,motif/well,concept/doubt,concept/imagination,concept/temptation,concept/truth,form/epic,form/epigram,form/parody,histref/milton,character/endymion,character/milton,character/satan"></span>
 
 
 A PLEA FOR THE HEROIC COUPLET
@@ -11319,7 +11319,7 @@ Quando accoglieremo davvero il prossimo poeta, [[Doubt|dubito]] che egli somigli
 
 
 
-<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_01" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 1)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_01" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 1)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt" data-tags="motif/city,motif/home,motif/memory,motif/nature,concept/madness,concept/nature,concept/pride,concept/self,histref/dante,setting/industrial_city,character/beatrice"></span>
 
 
 TO PRAISE, EXALT, ESTABLISH, AND DEFEND
@@ -11452,7 +11452,7 @@ Il secondo termine, «esaltare», è ugualmente essenziale, ma piuttosto più mi
 
 
 
-<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_02" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 2)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_02" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 2)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt" data-tags="archetype/artist,archetype/prophet,motif/secrets,motif/soul,motif/time,concept/body,concept/imagination,concept/self,concept/truth"></span>
 
 
 But if we insist on the word ‘exalt', we must equally
@@ -11588,7 +11588,7 @@ La vera [[Truth|verità]] da riconoscere, dall'altra parte, è questa. L'espress
 
 
 
-<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_03" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 3)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_30_to_praise_exalt_establish_and_defend--part_03" data-title="The Glass Walking Stick — To Praise, Exalt, Establish, And Defend (part 3)" data-chapter="To Praise Exalt Establish And Defend" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/time,motif/well,concept/democracy,concept/hope,concept/self,form/essay,form/parody"></span>
 
 
 It is true that there is a sort of bad [[Parody|parody]] of this good process.

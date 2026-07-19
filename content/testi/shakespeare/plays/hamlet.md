@@ -1457,7 +1457,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Hamlet — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Hamlet — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/cross,motif/death,motif/fire,motif/hill,motif/night,motif/time,motif/well,concept/fear,concept/pride,concept/truth,concept/wonder,setting/denmark,character/hamlet,character/horatio,character/sunday,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1530,7 +1530,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Hamlet — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Hamlet — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/death,motif/desire,motif/dust,motif/garden,motif/love,motif/marriage,motif/memory,motif/nature,motif/night,motif/river,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/doubt,concept/eternity,concept/faith,concept/fear,concept/honour,concept/nature,concept/self,form/dirge,setting/denmark,character/claudius,character/gertrude,character/hamlet,character/horatio,character/hyperion,character/laertes,character/ophelia,character/polonius,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1626,7 +1626,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Hamlet — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Hamlet — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/fool,motif/blood,motif/desire,motif/fire,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/sleep,motif/soul,motif/spring,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/nature,concept/self,concept/truth,setting/denmark,character/hamlet,character/laertes,character/ophelia,character/polonius"></span>
 
 
 | Speaker | Line |
@@ -1665,7 +1665,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Hamlet — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Hamlet — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/death,motif/desire,motif/lion,motif/moon,motif/nature,motif/night,motif/soul,concept/body,concept/fear,concept/imagination,concept/madness,concept/nature,setting/denmark,character/hamlet,character/horatio"></span>
 
 
 | Speaker | Line |
@@ -1709,7 +1709,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Hamlet — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Hamlet — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/ghost,archetype/villain,motif/blood,motif/crown,motif/death,motif/desire,motif/fire,motif/grave,motif/love,motif/marriage,motif/memory,motif/nature,motif/night,motif/prison,motif/secrets,motif/soul,motif/stars,motif/time,motif/well,concept/body,concept/faith,concept/mercy,concept/nature,concept/revenge,setting/court,setting/denmark,character/hamlet,character/horatio,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1786,7 +1786,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Hamlet — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Hamlet — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/lover,archetype/shadow,archetype/tyrant,archetype/villain,motif/animals,motif/blood,motif/city,motif/death,motif/desert,motif/dreams,motif/dust,motif/fire,motif/grave,motif/hill,motif/home,motif/horse,motif/love,motif/machine,motif/marriage,motif/memory,motif/night,motif/prison,motif/silence,motif/soul,motif/stars,motif/storm,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/ambition,concept/beauty,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/history,concept/honour,concept/hope,concept/jealousy,concept/madness,concept/melancholy,concept/mercy,concept/revenge,concept/truth,form/blank_verse,form/comedy,form/essay,form/history,form/tragedy,setting/court,setting/denmark,setting/desert,setting/paris,character/claudius,character/gertrude,character/guildenstern,character/hamlet,character/ophelia,character/polonius,character/queen,character/rosencrantz,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2018,7 +2018,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Hamlet — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Hamlet — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/bells,motif/death,motif/dreams,motif/home,motif/love,motif/night,motif/rose,motif/sleep,motif/snow,motif/soul,motif/time,motif/well,concept/beauty,concept/conscience,concept/doubt,concept/honour,concept/hope,concept/imagination,concept/loneliness,concept/madness,concept/melancholy,concept/paradox,setting/court,character/claudius,character/gertrude,character/guildenstern,character/hamlet,character/ophelia,character/polonius,character/queen,character/rosencrantz,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2079,7 +2079,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Hamlet — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Hamlet — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/blood,motif/crown,motif/death,motif/fire,motif/flowers,motif/garden,motif/horse,motif/leaves,motif/love,motif/marriage,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/poison,motif/seasons,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/ambition,concept/body,concept/faith,concept/fear,concept/guilt,concept/history,concept/honour,concept/hope,concept/nature,concept/reform,concept/revenge,form/comedy,form/history,form/tragedy,setting/denmark,character/baptista,character/brutus,character/chorus,character/claudius,character/gertrude,character/guildenstern,character/hamlet,character/horatio,character/julius_caesar,character/ophelia,character/polonius,character/queen,character/rosencrantz"></span>
 
 
 | Speaker | Line |
@@ -2245,7 +2245,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Hamlet — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Hamlet — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/king,archetype/villain,motif/blood,motif/crown,motif/death,motif/home,motif/nature,motif/prayer,motif/snow,motif/soul,motif/well,motif/wheel,concept/ambition,concept/fear,concept/guilt,concept/madness,concept/mercy,concept/nature,concept/revenge,character/claudius,character/guildenstern,character/hamlet,character/polonius,character/queen,character/rosencrantz"></span>
 
 
 | Speaker | Line |
@@ -2275,7 +2275,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Hamlet — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Hamlet — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/innocent,archetype/king,archetype/villain,motif/birds,motif/blood,motif/death,motif/fire,motif/frost,motif/grave,motif/hill,motif/home,motif/love,motif/marriage,motif/night,motif/rose,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/fear,concept/madness,character/gertrude,character/hamlet,character/hyperion,character/polonius,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2345,7 +2345,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Hamlet — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Hamlet — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/love,motif/ship,motif/soul,motif/wind,concept/body,concept/madness,concept/providence,setting/mountains,setting/ship,character/claudius,character/gertrude,character/guildenstern,character/hamlet,character/polonius,character/queen,character/rosencrantz"></span>
 
 
 | Speaker | Line |
@@ -2367,7 +2367,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Hamlet — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Hamlet — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/dust,concept/body,character/guildenstern,character/hamlet,character/rosencrantz"></span>
 
 
 | Speaker | Line |
@@ -2397,7 +2397,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Hamlet — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Hamlet — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/love,motif/wind,concept/body,character/claudius,character/guildenstern,character/hamlet,character/polonius,character/rosencrantz,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2442,7 +2442,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Hamlet — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Hamlet — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,character/hamlet"></span>
 
 
 | Speaker | Line |
@@ -2457,7 +2457,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Hamlet — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Hamlet — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/crown,motif/death,motif/desire,motif/flowers,motif/grave,motif/love,motif/nature,motif/night,motif/poison,motif/rose,motif/snow,motif/soul,motif/tears,motif/well,motif/wheel,motif/window,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/guilt,concept/hope,concept/jealousy,concept/madness,concept/mercy,concept/nature,concept/revenge,concept/wonder,setting/denmark,character/claudius,character/gertrude,character/hamlet,character/horatio,character/laertes,character/ophelia,character/polonius,character/queen,character/valentine"></span>
 
 
 | Speaker | Line |
@@ -2548,7 +2548,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Hamlet — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Hamlet — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,motif/death,motif/ship,concept/mercy,setting/ship,character/guildenstern,character/hamlet,character/horatio,character/rosencrantz"></span>
 
 
 | Speaker | Line |
@@ -2567,7 +2567,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Hamlet — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Hamlet — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,archetype/king,motif/blood,motif/death,motif/fire,motif/flowers,motif/home,motif/horse,motif/leaves,motif/love,motif/moon,motif/nature,motif/soul,motif/spring,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/conscience,concept/fear,concept/hope,concept/nature,concept/revenge,character/claudio,character/claudius,character/gertrude,character/hamlet,character/laertes,character/mermaid,character/ophelia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2621,7 +2621,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Hamlet — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Hamlet — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,topos/quest,archetype/fool,archetype/king,motif/death,motif/dust,motif/flowers,motif/grave,motif/home,motif/horse,motif/love,motif/night,motif/silence,motif/soul,motif/spring,motif/stars,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/body,concept/faith,concept/fear,concept/imagination,concept/madness,concept/truth,concept/wonder,setting/denmark,setting/mountains,character/cain,character/claudius,character/gertrude,character/hamlet,character/horatio,character/laertes,character/ophelia,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2751,7 +2751,7 @@ The [[Tragedy]] of [[Hamlet]], Prince of [[Denmark]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Hamlet — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Hamlet — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/ghost,archetype/king,archetype/monster,motif/blood,motif/crown,motif/death,motif/desire,motif/fire,motif/leaves,motif/love,motif/marriage,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/pain,motif/poison,motif/prison,motif/ship,motif/silence,motif/sleep,motif/soul,motif/stars,motif/time,motif/water,motif/well,motif/wind,concept/ambition,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/forgiveness,concept/friendship,concept/honour,concept/hope,concept/identity,concept/madness,concept/nature,concept/providence,concept/revenge,concept/sexuality,concept/union,concept/wonder,form/comedy,setting/court,setting/denmark,setting/london,setting/ship,character/antonio,character/claudius,character/feste,character/gertrude,character/guildenstern,character/hamlet,character/horatio,character/laertes,character/malvolio,character/maria,character/olivia,character/orsino,character/queen,character/queen_elizabeth,character/rosencrantz,character/sebastian,character/sir_andrew_aguecheek,character/sir_toby_belch,character/viola"></span>
 
 
 | Speaker | Line |

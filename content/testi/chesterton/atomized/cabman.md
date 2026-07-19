@@ -154,7 +154,7 @@ later collected in the volume of essays Tremendous Trifles.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="cabman (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="cabman (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/time,concept/despair,concept/doubt,form/parable,setting/london"></span>
 
 
 The Extraordinary [[cabman|Cabman]]
@@ -262,7 +262,7 @@ Ora, quando questa disputa fu finita, o almeno quando fu troncata (perché non s
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="cabman (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="cabman (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/horse,motif/road,motif/stars,concept/democracy,setting/london"></span>
 
 
 I looked at the man.  No ordinary dishonest [[cabman]] would

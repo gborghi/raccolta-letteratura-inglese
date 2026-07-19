@@ -238,7 +238,7 @@ Of the petrel and the porpoise. In my end is my beginning.
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="East Coker — I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="East Coker — I" data-chapter="part i" data-kind="section" data-tags="motif/dawn,motif/death,motif/fire,motif/seasons,motif/silence,motif/sleep,motif/summer,motif/time,motif/wind"></span>
 
 
 I  
@@ -297,7 +297,7 @@ Or there, or elsewhere. In my beginning.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="East Coker — II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="East Coker — II" data-chapter="part II" data-kind="section" data-tags="motif/fire,motif/hill,motif/moon,motif/secrets,motif/snow,motif/spring,motif/stars,motif/summer,concept/fear,concept/hope,concept/humility"></span>
 
 
 II  
@@ -355,7 +355,7 @@ The dancers are all gone under the [[Hill|hill]].
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="East Coker — III" data-chapter="part III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="East Coker — III" data-chapter="part III" data-kind="section" data-tags="motif/death,motif/garden,motif/lightning,motif/love,motif/moon,motif/silence,motif/soul,motif/winter,concept/faith,concept/hope"></span>
 
 
 III
@@ -410,7 +410,7 @@ And where you are is where you are not.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="East Coker — IV" data-chapter="part IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="East Coker — IV" data-chapter="part IV" data-kind="section" data-tags="motif/blood,motif/well,character/nurse"></span>
 
 
 IV  
@@ -443,7 +443,7 @@ Again, in spite of that, we call this Friday good.
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="East Coker — V" data-chapter="part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="East Coker — V" data-chapter="part v" data-kind="section" data-tags="motif/home,motif/love,motif/time,motif/wind,concept/hope,concept/union"></span>
 
 
 V

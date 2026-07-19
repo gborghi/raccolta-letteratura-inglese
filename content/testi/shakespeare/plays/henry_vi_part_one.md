@@ -1056,7 +1056,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Henry VI Part One — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Henry VI Part One — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/crown,motif/death,motif/fire,motif/night,motif/soul,motif/stars,motif/tears,motif/time,concept/doubt,setting/paris,character/dauphin,character/duke_of_exeter,character/duke_of_gloucester,character/earl_of_salisbury,character/earl_of_warwick,character/gloucester,character/henry_vi,character/julius_caesar,character/lord_talbot,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -1106,7 +1106,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Henry VI Part One — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Henry VI Part One — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/death,motif/ghosts,motif/well,concept/fear,concept/honour,character/charles_the_dauphin,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -1119,7 +1119,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Henry VI Part One — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Henry VI Part One — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/prophet,motif/death,motif/desire,motif/love,motif/night,motif/ship,motif/summer,motif/time,motif/water,motif/well,concept/beauty,concept/courage,concept/fear,setting/ship,character/charles_the_dauphin,character/christ,character/dauphin,character/helen,character/henry_vi,character/joan_la_pucelle,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1159,7 +1159,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="Henry VI Part One — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="Henry VI Part One — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/crown,motif/death,motif/pain,concept/fear,setting/london,character/cain,character/duke_of_gloucester,character/gloucester,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -1215,7 +1215,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Henry VI Part One — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Henry VI Part One — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/city,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -1232,7 +1232,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_6" data-title="Henry VI Part One — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_6" data-title="Henry VI Part One — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/city,motif/death,motif/horse,motif/mirror,motif/time,concept/body,concept/fear,concept/mercy,form/tragedy,character/dauphin,character/earl_of_salisbury,character/henry_vi,character/joan_la_pucelle,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1261,7 +1261,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_7" data-title="Henry VI Part One — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_7" data-title="Henry VI Part One — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/bees,motif/blood,motif/death,motif/horse,motif/soul,motif/wheel,concept/courage,concept/fear,concept/revenge,character/dauphin,character/henry_vi,character/joan_la_pucelle,character/lord_talbot,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1288,7 +1288,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_1--scene_8" data-title="Henry VI Part One — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_8" data-title="Henry VI Part One — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="motif/crown,motif/garden,motif/memory,concept/honour,character/adonis,character/charles_the_dauphin,character/dauphin,character/henry_vi,character/joan_la_pucelle"></span>
 
 
 | Speaker | Line |
@@ -1301,7 +1301,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Henry VI Part One — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Henry VI Part One — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/grave,motif/night,motif/sleep,motif/time,motif/well,setting/court,character/charles_the_dauphin,character/henry_vi,character/joan_la_pucelle,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1349,7 +1349,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Henry VI Part One — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Henry VI Part One — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/death,motif/night,motif/soul,motif/well,concept/body,concept/revenge,setting/castle,character/dauphin,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1378,7 +1378,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Henry VI Part One — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Henry VI Part One — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/shadow,motif/death,motif/time,motif/well,concept/body,character/dwarf,character/hector,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1416,7 +1416,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Henry VI Part One — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Henry VI Part One — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/garden,motif/grave,motif/love,motif/memory,motif/night,motif/rose,motif/silence,motif/soul,motif/spring,motif/time,motif/well,concept/ambition,concept/faith,concept/fear,concept/honour,concept/truth,character/clarence,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1476,7 +1476,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Henry VI Part One — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Henry VI Part One — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/desire,motif/grave,motif/prison,motif/silence,motif/soul,motif/well,concept/ambition,concept/body,concept/doubt,concept/honour,concept/imprisonment,character/clarence,character/duke_of_york,character/edmund,character/henry_vi,character/john_of_gaunt,character/richard,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -1509,7 +1509,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Henry VI Part One — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Henry VI Part One — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/cross,motif/crown,motif/death,motif/flag,motif/love,motif/nature,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/fear,concept/friendship,concept/nature,concept/pride,setting/castle,setting/london,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/richard,character/young_king"></span>
 
 
 | Speaker | Line |
@@ -1587,7 +1587,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Henry VI Part One — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Henry VI Part One — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/city,concept/hope,character/charles_the_dauphin,character/henry_vi,character/joan_la_pucelle"></span>
 
 
 | Speaker | Line |
@@ -1604,7 +1604,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Henry VI Part One — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Henry VI Part One — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/prophet,motif/sleep,motif/time,concept/revenge,character/charles_the_dauphin,character/dauphin,character/henry_vi,character/joan_la_pucelle"></span>
 
 
 | Speaker | Line |
@@ -1624,7 +1624,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Henry VI Part One — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Henry VI Part One — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/tears,concept/pride,character/henry_vi,character/lord_talbot,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1635,7 +1635,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Henry VI Part One — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Henry VI Part One — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/damsel,motif/death,motif/lion,motif/soul,motif/time,concept/honour,concept/revenge,character/charles_the_dauphin,character/henry_vi,character/joan_la_pucelle,character/lord_talbot,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1673,7 +1673,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Henry VI Part One — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Henry VI Part One — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="topos/double,archetype/king,concept/honour,setting/court,setting/paris,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1688,7 +1688,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry VI Part One — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Henry VI Part One — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,archetype/rebel,archetype/villain,motif/blood,motif/crown,motif/death,motif/leaves,motif/love,motif/nature,motif/pain,motif/rose,motif/tears,motif/well,concept/common_man,concept/courage,concept/fear,concept/friendship,concept/honour,concept/hope,concept/madness,concept/nature,concept/truth,setting/court,setting/paris,character/charles_the_dauphin,character/dauphin,character/duke_of_exeter,character/duke_of_gloucester,character/duke_of_york,character/earl_of_suffolk,character/earl_of_warwick,character/gloucester,character/henry_vi,character/joan_la_pucelle,character/king_of_france,character/lord_talbot,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1795,7 +1795,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Henry VI Part One — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Henry VI Part One — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/city,motif/death,motif/fire,motif/love,motif/soul,motif/well,character/dauphin,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1812,7 +1812,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Henry VI Part One — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Henry VI Part One — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/villain,motif/cross,motif/death,motif/grave,motif/memory,motif/sleep,motif/soul,concept/honour,concept/mercy,character/dauphin,character/duke_of_york,character/henry_vi,character/richard"></span>
 
 
 | Speaker | Line |
@@ -1835,7 +1835,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Henry VI Part One — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Henry VI Part One — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/death,motif/horse,motif/love,concept/honour,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1860,7 +1860,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="Henry VI Part One — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="Henry VI Part One — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/blood,motif/death,motif/horse,motif/love,motif/soul,motif/stars,concept/fear,concept/honour,concept/hope,concept/mortality,concept/revenge,concept/self,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1889,7 +1889,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="Henry VI Part One — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="Henry VI Part One — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/blood,motif/death,motif/desire,motif/fire,motif/horse,motif/time,motif/well,concept/pride,concept/revenge,character/dauphin,character/henry_vi,character/lord_talbot"></span>
 
 
 | Speaker | Line |
@@ -1904,7 +1904,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry VI Part One — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="Henry VI Part One — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/ghost,archetype/king,motif/blood,motif/crown,motif/death,motif/grave,motif/jewel,motif/lion,motif/marriage,motif/prison,motif/well,concept/beauty,concept/body,concept/faith,concept/mortality,concept/pride,concept/wonder,setting/paris,character/charles_the_dauphin,character/dauphin,character/gloucester,character/henry_vi,character/joan_la_pucelle,character/lord_talbot,character/michael,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1962,7 +1962,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Henry VI Part One — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Henry VI Part One — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/ghost,concept/fear,setting/paris,character/charles_the_dauphin,character/henry_vi"></span>
 
 
 | Speaker | Line |
@@ -1983,7 +1983,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Henry VI Part One — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Henry VI Part One — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/dust,motif/silence,motif/soul,motif/time,concept/body,concept/hope,character/henry_vi,character/joan_la_pucelle,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1998,7 +1998,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Henry VI Part One — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Henry VI Part One — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/damsel,character/charles_the_dauphin,character/duke_of_york,character/henry_vi,character/joan_la_pucelle,character/richard,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2018,7 +2018,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Henry VI Part One — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Henry VI Part One — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,motif/crown,motif/love,motif/marriage,motif/nature,motif/pain,motif/well,concept/beauty,concept/faith,concept/fear,concept/freedom,concept/honour,concept/imprisonment,concept/mercy,concept/nature,concept/wonder,setting/castle,character/earl_of_suffolk,character/henry_vi,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2091,7 +2091,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="Henry VI Part One — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="Henry VI Part One — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/desert,motif/love,motif/time,motif/well,concept/despair,concept/truth,setting/desert,character/charles_the_dauphin,character/dauphin,character/duke_of_york,character/earl_of_warwick,character/henry_vi,character/joan_la_pucelle,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2145,7 +2145,7 @@ The First Part of Henry the Sixth
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="Henry VI Part One — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="Henry VI Part One — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,archetype/king,archetype/lover,motif/cross,motif/death,motif/horse,motif/love,motif/marriage,motif/summer,motif/time,motif/well,concept/courage,concept/fear,concept/history,concept/honour,concept/hope,concept/madness,concept/revenge,form/history,form/tragedy,setting/london,setting/paris,character/aaron,character/bassianus,character/demetrius,character/earl_of_suffolk,character/gloucester,character/henry_vi,character/juliet,character/lavinia,character/lucius,character/nurse,character/queen,character/romeo,character/saturninus,character/tamora,character/titus_andronicus"></span>
 
 
 | Speaker | Line |

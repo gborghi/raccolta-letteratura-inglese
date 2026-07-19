@@ -12472,7 +12472,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_01" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_01" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/time,concept/education,concept/history,form/comedy,form/history,histref/america,setting/america,setting/italy,character/barnaby_rudge,character/david_copperfield,character/edwin_drood,character/martin_chuzzlewit,character/nicholas_nickleby,character/oliver_twist"></span>
 
 
 CHAPTER                             PAGE
@@ -12676,7 +12676,7 @@ of many. Thackeray was a good Victorian radical, who seems to have gone
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_02" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_02" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/silence,motif/time,concept/doubt,concept/freedom,concept/history,concept/individualism,concept/pride,concept/vanity,form/history,form/satire,character/aaron,character/fagin"></span>
 
 
 to his [[Grave|grave]] quite contented with the early Victorian radical
@@ -12852,7 +12852,7 @@ cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_03" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 3)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_03" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 3)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,motif/dawn,motif/death,motif/desire,motif/leaves,motif/nature,motif/soul,concept/education,concept/history,concept/nature,concept/truth,form/history,character/david_copperfield,character/queen,character/sam_weller,character/tony_weller"></span>
 
 
 affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
@@ -13024,7 +13024,7 @@ of all nations, have the most uniform upper class and the most varied
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_04" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 4)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_04" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 4)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/time,motif/water,motif/well,concept/democracy,concept/doubt,concept/reform,concept/truth,histref/puritanism,character/harold_skimpole,character/sam_weller,character/stephen_blackpool,character/sunday"></span>
 
 
 [[democracy]]. In France it is the peasants who are solid to uniformity; it
@@ -13380,7 +13380,7 @@ trasformato. Il mio [[Doubt|dubbio]] deriva principalmente da tre
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_05" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 5)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_05" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 5)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/fire,motif/hill,motif/leaves,motif/love,motif/sleep,motif/time,concept/faith,concept/history,form/history,form/satire,character/david_copperfield,character/queen,character/queen_elizabeth"></span>
 
 
 facts. First, that England was never so richly and recognisably English
@@ -13560,7 +13560,7 @@ colossal. Their queer features and weaknesses stand out large in a sort
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_06" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 6)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_06" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 6)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/cross,motif/garden,motif/hill,motif/home,motif/memory,motif/rose,motif/storm,motif/well,motif/wind,motif/window,concept/providence,concept/sublime,setting/london,setting/paris,character/barnaby_rudge,character/pistol"></span>
 
 
 of gigantic domesticity, like the hairs and freckles of a
@@ -13912,7 +13912,7 @@ all'Albero della Vita che all'Albero della Conoscenza—perfino della conoscenza
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_07" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 7)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_07" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 7)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/death,motif/ghosts,motif/grave,motif/time,motif/well,concept/greatness,concept/original_sin,concept/reform,concept/sublime,form/tragedy,character/nurse,character/ralph_nickleby"></span>
 
 
 good and of evil. He was in this profoundest sense a realist. Critics
@@ -14090,7 +14090,7 @@ refuse at the same moment the wrong manuscript and the right man. It is
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_08" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 8)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_08" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 8)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/decay,motif/love,motif/prison,motif/time,motif/well,concept/charity,concept/doubt,concept/eternity,form/sketch,setting/london,character/angelo,character/aquinas,character/michael"></span>
 
 
 easy to see of Dickens now that he was the right man; but a man might
@@ -14434,7 +14434,7 @@ quell'elemento di amabile compromesso e di benigna [[Decay|decadenza]] che appar
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_09" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 9)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_09" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 9)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/prison,motif/time,motif/well,concept/courage,concept/despair,concept/poverty,concept/slavery,concept/truth,concept/vanity,form/comedy,character/horatio"></span>
 
 
 belongs still) to all the official institutions of England. But Dickens
@@ -14608,7 +14608,7 @@ Cause and Cause be the Precursor of Effect," said Mr. [[Horatio]] Sparkins,
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_10" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 10)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_10" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 10)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/autumn,motif/horse,motif/spring,motif/well,concept/education,concept/history,concept/truth,form/history,character/achilles,character/dick_swiveller,character/horatio,character/wilkins_micawber"></span>
 
 
 "I apprehend that you are wrong." Nobody can get at the real secret of
@@ -14956,7 +14956,7 @@ di un vecchio signore corpulento orgoglioso delle proprie gambe potrebbe facilme
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_11" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 11)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_11" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 11)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/childhood,motif/death,motif/love,motif/moon,motif/stars,motif/tears,motif/time,motif/well,concept/mercy,concept/truth,form/comedy,form/novel,form/tragedy,histref/bible"></span>
 
 
 But Mr. [[Pickwick]] proud of his legs is not vulgar; somehow we feel that
@@ -15296,7 +15296,7 @@ crude esperienze della sua fanciullezza; vi ficca dentro racconti brevi irrileva
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_12" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 12)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_12" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 12)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/chains,motif/fire,motif/leaves,motif/time,motif/well,concept/self,form/biography,form/epic,setting/denmark,character/apollo,character/hamlet"></span>
 
 
 shamelessly, as into a scrap-book; he adopts designs and abandons them,
@@ -15640,7 +15640,7 @@ minori della grande compagnia. Il signor Winkle, che è stato un idiota
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_13" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 13)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_13" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 13)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/innocent,motif/horse,motif/leaves,motif/love,motif/time,motif/well,concept/grotesque,concept/wonder,form/satire,setting/london,character/sam_weller,character/samuel_pickwick"></span>
 
 
 a bold elopement. Mr. Snodgrass, who has behaved in a ridiculous manner
@@ -15980,7 +15980,7 @@ il pathos. Questo è l'unico libro in cui Dickens fu, per così dire,
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_14" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 14)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_14" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 14)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/ghost,motif/dawn,motif/death,motif/flowers,motif/nature,motif/night,motif/time,concept/eternity,concept/honour,concept/nature,setting/mountains,character/nicholas_nickleby,character/sam_weller"></span>
 
 
 forced to trample down his tender feelings; and for that very reason it
@@ -16328,7 +16328,7 @@ processo della giustizia storica. Tutte le storie romanzesche constano di tre pe
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_15" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 15)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_15" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 15)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/decay,motif/horse,motif/love,motif/marriage,motif/nature,motif/prison,motif/time,motif/well,concept/nature,concept/paradox,concept/pride,concept/self,form/sketch,character/fagin"></span>
 
 
 Other characters may be introduced; but those other characters are
@@ -16668,7 +16668,7 @@ in frammenti ed episodi, come quelli che compongono gli _Sketches by
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_16" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 16)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_16" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 16)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/death,motif/love,motif/road,motif/spring,motif/time,concept/fear,form/novel,character/dwarf,character/nicholas_nickleby,character/vincent_crummles"></span>
 
 
 Boz_. It would be easy enough for Dickens, instead of publishing
@@ -16842,7 +16842,7 @@ kept the Infant Phenomenon short by means of gin.
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_17" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 17)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_17" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 17)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/love,motif/time,motif/well,concept/doubt,concept/loneliness,concept/truth,form/novel,character/chorus,character/madeline_bray,character/nicholas_nickleby,character/oliver_twist,character/smike"></span>
 
 
 If we wish to understand the spirit and the period of _Nicholas
@@ -17016,7 +17016,7 @@ especially difficult to determine. This is partly due to the fact that
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_18" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 18)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_18" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 18)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/ghost,archetype/villain,motif/bells,motif/blood,motif/death,motif/love,motif/memory,motif/uncanny,motif/well,concept/courage,concept/democracy,concept/fear,concept/grotesque,concept/sublime,concept/uncanny,form/melodrama,form/tragedy,histref/french_revolution,character/bill_sikes,character/fagin,character/nancy"></span>
 
 
 for the present reading public he is practically the only one of his
@@ -17190,7 +17190,7 @@ this strange, [[Sublime|sublime]], vulgar [[Melodrama|melodrama]], which is [[Me
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_19" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 19)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_19" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 19)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/blood,motif/crown,motif/death,motif/night,motif/prison,motif/river,motif/supernatural,motif/time,concept/greatness,concept/reform,concept/truth,character/bill_sikes,character/queen"></span>
 
 
 painfully real, reaches its hideous height in that fine scene of the
@@ -17530,7 +17530,7 @@ fiduciosi di rinvigorire la nuova età, cercarono di distruggere il
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_20" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 20)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_20" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 20)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,motif/noon,motif/time,concept/despair,concept/reform,concept/truth,form/novel,form/tragedy,histref/french_revolution,character/oliver_twist,character/sir_leicester_dedlock"></span>
 
 
 old sentimental clericalism, the old sentimental feudalism, the
@@ -17870,7 +17870,7 @@ paesi europei prima della Rivoluzione. La [[Truth|verità]] è che i Francesi
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_21" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 21)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_21" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 21)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/road,motif/soul,motif/well,concept/eternity,concept/truth,form/hymn,form/novel,form/sketch,character/little_nell"></span>
 
 
 were tragic because they were better off. The others had known the
@@ -18048,7 +18048,7 @@ is bad. It is not true, as is still more commonly said, that the whole
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_22" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 22)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_22" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 22)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/death,motif/desert,motif/love,motif/tears,concept/ambition,concept/vanity,form/novel,setting/desert,character/dick_swiveller,character/fred,character/little_nell,character/marchioness,character/paul_dombey,character/phantom,character/sampson_brass,character/ulysses"></span>
 
 
 business about [[Little Nell]] is bad. The case is more complex than that.
@@ -18380,7 +18380,7 @@ questo solido, roccioso romanticismo è davvero implicito nel discorso e nell'ag
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_23" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 23)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_23" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 23)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/death,motif/ghosts,motif/grave,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/charity,concept/doubt,concept/faith,concept/freedom,concept/nature,concept/truth,concept/wonder,character/bottom,character/bradley_headstone,character/dick_swiveller,character/florence_dombey,character/marchioness,character/paul_dombey"></span>
 
 
 of these two characters and can be felt behind them all the [[Time|time]].
@@ -18712,7 +18712,7 @@ bel mezzo della conversazione la signora si sporse verso di me e disse con
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_24" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 24)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_24" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 24)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/fire,motif/grave,concept/democracy,concept/grotesque,concept/hope,concept/truth,form/fragment"></span>
 
 
 a low, hoarse, but emphatic voice, "She drank. Thackeray didn't know it;
@@ -18884,7 +18884,7 @@ characters in the book are all like images bought in an old curiosity
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_25" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 25)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_25" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 25)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/fool,motif/bells,motif/love,motif/spring,motif/tears,motif/time,concept/greatness,concept/grotesque,concept/honour,concept/imagination,concept/melancholy,concept/wonder,form/historical_novel,form/satire,character/barnaby_rudge,character/sally_brass,character/sampson_brass,character/touchstone"></span>
 
 
 shop. Quilp might be a gargoyle. He might be some sort of devilish
@@ -19228,7 +19228,7 @@ del principe vestito di nero, e del teschio è un'immagine nel senso più forte
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_26" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 26)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_26" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 26)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/fool,archetype/prophet,archetype/villain,motif/death,motif/flowers,motif/lamb,motif/lion,motif/love,motif/spring,motif/stars,motif/storm,motif/time,motif/well,concept/body,concept/grotesque,concept/history,concept/reconciliation,form/allegory,form/comedy,form/historical_novel,form/history,form/lyric,form/sketch,histref/dante,character/barnaby_rudge,character/bottom,character/caliban,character/dwarf,character/falstaff,character/king_lear,character/othello,character/richard"></span>
 
 
 picturesque. [[Caliban]] and the two shipwrecked drunkards are an admirable
@@ -19564,7 +19564,7 @@ l'amabile fine di [[Pickwick]]. Né, peggio di tutto, gl'impedì di
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_27" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 27)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_27" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 27)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/tyrant,archetype/villain,motif/city,motif/rose,motif/time,concept/beauty,concept/despair,concept/fear,concept/history,concept/truth,form/history,form/novel,form/sketch,histref/bible,histref/french_revolution,setting/cathedral,character/monks"></span>
 
 
 dogmatising anywhere and everywhere about the past, of which he knew
@@ -19904,7 +19904,7 @@ dolorosi, notti insonni, o infernali isolamenti. L'eccitazione in uno
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_28" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 28)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_28" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 28)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/nature,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/despair,concept/grotesque,concept/nature,concept/pride,concept/self,concept/truth,histref/america,setting/america"></span>
 
 
 of the stories of Mr. Henry James becomes tense, thrilling, and almost
@@ -20248,7 +20248,7 @@ offensiva, e talvolta persino inintelligibile, ma pur sempre una colonia;
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_29" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 29)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_29" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 29)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/cross,motif/decay,motif/grave,motif/love,motif/road,motif/time,concept/democracy,concept/doubt,concept/fear,concept/truth,form/satire,histref/america,histref/catholic_church,setting/america,setting/italy,character/bob_cratchit"></span>
 
 
 a part of our civilisation, a limb of our life. And [[america|America]] itself, as I
@@ -20580,7 +20580,7 @@ si supponga che l'eguaglianza sociale significhi in qualche modo familiarità so
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_30" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 30)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_30" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 30)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/blood,motif/moon,motif/soul,motif/time,motif/well,concept/democracy,concept/fear,concept/freedom,concept/history,concept/individualism,concept/truth,concept/wonder,form/history,histref/america,setting/america,character/bottom"></span>
 
 
 should equality mean that all men are equally rude? Should it not rather
@@ -20912,7 +20912,7 @@ luogo comune che la folla può essere il più grande di tutti i tiranni. Ma poch
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_31" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 31)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_31" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 31)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/well,concept/conscience,concept/democracy,concept/freedom,concept/honour,concept/truth,form/comedy,form/essay,histref/america,setting/america,setting/italy,character/helena"></span>
 
 
 realise or remember the corresponding [[Truth|truth]] which goes along with
@@ -21260,7 +21260,7 @@ di quella del Museo delle Cere della signora Jarley. Anzi, l'[[Humour|umorismo]]
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_32" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 32)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_32" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 32)" data-chapter="PAGE" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/fire,motif/jewel,motif/memory,motif/stars,concept/grotesque,concept/immortality,concept/melancholy,concept/mortality,concept/self,concept/vanity,form/novel,form/satire,histref/america,setting/america,setting/mountains,character/martin_chuzzlewit"></span>
 
 
 is supposed to be funny, but Napoleon (as Mrs. Jarley said when asked if
@@ -21604,7 +21604,7 @@ improvvisamente piomba e strappa via l'unica assurdità insita nel
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_33" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 33)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_33" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 33)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/fool,archetype/prophet,motif/city,motif/nature,motif/time,motif/well,concept/nature,form/satire,histref/america,setting/america,character/martin_chuzzlewit"></span>
 
 
 English party system which is hidden behind all its paraphernalia of
@@ -21940,7 +21940,7 @@ possiede arguzia. Il gentiluomo repubblicano che accoglie Martin allo sbarco
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_34" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 34)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_34" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 34)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/lover,archetype/tyrant,motif/blood,motif/home,motif/lamb,motif/lion,motif/nature,motif/time,concept/freedom,concept/imagination,concept/nature,concept/truth,form/novel,form/parody,form/satire,histref/america,setting/america"></span>
 
 
 is horrified on hearing an English servant speak of the employer as "the
@@ -22108,7 +22108,7 @@ inhuman being. Now of these two strands almost the whole of Dickens is
 
 
 
-<span class="atom-split" data-atom="chapter_01_page--part_35" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 35)" data-chapter="PAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_page--part_35" data-title="ApprAndCritOfChDickens — Chapter 1: PAGE (part 35)" data-chapter="PAGE" data-kind="excerpt" data-tags="archetype/hero,form/novel,form/satire,character/dick_swiveller,character/marchioness"></span>
 
 
 made up; they are not only different strands, they are even antagonistic
@@ -22280,7 +22280,7 @@ nessuno dei suoi assurdi personaggi risulti in tal modo simpatico. Vi sono, nel
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_01" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 1)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_01" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 1)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/love,motif/memory,motif/time,motif/well,concept/democracy,concept/history,concept/truth,form/history,character/nurse,character/sam_weller"></span>
 
 
 book two celebrated characters who are both especially exuberant and
@@ -22624,7 +22624,7 @@ Vescovo Fanciullo e al Signore del Malgoverno, non sono sicuro che Dickens (per 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_02" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 2)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_02" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 2)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/city,motif/flowers,motif/garden,motif/jewel,motif/love,motif/time,motif/water,concept/beauty,concept/eternity,concept/history,concept/imagination,concept/melancholy,form/history,histref/elizabethan_england"></span>
 
 
 he was one of the readiest and most rapid masters of reply in [[history]])
@@ -22798,7 +22798,7 @@ The first quality is what may be called the dramatic quality. The
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_03" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 3)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_03" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 3)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/fire,motif/ghosts,motif/night,motif/sleep,motif/snow,motif/stars,motif/time,motif/well,motif/winter,concept/beauty,concept/grotesque,concept/hope,character/bottom,character/christ,character/falstaff,character/tony_weller"></span>
 
 
 happiness is not a state; it is a crisis. All the old customs
@@ -22972,7 +22972,7 @@ for us to take it as an example of the generalisations already made. If
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_04" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 4)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_04" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 4)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/fire,motif/insects,motif/nature,motif/stars,motif/time,motif/water,motif/well,motif/winter,concept/charity,concept/conversion,concept/faith,concept/grotesque,concept/nature,form/epic,form/essay,form/novel,form/tragedy,histref/christianity,histref/milton,character/milton"></span>
 
 
 we study the very real atmosphere of rejoicing and of riotous [[Charity|charity]] in
@@ -23144,7 +23144,7 @@ of thought from which the whole matter started, and he will generally
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_05" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 5)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_05" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 5)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/grave,motif/leaves,motif/nature,motif/soul,concept/doubt,concept/history,concept/nature,form/history,form/novel,form/tragedy,character/nicholas_nickleby,character/paul_dombey"></span>
 
 
 find that this is different in every case. In one [[Novel|novel]] he will find
@@ -23316,7 +23316,7 @@ anything except Dotheboys Hall. But although Dickens doubtless enjoyed
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_06" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 6)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_06" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 6)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/innocent,archetype/prophet,motif/childhood,motif/love,motif/seasons,motif/stars,motif/time,motif/well,concept/eternity,concept/resignation,concept/truth,form/novel,histref/america,setting/america,character/captain_cuttle,character/david_copperfield,character/henry_viii,character/major_bagstock,character/martin_chuzzlewit"></span>
 
 
 Dr. Blimber quite as much as Mr. Squeers, it remains true that Dr.
@@ -23484,7 +23484,7 @@ simpler than the whole of it. He is the kind of man who goes about with
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_07" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 7)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_07" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 7)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/fool,archetype/tyrant,archetype/villain,motif/chalk,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,concept/truth,form/sketch,character/sir_leicester_dedlock"></span>
 
 
 posers for Bishops or for Socialists, with plain questions to which he
@@ -23656,7 +23656,7 @@ where a joke is always enjoyed solemnly. Take his insistence upon the
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_08" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 8)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_08" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 8)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/innocent,motif/soul,motif/time,concept/doubt,concept/humility,concept/truth,form/novel,character/captain_cuttle,character/david_copperfield,character/solomon_gills,character/walter_gay"></span>
 
 
 technique of Parliament, his regrets for the [[Time|time]] when the rules of
@@ -23834,7 +23834,7 @@ we justly admired in its own place and on its own terms, but which we
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_09" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 9)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_09" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 9)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/decay,motif/ghosts,motif/marriage,motif/ship,motif/soul,motif/time,concept/honour,concept/hope,concept/pride,concept/truth,form/comedy,form/tragedy,setting/ship,character/david_copperfield"></span>
 
 
 resent when we feel it gradually returning through a tale pitched
@@ -24006,7 +24006,7 @@ cannot have your cake and eat it; that you cannot lose your heart and
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_10" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 10)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_10" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 10)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/grave,motif/journey,motif/leaves,motif/love,motif/marriage,motif/time,concept/ambition,concept/exile,concept/friendship,character/david_copperfield"></span>
 
 
 have it. But, as I have said, there is perhaps no place in literature
@@ -24350,7 +24350,7 @@ _David Copperfield_ comincia come se stesse per essere un nuovo tipo di
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_11" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 11)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_11" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 11)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/dawn,motif/fire,motif/well,concept/fear,concept/greatness,concept/melancholy,concept/truth,concept/wonder,form/novel,character/angelo,character/david_copperfield,character/michael,character/nicholas_nickleby,character/smike"></span>
 
 
 Dickens [[Novel|novel]]; then it gradually turns into an old kind of Dickens
@@ -24526,7 +24526,7 @@ pages of _Household Words_ and _All the Year Round_, and those parts
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_12" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 12)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_12" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 12)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/nature,motif/spring,motif/time,motif/well,concept/greatness,concept/history,concept/madness,concept/nature,concept/providence,concept/self,concept/truth,form/history,form/novel,form/satire,form/short_story,setting/court"></span>
 
 
 which have been already beyond question picked out and proved are often
@@ -24870,7 +24870,7 @@ quello di Dickens è un uomo di principii. Il cameriere del signor [[Shaw]] è u
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_13" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 13)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_13" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 13)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/tyrant,motif/grave,concept/charity,concept/doubt,concept/truth,form/novel,form/sketch,setting/london"></span>
 
 
 just as Mr. [[Shaw]] is an opportunist in politics. Dickens's waiter is
@@ -25218,7 +25218,7 @@ Napoleone, mise in rotta le forze nemiche prima di aver messo le proprie
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_14" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 14)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_14" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 14)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/hero,motif/autumn,motif/city,motif/marriage,motif/road,motif/time,motif/wind,concept/hope,concept/revenge,form/biography,form/novel,histref/america,setting/america,character/little_nell,character/nicholas_nickleby,character/oliver_twist,character/samuel_pickwick"></span>
 
 
 force into order. Like Napoleon, he had a victorious army almost before
@@ -25390,7 +25390,7 @@ because he means to end in the Chancery fog. He did not begin in the
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_15" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 15)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_15" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 15)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/artist,motif/childhood,motif/death,motif/love,motif/nature,motif/soul,motif/time,motif/wind,concept/grotesque,concept/nature,concept/vanity,form/tragedy,character/hamlet,character/little_nell,character/richard_carstone"></span>
 
 
 Chuzzlewit [[Wind|wind]] because he meant to end in it; he began in it because it
@@ -25558,7 +25558,7 @@ one who was dead all the [[Time|time]]. But Rick is a real [[Tragedy|tragedy]], 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_16" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 16)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_16" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 16)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/artist,archetype/outsider,motif/death,motif/prison,motif/well,concept/beauty,concept/paradox,concept/pride,concept/truth,form/comedy,form/sketch,form/tragedy,character/harold_skimpole,character/richard_carstone"></span>
 
 
 still alive when the quicksand sucks him down.
@@ -25898,7 +25898,7 @@ esce mai dalla Cancelleria se non con la [[Death|morte]]. Questa tirannia, disse
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_17" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 17)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_17" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 17)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/time,motif/well,concept/education,concept/history,concept/nature,concept/truth,form/biography,form/history"></span>
 
 
 be lifted by the light subterfuge of a fiction. This tyranny shall never
@@ -26242,7 +26242,7 @@ un errore mentale assai naturale che colorò tutte le loro visioni della [[histo
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_18" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 18)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_18" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 18)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/leaves,motif/love,motif/poison,motif/time,concept/conscience,concept/history,concept/imagination,concept/reform,concept/self,concept/survival,concept/truth,form/history,histref/christianity,character/henry_viii"></span>
 
 
 They supposed that this particular problem on which they were engaged
@@ -26578,7 +26578,7 @@ eterna [[Conscience|coscienza]]. [[Henry VIII|Enrico VIII]] _era_ «una macchia 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_19" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 19)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_19" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 19)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/love,motif/time,concept/charity,concept/history,concept/humility,concept/mercy,form/history,histref/bible,setting/mountains"></span>
 
 
 the [[history]] of England." For he was the embodiment of the Devil in the
@@ -26918,7 +26918,7 @@ precipizio o una vetta delle [[Mountains|montagne]]. La più alta e la più dura
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_20" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 20)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_20" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 20)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/time,concept/body,concept/democracy,concept/melancholy,concept/paradox,form/melodrama,form/tragedy,histref/christianity,histref/french_revolution"></span>
 
 
 peaks is _Hard Times_.
@@ -27270,7 +27270,7 @@ vera politica; confusero le persone e divisero la
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_21" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 21)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_21" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 21)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/chains,motif/river,motif/well,concept/democracy,concept/education,concept/eternity,concept/grotesque,concept/truth,setting/london,character/sir_leicester_dedlock"></span>
 
 
 substance.
@@ -27446,7 +27446,7 @@ from him he picked them up and put them upon the poor.
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_22" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 22)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_22" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 22)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/detective,archetype/villain,motif/prison,motif/road,motif/soul,motif/time,motif/well,concept/despair,concept/paradox,concept/pride,concept/truth,form/novel,form/tragedy,histref/america,histref/french_revolution,setting/america,character/alfred_jingle,character/major_bagstock,character/martin_chuzzlewit,character/ralph_nickleby,character/samuel_pickwick,character/smike"></span>
 
 
 [Illustration: Charles Dickens, 1858
@@ -27786,7 +27786,7 @@ Senza dubbio il vecchio John Dickens racchiudeva in sé sia la morale gaia sia q
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_23" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 23)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_23" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 23)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/nature,motif/soul,motif/time,motif/well,concept/faith,concept/fear,concept/freedom,concept/imprisonment,concept/melancholy,concept/nature,concept/paradox,concept/slavery,concept/truth,form/tragedy,character/bottom,character/dick_swiveller,character/harold_skimpole,character/wilkins_micawber"></span>
 
 
 men do. My only purpose here is to point out that Dickens drew the gay
@@ -28122,7 +28122,7 @@ concesso di lavorare sono le persone capaci di sottrarsi. Le uniche persone
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_24" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 24)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_24" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 24)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/animals,motif/bells,motif/childhood,motif/city,motif/dreams,motif/prison,motif/rose,motif/soul,motif/summer,concept/grotesque,concept/imprisonment,concept/resurrection,character/arthur_clennam,character/david_copperfield,character/sydney_carton"></span>
 
 
 who ought to be allowed to worry are the people who have nothing to
@@ -28298,7 +28298,7 @@ suddenness to the Cockney ideal as being the true one after all. For a
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_25" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 25)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_25" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 25)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/desert,motif/home,motif/love,motif/nature,motif/night,motif/summer,motif/time,motif/well,concept/exile,concept/hope,concept/melancholy,concept/nature,concept/truth,form/lyric,setting/desert,setting/london,setting/paris,character/orlando"></span>
 
 
 jest, for a reaction, for an idle [[Summer|summer]] [[Love|love]] or still idler [[Summer|summer]]
@@ -28646,7 +28646,7 @@ d'Europa. Non aveva mai compreso che tutte le strade portano a Roma. Egli
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_26" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 26)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_26" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 26)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/city,concept/melancholy,concept/truth,form/lyric,histref/french_revolution,histref/renaissance"></span>
 
 
 never felt (as an Englishman can feel) that he was an Athenian before he
@@ -28986,7 +28986,7 @@ scene della [[French Revolution|Rivoluzione Francese]] di Carlyle, leggendole ab
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_27" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_27" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/hero,archetype/villain,motif/crown,motif/nature,motif/night,motif/time,concept/beauty,concept/doubt,concept/history,concept/honour,concept/nature,concept/pride,form/history,form/novel,form/tragedy,histref/christianity,histref/french_revolution,setting/london,setting/paris,character/kit_nubbles,character/nicholas_nickleby,character/sydney_carton,character/walter_gay"></span>
 
 
 that everything is happening at [[Night|night]]. In Dickens even massacre happens
@@ -29158,7 +29158,7 @@ a [[Hero|hero]]. Almost all Thackeray's novels except Esmond are novels without 
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_28" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 28)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_28" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 28)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/love,motif/well,concept/self,form/novel,character/nicholas_nickleby,character/sam_weller,character/sydney_carton"></span>
 
 
 [[Hero|hero]], but only one of Dickens's novels can be so described. I do not
@@ -29330,7 +29330,7 @@ of Trabb's boy, absolutely true to the quality and colour of the [[Humour|humour
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_29" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 29)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_29" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 29)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/soul,motif/well,concept/charity,concept/democracy,concept/doubt,concept/greatness,character/dick_swiveller,character/joe_gargery,character/richard,character/sam_weller"></span>
 
 
 just as in his novels of the eighteenth century, the glimpses of Steele
@@ -29504,7 +29504,7 @@ goodness. To see sincerity and [[Charity|charity]] satisfied him like a meal. Wh
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_30" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 30)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_30" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 30)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/self_made_man,motif/decay,motif/home,motif/love,motif/summer,motif/time,motif/well,concept/democracy,concept/suffering,form/novel,character/joe_gargery,character/monks,character/vincent_crummles"></span>
 
 
 some critics call his [[Love|love]] of sweet stuff is really his [[Love|love]] of plain
@@ -29680,7 +29680,7 @@ never bother about the cause of their coming. Such guests in a story
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_31" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 31)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_31" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 31)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/shadow,archetype/villain,motif/desire,motif/fire,motif/night,motif/prison,motif/well,concept/body,concept/truth,form/satire"></span>
 
 
 may be uninvited, but they are never _de trop_. They earn their [[Night|night]]'s
@@ -29850,7 +29850,7 @@ these: the impenetrable male servant. Nowhere in literature is the [[Truth|truth
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_32" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 32)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_32" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 32)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="topos/double,archetype/villain,motif/silence,motif/soul,motif/well,concept/honour,concept/identity,concept/melancholy,concept/self,concept/truth,form/lyric,form/sketch,character/dick_swiveller,character/john_harmon,character/silas_wegg,character/venus"></span>
 
 
 about servants better told. For that [[Truth|truth]] is simply this: that the
@@ -30190,7 +30190,7 @@ non è poi così facile dire che cosa fosse concepito per essere. Bella è uno
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_33" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 33)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_33" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 33)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/prophet,archetype/villain,motif/time,concept/democracy,concept/doubt,concept/education,concept/humility,concept/truth,form/novel,character/bottom,character/bradley_headstone,character/durdles,character/edwin_drood,character/lizzie_hexam"></span>
 
 
 impossible and entirely delightful one. Miss Podsnap is not only
@@ -30534,7 +30534,7 @@ volante» portava le vivande e il «cameriere stanziale» litigava con
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_34" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_34" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/night,concept/courage,concept/doubt,concept/guilt,concept/reconciliation,character/edwin_drood,character/john_jasper,character/neville_landless"></span>
 
 
 him; the "flying waiter" brought glasses and the "stationary waiter"
@@ -30874,7 +30874,7 @@ su Datchery (alla quale ho già oscuramente alluso), una teoria che è stravagan
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_35" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 35)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_35" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 35)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/love,motif/time,concept/doubt,concept/grotesque,concept/self,form/novel,character/edwin_drood,character/hamlet,character/helena,character/helena_landless,character/major_bagstock,character/portia,character/rosalind"></span>
 
 
 enough to be the centre not only of any [[Novel|novel]] but of any harlequinade.
@@ -31218,7 +31218,7 @@ Naturalmente una simile questione non può mai essere risolta con precisione, pe
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_36" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 36)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_36" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 36)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/detective,motif/clock,motif/death,motif/sleep,concept/doubt,concept/immortality,concept/sublime,concept/truth,concept/wonder,form/novel,form/short_story,character/edwin_drood,character/helena"></span>
 
 
 novelist desires to keep his readers to the point; the [[Detective|detective]]
@@ -31558,7 +31558,7 @@ un [[Short Story|racconto breve]]. Poteva cominciare un [[Short Story|racconto b
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_37" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 37)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_37" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 37)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/blood,motif/clock,motif/great_house,motif/home,motif/time,motif/well,concept/paradox,concept/pride,form/novel,setting/london,character/david_copperfield,character/major_bagstock,character/nicholas_nickleby,character/richard,character/samuel_pickwick"></span>
 
 
 it into a [[Novel|novel]]. Thus in the days of _Household Words_ he could begin a
@@ -31898,7 +31898,7 @@ non tentò mai di ritoccarli. O piuttosto (possiamo dirlo di nuovo)
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_38" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 38)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_38" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 38)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/city,motif/death,motif/dreams,motif/love,motif/nature,motif/night,motif/soul,motif/supernatural,concept/body,concept/doubt,concept/nature,concept/paradox,concept/truth,setting/court,setting/london,character/richard,character/sam_weller,character/samuel_pickwick"></span>
 
 
 he attempted it once, and then he failed.
@@ -32242,7 +32242,7 @@ Ma così com'è, i due giganti si ergono [[Alone|soli]] in un deserto, a guardia
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_39" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 39)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_39" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 39)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/fire,motif/nature,motif/time,concept/charity,concept/faith,concept/history,concept/honour,concept/hope,concept/nature,concept/solitude,form/history,histref/christianity,character/christ,character/oliver,character/pistol"></span>
 
 
 either side of a gate that leads nowhere.
@@ -32586,7 +32586,7 @@ debolezza archeologica deve pur aderire a tutte le semplici ristampe delle sue o
 
 
 
-<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_40" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 40)" data-chapter="celebrated characters who are" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_celebrated_characters_who_are--part_40" data-title="ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 40)" data-chapter="celebrated characters who are" data-kind="excerpt" data-tags="motif/well,character/sunday"></span>
 
 
 work. He was a great novelist; but he was also, among other things, a

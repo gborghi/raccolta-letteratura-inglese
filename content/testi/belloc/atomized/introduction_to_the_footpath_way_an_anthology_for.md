@@ -76,7 +76,7 @@ H. Belloc.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="character/hilaire_belloc"></span>
 
 
 INTRODUCTION BY [[Hilaire Belloc|HILAIRE BELLOC]]
@@ -102,7 +102,7 @@ That you would say was enough of a bout. Slide the other foot up, take a rest, g
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/the_open_road,motif/road,motif/memory,concept/nature,concept/critique_of_progress,form/essay"></span>
 
 
 Not only do you manage to do it but you can do it in a thousand ways, as a really clever acrobat will astonish his audience not only by walking on the tight-rope but by eating his dinner on it. You can walk quickly or slowly, or look over your shoulder as you walk, or shoot fairly accurately as you walk; you can saunter, you can force your pace, you can turn which way you will. You certainly did not teach yourself to accomplish this marvel, nor did your nurse. There was a spirit within you that taught you and that brought you out; and as it is with walking, so it is with speech, and so at last with humour and with irony, and with affection, and with the sense of colour and of form, and even with honour, and at last with prayer.
@@ -126,7 +126,7 @@ Then there is the way of looking at the world which rich men imagine they can pu
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘The Footpath Way: An Anthology for Walkers’ (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/the_open_road,motif/inn_tavern,motif/road,concept/critique_of_progress,concept/nature,form/essay"></span>
 
 
 Consider how a man walking approaches a little town; he sees it a long way off upon a hill; he sees its unity, he has time to think about it a great deal. Next it is hidden from him by a wood, or it is screened by a roll of land. He tops this and sees the little town again, now much nearer, and he thinks more particularly of its houses, of the way in which they stand, and of what has passed in them. The sky, especially if it has large white clouds in it and is for the rest sunlit and blue, makes something against which he can see the little town, and gives it life. Then he is at the outskirts, and he does not suddenly occupy it with a clamour or a rush, nor does he merely contemplate it, like a man from a window, unmoving. He enters in. He passes, healthily wearied, human doors and signs; he can note all the names of the people and the trade at which they work; he has time to see their faces. The square broadens before him, or the market-place, and so very naturally and rightly he comes to his inn, and he has fulfilled one of the great ends of man.

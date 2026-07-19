@@ -19,7 +19,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/time"></span>
 
 
 | Speaker | Line |
@@ -40,7 +40,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/lover,motif/blood,motif/death,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature"></span>
 
 
 | Speaker | Line |
@@ -86,7 +86,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/monster,motif/fire,motif/horse,motif/marriage,motif/tears,motif/time,motif/well,motif/wheel,concept/ambition,concept/faith,concept/fear,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -123,7 +123,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/king,motif/crown,motif/grave,motif/jewel,motif/journey,motif/love,motif/soul,motif/well,concept/doubt,concept/fear,concept/forgiveness,concept/greatness,concept/honour,concept/hope,concept/self,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -197,7 +197,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/ghost,motif/night"></span>
 
 
 | Speaker | Line |
@@ -218,7 +218,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/ghost,motif/storm,motif/window"></span>
 
 
 | Speaker | Line |
@@ -254,7 +254,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/desert,motif/pain,motif/ship,motif/soul,motif/well,motif/window,setting/desert,setting/ship"></span>
 
 
 | Speaker | Line |
@@ -276,7 +276,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="motif/fire,motif/well"></span>
 
 
 | Speaker | Line |
@@ -303,7 +303,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/child,archetype/hero,motif/nature,motif/stars,motif/time,concept/fear,concept/nature,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -320,7 +320,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/blood,motif/love,motif/night,motif/soul,motif/spring,motif/stars,motif/well,concept/courage,concept/doubt"></span>
 
 
 | Speaker | Line |
@@ -364,7 +364,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_11" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_11" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="concept/greatness"></span>
 
 
 | Speaker | Line |
@@ -375,7 +375,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_1--scene_12" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_12" data-title="THE DEATH OF WALLENSTEIN — Act I, Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="motif/time,concept/courage"></span>
 
 
 | Speaker | Line |
@@ -395,7 +395,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/soul,motif/winter,concept/body,concept/courage,concept/hope,concept/pride,concept/wonder,setting/germany"></span>
 
 
 | Speaker | Line |
@@ -408,7 +408,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="form/verse_drama,form/tragedy,form/translation,histref/thirty_years_war,setting/military_camp"></span>
 
 
 | Speaker | Line |
@@ -423,7 +423,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/death,motif/desire,motif/hill,motif/home,motif/swallow,motif/well,motif/wind,concept/honour,concept/mercy,concept/providence"></span>
 
 
 | Speaker | Line |
@@ -478,7 +478,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/well"></span>
 
 
 | Speaker | Line |
@@ -501,7 +501,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,motif/well,concept/hope,setting/court"></span>
 
 
 | Speaker | Line |
@@ -533,7 +533,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/dust,motif/fire,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/winter,concept/faith,concept/fear,concept/forgiveness,concept/friendship,concept/guilt,concept/honour,concept/hope,concept/nature,concept/self,form/translation,character/ferdinand,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -572,7 +572,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/fire,motif/silence,motif/storm,motif/window"></span>
 
 
 | Speaker | Line |
@@ -599,7 +599,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="motif/city,motif/death,motif/fire,motif/time,motif/well,motif/window"></span>
 
 
 | Speaker | Line |
@@ -632,7 +632,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/childhood,motif/love,motif/nature,motif/soul,motif/well,concept/conscience,concept/guilt,concept/hope,concept/nature,concept/self,concept/truth"></span>
 
 
 | Speaker | Line |
@@ -663,7 +663,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/drums_and_bugles,concept/despair,form/verse_drama,form/tragedy,form/translation,histref/thirty_years_war"></span>
 
 
 | Speaker | Line |
@@ -681,7 +681,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_2--scene_11" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_11" data-title="THE DEATH OF WALLENSTEIN — Act II, Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="motif/desert,motif/time,motif/well,concept/despair,concept/friendship,concept/hope,setting/desert"></span>
 
 
 | Speaker | Line |
@@ -720,7 +720,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/rose,concept/revenge"></span>
 
 
 | Speaker | Line |
@@ -732,7 +732,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/crown,motif/dreams,motif/dust,motif/nature,motif/road,motif/rose,motif/soul,motif/window,concept/doubt,concept/faith,concept/greatness,concept/honour,concept/melancholy,concept/nature,concept/pride,concept/self,setting/court"></span>
 
 
 | Speaker | Line |
@@ -762,7 +762,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,motif/blood,motif/city,motif/crown,motif/moon,motif/time,motif/wind,concept/faith,concept/freedom,concept/wonder,histref/bible,setting/court"></span>
 
 
 | Speaker | Line |
@@ -803,7 +803,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="concept/war_and_its_cost,form/verse_drama,form/tragedy,form/translation,histref/thirty_years_war,setting/the_battlefield"></span>
 
 
 | Speaker | Line |
@@ -820,7 +820,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/time"></span>
 
 
 | Speaker | Line |
@@ -846,7 +846,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/death,motif/desire,motif/nature,motif/stars,motif/well,concept/conscience,concept/guilt,concept/nature"></span>
 
 
 | Speaker | Line |
@@ -904,7 +904,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/blood,motif/grave,motif/night,motif/soul,motif/time,motif/well,motif/wheel,concept/honour,concept/hope,setting/castle,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -934,7 +934,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/blood,motif/love,motif/night,motif/stars,motif/well,concept/conscience,concept/greatness,concept/honour,concept/mercy,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -964,7 +964,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_3--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act III, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,motif/jewel,motif/soul"></span>
 
 
 | Speaker | Line |
@@ -976,7 +976,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/well,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -990,7 +990,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/villain,motif/crown,motif/death,motif/desert,motif/night,motif/pain,motif/soul,motif/stars,motif/water,motif/well,motif/wind,concept/body,concept/conscience,concept/fear,concept/honour,concept/hope,setting/castle,setting/court,setting/desert,character/ferdinand"></span>
 
 
 | Speaker | Line |
@@ -1109,7 +1109,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,motif/death,motif/nature,motif/soul,motif/tears,concept/doubt,concept/nature,concept/solitude"></span>
 
 
 | Speaker | Line |
@@ -1167,7 +1167,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/dust,motif/grave,motif/rose,motif/tears,motif/well,concept/courage,concept/despair,concept/fear,concept/greatness,concept/honour,concept/melancholy,concept/self,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1212,7 +1212,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/pilgrim,motif/death,motif/grave,motif/journey,motif/night,motif/soul,motif/tears,motif/time,concept/fear,concept/hope,concept/mercy"></span>
 
 
 | Speaker | Line |
@@ -1265,7 +1265,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_4--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act IV, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/death,concept/hope"></span>
 
 
 | Speaker | Line |
@@ -1276,7 +1276,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/dawn,motif/death,motif/desire,motif/dreams,motif/dust,motif/flag,motif/marriage,motif/moon,motif/night,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/fear,concept/melancholy,form/translation,setting/paris,character/phantom"></span>
 
 
 | Speaker | Line |
@@ -1332,7 +1332,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/dreams,motif/lightning,motif/love,motif/night,motif/ship,motif/sleep,motif/spring,motif/stars,motif/storm,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/hope,concept/jealousy,concept/self,setting/castle,setting/court,setting/ship"></span>
 
 
 | Speaker | Line |
@@ -1371,7 +1371,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/death,motif/night,motif/sleep,motif/stars,motif/time,motif/well,motif/window,concept/fear,concept/mercy,concept/providence,setting/castle,character/baptista"></span>
 
 
 | Speaker | Line |
@@ -1412,7 +1412,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/night,motif/silence,motif/sleep,motif/soul,motif/time,concept/providence"></span>
 
 
 | Speaker | Line |
@@ -1454,7 +1454,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/monster,motif/silence,motif/time,concept/body,concept/mercy,character/maria"></span>
 
 
 | Speaker | Line |
@@ -1481,7 +1481,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/home,motif/soul,concept/wonder"></span>
 
 
 | Speaker | Line |
@@ -1491,7 +1491,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="concept/mercy,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -1519,7 +1519,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_8" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="concept/eternity,setting/castle"></span>
 
 
 | Speaker | Line |
@@ -1545,7 +1545,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_9" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="motif/blood,motif/time,concept/body,concept/hope,concept/mercy,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1569,7 +1569,7 @@ Coleridge's blank-verse translation of Schiller's historical tragedy in five act
 
 
 
-<span class="atom-split" data-atom="act_5--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_10" data-title="THE DEATH OF WALLENSTEIN — Act V, Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="motif/crown,motif/death,motif/poison,motif/well,concept/body,concept/hope,concept/mercy"></span>
 
 
 | Speaker | Line |

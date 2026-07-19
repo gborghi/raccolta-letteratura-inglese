@@ -5229,7 +5229,7 @@ depths with a bubbling groan.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="alarms and discursions — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="alarms and discursions — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/child,archetype/innocent,motif/crown,motif/stars,motif/time,motif/water,concept/grotesque,character/witch"></span>
 
 
 I
@@ -5303,7 +5303,7 @@ degna del sole."
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="alarms and discursions — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="alarms and discursions — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/animals,motif/blood,motif/fire,motif/jewel,motif/night,motif/noon,motif/prayer,motif/time,concept/beauty,concept/pride,setting/cathedral"></span>
 
 
 II
@@ -5395,7 +5395,7 @@ gesto vivo e religioso, come un uomo leva le mani in [[prayer|preghiera]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="alarms and discursions — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="alarms and discursions — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/dawn,motif/decay,motif/memory,motif/nature,motif/noon,motif/road,motif/soul,motif/well,motif/wind,concept/beauty,concept/honour,concept/humility,concept/nature,concept/pride,concept/suicide,histref/christianity,setting/cathedral,character/kent,character/lincoln"></span>
 
 
 III
@@ -5512,7 +5512,7 @@ to lean on the gate) asked me with some curiosity what I was doing.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="alarms and discursions — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="alarms and discursions — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/death,motif/garden,motif/horse,motif/love,motif/nature,motif/road,motif/silence,motif/well,motif/wind,concept/beauty,concept/fear,concept/nature,form/lyric,histref/milton,setting/egypt,setting/london,character/milton"></span>
 
 
 "My dear fellow," I said, with emotion, "I am bidding farewell
@@ -5654,7 +5654,7 @@ angels of [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="alarms and discursions — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="alarms and discursions — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/cross,motif/desert,motif/garden,motif/horse,motif/leaves,motif/moon,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/wind,concept/apocalypse,concept/doubt,concept/fear,concept/hope,concept/madness,concept/nature,concept/solitude,concept/truth,form/epic,histref/dante,setting/desert,setting/egypt,character/jones"></span>
 
 
 * * * * *
@@ -5773,7 +5773,7 @@ like [[Madness|madness]] in that musical monotony of the pines.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="alarms and discursions — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="alarms and discursions — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/dance,motif/dawn,motif/home,motif/night,motif/soul,motif/well,concept/beauty,concept/democracy,concept/grotesque,concept/truth"></span>
 
 
 I said something like this to my friend; and he answered with
@@ -5892,7 +5892,7 @@ twilight before [[Dawn|dawn]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="alarms and discursions — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="alarms and discursions — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/dance_of_death,motif/city,motif/clock,motif/dance,motif/death,motif/decay,motif/desert,motif/leaves,motif/love,motif/machine,motif/soul,motif/time,concept/greed,concept/grotesque,concept/history,concept/hope,concept/pride,form/fable,form/history,setting/desert,character/bottom,character/faust,character/richard_iii,character/speed"></span>
 
 
 -/-
@@ -6019,7 +6019,7 @@ and serve him right for being an Intellectual.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="alarms and discursions — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="alarms and discursions — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/home,motif/machine,motif/moon,motif/nature,motif/road,motif/soul,motif/stars,motif/well,motif/wind,motif/winter,concept/body,concept/exile,concept/nature,form/tragedy,histref/french_revolution,setting/oxford,character/juliet,character/nurse,character/romeo"></span>
 
 
 -/-
@@ -6134,7 +6134,7 @@ as if all [[Nature]] were on the rack.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="alarms and discursions — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="alarms and discursions — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/childhood,motif/flowers,motif/garden,motif/memory,motif/moon,motif/road,motif/sleep,motif/soul,motif/time,motif/well,concept/paradox,concept/self,histref/french_revolution,character/kent"></span>
 
 
 "[[Well]], it does seem a bit 'ard ..." he began with a break in his voice.
@@ -6260,7 +6260,7 @@ sunset colours, and leaping with that enormous and fantastic life.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="alarms and discursions — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="alarms and discursions — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/chalk,motif/desire,motif/moon,motif/water,concept/charity,concept/comradeship,concept/courage,concept/education,concept/paradox,concept/truth,form/essay,form/tragedy,setting/mountains,character/touchstone"></span>
 
 
 But this is a parenthesis; and one perhaps slightly lacking in
@@ -6375,7 +6375,7 @@ in his way, a [[Tragedy|tragedy]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_09" data-title="alarms and discursions — Chapter 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_09" data-title="alarms and discursions — Chapter 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/lion,motif/memory,motif/pain,motif/water,concept/hope,concept/individualism,concept/jealousy,character/bottom,character/hastings"></span>
 
 
 * * * * *
@@ -6509,7 +6509,7 @@ Aerated waters only appeared after the Fall.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_10" data-title="alarms and discursions — Chapter 3 (part 10)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_10" data-title="alarms and discursions — Chapter 3 (part 10)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/flowers,motif/journey,motif/nature,motif/soul,concept/democracy,concept/identity,concept/nature,concept/self,histref/christianity,setting/london"></span>
 
 
 But [[cheese]] has another quality, which is also the very [[Soul|soul]] of [[Song|song]].
@@ -6671,7 +6671,7 @@ dedotta dal darwinismo che nell'unica immagine verbale del "tenersi il proprio s
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_11" data-title="alarms and discursions — Chapter 3 (part 11)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_11" data-title="alarms and discursions — Chapter 3 (part 11)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,archetype/rebel,motif/animals,motif/blood,motif/city,motif/clock,motif/cross,motif/desert,motif/desire,motif/fire,motif/hill,motif/home,motif/journey,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/prayer,motif/rose,motif/snow,motif/time,motif/well,motif/winter,concept/body,concept/democracy,concept/doubt,concept/faith,concept/imagination,concept/madness,concept/mercy,concept/nature,concept/pride,concept/self,concept/truth,form/epigram,setting/desert,character/satan"></span>
 
 
 Who first invented these violent felicities of language?
@@ -6808,7 +6808,7 @@ though I understand him only too [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_12" data-title="alarms and discursions — Chapter 3 (part 12)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_12" data-title="alarms and discursions — Chapter 3 (part 12)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/death,motif/hill,motif/nature,motif/rose,motif/soul,motif/spring,motif/time,motif/water,concept/beauty,concept/courage,concept/democracy,concept/identity,concept/mercy,concept/nature,form/fable,histref/catholic_church,histref/renaissance,setting/cathedral,character/jones"></span>
 
 
 * * * * *
@@ -6922,7 +6922,7 @@ the dying:  but she never mixes oil and [[Water|water]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_13" data-title="alarms and discursions — Chapter 3 (part 13)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_13" data-title="alarms and discursions — Chapter 3 (part 13)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/artist,motif/desert,motif/garden,motif/soul,motif/supernatural,motif/time,concept/beauty,concept/body,concept/democracy,concept/history,concept/self,concept/truth,form/history,setting/cathedral,setting/desert,setting/london"></span>
 
 
 This explanation is plausible; but I do not find it adequate.
@@ -7032,7 +7032,7 @@ of the equation.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_14" data-title="alarms and discursions — Chapter 3 (part 14)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_14" data-title="alarms and discursions — Chapter 3 (part 14)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,motif/leaves,motif/machine,motif/pain,motif/secrets,motif/time,motif/well,concept/history,concept/mercy,form/history,histref/christianity,setting/battlefield,character/brutus"></span>
 
 
 The drearier kind of don may come to me and say, "Celts are unsuccessful;
@@ -7150,7 +7150,7 @@ skulls that are imbecile and heads that are criminal.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_15" data-title="alarms and discursions — Chapter 3 (part 15)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_15" data-title="alarms and discursions — Chapter 3 (part 15)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/monster,motif/animals,motif/flowers,motif/garden,motif/rose,motif/soul,motif/summer,motif/well,motif/wheel,concept/history,concept/truth,form/history,histref/wars_of_the_roses,setting/cathedral,setting/italy"></span>
 
 
 I do not know whose heads are criminal, but I think I know
@@ -7263,7 +7263,7 @@ For to me any such [[Garden|garden]] is full of the [[Wars of the Roses|wars of 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_16" data-title="alarms and discursions — Chapter 3 (part 16)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_16" data-title="alarms and discursions — Chapter 3 (part 16)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/ghost,archetype/prophet,motif/crown,motif/garden,motif/grave,motif/nature,motif/road,motif/soul,motif/tears,concept/doubt,concept/education,concept/history,concept/hope,concept/imagination,concept/nature,concept/survival,form/fragment,form/history,histref/christianity,setting/cathedral,setting/oxford,character/christ"></span>
 
 
 -/-
@@ -7366,7 +7366,7 @@ It was as if men had been able to preserve a [[Fragment|fragment]] of a sunset.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_17" data-title="alarms and discursions — Chapter 3 (part 17)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_17" data-title="alarms and discursions — Chapter 3 (part 17)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/fire,motif/garden,motif/grave,motif/love,motif/soul,motif/well,concept/beauty,concept/courage,concept/honour,concept/sublime,setting/mountains,character/achilles,character/chorus,character/henry_v,character/orlando,character/speed"></span>
 
 
 And then I remembered how the artistic critics have always praised
@@ -7481,7 +7481,7 @@ and that I scent the good smell of his decaying mind all right.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_18" data-title="alarms and discursions — Chapter 3 (part 18)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_18" data-title="alarms and discursions — Chapter 3 (part 18)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/city,motif/ghosts,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/courage,concept/eternity,concept/fear,concept/self,histref/french_revolution,setting/castle,setting/court,setting/italy,character/arthur"></span>
 
 
 I think the only other point of Futurism is contained in
@@ -7595,7 +7595,7 @@ at the side and the vehicle drove briskly through.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_19" data-title="alarms and discursions — Chapter 3 (part 19)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_19" data-title="alarms and discursions — Chapter 3 (part 19)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/soul,motif/time,motif/water,motif/well,motif/window,concept/body,concept/greed,concept/honour,setting/london"></span>
 
 
 "That is not the [[house]]?" he inquired politely of the driver.
@@ -7725,7 +7725,7 @@ The Glory of Grey
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_20" data-title="alarms and discursions — Chapter 3 (part 20)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_20" data-title="alarms and discursions — Chapter 3 (part 20)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/dawn,motif/desert,motif/fire,motif/flowers,motif/frost,motif/garden,motif/snow,motif/summer,motif/time,motif/well,concept/beauty,concept/despair,concept/doubt,histref/america,setting/america,setting/castle,setting/desert,setting/italy,character/witch"></span>
 
 
 I SUPPOSE that, taking this [[Summer|summer]] as a whole, people will not
@@ -7908,7 +7908,7 @@ e il girasole è il viceré del sole.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_21" data-title="alarms and discursions — Chapter 3 (part 21)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_21" data-title="alarms and discursions — Chapter 3 (part 21)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/desire,motif/fire,motif/garden,motif/grave,motif/journey,motif/machine,motif/nature,motif/silence,motif/time,motif/well,motif/winter,concept/apocalypse,concept/doubt,concept/fear,concept/hope,concept/imagination,concept/nature,setting/london"></span>
 
 
 Lastly, there is this value about the colour that men call colourless;
@@ -8021,7 +8021,7 @@ like a torrent.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_22" data-title="alarms and discursions — Chapter 3 (part 22)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_22" data-title="alarms and discursions — Chapter 3 (part 22)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/night,motif/storm,motif/tears,motif/time,motif/well,concept/democracy,concept/eugenics,concept/history,concept/hope,concept/union,form/epigram,form/history"></span>
 
 
 "Understand me," he said.  "Ordinary people think an Anarchist means
@@ -8144,7 +8144,7 @@ expecting [[Night|night]] and day.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_23" data-title="alarms and discursions — Chapter 3 (part 23)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_23" data-title="alarms and discursions — Chapter 3 (part 23)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,motif/city,motif/night,motif/silence,motif/well,motif/wind,concept/faith,concept/individualism,concept/vanity,form/fable,setting/london,character/apollo"></span>
 
 
 * * * * *
@@ -8272,7 +8272,7 @@ friend had thoughtlessly overlooked.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_24" data-title="alarms and discursions — Chapter 3 (part 24)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_24" data-title="alarms and discursions — Chapter 3 (part 24)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/dance,motif/desert,motif/fire,motif/garden,motif/insects,motif/leaves,motif/love,motif/moon,motif/road,motif/summer,motif/well,motif/wind,concept/fanaticism,concept/hope,concept/imagination,concept/sublime,concept/truth,form/essay,setting/desert,setting/london,character/timon"></span>
 
 
 In the feverish [[Summer|summer]] of this [[Fanaticism|fanaticism]] there arose the phrase
@@ -8403,7 +8403,7 @@ and the [[Imagination|imagination]] to say he is a little giddy.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_25" data-title="alarms and discursions — Chapter 3 (part 25)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_25" data-title="alarms and discursions — Chapter 3 (part 25)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/childhood,motif/desire,motif/home,motif/pain,motif/swallow,motif/well,concept/common_man,concept/despair,concept/imagination,concept/pride"></span>
 
 
 I strolled slowly back across the stretch of turf by the sunset,
@@ -8518,7 +8518,7 @@ He forgets that ignorance often has the exquisite intuitions of [[innocence]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_26" data-title="alarms and discursions — Chapter 3 (part 26)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_26" data-title="alarms and discursions — Chapter 3 (part 26)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/desert,motif/ghosts,motif/grave,motif/time,motif/well,concept/ambition,concept/comradeship,concept/truth,setting/desert"></span>
 
 
 * * * * *
@@ -8641,7 +8641,7 @@ nab them yet.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_27" data-title="alarms and discursions — Chapter 3 (part 27)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_27" data-title="alarms and discursions — Chapter 3 (part 27)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/death,motif/desert,motif/soul,motif/time,motif/well,concept/democracy,concept/doubt,concept/fear,concept/hope,concept/self,concept/truth,setting/desert,setting/london"></span>
 
 
 For the robbers have not vanished from the old high forests
@@ -8760,7 +8760,7 @@ have done both in their much purer and more honourable progress.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_28" data-title="alarms and discursions — Chapter 3 (part 28)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_28" data-title="alarms and discursions — Chapter 3 (part 28)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/lightning,motif/nature,motif/river,motif/road,motif/ship,motif/soul,concept/democracy,concept/doubt,concept/imprisonment,concept/nature,concept/self,setting/ship"></span>
 
 
 But the real answer to this aristocratic argument which seeks to
@@ -8874,7 +8874,7 @@ and see meadows go by.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_29" data-title="alarms and discursions — Chapter 3 (part 29)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_29" data-title="alarms and discursions — Chapter 3 (part 29)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,motif/hill,motif/horse,motif/journey,motif/moon,motif/nature,motif/well,concept/courage,concept/grotesque,concept/nature,character/speed,character/witch"></span>
 
 
 * * * * *
@@ -8994,7 +8994,7 @@ was sardonically doomed to stand up laughable and little against heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_30" data-title="alarms and discursions — Chapter 3 (part 30)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_30" data-title="alarms and discursions — Chapter 3 (part 30)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/hill,motif/home,motif/night,motif/road,motif/sleep,motif/stars,motif/time,motif/wheel,motif/wind,motif/window,concept/despair,concept/doubt,concept/endurance,concept/fear,concept/grotesque,concept/honour,concept/hope,concept/truth"></span>
 
 
 * * * * *
@@ -9182,7 +9182,7 @@ ma non sempre (forse) nelle immagini medievali.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_31" data-title="alarms and discursions — Chapter 3 (part 31)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_31" data-title="alarms and discursions — Chapter 3 (part 31)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/rose,motif/ship,motif/soul,motif/time,motif/well,motif/wheel,concept/doubt,concept/paradox,concept/sublime,concept/truth,setting/ship"></span>
 
 
 For wheels are the mark of a man quite as much as wings are the mark
@@ -9296,7 +9296,7 @@ a matter of a [[Magic|magic]] number.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_32" data-title="alarms and discursions — Chapter 3 (part 32)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_32" data-title="alarms and discursions — Chapter 3 (part 32)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/city,motif/hill,motif/memory,concept/courage,concept/doubt,concept/faith,concept/fear,concept/history,form/history,setting/london,character/macbeth,character/sunday"></span>
 
 
 * * * * *
@@ -9408,7 +9408,7 @@ of the uncaptured name--Ethandune.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_33" data-title="alarms and discursions — Chapter 3 (part 33)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_33" data-title="alarms and discursions — Chapter 3 (part 33)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/bees,motif/blood,motif/moon,motif/snow,motif/stars,motif/time,motif/well,concept/history,form/epic,form/fable,form/history,setting/cathedral,setting/london,character/arthur,character/phantom"></span>
 
 
 I will try to state quite sensibly why it is as important as it is.
@@ -9513,7 +9513,7 @@ the real North Pole or the sham one.  But as a mere matter of psychology
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_34" data-title="alarms and discursions — Chapter 3 (part 34)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_34" data-title="alarms and discursions — Chapter 3 (part 34)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/animals,motif/death,motif/frost,motif/home,motif/leaves,motif/snow,motif/soul,motif/supernatural,motif/well,concept/education,concept/sublime,concept/union,setting/court,setting/mountains"></span>
 
 
 Why is it that all this scheme of ice and [[Snow|snow]] [[Leaves|leaves]] us cold?
@@ -9629,7 +9629,7 @@ be a [[Frost|frost]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_35" data-title="alarms and discursions — Chapter 3 (part 35)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_35" data-title="alarms and discursions — Chapter 3 (part 35)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/well,concept/beauty,concept/education,concept/nature,concept/pride,concept/truth,form/epigram,form/tragedy,setting/mountains,character/buckingham,character/hamlet"></span>
 
 
 * * * * *
@@ -9748,7 +9748,7 @@ ultimate dogma of the world.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_36" data-title="alarms and discursions — Chapter 3 (part 36)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_36" data-title="alarms and discursions — Chapter 3 (part 36)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,motif/garden,motif/love,motif/time,motif/water,concept/beauty,concept/democracy,concept/doubt,concept/freedom,concept/history,concept/honour,concept/wonder,form/history,setting/egypt"></span>
 
 
 -/-
@@ -9867,7 +9867,7 @@ that is the only thing we have to give.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_37" data-title="alarms and discursions — Chapter 3 (part 37)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_37" data-title="alarms and discursions — Chapter 3 (part 37)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/chalk,motif/dust,motif/horse,motif/journey,motif/lightning,motif/nature,motif/night,motif/silence,motif/soul,motif/stars,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/doubt,concept/fear,concept/friendship,concept/nature,form/parody,histref/king_alfred,setting/egypt"></span>
 
 
 Those are the two roads.  But between them weakly wavers
@@ -9992,7 +9992,7 @@ long before they were civilised men.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_38" data-title="alarms and discursions — Chapter 3 (part 38)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_38" data-title="alarms and discursions — Chapter 3 (part 38)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/innocent,archetype/king,archetype/tyrant,motif/birds,motif/chalk,motif/desire,motif/garden,motif/hill,motif/horse,motif/journey,motif/love,motif/swallow,motif/time,motif/well,concept/ambition,concept/truth,form/essay,form/fable,character/hamlet,character/robin_hood,character/ulysses"></span>
 
 
 But why was it made?  Why did barbarians take so much trouble
@@ -10117,7 +10117,7 @@ The archer said, "Oh," and went out.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_39" data-title="alarms and discursions — Chapter 3 (part 39)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_39" data-title="alarms and discursions — Chapter 3 (part 39)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/birds,motif/garden,motif/mirror,motif/moon,motif/night,motif/rose,motif/silence,motif/snow,motif/swallow,motif/tears,motif/well,concept/truth,histref/america,setting/america,setting/london"></span>
 
 
 The second archer, who had curly hair and was pale, poetical,
@@ -10273,7 +10273,7 @@ When he had quite cleared his face of [[Snow|snow]] the man had vanished.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_40" data-title="alarms and discursions — Chapter 3 (part 40)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_40" data-title="alarms and discursions — Chapter 3 (part 40)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/cross,motif/grave,motif/love,motif/nature,motif/road,motif/rose,motif/snow,motif/stars,motif/time,motif/water,concept/charity,concept/conversion,concept/doubt,concept/faith,concept/nature,concept/pride,concept/solitude,concept/temptation,character/speed"></span>
 
 
 For three burning minutes Cyril Vernon-[[smith|Smith]] was nearer to the people
@@ -10391,7 +10391,7 @@ after another, turned up in England with Disraeli and was christened
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_41" data-title="alarms and discursions — Chapter 3 (part 41)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_41" data-title="alarms and discursions — Chapter 3 (part 41)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/hill,motif/stars,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/democracy,concept/fear,concept/friendship,concept/hope,concept/humility,concept/sublime,character/chorus,character/richard"></span>
 
 
 Also (it may be necessary to explain) I do not mean "high planes"
@@ -10523,7 +10523,7 @@ with hashish or opium in a wilderness.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_42" data-title="alarms and discursions — Chapter 3 (part 42)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_42" data-title="alarms and discursions — Chapter 3 (part 42)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/rebel,motif/birds,motif/childhood,motif/death,motif/desert,motif/flowers,motif/garden,motif/love,motif/soul,motif/spring,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/poverty,concept/resignation,form/tragedy,histref/greek_tragedy,setting/desert,setting/london,setting/mountains,character/chorus"></span>
 
 
 But the [[Chorus|chorus]] of the old [[songs]] had another use besides this
@@ -10667,7 +10667,7 @@ a thousand years ago.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_43" data-title="alarms and discursions — Chapter 3 (part 43)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_43" data-title="alarms and discursions — Chapter 3 (part 43)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/hero,archetype/king,motif/flowers,motif/journey,motif/river,motif/road,concept/conscience,concept/truth,form/historical_novel,histref/king_alfred,setting/denmark,character/hector"></span>
 
 
 For, as it happened, the flat fenland in which I so nearly

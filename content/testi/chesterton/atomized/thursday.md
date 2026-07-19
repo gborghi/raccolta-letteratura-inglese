@@ -6709,7 +6709,7 @@ discover who [[Sunday]] is.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Man Who Was Thursday — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Man Who Was Thursday — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,motif/garden,motif/nature,motif/night,motif/soul,motif/time,concept/deception,concept/nature,concept/solitude,form/comedy,setting/london,character/gabriel_syme,character/lucian_gregory,character/queen"></span>
 
 
 CHAPTER I
@@ -6905,7 +6905,7 @@ In effetti il signor [[Lucian Gregory]], il poeta anarchico, collegò i due even
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Man Who Was Thursday — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Man Who Was Thursday — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/garden,motif/grave,motif/lion,motif/night,motif/rose,motif/stars,motif/tears,motif/time,motif/well,concept/paradox,concept/pride,concept/truth,concept/wonder"></span>
 
 
 "It may [[Well|well]] be," he said, in his sudden lyrical manner, "it may
@@ -7189,7 +7189,7 @@ dice più di quanto pensi... per pura forza di pensarlo».
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Man Who Was Thursday — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Man Who Was Thursday — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/garden,motif/grave,motif/leaves,motif/night,motif/river,motif/road,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/honour,concept/hope,concept/paradox,concept/truth,concept/wonder,character/bottom"></span>
 
 
 She was looking at him from under level brows; her face was [[Grave|grave]]
@@ -7545,7 +7545,7 @@ lasciarono la loro fantastica cittadina.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Was Thursday — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Was Thursday — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/love,motif/well,character/bottom,character/gabriel_syme"></span>
 
 
 CHAPTER II
@@ -7749,7 +7749,7 @@ Attraversarono parecchi corridoi del genere, e sbucarono infine in una bizzarra 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Was Thursday — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Was Thursday — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/lion,motif/nature,motif/night,motif/time,motif/well,motif/wheel,concept/despair,concept/fear,concept/greatness,concept/history,concept/honour,concept/hope,concept/nature,form/epigram,form/history,histref/french_revolution,setting/london,character/sunday"></span>
 
 
 "It does seem to have a moral under all its gaiety," assented Syme;
@@ -7906,7 +7906,7 @@ Poi, dopo una pausa, aggiunse:
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Man Who Was Thursday — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Man Who Was Thursday — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/detective,motif/river,motif/rose,motif/silence,motif/spring,motif/time,motif/well,concept/truth"></span>
 
 
 He got to his feet and strolled across the room with a sort
@@ -8046,7 +8046,7 @@ Dalla soglia giunse un mormorio: «Il signor Joseph Chamberlain.» Fu ripetuto d
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Was Thursday — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Was Thursday — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,archetype/monster,motif/chalk,motif/death,motif/fire,motif/night,motif/river,motif/rose,motif/time,motif/water,motif/well,concept/faith,concept/fear,concept/honour,concept/immortality,concept/self,concept/truth,character/pistol,character/sunday"></span>
 
 
 CHAPTER III
@@ -8312,7 +8312,7 @@ forse l'unico vero operaio presente, si [[Rose|alzò]] goffamente e disse —
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Was Thursday — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Was Thursday — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,motif/death,motif/love,motif/night,motif/road,motif/rose,motif/silence,concept/body,concept/courage,concept/friendship,concept/history,concept/paradox,form/history,character/gabriel_syme,character/sunday"></span>
 
 
 "I move that Comrade Gregory be elected [[thursday|Thursday]]," and sat
@@ -8574,7 +8574,7 @@ ed efficiente (bene, bene).»
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Man Who Was Thursday — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Man Who Was Thursday — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/tyrant,motif/blood,motif/clock,motif/pain,motif/silence,motif/time,motif/water,motif/well,concept/melancholy,concept/mercy,concept/pride,concept/truth,character/pistol,character/sunday"></span>
 
 
 "Comrade Gregory has told us, in only too apologetic a tone,
@@ -8848,7 +8848,7 @@ di [[Clock|orologeria]] rimesso d'improvviso in moto —
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Was Thursday — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Was Thursday — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/river,motif/rose,concept/honour,character/gabriel_syme"></span>
 
 
 "The question is that Comrade Syme be elected to the post of [[thursday|Thursday]]
@@ -8970,7 +8970,7 @@ col bastone-[[Sword|spada]] mentre il battello a vapore scivolava via.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Man Who Was Thursday — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Man Who Was Thursday — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/blood,motif/fire,motif/river,motif/time,motif/water,motif/well,concept/education,concept/self,character/gabriel_syme"></span>
 
 
 CHAPTER IV
@@ -9220,7 +9220,7 @@ sull'argine del Tamigi?»
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Was Thursday — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Was Thursday — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/flowers,motif/marriage,motif/spring,motif/time,motif/well,concept/doubt,concept/fanaticism,histref/renaissance,setting/russia"></span>
 
 
 "You have evidently not heard of the latest development in our
@@ -9470,7 +9470,7 @@ naturalmente squisitamente buono. Questi io li chiamo la sezione [[Innocent|inno
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Man Who Was Thursday — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Man Who Was Thursday — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/innocent,archetype/king,archetype/shadow,motif/cross,motif/dawn,motif/death,motif/fire,motif/garden,motif/grave,motif/journey,motif/moon,motif/night,motif/summer,motif/time,motif/well,concept/grotesque,concept/honour,concept/original_sin,concept/paradox,concept/suicide,histref/milton,setting/london,setting/mountains,character/gabriel_syme,character/milton,character/pistol"></span>
 
 
 "Oh!" said Syme.
@@ -9760,7 +9760,7 @@ Non avevano proferito parola.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Was Thursday — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Was Thursday — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/dawn,motif/grave,motif/leaves,motif/river,motif/sleep,motif/time,motif/well,motif/window,concept/fanaticism,concept/fear,concept/loneliness,concept/melancholy,character/sunday"></span>
 
 
 CHAPTER V
@@ -9922,7 +9922,7 @@ A un angolo della piazza sporgeva una sorta di spigolo di un albergo prospero ma
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Man Who Was Thursday — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Man Who Was Thursday — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/flowers,motif/garden,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/deception,concept/fear,concept/grotesque,setting/london,character/sunday"></span>
 
 
 Then, as Syme continued to stare at them, he saw something that he had
@@ -10063,7 +10063,7 @@ Il nome dell'uomo, a quanto pareva, era Gogol; era un polacco, e in quel circolo
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Was Thursday — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Was Thursday — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/mirror,motif/pain,motif/river,motif/rose,motif/well,concept/despair"></span>
 
 
 "Right, my boy, right," said the President with a ponderous heartiness,
@@ -10180,7 +10180,7 @@ Proprio in fondo sedeva l'uomo chiamato Sabato, il più semplice e il più sconc
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Man Who Was Thursday — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Man Who Was Thursday — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/grave,motif/lightning,motif/poison,motif/road,motif/soul,motif/spring,motif/time,concept/doubt,concept/fear,concept/honour,concept/temptation,concept/truth,form/fable,setting/paris,character/sunday"></span>
 
 
 CHAPTER VI
@@ -10410,7 +10410,7 @@ del tutto abbastanza vile da ammirarla.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Was Thursday — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Was Thursday — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/childhood,motif/death,motif/night,motif/silence,motif/supernatural,motif/water,motif/window,concept/body,concept/courage,concept/pride,character/pistol,character/sunday"></span>
 
 
 The men were eating as they talked, and even in this they were typical.
@@ -10636,7 +10636,7 @@ Quando furono tutti dentro, chiuse la porta e la sprangò a chiave.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Man Who Was Thursday — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Man Who Was Thursday — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/tyrant,motif/death,motif/grave,motif/rose,motif/time,concept/freedom,form/satire,character/pistol,character/sunday"></span>
 
 
 The first to speak was Gogol, the irreconcilable, who seemed bursting
@@ -10830,7 +10830,7 @@ di appassionato sollievo.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Man Who Was Thursday — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Man Who Was Thursday — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/home,motif/rose,motif/snow,motif/soul,motif/time,motif/well,motif/window,form/inscription,character/sunday"></span>
 
 
 CHAPTER VII
@@ -11086,7 +11086,7 @@ malaticcia in abito da sera.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Was Thursday — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Was Thursday — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/bees,motif/garden,motif/love,motif/snow,motif/spring,motif/time,motif/wind,motif/window,concept/faith,concept/wonder,setting/london,character/sunday"></span>
 
 
 [[Snow]], however, began to thicken and fall fast; and Syme,
@@ -11295,7 +11295,7 @@ cautela, e si avvolse fino al mento nella coperta impermeabile.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Man Who Was Thursday — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Man Who Was Thursday — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/cross,motif/death,motif/grave,motif/hill,motif/lion,motif/river,motif/rose,motif/snow,motif/storm,motif/time,motif/window,concept/body,concept/faith,setting/cathedral,setting/court,setting/london,character/sunday"></span>
 
 
 Every movement of the old man's tottering figure and vague hands, every
@@ -11517,7 +11517,7 @@ e chiese un bicchiere di latte.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Was Thursday — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Was Thursday — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/shadow,motif/grave,motif/stars,motif/tears,concept/hope,concept/pride,character/gabriel_syme,character/lord_mayor"></span>
 
 
 CHAPTER VIII
@@ -11708,7 +11708,7 @@ Syme ebbe per un lampo la sensazione che il cosmo si fosse capovolto di netto, c
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Man Who Was Thursday — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Man Who Was Thursday — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/death,motif/memory,motif/rose,motif/stars,motif/time,motif/window,concept/fear,concept/wonder,setting/paris,character/sunday"></span>
 
 
 Even in that close den, perpetually filled with the din of knives,
@@ -11952,7 +11952,7 @@ La decisione del suo gesto trasse vagamente in piedi il [[The Professor|Professo
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Was Thursday — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Was Thursday — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,motif/nature,motif/river,motif/road,motif/silence,motif/snow,motif/time,motif/well,motif/window,concept/comradeship,concept/nature,concept/self,form/parody,histref/america,setting/america"></span>
 
 
 "Confound it!" cried Syme.  "And we don't know where he is."
@@ -12198,7 +12198,7 @@ Syme poté riversare per la prima [[Time|volta]] tutta la sua incredibile vicend
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Man Who Was Thursday — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Man Who Was Thursday — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/well,concept/mercy"></span>
 
 
 "I need hardly say there was a collision.  The pessimists
@@ -12289,7 +12289,7 @@ Il professor de Worms annuì e vuotò il bicchiere.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Man Who Was Thursday — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Man Who Was Thursday — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/ghost,archetype/mentor,archetype/monster,archetype/shadow,archetype/tyrant,motif/crown,motif/death,motif/night,motif/silence,motif/summer,motif/tears,motif/time,motif/well,concept/fanaticism,concept/martyrdom,concept/wonder,form/tragedy,character/sunday"></span>
 
 
 CHAPTER IX
@@ -12551,7 +12551,7 @@ Ci hai messo molto a inventarlo?»
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Was Thursday — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Was Thursday — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/memory,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/nature,histref/french_revolution,setting/london,setting/paris,character/bottom"></span>
 
 
 [[The Professor]] made no answer, but gazed in front of him with eyes
@@ -12783,7 +12783,7 @@ Il dottor Bull sorrise di nuovo, ma continuò a scrutarli senza parlare.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Man Who Was Thursday — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Man Who Was Thursday — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/detective,motif/childhood,motif/rose,motif/silence,motif/spring,motif/stars,motif/time,motif/uncanny,concept/despair,concept/grotesque,concept/hope,concept/uncanny,form/novel"></span>
 
 
 "Please do not think me excessively abrupt; but I advise
@@ -13053,7 +13053,7 @@ indicare senza parlare.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Was Thursday — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Was Thursday — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/city,motif/silence,motif/time,concept/hope"></span>
 
 
 [[The Professor]] had also started to his feet, forgetful of his
@@ -13323,7 +13323,7 @@ Erano già sul battello per Calais prima che la conversazione scorresse liberame
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="The Man Who Was Thursday — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="The Man Who Was Thursday — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/silence,motif/swallow,motif/time,motif/well,motif/window,concept/conscience,concept/doubt,concept/honour,setting/london,setting/paris"></span>
 
 
 "I had already arranged," he explained, "to go to France for
@@ -13591,7 +13591,7 @@ contro il mare violetto.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Was Thursday — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Was Thursday — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/rose,motif/spring,motif/time,motif/well,concept/honour,concept/slavery,concept/wonder"></span>
 
 
 CHAPTER X 
@@ -13879,7 +13879,7 @@ un pretesto per insultare il Marchese.»
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Man Who Was Thursday — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Man Who Was Thursday — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/flowers,motif/journey,motif/nature,motif/rose,motif/spring,motif/time,motif/well,concept/honour,concept/nature,setting/paris"></span>
 
 
 "By George!" said Syme, facing round and looking at him,
@@ -14115,7 +14115,7 @@ compatibile con la dignità.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Was Thursday — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Was Thursday — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/death,motif/dreams,motif/flowers,motif/garden,motif/home,motif/love,motif/night,motif/silence,motif/spring,motif/supernatural,motif/time,motif/wind,concept/beauty,concept/body,concept/doubt,concept/fear,concept/madness,form/riddle,setting/paris,character/satan"></span>
 
 
 Then the Colonel took out another pair of blades, and taking one himself
@@ -14343,7 +14343,7 @@ che presto sarebbe stato il boato del treno per [[Paris|Parigi]].
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Man Who Was Thursday — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Man Who Was Thursday — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/fool,motif/hill,motif/rose,motif/silence,motif/supernatural,motif/well,concept/sublime,setting/paris,character/sunday"></span>
 
 
 He fell to fighting again with a [[Supernatural|supernatural]] levity, like a Mohammedan
@@ -14623,7 +14623,7 @@ ma il volto era terribilmente pallido.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="The Man Who Was Thursday — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="The Man Who Was Thursday — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/detective,motif/time,motif/well,concept/beauty,concept/doubt,concept/honour,concept/solitude,setting/london,character/sunday"></span>
 
 
 "I am Inspector Ratcliffe," he said, with a sort of haste
@@ -14895,7 +14895,7 @@ sorrise di traverso.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Was Thursday — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Was Thursday — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/dance,motif/death,motif/night,motif/silence,motif/soul,motif/well,concept/self,concept/wonder,setting/cathedral,setting/paris,character/gabriel_syme,character/sunday"></span>
 
 
 CHAPTER XI
@@ -15139,7 +15139,7 @@ dalle guerre dei baroni.»
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Was Thursday — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Was Thursday — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/grave,motif/horse,motif/road,motif/well,concept/fear,concept/history,form/history,form/riddle,character/sunday"></span>
 
 
 "As a lecture on English [[history]] for the little ones," said Syme,
@@ -15393,7 +15393,7 @@ dall’orizzonte.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Man Who Was Thursday — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Man Who Was Thursday — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/flowers,motif/horse,motif/road,motif/time,motif/well,setting/germany"></span>
 
 
 The [[Horse|horse]] and cart took a sharp turn round a clump of elms, and the [[Horse|horse]]'s
@@ -15581,7 +15581,7 @@ di locuste. I cavalli erano stati sellati non un attimo troppo presto.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Was Thursday — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Was Thursday — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/hill,motif/horse,motif/lightning,motif/night,motif/road,motif/time,motif/well,concept/friendship,concept/madness,character/speed"></span>
 
 
 CHAPTER XII
@@ -15771,7 +15771,7 @@ Il dottor Renard era un uomo mite dotato di una ricchezza mostruosa; le sue stan
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Was Thursday — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Was Thursday — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/detective,motif/chains,motif/cross,motif/horse,motif/road,motif/storm,motif/time,motif/wheel,form/allegory"></span>
 
 
 "No," corrected [[The Professor|the Professor]], "a [[Horse|horse]]."
@@ -15975,7 +15975,7 @@ Fu interrotto di colpo da un botto e da un lampo di luce, che parve vicinissimo 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Man Who Was Thursday — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Man Who Was Thursday — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,archetype/shadow,motif/road,motif/rose,motif/well,concept/fear,form/satire,character/queen,character/sunday"></span>
 
 
 "It need not interrupt conversation," said the gloomy Ratcliffe.  "Pray resume
@@ -16178,7 +16178,7 @@ Il colonnello balzò giù dall'automobile con un'esclamazione insofferente.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Man Who Was Thursday — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="The Man Who Was Thursday — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/horse,motif/well,concept/body,concept/humility,character/pistol"></span>
 
 
 "Dr. Bull," said Syme sardonically, "has at least got it into his hat."
@@ -16458,7 +16458,7 @@ E una tenebra universale seppellisce ogni cosa."»
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="The Man Who Was Thursday — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="The Man Who Was Thursday — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/fire,motif/silence,motif/sleep,motif/time,motif/water,concept/doubt,concept/hope,concept/madness,character/sunday"></span>
 
 
 "Stop!" cried Bull suddenly, "the gendarmes are out."
@@ -16711,7 +16711,7 @@ Il dottor Bull scagliò la sua [[Sword|spada]] in mare.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Was Thursday — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Was Thursday — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/journey,motif/rose,motif/silence,motif/well,concept/fear,setting/london,character/sunday"></span>
 
 
 CHAPTER XIII
@@ -17003,7 +17003,7 @@ dell’Albero della Vita?  Direi che un giorno finirà col piacere anche a me.»
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Was Thursday — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Was Thursday — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/horse,motif/nature,motif/road,motif/rose,motif/stars,motif/storm,motif/time,motif/well,motif/wind,concept/nature,concept/truth,form/riddle,character/speed,character/sunday"></span>
 
 
 "We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
@@ -17229,7 +17229,7 @@ allo stupito pompiere con gesti esplicativi.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Man Who Was Thursday — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Man Who Was Thursday — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/fire,motif/home,motif/leaves,motif/nature,motif/pain,motif/ship,motif/stars,motif/time,motif/well,concept/charity,concept/doubt,concept/hope,concept/nature,concept/truth,setting/london,setting/ship,character/speed,character/sunday"></span>
 
 
 "After him!" howled Syme.  "He can't go astray now.
@@ -17525,7 +17525,7 @@ foglietto di carta, sul quale era scritto:…
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Was Thursday — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Was Thursday — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/horse,motif/silence,motif/soul,motif/stars,motif/wheel,motif/wind,motif/window,concept/beauty,concept/freedom,setting/court"></span>
 
 
 "The word, I fancy, should be 'pink'."
@@ -17709,7 +17709,7 @@ Seguiamolo!»
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Man Who Was Thursday — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Man Who Was Thursday — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/animals,motif/nature,motif/silence,motif/spring,motif/well,concept/hope,concept/nature,concept/truth,form/tragedy,histref/bible,setting/london,character/sunday"></span>
 
 
 CHAPTER XIV
@@ -17969,7 +17969,7 @@ in un salotto con una tigre distratta?»
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Was Thursday — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Was Thursday — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/road,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/faith,concept/honour,character/sunday"></span>
 
 
 "And what do you think of [[Sunday]], Gogol?" asked Syme.
@@ -18233,7 +18233,7 @@ Se solo potessimo passare davanti…»
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Man Who Was Thursday — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Man Who Was Thursday — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/king,motif/frost,motif/hill,motif/home,motif/road,motif/silence,motif/sleep,motif/wind,motif/window,concept/freedom,setting/court,character/sunday"></span>
 
 
 "Look!" cried out Bull clamorously, "the balloon is coming down!"
@@ -18507,7 +18507,7 @@ prima di poter ricordare la propria madre.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Man Who Was Thursday — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="The Man Who Was Thursday — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/blood,motif/mirror,motif/moon,motif/nature,motif/night,motif/sleep,motif/stars,motif/well,concept/freedom,concept/nature,histref/bible,character/sunday"></span>
 
 
 When the carriages eventually rolled up to a large, low, cavernous gateway,
@@ -18675,7 +18675,7 @@ di un trovatore.  Poiché quei travestimenti non travestivano, ma rivelavano.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Man Who Was Thursday — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Man Who Was Thursday — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/birds,motif/fire,motif/garden,motif/grave,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/road,motif/rose,motif/ship,motif/soul,motif/spring,motif/stars,motif/time,motif/well,concept/doubt,concept/nature,concept/union,histref/bible,setting/ship,character/sunday"></span>
 
 
 CHAPTER XV
@@ -18919,7 +18919,7 @@ sulle loro sedie di pietra.  Nessuno di loro aveva pronunciato parola.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Was Thursday — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Was Thursday — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/fire,motif/garden,motif/insects,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/honour,concept/hope,concept/reconciliation,form/epic,character/satan,character/sunday"></span>
 
 
 They seemed in no haste to do so, but heard in [[Silence|silence]] the hum
@@ -19205,7 +19205,7 @@ una vera agonia come la mia...»
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Man Who Was Thursday — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Man Who Was Thursday — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/birds,motif/dawn,motif/garden,motif/nature,motif/road,motif/rose,motif/tears,motif/wheel,concept/body,concept/nature,setting/london,character/father_brown,character/satan,character/sunday"></span>
 
 
 Syme sprang to his feet, shaking from head to foot.

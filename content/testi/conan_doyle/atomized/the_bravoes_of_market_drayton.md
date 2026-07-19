@@ -268,7 +268,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="THE BRAVOES OF MARKET-DRAYTON (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="THE BRAVOES OF MARKET-DRAYTON (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/gallows,motif/grave,concept/crime_and_punishment,concept/justice,concept/greed,concept/guilt,form/nonfiction,setting/rural_england"></span>
 
 
 THE BRAVOES OF MARKET-DRAYTON
@@ -288,7 +288,7 @@ Mrs. Harris and the elder Cox were carried across the seas, and passed the short
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="THE BRAVOES OF MARKET-DRAYTON (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="THE BRAVOES OF MARKET-DRAYTON (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/grave,concept/crime_and_punishment,concept/justice,concept/guilt,concept/greed,form/nonfiction"></span>
 
 
 THE “NEWGATE CALENDAR” ACCOUNT OF THE MARKET-DRAYTON MURDER TRIAL
@@ -320,7 +320,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="THE BRAVOES OF MARKET-DRAYTON (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="THE BRAVOES OF MARKET-DRAYTON (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,concept/crime_and_punishment,concept/justice,concept/doubt,concept/death,form/nonfiction,setting/london"></span>
 
 
 THE DEBATABLE CASE OF MRS. EMSLEY

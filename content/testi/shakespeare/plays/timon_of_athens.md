@@ -1105,7 +1105,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Timon of Athens — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Timon of Athens — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/death,motif/fire,motif/grave,motif/hill,motif/horse,motif/jewel,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/honour,concept/imagination,concept/longing,concept/nature,character/alcibiades,character/apemantus,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1289,7 +1289,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Timon of Athens — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Timon of Athens — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/dance,motif/jewel,motif/love,motif/prison,motif/soul,motif/time,motif/water,motif/well,concept/charity,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/friendship,concept/honour,concept/madness,concept/vanity,concept/wonder,form/masque,character/alcibiades,character/apemantus,character/flavius,character/lucius,character/lucullus,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1402,7 +1402,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Timon of Athens — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Timon of Athens — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/horse,motif/love,concept/fear,concept/honour,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1422,7 +1422,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Timon of Athens — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Timon of Athens — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/shadow,motif/blood,motif/death,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/winter,concept/conscience,concept/fear,concept/honour,concept/nature,character/alcibiades,character/apemantus,character/flavius,character/lucius,character/lucullus,character/sempronius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1542,7 +1542,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Timon of Athens — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Timon of Athens — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/death,motif/nature,motif/poison,motif/time,motif/well,concept/faith,concept/friendship,concept/honour,concept/nature,character/lucullus,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1571,7 +1571,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Timon of Athens — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Timon of Athens — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/love,motif/soul,motif/time,motif/well,concept/conscience,concept/honour,concept/hope,character/lucius,character/lucullus,character/speed,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1608,7 +1608,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Timon of Athens — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Timon of Athens — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/fire,motif/love,motif/nature,motif/prison,concept/conscience,concept/courage,concept/honour,concept/hope,concept/nature,character/lucius,character/lucullus,character/sempronius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1624,7 +1624,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Timon of Athens — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Timon of Athens — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/blood,motif/soul,motif/well,motif/winter,concept/faith,concept/fear,concept/revenge,concept/wonder,character/flavius,character/lucius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1706,7 +1706,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="Timon of Athens — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="Timon of Athens — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/soul,character/flavius,character/lucius,character/lucullus,character/sempronius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1726,7 +1726,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Timon of Athens — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Timon of Athens — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/blood,motif/death,motif/home,motif/lion,motif/love,motif/sleep,motif/time,concept/honour,concept/mercy,concept/paradox,concept/revenge,concept/suffering,character/alcibiades,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1765,7 +1765,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Timon of Athens — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Timon of Athens — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/villain,motif/birds,motif/city,motif/jewel,motif/leaves,motif/summer,motif/swallow,motif/time,motif/water,motif/well,motif/winter,concept/doubt,concept/hope,character/alcibiades,character/lucius,character/lucullus,character/sempronius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1847,7 +1847,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Timon of Athens — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Timon of Athens — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/grave,motif/nakedness,motif/night,motif/poison,motif/tears,concept/fear,concept/friendship,concept/truth,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1861,7 +1861,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Timon of Athens — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Timon of Athens — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/grave,concept/friendship,concept/poverty,concept/self,character/flavius,character/timon"></span>
 
 
 | Speaker | Line |
@@ -1881,7 +1881,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Timon of Athens — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Timon of Athens — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/monster,archetype/villain,motif/birds,motif/blood,motif/cave,motif/city,motif/death,motif/decay,motif/desire,motif/fire,motif/grave,motif/horse,motif/lamb,motif/leaves,motif/lion,motif/love,motif/moon,motif/nature,motif/pain,motif/poison,motif/rose,motif/snow,motif/storm,motif/swallow,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/ambition,concept/charity,concept/doubt,concept/fear,concept/friendship,concept/honour,concept/hope,concept/melancholy,concept/mercy,concept/nature,concept/pride,concept/procreation,concept/self,concept/wonder,form/fragment,character/alcibiades,character/apemantus,character/flavius,character/hyperion,character/timon"></span>
 
 
 | Speaker | Line |
@@ -2072,7 +2072,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Timon of Athens — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Timon of Athens — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/cave,motif/love,motif/night,motif/time,motif/water,motif/well,concept/doubt,concept/honour,concept/truth,form/satire,character/alcibiades,character/timon"></span>
 
 
 | Speaker | Line |
@@ -2137,7 +2137,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Timon of Athens — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Timon of Athens — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,motif/cave,motif/death,motif/love,motif/nature,motif/tears,motif/time,motif/well,concept/body,concept/hope,concept/nature,character/alcibiades,character/flavius,character/timon,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2183,7 +2183,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Timon of Athens — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Timon of Athens — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/cave,motif/city,motif/dust,motif/love,concept/fear,character/alcibiades,character/timon"></span>
 
 
 | Speaker | Line |
@@ -2204,7 +2204,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Timon of Athens — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Timon of Athens — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/grave,concept/ambition,character/timon"></span>
 
 
 | Speaker | Line |
@@ -2217,7 +2217,7 @@ The Life of [[Timon]] of Athens
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Timon of Athens — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Timon of Athens — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/shadow,motif/city,motif/death,motif/desire,motif/grave,motif/love,motif/memory,motif/nature,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/despair,concept/fear,concept/greatness,concept/honour,concept/nature,concept/self,setting/castle,character/alcibiades,character/banquo,character/duncan,character/earl_of_northumberland,character/lady_macbeth,character/macbeth,character/macduff,character/queen,character/three_witches,character/timon,character/witch"></span>
 
 
 | Speaker | Line |

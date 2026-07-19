@@ -1673,7 +1673,7 @@ Fatquack—whizz!—fizz!—— and I am giving you a specimen of it now.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Literary Life of Thingum Bob, Esq (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Literary Life of Thingum Bob, Esq (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/villain,motif/birds,motif/city,motif/road,motif/soul,motif/time,motif/well,concept/body,concept/greatness,concept/history,form/history,form/translation,histref/america,histref/dante,setting/america"></span>
 
 
 LATE EDITOR OF THE “GOOSETHERUMFOODLE.”
@@ -1873,7 +1873,7 @@ Choctaw—I cannot be at the pains of remembering every trifle
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Literary Life of Thingum Bob, Esq (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Literary Life of Thingum Bob, Esq (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/city,motif/soul,motif/spring,motif/well,concept/doubt,concept/greatness,concept/imagination,concept/mercy,form/satire,character/achilles"></span>
 
 
 exactly—I took about fifty verses beginning with “[[Achilles]]’
@@ -2089,7 +2089,7 @@ will be kind enough to tell us, perhaps, how ‘_hail_’ can be
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Literary Life of Thingum Bob, Esq (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Literary Life of Thingum Bob, Esq (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/animals,motif/home,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/jealousy,concept/resignation,concept/sublime,histref/dante"></span>
 
 
 ‘_holy light_’ We always regarded it as _frozen rain_. Will he
@@ -2299,7 +2299,7 @@ the subject of my poem;—but modesty will ever forbid me to repeat
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Literary Life of Thingum Bob, Esq (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Literary Life of Thingum Bob, Esq (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/villain,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/freedom,concept/hope,concept/truth,form/tragedy"></span>
 
 
 the thousand compliments which he lavished upon me. The eulogies
@@ -2495,7 +2495,7 @@ of the hieroglyphical marks, “_Sep_. 15—1 t.” appended to each of
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Literary Life of Thingum Bob, Esq (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Literary Life of Thingum Bob, Esq (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/city,motif/well,concept/beauty,concept/doubt,concept/freedom,character/hyperion"></span>
 
 
 the critiques.
@@ -2701,7 +2701,7 @@ eminent editor,) Snob, Mumblethumb, Fatquack, and others; but,
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Literary Life of Thingum Bob, Esq (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Literary Life of Thingum Bob, Esq (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/villain,motif/city,motif/hill,motif/soul,motif/well"></span>
 
 
 after the inimitable compositions of the editor himself, we
@@ -2901,7 +2901,7 @@ Full of this purpose, I looked about me to find a friend whom I
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Literary Life of Thingum Bob, Esq (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Literary Life of Thingum Bob, Esq (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/love,motif/time,motif/well,concept/wonder,setting/germany"></span>
 
 
 could entrust with a message to his Daddyship, and as the editor
@@ -3111,7 +3111,7 @@ Latin)—who?—where?”
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Literary Life of Thingum Bob, Esq (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Literary Life of Thingum Bob, Esq (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/history,form/history"></span>
 
 
 that governor of yours is a millstone about your neck. We must

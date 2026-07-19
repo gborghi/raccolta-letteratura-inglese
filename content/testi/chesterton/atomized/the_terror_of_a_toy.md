@@ -153,7 +153,7 @@ that will never be stained with [[Blood|blood]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Terror_of_a_Toy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Terror_of_a_Toy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/death,motif/fire,motif/garden,motif/time,concept/reform,concept/self,concept/truth,histref/spanish_inquisition,setting/new_york"></span>
 
 
 # The Terror of a Toy
@@ -265,7 +265,7 @@ raccogliendo una pietra nel [[Garden|giardino]].
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The_Terror_of_a_Toy (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The_Terror_of_a_Toy (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/blood,motif/dawn,motif/death,motif/decay,motif/road,motif/soul,motif/window,concept/doubt,concept/fear,concept/reform,concept/truth,form/satire,histref/america,setting/america,character/sebastian"></span>
 
 
 Now you do not keep a little boy from throwing stones by preventing him

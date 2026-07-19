@@ -121,7 +121,7 @@ G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="oak (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="oak (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/death,motif/love,motif/spring"></span>
 
 
 # oak

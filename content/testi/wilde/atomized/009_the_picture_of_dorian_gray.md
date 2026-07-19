@@ -1607,7 +1607,7 @@ When they entered, they found hanging upon the wall a splendid portrait of their
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Picture of Dorian Gray — Chapter 20" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Picture of Dorian Gray — Chapter 20" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/artist,motif/well,concept/beauty,concept/hope,character/caliban,character/dorian_gray"></span>
 
 
 CHAPTER 20
@@ -1627,7 +1627,7 @@ OSCAR WILDE
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="The Picture of Dorian Gray — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="The Picture of Dorian Gray — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/artist,archetype/fool,motif/bees,motif/birds,motif/dreams,motif/dust,motif/flowers,motif/garden,motif/leaves,motif/love,motif/marriage,motif/nature,motif/pain,motif/rose,motif/soul,motif/stars,motif/summer,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/beauty,concept/body,concept/conscience,concept/deception,concept/democracy,concept/doubt,concept/friendship,concept/history,concept/hope,concept/immortality,concept/madness,concept/nature,concept/pride,concept/self,concept/truth,concept/vanity,concept/wonder,form/history,form/sketch,setting/court,setting/london,setting/oxford,character/adonis,character/agatha,character/basil_hallward,character/dorian_gray,character/lord_henry_wotton"></span>
 
 
 CHAPTER 1
@@ -1716,7 +1716,7 @@ Then he looked at Lord Henry. “[[Dorian Gray]] is my dearest friend,” he sai
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="The Picture of Dorian Gray — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="The Picture of Dorian Gray — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/shadow,motif/clock,motif/desire,motif/dreams,motif/dust,motif/fire,motif/flowers,motif/garden,motif/hill,motif/home,motif/leaves,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/pain,motif/rose,motif/secrets,motif/silence,motif/soul,motif/spring,motif/stars,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/courage,concept/doubt,concept/fear,concept/friendship,concept/longing,concept/nature,concept/paradox,concept/purification,concept/self,concept/survival,concept/temptation,concept/wonder,setting/oxford,character/agatha,character/basil_hallward,character/dorian_gray,character/lord_henry_wotton"></span>
 
 
 CHAPTER 2
@@ -1860,7 +1860,7 @@ As the door closed behind them, the painter flung himself down on a sofa, and a 
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="The Picture of Dorian Gray — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="The Picture of Dorian Gray — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/hero,archetype/shadow,motif/death,motif/desire,motif/grave,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/rose,motif/secrets,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,concept/beauty,concept/charity,concept/despair,concept/education,concept/fear,concept/history,concept/hope,concept/imagination,concept/indolence,concept/nature,concept/original_sin,concept/paradox,concept/slavery,concept/solitude,concept/suffering,concept/truth,concept/wonder,form/history,form/hymn,form/novel,form/sonnet,histref/america,setting/america,setting/court,setting/london,setting/paris,character/agatha,character/basil_hallward,character/dorian_gray,character/erskine,character/isabella,character/lord_henry_wotton,character/queen"></span>
 
 
 CHAPTER 3
@@ -1967,7 +1967,7 @@ As he was passing out of the door, [[Dorian Gray]] touched him on the arm. “Le
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="The Picture of Dorian Gray — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="The Picture of Dorian Gray — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/king,archetype/lover,archetype/monster,archetype/shadow,motif/clock,motif/dawn,motif/desire,motif/dreams,motif/dust,motif/flowers,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/poison,motif/rose,motif/secrets,motif/silence,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/fear,concept/grotesque,concept/history,concept/honour,concept/imagination,concept/jealousy,concept/nature,concept/pride,concept/self,concept/union,concept/wonder,form/history,form/novel,form/tragedy,setting/london,setting/verona,character/basil_hallward,character/capulet,character/dorian_gray,character/juliet,character/mercutio,character/queen,character/romeo,character/rosalind,character/sibyl_vane"></span>
 
 
 CHAPTER 4
@@ -2082,7 +2082,7 @@ When he arrived [[Home|home]], about half-past twelve o’[[Clock|clock]], he sa
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="The Picture of Dorian Gray — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="The Picture of Dorian Gray — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/child,archetype/lover,motif/blood,motif/clock,motif/dance,motif/dust,motif/fire,motif/flowers,motif/frost,motif/home,motif/horse,motif/leaves,motif/love,motif/marriage,motif/memory,motif/nature,motif/night,motif/pain,motif/prison,motif/road,motif/rose,motif/ship,motif/silence,motif/sleep,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/doubt,concept/fear,concept/hope,concept/jealousy,concept/mercy,concept/nature,concept/poverty,concept/self,concept/truth,concept/vanity,concept/wonder,setting/london,setting/ship,character/achilles,character/dorian_gray,character/james_vane,character/juliet,character/sibyl_vane"></span>
 
 
 CHAPTER 5
@@ -2189,7 +2189,7 @@ The exaggerated folly of the threat, the passionate gesture that accompanied it,
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="The Picture of Dorian Gray — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="The Picture of Dorian Gray — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/artist,motif/clock,motif/cross,motif/desire,motif/fire,motif/jewel,motif/leaves,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/well,concept/courage,concept/hope,concept/individualism,concept/nature,concept/reform,concept/self,concept/suffering,form/tragedy,histref/america,setting/america,setting/london,setting/verona,character/basil_hallward,character/dorian_gray,character/juliet,character/orlando,character/rosalind,character/sibyl_vane"></span>
 
 
 CHAPTER 6
@@ -2255,7 +2255,7 @@ They got up and put on their coats, sipping their coffee standing. The painter w
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="The Picture of Dorian Gray — Chapter 7" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="The Picture of Dorian Gray — Chapter 7" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/artist,archetype/child,archetype/fool,archetype/pilgrim,archetype/shadow,motif/bells,motif/birds,motif/blood,motif/dance,motif/dawn,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/home,motif/lightning,motif/love,motif/marriage,motif/mirror,motif/moon,motif/night,motif/pain,motif/prison,motif/rose,motif/soul,motif/storm,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/grotesque,concept/hope,concept/humility,concept/imagination,concept/self,concept/suffering,concept/temptation,concept/wonder,histref/renaissance,character/basil_hallward,character/beatrice,character/caliban,character/capulet,character/cordelia,character/dorian_gray,character/juliet,character/mercutio,character/miranda,character/portia,character/romeo,character/rosalind,character/sibyl_vane"></span>
 
 
 CHAPTER 7
@@ -2333,7 +2333,7 @@ He got up from his chair and drew a large screen right in front of the portrait,
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="The Picture of Dorian Gray — Chapter 8" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="The Picture of Dorian Gray — Chapter 8" data-chapter="Chapter 09" data-kind="chapter" data-tags="topos/double,archetype/child,motif/birds,motif/blood,motif/chalk,motif/clock,motif/dawn,motif/death,motif/desire,motif/garden,motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/noon,motif/pain,motif/poison,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/soul,motif/spring,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,motif/winter,concept/beauty,concept/body,concept/charity,concept/conscience,concept/courage,concept/doubt,concept/eternity,concept/fear,concept/forgiveness,concept/friendship,concept/history,concept/hope,concept/imagination,concept/madness,concept/melancholy,concept/reform,concept/self,concept/vanity,concept/wonder,form/comedy,form/fragment,form/history,form/tragedy,histref/greek_tragedy,setting/london,setting/paris,character/basil_hallward,character/brabantio,character/cordelia,character/desdemona,character/dorian_gray,character/juliet,character/ophelia,character/phantom,character/sibyl_vane"></span>
 
 
 CHAPTER 8
@@ -2419,7 +2419,7 @@ He drew the screen back into its former place in front of the picture, smiling a
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Picture of Dorian Gray — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Picture of Dorian Gray — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="archetype/artist,archetype/child,motif/autumn,motif/death,motif/fire,motif/flowers,motif/garden,motif/grave,motif/love,motif/memory,motif/night,motif/pain,motif/road,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/friendship,concept/honour,concept/jealousy,concept/martyrdom,concept/mercy,concept/suffering,concept/wonder,form/tragedy,setting/paris,character/adonis,character/basil_hallward,character/dorian_gray,character/juliet,character/sibyl_vane"></span>
 
 
 CHAPTER 9
@@ -2492,7 +2492,7 @@ He sighed and touched the bell. The portrait must be hidden away at all costs. H
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="The Picture of Dorian Gray — Chapter 10" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="The Picture of Dorian Gray — Chapter 10" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/child,archetype/king,archetype/shadow,motif/bees,motif/birds,motif/chains,motif/childhood,motif/clock,motif/death,motif/dreams,motif/dust,motif/garden,motif/leaves,motif/love,motif/nature,motif/night,motif/pain,motif/road,motif/rose,motif/soul,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/doubt,concept/fear,concept/honour,concept/nature,concept/wonder,form/novel,character/basil_hallward,character/dorian_gray,character/queen,character/sibyl_vane"></span>
 
 
 CHAPTER 10
@@ -2549,7 +2549,7 @@ It was almost nine o’[[Clock|clock]] before he reached the club, where he foun
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="The Picture of Dorian Gray — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="The Picture of Dorian Gray — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="topos/double,archetype/child,archetype/hero,archetype/innocent,archetype/king,archetype/lover,archetype/monster,archetype/shadow,motif/animals,motif/bees,motif/bells,motif/birds,motif/blood,motif/cave,motif/city,motif/dawn,motif/death,motif/decay,motif/desert,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/grave,motif/great_house,motif/home,motif/horse,motif/jewel,motif/leaves,motif/lightning,motif/love,motif/marriage,motif/memory,motif/mirror,motif/moon,motif/nature,motif/night,motif/pain,motif/poison,motif/prayer,motif/rose,motif/secrets,motif/sleep,motif/soul,motif/stars,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,concept/body,concept/despair,concept/fear,concept/grotesque,concept/history,concept/honour,concept/imagination,concept/individualism,concept/longing,concept/madness,concept/melancholy,concept/nature,concept/pride,concept/self,concept/suffering,concept/vanity,concept/wonder,form/history,form/novel,form/tragedy,histref/america,histref/dante,histref/puritanism,histref/renaissance,setting/america,setting/court,setting/desert,setting/germany,setting/london,setting/oxford,setting/paris,character/apollo,character/basil_hallward,character/christ,character/dorian_gray,character/duke_of_milan,character/henry_viii,character/maria,character/queen,character/queen_elizabeth,character/richard_ii,character/sebastian"></span>
 
 
 CHAPTER 11
@@ -2593,7 +2593,7 @@ There was a horrible fascination in them all. He saw them at [[Night|night]], an
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="The Picture of Dorian Gray — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="The Picture of Dorian Gray — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="archetype/innocent,motif/blood,motif/clock,motif/dawn,motif/fire,motif/grave,motif/home,motif/leaves,motif/love,motif/memory,motif/night,motif/pain,motif/soul,motif/time,motif/water,concept/doubt,concept/fear,concept/friendship,concept/honour,concept/hope,concept/madness,concept/pride,concept/suicide,concept/wonder,setting/london,setting/oxford,setting/paris,character/basil_hallward,character/dorian_gray,character/gloucester,character/kent"></span>
 
 
 CHAPTER 12
@@ -2639,7 +2639,7 @@ He turned round. “What I have to say is this,” he cried. “You must give me
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="The Picture of Dorian Gray — Chapter 13" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="The Picture of Dorian Gray — Chapter 13" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/artist,motif/blood,motif/clock,motif/dust,motif/fire,motif/grave,motif/leaves,motif/night,motif/pain,motif/poison,motif/prayer,motif/snow,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/despair,concept/grotesque,concept/inner_life,concept/madness,concept/pride,concept/temptation,concept/wonder,form/parody,form/satire,setting/paris,character/basil_hallward,character/christ,character/dorian_gray"></span>
 
 
 CHAPTER 13
@@ -2703,7 +2703,7 @@ The man shambled down the passage in his slippers.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="The Picture of Dorian Gray — Chapter 14" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="The Picture of Dorian Gray — Chapter 14" data-chapter="Chapter 15" data-kind="chapter" data-tags="archetype/shadow,motif/autumn,motif/birds,motif/blood,motif/cave,motif/city,motif/clock,motif/death,motif/desire,motif/dust,motif/fire,motif/flowers,motif/garden,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/pain,motif/rose,motif/secrets,motif/silence,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/body,concept/courage,concept/exile,concept/grotesque,concept/imagination,concept/melancholy,concept/pride,concept/suicide,concept/wonder,setting/oxford,setting/paris,setting/venice,character/basil_hallward,character/dorian_gray,character/lord_henry_wotton,character/venus"></span>
 
 
 CHAPTER 14
@@ -2815,7 +2815,7 @@ As soon as Campbell had left, he went upstairs. There was a horrible smell of ni
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="The Picture of Dorian Gray — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="The Picture of Dorian Gray — Chapter 15" data-chapter="Chapter 16" data-kind="chapter" data-tags="topos/double,motif/clock,motif/dust,motif/fire,motif/home,motif/horse,motif/love,motif/night,motif/river,motif/silence,motif/spring,motif/summer,motif/time,motif/well,motif/wind,concept/eternity,concept/fear,concept/hope,concept/union,form/novel,form/tragedy,setting/london,character/basil_hallward,character/dorian_gray,character/queen_elizabeth"></span>
 
 
 CHAPTER 15
@@ -2905,7 +2905,7 @@ The man shook his head. “It is too far for me,” he muttered.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="The Picture of Dorian Gray — Chapter 16" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="The Picture of Dorian Gray — Chapter 16" data-chapter="Chapter 17" data-kind="chapter" data-tags="archetype/fool,archetype/innocent,archetype/rebel,archetype/shadow,motif/blood,motif/city,motif/death,motif/desire,motif/fire,motif/home,motif/horse,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/pain,motif/road,motif/rose,motif/soul,motif/time,motif/wind,concept/body,concept/conscience,concept/fear,concept/forgiveness,concept/freedom,concept/grotesque,concept/hope,concept/madness,concept/nature,concept/suffering,concept/truth,character/basil_hallward,character/dorian_gray,character/james_vane,character/pistol,character/sibyl_vane"></span>
 
 
 CHAPTER 16
@@ -2985,7 +2985,7 @@ He broke from her with an oath and rushed to the corner of the street, but [[Dor
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="The Picture of Dorian Gray — Chapter 17" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="The Picture of Dorian Gray — Chapter 17" data-chapter="Chapter 18" data-kind="chapter" data-tags="archetype/child,motif/decay,motif/desert,motif/fire,motif/flowers,motif/garden,motif/love,motif/night,motif/secrets,motif/time,motif/well,motif/window,concept/beauty,concept/courage,concept/faith,concept/fear,concept/hope,concept/paradox,concept/survival,concept/truth,histref/bible,setting/desert,character/dorian_gray,character/james_vane"></span>
 
 
 CHAPTER 17
@@ -3108,7 +3108,7 @@ He went to his room and dressed. There was a wild recklessness of gaiety in his 
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="The Picture of Dorian Gray — Chapter 18" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="The Picture of Dorian Gray — Chapter 18" data-chapter="Chapter 19" data-kind="chapter" data-tags="motif/birds,motif/blood,motif/cave,motif/clock,motif/death,motif/desire,motif/flowers,motif/frost,motif/garden,motif/home,motif/horse,motif/leaves,motif/love,motif/memory,motif/nature,motif/night,motif/pain,motif/rose,motif/ship,motif/sleep,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,motif/winter,concept/body,concept/conscience,concept/forgiveness,concept/freedom,concept/hope,concept/imagination,concept/madness,concept/nature,concept/truth,form/epigram,setting/ship,character/dorian_gray,character/james_vane,character/sibyl_vane"></span>
 
 
 CHAPTER 18
@@ -3210,7 +3210,7 @@ He stood there for some minutes looking at the dead [[Body|body]]. As he rode [[
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="The Picture of Dorian Gray — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="The Picture of Dorian Gray — Chapter 19" data-chapter="Chapter 20" data-kind="chapter" data-tags="archetype/artist,archetype/prophet,motif/city,motif/dawn,motif/death,motif/desire,motif/dreams,motif/garden,motif/grave,motif/memory,motif/moon,motif/night,motif/rose,motif/secrets,motif/soul,motif/time,motif/water,motif/well,motif/window,concept/faith,concept/hope,concept/renunciation,concept/self_sacrifice,concept/suicide,concept/vanity,concept/wonder,form/tragedy,histref/reformation,setting/london,setting/paris,character/apollo,character/dorian_gray,character/florizel,character/hamlet,character/ophelia,character/perdita,character/sibyl_vane,character/sunday"></span>
 
 
 CHAPTER 19
@@ -3273,7 +3273,7 @@ Dorian [[Rose|rose]] up from the piano and passed his hand through his hair. “
 
 
 
-<span class="atom-split" data-atom="chapter_21" data-title="The Picture of Dorian Gray — Chapter 20" data-chapter="Chapter 21" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21" data-title="The Picture of Dorian Gray — Chapter 20" data-chapter="Chapter 21" data-kind="chapter" data-tags="archetype/innocent,motif/blood,motif/death,motif/desire,motif/grave,motif/great_house,motif/home,motif/love,motif/memory,motif/mirror,motif/night,motif/pain,motif/prayer,motif/rose,motif/soul,motif/time,motif/well,concept/beauty,concept/conscience,concept/history,concept/hope,concept/longing,concept/madness,concept/melancholy,concept/pride,concept/purification,concept/renunciation,concept/self,concept/suicide,concept/vanity,concept/wonder,form/history,character/basil_hallward,character/dorian_gray,character/james_vane"></span>
 
 
 CHAPTER 20

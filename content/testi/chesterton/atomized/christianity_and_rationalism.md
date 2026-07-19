@@ -627,7 +627,7 @@ e il [[Courage|coraggio]] dovuti a un consesso di vescovi.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Christianity (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Christianity (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/dance,motif/decay,motif/ghosts,motif/moon,motif/nature,motif/time,concept/democracy,concept/faith,concept/history,concept/immortality,concept/nature,concept/paradox,form/history,histref/christianity,setting/london"></span>
 
 
 This is entered in from one of four Chesterton essays in the collection
@@ -833,7 +833,7 @@ non può esservi.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Christianity (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Christianity (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/nature,motif/supernatural,motif/well,concept/history,concept/nature,concept/paradox,concept/romantic_love,form/history,histref/christianity,character/christ"></span>
 
 
 The story of a [[Christ]] is very common in legend and literature.
@@ -1029,7 +1029,7 @@ di corsa crudele.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Christianity (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Christianity (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/fire,motif/garden,motif/hill,motif/love,motif/nature,motif/river,motif/storm,motif/time,concept/beauty,concept/grotesque,concept/history,concept/nature,concept/truth,form/history,histref/christianity"></span>
 
 
 We need not go far for instances quite apart from the instances
@@ -1231,7 +1231,7 @@ rispettivamente spiegato possono apparire superficialmente inintelligibili.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Christianity (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Christianity (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/courage,concept/truth,histref/christianity,character/christ"></span>
 
 
 Why will many of you not accept my four explanations?  Obviously, in mere

@@ -331,7 +331,7 @@ e sorride, ma non come sorridono i Sultani, e ripone la lama....
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="lepanto (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="lepanto (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/blood,motif/cross,motif/death,motif/flag,motif/garden,motif/home,motif/lion,motif/love,motif/mirror,motif/moon,motif/night,motif/road,motif/silence,motif/window,concept/endurance,concept/wonder,setting/castle,setting/italy,setting/mountains,character/ariel,character/christ,character/don_john,character/don_john_of_austria,character/queen,character/richard"></span>
 
 
 [[lepanto|Lepanto]]  

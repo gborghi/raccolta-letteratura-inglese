@@ -1466,7 +1466,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Othello — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Othello — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/city,motif/fire,motif/flag,motif/grave,motif/horse,motif/love,motif/night,motif/poison,motif/soul,motif/time,motif/well,motif/window,concept/beauty,concept/faith,concept/madness,concept/pride,setting/venice,character/cassio,character/iago,character/michael,character/othello,character/roderigo"></span>
 
 
 | Speaker | Line |
@@ -1529,7 +1529,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Othello — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Othello — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,motif/chains,motif/love,motif/marriage,motif/night,motif/prison,motif/soul,motif/time,motif/well,concept/conscience,concept/faith,concept/fear,concept/honour,concept/self,character/cassio,character/desdemona,character/iago,character/othello,character/roderigo"></span>
 
 
 | Speaker | Line |
@@ -1577,7 +1577,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Othello — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Othello — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/tyrant,motif/blood,motif/death,motif/grave,motif/jewel,motif/love,motif/nature,motif/night,motif/poison,motif/prayer,motif/sleep,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/education,concept/faith,concept/history,concept/nature,concept/revenge,concept/slavery,form/history,character/angelo,character/cassio,character/desdemona,character/iago,character/othello,character/roderigo,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1681,7 +1681,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Othello — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Othello — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/bells,motif/blood,motif/death,motif/fire,motif/home,motif/journey,motif/love,motif/nature,motif/ship,motif/sleep,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/faith,concept/fear,concept/history,concept/jealousy,concept/madness,concept/nature,concept/revenge,concept/truth,concept/wonder,form/essay,form/history,setting/castle,setting/court,setting/mountains,setting/ship,setting/venice,character/cassio,character/desdemona,character/emilia,character/iago,character/michael,character/othello,character/roderigo,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1790,7 +1790,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Othello — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Othello — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/dance,character/othello"></span>
 
 
 | Speaker | Line |
@@ -1801,7 +1801,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Othello — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Othello — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/king,archetype/shadow,archetype/villain,motif/blood,motif/clock,motif/crown,motif/death,motif/desire,motif/lion,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/soul,motif/time,motif/well,motif/wind,concept/body,concept/charity,concept/faith,concept/fear,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/court,setting/venice,character/cassio,character/desdemona,character/iago,character/michael,character/othello,character/roderigo"></span>
 
 
 | Speaker | Line |
@@ -1938,7 +1938,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Othello — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Othello — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/love,motif/time,motif/well,motif/wind,character/cassio,character/desdemona,character/emilia,character/iago,character/othello"></span>
 
 
 | Speaker | Line |
@@ -1980,7 +1980,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Othello — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Othello — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/well,character/iago,character/othello"></span>
 
 
 | Speaker | Line |
@@ -1995,7 +1995,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Othello — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Othello — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/monster,archetype/villain,motif/blood,motif/crown,motif/death,motif/fire,motif/home,motif/jewel,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/noon,motif/pain,motif/poison,motif/sleep,motif/soul,motif/swallow,motif/time,motif/well,motif/wind,motif/winter,concept/ambition,concept/body,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/pride,concept/reconciliation,concept/revenge,concept/self,concept/truth,concept/wonder,setting/venice,character/cassio,character/desdemona,character/emilia,character/iago,character/michael,character/othello"></span>
 
 
 | Speaker | Line |
@@ -2187,7 +2187,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Othello — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Othello — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/monster,motif/home,motif/love,motif/night,motif/pain,motif/prayer,motif/soul,motif/time,motif/well,concept/faith,concept/honour,concept/hope,concept/wonder,setting/venice,character/bianca,character/cassio,character/desdemona,character/emilia,character/iago,character/othello"></span>
 
 
 | Speaker | Line |
@@ -2298,7 +2298,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Othello — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Othello — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/monster,archetype/villain,motif/blood,motif/city,motif/fire,motif/home,motif/horse,motif/love,motif/memory,motif/nature,motif/night,motif/poison,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/charity,concept/faith,concept/honour,concept/jealousy,concept/madness,concept/nature,setting/venice,character/bianca,character/cassio,character/desdemona,character/iago,character/othello,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2468,7 +2468,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Othello — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Othello — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/villain,motif/death,motif/love,motif/moon,motif/night,motif/rose,motif/secrets,motif/soul,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/courage,concept/faith,concept/fear,concept/hope,concept/mercy,concept/poverty,concept/truth,concept/vanity,setting/venice,character/cassio,character/desdemona,character/emilia,character/iago,character/othello,character/roderigo"></span>
 
 
 | Speaker | Line |
@@ -2596,7 +2596,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Othello — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Othello — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/love,motif/night,motif/soul,motif/tears,motif/well,motif/wind,concept/conscience,concept/faith,concept/honour,concept/revenge,concept/truth,setting/court,setting/venice,character/desdemona,character/emilia,character/othello"></span>
 
 
 | Speaker | Line |
@@ -2648,7 +2648,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Othello — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Othello — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/blood,motif/death,motif/home,motif/night,motif/well,concept/beauty,concept/body,concept/fear,concept/mercy,setting/venice,character/bianca,character/cassio,character/desdemona,character/emilia,character/iago,character/othello,character/roderigo"></span>
 
 
 | Speaker | Line |
@@ -2748,7 +2748,7 @@ The [[Tragedy]] of [[Othello]] the Moor of [[Venice]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Othello — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Othello — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,archetype/villain,motif/blood,motif/death,motif/desire,motif/fire,motif/grave,motif/home,motif/journey,motif/love,motif/mirror,motif/moon,motif/nature,motif/pain,motif/prayer,motif/rose,motif/snow,motif/soul,motif/stars,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/fear,concept/history,concept/honour,concept/hope,concept/madness,concept/mercy,concept/nature,concept/revenge,concept/truth,form/fable,form/history,setting/oxford,character/cassio,character/cordelia,character/cressida,character/desdemona,character/edgar,character/edmund,character/emilia,character/gloucester,character/hamlet,character/iago,character/kent,character/king_lear,character/othello,character/regan,character/roderigo,character/troilus"></span>
 
 
 | Speaker | Line |

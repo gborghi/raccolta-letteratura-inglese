@@ -3543,7 +3543,7 @@ THE CAUTIOUS STUDENT will attach considerable importance to the account given by
 
 
 
-<span class="atom-split" data-atom="chapter_01_wattignies" data-title="Marie Antoinette — Chapter 20: WATTIGNIES" data-chapter="WATTIGNIES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_wattignies" data-title="Marie Antoinette — Chapter 20: WATTIGNIES" data-chapter="WATTIGNIES" data-kind="chapter" data-tags="concept/faith,setting/france"></span>
 
 
 CHAPTER XX. WATTIGNIES
@@ -3583,7 +3583,7 @@ The business, then, of this book is not to recount from yet another aspect that 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_01" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 1)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_01" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 1)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="concept/faith,histref/reformation,setting/austria,setting/france,setting/paris"></span>
 
 
 CHAPTER I. THE DIPLOMATIC REVOLUTION
@@ -3609,7 +3609,7 @@ Their religion indeed they preserved. The attempt to force upon the French doctr
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_02" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 2)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_02" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 2)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="motif/blood,motif/crown,concept/faith,histref/frederick_the_great,histref/reformation,setting/austria,setting/france,character/frederick_the_great,character/louis_xiv"></span>
 
 
 It is difficult for us to-day to comprehend the might of Spain during the century of the [[Reformation]], and still more difficult to grasp that external appearance of overwhelming strength which, as the years proceeded, tended more and more to exceed her actual (and declining) power.
@@ -3627,7 +3627,7 @@ It would not be germane to my subject were I to enter at any length into the gra
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_03" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 3)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_03" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 3)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="concept/faith,histref/frederick_the_great,setting/austria,setting/france,setting/paris,character/frederick_the_great"></span>
 
 
 The transition may be expressed as the long life of a man — nay, it may be exactly expressed in the life of one man, Fleury, for he stood on the threshold of manhood at its commencement and in sight of death at its close: what such a long life witnessed, between its eighteenth and its ninetieth year, was — if the vast confusion of detail be eliminated and the large result be grasped — the confirmation of the great schism and the final decision of [[France]] to stand wholly against the North. There appeared at last, fixed and consolidated, a Protestant and a Catholic division in Europe whose opposing philosophies, seen or unseen, denied, ridiculed or ignored, even by those most steeped in either atmosphere, were henceforward to affect inwardly every detail of individual life as outwardly they were to affect every great event in the history of our race, and every general judgment which has been passed upon its actions.
@@ -3651,7 +3651,7 @@ Of the men who so strolled out of the room at Aix one only, still young, had gra
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_04" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 4)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_04" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 4)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,character/maria_theresa"></span>
 
 
 In so determining to effect an alliance between the Hapsburgs and their secular enemy, Kaunitz equally determined, unknown to himself, the whole fortunes of Marie Antoinette; she, years later, when she came to be born to the Imperial house, was, even in childhood, the pledge he needed. It is Kaunitz who stands forever behind the life of Marie Antoinette, like a writer behind the creature in his book. It is he who designs her marriage, who uses her without mercy for the purposes of his policy at Versailles; he is the author of her magnificence and of her intrigue; he is then also indirectly the author of her fall, which, in his obscure and failing old age, he heard of far away, partially comprehended, and just survived.
@@ -3677,7 +3677,7 @@ From the ordering of that march of Frederick’s into Silesia — from the close
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_05" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 5)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_05" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 5)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="concept/faith,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 In the beginning of the struggle he had already saved the interests of [[Maria Theresa]] in the petty Italian courts. At Florence, at Rome, at Turin, at Brussels, his mastery continued to increase. In his thirty-sixth year he was ambassador to London — he concluded, as we have seen, the Peace of Aix-la-Chapelle; by his fortieth he had been appointed to [[Paris]], and that action by which he will chiefly be remembered had begun. He had seen, as I have said, the necessity for an alliance between the two great Catholic Powers. Within the two years of his residence in [[Paris]] he had successfully raised the principle of such a revolution in policy and as successfully maintained its secrecy. A task which would have seemed wholly vain had he communicated it to others, one which would have seemed impossible even to those whom he might have convinced, was achieved. To his lucid and tenacious intellect the matter in hand was but the bringing forth of a tendency already in existence; he saw the Austro-French alliance lying potentially in the circumstances of his time; his business was but to define and realise it.
@@ -3709,7 +3709,7 @@ All this was greatly to the humour of Kaunitz, and he continued to serve his Emp
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_06" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 6)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_diplomatic_revolution--part_06" data-title="Marie Antoinette — Chapter 1: THE DIPLOMATIC REVOLUTION (part 6)" data-chapter="THE DIPLOMATIC REVOLUTION" data-kind="excerpt" data-tags="concept/faith,setting/paris,character/maria_theresa"></span>
 
 
 It was neither incomprehensible to him nor displeasing that her temper should be warmer than his intelligence demanded. The increasing strength of her religion, the personal affections and personal distastes which she conceived, above all, the closeness of her devotion to her husband, completed, in the eyes of Kaunitz, a character whose dominions and dynasty he chose to serve and to confirm; for he perceived that what others imagined to be impediments to her policy were but the reflection of her sex and of her health therein.
@@ -3731,7 +3731,7 @@ The period drew to a close: the plans for the alliance were laid, the last discu
 
 
 
-<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_01" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 1)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_01" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 1)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt" data-tags="setting/austria,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 CHAPTER II. BIRTH AND CHILDHOOD
@@ -3765,7 +3765,7 @@ By All-Hallow’een the heralds had accomplished their mission, the Court had re
 
 
 
-<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_02" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 2)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_02" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 2)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt" data-tags="concept/faith,character/maria_theresa"></span>
 
 
 In the morning of that All Saints, a little after eight, the altars stood prepared; the populace had thronged into the churches; the streets also were already noisy with the opening of a holiday; the ships’ crews were ashore; only the quays were deserted. Everywhere High Mass had begun. But just at nine — at the hour when the pressure of the crowds, both within the open doors of the churches and without them, was at its fullest — the earth shook.... The awful business lasted perhaps ten seconds. When its crash was over an immense multitude of the populace and a third of the material city had perished.
@@ -3787,7 +3787,7 @@ Frederick, I say, was resolved upon war. He met every proposal for reconciliatio
 
 
 
-<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_03" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 3)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_03" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 3)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt" data-tags="setting/france,setting/paris,character/maria_theresa"></span>
 
 
 The first seven years of Marie Antoinette’s life were, therefore, those of the Seven Years’ War.
@@ -3811,7 +3811,7 @@ It is often discovered, when an eager childhood is left too much to its own ruli
 
 
 
-<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_04" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 4)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_04" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 4)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 The disasters and, what was worse, the unfruitfulness of the war had not daunted [[Maria Theresa]], but her plans were in disarray. The two years that succeeded the peace produced no definite policy. No step was taken to confirm the bond with [[France]] or to secure the future, when there fell upon the Empress the blow of her husband’s death; he had fallen under a sudden stroke at Innsbruck, during the wedding feast of his son, leaving to her and to his children not only the memory of his peculiar charm, but also a sort of testament or rule of life which remains a very noble fragment of Christian piety.
@@ -3835,7 +3835,7 @@ The old man Stahremberg was yielding his place (with some grumbling) to Mercy. H
 
 
 
-<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_05" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 5)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_birth_and_childhood--part_05" data-title="Marie Antoinette — Chapter 2: BIRTH AND CHILDHOOD (part 5)" data-chapter="BIRTH AND CHILDHOOD" data-kind="excerpt" data-tags="setting/austria,setting/france,character/louis_xiv,character/maria_theresa"></span>
 
 
 [[Maria Theresa]] had too firm and too smiling and too luminous an acquaintance with the world to build upon such vague assurance. The dignity of the French throne was too great a thing to be grasped at. It must be achieved. When old Mme. Geoffrin passed through Vienna in that year, Maria Antonietta was kept in the background off the stage — but [[France]] was cultivated. The baby, who was Louis XV.’s great-grand-daughter, Theresa, Leopold’s daughter, was presented to that old and wonderful bourgeoise and made much of. They joked about taking her to [[France]]; another baby, after all not much older, only eight years older, was going to that place in her time.
@@ -3875,7 +3875,7 @@ The Empress turned from her major preoccupation to a minor one. This child of he
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_espousals--part_01" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 1)" data-chapter="THE ESPOUSALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_espousals--part_01" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 1)" data-chapter="THE ESPOUSALS" data-kind="excerpt" data-tags="motif/blood,setting/france,character/maria_theresa"></span>
 
 
 CHAPTER III. THE ESPOUSALS
@@ -3897,7 +3897,7 @@ To such a character was presented an exuberant child, growing rapidly, vivacious
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_espousals--part_02" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 2)" data-chapter="THE ESPOUSALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_espousals--part_02" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 2)" data-chapter="THE ESPOUSALS" data-kind="excerpt" data-tags="setting/france,character/maria_theresa"></span>
 
 
 To cultivate such a soil, exactly one hour a day was spared when the Court was at Vienna — somewhat more when it was in the country — and these few minutes were consumed in nothing more methodical than a dialogue, little talks in which Vermond was fatally anxious to bring before his pupil (with her head full of those new French head-dresses of hers, the prospect of Versailles, and every other distraction of mind) only such subjects as might amuse her inattention.
@@ -3923,7 +3923,7 @@ Her journey was not slow for the times. She took but little more than a week to 
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_espousals--part_03" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 3)" data-chapter="THE ESPOUSALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_espousals--part_03" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 3)" data-chapter="THE ESPOUSALS" data-kind="excerpt" data-tags="motif/blood,motif/crown"></span>
 
 
 She bore upon her person during this last night on German soil a last letter of her mother’s which had reached her but the day before yesterday. It was the most intimate and the most searching she was to receive in all the long correspondence which was to pass between them for ten years, and it contained a phrase which the child could hardly understand, but which, if texts and single phrases were of the least advantage to conduct, might have deflected her history and that of Europe. “The one felicity of this world is a happy marriage: I can say so with knowledge; and the whole hangs upon the woman, that she should be willing, gentle, and able to amuse.”
@@ -3953,7 +3953,7 @@ They were warm in spite of a habit of command, but the sadness in them (which wa
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_espousals--part_04" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 4)" data-chapter="THE ESPOUSALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_espousals--part_04" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 4)" data-chapter="THE ESPOUSALS" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/louis_xiv,character/maria_theresa"></span>
 
 
 This great Monarch, whom no one since his boyhood had approached without a certain fear, received his grandson’s betrothed with an air almost paternal. It was a relaxation upon his part to which he owed, during the remainder of his life, the strongly affectionate respect which Marie Antoinette, vivacious and ungoverned, paid to him alone in the palace.
@@ -3983,7 +3983,7 @@ Those who have watched the destruction of an old and strong wall will remember t
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_espousals--part_05" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 5)" data-chapter="THE ESPOUSALS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_espousals--part_05" data-title="Marie Antoinette — Chapter 3: THE ESPOUSALS (part 5)" data-chapter="THE ESPOUSALS" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Let us see what happened when that fatal news of Madame Du Barry’s advent spread through the Court and the capital of [[France]] and reached, like the ripple of a wave, the shores of Vienna.
@@ -4007,7 +4007,7 @@ This woman was a prostitute.
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_du_barry--part_01" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 1)" data-chapter="THE DU BARRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_du_barry--part_01" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 1)" data-chapter="THE DU BARRY" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris"></span>
 
 
 CHAPTER IV. THE DU BARRY
@@ -4031,7 +4031,7 @@ The official limit of [[Paris]] upon the west — in those days — a line drawn
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_du_barry--part_02" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 2)" data-chapter="THE DU BARRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_du_barry--part_02" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 2)" data-chapter="THE DU BARRY" data-kind="excerpt" data-tags="motif/crown"></span>
 
 
 The day had been long for the child, but her curiosity and the vitality of her years had forbidden her to feel fatigue.
@@ -4057,7 +4057,7 @@ The contrast was gravely apparent when they passed together down the aisle with 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_du_barry--part_03" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 3)" data-chapter="THE DU BARRY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_du_barry--part_03" data-title="Marie Antoinette — Chapter 4: THE DU BARRY (part 3)" data-chapter="THE DU BARRY" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 It is natural to the extreme of privilege that it should affect occasional and absurd simplicities. The last generation of Versailles was eager for such things, and it had become the custom that a royal marriage should be registered not in any grand and parchment manner but in the common book of a parish church, the church to whose parish the palace was nominally attached. Father Allart, the rector of this, in whose hard and unimportant life such days were set, came in to give the book. The Grand Almoner set it before them and they signed — the King first, with his large and practised name; the Dauphin next in a writing that was thin, accurate, and null. He passed the pen to this little new wife of his, who was to sign third. At so practical a test her womanhood dropped off her, her exceedingly ignorant childhood returned. She got through the “Marie” with no mistake of spelling, but the letters were a trifle uncertain and the word askew. Why had not some one ruled a line as lines are ruled in copy-books? “Antoinette,” the second word, was larger and gave more trouble; the last letters fell away deplorably. And when it came to the third name, “Josepha,” it was too much for her altogether. She did her best with the “J” — it ended in a huge blot, and she became so flurried that she spelt her last name anyhow, without the “e,” and let it go to pieces. She was relieved to give the pen to Provence, who, though he was yet so young, wrote his name strongly like a man. Artois, Mesdames, the Orleans followed. Each as they signed could see at the head of the page that deplorable and dirty scrawl which the child, whose advent each of them feared, had left as a record of her fifteenth year.
@@ -4071,7 +4071,7 @@ Outside, the crowd went back through the May night to their lodgings or to [[Par
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_01" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 1)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_01" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 1)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="motif/prison,setting/austria,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 CHAPTER V. THE DAUPHINE
@@ -4097,7 +4097,7 @@ She knew now what this official place was which the Favourite held. Her disgust 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_02" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 2)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_02" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 2)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="motif/crown,character/maria_theresa"></span>
 
 
 The chief Minister of the [[Crown]], the Duc de Choiseul, kindly, sceptical, well-bred and rather hollow, had been, if not the mere creation or discovery, at any rate the ally of Madame de Pompadour. Madame de Pompadour had been a statesman herself: Choiseul had perpetually supported her and she him, more especially when he ran in the rut of the time, showed himself conventionally anti-Christian, and (having been educated by the Jesuits) was drawn into the intrigue by which that order was suppressed. He had been ambassador at Vienna, though that in a year when Marie Antoinette was a baby, so that she had no early memories of his snub-nose and happy, round face; but she had known his name all her life from the talk of the palace in Vienna, and she had known it under the title which he had assumed just after her birth. The Duc de Choiseul was for her, as for every foreigner, a name now permanently associated with French policy and a Minister who was identical with Versailles. [[Maria Theresa]] was grateful to him for having permitted the marriage of her daughter: that daughter after some months of the French Court very probably imagined that he had not only permitted but helped to design the alliance. It was against this man that the Du Barry stumbled.
@@ -4117,7 +4117,7 @@ It was the error of Choiseul not that he had opposed the Favourite’s entry —
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_03" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 3)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_03" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 3)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 When a society approaches some convulsion the pace of change increases enormously with every step towards the catastrophe. “This at least no one dreams of. That at least cannot happen!” But this and that do happen, and at last all feel themselves to be impotent spectators of a process so forcible and swift that no wisdom can arrest it. Political literature in such moments turns to mere criticism and speculation; it no longer pleads, still less directs. So it is to-day with more than one society of Western Europe; so it was with the close of Louis XV.’s reign.
@@ -4143,7 +4143,7 @@ Marie Antoinette, as the pale auburn of her hair and her thick eyebrows darkened
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_04" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 4)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_04" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 4)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="concept/faith,setting/austria,character/maria_theresa"></span>
 
 
 That silence, which kept open at Court a sharp wound and which stood a permanent and a most powerful menace to all that had power at Versailles, became for Mesdames the King’s daughters (who had first given this example) and for all the defeated parties a welcome symbol — though for the Princess herself it was a most perilous one. To break that silence was the effort of every converging force about her. Her mother in repeated warnings; Mercy, the King, and most of all the Favourite herself, came to think it a first point of policy that what might have been pardoned in the child should not remain a cause of acute offence in the woman. She was now nearly eighteen months at Versailles; she had entered her seventeenth year. But whenever the Du Barry crossed her in the receptions or met her eyes at table, whatever beginnings of a salute may have escaped the loose manner of the Favourite, she suffered the mortification of a complete refusal. The feminine comedy was admirably played, and for the Dauphine the King’s mistress remained a picture or an empty chair — sometimes to be blankly gazed at; never to be recognised or addressed.
@@ -4161,7 +4161,7 @@ There is not in Christian history, though it abounds in coincidence or design, a
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_05" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 5)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_05" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 5)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/austria,setting/paris,character/maria_theresa"></span>
 
 
 Enormous as was the event, however, both in its quality of evil and in its consequences to mankind, it must not detain the reader of these pages. Its interest here lies only in the first and principal example which it affords of Marie Antoinette’s direct and therefore unpolitical temper. She was indeed only upon the verge of womanhood — she had but completed her sixteenth year — but her failure to understand the critical, and, above all, the complex necessities of the Hapsburgs at that moment was characteristic of all the further miscalculations that were to mark her continual interference with diplomacy for twenty years. It was imperative that [[Austria]] should find support in the grave issue to which [[Maria Theresa]] had been compelled against her conscience and her reason. Berlin and St. Petersburg suddenly having agreed to a mutual aggrandisement, help was imperative, and help could only come from her ally at Versailles. Upon this one occasion, if upon no other, the young daughter of the Empress was justified in working for her family, and that could only be done through the woman whose influence was now the one avenue of approach to Louis XV. A recognition of the Du Barry was essential to Vienna in that new year of 1772. The Dauphine made it, but she made it in such a way that it was a worse insult even than had been her former silence. Had war broken out that spring, at the melting of the snow, it is possible or probable that Versailles would not have supported Vienna against Prussia and Russia in arms.
@@ -4185,7 +4185,7 @@ Of the balls in which she danced, of the masked balls that were her special deli
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_06" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 6)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_06" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 6)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="motif/blood,concept/faith,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 The reader has divined that the marriage of May 1770 had been no marriage. It was contracted between children; and years must pass — years which were those of the school-room for both of them — before [[Maria Theresa]] could expect an heir with Hapsburg [[Blood|blood]] for the French throne. But those years passed; the child was now a woman, and still the marriage remained a form.
@@ -4213,7 +4213,7 @@ The liturgical times went by; he abandoned his mistress; he lived apart and gloo
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_07" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 7)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_07" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 7)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="concept/faith,setting/paris"></span>
 
 
 It was upon Tuesday the 26th of April that he came in from hunting changed. He would not eat. He wandered a little and was cherished by his companion, but his fever grew. Next day he woke to suffering. He attempted to hunt, but his knees were weakened and he could not ride his horse; and coming back to Trianon, he groaned with his head in torment. His dread increased; but his doctors, who had been long familiar with his moody interludes, thought little of the thing. They carried him back through the trees to the palace, to his own room in the northern wing, and that day and the next, as the fever grew, rumours went louder and louder in the palace. On the Friday, at eventide, as a candle chanced near the face of the sick man, the doctor looked closer; and in the next hour, before midnight, the Princess Clothilde, talking in Madame de Marin’s room in whispers to the Duke of Crois, opened a note from the Dauphine. She cried aloud: “They say it is the small-pox!”
@@ -4247,7 +4247,7 @@ Between a double row of the Guard, under the great canopy that was reserved for 
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_dauphine--part_08" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 8)" data-chapter="THE DAUPHINE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_dauphine--part_08" data-title="Marie Antoinette — Chapter 5: THE DAUPHINE (part 8)" data-chapter="THE DAUPHINE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Between the purple robes and the surplices, in the ring of waxen lights, she saw the old man whom alone she had respected and indeed loved in her new home attempt to raise himself, calling: “My great God has come to me.... My great God!” She saw him with what strength he had plucking the cotton cap from his head and failing in his effort to kneel. His face was no longer the face she had known, but crusted dark and hideous, swollen, horrible. She heard the Grand Almoner repeat the King’s strong phrase of repentance, passionately solemn, and she knew the voice so well that perhaps she also heard the mumble in which he urged its repetition. Then the doors closed; the Court dispersed. She regained her apartments, and the isolation and the strain returned. They told her of his increasing delirium, of the crowds that came from [[Paris]] daily, of the certain approach of death. So Sunday and Monday went by — the thirty-eighth, the thirty-ninth day.
@@ -4263,7 +4263,7 @@ At that same hour on that same day a British man-of-war sailed into Boston harbo
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_01" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 1)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_01" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 1)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 CHAPTER VI. THE THREE YEARS
@@ -4291,7 +4291,7 @@ Now that conjecture was, as the future showed, erroneous. A very careful, scepti
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_02" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 2)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_02" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 2)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/blood,setting/paris,character/maria_theresa"></span>
 
 
 In the first place the gestures, habits, and character of the King were not such as should be associated with this kind of imbecility. His body was indeed unhealthy and diseased; it was the body of a nervous, overgrown, loose-limbed child, inherited from a nervous father and from an exhausted race; a body which nature would have removed as it removed his son’s, had not the doctors built up upon its doomed frame an artificial bulk of flesh. I say he was diseased, but not in the manner then believed. The febrile attachment to violence, the lack of humour, the weary eye, which betray an insufficiency of sex and which we so frequently suffer in political life and at the university, were quite absent in Louis. Contrariwise he was good-humoured and kindly (saving to cats), very fond of hard riding and capable in that exercise; he was further of an even though astonishingly slow judgment, and possessed that desire to make (to file, saw, fit, design, ply a trade of hand and eye) which is an invariable accompaniment of virility. He loved and practised mechanical arts, such as the locksmith’s or the watch-maker’s. There was nothing in him of what is nowadays called (by a French euphemism) “The Intellectual.”
@@ -4315,7 +4315,7 @@ If any one desires to see, in a very modern and tawdry mirror, what evil had pos
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_03" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 3)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_03" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 3)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france"></span>
 
 
 From within, therefore, she is amply to be excused; but consider the effect of her fever upon those who saw her. Consider the effect of this new manner of hers upon the public function of the French monarchy.
@@ -4347,7 +4347,7 @@ Conceive, then — for it is the note of all this chapter — the impact of such
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_04" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 4)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_04" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 4)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/the_court,concept/power_and_corruption,form/biography,histref/the_french_revolution,setting/france,character/marie_antoinette,character/louis_xvi"></span>
 
 
 Just after the old King’s death the Court was at La Muette. She must needs, to prove her liberty, go up and talk familiarly to an old gardener like any Lady Bountiful. The old gardener’s annoyance is not recorded; that of her ladies is. They complained to the King, who was troubled, but who, knowing the truth, answered, “Let her be.”
@@ -4373,7 +4373,7 @@ In one thing only during these months had she a clear object — and that was no
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_05" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 5)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_05" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 5)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france"></span>
 
 
 Here was Marie Antoinette’s one success. The Austrian Court and Embassy had desired to keep D’Aiguillon — he could be played upon. Marie Antoinette had rejected their advice; she had gone, day after day, to the King, until he had consented to deprive D’Aiguillon of his post — and immediately her deficiency was apparent. To deprive D’Aiguillon was, in politics, not necessary, and, if accomplished, not final. To find some one for the Foreign Office who should at once be able and yet work contentedly under old Maurepas was of both immediate and of weighty importance. She refused to interest herself in the matter!
@@ -4407,7 +4407,7 @@ The United Kingdom had at that time less than half the population of France. The
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_06" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 6)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_06" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 6)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/france"></span>
 
 
 1. I mean by usury interest levied upon unproductive loans; I mean by true profit the share of produce legitimately claimed by the lender of funds which have been put to productive use.
@@ -4429,7 +4429,7 @@ During the first part of his administration of finance Marie Antoinette’s ill-
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_07" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 7)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_07" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 7)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/france,setting/paris"></span>
 
 
 For the permanently present threat of poverty and embarrassment, which with every year corroded more and more deeply the public service and rendered less and less stable the general equilibrium of the State, lent to the habits the Queen was about to form, and still more to the public exaggeration of those habits, a gravity they could never otherwise have assumed. It was part of her lot that she could not, from the very nature of her position, understand the relationship between her petty extravagances and the popular ill-ease.
@@ -4451,7 +4451,7 @@ The Queen had conceived a violent affection for the Princesse de Lamballe, a you
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_08" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 8)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_08" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 8)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france"></span>
 
 
 Meanwhile the tailors and the milliners and all the ruck of parasites were taking advantage of the new reign to play extravagant experiments in fashion, to build fantastic head-dresses and to load humanity with comic feathers. She did not create such novelties, but she was willing to follow them.
@@ -4479,7 +4479,7 @@ There is no need to recall the rhetoric of Burke, for Burke was not by birth or 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_09" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 9)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_09" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 9)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/blood,concept/faith,setting/paris,character/maria_theresa"></span>
 
 
 One judgment I, at least, would rather have recovered than any of theirs. It has not been communicated. I mean that of Doctor Johnson. For Doctor Johnson some months later stood by the side of his young girl friend, behind the balustrade at Fontainebleau, watching curiously with his aged and imperfect eyes this young Queen at the public ceremony of the Sunday Feast. The old, fat, wheezy man, who now seems to us England incarnate, stood there in the midst of the public crowd behind the railing, blocking its shuffling way as it defiled before royalty dining, and took in all the scene. The impression upon a man of such philosophy must have been very deep. I believe we have no record of that impression remaining.
@@ -4507,7 +4507,7 @@ To such follies she added her personal interference in the matter of Turgot. Tha
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_10" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 10)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_10" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 10)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 3. It should be made clear, though it is elementary, that the Parlement of [[Paris]], by nature a supreme court of law, exercised also the anomalous but traditional function of registrar of royal decrees. Nor was a law a law until this body had consented to enroll it or had been overcome by a grave, rare and solemn public ritual of the King’s called “a Bed of Justice.”
@@ -4533,7 +4533,7 @@ It was a difficult and a perilous game. A British success might be, or rather wo
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_11" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 11)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_11" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 11)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris"></span>
 
 
 Early that morning, the weather being clear and the wind southerly, a pilot from the rocks of Belle Isle had made out three ships in the offing, but they were hull-down; later, he saw one bearing a strange, quite unknown flag. He sailed towards it. The colours were those of the new Republic, and the stars and stripes flew above a sloop of war that carried Franklin; she had with her two English prizes for companions. Franklin landed. Within three weeks he was in [[Paris]], and by the first week of the New Year he was at Passy in the suburbs, the guest of Chaumont, from whose great house and wide park proceeded the careful intrigue by which the Thirteen States were finally established in their Independence.
@@ -4563,7 +4563,7 @@ But all that while, in spite of his advent, the rush of the Court had increased,
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_12" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 12)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_12" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 12)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 And the Queen meanwhile, quite lost, pushed the pace of all the throng about her, despairing of any remedy to that evil which her brother was posting to reform.
@@ -4589,7 +4589,7 @@ At the end of May he left for a tour in the French provinces. His ineptitudes co
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_13" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 13)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_13" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 13)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/france"></span>
 
 
 He returned to Vienna, and began to address himself to his next failure in policy and judgment — he coveted Bavaria. The death of the Elector of Bavaria would raise the issue of his succession. That death was approaching, and Joseph began to intrigue through Mercy, through his mother, and as best he could through his sister, for the succession to the Duchy and for the support of [[France]] against Prussia in his outworn, out-dated ambition. While he still played with such toys, much larger forces were ready to enter the scene, and changes that would make the little balances of German States forgotten; for as that summer of 1777 heightened, dry, intensely hot, and as all the air of the life around Versailles was cleared by the new intimate relations of the Queen and her husband; as the chief domestic problem of the reign was resolved, as it became increasingly certain that the royal marriage would soon be a true marriage and the way to the succession secure, there had come also the certitude of war with England in the matter of the American colonies.
@@ -4617,7 +4617,7 @@ What was the military object of the war? The control of a seaboard: a seaboard s
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_14" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 14)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_14" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 14)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Again, this band of territory ran from a long southern extremity, whose climate was unsuited to active work by Europeans, through a middle temperate interval to another extremity of winter fogs and rigorous winter cold. A continental climate rendered the contrast of North and South less noticeable, for the warm continental summer embraced it all, and the cold continental winter penetrated far south; but that contrast between the two halves of that seaboard was sufficient to afford a line of social and political cleavage already apparent in the eighteenth century and destined in the nineteenth to occasion a great domestic war.
@@ -4649,7 +4649,7 @@ The cause of that march’s amazing delay, and of the disaster consequent upon s
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_15" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 15)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_15" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 15)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 In this way August was wasted, and an attempt to raid draught cattle a few miles to the south-east at Bennington in Vermont was, in spite of the active loyalty or treason of many colonists, defeated and destroyed — a disaster due to the foreign character, the small number employed, and the dilatory marching of the troops so detached. It was mid-September before the army crossed the Hudson to its western bank, where a small auxiliary force approaching from the Mohawk valley was to have joined it. That force failed to effect a junction. All were bewildered, and now a heavy rain began to soften the green ways and to swallow the wheels of the guns. Burgoyne reached no further south than to the site of a drawn struggle before the mouth of the Mohawk. And already the American irregulars, on hearing of the British difficulties, had gathered and grown in number; they were at last near double the invading force, and September was ending. The woods were full of colour as Burgoyne’s little army fell back — but a few miles, yet back; an irresolution was upon it, because advance was no longer possible, and yet a full retreat would mean the failure of all the large plan of England. There was a rally, a success, a failure, and the loss of guns. With October they were beneath the heights of Saratoga. Certain supplies attempted to reach them by crossing the river; the far bank was found to be held by the increasing forces of the rebellion.
@@ -4675,7 +4675,7 @@ The issue was not long in doubt. Upon the 5th the story and consequence of Sarat
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_three_years--part_16" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 16)" data-chapter="THE THREE YEARS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_three_years--part_16" data-title="Marie Antoinette — Chapter 6: THE THREE YEARS (part 16)" data-chapter="THE THREE YEARS" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 Upon the 8th, Franklin at Passy drafted, Deane, Lee, and he also signed, their memorable acceptance. The days that followed, to the end of ‘77 and beyond it, were occupied in nothing more than the confirmation of this revolution in policy, and it was certain that by the New Year the French [[Crown]] would support the Rebellion in arms.
@@ -4697,7 +4697,7 @@ At last, upon Easter Sunday (the 19th of April in that year) two couriers riding
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_children--part_01" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 1)" data-chapter="THE CHILDREN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_children--part_01" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 1)" data-chapter="THE CHILDREN" data-kind="excerpt" data-tags="motif/crown,histref/frederick_the_great,setting/austria,setting/france,setting/paris,character/frederick_the_great,character/maria_theresa"></span>
 
 
 CHAPTER VII. THE CHILDREN
@@ -4723,7 +4723,7 @@ All these things she had forgotten before the winter closed upon her and her hou
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_children--part_02" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 2)" data-chapter="THE CHILDREN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_children--part_02" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 2)" data-chapter="THE CHILDREN" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/prison,setting/france"></span>
 
 
 He had come back late in August. The moment she had seen him, with his tall, upstanding gait and serious eyes, she came forward and reminded him (and those about her) of his old acquaintance — he was a friend. The lad was still quite young; here was she now a woman, and the effect of four years, changing her so greatly in body had less changed him in body; it had less changed her in heart. For as the days fell shorter and autumn lapsed into winter, his rare and brief notes betray the growing charm of the woman who perpetually remembered him. All through the months of the cold, through the time of her approaching childbirth, and through the gaieties of the new year that succeeded, he remained. Many noted her visage and her tone, once especially when she sang and looked at him during her singing. At last he also — when in April he left the Court, bitten with the gallant adventure of America, like so many of his rank — he also had understood. She followed him perpetually with her eyes; she followed him as he left her rooms again for the last time, and it was noted that there were tears in her eyes.... A wealthy woman rallied Fersen, as he left, upon his conquest; he was now old enough to deny gravely that any woman of that Court had deigned to consider him: having so denied it, he was gone.
@@ -4755,7 +4755,7 @@ It was but the close of January when the Queen returned from La Muette and her c
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_children--part_03" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 3)" data-chapter="THE CHILDREN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_children--part_03" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 3)" data-chapter="THE CHILDREN" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 As for her, she kept her carnival, the carnival of 1779. Her less light purpose now earned her reproaches far more deep than those which had pursued her first childless years; but in her new hopes she could forget them, and her much rarer omissions did not remain in her mind. She did not see how solidly the foundations of her fate were being laid in the dark, and how every trivial folly was her foe; no act of hers proved great enough to destroy the last effect of these trivial follies.
@@ -4781,7 +4781,7 @@ The King came often. He applauded. She permitted — in this year 1780 at least 
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_children--part_04" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 4)" data-chapter="THE CHILDREN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_children--part_04" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 4)" data-chapter="THE CHILDREN" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/austria,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 Silent, a little bent, low-voiced, a man of but fifty-three — though seeming older — Mercy was now at the height of that long career during which for twenty-two years he was [[Austria]] itself permanently present before Marie Antoinette, a spy over her for her mother’s sake and for her own, a devoted servant of the Hapsburgs and Lorraine.
@@ -4813,7 +4813,7 @@ The second was this: that up in the mountains of Alsace a lady, a friend, introd
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_children--part_05" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 5)" data-chapter="THE CHILDREN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_children--part_05" data-title="Marie Antoinette — Chapter 7: THE CHILDREN (part 5)" data-chapter="THE CHILDREN" data-kind="excerpt" data-tags="motif/blood,motif/crown,concept/faith,setting/paris"></span>
 
 
 It had been upon April 25 that Cornwallis in the Carolinas had broken camp and started northward, to conquer and to hold the central seaports of the rebels as he had conquered and held Charlestown. On the 20th of May his two hundred miles were marched, and he had joined the troops in Virginia.
@@ -4843,7 +4843,7 @@ The Queen, when she could speak, noting the silence round her pallet and hearing
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_01" data-title="Marie Antoinette — Chapter 8: FIGARO (part 1)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_01" data-title="Marie Antoinette — Chapter 8: FIGARO (part 1)" data-chapter="FIGARO" data-kind="excerpt" data-tags="concept/faith,setting/austria,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 CHAPTER VIII. FIGARO
@@ -4871,7 +4871,7 @@ All men are chafed, and that perpetually, by what they know of their own defects
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_02" data-title="Marie Antoinette — Chapter 8: FIGARO (part 2)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_02" data-title="Marie Antoinette — Chapter 8: FIGARO (part 2)" data-chapter="FIGARO" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 He had, however, come to the throne a boy; in years but twenty, in experience (save in the excellent art of horsemanship) null. He had found ready to hand this old Minister, Maurepas, courteous, active, with a good though a too facile judgment; a patriot whose career had been ruined by the mistress of Louis XV. (in itself this was a recommendation to the young King), and a courtier whom his father, the Dauphin, had, upon his deathbed, pointed out to be the true counterweight to the irreligion of Choiseul: Louis XVI. had accepted such a guide and had upon the whole not repented of his choice. For seven years the young King had received the counsel of this old man; a habit had been formed, and a strong affection with it. But as Maurepas approached his end, as the gout forbade him his former clearness of thought, and a continual confinement interfered with his attendance at the Council, the maturer judgment of Louis began, though secretly, to assert itself. He showed for the depositary of so lengthy a Court tradition a filial devotion; he would come in person, and familiarly, to bring news to the old man’s room — notably the news of the Dauphin’s birth was so given, domestically and alone. There subsisted between them one of those intimate relations which so often arise between the permanent official upon the one side and the responsible authority upon the other: it became a personal tie, and when, Maurepas died Louis would renew it with no one. After some hesitation the King lit for a first Minister upon Vergennes, but he would not give to this new officer the official title of Premier; he was jealous of a fuller power which he now proposed to exercise continuously and with a more direct affirmation than in the past. Louis was incapable of the task he so attempted, but if ever there was a time in the reign when such a task could be attempted, this autumn and winter of 1781 was that time.
@@ -4887,7 +4887,7 @@ The year 1782 opened upon the new gladness of the Queen; her churching at Notre 
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_03" data-title="Marie Antoinette — Chapter 8: FIGARO (part 3)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_03" data-title="Marie Antoinette — Chapter 8: FIGARO (part 3)" data-chapter="FIGARO" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,character/maria_theresa"></span>
 
 
 The “Mariage de Figaro” was no great thing; it was a well-written play from the pen of a man, now advanced in middle age, whose diction and care for letters were typical of his own time, but whose vices were entirely modern. Born in a low position, his darting mind had carried him to a sort of fluctuating eminence, especially in wit. He had taught music to princesses, married an infatuated widow, adopted her name of Beaumarchais, purchased some insignificant post and with it a nominal right to the “de” of nobility, preserved his health, speculated, probably robbed, certainly made and lost considerable sums, traversed and thoroughly understood English society, repaid its hospitality by advancing the American cause in [[France]], speculated upon the commissariat of that campaign, rendered jealous years ago the equally cynical Voltaire, and now at fifty was getting talked of again in the matter of his new play.
@@ -4915,7 +4915,7 @@ It had become enough for her to see his handwriting upon a note to make her burn
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_04" data-title="Marie Antoinette — Chapter 8: FIGARO (part 4)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_04" data-title="Marie Antoinette — Chapter 8: FIGARO (part 4)" data-chapter="FIGARO" data-kind="excerpt" data-tags="setting/austria,setting/france"></span>
 
 
 A thousand lesser incidents of this time she could not herself, had you asked her daily, have recorded. One among such petty details it is worth the reader’s while to recall, though it had made upon her even less impression than the babble about Beaumarchais’ play; though it passed completely from her memory. It was the presence now and then upon the stairways of Versailles, and for moments only, of a short woman, very fair, with a small, well-arched foot, and delicate hands, quick and even furtive of glance, not beautiful but attractive and provoking in face, dressed in a manner that combined excess with the evidences of poverty, but in her gestures of a passable breeding. This figure was often seen; now leaving the room of some lady of the Court, now crossing the courtyard on foot towards the town.
@@ -4941,7 +4941,7 @@ It was to be a garden fête at night: by this time certainly wearisome to the Gr
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_05" data-title="Marie Antoinette — Chapter 8: FIGARO (part 5)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_05" data-title="Marie Antoinette — Chapter 8: FIGARO (part 5)" data-chapter="FIGARO" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/paris"></span>
 
 
 This little incident disturbed her. Here was a private gala of her own, given only to those of her private circle privately invited by her, and this odious man must creep in. Next day when her guests were gone she spent some portion of her considerable energy in ferreting out the culprit. The incident was traced to the lodge-keeper of Trianon, who had taken a bribe from the Cardinal under a promise that if he were let in he would keep a strict disguise and would not penetrate into the gardens. The lodge-keeper was sent his way to starve, and later — since he really did begin to starve — was given back his place by this impulsive woman.
@@ -4967,7 +4967,7 @@ It was a shock. I have repeatedly insisted in this book upon the insignificance 
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_06" data-title="Marie Antoinette — Chapter 8: FIGARO (part 6)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_06" data-title="Marie Antoinette — Chapter 8: FIGARO (part 6)" data-chapter="FIGARO" data-kind="excerpt" data-tags="setting/austria,setting/france,setting/paris"></span>
 
 
 There exists a little, ill-written scrawl addressed to the Princess; it is ill-spelt, with words omitted in its haste. It runs: “You have heard that my daughter’s vaccination has gone off well — I breathe again!... The King will see you get those letters all right.” That scrawl was written by Marie Antoinette, and the “letters” mentioned were the Moratorium which a French King could of his own free will impose as might the caprice of a judge upon the process of law. It was a royal decree forbidding during the King’s pleasure the recovery of a debt. The creditors must wait till it was lifted.
@@ -4993,7 +4993,7 @@ It was, therefore, during the failure of England in America that Joseph proposed
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_07" data-title="Marie Antoinette — Chapter 8: FIGARO (part 7)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_07" data-title="Marie Antoinette — Chapter 8: FIGARO (part 7)" data-chapter="FIGARO" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “Figaro” was more amusing and deserves a greater mention. All the jokes of the spring and all the society question was of “Figaro.” By June, somehow or other, by some intrigue, very possibly by a word from the Queen, the scandalous, the delightfully tickling attack upon all their privileges, their scandals — their very life; the comedy that half of them already knew by heart, and from which the younger could recite whole passages in Beaumarchais’ very manner, was to be acted at last — but only for the Court. Of course, such a scandal could not be allowed in [[Paris]], or in the town. The Hall of the Menus Plaisirs was got ready, the parts were learnt, the actors of the Comédie Française were come, the courtiers and their wives had their tickets in hand, the carriages were at the door, the theatre half full, when a messenger came from the King bearing a lettre de cachet, a peremptory, secret and immediate order: the “Mariage de Figaro” was not to be played.
@@ -5017,7 +5017,7 @@ Marie Antoinette could not for the life of her have shown you the Scheldt on the
 
 
 
-<span class="atom-split" data-atom="chapter_09_figaro--part_08" data-title="Marie Antoinette — Chapter 8: FIGARO (part 8)" data-chapter="FIGARO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_figaro--part_08" data-title="Marie Antoinette — Chapter 8: FIGARO (part 8)" data-chapter="FIGARO" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The advent of Calonne was not the least of the accidents that impeded him, and Calonne’s appointment with its large consequences was partly — as were now so many things — the work of the Queen. A man of fifty, provincial, a gentleman, a good lawyer, Calonne was also a friend of the Polignacs; and Marie Antoinette, on that account alone, supported his candidature to the Direction of Finance: when she knew him she grew to dislike him. He was intensely national, vigorous, gay, a trifle too rapid in thought, ambitious, virile with a Latin virility; he was of a type she could never affect, and it is certain that he despised her intellect and resented her interference with affairs — he probably showed it.
@@ -5045,7 +5045,7 @@ The curtain fell to a storm of triumphant noise. The Parisians went out into the
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_01" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 1)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_01" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 1)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="motif/blood"></span>
 
 
 CHAPTER IX. THE DIAMOND NECKLACE
@@ -5083,7 +5083,7 @@ He in his turn wrote — constantly. To the letters the La Motte showed him — 
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_02" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 2)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_02" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 2)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 July was empty enough for the Queen. Her guest was gone; there was little doing at Versailles. Her amusements, especially her theatre, she had deliberately given up, determined to let the legend against her die. She waited through the dull month a little worried. Her brother the Emperor was still fussing about his diplomatic quarrel, the opening of the Scheldt, and the rest of it; she was anxious for him and for peace. Henry of Prussia would soon be visiting Versailles, there intriguing (as she dreaded) against her Austrian House. But, on the whole, the month of July 1784 was a dull month for her. It was not dull for the La Mottes.
@@ -5113,7 +5113,7 @@ Marie Antoinette was asleep perhaps, or perhaps chatting, muffled, with Polignac
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_03" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 3)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_03" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 3)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,setting/paris"></span>
 
 
 There existed at that time necklace. Fantastic stories have been told of its value; of those sovereigns to whom it was offered, and who, with a sigh, had been compelled to refuse it. It may very likely have been offered to Marie Antoinette (with her old passion for jewels) some years before, in ‘79, after the birth of her first child. It may be that the King would have given her the expensive thing — £64,000 was the price of it — it may be he had never seen it. At any rate, all the world knew that the unrivalled necklace existed, and had for some years existed as the property of two Court jewellers who worked in partnership, Boehmer and Bassange, and that they could not find a purchaser. The reader should remember this necklace, for though it will not be before him till six months after this July of ‘84, yet, but for the scene in the “Queen’s Grove,” Rohan would never have handled it, and had Rohan never handled it, there would not have arisen that enormous scandal that came so opportune to new rumours and new angers, and in the end dragged down the Queen.
@@ -5141,7 +5141,7 @@ When the Cardinal de Rohan left the Park that midnight of July after the rapture
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_04" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 4)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_04" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 4)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="motif/blood,setting/austria,setting/france,setting/paris"></span>
 
 
 PORTRAIT BUST OF THE DUKE OF NORMANDY, THE SECOND DAUPHIN,
@@ -5173,7 +5173,7 @@ Her undue influence over the King and the councils of the King was another legen
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_05" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 5)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_05" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 5)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 In June the Count de La Motte was back from London paying part of the money he had received for the diamonds to a [[Paris]] banker — one Perregaux.
@@ -5201,7 +5201,7 @@ It was while she was rehearsing her part of “Rosine” that she was persuaded 
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_06" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 6)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_diamond_necklace--part_06" data-title="Marie Antoinette — Chapter 9: THE DIAMOND NECKLACE (part 6)" data-chapter="THE DIAMOND NECKLACE" data-kind="excerpt" data-tags="motif/crown,concept/faith"></span>
 
 
 Each consequence and aspect of the abomination, as each successively appeared to her, struck her with separate and aggravated blows. Her name linked with a libertine whom, of all libertines, she most loathed — a man who was the object of her dead mother’s especial contempt! The half-truths that would come in; her love of jewellery — now long conquered, but now widely remembered! Her secret debts — now long paid, but already a fixed idea in the public mind! At the best that such a man had thought it conceivable that she should be such a woman; at the worst that the world might believe it!
@@ -5221,7 +5221,7 @@ So Rohan was arrested, and there is no record who sang Mass that day.
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_01" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 1)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_01" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 1)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,setting/paris"></span>
 
 
 CHAPTER X. THE NOTABLES
@@ -5261,7 +5261,7 @@ Madame de La Motte was arrested three days after the Cardinal, in the early hour
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_02" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 2)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_02" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 2)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,setting/paris"></span>
 
 
 Many tragedies in history contain some such coincidences, but none so many or so exact as those which accompany and determine the tragedy of Marie Antoinette.
@@ -5283,7 +5283,7 @@ As in the modern trial which I have already quoted as the great historic paralle
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_03" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 3)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_03" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 3)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The preliminary stages of the trial were long. Oliva was not arrested till late in the winter, at Brussels, fluttering and confused; Rétaux not till the spring, at Geneva.
@@ -5305,7 +5305,7 @@ The King went off to Cherbourg, where Calonne, still seeking to re-establish the
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_04" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 4)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_04" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 4)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/prison,histref/reformation,setting/france,setting/paris"></span>
 
 
 The Court was brilliant in a last leaping flame. Fontainebleau that autumn was glorious with colours and men; the balls at Versailles that winter of ‘86 shone with a peculiar and a memorable splendour — but it was the end. There were to be no more glories: the last ball had been given, the last progress made.
@@ -5331,7 +5331,7 @@ Two currents of hostility met him: one that the Notables in the main stood perso
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_05" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 5)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_05" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 5)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="concept/faith,histref/french_revolution,histref/reformation,setting/france,setting/paris"></span>
 
 
 There was an appetite for debate, for “facts”; a demand for exact accounts and public audit and public consent to taxes.
@@ -5357,7 +5357,7 @@ It was on May Day 1787 that this personage was put, with an inferior title, at t
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_06" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 6)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_06" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 6)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france,setting/paris"></span>
 
 
 Fersen, eager to spend one last day in Versailles, had come for a few flying hours. He watched their dissolution as a show ... he did not return till the eve of the Revolution, and, once returned, he remained a pledged sacrifice, a servant, to the end....
@@ -5391,7 +5391,7 @@ So long as the high attempt of the Middle Ages was maintained so long these coun
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_07" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 7)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_07" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 7)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/crown,concept/faith,concept/providence,histref/reformation,setting/france,setting/paris"></span>
 
 
 In certain places the advent of the Renaissance in the sixteenth century closed the story of Representation; in others, under the influence of the [[Reformation]], it became a form. In the two chief centres of the West two varied fortunes attached to the two failing branches of that great mediæval scheme. In Protestant England the form of Representation survived; in Catholic [[France]] the memory. By one of those ironies in which History or [[Providence]] delights, the English oligarchy, which, in the phrase of a principal English writer, “had risen upon the ruins of Religion,” the Howards, the “Cromwells,” the Cecils, and the rest, maintained the form of The House of “Commons.” The squires used that organ in the seventeenth century to destroy the power of a [[Crown]] whose own folly had, through the plunder of the Monasteries, led to its own complete impoverishment and to the enrichment of the gentry. The squires maintained that [[Crown]] but kept it as their salaried servant, and thus throughout the eighteenth century the fossil of a representative system was in England not only cherished but actively cherished to serve us as the armour of privilege. Parliament remained intensely national, full of sacred ceremonies and forms, and still using conveniently to the rich some shadow of that theory of national sovereignty which, in breaking with the [[Faith]], the nation had broken with perhaps for ever: whether for ever or not our own immediate future will show.
@@ -5411,7 +5411,7 @@ Her last child, the baby of eleven months, was now in the July of 1787 dead. It 
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_notables--part_08" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 8)" data-chapter="THE NOTABLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_the_notables--part_08" data-title="Marie Antoinette — Chapter 10: THE NOTABLES (part 8)" data-chapter="THE NOTABLES" data-kind="excerpt" data-tags="motif/crown,motif/prison,setting/paris"></span>
 
 
 She applauded and sustained her husband — or rather Brienne — during the struggle with the Parlement all July. She heard (and despised) the call for the States-General. When the Lit de Justice, the solemn ceremony by which the King could enforce the registration of his edicts in spite of the Parlement’s refusal, was held on the 6th of August, it was held at Versailles, as it were under the Queen’s eye: the Parlement replied by refusing to admit the registration so made.
@@ -5443,7 +5443,7 @@ In June 1788 the Clergy — summoned to meet and grant an aid, as a last despera
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_01" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 1)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_01" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 1)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER XI. THE BASTILLE
@@ -5473,7 +5473,7 @@ There is a third kind, and to this third kind Marie Antoinette belonged — as m
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_02" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 2)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_02" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 2)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france,setting/paris"></span>
 
 
 Those who can govern through a period of peril (that is, those who can organise the wills of men during the short and indeterminate time before any resultant of clashing social forces has yet appeared) note, decide, order, speak, and do — and when it is too late to act, their genius tells them that it is too late. In the early winter of 1788 it was not yet too late. What would one possessed of the power of government have done? In the first place, such an one would have stated the evil publicly in detail and with authority; in the next, chosen not one but a body of men to deal with particular difficulties (as, for instance, a particular légiste for the troubles of that absurdity, the Common Law; a particular soldier to suggest a reform of the army, &c.); in the third, used as allies all the positive forces available, all the enthusiasms, all the tide — to this force (by persuasion) how much may not be harnessed? So Mirabeau would have done; so Napoleon did; so some ready eye in 1788 might have planned. The States-General is the fever? You shall have it: in [[Paris]], with splendour. The Commons are the cry? They shall be in full double number and with special new powers — a new dress, perhaps, as well. The nation is crying out for Government? Give them the [[Crown]]: the King on horseback day after day.
@@ -5491,7 +5491,7 @@ No such complete representation of a great nation has been attempted since that 
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_03" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 3)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_03" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 3)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/blood,setting/paris"></span>
 
 
 April passed. The deputies began to stream into [[Paris]]. [[Paris]], in the last days of that month and the first of the next, began to overflow into the royal town at its gates. Sunday, the 3rd of May, saw one long procession of every kind and fortune pouring, in spite of the drenching weather, from the capital up into the hills of Versailles. Upon the morrow the opening religious ceremony of the Session was to be held.
@@ -5513,7 +5513,7 @@ A member of the Commons, sitting in the back row of his order, would have seen b
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_04" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 4)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_04" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 4)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 This the Commons could see, under the light that fell from high windows near the roof; it fell over two thousand of the public — guests chosen rather than a true public; they filled the galleries above, they swarmed in the dark aisles beneath, undivided from the three orders — a familiarity shocking to our historians who, craning their necks, have watched as a privilege and with respect the fag-end of the House of Commons or the County Council from a pen.
@@ -5537,7 +5537,7 @@ It was as though two majesties or angels challenged each other in those days: th
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_05" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 5)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_05" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 5)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/crown"></span>
 
 
 It was this that the Queen must watch and parry and try to understand, now, when the first part of her flesh had gone down into the grave, and her brain, shaken with despairs, must attempt to control and to comprehend the wave; and her eyes, weary of weeping, to read orders, to note faces, and her voice, with which she could no longer call her son, to command. She was in the centre of the resistance for a month, and it failed.
@@ -5567,7 +5567,7 @@ The King had reached his throne in the great shed of the Menus; the Queen was be
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_06" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 6)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_06" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 6)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 With a rumble and a shuffling the twelve hundred of them sat down. When they were all well sat down, Barentin in a loud voice proclaimed: “Gentlemen, the King gives you leave to be seated!” The King turned to the Queen upon his left and bade her also take her throne. She courtesied with an exaggerated grandeur and chose to stand while the whole long speech was delivered — a royal witness to the [[Crown]] of which she was now much more the strength and principle than any other there.
@@ -5601,7 +5601,7 @@ The sight of Paris, heaving as for movement on the 24th of June, Wednesday, when
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_07" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 7)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_07" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 7)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 The Court had yielded — for the moment. The Court thought it was better so: the troops were gathering, soon a blow was to be struck, and the less friction the better while it was preparing....
@@ -5621,7 +5621,7 @@ It was determined by the chiefs of the army to force the northern gate of Paris 
 
 
 
-<span class="atom-split" data-atom="chapter_12_the_bastille--part_08" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 8)" data-chapter="THE BASTILLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_the_bastille--part_08" data-title="Marie Antoinette — Chapter 11: THE BASTILLE (part 8)" data-chapter="THE BASTILLE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The morning of the 15th dawned; the firing had ceased, the smoke had rolled away, and with the new day the issue of the action lay plain. [[Paris]] had conquered.
@@ -5649,7 +5649,7 @@ The Queen waited. She wrote to her brother, to her dear friend Madame de Poligna
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_01" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 1)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_01" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 1)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/paris"></span>
 
 
 CHAPTER XII. OCTOBER
@@ -5677,7 +5677,7 @@ It was customary (and still is) for the officers resident in a French garrison t
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_02" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 2)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_02" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 2)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/blood,motif/crown"></span>
 
 
 In the expenses determined, and the place chosen, it was evident that all the Court was moving: the great theatre of the palace, unused for so long and reserved for the greatest and most official ceremonies, was made ready, lavishly; the tables were set upon its stages, the lights, the decorations were the King’s; and when the officers of Flanders, all, perhaps (save their Colonel), unready for so much splendour, found themselves in the Salle d’Hercule — the guests of the palace rather than of the Guards — it was apparent that some large affair was before them: they were led to the theatre and the banquet began.
@@ -5699,7 +5699,7 @@ The colonel of the Versailles Militia went to the palace and returned: the crowd
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_03" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 3)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_03" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 3)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/blood,setting/paris"></span>
 
 
 But another noise and another life began beyond that fringe of woods which eastward veiled [[Paris]]. The million of that place were in a hum: messages came from them and to them. Marat had explored the new force in Versailles, the Presses in [[Paris]] were raining pamphlets — something confused and enormous, a vision of their national King abandoning them, a nightmare of treason; all this mixed with hunger oppressed the mind of the million. I say “mixed with hunger,” for though there was by this time plenty of grain there was little flour, and in the lack of bread violent angers had risen: some thought the Assembly (their talisman), the very nation itself, to be again in peril from the soldiers. So all Sunday, October 4, the hive of [[Paris]] droned in its narrow streets and gathered; upon Monday, for the second time that year, it swarmed.
@@ -5723,7 +5723,7 @@ The formation was accomplished, food was served, arms piled. They stood there in
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_04" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 4)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_04" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 4)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/paris"></span>
 
 
 Within the Assembly a debate not over-full of purpose had alternately dragged and raged: it had been known almost from the opening of the sitting that [[Paris]] would move. Those premonitions which have led the less scholarly or the more fanatical of historians to see in the Revolution a perpetual pre-arrangement and cabal, those warning things in the air which you find at every stage of the great turmoil (rumours flew before the King all the way to Varennes, and the victory upon the right wing at Wattignies was known in [[Paris]] an hour before the final charge), those inexplicable things had come, and immediately upon their heels had come direct news from one messenger after another: how the wine merchants’ shops had been sacked, how the bridge of Sèvres was passed, how the rabble were now but five miles off and breasting the hill. That futility, which the Revolutionary Assemblies suffered less perhaps than other Parliaments, but which is inherent in all discussion, condemned this engine of the new Democracy to discuss on such a day nothing of greater moment than the order of that day, and the order of that day was the King’s letter: for the King had written that he would “accede” to the Decrees (of Rights of Man and to the extinction of the Feudal Dues) but that he would not “sanction” them. And on the verbal discussion between the word “accede” and the word “sanction” legal tomfoolery was fated to batten, while up in the woods of Meudon the King who had written that letter was still shooting peacefully and innocent of guile, and while so many thousands, desperately hungry, were marching up the road, having black Maillard — as who should say murder — for their Captain, and dragging behind them a section of their guns.
@@ -5749,7 +5749,7 @@ Three armed bodies thus guarded the sweep of the railings and the approach to th
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_05" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 5)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_05" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 5)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Within the King’s room was a deputation of women, and Mounier, the President of the Assembly, had been received; council upon council was held, that the Queen at least should retire to some neighbouring town, that the King should fly — but nothing was determined, and to that reiterated policy of flight so often suggested since July, now so pressing, the King murmured as he paced back and forth, “A King in flight!...” It is said that the horses were ordered; but with every moment the plan became more difficult. Darkness fell upon a sky still stormy; the troops still held their lines, but the noises seemed nearer and more menacing. It was imagined better to withdraw the Guard at least, as the pressure upon them increased.
@@ -5777,7 +5777,7 @@ The violence of those who thus poured past her door found no victim. She had run
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_06" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 6)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_06" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 6)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/crown,setting/paris,character/louis_xiv"></span>
 
 
 The eruption of the mob had been as rapid as the bursting of a storm. The immediate forming of the La Fayette’s Militia Guard and its victory proved almost as rapid. The first shot had been fired at six, probably by one of the Guards at the central door: within an hour the Militia had cleared the rabble out, even the tenacious pillagers were dislodged, and the populace stood, thrust outside the doors and massed in the narrow marble Court beneath the King’s windows, in part discomfited but much more angry, and with a policy gradually shaping in the common mouth: a policy expressed in cries that “they would see the King,” that “the King was their King,” that “they must bring back the King to [[Paris]].”
@@ -5807,7 +5807,7 @@ It is not seven miles from the palace to the river — not another four to what 
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_07" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 7)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_07" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 7)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 16. Or else they were not: there are two versions.
@@ -5837,7 +5837,7 @@ If one could portray graphically the accidents of that tragic life, if a mould c
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_08" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 8)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_08" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 8)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="concept/faith,setting/france,setting/paris"></span>
 
 
 By the vast mass of the Louvre there is a church dedicated to that Saint Germanus who preached against Pelagius in Britain, and who, as an old man, had laid his hand upon the head of the young Saint Geneviève, the goose-girl, near Mount Valerian and had foreseen her glory. This church has much history. From its tower rang the call to arms which roused the populace of [[Paris]] against the wealthy oppressors of the Huguenot faction and maddened the poor to take their revenge in the Massacre of St. Bartholomew. It was and is the parish church of the palace. Here, before Lent was over (upon Wednesday in Holy Week), the little girl, her daughter, knelt at her first Communion. The Queen stood in the darkness of the nave, dressed without ornament, her fine head serious, her commanding eyes at once tender and secure.
@@ -5861,7 +5861,7 @@ The clergy, then, were but the nation. The long campaign against the [[Faith]], 
 
 
 
-<span class="atom-split" data-atom="chapter_13_october--part_09" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 9)" data-chapter="OCTOBER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_october--part_09" data-title="Marie Antoinette — Chapter 12: OCTOBER (part 9)" data-chapter="OCTOBER" data-kind="excerpt" data-tags="concept/religious_persecution,concept/popular_revolution,concept/economics,form/biography,histref/the_french_revolution,histref/catholic_church,setting/france,character/marie_antoinette"></span>
 
 
 It was, I have said, the 2nd of November, the Queen’s Birthday, the Day of the Dead, that the vote was taken upon the confiscation of religious endowments. The light was failing as that vote began. The candelabra of the great riding-school were lit, and it was full darkness before the vote was ended, for five-sixths of all possible votes were cast and nearly one thousand men voted each to the call of his name upon a roll. When the figures were read, a majority of 222 had decided the thing, and, in deciding it, had determined the dual fortunes of Europe thenceforward to our own time. The Revolution, a thing inconceivable apart from the French inheritance of Catholic Dogma, had raised an issue against the Catholic Church. For three weeks had the matter been debated; the days of October had launched it, and while yet the Parliament was in Versailles a bishop — one later to be famous under his own name of Talleyrand — had moved in favour of that Act.
@@ -5885,7 +5885,7 @@ The business now before herself and such as were statesmen around her was no lon
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_01" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 1)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_01" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 1)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france,setting/paris"></span>
 
 
 CHAPTER XIII. MIRABEAU
@@ -5913,7 +5913,7 @@ For many months indeed he would have come in secret to the aid of the Court. Fro
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_02" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 2)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_02" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 2)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 She easily persuaded Louis. Before or after that persuasion she spoke to Mercy, and Mercy wrote to that ancestral Belgic land whither La Marck, certain that nothing could be done in [[Paris]], and desiring to check the effects of the revolt in the Austrian Netherlands upon his estates, had betaken him three months before. La Marck at once returned; he crossed the frontier, and in his private house, up along the Faubourg St. Honoré, Mirabeau and Mercy met upon an April evening. All was most secretly done, so that none, not the populace, nor the Parliament, nor the courtiers — nor even Necker — should know. These two very separate abilities, Mercy and Mirabeau, recognised each other: for some days yet the latter, and the greater, the storm-tossed one, doubted; he still spoke of “an embassy” for his reward — he stooped to beg favour again of La Fayette. At last he was convinced of the Court’s sincerity, and on the 10th of May he wrote for the King — that is, for the Government (there was no other) — that first admirable Letter of Advice, which remains the chief monument of his genius. In one year he had proceeded from being an Evil Reputation to be a Speechifier, from a Speechifier to a something inspiring dread: now he was secretly in power; in half power; his was one of the hands on the tiller. To himself that year had been but a year of debt and makeshift; his principal relief at this vast change was a relief of the purse.
@@ -5929,7 +5929,7 @@ In [[France]] and throughout his world the event of those days was the Federatio
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_03" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 3)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_03" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 3)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/blood,motif/gallows"></span>
 
 
 The Queen awaited him in a room apart, the King at her side. She awaited with some hesitation the fierce step and the bold eye, the strong pitted face of “the Monster,” but her rank and a long apprenticeship to reception had taught her to receive. He came in and saw this woman whom he had so much desired to see, he spoke with her for half-an-hour, and as he left her he kissed her hand. Two things remained with him: the moderation, the over-moderation of the King, but in her a sort of regal determination which was half an illusion of his own, but which most powerfully filled his spirit and which left him enfeoffed to the cause he had so long chosen to serve. He came out to his nephew, where the carriage waited, radiant, all his energy renewed. He had perhaps a clear conception of the Queen in action supporting him, determining the King, eagerly accepting his wisdom and his plans. In that he gave her far too great a place; but great men impute greatness, and Mirabeau was too great for women.
@@ -5947,7 +5947,7 @@ The chief and the last foundation of force for the King were the Swiss regiments
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_04" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 4)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_04" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 4)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france"></span>
 
 
 The Assembly voted its thanks for the restoration of order: the vote was moved by Mirabeau. Bouillé commanded an army now silent, and the thing was done. But the minority of wealthy men that had thus dared applaud the executions at Nancy was now cut off from fellowship with the nation, and the civil war which Mirabeau desired was come in spirit — for the Government, the only possible executive, the [[Crown]], was with that minority.
@@ -5969,7 +5969,7 @@ All this Mirabeau saw as little as he saw the passion of the village priests, th
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_05" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 5)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_05" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 5)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/maria_theresa"></span>
 
 
 On the 26th of November he forced the Assembly to vote the prosecution of priests who refused the oath; on the 4th of January he accused the hierarchy of their old game— “too well known in our history” — of playing for an “ultramontane” authority; ten days later, on the 14th, he broke all bounds: swore that the priests cared little if religion died (and much he cared for it!) so that their power was saved. The priests present left the hall. He continued with greater violence, and all the Assembly protested. On the proposition of Camus (himself next-door to a Huguenot) it was moved and carried that Mirabeau be no longer heard. When, a bare week after all this, a Letter of Advice reached the King from Mirabeau headed, “On the Way to make use of the Civil Constitution,” how should the King not be bewildered?
@@ -5999,7 +5999,7 @@ Mirabeau had pointed to Bouillé as the only general to defend that march; not b
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_06" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 6)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_06" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 6)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 And meanwhile the Queen heard debated before her the alternatives of a flight to the frontier and of a domestic rising nearer [[Paris]] in defence of the [[Crown]]. She was by all her bent — and was increasingly to be — in favour of foreign support; but Mirabeau’s counsel was something to her. At the end of February it prevailed, and La Marck came to Bouillé at Metz with the news that Mirabeau’s plan should be considered. Bouillé agreed. There was to be no suggestion of flight: the Court’s choice of the frontier was to be abandoned. Compiègne should be the goal of a short and determined march. The soldier rejoiced, as did Mirabeau, that a final decision had been made, that no near presence of foreign aid was expected, and that the idea of a flight to the frontier was given up. March, perhaps the close of it, was to see the thing done, and so with the spring was to be issued the challenge to civil war: then and then only, if necessary, might there follow a retirement upon a fortress.
@@ -6021,7 +6021,7 @@ But what might have happened is but hypothesis. For Mirabeau died; and Mirabeau 
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_07" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 7)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_07" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 7)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/paris"></span>
 
 
 It was, as we have seen, upon Saturday the 2nd of April that Mirabeau died, and had said in dying that there went with him the last shreds of the Monarchy.
@@ -6045,7 +6045,7 @@ It has become a rule for those who are in communion with the Catholic Church tha
 
 
 
-<span class="atom-split" data-atom="chapter_14_mirabeau--part_08" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 8)" data-chapter="MIRABEAU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_mirabeau--part_08" data-title="Marie Antoinette — Chapter 13: MIRABEAU (part 8)" data-chapter="MIRABEAU" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/paris"></span>
 
 
 The Militia which La Fayette had formed were with the people, and the common will of that great mob was present also in the men who bore arms. It had not been so in any of the movements antecedent to this, unless we admit the sharp national anger of the loose and almost civilian “French Guards” against the hired German Cavalry in July 1789. Hitherto there had been a distinction between the people at large and that portion of the people which was armed and disciplined, a distinction which now broke down because to the French temper on this Monday of Holy Week 1791 the issue was too grave for such distinctions. The national King must be kept in [[Paris]]; the people would not let him leave, much as a man will not let his money go out of his sight or out of his control.
@@ -6081,7 +6081,7 @@ Map of the FLIGHT to VARENNES and the RETURN
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_01" data-title="Marie Antoinette — Chapter 14: VARENNES (part 1)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_01" data-title="Marie Antoinette — Chapter 14: VARENNES (part 1)" data-chapter="VARENNES" data-kind="excerpt" data-tags="motif/blood,setting/france"></span>
 
 
 CHAPTER XIV. VARENNES
@@ -6115,7 +6115,7 @@ When it came to the burial, the grave-diggers dared not put it into earth as the
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_02" data-title="Marie Antoinette — Chapter 14: VARENNES (part 2)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_02" data-title="Marie Antoinette — Chapter 14: VARENNES (part 2)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 From Bondy the great carriage went forward under the growing light of the day. At Claye a cabriolet with the Queen’s waiting-women joined and followed the berline. That increasing light forbade the family to sleep; they settled in comfort upon the broad and padded seats of white velvet, leaning back into them, and every word they said revealed the enlarging confidence of their souls. The King felt himself already upon horseback; the Queen and the Duchess repeated the rôles they were to play on whatever little public occasions the rapid journey might involve them in. The Duchess as Madame Korff, in whose name the transport had been made out; the Queen as her governess — and so forth. They went rapidly in that mixed landscape of wood and market-garden and half-continuous village which still marks the confines of [[Paris]] and of the influence of [[Paris]]. Now they were in the open country, with [[Paris]] quite forgotten, now in a district with a dialect of its own — sure test of honesty and of freedom. The country-sides were awake, the mowers were in the field; the road was down among the narrow pastures of the Marne, and at last in Meaux, where for the first time they halted for a relay.
@@ -6145,7 +6145,7 @@ The day, still veiled and moderate, was at its height; it was two o’clock, or 
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_03" data-title="Marie Antoinette — Chapter 14: VARENNES (part 3)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_03" data-title="Marie Antoinette — Chapter 14: VARENNES (part 3)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 No record remains of the spreading of the news, but proof remains of the result. Vallet insisted on riding himself upon the leaders; he rode hard, and twice he let his horses down, breaking harness; so that an hour perhaps was lost by his hard riding. Before even the berline and its attendant cabriolet left Chaintry, Lagny and his daughters had been told. The royal family had not denied the recognition; they had even, in reward for the loyalty displayed, bestowed gifts upon the inn-keeper. It is certain that the news must have spread through the country-side.
@@ -6173,7 +6173,7 @@ The hour passed quickly — it was not yet six — when the King, who had watche
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_04" data-title="Marie Antoinette — Chapter 14: VARENNES (part 4)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_04" data-title="Marie Antoinette — Chapter 14: VARENNES (part 4)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The third Gentleman of the Guard, Valory, who had at each stage gone before them to have the horses ready, came to the door and told them it was the posting-house of Somme-Vesle: of soldiers not a sign; a few peasants, slouching off to the fields.
@@ -6209,7 +6209,7 @@ As Choiseul left he saw that fresh horses were put into his travelling-carriage;
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_05" data-title="Marie Antoinette — Chapter 14: VARENNES (part 5)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_05" data-title="Marie Antoinette — Chapter 14: VARENNES (part 5)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 So they rode back till, at Orbeval, Choiseul took a guide, crossed Neuville Bridge and plunged into Argonne, lest by following the high road right into Ste. Menehould they might raise that alarm which at every cost it was his duty to allay.... In vain. The country was already awake: that rumour, that something in the air which no historian has ever traced, had preceded him, and a woman in Ste. Menehould had said to a soldier in a tavern that “the King would pass that way.”
@@ -6235,7 +6235,7 @@ It was upon young Drouet, for his horsemanship and his courage, that the choice 
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_06" data-title="Marie Antoinette — Chapter 14: VARENNES (part 6)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_06" data-title="Marie Antoinette — Chapter 14: VARENNES (part 6)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/austria,setting/france"></span>
 
 
 There was a moon, but the clouds covered her. The darkness of this, the shortest night of the year, deepened for its brief hours, but there was still a glow in the north as they neared, towards ten o’clock, the post of Clermont. Drouet heard voices in the darkness before him; it was his own postillions on their way back from the end of the stage, and Drouet hailing them, heard that the travellers, when the relay horses were harnessed, had given the order to leave the main Metz road and to turn up northward to Varennes.
@@ -6263,7 +6263,7 @@ There stood at the bridge head a great van for the removal of furniture, packed,
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_07" data-title="Marie Antoinette — Chapter 14: VARENNES (part 7)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_07" data-title="Marie Antoinette — Chapter 14: VARENNES (part 7)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 All this was done with such rapidity that the officials were astir, the bridge barricaded, and two men already armed, before the royal carriage had skidded half-way down the hundred yards of hill. At that point an archway running under an old church blocked the road; at that archway the two armed men posted themselves, and just as the outrider of the fugitives had come into the narrow pass, the challenge was given which ended the hopes of the Monarchy. For the two sentries thus improvised challenged, the outrider dismounted voluble, the horses of the cabriolet were thrown back upon their haunches, the huge coach and six behind it slithered somehow to a stop upon the steep road, and the Queen suddenly realised that the crash and the disaster had come. She heard the threat to fire. She looked from her window, as the Duchess fumbled for the passports, and uttered one of those phrases memorable in history for their anti-climax: she begged the gentlemen who had stopped them to go through the formalities quickly, as she was desirous of reaching the end of her journey as quickly as might be.
@@ -6285,7 +6285,7 @@ It was full day. For a second time under the increasing menace the Hussars were 
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_08" data-title="Marie Antoinette — Chapter 14: VARENNES (part 8)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_08" data-title="Marie Antoinette — Chapter 14: VARENNES (part 8)" data-chapter="VARENNES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 He could never have passed the bridge in time. Nothing but artillery could have cleared the town. The general and popular decision was made and grew; no discipline, no individual command could meet it. The cry of “[[Paris]]” filled the air, now with a meaningless noise, now with a comic rhythm, such as impatient audiences make in theatres or soldiers on the march. There were negotiations, but with every mention of “Montmédy” the shout of “[[Paris]]” grew louder.
@@ -6323,7 +6323,7 @@ As Parliaments go that Parliament was drastic and immediate; it came to its conc
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_09" data-title="Marie Antoinette — Chapter 14: VARENNES (part 9)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_09" data-title="Marie Antoinette — Chapter 14: VARENNES (part 9)" data-chapter="VARENNES" data-kind="excerpt" data-tags="motif/journey,motif/imprisonment,concept/popular_revolution,form/biography,histref/the_french_revolution,setting/france,character/marie_antoinette,character/louis_xvi"></span>
 
 
 It was Thursday, Corpus Christi. Every village of the Marne valley was garlanded and upon holiday, the church doors stood open to the humming air of midsummer, the peasants, most of them at games, some few in procession or coming out from Mass upon that great Feast, made every stage of the road alive; as the sun rose to noon, the population of the villages on either slope of the river valley poured in like rivulets down the chalky lanes, swelling the mob upon the great highway. By the afternoon the throng had so largely increased that the carriage of the Parliamentary Commissioners could no longer go at the trot; it was walked, as was walked, surrounded by a larger, dustier, much fiercer crowd, that other carriage, the berline, which was crawling to meet them across the flat miles of Champagne.
@@ -6353,7 +6353,7 @@ It is objected with indignation that women of birth do not so demean themselves 
 
 
 
-<span class="atom-split" data-atom="chapter_15_varennes--part_10" data-title="Marie Antoinette — Chapter 14: VARENNES (part 10)" data-chapter="VARENNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_varennes--part_10" data-title="Marie Antoinette — Chapter 14: VARENNES (part 10)" data-chapter="VARENNES" data-kind="excerpt" data-tags="motif/crown,concept/martyrdom,setting/paris"></span>
 
 
 They slept at Dormans — so much as they could sleep with the mob howling all night in the square outside. Next day, Friday, the third of that return, the fourth of their [[Martyrdom|martyrdom]], they continued the [[Paris]] road. The day was yet hotter than the yesterday had been, and the violent and the out-o’-works from [[Paris]] began to join the crowd. At evening the tower of Meaux stood up before them against the red sky.
@@ -6391,7 +6391,7 @@ A week had gone. On Monday night they had watched with Fersen; all Tuesday fled;
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_war--part_01" data-title="Marie Antoinette — Chapter 15: THE WAR (part 1)" data-chapter="THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_war--part_01" data-title="Marie Antoinette — Chapter 15: THE WAR (part 1)" data-chapter="THE WAR" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER XV. THE WAR
@@ -6429,7 +6429,7 @@ All desired war: all feared it. All attempted to postpone it. But, as all energy
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_war--part_02" data-title="Marie Antoinette — Chapter 15: THE WAR (part 2)" data-chapter="THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_war--part_02" data-title="Marie Antoinette — Chapter 15: THE WAR (part 2)" data-chapter="THE WAR" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Over against this current of opinion the Emperor (Marie Antoinette’s brother), the King of Prussia, the English oligarchy, the Spanish Bourbons also tended to war; their decision was not due to an increase of determination — they were determined on the main question all along — but to the gradual settlement of details long in negotiation between them. These details settled, and the mutual suspicions and jealousies of the Allies sufficiently though partially appeased, the privileged bodies of Europe certainly marched against [[France]], and to the Girondin crusade was opposed something which was intended not to be resistance but rather a rapid and successful act of police. The thing had got to end, and, though the Powers only crossed the frontier in the succeeding summer, all the Courts of Europe and all the privileged bodies of the old Society were contented and glad that the fight was on. Nor were any more contented than the governing class in England, who had helped to engineer the campaign and who could not but reap the fruit of it, though it was profoundly to their interest not to bring into the field the insufficient armed forces at their command.
@@ -6457,7 +6457,7 @@ We have a dozen letters of hers between the return from Varennes and the end of 
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_war--part_03" data-title="Marie Antoinette — Chapter 15: THE WAR (part 3)" data-chapter="THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_war--part_03" data-title="Marie Antoinette — Chapter 15: THE WAR (part 3)" data-chapter="THE WAR" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 I have repeatedly insisted in this book upon the inability of Marie Antoinette to perceive the French mind. As a young woman her misconception of her husband’s people dealt with no more than personalities, ladies’ maids, duchesses, and the rest. When Gaul moved, and when she began her attempt at power in 1787, along through the communal millioned action of the Revolution, this misconception became a strong creed, a vision, as it were. She saw the French people intensely active, cruel, cowardly, and unstable: much in them of the cat and the fox, nothing of the eagle. She perceived their great mobs and their sudden united actions — but these phenomena were to her sporadic; she saw them — she did not reason upon them nor argue from them some peculiar regimental talent in the populace; and if you had told her that these appearances of marching thousands were due to a power of organisation from below — a national aptitude for the machinery necessary to arms and to diplomacy — the words would have seemed to her simply meaningless. She could not so much as conceive humanity to be capable of organisation save by the direct action of a few placed above it.
@@ -6485,7 +6485,7 @@ Her plan meanwhile had failed. It was to be not a silent threat of arms, but war
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_war--part_04" data-title="Marie Antoinette — Chapter 15: THE WAR (part 4)" data-chapter="THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_war--part_04" data-title="Marie Antoinette — Chapter 15: THE WAR (part 4)" data-chapter="THE WAR" data-kind="excerpt" data-tags="motif/crown,concept/faith,setting/france,setting/paris"></span>
 
 
 Such had been the plan of the Queen, and such its fortune; and by such a fate had she been shadowed. For the sake of clarity I have omitted during this recital all save her negotiation. I will briefly return to the drift of the Revolutionary progress around her, and show how this also led up to that fatal conclusion, from the failure of the flight to Varennes at the end of June 1791 to the declaration of war in the following April.
@@ -6513,7 +6513,7 @@ As to the acceptation of the Constitution by the royal family, their reluctance,
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_war--part_05" data-title="Marie Antoinette — Chapter 15: THE WAR (part 5)" data-chapter="THE WAR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_war--part_05" data-title="Marie Antoinette — Chapter 15: THE WAR (part 5)" data-chapter="THE WAR" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 So far as concerns that unhappy and devoted life, one incident deserves a very special mention. Twice in the autumn there had been talk of yet another flight: the plan was not impossible, but it had been dropped, partly because the King might have had to fly alone, partly because the Queen was confident that a show of strength and a vigorous menace upon the frontier would be enough to change all. In the new year the proposal for their escape took on a more serious form, and Fersen reappeared for the last time, and for the last time saw the Queen.
@@ -6553,7 +6553,7 @@ When would the invaders cross the frontier and when would the first shock come?
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_01" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 1)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_01" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 1)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 CHAPTER XVI. THE FALL OF THE PALACE
@@ -6607,7 +6607,7 @@ The next day the Municipality of Marseilles met, determined upon spontaneous act
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_02" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 2)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_02" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 2)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/france,setting/paris"></span>
 
 
 Meanwhile, in the German town of Frankfort, there hummed a continually increasing crowd: the Emperor was to be crowned. Here, therefore, were all those who had a business with [[Austria]], and here was, among others, a Swiss Huguenot, Mallet du Pan, upon whom more than upon any other in that town the King of [[France]] and the Queen in her extremity depended. He was a journalist, very keen about accounts and probity in small money matters, of the bourgeoisie, sedate and perpetually attempting to understand the French people, now from this side, now from that: they interested him hugely. His work, however, was not to pursue this fascinating study, but to save the persons of the Royal Family which he served: in this task he showed that same discipline and devotion which his compatriots were later to show under arms. He bore as his chief principles, as his last instructions, two orders: one order to keep the farce of the war going, and never to let it be hinted publicly or breathed that there was collusion between those who sent him and the invading Austrian power. The other order was this: to produce a manifesto to be signed from the camp of the invading army, and to strike, as it was hoped, blind terror into the leaders of the National movement: the time had come (so it was imagined at the Tuileries) to threaten the worst and so tame [[Paris]].
@@ -6645,7 +6645,7 @@ It entered: Mallet saw it. “Paris is to be destroyed by fire and the sword if 
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_03" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 3)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_03" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 3)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="motif/crown,setting/austria,setting/paris"></span>
 
 
 This was the origin of that famous Clause VIII. which ordered, if the Tuileries were forced, nay, if submission to the Royal Family was not at once made, that Prussia and [[Austria]] would take “an unforgettable vengeance,” that [[Paris]] should be given up “to military execution and subversion, and the guilty rebels to the death they deserve.”
@@ -6677,7 +6677,7 @@ The second objection — a reply to which shows how considerable were the King�
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_04" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 4)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_04" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 4)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="motif/blood,motif/crown,setting/france,setting/paris"></span>
 
 
 The strategy of the Court was therefore sound, their calculation of victory was reasonable, and their chances were of the best when the defence of the palace was organised in these first days of August. It was calculated that the populace even with artillery could do little against the palace; that the trained men would crush the mob once and for all. Had that defence succeeded, the advent of the foreigner, perhaps allied with one of the royal armies, was secure. That the defence of the palace failed was due partly to the lack of homogeneity in its garrison, more to a lack of united leadership, but most of all to the unexpected, incalculable and hitherto unequalled tenacity and determination of the insurgents.
@@ -6703,7 +6703,7 @@ The Parliament, more and more bewildered, vacillated and was hardly heard as the
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_05" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 5)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_05" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 5)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="motif/crown,setting/paris"></span>
 
 
 But all the while upon that Thursday evening troops were afoot along the Rueil road; the doors of the palace were open to men, who entered one by one, armed and were stationed; the sound of carpenters was heard in the Long Gallery of the Louvre, sawing the planking of the floors, by night, to make a gap between the Louvre and the Tuileries; mounted police rode up in squads to the courtyard and took their stations; there was also the rumbling of waggons. In the sections south of the river and eastwards, St. Antoine and St. Marcel were moving; wherever the people had strained at the leash too long, the popular assemblies sat in their close halls choosing the men who should take the Guildhall by right of the city’s decision and in spite of the law, and proclaim the insurrection.
@@ -6729,7 +6729,7 @@ Early as was the hour (it was but little past four) the tone of the air already 
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_06" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 6)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_fall_of_the_palace--part_06" data-title="Marie Antoinette — Chapter 16: THE FALL OF THE PALACE (part 6)" data-chapter="THE FALL OF THE PALACE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Now that it was broad day the vigour of the Queen returned. She became again the will of the defence, and its leader — if it had a leader. She had not expected defeat even in the worst silences of the night; with the new day she was confident of success.
@@ -6765,7 +6765,7 @@ They waited for the order to fire.
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_01" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 1)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_01" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 1)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 CHAPTER XVII. THE TEMPLE
@@ -6793,7 +6793,7 @@ Vergniaud was in the Chair, and, when the King had spoken his few words to the P
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_02" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 2)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_02" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 2)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/crown"></span>
 
 
 Cabined as they were within the little box, whose outer wall gave upon the gardens of the palace, they could hear, trembling through the stone and noisy through the open windows, on that hot August morning the rattle of the musketry of the defence. The Marseillais had come up in their turn; they had come into the courtyard. They had parleyed with the Swiss. The gentry at the broad windows of the first floor, each group twelve front three deep, had opened fire to stop that parleying. But of what so passed the Parliament and the little party in the reporters’ box knew nothing. They heard but one discharge of cannon, booming dull, and after that a silence. The debate in the hall of the Parliament ceased. It was the moment when the Swiss had rallied and when the defenders of the palace had swept the populace from the Carrousel, and had so thought to have ended the day. There were many in that hall who thought it ended also: mobs are often thus defeated in a few moments. The silence lasted.
@@ -6825,7 +6825,7 @@ Far off in the chapel of the palace a young man at the organ played the “Dies 
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_03" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 3)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_03" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 3)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/paris"></span>
 
 
 If the modern reader would have some conception of it, this “loge” of the shorthand reporter, let him think, if he is rich, of a box at the opera, or, if he is poor, of a cabin upon a steamer: such was its size.
@@ -6865,7 +6865,7 @@ At ten an escort brought that broken family back to the reporter’s box. And so
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_04" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 4)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_04" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 4)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/louis_xiv"></span>
 
 
 They saw the deputation of the city, with the Mayor at its head, insisting; they heard the Parliament give way, and knew by Sunday evening that [[Paris]] would hold them hostages.
@@ -6895,7 +6895,7 @@ This life reflected as in a quiet mirror the chaos of the enormous struggle whic
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_05" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 5)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_05" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 5)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 Twenty courses at a meal were not thought too many; a dozen servants, paid fantastic salaries, did not suffice them; their expenditure, if not the half million voted, was yet at the rate of many thousands a year; the doctor and the drawing master may visit them, and the Duchesse de Gramont may send them books. Their wine, though the King alone drank it, was of the best, commonly champagne (at that time not the fashionable wine of the rich, but rather the ritual of feast days); they had good furniture at their demand, an ample library of many hundred volumes; and in general such comfort as such a situation could afford. But a violent contrast marked their lives, the contrast between this luxury and the anarchy of manners around them. Their guards, often gentlemen, were now courteous, now obsequious, now offensive, according as chance sent men of varying politics or character by turn to be on duty at the Tower.
@@ -6925,7 +6925,7 @@ It was on that day, and pricked by the spur of such news, that Marat’s frenzie
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_06" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 6)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_06" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 6)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/blood,setting/austria,setting/paris"></span>
 
 
 The 3rd of September broke upon the captives, a dull uneasy morning in which the clamour of distant disturbance still occasionally reached them from the centre of the city southward, then came nearer.
@@ -6949,7 +6949,7 @@ Upon the 29th of September pens, ink and paper were taken away from the prisoner
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_07" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 7)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_07" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 7)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 Those relations which had been at first ridiculous, later tolerated, and though affectionate not deep, between the Queen and her husband, her dislike of his advances towards the Liberal movement, her angry amazement at his patriotism in the early days of the revolt, — all these which are too often read into her last emotions in his regard, must be in part forgotten when we consider how they all lived together behind those thick walls. Every human soul that left the group was something lost to them for ever. Of the two that had last left them, the head of one, shown murdered, had been seen at the window. And moreover, this order to separate the King meant almost certainly some form of approaching disaster. The children also were a bond. For they knew nothing of whatever early phantasies, whatever recent disagreements there had been between the wife and the husband, and they must now have their father hidden from them.
@@ -6979,7 +6979,7 @@ Of this victory, coincident with the beginning of the King’s agony, Marie Anto
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_08" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 8)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_08" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 8)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="motif/prison,concept/faith"></span>
 
 
 SANSON’S LETTER ASKING THE AUTHORITIES WHAT STEPS HE IS
@@ -7015,7 +7015,7 @@ The King, seated with his wife on his left and his sister at his right hand, dre
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_temple--part_09" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 9)" data-chapter="THE TEMPLE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_temple--part_09" data-title="Marie Antoinette — Chapter 17: THE TEMPLE (part 9)" data-chapter="THE TEMPLE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Promise that you will see us again?”
@@ -7053,7 +7053,7 @@ Life returned into the streets beneath, the loud shrill call of the news-men, cr
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_01" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 1)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_01" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 1)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/france,setting/paris"></span>
 
 
 CHAPTER XVIII. THE HOSTAGE
@@ -7085,7 +7085,7 @@ But though their value was recognised and their imprisonment was part of a diplo
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_02" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 2)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_02" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 2)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="motif/prison,setting/france,setting/paris"></span>
 
 
 Within three weeks of the execution of Louis all Europe was banded against the Republic, and one may say, morally, all the Christian world, for even the distant and ill-informed Colonials of Philadelphia and Virginia had recoiled nervously at the news of a King’s execution. The pressure of that general war against the Republic was to give, by what fools call the logic of events, a most powerful aid to the practical and savage determination of the Mountain: it was to squeeze to death the idealism of the Girondins.
@@ -7105,7 +7105,7 @@ On the 23rd they came again and found nothing but an old hat of the King’s, wh
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_03" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 3)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_03" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 3)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="motif/prison,setting/austria,setting/paris"></span>
 
 
 With the end of May the populace, supported and permitted by the new Committee of Public Safety, conquered the lingering Moderate majority, and the Committee of Public Safety was left without rivals; it began from that moment to direct the war with the leonine courage and ferocity, the new and transcendent intelligence, the ruthless French lucidity which ultimately at Wattignies saved the State.
@@ -7137,7 +7137,7 @@ The women within the [[Prison|prison]] had had no warning. The same Fate which h
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_04" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 4)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_04" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 4)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="motif/blood,motif/prison"></span>
 
 
 Then the Queen rose. Never until now had she abandoned before any but her husband, or perhaps in the very intimacy of the Council, the restraint which she believed her rank to demand. The violence of her [[Blood|blood]] had been apparent in many a petulant and many an undignified gesture; she had raised her voice against many a deputation; she had sneered more than once against women of a poorer kind; she had thrown at La Fayette the keys which he demanded on their return to the palace after the flight to Varennes; but she had never yet lost command of herself. Upon this terrible night, for the only time in her life, she did completely lose all her self-command. Something confused her like a madness, and all the intensity of her spirit came out nakedly in defence of the child.
@@ -7173,7 +7173,7 @@ Those who were to destroy the new society of the French, to rescue or to avenge 
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_05" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 5)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_05" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 5)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Their way to [[Paris]] lay open but for two last perilous and endangered defences; to the right the lines of Weissembourg, to the left Maubeuge.
@@ -7203,7 +7203,7 @@ So much has been written to explain the failure of the Allies and the ultimate t
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hostage--part_06" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 6)" data-chapter="THE HOSTAGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hostage--part_06" data-title="Marie Antoinette — Chapter 18: THE HOSTAGE (part 6)" data-chapter="THE HOSTAGE" data-kind="excerpt" data-tags="motif/prison,setting/france,setting/paris"></span>
 
 
 37. The great authority of Jomini laid the foundation of this misconception, one which the reader might (perhaps erroneously) find implied in Mr. Fortescue’s admirable account of this campaign; but the truth is that it is impossible to accumulate detail — as a military historian is bound to do — especially where long cordons are opposed to each other, without danger of losing sight of the vital points of the line.
@@ -7241,7 +7241,7 @@ PRESUMABLY SKETCHED IN THE TEMPLE: NOW AT VERSAILLES
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_01" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 1)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_01" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 1)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 CHAPTER XIX. THE HUNGER OF MAUBEUGE
@@ -7275,7 +7275,7 @@ Now that strong Valenciennes had fallen, the Allies had their business so thorou
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_02" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 2)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_02" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 2)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/paris"></span>
 
 
 Coburg was for the main attack on Maubeuge — but he was not keen — the wretched little force at Cambrai would do to begin with — or even the handful in Le Quesnoy. It was simply a question of the order in which they should be plucked.
@@ -7305,7 +7305,7 @@ She had no pen or pencil, but she found a plan for answering, for she took a pin
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_03" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 3)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_03" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 3)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 But even in these few hours there had been time for treason. The policeman had revealed the message to the authorities. The faces Michonis saw at the gate of the [[Prison|prison]] by the sentry’s lamp when he came up that Monday night were not those he expected or knew. His plot was already in the hands of the Government and he was lost.
@@ -7337,7 +7337,7 @@ Three days passed in Maubeuge and all the meat, salted and fresh, was sequestrat
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_04" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 4)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_hunger_of_maubeuge--part_04" data-title="Marie Antoinette — Chapter 19: THE HUNGER OF MAUBEUGE (part 4)" data-chapter="THE HUNGER OF MAUBEUGE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 That evening, the evening of the 12th, after dark, Marie Antoinette was led out from her cell for that preliminary Interrogation which, in French procedure, precedes the public trial. They led her from her little cell, through the narrow passages, into a great empty hall. Two candles, the only lights in that echoing darkness, stood upon the table.
@@ -7367,7 +7367,7 @@ RELIEF OF MAUBEUGE
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_01" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 1)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_01" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 1)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/austria,setting/france,setting/paris"></span>
 
 
 CHAPTER XX. WATTIGNIES
@@ -7407,7 +7407,7 @@ Into the clerk’s writing there crept, as there will into that of poor men, cer
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_02" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 2)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_02" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 2)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 This clerk read the list of witnesses and the indictment out loud.
@@ -7449,7 +7449,7 @@ While the Republic thus held the old world prisoner in [[Paris]] and tortured it
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_03" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 3)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_03" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 3)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 Carnot, looking westward down the valley of the Helpe, saw the deep orchards laden with October, nourished by the small and very winding stream. He saw the last French frontier hamlets and their mills: St. Hilaire, Dompierre, Tenieres, dwindling away to where, far off in its broad trench, ran the Sambre.
@@ -7489,7 +7489,7 @@ The lights in the Court were lit, smoky and few. The air, already foul from the 
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_04" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 4)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_04" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 4)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 She lay down when her doors had received her, and just before midnight she fell asleep. She slept deeply and for the last time.
@@ -7525,7 +7525,7 @@ Revived or stung by such a memory, the Queen replied to question after question 
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_05" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 5)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_05" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 5)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Was it not in Trianon that you first came to know the woman La Motte?”
@@ -7557,7 +7557,7 @@ I have said that the horns of that crescent, the extreme wings, were ordered to 
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_06" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 6)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_06" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 6)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The second accident was the early close of an October day. The drizzling weather, the pall of clouds, curtained in an early night, and the left thus failing were not wholly destroyed: but their failure had ruined the value of the central charge upon Dourlers. The final attack, upon that central village was countermanded; the Austrians did not indeed pursue the retreat of the French centre from its walls and lanes, but the conception of the battle had failed.
@@ -7587,7 +7587,7 @@ It was nearing midnight in Paris, but none yet felt fatigue, neither the Judges 
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_07" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 7)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_07" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 7)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/prison,setting/austria,setting/paris"></span>
 
 
 Herman leant forward, hawk-faced, and asked the Queen in the level judicial manner if she had anything to add to her defence before her advocates should plead. She answered complaining of the little time that had been afforded her to defend — and the last words she spoke to her Judges were still a vain repetition that she had acted only as the wife of the King and that she had but obeyed his will.
@@ -7625,7 +7625,7 @@ The hours wore on, the scent of newly-lighted fires came from the [[Prison|priso
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_08" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 8)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_08" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 8)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/paris"></span>
 
 
 Oct. 16, 1793. Before Maubeuge, half-past six in the morning.
@@ -7667,7 +7667,7 @@ The cart went lumbering on, past the Quay, over the bridge under the murky drizz
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_09" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 9)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_09" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 9)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris"></span>
 
 
 It is said that as the tumbril passed certain masts whence limp tricolour pendants hung she glanced at them and murmured a word; it is to be believed that, a few yards further, at the turn into the Rue Royale, she gave way at the new sight of the Machine set up for her before the palace gardens.
@@ -7715,7 +7715,7 @@ I had indeed in the original MS. a full series of notes rectifying the more glar
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_10" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 10)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_10" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 10)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/france,character/maria_theresa"></span>
 
 
 APPENDIX A. THE OPERATION ON LOUIS THE SIXTEENTH OF [[France|FRANCE]]
@@ -7769,7 +7769,7 @@ Mercy sees by January that everything is long settled. The Queen knew herself to
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_11" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 11)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_11" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 11)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="histref/french_revolution"></span>
 
 
 53. “Je dois aussi ajouter la remarque très essentielle que la reine continue à se conduire très-bien avec le roi, qui de son côté persiste à vivre maritalement dans le sens le plus exact et le plus réel.”
@@ -7805,7 +7805,7 @@ It is, as I shall presently show, authentic, and therefore of the highest possib
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_12" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 12)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_12" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 12)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Now no event of such importance and so recent has been more variously described by eye-witnesses than the fall of the palace in 1792; and the particular incident of the order to cease fire suffers, like every other detail of those famous hours, from a plethora, and therefore a conflict, of evidence.
@@ -7851,7 +7851,7 @@ He appears to have affirmed that he saw the Queen in the Temple when he was on g
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_13" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 13)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_13" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 13)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 APPENDIX F. ON THE AUTHENTICITY OF THE QUEEN’S LAST LETTER
@@ -7879,7 +7879,7 @@ A lengthy analysis of the sort just concluded is necessary to make the reader un
 
 
 
-<span class="atom-split" data-atom="chapter_21_wattignies--part_14" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 14)" data-chapter="WATTIGNIES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_wattignies--part_14" data-title="Marie Antoinette — Chapter 20: WATTIGNIES (part 14)" data-chapter="WATTIGNIES" data-kind="excerpt" data-tags="motif/prison"></span>
 
 
 First let me recapitulate what is to be said against it: —

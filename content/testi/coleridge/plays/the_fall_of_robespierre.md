@@ -19,7 +19,7 @@ A historic closet drama by Coleridge and Southey on the fall of Robespierre, dra
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="THE FALL OF ROBESPIERRE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="THE FALL OF ROBESPIERRE — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/monster,archetype/rebel,archetype/tyrant,archetype/villain,motif/bells,motif/blood,motif/death,motif/dreams,motif/love,motif/machine,motif/memory,motif/pain,motif/poison,motif/sleep,motif/soul,motif/spring,motif/storm,motif/tears,motif/time,motif/well,concept/ambition,concept/conscience,concept/courage,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/guilt,concept/mercy,concept/poverty,concept/pride,concept/revenge,concept/self,concept/sublime,concept/truth,concept/union,setting/paris,character/adonis,character/bottom,character/brutus,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -101,7 +101,7 @@ A historic closet drama by Coleridge and Southey on the fall of Robespierre, dra
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="THE FALL OF ROBESPIERRE — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="THE FALL OF ROBESPIERRE — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/king,archetype/tyrant,archetype/villain,motif/blood,motif/chains,motif/death,motif/flag,motif/grave,motif/nature,motif/rose,motif/silence,motif/sleep,motif/soul,motif/storm,motif/time,motif/well,concept/conscience,concept/exile,concept/fear,concept/freedom,concept/guilt,concept/nature,concept/pride,concept/self,concept/truth,concept/wonder,form/tragedy,setting/paris,character/brutus"></span>
 
 
 | Speaker | Line |
@@ -168,7 +168,7 @@ A historic closet drama by Coleridge and Southey on the fall of Robespierre, dra
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="THE FALL OF ROBESPIERRE — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="THE FALL OF ROBESPIERRE — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/innocent,archetype/rebel,archetype/tyrant,archetype/usurper,archetype/villain,motif/blood,motif/death,motif/soul,motif/storm,motif/time,motif/window,concept/despair,concept/fear,concept/freedom,concept/friendship,concept/guilt,concept/mercy,concept/pride,concept/self,concept/slavery,concept/sublime,concept/suicide,setting/court,setting/paris,character/brutus,character/pistol"></span>
 
 
 | Speaker | Line |

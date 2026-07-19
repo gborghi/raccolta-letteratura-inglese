@@ -623,7 +623,7 @@ of the modern world.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Leo Tolstoy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Leo Tolstoy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/dance,motif/flowers,motif/grave,motif/home,motif/horse,motif/love,motif/nakedness,motif/nature,concept/body,concept/doubt,concept/faith,concept/fanaticism,concept/history,concept/nature,concept/reform,form/history,histref/ancient_greece,histref/bible,histref/catholic_church,histref/christianity,character/tolstoy"></span>
 
 
 Leo [[tolstoy|Tolstoy]]
@@ -786,7 +786,7 @@ Questa emersione di [[tolstoy|Tolstoj]], con la sua etica tremenda e semplice, �
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Leo Tolstoy (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Leo Tolstoy (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,motif/childhood,motif/city,motif/death,motif/leaves,motif/nature,motif/night,motif/storm,motif/time,motif/well,concept/faith,concept/history,concept/hope,concept/imagination,concept/nature,concept/self,concept/truth,form/epic,form/history,form/novel,form/translation,setting/battlefield,setting/court,setting/mountains,setting/paris,setting/russia,character/tolstoy"></span>
 
 
 The [[Truth|truth]] is that [[tolstoy|Tolstoy]], with his immense genius, with his
@@ -935,7 +935,7 @@ Dopo cinque anni di sforzi mitemente benevoli tra i suoi servi della gleba a Yas
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Leo Tolstoy (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Leo Tolstoy (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/beauty,concept/despair,concept/education,concept/friendship,concept/history,concept/nature,concept/slavery,concept/sublime,concept/union,form/essay,form/history,form/novel,histref/christianity,setting/germany,setting/italy,setting/russia,character/diana,character/tolstoy"></span>
 
 
 For a brief [[Time|time]] [[tolstoy|Tolstoy]] became a figure in the old and new
@@ -1038,7 +1038,7 @@ Dopotutto, fu la felicità familiare che salvò Leo [[tolstoy|Tolstoj]]. Per la 
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Leo Tolstoy (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Leo Tolstoy (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/death,motif/love,motif/nature,motif/soul,motif/well,concept/aspiration,concept/inner_life,concept/nature,concept/resurrection,concept/self,concept/truth,form/novel,setting/germany,setting/london,setting/russia,character/tolstoy"></span>
 
 
 It is more to our purpose to note that in this volcanic and fecund
@@ -1184,7 +1184,7 @@ Il significato di [[tolstoy|Tolstoj]] come grande scrittore della [[Russia]] mod
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Leo Tolstoy (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Leo Tolstoy (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,motif/death,motif/grave,motif/love,motif/nature,motif/soul,concept/conscience,concept/courage,concept/nature,concept/self,concept/self_deception,concept/self_knowledge,concept/suffering,concept/truth,concept/vanity,setting/russia,character/tolstoy"></span>
 
 
 And not only so, but [[tolstoy|Tolstoy]]'s analysis of life throws more light

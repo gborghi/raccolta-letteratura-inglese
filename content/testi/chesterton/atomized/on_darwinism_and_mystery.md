@@ -155,7 +155,7 @@ of radioactivity and one for her discovery of radium and polonium.]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="On_Darwinism_and_Mystery (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On_Darwinism_and_Mystery (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/time,concept/doubt,concept/eternity,concept/providence,histref/bible,setting/london"></span>
 
 
 # On Darwinism and Mystery
@@ -337,7 +337,7 @@ di una simile serie di fortune.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="On_Darwinism_and_Mystery (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="On_Darwinism_and_Mystery (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/time,concept/doubt,concept/greatness,concept/imagination,concept/truth"></span>
 
 
 But as for the positive conclusions to be drawn, I am

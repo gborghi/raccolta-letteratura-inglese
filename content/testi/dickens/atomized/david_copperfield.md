@@ -38284,7 +38284,7 @@ which I now dismiss, still find thee near me, pointing upward!
 
 
 
-<span class="atom-split" data-atom="chapter_01_i_am_born--part_01" data-title="David Copperfield — Chapter 1: I AM BORN (part 1)" data-chapter="I AM BORN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_i_am_born--part_01" data-title="David Copperfield — Chapter 1: I AM BORN (part 1)" data-chapter="I AM BORN" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/hero,motif/clock,motif/crown,motif/death,motif/fire,motif/ghosts,motif/grave,motif/home,motif/marriage,motif/night,motif/time,motif/water,motif/window,concept/faith,concept/history,form/history,character/david_copperfield,character/hamlet,character/nurse"></span>
 
 
 CHAPTER 1. I AM BORN
@@ -38391,7 +38391,7 @@ into the world.
 
 
 
-<span class="atom-split" data-atom="chapter_01_i_am_born--part_02" data-title="David Copperfield — Chapter 1: I AM BORN (part 2)" data-chapter="I AM BORN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_i_am_born--part_02" data-title="David Copperfield — Chapter 1: I AM BORN (part 2)" data-chapter="I AM BORN" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/clock,motif/fire,motif/garden,motif/secrets,motif/tears,motif/time,motif/wind,motif/window,concept/doubt,concept/hope,concept/identity,character/bottom,character/david_copperfield"></span>
 
 
 This was the state of matters, on the afternoon of, what I may be
@@ -38522,7 +38522,7 @@ meekly, and fainted.
 
 
 
-<span class="atom-split" data-atom="chapter_01_i_am_born--part_03" data-title="David Copperfield — Chapter 1: I AM BORN (part 3)" data-chapter="I AM BORN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_i_am_born--part_03" data-title="David Copperfield — Chapter 1: I AM BORN (part 3)" data-chapter="I AM BORN" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/death,motif/fire,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 When she came to herself, or when Miss Betsey had restored her,
@@ -38662,7 +38662,7 @@ me.’
 
 
 
-<span class="atom-split" data-atom="chapter_01_i_am_born--part_04" data-title="David Copperfield — Chapter 1: I AM BORN (part 4)" data-chapter="I AM BORN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_i_am_born--part_04" data-title="David Copperfield — Chapter 1: I AM BORN (part 4)" data-chapter="I AM BORN" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/dreams,motif/dust,motif/fire,motif/supernatural,motif/time,motif/well,motif/window,concept/courage,concept/hope,concept/melancholy,concept/mercy,form/fragment,character/david_copperfield,character/hamlet,character/nurse,character/speed"></span>
 
 
 ‘How much?’ asked Miss Betsey.
@@ -38826,7 +38826,7 @@ without whom I had never been.
 
 
 
-<span class="atom-split" data-atom="chapter_02_i_observe--part_01" data-title="David Copperfield — Chapter 2: I OBSERVE (part 1)" data-chapter="I OBSERVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_i_observe--part_01" data-title="David Copperfield — Chapter 2: I OBSERVE (part 1)" data-chapter="I OBSERVE" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/childhood,motif/memory,motif/moon,motif/night,motif/time,motif/window,concept/wonder,setting/castle,character/david_copperfield,character/sunday"></span>
 
 
 CHAPTER 2. I OBSERVE
@@ -38939,7 +38939,7 @@ a crash, and am taken out, more dead than alive, by Peggotty.
 
 
 
-<span class="atom-split" data-atom="chapter_02_i_observe--part_02" data-title="David Copperfield — Chapter 2: I OBSERVE (part 2)" data-chapter="I OBSERVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_i_observe--part_02" data-title="David Copperfield — Chapter 2: I OBSERVE (part 2)" data-chapter="I OBSERVE" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/garden,motif/home,motif/marriage,motif/night,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/beauty,setting/cathedral,character/bottom,character/david_copperfield,character/sunday"></span>
 
 
 And now I see the outside of our [[house]], with the latticed
@@ -39064,7 +39064,7 @@ comes, I am sensible, to my aid here.
 
 
 
-<span class="atom-split" data-atom="chapter_02_i_observe--part_03" data-title="David Copperfield — Chapter 2: I OBSERVE (part 3)" data-chapter="I OBSERVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_i_observe--part_03" data-title="David Copperfield — Chapter 2: I OBSERVE (part 3)" data-chapter="I OBSERVE" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/fire,motif/garden,motif/home,motif/love,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/hope,concept/wonder,character/david_copperfield,character/sunday"></span>
 
 
 ‘What does that mean?’ I asked him, over her shoulder.
@@ -39201,7 +39201,7 @@ never, never part with it any more; and I thought he must be quite a
 
 
 
-<span class="atom-split" data-atom="chapter_02_i_observe--part_04" data-title="David Copperfield — Chapter 2: I OBSERVE (part 4)" data-chapter="I OBSERVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_i_observe--part_04" data-title="David Copperfield — Chapter 2: I OBSERVE (part 4)" data-chapter="I OBSERVE" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/cross,motif/desire,motif/flag,motif/garden,motif/home,motif/horse,motif/memory,motif/road,motif/ship,motif/time,motif/window,concept/doubt,concept/jealousy,setting/ship,character/david_copperfield,character/jones"></span>
 
 
 Peggotty began to be less with us, of an evening, than she had always
@@ -39332,7 +39332,7 @@ Skylark, he said it meant the vessel.
 
 
 
-<span class="atom-split" data-atom="chapter_02_i_observe--part_05" data-title="David Copperfield — Chapter 2: I OBSERVE (part 5)" data-chapter="I OBSERVE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_i_observe--part_05" data-title="David Copperfield — Chapter 2: I OBSERVE (part 5)" data-chapter="I OBSERVE" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/beauty,concept/nature,character/david_copperfield"></span>
 
 
 I observed all day that Mr. Murdstone was graver and steadier than the
@@ -39488,7 +39488,7 @@ the buttons she would shed.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_01" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 1)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_01" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 1)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/horse,motif/night,motif/river,motif/ship,motif/sleep,motif/time,motif/water,motif/well,concept/doubt,concept/hope,histref/bible,setting/london,setting/ship,character/david_copperfield"></span>
 
 
 CHAPTER 3. I HAVE A CHANGE
@@ -39608,7 +39608,7 @@ which served for seats and eked out the chairs.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_02" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 2)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_02" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 2)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/childhood,motif/fire,motif/home,motif/silence,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/doubt,concept/imagination,concept/wonder,character/bottom,character/david_copperfield"></span>
 
 
 All this I saw in the first glance after I crossed the
@@ -39760,7 +39760,7 @@ constituting a most solemn imprecation.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_03" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 3)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_03" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 3)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/grave,motif/mirror,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,character/david_copperfield"></span>
 
 
 I was very sensible of my entertainer’s goodness, and listened to the
@@ -39892,7 +39892,7 @@ answered Yes, it would have been.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_04" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 4)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_04" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 4)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/clock,motif/fire,motif/home,motif/love,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/doubt,character/david_copperfield"></span>
 
 
 This may be premature. I have set it down too soon, perhaps. But let it
@@ -40015,7 +40015,7 @@ Peggotty.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_05" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 5)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_05" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 5)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/horse,motif/night,motif/road,motif/time,motif/water,motif/well,concept/conscience,concept/truth,concept/wonder,character/david_copperfield,character/sunday"></span>
 
 
 ‘Drive! I don’t want no driving,’ returned Mr. Peggotty with an honest
@@ -40137,7 +40137,7 @@ assuming an air of sprightliness.
 
 
 
-<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_06" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 6)" data-chapter="I HAVE A CHANGE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_i_have_a_change--part_06" data-title="David Copperfield — Chapter 3: I HAVE A CHANGE (part 6)" data-chapter="I HAVE A CHANGE" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/well,motif/wind,motif/window,character/david_copperfield"></span>
 
 
 ‘Something’s the matter, I’m sure. Where’s mama?’
@@ -40214,7 +40214,7 @@ me.
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_01" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 1)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_01" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 1)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/grave,motif/horse,motif/love,motif/nature,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,motif/window,concept/conscience,concept/doubt,concept/nature,concept/truth,concept/wonder,character/david_copperfield"></span>
 
 
 CHAPTER 4. I FALL INTO DISGRACE
@@ -40345,7 +40345,7 @@ me down without the least compunction, if I had hesitated.
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_02" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 2)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_02" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 2)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/love,motif/night,motif/time,motif/well,concept/freedom,concept/hope,setting/london,character/david_copperfield"></span>
 
 
 ‘Clara, my dear,’ he said, when I had done his bidding, and he walked me
@@ -40461,7 +40461,7 @@ with them than I had.
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_03" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 3)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_03" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 3)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="archetype/shadow,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/hope,concept/reconciliation,concept/wonder,character/david_copperfield"></span>
 
 
 My mother did not suffer her authority to pass from her without a [[Shadow|shadow]]
@@ -40587,7 +40587,7 @@ mother, without seeing that my mother was in a terrible fright.
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_04" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 4)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_04" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 4)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/flowers,motif/home,motif/nature,motif/prayer,motif/time,motif/well,motif/window,concept/beauty,concept/fear,concept/history,concept/nature,concept/wonder,form/history,character/david_copperfield,character/sunday"></span>
 
 
 The gloomy taint that was in the Murdstone [[Blood|blood]], darkened the Murdstone
@@ -40696,7 +40696,7 @@ worked out when my other tasks are done.
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_05" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 5)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_05" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 5)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/hero,motif/summer,motif/time,motif/well,concept/history,concept/hope,concept/melancholy,form/history,character/bottom,character/david_copperfield,character/don_quixote,character/gloucester,character/jones"></span>
 
 
 There is a pile of these arrears very soon, and it swells like a [[rolling]]
@@ -40804,7 +40804,7 @@ myself.’
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_06" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 6)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_06" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 6)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="archetype/fool,motif/bells,motif/death,motif/dreams,motif/garden,motif/night,motif/noon,motif/prison,motif/rose,motif/time,motif/well,motif/window,concept/fear,concept/forgiveness,concept/guilt,concept/imprisonment,concept/solitude,concept/wonder,character/david_copperfield"></span>
 
 
 ‘Certainly, my dear Jane,’ faltered my mother, meekly. ‘But--but do you
@@ -40947,7 +40947,7 @@ said:
 
 
 
-<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_07" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 7)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_i_fall_into_disgrace--part_07" data-title="David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 7)" data-chapter="I FALL INTO DISGRACE" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/home,motif/horse,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/suffering,form/tragedy,setting/london,character/david_copperfield"></span>
 
 
 ‘Is that you, Peggotty?’
@@ -41074,7 +41074,7 @@ then I got into the cart, and the lazy [[Horse|horse]] walked off with it.
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_01" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 1)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_01" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 1)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/silence,motif/time,motif/well,concept/hope,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 5. I AM SENT AWAY FROM [[Home|HOME]]
@@ -41221,7 +41221,7 @@ family there, perhaps even with little Em’ly herself.
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_02" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 2)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_02" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 2)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/time,motif/water,motif/window,concept/doubt,concept/fear,concept/melancholy,setting/london,character/david_copperfield"></span>
 
 
 The coach was in the yard, shining very much all over, but without any
@@ -41366,7 +41366,7 @@ I said, ‘Near [[London]],’ which was all I knew.
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_03" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 3)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_03" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 3)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/home,motif/night,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/courage,concept/doubt,concept/humility,setting/london,character/david_copperfield"></span>
 
 
 ‘Why?’ I asked him.
@@ -41487,7 +41487,7 @@ YOUR bones are young enough, I’m sure!’
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_04" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 4)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_04" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 4)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/noon,motif/sleep,motif/time,concept/hope,concept/nature,setting/london,character/david_copperfield"></span>
 
 
 At last the sun [[Rose|rose]], and then my companions seemed to [[Sleep|sleep]] easier.
@@ -41599,7 +41599,7 @@ distance as before, ‘is it far?’
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_05" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 5)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_05" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 5)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/sleep,motif/tears,motif/window,concept/doubt,form/inscription,setting/london,character/david_copperfield"></span>
 
 
 ‘Is that far, sir?’ I diffidently asked.
@@ -41720,7 +41720,7 @@ persuaded, she gave the credit of the whole performance.
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_06" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 6)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_06" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 6)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/leaves,motif/road,motif/seasons,motif/time,motif/well,setting/castle,character/david_copperfield"></span>
 
 
 When I seemed to have been dozing a long while, the Master at Salem
@@ -41850,7 +41850,7 @@ bites!’
 
 
 
-<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_07" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 7)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_i_am_sent_away_from_home_home--part_07" data-title="David Copperfield — Chapter 5: I AM SENT AWAY FROM [[Home|HOME (part 7)" data-chapter="I AM SENT AWAY FROM Home HOME" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/water,motif/wind,motif/window,concept/self,setting/court,character/david_copperfield"></span>
 
 
 It was the same with the places at the desks and forms. It was the same
@@ -41909,7 +41909,7 @@ got used to them.
 
 
 
-<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_01" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 1)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_01" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 1)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt" data-tags="motif/blood,motif/desert,motif/dust,motif/garden,motif/home,motif/pain,motif/time,motif/water,concept/courage,setting/desert,character/david_copperfield"></span>
 
 
 CHAPTER 6. I ENLARGE MY CIRCLE OF ACQUAINTANCE
@@ -42045,7 +42045,7 @@ curled.
 
 
 
-<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_02" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 2)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_02" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 2)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/dance,motif/secrets,motif/tears,motif/time,motif/well,motif/window,concept/temptation,character/david_copperfield"></span>
 
 
 It was no other than Tommy Traddles who gave me this piece of
@@ -42177,7 +42177,7 @@ been in a sad way, ever since.
 
 
 
-<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_03" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 3)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_i_enlarge_my_circle_of_acquain--part_03" data-title="David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 3)" data-chapter="I ENLARGE MY CIRCLE OF ACQUAIN" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/night,motif/time,concept/doubt,concept/wonder,character/david_copperfield"></span>
 
 
 But the greatest [[Wonder|wonder]] that I heard of Mr. Creakle was, there being one
@@ -42243,7 +42243,7 @@ the moonbeams. There was no shadowy picture of his footsteps, in the
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_01" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 1)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_01" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 1)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/death,motif/desire,motif/silence,motif/sleep,motif/summer,motif/tears,motif/time,motif/window,concept/mortality,concept/wonder,character/david_copperfield"></span>
 
 
 CHAPTER 7. MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]]
@@ -42357,7 +42357,7 @@ he only did it because they were easy, and didn’t want any features.
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_02" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 2)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_02" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 2)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/night,motif/sleep,motif/stars,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/pride,character/david_copperfield"></span>
 
 
 He was very honourable, Traddles was, and held it as a solemn duty
@@ -42467,7 +42467,7 @@ very sensible of his attention.
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_03" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 3)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_03" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 3)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/pain,motif/silence,motif/sleep,motif/tears,motif/time,concept/body,concept/doubt,concept/fear,concept/poverty,concept/vanity,character/bottom,character/chorus,character/david_copperfield"></span>
 
 
 We seem, to me, to have been months over Peregrine, and months more over
@@ -42574,7 +42574,7 @@ to?’
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_04" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 4)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_04" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 4)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="motif/stars,concept/honour,concept/hope,character/david_copperfield"></span>
 
 
 There was a titter, and some applause; but Mr. Mell was so white, that
@@ -42709,7 +42709,7 @@ kindly on the shoulder, but he looked at him.
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_05" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 5)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_05" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 5)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="motif/home,motif/night,motif/silence,motif/tears,motif/time,concept/charity,concept/doubt,concept/fear,concept/self,character/david_copperfield,character/james_steerforth"></span>
 
 
 ‘Since you expect me, Mr. Creakle, to justify myself,’ said Steerforth,
@@ -42843,7 +42843,7 @@ and stopped to have a sob before I went in.
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_06" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 6)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_06" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 6)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/love,motif/time,motif/well,motif/wind,concept/pride,character/david_copperfield,character/nurse"></span>
 
 
 At first I saw nobody; but feeling a pressure against the door, I looked
@@ -42979,7 +42979,7 @@ saw such a good [[house]], Steerforth. It’s made out of a boat!’
 
 
 
-<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_07" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 7)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_my_first_half_at_salem_house_h--part_07" data-title="David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE (part 7)" data-chapter="MY FIRST HALF AT SALEM house H" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/machine,motif/night,motif/sleep,motif/summer,motif/time,motif/well,motif/window,concept/hope,character/david_copperfield"></span>
 
 
 ‘So ‘tis, sir, so ‘tis, sir,’ said Ham, grinning. ‘You’re right, young
@@ -43056,7 +43056,7 @@ but the sound of the coachman touching up the horses.
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_01" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 1)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_01" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 1)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt" data-tags="motif/chalk,motif/clock,motif/fire,motif/garden,motif/home,motif/horse,motif/memory,motif/night,motif/road,motif/rose,motif/sleep,motif/time,motif/well,motif/wind,character/david_copperfield"></span>
 
 
 CHAPTER 8. MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON
@@ -43198,7 +43198,7 @@ since.
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_02" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_02" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 2)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/fire,motif/night,motif/time,motif/well,character/david_copperfield,character/queen"></span>
 
 
 ‘He is your brother,’ said my mother, fondling me. ‘Davy, my pretty boy!
@@ -43331,7 +43331,7 @@ chance in any other.
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_03" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 3)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_03" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 3)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/fire,motif/grave,motif/home,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/friendship,concept/hope,concept/nature,concept/wonder,character/david_copperfield"></span>
 
 
 ‘I [[Wonder|wonder]],’ said Peggotty, who was sometimes seized with a fit of
@@ -43468,7 +43468,7 @@ Peggotty observed her less.
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_04" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 4)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_04" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 4)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/clock,motif/fire,motif/memory,motif/time,concept/doubt,concept/hope,character/david_copperfield"></span>
 
 
 When we had had our tea, and the ashes were thrown up, and the candles
@@ -43602,7 +43602,7 @@ great-coat, poring over a book.
 
 
 
-<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_05" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 5)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_my_holidays_especially_one_hap--part_05" data-title="David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 5)" data-chapter="MY HOLIDAYS ESPECIALLY ONE HAP" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/garden,motif/grave,motif/night,motif/silence,motif/sleep,motif/well,motif/winter,concept/doubt,concept/melancholy,character/david_copperfield"></span>
 
 
 In the evening, sometimes, I went and sat with Peggotty in the kitchen.
@@ -43777,7 +43777,7 @@ up her baby in her arms.
 
 
 
-<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_01" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 1)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_01" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 1)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/frost,motif/grave,motif/home,motif/night,motif/pain,motif/road,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/melancholy,character/david_copperfield"></span>
 
 
 CHAPTER 9. I HAVE A MEMORABLE BIRTHDAY
@@ -43901,7 +43901,7 @@ as a soother of my sorrows and a contribution to my peace of mind.
 
 
 
-<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_02" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_02" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/hope,character/david_copperfield"></span>
 
 
 I left Salem [[house|House]] upon the morrow afternoon. I little thought then that
@@ -44044,7 +44044,7 @@ club, then? Were you?’ said Mr. Omer, shutting up one eye.
 
 
 
-<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_03" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 3)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_03" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 3)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt" data-tags="archetype/lover,motif/desert,motif/home,motif/horse,motif/love,motif/nature,motif/night,motif/sleep,motif/tears,motif/time,motif/window,concept/doubt,concept/nature,concept/self,setting/desert,character/david_copperfield"></span>
 
 
 ‘Yes,’ said Joram. ‘As you said we could make a little trip of it, and
@@ -44168,7 +44168,7 @@ hand.
 
 
 
-<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_04" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 4)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_i_have_a_memorable_birthday--part_04" data-title="David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 4)" data-chapter="I HAVE A MEMORABLE BIRTHDAY" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/cross,motif/dance,motif/death,motif/fire,motif/garden,motif/grave,motif/home,motif/lamb,motif/love,motif/night,motif/silence,motif/sleep,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/resurrection,concept/self,concept/truth,character/david_copperfield,character/sunday"></span>
 
 
 If the funeral had been yesterday, I could not recollect it better. The
@@ -44322,7 +44322,7 @@ ever on her bosom.
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_01" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 1)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_01" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 1)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/fire,motif/love,motif/pain,motif/silence,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/education,character/david_copperfield,character/sunday"></span>
 
 
 CHAPTER 10. I BECOME NEGLECTED, AND AM PROVIDED FOR
@@ -44446,7 +44446,7 @@ would be idle here--or anywhere, in my opinion.’
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_02" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_02" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 2)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/home,motif/horse,motif/journey,motif/love,motif/soul,motif/time,motif/well,concept/body,character/david_copperfield"></span>
 
 
 Peggotty had an angry answer ready, I could see; but she swallowed it
@@ -44585,7 +44585,7 @@ see me, and could come for nothing, and be sure of coming.’
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_03" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 3)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_03" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 3)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/desire,motif/fire,motif/home,motif/night,motif/tears,motif/time,motif/water,motif/well,concept/hope,concept/self,character/david_copperfield"></span>
 
 
 ‘The sense of the dear!’ cried Peggotty. ‘What I have been thinking
@@ -44710,7 +44710,7 @@ Mr. Peggotty, giving Ham a backhanded knock in the chest, ‘is another of
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_04" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 4)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_04" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 4)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/grave,motif/home,motif/lion,motif/love,motif/nature,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/doubt,concept/nature,concept/wonder,character/david_copperfield"></span>
 
 
 ‘If I had you for my guardian, Mr. Peggotty,’ said I, shaking my head,
@@ -44853,7 +44853,7 @@ was so continually reminded by these transactions of the old one.
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_05" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 5)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_05" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 5)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/blood,motif/horse,motif/journey,motif/love,motif/marriage,motif/night,motif/pain,motif/road,motif/sleep,motif/stars,motif/tears,motif/time,concept/union,character/clara_peggotty,character/david_copperfield"></span>
 
 
 At length, when the term of my visit was nearly expired, it was given
@@ -44980,7 +44980,7 @@ procession.
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_06" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 6)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_06" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 6)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/lion,motif/love,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/truth,concept/wonder,character/david_copperfield,character/nurse"></span>
 
 
 [[Well]], we came to the old boat again in good [[Time|time]] at [[Night|night]]; and there
@@ -45095,7 +45095,7 @@ scheme, a very Gunpowder Plot, for every Saturday’s expenses.
 
 
 
-<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_07" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 7)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_i_become_neglected_and_am_prov--part_07" data-title="David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 7)" data-chapter="I BECOME NEGLECTED AND AM PROV" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/ghost,motif/garden,motif/grave,motif/home,motif/night,motif/silence,motif/time,motif/window,concept/doubt,concept/education,setting/london,character/david_copperfield"></span>
 
 
 All this [[Time|time]] I was so conscious of the waste of any promise I had
@@ -45255,7 +45255,7 @@ is empty!
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_01" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 1)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_01" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 1)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/clock,motif/desire,motif/hill,motif/nature,motif/river,motif/soul,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/hope,concept/nature,character/bottom,character/david_copperfield,character/lord_mayor"></span>
 
 
 CHAPTER 11. I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT
@@ -45362,7 +45362,7 @@ stranger waved his hand, and settled his chin in his shirt-collar.
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_02" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 2)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_02" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 2)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/clock,motif/fire,motif/home,motif/lamb,motif/night,motif/road,motif/time,concept/doubt,concept/honour,concept/imagination,concept/self,character/david_copperfield"></span>
 
 
 ‘This is Mr. Micawber,’ said Mr. Quinion to me.
@@ -45507,7 +45507,7 @@ papa and mama, and the company they used to keep.
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_03" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 3)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_03" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 3)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/lion,motif/night,motif/river,motif/time,motif/well,motif/window,concept/hope,concept/mercy,concept/wonder,setting/court,character/david_copperfield"></span>
 
 
 In this [[house]], and with this family, I passed my leisure [[Time|time]]. My own
@@ -45625,7 +45625,7 @@ in no [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_04" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_04" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 4)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="motif/city,motif/home,motif/love,motif/night,motif/road,motif/tears,motif/well,concept/friendship,concept/truth,character/david_copperfield,character/sunday"></span>
 
 
 My rescue from this kind of existence I considered quite hopeless, and
@@ -45735,7 +45735,7 @@ relish in these meals which I [[Well|well]] remember.
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_05" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 5)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_05" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 5)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/cross,motif/fire,motif/home,motif/night,motif/noon,motif/prison,motif/time,motif/water,concept/doubt,concept/hope,concept/self,setting/london,character/david_copperfield,character/sunday"></span>
 
 
 At last Mr. Micawber’s difficulties came to a crisis, and he was
@@ -45842,7 +45842,7 @@ to say. I never told them at Murdstone and Grinby’s.
 
 
 
-<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_06" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 6)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_i_begin_life_on_my_own_account--part_06" data-title="David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT (part 6)" data-chapter="I BEGIN LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/innocent,motif/prison,motif/time,motif/well,concept/doubt,concept/honour,concept/imprisonment,concept/vanity,concept/wonder,setting/germany,character/david_copperfield"></span>
 
 
 Mr. Micawber’s affairs, although past their crisis, were very much
@@ -45921,7 +45921,7 @@ experiences and sordid things!
 
 
 
-<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_01" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 1)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_01" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 1)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/king,motif/desert,motif/lamb,motif/memory,motif/nature,motif/night,motif/tears,motif/time,motif/window,concept/honour,concept/hope,concept/nature,setting/court,setting/desert,setting/london,character/chorus,character/david_copperfield"></span>
 
 
 CHAPTER 12. LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT
@@ -46063,7 +46063,7 @@ was so profoundly miserable.
 
 
 
-<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_02" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 2)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_02" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 2)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/horse,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/hope,setting/london,character/david_copperfield,character/sunday,character/wilkins_micawber"></span>
 
 
 But through all the confusion and lowness of spirits in which we had
@@ -46179,7 +46179,7 @@ at the back.
 
 
 
-<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_03" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_03" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 3)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/shadow,motif/memory,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,character/david_copperfield"></span>
 
 
 ‘Master Copperfield,’ said Mrs. Micawber, ‘God bless you! I never can
@@ -46289,7 +46289,7 @@ like a job.
 
 
 
-<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_04" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_liking_life_on_my_own_account--part_04" data-title="David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)" data-chapter="LIKING LIFE ON MY OWN ACCOUNT" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/prison,motif/road,motif/tears,motif/time,setting/london,character/david_copperfield"></span>
 
 
 I told him mine, which was down that street there, and which I wanted
@@ -46355,7 +46355,7 @@ retreat of my aunt, Miss Betsey, than I had brought into it, on the
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_01" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 1)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_01" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 1)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/road,motif/rose,motif/sleep,motif/snow,motif/stars,motif/summer,motif/time,motif/water,motif/well,concept/doubt,concept/nature,concept/wonder,character/david_copperfield,character/kent"></span>
 
 
 CHAPTER 13. THE SEQUEL OF MY RESOLUTION
@@ -46472,7 +46472,7 @@ the wayfarer I was now, upon it.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_02" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_02" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="motif/bells,motif/chalk,motif/crown,motif/dust,motif/fire,motif/journey,motif/nature,motif/night,motif/river,motif/road,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/courage,concept/nature,character/david_copperfield,character/sunday"></span>
 
 
 What a different [[Sunday]] morning from the old [[Sunday]] morning at Yarmouth!
@@ -46585,7 +46585,7 @@ eighteenpence.’
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_03" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_03" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/night,motif/road,motif/sleep,motif/tears,motif/time,motif/well,concept/body,concept/hope,setting/london,character/david_copperfield"></span>
 
 
 ‘Oh, my liver!’ cried the old man, throwing the jacket on a shelf. ‘Get
@@ -46714,7 +46714,7 @@ moment, and tossed it to the woman.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_04" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 4)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_04" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 4)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="archetype/child,archetype/damsel,motif/blood,motif/desert,motif/dust,motif/flowers,motif/garden,motif/home,motif/journey,motif/road,motif/sleep,motif/time,motif/wind,motif/window,concept/hope,concept/truth,setting/cathedral,setting/court,setting/desert,setting/london,character/david_copperfield"></span>
 
 
 The woman burst into a fit of laughter, as if she thought this a joke,
@@ -46833,7 +46833,7 @@ aunt might be at that moment seated in awful state.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_05" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 5)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_05" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 5)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/chalk,motif/dust,motif/garden,motif/journey,motif/memory,motif/night,motif/time,motif/water,motif/well,motif/window,concept/courage,concept/grotesque,concept/mercy,concept/self,concept/wonder,setting/london,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 My shoes were by this [[Time|time]] in a woeful condition. The soles had shed
@@ -46953,7 +46953,7 @@ behaviour of the girl who never was born.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_06" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_06" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/grave,motif/leaves,motif/rose,motif/time,motif/water,motif/well,motif/window,concept/self,concept/wonder,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 ‘Bless and save the man,’ exclaimed my aunt, sharply, ‘how he talks!
@@ -47072,7 +47072,7 @@ the assault.
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_07" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 7)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_07" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 7)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/faith,concept/fear,concept/hope,concept/mercy,concept/self,concept/truth,character/betsey_trotwood,character/cain,character/david_copperfield,character/nurse"></span>
 
 
 The bath was a great comfort. For I began to be sensible of acute pains
@@ -47194,7 +47194,7 @@ proprietorship of Dover, until tea-[[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_08" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 8)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_sequel_of_my_resolution--part_08" data-title="David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 8)" data-chapter="THE SEQUEL OF MY RESOLUTION" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/fire,motif/grave,motif/moon,motif/night,motif/snow,motif/water,motif/window,concept/hope,concept/melancholy,character/david_copperfield"></span>
 
 
 After tea, we sat at the [[Window|window]]--on the look-out, as I imagined, from
@@ -47252,7 +47252,7 @@ track upon the sea, away into the world of [[Dreams|dreams]].
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_01" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_01" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/rose,motif/time,motif/water,motif/well,motif/window,character/david_copperfield,character/richard"></span>
 
 
 CHAPTER 14. MY AUNT MAKES UP HER MIND ABOUT ME
@@ -47385,7 +47385,7 @@ and forty-nine.
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_02" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 2)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_02" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 2)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/king,motif/time,motif/well,motif/wind,concept/doubt,concept/fear,concept/history,concept/hope,concept/madness,form/history,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 ‘[[Well]],’ returned Mr. Dick, scratching his ear with his pen, and looking
@@ -47524,7 +47524,7 @@ that there shan’t be a word about it in his Memorial.’
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_03" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 3)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_03" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 3)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/garden,motif/time,motif/window,concept/fear,concept/hope,character/bottom,character/david_copperfield"></span>
 
 
 ‘Yes, [[Child|child]],’ said my aunt, rubbing her nose again. ‘He is memorializing
@@ -47634,7 +47634,7 @@ announced by Janet.
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_04" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 4)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_04" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 4)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/grave,motif/journey,motif/marriage,motif/prison,motif/time,motif/well,concept/doubt,character/david_copperfield"></span>
 
 
 ‘Shall I go away, aunt?’ I asked, trembling.
@@ -47780,7 +47780,7 @@ irascibility and impatience.
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_05" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_05" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 5)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/tyrant,motif/garden,motif/rose,motif/time,motif/well,concept/truth,character/david_copperfield"></span>
 
 
 ‘Good Lord, man, there’s no occasion to say that. Left to her
@@ -47907,7 +47907,7 @@ instruments may make the most of it.’
 
 
 
-<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_06" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_my_aunt_makes_up_her_mind_abou--part_06" data-title="David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)" data-chapter="MY AUNT MAKES UP HER MIND ABOU" data-kind="excerpt" data-tags="archetype/child,motif/pain,motif/time,motif/window,concept/courage,concept/doubt,concept/hope,concept/providence,concept/suffering,character/david_copperfield"></span>
 
 
 ‘Allow me to inquire, Miss Trotwood,’ interposed Miss Murdstone,
@@ -47995,7 +47995,7 @@ I have written, and there I leave it.
 
 
 
-<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_01" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 1)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_01" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 1)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/flowers,motif/garden,motif/leaves,motif/road,motif/snow,concept/education,concept/friendship,concept/hope,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 CHAPTER 15. I MAKE ANOTHER BEGINNING
@@ -48124,7 +48124,7 @@ fell upon the hills.
 
 
 
-<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_02" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_02" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/home,motif/sleep,motif/well,motif/wind,motif/window,concept/hope,character/betsey_trotwood,character/david_copperfield,character/uriah_heep"></span>
 
 
 When the pony-chaise stopped at the door, and my eyes were intent upon
@@ -48251,7 +48251,7 @@ occupied, to await their return.
 
 
 
-<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_03" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 3)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_03" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 3)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/flowers,motif/grave,motif/home,motif/time,motif/well,motif/window,concept/imagination,character/agnes_wickfield,character/david_copperfield,character/uriah_heep"></span>
 
 
 It so happened that this chair was opposite a narrow passage, which
@@ -48364,7 +48364,7 @@ the best advice.
 
 
 
-<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_04" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 4)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_i_make_another_beginning--part_04" data-title="David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 4)" data-chapter="I MAKE ANOTHER BEGINNING" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/journey,motif/love,motif/memory,motif/time,motif/well,motif/window,setting/cathedral,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘Trot,’ said my aunt in conclusion, ‘be a credit to yourself, to me, and
@@ -48430,7 +48430,7 @@ was [[Uriah Heep]] got up there somehow, and shut him out in a hurry.
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_01" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 1)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_01" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 1)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/frost,motif/garden,motif/grave,motif/home,motif/horse,motif/leaves,motif/rose,motif/silence,motif/time,motif/well,concept/truth,setting/cathedral,setting/court,character/david_copperfield,character/satan"></span>
 
 
 CHAPTER 16. I AM A NEW BOY IN MORE SENSES THAN ONE
@@ -48556,7 +48556,7 @@ at my ease, if anything could.
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_02" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_02" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/shadow,motif/grave,motif/home,motif/night,motif/prison,motif/time,motif/water,motif/well,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 It seemed to me so long, however, since I had been among such boys,
@@ -48681,7 +48681,7 @@ the [[Water|water]], it’s of no use lingering on the bank.’
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_03" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 3)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_03" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 3)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/horse,motif/love,motif/marriage,motif/night,motif/time,motif/window,concept/hope,concept/truth,concept/wonder,character/david_copperfield"></span>
 
 
 ‘There shall be as little lingering as possible, in your case, Mr.
@@ -48814,7 +48814,7 @@ half-an-hour, of his permission.
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_04" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 4)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_04" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 4)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/death,motif/flag,motif/home,motif/night,motif/time,motif/well,motif/window,concept/body,concept/hope,concept/humility,concept/providence,concept/self,form/inscription,character/david_copperfield,character/uriah_heep"></span>
 
 
 But, seeing a light in the little round office, and immediately feeling
@@ -48966,7 +48966,7 @@ Em’ly to the Spanish Main, to be drowned.
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_05" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 5)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_05" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 5)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/love,motif/time,motif/well,motif/winter,concept/faith,concept/history,concept/honour,form/history,setting/cathedral,character/david_copperfield"></span>
 
 
 I got a little the better of my uneasiness when I went to school
@@ -49069,7 +49069,7 @@ Jack Maldon, who was always surprised to see us.
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_06" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_06" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 6)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/bees,motif/flowers,motif/garden,motif/leaves,motif/love,motif/night,motif/tears,motif/time,motif/well,concept/honour,concept/pride,concept/truth,character/david_copperfield"></span>
 
 
 Mrs. Strong’s mama was a lady I took great delight in. Her name was Mrs.
@@ -49187,7 +49187,7 @@ used it again, today. If I have any merit it is consistency.’
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_07" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 7)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_07" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 7)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/ship,motif/time,motif/well,concept/hope,setting/ship,character/david_copperfield"></span>
 
 
 The daughter had sat quite silent and still during this speech, with her
@@ -49306,7 +49306,7 @@ cousin Annie. Imitate her virtues as nearly as you can.’
 
 
 
-<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_08" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 8)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_i_am_a_new_boy_in_more_senses--part_08" data-title="David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 8)" data-chapter="I AM A NEW BOY IN MORE SENSES" data-kind="excerpt" data-tags="motif/cross,motif/dust,motif/home,motif/love,motif/night,motif/sleep,motif/time,motif/well,concept/pride,character/david_copperfield"></span>
 
 
 Mrs. Markleham fanned herself, and shook her head.
@@ -49416,7 +49416,7 @@ afterwards; as I shall have occasion to narrate when the [[Time|time]] comes.
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_01" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 1)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_01" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 1)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/ghosts,motif/grave,motif/home,motif/journey,motif/leaves,motif/love,motif/moon,motif/night,motif/noon,motif/rose,motif/time,motif/well,motif/window,motif/winter,concept/solitude,character/david_copperfield"></span>
 
 
 CHAPTER 17. SOMEBODY TURNS UP
@@ -49526,7 +49526,7 @@ you said sixteen hundred and forty-nine?’
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_02" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 2)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_02" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 2)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="archetype/king,motif/garden,motif/night,motif/snow,motif/summer,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/history,concept/hope,concept/self,form/history,setting/court,character/david_copperfield"></span>
 
 
 ‘Yes, sir.’
@@ -49652,7 +49652,7 @@ been able to acquire.
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_03" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 3)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_03" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 3)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/time,motif/well,concept/doubt,concept/friendship,concept/hope,concept/humility,concept/pride,concept/self,character/david_copperfield"></span>
 
 
 This veneration Mr. Dick extended to the Doctor, whom he thought the
@@ -49783,7 +49783,7 @@ that the whole place had.
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_04" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 4)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_04" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 4)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/nature,motif/silence,motif/time,motif/well,concept/fear,concept/friendship,concept/honour,concept/humility,concept/nature,concept/solitude,character/david_copperfield"></span>
 
 
 It was perhaps a part of Mrs. Heep’s [[Humility|humility]], that she still wore
@@ -49905,7 +49905,7 @@ presented.’
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_05" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 5)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_05" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 5)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/time,motif/well,concept/doubt,concept/truth,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 I could do no less, under these circumstances, than make Mr. Micawber
@@ -50030,7 +50030,7 @@ was left. To borrow, of that branch of my family, the money to return to
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_06" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 6)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_06" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 6)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="motif/clock,motif/desert,motif/home,motif/river,motif/time,motif/water,motif/well,motif/window,concept/honour,setting/cathedral,setting/desert,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘We all came back again,’ replied Mrs. Micawber. ‘Since then, I have
@@ -50145,7 +50145,7 @@ another woman, if such another woman could be found.
 
 
 
-<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_07" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 7)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_somebody_turns_up--part_07" data-title="David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 7)" data-chapter="SOMEBODY TURNS UP" data-kind="excerpt" data-tags="motif/clock,concept/hope,setting/london,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 As the punch disappeared, Mr. Micawber became still more friendly and
@@ -50209,7 +50209,7 @@ nevertheless.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_retrospect--part_01" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 1)" data-chapter="A RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_retrospect--part_01" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 1)" data-chapter="A RETROSPECT" data-kind="excerpt" data-tags="motif/childhood,motif/dance,motif/home,motif/leaves,motif/love,motif/sleep,motif/summer,motif/time,motif/water,concept/body,concept/unattainable,concept/wonder,setting/cathedral,character/david_copperfield,character/jones,character/macbeth,character/sunday"></span>
 
 
 CHAPTER 18. A RETROSPECT
@@ -50321,7 +50321,7 @@ victory is his.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_retrospect--part_02" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 2)" data-chapter="A RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_retrospect--part_02" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 2)" data-chapter="A RETROSPECT" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/cross,motif/fire,motif/flowers,motif/home,motif/love,motif/marriage,motif/night,motif/road,motif/time,motif/well,motif/window,concept/beauty,concept/courage,concept/history,concept/self,form/history,character/david_copperfield"></span>
 
 
 I am taken [[Home|home]] in a sad plight, and I have beef-steaks put to my eyes,
@@ -50438,7 +50438,7 @@ needn’t do, as I have not come there to be insulted.
 
 
 
-<span class="atom-split" data-atom="chapter_18_a_retrospect--part_03" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 3)" data-chapter="A RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_a_retrospect--part_03" data-title="David Copperfield — Chapter 18: A RETROSPECT (part 3)" data-chapter="A RETROSPECT" data-kind="excerpt" data-tags="motif/crown,motif/dance,motif/home,motif/night,motif/time,motif/well,concept/doubt,concept/imagination,character/david_copperfield"></span>
 
 
 But after I have stood in the doorway for some [[Time|time]], and feasted my eyes
@@ -50530,7 +50530,7 @@ seventeen.
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_01" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_01" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 1)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="motif/desire,motif/grave,motif/time,motif/well,concept/honour,concept/hope,concept/mercy,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 CHAPTER 19. I LOOK ABOUT ME, AND MAKE A DISCOVERY
@@ -50657,7 +50657,7 @@ and pausing a long [[Time|time]], ‘there’ll be a pretty kettle of fish!’
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_02" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 2)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_02" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 2)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/love,motif/nature,motif/tears,motif/time,concept/freedom,concept/nature,concept/wonder,setting/london,character/david_copperfield"></span>
 
 
 In pursuance of my aunt’s kind scheme, I was shortly afterwards fitted
@@ -50787,7 +50787,7 @@ contracts, and to bind us firmly to them, like a couple of knaves.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_03" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_03" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 3)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="motif/home,motif/love,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/resignation,concept/suffering,character/david_copperfield"></span>
 
 
 ‘And to take care,’ said Mr. Wickfield, ‘that you’re not imposed on, eh?
@@ -50925,7 +50925,7 @@ the letter, ‘it would be insupportable to me to think of.’
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_04" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 4)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_04" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 4)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/birds,motif/grave,motif/home,motif/night,motif/road,motif/sleep,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/friendship,concept/honour,setting/cathedral,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 Mr. Wickfield said not one word, though the old lady looked to him as if
@@ -51045,7 +51045,7 @@ with the eye with which he didn’t squint, in a very knowing manner.
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_05" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 5)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_05" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 5)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/cross,motif/crown,motif/fire,motif/garden,motif/journey,motif/night,motif/road,motif/sleep,motif/well,concept/honour,form/novel,setting/london,character/david_copperfield,character/julius_caesar"></span>
 
 
 ‘Ain’t you?’ asked William.
@@ -51165,7 +51165,7 @@ hackney-coach-jostling, patten-clinking, muddy, miserable world.
 
 
 
-<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_06" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 6)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_i_look_about_me_and_make_a_dis--part_06" data-title="David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 6)" data-chapter="I LOOK ABOUT ME AND MAKE A DIS" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/garden,motif/love,motif/road,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,concept/education,concept/fear,concept/friendship,setting/oxford,character/david_copperfield"></span>
 
 
 I had emerged by another door, and stood in the street for a little
@@ -51295,7 +51295,7 @@ gods.
 
 
 
-<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_01" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 1)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_01" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 1)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/cross,motif/desire,motif/fire,motif/hill,motif/home,motif/journey,motif/mirror,motif/time,motif/water,motif/window,motif/winter,concept/self,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 20. STEERFORTH’S [[Home|HOME]]
@@ -51425,7 +51425,7 @@ eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_02" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 2)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_02" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 2)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/fire,motif/grave,motif/home,motif/journey,motif/time,motif/well,concept/doubt,concept/education,concept/history,concept/hope,form/history,character/david_copperfield,character/nurse"></span>
 
 
 She was introduced as Miss Dartle, and both Steerforth and his mother
@@ -51556,7 +51556,7 @@ add to the principal. There’s the [[history]] of Miss Rosa Dartle for you.’
 
 
 
-<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_03" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 3)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_steerforths_home_home--part_03" data-title="David Copperfield — Chapter 20: STEERFORTH’S [[Home|HOME (part 3)" data-chapter="STEERFORTHS Home HOME" data-kind="excerpt" data-tags="archetype/innocent,motif/dreams,motif/fire,motif/home,motif/love,motif/memory,motif/night,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/friendship,concept/pride,concept/self,concept/wonder,character/david_copperfield"></span>
 
 
 ‘Humph!’ retorted Steerforth, looking at the [[Fire|fire]]. ‘Some brothers are
@@ -51694,7 +51694,7 @@ or not--without knowing what I meant.
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_01" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 1)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_01" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 1)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/fire,motif/home,motif/nature,motif/night,motif/sleep,motif/spring,motif/time,motif/water,motif/well,motif/wind,concept/friendship,concept/honour,concept/nature,concept/self,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 21. LITTLE EM’LY
@@ -51814,7 +51814,7 @@ donation with perfect tranquillity.
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_02" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 2)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_02" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 2)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/memory,motif/road,motif/soul,motif/time,motif/well,concept/honour,form/inscription,character/david_copperfield,character/nurse"></span>
 
 
 We bade adieu to Mrs. Steerforth and Miss Dartle, with many thanks on
@@ -51939,7 +51939,7 @@ Blunderstone it was, of course. Dear me! And how have you been since?’
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_03" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 3)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_03" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 3)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/memory,motif/well,concept/doubt,character/david_copperfield"></span>
 
 
 Very [[Well|well]], I thanked him, as I hoped he had been too.
@@ -52070,7 +52070,7 @@ in and speak to her, sir! Make yourself at [[Home|home]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_04" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 4)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_04" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 4)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/nature,motif/road,motif/sleep,motif/tears,motif/time,motif/well,concept/doubt,concept/honour,concept/martyrdom,concept/nature,concept/pride,concept/suffering,character/david_copperfield"></span>
 
 
 I was too bashful to do so then--I was afraid of confusing her, and I
@@ -52222,7 +52222,7 @@ sufficient compensation to him for all his tortures.
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_05" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 5)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_05" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 5)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="archetype/madwoman,motif/clock,motif/love,motif/night,motif/sleep,motif/time,motif/well,motif/wind,concept/doubt,concept/friendship,concept/wonder,character/david_copperfield,character/witch"></span>
 
 
 I prepared Peggotty for Steerforth’s arrival and it was not long before
@@ -52338,7 +52338,7 @@ as ever was or will be, Gorm the t’other one, and horroar for it!’
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_06" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 6)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_06" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 6)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/noon,motif/sleep,motif/time,motif/well,motif/wind,concept/pride,concept/self,character/david_copperfield"></span>
 
 
 After delivering this speech all in a breath, and with extraordinary
@@ -52462,7 +52462,7 @@ hour; and here’s the man that’ll marry her, the minute she’s out of her
 
 
 
-<span class="atom-split" data-atom="chapter_21_little_emly--part_07" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 7)" data-chapter="LITTLE EMLY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_little_emly--part_07" data-title="David Copperfield — Chapter 21: LITTLE EM’LY (part 7)" data-chapter="LITTLE EMLY" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/love,motif/marriage,motif/night,motif/pain,motif/road,motif/silence,motif/time,motif/well,motif/wind,concept/beauty,concept/friendship,character/david_copperfield,character/nurse"></span>
 
 
 Ham staggered, as [[Well|well]] he might, under the blow Mr. Peggotty dealt
@@ -52591,7 +52591,7 @@ Yarmouth.
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_01" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 1)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_01" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 1)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/garden,motif/grave,motif/home,motif/leaves,motif/memory,motif/nature,motif/night,motif/road,motif/time,motif/window,motif/winter,concept/nature,histref/america,setting/america,character/david_copperfield"></span>
 
 
 CHAPTER 22. SOME OLD SCENES, AND SOME NEW PEOPLE
@@ -52696,7 +52696,7 @@ was lost in his meditations.
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_02" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_02" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 2)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/fire,motif/home,motif/memory,motif/night,motif/silence,motif/soul,motif/stars,motif/time,motif/well,concept/hope,concept/wonder,setting/london,character/david_copperfield,character/macbeth"></span>
 
 
 He gave such a start when I put my hand upon his shoulder, that he made
@@ -52832,7 +52832,7 @@ boat down here?’
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_03" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_03" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/leaves,motif/love,motif/moon,motif/road,motif/soul,motif/time,motif/well,motif/wind,concept/pride,concept/wonder,character/david_copperfield"></span>
 
 
 ‘What an extraordinary fellow you are, Steerforth!’ I exclaimed,
@@ -52974,7 +52974,7 @@ as I felt, he said to his master:
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_04" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 4)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_04" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 4)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="topos/double,motif/crown,motif/fire,motif/home,motif/stars,motif/supernatural,motif/time,motif/water,motif/window,concept/honour,concept/self,character/david_copperfield,character/dwarf"></span>
 
 
 ‘Why, what on earth does she do here?’ said Steerforth.
@@ -53092,7 +53092,7 @@ desisted, and said to Steerforth, much to my confusion:
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_05" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_05" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/home,motif/nature,motif/time,motif/well,concept/honour,concept/hope,concept/nature,setting/russia,character/david_copperfield"></span>
 
 
 ‘Who’s your friend?’
@@ -53236,7 +53236,7 @@ boy--never mind!’
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_06" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_06" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 6)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/love,motif/secrets,motif/time,motif/well,setting/court,character/david_copperfield"></span>
 
 
 ‘In what way do you mean? In the rouge way?’ said Steerforth.
@@ -53376,7 +53376,7 @@ much agility, and began to tie her [[Double|double]] chin into her bonnet.
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_07" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 7)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_07" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 7)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/night,motif/tears,motif/time,motif/well,character/christ,character/david_copperfield"></span>
 
 
 ‘The fee,’ said Steerforth, ‘is--’
@@ -53503,7 +53503,7 @@ on it. ‘With such a little money in it, Em’ly my dear.’
 
 
 
-<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_08" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_some_old_scenes_and_some_new_p--part_08" data-title="David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)" data-chapter="SOME OLD SCENES AND SOME NEW P" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/cross,motif/fire,motif/home,motif/love,motif/night,motif/pain,motif/rose,motif/silence,motif/tears,motif/well,concept/beauty,concept/jealousy,concept/wonder,setting/london,character/david_copperfield,character/nurse"></span>
 
 
 I shook him warmly by the hand when he had put it away again--for that
@@ -53650,7 +53650,7 @@ both her hands, and still kept close to him.
 
 
 
-<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_01" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_01" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/journey,motif/night,motif/time,motif/well,motif/wind,concept/truth,setting/egypt,character/david_copperfield,character/nancy"></span>
 
 
 CHAPTER 23. I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION
@@ -53781,7 +53781,7 @@ uncommonly select audience.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_02" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 2)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_02" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 2)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/journey,motif/night,motif/tears,motif/water,motif/well,concept/doubt,concept/hope,concept/melancholy,setting/london,character/david_copperfield,character/lincoln"></span>
 
 
 ‘But advocates and proctors are not one and the same?’ said I, a little
@@ -53903,7 +53903,7 @@ it exceedingly.’
 
 
 
-<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_03" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 3)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_03" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 3)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/hill,motif/nature,motif/night,motif/soul,motif/time,concept/doubt,concept/education,concept/history,concept/hope,concept/nature,concept/pride,form/history,setting/london,character/betsey_trotwood,character/david_copperfield,character/speed"></span>
 
 
 ‘Come!’ said my aunt. ‘That’s cheering!’
@@ -54037,7 +54037,7 @@ sitting in it [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_04" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 4)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_04" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 4)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/rose,motif/time,concept/body,concept/history,concept/wonder,form/history,setting/court,character/bottom,character/david_copperfield"></span>
 
 
 She had not yet sufficiently recovered from her agitation to be quite
@@ -54154,7 +54154,7 @@ business on the principle of Spenlow and Jorkins!
 
 
 
-<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_05" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_i_corroborate_mr_dick_and_choo--part_05" data-title="David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)" data-chapter="I CORROBORATE Mr DICK AND CHOO" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/horse,motif/journey,motif/nature,motif/river,motif/time,motif/well,concept/nature,concept/self,setting/court,setting/london,character/buckingham,character/david_copperfield,character/lincoln"></span>
 
 
 It was settled that I should begin my month’s probation as soon as I
@@ -54315,7 +54315,7 @@ on the happy changes which had brought me to the surface.
 
 
 
-<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_01" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 1)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_01" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 1)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/garden,motif/home,motif/love,motif/night,motif/well,concept/pride,setting/castle,setting/oxford,character/buckingham,character/david_copperfield"></span>
 
 
 CHAPTER 24. MY FIRST DISSIPATION
@@ -54445,7 +54445,7 @@ and to serve up the [[cheese]] and celery as she could wish to see it done.
 
 
 
-<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_02" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 2)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_02" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 2)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/garden,motif/home,motif/tears,motif/well,motif/window,concept/honour,concept/hope,setting/oxford,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 I acted on Mrs. Crupp’s opinion, and gave the order at the pastry-cook’s
@@ -54556,7 +54556,7 @@ Miss [[Betsey Trotwood]], the best of her sex!
 
 
 
-<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_03" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 3)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_my_first_dissipation--part_03" data-title="David Copperfield — Chapter 24: MY FIRST DISSIPATION (part 3)" data-chapter="MY FIRST DISSIPATION" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/wonder,setting/london,character/bottom,character/david_copperfield"></span>
 
 
 Somebody was leaning out of my bedroom [[Window|window]], refreshing his forehead
@@ -54683,7 +54683,7 @@ in!
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_01" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 1)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_01" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 1)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/night,motif/tears,motif/time,concept/body,concept/hope,concept/self,character/david_copperfield"></span>
 
 
 CHAPTER 25. GOOD AND BAD ANGELS
@@ -54809,7 +54809,7 @@ of all my attachment to him, darkened in that tone.
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_02" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 2)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_02" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 2)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/desire,motif/love,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/fear,concept/history,concept/hope,concept/humility,concept/truth,form/history,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘It is very bold in me,’ said Agnes, looking up again, ‘who have lived
@@ -54953,7 +54953,7 @@ restoration, as I have so innocently been the cause of his decline!’
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_03" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 3)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_03" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 3)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="motif/frost,motif/home,motif/tears,motif/time,motif/well,concept/conscience,concept/honour,concept/hope,concept/humility,character/david_copperfield,character/hamlet,character/uriah_heep"></span>
 
 
 I had never before seen Agnes cry. I had seen [[Tears|tears]] in her eyes when I
@@ -55073,7 +55073,7 @@ profession.
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_04" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 4)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_04" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 4)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="motif/blood,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/self,setting/court,character/david_copperfield,character/hamlet"></span>
 
 
 ‘Traddles,’ returned Mr. Waterbrook, ‘is a young man reading for the
@@ -55201,7 +55201,7 @@ involved.’
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_05" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 5)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_05" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 5)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/night,motif/road,motif/time,motif/well,concept/hope,concept/pride,character/david_copperfield"></span>
 
 
 Mr. Waterbrook was only too happy, as it appeared to me, to have such
@@ -55316,7 +55316,7 @@ however immaterial. But I only drank my coffee.
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_06" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 6)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_06" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 6)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="archetype/prophet,motif/fire,motif/soul,motif/time,motif/well,concept/ambition,concept/doubt,concept/hope,character/david_copperfield"></span>
 
 
 ‘What a [[Prophet|prophet]] you have shown yourself, Mister Copperfield!’ pursued
@@ -55446,7 +55446,7 @@ me.’
 
 
 
-<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_07" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 7)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25_good_and_bad_angels--part_07" data-title="David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 7)" data-chapter="GOOD AND BAD ANGELS" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/love,motif/night,motif/river,motif/sleep,motif/soul,motif/time,motif/water,concept/body,concept/hope,concept/humility,character/david_copperfield"></span>
 
 
 ‘Why that, Master Copperfield,’ said Uriah, ‘is, in fact, the confidence
@@ -55588,7 +55588,7 @@ sitting-room might be aired, and purged of his presence.
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_01" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 1)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_01" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 1)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/fire,motif/home,motif/nature,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/education,concept/hope,concept/nature,concept/self,concept/truth,setting/london,setting/oxford,setting/paris,character/david_copperfield,character/uriah_heep"></span>
 
 
 CHAPTER 26. I FALL INTO CAPTIVITY
@@ -55702,7 +55702,7 @@ together, and Mr. Spenlow and I drove away in the phaeton.
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_02" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 2)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_02" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 2)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/nature,setting/court,setting/mountains,character/david_copperfield,character/dora_spenlow"></span>
 
 
 The phaeton was a very handsome affair; the horses arched their necks
@@ -55808,7 +55808,7 @@ back; I was gone, headlong, before I had sense to say a word to her.
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_03" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 3)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_03" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 3)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/garden,motif/love,motif/memory,motif/well,motif/window,concept/hope,concept/self,concept/slavery,character/david_copperfield,character/dora_spenlow"></span>
 
 
 ‘I,’ observed a [[Well|well]]-remembered voice, when I had bowed and murmured
@@ -55936,7 +55936,7 @@ other the subject of remark. Do you approve of this?’
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_04" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 4)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_04" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 4)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/dance,motif/garden,motif/home,motif/marriage,motif/mirror,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/ambition,concept/doubt,concept/hope,concept/nature,concept/truth,concept/wonder,setting/paris,character/buckingham,character/david_copperfield,character/sunday"></span>
 
 
 ‘Miss Murdstone,’ I returned, ‘I think you and Mr. Murdstone used me
@@ -56063,7 +56063,7 @@ us--don’t we, Jip?’
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_05" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 5)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_05" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 5)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="motif/desert,motif/dreams,motif/flowers,motif/home,motif/leaves,motif/night,motif/road,motif/ship,motif/well,motif/window,concept/charity,concept/hope,concept/melancholy,concept/pride,concept/truth,concept/wonder,setting/court,setting/desert,setting/london,setting/ship,character/david_copperfield"></span>
 
 
 Jip made a comfortable noise, in answer, a little like a tea-kettle when
@@ -56167,7 +56167,7 @@ looking out, as may be supposed, for another invitation to Mr. Spenlow’s
 
 
 
-<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_06" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 6)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26_i_fall_into_captivity--part_06" data-title="David Copperfield — Chapter 26: I FALL INTO CAPTIVITY (part 6)" data-chapter="I FALL INTO CAPTIVITY" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/time,concept/courage,concept/doubt,character/david_copperfield"></span>
 
 
 Mrs. Crupp must have been a woman of penetration; for when this
@@ -56261,7 +56261,7 @@ warning in future to keep my secret better.
 
 
 
-<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_01" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 1)" data-chapter="TOMMY TRADDLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_01" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 1)" data-chapter="TOMMY TRADDLES" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/leaves,motif/road,motif/time,form/fragment,character/david_copperfield"></span>
 
 
 CHAPTER 27. TOMMY TRADDLES
@@ -56386,7 +56386,7 @@ Half-a-[[Crown|crown]] a week he costs me.’
 
 
 
-<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_02" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 2)" data-chapter="TOMMY TRADDLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_02" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 2)" data-chapter="TOMMY TRADDLES" data-kind="excerpt" data-tags="motif/garden,motif/time,motif/well,concept/hope,concept/pride,character/david_copperfield"></span>
 
 
 His old simple character and good temper, and something of his old
@@ -56524,7 +56524,7 @@ can mention--for me!’
 
 
 
-<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_03" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 3)" data-chapter="TOMMY TRADDLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_03" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 3)" data-chapter="TOMMY TRADDLES" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/love,motif/rose,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/pride,setting/cathedral,character/david_copperfield"></span>
 
 
 Traddles [[Rose|rose]] from his chair, and, with a triumphant smile, put his hand
@@ -56652,7 +56652,7 @@ acquaintance with you.’
 
 
 
-<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_04" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 4)" data-chapter="TOMMY TRADDLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27_tommy_traddles--part_04" data-title="David Copperfield — Chapter 27: TOMMY TRADDLES (part 4)" data-chapter="TOMMY TRADDLES" data-kind="excerpt" data-tags="motif/nature,motif/water,motif/window,concept/nature,character/david_copperfield"></span>
 
 
 It would have been better, as it turned out, to have led gently up
@@ -56712,7 +56712,7 @@ Mr. Micawber then shook hands with me again, and left me.
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_01" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 1)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_01" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 1)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/clock,motif/desert,motif/desire,motif/fire,motif/home,motif/love,motif/nature,motif/tears,motif/time,motif/water,motif/well,concept/despair,concept/faith,concept/melancholy,concept/nature,setting/desert,character/david_copperfield,character/sunday"></span>
 
 
 CHAPTER 28. Mr. MICAWBER’S GAUNTLET
@@ -56832,7 +56832,7 @@ was never gayer than that excellent woman.
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_02" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 2)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_02" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 2)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/nature,motif/time,concept/nature,setting/oxford,character/david_copperfield"></span>
 
 
 I suppose--I never ventured to inquire, but I suppose--that Mrs. Crupp,
@@ -56952,7 +56952,7 @@ I thanked him and said, No; but would he take no dinner himself?
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_03" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_03" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 3)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/night,motif/time,concept/conscience,concept/doubt,concept/hope,setting/oxford,character/david_copperfield"></span>
 
 
 ‘I beg your pardon, sir?’
@@ -57106,7 +57106,7 @@ contend that we are no farther advanced than we were before.’
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_04" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_04" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 4)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/home,motif/love,motif/time,motif/well,concept/doubt,concept/self,character/david_copperfield"></span>
 
 
 I shook my head, and said, ‘Not a bit.’ Traddles also shook his head,
@@ -57232,7 +57232,7 @@ exhilaration.
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_05" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 5)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_05" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 5)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/rose,motif/time,motif/well,motif/window,concept/hope,setting/oxford,character/david_copperfield"></span>
 
 
 He was full of eloquence. He gave us to understand that in our children
@@ -57349,7 +57349,7 @@ that he would be carried into the Money Market neck and heels.
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_06" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 6)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_06" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 6)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/blood,motif/fire,motif/journey,motif/silence,motif/well,concept/hope,setting/oxford,character/david_copperfield,character/little_emily,character/nurse"></span>
 
 
 I returned to my fireside, and was musing, half gravely and half
@@ -57490,7 +57490,7 @@ ride on! Ride on over all obstacles, and win the race!’
 
 
 
-<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_07" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 7)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28_mr_micawbers_gauntlet--part_07" data-title="David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET (part 7)" data-chapter="Mr MICAWBERS GAUNTLET" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/road,motif/time,motif/well,motif/wind,concept/conscience,concept/hope,concept/nature,character/david_copperfield,character/nurse,character/wilkins_micawber"></span>
 
 
 ‘And win what race?’ said I.
@@ -57619,7 +57619,7 @@ or any age that could be mentioned.
 
 
 
-<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_01" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 1)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_01" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 1)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/love,motif/night,motif/soul,motif/spring,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/pride,setting/court,character/david_copperfield"></span>
 
 
 CHAPTER 29. I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN
@@ -57742,7 +57742,7 @@ leading him?’
 
 
 
-<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_02" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 2)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_02" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 2)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/pain,motif/well,concept/nature,concept/self,concept/wonder,character/david_copperfield"></span>
 
 
 ‘Miss Dartle,’ I returned, ‘how shall I tell you, so that you will
@@ -57873,7 +57873,7 @@ gone directly; and we went into the room and found her [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_03" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 3)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29_i_visit_steerforth_at_his_home--part_03" data-title="David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 3)" data-chapter="I VISIT STEERFORTH AT HIS Home" data-kind="excerpt" data-tags="motif/dawn,motif/home,motif/love,motif/night,motif/sleep,motif/soul,motif/time,concept/doubt,concept/friendship,character/david_copperfield"></span>
 
 
 ‘Don’t get up,’ said Steerforth (which she had already done)’ my dear
@@ -57969,7 +57969,7 @@ God forgive you, Steerforth! to touch that passive hand in [[Love|love]] and
 
 
 
-<span class="atom-split" data-atom="chapter_30_a_loss--part_01" data-title="David Copperfield — Chapter 30: A LOSS (part 1)" data-chapter="A LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_a_loss--part_01" data-title="David Copperfield — Chapter 30: A LOSS (part 1)" data-chapter="A LOSS" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/marriage,motif/silence,motif/soul,motif/stone_and_marble,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,concept/self,character/david_copperfield,character/little_emily"></span>
 
 
 CHAPTER 30. A LOSS
@@ -58098,7 +58098,7 @@ boat, sir, that [[Stone and Marble|stone and marble]] couldn’t beat.’
 
 
 
-<span class="atom-split" data-atom="chapter_30_a_loss--part_02" data-title="David Copperfield — Chapter 30: A LOSS (part 2)" data-chapter="A LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_a_loss--part_02" data-title="David Copperfield — Chapter 30: A LOSS (part 2)" data-chapter="A LOSS" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/death,motif/fire,motif/home,motif/night,motif/poison,motif/tears,motif/time,motif/well,character/david_copperfield,character/little_emily"></span>
 
 
 ‘I am sure she has!’ said I.
@@ -58229,7 +58229,7 @@ Em’ly? Eh, my pretty?’
 
 
 
-<span class="atom-split" data-atom="chapter_30_a_loss--part_03" data-title="David Copperfield — Chapter 30: A LOSS (part 3)" data-chapter="A LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30_a_loss--part_03" data-title="David Copperfield — Chapter 30: A LOSS (part 3)" data-chapter="A LOSS" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/nature,motif/night,motif/pain,motif/soul,motif/time,motif/water,motif/well,concept/nature,concept/pride,character/david_copperfield"></span>
 
 
 The sound of her voice had not reached me, but he bent his head as if he
@@ -58346,7 +58346,7 @@ And, it being low [[Water|water]], he went out with the tide.
 
 
 
-<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_01" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 1)" data-chapter="A GREATER LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_01" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 1)" data-chapter="A GREATER LOSS" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/fire,motif/grave,motif/horse,motif/journey,motif/leaves,motif/moon,motif/nature,motif/night,motif/road,motif/time,motif/window,concept/fear,concept/nature,form/fable,setting/london,character/bottom,character/david_copperfield,character/little_emily,character/nurse"></span>
 
 
 CHAPTER 31. A GREATER LOSS
@@ -58466,7 +58466,7 @@ looked quite natural, too.
 
 
 
-<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_02" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 2)" data-chapter="A GREATER LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_02" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 2)" data-chapter="A GREATER LOSS" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/memory,motif/nature,motif/night,motif/rose,motif/well,motif/window,concept/nature,concept/self,character/david_copperfield"></span>
 
 
 ‘You’re first of the lot, Mas’r Davy!’ said Mr. Peggotty with a happy
@@ -58594,7 +58594,7 @@ and closed the door upon us. Only upon us two.
 
 
 
-<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_03" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 3)" data-chapter="A GREATER LOSS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31_a_greater_loss--part_03" data-title="David Copperfield — Chapter 31: A GREATER LOSS (part 3)" data-chapter="A GREATER LOSS" data-kind="excerpt" data-tags="archetype/innocent,archetype/orphan,archetype/villain,motif/blood,motif/death,motif/home,motif/love,motif/night,motif/road,motif/silence,motif/soul,motif/tears,motif/time,motif/well,concept/forgiveness,concept/hope,concept/mercy,concept/pride,concept/self,character/david_copperfield"></span>
 
 
 ‘Ham! what’s the matter?’
@@ -58771,7 +58771,7 @@ feeling. My overcharged heart found the same relief, and I cried too.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_01" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 1)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_01" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 1)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/lover,motif/desert,motif/fire,motif/grave,motif/home,motif/journey,motif/memory,motif/nature,motif/night,motif/silence,motif/summer,motif/well,motif/wind,motif/winter,concept/history,concept/nature,form/history,setting/desert,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 32. THE BEGINNING OF A LONG [[Journey|JOURNEY]]
@@ -58890,7 +58890,7 @@ do you mean?’ He had pointed confusedly out to sea.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_02" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 2)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_02" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 2)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/cross,motif/home,motif/journey,motif/night,motif/seasons,motif/sleep,motif/soul,motif/time,motif/well,motif/window,concept/melancholy,concept/self,character/david_copperfield"></span>
 
 
 ‘Ay, Mas’r Davy. I doen’t rightly know how ‘tis, but from over yon there
@@ -59009,7 +59009,7 @@ And the [[Child|child]] knows nothing!’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_03" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 3)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_03" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 3)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/shadow,motif/fire,motif/home,motif/horse,motif/journey,motif/pain,motif/soul,motif/time,motif/well,concept/body,concept/melancholy,concept/vanity,concept/wonder,character/david_copperfield,character/dwarf"></span>
 
 
 Mrs. Joram was so unhappy that her husband came out to take care of
@@ -59127,7 +59127,7 @@ been here before, today, but the good woman wasn’t at [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_04" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 4)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_04" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 4)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/night,motif/silence,motif/time,motif/well,concept/faith,concept/guilt,concept/truth,setting/london,character/david_copperfield"></span>
 
 
 ‘Do you know her?’ I demanded.
@@ -59248,7 +59248,7 @@ surprised if I can be distressed and serious. Good [[Night|night]]!’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_05" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 5)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_05" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 5)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/home,motif/journey,motif/night,motif/tears,motif/time,motif/well,concept/hope,setting/london,character/david_copperfield,character/nurse"></span>
 
 
 I gave Miss Mowcher my hand, with a very different opinion of her from
@@ -59360,7 +59360,7 @@ of us. For some moments not a word was spoken.
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_06" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 6)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_06" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 6)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/love,motif/marriage,motif/rose,motif/silence,motif/time,concept/deception,concept/fear,concept/forgiveness,concept/hope,character/david_copperfield"></span>
 
 
 She motioned to Mr. Peggotty to be seated. He said, in a low voice, ‘I
@@ -59488,7 +59488,7 @@ senses and expect it.’
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_07" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 7)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32_the_beginning_of_a_long_journe--part_07" data-title="David Copperfield — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY (part 7)" data-chapter="THE BEGINNING OF A LONG Journe" data-kind="excerpt" data-tags="archetype/child,archetype/pilgrim,motif/garden,motif/grave,motif/hill,motif/home,motif/journey,motif/leaves,motif/love,motif/moon,motif/night,motif/stars,motif/storm,motif/time,motif/well,motif/wind,motif/window,concept/pride,concept/self,setting/london,character/david_copperfield,character/james_steerforth"></span>
 
 
 With this, we departed; leaving her standing by her elbow-chair, a
@@ -59616,7 +59616,7 @@ with my darling [[Child|child]], and I forgive her!”’
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_01" data-title="David Copperfield — Chapter 33: BLISSFUL (part 1)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_01" data-title="David Copperfield — Chapter 33: BLISSFUL (part 1)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/garden,motif/love,motif/marriage,motif/moon,motif/night,motif/road,motif/time,motif/well,concept/hope,concept/madness,concept/pride,concept/self,form/riddle,setting/court,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 33. BLISSFUL
@@ -59728,7 +59728,7 @@ quickly decided what to do, and came up to me.
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_02" data-title="David Copperfield — Chapter 33: BLISSFUL (part 2)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_02" data-title="David Copperfield — Chapter 33: BLISSFUL (part 2)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="archetype/rebel,motif/grave,motif/marriage,motif/well,concept/beauty,concept/doubt,concept/history,concept/hope,concept/melancholy,form/history,histref/reformation,setting/court,character/david_copperfield"></span>
 
 
 ‘I [[Hope|hope]],’ he said, ‘that you are doing [[Well|well]]?’
@@ -59863,7 +59863,7 @@ a system. Very good. There you were!
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_03" data-title="David Copperfield — Chapter 33: BLISSFUL (part 3)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_03" data-title="David Copperfield — Chapter 33: BLISSFUL (part 3)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/night,motif/time,motif/well,concept/doubt,concept/hope,setting/cathedral,setting/court,setting/london,character/david_copperfield,character/julia"></span>
 
 
 I had not the hardihood to suggest to Dora’s father that possibly
@@ -59973,7 +59973,7 @@ of Dora. Happy Miss Mills!
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_04" data-title="David Copperfield — Chapter 33: BLISSFUL (part 4)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_04" data-title="David Copperfield — Chapter 33: BLISSFUL (part 4)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="motif/birds,motif/cross,motif/dust,motif/flowers,motif/hill,motif/love,motif/marriage,motif/night,motif/time,motif/well,motif/wind,concept/beauty,concept/fear,concept/jealousy,concept/power_of_language,concept/wonder,character/david_copperfield,character/julia"></span>
 
 
 Jip was there, and Jip WOULD bark at me again. When I presented my
@@ -60087,7 +60087,7 @@ over the head of Red Whisker, and I was adamant.
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_05" data-title="David Copperfield — Chapter 33: BLISSFUL (part 5)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_05" data-title="David Copperfield — Chapter 33: BLISSFUL (part 5)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/horse,motif/love,motif/memory,motif/moon,motif/spring,motif/time,motif/well,motif/wheel,concept/friendship,concept/honour,setting/desert,setting/london,character/buckingham,character/david_copperfield"></span>
 
 
 The young creature in pink had a mother in green; and I rather think the
@@ -60207,7 +60207,7 @@ a declaration.
 
 
 
-<span class="atom-split" data-atom="chapter_33_blissful--part_06" data-title="David Copperfield — Chapter 33: BLISSFUL (part 6)" data-chapter="BLISSFUL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33_blissful--part_06" data-title="David Copperfield — Chapter 33: BLISSFUL (part 6)" data-chapter="BLISSFUL" data-kind="excerpt" data-tags="archetype/lover,motif/desert,motif/flowers,motif/garden,motif/home,motif/horse,motif/journey,motif/love,motif/marriage,motif/memory,motif/night,motif/pain,motif/summer,motif/time,motif/well,concept/aspiration,concept/friendship,concept/hope,concept/madness,form/dirge,form/riddle,setting/desert,setting/london,character/david_copperfield"></span>
 
 
 How many times I went up and down the street, and round the
@@ -60352,7 +60352,7 @@ retrospect I can smile at half so much, and think of half so tenderly.
 
 
 
-<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_01" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 1)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_01" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 1)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt" data-tags="topos/double,motif/home,motif/love,motif/tears,motif/window,concept/beauty,concept/hope,concept/truth,concept/wonder,setting/london,character/david_copperfield,character/nurse"></span>
 
 
 CHAPTER 34. MY AUNT ASTONISHES ME
@@ -60475,7 +60475,7 @@ this reply; and added, with a smile upon his own ingenuous face:
 
 
 
-<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_02" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 2)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_02" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 2)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt" data-tags="motif/nature,motif/road,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/truth,setting/court,character/david_copperfield,character/nurse"></span>
 
 
 ‘Not, of course, but that my Sophy--pretty name, Copperfield, I always
@@ -60602,7 +60602,7 @@ tolerably easy terms, and Traddles was transported with pleasure.
 
 
 
-<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_03" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 3)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34_my_aunt_astonishes_me--part_03" data-title="David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 3)" data-chapter="MY AUNT ASTONISHES ME" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/desire,motif/home,motif/love,motif/night,motif/river,motif/road,motif/time,motif/well,concept/conscience,concept/hope,concept/self,setting/court,character/david_copperfield"></span>
 
 
 ‘I am very much obliged to you, indeed,’ said Traddles, on hearing it
@@ -60764,7 +60764,7 @@ Trot!’
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_01" data-title="David Copperfield — Chapter 35: DEPRESSION (part 1)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_01" data-title="David Copperfield — Chapter 35: DEPRESSION (part 1)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/river,motif/road,motif/tears,motif/well,concept/doubt,concept/faith,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 35. DEPRESSION
@@ -60885,7 +60885,7 @@ off.’
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_02" data-title="David Copperfield — Chapter 35: DEPRESSION (part 2)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_02" data-title="David Copperfield — Chapter 35: DEPRESSION (part 2)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/love,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/mercy,concept/wonder,character/david_copperfield"></span>
 
 
 ‘Stuff and nonsense, Trot!’ replied my aunt.
@@ -61031,7 +61031,7 @@ mortal creature. How exceedingly miserable I was, that [[Night|night]]!
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_03" data-title="David Copperfield — Chapter 35: DEPRESSION (part 3)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_03" data-title="David Copperfield — Chapter 35: DEPRESSION (part 3)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="archetype/ghost,motif/dance,motif/dreams,motif/fire,motif/flowers,motif/nature,motif/night,motif/ship,motif/sleep,motif/summer,motif/time,motif/wind,motif/window,concept/fear,concept/hope,concept/nature,concept/poverty,setting/court,setting/ship,character/bottom,character/buckingham,character/david_copperfield,character/uriah_heep"></span>
 
 
 As to [[Sleep|sleep]], I had [[Dreams|dreams]] of [[Poverty|poverty]] in all sorts of shapes, but I
@@ -61149,7 +61149,7 @@ difficult to move from the beaten track. You know what he is!’
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_04" data-title="David Copperfield — Chapter 35: DEPRESSION (part 4)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_04" data-title="David Copperfield — Chapter 35: DEPRESSION (part 4)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="motif/rose,motif/time,motif/well,motif/window,concept/beauty,concept/hope,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 I am sure I knew nothing about him, except that he had originally been
@@ -61283,7 +61283,7 @@ papa was with her--and [[Uriah Heep]].
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_05" data-title="David Copperfield — Chapter 35: DEPRESSION (part 5)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_05" data-title="David Copperfield — Chapter 35: DEPRESSION (part 5)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="motif/desert,motif/dreams,motif/home,motif/horse,motif/love,motif/sleep,motif/time,motif/well,concept/hope,concept/truth,setting/desert,character/betsey_trotwood,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘And now they are partners,’ said I. ‘Confound him!’
@@ -61402,7 +61402,7 @@ said, soonest mended!’
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_06" data-title="David Copperfield — Chapter 35: DEPRESSION (part 6)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_06" data-title="David Copperfield — Chapter 35: DEPRESSION (part 6)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/clock,motif/road,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/history,concept/hope,form/history,setting/london,character/david_copperfield"></span>
 
 
 My aunt concluded this philosophical summary, by fixing her eyes with a
@@ -61519,7 +61519,7 @@ without any bustle at all, when a knock came at the door.
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_07" data-title="David Copperfield — Chapter 35: DEPRESSION (part 7)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_07" data-title="David Copperfield — Chapter 35: DEPRESSION (part 7)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/well,concept/hope,concept/self,concept/wonder,character/betsey_trotwood,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘I think,’ said Agnes, turning pale, ‘it’s papa. He promised me that he
@@ -61642,7 +61642,7 @@ fatigues of business, Master Copperfield!’
 
 
 
-<span class="atom-split" data-atom="chapter_35_depression--part_08" data-title="David Copperfield — Chapter 35: DEPRESSION (part 8)" data-chapter="DEPRESSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35_depression--part_08" data-title="David Copperfield — Chapter 35: DEPRESSION (part 8)" data-chapter="DEPRESSION" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/love,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/self,concept/truth,character/betsey_trotwood,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘[[Uriah Heep]] is a great relief to me,’ said Mr. Wickfield, in the same
@@ -61709,7 +61709,7 @@ Blind!’
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_01" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 1)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_01" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 1)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/hill,motif/home,motif/night,motif/road,motif/spring,motif/time,motif/well,character/david_copperfield"></span>
 
 
 CHAPTER 36. ENTHUSIASM
@@ -61829,7 +61829,7 @@ can offer?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_02" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 2)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_02" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 2)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/grave,motif/home,motif/horse,motif/night,motif/time,motif/well,concept/freedom,concept/honour,concept/hope,setting/court,character/david_copperfield"></span>
 
 
 I became very glowing again, and, expressing myself in a rhapsodical
@@ -61952,7 +61952,7 @@ or to strengthen my confidence in, Mr. Jack Maldon.
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_03" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 3)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_03" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 3)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/clock,motif/home,motif/horse,motif/leaves,motif/night,motif/time,motif/water,motif/well,motif/window,concept/deception,concept/friendship,setting/castle,setting/london,character/david_copperfield"></span>
 
 
 ‘I came out to inquire whether Annie would like to go to the opera
@@ -62062,7 +62062,7 @@ tomorrow.’
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_04" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 4)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_04" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 4)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="archetype/king,motif/dust,motif/night,motif/road,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/pride,setting/court,character/buckingham,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 Traddles looked astonished, as he [[Well|well]] might; but he had no notion as
@@ -62194,7 +62194,7 @@ situated near the top of the Gray’s Inn [[Road]].
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_05" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 5)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_05" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 5)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="motif/desert,motif/desire,motif/nature,motif/night,motif/silence,motif/well,concept/faith,concept/nature,concept/self,setting/cathedral,setting/desert,character/david_copperfield"></span>
 
 
 The resources of this lodging were so limited, that we found the twins,
@@ -62310,7 +62310,7 @@ Micawber has accepted?’
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_06" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 6)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_06" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 6)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/home,motif/time,concept/doubt,concept/hope,concept/resignation,concept/truth,setting/cathedral,setting/court,character/david_copperfield"></span>
 
 
 ‘My dear,’ observed Mr. Micawber--but glancing inquisitively at
@@ -62429,7 +62429,7 @@ solemnity:
 
 
 
-<span class="atom-split" data-atom="chapter_36_enthusiasm--part_07" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 7)" data-chapter="ENTHUSIASM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36_enthusiasm--part_07" data-title="David Copperfield — Chapter 36: ENTHUSIASM (part 7)" data-chapter="ENTHUSIASM" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/courage,concept/doubt,character/david_copperfield"></span>
 
 
 ‘One thing more I have to do, before this separation is complete, and
@@ -62475,7 +62475,7 @@ his credit be it written), quite as [[Well|well]] as I did.
 
 
 
-<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_01" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 1)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_01" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 1)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/water,motif/window,concept/friendship,concept/wonder,character/buckingham,character/david_copperfield"></span>
 
 
 CHAPTER 37. A LITTLE COLD [[Water|WATER]]
@@ -62590,7 +62590,7 @@ she stared at me with the most delightful [[Wonder|wonder]].
 
 
 
-<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_02" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 2)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_02" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 2)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/love,motif/night,motif/soul,motif/water,motif/well,concept/courage,concept/hope,concept/poverty,setting/court,character/david_copperfield,character/julia"></span>
 
 
 ‘How can you be such a silly thing,’ replied Dora, slapping my hand, ‘as
@@ -62721,7 +62721,7 @@ drawing-room.
 
 
 
-<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_03" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 3)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37_a_little_cold_water_water--part_03" data-title="David Copperfield — Chapter 37: A LITTLE COLD [[Water|WATER (part 3)" data-chapter="A LITTLE COLD Water WATER" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/monster,motif/clock,motif/desert,motif/fire,motif/love,motif/nature,motif/night,motif/rose,motif/time,motif/water,motif/well,concept/forgiveness,concept/nature,concept/suffering,setting/desert,character/david_copperfield"></span>
 
 
 I thought I had killed her, this [[Time|time]]. I sprinkled [[Water|water]] on her face.
@@ -62847,7 +62847,7 @@ turning quite grey.
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_01" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 1)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_01" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 1)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="motif/clock,motif/grave,motif/home,motif/horse,motif/night,motif/sleep,motif/time,motif/well,character/buckingham,character/david_copperfield"></span>
 
 
 CHAPTER 38. A DISSOLUTION OF PARTNERSHIP
@@ -62955,7 +62955,7 @@ had found out about my darling Dora.
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_02" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_02" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 2)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/love,motif/marriage,motif/night,motif/time,character/david_copperfield"></span>
 
 
 If I had not guessed this, on the way to the coffee-[[house]], I could
@@ -63082,7 +63082,7 @@ or so, though I did my best to disguise it.
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_03" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 3)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_03" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 3)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/grave,motif/love,motif/marriage,motif/nature,motif/silence,motif/time,motif/well,concept/body,concept/despair,concept/hope,concept/humility,concept/nature,character/david_copperfield"></span>
 
 
 ‘There is nothing I can say, sir,’ I returned, ‘except that all the
@@ -63227,7 +63227,7 @@ since composed.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_04" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 4)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_04" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 4)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="archetype/fool,motif/desert,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/tears,concept/hope,concept/nature,concept/wonder,setting/desert,character/david_copperfield,character/julia"></span>
 
 
 There was a serenity, a tranquillity, a calm sunset air about him, which
@@ -63337,7 +63337,7 @@ despairing. It was Saturday morning, and I went straight to the Commons.
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_05" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 5)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_05" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 5)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/road,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/jealousy,character/david_copperfield"></span>
 
 
 I was surprised, when I came within sight of our office-door, to see the
@@ -63464,7 +63464,7 @@ what he was! I am disposed to think he had made no will.’
 
 
 
-<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_06" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 6)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38_a_dissolution_of_partnership--part_06" data-title="David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 6)" data-chapter="A DISSOLUTION OF PARTNERSHIP" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/bells,motif/moon,motif/night,motif/road,motif/sleep,motif/soul,motif/tears,motif/time,motif/water,motif/window,concept/doubt,concept/friendship,concept/self,form/sketch,character/david_copperfield,character/julia"></span>
 
 
 ‘Oh, I know he had!’ said I.
@@ -63594,7 +63594,7 @@ many people over so much, would enable me to enter!
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_01" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 1)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_01" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 1)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="archetype/outsider,motif/blood,motif/city,motif/garden,motif/marriage,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/winter,concept/nature,concept/renunciation,concept/truth,setting/cathedral,character/david_copperfield"></span>
 
 
 CHAPTER 39. WICKFIELD AND HEEP
@@ -63698,7 +63698,7 @@ softening spirit.
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_02" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 2)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_02" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 2)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/time,concept/honour,character/david_copperfield,character/uriah_heep"></span>
 
 
 Arrived at Mr. Wickfield’s [[house]], I found, in the little lower room on
@@ -63833,7 +63833,7 @@ support, that I really think I have missed acquiring it.’
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_03" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 3)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_03" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 3)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/home,motif/nature,motif/soul,motif/tears,motif/time,motif/well,concept/nature,concept/poverty,concept/truth,setting/london,character/david_copperfield"></span>
 
 
 ‘And what is it?’ said Agnes, cheerfully.
@@ -63971,7 +63971,7 @@ way!’
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_04" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 4)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_04" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 4)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/garden,motif/sleep,motif/time,motif/well,motif/wind,concept/doubt,concept/self,setting/cathedral,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘I don’t think, Trotwood,’ returned Agnes, raising her soft eyes
@@ -64093,7 +64093,7 @@ in withholding from Agnes, any longer, what [[Uriah Heep]] had told me in
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_05" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 5)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_05" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 5)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="archetype/ghost,motif/dust,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/road,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/hope,concept/humility,concept/truth,concept/wonder,character/agnes_wickfield,character/david_copperfield,character/uriah_heep"></span>
 
 
 I had not walked out far enough to be quite clear of the town, upon the
@@ -64236,7 +64236,7 @@ Be umble,” says father, “and you’ll do!” And really it ain’t done bad!
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_06" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 6)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_06" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 6)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/love,motif/nature,motif/pain,motif/rose,motif/time,concept/ambition,concept/endurance,concept/hope,concept/humility,concept/nature,concept/pride,concept/temptation,character/agnes_wickfield,character/david_copperfield"></span>
 
 
 It was the first [[Time|time]] it had ever occurred to me, that this detestable
@@ -64355,7 +64355,7 @@ out in his calculations, and taken by surprise.
 
 
 
-<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_07" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 7)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39_wickfield_and_heep--part_07" data-title="David Copperfield — Chapter 39: WICKFIELD AND HEEP (part 7)" data-chapter="WICKFIELD AND HEEP" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/road,motif/time,motif/well,concept/doubt,concept/fear,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘Look at my torturer,’ he replied. ‘Before him I have step by step
@@ -64502,7 +64502,7 @@ already, and he were smacking his lips over it.
 
 
 
-<span class="atom-split" data-atom="chapter_40_the_wanderer--part_01" data-title="David Copperfield — Chapter 40: THE WANDERER (part 1)" data-chapter="THE WANDERER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_the_wanderer--part_01" data-title="David Copperfield — Chapter 40: THE WANDERER (part 1)" data-chapter="THE WANDERER" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/fire,motif/home,motif/night,motif/rose,motif/snow,motif/time,motif/well,motif/wind,character/buckingham,character/david_copperfield"></span>
 
 
 CHAPTER 40. THE WANDERER
@@ -64623,7 +64623,7 @@ face, I did not venture to disturb.
 
 
 
-<span class="atom-split" data-atom="chapter_40_the_wanderer--part_02" data-title="David Copperfield — Chapter 40: THE WANDERER (part 2)" data-chapter="THE WANDERER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_the_wanderer--part_02" data-title="David Copperfield — Chapter 40: THE WANDERER (part 2)" data-chapter="THE WANDERER" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/flowers,motif/home,motif/night,motif/road,motif/sleep,motif/snow,motif/time,motif/well,concept/forgiveness,concept/self,setting/italy,setting/mountains,character/david_copperfield"></span>
 
 
 ‘When she was a [[Child|child]],’ he said, lifting up his head soon after we were
@@ -64738,7 +64738,7 @@ travelled [[Home|home]].’
 
 
 
-<span class="atom-split" data-atom="chapter_40_the_wanderer--part_03" data-title="David Copperfield — Chapter 40: THE WANDERER (part 3)" data-chapter="THE WANDERER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40_the_wanderer--part_03" data-title="David Copperfield — Chapter 40: THE WANDERER (part 3)" data-chapter="THE WANDERER" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/love,motif/night,motif/prayer,motif/road,motif/rose,motif/snow,motif/time,motif/well,motif/wind,concept/imagination,concept/mercy,character/david_copperfield"></span>
 
 
 ‘How long ago?’ I asked.
@@ -64883,7 +64883,7 @@ over my shoulder.
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_01" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 1)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_01" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 1)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="motif/desire,motif/dreams,motif/love,motif/nature,motif/time,concept/beauty,concept/honour,concept/nature,character/david_copperfield,character/julia"></span>
 
 
 CHAPTER 41. DORA’S AUNTS
@@ -65004,7 +65004,7 @@ the subject again, for months.’
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_02" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 2)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_02" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 2)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/garden,motif/love,motif/nature,motif/time,motif/water,motif/well,concept/hope,concept/nature,concept/self,character/david_copperfield,character/lavinia"></span>
 
 
 ‘You did at last?’ said I.
@@ -65130,7 +65130,7 @@ upon.
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_03" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 3)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_03" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 3)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/desire,motif/dust,motif/love,motif/road,motif/time,concept/courage,concept/doubt,concept/history,concept/hope,concept/truth,form/history,character/david_copperfield,character/lavinia"></span>
 
 
 ‘We will not,’ said Miss [[Lavinia]], ‘enter on the past [[history]] of this
@@ -65269,7 +65269,7 @@ made a favourable impression.
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_04" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 4)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_04" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 4)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/birds,motif/leaves,motif/time,concept/doubt,concept/honour,character/david_copperfield,character/lavinia,character/sunday"></span>
 
 
 ‘I speak, if I may presume to say so, as one who has some little
@@ -65406,7 +65406,7 @@ each case, to my lips.
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_05" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 5)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_05" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 5)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="motif/home,motif/lightning,motif/love,motif/night,motif/time,motif/well,concept/pride,character/buckingham,character/david_copperfield,character/lavinia"></span>
 
 
 Miss [[Lavinia]] then arose, and begging Mr. Traddles to excuse us for a
@@ -65551,7 +65551,7 @@ reported at the door.
 
 
 
-<span class="atom-split" data-atom="chapter_41_doras_aunts--part_06" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 6)" data-chapter="DORAS AUNTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41_doras_aunts--part_06" data-title="David Copperfield — Chapter 41: DORA’S AUNTS (part 6)" data-chapter="DORAS AUNTS" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/love,motif/tears,motif/time,motif/well,character/david_copperfield,character/lavinia"></span>
 
 
 One thing troubled me much, after we had fallen into this quiet train.
@@ -65650,7 +65650,7 @@ too--but not often.
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_01" data-title="David Copperfield — Chapter 42: MISCHIEF (part 1)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_01" data-title="David Copperfield — Chapter 42: MISCHIEF (part 1)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/nature,motif/time,motif/well,concept/hope,concept/mercy,concept/nature,concept/self,character/david_copperfield"></span>
 
 
 CHAPTER 42. MISCHIEF
@@ -65778,7 +65778,7 @@ while.
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_02" data-title="David Copperfield — Chapter 42: MISCHIEF (part 2)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_02" data-title="David Copperfield — Chapter 42: MISCHIEF (part 2)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/love,motif/time,motif/well,concept/doubt,concept/friendship,concept/pride,character/david_copperfield,character/julia,character/lavinia,character/sunday"></span>
 
 
 ‘She is one of your lovely women, she is,’ he pursued, when he had
@@ -65899,7 +65899,7 @@ knows,’ said Agnes, with a smile; ‘it is not worth their having.’
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_03" data-title="David Copperfield — Chapter 42: MISCHIEF (part 3)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_03" data-title="David Copperfield — Chapter 42: MISCHIEF (part 3)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/blood,motif/fire,motif/garden,motif/home,motif/love,motif/night,motif/road,motif/silence,motif/stars,motif/time,motif/window,concept/hope,concept/truth,concept/wonder,setting/london,character/david_copperfield,character/lavinia"></span>
 
 
 ‘But please let me have it,’ said Dora, in her coaxing way, ‘if you
@@ -66038,7 +66038,7 @@ hall, and gently opening the door, looked in.
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_04" data-title="David Copperfield — Chapter 42: MISCHIEF (part 4)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_04" data-title="David Copperfield — Chapter 42: MISCHIEF (part 4)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="motif/childhood,motif/soul,motif/time,concept/body,concept/doubt,concept/honour,concept/melancholy,concept/wonder,character/david_copperfield"></span>
 
 
 The first person whom I saw, to my surprise, by the sober light of the
@@ -66170,7 +66170,7 @@ me!’
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_05" data-title="David Copperfield — Chapter 42: MISCHIEF (part 5)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_05" data-title="David Copperfield — Chapter 42: MISCHIEF (part 5)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/honour,concept/nature,concept/truth,character/david_copperfield,character/uriah_heep"></span>
 
 
 The Doctor, in the perfect goodness of his [[Nature|nature]], put out his hand. Mr.
@@ -66287,7 +66287,7 @@ then, to happier and brighter days.’
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_06" data-title="David Copperfield — Chapter 42: MISCHIEF (part 6)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_06" data-title="David Copperfield — Chapter 42: MISCHIEF (part 6)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="topos/double,archetype/villain,motif/fire,motif/night,motif/pain,motif/soul,motif/tears,motif/time,motif/well,concept/hope,concept/wonder,setting/london,character/david_copperfield"></span>
 
 
 I could not see him for the [[Tears|tears]] which his earnestness and goodness,
@@ -66422,7 +66422,7 @@ certainly had not the least suspicion of what had passed.
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_07" data-title="David Copperfield — Chapter 42: MISCHIEF (part 7)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_07" data-title="David Copperfield — Chapter 42: MISCHIEF (part 7)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/animals,motif/desire,motif/flowers,motif/garden,motif/grave,motif/home,motif/leaves,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/truth,concept/wonder,character/david_copperfield,character/uriah_heep"></span>
 
 
 Neither, I felt convinced, had Mrs. Strong then. Several weeks elapsed
@@ -66530,7 +66530,7 @@ lodger.
 
 
 
-<span class="atom-split" data-atom="chapter_42_mischief--part_08" data-title="David Copperfield — Chapter 42: MISCHIEF (part 8)" data-chapter="MISCHIEF" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42_mischief--part_08" data-title="David Copperfield — Chapter 42: MISCHIEF (part 8)" data-chapter="MISCHIEF" data-kind="excerpt" data-tags="motif/desert,motif/night,motif/secrets,concept/pride,setting/desert,character/david_copperfield"></span>
 
 
 ‘You may be aware, my dear Mr. Copperfield, that between myself and Mr.
@@ -66580,7 +66580,7 @@ the letter set me thinking about him very much.
 
 
 
-<span class="atom-split" data-atom="chapter_43_another_retrospect--part_01" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 1)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_another_retrospect--part_01" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 1)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/birds,motif/clock,motif/dreams,motif/grave,motif/marriage,motif/night,motif/river,motif/seasons,motif/snow,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/fear,concept/self,concept/union,setting/london,character/buckingham,character/david_copperfield,character/lavinia,character/sunday"></span>
 
 
 CHAPTER 43. ANOTHER RETROSPECT
@@ -66693,7 +66693,7 @@ doing it as cheap as could possibly be expected.
 
 
 
-<span class="atom-split" data-atom="chapter_43_another_retrospect--part_02" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 2)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_another_retrospect--part_02" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 2)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/garden,motif/home,motif/leaves,motif/road,motif/rose,motif/time,motif/water,motif/wheel,concept/friendship,concept/hope,concept/pride,character/david_copperfield,character/lavinia"></span>
 
 
 Nevertheless, I am in [[A Dream|a dream]], a flustered, happy, hurried dream. I
@@ -66811,7 +66811,7 @@ Mr. Dick have a general effect about them of being all gloves.
 
 
 
-<span class="atom-split" data-atom="chapter_43_another_retrospect--part_03" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 3)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43_another_retrospect--part_03" data-title="David Copperfield — Chapter 43: ANOTHER RETROSPECT (part 3)" data-chapter="ANOTHER RETROSPECT" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/flowers,motif/garden,motif/home,motif/journey,motif/love,motif/marriage,motif/memory,motif/road,motif/tears,motif/well,concept/doubt,character/ancient_mariner,character/david_copperfield,character/lavinia"></span>
 
 
 No [[Doubt|doubt]] I see this, because I know it is so; but I am astray, and seem
@@ -66935,7 +66935,7 @@ gone, and I resume the [[Journey|journey]] of my story.
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_01" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 1)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_01" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 1)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/birds,motif/clock,motif/grave,motif/home,motif/love,motif/nature,motif/time,concept/courage,concept/despair,concept/doubt,concept/mercy,concept/nature,character/david_copperfield"></span>
 
 
 CHAPTER 44. OUR HOUSEKEEPING
@@ -67071,7 +67071,7 @@ gave me [[Courage|courage]] to be [[Grave|grave]].
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_02" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 2)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_02" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 2)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="archetype/child,archetype/prophet,motif/fire,motif/home,motif/love,motif/marriage,motif/night,motif/time,motif/water,motif/wind,concept/conscience,concept/self,concept/wonder,character/david_copperfield"></span>
 
 
 ‘Now, my own Dora,’ said I, ‘you are very childish, and are talking
@@ -67201,7 +67201,7 @@ blessing.
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_03" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 3)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_03" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 3)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/love,motif/road,motif/time,motif/water,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 ‘Now,’ said she, ‘light my little lantern, and see me into my bandbox by
@@ -67312,7 +67312,7 @@ may be said to have engrossed the conversation.
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_04" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 4)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_04" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 4)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/bells,motif/cross,motif/love,motif/marriage,motif/memory,motif/nature,motif/night,motif/silence,motif/time,concept/friendship,concept/nature,character/david_copperfield"></span>
 
 
 However, as I knew how tender-hearted my dear Dora was, and how
@@ -67445,7 +67445,7 @@ its artless pleading.
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_05" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 5)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_05" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 5)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/home,motif/leaves,motif/lion,motif/love,motif/night,motif/pain,motif/secrets,motif/summer,motif/time,concept/truth,character/david_copperfield"></span>
 
 
 Dora told me, shortly afterwards, that she was going to be a wonderful
@@ -67550,7 +67550,7 @@ was shutting up my desk.
 
 
 
-<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_06" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 6)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44_our_housekeeping--part_06" data-title="David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 6)" data-chapter="OUR HOUSEKEEPING" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/garden,motif/love,motif/tears,motif/time,motif/well,concept/temptation,concept/vanity,character/david_copperfield"></span>
 
 
 ‘What a weary girl!’ said I. ‘That’s more to the purpose. You must go to
@@ -67633,7 +67633,7 @@ a voice that sounded cheerfully all over the [[house]]:
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_01" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_01" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/desire,motif/love,motif/night,motif/pain,motif/seasons,motif/soul,motif/time,concept/doubt,concept/faith,concept/fear,character/david_copperfield"></span>
 
 
 CHAPTER 45. MR. DICK FULFILS MY AUNT’S PREDICTIONS
@@ -67754,7 +67754,7 @@ significant cough:
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_02" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_02" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 2)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/grave,motif/home,motif/time,motif/well,concept/body,concept/honour,character/david_copperfield"></span>
 
 
 ‘You couldn’t speak to me without inconveniencing yourself, Trotwood, I
@@ -67907,7 +67907,7 @@ mind, he had either forgotten his intention or abandoned it.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_03" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 3)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_03" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 3)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/garden,motif/leaves,motif/love,motif/ship,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/doubt,setting/ship,character/david_copperfield"></span>
 
 
 One fair evening, when Dora was not inclined to go out, my aunt and I
@@ -68022,7 +68022,7 @@ that has come between us!’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_04" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_04" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/love,motif/night,motif/pain,motif/silence,motif/soul,motif/time,motif/water,concept/faith,concept/honour,concept/pride,concept/truth,character/david_copperfield,character/uriah_heep"></span>
 
 
 Mrs. Markleham, by this [[Time|time]] recovering the power of speech, and seeming
@@ -68154,7 +68154,7 @@ Saint Alphage, Canterbury,’ observed Mrs. Markleham.
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_05" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 5)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_05" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 5)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/home,motif/love,motif/marriage,motif/night,motif/soul,motif/tears,motif/time,concept/fear,concept/honour,concept/hope,concept/truth,character/david_copperfield"></span>
 
 
 (‘Confound the woman!’ said my aunt, ‘she WON’T be quiet!’)
@@ -68278,7 +68278,7 @@ and hoped that you might one day [[Honour|honour]] me.’
 
 
 
-<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_06" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 6)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45_mr_dick_fulfils_my_aunts_predi--part_06" data-title="David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 6)" data-chapter="MR DICK FULFILS MY AUNTS PREDI" data-kind="excerpt" data-tags="motif/autumn,motif/childhood,motif/home,motif/leaves,motif/love,motif/marriage,motif/night,motif/pain,motif/silence,motif/sleep,motif/soul,motif/time,motif/wind,concept/hope,concept/truth,character/david_copperfield"></span>
 
 
 ‘That day has shone this long [[Time|time]], Annie,’ said the Doctor, ‘and can
@@ -68353,7 +68353,7 @@ was blowing.
 
 
 
-<span class="atom-split" data-atom="chapter_46_intelligence--part_01" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 1)" data-chapter="INTELLIGENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_intelligence--part_01" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 1)" data-chapter="INTELLIGENCE" data-kind="excerpt" data-tags="motif/city,motif/garden,motif/ghosts,motif/memory,motif/night,motif/pain,motif/road,motif/rose,motif/time,motif/window,concept/body,concept/imagination,setting/court,character/david_copperfield"></span>
 
 
 CHAPTER 46. INTELLIGENCE
@@ -68487,7 +68487,7 @@ rather than [[Pain|pain]]. ‘Tell Mr. Copperfield about the flight.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_intelligence--part_02" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 2)" data-chapter="INTELLIGENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_intelligence--part_02" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 2)" data-chapter="INTELLIGENCE" data-kind="excerpt" data-tags="motif/blood,motif/night,motif/time,motif/window,concept/body,setting/italy,character/david_copperfield"></span>
 
 
 ‘Mr. James and myself, ma’am--’
@@ -68611,7 +68611,7 @@ ago, she had roamed about the beach, like them.’
 
 
 
-<span class="atom-split" data-atom="chapter_46_intelligence--part_03" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 3)" data-chapter="INTELLIGENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_intelligence--part_03" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 3)" data-chapter="INTELLIGENCE" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/desire,motif/dreams,motif/home,motif/love,motif/rose,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,character/david_copperfield"></span>
 
 
 Oh, Emily! Unhappy [[Beauty|beauty]]! What a picture [[Rose|rose]] before me of her sitting
@@ -68734,7 +68734,7 @@ a light in my very [[Dreams|dreams]] at school.
 
 
 
-<span class="atom-split" data-atom="chapter_46_intelligence--part_04" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 4)" data-chapter="INTELLIGENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_intelligence--part_04" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 4)" data-chapter="INTELLIGENCE" data-kind="excerpt" data-tags="topos/quest,motif/childhood,motif/city,motif/grave,motif/home,motif/night,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/mercy,concept/pride,setting/london,character/david_copperfield"></span>
 
 
 ‘Yes.’
@@ -68871,7 +68871,7 @@ proceeded to explain the precaution, that, it had occurred to me last
 
 
 
-<span class="atom-split" data-atom="chapter_46_intelligence--part_05" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 5)" data-chapter="INTELLIGENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46_intelligence--part_05" data-title="David Copperfield — Chapter 46: INTELLIGENCE (part 5)" data-chapter="INTELLIGENCE" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/home,motif/night,motif/road,motif/time,motif/water,motif/well,concept/doubt,concept/hope,setting/london,character/david_copperfield"></span>
 
 
 ‘Now, my dear friend--‘I began.
@@ -69002,7 +69002,7 @@ after her.
 
 
 
-<span class="atom-split" data-atom="chapter_47_martha--part_01" data-title="David Copperfield — Chapter 47: MARTHA (part 1)" data-chapter="MARTHA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_martha--part_01" data-title="David Copperfield — Chapter 47: MARTHA (part 1)" data-chapter="MARTHA" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/cross,motif/decay,motif/dust,motif/night,motif/prison,motif/river,motif/road,motif/sleep,motif/time,motif/water,concept/despair,concept/doubt,concept/hope,concept/melancholy,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 47. MARTHA
@@ -69112,7 +69112,7 @@ tone of those words.
 
 
 
-<span class="atom-split" data-atom="chapter_47_martha--part_02" data-title="David Copperfield — Chapter 47: MARTHA (part 2)" data-chapter="MARTHA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_martha--part_02" data-title="David Copperfield — Chapter 47: MARTHA (part 2)" data-chapter="MARTHA" data-kind="excerpt" data-tags="archetype/innocent,motif/love,motif/night,motif/river,motif/silence,motif/soul,motif/time,motif/well,motif/winter,concept/despair,concept/guilt,concept/history,concept/hope,concept/pride,concept/self,form/history,character/david_copperfield"></span>
 
 
 ‘I can’t keep away from it. I can’t forget it. It haunts me day and
@@ -69241,7 +69241,7 @@ doen’t understand what ‘tis we has afore us. Listen now!’
 
 
 
-<span class="atom-split" data-atom="chapter_47_martha--part_03" data-title="David Copperfield — Chapter 47: MARTHA (part 3)" data-chapter="MARTHA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_martha--part_03" data-title="David Copperfield — Chapter 47: MARTHA (part 3)" data-chapter="MARTHA" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/love,motif/night,motif/river,motif/road,motif/tears,motif/time,motif/water,concept/doubt,concept/endurance,concept/hope,concept/truth,setting/london,character/david_copperfield"></span>
 
 
 His influence upon her was complete. She stood, shrinkingly, before him,
@@ -69366,7 +69366,7 @@ expressed privation and [[Endurance|endurance]].
 
 
 
-<span class="atom-split" data-atom="chapter_47_martha--part_04" data-title="David Copperfield — Chapter 47: MARTHA (part 4)" data-chapter="MARTHA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47_martha--part_04" data-title="David Copperfield — Chapter 47: MARTHA (part 4)" data-chapter="MARTHA" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/shadow,motif/city,motif/garden,motif/grave,motif/home,motif/moon,motif/pain,motif/prayer,motif/road,motif/soul,motif/tears,motif/time,motif/well,concept/honour,concept/pride,character/betsey_trotwood,character/david_copperfield"></span>
 
 
 We followed her at a short distance, our way lying in the same
@@ -69510,7 +69510,7 @@ my grumpy, frumpy story, and we’ll keep it to ourselves, Trot!’
 
 
 
-<span class="atom-split" data-atom="chapter_48_domestic--part_01" data-title="David Copperfield — Chapter 48: DOMESTIC (part 1)" data-chapter="DOMESTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_domestic--part_01" data-title="David Copperfield — Chapter 48: DOMESTIC (part 1)" data-chapter="DOMESTIC" data-kind="excerpt" data-tags="motif/journey,motif/memory,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/doubt,concept/history,concept/nature,concept/self,form/history,histref/america,setting/america,setting/london,character/david_copperfield,character/lord_mayor"></span>
 
 
 CHAPTER 48. DOMESTIC
@@ -69620,7 +69620,7 @@ of, ‘up the country’ somewhere; I have no geographical idea where.
 
 
 
-<span class="atom-split" data-atom="chapter_48_domestic--part_02" data-title="David Copperfield — Chapter 48: DOMESTIC (part 2)" data-chapter="DOMESTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_domestic--part_02" data-title="David Copperfield — Chapter 48: DOMESTIC (part 2)" data-chapter="DOMESTIC" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/love,motif/time,motif/well,character/david_copperfield,character/julia"></span>
 
 
 All this led me into some serious reflections, and presented our
@@ -69748,7 +69748,7 @@ perhaps Dora’s mind was already formed.
 
 
 
-<span class="atom-split" data-atom="chapter_48_domestic--part_03" data-title="David Copperfield — Chapter 48: DOMESTIC (part 3)" data-chapter="DOMESTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_domestic--part_03" data-title="David Copperfield — Chapter 48: DOMESTIC (part 3)" data-chapter="DOMESTIC" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/cross,motif/dreams,motif/home,motif/love,motif/night,motif/pain,motif/secrets,motif/tears,concept/pride,concept/self,concept/truth,character/david_copperfield"></span>
 
 
 On further consideration this appeared so likely, that I abandoned
@@ -69888,7 +69888,7 @@ old clever, famous boy.
 
 
 
-<span class="atom-split" data-atom="chapter_48_domestic--part_04" data-title="David Copperfield — Chapter 48: DOMESTIC (part 4)" data-chapter="DOMESTIC" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48_domestic--part_04" data-title="David Copperfield — Chapter 48: DOMESTIC (part 4)" data-chapter="DOMESTIC" data-kind="excerpt" data-tags="archetype/child,motif/dreams,motif/flowers,motif/marriage,motif/night,motif/prison,motif/spring,motif/time,motif/well,motif/winter,concept/doubt,concept/wonder,character/bottom,character/david_copperfield,character/sunday"></span>
 
 
 ‘The first mistaken impulse of an undisciplined heart.’ Those words of
@@ -70016,7 +70016,7 @@ and how the blossom withered in its bloom upon the tree!
 
 
 
-<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_01" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 1)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_01" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 1)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/leaves,motif/memory,motif/nature,motif/night,motif/prison,motif/time,motif/well,concept/alienation,concept/honour,concept/nature,character/bottom,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 CHAPTER 49. I AM INVOLVED IN MYSTERY
@@ -70151,7 +70151,7 @@ the twins!
 
 
 
-<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_02" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_02" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 2)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/nature,motif/time,motif/well,concept/charity,concept/doubt,concept/faith,concept/honour,concept/hope,concept/nature,concept/wonder,form/fragment,setting/london,character/david_copperfield"></span>
 
 
 ‘I entreat Mr. Traddles to bear with me in entering into these details.
@@ -70270,7 +70270,7 @@ you will know how to excuse me.’
 
 
 
-<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_03" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 3)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_03" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 3)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/home,motif/love,motif/nature,motif/road,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/aspiration,concept/common_man,concept/hope,concept/melancholy,concept/nature,concept/truth,character/david_copperfield"></span>
 
 
 ‘We have all got on in life since then, Mr. Micawber,’ said I.
@@ -70392,7 +70392,7 @@ cordiality!’
 
 
 
-<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_04" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 4)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_04" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 4)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt" data-tags="motif/rose,motif/swallow,motif/tears,motif/time,motif/water,motif/well,concept/deception,concept/honour,concept/hope,concept/self,character/david_copperfield"></span>
 
 
 ‘How do you find yourself?’ said Mr. Dick, with an anxious look.
@@ -70519,7 +70519,7 @@ hypocrite and perjurer--HEEP!’
 
 
 
-<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_05" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 5)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49_i_am_involved_in_mystery--part_05" data-title="David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 5)" data-chapter="I AM INVOLVED IN MYSTERY" data-kind="excerpt" data-tags="motif/sleep,motif/time,motif/well,concept/fear,concept/honour,concept/hope,concept/wonder,form/inscription,character/chorus,character/david_copperfield,character/hamlet,character/wilkins_micawber"></span>
 
 
 I really had some [[Fear|fear]] of Mr. Micawber’s dying on the spot. The manner
@@ -70584,7 +70584,7 @@ The rude forefathers of the [[Hamlet|hamlet]] [[Sleep|sleep]],
 
 
 
-<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_01" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 1)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_01" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 1)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/fire,motif/garden,motif/home,motif/journey,motif/leaves,motif/marriage,motif/nature,motif/night,motif/river,motif/road,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/despair,concept/honour,concept/hope,concept/nature,concept/wonder,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 50. Mr. PEGGOTTY’S DREAM COMES TRUE
@@ -70700,7 +70700,7 @@ were going fast; but otherwise remained exactly as at first.
 
 
 
-<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_02" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 2)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_02" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 2)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt" data-tags="motif/blood,motif/dust,motif/flowers,motif/home,motif/marriage,motif/silence,concept/union,character/david_copperfield,character/james_steerforth"></span>
 
 
 We alighted at one of the entrances to the Square she had mentioned,
@@ -70816,7 +70816,7 @@ common between US, do you think!’
 
 
 
-<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_03" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 3)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_03" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 3)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/home,motif/love,motif/night,motif/tears,motif/water,motif/well,concept/doubt,concept/honour,concept/hope,concept/mercy,concept/vanity,character/david_copperfield"></span>
 
 
 ‘Nothing but our sex,’ said Emily, with a burst of [[Tears|tears]].
@@ -70936,7 +70936,7 @@ herself.
 
 
 
-<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_04" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50_mr_peggottys_dream_comes_true--part_04" data-title="David Copperfield — Chapter 50: Mr. PEGGOTTY’S DREAM COMES TRUE (part 4)" data-chapter="Mr PEGGOTTYS DREAM COMES TRUE" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/dust,motif/home,motif/love,motif/nature,motif/time,concept/despair,concept/nature,concept/wonder,character/david_copperfield,character/james_steerforth,character/speed"></span>
 
 
 ‘I came here, you pure fountain of [[Love|love]],’ she said, ‘to see--as I began
@@ -71026,7 +71026,7 @@ motionless and unconscious, down the stairs.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_01" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 1)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_01" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 1)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/fire,motif/flowers,motif/garden,motif/home,motif/journey,motif/leaves,motif/love,motif/nature,motif/night,motif/soul,motif/stars,motif/summer,motif/time,motif/well,concept/honour,concept/hope,concept/nature,concept/self,character/bottom,character/david_copperfield"></span>
 
 
 CHAPTER 51. THE BEGINNING OF A LONGER [[Journey|JOURNEY]]
@@ -71146,7 +71146,7 @@ Peggotty, covering his face.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_02" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 2)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_02" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 2)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/journey,motif/leaves,motif/night,motif/road,motif/silence,motif/sleep,motif/tears,motif/time,motif/window,concept/fear,concept/forgiveness,concept/hope,concept/self,setting/london,character/david_copperfield,character/sunday"></span>
 
 
 He was more affected by this act of kindness, than I had ever seen him
@@ -71256,7 +71256,7 @@ saved her.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_03" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 3)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_03" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 3)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/ghost,motif/death,motif/grave,motif/home,motif/journey,motif/night,motif/tears,motif/time,motif/well,concept/hope,character/david_copperfield"></span>
 
 
 I could not repress a cry of joy.
@@ -71382,7 +71382,7 @@ more by her rough but loving uncle.’
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_04" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 4)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_04" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 4)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/journey,motif/night,motif/time,concept/honour,concept/self,setting/london,character/david_copperfield"></span>
 
 
 My aunt nodded confirmation of this [[Hope|hope]], and imparted great
@@ -71505,7 +71505,7 @@ party. And you quite a small party then, yourself. Dear, dear!’
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_05" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 5)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_05" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 5)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/hill,motif/home,motif/horse,motif/journey,motif/night,motif/road,motif/time,motif/well,concept/courage,concept/doubt,concept/hope,setting/desert,character/bottom,character/david_copperfield"></span>
 
 
 I changed the subject by referring to Emily. After assuring him that I
@@ -71621,7 +71621,7 @@ mentioned her as a woman.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_06" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 6)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_06" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 6)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,archetype/shadow,motif/cross,motif/home,motif/journey,motif/love,motif/mirror,motif/night,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/self,concept/truth,setting/london,character/david_copperfield"></span>
 
 
 I thought I had read in his face that he would like to speak to me
@@ -71752,7 +71752,7 @@ any turn.
 
 
 
-<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_07" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 7)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51_the_beginning_of_a_longer_jour--part_07" data-title="David Copperfield — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY (part 7)" data-chapter="THE BEGINNING OF A LONGER Jour" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/night,motif/sleep,motif/soul,motif/well,setting/london,character/david_copperfield"></span>
 
 
 ‘’Tis like to be long,’ said Mr. Peggotty, in a low voice, ‘afore
@@ -71811,7 +71811,7 @@ Gummidge was happy.
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_01" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 1)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_01" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 1)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/dust,motif/home,motif/night,motif/sleep,motif/time,motif/water,motif/well,motif/window,setting/cathedral,character/david_copperfield"></span>
 
 
 CHAPTER 52. I ASSIST AT AN EXPLOSION
@@ -71926,7 +71926,7 @@ the half hour, he appeared in the street.
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_02" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_02" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 2)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/nature,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/truth,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘Here he is,’ said I, ‘and not in his legal attire!’
@@ -72068,7 +72068,7 @@ company!’ said Uriah, setting chairs.
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_03" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 3)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_03" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 3)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/time,motif/well,concept/beauty,concept/body,concept/charity,concept/honour,concept/self,concept/truth,character/david_copperfield"></span>
 
 
 ‘You are not busy, Mr. Heep?’ said Traddles, whose eye the cunning red
@@ -72197,7 +72197,7 @@ mended.’
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_04" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 4)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_04" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 4)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="archetype/villain,motif/machine,motif/nature,motif/pain,motif/time,motif/well,concept/despair,concept/honour,concept/madness,concept/nature,concept/poverty,concept/pride,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘But, my Ury--’
@@ -72326,7 +72326,7 @@ he had spun for my reception?”’
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_05" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_05" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 5)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="archetype/fool,motif/memory,motif/nature,motif/pain,motif/time,motif/well,concept/friendship,concept/nature,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 Mr. Micawber’s enjoyment of his epistolary powers, in describing this
@@ -72459,7 +72459,7 @@ greater, from maintaining too large a retinue of words.
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_06" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_06" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="archetype/hero,archetype/monster,motif/fire,motif/love,motif/night,motif/time,motif/water,motif/well,concept/doubt,concept/honour,concept/hope,concept/imprisonment,concept/poverty,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 Mr. Micawber read on, almost smacking his lips:
@@ -72589,7 +72589,7 @@ objects,
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_07" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_07" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 7)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="motif/death,motif/home,motif/nature,motif/time,motif/well,concept/beauty,concept/doubt,concept/greed,concept/nature,character/david_copperfield,character/uriah_heep,character/wilkins_micawber"></span>
 
 
 For England, [[Home|home]], and [[Beauty]].
@@ -72734,7 +72734,7 @@ as certain as [[Death|death]].’
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_08" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 8)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_08" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 8)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="archetype/innocent,motif/city,motif/clock,motif/dawn,motif/home,motif/love,motif/tears,motif/well,concept/aspiration,concept/hope,concept/poverty,concept/wonder,character/chorus,character/david_copperfield"></span>
 
 
 ‘Or as certain as they used to teach at school (the same school where I
@@ -72858,7 +72858,7 @@ Copperfield,’ assented his wife.
 
 
 
-<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_09" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 9)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52_i_assist_at_an_explosion--part_09" data-title="David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 9)" data-chapter="I ASSIST AT AN EXPLOSION" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/ship,motif/time,motif/well,concept/nature,setting/ship,character/david_copperfield"></span>
 
 
 ‘Capital?’ cried my aunt. ‘But you are doing us a great service--have
@@ -72917,7 +72917,7 @@ the bullocks, as they came by, with the eye of an Australian farmer!
 
 
 
-<span class="atom-split" data-atom="chapter_53_another_retrospect" data-title="David Copperfield — Chapter 53: ANOTHER RETROSPECT" data-chapter="ANOTHER RETROSPECT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_53_another_retrospect" data-title="David Copperfield — Chapter 53: ANOTHER RETROSPECT" data-chapter="ANOTHER RETROSPECT" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/fire,motif/flowers,motif/home,motif/love,motif/marriage,motif/memory,motif/moon,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/history,concept/hope,concept/truth,concept/wonder,form/history,character/david_copperfield"></span>
 
 
 CHAPTER 53. ANOTHER RETROSPECT
@@ -73160,7 +73160,7 @@ are blotted out of my remembrance.
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_01" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 1)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_01" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 1)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/grave,motif/pain,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/self,character/david_copperfield"></span>
 
 
 CHAPTER 54. Mr. MICAWBER’S TRANSACTIONS
@@ -73276,7 +73276,7 @@ in settling this point. Mr. Micawber was of her opinion.
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_02" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 2)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_02" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 2)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="motif/city,motif/home,motif/lamb,motif/lion,motif/nature,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/pride,concept/self,concept/wonder,character/david_copperfield"></span>
 
 
 ‘In reference to our domestic preparations, madam,’ said Mr. Micawber,
@@ -73394,7 +73394,7 @@ worn out?’
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_03" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 3)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_03" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 3)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="motif/dreams,motif/home,motif/journey,motif/love,motif/memory,motif/night,motif/tears,motif/time,motif/well,motif/wind,concept/honour,concept/hope,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘I am quite myself,’ said I, after a pause. ‘We have more cause to think
@@ -73515,7 +73515,7 @@ Traddles.
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_04" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_04" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 4)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/night,motif/silence,motif/time,motif/well,concept/history,concept/self,form/history,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 ‘Right!’ replied my aunt.
@@ -73648,7 +73648,7 @@ transactions--with great form, in a book,’ rejoined Traddles, smiling;
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_05" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 5)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_05" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 5)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/fire,motif/home,motif/night,motif/tears,motif/well,concept/despair,concept/doubt,concept/fear,concept/history,form/history,setting/london,character/david_copperfield,character/speed,character/uriah_heep"></span>
 
 
 ‘Now, what shall we give him, that sum included?’ said my aunt. ‘Agnes,
@@ -73767,7 +73767,7 @@ I sat [[Alone|alone]], as of old, before going to bed, she said:
 
 
 
-<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_06" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 6)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54_mr_micawbers_transactions--part_06" data-title="David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 6)" data-chapter="Mr MICAWBERS TRANSACTIONS" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/chains,motif/city,motif/dust,motif/night,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/hope,concept/slavery,setting/court,setting/london,character/david_copperfield"></span>
 
 
 ‘Indeed I do, aunt. If there ever was a [[Time|time]] when I felt unwilling that
@@ -73875,7 +73875,7 @@ family are at the height of earthly bliss.’
 
 
 
-<span class="atom-split" data-atom="chapter_55_tempest--part_01" data-title="David Copperfield — Chapter 55: TEMPEST (part 1)" data-chapter="TEMPEST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_tempest--part_01" data-title="David Copperfield — Chapter 55: TEMPEST (part 1)" data-chapter="TEMPEST" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/shadow,motif/desire,motif/garden,motif/home,motif/journey,motif/moon,motif/nature,motif/night,motif/road,motif/ship,motif/sleep,motif/tears,motif/time,motif/wind,concept/nature,concept/solitude,setting/london,setting/ship,character/bottom,character/david_copperfield,character/nurse"></span>
 
 
 CHAPTER 55. TEMPEST
@@ -74005,7 +74005,7 @@ the sky was more overcast, and blew hard.
 
 
 
-<span class="atom-split" data-atom="chapter_55_tempest--part_02" data-title="David Copperfield — Chapter 55: TEMPEST (part 2)" data-chapter="TEMPEST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_tempest--part_02" data-title="David Copperfield — Chapter 55: TEMPEST (part 2)" data-chapter="TEMPEST" data-kind="excerpt" data-tags="archetype/monster,motif/clock,motif/fire,motif/nature,motif/night,motif/rose,motif/ship,motif/sleep,motif/storm,motif/time,motif/water,motif/wind,concept/mercy,concept/nature,concept/wonder,form/fragment,setting/london,setting/ship,character/david_copperfield"></span>
 
 
 But, as the [[Night|night]] advanced, the clouds closing in and densely
@@ -74116,7 +74116,7 @@ vivid.
 
 
 
-<span class="atom-split" data-atom="chapter_55_tempest--part_03" data-title="David Copperfield — Chapter 55: TEMPEST (part 3)" data-chapter="TEMPEST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_tempest--part_03" data-title="David Copperfield — Chapter 55: TEMPEST (part 3)" data-chapter="TEMPEST" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/memory,motif/night,motif/rose,motif/sleep,motif/storm,motif/time,motif/water,motif/wind,motif/window,concept/fear,character/david_copperfield"></span>
 
 
 In this state, the waiter’s dismal intelligence about the ships
@@ -74244,7 +74244,7 @@ left. Then, O great Heaven, I saw it, close in upon us!
 
 
 
-<span class="atom-split" data-atom="chapter_55_tempest--part_04" data-title="David Copperfield — Chapter 55: TEMPEST (part 4)" data-chapter="TEMPEST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55_tempest--part_04" data-title="David Copperfield — Chapter 55: TEMPEST (part 4)" data-chapter="TEMPEST" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/hill,motif/home,motif/night,motif/rose,motif/ship,motif/silence,motif/storm,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/hope,setting/ship,character/david_copperfield"></span>
 
 
 One mast was broken short off, six or eight feet from the deck, and lay
@@ -74390,7 +74390,7 @@ with his head upon his arm, as I had often seen him lie at school.
 
 
 
-<span class="atom-split" data-atom="chapter_56_the_new_wound_and_the_old--part_01" data-title="David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 1)" data-chapter="THE NEW WOUND AND THE OLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56_the_new_wound_and_the_old--part_01" data-title="David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 1)" data-chapter="THE NEW WOUND AND THE OLD" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/flag,motif/home,motif/journey,motif/leaves,motif/night,motif/noon,motif/road,motif/tears,motif/time,motif/wind,concept/courage,concept/despair,concept/friendship,concept/hope,concept/truth,setting/court,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 56. THE NEW WOUND, AND THE OLD
@@ -74526,7 +74526,7 @@ vehemence of [[Despair|despair]] and horror, and then clasp them on her face.
 
 
 
-<span class="atom-split" data-atom="chapter_56_the_new_wound_and_the_old--part_02" data-title="David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 2)" data-chapter="THE NEW WOUND AND THE OLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56_the_new_wound_and_the_old--part_02" data-title="David Copperfield — Chapter 56: THE NEW WOUND, AND THE OLD (part 2)" data-chapter="THE NEW WOUND AND THE OLD" data-kind="excerpt" data-tags="archetype/child,archetype/madwoman,motif/death,motif/fire,motif/lightning,motif/love,motif/nature,motif/night,motif/pain,motif/ship,motif/silence,motif/soul,motif/tears,motif/time,concept/nature,concept/pride,concept/self,setting/ship,character/david_copperfield"></span>
 
 
 The handsome lady--so like, oh so like!--regarded me with a fixed look,
@@ -74678,7 +74678,7 @@ hand, and held it to my heart; and all the world seemed [[Death|death]] and
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_emigrants--part_01" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 1)" data-chapter="THE EMIGRANTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_emigrants--part_01" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 1)" data-chapter="THE EMIGRANTS" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/crown,motif/home,motif/love,motif/night,motif/river,motif/ship,motif/time,motif/well,concept/body,concept/doubt,setting/ship,character/david_copperfield"></span>
 
 
 CHAPTER 57. THE EMIGRANTS
@@ -74803,7 +74803,7 @@ in his pocket at the close of the evening.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_emigrants--part_02" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 2)" data-chapter="THE EMIGRANTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_emigrants--part_02" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 2)" data-chapter="THE EMIGRANTS" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/time,concept/despair,concept/friendship,concept/hope,setting/london,character/david_copperfield"></span>
 
 
 ‘The luxuries of the old country,’ said Mr. Micawber, with an intense
@@ -74926,7 +74926,7 @@ highest naval authorities.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_emigrants--part_03" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 3)" data-chapter="THE EMIGRANTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_emigrants--part_03" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 3)" data-chapter="THE EMIGRANTS" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/night,motif/river,motif/rose,motif/time,motif/well,concept/history,concept/hope,form/history,character/david_copperfield"></span>
 
 
 ‘What I chiefly [[Hope|hope]], my dear Mr. Copperfield,’ said Mrs. Micawber,
@@ -75047,7 +75047,7 @@ that they were gone.
 
 
 
-<span class="atom-split" data-atom="chapter_57_the_emigrants--part_04" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 4)" data-chapter="THE EMIGRANTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57_the_emigrants--part_04" data-title="David Copperfield — Chapter 57: THE EMIGRANTS (part 4)" data-chapter="THE EMIGRANTS" data-kind="excerpt" data-tags="motif/desert,motif/love,motif/night,motif/river,motif/rose,motif/ship,motif/soul,motif/tears,motif/time,motif/water,motif/wind,concept/friendship,setting/desert,setting/ship,character/david_copperfield,character/dwarf,character/nurse"></span>
 
 
 In the afternoon of the next day, my old [[Nurse|nurse]] and I went down to
@@ -75150,7 +75150,7 @@ ashore--and fallen darkly upon me.
 
 
 
-<span class="atom-split" data-atom="chapter_58_absence--part_01" data-title="David Copperfield — Chapter 58: ABSENCE (part 1)" data-chapter="ABSENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_absence--part_01" data-title="David Copperfield — Chapter 58: ABSENCE (part 1)" data-chapter="ABSENCE" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/dawn,motif/dreams,motif/ghosts,motif/home,motif/love,motif/nature,motif/night,motif/road,motif/snow,motif/soul,motif/time,motif/well,motif/wind,concept/beauty,concept/friendship,concept/history,concept/hope,concept/nature,concept/wonder,form/history,setting/castle,setting/italy,setting/mountains,character/david_copperfield"></span>
 
 
 CHAPTER 58. ABSENCE
@@ -75260,7 +75260,7 @@ since I left [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_58_absence--part_02" data-title="David Copperfield — Chapter 58: ABSENCE (part 2)" data-chapter="ABSENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_absence--part_02" data-title="David Copperfield — Chapter 58: ABSENCE (part 2)" data-chapter="ABSENCE" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/snow,motif/spring,motif/time,motif/well,motif/winter,concept/endurance,concept/hope,concept/nature,character/david_copperfield"></span>
 
 
 The packet was in my hand. I opened it, and read the writing of Agnes.
@@ -75376,7 +75376,7 @@ me, could I believe that she would [[Love|love]] me now?
 
 
 
-<span class="atom-split" data-atom="chapter_58_absence--part_03" data-title="David Copperfield — Chapter 58: ABSENCE (part 3)" data-chapter="ABSENCE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58_absence--part_03" data-title="David Copperfield — Chapter 58: ABSENCE (part 3)" data-chapter="ABSENCE" data-kind="excerpt" data-tags="motif/home,motif/ship,motif/time,motif/water,concept/honour,concept/self,setting/ship,character/david_copperfield"></span>
 
 
 I had always felt my weakness, in comparison with her constancy and
@@ -75423,7 +75423,7 @@ never to be mine. She might have been, but that was past!
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_01" data-title="David Copperfield — Chapter 59: RETURN (part 1)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_01" data-title="David Copperfield — Chapter 59: RETURN (part 1)" data-chapter="RETURN" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/cross,motif/fire,motif/garden,motif/hill,motif/home,motif/silence,motif/storm,motif/time,motif/well,motif/window,concept/doubt,concept/hope,setting/cathedral,setting/court,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 59. RETURN
@@ -75546,7 +75546,7 @@ settled in my own mind that there was no [[Hope|hope]] for him.
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_02" data-title="David Copperfield — Chapter 59: RETURN (part 2)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_02" data-title="David Copperfield — Chapter 59: RETURN (part 2)" data-chapter="RETURN" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/love,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/honour,concept/union,form/inscription,setting/court,setting/london,character/david_copperfield"></span>
 
 
 Being very anxious to see the dear old fellow, nevertheless, I
@@ -75694,7 +75694,7 @@ delightful.’
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_03" data-title="David Copperfield — Chapter 59: RETURN (part 3)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_03" data-title="David Copperfield — Chapter 59: RETURN (part 3)" data-chapter="RETURN" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/desire,motif/home,motif/pain,motif/sleep,motif/time,motif/well,concept/beauty,concept/truth,character/david_copperfield"></span>
 
 
 Observing that he slightly faltered, and comprehending that in the
@@ -75829,7 +75829,7 @@ Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_04" data-title="David Copperfield — Chapter 59: RETURN (part 4)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_04" data-title="David Copperfield — Chapter 59: RETURN (part 4)" data-chapter="RETURN" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/fire,motif/home,motif/love,motif/night,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,concept/faith,concept/pride,concept/self,character/david_copperfield,character/kent,character/queen"></span>
 
 
 They were a perfect nest of roses; they looked so wholesome and fresh.
@@ -75929,7 +75929,7 @@ my headlong passion. What I reaped, I had sown.
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_05" data-title="David Copperfield — Chapter 59: RETURN (part 5)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_05" data-title="David Copperfield — Chapter 59: RETURN (part 5)" data-chapter="RETURN" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/hope,form/history,character/david_copperfield,character/edmund"></span>
 
 
 I was thinking. And had I truly disciplined my heart to this, and could
@@ -76069,7 +76069,7 @@ I returned: ‘what are they doing as to this?’
 
 
 
-<span class="atom-split" data-atom="chapter_59_return--part_06" data-title="David Copperfield — Chapter 59: RETURN (part 6)" data-chapter="RETURN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59_return--part_06" data-title="David Copperfield — Chapter 59: RETURN (part 6)" data-chapter="RETURN" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/marriage,motif/nature,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/melancholy,concept/nature,character/david_copperfield"></span>
 
 
 Mr. Chillip shook his head, stirred his negus, and sipped it.
@@ -76182,7 +76182,7 @@ other designation.
 
 
 
-<span class="atom-split" data-atom="chapter_60_agnes--part_01" data-title="David Copperfield — Chapter 60: AGNES (part 1)" data-chapter="AGNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_agnes--part_01" data-title="David Copperfield — Chapter 60: AGNES (part 1)" data-chapter="AGNES" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/lover,motif/fire,motif/grave,motif/home,motif/horse,motif/marriage,motif/night,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/pride,concept/renunciation,form/novel,character/david_copperfield,character/uriah_heep"></span>
 
 
 CHAPTER 60. AGNES
@@ -76322,7 +76322,7 @@ Everything was as it used to be, in the happy [[Time|time]].
 
 
 
-<span class="atom-split" data-atom="chapter_60_agnes--part_02" data-title="David Copperfield — Chapter 60: AGNES (part 2)" data-chapter="AGNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_agnes--part_02" data-title="David Copperfield — Chapter 60: AGNES (part 2)" data-chapter="AGNES" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/flowers,motif/garden,motif/grave,motif/home,motif/journey,motif/leaves,motif/love,motif/memory,motif/night,motif/road,motif/sleep,motif/time,motif/water,motif/well,motif/window,concept/self,concept/wonder,character/david_copperfield"></span>
 
 
 I stood in a [[Window|window]], and looked across the ancient street at the
@@ -76460,7 +76460,7 @@ we three sat together, talking of the bygone days.
 
 
 
-<span class="atom-split" data-atom="chapter_60_agnes--part_03" data-title="David Copperfield — Chapter 60: AGNES (part 3)" data-chapter="AGNES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60_agnes--part_03" data-title="David Copperfield — Chapter 60: AGNES (part 3)" data-chapter="AGNES" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/love,motif/memory,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/wind,concept/hope,concept/nature,concept/union,character/david_copperfield"></span>
 
 
 ‘My part in them,’ said Mr. Wickfield, shaking his white head, ‘has much
@@ -76607,7 +76607,7 @@ when I loved her here.
 
 
 
-<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_01" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 1)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_01" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 1)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/moon,motif/night,motif/soul,motif/time,motif/window,setting/court,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 61. I AM SHOWN TWO INTERESTING PENITENTS
@@ -76740,7 +76740,7 @@ I was Lord Chancellor, we couldn’t do this!’
 
 
 
-<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_02" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 2)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_02" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 2)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/fire,motif/grave,motif/prison,motif/time,motif/well,concept/doubt,concept/self,character/david_copperfield"></span>
 
 
 ‘You would do something, whatever you were, my dear Traddles,’ thought
@@ -76869,7 +76869,7 @@ as I could.
 
 
 
-<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_03" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_03" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 3)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt" data-tags="motif/love,motif/time,motif/well,concept/deception,concept/forgiveness,concept/freedom,concept/hope,concept/vanity,concept/wonder,form/hymn,setting/london,character/david_copperfield,character/uriah_heep"></span>
 
 
 And here again, I had great misgivings. I found as prevalent a fashion
@@ -76996,7 +76996,7 @@ party.’
 
 
 
-<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_04" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 4)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61_i_am_shown_two_interesting_pen--part_04" data-title="David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS (part 4)" data-chapter="I AM SHOWN TWO INTERESTING PEN" data-kind="excerpt" data-tags="motif/death,motif/home,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,histref/america,setting/america,setting/court,character/chorus,character/david_copperfield,character/dwarf"></span>
 
 
 I observed that several gentlemen were shading their eyes, each with one
@@ -77169,7 +77169,7 @@ ridden hard; for it’s the sooner ridden to [[Death|death]].’
 
 
 
-<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_01" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 1)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_01" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 1)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/chalk,motif/dreams,motif/fire,motif/hill,motif/home,motif/horse,motif/love,motif/night,motif/pain,motif/silence,motif/snow,motif/tears,motif/time,motif/well,motif/wind,motif/window,motif/winter,concept/ambition,concept/doubt,concept/hope,concept/truth,character/david_copperfield"></span>
 
 
 CHAPTER 62. A LIGHT SHINES ON MY WAY
@@ -77306,7 +77306,7 @@ as if they were drawn on a huge slate!
 
 
 
-<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_02" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 2)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_02" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 2)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/friendship,concept/honour,concept/hope,concept/nature,concept/self,character/david_copperfield"></span>
 
 
 I found Agnes [[Alone|alone]]. The little girls had gone to their own homes now,
@@ -77439,7 +77439,7 @@ and greater one of loving you as I do!’
 
 
 
-<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_03" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62_a_light_shines_on_my_way--part_03" data-title="David Copperfield — Chapter 62: A LIGHT SHINES ON MY WAY (part 3)" data-chapter="A LIGHT SHINES ON MY WAY" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/road,motif/stars,motif/tears,motif/time,motif/well,motif/window,motif/winter,concept/aspiration,concept/despair,concept/pride,concept/truth,character/david_copperfield"></span>
 
 
 Still weeping, but not sadly--joyfully! And clasped in my arms as she
@@ -77587,7 +77587,7 @@ though we were so happy.
 
 
 
-<span class="atom-split" data-atom="chapter_63_a_visitor--part_01" data-title="David Copperfield — Chapter 63: A VISITOR (part 1)" data-chapter="A VISITOR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_a_visitor--part_01" data-title="David Copperfield — Chapter 63: A VISITOR (part 1)" data-chapter="A VISITOR" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/flowers,motif/home,motif/journey,motif/memory,motif/night,motif/spring,motif/storm,motif/time,motif/water,motif/well,motif/window,concept/self,concept/wonder,setting/london,character/david_copperfield"></span>
 
 
 CHAPTER 63. A VISITOR
@@ -77715,7 +77715,7 @@ it.’
 
 
 
-<span class="atom-split" data-atom="chapter_63_a_visitor--part_02" data-title="David Copperfield — Chapter 63: A VISITOR (part 2)" data-chapter="A VISITOR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_a_visitor--part_02" data-title="David Copperfield — Chapter 63: A VISITOR (part 2)" data-chapter="A VISITOR" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/death,motif/fire,motif/grave,motif/journey,motif/marriage,motif/rose,motif/ship,motif/time,motif/well,concept/beauty,concept/honour,concept/wonder,setting/ship,character/david_copperfield,character/helena,character/wilkins_micawber"></span>
 
 
 He dropped his voice as he said these words, and the gravity I so [[Well|well]]
@@ -77871,7 +77871,7 @@ Mell, were particularly remarkable.’
 
 
 
-<span class="atom-split" data-atom="chapter_63_a_visitor--part_03" data-title="David Copperfield — Chapter 63: A VISITOR (part 3)" data-chapter="A VISITOR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63_a_visitor--part_03" data-title="David Copperfield — Chapter 63: A VISITOR (part 3)" data-chapter="A VISITOR" data-kind="excerpt" data-tags="motif/grave,motif/memory,motif/ship,concept/melancholy,form/inscription,setting/london,setting/ship,character/david_copperfield,character/wilkins_micawber"></span>
 
 
 I was looking back to the name of Doctor Mell, pleased to have
@@ -77949,7 +77949,7 @@ Davy.’
 
 
 
-<span class="atom-split" data-atom="chapter_64_a_last_retrospect" data-title="David Copperfield — Chapter 64: A LAST RETROSPECT" data-chapter="A LAST RETROSPECT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_64_a_last_retrospect" data-title="David Copperfield — Chapter 64: A LAST RETROSPECT" data-chapter="A LAST RETROSPECT" data-kind="chapter" data-tags="archetype/child,motif/birds,motif/desert,motif/desire,motif/garden,motif/home,motif/leaves,motif/night,motif/road,motif/ship,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/education,concept/hope,concept/pride,form/dirge,setting/court,setting/desert,setting/ship,character/betsey_trotwood,character/david_copperfield,character/julia,character/nurse"></span>
 
 
 CHAPTER 64. A LAST RETROSPECT

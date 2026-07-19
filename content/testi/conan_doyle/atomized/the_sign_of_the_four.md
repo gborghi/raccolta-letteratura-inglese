@@ -860,7 +860,7 @@ This collection of twelve stories were originally published as single stories in
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE SIGN OF THE FOUR — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE SIGN OF THE FOUR — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/detective,character/mary_morstan,character/sherlock_holmes"></span>
 
 
 CHAPTER I
@@ -924,7 +924,7 @@ I had opened my mouth to reply to this tirade, when with a crisp knock our landl
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE SIGN OF THE FOUR — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE SIGN OF THE FOUR — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="setting/london,character/mary_morstan,character/sherlock_holmes"></span>
 
 
 CHAPTER II
@@ -973,7 +973,7 @@ I sat in the window with the volume in my hand, but my thoughts were far from th
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE SIGN OF THE FOUR — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE SIGN OF THE FOUR — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/city,motif/journey,motif/river,setting/london,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER III
@@ -1010,7 +1010,7 @@ We had, indeed, reached a questionable and forbidding neighbourhood. Long lines 
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE SIGN OF THE FOUR — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE SIGN OF THE FOUR — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER IV
@@ -1058,7 +1058,7 @@ At the mention of this gigantic sum we all stared at one another open-eyed. Miss
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE SIGN OF THE FOUR — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE SIGN OF THE FOUR — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/city,character/sherlock_holmes"></span>
 
 
 CHAPTER V
@@ -1125,7 +1125,7 @@ The little man obeyed in a half-stupefied fashion, and we heard him stumbling do
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE SIGN OF THE FOUR — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE SIGN OF THE FOUR — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/detective,motif/journey,setting/london,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER VI
@@ -1210,7 +1210,7 @@ He led me out to the head of the stair. “This unexpected occurrence,” he sai
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE SIGN OF THE FOUR — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE SIGN OF THE FOUR — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/detective,motif/journey,concept/revenge,setting/london,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER VII
@@ -1298,7 +1298,7 @@ Sherlock Holmes and I looked blankly at each other, and then burst simultaneousl
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE SIGN OF THE FOUR — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE SIGN OF THE FOUR — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/detective,motif/journey,motif/river,setting/london,character/jonathan_small,character/mary_morstan,character/sherlock_holmes"></span>
 
 
 CHAPTER VIII
@@ -1389,7 +1389,7 @@ He took up his violin from the corner, and as I stretched myself out he began to
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE SIGN OF THE FOUR — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE SIGN OF THE FOUR — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/river,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER IX
@@ -1496,7 +1496,7 @@ We both started in our chairs. There was Holmes sitting close to us with an air 
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE SIGN OF THE FOUR — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE SIGN OF THE FOUR — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/city,motif/river,setting/london,character/jonathan_small"></span>
 
 
 CHAPTER X
@@ -1553,7 +1553,7 @@ It was well that we had so clear a view of him. Even as we looked he plucked out
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE SIGN OF THE FOUR — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE SIGN OF THE FOUR — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/river,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER XI
@@ -1603,7 +1603,7 @@ She looked at me with a quick, questioning smile. “Why do you say that?” she
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE SIGN OF THE FOUR — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE SIGN OF THE FOUR — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="archetype/detective,archetype/villain,motif/city,motif/journey,motif/river,setting/london,character/jonathan_small,character/sherlock_holmes"></span>
 
 
 CHAPTER XII

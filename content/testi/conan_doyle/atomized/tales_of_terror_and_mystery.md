@@ -1215,7 +1215,7 @@ THAT LITTLE SQUARE BOX
 
 
 
-<span class="atom-split" data-atom="story_01_the_leather_funnel" data-title="TALES OF TERROR AND MYSTERY — The Leather Funnel" data-chapter="The Leather Funnel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_the_leather_funnel" data-title="TALES OF TERROR AND MYSTERY — The Leather Funnel" data-chapter="The Leather Funnel" data-kind="story" data-tags="archetype/ghost,motif/dreams"></span>
 
 
 The Leather Funnel
@@ -1320,7 +1320,7 @@ I sat in silence, overwhelmed at the extraordinary nature of the incident, and a
 
 
 
-<span class="atom-split" data-atom="story_02_the_new_catacomb" data-title="TALES OF TERROR AND MYSTERY — The New Catacomb" data-chapter="The New Catacomb" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_new_catacomb" data-title="TALES OF TERROR AND MYSTERY — The New Catacomb" data-chapter="The New Catacomb" data-kind="story" data-tags="archetype/villain,concept/fear,setting/london"></span>
 
 
 The New Catacomb
@@ -1452,7 +1452,7 @@ Some two months afterwards the following paragraph made the round of the Europea
 
 
 
-<span class="atom-split" data-atom="story_03_the_case_of_lady_sannox" data-title="TALES OF TERROR AND MYSTERY — The Case of Lady Sannox" data-chapter="The Case of Lady Sannox" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_case_of_lady_sannox" data-title="TALES OF TERROR AND MYSTERY — The Case of Lady Sannox" data-chapter="The Case of Lady Sannox" data-kind="story" data-tags="archetype/ghost,archetype/villain,motif/blood,motif/dreams,concept/fear,setting/london"></span>
 
 
 The Case of Lady Sannox
@@ -1738,7 +1738,7 @@ Lord Southerton! One of the richest peers in England! I could not believe my ear
 
 
 
-<span class="atom-split" data-atom="story_04_tales_of_mystery" data-title="TALES OF TERROR AND MYSTERY — Tales of Mystery" data-chapter="Tales of Mystery" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_tales_of_mystery" data-title="TALES OF TERROR AND MYSTERY — Tales of Mystery" data-chapter="Tales of Mystery" data-kind="story" data-tags="archetype/detective,motif/blood,motif/secrets,motif/supernatural,setting/london"></span>
 
 
 Tales of Mystery
@@ -1817,7 +1817,7 @@ And so the matter stood, and has continued to stand up to the present year of 18
 
 
 
-<span class="atom-split" data-atom="story_05_the_beetle_hunter" data-title="TALES OF TERROR AND MYSTERY — The Beetle-Hunter" data-chapter="The Beetle Hunter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_beetle_hunter" data-title="TALES OF TERROR AND MYSTERY — The Beetle-Hunter" data-chapter="The Beetle Hunter" data-kind="story" data-tags="motif/blood,setting/london"></span>
 
 
 The Beetle-Hunter
@@ -1972,7 +1972,7 @@ So that was my visit to Sir Thomas Rossiter, the famous beetle-hunter, and that 
 
 
 
-<span class="atom-split" data-atom="story_06_the_man_with_the_watches" data-title="TALES OF TERROR AND MYSTERY — The Man with the Watches" data-chapter="The Man with the Watches" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_man_with_the_watches" data-title="TALES OF TERROR AND MYSTERY — The Man with the Watches" data-chapter="The Man with the Watches" data-kind="story" data-tags="archetype/detective,archetype/villain,motif/blood,motif/secrets,setting/london"></span>
 
 
 The Man with the Watches
@@ -2041,7 +2041,7 @@ To this elaborate and plausible hypothesis the answer of the police and of the c
 
 
 
-<span class="atom-split" data-atom="story_07_the_japanned_box" data-title="TALES OF TERROR AND MYSTERY — The Japanned Box" data-chapter="The Japanned Box" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_japanned_box" data-title="TALES OF TERROR AND MYSTERY — The Japanned Box" data-chapter="The Japanned Box" data-kind="story" data-tags="archetype/ghost,motif/blood,concept/fear,setting/london"></span>
 
 
 The Japanned Box
@@ -2128,7 +2128,7 @@ With halting words I explained it all, my neuralgia, the narcotic, my luckless s
 
 
 
-<span class="atom-split" data-atom="story_08_the_black_doctor" data-title="TALES OF TERROR AND MYSTERY — The Black Doctor" data-chapter="The Black Doctor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_black_doctor" data-title="TALES OF TERROR AND MYSTERY — The Black Doctor" data-chapter="The Black Doctor" data-kind="story" data-tags="motif/blood,motif/secrets,concept/fear"></span>
 
 
 The Black Doctor
@@ -2224,7 +2224,7 @@ As to Dr. Aloysius Lana, he returned to the village from which he had made so dr
 
 
 
-<span class="atom-split" data-atom="story_09_the_jews_breastplate" data-title="TALES OF TERROR AND MYSTERY — The Jew’s Breastplate" data-chapter="The Jews Breastplate" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_jews_breastplate" data-title="TALES OF TERROR AND MYSTERY — The Jew’s Breastplate" data-chapter="The Jews Breastplate" data-kind="story" data-tags="archetype/villain,concept/fear"></span>
 
 
 The Jew’s Breastplate

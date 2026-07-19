@@ -875,7 +875,7 @@ prodigious height.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Ms. Found in a Bottle (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Ms. Found in a Bottle (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/moon,motif/night,motif/rose,motif/ship,motif/water,motif/well,motif/wheel,motif/wind,concept/education,concept/fear,concept/imagination,concept/madness,concept/truth,setting/ship,character/bottom"></span>
 
 
 Qui n’a plus qu’un moment a vivre
@@ -1071,7 +1071,7 @@ terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Ms. Found in a Bottle (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Ms. Found in a Bottle (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/death,motif/desert,motif/night,motif/noon,motif/ship,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/hope,concept/wonder,setting/desert,setting/ship,character/bottom"></span>
 
 
 mountainous and foaming ocean within which we were engulfed.
@@ -1247,7 +1247,7 @@ threw a fitful brilliancy upon our deck. Casting my eyes upwards,
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Ms. Found in a Bottle (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Ms. Found in a Bottle (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/nature,motif/rose,motif/ship,motif/soul,motif/supernatural,motif/time,motif/water,concept/doubt,concept/fear,concept/nature,concept/self,form/novel,setting/ship,character/bottom"></span>
 
 
 I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
@@ -1443,7 +1443,7 @@ I have made many observations lately upon the structure of the
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Ms. Found in a Bottle (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Ms. Found in a Bottle (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,motif/ghosts,motif/memory,motif/ship,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/doubt,concept/eternity,concept/fear,concept/wonder,setting/ship"></span>
 
 
 vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
@@ -1643,7 +1643,7 @@ fall athwart my path in the wild glare of the battle-lanterns, I
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Ms. Found in a Bottle (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Ms. Found in a Bottle (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/death,motif/night,motif/ship,motif/soul,motif/time,motif/water,motif/wind,concept/despair,concept/hope,setting/ship"></span>
 
 
 feel as I have never felt before, although I have been all my

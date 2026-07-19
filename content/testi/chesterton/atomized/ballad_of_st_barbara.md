@@ -487,7 +487,7 @@ che si aprì come l'occhio di Dio su [[Paris|Parigi]] nella pianura.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Ballad_of_St_Barbara (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Ballad_of_St_Barbara (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,archetype/tyrant,motif/birds,motif/blood,motif/chains,motif/dance,motif/death,motif/home,motif/love,motif/moon,motif/night,motif/pain,motif/soul,motif/summer,motif/time,motif/wheel,motif/wind,motif/window,concept/beauty,concept/despair,concept/doubt,concept/faith,setting/paris,character/queen"></span>
 
 
 # Ballad of St Barbara

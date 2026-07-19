@@ -251,7 +251,7 @@ Ora, è un'assurdità dire che una simile [[philosophy|filosofia]] non possa ess
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Compulsory_Education (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Compulsory_Education (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,concept/education,concept/survival,form/comedy,form/tragedy,setting/london"></span>
 
 
 # Compulsory [[Education]]
@@ -387,7 +387,7 @@ dei selvaggi Fondamentalisti del Tennessee.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Compulsory_Education (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Compulsory_Education (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/lover,motif/dance,motif/nature,motif/time,concept/education,concept/history,concept/nature,concept/paradox,concept/self,form/history,character/christ,character/queen,character/queen_elizabeth"></span>
 
 
 The problem arises out of compulsory [[Education|education]].  It is the great [[Paradox|paradox]]
@@ -474,7 +474,7 @@ Ora, è un'assurdità dire che una simile [[philosophy|filosofia]] non possa ess
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Compulsory_Education (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Compulsory_Education (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/education,concept/truth,histref/bible"></span>
 
 
 It is obviously most unjust that the old believer should be

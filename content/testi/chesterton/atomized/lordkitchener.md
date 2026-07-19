@@ -1494,7 +1494,8 @@ _Bream's Buildings, [[London]], E.C. 4_.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/dreams,motif/flag,motif/garden,motif/love,motif/wind,concept/doubt,form/allegory,form/epic,form/sketch,setting/egypt,setting/germany,setting/london,setting/paris,setting/russia,character/horatio"></span>
+
 
 
 
@@ -1839,7 +1840,7 @@ attraverso il [[Garden|Giardino]] dell'Eden o si aprisse una stazione ferroviari
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="LordKitchener (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="LordKitchener (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,archetype/prophet,motif/city,motif/desert,motif/moon,motif/time,motif/well,concept/doubt,concept/paradox,concept/solitude,form/sketch,histref/crusades,histref/islam,setting/desert,setting/egypt,setting/mountains"></span>
 
 
 Jerusalem. But the contrast between antiquity and modernity was not
@@ -2195,7 +2196,7 @@ di nuovo e ancora da una mera ripetizione della rivoluzione che lo fondò
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="LordKitchener (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="LordKitchener (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/hero,archetype/prophet,motif/city,motif/desert,motif/journey,motif/lion,motif/river,motif/swallow,motif/well,concept/apocalypse,concept/courage,concept/education,concept/faith,concept/fanaticism,form/fable,form/tragedy,setting/desert,setting/egypt"></span>
 
 
 it. There are no sacraments; the only thing that can happen is a sort
@@ -2543,7 +2544,7 @@ sollevato di nuovo questo selciato in un umano bastione o barricata,
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="LordKitchener (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="LordKitchener (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/city,motif/desert,motif/moon,motif/nature,motif/night,motif/noon,motif/prayer,motif/river,motif/road,motif/silence,motif/sleep,motif/time,concept/greed,concept/nature,concept/resurrection,form/tragedy,histref/islam,setting/desert"></span>
 
 
 is not a small thing, nor a thing that could possibly be done even by
@@ -2887,7 +2888,7 @@ lunga lotta contro i secoli, contro epoche d'accidia e il grande
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="LordKitchener (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="LordKitchener (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/desert,motif/machine,motif/memory,motif/ship,motif/silence,motif/time,motif/well,concept/body,form/parable,form/sketch,setting/desert,setting/egypt,setting/germany,setting/london,setting/russia,setting/ship,character/sunday"></span>
 
 
 against a racial decline that men had accepted as a doom. On the
@@ -3239,7 +3240,7 @@ tratto degli anni la relativa cavalleria e nobiltà dei suoi morti
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="LordKitchener (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="LordKitchener (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/desert,motif/home,motif/journey,motif/memory,motif/nature,motif/time,motif/well,concept/exile,concept/history,concept/nature,concept/truth,form/history,form/novel,setting/desert,setting/germany,setting/russia,character/buckingham"></span>
 
 
 enemies of the Soudan, and to announce that in the heart of Europe, in
@@ -3591,7 +3592,7 @@ ogni cosa con un test bismarckiano di [[Blood|sangue]] e ferro. Tendeva a
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="LordKitchener (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="LordKitchener (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/silence,motif/time,concept/history,concept/self,form/history,setting/russia"></span>
 
 
 neglect the very real disadvantages, even in practical life, which lie
@@ -3943,7 +3944,7 @@ grande esercito; è stato quasi impossibile descriverla ai
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="LordKitchener (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="LordKitchener (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="archetype/tyrant,motif/crown,motif/death,motif/leaves,motif/spring,motif/time,motif/well,concept/hope,concept/union,setting/court,setting/egypt,setting/russia"></span>
 
 
 the chief conscript countries, which take a great army for granted.
@@ -4295,7 +4296,7 @@ burocratico dei britannici in Oriente lavorava sull'idea del
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="LordKitchener (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="LordKitchener (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/desert,motif/journey,motif/ship,concept/fear,concept/truth,form/allegory,form/epic,form/tragedy,setting/desert,setting/germany,setting/london,setting/russia,setting/ship,character/queen"></span>
 
 
 the [[Fear|fear]] of [[Russia]]. It is needless here to explain that sentiment, and

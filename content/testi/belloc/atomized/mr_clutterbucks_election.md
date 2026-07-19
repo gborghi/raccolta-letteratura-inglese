@@ -2649,7 +2649,7 @@ It was not until Mr. Bailey had successfully persuaded Mrs. Clutterbuck herself 
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Mr. Clutterbuck’s Election — Chapter 14" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Mr. Clutterbuck’s Election — Chapter 14" data-chapter="Chapter 01" data-kind="chapter" data-tags="character/g_k_chesterton"></span>
 
 
 CHAPTER XIV
@@ -2669,7 +2669,7 @@ Idem Sentire de Republicâ ...
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER I
@@ -2707,7 +2707,7 @@ Mr. Clutterbuck’s reply to this was to approach a chiffonier, to squat down su
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 When Mr. Boyle had drunk the first glass of that whiskey which Mr. Pitt had so kindly recommended to Mr. Clutterbuck, he was moved to continue:
@@ -2767,7 +2767,7 @@ Eighteen years of married life had rendered Mrs. Clutterbuck’s features and ma
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 She had no children, and was active upon those four societies which, at the time of which I speak, formed a greater power for social good than any others in Croydon — the Charity Organisation Society, the Society for the Prevention of Cruelty to Animals, a similar society which guaranteed a similar immunity to the children of the poor, and the Association for the Reform of the Abuses prevalent in the Congo “Free” State.
@@ -2797,7 +2797,7 @@ The partnership of which Mr. Boyle was a member was evidently sound — the name
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 He went down to the docks; he entered the warehouse, and was there astonished to observe so many cases, each so full of brine, and that brine so packed with such a vast assemblage of eggs held beneath the surface by wire lattices, that an impression of incalculable wealth soon occupied the whole of his spirit; for he perceived not only the paltry million in which Mr. Boyle had apparently embarked some private moneys (the boxes were marked with his name), but the vast stores of perhaps twenty other merchants who had rallied round England in her hour of need and had prepared an inexhaustible supply of sterilised organic albumenoids for the gallant lads at the front.
@@ -2839,7 +2839,7 @@ He was contented with himself, he appreciated, not without justice, the rapidity
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 He returned late from his lunch, which he had rounded up with coffee in the company of a few friends. It was nearly four. He asked carelessly if any papers had reached him from Mr. Boyle’s office or elsewhere, and, finding they had been delayed, he went home without more ado, to return for them in the morning. He reached Croydon not a little exhilarated and pleased at the successes of the day — for he had had minor successes also; he had sold Pernambucos at 16½ just before they fell. In such a mood he committed the imprudence of making Mrs. Clutterbuck aware, though in the vaguest terms, that her opinion of Mr. Boyle was harsh, and that his own judgment of the man had risen not a little from what he had seen that day. The lady’s virtuous silence spurred him to further arguments, and though his confidences entered into no details and certainly betrayed nothing of the main business, yet the next morning as he reviewed the conversation in his mind, he regretted it.
@@ -2865,7 +2865,7 @@ He was at the point of a very grave decision — I mean of going on to his lawye
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 1 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/greed_and_money,concept/deception,concept/satire_of_society,form/novel,form/satire,histref/boer_war,setting/london"></span>
 
 
 It was characteristic of the Baron de Czernwitz, and in some sort an explanation of his future success in our business world, ever so suspicious of the foreigner, that the moment he had heard Mr. Clutterbuck’s name and business, he turned to him, in spite of his many preoccupations, with the utmost courtesy and said:
@@ -2901,7 +2901,7 @@ So true is it that probity and generosity go hand in hand with success in the wo
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/greed_and_money,concept/deception,concept/satire_of_society,form/novel,form/satire,histref/boer_war,setting/england"></span>
 
 
 CHAPTER II
@@ -2939,7 +2939,7 @@ Mr. Clutterbuck must not be blamed for an anxiety common to every man of affairs
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/greed_and_money,concept/power_and_corruption,concept/empire_and_imperialism,form/satire,histref/boer_war,histref/british_empire,setting/south_africa"></span>
 
 
 That temper did not betray him. The Government, at the close of the war were more than just — they were bountiful to those who, in the expectation of a prolonged conflict, had accumulated stores for the army.
@@ -2961,7 +2961,7 @@ The friend whose advice Mr. Clutterbuck had followed — a private gentleman —
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 He had not intended to dispose of them at so early a date, for he was confident, as was the rest of the public, that they would go to par. His action, due to a sudden accession of nervousness and to a contemplation of the large profit already acquired, turned out, however (as is so often the case with the sudden decisions of men with business instinct!) profoundly just. In one transaction, indeed, a few days later, Curicantis were quoted at ten shillings and sixpence, but it is not certain that they really changed hands at that price, and certainly they went no higher.
@@ -2995,7 +2995,7 @@ After the fruitful interference of the Board of Trade.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER III
@@ -3027,7 +3027,7 @@ The concessionaires, eager as they were to work in the vineyard, could hardly be
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/greed_and_money,concept/deception,concept/hypocrisy,concept/empire_and_imperialism,form/satire,setting/italy"></span>
 
 
 Put in terms of Eternal Life, the shares in the new company of the Manatasara Syndicate which was to uplift so many poor negroes and to free so many human souls, were more precious than pearl or ruby and above the price of chrysoprase, but in the cold terms of our mortal markets this month of April found them utterly unsaleable. Yet the capital required was small, one considerable purchase would have been enough to start the sluggish stream; and if it be asked why, under these circumstances, Mr. Hatton did not use his considerable financial influence to obtain the first subscriptions, the answer is that he was far too high-minded to persuade any man, even for the noblest of ideals, to the smallest risk for which he might later seem responsible. As to his own means, ardent as was his enthusiasm for the cause of our black brothers, he owed it to his wife, to his bright-eyed boy, and to his aged father-in-law, Sir Charles Hatton of Hatton Hall, who was penniless, to risk no portion of the family fortune in any speculation no matter how deserving.
@@ -3057,7 +3057,7 @@ He spent the first of those days in visiting, in company with his second cousin 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/greed_and_money,concept/deception,form/satire"></span>
 
 
 With the fact that a large investment must of necessity be made in a few days he was already familiar: his master had sold out and had placed to his current account at Parr’s the important sum destined to meet it. But he was necessarily in ignorance of the precise security in which that sum was to be placed, for Mr. Clutterbuck had come to his final determination but a little while before his illness had struck him.
@@ -3091,7 +3091,7 @@ In the first week of May Mr. Clutterbuck, his crescent of a moustache untrimmed,
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 He was languid and utterly indifferent, as convalescents are, to what had hitherto been his chief interests, but as a matter of wifely duty Mrs. Clutterbuck felt herself bound to read him at full length the [[City]] article in the Times, and as she did so on the third day her philanthropic and evangelising eye was caught, in the midst of names that had no meaning for her, by the one name Manatasara. It was the feature of the moment that the new company had been successfully launched.
@@ -3139,7 +3139,7 @@ As for Mr. Clutterbuck, he now perceived quite clearly (and was astonished to di
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 “I supposed they’ve had their cheque?”
@@ -3179,7 +3179,7 @@ The sometime Mayor of Rome; not to be confounded with Sir Henry Nathan, whom we 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER IV
@@ -3213,7 +3213,7 @@ Doubtless he had overbuilt, as ordinary standards of wealth are counted, but the
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/vanity,form/satire,setting/london"></span>
 
 
 Mary Smith had about her every quality that entitled her to lead the world, which she in fact did lead with admirable power. She had been born a Bailey. Her mother was a Bunting; she was therefore of that well established middle rank which forms perhaps the strongest core in our governing class. Her husband, Barttelot Smith, of Bar Harbour, Maine, and the New Bessemer, Birmingham, Alabama, had died in 1891, after a very brief married life, which had barely sufficed to introduce him to the Old Country and a world of which the hours and the digestion were quite unsuitable to him.
@@ -3241,7 +3241,7 @@ The converse is not true at all; our public men would accept or reject such an i
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/vanity,form/satire,setting/london"></span>
 
 
 The varying codes of varying strata of society are the cause of endless misunderstandings; such a misunderstanding might have arisen now, but once again it was a woman that saved the jar. Mary Smith had unwittingly gone near to the line of offence, in the eyes of Mr. Clutterbuck at least, when she posted her well-meant card for July 2. Mrs. Clutterbuck had not only a wider social experience than her husband, but could also rely upon the instinctive psychology of her sex. She overruled at once, and very wisely, the petty objections of her husband to the form in which the acquaintance had been offered them, and returned, by the morning’s post in the third person and upon pink paper, an acceptance to the kindly summons.
@@ -3315,7 +3315,7 @@ Mrs. Smith gazed at her imploringly. “Don’t play the fool, Vic,” she begge
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Oh, your perpetual Peabody Yid,” began Charlie.
@@ -3355,7 +3355,7 @@ Mr. Clutterbuck affirmed the grandeur and admirable appointment of the house, bu
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/class_conflict,concept/vanity,form/satire,setting/london"></span>
 
 
 Upstairs, Mary Smith, squatting familiarly beside Mrs. Clutterbuck, giggled into her private ear with that delightful familiarity which had ever put her guests into her intimate confidence, and swept away every vestige of gêne and of disparity in status. This charm of manner it was for which those whom she still honoured chiefly loved her, and which those whom she had seen fit to drop most poignantly regretted.
@@ -3377,7 +3377,7 @@ They left at half-past eleven, and all the way home Mrs. Clutterbuck complained 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER V
@@ -3409,7 +3409,7 @@ Boswell Delacourt was not exactly a relative of Charlie Fitzgerald’s, except i
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/democracy,concept/money_and_avarice,concept/hypocrisy,form/satire"></span>
 
 
 The new Secretary had passed the whole summer without a word of complaint, cooped up in the new house at Caterham; he had spent his energies in suggesting the purchase of books, the removal of pictures, and the renaming of the estate; he had recommended horses, cigars, wines, traps, motors, and jewellery, and sold them again with ready decision when he thought them unworthy; he had attended to all the correspondence, signed nearly all the cheques, received payment against all exchanges, and spared his host every sort of financial worry; he had compelled not a few of his own friends, in spite of their intense reluctance, to spend Saturday to Monday under that roof; with noble perseverance he had run the light Panhard himself for incredible distances and at a speed which Mr. Clutterbuck could hardly bear; he had done all these things for nearly two months without a respite, when, late in September, having forsworn all opportunities to shoot, he tackled the great affair.
@@ -3455,7 +3455,7 @@ Mr. Clutterbuck’s mind moved forward by one cog, and he saw that the talk had 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 “Who are the Stanfords, Mr. Fitzgerald?” broke in the master of the house, clutching like a drowning man at a straw.
@@ -3489,7 +3489,7 @@ The Opposition majority, Delacourt admitted, was a high one — no less than 851
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 As for Mr. Clutterbuck, he sat that night upon a throne.
@@ -3525,7 +3525,7 @@ Of the various functions filled by an Executive, a Committee, a Body of Workers,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/temperance_and_teetotalism,form/satire,histref/irish_question,character/gladstone"></span>
 
 
 The chairman, or at any rate the gentleman who sat in the middle of the crescent, was a clergyman of gigantic stature, though of what denomination it would have been difficult to say, for above a Roman collar he carried an immense black beard, wore spectacles, and was bald. His voice was perhaps the most profound and awe-inspiring Mr. Clutterbuck had ever heard, and when he said, “Pray, gentlemen, be seated,” it was as though a judge had pronounced sentence in the weightiest of criminal trials.
@@ -3607,7 +3607,7 @@ To the immense surprise of his six torturers, Mr. Clutterbuck, in a manly and de
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 5 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/hypocrisy,form/satire"></span>
 
 
 “I will have nothing to do with it!”
@@ -3659,7 +3659,7 @@ It spoke in warm terms of Mr. Clutterbuck’s character and genius, admitted dif
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER VI
@@ -3687,7 +3687,7 @@ We are not a logical people: we refuse to be bound by the formal syllogisms so p
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 In spite of Sir John Compton’s dissent, Mr. Justice Hunnybubble took with him his colleague, Welch. The decision of the lower court was therefore upheld, and Mr. Fishmonger and Mr. Bebb, who had found better paid employment in the Halls during the Long Vacation, and who refused to re-enter the yard, were, to the shame of our institutions, cast into Holloway Jail as first class misdemeanants. They were deprived of the use of tobacco and the daily newspapers; and even their cuisine was regulated by official order.
@@ -3727,7 +3727,7 @@ Fitzgerald read this sentence three times over, and sighed. “Too many ‘ofs�
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “I really can’t say, Mr. Fitzgerald,” answered that gentleman moving about somewhat uneasily. “I can’t tell you, quoted offhand like that. What’s it about?”
@@ -3775,7 +3775,7 @@ The full legal terminology was unfamiliar to these plain working men, and they a
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/wine_and_drink,motif/the_inn_tavern,concept/satire_of_society,concept/democracy,concept/deception,form/satire"></span>
 
 
 A foreigner unacquainted with the national temper, and hearing the popular judgments passed upon Mr. Justice Hunnybubble, might have imagined that exalted personage’s life to be in danger, and in more than one instance Charlie Fitzgerald was annoyed to have a glass smashed under his nose in the heat of the denunciations, or to find some huge and purple visage, one with which he was totally unacquainted, angrily challenging him to agree with the general verdict or to take Toko. With true diplomacy Fitzgerald joined heartily in the universal topic and opinion, but his clothes and accent laid him open to a just suspicion, and he was glad when his round of visits was over and his mind thoroughly informed.
@@ -3815,7 +3815,7 @@ He was next turning to read the opinions of the paper itself upon the transactio
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 CHAPTER VII
@@ -3849,7 +3849,7 @@ There were pictures also: pictures by the ton. Pictures of Mr. Clutterbuck strik
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 And then there were speeches! Every day saw its meeting, and at the end of the first week its second or its third meeting within the twenty-four hours. Mr. Clutterbuck, by whose side Mrs. Clutterbuck often sat in those wild and happy moments of popular fervour, was permitted no great length by his secretary, and a band of good fellows who were determined to achieve the liberties of England, took care that questions other than those provided them by the secretary or the committee, should not be asked with impunity. It was even, as the unhappy example of the clergyman had shown, unwise to express adhesion to Mr. Clutterbuck’s candidature, unless this were done in so unmistakable a manner that there should be no room for popular hostility.
@@ -3885,7 +3885,7 @@ So Tuesday ended — and here my duty compels me to introduce the repugnant subj
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/democracy,concept/hypocrisy,concept/temperance_and_teetotalism,form/satire"></span>
 
 
 Lord Henfield was his name. His hairs, which were of the palest yellow and few in number for a man of but thirty years, were parted down the middle with an extraordinary accuracy which was no more disturbed when he appeared in the early morning after rising from repose than when in the last hours of the night he would withdraw from the critical and angry audiences which he too often had to encounter.
@@ -3911,7 +3911,7 @@ To lead the close of the campaign from Mr. Stephen’s mansion at Bongers End wa
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/power_and_corruption,concept/money_and_avarice,concept/hypocrisy,concept/temperance_and_teetotalism,form/satire"></span>
 
 
 It was, therefore, no small handicap to find continual allusion made under Mr. Stephens’s roof to his valiant and thorough-going principles, nor did it help the situation to see round him every member of the household, including Mrs. Clutterbuck and his secretary, served with the most generous vintages, while he was compelled to choose milk (which he had never yet been able to digest), water, against which he had been often warned, or those aerated substitutes which his doctor had repeatedly insisted to be, in his particular case, no better than windy poisons.
@@ -3943,7 +3943,7 @@ Luckily for him his cheery host did not leave him long in this misery. He found 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “You’ve got to come with me! The motor’s ready and the Missus’ll be coming down at once.” Then he whispered as the suggestion required: “Brandy? All’s Mum!”
@@ -3983,7 +3983,7 @@ As darkness came on the polling began to grow noticeably heavier. Oddly enough t
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 7 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/power_and_corruption,form/satire"></span>
 
 
 Lady Henfield recorded her vote as a lodger in her husband’s house a little before seven, and came out full of frisk and smile, having doubtless given her voice in favour of the name she bore.
@@ -4037,7 +4037,7 @@ He was a Member of Parliament.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER VIII
@@ -4067,7 +4067,7 @@ As the procession of [[City]] men, Croydon acquaintances and earlier friends who
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/money_and_avarice,concept/power_and_corruption,concept/vanity,form/satire"></span>
 
 
 With all this a certain new glory surrounded Charlie, a glory reflected from the result of the Mickleton election. The people among whom he was for the moment a companion at quiet but historic Habberton were not of a kind to exaggerate the influence of a by-election upon the general scheme of English government; but they did appreciate that here was one of themselves who could weigh the temper of a great constituency and could understand very different classes of men; for Charlie was not slow to let them understand the part he had played in the business.
@@ -4121,7 +4121,7 @@ Of the guests who listened to him with the respect due to an expert, few venture
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 “I never gave a penny,” he said, “and I think I may say that for most men in the [[City]],” he added, looking round the table and meeting with a murmur of approval.
@@ -4167,7 +4167,7 @@ Nobby very thoughtfully chose from the silver box beside him a gigantic cigar, a
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/satire_of_society,concept/money_and_avarice,concept/power_and_corruption,form/satire"></span>
 
 
 Here he was silent. He had some regard for truth and he felt that his temperament was running away with him. How many men he could call to mind who had given first and last twenty, thirty, forty thousand pounds to some great cause and had remained the plain commoners they were born. It would have been well for him and for his host if he had spoken aloud as the confession passed through his thought, but Nobby was as weak as he was good-natured and that thought remained unexpressed.
@@ -4205,7 +4205,7 @@ Tennyson.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/christmas,concept/satire_of_society,concept/power_and_corruption,concept/vanity,concept/ambition,form/satire"></span>
 
 
 CHAPTER IX
@@ -4269,7 +4269,7 @@ As they went out and recrossed the bridge, Charlie would not release his cousin;
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/vanity,concept/ambition,concept/democracy,form/satire"></span>
 
 
 “Oh, do that by all means,” said Bozzy, enormously relieved, “but don’t get to Downing Street before three; he refuses everything steadily from after lunch till three o’clock. Then he takes that stuff Helmsley ordered him, and a few minutes afterwards he does everything for everybody; at least that’s the only way I account for the two last appointments.”
@@ -4331,7 +4331,7 @@ It was impossible that Mr. Clutterbuck’s wife should not know; her brother als
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The Press alone — and that was a large exception — had kept silent upon the rumour.
@@ -4379,7 +4379,7 @@ Charlie Fitzgerald was back before dinner. He said that Bozzy was out of town, b
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 Therefore Wednesday passed, but Thursday was very ominous, and again Charlie Fitzgerald was unconvinced. He knew too much of men to wait for any questions. He was on the telephone long before breakfast, and when Mr. Clutterbuck came down he saw his secretary, dressed ready for driving into [[London]].
@@ -4427,7 +4427,7 @@ Ozee, xvii. 8.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fanatic,concept/satire_of_society,concept/antisemitism,concept/fanaticism,form/satire,character/tolstoy,character/nietzsche"></span>
 
 
 CHAPTER X
@@ -4459,7 +4459,7 @@ According to him Lombroso was a Jew, Mr. Roosevelt’s friends and supporters th
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 In his eyes the governors of colonies, the wives of Viceroys, the holders of Egyptian bonds, the mortgagees of Irish lands, half the Russian patriots, and all the brave spokesmen of Hungary, were swept into the universal net of his mania.
@@ -4483,7 +4483,7 @@ In the early summer of 1895 he appeared to suffer a sudden conversion, spoke fre
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 A man who acts thus in our public life bars every serious career against himself. Whether Mr. Bailey had foreseen this or no, he was at any rate content henceforward to live as a private gentleman in his little house in Bruton Street. But his restless temper still led him from one set to another, mingling with every one and seen everywhere. He wrote, he occasionally spoke, and above all it was his delight, by insinuation or by direct disclosure, to embarrass and expose his fellow-beings; a man dangerous in the extreme, and, I repeat, one whom no society less tolerant than ours would have endured for a year.
@@ -4577,7 +4577,7 @@ Mr. Clutterbuck groaned inwardly. He was in the fog again. But William Bailey we
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 CHAPTER XI
@@ -4647,7 +4647,7 @@ When he had been raised to the peerage as Lord Lambeth, a vigorous man of fifty 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/self_made_man,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,concept/money_and_avarice,form/satire,histref/british_empire"></span>
 
 
 The newspapers, through which the great mass of our fellow citizens obtain their information, mentioned him not only continually, but with invariable deference, and often with admiration. His efforts in the House of Lords in favour of Bosnian freedom, and in the particular case of Macchabee Czernwitz, had proclaimed just that disinterested enthusiasm which we love to see applied by our great men to foreign affairs; while, nearer home, the Organ Grinders’ Bill, for which he was mainly responsible, was a piece of practical legislation which had obtained general recognition upon both sides of either House.
@@ -4675,7 +4675,7 @@ The traditional methods by which their wealth had hitherto been exploited were w
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/satire_of_society,concept/empire_and_imperialism,concept/power_and_corruption,concept/hypocrisy,concept/money_and_avarice,form/satire,histref/british_empire"></span>
 
 
 He further determined — and it was the act of a strong man — to avoid the disadvantages of public competition with its accompaniment of ill-informed and often unpatriotic criticism, of questions in the House of Commons, and of all the paraphernalia of ignorance and cant.
@@ -4711,7 +4711,7 @@ The next morning’s post was something of a trial to Mr. Clutterbuck in the abs
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/justice_right_and_wrong,concept/antisemitism,concept/fanaticism,form/satire"></span>
 
 
 Mr. Clutterbuck was an honest man.
@@ -4771,7 +4771,7 @@ And Mr. Clutterbuck went home a little, but only a little, comforted; feeling th
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 11 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/the_inn_tavern,concept/satire_of_society,concept/fame_and_publicity,concept/empire_and_imperialism,concept/power_and_corruption,form/satire"></span>
 
 
 Two days afterwards Charlie Fitzgerald returned. His story was perfectly concise, too concise, alas, for that stricken household. He did not bother them with his visit to the Duke of Battersea and to Scotland — he spoke only of their own business. He had seen Peter Street yet once again. They were sorry, but it had happened from having too many names on the list; some had to wait; they admitted they had postponed Mr. Clutterbuck’s name to Paardeberg Day, when there was a batch of thirty to bring out.
@@ -4813,7 +4813,7 @@ Then (in 1911) Mr. Buffle.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/the_court,motif/wine_and_drink,motif/the_inn_tavern,concept/satire_of_society,concept/justice_right_and_wrong,concept/crime_and_punishment,concept/power_and_corruption,form/satire"></span>
 
 
 CHAPTER XII
@@ -4861,7 +4861,7 @@ Whether it would or would not be disfranchised for a period of years was a matte
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Nevertheless he insisted, as the reader may well imagine, in seeking some relief in the company of William Bailey, and Charlie, after a moment’s hesitation, was too wise to dissuade him.
@@ -4921,7 +4921,7 @@ For a man in such doubtful health (and for one before whom such arduous duties i
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/democracy"></span>
 
 
 The Duke of Battersea remained not more than twenty minutes. It was his interest to show his sympathy with the Prime Minister’s illness rather than to detain him in conversation, and he could understand that the amusing story of Mr. Bailey’s fanatical outburst would be touched on lightly or passed in silence by a man who sat in the same Cabinet with Lord Burpham; for after all, Lord Burpham’s son, since the Duchess of Drayton’s second marriage was stepfather to the girl whom William Bailey’s favourite nephew had recently married, and relations of this kind, when they occur in the political life of our [[Democracy|democracy]], are naturally sacred. For all the shortness of his visit, the Duke of Battersea had learnt what he wanted to know. He did not depend upon the Prime Minister’s aid. He re-entered his car with an alternative scheme clear before him, and when he reached home he began to carry it into effect.
@@ -4965,7 +4965,7 @@ He left the Presence before two o’clock, but such was his intimacy with more t
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The reader will be surprised to hear that after these preparations he put upon his head a billycock hat of the most demonstrative type, and committed the imprudence of wearing a large, made-up blue tie. But genius, however universal, however disciplined and experienced, is human. It is easy to criticise a fault in detail; it is more difficult to reproduce the general plan of the master; and those who may be disposed to ridicule the large made-up tie of Mr. Bevan, or the billycock hat which I have gone so far as to call demonstrative, would do well to ask themselves whether they would have had the learning or the intuition to provide themselves — I mention but one point — with cigarettes such as are smoked by the landed gentry, with Craven mixture upon one side of the tobacco pouch and with a peculiarly vile shag upon the other; yet Mr. Bevan had thought of these things!
@@ -5005,7 +5005,7 @@ Mr. Bailey’s man Zachary was annoyed to have been caught in this trap; he cons
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Mr. Bevan’s heart rose with a bound. His long vigil was ended! He permitted Zachary to turn the corner of Bruton Street into Berkeley Square, and then, gauging his pace at much the same as that set by this excellent domestic, he followed.
@@ -5031,7 +5031,7 @@ There are in the humbler strata of our national life qualities of courage and im
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/wine_and_drink,concept/satire_of_society,concept/deception,form/satire"></span>
 
 
 Before that mechanician had time to reply in suitable terms, Mr. Bevan had whispered through the little hole, “That’s all right, Bond Street: tell you where to stop,” and they darted away down the hill.
@@ -5093,7 +5093,7 @@ Mr. Bailey mused. To characters so wayward and loose the solid plans whereby gre
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_07" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 7)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_07" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 7)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/deception,concept/money_and_avarice,form/satire"></span>
 
 
 While he was in this sort of study, making neither head nor tail of the adventure, Zachary volunteered, a little nervously, for he was afraid it might sound like an explanation and not like the “information” his master was after:
@@ -5153,7 +5153,7 @@ When he was gone the Duke of Battersea took a note which he had already written 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_08" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 8)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_08" data-title="Mr. Clutterbuck’s Election — Chapter 12 (part 8)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fanatic,concept/satire_of_society,concept/power_and_corruption,concept/fanaticism,concept/deception,form/satire"></span>
 
 
 The Duke of Battersea rose to receive him — a rare honour, but he knew when to pay honour. He was affectionate to him, put one hand upon his shoulder, and asked him whether he would drink anything, which Fitzgerald very gladly did; and when Fitzgerald had drunk he said:
@@ -5221,7 +5221,7 @@ I refer once more to the (alas!) late Baron de Reinach, uncle of the great Frenc
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="concept/satire_of_society,concept/fanaticism,concept/power_and_corruption,form/satire"></span>
 
 
 CHAPTER XIII
@@ -5299,7 +5299,7 @@ The clerk answered that he must consult his principal again, and Mr. Bailey, res
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="concept/satire_of_society,concept/power_and_corruption,concept/deception,form/satire"></span>
 
 
 It is undecided, flighty action of this sort which leads to half the trouble in this world. Mr. Bailey had not the remotest intention of holding the meeting in the original hall. In that his somewhat wayward decision stood firm. With that object he had seen Mr. Clay; and he was wise, for the forces against him were too strong to permit him to call the meeting in the Second Jubilee Hall or even in the Coronation Annexe; they were strong enough to prevent his holding it in any public building. But this sudden rise of temper on his part proved a source of considerable irritation and expense to others, who should not have been made responsible for it.
@@ -5347,7 +5347,7 @@ In an hour a considerable body of healthy but somnolent men slouched into the bu
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The agent, after repeated conversations with Mr. Bailey, each more conciliatory than the last, promised and despatched a cheque for £25 on the distinct understanding that no proceedings should follow; and when the agent had recovered this sum (as he did with difficulty) from the Anglo-Saxon Exchange, the expenses of that great financial corporation, in labour and in compensation, were, I regret to say, considerably over £100.
@@ -5391,7 +5391,7 @@ Charlie Fitzgerald answered with perfect straightforwardness that they must be s
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 13 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “I beg your pardon, Mr. Fitzgerald,” he said — it was not often that he had remonstrated in all these months— “I beg your pardon, but are you quite certain where you are?”
@@ -5433,7 +5433,7 @@ Meanwhile in London the meeting had, indeed, pursued a course Mr. Clutterbuck di
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/music_and_song,concept/satire_of_society,concept/democracy,concept/nationalism_and_patriotism,form/satire,character/oliver_cromwell,character/rudyard_kipling"></span>
 
 
 CHAPTER XIV
@@ -5493,7 +5493,7 @@ This simple remark elicited on every side large shouts of “You’re quoite roi
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="concept/satire_of_society,concept/democracy,concept/antisemitism,concept/self_deception,concept/vulgarity,form/satire,form/novel"></span>
 
 
 Mr. Clay, who was smiling pleasantly during this episode, and moving his feet with great rapidity to and fro under the table to relieve the tension of his nerves, was about to reply when the stranger, as is the custom of plain straightforward men in the poorer ranks of society, proceeded to speak at some length in support of his query; and Mr. Clay was too much pleased with such a respite to call him to order. The honest fellow pointed out, under various heads, not without rhetorical embellishments, and with considerable movement of the right arm, what the constituency had a right to expect, what was and what was not an insult to working men, and continually measured the circumstances of the evening by the fixed standards of what one gentleman has a right to expect from another. He was repeatedly cheered, and his Christian name, embellished with endearing epithets, was called out more than once in lively accents.
@@ -5523,7 +5523,7 @@ The ridiculous fellow was drawing up a memorandum, annotated with queries and re
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He was in such a mood and ready for any false assumption or for any wicked slander, when a telegram was brought him. He opened it. It was from Stow-in-the-Wold; it begged Mr. Bailey to explain if possible and to make things right if it was not too late. Unfortunately within the narrow limits of such a message it was impossible to give the nature of the accident that had happened, and William Bailey’s most foolish suppositions were only the more confirmed.
@@ -5587,7 +5587,7 @@ The Prime Minister was hugely relieved. “There’s no one else in [[London]], 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Mr. Clutterbuck’s Election — Chapter 14 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Oh?” said Mr. Bailey thoughtfully. “By the way,” he went on, “there’s another thing; old Clutterbuck’s got to have it.”

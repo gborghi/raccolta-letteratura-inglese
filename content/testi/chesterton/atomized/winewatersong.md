@@ -1169,7 +1169,8 @@ METHUEN & CO. LTD. [[London|LONDON]]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/horse,motif/road,motif/soul,motif/stars,motif/water,setting/london,character/quoodle"></span>
+
 
 
 
@@ -1438,7 +1439,7 @@ Or crack a bottle of fish-sauce
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="WineWaterSong (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="WineWaterSong (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/desire,motif/dust,motif/flowers,motif/night,motif/road,motif/rose,motif/soul,motif/time,motif/water,motif/wind,motif/winter,concept/conscience,concept/pride,character/quoodle,character/sunday"></span>
 
 
 Or stand a man a [[cheese]]?
@@ -1718,7 +1719,7 @@ I am silent on a bally peak in Darien;
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="WineWaterSong (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="WineWaterSong (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/blood,motif/dance,motif/decay,motif/flowers,motif/love,motif/machine,motif/soul,motif/well,concept/beauty,concept/pride,concept/wonder,character/mariana,character/pistol,character/richard"></span>
 
 
 For I stuff away for life
@@ -1954,7 +1955,7 @@ Of oak-woods yet to be.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="WineWaterSong (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="WineWaterSong (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/lover,motif/blood,motif/city,motif/dance,motif/death,motif/home,motif/love,motif/poison,motif/road,motif/water,motif/well,concept/doubt,concept/faith,concept/honour,concept/hope,form/riddle"></span>
 
 
 But Ivywood, Lord Ivywood,
@@ -2290,7 +2291,7 @@ For there's [[Blood|blood]] on the field and [[Blood|blood]] on the foam
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="WineWaterSong (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="WineWaterSong (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/home,motif/horse,concept/body,concept/reform,histref/king_alfred,setting/london"></span>
 
 
 And [[Blood|blood]] on the [[Body|body]] when Man goes [[Home|home]].

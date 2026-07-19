@@ -39855,7 +39855,7 @@ supposing—.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Bleak House — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Bleak House — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/death,motif/hill,motif/river,motif/time,motif/well,concept/courage,concept/hope,concept/truth,setting/court,setting/london,setting/mountains,character/bottom,character/lincoln"></span>
 
 
 CHAPTER I
@@ -39991,7 +39991,7 @@ weather a little.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Bleak House — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Bleak House — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,motif/death,motif/horse,motif/nature,motif/prison,motif/silence,motif/time,motif/well,concept/despair,concept/history,concept/mortality,concept/nature,form/history,setting/court"></span>
 
 
 Jarndyce and Jarndyce drones on. This scarecrow of a suit has, in
@@ -40137,7 +40137,7 @@ parties in Jarndyce and Jarndyce!
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Bleak House — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Bleak House — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/river,motif/time,motif/well,concept/ambition,concept/beauty,concept/conscience,concept/melancholy,concept/nature,concept/pride,setting/court,setting/paris,character/lady_dedlock,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER II
@@ -40253,7 +40253,7 @@ without any rapture.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Bleak House — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Bleak House — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/autumn,motif/desert,motif/home,motif/marriage,motif/nature,motif/secrets,concept/beauty,concept/honour,concept/nature,concept/vanity,setting/court,setting/desert,setting/paris,character/dwarf,character/lady_dedlock,character/nurse,character/sir_leicester_dedlock"></span>
 
 
 She has [[Beauty|beauty]] still, and if it be not in its heyday, it is not yet
@@ -40355,7 +40355,7 @@ Dedlock mind at present, it is very possible that he may.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Bleak House — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Bleak House — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/fire,motif/silence,setting/court,setting/paris,character/john_jarndyce,character/lady_dedlock"></span>
 
 
 “My Lady’s cause has been again before the Chancellor, has it, Mr.
@@ -40453,7 +40453,7 @@ really has been bored to [[Death|death]] down at our place in Lincolnshire.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Bleak House — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Bleak House — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/grave,motif/home,motif/love,motif/night,motif/secrets,motif/time,motif/well,concept/hope,concept/melancholy,concept/vanity,character/sunday"></span>
 
 
 CHAPTER III
@@ -40585,7 +40585,7 @@ greatest kindness. Now, go!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Bleak House — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Bleak House — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/clock,motif/dust,motif/home,motif/love,motif/night,motif/sleep,motif/tears,motif/time,motif/well,concept/deception,concept/doubt,concept/forgiveness,concept/hope,concept/self,histref/bible,setting/court,character/lincoln"></span>
 
 
 She checked me, however, as I was about to depart from her—so frozen
@@ -40721,7 +40721,7 @@ THOUSAND POUNDS!” said Mr. Kenge, leaning back in his chair.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Bleak House — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Bleak House — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/frost,motif/garden,motif/night,motif/snow,motif/tears,motif/time,motif/well,motif/window,concept/education,concept/honour,concept/hope,concept/providence,concept/self,concept/wonder"></span>
 
 
 I felt very ignorant, but what could I do? I was so entirely
@@ -40844,7 +40844,7 @@ coach gave me a terrible start.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Bleak House — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Bleak House — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/love,motif/time,motif/well,motif/wind,motif/window,concept/hope,setting/london,character/esther_summerson"></span>
 
 
 It said, “What the de-vil are you crying for?”
@@ -40991,7 +40991,7 @@ with them from New Year’s Day to Christmas.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Bleak House — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Bleak House — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/orphan,motif/clock,motif/fire,motif/horse,motif/journey,motif/love,motif/pain,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/body,concept/pride,setting/london,character/esther_summerson,character/lincoln"></span>
 
 
 In those six years I had never been away except on visits at holiday
@@ -41130,7 +41130,7 @@ cloisters, for I saw the gravestones from the staircase [[Window|window]].
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Bleak House — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Bleak House — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/home,motif/journey,motif/leaves,motif/lion,motif/love,motif/night,motif/time,motif/well,motif/window,concept/pride,setting/court,character/ada_clare,character/richard,character/richard_carstone"></span>
 
 
 This was Kenge and Carboy’s. The young gentleman showed me through an
@@ -41251,7 +41251,7 @@ over [[Leaves|leaves]], “is Jarndyce of Bleak [[house|House]].”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Bleak House — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Bleak House — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/leaves,motif/love,motif/rose,motif/soul,motif/time,motif/well,concept/beauty,concept/honour,concept/hope,setting/court,character/ada_clare,character/bottom,character/richard,character/richard_carstone"></span>
 
 
 “But not a dreary place at present, my lord,” said Mr. Kenge.
@@ -41378,7 +41378,7 @@ accept my blessing!”
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Bleak House — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Bleak House — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/night,motif/road,motif/time,motif/well,motif/window,concept/body,concept/honour,concept/hope,form/biography,form/inscription,setting/london,character/richard"></span>
 
 
 CHAPTER IV
@@ -41510,7 +41510,7 @@ one of the poor little things fell downstairs—down a whole flight
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Bleak House — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Bleak House — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/summer,motif/swallow,motif/time,motif/window,concept/doubt,concept/hope,concept/self,concept/wonder,character/nurse,character/richard"></span>
 
 
 Mrs. Jellyby, whose face reflected none of the uneasiness which we
@@ -41641,7 +41641,7 @@ was fastened up with a fork.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Bleak House — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Bleak House — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/memory,motif/time,motif/water,motif/window,concept/union,character/bottom,character/richard"></span>
 
 
 “You would like some hot [[Water|water]], wouldn’t you?” said Miss Jellyby,
@@ -41759,7 +41759,7 @@ of the little family like a dragon and overturned them into cribs.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Bleak House — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Bleak House — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/orphan,motif/cross,motif/dance,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/identity,concept/nature,concept/wonder,character/richard"></span>
 
 
 After that I occupied myself in making our room a little tidy and in
@@ -41967,7 +41967,7 @@ them all.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Bleak House — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Bleak House — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dust,motif/fire,motif/leaves,motif/night,motif/sleep,motif/well,concept/wonder,setting/court,setting/london,character/richard"></span>
 
 
 CHAPTER V
@@ -42098,7 +42098,7 @@ tighter through her own.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Bleak House — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Bleak House — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/fire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/snow,motif/summer,motif/time,motif/water,motif/window,concept/beauty,concept/doubt,concept/honour,concept/hope,form/inscription,setting/court,character/lincoln,character/richard"></span>
 
 
 The little old lady’s hearing was remarkably quick. She answered for
@@ -42214,7 +42214,7 @@ shop if t’other door’s out of order!” we all went in, stimulated by
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Bleak House — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Bleak House — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/bees,motif/death,motif/fire,motif/time,motif/well,motif/window,concept/self,setting/court,character/richard,character/richard_carstone"></span>
 
 
 “My landlord, Krook,” said the little old lady, condescending to him
@@ -42343,7 +42343,7 @@ ran out—twenty of us cried at once, ‘Tom Jarndyce!’”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Bleak House — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Bleak House — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/bells,motif/birds,motif/night,motif/prison,motif/sleep,motif/soul,motif/time,motif/window,concept/beauty,concept/doubt,concept/fear,concept/honour,concept/hope,concept/wonder,setting/court,character/lincoln,character/richard"></span>
 
 
 The old man stopped, looked hard at us, looked down into the lantern,
@@ -42460,7 +42460,7 @@ opened the door to attend us downstairs.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Bleak House — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Bleak House — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/birds,motif/blood,motif/chalk,motif/clock,motif/home,motif/memory,motif/pain,motif/time,motif/well,concept/doubt,concept/hope,setting/court,setting/london,character/richard"></span>
 
 
 “With such an omen, it is even more necessary than usual that I
@@ -42602,7 +42602,7 @@ over the surface of Thavies Inn as we rolled out of its precincts.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Bleak House — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Bleak House — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/city,motif/desire,motif/flowers,motif/hill,motif/home,motif/horse,motif/journey,motif/love,motif/night,motif/road,motif/time,motif/water,motif/well,motif/window,setting/london,character/john_jarndyce,character/richard"></span>
 
 
 CHAPTER VI
@@ -42731,7 +42731,7 @@ own hearts, we alighted in no inconsiderable confusion.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Bleak House — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Bleak House — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/fire,motif/garden,motif/home,motif/horse,motif/journey,motif/love,motif/sleep,motif/spring,motif/stars,motif/well,motif/wind,motif/window,character/richard"></span>
 
 
 “Ada, my [[Love|love]], Esther, my dear, you are welcome. I rejoice to see
@@ -42910,7 +42910,7 @@ there or had ever got out of it.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Bleak House — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Bleak House — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/birds,motif/death,motif/fire,motif/flowers,motif/leaves,motif/night,motif/road,motif/rose,motif/time,motif/well,motif/wind,concept/doubt,concept/hope,character/harold_skimpole,character/queen,character/richard"></span>
 
 
 The furniture, old-fashioned rather than old, like the [[house]], was as
@@ -43041,7 +43041,7 @@ usual [[Road|road]] of years, cares, and experiences.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Bleak House — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Bleak House — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/desire,motif/horse,motif/love,motif/moon,motif/nature,motif/river,motif/silence,motif/time,motif/well,concept/nature,concept/wonder,form/sketch,character/harold_skimpole,character/richard"></span>
 
 
 I gathered from the conversation that Mr. Skimpole had been educated
@@ -43154,7 +43154,7 @@ absolutely dazzling.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Bleak House — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Bleak House — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/autumn,motif/birds,motif/fire,motif/spring,motif/summer,motif/well,motif/wind,motif/winter,concept/hope,character/richard"></span>
 
 
 He was so full of feeling too and had such a delicate sentiment for
@@ -43280,7 +43280,7 @@ that you had lately—”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Bleak House — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Bleak House — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/nature,motif/noon,motif/road,motif/time,motif/well,motif/wind,concept/nature,form/sketch,setting/cathedral,character/harold_skimpole,character/richard"></span>
 
 
 “Oh, yes!” returned Mr. Skimpole, smiling. “Though I forgot how much
@@ -43416,7 +43416,7 @@ dislocated his neck.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="Bleak House — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="Bleak House — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/night,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,concept/hope,character/harold_skimpole,character/michael,character/richard"></span>
 
 
 “Very odd and very curious, the mental process is, in you men of
@@ -43544,7 +43544,7 @@ even sixpences.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_08" data-title="Bleak House — Chapter 6 (part 8)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_08" data-title="Bleak House — Chapter 6 (part 8)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/fire,motif/night,motif/sleep,motif/time,motif/wind,concept/history,form/history,character/richard"></span>
 
 
 We all promised faithfully, [[Richard]] with a merry glance at me
@@ -43598,7 +43598,7 @@ bed.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Bleak House — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Bleak House — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/animals,motif/clock,motif/cross,motif/fire,motif/ghosts,motif/leaves,motif/love,motif/night,motif/seasons,motif/sleep,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/imagination,concept/self,concept/solitude,setting/court,setting/paris"></span>
 
 
 CHAPTER VII
@@ -43709,7 +43709,7 @@ Leicester and originated in the still-room.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Bleak House — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Bleak House — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/birds,motif/home,motif/journey,motif/nature,motif/tears,motif/water,motif/well,motif/wheel,concept/beauty,concept/body,concept/hope,concept/nature,character/sir_leicester_dedlock"></span>
 
 
 The present representative of the Dedlocks is an excellent master. He
@@ -43834,7 +43834,7 @@ to you.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Bleak House — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Bleak House — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/death,motif/dreams,motif/fire,motif/leaves,motif/night,motif/well,motif/window,concept/beauty,concept/greatness,setting/london,character/lady_dedlock,character/sir_leicester_dedlock"></span>
 
 
 “Read it, my dear Watt,” says the housekeeper.
@@ -43962,7 +43962,7 @@ knowing how I know it!”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Bleak House — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Bleak House — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/king,archetype/shadow,motif/blood,motif/clock,motif/death,motif/grave,motif/horse,motif/night,motif/pain,motif/time,motif/well,motif/window,concept/pride"></span>
 
 
 The story has nothing to do with a picture; the housekeeper can
@@ -44079,7 +44079,7 @@ beat, and everything?”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Bleak House — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Bleak House — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/shadow,motif/bees,motif/garden,motif/memory,motif/night,motif/sleep,motif/stars,motif/time,motif/wind,motif/window,concept/hope"></span>
 
 
 CHAPTER VIII
@@ -44192,7 +44192,7 @@ down.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Bleak House — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Bleak House — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/orphan,motif/city,motif/cross,motif/dance,motif/death,motif/home,motif/night,motif/time,motif/wind,motif/window,concept/history,concept/hope,form/history,setting/london,character/witch"></span>
 
 
 “There! There!” he said. “That’s over. Pooh! Don’t be foolish.”
@@ -44309,7 +44309,7 @@ over England—the children know them!”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Bleak House — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Bleak House — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/well,motif/wind,concept/hope,concept/truth,histref/america,setting/america,setting/court,character/richard"></span>
 
 
 “How changed it is!” I said again.
@@ -44474,7 +44474,7 @@ the whole, what feverish lives they must lead.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Bleak House — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Bleak House — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/home,motif/night,motif/wind,motif/winter"></span>
 
 
 Among the ladies who were most distinguished for this rapacious
@@ -44586,7 +44586,7 @@ ourselves, but, we trust, improving to others.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Bleak House — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Bleak House — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/crown,motif/fire,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/body,concept/hope,concept/nature"></span>
 
 
 Suppose Mr. Pardiggle were to dine with Mr. Jellyby, and suppose Mr.
@@ -44717,7 +44717,7 @@ natural.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Bleak House — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Bleak House — Chapter 8 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/fire,motif/water,motif/well"></span>
 
 
 I was glad when we came to the brickmaker’s [[house]], though it was one
@@ -44833,7 +44833,7 @@ eyes with an oath, “you may do wot you like!”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_07" data-title="Bleak House — Chapter 8 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_07" data-title="Bleak House — Chapter 8 (part 7)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/rose,motif/sleep,motif/tears,motif/wind,concept/beauty,concept/charity,concept/hope,concept/nature,concept/suffering,character/richard"></span>
 
 
 Mrs. Pardiggle accordingly [[Rose|rose]] and made a little vortex in the
@@ -44967,7 +44967,7 @@ for herself, and saying in her old soothing manner, “Jenny, Jenny!”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Bleak House — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Bleak House — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/childhood,motif/garden,motif/hill,motif/love,motif/nature,motif/night,motif/secrets,motif/time,motif/well,motif/wind,motif/winter,concept/hope,concept/nature,setting/london,character/richard,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER IX
@@ -45103,7 +45103,7 @@ pretty dream.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Bleak House — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Bleak House — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,archetype/tyrant,archetype/villain,motif/blood,motif/fire,motif/garden,motif/soul,motif/time,motif/well,motif/wind,concept/doubt,concept/friendship,concept/honour,concept/hope,setting/mountains,character/richard"></span>
 
 
 We were going on in this way, when one morning at breakfast Mr.
@@ -45230,7 +45230,7 @@ his head like a bloodhound and gave out that tremendous “Ha, ha, ha!”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Bleak House — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Bleak House — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/villain,motif/birds,motif/fire,motif/nature,motif/night,motif/soul,motif/summer,motif/time,concept/body,concept/nature,concept/reform,character/lucifer,character/richard,character/sir_leicester_dedlock"></span>
 
 
 “You have brought your bird with you, I suppose?” said Mr. Jarndyce.
@@ -45346,7 +45346,7 @@ world, or a dispute, or a dislike, but that his whole existence was a
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Bleak House — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Bleak House — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/noon,motif/time,motif/well,motif/wind,concept/honour,character/richard"></span>
 
 
 “No, no,” he said, “no closing up of my paths by any Dedlock! Though
@@ -45479,7 +45479,7 @@ high [[Wind|wind]], and evidently blowing perfect broadsides of denunciation.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Bleak House — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Bleak House — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/road,motif/rose,motif/soul,motif/time,motif/well,concept/honour,concept/hope,concept/melancholy"></span>
 
 
 At last Mr. Guppy came back, looking something the worse for the
@@ -45669,7 +45669,7 @@ since the days of the dear old doll, long buried in the [[Garden|garden]].
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Bleak House — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Bleak House — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,motif/autumn,motif/childhood,motif/grave,motif/night,motif/time,concept/beauty,concept/charity,form/inscription,setting/court,setting/london"></span>
 
 
 CHAPTER X
@@ -45786,7 +45786,7 @@ privations.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Bleak House — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Bleak House — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/garden,motif/home,motif/leaves,motif/summer,motif/time,concept/greatness,concept/imagination,concept/self,form/allegory,setting/court,character/lincoln,character/sunday"></span>
 
 
 Mr. Snagsby refers everything not in the practical mysteries of the
@@ -45891,7 +45891,7 @@ all its branches, &c., &c., &c.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Bleak House — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Bleak House — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/hill,motif/home,motif/love,motif/night,motif/soul,motif/time,motif/window,setting/court"></span>
 
 
 It is somewhere about five or six o’[[Clock|clock]] in the afternoon, and a
@@ -46029,7 +46029,7 @@ curious.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Bleak House — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Bleak House — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/leaves,motif/night,motif/road,motif/sleep,concept/poverty,character/bottom,character/lincoln"></span>
 
 
 “You will find that the place is rough, sir,” says Mr. Snagsby,
@@ -46153,7 +46153,7 @@ staring down upon the bed.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Bleak House — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Bleak House — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/poison,motif/sleep,motif/time,motif/well,concept/body,concept/doubt,setting/court"></span>
 
 
 CHAPTER XI
@@ -46313,7 +46313,7 @@ law-stationer. “Suppose you do!”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Bleak House — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Bleak House — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/night,motif/road,motif/soul,motif/time,motif/well,concept/doubt,concept/poverty"></span>
 
 
 While she is gone, the surgeon abandons his hopeless investigation
@@ -46440,7 +46440,7 @@ lips.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Bleak House — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Bleak House — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/night,motif/time,motif/window,concept/body,concept/self,form/allegory,setting/court"></span>
 
 
 “Good [[Night|night]]!” says Mr. Tulkinghorn, and goes [[Home|home]] to [[Allegory]] and
@@ -46556,7 +46556,7 @@ hanged presently.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Bleak House — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Bleak House — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/silence,motif/time,motif/well,concept/body,concept/fear,concept/melancholy,concept/truth,setting/court"></span>
 
 
 Call over and swear the jury! While the ceremony is in progress,
@@ -46675,7 +46675,7 @@ of justice, gentlemen. It’s terrible depravity. Put the boy aside.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="Bleak House — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="Bleak House — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/crown,motif/death,motif/fire,motif/night,motif/noon,motif/sleep,motif/time,motif/well,motif/winter,concept/body,concept/doubt,concept/imagination,concept/suicide,setting/court,character/witch"></span>
 
 
 Boy put aside, to the great edification of the audience, especially
@@ -46828,7 +46828,7 @@ good to me, he wos!”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Bleak House — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Bleak House — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/city,motif/cross,motif/death,motif/garden,motif/home,motif/leaves,motif/love,motif/memory,motif/soul,motif/time,motif/water,motif/wind,motif/window,concept/despair,concept/greatness,concept/honour,concept/hope,setting/cathedral,setting/paris,character/ariel,character/queen,character/sunday"></span>
 
 
 CHAPTER XII
@@ -46956,7 +46956,7 @@ a mile, is very much bored, and resumes her seat in the carriage.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Bleak House — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Bleak House — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/prayer,motif/well,motif/wind,concept/honour,concept/hope,concept/nature,concept/pride,setting/london,character/lady_dedlock,character/queen_elizabeth"></span>
 
 
 The rattle and clatter continue through the greater part of three
@@ -47091,7 +47091,7 @@ might?”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Bleak House — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Bleak House — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/clock,motif/death,motif/desire,motif/dust,motif/night,motif/time,concept/beauty,concept/courage,concept/education,concept/faith,concept/history,concept/honour,concept/self,form/history,setting/court,character/sunday"></span>
 
 
 “Surely, none in the world, [[Child|child]].”
@@ -47202,7 +47202,7 @@ from the moving age.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Bleak House — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Bleak House — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/crown,motif/flag,motif/home,motif/night,motif/secrets,motif/soul,motif/time,concept/beauty,concept/body,concept/doubt,character/quoodle,character/sir_leicester_dedlock"></span>
 
 
 Then there is my Lord Boodle, of considerable reputation with his
@@ -47311,7 +47311,7 @@ he is his own client in that matter, and will never betray himself.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Bleak House — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Bleak House — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/home,motif/night,motif/poison,motif/time,motif/well,motif/wind,motif/window,concept/honour,concept/poverty,form/fragment,character/lady_dedlock"></span>
 
 
 “How do you do, Mr. Tulkinghorn?” says Sir Leicester, giving him his
@@ -47508,7 +47508,7 @@ own hearts.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Bleak House — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Bleak House — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/grave,motif/ship,motif/time,motif/water,motif/well,concept/doubt,concept/education,setting/ship,character/richard"></span>
 
 
 CHAPTER XIII
@@ -47633,7 +47633,7 @@ early life, HOW thick skulls may become!”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Bleak House — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Bleak House — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/ambition,concept/doubt,concept/hope,concept/melancholy,concept/wonder,setting/court,setting/london,setting/oxford,character/richard,character/richard_carstone"></span>
 
 
 He wound up this vehement declaration by looking round upon us with a
@@ -47761,7 +47761,7 @@ young man was putting himself on my account.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Bleak House — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Bleak House — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,motif/well,motif/window,character/richard"></span>
 
 
 Sometimes I thought of telling Mr. Jarndyce. Then I feared that the
@@ -47889,7 +47889,7 @@ IN ESSE, I possess the original and have no copy.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="Bleak House — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="Bleak House — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/flowers,motif/home,motif/love,motif/marriage,motif/ship,motif/tears,motif/time,motif/water,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/wonder,form/inscription,form/sketch,setting/ship,character/richard"></span>
 
 
 Dinner was now announced, and we went downstairs. It was a very
@@ -48027,7 +48027,7 @@ holding me tighter and laying down her face again upon my breast.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="Bleak House — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="Bleak House — Chapter 13 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/love,motif/night,motif/tears,motif/well,concept/hope,concept/providence,concept/truth,character/richard"></span>
 
 
 But Ada, looking up and smiling through her [[Tears|tears]], cried, “Yes, I do!
@@ -48160,7 +48160,7 @@ leave that wrong idea here or leave your cousin Ada here.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_06" data-title="Bleak House — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_06" data-title="Bleak House — Chapter 13 (part 6)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/well,concept/hope,character/richard"></span>
 
 
 “I will leave IT here, sir,” replied [[Richard]] smiling, “if I brought
@@ -48226,7 +48226,7 @@ Ada asked me if I did not, and I said yes.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Bleak House — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Bleak House — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/home,motif/love,motif/time,motif/well,motif/window,concept/doubt,setting/court,setting/london,character/richard"></span>
 
 
 CHAPTER XIV
@@ -48351,7 +48351,7 @@ enough.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Bleak House — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Bleak House — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/cave,motif/home,motif/storm,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/doubt,concept/hope,concept/truth"></span>
 
 
 “Thank you,” said my guardian. “I am much obliged to Mrs. Jellyby.
@@ -48481,7 +48481,7 @@ Jellyby, holding him by one leg, resumed her confidence.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Bleak House — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Bleak House — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/lover,motif/autumn,motif/dance,motif/leaves,motif/night,motif/time,motif/water,motif/well,concept/hope"></span>
 
 
 We naturally asked how.
@@ -48606,7 +48606,7 @@ Prince Turveydrop!”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="Bleak House — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="Bleak House — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,archetype/innocent,motif/crown,motif/dance,motif/death,motif/fire,motif/nature,motif/time,motif/well,concept/faith,concept/fear,concept/nature,concept/pride"></span>
 
 
 I curtsied to a little blue-eyed fair man of youthful appearance with
@@ -48731,7 +48731,7 @@ pinnacle.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="Bleak House — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="Bleak House — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/clock,motif/desire,motif/nature,motif/rose,motif/time,concept/doubt,concept/honour,concept/hope,concept/nature,setting/london"></span>
 
 
 “The airs the fellow gives himself!” said my informant, shaking her
@@ -48877,7 +48877,7 @@ his father than the censorious old lady.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_06" data-title="Bleak House — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_06" data-title="Bleak House — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="topos/double,archetype/lover,motif/birds,motif/death,motif/fire,motif/love,motif/night,motif/noon,motif/time,motif/well,motif/window,concept/education,concept/hope,setting/court,character/lincoln"></span>
 
 
 The father opened the room door for us and bowed us out in a manner,
@@ -48986,7 +48986,7 @@ though he had put the question in a whisper.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_07" data-title="Bleak House — Chapter 14 (part 7)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_07" data-title="Bleak House — Chapter 14 (part 7)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/death,motif/dust,motif/grave,motif/pain,motif/poison,motif/time,motif/well,motif/wind,concept/despair,concept/hope,concept/madness,concept/truth,concept/wonder,setting/court"></span>
 
 
 “Oh, decidedly unwell! Oh, very unwell indeed,” she said
@@ -49113,7 +49113,7 @@ my noble and learned brother.”
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_08" data-title="Bleak House — Chapter 14 (part 8)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_08" data-title="Bleak House — Chapter 14 (part 8)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/night,motif/time,motif/wind,motif/window,concept/history,concept/self,form/history,setting/court,character/lincoln,character/richard"></span>
 
 
 “When my noble and learned brother gives his judgment, they’re to be
@@ -49211,7 +49211,7 @@ merry.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Bleak House — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Bleak House — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/desire,motif/lamb,motif/moon,motif/nature,motif/spring,motif/time,motif/well,motif/wind,concept/beauty,concept/charity,concept/nature,concept/self,setting/london"></span>
 
 
 CHAPTER XV
@@ -49331,7 +49331,7 @@ had not a word. There was an end of the subject.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Bleak House — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Bleak House — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/night,motif/well,motif/wind,concept/nature,concept/revenge,setting/castle,character/lincoln"></span>
 
 
 “Did he take no legal proceedings?” inquired my guardian.
@@ -49480,7 +49480,7 @@ looking out of his room.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Bleak House — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Bleak House — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/time,concept/truth,setting/court"></span>
 
 
 “Is it Gridley that’s wanted?” he said, fixing his eyes on me with an
@@ -49634,7 +49634,7 @@ folds of her frock and passed from laughing into crying.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Bleak House — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Bleak House — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/birds,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/courage,concept/wonder,setting/court"></span>
 
 
 It was the first [[Time|time]] since our entry that a tear had been shed among
@@ -49763,7 +49763,7 @@ Shropshire.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_05" data-title="Bleak House — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_05" data-title="Bleak House — Chapter 15 (part 5)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/nature,motif/prison,motif/time,concept/despair,concept/honour,concept/nature,setting/court,character/lincoln"></span>
 
 
 “I believe I and my family have also had the [[Honour|honour]] of furnishing
@@ -49869,7 +49869,7 @@ foremost!’”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_06" data-title="Bleak House — Chapter 15 (part 6)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_06" data-title="Bleak House — Chapter 15 (part 6)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/city,motif/love,motif/tears,motif/time,motif/well,concept/wonder,setting/court,character/bottom"></span>
 
 
 His countenance had, perhaps for years, become so set in its
@@ -49938,7 +49938,7 @@ an ocean.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Bleak House — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Bleak House — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/death,motif/decay,motif/dust,motif/memory,motif/night,motif/sleep,motif/time,motif/window,concept/greatness,concept/honour,character/lady_dedlock"></span>
 
 
 CHAPTER XVI
@@ -50048,7 +50048,7 @@ may be expected to be a good one.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Bleak House — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Bleak House — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/death,motif/jewel,motif/well,motif/window,concept/aspiration,concept/fear,concept/hope,concept/melancholy,form/allegory,character/bottom"></span>
 
 
 This desirable property is in Chancery, of course. It would be an
@@ -50159,7 +50159,7 @@ secret. Mr. Tulkinghorn knows that very [[Well|well]].
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Bleak House — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Bleak House — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/ghost,motif/leaves,motif/night,motif/silence,motif/well,concept/humility,setting/court"></span>
 
 
 But they are not all like the woman who now [[Leaves|leaves]] him and his [[house]]
@@ -50351,7 +50351,7 @@ the [[Ghost]]’s Walk more distinct than it is to-[[Night|night]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Bleak House — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Bleak House — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/water,motif/well,concept/endurance,concept/nature,concept/pride,concept/truth,setting/london,character/richard"></span>
 
 
 CHAPTER XVII
@@ -50489,7 +50489,7 @@ conclusion.”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Bleak House — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Bleak House — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/innocent,motif/grave,motif/love,motif/marriage,motif/time,motif/well,concept/honour,concept/hope,character/jones,character/richard"></span>
 
 
 “It was a maxim of Captain Swosser’s,” said Mrs. Badger, “speaking in
@@ -50630,7 +50630,7 @@ said [[Richard]] with an air of vexation.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Bleak House — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Bleak House — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/dreams,motif/grave,motif/home,motif/love,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/truth,concept/wonder,character/richard"></span>
 
 
 “That may be,” I suggested, “because you don’t like what you have
@@ -50756,7 +50756,7 @@ been.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Bleak House — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Bleak House — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/orphan,motif/childhood,motif/nature,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/history,concept/hope,concept/nature,concept/self,form/history,character/richard"></span>
 
 
 Ada praised [[Richard]] more to me that [[Night|night]] than ever she had praised
@@ -50881,7 +50881,7 @@ darkened life, and replied to the letter.”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_05" data-title="Bleak House — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_05" data-title="Bleak House — Chapter 17 (part 5)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/flowers,motif/home,motif/night,motif/pain,motif/ship,motif/time,motif/well,motif/window,concept/doubt,concept/providence,concept/wonder,setting/london,setting/mountains,setting/ship"></span>
 
 
 I took his hand and kissed it.
@@ -51033,7 +51033,7 @@ Oh, very like it indeed, my dear!”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Bleak House — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Bleak House — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/jewel,motif/journey,motif/time,motif/well,motif/wind,concept/beauty,concept/doubt,concept/grotesque,setting/london,character/lady_dedlock,character/queen,character/richard"></span>
 
 
 CHAPTER XVIII
@@ -51144,7 +51144,7 @@ for them.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Bleak House — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Bleak House — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/childhood,motif/clock,motif/cross,motif/crown,motif/death,motif/flowers,motif/horse,motif/journey,motif/leaves,motif/road,motif/summer,motif/time,motif/well,motif/wind"></span>
 
 
 “Exactly!” returned Mr. Skimpole. “That’s the crowning point of
@@ -51262,7 +51262,7 @@ his friend and neighbour Boythorn!”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Bleak House — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Bleak House — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/flowers,motif/garden,motif/hill,motif/horse,motif/lightning,motif/love,motif/night,motif/road,motif/seasons,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/honour,concept/self,character/ajax,character/sunday"></span>
 
 
 “I shall not put him to the proof,” said my guardian. “He is as
@@ -51376,7 +51376,7 @@ he pointed them out that I really thought he would have hurt himself.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Bleak House — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Bleak House — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/lion,motif/spring,motif/time,motif/well,concept/beauty,character/esther_summerson,character/lady_dedlock,character/sir_leicester_dedlock,character/sunday,character/young_fisherman"></span>
 
 
 “But this is taking a good deal of trouble,” said Mr. Skimpole in his
@@ -51489,7 +51489,7 @@ a considerable landed proprietor in heaven.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_05" data-title="Bleak House — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_05" data-title="Bleak House — Chapter 18 (part 5)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/insects,motif/leaves,motif/nature,motif/well,concept/nature,concept/wonder,form/sketch,histref/milton,character/harold_skimpole,character/milton"></span>
 
 
 “He believes he is!” said Mr. Boythorn. “He firmly believes it. So
@@ -51608,7 +51608,7 @@ through the [[Leaves|leaves]].
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_06" data-title="Bleak House — Chapter 18 (part 6)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_06" data-title="Bleak House — Chapter 18 (part 6)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/leaves,motif/lightning,motif/storm,motif/time,motif/water,motif/wind,concept/beauty,concept/honour,concept/hope,concept/self,character/don_quixote,character/lady_dedlock,character/sunday"></span>
 
 
 The weather had been all the week extremely sultry, but the [[Storm|storm]]
@@ -51753,7 +51753,7 @@ pace.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_07" data-title="Bleak House — Chapter 18 (part 7)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_07" data-title="Bleak House — Chapter 18 (part 7)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/blood,motif/water,motif/wind,concept/pride,character/lady_dedlock"></span>
 
 
 “The messenger is coming back, my Lady,” said the keeper, “with the
@@ -51831,7 +51831,7 @@ Mademoiselle Hortense, shoeless, through the wet grass.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Bleak House — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Bleak House — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/innocent,motif/dust,motif/love,motif/night,motif/river,motif/seasons,motif/sleep,motif/summer,motif/time,motif/water,motif/window,concept/conscience,concept/solitude,setting/court,setting/germany,setting/venice,character/lincoln"></span>
 
 
 CHAPTER XIX
@@ -51955,7 +51955,7 @@ was something flushed by the hot weather.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Bleak House — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Bleak House — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/ghost,motif/crown,motif/love,motif/pain,motif/time,motif/well,motif/window,concept/conscience,concept/eternity,concept/humility,concept/resignation,setting/court"></span>
 
 
 “My little woman,” says Mr. Snagsby to the sparrows in Staple Inn,
@@ -52089,7 +52089,7 @@ lifts up his admonitory hand.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Bleak House — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Bleak House — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="topos/double,motif/crown,motif/love,motif/tears,motif/time,motif/well,concept/conversion,concept/doubt,setting/court"></span>
 
 
 “My friends,” says he, “what is this which we now behold as being
@@ -52220,7 +52220,7 @@ inclined to keep his word, but—Oh! Here IS the young man!”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Bleak House — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Bleak House — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/crown,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/suffering,setting/court"></span>
 
 
 Enter Mr. Guppy, who nods to Mr. Snagsby and touches his hat with the
@@ -52357,7 +52357,7 @@ Carboy’s office, or was it a gentleman of your acquaintance? Take
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_05" data-title="Bleak House — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_05" data-title="Bleak House — Chapter 19 (part 5)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/cross,motif/jewel,motif/love,motif/river,motif/swallow,motif/time,motif/well,concept/pride,concept/wonder,setting/cathedral,setting/london,character/esther_summerson"></span>
 
 
 “Neither,” says Mrs. Chadband as before.
@@ -52480,7 +52480,7 @@ too.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Bleak House — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Bleak House — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/crown,motif/nature,motif/river,motif/road,motif/soul,motif/time,motif/well,motif/window,concept/ambition,concept/nature,concept/paradox,character/lincoln,character/richard"></span>
 
 
 CHAPTER XX
@@ -52613,7 +52613,7 @@ Jobling begs pardon.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Bleak House — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Bleak House — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/machine,motif/nature,motif/summer,motif/time,motif/well,motif/window,concept/nature"></span>
 
 
 “Any subject but that!” says Mr. Guppy with a gloomy enjoyment of his
@@ -52741,7 +52741,7 @@ Guppy. I have arrived at maturity.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Bleak House — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Bleak House — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/cross,motif/time,motif/water,motif/well,concept/resignation,setting/castle"></span>
 
 
 “What do you think, now,” says Mr. Guppy, “about—you don’t mind
@@ -52897,7 +52897,7 @@ a fellow’s while to look him up a bit.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="Bleak House — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="Bleak House — Chapter 20 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/home,motif/night,motif/sleep,motif/soul,motif/summer,motif/time,motif/water,motif/well"></span>
 
 
 “You don’t mean—” Mr. Jobling begins.
@@ -53028,7 +53028,7 @@ help him up, and he staggers against the wall and stares at them.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="Bleak House — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="Bleak House — Chapter 20 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/sleep,motif/time,motif/well,motif/window,concept/beauty,concept/hope,concept/wonder,setting/court"></span>
 
 
 “How do you do, Mr. Krook?” says Mr. Guppy in some discomfiture. “How
@@ -53166,7 +53166,7 @@ you, if that young man comes in at last for old Krook’s money!”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Bleak House — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Bleak House — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/memory,motif/time,motif/well,concept/charity,concept/education,concept/wonder"></span>
 
 
 CHAPTER XXI
@@ -53301,7 +53301,7 @@ on their post by the Black Serjeant, [[Death]].
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Bleak House — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Bleak House — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/shadow,motif/silence,motif/spring,motif/stars,motif/water,motif/wind,motif/window"></span>
 
 
 Judy the twin is worthy company for these associates. She is so
@@ -53445,7 +53445,7 @@ ready to be bowled down like a ninepin.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Bleak House — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Bleak House — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/flowers,motif/home,motif/time,motif/well,concept/honour,character/bottom"></span>
 
 
 Some [[Time|time]] elapses in the present instance before the old gentleman is
@@ -53576,7 +53576,7 @@ and the whole four-roomed [[house]], extra little back-kitchen and all.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Bleak House — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Bleak House — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/grave,motif/prison,motif/soul,motif/time,motif/water,concept/doubt,concept/imagination,concept/temptation,character/witch"></span>
 
 
 “Do you rub your legs to rub life into ’em?” he asks of Grandfather
@@ -53727,7 +53727,7 @@ that the old man winks with both eyes for a minute afterwards.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Bleak House — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Bleak House — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/city,motif/grave,motif/prison,motif/rose,motif/time,motif/well,setting/london,character/pistol"></span>
 
 
 “O Lord!” gasps Mr. Smallweed. “That’ll do. Thank you, my dear
@@ -53862,7 +53862,7 @@ beneath him—when he held a [[Pistol|pistol]] to his head.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Bleak House — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Bleak House — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/grave,motif/home,motif/leaves,motif/moon,motif/night,motif/ship,motif/time,motif/water,motif/well,concept/education,concept/grotesque,concept/hope,concept/union,setting/court,setting/ship,character/pistol"></span>
 
 
 “I wish he had let it off,” says the benevolent old man, “and blown
@@ -54020,7 +54020,7 @@ bed too.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Bleak House — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Bleak House — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/dust,motif/home,motif/night,motif/secrets,motif/silence,motif/snow,motif/summer,motif/well,motif/window,concept/history,form/allegory,form/history,character/lincoln"></span>
 
 
 CHAPTER XXII
@@ -54148,7 +54148,7 @@ smallclothes and leaning quietly back in his chair.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Bleak House — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Bleak House — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/detective,motif/time,motif/well,concept/doubt,character/bottom"></span>
 
 
 “With pleasure, sir.”
@@ -54300,7 +54300,7 @@ much diamond and a good deal of setting, which he wears in his shirt.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Bleak House — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Bleak House — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/night,motif/tears,motif/water,motif/well,concept/body,concept/hope,setting/london"></span>
 
 
 When they come at last to Tom-all-[[Alone]]’s, Mr. Bucket stops for a
@@ -54444,7 +54444,7 @@ and that YOU see grow up!”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Bleak House — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Bleak House — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/home,motif/love,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/fear,concept/nature,character/lincoln"></span>
 
 
 “[[Well]], [[Well|well]],” says Mr. Bucket, “you train him respectable, and he’ll
@@ -54596,7 +54596,7 @@ her height wot she wos, and she giv me a sov’ring and hooked it.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_05" data-title="Bleak House — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_05" data-title="Bleak House — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/moon,motif/night,motif/well,concept/doubt"></span>
 
 
 “[[Well]]!” says Mr. Bucket slightly, “we haven’t got much good out of
@@ -54683,7 +54683,7 @@ woman feelingly says, many thanks she gets for it!
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Bleak House — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Bleak House — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/garden,motif/home,motif/storm,motif/summer,motif/time,motif/well,concept/fear,concept/honour,concept/hope,setting/court,setting/paris,character/lady_dedlock,character/richard,character/sunday"></span>
 
 
 CHAPTER XXIII
@@ -54840,7 +54840,7 @@ fresh youth and her faded age, between his free hopes and her caged
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Bleak House — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Bleak House — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/nature,motif/silence,motif/tears,motif/time,motif/well,motif/wind,concept/courage,concept/doubt,concept/nature,setting/london,character/lincoln,character/richard"></span>
 
 
 Ada loved him too [[Well|well]] to mistrust him much in anything he said or
@@ -54976,7 +54976,7 @@ and—there I am, you know!” said [[Richard]].
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Bleak House — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Bleak House — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/garden,motif/love,motif/secrets,motif/soul,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,setting/court,character/richard"></span>
 
 
 And then he showed me, proved by elaborate calculations in his
@@ -55103,7 +55103,7 @@ at your service and the darling [[Child|child]]’s, my dear, whenever you like.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Bleak House — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Bleak House — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/garden,motif/home,motif/love,motif/prayer,motif/tears,motif/time,motif/well,concept/beauty,concept/pride"></span>
 
 
 Caddy was quite transported by this reply of mine, being, I believe,
@@ -55244,7 +55244,7 @@ charge myself with all the rest.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="Bleak House — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="Bleak House — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/desert,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,concept/wonder,setting/desert"></span>
 
 
 They were overpowered afresh by his uncommon generosity.
@@ -55377,7 +55377,7 @@ said, “Ma, I am engaged.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_06" data-title="Bleak House — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_06" data-title="Bleak House — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/stars,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/self"></span>
 
 
 “Oh, you ridiculous [[Child|child]]!” observed Mrs. Jellyby with an abstracted
@@ -55498,7 +55498,7 @@ world.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_07" data-title="Bleak House — Chapter 23 (part 7)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_07" data-title="Bleak House — Chapter 23 (part 7)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/love,motif/night,motif/tears,motif/time"></span>
 
 
 We got into such a chatty state that [[Night|night]], through Ada and my
@@ -55568,7 +55568,7 @@ after all, I did cry for joy indeed, and so did she.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Bleak House — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Bleak House — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/grave,motif/horse,motif/love,motif/night,motif/time,motif/well,motif/wind,concept/doubt,concept/honour,concept/hope,setting/court,setting/london,character/phantom,character/richard"></span>
 
 
 CHAPTER XXIV
@@ -55695,7 +55695,7 @@ better to die!”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Bleak House — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Bleak House — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/self,concept/truth,setting/london,character/richard"></span>
 
 
 We were all startled by the fervour of this warning. [[Richard]] bit his
@@ -55819,7 +55819,7 @@ when he came.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Bleak House — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Bleak House — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/rose,motif/time,motif/well,concept/friendship,concept/honour,concept/hope,setting/court,character/pistol,character/richard"></span>
 
 
 “Good morning, Mr. George,” said my guardian, who happened to be
@@ -55984,7 +55984,7 @@ we were going and therefore was not with us.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="Bleak House — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="Bleak House — Chapter 24 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/madwoman,motif/garden,motif/time,motif/well,concept/body,concept/hope,concept/pride,concept/self,concept/wonder,setting/court,character/lincoln,character/richard"></span>
 
 
 When we came to the [[Court|court]], there was the Lord Chancellor—the same
@@ -56097,7 +56097,7 @@ staring over their heads into the [[Body|body]] of the [[Court|court]].
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="Bleak House — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="Bleak House — Chapter 24 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/desert,motif/time,motif/well,concept/doubt,concept/honour,concept/providence,form/inscription,setting/court,setting/desert,character/richard"></span>
 
 
 “George!” said [[Richard]] as I called his attention to him.
@@ -56230,7 +56230,7 @@ looked threatening—“because I know you and won’t have it.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_06" data-title="Bleak House — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_06" data-title="Bleak House — Chapter 24 (part 6)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/fire,motif/night,motif/soul,motif/tears,motif/time,concept/honour,concept/hope,concept/suffering,concept/truth,character/inspector_bucket,character/richard"></span>
 
 
 “Phil!” said Mr. George.
@@ -56354,7 +56354,7 @@ perseveringly, as I did through so many years.”
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_07" data-title="Bleak House — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_07" data-title="Bleak House — Chapter 24 (part 7)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/shadow,motif/night,motif/soul,motif/well,concept/suffering,setting/court,character/lincoln,character/richard"></span>
 
 
 Here Mr. Bucket, who was sitting in a corner by the door,
@@ -56424,7 +56424,7 @@ earth that Chancery has not broken!”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Bleak House — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Bleak House — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,archetype/detective,archetype/innocent,motif/clock,motif/dust,motif/fire,motif/night,motif/prayer,motif/road,motif/sleep,motif/stars,motif/time,concept/imagination,concept/jealousy,setting/court,character/lincoln,character/speed"></span>
 
 
 CHAPTER XXV
@@ -56540,7 +56540,7 @@ Mrs. Snagsby with haughtiness and scorn), but you can’t blind ME!
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Bleak House — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Bleak House — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/moon,motif/stars,concept/fear,concept/hope,form/riddle"></span>
 
 
 Mrs. Snagsby sounds no timbrel in anybody’s ears, but holds her
@@ -56654,7 +56654,7 @@ of moons, the star of [[Stars|stars]]. It is the light of Terewth.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Bleak House — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Bleak House — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/innocent,archetype/orphan,archetype/shadow,motif/city,motif/crown,motif/love,motif/nature,motif/night,motif/pain,motif/soul,motif/tears,motif/time,concept/deception,concept/doubt,concept/history,concept/nature,concept/suffering,form/history,setting/court"></span>
 
 
 Mr. Chadband draws himself up again and looks triumphantly at Mr.
@@ -56823,7 +56823,7 @@ his [[Shadow|shadow]].
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Bleak House — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Bleak House — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/grave,motif/home,motif/memory,motif/night,motif/road,motif/silence,motif/sleep,motif/stars,motif/time,motif/water,motif/well,concept/body,concept/fear,concept/humility"></span>
 
 
 CHAPTER XXVI
@@ -56960,7 +56960,7 @@ as me, and near as broad across the shoulders.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Bleak House — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Bleak House — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/fool,motif/dreams,motif/fire,motif/garden,motif/hill,motif/home,motif/night,motif/time,motif/well,concept/beauty,concept/doubt"></span>
 
 
 “Did she die at ninety, guv’ner?” inquires Phil.
@@ -57092,7 +57092,7 @@ clear away the breakfast.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Bleak House — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Bleak House — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/bells,motif/city,motif/fire,motif/spring,motif/stars,motif/time,motif/well,concept/body,concept/fear,concept/hope,setting/london"></span>
 
 
 Mr. George, after laughing cheerfully and clapping him on the
@@ -57220,7 +57220,7 @@ standing faced about towards him with his broadsword in his hand.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="Bleak House — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="Bleak House — Chapter 26 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/fire,motif/well,motif/wind,concept/body,concept/self"></span>
 
 
 Mr. George answers with a cool nod, adding, “Go on. You have not come
@@ -57360,7 +57360,7 @@ opinion still is that the captain is not dead.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_05" data-title="Bleak House — Chapter 26 (part 5)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_05" data-title="Bleak House — Chapter 26 (part 5)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/prayer,motif/time,motif/well,motif/window,concept/friendship,form/fragment"></span>
 
 
 “Bosh!” observes Mr. George.
@@ -57483,7 +57483,7 @@ of being jolted in the back.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Bleak House — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Bleak House — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/fire,motif/leaves,motif/time,motif/well,motif/window,concept/conscience,character/lincoln,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER XXVII
@@ -57637,7 +57637,7 @@ paper tied together.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Bleak House — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Bleak House — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/well"></span>
 
 
 All three repetitions Mr. George pronounces in a mechanical manner,
@@ -57764,7 +57764,7 @@ assistance, my excellent friend!”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Bleak House — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Bleak House — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="topos/quest,archetype/monster,motif/dust,motif/fire,motif/horse,motif/nature,motif/road,motif/water,motif/well,motif/wind,motif/window,concept/longing,concept/nature,concept/self,concept/truth,histref/america,setting/america,setting/castle,setting/london,character/kent"></span>
 
 
 Mr. Tulkinghorn, with some shadowy sign of amusement manifesting
@@ -57894,7 +57894,7 @@ have not much to do with all this!”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_04" data-title="Bleak House — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_04" data-title="Bleak House — Chapter 27 (part 4)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/home,motif/rose,motif/time"></span>
 
 
 Mr. George is becoming thoughtful, sitting before the [[Fire|fire]] in the
@@ -58019,7 +58019,7 @@ him what it is.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_05" data-title="Bleak House — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_05" data-title="Bleak House — Chapter 27 (part 5)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,character/lincoln"></span>
 
 
 It is that he cannot have too little to do with people who are too
@@ -58101,7 +58101,7 @@ to the shooting gallery.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Bleak House — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Bleak House — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/desire,motif/time,motif/water,motif/well,concept/body,concept/honour,concept/melancholy,concept/truth,character/lady_dedlock,character/sir_leicester_dedlock,character/volumnia"></span>
 
 
 CHAPTER XXVIII
@@ -58216,7 +58216,7 @@ woman in the whole stud.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Bleak House — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Bleak House — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/ghosts,motif/leaves,motif/night,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/doubt,concept/truth,character/lady_dedlock,character/volumnia"></span>
 
 
 Such the guests in the long drawing-room at Chesney Wold this dismal
@@ -58356,7 +58356,7 @@ and that of Chesney Wold to the restless flights of ironmasters.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Bleak House — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Bleak House — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/childhood,motif/desire,motif/home,motif/love,motif/marriage,motif/time,motif/well,concept/beauty,concept/doubt,concept/honour,concept/pride,concept/truth,character/lady_dedlock"></span>
 
 
 “[[Lady Dedlock]] has been so kind,” proceeds Mr. Rouncewell with a
@@ -58480,7 +58480,7 @@ I think they indicate to me my own course now.”
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_04" data-title="Bleak House — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_04" data-title="Bleak House — Chapter 28 (part 4)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/lover,motif/fire,motif/leaves,motif/love,motif/nature,motif/night,motif/tears,motif/time,motif/wind,concept/beauty,concept/education,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/truth,character/lady_dedlock,character/volumnia"></span>
 
 
 Sir Leicester’s magnificence explodes. Calmly, but terribly.
@@ -58635,7 +58635,7 @@ as if all the cousins had been changed into [[Leaves|leaves]].
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Bleak House — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Bleak House — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/flowers,motif/leaves,motif/love,motif/secrets,motif/time,motif/well,motif/wheel,motif/wind,motif/winter,concept/beauty,concept/resignation,character/don_quixote,character/othello"></span>
 
 
 CHAPTER XXIX
@@ -58748,7 +58748,7 @@ Leicester.”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Bleak House — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Bleak House — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/fire,motif/love,motif/well,motif/window,concept/doubt,concept/honour,character/esther_summerson,character/lady_dedlock,character/lincoln"></span>
 
 
 With this apology, Mercury directs a scornful and indignant look at
@@ -58887,7 +58887,7 @@ thought it.”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Bleak House — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Bleak House — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/lightning,motif/time,motif/water,motif/well,concept/honour,character/esther_summerson,character/lady_dedlock"></span>
 
 
 Young man of the name of Guppy! There have been times, when ladies
@@ -59018,7 +59018,7 @@ the young man of the name of Guppy.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Bleak House — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Bleak House — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/night,motif/time,motif/well,concept/honour"></span>
 
 
 “It was supposed, your ladyship, that he left no rag or scrap behind
@@ -59096,7 +59096,7 @@ renounced me and my name! O my [[Child|child]], O my [[Child|child]]!”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Bleak House — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Bleak House — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/nature,concept/self,character/richard"></span>
 
 
 CHAPTER XXX
@@ -59240,7 +59240,7 @@ dear [[Self|self]], my [[Love|love]]?”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Bleak House — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Bleak House — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/innocent,archetype/prophet,motif/fire,motif/garden,motif/home,motif/horse,motif/lamb,motif/love,motif/marriage,motif/night,motif/pain,motif/time,motif/well,concept/truth"></span>
 
 
 “Me, Mrs. Woodcourt?”
@@ -59360,7 +59360,7 @@ were Indians.”
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Bleak House — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Bleak House — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/blood,motif/garden,motif/home,motif/horse,motif/marriage,motif/tears,motif/well,concept/mercy,concept/truth"></span>
 
 
 “Indians, Caddy?”
@@ -59482,7 +59482,7 @@ dustman’s [[Horse|horse]].
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_04" data-title="Bleak House — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_04" data-title="Bleak House — Chapter 30 (part 4)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/marriage,motif/night,motif/tears,motif/time,motif/well,concept/hope,concept/melancholy,character/richard"></span>
 
 
 Thinking that the display of Caddy’s wardrobe would be the best means
@@ -59608,7 +59608,7 @@ Caddy, coaxing him, with her arms round his neck.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_05" data-title="Bleak House — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_05" data-title="Bleak House — Chapter 30 (part 5)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/lover,archetype/tyrant,motif/clock,motif/dust,motif/flowers,motif/home,motif/night,motif/time,motif/water"></span>
 
 
 Mr. Jellyby groaned and laid his head against the wall again, and
@@ -59714,7 +59714,7 @@ into the wine-glasses and then put him in his mouth.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_06" data-title="Bleak House — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_06" data-title="Bleak House — Chapter 30 (part 6)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/home,motif/love,motif/marriage,motif/pain,motif/road,motif/spring,motif/summer,motif/time,motif/well,motif/wind,concept/honour,concept/hope,concept/self"></span>
 
 
 My guardian, with his sweet temper and his quick perception and his
@@ -59836,7 +59836,7 @@ was sunshine and [[Summer|summer]] air.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Bleak House — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Bleak House — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/garden,motif/hill,motif/home,motif/night,motif/stars,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/pride,setting/london,character/nurse"></span>
 
 
 CHAPTER XXXI
@@ -59970,7 +59970,7 @@ burning, and a stifling vapour set towards us with a pale-blue glare.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Bleak House — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Bleak House — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/night,motif/pain,motif/road,motif/time,motif/window,form/fragment,setting/london,character/nurse"></span>
 
 
 We came to the cottage, where there was a feeble candle in the
@@ -60112,7 +60112,7 @@ drunken husband.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Bleak House — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Bleak House — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/hill,motif/home,motif/journey,motif/night,motif/noon,motif/prison,motif/road,motif/well,motif/window,concept/doubt,concept/wonder,form/fragment"></span>
 
 
 I was afraid of staying then to speak to either woman, lest I should
@@ -60244,7 +60244,7 @@ than merely as a poor vagabond—which any one can be.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Bleak House — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Bleak House — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/home,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/doubt,setting/london,character/harold_skimpole,character/lord_mayor"></span>
 
 
 “In the meantime,” I ventured to observe, “he is getting worse.”
@@ -60375,7 +60375,7 @@ and that he had with great natural politeness taken himself off.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_05" data-title="Bleak House — Chapter 31 (part 5)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_05" data-title="Bleak House — Chapter 31 (part 5)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/love,motif/night,motif/prayer,motif/tears,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/hope,concept/wonder,character/nurse"></span>
 
 
 Every possible inquiry was made, and every place was searched. The
@@ -60492,7 +60492,7 @@ likeness again.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_06" data-title="Bleak House — Chapter 31 (part 6)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_06" data-title="Bleak House — Chapter 31 (part 6)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/love,motif/night,motif/tears,motif/time,motif/well,motif/window,concept/pride,character/nurse"></span>
 
 
 It was a great morning when I could tell Ada all this as she stood
@@ -60594,7 +60594,7 @@ Charley; I am blind.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Bleak House — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Bleak House — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/night,motif/sleep,motif/stars,motif/time,motif/water,motif/well,motif/window,setting/court,character/lincoln"></span>
 
 
 CHAPTER XXXII
@@ -60704,7 +60704,7 @@ greasy here, sir?”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Bleak House — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Bleak House — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/doubt,concept/hope,setting/court"></span>
 
 
 “Why, I have noticed myself that there is a queer kind of flavour in
@@ -60846,7 +60846,7 @@ attitude.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Bleak House — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Bleak House — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/fire,motif/garden,motif/night,motif/time,motif/well,motif/wind,concept/beauty,concept/hope,character/lady_dedlock"></span>
 
 
 “Wasn’t that Snagsby talking to you, Tony?”
@@ -60988,7 +60988,7 @@ Mr. Snagsby about their cooking chops at the Sol’s Arms.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Bleak House — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Bleak House — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/clock,motif/fire,motif/ghosts,motif/night,motif/silence,motif/snow,motif/time,motif/well,motif/window,motif/winter,concept/doubt,concept/honour,form/comedy,character/lady_dedlock"></span>
 
 
 “And it was then,” resumes Mr. Guppy, still glancing with remarkable
@@ -61125,7 +61125,7 @@ you, since you have been such allies?”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_05" data-title="Bleak House — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_05" data-title="Bleak House — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/bells,motif/death,motif/fire,motif/time,motif/water,motif/window,concept/body,concept/doubt,concept/wonder,setting/court"></span>
 
 
 Tony shakes his head. “I don’t know. Can’t imagine. If we get through
@@ -61259,7 +61259,7 @@ can be died.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Bleak House — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Bleak House — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/desire,motif/fire,motif/night,motif/time,motif/water,motif/well,concept/melancholy,setting/court,setting/london"></span>
 
 
 CHAPTER XXXIII
@@ -61372,7 +61372,7 @@ to keep the door.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Bleak House — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Bleak House — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/fire,motif/home,motif/love,motif/night,motif/time,concept/doubt,concept/hope,character/lincoln"></span>
 
 
 “Good gracious, gentlemen!” says Mr. Snagsby, coming up. “What’s this
@@ -61516,7 +61516,7 @@ they walk on silently for a while to cool down again.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Bleak House — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Bleak House — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/death,motif/desire,motif/home,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/revenge,concept/wonder,setting/court"></span>
 
 
 “Tony,” says Mr. Guppy then, “if you heard your friend out instead of
@@ -61658,7 +61658,7 @@ poll-parrot! Sit down!”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_04" data-title="Bleak House — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_04" data-title="Bleak House — Chapter 33 (part 4)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/king,motif/dance,motif/death,motif/time,motif/wind,concept/body,concept/honour,concept/melancholy,setting/court,character/chorus,character/lincoln,character/witch"></span>
 
 
 This little apostrophe to Mrs. Smallweed is occasioned by a
@@ -61793,7 +61793,7 @@ Smallweed’s conduct does him great [[Honour|honour]].
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_05" data-title="Bleak House — Chapter 33 (part 5)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_05" data-title="Bleak House — Chapter 33 (part 5)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/blood,motif/clock,motif/leaves,motif/night,motif/time,motif/well,concept/beauty,concept/guilt,concept/honour,setting/court,setting/verona,character/lady_dedlock"></span>
 
 
 Out of the [[Court|court]], and a long way out of it, there is considerable
@@ -61971,7 +61971,7 @@ rubs it a good deal in the course of the evening.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Bleak House — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Bleak House — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/time,motif/well,concept/wonder"></span>
 
 
 CHAPTER XXXIV
@@ -62117,7 +62117,7 @@ Gallery.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Bleak House — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Bleak House — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/well,concept/hope,concept/truth,concept/wonder,histref/america,setting/america"></span>
 
 
 “[[Well]], George, old fellow,” says she, “and how do YOU do, this
@@ -62249,7 +62249,7 @@ them while he speaks.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Bleak House — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Bleak House — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/city,motif/home,motif/leaves,motif/soul,motif/well,concept/hope,concept/truth"></span>
 
 
 “I do assure you both, there’s nothing I wouldn’t do to discharge
@@ -62386,7 +62386,7 @@ letter.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Bleak House — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Bleak House — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/time,motif/well,motif/window,character/lincoln"></span>
 
 
 “Judy,” says the old man. “Have you got the pipe? Give it to me. Did
@@ -62517,7 +62517,7 @@ waiting.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_05" data-title="Bleak House — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_05" data-title="Bleak House — Chapter 34 (part 5)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/time,motif/well,motif/window,concept/melancholy,character/clifford"></span>
 
 
 “I beg your pardon, sir, but I think those gentlemen are military?”
@@ -62648,7 +62648,7 @@ desk with a countenance as unperturbable as [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_06" data-title="Bleak House — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_06" data-title="Bleak House — Chapter 34 (part 6)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/leaves,motif/love,motif/seasons,motif/soul,motif/time,motif/well"></span>
 
 
 Nor has he anything more to say or do but to nod once in the same
@@ -62738,7 +62738,7 @@ that he’ll smoke his pipe in the street a bit.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Bleak House — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Bleak House — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/flowers,motif/garden,motif/home,motif/love,motif/night,motif/prayer,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/window,concept/fear,character/nurse"></span>
 
 
 CHAPTER XXXV
@@ -62854,7 +62854,7 @@ that was not new to my thoughts.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Bleak House — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Bleak House — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/memory,motif/mirror,motif/nature,motif/poison,motif/soul,motif/time,motif/well,motif/wheel,motif/wind,concept/hope,concept/nature,concept/suffering,concept/truth,concept/wonder,setting/mountains,character/richard"></span>
 
 
 First I complimented Charley on the room, and indeed it was so fresh
@@ -62987,7 +62987,7 @@ Rick’s cradle.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Bleak House — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Bleak House — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/prayer,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/mercy,concept/self,concept/truth,setting/court,character/richard"></span>
 
 
 “But, guardian, may we not [[Hope|hope]] that a little experience will teach
@@ -63107,7 +63107,7 @@ peace had not departed from it.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_04" data-title="Bleak House — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_04" data-title="Bleak House — Chapter 35 (part 4)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/pain,motif/road,motif/tears,motif/well,motif/window,concept/courage,concept/history,concept/honour,form/history,setting/court"></span>
 
 
 My guardian now came every day. In a week or so more I could walk
@@ -63246,7 +63246,7 @@ assure you, to the bone!”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_05" data-title="Bleak House — Chapter 35 (part 5)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_05" data-title="Bleak House — Chapter 35 (part 5)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/monster,motif/birds,motif/death,motif/fire,motif/home,motif/love,motif/memory,motif/night,motif/prison,motif/secrets,motif/silence,motif/storm,motif/time,motif/well,concept/fear,concept/history,concept/honour,form/history,character/richard"></span>
 
 
 She slightly showed me her arm, and it was fearfully thin indeed.
@@ -63381,7 +63381,7 @@ indeed!
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_06" data-title="Bleak House — Chapter 35 (part 6)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_06" data-title="Bleak House — Chapter 35 (part 6)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/journey,motif/prayer,motif/road,motif/rose,motif/well,concept/doubt,concept/imagination"></span>
 
 
 My poor little visitor made me a present of the account, and when as
@@ -63437,7 +63437,7 @@ he had thought me when I found some favour in his eyes, at the
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Bleak House — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Bleak House — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/flowers,motif/garden,motif/hill,motif/home,motif/mirror,motif/nature,motif/night,motif/road,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/nature,setting/london"></span>
 
 
 CHAPTER XXXVI
@@ -63587,7 +63587,7 @@ this order we returned [[Home|home]], to the great delight of the village.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Bleak House — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Bleak House — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/cross,motif/flowers,motif/leaves,motif/love,motif/marriage,motif/night,motif/soul,motif/tears,motif/time,concept/education,concept/fear,concept/self,histref/america,setting/america,character/lady_dedlock"></span>
 
 
 Charley and I had reason to call it the most friendly of villages, I
@@ -63695,7 +63695,7 @@ had never seen in hers before.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Bleak House — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Bleak House — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/home,motif/love,motif/road,motif/silence,motif/summer,motif/tears,motif/time,motif/well,concept/despair,concept/endurance,concept/hope,concept/providence,character/lady_dedlock"></span>
 
 
 A dread and faintness fell upon me, and I called to Charley. Lady
@@ -63825,7 +63825,7 @@ master of the mysteries of great houses.”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_04" data-title="Bleak House — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_04" data-title="Bleak House — Chapter 36 (part 4)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/desert,motif/desire,motif/home,motif/love,motif/memory,motif/road,motif/secrets,motif/sleep,motif/time,concept/conscience,concept/hope,concept/melancholy,concept/pride,concept/suffering,concept/truth,setting/desert,character/lady_dedlock"></span>
 
 
 “Has he any suspicions?”
@@ -63949,7 +63949,7 @@ should be then alive.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_05" data-title="Bleak House — Chapter 36 (part 5)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_05" data-title="Bleak House — Chapter 36 (part 5)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,archetype/shadow,motif/clock,motif/garden,motif/grave,motif/night,motif/road,motif/sleep,motif/time,motif/well,motif/wind,motif/window,concept/grotesque,concept/truth,setting/court,character/queen"></span>
 
 
 These are the real feelings that I had. I fell asleep worn out, and
@@ -64051,7 +64051,7 @@ had the bird out ready as an important part of the establishment.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_06" data-title="Bleak House — Chapter 36 (part 6)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_06" data-title="Bleak House — Chapter 36 (part 6)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/dust,motif/garden,motif/home,motif/love,motif/night,motif/road,motif/tears,motif/well,concept/fear"></span>
 
 
 There were more than two full hours yet to elapse before she could
@@ -64114,7 +64114,7 @@ pressing me to her faithful heart.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Bleak House — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Bleak House — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/flowers,motif/garden,motif/great_house,motif/home,motif/love,motif/night,motif/time,motif/well,concept/beauty,concept/doubt,concept/education,setting/london,character/lady_dedlock,character/queen,character/richard"></span>
 
 
 CHAPTER XXXVII
@@ -64243,7 +64243,7 @@ wish to talk than you, for I want you to understand me.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Bleak House — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Bleak House — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/nature,concept/pride,concept/truth,concept/wonder,setting/court,character/john_jarndyce,character/richard"></span>
 
 
 “And I want you, [[Richard]],” said I, shaking my head, “to understand
@@ -64375,7 +64375,7 @@ shall know now!
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Bleak House — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Bleak House — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/memory,motif/nature,motif/night,motif/ship,motif/sleep,motif/well,concept/hope,concept/nature,setting/ship,character/bottom,character/john_jarndyce,character/richard"></span>
 
 
 He told Ada, in his most ingenuous way, that he had not come to make
@@ -64499,7 +64499,7 @@ may smoothly happen that are convenient enough.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Bleak House — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Bleak House — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/cross,motif/love,motif/road,motif/time,motif/well,concept/freedom,concept/hope,concept/truth,setting/court,character/john_jarndyce,character/richard"></span>
 
 
 I was so touched with pity for [[Richard]] that I could not reproach him
@@ -64632,7 +64632,7 @@ the head with greater vigour. Of course I ask for no secrecy at Bleak
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_05" data-title="Bleak House — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_05" data-title="Bleak House — Chapter 37 (part 5)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/home,motif/love,motif/time,concept/fear,concept/hope,concept/truth,concept/wonder,character/harold_skimpole,character/richard"></span>
 
 
 “[[Richard]],” said I, “you place great confidence in me, but I [[Fear|fear]] you
@@ -64768,7 +64768,7 @@ responsibility, I am responsible.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_06" data-title="Bleak House — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_06" data-title="Bleak House — Chapter 37 (part 6)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/horse,motif/lightning,motif/night,motif/time,concept/despair,concept/doubt,concept/hope,character/richard,character/touchstone"></span>
 
 
 The perfect ease of manner with which he put the money up again and
@@ -64893,7 +64893,7 @@ early this morning and came down to confer with him.”
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_07" data-title="Bleak House — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_07" data-title="Bleak House — Chapter 37 (part 7)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/hill,motif/horse,motif/journey,motif/lightning,motif/love,motif/night,motif/road,motif/summer,motif/well,character/richard,character/speed"></span>
 
 
 “Yes,” said [[Richard]], flushed, and looking triumphantly at Ada and me,
@@ -65006,7 +65006,7 @@ I think I see my darling.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Bleak House — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Bleak House — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/time,motif/well,motif/window,concept/ambition,concept/fear,concept/melancholy,setting/london"></span>
 
 
 CHAPTER XXXVIII
@@ -65138,7 +65138,7 @@ as good as a mission.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Bleak House — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Bleak House — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/dance,motif/home,motif/nature,motif/night,motif/road,motif/rose,motif/time,concept/melancholy,concept/nature,concept/self,setting/london"></span>
 
 
 “My dear,” said Caddy, delighted, “you can’t think how you cheer me.
@@ -65257,7 +65257,7 @@ let him off.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Bleak House — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Bleak House — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/orphan,motif/swallow,motif/time,concept/doubt,concept/friendship,concept/history,concept/honour,form/history"></span>
 
 
 Not only was the portrait there, but we found the original there too.
@@ -65397,7 +65397,7 @@ do this, for my peace.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Bleak House — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Bleak House — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/city,motif/home,motif/marriage,motif/sleep,motif/soul,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/truth,setting/london,setting/oxford"></span>
 
 
 “I am bound to confess,” said Mr. Guppy, “that you express yourself,
@@ -65508,7 +65508,7 @@ troubled state of mind.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_01" data-title="Bleak House — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_01" data-title="Bleak House — Chapter 39 (part 1)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/death,motif/dust,motif/fire,motif/home,motif/memory,concept/doubt"></span>
 
 
 CHAPTER XXXIX
@@ -65622,7 +65622,7 @@ advantage to that eminently respectable legion, Vholes.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_02" data-title="Bleak House — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_02" data-title="Bleak House — Chapter 39 (part 2)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/time,motif/well,motif/wheel,concept/despair,concept/hope,concept/self,setting/court,character/richard"></span>
 
 
 The Chancellor is, within these ten minutes, “up” for the long
@@ -65742,7 +65742,7 @@ deny that.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_03" data-title="Bleak House — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_03" data-title="Bleak House — Chapter 39 (part 3)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/leaves,motif/sleep,motif/well,concept/body,concept/honour,character/john_jarndyce,character/richard"></span>
 
 
 “Mr. Carstone, you are represented by—”
@@ -65865,7 +65865,7 @@ while, Vholes’s official cat watches the mouse’s hole.
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_04" data-title="Bleak House — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_04" data-title="Bleak House — Chapter 39 (part 4)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="archetype/monster,archetype/shadow,motif/clock,motif/fire,motif/garden,motif/night,motif/time,motif/well,motif/wheel,concept/doubt,concept/melancholy,concept/truth,concept/wonder,setting/court,character/lincoln,character/richard"></span>
 
 
 Lastly, the client, shaking hands, beseeches Mr. Vholes, for heaven’s
@@ -65988,7 +65988,7 @@ responsibility.”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_05" data-title="Bleak House — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_05" data-title="Bleak House — Chapter 39 (part 5)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="topos/double,motif/crown,motif/dust,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/well,concept/history,concept/nature,form/history,setting/court"></span>
 
 
 Mr. Weevle nods. Mr. Guppy, much elevated in his own opinion by
@@ -66102,7 +66102,7 @@ pray!”
 
 
 
-<span class="atom-split" data-atom="chapter_39--part_06" data-title="Bleak House — Chapter 39 (part 6)" data-chapter="Chapter 39" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_39--part_06" data-title="Bleak House — Chapter 39 (part 6)" data-chapter="Chapter 39" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/nature,motif/night,motif/time,motif/well,concept/beauty,concept/doubt,concept/nature,setting/london,character/lady_dedlock,character/speed"></span>
 
 
 As they go upstairs, Mr. Guppy lifts his eyebrows inquiringly and
@@ -66211,7 +66211,7 @@ and even in his cultivated whiskers.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Bleak House — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Bleak House — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/fire,motif/garden,motif/leaves,motif/marriage,motif/mirror,motif/moon,motif/ship,motif/storm,motif/summer,motif/time,motif/water,motif/well,concept/honour,concept/hope,concept/mercy,setting/cathedral,setting/court,setting/london,setting/ship,character/phantom,character/sir_leicester_dedlock,character/volumnia"></span>
 
 
 CHAPTER XL
@@ -66320,7 +66320,7 @@ high [[Cathedral|cathedral]] arches fantastically broken.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Bleak House — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Bleak House — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/shadow,motif/dance,motif/dust,motif/fire,motif/great_house,motif/home,motif/moon,motif/summer,motif/time,motif/well,concept/body,concept/common_man,concept/honour,concept/melancholy,concept/sublime,character/volumnia"></span>
 
 
 Now the [[Moon|moon]] is high; and the [[Great House|great house]], needing habitation more
@@ -66445,7 +66445,7 @@ to send them [[Home|home]] when done.”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Bleak House — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Bleak House — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/desire,motif/time,motif/well,motif/window,concept/doubt,setting/court,character/lady_dedlock,character/volumnia"></span>
 
 
 “I regret to say, [[Volumnia]], that in many places the people have shown
@@ -66591,7 +66591,7 @@ takes a pinch of snuff.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_04" data-title="Bleak House — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_04" data-title="Bleak House — Chapter 40 (part 4)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/lover,motif/blood,motif/fire,motif/moon,motif/silence,motif/time,motif/well,motif/wind,motif/window,concept/greatness,concept/honour,concept/hope,character/lady_dedlock,character/volumnia"></span>
 
 
 “Now,” says Sir Leicester. “How has that contest gone?”
@@ -66731,7 +66731,7 @@ she gave birth to a [[Child|child]] of which he was the father.”
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_05" data-title="Bleak House — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_05" data-title="Bleak House — Chapter 40 (part 5)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/night,motif/time,motif/water,concept/history,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,form/history,character/lady_dedlock,character/volumnia"></span>
 
 
 By the light of the [[Fire|fire]] he can be seen looking towards the
@@ -66780,7 +66780,7 @@ contrast.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Bleak House — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Bleak House — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/journey,motif/love,motif/marriage,motif/moon,motif/night,motif/stars,motif/time,motif/well,motif/window,concept/fear,concept/mercy,concept/self,concept/truth,character/lady_dedlock"></span>
 
 
 CHAPTER XLI
@@ -66921,7 +66921,7 @@ dictate. I am ready to do it.”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Bleak House — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Bleak House — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/moon,motif/night,motif/secrets,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/doubt,concept/wonder,character/lady_dedlock"></span>
 
 
 And she would do it, thinks the lawyer, watchful of the firm hand
@@ -67061,7 +67061,7 @@ can prepare him for the blow.”
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Bleak House — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Bleak House — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/death,motif/dreams,motif/fire,motif/flag,motif/flowers,motif/home,motif/leaves,motif/machine,motif/marriage,motif/memory,motif/night,motif/pain,motif/sleep,motif/stars,motif/time,motif/window,concept/ambition,concept/deception,concept/guilt,concept/honour,concept/truth,setting/court,character/bottom,character/lady_dedlock,character/volumnia"></span>
 
 
 “Not my flight?” she returned. “Think of it again.”
@@ -67211,7 +67211,7 @@ Lincolnshire.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Bleak House — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Bleak House — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/birds,motif/dust,motif/home,motif/journey,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/wonder,setting/court,setting/london,character/lincoln"></span>
 
 
 CHAPTER XLII
@@ -67338,7 +67338,7 @@ when the stationer has finished, “And that’s all, is it, Snagsby?”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Bleak House — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Bleak House — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/spring,motif/time,motif/well,concept/doubt,form/allegory"></span>
 
 
 “Why yes, sir, that’s all,” says Mr. Snagsby, ending with a cough
@@ -67481,7 +67481,7 @@ just stated, and it not being conceded, you will come again.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_03" data-title="Bleak House — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_03" data-title="Bleak House — Chapter 42 (part 3)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/prison,motif/time,motif/well,concept/doubt,concept/faith"></span>
 
 
 “And again,” says mademoiselle with more tight and angry nods. “And
@@ -67582,7 +67582,7 @@ pertinacious Roman pointing from the ceiling.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Bleak House — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Bleak House — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/time,motif/well,concept/imagination,concept/nature,character/harold_skimpole,character/richard"></span>
 
 
 CHAPTER XLIII
@@ -67710,7 +67710,7 @@ infant!”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Bleak House — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Bleak House — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/love,motif/rose,motif/time,motif/water,concept/beauty,form/comedy,setting/london"></span>
 
 
 In pursuance of this plan, we went into [[London]] on an early day and
@@ -67839,7 +67839,7 @@ sixpence is in Money—which I don’t understand?”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Bleak House — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Bleak House — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/nature,motif/time,motif/well,motif/wind,concept/beauty,concept/nature,concept/suffering,form/comedy,form/hymn"></span>
 
 
 “[[Well]],” said my guardian, by no means displeased with this artless
@@ -67968,7 +67968,7 @@ the purpose.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Bleak House — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Bleak House — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,archetype/great_mother,motif/flowers,motif/home,motif/nature,motif/road,motif/summer,motif/time,motif/well,motif/wind,motif/window,concept/honour,concept/nature,concept/sublime,concept/wonder,form/comedy,character/sir_leicester_dedlock"></span>
 
 
 “My roses,” he said when he came back, “take care of mama. She is
@@ -68087,7 +68087,7 @@ that the fact is the reverse.”
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_05" data-title="Bleak House — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_05" data-title="Bleak House — Chapter 43 (part 5)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/artist,motif/night,motif/pain,motif/time,concept/hope,concept/self,character/harold_skimpole,character/lady_dedlock,character/sir_leicester_dedlock,character/speed"></span>
 
 
 My guardian delicately dismissed this remark without making any
@@ -68212,7 +68212,7 @@ readily understand.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_06" data-title="Bleak House — Chapter 43 (part 6)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_06" data-title="Bleak House — Chapter 43 (part 6)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/night,motif/secrets,motif/sleep,motif/storm,motif/time,concept/fear,concept/honour,concept/hope,concept/nature,concept/truth,character/lady_dedlock,character/sir_leicester_dedlock"></span>
 
 
 “What concerns you, my dear Esther,” said he, “concerns us all. You
@@ -68323,7 +68323,7 @@ honoured him.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Bleak House — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Bleak House — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,motif/winter,concept/doubt,concept/self,concept/truth"></span>
 
 
 CHAPTER XLIV
@@ -68475,7 +68475,7 @@ things.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Bleak House — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Bleak House — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/death,motif/home,motif/love,motif/marriage,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/history,form/history"></span>
 
 
 I began with my overshadowed [[Childhood|childhood]], and passed through those
@@ -68583,7 +68583,7 @@ deal of good, and happy in the undeserved [[Love|love]] of the best of men.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Bleak House — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Bleak House — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/dust,motif/flowers,motif/love,motif/memory,motif/night,motif/time,motif/window,character/richard"></span>
 
 
 I thought, all at once, if my guardian had married some one else, how
@@ -68671,7 +68671,7 @@ nothing to my precious pet about it.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Bleak House — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Bleak House — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/fire,motif/garden,motif/home,motif/journey,motif/nature,motif/rose,motif/silence,motif/well,concept/beauty,concept/doubt,concept/hope,concept/nature,concept/truth,character/richard"></span>
 
 
 CHAPTER XLV
@@ -68798,7 +68798,7 @@ sir.”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Bleak House — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Bleak House — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/journey,motif/night,motif/ship,motif/time,motif/well,motif/wheel,concept/ambition,setting/london,setting/ship,character/richard"></span>
 
 
 “I thank you, Mr. Jarndyce,” said Mr. Vholes, putting out his long
@@ -68910,7 +68910,7 @@ in, [[Richard]]? It’s only Dame Durden.”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Bleak House — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Bleak House — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/road,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/wheel,motif/window,concept/madness,concept/melancholy,character/john_jarndyce,character/richard"></span>
 
 
 He was writing at a table, with a great confusion of clothes, tin
@@ -69048,7 +69048,7 @@ thank God!”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_04" data-title="Bleak House — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_04" data-title="Bleak House — Chapter 45 (part 4)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/ship,motif/time,concept/courage,setting/london,setting/ship,character/richard,character/richard_carstone"></span>
 
 
 His sanguine hopes were rising within him and lighting up his
@@ -69178,7 +69178,7 @@ they met with cordial pleasure.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_05" data-title="Bleak House — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_05" data-title="Bleak House — Chapter 45 (part 5)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/blood,motif/love,motif/pain,motif/ship,motif/time,motif/well,concept/body,concept/despair,concept/self,concept/truth,setting/london,setting/ship,character/richard"></span>
 
 
 I saw that after their first greetings were over, and when they spoke
@@ -69269,7 +69269,7 @@ remembered, to be gently pitied, not to be quite forgotten.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Bleak House — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Bleak House — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/blood,motif/desert,motif/dust,motif/moon,motif/night,motif/road,motif/sleep,motif/time,concept/imagination,concept/revenge,concept/truth,concept/wonder,setting/desert"></span>
 
 
 CHAPTER XLVI
@@ -69400,7 +69400,7 @@ in the street, “And so your husband is a brickmaker?”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Bleak House — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Bleak House — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/leaves,motif/night,motif/road,motif/tears,motif/time,motif/water,motif/well,concept/wonder,form/riddle,setting/court,character/speed"></span>
 
 
 “Why, I suppose so from the colour of the clay upon your bag and on
@@ -69533,7 +69533,7 @@ and took him [[Home|home]]—”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Bleak House — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Bleak House — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/night,motif/tears,motif/time,motif/well,concept/faith,concept/resignation,concept/self,setting/court,setting/london,character/bottom,character/richard"></span>
 
 
 Allan shrinks back from him with a sudden horror.
@@ -69704,7 +69704,7 @@ rays of the sunlight and the purer air.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Bleak House — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Bleak House — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/dust,motif/tears,motif/well,concept/wonder,setting/court"></span>
 
 
 CHAPTER XLVII
@@ -69820,7 +69820,7 @@ shirt-sleeves.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Bleak House — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Bleak House — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/detective,motif/crown,motif/desire,motif/grave,motif/home,motif/nature,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/nature"></span>
 
 
 “Your servant, sir,” says Mr. George with a military salute.
@@ -69951,7 +69951,7 @@ interesting about thee.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Bleak House — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Bleak House — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/blood,motif/horse,motif/sleep,motif/time,motif/well,concept/truth,setting/court,character/clifford,character/lincoln"></span>
 
 
 He shuffles slowly into Mr. George’s gallery and stands huddled
@@ -70096,7 +70096,7 @@ chance, in one of the humours he drives me into—he’d go down, sir!”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Bleak House — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Bleak House — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/crown,motif/desert,motif/memory,motif/sleep,motif/time,concept/despair,concept/doubt,concept/melancholy,concept/resignation,setting/court,setting/desert"></span>
 
 
 Mr. George has been so excited that he finds it necessary to wipe his
@@ -70229,7 +70229,7 @@ sorry that I done it, but I didn’t go fur to do it, sir.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_05" data-title="Bleak House — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_05" data-title="Bleak House — Chapter 47 (part 5)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/clock,motif/crown,motif/grave,motif/journey,motif/night,motif/prayer,motif/road,motif/sleep,motif/tears,motif/time,motif/well,concept/self,character/nurse"></span>
 
 
 The stationer softly lays down another half-[[Crown|crown]] and asks him what
@@ -70408,7 +70408,7 @@ us every day.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Bleak House — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Bleak House — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/fire,motif/nature,motif/night,motif/pain,motif/silence,motif/time,motif/wind,motif/window,concept/beauty,concept/hope,concept/humility,concept/nature,concept/pride,character/lady_dedlock"></span>
 
 
 CHAPTER XLVIII
@@ -70550,7 +70550,7 @@ confidence. Do so much for my sake, and thus all ends between us!”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Bleak House — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Bleak House — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="topos/ages_of_the_world,archetype/shadow,motif/death,motif/desire,motif/dust,motif/leaves,motif/memory,motif/night,motif/well,motif/window,concept/doubt,concept/fear,concept/honour,concept/hope,character/bottom,character/lady_dedlock"></span>
 
 
 She detaches herself from her simple-hearted companion and [[Leaves|leaves]] the
@@ -70705,7 +70705,7 @@ our previous understanding?”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Bleak House — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Bleak House — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/leaves,motif/love,motif/night,motif/time,motif/well,motif/window,concept/doubt,concept/hope,character/lady_dedlock"></span>
 
 
 “I beg your pardon,” interposes Mr. Rouncewell’s son’s father. “Sir
@@ -70837,7 +70837,7 @@ him.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_04" data-title="Bleak House — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_04" data-title="Bleak House — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/innocent,motif/night,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/freedom,character/lady_dedlock"></span>
 
 
 [[Lady Dedlock]] dines [[Alone|alone]] in her own room to-day. Sir Leicester is
@@ -70964,7 +70964,7 @@ it void and taking my own course.”
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_05" data-title="Bleak House — Chapter 48 (part 5)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_05" data-title="Bleak House — Chapter 48 (part 5)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/city,motif/clock,motif/cross,motif/garden,motif/hill,motif/home,motif/leaves,motif/moon,motif/night,motif/prison,motif/river,motif/secrets,motif/ship,motif/soul,motif/spring,motif/stars,motif/time,motif/water,motif/wind,concept/doubt,concept/solitude,setting/london,setting/ship,character/lady_dedlock"></span>
 
 
 “I am quite prepared.”
@@ -71097,7 +71097,7 @@ distant ringing hum, as if the [[City|city]] were a vast glass, vibrating.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_06" data-title="Bleak House — Chapter 48 (part 6)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_06" data-title="Bleak House — Chapter 48 (part 6)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/dust,motif/flowers,motif/moon,motif/night,motif/road,motif/soul,motif/stars,motif/time,concept/body,concept/doubt,concept/imagination,form/allegory,character/pistol"></span>
 
 
 What’s that? Who fired a gun or [[Pistol|pistol]]? Where was it?
@@ -71170,7 +71170,7 @@ morning, lying face downward on the floor, shot through the heart.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Bleak House — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Bleak House — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/memory,motif/time,motif/well,concept/friendship,concept/hope,concept/truth,setting/desert,character/queen"></span>
 
 
 CHAPTER XLIX
@@ -71300,7 +71300,7 @@ George, but he smarts and seems put out.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Bleak House — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Bleak House — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/clock,motif/nature,motif/time,motif/water,motif/well,concept/nature,concept/truth,concept/wonder"></span>
 
 
 “He’s extra-drilled,” says Mr. Bagnet. “By a lawyer. Who would put
@@ -71431,7 +71431,7 @@ out of sorts that I bungle at an easy job like this!”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Bleak House — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Bleak House — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/soul,motif/well,motif/window"></span>
 
 
 Mrs. Bagnet concludes that for such a case there is no remedy like a
@@ -71562,7 +71562,7 @@ What a very nice backyard, ma’am! Any way out of that yard, now?”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Bleak House — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Bleak House — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/time,motif/well,concept/friendship,concept/honour,concept/hope,concept/nature"></span>
 
 
 There is no way out of that yard.
@@ -71690,7 +71690,7 @@ must live, and ought to it.”
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_05" data-title="Bleak House — Chapter 49 (part 5)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_05" data-title="Bleak House — Chapter 49 (part 5)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/clock,motif/jewel,motif/night,motif/well,motif/window,concept/doubt,concept/friendship,concept/hope,character/lincoln,character/sir_leicester_dedlock"></span>
 
 
 Mr. Bagnet shakes his head at the old girl to the effect that they
@@ -71825,7 +71825,7 @@ steering him with his elbow over the crossings and up the turnings.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Bleak House — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Bleak House — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/home,motif/journey,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/doubt,concept/education,concept/fear,concept/honour,concept/nature,concept/pride,setting/london"></span>
 
 
 CHAPTER L
@@ -71956,7 +71956,7 @@ it was gone I felt as if I understood its [[Nature|nature]] better.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Bleak House — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Bleak House — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/love,motif/night,motif/pain,motif/tears,motif/time,motif/well,concept/hope,concept/self,setting/london,character/nurse,character/richard"></span>
 
 
 Next day we went to [[London]]. We found our old lodging vacant, and in
@@ -72074,7 +72074,7 @@ her husband, from top to toe.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Bleak House — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Bleak House — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/home,motif/night,motif/noon,motif/tears,motif/time,motif/well,concept/doubt,concept/pride"></span>
 
 
 Last of our visitors, there was Mr. Jellyby. Really when he used to
@@ -72209,7 +72209,7 @@ rest. I really was so, and I had nothing to do but to be myself.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_04" data-title="Bleak House — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_04" data-title="Bleak House — Chapter 50 (part 4)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/night,motif/sleep,motif/well,concept/beauty,concept/self,concept/wonder,character/richard"></span>
 
 
 So I made my sweet girl lean upon my shoulder—how little thinking
@@ -72279,7 +72279,7 @@ darling.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_01" data-title="Bleak House — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_01" data-title="Bleak House — Chapter 51 (part 1)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/ghost,motif/ghosts,motif/nature,motif/time,motif/well,motif/wheel,concept/nature,concept/self,setting/court,setting/london,character/richard"></span>
 
 
 CHAPTER LI
@@ -72426,7 +72426,7 @@ me.”
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_02" data-title="Bleak House — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_02" data-title="Bleak House — Chapter 51 (part 2)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/outsider,motif/dust,motif/love,motif/rose,motif/tears,motif/time,motif/well,concept/fear,concept/truth,character/richard"></span>
 
 
 “A bargain,” said Mr. Woodcourt. “Do as much by me in return.”
@@ -72556,7 +72556,7 @@ bitten away.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_03" data-title="Bleak House — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_03" data-title="Bleak House — Chapter 51 (part 3)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/marriage,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/despair,concept/doubt,concept/hope,concept/pride,concept/self,concept/truth,concept/wonder,character/richard"></span>
 
 
 “Is this a healthy place to live in, [[Richard]], do you think?” said I.
@@ -72686,7 +72686,7 @@ of heart.
 
 
 
-<span class="atom-split" data-atom="chapter_51--part_04" data-title="Bleak House — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_51--part_04" data-title="Bleak House — Chapter 51 (part 4)" data-chapter="Chapter 51" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/silence,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/doubt,concept/forgiveness,concept/hope,character/richard"></span>
 
 
 Thus the [[Time|time]] went on until it became necessary for me to think of
@@ -72810,7 +72810,7 @@ meant to be since the letter and the answer.
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_01" data-title="Bleak House — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_01" data-title="Bleak House — Chapter 52 (part 1)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/desert,motif/night,motif/prison,motif/time,motif/window,concept/fear,concept/truth,setting/desert,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER LII
@@ -72935,7 +72935,7 @@ on your part, so I believe we need give you none on ours.”
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_02" data-title="Bleak House — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_02" data-title="Bleak House — Chapter 52 (part 2)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/innocent,motif/time,motif/well,concept/body,concept/self,concept/truth,setting/court"></span>
 
 
 “Not at all, sir. I thank you with all my heart. If I was not
@@ -73079,7 +73079,7 @@ soon as I was hard and fast here? Got a lawyer.”
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_03" data-title="Bleak House — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_03" data-title="Bleak House — Chapter 52 (part 3)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="archetype/innocent,motif/dust,motif/prison,motif/rose,motif/well,concept/hope,concept/self,concept/truth,concept/wonder"></span>
 
 
 He stopped on hearing some one at the locks and bolts and did not
@@ -73212,7 +73212,7 @@ Mr. Woodcourt, I [[Rose|rose]].
 
 
 
-<span class="atom-split" data-atom="chapter_52--part_04" data-title="Bleak House — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_52--part_04" data-title="Bleak House — Chapter 52 (part 4)" data-chapter="Chapter 52" data-kind="excerpt" data-tags="motif/home,motif/jewel,motif/night,motif/prison,motif/time,motif/window,concept/hope,setting/castle"></span>
 
 
 “We [[Hope|hope]] you will think better of it, Mr. George,” said I, “and we
@@ -73344,7 +73344,7 @@ be maintained.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_01" data-title="Bleak House — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_01" data-title="Bleak House — Chapter 53 (part 1)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/avenger,archetype/detective,archetype/ghost,archetype/innocent,motif/blood,motif/dust,motif/home,motif/journey,motif/nature,motif/secrets,motif/sleep,motif/time,motif/well,motif/wheel,concept/greatness,concept/hope,concept/nature,setting/london,character/lincoln,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER LIII
@@ -73460,7 +73460,7 @@ the whole establishment, and walks in an atmosphere of mysterious
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_02" data-title="Bleak House — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_02" data-title="Bleak House — Chapter 53 (part 2)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/memory,motif/nature,motif/night,motif/tears,motif/time,concept/nature,character/lady_dedlock,character/sir_leicester_dedlock,character/volumnia"></span>
 
 
 No knocking or ringing for Mr. Bucket. He has caused himself to be
@@ -73603,7 +73603,7 @@ fidelity towards one who was ever faithful to me.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_03" data-title="Bleak House — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_03" data-title="Bleak House — Chapter 53 (part 3)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/grave,motif/night,motif/noon,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/humility,concept/melancholy,character/sir_leicester_dedlock,character/volumnia"></span>
 
 
 While he makes this protestation with great emotion and earnestness,
@@ -73731,7 +73731,7 @@ with condescension, “that I am at your disposal when you please.”
 
 
 
-<span class="atom-split" data-atom="chapter_53--part_04" data-title="Bleak House — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_53--part_04" data-title="Bleak House — Chapter 53 (part 4)" data-chapter="Chapter 53" data-kind="excerpt" data-tags="archetype/artist,motif/fire,motif/garden,motif/grave,motif/home,motif/night,motif/time,motif/well,motif/winter,concept/beauty,concept/doubt,character/sir_leicester_dedlock,character/volumnia"></span>
 
 
 Mr. Bucket (still [[Grave|grave]]) inquires if to-morrow morning, now, would
@@ -73905,7 +73905,7 @@ both parties?
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_01" data-title="Bleak House — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_01" data-title="Bleak House — Chapter 54 (part 1)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/pain,motif/silence,motif/sleep,motif/well,concept/hope,character/julius_caesar,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER LIV
@@ -74034,7 +74034,7 @@ of his figure—“also, to take a seat, if you have no objection.”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_02" data-title="Bleak House — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_02" data-title="Bleak House — Chapter 54 (part 2)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,archetype/shadow,motif/blood,motif/death,motif/grave,motif/night,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/poverty,concept/wonder,character/inspector_bucket,character/lady_dedlock,character/lincoln,character/sir_leicester_dedlock"></span>
 
 
 None at all. Mr. Bucket brings a chair and diminishes his [[Shadow|shadow]].
@@ -74158,7 +74158,7 @@ Dedlock, Baronet; and supposing I was to be picked off now, you might
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_03" data-title="Bleak House — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_03" data-title="Bleak House — Chapter 54 (part 3)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/love,motif/time,motif/well,concept/doubt,concept/honour,character/inspector_bucket,character/sir_leicester_dedlock"></span>
 
 
 True. Sir Leicester, avoiding, with some trouble those obtrusive
@@ -74289,7 +74289,7 @@ it on the arm that fired that shot?”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_04" data-title="Bleak House — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_04" data-title="Bleak House — Chapter 54 (part 4)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/dust,motif/love,motif/nature,motif/night,motif/noon,motif/road,motif/tears,motif/time,motif/well,concept/doubt,concept/jealousy,concept/nature,concept/wonder,setting/court,character/sir_leicester_dedlock"></span>
 
 
 Such is the dread power of the man, and so terribly evident it is
@@ -74415,7 +74415,7 @@ ceaseless working of her mill of [[Jealousy|jealousy]].
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_05" data-title="Bleak House — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_05" data-title="Bleak House — Chapter 54 (part 5)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/frost,motif/time,motif/water,concept/doubt,concept/wonder,character/sir_leicester_dedlock"></span>
 
 
 While this exordium is in hand—and it takes some [[Time|time]]—Mr. Bucket,
@@ -74541,7 +74541,7 @@ dark cheek beating like a [[Clock|clock]].
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_06" data-title="Bleak House — Chapter 54 (part 6)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_06" data-title="Bleak House — Chapter 54 (part 6)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/memory,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/faith,concept/wonder,character/sir_leicester_dedlock"></span>
 
 
 Mr. Bucket merely shakes the finger at her.
@@ -74679,7 +74679,7 @@ his heavy hand upon her shoulder.
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_07" data-title="Bleak House — Chapter 54 (part 7)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_07" data-title="Bleak House — Chapter 54 (part 7)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/innocent,motif/birds,motif/death,motif/home,motif/night,motif/rose,motif/soul,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/doubt,form/fragment,character/lady_dedlock,character/pistol,character/sir_leicester_dedlock,character/venus"></span>
 
 
 “What is the matter with you now?” she asks him.
@@ -74793,7 +74793,7 @@ hold it steady, and I shan’t hurt you!”
 
 
 
-<span class="atom-split" data-atom="chapter_54--part_08" data-title="Bleak House — Chapter 54 (part 8)" data-chapter="Chapter 54" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_54--part_08" data-title="Bleak House — Chapter 54 (part 8)" data-chapter="Chapter 54" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/love,motif/spring,motif/time,motif/well,concept/pride,concept/suffering"></span>
 
 
 In a trice Mr. Bucket snaps a handcuff on her wrist. “That’s one,”
@@ -74893,7 +74893,7 @@ mourning and compassion rather than reproach.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_01" data-title="Bleak House — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_01" data-title="Bleak House — Chapter 55 (part 1)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/home,motif/leaves,motif/lion,motif/moon,motif/night,motif/prison,motif/sleep,motif/soul,motif/tears,motif/time,concept/melancholy,concept/truth,concept/union,setting/london,character/inspector_bucket"></span>
 
 
 CHAPTER LV
@@ -75010,7 +75010,7 @@ form a separate establishment and have dissolved partnership with
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_02" data-title="Bleak House — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_02" data-title="Bleak House — Chapter 55 (part 2)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/dawn,motif/ghosts,motif/grave,motif/home,motif/night,motif/prison,motif/soul,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,setting/london"></span>
 
 
 “He shall have,” says Mrs. Rouncewell, “all the help that can be got
@@ -75128,7 +75128,7 @@ a great, rough, sounding clearance of his throat.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_03" data-title="Bleak House — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_03" data-title="Bleak House — Chapter 55 (part 3)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="motif/home,motif/pain,motif/time,motif/well,concept/hope,concept/pride,concept/self,concept/suffering"></span>
 
 
 “Heaven forgive me, mother, but I thought there would be small
@@ -75256,7 +75256,7 @@ to have any.”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_04" data-title="Bleak House — Chapter 55 (part 4)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_04" data-title="Bleak House — Chapter 55 (part 4)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/home,motif/leaves,motif/love,motif/nature,motif/night,motif/prison,motif/time,concept/fear,concept/nature,concept/truth,concept/wonder,character/lady_dedlock"></span>
 
 
 Matters being brought to this so far satisfactory pass, and [[Time|time]]
@@ -75395,7 +75395,7 @@ her [[Wonder|wonder]] until now.
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_05" data-title="Bleak House — Chapter 55 (part 5)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_05" data-title="Bleak House — Chapter 55 (part 5)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="topos/double,motif/time,motif/well,concept/body,concept/honour,concept/hope,concept/self,character/lady_dedlock"></span>
 
 
 She opens the letter. Spread out upon the paper is a printed account
@@ -75522,7 +75522,7 @@ again.”
 
 
 
-<span class="atom-split" data-atom="chapter_55--part_06" data-title="Bleak House — Chapter 55 (part 6)" data-chapter="Chapter 55" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_55--part_06" data-title="Bleak House — Chapter 55 (part 6)" data-chapter="Chapter 55" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/garden,motif/grave,motif/home,motif/leaves,motif/night,motif/well,motif/wind,concept/guilt,concept/self_reliance"></span>
 
 
 She scarcely acknowledges these parting words by any look, but when
@@ -75614,7 +75614,7 @@ and shuts the great door, flutters away in the shrill frosty [[Wind|wind]].
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_01" data-title="Bleak House — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_01" data-title="Bleak House — Chapter 56 (part 1)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/shadow,motif/bells,motif/city,motif/death,motif/night,motif/tears,motif/time,motif/well,setting/london,character/lady_dedlock,character/volumnia"></span>
 
 
 CHAPTER LVI
@@ -75735,7 +75735,7 @@ Thank heaven! That’s his meaning.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_02" data-title="Bleak House — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_02" data-title="Bleak House — Chapter 56 (part 2)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="topos/quest,motif/desire,motif/horse,motif/jewel,motif/journey,motif/leaves,motif/night,motif/sleep,motif/snow,motif/time,motif/well,concept/forgiveness,concept/hope,character/esther_summerson,character/lady_dedlock,character/sir_leicester_dedlock,character/speed"></span>
 
 
 Mr. Bucket is found to be downstairs, by appointment. Shall he come
@@ -75870,7 +75870,7 @@ stops the [[Horse|horse]] half smothers him in a cloud of steam.
 
 
 
-<span class="atom-split" data-atom="chapter_56--part_03" data-title="Bleak House — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_56--part_03" data-title="Bleak House — Chapter 56 (part 3)" data-chapter="Chapter 56" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/fire,motif/horse,motif/nature,motif/night,motif/river,motif/snow,motif/time,motif/water,motif/wind,concept/forgiveness,concept/honour,concept/nature,concept/suicide,setting/oxford,character/esther_summerson,character/inspector_bucket,character/lady_dedlock,character/sir_leicester_dedlock"></span>
 
 
 “Unbear him half a moment to freshen him up, and I’ll be back.”
@@ -75985,7 +75985,7 @@ the great door of the Dedlock mansion.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_01" data-title="Bleak House — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_01" data-title="Bleak House — Chapter 57 (part 1)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/night,motif/river,motif/time,motif/well,motif/wind,concept/forgiveness,concept/hope,form/inscription,character/lady_dedlock,character/sir_leicester_dedlock"></span>
 
 
 CHAPTER LVII
@@ -76113,7 +76113,7 @@ our visit to that place.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_02" data-title="Bleak House — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_02" data-title="Bleak House — Chapter 57 (part 2)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/crown,motif/death,motif/hill,motif/home,motif/journey,motif/memory,motif/night,motif/river,motif/road,motif/snow,motif/time,motif/water,motif/wind,concept/wonder"></span>
 
 
 I had no need to remind myself that I was not there by the indulgence
@@ -76232,7 +76232,7 @@ poor Jo, whom he called Toughey.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_03" data-title="Bleak House — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_03" data-title="Bleak House — Chapter 57 (part 3)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/fire,motif/garden,motif/home,motif/horse,motif/night,motif/road,motif/time,motif/well,motif/window,setting/london"></span>
 
 
 I wondered how he knew that.
@@ -76369,7 +76369,7 @@ and so go back to our business.”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_04" data-title="Bleak House — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_04" data-title="Bleak House — Chapter 57 (part 4)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/desire,motif/fire,motif/journey,motif/night,motif/rose,motif/silence,motif/snow,motif/tears,motif/time,motif/well,concept/truth,character/michael"></span>
 
 
 I believe it had not been for a moment out of his mind, any more than
@@ -76497,7 +76497,7 @@ heerd it all, and see it all. He knows.”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_05" data-title="Bleak House — Chapter 57 (part 5)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_05" data-title="Bleak House — Chapter 57 (part 5)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/fire,motif/home,motif/horse,motif/road,motif/sleep,motif/snow,motif/time,motif/water,concept/doubt,concept/hope,setting/london"></span>
 
 
 The other man repeated, “That’s all about it.”
@@ -76635,7 +76635,7 @@ of whom I never heard.”
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_06" data-title="Bleak House — Chapter 57 (part 6)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_06" data-title="Bleak House — Chapter 57 (part 6)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/night,motif/road,motif/rose,motif/snow,motif/time,motif/well,motif/window,concept/hope"></span>
 
 
 “That’s true. But whatever you do, don’t you fall a-crying, my dear;
@@ -76743,7 +76743,7 @@ excited and quite different man.
 
 
 
-<span class="atom-split" data-atom="chapter_57--part_07" data-title="Bleak House — Chapter 57 (part 7)" data-chapter="Chapter 57" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_57--part_07" data-title="Bleak House — Chapter 57 (part 7)" data-chapter="Chapter 57" data-kind="excerpt" data-tags="motif/crown,motif/desert,motif/night,motif/road,motif/snow,concept/melancholy,setting/desert,setting/london,character/inspector_bucket,character/sir_leicester_dedlock,character/speed"></span>
 
 
 “What is it?” said I, starting. “Is she here?”
@@ -76820,7 +76820,7 @@ waterwheel.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_01" data-title="Bleak House — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_01" data-title="Bleak House — Chapter 58 (part 1)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/fire,motif/horse,motif/night,motif/pain,motif/silence,motif/snow,motif/stars,motif/time,motif/wind,motif/window,character/jones,character/lady_dedlock"></span>
 
 
 CHAPTER LVIII
@@ -76934,7 +76934,7 @@ little [[Time|time]] gone yet.”
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_02" data-title="Bleak House — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_02" data-title="Bleak House — Chapter 58 (part 2)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/ghost,archetype/monster,archetype/shadow,motif/night,motif/silence,motif/snow,motif/well,concept/body,concept/doubt,concept/hope,character/volumnia"></span>
 
 
 He withdraws his hand and falls to looking at the sleet and [[Snow|snow]]
@@ -77059,7 +77059,7 @@ necessary to explain.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_03" data-title="Bleak House — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_03" data-title="Bleak House — Chapter 58 (part 3)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/memory,motif/silence,motif/snow,motif/tears,motif/time,motif/well,motif/window,concept/hope,concept/self,setting/london,character/volumnia"></span>
 
 
 “Miss Dedlock don’t speak of my eldest son, Sir Leicester, but my
@@ -77202,7 +77202,7 @@ them.”
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_04" data-title="Bleak House — Chapter 58 (part 4)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_04" data-title="Bleak House — Chapter 58 (part 4)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/fire,motif/home,motif/memory,motif/night,motif/pain,motif/snow,motif/tears,motif/time,motif/water,motif/window,concept/freedom,concept/hope,concept/pride,concept/self,concept/truth,character/lady_dedlock,character/volumnia"></span>
 
 
 [[Volumnia]] understands him perfectly, and in [[Truth|truth]] he delivers himself
@@ -77320,7 +77320,7 @@ it is, these allusions to her being expected keep up [[Hope|hope]] within him.
 
 
 
-<span class="atom-split" data-atom="chapter_58--part_05" data-title="Bleak House — Chapter 58 (part 5)" data-chapter="Chapter 58" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_58--part_05" data-title="Bleak House — Chapter 58 (part 5)" data-chapter="Chapter 58" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/desert,motif/fire,motif/great_house,motif/night,motif/silence,motif/snow,motif/time,concept/hope,concept/self,concept/solitude,setting/desert,character/phantom,character/volumnia"></span>
 
 
 Midnight comes, and with it the same blank. The carriages in the
@@ -77474,7 +77474,7 @@ will tell him!”
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_01" data-title="Bleak House — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_01" data-title="Bleak House — Chapter 59 (part 1)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/clock,motif/horse,motif/insects,motif/journey,motif/snow,motif/time,motif/water,motif/well,motif/window,concept/hope,setting/london,character/queen"></span>
 
 
 CHAPTER LIX
@@ -77597,7 +77597,7 @@ street, I thought I knew the place. “Are we in Holborn?” I asked him.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_02" data-title="Bleak House — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_02" data-title="Bleak House — Chapter 59 (part 2)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/journey,motif/night,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/wonder,character/inspector_bucket,character/richard"></span>
 
 
 “It looks like Chancery Lane.”
@@ -77739,7 +77739,7 @@ Snagsby, with very red eyes and a very severe expression of face.
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_03" data-title="Bleak House — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_03" data-title="Bleak House — Chapter 59 (part 3)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/despair,form/tragedy,setting/court,character/inspector_bucket,character/othello"></span>
 
 
 “My little woman,” said Mr. Snagsby, entering behind us, “to
@@ -77866,7 +77866,7 @@ to me, do! But be particular to a word.”
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_04" data-title="Bleak House — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_04" data-title="Bleak House — Chapter 59 (part 4)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/home,motif/soul,motif/tears,motif/time,motif/well,concept/conscience,concept/courage,concept/doubt,concept/guilt,concept/hope"></span>
 
 
 It had been written in portions, at different times. I read what
@@ -78015,7 +78015,7 @@ went.”
 
 
 
-<span class="atom-split" data-atom="chapter_59--part_05" data-title="Bleak House — Chapter 59 (part 5)" data-chapter="Chapter 59" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_59--part_05" data-title="Bleak House — Chapter 59 (part 5)" data-chapter="Chapter 59" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/snow,motif/tears,motif/time,motif/water"></span>
 
 
 “And did she go—”
@@ -78098,7 +78098,7 @@ mother, cold and dead.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_01" data-title="Bleak House — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_01" data-title="Bleak House — Chapter 60 (part 1)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/road,motif/time,motif/well,motif/wind,motif/window,concept/suffering,setting/london,setting/mountains,character/bottom,character/richard"></span>
 
 
 CHAPTER LX
@@ -78241,7 +78241,7 @@ even to myself. Or, if to myself, certainly not to anybody else.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_02" data-title="Bleak House — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_02" data-title="Bleak House — Chapter 60 (part 2)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/journey,motif/love,motif/night,motif/road,motif/time,motif/well,motif/wheel,concept/ambition,concept/beauty,concept/fear,concept/hope,setting/court,character/lincoln,character/richard"></span>
 
 
 “You see,” said my guardian, “our neighbourhood is in Woodcourt’s
@@ -78372,7 +78372,7 @@ in [[Court|court]]. I left him there with Vholes. You don’t like Vholes, I
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_03" data-title="Bleak House — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_03" data-title="Bleak House — Chapter 60 (part 3)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/dust,motif/home,motif/love,motif/marriage,motif/nature,motif/soul,motif/time,motif/well,motif/window,concept/despair,concept/hope,concept/madness,concept/nature,setting/court,character/richard"></span>
 
 
 “I am afraid you see [[Richard]] oftener than ever now,” said I.
@@ -78511,7 +78511,7 @@ that.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_04" data-title="Bleak House — Chapter 60 (part 4)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_04" data-title="Bleak House — Chapter 60 (part 4)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="motif/desire,motif/marriage,motif/nature,motif/night,motif/rose,motif/time,motif/well,concept/beauty,concept/doubt,concept/melancholy,concept/nature,character/richard"></span>
 
 
 “Miss Summerson,” he said, “it may be so; and I freely admit that the
@@ -78626,7 +78626,7 @@ striking any note.
 
 
 
-<span class="atom-split" data-atom="chapter_60--part_05" data-title="Bleak House — Chapter 60 (part 5)" data-chapter="Chapter 60" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_60--part_05" data-title="Bleak House — Chapter 60 (part 5)" data-chapter="Chapter 60" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/silence,motif/sleep,motif/time,motif/well,concept/fear,concept/hope,character/richard"></span>
 
 
 “Esther, my dearest,” she said, breaking [[Silence|silence]], “[[Richard]] is never
@@ -78726,7 +78726,7 @@ weeping, she replied, “That he may not live to see his [[Child|child]].”
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_01" data-title="Bleak House — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_01" data-title="Bleak House — Chapter 61 (part 1)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/fire,motif/memory,motif/pain,motif/water,concept/beauty,concept/courage,form/comedy,character/richard"></span>
 
 
 CHAPTER LXI
@@ -78863,7 +78863,7 @@ and I thought I was not to be put off in that.
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_02" data-title="Bleak House — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_02" data-title="Bleak House — Chapter 61 (part 2)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/home,motif/rose,motif/time,motif/well,concept/faith,concept/fear,concept/history,form/history,character/richard"></span>
 
 
 “Mr. Skimpole,” said I, “I must take the liberty of saying before I
@@ -78989,7 +78989,7 @@ the incarnation of selfishness.”
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_03" data-title="Bleak House — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_03" data-title="Bleak House — Chapter 61 (part 3)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="archetype/lover,motif/childhood,motif/clock,motif/desire,motif/home,motif/love,motif/memory,motif/night,motif/silence,motif/tears,motif/time,motif/window,concept/body,concept/doubt,concept/hope,concept/madness,concept/truth,concept/wonder,setting/court,character/esther_summerson,character/richard"></span>
 
 
 And now I come to a part of my story touching myself very nearly
@@ -79106,7 +79106,7 @@ I distress you. I have said enough.”
 
 
 
-<span class="atom-split" data-atom="chapter_61--part_04" data-title="Bleak House — Chapter 61 (part 4)" data-chapter="Chapter 61" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_61--part_04" data-title="Bleak House — Chapter 61 (part 4)" data-chapter="Chapter 61" data-kind="excerpt" data-tags="motif/childhood,motif/desert,motif/desire,motif/love,motif/night,motif/tears,motif/well,motif/window,concept/greatness,concept/history,concept/hope,concept/pride,form/history,setting/desert,character/richard"></span>
 
 
 Something seemed to pass into my place that was like the angel he
@@ -79217,7 +79217,7 @@ my path, how much easier than his!
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_01" data-title="Bleak House — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_01" data-title="Bleak House — Chapter 62 (part 1)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/desire,motif/flowers,motif/love,motif/night,motif/sleep,motif/tears,motif/time,motif/well,concept/courage,concept/hope"></span>
 
 
 CHAPTER LXII
@@ -79366,7 +79366,7 @@ gentleman’s that you saw in his lifetime if I don’t mistake?”
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_02" data-title="Bleak House — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_02" data-title="Bleak House — Chapter 62 (part 2)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/time,motif/well,concept/body,concept/honour"></span>
 
 
 My guardian replied, “Yes.”
@@ -79504,7 +79504,7 @@ mind to drive a bargain.”
 
 
 
-<span class="atom-split" data-atom="chapter_62--part_03" data-title="Bleak House — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_62--part_03" data-title="Bleak House — Chapter 62 (part 3)" data-chapter="Chapter 62" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/home,motif/soul,motif/well,motif/window,concept/hope,concept/truth,setting/court,character/ada_clare,character/lincoln,character/richard_carstone"></span>
 
 
 “Mr Bucket,” said my guardian aloud, “whatever the worth of this
@@ -79670,7 +79670,7 @@ the structure of the system and consolidate it for a thousand ages.
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_01" data-title="Bleak House — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_01" data-title="Bleak House — Chapter 63 (part 1)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/dust,motif/horse,motif/tears,motif/time,motif/well,setting/mountains"></span>
 
 
 CHAPTER LXIII
@@ -79807,7 +79807,7 @@ half so glad to see him as all this!
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_02" data-title="Bleak House — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_02" data-title="Bleak House — Chapter 63 (part 2)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="archetype/hero,motif/garden,motif/home,motif/marriage,motif/night,motif/time,motif/well,concept/beauty,concept/education,concept/honour,concept/hope,concept/truth,setting/germany"></span>
 
 
 “So far from it,” he declares at the end of a full account of what
@@ -79933,7 +79933,7 @@ a—I am a kind of a weed, and it’s too late to plant me in a regular
 
 
 
-<span class="atom-split" data-atom="chapter_63--part_03" data-title="Bleak House — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_63--part_03" data-title="Bleak House — Chapter 63 (part 3)" data-chapter="Chapter 63" data-kind="excerpt" data-tags="motif/horse,motif/journey,motif/night,motif/ship,motif/well,concept/doubt,concept/fear,concept/honour,setting/ship,character/esther_summerson,character/inspector_bucket,character/sir_leicester_dedlock"></span>
 
 
 “My dear George,” returns the elder, concentrating his strong steady
@@ -80051,7 +80051,7 @@ accoutrements under the old elm-trees.
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_01" data-title="Bleak House — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_01" data-title="Bleak House — Chapter 64 (part 1)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/truth,character/richard"></span>
 
 
 CHAPTER LXIV
@@ -80164,7 +80164,7 @@ Why, how you sob, Dame Durden, how you sob!”
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_02" data-title="Bleak House — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_02" data-title="Bleak House — Chapter 64 (part 2)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,motif/flag,motif/flowers,motif/garden,motif/home,motif/leaves,motif/love,motif/memory,motif/summer,motif/water,motif/well,motif/wind,concept/doubt,concept/hope,concept/wonder,setting/mountains"></span>
 
 
 “It is with exquisite pleasure, guardian—with a heart full of
@@ -80288,7 +80288,7 @@ the weight in gold of all the [[Mountains|mountains]] in Wales!”
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_03" data-title="Bleak House — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_03" data-title="Bleak House — Chapter 64 (part 3)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/blood,motif/clock,motif/home,motif/leaves,motif/love,motif/memory,motif/night,motif/road,motif/rose,motif/silence,motif/sleep,motif/tears,motif/well,motif/wind,concept/honour,concept/hope,character/richard"></span>
 
 
 He stopped to kiss me on the forehead, and I sobbed and wept afresh.
@@ -80406,7 +80406,7 @@ passed between us on former occasions?”
 
 
 
-<span class="atom-split" data-atom="chapter_64--part_04" data-title="Bleak House — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_64--part_04" data-title="Bleak House — Chapter 64 (part 4)" data-chapter="Chapter 64" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/time,motif/well,concept/honour"></span>
 
 
 “Miss Summerson,” returned my guardian, smiling, “has made a
@@ -80556,7 +80556,7 @@ above all things that we should get out.
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_01" data-title="Bleak House — Chapter 65 (part 1)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_01" data-title="Bleak House — Chapter 65 (part 1)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/wonder,setting/court,character/richard"></span>
 
 
 CHAPTER LXV
@@ -80687,7 +80687,7 @@ inaptly, a monument of Chancery practice.”
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_02" data-title="Bleak House — Chapter 65 (part 2)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_02" data-title="Bleak House — Chapter 65 (part 2)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/decay,motif/home,motif/love,motif/marriage,motif/silence,motif/tears,motif/time,motif/well,setting/court,character/richard"></span>
 
 
 “And patience has sat upon it a long [[Time|time]],” said Allan.
@@ -80815,7 +80815,7 @@ less. What matters! And how are you, my dear boy?”
 
 
 
-<span class="atom-split" data-atom="chapter_65--part_03" data-title="Bleak House — Chapter 65 (part 3)" data-chapter="Chapter 65" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_65--part_03" data-title="Bleak House — Chapter 65 (part 3)" data-chapter="Chapter 65" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/birds,motif/love,motif/well,concept/charity,concept/hope,concept/poverty,character/richard"></span>
 
 
 “I am very weak, sir, but I [[Hope|hope]] I shall be stronger. I have to begin
@@ -80913,7 +80913,7 @@ weeping to me and told me she had given her [[Birds|birds]] their liberty.
 
 
 
-<span class="atom-split" data-atom="chapter_66" data-title="Bleak House — Chapter 66" data-chapter="Chapter 66" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_66" data-title="Bleak House — Chapter 66" data-chapter="Chapter 66" data-kind="chapter" data-tags="archetype/child,motif/chains,motif/dance,motif/death,motif/desire,motif/fire,motif/flag,motif/home,motif/horse,motif/leaves,motif/night,motif/road,motif/rose,motif/seasons,motif/summer,motif/tears,motif/time,motif/window,concept/history,concept/pride,concept/truth,form/history,character/lady_dedlock,character/volumnia"></span>
 
 
 CHAPTER LXVI
@@ -81087,7 +81087,7 @@ repose.
 
 
 
-<span class="atom-split" data-atom="chapter_67" data-title="Bleak House — Chapter 67" data-chapter="Chapter 67" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_67" data-title="Bleak House — Chapter 67" data-chapter="Chapter 67" data-kind="chapter" data-tags="archetype/child,archetype/innocent,archetype/king,motif/clock,motif/garden,motif/grave,motif/home,motif/love,motif/marriage,motif/moon,motif/night,motif/pain,motif/summer,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/hope,concept/pride,concept/wonder,character/richard"></span>
 
 
 CHAPTER LXVII

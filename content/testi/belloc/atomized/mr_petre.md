@@ -2745,7 +2745,7 @@ But he is still thinking.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Mr. Petre — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Mr. Petre — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER I
@@ -2777,7 +2777,7 @@ When he woke it was but slowly, for evidently he had been more fatigued than he 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Mr. Petre — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Mr. Petre — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/identity,setting/london"></span>
 
 
 He recognised the place and suddenly connected it in his mind with a name... the name of someone living thereabouts.. — . — . Yes, — . — . it was certainly someone connected with those trees and heaths beyond. — . — . but what was the name? He sought and sought, and nothing would come. It was very aggravating, this little lapse. He remembered how often of late he had had slight trouble of that kind. Then he set out to try and recover the name by a chain. He had passed a race-course. He knew it of old. He would connect things up link by link. First he looked at his watch. It was just at 12.30. He had started from... Where had he started from?
@@ -2813,7 +2813,7 @@ He had reached the Splendide. Mr. Petre (for he could now securely call himself 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Mr. Petre — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Mr. Petre — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Now and then he would hesitate over a detail. He had puzzled a minute before getting the name of Oxford Street as they crossed it. But the run of [[London]] life was as common to him as to any of the myriads around. It was only the bond between them and his past self that had snapped.
@@ -2869,7 +2869,7 @@ The young man himself was tall, just an inch or two overdressed, with black hair
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Mr. Petre — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Mr. Petre — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 His companion was of no such exalted station. He was squat, round-headed, double-chinned, with a thick, frowsy, grey moustache; short, ill-combed hair; and dressed in clothes so loose and creased that they disgraced that cavern of the rich. His boots were shameful, and even his collar was dubious.
@@ -2915,7 +2915,7 @@ Mr. Petre was a full two hours in making his purchases. One very good reason for
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Mr. Petre — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Mr. Petre — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 A woman’s voice, very clearly articulate, rather too high, asked if that were Mr. Petre, and announced itself as Celia Cyril. It then cleared its throat, but in a very ladylike manner, and Mr. Petre boldly answered “Yes” and waited; concluding, as he waited, that he ought certainly to have answered “No.” The voice told him it knew he hated being fussed, but he had always made an exception of dear Leonard, hadn’t he? So the voice had taken the liberty to send a note which would explain; but the voice had thought (it said) that it seemed better first to ring up before the note would get to him; because the voice knew that he hated being fussed. And then thought that perhaps it ought not perhaps to have rung up after all. But it did hope he didn’t mind. All of which clear-headed and decisive stuff Mr. Petre received in a complete confusion.
@@ -2961,7 +2961,7 @@ Then he went upstairs again to No. “and took off all his clothes and looked on
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mr. Petre — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mr. Petre — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER II
@@ -3015,7 +3015,7 @@ They sat at table, sneered at by six enormous portraits, in another room as larg
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mr. Petre — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mr. Petre — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/food_and_feasting,concept/capitalism,concept/greed_and_money,concept/appearance_vs_reality,concept/satire_of_society,concept/deception,form/satire,form/novel"></span>
 
 
 The meal dragged on. They had come to coffee. The banker had looked at his watch, and found it was already twenty past two. At each succeeding phrase his hostess put to him Mr. Petre came nearer and nearer to breaking-point under the strain.
@@ -3055,7 +3055,7 @@ Mrs. Cyril pulled the team together. She said with a little laugh, “That’s a
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mr. Petre — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mr. Petre — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 Dear friends, it was because the earlier you get into a market, if it is a rising market, the better for you, and every man and woman of them knew it, except Mr. Petre himself.
@@ -3109,7 +3109,7 @@ In his terror and shame lest that roomful should guess his misfortune, he had no
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Mr. Petre — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Mr. Petre — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,motif/masks_disguise,concept/identity,concept/self_knowledge,concept/fear,concept/alienation,form/novel,form/satire"></span>
 
 
 For a moment he had a wild idea of flight. Then he remembered the diminishing sum that stood between him and disaster. He would do better than that. He would hide himself. With infinite precaution he would hide himself, until there was news one way or the other of what had happened to that dreadful order for Touaregs.
@@ -3145,7 +3145,7 @@ But the inn at the little place, when he reached it, comforted him. Surely in th
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mr. Petre — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mr. Petre — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER III
@@ -3195,7 +3195,7 @@ There was a pause during which the Duke frowned thoughtfully. Then he took the c
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Petre — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mr. Petre — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The secretary began: “If I were you, Duke.. but the Duke cut him short and snapped back, “Y’er not me, so that’s that.” Then as though he were ordering the least of his servants, “Send me Batterby, and keep yer mouth shut.”
@@ -3287,7 +3287,7 @@ Batterby would have discussed, but the other pushed him good-naturedly forward; 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mr. Petre — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mr. Petre — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “I was told you wanted me, sir,” said Batterby. “I don’t know what you mean by games.” He was still sore.
@@ -3377,7 +3377,7 @@ In Bolters, oldest and noblest of clubs, the young ignoble Algernon piped out, �
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mr. Petre — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mr. Petre — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,motif/machine,setting/london"></span>
 
 
 CHAPTER IV
@@ -3403,7 +3403,7 @@ There was only one letter, in the business envelope of Blake and Blake, upon his
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mr. Petre — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mr. Petre — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/city,motif/machine,setting/london"></span>
 
 
 * * * * *
@@ -3465,7 +3465,7 @@ And he put a piece of sacred furniture, preserved from the beginnings of the Mot
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mr. Petre — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mr. Petre — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The two men sat down, and the manager opened genially.
@@ -3511,7 +3511,7 @@ Yes, it was perfectly familiar. That was where you signed, and those little blan
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Mr. Petre — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Mr. Petre — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 He put down a little list of what he already knew. He had been in the States, he had been there some little time at least, and perhaps for a lifetime. If he was an American citizen, at any rate he knew [[London]] well. Perhaps if he went back to the States he would discover there what he was; it might all return to him in the familiar sounds and sights and smells. But it was a big effort to make for finding out something that might be discovered much more easily or that might return to him at any moment. He had in the States befriended a certain Mr. Cyril, now dead. A Mr. Leonard Cyril. Plenty of people must have known this Mr. Cyril, for by his widow the man was rich and her acquaintance nobby. If he went about it quite carefully, in some company where his name was not known, he might hear what kind of man this Mr. Petre was who had thus befriended Mr. Leonard Cyril, a man so wealthy that his very widow rolled in it — to judge by her house and guests. Then there was the other main clue, he had been in a train arriving at a certain hour at Paddington. Now that he had collected his wits it would be a simple matter to find out where that train had started from. Yes, there were quite a number of clues. It ought not to take long. He turned to the Bradshaw. A train from Cardiff came into Paddington at one. He did not know that his own train, the boat train from Plymouth, had been half an hour late. He noted that Cardiff train and its stops. He had come from Cardiff or beyond, or joined at Swindon. It wasn’t much of a help but it limited the field.
@@ -3547,7 +3547,7 @@ There were, as Mr. Petre had been warned, no marks of an office, nothing to betr
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Mr. Petre — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Mr. Petre — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/detective,concept/identity,concept/appearance_vs_reality,concept/self_knowledge,concept/wit,concept/deception,form/novel,form/satire"></span>
 
 
 Mr. Daniels smiled sweetly.
@@ -3625,7 +3625,7 @@ That same evening, innocent of so much power, the original author of these movem
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mr. Petre — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mr. Petre — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 CHAPTER V
@@ -3665,7 +3665,7 @@ Now, here, to hand, in John K. Petre, was the chance; the heaven-sent eccentric 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mr. Petre — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mr. Petre — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “Well, but...” went on Terrard, still more nervously, “I told you I hadn’t seen him again. I thought I’d see.... But you know I’m for acting all the same.... I don’t think he minds. It is certainly ‘yes’ or ‘no’ with him, and we have all heard what he is, though we haven’t seen him.”
@@ -3745,7 +3745,7 @@ It was an air in which new thoughts and clear ones should naturally come to a ma
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Petre — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mr. Petre — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 But men in those moods are compelled to abrupt decisions. It is the only escape from their torture, and to such a second decision was Mr. Petre led upon this enormous occasion.
@@ -3807,7 +3807,7 @@ There, at least he was on firm ground. So much was clear. If somebody bought a t
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Mr. Petre — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Mr. Petre — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 “Besides which,” said Terrard, “you don’t want to be bothered with other people. I know you’ll take it or leave it, and I wanted to put it before you now and at once. I don’t know if you ‘re following our [[London]] site-values, Mr. Petre? No doubt you’ve handled such things in your time?”
@@ -3853,7 +3853,7 @@ He sat for the best part of an hour in his room, turning over in his mind the ma
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Mr. Petre — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Mr. Petre — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 It was jeopardised. It might go like smoke. Then with infinitely greater force, with a thud like a battering ram, came the consideration that he was by way of meeting a sum the like of which was fantastic beyond the powers of any but one man in millions. Under the deadening blow of that fairly obvious discovery he reeled back into the consolation which he had already found on that day, not so long past, when he had ordered with perfect simplicity in the corner of Berkeley Square the purchase of fifty-thousand barbarous things called Touaregs of which he knew not anything at all. He remembered the fate of that blind action of a moment. He trusted to the same good fortune. And there returned to him that odd consolation which he had felt on that first day. What if the whole thing crashed? He was only where he was before. Would a man standing as he was be held responsible? His conscience told him yes, but the Law? — He knew nothing of the law in the matter.
@@ -3895,7 +3895,7 @@ Provisionally, very provisionally, protesting that he had no powers to act; prot
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mr. Petre — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mr. Petre — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER VI
@@ -3927,7 +3927,7 @@ There was a very fine leader indeed in the Messenger, which I have myself cut ou
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mr. Petre — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mr. Petre — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/economics,concept/money_and_avarice,concept/solitude,concept/alienation,form/novel,form/satire"></span>
 
 
 He would meet no one. He refused to go out into the great world of Dukes and Gwryths and their sisters. He hid.
@@ -3981,7 +3981,7 @@ Then Mr. Petre began to understand, though none too clearly. It seemed he had be
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mr. Petre — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mr. Petre — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/capitalism,concept/empire_and_imperialism,concept/greed_and_money,concept/satire_of_society,concept/deception,form/novel,form/satire,histref/british_empire"></span>
 
 
 He saw the white beard wagging, he heard the voice continuing, in a new, persuasive tone:
@@ -4017,7 +4017,7 @@ That same evening he was to meet Terrard in order to hear the last details of th
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mr. Petre — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mr. Petre — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/greed_and_money,concept/economics,concept/materialism,form/novel,form/satire"></span>
 
 
 It was all very well to defend himself with isolation, but he had been too lonely, and so long as they dined where no one could see them he was glad of companionship. The dinner was in his own rooms; small, simple and bad. After the meal Terrard said to him casually, “What do you think of Magnas?”
@@ -4055,7 +4055,7 @@ In the rather sombre Bloomsbury house which the Manager of the Branch Bank honou
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Mr. Petre — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Mr. Petre — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The following morning Charlie Terrard bought. Magnas were still moving; not blazing, not soaring, but comfortably going up and up with dignity and precision. And so they ought; for the report was true and the position sound; and for five days the thing went on, and after that, though the pace slackened, the rise slowly continued. Then a halt. Distant in space, each knowing nothing of the other, two men had one thought: — Terrard and the Manager each grasped with subtle perception that the old goat Petre was cautiously beginning to sell. They also sold. That moment was followed by a slight fall, and then another halt. But Terrard had not touched them again. He had made a nice little packet. Charlbury, I fear, had neither bought nor sold, for Terrard had had no occasion to speak to him. As for the Bank Manager, he also wisely abstained. Each man as he took his profits wished ardently, but with a useless curiosity, that someone could tell him how, and in what amount, and through whom, the eccentric millionaire had acted, and what his profit had been. But the eccentric millionaire, the old goat, the fox, was otherwise engaged. He had fled for silence to the chalk uplands, worshipping the spring and drinking in the morning.
@@ -4083,7 +4083,7 @@ Go back and inquire in the States themselves he dared not. If here in England qu
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mr. Petre — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mr. Petre — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 CHAPTER VII
@@ -4121,7 +4121,7 @@ What still hindered the final successful establishment of Rotors under a Nationa
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Petre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Petre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/machine,concept/capitalism,concept/socialism,concept/power_and_corruption,concept/economics,concept/empire_and_imperialism,form/novel,form/satire"></span>
 
 
 The elder Trefusis had felt a very honourable scruple in directly promoting such a measure; he left it in the hands of his two most intimate associates in the Cabinet. But there was no doubt about the Bills going through, especially as it could not, of course, be submitted to public debate; it was quite unfitted for treatment of that kind, dealing as it did with a mass of scientific particulars and equally technical and difficult financial details, which a large assembly is quite unfitted to discuss.
@@ -4153,7 +4153,7 @@ Such were the prospects of B.A.R.’s in this month of July, 1953, when Mr. Petr
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mr. Petre — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mr. Petre — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/capitalism,concept/power_and_corruption,concept/fame_and_publicity,concept/greed_and_money,concept/deception,concept/satire_of_society,form/novel,form/satire"></span>
 
 
 * * * * *
@@ -4205,7 +4205,7 @@ They’re over-priced now. All that’s discounted. They were 4¾-⅞, offered b
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mr. Petre — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mr. Petre — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/capitalism,concept/greed_and_money,concept/deception,concept/economics,concept/power_and_corruption,form/novel,form/satire"></span>
 
 
 Mr. Charlbury heard him out, his contempt increasing, but his awe at the mundane connections remaining fixed. “Nothing to do with that, Charlie,” he snapped. “Listen to me. If the Trefusis crowd think they’ve got Petre up against them... eh?
@@ -4265,7 +4265,7 @@ It was an odd, hoarse voice that answered him.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Mr. Petre — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Mr. Petre — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/identity,concept/appearance_vs_reality,concept/deception,concept/fear,concept/capitalism,form/novel,form/satire"></span>
 
 
 “What people are saying — eh, what?” Mr. Petre still kept his face too much turned away as he gasped out the words, and Terrard noted his hands grasping the arms of the chair.
@@ -4315,7 +4315,7 @@ To his unspeakable relief Terrard babbled on. “Oh! never mind!” he said. “
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Mr. Petre — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Mr. Petre — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 “No,” said Mr. Petre (he understood that phrase at any rate, and a blessed one it was!), “it binds me to nothing. What were your exact words, by the way, Mr. Terrard? I mean that about the present Company, and an arrangement, and the proposition? It was ‘proposition’ you said, I think, wasn’t it?”
@@ -4393,7 +4393,7 @@ Cassleton put on an air of distress.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="Mr. Petre — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="Mr. Petre — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 “Well, he’ll be selling stock pretty soon,” said Charlie, as grimly as his easy voice could manage such a tone. Then he added: “Surely Trefusis knows what kind of a man Petre is?”
@@ -4461,7 +4461,7 @@ There was the less ground for delay when Terrard protested that he had no power 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="Mr. Petre — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="Mr. Petre — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/masks_disguise,concept/capitalism,concept/power_and_corruption,concept/appearance_vs_reality,concept/greed_and_money,concept/ambition,form/novel,form/satire"></span>
 
 
 Trefusis elaborately drew a five-pointed star with a pencil upon a piece of paper, tracing odd curves about it, as he heard this simple statement of the position.
@@ -4497,7 +4497,7 @@ It was dark when his long thought was concluded. He went out into the warm night
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mr. Petre — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mr. Petre — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city"></span>
 
 
 CHAPTER VIII
@@ -4543,7 +4543,7 @@ He had looked up Mr. Petre once or twice as the summer dragged on, first before 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mr. Petre — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mr. Petre — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dreams,motif/soul,concept/alienation,concept/spiritual_emptiness,concept/suffering,concept/despair,form/novel,form/satire"></span>
 
 
 For Mr. Petre was suffering after a fashion which Terrard could not understand. The original gnawing tooth of self-ignorance, the now maddening, now despairing and numbing presence of an impotent self that was not a self, had been reinforced as an agent of decay by a new and surely morbid mood; active, intense, destructive. Mr. Petre had grown frenzied against that base, bewildering world of money. His own comet-like path through it had no effect upon him as a good fortune, or even as a mere adventure, It had the effect of an increasing evil at the very core of his being.
@@ -4593,7 +4593,7 @@ Terrard, used as he was to marvels from that mouth, felt, even after all these m
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mr. Petre — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mr. Petre — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/capitalism,concept/renunciation,concept/money_and_avarice,concept/freedom,concept/suffering,form/novel,form/satire"></span>
 
 
 “Hear me!” Mr. Petre went on. “You can help me... No one else can.” Then he halted.
@@ -4687,7 +4687,7 @@ Charlbury nodded. “What’s his game?” he half mused, screwing his little ey
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Mr. Petre — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Mr. Petre — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/capitalism,concept/greed_and_money,concept/deception,concept/economics,concept/power_and_corruption,form/novel,form/satire"></span>
 
 
 Terrard shook his head. “It can’t be that. He’s offering them to Trefusis,” he said.
@@ -4759,7 +4759,7 @@ It was nine by the time Terrard was in the Temple doorway again and ringing at M
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Mr. Petre — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Mr. Petre — Chapter 8 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Then Terrard for the first time found that he was ravenous. He hastened to be gone; but before he tasted a crumb he had rung up “Marengo.”
@@ -4823,7 +4823,7 @@ So far so good. Mr. Petre had what he wanted, and he would try it as a last poor
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mr. Petre — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mr. Petre — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/clock,concept/identity,concept/self_knowledge,concept/appearance_vs_reality,concept/fear,form/novel,form/satire,setting/london"></span>
 
 
 CHAPTER IX
@@ -4889,7 +4889,7 @@ The Inquisitor leant forward.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Petre — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Petre — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/identity"></span>
 
 
 Mr. Petre looked at his enemy in mild, benevolent fashion.
@@ -4989,7 +4989,7 @@ The Great Specialist turned upon him a face of stone.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mr. Petre — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mr. Petre — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/appearance_vs_reality,concept/deception,concept/identity,form/novel,form/satire,setting/london"></span>
 
 
 “Indeed,” said Mr. Petre, slightly interested, but with too much gnawing at his heart to be really gripped by the thing.
@@ -5049,7 +5049,7 @@ Mr. Petre took the book. It was a polyglot New Testament. There was the French, 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mr. Petre — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mr. Petre — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/identity,concept/memory,concept/self_knowledge,form/novel,form/satire,setting/london"></span>
 
 
 “No, my dear sir,” said Sir William, pulling his chair a little nearer to his victim, “pray glance at this — the more casually the better — and see whether a stab of memory...”
@@ -5101,7 +5101,7 @@ As Mr. Petre walked off, filled with despair, down the street towards Oxford Str
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Mr. Petre — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Mr. Petre — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 Mr. Petre, bearing that inward burden of his, despairing, hopeless of rediscovering a knowledge without which life was not life, still paced southward, choosing the squares and the less occupied streets, until he found himself upon the top of St. James’s Hill. There he halted a moment at the corner of Piccadilly gazing down towards the Palace; the Clubs, the old brick towers, the Guardsmen on sentry-go at the door, the crowd of cars, even the [[London]] sky under a fresh autumnal breeze — all was as familiar to him as familiar could be. All was part of some home furniture in his mind; but of the home itself, nothing. A complete blank. The soul had lost its habitation.
@@ -5169,7 +5169,7 @@ Thompson, looking at him queerly for a moment, (but most concernedly, for he lov
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Mr. Petre — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Mr. Petre — Chapter 9 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/the_sleeper_awakes,motif/home,motif/sleep,concept/identity,concept/memory,concept/self_knowledge,concept/nostalgia,form/novel"></span>
 
 
 Here, came in a flood, all that had supported his being. Here were books, each one he knew; here was the familiar dull aspect of the house opposite, here was the faded looking-glass, and, thrust into it, cards, every one of the names on which he could tell. Here was the chair; and in a rack opposite the looking-glass half a dozen pipes, to one of which he stretched out his hand mechanically. He took it and blew into its stem and was delighted to find it clear. He felt in his pocket for a pouch, and found none. There was no doubt at all that he was at home. He sat down in his own chair, and sighed like a man who has come in full of a good weariness from riding outside upon the Downs. His mind was inhabiting an island, already clear, well lit, the boundaries of which were expanding upon every side.
@@ -5235,7 +5235,7 @@ He had slept all those hours profoundly. Upon waking and seeing those accustomed
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_07" data-title="Mr. Petre — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_07" data-title="Mr. Petre — Chapter 9 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/memory,motif/clothing,concept/memory,concept/identity,concept/self_knowledge,concept/nostalgia,concept/family,form/novel"></span>
 
 
 “Martin, have you any clothes of mine or did you store them?”
@@ -5275,7 +5275,7 @@ What it would mean to him; what he would do with his opportunities; whether inde
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_08" data-title="Mr. Petre — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_08" data-title="Mr. Petre — Chapter 9 (part 8)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/concealment_hidden_identity,motif/money_and_gold,concept/identity,concept/secrecy_and_concealment,concept/self_knowledge,form/novel,form/satire"></span>
 
 
 Martin knocked at the door; his visage recalled to Mr. Blagden an imperative precaution.
@@ -5383,7 +5383,7 @@ He murmured again:— “P.S. — Please put the securities so purchased into a 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_09" data-title="Mr. Petre — Chapter 9 (part 9)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_09" data-title="Mr. Petre — Chapter 9 (part 9)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 That Manager was dumb. The blow had fallen. The golden dream was over. But it had to come. It might have come at any moment in all those weeks. The Formidable Eccentric ever acted in some such lightning fashion. Doubtless (or, at any rate, pray Heaven) he would return. He had been most courteously treated. He should retain a good memory of their continued courtesy.
@@ -5435,7 +5435,7 @@ They took it easy. They made their twelve or fourteen miles in a day, all leisur
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_10" data-title="Mr. Petre — Chapter 9 (part 10)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_10" data-title="Mr. Petre — Chapter 9 (part 10)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 The heavy camping kit was lifted in. Then the rest. The ramshackle old trap put away in a barn behind a farm cart. They would not need it for some time. It had only been for the forest, said Mr. Blagden. The old horse found a good stable and the much-enduring man his home.
@@ -5457,7 +5457,7 @@ He was bathed in content; and mighty peace had spread her wings again over a wor
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mr. Petre — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mr. Petre — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/book_reading,concept/secrecy_and_concealment,concept/charity,concept/solitude,form/novel,form/satire,character/william_shakespeare,character/charles_dickens,character/george_eliot,character/tennyson"></span>
 
 
 CHAPTER X
@@ -5491,7 +5491,7 @@ So did John Kosciusko arrange his life. And the Daemon had even arranged that Jo
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mr. Petre — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mr. Petre — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/city,setting/london"></span>
 
 
 So in that happy springtime John Kosciusko wandered. A contract motor of sufficient size met him at Cherbourg. Once more did he survey the castles of the Loire, once more the conservatories of the Riviera.
@@ -5529,7 +5529,7 @@ It was said that he had begun with a deal in some stock. One line of inquiries m
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mr. Petre — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mr. Petre — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/machine,concept/identity"></span>
 
 
 John Kosciusko was in such a cold anger that the parchment of his skin showed white. For men of that energy can be very angry indeed, at and beyond their seventieth year.
@@ -5565,7 +5565,7 @@ He used the customary string of technicalities, to each of which was attached a 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Mr. Petre — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Mr. Petre — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/renunciation,concept/moderation,concept/money_and_avarice,concept/identity,concept/justice,concept/self_knowledge,form/novel,form/satire"></span>
 
 
 “I have no anxiety to go on with that,” said Mr. Blagden wearily. “None at all.”
@@ -5619,7 +5619,7 @@ An economist, perhaps, might tell you who had provided these various windfalls. 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Mr. Petre — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Mr. Petre — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/satire_of_society,concept/justice,concept/revenge,concept/greed_and_money,concept/crime_and_punishment,form/novel,form/satire"></span>
 
 
 I said just now that I could not tell you who had provided all these sums; but upon consideration it seems to me that they can only have been provided by the British taxpayer at large. The burden was therefore distributed over the widest possible field and nothing more equitable could be imagined.
@@ -5665,7 +5665,7 @@ He used the most extravagant language against the Majestic Fabric of British Jur
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="Mr. Petre — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="Mr. Petre — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/satire_of_society,concept/justice,concept/power_and_corruption,concept/revenge,concept/money_and_avarice,form/novel,form/satire"></span>
 
 
 Mr. Jacob King dammed the torrent with the remark that there was still the House of Lords.
@@ -5717,7 +5717,7 @@ Mr. John K. Petre, his gaunt powerful figure striding vigorously, for all its ag
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_07" data-title="Mr. Petre — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_07" data-title="Mr. Petre — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/sea_and_voyage,concept/renunciation,concept/revenge,concept/solitude,concept/money_and_avarice,concept/self_knowledge,form/novel,form/satire"></span>
 
 
 “Which way did it go?” said John K. Petre.

@@ -781,7 +781,7 @@ fragments of the “_House of Usher_.”
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Fall of the House of Usher (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Fall of the House of Usher (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/horse,motif/nature,motif/soul,motif/time,motif/well,concept/charity,concept/doubt,concept/imagination,concept/melancholy,concept/nature,concept/sublime,character/roderick_usher"></span>
 
 
 Son cœur est un luth suspendu;
@@ -893,7 +893,7 @@ faintly discernible, and leaden-hued.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Fall of the House of Usher (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Fall of the House of Usher (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/decay,motif/horse,motif/nature,motif/silence,concept/identity,concept/nature,concept/self,character/roderick_usher"></span>
 
 
 Shaking off from my spirit what _must_ have been [[A Dream|a dream]], I
@@ -998,7 +998,7 @@ most intense excitement.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Fall of the House of Usher (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Fall of the House of Usher (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/flowers,motif/memory,motif/nakedness,motif/nature,motif/night,motif/soul,motif/tears,concept/fear,concept/melancholy,concept/nature,character/madeline,character/roderick_usher"></span>
 
 
 It was thus that he spoke of the object of my visit, of his
@@ -1115,7 +1115,7 @@ of Fuseli.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Fall of the House of Usher (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Fall of the House of Usher (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/dawn,motif/home,motif/journey,motif/river,motif/time,motif/well,concept/beauty,concept/endurance"></span>
 
 
 One of the phantasmagoric conceptions of my friend, partaking not
@@ -1262,7 +1262,7 @@ Maguntinae_.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Fall of the House of Usher (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Fall of the House of Usher (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/nature,motif/night,motif/sleep,motif/storm,concept/body,concept/courage,concept/madness,concept/nature,concept/wonder,character/madeline"></span>
 
 
 I could not help thinking of the wild ritual of this work, and of
@@ -1368,7 +1368,7 @@ through the apartment.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Fall of the House of Usher (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Fall of the House of Usher (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/hero,motif/lightning,motif/moon,motif/nature,motif/night,motif/silence,motif/stars,motif/storm,motif/well,motif/wind,motif/window,concept/beauty,concept/doubt,concept/history,concept/hope,concept/nature,concept/solitude,concept/truth,form/history"></span>
 
 
 I had taken but few turns in this manner, when a light step on an
@@ -1470,7 +1470,7 @@ enwritten—
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Fall of the House of Usher (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Fall of the House of Usher (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/moon,motif/night,motif/prison,motif/soul,motif/storm,concept/body,concept/doubt,concept/wonder,setting/castle,character/madeline"></span>
 
 
 Who entereth herein, a conqueror hath bin;

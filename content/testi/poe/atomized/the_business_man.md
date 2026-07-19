@@ -729,7 +729,7 @@ the Hudson.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Business Man (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Business Man (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/nature,motif/pain,motif/soul,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/nature,concept/paradox,concept/truth,form/biography,character/nurse"></span>
 
 
 Method is the [[Soul|soul]] of business.—OLD SAYING.
@@ -917,7 +917,7 @@ whom I served. At nine, every morning, I called upon that
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Business Man (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Business Man (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/nature,motif/night,motif/noon,motif/tears,motif/well,concept/doubt,concept/nature,concept/truth,character/nurse"></span>
 
 
 individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
@@ -1109,7 +1109,7 @@ men not to remember her [[Well|well]] in my will. By observing, as I say,
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Business Man (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Business Man (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/body,concept/truth,character/pompey"></span>
 
 
 the strictest system in all my dealings, and keeping a
@@ -1309,7 +1309,7 @@ came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fac
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Business Man (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Business Man (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,archetype/innocent,motif/animals,motif/time,motif/well,motif/window,concept/conscience,concept/truth"></span>
 
 
 was not avaricious, but my dog was. I allowed him a third of the

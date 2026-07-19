@@ -1827,7 +1827,7 @@ Oh! my companions, both you to whom I dedicate this book and you who have accomp
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="Hills and the Sea — DEDICATION" data-chapter="DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="Hills and the Sea — DEDICATION" data-chapter="DEDICATION" data-kind="story" data-tags="motif/storm,motif/wind,concept/comradeship,concept/faith,concept/friendship,setting/mountains"></span>
 
 
 DEDICATION
@@ -1897,7 +1897,7 @@ the “Morning Leader,” and the “Westminster Gazette.”
 
 
 
-<span class="atom-split" data-atom="story_02_the_north_sea" data-title="Hills and the Sea — THE NORTH SEA" data-chapter="THE NORTH SEA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_north_sea" data-title="Hills and the Sea — THE NORTH SEA" data-chapter="THE NORTH SEA" data-kind="story" data-tags="motif/storm,motif/wind"></span>
 
 
 THE NORTH SEA
@@ -1949,7 +1949,7 @@ But which of you who talk so loudly about the island race and the command of the
 
 
 
-<span class="atom-split" data-atom="story_03_the_singer" data-title="Hills and the Sea — THE SINGER" data-chapter="THE SINGER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_singer" data-title="Hills and the Sea — THE SINGER" data-chapter="THE SINGER" data-kind="story" data-tags="setting/mountains"></span>
 
 
 THE SINGER
@@ -1997,7 +1997,7 @@ When he heard this he was very pleased. He took off his enormous hat, which was 
 
 
 
-<span class="atom-split" data-atom="story_04_on_mails" data-title="Hills and the Sea — ON “MAILS”" data-chapter="ON MAILS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_mails" data-title="Hills and the Sea — ON “MAILS”" data-chapter="ON MAILS" data-kind="story" data-tags="motif/ship,setting/ship"></span>
 
 
 ON “MAILS”
@@ -2027,7 +2027,7 @@ I shall saunter in one of the towns of the plain, St. Girons or another, along t
 
 
 
-<span class="atom-split" data-atom="story_05_the_pyrenean_hive" data-title="Hills and the Sea — THE PYRENEAN HIVE" data-chapter="THE PYRENEAN HIVE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_pyrenean_hive" data-title="Hills and the Sea — THE PYRENEAN HIVE" data-chapter="THE PYRENEAN HIVE" data-kind="story" data-tags="motif/music_and_song,motif/inn_tavern,concept/wonder,form/travel_writing,histref/orient_arabia,setting/mountains,setting/spain"></span>
 
 
 THE PYRENEAN HIVE
@@ -2063,7 +2063,7 @@ There was complete silence from that moment till the dawn, and the second of the
 
 
 
-<span class="atom-split" data-atom="story_06_delft" data-title="Hills and the Sea — DELFT" data-chapter="DELFT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_delft" data-title="Hills and the Sea — DELFT" data-chapter="DELFT" data-kind="story" data-tags="motif/wind"></span>
 
 
 DELFT
@@ -2103,7 +2103,7 @@ Or words to that effect. And to think that you can get to a place like that for 
 
 
 
-<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_01" data-title="Hills and the Sea — THE WING OF DALUA (part 1)" data-chapter="THE WING OF DALUA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_01" data-title="Hills and the Sea — THE WING OF DALUA (part 1)" data-chapter="THE WING OF DALUA" data-kind="excerpt" data-tags="motif/wind,setting/mountains"></span>
 
 
 THE WING OF DALUA
@@ -2125,7 +2125,7 @@ Up the gorge then we went, my companion and I; the day fell as we marched, and t
 
 
 
-<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_02" data-title="Hills and the Sea — THE WING OF DALUA (part 2)" data-chapter="THE WING OF DALUA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_02" data-title="Hills and the Sea — THE WING OF DALUA (part 2)" data-chapter="THE WING OF DALUA" data-kind="excerpt" data-tags="motif/storm,concept/wonder"></span>
 
 
 We were very weary, and invigorated by nothing but the light, but, having that at least to strengthen us, we made at once for the main range, knowing very well that, once we were over it, it would be downhill all the way, and seeing upon our maps that there were houses and living men high in the further Andorran valley, which was not deserted like this vale of the Aston, but inhabited: full, that is, of Catalans, who would soon make us forget the inhuman loneliness of the heights, for by this time we were both convinced, though still neither of us said it to the other, that there was an evil brooding over all this place.
@@ -2147,7 +2147,7 @@ There stood in the broader and lower part of the valley to which we had now come
 
 
 
-<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_03" data-title="Hills and the Sea — THE WING OF DALUA (part 3)" data-chapter="THE WING OF DALUA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_wing_of_dalua--part_03" data-title="Hills and the Sea — THE WING OF DALUA (part 3)" data-chapter="THE WING OF DALUA" data-kind="excerpt" data-tags="motif/storm,setting/france,setting/mountains"></span>
 
 
 After that we spoke no more. We went on through the gathering twilight, determined to march downwards to the end, but knowing pretty well what the end would be. Once only did we again fall into the traps that were laid about us, when we went and knocked at the hillside where we thought we had seen a cottage and its oaken door, and after the mockery of that disappointment we would not be deceived again, nor make ourselves again the victims of the laughter that perpetually proceeded from the torrent. The path led us onwards in a manner that was all one with the plot now woven round our feet. We could but follow the path, though we knew with what an evil purpose it was made: that it was as phantom as the rest. At one place it invited us to cross, upon two shaking pine trunks, the abyss of a cataract; in another it invited us to climb, in spite of our final weariness, a great barrier of rock that lay between an upper and a lower jasse. We continued upon it determinedly, with heads bent, barely hoping that perhaps at last we should emerge from this haunted ground, but the illusions which had first mocked us we resolutely refused. So much so, that where at one place there stood plainly before us in the gathering darkness a farm-house with its trees and its close, its orchard and its garden gate, I said to my companion, “All this place is cursed, and I will not go near.” And he applauded me, for he knew as well as I that if we had gone a few steps towards that orchard and that garden close, they would have turned into the bracken of the hillside, bare granite and unfruitful scree.
@@ -2173,7 +2173,7 @@ But what that valley was which had led us from the summits round backward to our
 
 
 
-<span class="atom-split" data-atom="story_08_on_ely--part_01" data-title="Hills and the Sea — ON ELY (part 1)" data-chapter="ON ELY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_on_ely--part_01" data-title="Hills and the Sea — ON ELY (part 1)" data-chapter="ON ELY" data-kind="excerpt" data-tags="motif/journey,motif/wind"></span>
 
 
 ON ELY
@@ -2215,7 +2215,7 @@ Here and there a man who really knows his subject and who disdains the market of
 
 
 
-<span class="atom-split" data-atom="story_08_on_ely--part_02" data-title="Hills and the Sea — ON ELY (part 2)" data-chapter="ON ELY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_on_ely--part_02" data-title="Hills and the Sea — ON ELY (part 2)" data-chapter="ON ELY" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 Yet it is in England that the Norman can be studied as he can be studied nowhere else. He did not write here (as in Sicily) upon a palimpsest. He was not merged here (as in the Orient) with the rest of the French. He was segregated here; he can be studied in isolation; for though so many that crossed the sea on that September night with William, the big leader of them, held no Norman tenure, yet the spirit of the whole thing was Norman: the regularity the suddenness, the achievement, and, when the short fighting was over the creation of a new society. It was the Norman who began everything over again — the first fresh influence since Rome.
@@ -2255,7 +2255,7 @@ So much is in Ely to-day and a great deal more. For instance (a third and last i
 
 
 
-<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_01" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 1)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_01" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 1)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt" data-tags="motif/ship,concept/wonder,setting/mountains,setting/ship"></span>
 
 
 THE INN OF THE MARGERIDE
@@ -2287,7 +2287,7 @@ This road was made by the French kings when their influence had crept so far sou
 
 
 
-<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_02" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 2)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_02" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 2)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt" data-tags="motif/wind,concept/wonder"></span>
 
 
 As I followed it, law — good law and evil — seemed to go with me up the mountain side.
@@ -2323,7 +2323,7 @@ I that had lost count of hours and of heights in the glamour of the midnight and
 
 
 
-<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_03" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 3)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_the_inn_of_the_margeride--part_03" data-title="Hills and the Sea — THE INN OF THE MARGERIDE (part 3)" data-chapter="THE INN OF THE MARGERIDE" data-kind="excerpt" data-tags="motif/journey,motif/wind,setting/mountains"></span>
 
 
 The peasants sitting about the board and fire had risen, looking at the door; for strangers were rare, and it was very late as I came out of the empty cold into that human room. Their dress was ancestral; the master, as he spoke to me, mixed new words with old. He had phrases that the Black Prince used when he went riding at arms across the Margeride. He spoke also of modern things, of the news in the valley from which I had come, and the railway and Puy below us. They put before me bread and wine, which I most needed. I sat right up against the blaze. We all talked high together of the things we knew. For when I had told them what news there was in the valley, they also answered my questions, into which I wove as best I could those still living ancient words I had caught from their mouths. I asked them whose was that great tomb under the moonlight, at which I had shuddered as I entered their doors. They told me it was Duguesclin’s tomb; for he got his death-wound here under the walls of the town above them five hundred years ago, and in this house he had died. Then I asked what stream that was which trickled from the half-frozen moss, and led down the valley of my next day’s [[Journey|journey]]. They told me it was called the River Red-cap, and they said that it was Faëry. I asked them also what was the name of the height over which I had come; they answered, that the shepherds called it “The King’s House,” and that hence, in clear weather, under an eastern [[Wind|wind]], one could see far off, beyond the Velay, that lonely height which is called “The Chair of God.”
@@ -2359,7 +2359,7 @@ I could see the further valley broadening among woods, to the warmer places; and
 
 
 
-<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_01" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 1)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_01" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 1)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 A FAMILY OF THE FENS
@@ -2393,7 +2393,7 @@ In every inch of England you can find the history of England. You find it very t
 
 
 
-<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_02" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 2)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_02" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 2)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt" data-tags="concept/satire_of_society,concept/money_and_avarice,concept/class_conflict,concept/history,concept/family_and_lineage,form/satire,histref/english_civil_war,character/oliver_cromwell,character/charles_i"></span>
 
 
 Here is the story of one such family, a family without whose privileges and public services it would be difficult to conceive modern England. Their wealth is rooted in the Fens; the growth of that wealth is parallel to the growth of every fortune by which we are governed.
@@ -2429,7 +2429,7 @@ Cromwell was of the same class, and knew the trick too well. He gave the family 
 
 
 
-<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_03" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 3)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_a_family_of_the_fens--part_03" data-title="Hills and the Sea — A FAMILY OF THE FENS (part 3)" data-chapter="A FAMILY OF THE FENS" data-kind="excerpt" data-tags="concept/satire_of_society,concept/money_and_avarice,concept/class_conflict,concept/history,concept/family_and_lineage,form/satire,histref/english_restoration,character/oliver_cromwell,character/charles_ii"></span>
 
 
 The works began once more. The common people, in their simplicity, rose as they had so often risen before, against a benefit they could not comprehend; but they no longer had a Stuart to deal with. To their extreme surprise they were put down “with the aid of the military.” Then, for all the world as in the promotion of a modern company, the consulting engineer of the original promotors reappears. The Russells had patched it up with Vermuyden, and the work was resumed a third time.
@@ -2453,7 +2453,7 @@ It was precisely a century since the Family had set out in its quest for that hu
 
 
 
-<span class="atom-split" data-atom="story_11_the_election" data-title="Hills and the Sea — THE ELECTION" data-chapter="THE ELECTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_election" data-title="Hills and the Sea — THE ELECTION" data-chapter="THE ELECTION" data-kind="story" data-tags="concept/faith,setting/mountains"></span>
 
 
 THE ELECTION
@@ -2499,7 +2499,7 @@ Then I said to them as I left the train at the town I spoke of: “Days, knights
 
 
 
-<span class="atom-split" data-atom="story_12_arles" data-title="Hills and the Sea — ARLES" data-chapter="ARLES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_arles" data-title="Hills and the Sea — ARLES" data-chapter="ARLES" data-kind="story" data-tags="motif/ruins,concept/history,concept/tradition,form/travel_writing,histref/ancient_rome,histref/christianity,histref/the_crusades,setting/france"></span>
 
 
 ARLES
@@ -2537,7 +2537,7 @@ There is no way of writing or of telling history which could be so true as these
 
 
 
-<span class="atom-split" data-atom="story_13_the_griffin" data-title="Hills and the Sea — THE GRIFFIN" data-chapter="THE GRIFFIN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_griffin" data-title="Hills and the Sea — THE GRIFFIN" data-chapter="THE GRIFFIN" data-kind="story" data-tags="motif/wind,concept/faith"></span>
 
 
 THE GRIFFIN
@@ -2633,7 +2633,7 @@ And yet ... what is that in me which makes me regret the Griffin, the real Griff
 
 
 
-<span class="atom-split" data-atom="story_14_the_first_days_march--part_01" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 1)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_first_days_march--part_01" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 1)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 THE FIRST DAY’S MARCH
@@ -2659,7 +2659,7 @@ In the process things had passed which would seem to you incredible if I wrote t
 
 
 
-<span class="atom-split" data-atom="story_14_the_first_days_march--part_02" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 2)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_first_days_march--part_02" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 2)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Thus the great hills that border the Moselle, the distant frontier, the vast plain which is (they say) to be a battlefield, and which lay five hundred feet sheer below me, the far guns when they were practising at Metz, the awful strength of columns on the march moved me. The sky also grew more wonderful, and I noticed living things. The Middle Ages, of which till then I had had but troubling visions, rose up and took flesh in the old town, on the rare winter evenings when I had purchased the leisure to leave quarters by some excessive toil. A man could feel [[France]] going by.
@@ -2687,7 +2687,7 @@ These two horses of mine were called Pacte and Basilique. Basilique was saddled;
 
 
 
-<span class="atom-split" data-atom="story_14_the_first_days_march--part_03" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 3)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_the_first_days_march--part_03" data-title="Hills and the Sea — THE FIRST DAY’S MARCH (part 3)" data-chapter="THE FIRST DAYS MARCH" data-kind="excerpt" data-tags="motif/ship,setting/ship"></span>
 
 
 We filed out of quarters, passed the lamp of the guard, and saw huddled there the dozen or so that were left behind while we were off to better things. Then a drawn-out cry at the head of the column was caught up all along its length, and we trotted; the metal of shoes and wheel-rims rang upon the road, and I felt as a man feels on a [[Ship|ship]] when it leaves harbour for great discoveries.
@@ -2717,7 +2717,7 @@ Then came the evening, and very early, before it was dark, I was asleep in my cl
 
 
 
-<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_01" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 1)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_01" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 1)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 THE SEA-WALL OF THE WASH
@@ -2761,7 +2761,7 @@ The sand and the mud commingle. The mud takes on little tufts of salt grass bare
 
 
 
-<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_02" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 2)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_02" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 2)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 There are miles and miles of it right up to the EMBANKMENT, the great and old SEA-WALL, which protects the houses of men. You have but to eliminate that embankment to imagine what the whole countryside must have been like before it was raised, and the meaning of the Fens becomes clear to you. The Fens were long ago but the continuation inland of this sea-morass. The tide channels of the marsh were all of one kind, though they differed so much in size. Some of these channels were small without name; some a little larger, and these had a local name; others were a little larger again, and worthy to be called rivers — the Ouse, the Nen, the Welland, the Glen, the Witham. But, large or small, they were nothing, all of them, but the scouring of tide-channels in the light and sodden slime. It was the high tide that drowned all this land, the low tide that drained it; and wherever a patch could be found just above the influence of the tide or near enough to some main channel for the rush and swirl of the water to drain the island, there the villages grew. Wherever such a patch could be found men built their first homes. Sometimes, before men civic, came the holy hermits. But man, religious, or greedy, or just wandering, crept in after each inundation and began to tame the water and spread out even here his slow, interminable conquest. So Wisbeach, so March, so Boston grew, and so — the oldest of them all — the Isle of Ely.
@@ -2789,7 +2789,7 @@ It is called Roman, and relics of Rome have been found in it, but it has not the
 
 
 
-<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_03" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 3)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_15_the_sea_wall_of_the_wash--part_03" data-title="Hills and the Sea — THE SEA-WALL OF THE WASH (part 3)" data-chapter="THE SEA WALL OF THE WASH" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 * * *
@@ -2809,7 +2809,7 @@ But for the birds and this landmark, which never left us, all the length of the 
 
 
 
-<span class="atom-split" data-atom="story_16_the_cerdagne" data-title="Hills and the Sea — THE CERDAGNE" data-chapter="THE CERDAGNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_cerdagne" data-title="Hills and the Sea — THE CERDAGNE" data-chapter="THE CERDAGNE" data-kind="story" data-tags="setting/france,setting/mountains"></span>
 
 
 THE CERDAGNE
@@ -2841,7 +2841,7 @@ I began by saying that this wide basin of land, with its strong people and its i
 
 
 
-<span class="atom-split" data-atom="story_17_carcassonne" data-title="Hills and the Sea — CARCASSONNE" data-chapter="CARCASSONNE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_carcassonne" data-title="Hills and the Sea — CARCASSONNE" data-chapter="CARCASSONNE" data-kind="story" data-tags="setting/mountains"></span>
 
 
 CARCASSONNE
@@ -2877,7 +2877,7 @@ It is easy to speak of the Empire and to say that it established its order from 
 
 
 
-<span class="atom-split" data-atom="story_18_lynn" data-title="Hills and the Sea — LYNN" data-chapter="LYNN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_lynn" data-title="Hills and the Sea — LYNN" data-chapter="LYNN" data-kind="story" data-tags="motif/wind"></span>
 
 
 LYNN
@@ -2939,7 +2939,7 @@ So having come round to the Ouse again, and to the edge of the Fens at Lynn, I w
 
 
 
-<span class="atom-split" data-atom="story_19_the_guns--part_01" data-title="Hills and the Sea — THE GUNS (part 1)" data-chapter="THE GUNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_the_guns--part_01" data-title="Hills and the Sea — THE GUNS (part 1)" data-chapter="THE GUNS" data-kind="excerpt" data-tags="motif/wind,setting/france"></span>
 
 
 THE GUNS
@@ -2975,7 +2975,7 @@ Still, as we went, I noticed that we were on some great division, between provin
 
 
 
-<span class="atom-split" data-atom="story_19_the_guns--part_02" data-title="Hills and the Sea — THE GUNS (part 2)" data-chapter="THE GUNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_the_guns--part_02" data-title="Hills and the Sea — THE GUNS (part 2)" data-chapter="THE GUNS" data-kind="excerpt" data-tags="motif/rain,motif/comradeship,concept/exile,concept/endurance,form/sketch,setting/military_camp,setting/france"></span>
 
 
 The rain ceased, and the steady grey sky broke a little as we marched on, still in silence, and by this time thirsty and a little dazed. A ravine opened in a bare plateau, and we saw that it held a little village. They led us into it, down a short steep bit of road, and lined us up by a great basin of sparkling water, and every man was mad to break ranks and drink; but no one dared. The children of the village gathered in a little group and looked at us, and we envied their freedom. When we had stood thus for a quarter of an hour or so, an orderly came riding in all splashed, and his horse’s coat rough with the rain and steaming up into the air. He came up to the lieutenant in command and delivered an order; then he rode away fast northward along the ravine and out of the village. The lieutenant, when he had gone, formed us into a little column, and we, who had expected to dismiss at any moment, were full of anger, and were sullen to find that by some wretched order or other we had to take another hour of the road: first we had to go back four miles along the road we had already come, and then to branch off perpendicular to our general line of march, and (as it seemed to us) quite out of our way.
@@ -3003,7 +3003,7 @@ Only half the regiment was to halt at Bar-le-Duc. But six batteries, thirty-six 
 
 
 
-<span class="atom-split" data-atom="story_19_the_guns--part_03" data-title="Hills and the Sea — THE GUNS (part 3)" data-chapter="THE GUNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_the_guns--part_03" data-title="Hills and the Sea — THE GUNS (part 3)" data-chapter="THE GUNS" data-kind="excerpt" data-tags="motif/comradeship,motif/drums_and_bugles,concept/friendship,form/sketch,setting/military_camp,setting/france"></span>
 
 
 The seventh battery, with which we had little to do (for in quarters they belonged to the furthest corner from our own), first came by and passed us, with that interminable repetition of similar things which is the note of a force on the march, and makes it seem like a river flowing. We recognised it by the figure of one Chevalier, a major attached to them. He was an absent-minded man of whom many stories were told — kindly, with a round face; and he wore eyeglasses, either for the distinction they afforded or because he was short of sight. The seventh passed us, and their forge and waggon ended the long train. A regulation space between them and the next allowed the dust to lie a little, and then the ninth came by; we knew them well, because in quarters they were our neighbours. At their head was their captain, whose name was Levy. He was a Jew, small, very sharp-featured, and a man who worked astonishingly hard. He was very popular with his men, and his battery was happy and boasted. He cared especially for their food, and would go into their kitchen daily to taste the soup. He was also a silent man. He sat his horse badly, bent and crouched, but his eyes were very keen; and he again was a character of whom the men talked and told stories. I believe he was something of a mathematician; but we knew little of such things where our superiors were concerned.
@@ -3017,7 +3017,7 @@ When we had formed park in the grey market-square, ridden our horses off to wate
 
 
 
-<span class="atom-split" data-atom="story_20_the_looe_stream" data-title="Hills and the Sea — THE LOOE STREAM" data-chapter="THE LOOE STREAM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_looe_stream" data-title="Hills and the Sea — THE LOOE STREAM" data-chapter="THE LOOE STREAM" data-kind="story" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 THE LOOE STREAM
@@ -3059,7 +3059,7 @@ The star Jupiter shone brightly just above my wake, and over Selsey Bill, throug
 
 
 
-<span class="atom-split" data-atom="story_21_roncesvalles" data-title="Hills and the Sea — RONCESVALLES" data-chapter="RONCESVALLES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_roncesvalles" data-title="Hills and the Sea — RONCESVALLES" data-chapter="RONCESVALLES" data-kind="story" data-tags="concept/wonder,setting/france,setting/mountains"></span>
 
 
 RONCESVALLES
@@ -3101,7 +3101,7 @@ The last Spanish town is called Val Carlos, as it ought to be, considering that 
 
 
 
-<span class="atom-split" data-atom="story_22_the_slant_off_the_land" data-title="Hills and the Sea — THE SLANT OFF THE LAND" data-chapter="THE SLANT OFF THE LAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_slant_off_the_land" data-title="Hills and the Sea — THE SLANT OFF THE LAND" data-chapter="THE SLANT OFF THE LAND" data-kind="story" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 THE SLANT OFF THE LAND
@@ -3133,7 +3133,7 @@ Here, then, was the proper end of a long cruise. It was springtime, and the seas
 
 
 
-<span class="atom-split" data-atom="story_23_the_canigou" data-title="Hills and the Sea — THE CANIGOU" data-chapter="THE CANIGOU" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_canigou" data-title="Hills and the Sea — THE CANIGOU" data-chapter="THE CANIGOU" data-kind="story" data-tags="setting/mountains"></span>
 
 
 THE CANIGOU
@@ -3159,7 +3159,7 @@ Yet it is the mountain which very many men who have hardly heard its name have b
 
 
 
-<span class="atom-split" data-atom="story_24_the_man_and_his_wood" data-title="Hills and the Sea — THE MAN AND HIS WOOD" data-chapter="THE MAN AND HIS WOOD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_man_and_his_wood" data-title="Hills and the Sea — THE MAN AND HIS WOOD" data-chapter="THE MAN AND HIS WOOD" data-kind="story" data-tags="motif/tree,concept/satire_of_society,concept/money_and_avarice,concept/nature,form/satire,histref/boer_war,setting/rural_england"></span>
 
 
 THE MAN AND HIS WOOD
@@ -3199,7 +3199,7 @@ A solemn thought: How enduring are the works of Nature — how perishable those 
 
 
 
-<span class="atom-split" data-atom="story_25_the_channel" data-title="Hills and the Sea — THE CHANNEL" data-chapter="THE CHANNEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_channel" data-title="Hills and the Sea — THE CHANNEL" data-chapter="THE CHANNEL" data-kind="story" data-tags="motif/ship,motif/storm,motif/wind,setting/france,setting/mountains,setting/ship"></span>
 
 
 THE CHANNEL
@@ -3243,7 +3243,7 @@ But how I came back, and of the [[Storm|storm]], and of its majesty, and of how 
 
 
 
-<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_01" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 1)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_01" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 1)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt" data-tags="motif/wind,setting/mountains"></span>
 
 
 THE MOWING OF A FIELD
@@ -3265,7 +3265,7 @@ When I got out into the long grass the sun was not yet risen, but there were alr
 
 
 
-<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_02" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 2)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_02" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 2)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt" data-tags="motif/grass,motif/prayer,concept/labor_and_work,concept/tradition,concept/nature,form/essay,setting/rural_england"></span>
 
 
 There is an art also in the sharpening of a scythe, and it is worth describing carefully. Your blade must be dry, and that is why you will see men rubbing the scythe-blade with grass before they whet it. Then also your rubber must be quite dry, and on this account it is a good thing to lay it on your coat and keep it there during all your day’s mowing. The scythe you stand upright, with the blade pointing away from you, and you put your left hand firmly on the back of the blade, grasping it: then you pass the rubber first down one side of the blade-edge and then down the other, beginning near the handle and going on to the point and working quickly and hard. When you first do this you will, perhaps, cut your hand; but it is only at first that such an accident will happen to you.
@@ -3303,7 +3303,7 @@ He was of that dark silent race upon which all the learned quarrel, but which, b
 
 
 
-<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_03" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 3)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_mowing_of_a_field--part_03" data-title="Hills and the Sea — THE MOWING OF A FIELD (part 3)" data-chapter="THE MOWING OF A FIELD" data-kind="excerpt" data-tags="motif/grass,concept/tradition,concept/labor_and_work,concept/the_common_man,concept/nature,form/essay,setting/rural_england"></span>
 
 
 To this race, I say, belonged the man who now approached me. And he said to me, “Mowing?” And I answered, “Ar.” Then he also said “Ar,” as in duty bound; for so we speak to each other in the Stenes of the Downs.
@@ -3331,7 +3331,7 @@ He went off with a slow and steady progress, as all our peasants do, making thei
 
 
 
-<span class="atom-split" data-atom="story_27_the_roman_road" data-title="Hills and the Sea — THE ROMAN ROAD" data-chapter="THE ROMAN ROAD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_roman_road" data-title="Hills and the Sea — THE ROMAN ROAD" data-chapter="THE ROMAN ROAD" data-kind="story" data-tags="concept/faith"></span>
 
 
 THE ROMAN ROAD
@@ -3365,7 +3365,7 @@ And so did I. But as they brought me beer and bacon at evening, and I toasted th
 
 
 
-<span class="atom-split" data-atom="story_28_the_onion_eater" data-title="Hills and the Sea — THE ONION-EATER" data-chapter="THE ONION EATER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_onion_eater" data-title="Hills and the Sea — THE ONION-EATER" data-chapter="THE ONION EATER" data-kind="story" data-tags="motif/wind"></span>
 
 
 THE ONION-EATER
@@ -3417,7 +3417,7 @@ He shrugged his shoulders and put his head on one side, quizzing at me with his 
 
 
 
-<span class="atom-split" data-atom="story_29_the_return_to_england" data-title="Hills and the Sea — THE RETURN TO ENGLAND" data-chapter="THE RETURN TO ENGLAND" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_return_to_england" data-title="Hills and the Sea — THE RETURN TO ENGLAND" data-chapter="THE RETURN TO ENGLAND" data-kind="story" data-tags="motif/ship,motif/wind,setting/france,setting/ship"></span>
 
 
 THE RETURN TO ENGLAND
@@ -3449,7 +3449,7 @@ It is pleasant to remember these things.
 
 
 
-<span class="atom-split" data-atom="story_30_the_valley_of_the_rother" data-title="Hills and the Sea — THE VALLEY OF THE ROTHER" data-chapter="THE VALLEY OF THE ROTHER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_the_valley_of_the_rother" data-title="Hills and the Sea — THE VALLEY OF THE ROTHER" data-chapter="THE VALLEY OF THE ROTHER" data-kind="story" data-tags="topos/locus_amoenus,motif/river,concept/nature,concept/nostalgia,form/travel_writing,setting/rural_england"></span>
 
 
 THE VALLEY OF THE ROTHER
@@ -3479,7 +3479,7 @@ If ever again we have a religion in the South Country, we will have a temple to 
 
 
 
-<span class="atom-split" data-atom="story_31_the_coronation" data-title="Hills and the Sea — THE CORONATION" data-chapter="THE CORONATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_coronation" data-title="Hills and the Sea — THE CORONATION" data-chapter="THE CORONATION" data-kind="story" data-tags="motif/storm,motif/wind"></span>
 
 
 THE CORONATION
@@ -3503,7 +3503,7 @@ When the fires had died down to a sullen glow, and the men watching them had gon
 
 
 
-<span class="atom-split" data-atom="story_32_the_man_of_the_desert--part_01" data-title="Hills and the Sea — THE MAN OF THE DESERT (part 1)" data-chapter="THE MAN OF THE DESERT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_32_the_man_of_the_desert--part_01" data-title="Hills and the Sea — THE MAN OF THE DESERT (part 1)" data-chapter="THE MAN OF THE DESERT" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 THE MAN OF THE DESERT
@@ -3529,7 +3529,7 @@ The good uses of the world are forgotten in the Desert, or fiercely denied. Love
 
 
 
-<span class="atom-split" data-atom="story_32_the_man_of_the_desert--part_02" data-title="Hills and the Sea — THE MAN OF THE DESERT (part 2)" data-chapter="THE MAN OF THE DESERT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_32_the_man_of_the_desert--part_02" data-title="Hills and the Sea — THE MAN OF THE DESERT (part 2)" data-chapter="THE MAN OF THE DESERT" data-kind="excerpt" data-tags="concept/faith,concept/wonder,setting/mountains"></span>
 
 
 I have continually considered, as I have read my history, the special points in which their influence is to be observed in the development of Europe. It takes the form of the great heresies; the denial of the importance of matter (sometimes of its existence); the denial that anything but matter exists; the denial of the family; the denial of ownership; the over-simplicity which is peculiarly a Desert product runs through all such follies, as does the rejection of a central and governing power upon earth, which is again just such a rebellion as the Desert would bring. I say the great heresies are the main signs of that influence; but it is in small and particular matters that you may see its effect most clearly.
@@ -3561,7 +3561,7 @@ But when I came down again, northward from the high sandstone hill, and was in t
 
 
 
-<span class="atom-split" data-atom="story_33_the_departure" data-title="Hills and the Sea — THE DEPARTURE" data-chapter="THE DEPARTURE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_departure" data-title="Hills and the Sea — THE DEPARTURE" data-chapter="THE DEPARTURE" data-kind="story" data-tags="motif/ship,motif/wind,setting/ship"></span>
 
 
 THE DEPARTURE
@@ -3597,7 +3597,7 @@ So we passed the short night until the sky upon our quarter grew faintly pale an
 
 
 
-<span class="atom-split" data-atom="story_34_the_idea_of_a_pilgrimage" data-title="Hills and the Sea — THE IDEA OF A PILGRIMAGE" data-chapter="THE IDEA OF A PILGRIMAGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_idea_of_a_pilgrimage" data-title="Hills and the Sea — THE IDEA OF A PILGRIMAGE" data-chapter="THE IDEA OF A PILGRIMAGE" data-kind="story" data-tags="archetype/pilgrim,motif/journey"></span>
 
 
 THE IDEA OF A PILGRIMAGE
@@ -3621,7 +3621,7 @@ So also I designed to walk, and did, when I visited the tombs of the Apostles.
 
 
 
-<span class="atom-split" data-atom="story_35_the_arena--part_01" data-title="Hills and the Sea — THE ARENA (part 1)" data-chapter="THE ARENA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_the_arena--part_01" data-title="Hills and the Sea — THE ARENA (part 1)" data-chapter="THE ARENA" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 THE ARENA
@@ -3641,7 +3641,7 @@ The sun was already very hot and the Parvis was blinding with light when he cros
 
 
 
-<span class="atom-split" data-atom="story_35_the_arena--part_02" data-title="Hills and the Sea — THE ARENA (part 2)" data-chapter="THE ARENA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_the_arena--part_02" data-title="Hills and the Sea — THE ARENA (part 2)" data-chapter="THE ARENA" data-kind="excerpt" data-tags="motif/journey,concept/faith"></span>
 
 
 You may sometimes see in modern picture galleries an attempt to combine the story from which proceeds the nourishing flame of Christianity with the crudities and the shameful ugliness of our decline. Thus, with others, a picture of our Lord and Mary Magdalen; all the figures except that of our Lord were dressed in the modern way. I remember another of our Lord and the little children, where the scene is put into a village school. Now, if you can imagine (which it is not easy to do) such an attempt to be successful, untouched by the love of display and eccentricity, and informing — as it commonly pretends to inform — our time with an idea, then you will understand what the traveller saw that morning in Notre Dame. The church seemed the vastest cavern that had ever been built for worship. Coming in from the high morning, the half-light alone, with which we always connect a certain majesty and presence, seemed to have taken on amplitude as well. The incense veiled what appeared to be an infinite lift of roof, and the third great measurement — the length of nave that leads like a forest ride to the lights of the choir — were drawn out into an immeasurable perspective by reason of a countless crowd of men and women divided by the narrow path of the procession. So full was this great place that a man moved slowly and with difficulty, edging through such a mass of folk as you may find at holiday time in a railway station, or outside a theatre — never surely before was a church like this, unless, indeed, some very rich or very famous man happened to be gracing it. But here to-day, for nothing but the function proper to the feast, the cathedral was paved and floored with human beings. In the galilee there was a kind of movement so that a man could get up further, and at last the traveller found a place to stand in just on the edge of the open gangway, at the very end of the nave. He peered up this, and saw from the further end, near the altar, the head of the procession approaching, which was (in his fancy of that morning) like the line of the [[Faith]], still living and returning in a perpetual circle to revivify the world. Moreover, there was in the advent of the procession a kind of climax. As it came nearer, the great crowd moved more quickly towards it; children were lifted up, and by one of Sully’s wide pillars a group of three young soldiers climbed on a rail to see the great sight better. The Cardinal-Archbishop, very old and supported by his priests, half walked and half tottered down the length of the people; his head, grown weary with age, barely supported the mitre, from which great jewels, false or true, were flashing. In his hand he had a crozier that was studded in the same way with gems, and that seemed to be made of gold; the same hands had twisted the metal of it as had hammered the hinges of the cathedral doors. Certainly there here appeared one of the resurrections of Europe. The matter of life seemed to take on a fuller stuff and to lift into a dimension above that in which it ordinarily moves. The thin, narrow, and unfruitful experience of to-day and yesterday was amplified by all the lives that had made our life, and the blood of which we are only a last expression, the race that is older even than Rome seemed in this revelation of continuity to be gathered up into one intense and passionate moment. The pagan altar of Tiberius, the legend of Dionysius, the whole circle of the wars came into this one pageant, and the old man in his office and his blessing was understood by all the crowd before him to transmit the centuries. A rich woman thrust a young child forward, and he stopped and stooped with difficulty to touch its hair. As he approached the traveller it was as though there had come great and sudden news to him, or the sound of unexpected and absorbing music.
@@ -3663,7 +3663,7 @@ It was oval, as should be a theatre for any show, with heights around it insigni
 
 
 
-<span class="atom-split" data-atom="story_35_the_arena--part_03" data-title="Hills and the Sea — THE ARENA (part 3)" data-chapter="THE ARENA" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_the_arena--part_03" data-title="Hills and the Sea — THE ARENA (part 3)" data-chapter="THE ARENA" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 * * *
@@ -3693,7 +3693,7 @@ But I read these two writers for my entertainment only, and in order to be acqua
 
 
 
-<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_01" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 1)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_01" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 1)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt" data-tags="motif/journey,motif/storm,setting/mountains"></span>
 
 
 AT THE SIGN OF THE LION
@@ -3719,7 +3719,7 @@ Anyhow, this stable yet stands; and in none does the horse, Monster, take a grea
 
 
 
-<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_02" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 2)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_02" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 2)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt" data-tags="motif/inn_tavern,concept/transience,concept/mortality,concept/immortality,concept/faith_and_doubt,concept/the_unattainable,form/essay,setting/rural_england"></span>
 
 
 I left him then, and went towards the house. It was quite dark, and the windows, with their square, large panes and true proportions, shone out and made it home. The room within received me like a friend. The open chimney at its end, round which the house is built, was filled with beech logs burning; and the candles, which were set in brass, mixed their yellow light with that of the fire. The long ceiling was low, as are the ceilings of Heaven. And oak was here everywhere also: in the beams and the shelves and the mighty table. For oak was, and will be again, the chief wood of the weald.
@@ -3757,7 +3757,7 @@ HE: “I have sometimes seen it clearly, that when the disappointed quest was ov
 
 
 
-<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_03" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 3)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_36_at_the_sign_of_the_lion--part_03" data-title="Hills and the Sea — AT THE SIGN OF THE LION (part 3)" data-chapter="AT THE SIGN OF THE LION" data-kind="excerpt" data-tags="motif/soul,concept/immortality,concept/mortality,concept/faith_and_doubt,concept/heaven_and_the_afterlife,concept/desire_and_longing,form/essay"></span>
 
 
 MYSELF: “No one denies that such a picture in the mind haunts men their whole lives through, though, after they have once experienced loss and incompletion, and especially when they have caught sight a long way off of the Barrier which ends all our experience, they recognise that picture for a cheat; and surely nothing can save it? That which reasons in us may be absolute and undying; for it is outside Time. It escapes the gropings of the learned, and it has nothing to do with material things. But as for all those functions which we but half fulfil in life, surely elsewhere they cannot be fulfilled at all? Colour is for the eyes and music is for the ears; and all that we love so much comes in by channels that do not remain.”
@@ -3783,7 +3783,7 @@ The fire had fallen. Flames no longer leapt from the beech logs; but on their un
 
 
 
-<span class="atom-split" data-atom="story_37_the_autumn_and_the_fall_of_leaves" data-title="Hills and the Sea — THE AUTUMN AND THE FALL OF LEAVES" data-chapter="THE AUTUMN AND THE FALL OF LEAVES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_the_autumn_and_the_fall_of_leaves" data-title="Hills and the Sea — THE AUTUMN AND THE FALL OF LEAVES" data-chapter="THE AUTUMN AND THE FALL OF LEAVES" data-kind="story" data-tags="concept/wonder"></span>
 
 
 THE AUTUMN AND THE FALL OF LEAVES
@@ -3813,7 +3813,7 @@ It is on this account that tradition has set, at the entering of autumn, for a w
 
 
 
-<span class="atom-split" data-atom="story_38_the_good_woman" data-title="Hills and the Sea — THE GOOD WOMAN" data-chapter="THE GOOD WOMAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_good_woman" data-title="Hills and the Sea — THE GOOD WOMAN" data-chapter="THE GOOD WOMAN" data-kind="story" data-tags="concept/friendship"></span>
 
 
 THE GOOD WOMAN
@@ -3853,7 +3853,7 @@ The 22nd of December.
 
 
 
-<span class="atom-split" data-atom="story_39_the_harbour_in_the_north" data-title="Hills and the Sea — THE HARBOUR IN THE NORTH" data-chapter="THE HARBOUR IN THE NORTH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_the_harbour_in_the_north" data-title="Hills and the Sea — THE HARBOUR IN THE NORTH" data-chapter="THE HARBOUR IN THE NORTH" data-kind="story" data-tags="motif/journey,motif/wind"></span>
 
 
 THE HARBOUR IN THE NORTH

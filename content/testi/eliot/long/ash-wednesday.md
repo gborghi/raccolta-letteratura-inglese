@@ -467,7 +467,7 @@ And let my cry come unto Thee.
 
 
 
-<span class="atom-split" data-atom="section_01_i" data-title="I Because I do not hope to turn again" data-chapter="i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_i" data-title="I Because I do not hope to turn again" data-chapter="i" data-kind="section" data-tags="motif/death,motif/desert,motif/garden,motif/journey,motif/love,motif/memory,motif/rose,motif/time,motif/wind,concept/hope,concept/mercy,setting/desert"></span>
 
 
 I Because I do not [[Hope|hope]] to turn again  
@@ -574,7 +574,7 @@ Matters. This is the land. We have our inheritance.
 
 
 
-<span class="atom-split" data-atom="section_02_ii" data-title="II Lady, three white leopards sat under a juniper-tree" data-chapter="II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_ii" data-title="II Lady, three white leopards sat under a juniper-tree" data-chapter="II" data-kind="section" data-tags="motif/desert,motif/garden,motif/journey,motif/love,motif/memory,motif/rose,motif/wind,motif/window,concept/despair,concept/hope,setting/desert"></span>
 
 
 II Lady, three white leopards sat under a juniper-tree  
@@ -664,7 +664,7 @@ Lord, I am not worthy
 
 
 
-<span class="atom-split" data-atom="section_03_iii" data-title="III At the first turning of the second stair" data-chapter="III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_iii" data-title="III At the first turning of the second stair" data-chapter="III" data-kind="section" data-tags="motif/garden,motif/sleep,motif/tears,motif/time,motif/wind,motif/window,concept/despair,concept/exile,concept/hope"></span>
 
 
 III At the first turning of the second stair  
@@ -733,7 +733,7 @@ And after this our [[Exile|exile]]
 
 
 
-<span class="atom-split" data-atom="section_04_iv" data-title="IV Who walked between the violet and the violet" data-chapter="IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_iv" data-title="IV Who walked between the violet and the violet" data-chapter="IV" data-kind="section" data-tags="motif/desert,motif/garden,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,motif/wind,concept/exile,setting/desert"></span>
 
 
 IV Who walked between the violet and the violet  
@@ -814,7 +814,7 @@ Of drouth, spitting from the mouth the withered apple-seed.
 
 
 
-<span class="atom-split" data-atom="section_05_v" data-title="V If the lost word is lost, if the spent word is spent" data-chapter="v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_v" data-title="V If the lost word is lost, if the spent word is spent" data-chapter="v" data-kind="section" data-tags="archetype/rebel,motif/cross,motif/desert,motif/dreams,motif/garden,motif/night,motif/river,motif/silence,motif/time,motif/window,concept/hope,concept/solitude,setting/desert"></span>
 
 
 V If the lost word is lost, if the spent word is spent  
@@ -897,7 +897,7 @@ And let my cry come unto Thee.
 
 
 
-<span class="atom-split" data-atom="section_06_vi" data-title="VI Although I do not hope to turn again" data-chapter="VI" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_vi" data-title="VI Although I do not hope to turn again" data-chapter="VI" data-kind="section" data-tags="archetype/rebel,motif/cross,motif/dreams,motif/garden,motif/river,motif/time,motif/window,concept/hope,concept/solitude,character/ariel"></span>
 
 
 VI Although I do not [[Hope|hope]] to turn again  

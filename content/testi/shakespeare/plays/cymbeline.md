@@ -1397,7 +1397,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="Cymbeline — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="Cymbeline — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/villain,motif/love,motif/well,concept/beauty,concept/body,concept/faith,character/cloten,character/cymbeline"></span>
 
 
 | Speaker | Line |
@@ -1429,7 +1429,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Cymbeline — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Cymbeline — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/jewel,motif/nature,motif/night,motif/noon,motif/ship,motif/soul,motif/time,concept/doubt,concept/faith,concept/fear,concept/honour,concept/hope,concept/mercy,concept/nature,setting/court,setting/italy,setting/ship,character/cymbeline,character/innogen,character/posthumus,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1513,7 +1513,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_1--scene_5" data-title="Cymbeline — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_5" data-title="Cymbeline — Act I, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/death,motif/decay,motif/desert,motif/desire,motif/flowers,motif/nature,motif/time,motif/well,concept/conscience,concept/nature,concept/wonder,setting/desert,character/cymbeline,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1550,7 +1550,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_1--scene_6" data-title="Cymbeline — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_6" data-title="Cymbeline — Act I, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="topos/double,archetype/king,motif/crown,motif/desire,motif/home,motif/lamb,motif/love,motif/nature,motif/night,motif/poison,motif/seasons,motif/soul,motif/time,motif/well,concept/conscience,concept/fear,concept/history,concept/honour,concept/hope,concept/nature,concept/revenge,concept/self,concept/wonder,form/history,setting/court,character/cymbeline,character/diana,character/innogen,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1619,7 +1619,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Cymbeline — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Cymbeline — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,concept/honour,setting/court,character/cloten,character/cymbeline,character/innogen,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1657,7 +1657,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Cymbeline — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Cymbeline — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/clock,motif/death,motif/memory,motif/night,motif/sleep,motif/spring,motif/time,motif/window,concept/body,concept/conscience,concept/fear,concept/honour,character/bottom,character/cymbeline,character/helen,character/innogen,character/tarquin"></span>
 
 
 | Speaker | Line |
@@ -1676,7 +1676,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Cymbeline — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Cymbeline — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/crown,motif/flowers,motif/horse,motif/jewel,motif/love,motif/night,motif/time,motif/water,motif/well,concept/body,concept/charity,concept/courage,concept/exile,concept/faith,concept/honour,concept/hope,concept/madness,concept/self,concept/truth,setting/court,character/cloten,character/cymbeline,character/diana,character/innogen,character/lucius,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1758,7 +1758,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Cymbeline — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Cymbeline — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/home,motif/jewel,motif/journey,motif/leaves,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/winter,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/honour,concept/hope,concept/nature,concept/pride,concept/truth,setting/court,character/cleopatra,character/cymbeline,character/julius_caesar,character/lucius,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -1826,7 +1826,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="Cymbeline — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="Cymbeline — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/king,motif/crown,motif/moon,motif/mutability,motif/snow,motif/time,motif/water,motif/well,concept/ambition,concept/courage,concept/honour,concept/longing,character/cloten,character/cymbeline,character/julius_caesar,character/lucius,character/posthumus,character/queen,character/saturn"></span>
 
 
 | Speaker | Line |
@@ -1855,7 +1855,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Cymbeline — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Cymbeline — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/monster,motif/bees,motif/blood,motif/clock,motif/home,motif/horse,motif/love,motif/prison,motif/stars,motif/time,motif/well,concept/truth,character/cymbeline,character/innogen,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -1876,7 +1876,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Cymbeline — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Cymbeline — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/blood,motif/cave,motif/city,motif/dreams,motif/grave,motif/hill,motif/home,motif/leaves,motif/nature,motif/night,motif/pain,motif/poison,motif/prison,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/conscience,concept/fear,concept/freedom,concept/honour,concept/nature,setting/court,setting/mountains,character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/nurse"></span>
 
 
 | Speaker | Line |
@@ -1902,7 +1902,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="Cymbeline — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="Cymbeline — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,archetype/villain,motif/clock,motif/crown,motif/death,motif/desire,motif/grave,motif/home,motif/horse,motif/lamb,motif/love,motif/memory,motif/nature,motif/night,motif/secrets,motif/silence,motif/sleep,motif/summer,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/despair,concept/exile,concept/faith,concept/fear,concept/history,concept/honour,concept/nature,concept/revenge,concept/self,form/history,setting/court,setting/italy,character/bottom,character/cloten,character/cymbeline,character/innogen,character/lucius,character/posthumus,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2015,7 +2015,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_6" data-title="Cymbeline — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_6" data-title="Cymbeline — Act III, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/cave,motif/love,motif/nature,motif/night,motif/pain,motif/well,concept/conscience,concept/fear,concept/nature,concept/truth,concept/wonder,setting/court,setting/italy,character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/innogen,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2059,7 +2059,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_3--scene_7" data-title="Cymbeline — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_7" data-title="Cymbeline — Act III, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="motif/time,character/cymbeline,character/lucius"></span>
 
 
 | Speaker | Line |
@@ -2073,7 +2073,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Cymbeline — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Cymbeline — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/home,motif/horse,motif/time,motif/well,concept/body,concept/mortality,character/cloten,character/cymbeline,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2085,7 +2085,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Cymbeline — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Cymbeline — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="topos/double,archetype/fool,archetype/ghost,archetype/tyrant,archetype/villain,motif/blood,motif/cave,motif/death,motif/dust,motif/flowers,motif/grave,motif/home,motif/leaves,motif/lightning,motif/love,motif/nature,motif/night,motif/pain,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/body,concept/charity,concept/faith,concept/fear,concept/greatness,concept/honour,concept/hope,concept/madness,concept/melancholy,concept/nature,concept/revenge,concept/suffering,concept/wonder,setting/court,setting/italy,character/ajax,character/arviragus,character/belarius,character/bottom,character/cloten,character/cymbeline,character/guiderius,character/innogen,character/lucius,character/posthumus,character/queen,character/richard,character/thersites"></span>
 
 
 | Speaker | Line |
@@ -2241,7 +2241,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="Cymbeline — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="Cymbeline — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,motif/love,motif/time,concept/doubt,concept/fear,concept/hope,concept/jealousy,concept/madness,setting/italy,character/cloten,character/cymbeline,character/innogen,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2261,7 +2261,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_4--scene_4" data-title="Cymbeline — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_4" data-title="Cymbeline — Act IV, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/horse,motif/summer,motif/time,motif/winter,concept/doubt,concept/exile,concept/hope,setting/mountains,character/arviragus,character/belarius,character/cloten,character/cymbeline,character/guiderius"></span>
 
 
 | Speaker | Line |
@@ -2285,7 +2285,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Cymbeline — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Cymbeline — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/death,motif/leaves,motif/love,motif/nature,concept/guilt,concept/nature,character/cymbeline,character/innogen,character/lucius,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2301,7 +2301,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Cymbeline — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Cymbeline — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="character/arviragus,character/belarius,character/cymbeline,character/guiderius,character/innogen,character/lucius,character/posthumus"></span>
 
 
 | Speaker | Line |
@@ -2319,7 +2319,7 @@ Exeunt severally
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Cymbeline — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Cymbeline — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/lover,archetype/monster,archetype/villain,motif/blood,motif/childhood,motif/clock,motif/cross,motif/crown,motif/death,motif/desert,motif/desire,motif/dreams,motif/fire,motif/flowers,motif/ghosts,motif/jewel,motif/journey,motif/leaves,motif/lightning,motif/lion,motif/love,motif/marriage,motif/nature,motif/poison,motif/ship,motif/silence,motif/sleep,motif/soul,motif/stars,motif/storm,motif/supernatural,motif/tears,motif/time,motif/water,motif/well,motif/wheel,motif/window,motif/winter,concept/beauty,concept/charity,concept/conscience,concept/faith,concept/fear,concept/freedom,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/imagination,concept/jealousy,concept/longing,concept/mercy,concept/nature,concept/truth,concept/wonder,form/comedy,form/masque,form/translation,setting/court,setting/desert,setting/italy,setting/mountains,setting/ship,character/alonso,character/antonio,character/ariel,character/arthur,character/arviragus,character/belarius,character/caliban,character/cloten,character/cymbeline,character/duke_of_milan,character/ferdinand,character/gonzalo,character/guiderius,character/innogen,character/lucius,character/miranda,character/nurse,character/pericles,character/posthumus,character/queen,character/sebastian,character/speed,character/trinculo,character/venus"></span>
 
 
 | Speaker | Line |

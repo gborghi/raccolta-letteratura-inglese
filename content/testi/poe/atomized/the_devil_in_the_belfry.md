@@ -721,7 +721,7 @@ that little fellow from the steeple.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Devil in the Belfry (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Devil in the Belfry (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/self,concept/truth,form/history"></span>
 
 
 What o’[[Clock|clock]] is it?—_Old Saying_.
@@ -911,7 +911,7 @@ middle, with a flower-pot containing a cabbage standing on each
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Devil in the Belfry (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Devil in the Belfry (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/fire,motif/garden,motif/grave,motif/leaves,motif/time,concept/pride,concept/truth,concept/wonder"></span>
 
 
 extremity by way of outrider. Between each cabbage and the
@@ -1109,7 +1109,7 @@ old gentleman in the village; and as to his chin, it is not only
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Devil in the Belfry (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Devil in the Belfry (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/hill,motif/noon,motif/swallow,motif/time,motif/well,concept/body,concept/self,concept/wonder"></span>
 
 
 [[Double|double]], but triple.
@@ -1337,7 +1337,7 @@ their watches. But the big bell had not done with them yet.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Devil in the Belfry (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Devil in the Belfry (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/villain,motif/clock,motif/time,concept/body"></span>
 
 
 dropping their pipes, and putting down all their right legs from

@@ -8210,7 +8210,7 @@ the very sky is not large enough for [[lovers]].
 
 
 
-<span class="atom-split" data-atom="story_01_on_reading" data-title="Common Man — On Reading" data-chapter="On Reading" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_reading" data-title="Common Man — On Reading" data-chapter="On Reading" data-kind="story" data-tags="archetype/rebel,motif/desire,motif/love,motif/road,motif/time,motif/well,concept/common_man,concept/conscience,concept/history,concept/paradox,concept/poverty,concept/truth,form/history,character/richard,character/richard_iii"></span>
 
 
 ON READING
@@ -8346,7 +8346,7 @@ Prenderò un altro esempio: il signor Bernard [[Shaw]] nel suo dramma sorprenden
 
 
 
-<span class="atom-split" data-atom="story_02_monsters_and_the_middle_ages" data-title="Common Man — Monsters And The Middle Ages" data-chapter="Monsters And The Middle Ages" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_monsters_and_the_middle_ages" data-title="Common Man — Monsters And The Middle Ages" data-chapter="Monsters And The Middle Ages" data-kind="story" data-tags="archetype/monster,motif/animals,motif/desert,motif/flowers,motif/garden,motif/lion,motif/love,motif/moon,motif/soul,motif/time,motif/water,motif/well,concept/aspiration,concept/common_man,concept/doubt,concept/education,concept/grotesque,concept/imagination,concept/truth,form/fable,histref/christianity,setting/desert,setting/london,character/apollo,character/christ,character/diana,character/lincoln"></span>
 
 
 MONSTERS AND THE MIDDLE AGES
@@ -8517,7 +8517,7 @@ Quando avremo compreso questo fatto, comprenderemo molte altre cose, ma soprattu
 
 
 
-<span class="atom-split" data-atom="story_03_what_novelists_are_for" data-title="Common Man — What Novelists Are For" data-chapter="What Novelists Are For" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_what_novelists_are_for" data-title="Common Man — What Novelists Are For" data-chapter="What Novelists Are For" data-kind="story" data-tags="topos/double,archetype/ghost,archetype/king,archetype/lover,motif/childhood,motif/cross,motif/home,motif/love,motif/soul,motif/tears,motif/time,motif/well,concept/common_man,concept/history,concept/honour,concept/hope,concept/imagination,concept/pride,concept/truth,form/epic,form/history,form/novel,form/translation,histref/christianity,histref/crusades,setting/court,character/hastings,character/monks"></span>
 
 
 WHAT NOVELISTS ARE FOR
@@ -8844,7 +8844,7 @@ cresciuta sulle tombe dei nostri stessi amici che vi sono caduti.
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_01" data-title="Common Man — The Superstition Of School (part 1)" data-chapter="The Superstition Of School" data-kind="excerpt" data-tags="motif/home,motif/time,concept/common_man,concept/doubt,concept/education,concept/history,concept/self,concept/truth,concept/union,form/history"></span>
 
 
 THE SUPERSTITION OF SCHOOL
@@ -8960,7 +8960,7 @@ Lo scoglio è questo: che gli [[Self|autodidatti]] pensano fin troppo all'[[Educ
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_02" data-title="Common Man — The Superstition Of School (part 2)" data-chapter="The Superstition Of School" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/love,motif/road,motif/stars,motif/well,concept/ambition,concept/common_man,concept/education,concept/fear,concept/history,concept/self,concept/truth,concept/vanity,form/history,form/novel"></span>
 
 
 I use the casual phrase casually; for I do not concern myself
@@ -9110,7 +9110,7 @@ La [[Truth|verità]] è che gli elementi erano troppo mescolati, e, soprattutto,
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_03" data-title="Common Man — The Superstition Of School (part 3)" data-chapter="The Superstition Of School" data-kind="excerpt" data-tags="archetype/hero,archetype/villain,motif/road,motif/time,motif/well,concept/common_man,concept/despair,concept/doubt,concept/fear,concept/heroism,concept/poverty,concept/vanity,form/novel,character/don_quixote,character/jones,character/nicholas_nickleby"></span>
 
 
 When Thackeray called [[Vanity]] Fair "a [[Novel|novel]] without a [[Hero|hero]]",
@@ -9217,7 +9217,7 @@ Tutti i romanzi come il Peregrine Pickle, tutti i romanzi fino al [[Time|tempo]]
 
 
 
-<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="The Superstition Of School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_superstition_of_school--part_04" data-title="Common Man — The Superstition Of School (part 4)" data-chapter="The Superstition Of School" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,concept/common_man,form/novel"></span>
 
 
 Considered as a series of chapters, Peregrine Pickle is simply a chapter
@@ -9265,7 +9265,7 @@ Considerato come una serie di capitoli, il Peregrine Pickle è semplicemente un 
 
 
 
-<span class="atom-split" data-atom="story_05_paying_for_patriotism" data-title="Common Man — Paying For Patriotism" data-chapter="Paying For Patriotism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_paying_for_patriotism" data-title="Common Man — Paying For Patriotism" data-chapter="Paying For Patriotism" data-kind="story" data-tags="archetype/rebel,motif/death,motif/love,motif/stars,concept/common_man,concept/democracy,concept/history,concept/self,concept/truth,form/history,character/edmund,character/hamlet,character/king_john,character/mermaid,character/oliver"></span>
 
 
 PAYING FOR PATRIOTISM
@@ -9355,7 +9355,7 @@ Eppure intendo continuare a essere fiero di Chaucer, di Shakespeare e di Nelson;
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_01" data-title="Common Man — The Pantomime (part 1)" data-chapter="The Pantomime" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/home,motif/memory,motif/moon,motif/nature,motif/silence,motif/stars,motif/time,motif/well,concept/beauty,concept/common_man,concept/imagination,concept/melancholy,concept/nature,concept/paradox,concept/truth,form/parody,form/satire,setting/london,character/nurse,character/queen"></span>
 
 
 THE PANTOMIME
@@ -9517,7 +9517,7 @@ Ora, il mio interesse per la faccenda è questo: so che molti diranno che questo
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_02" data-title="Common Man — The Pantomime (part 2)" data-chapter="The Pantomime" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/childhood,motif/cross,motif/dance,motif/desire,motif/dreams,motif/home,motif/time,motif/water,motif/well,concept/common_man,concept/conscience,concept/imagination,concept/truth,concept/wonder,form/fable,form/riddle"></span>
 
 
 This is the beginning of all sane art criticism:  [[Wonder|wonder]] combined
@@ -9639,7 +9639,7 @@ Dopo qualche po' di [[Time|tempo]], tuttavia, quando ebbero esaminato "The Great
 
 
 
-<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="The Pantomime" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_pantomime--part_03" data-title="Common Man — The Pantomime (part 3)" data-chapter="The Pantomime" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/home,motif/sleep,motif/soul,motif/stars,motif/time,concept/common_man,concept/paradox,concept/truth,form/novel,form/riddle,histref/christianity"></span>
 
 
 But this little incident has always stuck to me as a symbol of
@@ -9763,7 +9763,7 @@ Non è nella sorte vostra né nella mia vivere in un'epoca grande o estatica. Si
 
 
 
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_01" data-title="Common Man — A Tale Of Two Cities (part 1)" data-chapter="A Tale Of Two Cities" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,archetype/shadow,motif/death,motif/grave,motif/hill,motif/home,motif/leaves,motif/marriage,motif/nature,motif/road,motif/spring,motif/time,motif/well,concept/common_man,concept/friendship,concept/history,concept/identity,concept/nature,concept/self,concept/truth,form/comedy,form/historical_novel,form/history,form/melodrama,form/tragedy,setting/cathedral,setting/london,character/barnaby_rudge,character/david_copperfield,character/falstaff,character/jones,character/kent,character/martin_chuzzlewit,character/nicholas_nickleby,character/oliver_twist"></span>
 
 
 A TALE OF TWO CITIES
@@ -9944,7 +9944,7 @@ La vita privata di Dickens, però, è di scarsa importanza per il profilo critic
 
 
 
-<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="A Tale Of Two Cities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_a_tale_of_two_cities--part_02" data-title="Common Man — A Tale Of Two Cities (part 2)" data-chapter="A Tale Of Two Cities" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/time,concept/common_man,concept/education,concept/history,concept/paradox,concept/resurrection,concept/self,concept/truth,form/history,form/melodrama,form/tragedy,histref/french_revolution,setting/london,setting/paris,character/barnaby_rudge,character/brutus,character/madame_defarge,character/sydney_carton"></span>
 
 
 This compact and competent, and some would say conceited, sense of
@@ -10044,7 +10044,7 @@ Forse è davvero impossibile per un buon cittadino scrivere *Racconto di due cit
 
 
 
-<span class="atom-split" data-atom="story_08_god_and_goods" data-title="Common Man — God And Goods" data-chapter="God And Goods" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_god_and_goods" data-title="Common Man — God And Goods" data-chapter="God And Goods" data-kind="story" data-tags="motif/dreams,motif/love,motif/nature,motif/time,concept/common_man,concept/faith,concept/freedom,concept/history,concept/hope,concept/melancholy,concept/nature,form/history,histref/french_revolution,histref/industrial_revolution"></span>
 
 
 GOD AND GOODS
@@ -10132,7 +10132,7 @@ Due Paradisi Terrestri erano crollati. Il primo era il paradiso naturale di Rous
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_01" data-title="Common Man — From Meredith To Rupert Brooke (part 1)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/nature,motif/well,concept/common_man,concept/doubt,concept/history,concept/imagination,concept/nature,concept/pride,concept/self,concept/truth,form/history,form/riddle"></span>
 
 
 FROM MEREDITH TO RUPERT BROOKE
@@ -10281,7 +10281,7 @@ Sarà [[Well|bene]] segnare in che modo queste colossali nubi d'[[Imagination|im
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_02" data-title="Common Man — From Meredith To Rupert Brooke (part 2)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/chains,motif/desire,motif/rose,motif/time,concept/beauty,concept/common_man,concept/conscience,concept/history,concept/slavery,form/history,form/tragedy,histref/america,histref/french_revolution,setting/america"></span>
 
 
 Only, as I have said, the way in which this racial [[Romance|romance]] penetrated the
@@ -10421,7 +10421,7 @@ Tanto basti per un lato di questo mutamento tardo-vittoriano. Ma la sola menzion
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_03" data-title="Common Man — From Meredith To Rupert Brooke (part 3)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/blood,motif/flag,motif/home,motif/love,motif/time,motif/well,concept/body,concept/common_man,concept/courage,concept/individualism,concept/pride,histref/christianity,setting/italy,character/chorus,character/richard"></span>
 
 
 Ruskin was the heir and representative of Carlyle in this later
@@ -10563,7 +10563,7 @@ Ma già nuovi gruppi facevano apparire vecchio questo. Uno fu quello che si può
 
 
 
-<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_from_meredith_to_rupert_brooke--part_04" data-title="Common Man — From Meredith To Rupert Brooke (part 4)" data-chapter="From Meredith To Rupert Brooke" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/dawn,motif/death,motif/dust,motif/home,motif/love,motif/ship,motif/storm,motif/time,concept/apocalypse,concept/common_man,concept/freedom,concept/history,concept/truth,form/history,form/melodrama,form/tragedy,setting/ship,character/richard"></span>
 
 
 Fortunately, from the same Stevenson and Henley stock of ideas,
@@ -10672,7 +10672,7 @@ La necessità di segnare il periodo per mezzo di umori ci ha portati qui a segna
 
 
 
-<span class="atom-split" data-atom="story_10_the_dangers_of_necromancy" data-title="Common Man — The Dangers Of Necromancy" data-chapter="The Dangers Of Necromancy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_dangers_of_necromancy" data-title="Common Man — The Dangers Of Necromancy" data-chapter="The Dangers Of Necromancy" data-kind="story" data-tags="motif/love,motif/well,concept/common_man,concept/education,concept/history,concept/truth,form/history,histref/catholic_church,setting/london,setting/paris"></span>
 
 
 THE DANGERS OF NECROMANCY
@@ -10788,7 +10788,7 @@ Ora, un cattolico parte da tutta questa esperienza realistica dell'umanità e de
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_01" data-title="Common Man — Giotto And St.  Francis (part 1)" data-chapter="Giotto And St Francis" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/animals,motif/birds,motif/city,motif/death,motif/horse,motif/memory,motif/silence,motif/time,motif/well,concept/common_man,concept/doubt,concept/fear,concept/mercy,concept/misanthropy,concept/temptation,concept/truth,form/fable,setting/italy,character/lincoln"></span>
 
 
 GIOTTO AND ST.  FRANCIS
@@ -10910,7 +10910,7 @@ Un viaggiatore anche solo un poco esperto nelle abitudini dei viaggiatori, per n
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_02" data-title="Common Man — Giotto And St.  Francis (part 2)" data-chapter="Giotto And St Francis" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/innocent,motif/cave,motif/chains,motif/city,motif/desert,motif/memory,motif/time,motif/well,concept/beauty,concept/common_man,concept/history,concept/imagination,concept/paradox,form/history,histref/renaissance,setting/desert,setting/paris"></span>
 
 
 The [[City|city]] is founded upon a rock; the [[City|city]] is a rock; and it is too
@@ -11018,7 +11018,7 @@ Il riflettore si è spostato più indietro, e ora illumina ciò che persino Rusk
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_03" data-title="Common Man — Giotto And St.  Francis (part 3)" data-chapter="Giotto And St Francis" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/innocent,archetype/shadow,motif/childhood,motif/dance,motif/dreams,motif/love,motif/night,motif/soul,concept/beauty,concept/common_man,concept/history,concept/truth,concept/wonder,form/history,histref/christianity,histref/islam,setting/cathedral,character/monks"></span>
 
 
 But in [[Truth|truth]] this [[Double|double]] light may make for a better enlightenment,
@@ -11138,7 +11138,7 @@ E qui di nuovo cogliamo il parallelo tra l'[[Artist|artista]] e il santo. I segu
 
 
 
-<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Giotto And St Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_giotto_and_st_francis--part_04" data-title="Common Man — Giotto And St.  Francis (part 4)" data-chapter="Giotto And St Francis" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/birds,motif/time,motif/well,concept/apocalypse,concept/common_man,concept/eternity,concept/history,concept/humility,form/history"></span>
 
 
 In another sense, however, the spirit illuminating these great
@@ -11194,7 +11194,7 @@ In un altro senso, tuttavia, lo spirito che illumina questi grandi disegni medie
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_01" data-title="Common Man — The New Groove (part 1)" data-chapter="The New Groove" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/horse,motif/ship,motif/sleep,motif/time,motif/well,concept/common_man,concept/courage,concept/doubt,concept/history,form/blank_verse,form/history,setting/castle,setting/new_york,setting/ship,character/speed"></span>
 
 
 THE NEW GROOVE
@@ -11396,7 +11396,7 @@ elefante o una polena come una [[Ship|nave]].
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_02" data-title="Common Man — The New Groove (part 2)" data-chapter="The New Groove" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/fire,motif/garden,motif/nature,motif/spring,motif/time,motif/well,concept/common_man,concept/courage,concept/nature,concept/truth,concept/wonder,character/helen,character/speed,character/titania"></span>
 
 
 Now, in spite of the wildest claims to independence,
@@ -11646,7 +11646,7 @@ di un [[Child|bambino]]».
 
 
 
-<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="The New Groove" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_the_new_groove--part_03" data-title="Common Man — The New Groove (part 3)" data-chapter="The New Groove" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/time,motif/well,concept/common_man,concept/reform,concept/truth,concept/union,histref/america,setting/america,character/oliver"></span>
 
 
 It is the same with all the cant phrases already in circulation,
@@ -11792,7 +11792,7 @@ e vagabondare fuori dai binari nelle antiche pianure della libertà.
 
 
 
-<span class="atom-split" data-atom="story_13_the_real_dr_johnson" data-title="Common Man — The Real Dr.  Johnson" data-chapter="The Real Dr Johnson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_real_dr_johnson" data-title="Common Man — The Real Dr.  Johnson" data-chapter="The Real Dr Johnson" data-kind="story" data-tags="archetype/king,archetype/tyrant,motif/death,motif/fire,motif/grave,motif/memory,motif/pain,motif/time,motif/well,concept/charity,concept/common_man,concept/democracy,concept/honour,concept/truth,histref/christianity,setting/court,character/pistol"></span>
 
 
 THE REAL DR.  JOHNSON
@@ -11921,7 +11921,7 @@ Ma Johnson era tutt'altro che attento a chi lo applaudiva. Johnson era furiosame
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_01" data-title="Common Man — Rabelaisian Regrets (part 1)" data-chapter="Rabelaisian Regrets" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/flag,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/common_man,concept/sexuality,concept/truth"></span>
 
 
 RABELAISIAN REGRETS
@@ -12069,7 +12069,7 @@ Non c'è in realtà molta differenza di opinione, tra gli uomini normali, sui pr
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_02" data-title="Common Man — Rabelaisian Regrets (part 2)" data-chapter="Rabelaisian Regrets" data-kind="excerpt" data-tags="motif/love,motif/soul,motif/spring,motif/supernatural,motif/time,concept/body,concept/charity,concept/common_man,concept/courage,concept/truth,histref/christianity"></span>
 
 
 And if men have never doubted that there should be a decorum
@@ -12192,7 +12192,7 @@ Ma quando veniamo ai due moventi dell'enfasi e dell'analisi, è essenziale osser
 
 
 
-<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Rabelaisian Regrets" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_14_rabelaisian_regrets--part_03" data-title="Common Man — Rabelaisian Regrets (part 3)" data-chapter="Rabelaisian Regrets" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/dust,motif/marriage,motif/time,motif/well,concept/common_man,form/novel,form/problem_play,histref/bible,character/mermaid,character/monks,character/richard"></span>
 
 
 But though he can find it in the street outside, he cannot
@@ -12281,7 +12281,7 @@ Non mi propongo qui di negare che la moda moderna di analizzare il sesso sia in 
 
 
 
-<span class="atom-split" data-atom="story_15_the_hound_of_heaven" data-title="Common Man — The Hound Of Heaven" data-chapter="The Hound Of Heaven" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_the_hound_of_heaven" data-title="Common Man — The Hound Of Heaven" data-chapter="The Hound Of Heaven" data-kind="story" data-tags="archetype/child,archetype/hero,archetype/prophet,motif/cross,motif/silence,motif/time,motif/well,concept/common_man,concept/history,form/history,histref/america,histref/dante,setting/america,character/richard"></span>
 
 
 THE HOUND OF HEAVEN
@@ -12447,7 +12447,7 @@ Questo è il punto primario riguardo all'opera di Francis Thompson; ancor prima 
 
 
 
-<span class="atom-split" data-atom="story_16_the_frivolous_man" data-title="Common Man — The Frivolous Man" data-chapter="The Frivolous Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_frivolous_man" data-title="Common Man — The Frivolous Man" data-chapter="The Frivolous Man" data-kind="story" data-tags="archetype/child,motif/dance,motif/soul,motif/stars,motif/well,concept/common_man,concept/honour,concept/truth,form/fragment,form/satire,histref/puritanism,character/christ"></span>
 
 
 THE FRIVOLOUS MAN
@@ -12577,7 +12577,7 @@ Così torniamo alla conclusione che la vera serietà è tenuta in poco conto tan
 
 
 
-<span class="atom-split" data-atom="story_17_two_stubborn_pieces_of_iron" data-title="Common Man — Two Stubborn Pieces Of Iron" data-chapter="Two Stubborn Pieces Of Iron" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_two_stubborn_pieces_of_iron" data-title="Common Man — Two Stubborn Pieces Of Iron" data-chapter="Two Stubborn Pieces Of Iron" data-kind="story" data-tags="motif/cross,motif/home,motif/love,motif/nature,concept/beauty,concept/charity,concept/common_man,concept/doubt,concept/education,concept/madness,concept/nature,histref/christianity"></span>
 
 
 TWO STUBBORN PIECES OF IRON
@@ -12682,7 +12682,7 @@ Si tratta dunque di stabilire quali siano realmente gli scopi dei co-educatori. 
 
 
 
-<span class="atom-split" data-atom="story_18_henry_james" data-title="Common Man — Henry James" data-chapter="Henry James" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_henry_james" data-title="Common Man — Henry James" data-chapter="Henry James" data-kind="story" data-tags="topos/double,archetype/artist,archetype/detective,archetype/ghost,archetype/lover,motif/garden,motif/ghosts,motif/jewel,motif/love,motif/memory,motif/poison,motif/rose,motif/silence,motif/soul,motif/supernatural,motif/time,motif/well,motif/window,concept/common_man,concept/greatness,concept/pride,concept/temptation,concept/wonder,form/lyric"></span>
 
 
 HENRY JAMES
@@ -12866,7 +12866,7 @@ I libri di Henry James saranno sempre belli; e credo che siano abbastanza giovan
 
 
 
-<span class="atom-split" data-atom="story_19_the_strange_talk_of_two_victorians" data-title="Common Man — The Strange Talk Of Two Victorians" data-chapter="The Strange Talk Of Two Victorians" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_strange_talk_of_two_victorians" data-title="Common Man — The Strange Talk Of Two Victorians" data-chapter="The Strange Talk Of Two Victorians" data-kind="story" data-tags="archetype/child,archetype/fool,archetype/ghost,archetype/tyrant,motif/city,motif/crown,motif/rose,motif/spring,motif/time,motif/well,concept/common_man,concept/education,concept/faith,concept/history,concept/hope,concept/reconciliation,form/history,form/sketch,histref/greek_tragedy,setting/london,setting/oxford,character/queen"></span>
 
 
 THE STRANGE TALK OF TWO VICTORIANS
@@ -13212,7 +13212,7 @@ risuonare di una voce che gridava: «Io sono l'Immacolata Concezione...».
 
 
 
-<span class="atom-split" data-atom="story_20_laughter" data-title="Common Man — Laughter" data-chapter="Laughter" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_laughter" data-title="Common Man — Laughter" data-chapter="Laughter" data-kind="story" data-tags="archetype/child,archetype/innocent,archetype/scapegoat,motif/cave,motif/journey,motif/love,motif/moon,motif/poison,motif/soul,motif/well,concept/common_man,concept/comradeship,concept/faith,concept/fear,concept/humility,concept/pride,form/novel,character/richard"></span>
 
 
 LAUGHTER
@@ -13356,7 +13356,7 @@ Non sorprende che un'epoca la quale offre questo mostruoso spettacolo di uomini 
 
 
 
-<span class="atom-split" data-atom="story_21_tales_from_tolstoi" data-title="Common Man — Tales From Tolstoi" data-chapter="Tales From Tolstoi" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_tales_from_tolstoi" data-title="Common Man — Tales From Tolstoi" data-chapter="Tales From Tolstoi" data-kind="story" data-tags="archetype/artist,archetype/king,motif/desire,motif/love,motif/nature,motif/time,motif/well,concept/common_man,concept/history,concept/nature,concept/procreation,concept/self,concept/truth,concept/wonder,form/fable,form/history,form/satire"></span>
 
 
 TALES FROM TOLSTOI
@@ -13521,7 +13521,7 @@ Qualsiasi raccolta di Racconti da Tolstoj è fatta apposta per richiamare partic
 
 
 
-<span class="atom-split" data-atom="story_22_the_new_case_for_catholic_schools" data-title="Common Man — The New Case For Catholic Schools" data-chapter="The New Case For Catholic Schools" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_the_new_case_for_catholic_schools" data-title="Common Man — The New Case For Catholic Schools" data-chapter="The New Case For Catholic Schools" data-kind="story" data-tags="archetype/child,motif/desire,motif/machine,motif/nature,motif/stars,motif/time,motif/well,concept/common_man,concept/education,concept/faith,concept/nature,concept/truth,character/sunday"></span>
 
 
 THE NEW CASE FOR CATHOLIC SCHOOLS
@@ -13732,7 +13732,7 @@ I nostri maestri di scuola dichiarano di far emergere ogni lato dell'allievo: il
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_01" data-title="Common Man — Vulgarity (part 1)" data-chapter="Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_01" data-title="Common Man — Vulgarity (part 1)" data-chapter="Vulgarity" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/death,motif/love,motif/nature,motif/well,concept/common_man,concept/fear,concept/history,concept/nature,concept/self,form/history,histref/ancient_greece"></span>
 
 
 VULGARITY
@@ -13874,7 +13874,7 @@ La miglior ragione per un ritorno della [[philosophy|filosofia]] è che, a meno 
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_02" data-title="Common Man — Vulgarity (part 2)" data-chapter="Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_02" data-title="Common Man — Vulgarity (part 2)" data-chapter="Vulgarity" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/shadow,motif/desire,motif/supernatural,motif/time,motif/well,concept/common_man,concept/fear,concept/paradox,histref/america,setting/america"></span>
 
 
 Some people [[Fear|fear]] that [[philosophy]] will bore or bewilder them;
@@ -14008,7 +14008,7 @@ Prenderò un esempio fra i mille che si potrebbero prendere. Qual è l'atteggiam
 
 
 
-<span class="atom-split" data-atom="story_23_vulgarity--part_03" data-title="Common Man — Vulgarity (part 3)" data-chapter="Vulgarity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_23_vulgarity--part_03" data-title="Common Man — Vulgarity (part 3)" data-chapter="Vulgarity" data-kind="excerpt" data-tags="archetype/fool,motif/dreams,motif/machine,motif/nature,motif/river,motif/supernatural,concept/common_man,concept/education,concept/nature"></span>
 
 
 But I have only taken that first superficial repartee because
@@ -14108,7 +14108,7 @@ Così, quando un uomo brillante come il signor H. G. Wells dice che tali idee [[
 
 
 
-<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Vandalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_vandalism" data-title="Common Man — Vandalism" data-chapter="Vandalism" data-kind="story" data-tags="archetype/innocent,archetype/king,motif/bells,motif/chains,motif/desire,motif/flag,motif/garden,motif/home,motif/memory,motif/river,motif/soul,motif/time,concept/common_man,concept/history,concept/solitude,form/history,histref/america,setting/america,setting/castle,setting/cathedral,setting/london,character/christ"></span>
 
 
 VANDALISM
@@ -14237,7 +14237,7 @@ Ma la nuova specie di Vandalo è assai più indifendibile. Il rozzo Vandalo crea
 
 
 
-<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_elizabeth_barrett_browning" data-title="Common Man — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story" data-tags="archetype/shadow,motif/birds,motif/blood,motif/city,motif/crown,motif/flag,motif/flowers,motif/love,motif/marriage,motif/nature,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/common_man,concept/courage,concept/democracy,concept/friendship,concept/imagination,concept/nature,concept/self,concept/truth,form/epigram,histref/renaissance,setting/italy,setting/london"></span>
 
 
 ELIZABETH BARRETT BROWNING
@@ -14412,7 +14412,7 @@ La signora Browning e suo marito erano più liberali della maggior parte dei lib
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_01" data-title="Common Man — The Erastian On The Establishment (part 1)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_01" data-title="Common Man — The Erastian On The Establishment (part 1)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="topos/double,motif/home,motif/time,concept/body,concept/charity,concept/common_man,concept/education,concept/inner_life,concept/truth,form/fable,histref/christianity,histref/puritanism,setting/oxford,character/christ"></span>
 
 
 THE ERASTIAN ON THE ESTABLISHMENT
@@ -14642,7 +14642,7 @@ e la prima è già accaduta.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_02" data-title="Common Man — The Erastian On The Establishment (part 2)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_02" data-title="Common Man — The Erastian On The Establishment (part 2)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="motif/blood,motif/memory,motif/prayer,motif/time,motif/well,concept/common_man,concept/doubt,concept/faith,concept/freedom,concept/history,concept/reform,form/history,histref/christianity,setting/oxford,character/christ"></span>
 
 
 Of course it is possible to play an endless game with the word "Christian"
@@ -14862,7 +14862,7 @@ quella coppa è ormai quasi vuota.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_03" data-title="Common Man — The Erastian On The Establishment (part 3)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_03" data-title="Common Man — The Erastian On The Establishment (part 3)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="archetype/great_mother,motif/death,motif/dreams,motif/nature,motif/time,concept/common_man,concept/democracy,concept/education,concept/nature,setting/russia"></span>
 
 
 My reason for thinking this has nothing to do with likes or dislikes
@@ -15072,7 +15072,7 @@ mente istruita non è bianca; è soltanto pallida.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_04" data-title="Common Man — The Erastian On The Establishment (part 4)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_04" data-title="Common Man — The Erastian On The Establishment (part 4)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="archetype/rebel,motif/animals,motif/blood,motif/home,motif/nature,motif/road,motif/soul,motif/time,concept/body,concept/common_man,concept/comradeship,concept/history,concept/hope,concept/nature,form/history"></span>
 
 
 The point is that from every point of view, ancient or modern,
@@ -15284,7 +15284,7 @@ che i ribelli respingerebbero.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_05" data-title="Common Man — The Erastian On The Establishment (part 5)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_05" data-title="Common Man — The Erastian On The Establishment (part 5)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/animals,motif/desert,motif/dreams,motif/grave,motif/nature,motif/time,motif/well,concept/common_man,concept/history,concept/hope,concept/imagination,concept/inner_life,concept/nature,concept/original_sin,concept/poverty,concept/sublime,concept/suicide,form/history,form/novel,setting/desert"></span>
 
 
 Along with those who accept the thing as a label, or [[Hope|hope]]
@@ -15570,7 +15570,7 @@ come la [[Grave|tomba]].
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_06" data-title="Common Man — The Erastian On The Establishment (part 6)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_06" data-title="Common Man — The Erastian On The Establishment (part 6)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="archetype/innocent,motif/childhood,motif/city,motif/death,motif/desire,motif/dreams,motif/nature,motif/supernatural,motif/well,concept/apocalypse,concept/body,concept/common_man,concept/faith,concept/history,concept/nature,concept/paradox,form/allegory,form/history,form/short_story,character/witch"></span>
 
 
 Many who remember the apparently nonsensical nursery rhymes which
@@ -15774,7 +15774,7 @@ da qualsiasi oppiaceo che lenisce i vivi.
 
 
 
-<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_07" data-title="Common Man — The Erastian On The Establishment (part 7)" data-chapter="The Erastian On The Establishment" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_26_the_erastian_on_the_establishment--part_07" data-title="Common Man — The Erastian On The Establishment (part 7)" data-chapter="The Erastian On The Establishment" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/shadow,motif/dreams,motif/well,concept/common_man,concept/doubt,concept/imagination,concept/pride,form/comedy,form/sketch,setting/court"></span>
 
 
 In short, we may say that the early twentieth century presented two
@@ -15884,7 +15884,7 @@ e l'Albero potesse essere una delusione. Ma l'Albero non è una delusione.
 
 
 
-<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_01" data-title="Common Man — The Meaning Of Metre (part 1)" data-chapter="The Meaning Of Metre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_01" data-title="Common Man — The Meaning Of Metre (part 1)" data-chapter="The Meaning Of Metre" data-kind="excerpt" data-tags="motif/city,motif/grave,motif/memory,motif/nature,motif/soul,motif/time,motif/wind,concept/common_man,concept/eternity,concept/identity,concept/imagination,concept/nature,form/allegory,form/free_verse,histref/greek_tragedy,character/arthur,character/chorus,character/witch"></span>
 
 
 THE MEANING OF METRE
@@ -16033,7 +16033,7 @@ L'[[Soul|anima]] di tutto questo, s'intende, sfugge all'analisi; e nondimeno un 
 
 
 
-<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_02" data-title="Common Man — The Meaning Of Metre (part 2)" data-chapter="The Meaning Of Metre" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_27_the_meaning_of_metre--part_02" data-title="Common Man — The Meaning Of Metre (part 2)" data-chapter="The Meaning Of Metre" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/city,motif/horse,motif/nature,concept/common_man,concept/nature,character/michael,character/satan"></span>
 
 
 I wish there were a real [[philosophy]] of comparative religion,
@@ -16146,7 +16146,7 @@ Tanto vitalmente quanto verbalmente, questo infinito è il nemico di tutto ciò 
 
 
 
-<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="The Epitaph Of Pierpont Morgan" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_the_epitaph_of_pierpont_morgan" data-title="Common Man — The Epitaph Of Pierpont Morgan" data-chapter="The Epitaph Of Pierpont Morgan" data-kind="story" data-tags="motif/blood,motif/death,motif/grave,motif/memory,motif/prison,motif/silence,motif/time,motif/well,concept/common_man,concept/courage,concept/doubt,concept/fear,concept/mercy,concept/reform,concept/self,concept/temptation,concept/truth,histref/islam"></span>
 
 
 THE EPITAPH OF PIERPONT MORGAN
@@ -16307,7 +16307,7 @@ Il fatto finale è che chiunque sottoscriva questo epitaffio deve allearsi con l
 
 
 
-<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="The New Bigotry" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_the_new_bigotry" data-title="Common Man — The New Bigotry" data-chapter="The New Bigotry" data-kind="story" data-tags="motif/love,motif/time,concept/beauty,concept/common_man,concept/despair,concept/truth,form/biography,histref/america,setting/america,setting/oxford"></span>
 
 
 THE NEW BIGOTRY
@@ -16406,7 +16406,7 @@ Ma tutto ciò lo rende ancora più buffo. Un critico inglese lo ha accusato real
 
 
 
-<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Books For Boys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_books_for_boys" data-title="Common Man — Books For Boys" data-chapter="Books For Boys" data-kind="story" data-tags="archetype/child,motif/dawn,motif/death,motif/dreams,motif/flowers,motif/love,motif/mirror,motif/soul,motif/tears,motif/well,concept/common_man,concept/history,concept/immortality,concept/truth,form/history"></span>
 
 
 BOOKS FOR BOYS
@@ -16566,7 +16566,7 @@ Se dunque siamo d'accordo che il primo bisogno del problema è comprendere una v
 
 
 
-<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="The Outline Of Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_the_outline_of_liberty" data-title="Common Man — The Outline Of Liberty" data-chapter="The Outline Of Liberty" data-kind="story" data-tags="motif/nature,motif/time,concept/common_man,concept/faith,concept/history,concept/hope,concept/imagination,concept/immortality,concept/melancholy,concept/nature,concept/paradox,concept/resignation,concept/truth,form/history,histref/america,histref/catholic_church,histref/dante,histref/islam,setting/america"></span>
 
 
 THE OUTLINE OF LIBERTY
@@ -16778,7 +16778,7 @@ Lo maggior don che Dio per sua larghezza Fesse creando, e a la sua bontate Più 
 
 
 
-<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="A Note On Nudism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_a_note_on_nudism" data-title="Common Man — A Note On Nudism" data-chapter="A Note On Nudism" data-kind="story" data-tags="motif/animals,motif/desert,motif/love,motif/nakedness,concept/common_man,concept/faith,concept/honour,concept/suicide,form/novel,histref/christianity,setting/desert"></span>
 
 
 A NOTE ON NUDISM
@@ -16851,7 +16851,7 @@ Infine, non sono affatto sicuro che sceglierei la svampita tedesca, quand'anche 
 
 
 
-<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Consulting The Encyclopaedia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_consulting_the_encyclopaedia" data-title="Common Man — Consulting The Encyclopaedia" data-chapter="Consulting The Encyclopaedia" data-kind="story" data-tags="topos/double,archetype/innocent,motif/blood,motif/dance,motif/fire,motif/journey,motif/moon,motif/prison,motif/stars,motif/storm,motif/time,motif/well,motif/window,concept/common_man,concept/conversion,concept/eugenics,concept/faith,concept/hope,concept/humility,concept/imagination,concept/original_sin,concept/paradox,concept/slavery,concept/truth,histref/catholic_church"></span>
 
 
 CONSULTING THE ENCYCLOPAEDIA
@@ -17072,7 +17072,7 @@ E allora mi parve che si dispiegasse dinanzi a me, come un vasto e abbagliante d
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_01" data-title="Common Man — If I Had Only One Sermon To Preach (part 1)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_01" data-title="Common Man — If I Had Only One Sermon To Preach (part 1)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/ghosts,motif/mirror,motif/poison,motif/soul,motif/time,motif/well,concept/common_man,concept/education,concept/friendship,concept/madness,concept/pride,concept/self,concept/truth,character/satan"></span>
 
 
 IF I HAD ONLY ONE SERMON TO PREACH
@@ -17211,7 +17211,7 @@ Men hate priggishness because it is the driest form of [[Pride|pride]].
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_02" data-title="Common Man — If I Had Only One Sermon To Preach (part 2)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_02" data-title="Common Man — If I Had Only One Sermon To Preach (part 2)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/childhood,motif/desire,motif/night,motif/soul,motif/well,concept/common_man,concept/despair,concept/madness,concept/paradox,concept/pride,concept/self,concept/truth,concept/vanity"></span>
 
 
 Thus there is a [[Paradox|paradox]] in the whole position.  The spiritual idea
@@ -17497,7 +17497,7 @@ nel senso più completo ed esatto, in nulla.
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_03" data-title="Common Man — If I Had Only One Sermon To Preach (part 3)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_03" data-title="Common Man — If I Had Only One Sermon To Preach (part 3)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,archetype/shadow,motif/flag,motif/flowers,motif/garden,motif/love,motif/marriage,motif/memory,motif/mirror,motif/pain,motif/time,motif/well,concept/common_man,concept/history,concept/honour,concept/humility,concept/original_sin,concept/pride,concept/self_deception,concept/truth,concept/wonder,form/fable,form/history,histref/catholic_church,histref/dante,character/beatrice,character/cleopatra,character/don_john_of_austria,character/jones,character/queen"></span>
 
 
 If I had only one sermon to preach, I certainly could not end it
@@ -17644,7 +17644,7 @@ Ora, questa [[Shadow|ombra]] di fallimento su ogni fama e su ogni civiltà, che 
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_04" data-title="Common Man — If I Had Only One Sermon To Preach (part 4)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_04" data-title="Common Man — If I Had Only One Sermon To Preach (part 4)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/dawn,motif/dust,motif/jewel,motif/love,motif/poison,motif/soul,motif/time,motif/uncanny,motif/well,concept/common_man,concept/doubt,concept/fear,concept/history,concept/jealousy,concept/truth,concept/uncanny,form/allegory,form/history,form/tragedy,histref/renaissance,setting/castle,setting/mountains,character/cleopatra,character/don_john,character/don_john_of_austria,character/helen,character/queen"></span>
 
 
 I have here dared to call up out of the [[Dust|dust]] another warrior,
@@ -17775,7 +17775,7 @@ L'inverso è del pari vero. Se mai vi fu una donna manifestamente pensata, desti
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_05" data-title="Common Man — If I Had Only One Sermon To Preach (part 5)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_05" data-title="Common Man — If I Had Only One Sermon To Preach (part 5)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/death,motif/marriage,motif/ship,motif/well,motif/window,concept/common_man,concept/history,concept/union,form/history,form/tragedy,histref/reformation,histref/renaissance,setting/italy,setting/ship,character/don_john,character/queen"></span>
 
 
 We know why Mary Stuart was killed.  She was not killed for having
@@ -17923,7 +17923,7 @@ Ma non dobbiamo essere romantici; vale a dire, non dobbiamo occuparci dei sentim
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_06" data-title="Common Man — If I Had Only One Sermon To Preach (part 6)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_06" data-title="Common Man — If I Had Only One Sermon To Preach (part 6)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/blood,motif/death,motif/dust,motif/silence,motif/time,motif/well,motif/wind,concept/common_man,concept/martyrdom,concept/truth,histref/crusades,histref/islam,histref/reformation,histref/renaissance,setting/mountains,character/angelo,character/aquinas,character/don_john,character/don_john_of_austria,character/queen,character/richard"></span>
 
 
 [[Don John]] died trying to keep his temper with Dutch Calvinists,
@@ -18045,7 +18045,7 @@ Ho un grande rispetto per le virtù reali e per la sana, se pur sopita, virilit�
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_07" data-title="Common Man — If I Had Only One Sermon To Preach (part 7)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_07" data-title="Common Man — If I Had Only One Sermon To Preach (part 7)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/dance,motif/death,motif/desert,motif/home,motif/love,motif/prayer,motif/ship,motif/summer,concept/common_man,concept/doubt,concept/fear,concept/truth,form/novel,histref/renaissance,setting/cathedral,setting/desert,setting/mountains,setting/ship,character/don_john,character/don_john_of_austria,character/nurse,character/queen"></span>
 
 
 Historians quarrel about whether the English under Elizabeth
@@ -18289,7 +18289,7 @@ sua profondità, uno spirituale Tunnel della Manica.
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_08" data-title="Common Man — If I Had Only One Sermon To Preach (part 8)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_08" data-title="Common Man — If I Had Only One Sermon To Preach (part 8)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/crown,motif/dawn,motif/death,motif/dust,motif/lion,motif/road,motif/rose,motif/ship,motif/time,motif/well,motif/wind,concept/common_man,concept/faith,concept/grotesque,concept/history,concept/reform,form/history,form/tragedy,histref/america,histref/milton,histref/reformation,histref/renaissance,setting/america,setting/court,setting/ship,character/don_john_of_austria,character/milton,character/queen"></span>
 
 
 But this linking up of Europe in the [[Renaissance]] would
@@ -18411,7 +18411,7 @@ Non accadde mai. Era troppo naturale perché accadesse. Avrei quasi detto che er
 
 
 
-<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_09" data-title="Common Man — If I Had Only One Sermon To Preach (part 9)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_34_if_i_had_only_one_sermon_to_preach--part_09" data-title="Common Man — If I Had Only One Sermon To Preach (part 9)" data-chapter="If I Had Only One Sermon To Preach" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/soul,motif/time,concept/common_man,histref/renaissance,character/queen"></span>
 
 
 And so, after that one wild glimpse of the possibility of the impossible,

@@ -8634,7 +8634,7 @@ Joan, with the glow on her dark face, could not prevent herself from replying, �
 
 
 
-<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_01" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 1)" data-chapter="A SERMON ON INNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_01" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 1)" data-chapter="A SERMON ON INNS" data-kind="excerpt" data-tags="motif/dance,motif/nature,motif/secrets,motif/time,motif/well,concept/history,concept/hope,concept/nature,form/history,histref/bible,histref/crusades,histref/spanish_inquisition,setting/castle"></span>
 
 
 CHAPTER I: A SERMON ON INNS
@@ -8732,7 +8732,7 @@ La ragazza dai capelli scuri sorrise e cominciò a pensare che quell'uomo fosse 
 
 
 
-<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_02" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 2)" data-chapter="A SERMON ON INNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_02" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 2)" data-chapter="A SERMON ON INNS" data-kind="excerpt" data-tags="archetype/king,archetype/monster,archetype/prophet,motif/city,motif/cross,motif/desert,motif/noon,motif/river,motif/rose,motif/ship,motif/time,concept/body,concept/hope,concept/self,concept/truth,form/tragedy,setting/denmark,setting/desert,setting/london,setting/ship"></span>
 
 
 He stuck his umbrella upright in the sand and struck one finger against another, like a man getting to business at last.
@@ -8843,7 +8843,7 @@ Il labbro della fanciulla tremò.
 
 
 
-<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_03" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 3)" data-chapter="A SERMON ON INNS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_a_sermon_on_inns--part_03" data-title="The Flying Inn — Chapter 1: A SERMON ON INNS (part 3)" data-chapter="A SERMON ON INNS" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/flag,motif/home,motif/ship,motif/time,concept/hope,concept/solitude,concept/truth,setting/ship"></span>
 
 
 “Poor old Hump!” she said. “Why, I’d forgotten about him. He must be very nearly as worried as I am! I [[Hope|hope]] this man won’t be too silly about this! I’d rather it weren’t about this!”
@@ -8918,7 +8918,7 @@ E di nuovo spalancò le braccia, come rivolgendosi a un'adunata di milioni, tutt
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_01" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 1)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_01" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 1)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt" data-tags="archetype/king,motif/fire,motif/lightning,motif/water,motif/well,motif/window,concept/courage,setting/germany,character/ulysses"></span>
 
 
 CHAPTER II: THE END OF OLIVE ISLAND
@@ -8971,7 +8971,7 @@ La persona più imponente presente era il grande Oman Pascià in persona, con il
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_02" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 2)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_02" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 2)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/desire,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/beauty,concept/honour,concept/sublime,concept/wonder,histref/christianity,histref/islam,setting/orient,character/phantom"></span>
 
 
 Lord Ivywood, the English Minister, was probably the handsomest man in England, save that he was almost colourless both in hair and complexion. Against that blue marble sea he might almost have been one of its old marble statues that are faultless in line but show nothing but shades of grey or white. It seemed a mere matter of the luck of lighting whether his hair looked dull silver or pale brown; and his splendid mask never changed in colour or expression. He was one of the last of the old Parliamentary orators; and yet he was probably a comparatively young man; he could make anything he had to mention blossom into verbal [[Beauty|beauty]]; yet his face remained dead while his lips were alive. He had little old-fashioned ways, as out of old Parliaments; for instance, he would always stand up, as in a Senate, to speak to those three other men, [[Alone|alone]] on a rock in the ocean.
@@ -9100,7 +9100,7 @@ Patrick Dalroy balzò in piedi, tirandosi su dal suo posto aggrappandosi a un ra
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_03" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 3)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_end_of_olive_island--part_03" data-title="The Flying Inn — Chapter 2: THE END OF OLIVE ISLAND (part 3)" data-chapter="THE END OF OLIVE ISLAND" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,archetype/shadow,archetype/tyrant,motif/blood,motif/death,motif/fire,motif/rose,motif/ship,motif/sleep,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/hope,histref/islam,setting/ship"></span>
 
 
 “… do we indeed owe nothing,” the diplomatist was saying “to that gesture of high refusal in which so many centuries ago the great Arabian mystic put the wine-cup from his lips? Do we owe nothing to the long vigil of a valiant race, the long fast by which they have testified against the venomous [[Beauty|beauty]] of the Vine? Ours is an age when men come more and more to see that the creeds hold treasures for each other, that each religion has a secret for its neighbour, that [[Faith|faith]] unto [[Faith|faith]] uttereth speech, and church unto church showeth knowledge. If it be true, and I claim again the indulgence of Oman Pasha when I say I think it is true, that we of the West have brought some light to [[Islam]] in the matter of the preciousness of peace and of civil order, may we not say that [[Islam]] in answer shall give us peace in a thousand homes, and encourage us to cut down that curse that has done so much to thwart and madden the virtues of Western Christendom. Already in my own country the orgies that made horrible the nights of the noblest families are no more. Already the legislature takes more and more sweeping action to deliver the populace from the bondage of the all-destroying drug. Surely the [[Prophet|prophet]] of Mecca is reaping his harvest; the cession of the disputed vineyards to the greatest of his champions is of all acts the most appropriate to this day; to this happy day that may yet deliver the East from the curse of war and the West from the curse of wine. The gallant prince who meets us here at last, to offer an olive branch even more glorious than his [[Sword|sword]], may [[Well|well]] have our sympathy if he himself views the cession with some sentimental regret; but I have little [[Doubt|doubt]] that he also will live to rejoice in it at last. And I would remind you that it is not the vine [[Alone|alone]] that has been the sign of the glory of the South. There is another sacred tree unstained by loose and violent memories, guiltless of the [[Blood|blood]] of Pentheus or of Orpheus and the broken lyre. We shall pass from this place in a little while as all things pass and perish:
@@ -9261,7 +9261,7 @@ Dopo un istante d'esitazione strinse la rossa mano del grande [[Tyrant|tiranno]]
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_sign_of_the_old_ship_ship--part_01" data-title="The Flying Inn — Chapter 3: THE SIGN OF “THE OLD SHIP” (part 1)" data-chapter="THE SIGN OF THE OLD Ship SHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_sign_of_the_old_ship_ship--part_01" data-title="The Flying Inn — Chapter 3: THE SIGN OF “THE OLD SHIP” (part 1)" data-chapter="THE SIGN OF THE OLD Ship SHIP" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/cross,motif/grave,motif/love,motif/road,motif/ship,motif/time,concept/doubt,concept/grotesque,concept/temptation,setting/ship,character/queen"></span>
 
 
 CHAPTER III: THE SIGN OF “THE OLD [[Ship|SHIP]]”
@@ -9440,7 +9440,7 @@ Di regola i suoi movimenti, per quanto rapidi, erano posati; ma in quell'occasio
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_sign_of_the_old_ship_ship--part_02" data-title="The Flying Inn — Chapter 3: THE SIGN OF “THE OLD SHIP” (part 2)" data-chapter="THE SIGN OF THE OLD Ship SHIP" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_sign_of_the_old_ship_ship--part_02" data-title="The Flying Inn — Chapter 3: THE SIGN OF “THE OLD SHIP” (part 2)" data-chapter="THE SIGN OF THE OLD Ship SHIP" data-kind="excerpt" data-tags="archetype/hero,archetype/prophet,motif/home,motif/horse,motif/leaves,motif/moon,motif/nature,motif/ship,motif/well,concept/courage,concept/faith,concept/nature,concept/providence,concept/truth,form/fable,histref/islam,setting/london,setting/ship"></span>
 
 
 “You know what I mean, Lady Joan,” said her host, good humouredly. “And I never was hard on the case myself; we all have our little ways. I shouldn’t like it done to my pig; but I don’t see why a man shouldn’t have his own pig in his own pew with him if he likes it. It wasn’t a free seat. It was the family pew.”
@@ -9623,7 +9623,7 @@ E, prendendo un grazioso congedo dal gruppo, riprese la sua passeggiata piuttost
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_inn_finds_wings" data-title="The Flying Inn — Chapter 4: THE INN FINDS WINGS" data-chapter="THE INN FINDS WINGS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_inn_finds_wings" data-title="The Flying Inn — Chapter 4: THE INN FINDS WINGS" data-chapter="THE INN FINDS WINGS" data-kind="chapter" data-tags="motif/ship,setting/ship"></span>
 
 
 CHAPTER IV: THE INN FINDS WINGS
@@ -9640,7 +9640,7 @@ IL SIGNOR HUMPHREY PUMP se ne stava di nuovo davanti alla sua locanda, il fucile
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_01" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 1)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_01" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 1)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt" data-tags="archetype/prophet,motif/leaves,motif/river,motif/road,motif/silence,motif/wind,concept/fear,concept/sublime,concept/suicide,concept/wonder"></span>
 
 
 CHAPTER V: THE ASTONISHMENT OF THE AGENT
@@ -9720,7 +9720,7 @@ Snocciolando tutte queste sciocchezze con estrema rapidità e vasti svolazzi ora
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_02" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 2)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_02" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 2)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/dawn,motif/prayer,motif/ship,motif/stars,motif/time,motif/water,concept/hope,setting/london,setting/ship,character/bottom"></span>
 
 
 “Cheddar,” said Pump, quite gravely.
@@ -10144,7 +10144,7 @@ Un’idea, adatta al romantico opportunismo della sua presente e assurda carrier
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_03" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 3)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_astonishment_of_the_agent--part_03" data-title="The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 3)" data-chapter="THE ASTONISHMENT OF THE AGENT" data-kind="excerpt" data-tags="archetype/tyrant,motif/hill,motif/road,motif/time,motif/well,concept/hope,form/comedy"></span>
 
 
 No one acquainted with the quaint and often wordless camaraderie of the English poor will require to be told that they all went out and stared at him as he loaded the cart and saw to the harness of the [[donkey]] –all except the old cottager, who sat as if hypnotised by the sight of the money. While they were standing there they saw coming down the white, hot [[Road|road]], where it curled over the [[Hill|hill]], a figure that gave them no pleasure, even when it was a mere marching black spot in the distance. It was a Mr. Bullrose, the agent of Lord Ivywood’s estates.
@@ -10336,7 +10336,7 @@ Sul volto avvizzito del vecchio Marne v’era un tenue rinnovarsi di quella risa
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_01" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 1)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_01" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 1)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/grave,motif/nature,motif/river,motif/road,motif/rose,motif/ship,motif/storm,motif/time,motif/well,concept/history,concept/nature,concept/truth,form/history,setting/london,setting/ship"></span>
 
 
 CHAPTER VI: THE HOLE IN HEAVEN
@@ -10470,7 +10470,7 @@ Sollevò una delle sue lunghe gambe sopra l’animale, come per mettersi in posa
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_02" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 2)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_02" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 2)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt" data-tags="archetype/shadow,motif/leaves,motif/love,motif/pain,motif/spring,motif/time,motif/water,concept/education,concept/suicide,form/parable,character/ulysses"></span>
 
 
 The sunset stillness settled down again, save for the cropping of the [[donkey]] in the undergrowth; and Pump said nothing sympathetically; and it was Dalroy once more who took up his [[Parable|parable]].
@@ -10599,7 +10599,7 @@ Patrick Dalroy bevve un po’ di rum da un bicchierino da medicina che il genera
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_03" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 3)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_hole_in_heaven--part_03" data-title="The Flying Inn — Chapter 6: THE HOLE IN HEAVEN (part 3)" data-chapter="THE HOLE IN HEAVEN" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/blood,motif/decay,motif/dust,motif/love,motif/night,motif/ship,motif/silence,motif/soul,motif/time,motif/well,concept/beauty,form/lyric,setting/ship,character/mariana,character/queen"></span>
 
 
 “I don’t see why I should sing all the [[songs]],” he said. “Why the divil don’t you sing a [[Song|song]] yourself? And now I come to think of it,” he cried, with an accumulating brogue, not, perhaps, wholly unaffected by the rum, which he had not, in fact, drunk for years, “and now I come to think of it, what about that [[Song|song]] of yours? All me youth’s coming back in this blest and cursed place; and I remember that [[Song|song]] of yours, that never existed nor ever will. Don’t ye remember now, Humphrey Pump, that [[Night|night]] when I sang ye no less than seventeen [[songs]] of me own composition?”
@@ -11548,7 +11548,7 @@ E, caricando e slegando il quadrupede, cominciò a condurlo con sé.
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_01" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 1)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_01" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 1)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt" data-tags="motif/silence,motif/soul,motif/well,motif/wind,concept/doubt,concept/faith,concept/hope,concept/pride,concept/reform,form/sonnet,form/tragedy,histref/islam"></span>
 
 
 CHAPTER VII: THE SOCIETY OF SIMPLE SOULS
@@ -11736,7 +11736,7 @@ Nessun altro era sul palco, ma proprio sotto di esso, con una certa sorpresa di 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_02" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 2)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_02" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 2)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt" data-tags="topos/double,archetype/prophet,motif/garden,motif/home,motif/moon,motif/soul,motif/time,motif/well,concept/honour,setting/london"></span>
 
 
 It was characteristic of Lord Ivywood that, though he was really in a hurry, he sat down slowly and gravely amid the outburst of applause. The quiet resumption of the speaker’s seat, like the applause itself, was an artistic part of the peroration. When the last clap or stamp had subsided, he sprang up alertly, his light great-coat over his arm, shook hands with the lecturer, bowed to the audience and slid quickly out of the hall. Mr. Leveson, the swarthy young man with the drooping [[Double|double]]-eyeglass rather bashfully to the front, took the empty seat on the platform, and in a few words presented the eminent Turkish mystic Misysra Ammon, sometimes called the [[Prophet]] of the [[Moon]].
@@ -11856,7 +11856,7 @@ Di nuovo spalancò le mani in quel suo gesto orientale a ventaglio. Poi si batt�
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_03" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 3)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_society_of_simple_souls--part_03" data-title="The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 3)" data-chapter="THE SOCIETY OF SIMPLE SOULS" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/night,motif/pain,motif/time,motif/well,concept/self,setting/orient,character/pistol"></span>
 
 
 Lady Joan applauded warmly, as did several other ladies, and the sage went on, encouraged.
@@ -12103,7 +12103,7 @@ Ella era solo vagamente consapevole del signor Leveson, l'uomo dal volto scuro e
 
 
 
-<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_01" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 1)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_01" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 1)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt" data-tags="archetype/prophet,motif/moon,motif/silence,motif/spring,motif/time,motif/well,concept/faith,concept/fear,concept/honour,concept/hope,concept/truth,histref/islam"></span>
 
 
 CHAPTER VIII: VOX POPULI VOX DEI
@@ -12309,7 +12309,7 @@ Misysra Ammon si sedette assai soddisfatto della propria risposta, ma molti dubi
 
 
 
-<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_02" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 2)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_02" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 2)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt" data-tags="motif/horse,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/exile,concept/hope,concept/mercy,concept/truth,setting/london,character/arthur,character/christ,character/witch"></span>
 
 
 All the artistic ladies were already getting on their wraps, with faces varying from bewilderment to blank terror. Only Lady Joan lingered, trembling with unexplained excitement. The hitherto speechless Hinch had slid up to the Chairman’s seat and whispered to him:
@@ -12492,7 +12492,7 @@ Il signor Pump tacque per un poco e poi disse, più seriamente del solito: «[[W
 
 
 
-<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_03" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 3)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_vox_populi_vox_dei--part_03" data-title="The Flying Inn — Chapter 8: VOX POPULI VOX DEI (part 3)" data-chapter="VOX POPULI VOX DEI" data-kind="excerpt" data-tags="topos/vanitas,motif/blood,motif/fire,motif/night,motif/silence,motif/soul,motif/water,motif/well,concept/democracy,concept/history,concept/temptation,form/history"></span>
 
 
 Dalroy found himself, with some bewilderment, round the corner of a rock and in a long bore or barrel of blackness that ended in a very dim spot of green. Hearing the hoofs of the ass and the feet of his friend behind him, he turned his head, but could see nothing but the pitch darkness of a closed coal cellar. He turned again to the dim green speck, and marching forward was glad to see it grow larger and brighter, like a big emerald, till he came out on a throng of trees, mostly thin, but growing so thickly and so close to the cavernous entrance of the tunnel that it was quite clear the place was meant to be choked up by forests and forgotten. The light that came glimmering through the trees was so broken and tremulous that it was hard to tell whether it was daybreak or moonrise.
@@ -12621,7 +12621,7 @@ Ma non era quieto a Pebblewick quella [[Night|notte]]; quando fu letto il Riot A
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_higher_criticism_and_mr_hi" data-title="The Flying Inn — Chapter 9: THE HIGHER CRITICISM AND MR. HIBBS" data-chapter="THE HIGHER CRITICISM AND MR HI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_higher_criticism_and_mr_hi" data-title="The Flying Inn — Chapter 9: THE HIGHER CRITICISM AND MR. HIBBS" data-chapter="THE HIGHER CRITICISM AND MR HI" data-kind="chapter" data-tags="concept/satire_of_society,form/novel,form/satire"></span>
 
 
 CHAPTER IX: THE HIGHER CRITICISM AND MR. HIBBS
@@ -12638,7 +12638,7 @@ PEBBLEWICK vantava un suo intraprendente giornale della sera, chiamato «The Peb
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_01" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 1)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_01" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 1)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt" data-tags="archetype/fool,archetype/prophet,motif/animals,motif/city,motif/garden,motif/memory,motif/spring,motif/well,concept/self,concept/sublime,form/tragedy,character/quoodle,character/satan"></span>
 
 
 CHAPTER X: THE CHARACTER OF [[quoodle|QUOODLE]]
@@ -12700,7 +12700,7 @@ Nella successiva dell'infinita serie di stanze s'imbatté in una sorta di ottoma
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_02" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 2)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_02" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 2)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/childhood,motif/garden,motif/nightingale,motif/rose,motif/silence,motif/well,concept/beauty,concept/truth,concept/wonder,character/quoodle"></span>
 
 
 After a minute or two she [[Rose|rose]] (and the dog [[Rose|rose]]), and she looked yet farther down that long perspective of large rooms, in which men like Philip Ivywood forget that they are only men. The next was more ornate and the next yet more so; it was plain that the scheme of decoration that was in progress had been started at the other end. She could now see that the long lane ended in rooms that from afar off looked like the end of a kaleidoscope, rooms like nests made only from humming [[Birds|birds]] or palaces built of fixed fireworks. Out of this furnace of fragmentary colours she saw Ivywood advancing toward her, with his black suit and his white face accented by the contrast. His lips were moving, for he was talking to himself, as many orators do. He did not seem to see her, and she had to strangle a subconscious and utterly senseless cry, “He is blind!”
@@ -12838,7 +12838,7 @@ Vi fu un altro [[Silence|silenzio]] e il cane annusava girando e rigirando per l
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_03" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 3)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_character_of_quoodle_quood--part_03" data-title="The Flying Inn — Chapter 10: THE CHARACTER OF [[quoodle|QUOODLE (part 3)" data-chapter="THE CHARACTER OF quoodle QUOOD" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/garden,motif/moon,motif/time,motif/well,motif/window,concept/truth,form/allegory,character/quoodle"></span>
 
 
 “You are right,” said Joan, looking at him with some [[Wonder|wonder]], “I have felt like that myself.”
@@ -13030,7 +13030,7 @@ Una sorta di [[Window|finestra]] assai storta nella parte superiore della casett
 
 
 
-<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_01" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 1)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_01" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 1)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt" data-tags="archetype/child,archetype/monster,archetype/prophet,motif/animals,motif/death,motif/desert,motif/horse,motif/moon,motif/silence,motif/window,setting/castle,setting/court,setting/desert"></span>
 
 
 CHAPTER XI: VEGETARIANISM IN THE DRAWING-ROOM
@@ -13146,7 +13146,7 @@ Lady Enid Wimpole appariva finalmente un poco stordita, a questa descrizione del
 
 
 
-<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_02" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 2)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_02" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 2)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt" data-tags="archetype/prophet,motif/dawn,motif/desire,motif/grave,motif/marriage,motif/rose,motif/well,concept/doubt,concept/fear,concept/history,concept/truth,form/history,character/richard,character/richard_iii"></span>
 
 
 For the purpose of the lecture was not wholly devoted to the great and awful Pig, and the purpose of the meeting even less. Lord Ivywood, the white furnace of whose mind was always full of new fancies hardening into ambitions, wanted to have a [[debate]] on the diet of East and West, and felt that Misysra might very appropriately open with an account of the Moslem veto on pork or other coarse forms of flesh food. He reserved it to himself to speak second.
@@ -13275,7 +13275,7 @@ Egli aveva, come Pitt e Gladstone, un classicismo estemporaneo di dizione, con l
 
 
 
-<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_03" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 3)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_03" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 3)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt" data-tags="archetype/prophet,motif/animals,motif/blood,motif/memory,motif/moon,motif/nature,motif/time,motif/water,motif/well,concept/aspiration,concept/doubt,concept/honour,concept/nature,concept/purification,form/allegory,form/fable,histref/christianity,histref/islam"></span>
 
 
 “It is within my [[Memory|memory]],” said Lord Ivywood, “though it need in no case have encumbered yours, that when it was my duty to precede the admired lecturer whom I now feel it a privilege even to follow, I submitted a suggestion which, however simple, would appear to many paradoxical. I affirmed or implied the view that the religion of Mahomet was, in a peculiar sense, a religion of progress. This is so contrary, not only to historical convention but to common platitude, that I shall find no ground either of surprise or censure if it takes a perceptible [[Time|time]] before it sinks into the mind of the English public. But I think, ladies and gentlemen, that this period is notably abbreviated by the remarkable exposition which we have heard today. For this question of the attitude of [[Islam]] toward food affords as excellent an example of its special mode of progressive [[Purification|purification]] as the more popular example of its attitude toward drink. For it illustrates that principle which I have ventured to call the principle of the Crescent: the principle of perpetual growth toward an implied and infinite perfection.
@@ -13323,7 +13323,7 @@ Egli aveva, come Pitt e Gladstone, un classicismo estemporaneo di dizione, con l
 
 
 
-<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_04" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 4)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_vegetarianism_in_the_drawing_r--part_04" data-title="The Flying Inn — Chapter 11: VEGETARIANISM IN THE DRAWING-ROOM (part 4)" data-chapter="VEGETARIANISM IN THE DRAWING R" data-kind="excerpt" data-tags="motif/desire,motif/pain,motif/rose,motif/time,motif/well,concept/beauty,concept/doubt,histref/christianity,character/brutus"></span>
 
 
 Lord Ivywood resumed his seat, his colourless lips still moving. By some previous arrangement, probably, Mr. Leveson [[Rose|rose]] to move a motion about Vegetarianism. Mr. Leveson was of opinion that the Jewish and Moslem veto on pork had been the origin of Vegetarianism. He thought it was a great step, and showed how progressive the creed could be. He thought the persecution of the Hindoos by Moslems had probably been much exaggerated; he thought our experience in the Indian Mutiny showed we considered the feeling of Easterners too little in such matters. He thought Vegetarianism in some ways an advance on orthodox [[Christianity]]. He thought we must be ready for yet further advances; and he sat down. And as he had said precisely, clause by clause, everything that Lord Ivywood had said, it is needless to say that that nobleman afterward congratulated him on the boldness and originality of his brilliant speech.
@@ -13380,7 +13380,7 @@ Sussultò e si sollevò a metà sul gomito con una risatina. Un cane dall'aspett
 
 
 
-<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_01" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 1)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_01" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 1)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt" data-tags="motif/blood,motif/soul,motif/time,motif/well,concept/doubt,concept/eternity,concept/truth,setting/germany,character/quoodle"></span>
 
 
 CHAPTER XII: VEGETARIANISM IN THE FOREST
@@ -13575,7 +13575,7 @@ Il quadrupede [[quoodle|Quoodle]] uscì dai boschi un minuto intero più tardi d
 
 
 
-<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_02" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 2)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_02" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 2)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt" data-tags="archetype/king,motif/cave,motif/crown,motif/dance,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/conscience,concept/greed,concept/pride,form/lyric,setting/castle,character/quoodle"></span>
 
 
 “Oh I knew a Doctor Gluck,
@@ -14071,7 +14071,7 @@ La sua prima sensazione fu di camminare nella suite più sigillata e segreta deg
 
 
 
-<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_03" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 3)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_03" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 3)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt" data-tags="archetype/prophet,archetype/shadow,motif/blood,motif/death,motif/dreams,motif/moon,motif/time,motif/well,concept/freedom,concept/imagination,concept/truth,concept/wonder,histref/crusades,setting/castle"></span>
 
 
 But he had also another sensation which he could not analyze; for it reminded him of being a fly on the ceiling or the wall. Was it the Hanging Gardens of Babylon coming back to his [[Imagination|imagination]]; or the [[Castle]] East of the Sun and West of the [[Moon]]? Then he remembered that in some boyish illness he had stared at a rather Moorish sort of wall paper, which was like rows and rows of brightly coloured corridors, empty and going on forever. And he remembered that a fly was walking along one of the parallel lines; and it seemed to his childish fancy that the corridors were all dead in front of the fly, but all came to life as he passed.
@@ -14254,7 +14254,7 @@ E scarabocchiò alcune parole con una matita sul retro di un menu sul tavolo e p
 
 
 
-<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_04" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 4)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_vegetarianism_in_the_forest--part_04" data-title="The Flying Inn — Chapter 12: VEGETARIANISM IN THE FOREST (part 4)" data-chapter="VEGETARIANISM IN THE FOREST" data-kind="excerpt" data-tags="motif/prison,motif/ship,motif/well,motif/window,concept/honour,setting/ship"></span>
 
 
 “Curiously enough,” he observed, at last, and with absolutely even temper, “curiously enough, it is you who are doing Philip Ivywood a wrong. I think him quite capable of breaking England or Creation. But I do honestly think he would never break his word. And what is more, I think the more arbitrary and literal his word had been, the more he would keep it. You will never understand a man like that, till you understand that he can have devotion to a definition; even a new definition. He can really feel about an amendment to an Act of Parliament, inserted at the last moment, as you feel about England or your mother.”
@@ -14347,7 +14347,7 @@ La strinse a sé come in un turbine, e poi svanì dalla fatata torretta come una
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_battle_of_the_tunnel--part_01" data-title="The Flying Inn — Chapter 13: THE BATTLE OF THE TUNNEL (part 1)" data-chapter="THE BATTLE OF THE TUNNEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_battle_of_the_tunnel--part_01" data-title="The Flying Inn — Chapter 13: THE BATTLE OF THE TUNNEL (part 1)" data-chapter="THE BATTLE OF THE TUNNEL" data-kind="excerpt" data-tags="motif/garden,motif/moon,motif/night,motif/time,motif/well,concept/suffering"></span>
 
 
 CHAPTER XIII: THE BATTLE OF THE TUNNEL
@@ -14490,7 +14490,7 @@ Era già sera, e una precoce [[Moon|luna]] rischiarava la cappella sprofondata c
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_battle_of_the_tunnel--part_02" data-title="The Flying Inn — Chapter 13: THE BATTLE OF THE TUNNEL (part 2)" data-chapter="THE BATTLE OF THE TUNNEL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_the_battle_of_the_tunnel--part_02" data-title="The Flying Inn — Chapter 13: THE BATTLE OF THE TUNNEL (part 2)" data-chapter="THE BATTLE OF THE TUNNEL" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/silence,motif/time,concept/hope,concept/nature,concept/wonder,character/quoodle"></span>
 
 
 He began to wade through the waves of weed and thorn past the Chapel, but he found the soil much more uneven and obstructive than he had supposed.
@@ -14736,7 +14736,7 @@ Condusse il suo [[donkey|asino]] al carro, e bardò con cura l'[[donkey|asino]];
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_01" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 1)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_01" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 1)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/desert,motif/love,motif/nature,motif/stars,motif/tears,motif/water,motif/well,concept/democracy,concept/eternity,concept/exile,concept/nature,concept/pride,form/fable,form/sonnet,form/tragedy,setting/desert,setting/egypt"></span>
 
 
 CHAPTER XIV: THE CREATURE THAT MAN FORGETS
@@ -14850,7 +14850,7 @@ Il Poeta degli [[Birds|Uccelli]] era così eccitato dal proprio discorso che, do
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_02" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 2)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_02" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 2)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt" data-tags="motif/animals,motif/dust,motif/home,motif/moon,motif/night,motif/road,motif/sleep,motif/well,concept/doubt,concept/hope,concept/pride"></span>
 
 
 “Toward [[Home|home]], for the present,” said the poet, and stared at the [[Moon|moon]] with an inspired face.
@@ -15051,7 +15051,7 @@ Pump era saggio in tutte queste faccende, e sapeva che, così come un poco di ci
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_03" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 3)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_03" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 3)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/road,motif/time,motif/well,motif/wheel,concept/courage,concept/fear,concept/wonder,character/quoodle"></span>
 
 
 But at the sight of this the cockney’s eyes lit at once with terror and [[Desire|desire]].
@@ -15306,7 +15306,7 @@ Il cane [[quoodle|Quoodle]], che era rimasto immobile come [[The Sphinx|la sfing
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_04" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 4)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_the_creature_that_man_forgets--part_04" data-title="The Flying Inn — Chapter 14: THE CREATURE THAT MAN FORGETS (part 4)" data-chapter="THE CREATURE THAT MAN FORGETS" data-kind="excerpt" data-tags="motif/garden,motif/nature,motif/rose,motif/ship,concept/nature,setting/ship"></span>
 
 
 “This is a very curious creature,” said the Captain, anxiously, “he has all sorts of odd antipathies. He can’t stand a motor car, for instance, especially one that throbs like that while it’s standing still. He doesn’t mind a fur coat so much, but if you wear a brown velvet jacket under it, he bites you. And you must keep him out of the way of a certain kind of people. I don’t suppose you’ve met them; but they always think that anybody with less than two hundred a year is drunk and very cruel, and that anybody with more than two thousand a year is conducting the Day of Judgment. If you will keep our dear [[donkey]] from the society of such persons–Hullo! Hullo! Hullo!”
@@ -15372,7 +15372,7 @@ Ma credo che persino il poeta sarebbe stato illuminato se avesse visto il volto 
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_01" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 1)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_01" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 1)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt" data-tags="motif/blood,motif/flowers,motif/machine,motif/night,motif/silence,motif/sleep,motif/well,motif/window,concept/pride"></span>
 
 
 CHAPTER XV: THE [[songs|SONGS]] OF THE CAR CLUB
@@ -15800,7 +15800,7 @@ Ma questi erano lussi perduti per lui, che visse per la Vita Semplice.»
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_02" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 2)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_02" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 2)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt" data-tags="archetype/tyrant,motif/birds,motif/flowers,motif/ship,motif/silence,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/self,concept/truth,setting/ship,character/chorus,character/quoodle,character/sunday"></span>
 
 
 Mr. Pump had made many attempts to arrest this [[Song|song]], but they were as vain as all attempts to arrest the car. The angry chauffeur seemed, indeed, rather inspired to further energy by the violent vocal noises behind; and Pump again found it best to fall back on conversation.
@@ -16267,7 +16267,7 @@ Questa poesia mostra anche tracce di fretta nella sua conclusione, e l'attuale c
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_03" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 3)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_03" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 3)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt" data-tags="motif/cross,motif/dust,motif/night,motif/ship,motif/well,concept/truth,setting/oxford,setting/ship,character/pistol"></span>
 
 
 “St. George he was for England,
@@ -16644,7 +16644,7 @@ Poi si volse a guardare i lunghi boschi e le ultime case, e parve mordersi il la
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_04" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 4)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15_the_songs_songs_of_the_car_clu--part_04" data-title="The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 4)" data-chapter="THE songs SONGS OF THE CAR CLU" data-kind="excerpt" data-tags="archetype/rebel,archetype/tyrant,motif/road,motif/silence,motif/well,concept/hope,concept/truth"></span>
 
 
 Captain Patrick Dalroy sprang out of the car so rapidly that he almost reeled and slipped upon the [[Road|road]]. The dog sprang after him, barking furiously.
@@ -16710,7 +16710,7 @@ L'autista pieno di rimorso, dopo molte avventure, ritrovò davvero la via del bo
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_01" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 1)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_01" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 1)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/clock,motif/dawn,motif/desire,motif/horse,motif/love,motif/moon,motif/nature,motif/night,motif/road,motif/soul,concept/beauty,concept/democracy,concept/nature,concept/self,concept/vanity,form/sketch,form/sonnet,character/pistol"></span>
 
 
 CHAPTER XVI: THE SEVEN MOODS OF DORIAN
@@ -16808,7 +16808,7 @@ Ma l'[[donkey|asino]] lo aveva riconciliato col paesaggio, e nel suo terzo umore
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_02" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 2)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_02" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 2)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/insects,motif/moon,motif/noon,motif/road,motif/time,motif/well,concept/history,concept/wonder,form/comedy,form/history,setting/london"></span>
 
 
 He had flung himself on a pile of pine-needles to enjoy the gathering darkness of the pinewoods as the [[Moon|moon]] sank behind them. There is nothing more deep and wonderful than really impenetrable pinewoods where the nearer trees show against the more shadowy; a tracery of silver upon grey and of grey upon black.
@@ -16928,7 +16928,7 @@ Già il pallido mattino si era scaldato in un azzurro tenue ed era macchiato di 
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_03" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 3)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_03" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 3)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt" data-tags="archetype/innocent,motif/flowers,motif/moon,motif/road,motif/time,motif/well,motif/wheel,motif/wind,motif/window,concept/despair,concept/fear,concept/hope,concept/truth,concept/wonder,form/parable,character/robin_hood"></span>
 
 
 He did not wake out of this boisterous reverie of the white [[Road|road]] and the [[Wind|wind]] till a motor horn had first hooted and then howled, till the ground had shaken with the shock of a stoppage, and till a human hand fell heavily and tightly on his shoulder. He looked up and saw the complete costume of a Police Inspector. He did not worry about the face. And there fell on him the Fifth, or Unexpected Mood, which is called by the vulgar Astonishment.
@@ -17120,7 +17120,7 @@ Ma, benché la sbornia del diplomatico fosse appena finita, la sua strana, molle
 
 
 
-<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_04" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 4)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16_the_seven_moods_of_dorian--part_04" data-title="The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN (part 4)" data-chapter="THE SEVEN MOODS OF DORIAN" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/birds,motif/cross,motif/dawn,motif/road,motif/time,motif/well,concept/fear,concept/forgiveness,concept/truth"></span>
 
 
 “Theother man,” repeated Hibbs However, regarding the distant windmill through half-closed lids, as if this were a new fine shade introduced into an already delicate question.
@@ -17258,7 +17258,7 @@ Il Settimo Umore di Dorian Wimpole ebbe un grandioso finale al Café Royal, e co
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_01" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 1)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_01" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 1)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt" data-tags="motif/memory,motif/moon,motif/night,motif/ship,motif/stars,motif/time,motif/well,concept/ambition,setting/london,setting/ship,character/quoodle,character/satan"></span>
 
 
 CHAPTER XVII: THE POET IN PARLIAMENT
@@ -17365,7 +17365,7 @@ Sulla pagina coperta soltanto di casuali avvenimenti provinciali c'era un trafil
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_02" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 2)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_02" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 2)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt" data-tags="motif/clock,motif/cross,motif/garden,motif/night,motif/ship,motif/time,motif/well,motif/wind,setting/london,setting/ship,character/speed"></span>
 
 
 “Later. The two motorists have apparently left the town, unmolested, in a small second-hand two-seater. There is no clue to their destination, except it be indicated by a single incident. It appears that when they were waiting for the second glass of milk, one of them drew attention to a milk can of a shape seemingly unfamiliar to him, which was, of course, the Mountain Milk now so much recommended by doctors. The taller motorist (who seemed in every way strangely ignorant of modern science and social life) asked his companion where it came from, receiving, of course, the reply that it is manufactured in the model village of Peaceways, under the personal superintendence of its distinguished and philanthropic inventor, Dr. Meadows. Upon this the taller person, who appeared highly irresponsible, actually bought the whole can; observing, as he tucked it under his arm, that it would help him to remember the address.
@@ -17512,7 +17512,7 @@ Si rese conto che la sua stessa legge li lasciava liberi ogni [[Time|volta]]; po
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_03" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 3)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_03" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 3)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/clock,motif/hill,motif/moon,motif/night,motif/river,motif/ship,motif/time,motif/well,concept/faith,concept/honour,concept/melancholy,setting/london,setting/ship,character/bottom,character/phantom"></span>
 
 
 He realised that it was [[thursday|Thursday]]. This was the day on which any private member of Parliament could introduce any private bill of the kind called “non-contentious,” and pass it without a division, so long as no particular member made any particular fuss. He realised that it was improbable that any particular member would make any particular fuss about Lord Ivywood’s own improvement on Lord Ivywood’s own Act.
@@ -17693,7 +17693,7 @@ Privo dell'esperienza di Lord Ivywood, entrò nell'Aula stessa dei Comuni e sede
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_04" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 4)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_04" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 4)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/desire,motif/night,motif/prison,motif/time,concept/freedom,concept/hope"></span>
 
 
 “… no wish at all that this proposal should be regarded except in the right way and have tried to put it in the right way and cannot think the honourable member was altogether adding to his reputation in putting it in what those who think with me must of course consider the wrong way and I for one am free to say that if in his [[Desire|desire]] to settle this great question he takes this hasty course and this revolutionary course about slate pencils he may not be able to prevent the extremists behind him from applying it to lead pencils and while I should be the last to increase the heat and the excitement and the personalities of this [[debate]] if I could possibly help it I must confess that in my opinion the honourable gentleman has himself encouraged that heat and personality in a manner that he now doubtless regrets I have no [[Desire|desire]] to use abusive terms indeed you Mr. Speaker would not allow me of course to use abusive terms but I must tell the honourable member face to face that the perambulators with which he has twitted me cannot be germane to this discussion I should be the last person…”
@@ -17804,7 +17804,7 @@ Un inserviente indugiò lì presso in risposta alla richiesta di un cameriere, e
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_05" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 5)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17_the_poet_in_parliament--part_05" data-title="The Flying Inn — Chapter 17: THE POET IN PARLIAMENT (part 5)" data-chapter="THE POET IN PARLIAMENT" data-kind="excerpt" data-tags="archetype/king,motif/night,motif/river,motif/ship,motif/water,concept/honour,setting/ship,character/kent"></span>
 
 
 The attendant, hearing the word, once more drew near; but heard no further order; or, rather, the orders he heard were such as he was less able to cope with.
@@ -17888,7 +17888,7 @@ Philip Ivywood si sollevò sulla stampella e rimase un momento a guardare l'uomo
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_01" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 1)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_01" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 1)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt" data-tags="archetype/fool,motif/childhood,motif/city,motif/dance,motif/death,motif/garden,motif/love,motif/poison,motif/river,motif/soul,motif/water,motif/well,concept/beauty,concept/doubt,concept/honour,concept/vanity,concept/wonder,character/hamlet"></span>
 
 
 CHAPTER XVIII: THE REPUBLIC OF PEACEWAYS
@@ -18255,7 +18255,7 @@ Come tormento per i nostri delitti.»
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_02" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 2)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_02" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 2)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt" data-tags="archetype/innocent,motif/river,motif/road,motif/time,motif/water,motif/well,motif/window,concept/doubt,character/phantom"></span>
 
 
 “You can fancy anything in the tasting way,” returned his shorter companion. “Mr. Jack, who was always up to his tricks, did serve plain [[Water|water]] in those little glasses they drink liqueurs out of, and everyone swore it was a delicious liqueur, and wanted to know where they could get it–all except old Admiral Guffin, who said it tasted too strong of olives. But [[Water|water]]’s much the best for our game, certainly.”
@@ -18402,7 +18402,7 @@ Ma ciò che più li lasciava perplessi era questo, che egli non tanto esibiva la
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_03" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 3)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_03" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 3)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/hill,motif/night,motif/road,motif/secrets,motif/ship,motif/snow,motif/storm,motif/time,motif/well,motif/window,concept/history,concept/pride,concept/self,concept/wonder,form/history,setting/ship"></span>
 
 
 “Oh, yes, sir; very healthy place, Peaceways,” he said, peering through the lattice. “Very … dash it, what do they mean? … Very healthy place. Of course they have their little ways.”
@@ -18657,7 +18657,7 @@ E il signore dai bei vestiti sputò sul tappeto.
 
 
 
-<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_04" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 4)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18_the_republic_of_peaceways--part_04" data-title="The Flying Inn — Chapter 18: THE REPUBLIC OF PEACEWAYS (part 4)" data-chapter="THE REPUBLIC OF PEACEWAYS" data-kind="excerpt" data-tags="topos/double,motif/bells,motif/city,motif/home,motif/rose,motif/well,motif/wheel,concept/fear,concept/truth"></span>
 
 
 Mr. Hugby, of Hugby’s Ales, only looked gloomily at the table. His was not the sort of drinking nor the sort of drink-selling on which the revolutionary sentiment flourishes.
@@ -18759,7 +18759,7 @@ Eppure il fulgore si spense quieto e improvviso dai loro volti. E solo perché u
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_01" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 1)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_01" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 1)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/blood,motif/death,motif/soul,motif/time,motif/well,concept/paradox,concept/suicide,concept/truth,setting/germany"></span>
 
 
 CHAPTER XIX: THE HOSPITALITY OF THE CAPTAIN
@@ -18884,7 +18884,7 @@ E con un gesto di sbalorditiva ospitalità, sparò il lungo braccio col piccolo 
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_02" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 2)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_02" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 2)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/dance,motif/dawn,motif/hill,motif/memory,motif/nature,motif/prison,motif/river,motif/road,motif/ship,motif/silence,motif/time,motif/well,concept/despair,concept/fear,concept/hope,concept/nature,form/tragedy,setting/court,setting/ship,character/bottom"></span>
 
 
 There was a long [[Silence|silence]], full of the same sense of submerged mirth in the mob. But the philanthropist had fallen into a naked frenzy in the sunlight, and shaking his fists aloft in a way unknown to all the English around him, he cried out:
@@ -19049,7 +19049,7 @@ Mentre parlava, distribuiva latte e rum a casaccio; e ancora il Dottore aveva tr
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_03" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 3)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19_the_hospitality_of_the_captain--part_03" data-title="The Flying Inn — Chapter 19: THE HOSPITALITY OF THE CAPTAIN (part 3)" data-chapter="THE HOSPITALITY OF THE CAPTAIN" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/dust,motif/home,motif/love,motif/poison,motif/river,motif/sleep,motif/time,motif/water,motif/well,concept/charity,concept/fear,concept/imprisonment,form/translation,histref/bible"></span>
 
 
 “That I can’t say,” growled Hugby, “but if it comes to that–aren’t you trying to sell–”
@@ -19277,7 +19277,7 @@ E si chinò come per bere dal ruscello, come aveva fatto all'alba.
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_01" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 1)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_01" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 1)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/moon,motif/night,motif/river,motif/silence,motif/time,motif/well,motif/window,concept/vanity,histref/islam"></span>
 
 
 CHAPTER XX: THE TURK AND THE FUTURISTS
@@ -19420,7 +19420,7 @@ Su un sofà come un'isola purpurea in mezzo al mare del pavimento sedeva Enid Wi
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_02" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 2)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_02" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 2)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt" data-tags="motif/dawn,motif/home,motif/horse,motif/nature,motif/road,motif/time,motif/well,concept/doubt,concept/identity,concept/nature,concept/pride,concept/reconciliation,setting/london,character/lord_mayor,character/mermaid"></span>
 
 
 Leveson instantly went up to Lord Ivywood, pulled papers from his pocket and was plainly telling him of the escape from Peaceways. Ivywood’s face hardly changed; he was, or felt, above some things; and one of them was blaming a servant before the servant’s social superiors. But no one could say he looked less like cold marble than before.
@@ -19558,7 +19558,7 @@ Tornò per scoprire che Dorian Wimpole aveva dimenticato tutti i fatti di [[Time
 
 
 
-<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_03" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 3)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20_the_turk_and_the_futurists--part_03" data-title="The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS (part 3)" data-chapter="THE TURK AND THE FUTURISTS" data-kind="excerpt" data-tags="motif/flag,motif/love,motif/road,motif/rose,motif/silence,motif/snow,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/vanity,character/quoodle"></span>
 
 
 “No,” said Philip, with suppressed but sudden violence, “I deny that any limit is set upon living things.”
@@ -19966,7 +19966,7 @@ Non poté tuttavia accecarla al fatto straordinario che seguì. Il signor Dorian
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_01" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 1)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_01" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 1)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt" data-tags="topos/double,motif/hill,motif/home,motif/night,motif/poison,motif/road,motif/silence,motif/stars,motif/summer,motif/time,motif/well,concept/hope,concept/self,setting/london,character/bottom,character/quoodle"></span>
 
 
 CHAPTER XXI: THE [[Road|ROAD]] TO ROUNDABOUT
@@ -20172,7 +20172,7 @@ Per quanto la differenza potesse essere definita da un dettaglio, essa pareva co
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_02" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 2)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_02" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 2)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/hill,motif/home,motif/road,motif/rose,motif/ship,motif/silence,motif/stars,motif/summer,motif/well,concept/hope,setting/court,setting/ship,character/speed"></span>
 
 
 “I say,” said Dalroy, breaking the [[Silence|silence]] suddenly, “this car will get giddy and fall down.”
@@ -20364,7 +20364,7 @@ Humphrey aveva appeso una delle lanterne dell'auto a un ramo sopra di sé, e pro
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_03" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 3)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_03" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 3)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/king,archetype/lover,motif/dance,motif/desire,motif/flowers,motif/love,motif/night,motif/road,motif/soul,motif/well,concept/beauty,concept/doubt,concept/faith,concept/hope,concept/humility,form/lyric,setting/london,character/quoodle"></span>
 
 
 “It has gone on a pilgrimage,” answered Dalroy, “or rather a Crusade. It’s a heroic, a fighting [[cheese]]. ‘[[cheese|Cheese]] of all Cheeses, Cheeses of all the world,’ as my compatriot, Mr. Yeats, says to the Something-or-other of Battle. It’s almost impossible that this [[cheese]] can have come out of such a coward as a cow. I suppose,” he added, wistfully, “I suppose it wouldn’t do to explain that in this case Hump had milked the bull. That would be classed by scientists among Irish legends–those that have the Celtic glamour and all that. No, I think this [[cheese]] must have come from that Dun Cow of Dunsmore Heath, who had horns bigger than elephant’s tusks, and who was so ferocious that one of the greatest of the old heroes of chivalry was required to do battle with it. The rum’s good, too. I’ve earned this glass of rum–earned it by Christian [[Humility|humility]]. For nearly a month I’ve lowered myself to the beasts of the field, and gone about on all fours like a teetotaller. Hump, circulate the bottle–I mean the cask–and let us have some of this poetry you’re so keen about. Each poem must have the same title, you know; it’s a rattling good title. It’s called ‘An Inquiry into the Causes geological, historical, agricultural, psychological, psychical, moral, spiritual and theological of the alleged cases of [[Double|double]], treble, quadruple and other curvature in the English [[Road]], conducted by a specially appointed secret commission in a hole in a tree, by admittedly judicious and academic authorities specially appointed by themselves to report to the Dog [[quoodle|Quoodle]], having power to add to their number and also to take away the number they first thought of; God save the [[King]].’” Having delivered this formula with blinding rapidity, he added rather breathlessly, “that’s the note to strike, the [[Lyric|lyric]] note.”
@@ -20972,7 +20972,7 @@ I suoi peccati gli furono perdonati; o perché corrono i [[Flowers|fiori]]
 
 
 
-<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_04" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 4)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21_the_road_road_to_roundabout--part_04" data-title="The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 4)" data-chapter="THE Road ROAD TO ROUNDABOUT" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/king,motif/blood,motif/chalk,motif/city,motif/crown,motif/death,motif/home,motif/love,motif/night,motif/river,motif/road,motif/rose,motif/time,motif/well,concept/body,concept/self,setting/london,setting/oxford"></span>
 
 
 Behind him; and the hedges all strengthening in the sun?
@@ -21803,7 +21803,7 @@ E levò la sua [[Sword|spada]] verso [[London|Londra]], e il grigio bagliore su 
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_01" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 1)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_01" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 1)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt" data-tags="archetype/prophet,motif/cross,motif/nature,motif/silence,motif/well,concept/democracy,concept/history,concept/nature,form/history"></span>
 
 
 CHAPTER XXII: THE CHEMISTRY OF MR. CROOKE
@@ -21955,7 +21955,7 @@ Chi fosse poco pratico di quella relatività essenziale a tutte le menti moderne
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_02" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 2)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_02" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 2)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt" data-tags="topos/double,archetype/prophet,motif/birds,motif/cross,motif/desert,motif/flag,motif/moon,motif/silence,motif/sleep,motif/summer,motif/wind,motif/winter,concept/conscience,concept/fear,concept/history,form/history,histref/christianity,setting/desert"></span>
 
 
 “And so,” said the radiant old Turk, “the little, light, easily made, curly mark is substituted for the hard, difficult, [[Double|double]]-made, cutting both ways mark. It is the more good for hygi-e-ene. For you must know, and indeed our good and wise Chemist will tell you, that the Saracenic and the Arabian and the Turkish physicians were the first of all physicians; and taught all medicals to the barbarians of the Frankish territories. And many of the moost modern, the moost fashionable remedies, are thus of the oriental origin.”
@@ -22120,7 +22120,7 @@ Coloro che in epoche successive e altre mode non riuscirono a capire come Misysr
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_03" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 3)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_03" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 3)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/dawn,motif/night,motif/prison,motif/ship,motif/sleep,motif/soul,motif/time,motif/window,concept/fear,concept/history,concept/self,form/history,setting/ship"></span>
 
 
 Here a new voice contributed to the conversation. Its contribution, though imperfectly understood, appeared to be “Nar! Why sh’d I wite for a little Jew in ’is dressin’ gown? Little Jews in their dressin’ gowns ’as their drinks, and we ’as our drinks. Bitter, miss.”
@@ -22348,7 +22348,7 @@ Chi vedeva Lord Ivywood in simili momenti comprendeva perché egli spiccasse cos
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_04" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 4)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22_the_chemistry_of_mr_crooke--part_04" data-title="The Flying Inn — Chapter 22: THE CHEMISTRY OF MR. CROOKE (part 4)" data-chapter="THE CHEMISTRY OF MR CROOKE" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/cross,motif/home,motif/night,motif/ship,motif/sleep,motif/time,motif/well,concept/truth,setting/castle,setting/ship,character/quoodle"></span>
 
 
 “Surely,” said Patrick, with an [[Innocent|innocent]] air, “the best remedy would be to wait till ithas been three days on the premises. We might all get to know each other better.” And he looked round at the ever-increasing multitude with hazy benevolence.
@@ -22584,7 +22584,7 @@ Chi è per la Libertà? Chi va a [[Home|casa]]?»
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_01" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 1)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_01" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 1)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt" data-tags="motif/city,motif/dust,motif/flag,motif/river,motif/road,motif/soul,motif/storm,motif/time,motif/well,concept/endurance,concept/pride,setting/london,character/pistol"></span>
 
 
 CHAPTER XXIII: THE MARCH ON IVYWOOD
@@ -22673,7 +22673,7 @@ Dorian alzò gli occhi e si accorse che una striscia di rozzissimo cencio rosso,
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_02" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 2)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_02" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 2)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/garden,motif/silence,motif/time,motif/well,concept/beauty,concept/doubt,concept/hope,concept/truth,histref/french_revolution,setting/london"></span>
 
 
 “Look here,” said Dorian, “this [[cheese]] is pretty heavy as it is. Have I got to carry a piano, too?”
@@ -22928,7 +22928,7 @@ Marciò per un po' in [[Silence|silenzio]] e poi disse, con una certa aria di br
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_03" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 3)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23_the_march_on_ivywood--part_03" data-title="The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD (part 3)" data-chapter="THE MARCH ON IVYWOOD" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/blood,motif/clock,motif/crown,motif/dawn,motif/death,motif/journey,motif/leaves,motif/love,motif/night,motif/road,motif/ship,motif/silence,motif/sleep,motif/soul,motif/time,motif/wind,concept/history,concept/wonder,form/history,setting/ship,character/richard"></span>
 
 
 He fell into an almost sullen [[Silence|silence]] again; and several villages had been passed before he spoke again.
@@ -23583,7 +23583,7 @@ E tirò fuori da sotto della carta marrone quello che pareva uno strumento music
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_01" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 1)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_01" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 1)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt" data-tags="archetype/lover,archetype/prophet,archetype/shadow,motif/birds,motif/childhood,motif/garden,motif/love,motif/nature,motif/night,motif/pain,motif/rose,motif/time,motif/well,concept/beauty,concept/doubt,concept/freedom,concept/nature,concept/pride,setting/london,setting/orient,setting/venice"></span>
 
 
 CHAPTER XXIV: THE ENIGMAS OF LADY JOAN
@@ -23663,7 +23663,7 @@ Ivywood sorrise del suo raro e arido sorriso. «Il [[Prophet|Profeta]] ha qualco
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_02" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 2)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_02" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 2)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/desire,motif/flowers,motif/love,motif/nature,motif/river,motif/time,concept/education,concept/humility,concept/nature,histref/islam,setting/germany,character/queen"></span>
 
 
 “What is that?” asked Joan, looking down.
@@ -23783,7 +23783,7 @@ Ma la signorina Browning, coi suoi capelli ricci rossicci e il volto bianco e mo
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_03" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 3)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_03" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 3)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/prophet,motif/cross,motif/flowers,motif/love,motif/moon,motif/night,motif/rose,motif/stars,motif/well,motif/wind,concept/faith,concept/heroism,concept/hope,concept/truth"></span>
 
 
 “You see,” said Miss Browning, “we mustn’t interfere with his career; that is the important thing. And, really, I think the quieter we keep about everything the better. I am sure he is maturing very big plans. You heard what the [[Prophet]] said the other [[Night|night]]?”
@@ -24074,7 +24074,7 @@ Nella lontana sala da musica, lady Enid, avendo trovato la musica che preferiva,
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_04" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 4)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24_the_enigmas_of_lady_joan--part_04" data-title="The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 4)" data-chapter="THE ENIGMAS OF LADY JOAN" data-kind="excerpt" data-tags="archetype/ghost,motif/dust,motif/love,motif/moon,motif/night,motif/silence,motif/stars,motif/well,motif/wheel,concept/honour,concept/solitude,setting/london"></span>
 
 
 From the distant and slowly darkening music room, Enid Wimpole’s [[Song|song]] came thin and clear:
@@ -24374,7 +24374,7 @@ Poi il sole cadde dal Cielo, e la [[Moon|Luna]] e le [[Stars|stelle]] precipitar
 
 
 
-<span class="atom-split" data-atom="chapter_25_the_finding_of_the_superman" data-title="The Flying Inn — Chapter 25: THE FINDING OF THE SUPERMAN" data-chapter="THE FINDING OF THE SUPERMAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_the_finding_of_the_superman" data-title="The Flying Inn — Chapter 25: THE FINDING OF THE SUPERMAN" data-chapter="THE FINDING OF THE SUPERMAN" data-kind="chapter" data-tags="motif/blood,motif/flowers,motif/garden,motif/home,motif/lion,motif/love,motif/ship,motif/soul,motif/tears,motif/water,motif/well,motif/wheel,motif/window,concept/courage,concept/faith,concept/history,concept/truth,form/history,setting/paris,setting/ship,character/quoodle"></span>
 
 
 CHAPTER XXV: THE FINDING OF THE SUPERMAN

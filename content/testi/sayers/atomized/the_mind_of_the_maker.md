@@ -2946,7 +2946,7 @@ NORWICH
 
 
 
-<span class="atom-split" data-atom="chapter_01_preface" data-title="The Mind of the Maker — Chapter 1: Preface" data-chapter="Preface" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_preface" data-title="The Mind of the Maker — Chapter 1: Preface" data-chapter="Preface" data-kind="chapter" data-tags="archetype/child,motif/time,motif/well,concept/faith,concept/hope,histref/christianity"></span>
 
 
 CHAPTER 1. Preface
@@ -3006,7 +3006,7 @@ Questa, lo ripeto, è l'affermazione cristiana. Non è una mia invenzione, e la 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_01" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 1)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_01" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 1)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/leaves,motif/memory,motif/nature,motif/poison,motif/prison,concept/body,concept/freedom,concept/nature,character/arthur"></span>
 
 
 CHAPTER 2. The "Laws" of [[Nature]] and Opinion
@@ -3035,7 +3035,7 @@ La parola "legge" si applica anche a enunciati di fatto osservato di un genere a
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_02" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 2)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_02" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 2)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt" data-tags="motif/dance,motif/nature,concept/freedom,concept/nature,concept/self,concept/temptation,concept/truth,histref/america,setting/america,setting/germany"></span>
 
 
 The vote of the M.C.C. about cricket, on the other hand, does not merely alter a set of theories about cricket; it alters the game. That is because cricket is a human invention, whose laws depend for their existence and validity upon human consent and human opinion. There would be no laws and no cricket unless the M.C.C. were in substantial agreement about what sort of thing cricket ought to be-if, for example, one party thought of it as a species of steeplechase, while another considered it to be something in the [[Nature|nature]] of a ritual [[Dance|dance]]. Its laws, being based upon a consensus of opinion, can be enforced by the same means; a player who deliberately disregards them will not be invited to play again, since opinion-which made the laws-will unite to punish the law-breaker. Arbitrary law is, therefore, possessed of valid authority provided it observes two conditions:-
@@ -3071,7 +3071,7 @@ Il *codice* morale dipende, per la sua validità, da un consenso dell'opinione u
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_03" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 3)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_03" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 3)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/love,motif/nature,motif/time,concept/history,concept/melancholy,concept/mercy,concept/nature,concept/truth,form/history,form/novel,form/parable,histref/thirty_years_war,setting/london"></span>
 
 
 Christian [[morality]] comprises both a moral code and a moral law. The Christian code is familiar to us; but we are apt to forget that it is valid or not valid according as Christian opinion is right or wrong about the moral law-that is to say, about the essential facts of human [[Nature|nature]]. Regulations about doing no murder and refraining from theft and adultery belong to the moral code and are based on certain opinions held by Christians in common about the value of human personality. Such "laws" as these are not statements of fact, but rules of behaviour. Societies which do not share Christian opinion about human values are logically quite justified in repudiating the code based upon that opinion. If, however, Christian opinion turns out to be right about the facts of human [[Nature|nature]], then the dissenting societies are exposing themselves to that judgment of catastrophe which awaits those who defy the natural law.
@@ -3111,7 +3111,7 @@ Di alcune leggi come queste la psicologia ha già cominciato a mettere a nudo il
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_04" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 4)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_laws_of_nature_and_opinion--part_04" data-title="The Mind of the Maker — Chapter 2: The &quot;Laws&quot; of Nature and Opinion (part 4)" data-chapter="The Laws of Nature and Opinion" data-kind="excerpt" data-tags="motif/nature,concept/history,concept/nature,concept/self,concept/truth,form/history,histref/christianity"></span>
 
 
 In a similar way, volumes of angry controversy have been poured out about the Christian creeds, under the impression that they represent, not statements of fact, but arbitrary edicts. The conditions of salvation, for instance, are discussed as though they were conditions for membership of some fantastic club like the Red-Headed League. They do not purport to be anything of the kind. Rightly or wrongly, they purport to be necessary conditions based on the facts of human [[Nature|nature]]. We are accustomed to find conditions attached to human undertakings, some of which are arbitrary and some not. A regulation that allowed a cook to make omelettes only on condition of first putting on a top hat might conceivably be given the force of law, and penalties might be inflicted for disobedience; but the condition would remain arbitrary and irrational. The law that omelettes can only be made on condition that there shall be a preliminary breaking of eggs is one with which we are sadly familiar. The efforts of idealists to make omelettes without observing that condition are foredoomed to failure by the [[Nature|nature]] of things. The Christian creeds are too frequently assumed to be in the top-hat category; this is an error; they belong to the category of egg-breaking. Even that most notorious of damnatory clauses which provokes sensitive ecclesiastics to defy the rubric and banish the *Quicunque Vult* from public recitation does not say that God will refuse to save unbelievers; it is at once less arbitrary and more alarming: "which except a man believe faithfully, he *cannot* be saved." It purports to be a statement of fact. The proper question to be asked about any creed is not, "Is it pleasant?" but, "is it true?" "[[Christianity]] has compelled the mind of man not because it is the most cheering view of man's existence but because it is truest to the facts." [ ](20140909_split_028.html#fn_9) It is unpleasant to be called sinners, and much nicer to think that we all have hearts of gold-but have we? It is agreeable to suppose that the more scientific knowledge we acquire the happier we shall be-but does it look like it? It is encouraging to feel that progress is making us automatically every day and in every way better and better and better-but does [[history]] support that view? "We hold these truths to be [[Self|self]]-evident: that all men were created equal" [ ](20140909_split_028.html#fn_10) -but does the external evidence support this *a priori* assertion? Or does experience rather suggest that man is "very far gone from original righteousness and is of his own [[Nature|nature]] inclined to evil"? [ ](20140909_split_028.html#fn_11)
@@ -3127,7 +3127,7 @@ Un credo proposto dall'autorità merita rispetto nella misura in cui rispettiamo
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_01" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 1)" data-chapter="The Image of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_01" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 1)" data-chapter="The Image of God" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/history,concept/nature,concept/self,concept/truth,form/history,character/aquinas,character/arthur"></span>
 
 
 CHAPTER 3. The Image of God
@@ -3172,7 +3172,7 @@ Questa, si dirà, è una metafora come le altre affermazioni su Dio. Lo è, ma n
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_02" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 2)" data-chapter="The Image of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_02" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 2)" data-chapter="The Image of God" data-kind="excerpt" data-tags="archetype/king,motif/love,motif/machine,motif/nature,motif/time,motif/well,concept/fear,concept/nature,character/christ"></span>
 
 
 We have, then, various analogies by which we seek to interpret to ourselves the [[Nature|nature]] of God as it is known to us by experience. Sometimes we speak of Him as a [[King|king]], and use metaphors drawn from that analogy. We talk, for instance, of His kingdom, laws, dominion, service and soldiers. Still more frequently, we speak of Him as a father, and think it quite legitimate to argue from the analogy of human fatherhood to the "fatherhood" of God. This particular "picture-thought" is one of which [[Christ]] was very fond, and it has stamped itself indelibly on the language of Christian worship and doctrine: "God the Father Almighty", "like as a father pitieth his own children", "your Father in Heaven careth for you", "the children of God", "the Son of God", "as many as are led by the spirit of God are sons of God", "I will arise and go to my father", "Our Father which art in Heaven". In books and sermons we express the relation between God and mankind in terms of human parenthood; we say that, just as a father is kind, careful, unselfish and forgiving in his dealings with his children, so is God in his dealings with men; that there is a true likeness of [[Nature|nature]] between God and man as between a father and his sons; and that because we are sons of one Father, we should look on all men as our brothers.
@@ -3212,7 +3212,7 @@ Questa particolare metafora è stata assai meno studiata della metafora del «Pa
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_03" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 3)" data-chapter="The Image of God" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_image_of_god--part_03" data-title="The Mind of the Maker — Chapter 3: The Image of God (part 3)" data-chapter="The Image of God" data-kind="excerpt" data-tags="archetype/artist,motif/nature,motif/river,motif/well,concept/common_man,concept/identity,concept/imagination,concept/nature,concept/procreation,concept/truth,form/translation,character/falstaff,character/hamlet"></span>
 
 
 It is the [[Artist|artist]] who, more than other men, is able to create something out of nothing. A whole artistic work is immeasurably more than the sum of its parts.
@@ -3272,7 +3272,7 @@ Le nostre menti non sono infinite; e via via che il volume del sapere del mondo 
 
 
 
-<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_01" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 1)" data-chapter="Idea Energy Power" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_01" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 1)" data-chapter="Idea Energy Power" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/love,motif/memory,motif/nature,motif/spring,motif/time,motif/well,concept/imagination,concept/nature,concept/self,concept/truth,character/michael"></span>
 
 
 CHAPTER 4. Idea, Energy, Power
@@ -3345,7 +3345,7 @@ Di queste proposizioni, quella che dà più filo da torcere all'ascoltatore è q
 
 
 
-<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_02" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 2)" data-chapter="Idea Energy Power" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_02" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 2)" data-chapter="Idea Energy Power" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/nature,motif/time,concept/common_man,concept/eternity,concept/freedom,concept/imagination,concept/nature,concept/truth"></span>
 
 
 That being so, how can we know that the Idea itself has any real existence apart from the Energy? Very strangely; by the fact that the Energy itself is conscious of referring all its acts to an existing and complete whole. In theological terms, the Son does the will of the Father. Quite simply, every choice of an episode, or a phrase, or a word is made to conform to a pattern of the entire book, which is revealed by that choice as already existing. This [[Truth|truth]], which is difficult to convey in explanation, is quite clear and obvious in experience. It manifests itself plainly enough when the writer says or thinks: "That is, or is not, the right phrase"-meaning that it is a phrase which does or does not correspond to the reality of the Idea.
@@ -3377,7 +3377,7 @@ Dovrei forse insistere un poco su questo punto. L'intera complessa relazione che
 
 
 
-<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_03" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 3)" data-chapter="Idea Energy Power" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_idea_energy_power--part_03" data-title="The Mind of the Maker — Chapter 4: Idea, Energy, Power (part 3)" data-chapter="Idea Energy Power" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/leaves,motif/nature,motif/pain,motif/time,motif/well,concept/education,concept/nature,character/agamemnon,character/hamlet"></span>
 
 
 I have used in this chapter, and shall use again, expressions which to persons brought up in "scientific" habits of thought may seem to be out-moded. Scientists are growing more and more chary of using any forms of speech at all. Words like "idea", "matter", "existence" and their derivatives have become suspect. "Old truths" have to be abandoned, general terms of every-day use which we thought to be the keys to understanding will now no longer fit the lock. Evolution, yes, but be very careful with it, for the concept is slightly rusty. Elements . . . their immutability no longer exists. Causation . . . on the whole there is little one can do with the concept; it breaks at the slightest usage. Natural laws . . . certainly, but better not talk too much of absolute validity. Objectivity . . . it is still our duty as [[Well|well]] as our ideal, but its perfect realisation is not possible, at least not for the social sciences and the humanities. [ ](20140909_split_028.html#fn_21)
@@ -3441,7 +3441,7 @@ Nelle metafore usate dai simboli di fede cristiani intorno alla mente del creato
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_01" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 1)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_01" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 1)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt" data-tags="archetype/detective,motif/love,motif/nature,motif/well,concept/common_man,concept/imagination,concept/jealousy,concept/nature,concept/paradox,concept/self,concept/suffering,concept/truth,form/riddle,histref/milton,character/caliban,character/cordelia,character/coriolanus,character/father_brown,character/hamlet,character/iago,character/milton,character/othello"></span>
 
 
 CHAPTER 5. The Energy Revealed in Creation
@@ -3514,7 +3514,7 @@ In questo senso, dunque, Shakespeare "è" Otello; ma dobbiamo ammettere che egli
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_02" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 2)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_02" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 2)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt" data-tags="archetype/prophet,motif/desire,motif/time,motif/well,concept/imagination,concept/paradox,concept/self,form/novel,character/guildenstern,character/hamlet,character/rosencrantz"></span>
 
 
 It is also true, as the reader's critical faculty recognises, that the writer has "favourite" characters, which seem to embody more of or more important parts of his personality than the rest. These are, as it were, the saints and prophets of his art, who speak by inspiration. The creative act is here one of extreme delicacy, and in studying it we gain a kind of illumination upon the variety and inconclusiveness of the world about us. For if a character becomes *merely* a mouthpiece of the author, he ceases to be a character, and is no longer a living creation. Still more, if *all* the characters speak with their author's voice, the whole work loses its reality, and with it, its power. We sometimes complain, for example, that "all Oscar Wilde's characters talk like Oscar Wilde", and in saying so we know that we are uttering a condemnation of the work and accusing it of a kind of shallowness or brittleness which damages its claim to be a real act of creative power. This is not wholly because of a certain shallowness and brittleness in the mind of Wilde-we should feel exactly the same about a work in which all the characters spoke like the [[Prophet]] Isaiah. The vital power of an imaginative work demands a diversity within its [[unity]]; and the stronger the diversity, the more massive the [[unity]]. Incidentally, this is the weakness of most "edifying" or "propaganda" literature. There is no diversity. The Energy is active only in one part of the whole, and in consequence the wholeness is destroyed and the Power diminished. You cannot, in fact, give God His due without giving the devil his due also. This strange [[Paradox|paradox]] is bound up with the problem of free will among the characters, to which we shall return later. At the moment we will merely note the fact that a creative work in which all the characters automatically reproduce a single aspect of the writer's mind is a work lacking in creative power. We may also consider the bearing of this fact on the concept of a Utopia, and on the question why, if there had to be a universe, it could not be one which automatically fulfilled the will of its Maker.
@@ -3542,7 +3542,7 @@ Il buon drammaturgo dotato di senso drammatico — colui, cioè, che comprende l
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_03" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 3)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_energy_revealed_in_creatio--part_03" data-title="The Mind of the Maker — Chapter 5: The Energy Revealed in Creation (part 3)" data-chapter="The Energy Revealed in Creatio" data-kind="excerpt" data-tags="archetype/artist,motif/machine,motif/memory,motif/nature,motif/time,motif/well,concept/nature,concept/self,character/don_quixote"></span>
 
 
 It will not, however, do to go further and say that the works themselves have no reality apart from the author's mind. Although his personality includes them all, and although there is nothing in them that is not also in him, yet, as soon as they are expressed in material form they have a separate reality *for us* . And not only a material reality-that is, we are aware of them not merely as a certain weight and outline of printed paper, but as individualities, exercising as much influence upon us as our own individualities exercise on one another. We can be aware of them without any direct awareness of the author: to put it crudely, we may, and do, know the *Iliad* without knowing Homer.
@@ -3570,7 +3570,7 @@ Consideriamo dunque l'universo temporale come una di quelle grandi opere a punta
 
 
 
-<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_01" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 1)" data-chapter="Free Will and Miracle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_01" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 1)" data-chapter="Free Will and Miracle" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/desire,motif/love,motif/nature,motif/well,concept/common_man,concept/endurance,concept/fear,concept/freedom,concept/imagination,concept/nature,concept/procreation,concept/truth,form/comedy,character/hamlet"></span>
 
 
 CHAPTER 6. Free Will and Miracle
@@ -3607,7 +3607,7 @@ Nulla di questo diletto, tuttavia, sarà conseguito se il drammaturgo non è div
 
 
 
-<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_02" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 2)" data-chapter="Free Will and Miracle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_02" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 2)" data-chapter="Free Will and Miracle" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/hero,archetype/lover,motif/home,motif/nature,concept/freedom,concept/imagination,concept/nature,concept/self,concept/truth,concept/wonder,form/comedy,form/novel"></span>
 
 
 The judgment of the natural law is not without its bearing on the writer's claim to autocratic control over the characters he invents. It is certainly true that these do not possess free will to the same extent that a [[Child|child]]'s will is free from parental control. But all possess this measure of [[Freedom|freedom]], namely, that unless the author permits them to develop in conformity with their proper [[Nature|nature]], they will cease to be true and living creatures.
@@ -3647,7 +3647,7 @@ L'autore umanista e sensibile può preferire la via di restare fedele ai suoi pe
 
 
 
-<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_03" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 3)" data-chapter="Free Will and Miracle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_03" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 3)" data-chapter="Free Will and Miracle" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/horse,motif/lamb,motif/love,motif/nature,motif/time,concept/doubt,concept/freedom,concept/nature,concept/truth,character/speed"></span>
 
 
 illustrate Mr. Forster's remarks on the relation of character to plot; inasmuch as they show very plainly that when plot precedes character and must be adhered to whatever happens, character inevitably suffers.
@@ -3699,7 +3699,7 @@ Il personaggio di Boffin si era affermato fino a un punto in cui letteralmente *
 
 
 
-<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_04" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 4)" data-chapter="Free Will and Miracle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_04" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 4)" data-chapter="Free Will and Miracle" data-kind="excerpt" data-tags="archetype/detective,motif/leaves,motif/nature,motif/night,concept/history,concept/hope,concept/nature,concept/pride,concept/revenge,concept/truth,form/history"></span>
 
 
 The process which I shall now try to explain is something for which the reader must take my word. I cannot easily point to any successful examples in literature, because it is the whole essence of such a process that, if it is successful, nothing in the finished work will betray it. I can only state, as matter of experience, that if the characters and the situation are rightly conceived together, as integral parts of the same [[unity]], then there will be no need to force them to the right solution of that situation. If each is allowed to develop in conformity with its proper [[Nature|nature]], they will arrive of their own accord at a point of [[unity]], which will be the same [[unity]] that pre-existed in the original idea. In language to which we are accustomed in other connections, neither predestination nor free will is everything, but, if the will acts freely in accordance with its true [[Nature|nature]], it achieves by grace and not by judgment the eternal will of its maker, though possibly by a process unlike, and longer than, that which might have been imposed upon it by force.
@@ -3739,7 +3739,7 @@ Qualunque cosa pensiamo delle possibilità di un diretto intervento divino negli
 
 
 
-<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_05" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 5)" data-chapter="Free Will and Miracle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_free_will_and_miracle--part_05" data-title="The Mind of the Maker — Chapter 6: Free Will and Miracle (part 5)" data-chapter="Free Will and Miracle" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/cross,motif/nature,motif/road,motif/time,motif/well,concept/conversion,concept/faith,concept/history,concept/nature,concept/poverty,concept/resurrection,form/history,setting/mountains,character/christ,character/david_copperfield,character/iago,character/wilkins_micawber"></span>
 
 
 If we by analogy call God "the Creator" we are thereby admitting that it is *possible* for Him to work miracles; but if we examine more closely the implications of our analogy, we may be driven to ask ourselves how far it is really *desirable* that He should do anything of the kind. For the example of the writers who indulge in miracle is not altogether encouraging. "Poetic justice" (the name often given to artistic miracle-mongering) may be comforting, but we regretfully recognise that it is very bad art. "Poetic justice" is indeed the wrong name to give it, since it is neither poetry nor justice; there is a true poetic justice, which we know better by the name of "tragic irony", which is of the [[Nature|nature]] of judgment and is the most tremendous power in literature as in life-but in that there is no element of miracle. What we commonly mean by "poetic justice" is a system of rewards and punishments bestowed, like their nursery exemplars "because you have been good" and "because you have been naughty"-or sometimes simply with the object of keeping the children quiet.
@@ -3775,7 +3775,7 @@ Gli agenti del miracoloso di cui il romanziere dispone sono, grosso modo, la con
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_energy_incarnate_in_self_e" data-title="The Mind of the Maker — Chapter 7: The Energy Incarnate in Self-Expression" data-chapter="The Energy Incarnate in Self E" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_the_energy_incarnate_in_self_e" data-title="The Mind of the Maker — Chapter 7: The Energy Incarnate in Self-Expression" data-chapter="The Energy Incarnate in Self E" data-kind="chapter" data-tags="topos/double,archetype/artist,motif/nature,motif/supernatural,motif/time,motif/well,concept/body,concept/courage,concept/fear,concept/history,concept/honour,concept/identity,concept/imagination,concept/nature,concept/self,concept/truth,form/history"></span>
 
 
 CHAPTER 7. The Energy Incarnate in [[Self]]-Expression
@@ -3840,7 +3840,7 @@ Per questa ragione, nessuna considerazione di falsa reverenza dovrebbe impedirci
 
 
 
-<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_01" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 1)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_01" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 1)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/nature,motif/time,concept/beauty,concept/body,concept/identity,concept/nature,concept/truth,setting/oxford,character/aquinas,character/satan"></span>
 
 
 CHAPTER 8. Maker of All Things—Maker of Ill Things
@@ -3945,7 +3945,7 @@ Ricorderemo inoltre che, per il momento, non stiamo discutendo di ciò che accad
 
 
 
-<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_02" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 2)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_02" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 2)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt" data-tags="archetype/child,motif/time,motif/well,concept/eternity,concept/freedom,character/hamlet"></span>
 
 
 It is here that we come up against a bunch of fascinating speculations about the "on kai me on"-being and not-being. It is all very [[Well|well]] for Marlowe's Faustus to exclaim impatiently, "Bid oncaymeon farewell"-the inquisitive mind finds it very difficult to bid farewell to this intriguing subject. "Being" we can make a shift to understand, but what is "not-being"? If we propose to ourselves to "think about nothing", we find we have engaged in a very difficult exercise. It does not seem to be quite the same as "not thinking about anything". "Nothing" only seems to remain nothing so long as we refrain from thinking about it; any active thought is apt to turn it into a "sort of a something"-it acquires, in fact, precisely that vague and disquieting sort of reality that we are accustomed to associate with the minus signs in algebra. Professor Eddington has put the essentials of the problem neatly before us in the riddling query: "Is the bung-hole part of the barrel?" It depends, as he says, on what you mean by "part"; it may also depend, to some extent, on what you mean by the "barrel". This is where we get tied into knots over the definition of Evil as the "deprivation of Good"; we have to explain to ourselves why this wholly negative concept takes on the appearance of a very positive and active phenomenon.
@@ -3993,7 +3993,7 @@ Ora, in un certo senso, è vero dire che il passato era Non-Amleto prima che l'*
 
 
 
-<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_03" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 3)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_03" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 3)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt" data-tags="motif/memory,motif/time,motif/well,concept/self,character/aquinas,character/hamlet"></span>
 
 
 Arguing along these lines, we may make an attempt to tackle the definition of Evil as the deprivation or the negation of the Good. If Evil belongs to the category of Not-Being, then two things follow. First: the reality of Evil is contingent upon the reality of Good; and secondly, the Good, by merely occurring, automatically and inevitably creates its corresponding Evil. In this sense, therefore, God, Creator of all things, creates Evil as [[Well|well]] as Good, because the creation of a category of Good necessarily creates a category of Not-Good. From this point of view, those who say that God is "beyond Good and Evil" are perfectly right: He transcends both, because both are included within His Being. But the Evil has no reality except in relation to His Good; and this is what is meant by saying that Evil is negation or deprivation of Good.
@@ -4029,7 +4029,7 @@ La citazione errata, l'interpretazione errata e la distorsione deliberata produc
 
 
 
-<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_04" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 4)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_maker_of_all_thingsmaker_of_il--part_04" data-title="The Mind of the Maker — Chapter 8: Maker of All Things—Maker of Ill Things (part 4)" data-chapter="Maker of All ThingsMaker of Il" data-kind="excerpt" data-tags="concept/hope,concept/self,character/hamlet"></span>
 
 
 To be sure, the new will may be full of excellent intentions. The better the intentions, the more strongly does the will associate itself with them, and the more disastrous the results. To say, carelessly, "caviare to the multitude" instead of "caviare to the general" is an error made almost without wilfulness, which does comparatively little harm to *[[Hamlet]]* . It is more harmful to *[[Hamlet]]* to quote:
@@ -4065,7 +4065,7 @@ Questo, secondo la dottrina cristiana, è il modo in cui Dio si comportò, e l'u
 
 
 
-<span class="atom-split" data-atom="chapter_09_pentecost--part_01" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 1)" data-chapter="Pentecost" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_pentecost--part_01" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 1)" data-chapter="Pentecost" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/machine,motif/memory,motif/nature,motif/time,concept/body,concept/democracy,concept/education,concept/faith,concept/freedom,concept/nature"></span>
 
 
 CHAPTER 9. Pentecost
@@ -4134,7 +4134,7 @@ Secondo: il Libro come Scritto — l'Energia o Verbo incarnato, l'immagine espre
 
 
 
-<span class="atom-split" data-atom="chapter_09_pentecost--part_02" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 2)" data-chapter="Pentecost" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_pentecost--part_02" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 2)" data-chapter="Pentecost" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/memory,motif/mirror,motif/time,concept/body,concept/eternity,concept/freedom,concept/truth,concept/wonder,setting/egypt,character/hamlet"></span>
 
 
 Thirdly: the Book as Read-the Power of its effect upon and in the responsive mind. This is a very difficult thing to examine and analyse, because our own perception of the thing is precisely what we are trying to perceive. We can, as it were, note various detached aspects of it: what we cannot pin down and look at is the movement of our own mind. In the same way, we cannot follow the movement of our own eyes in a [[Mirror|mirror]]. We can, by turning our head, observe them in this position and in that position with respect to our [[Body|body]], but never in the act of moving themselves from one position to the other, and never in the act of gazing at anything but the [[Mirror|mirror]]. Thus our idea of ourself is bound to be falsified, since what to others appears the most lively and mobile part of ourself, appears to us unnaturally fixed. The eye is the instrument by which we see everything, and for that reason it is the one thing we cannot see with [[Truth|truth]]. The same thing is true of our Power of response to a book, or to anything else; incidentally, this is why books about the Holy [[Ghost]] are apt to be curiously difficult and unsatisfactory-we cannot really look at the movement of the Spirit, just because It is the Power by which we do the looking.
@@ -4162,7 +4162,7 @@ Quando vediamo l'*Amleto* (o qualunque altro dramma che già «conosciamo») par
 
 
 
-<span class="atom-split" data-atom="chapter_09_pentecost--part_03" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 3)" data-chapter="Pentecost" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_pentecost--part_03" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 3)" data-chapter="Pentecost" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/cross,motif/crown,motif/garden,motif/love,motif/stars,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/hope,histref/milton,character/arthur,character/christ,character/milton"></span>
 
 
 When the morning [[Stars|stars]] sang together, and all the sons of God shouted for joy.- *Book of Job.*
@@ -4390,7 +4390,7 @@ Questa triplicità nella mente del lettore corrisponde alla triplicità dell'ope
 
 
 
-<span class="atom-split" data-atom="chapter_09_pentecost--part_04" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 4)" data-chapter="Pentecost" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_pentecost--part_04" data-title="The Mind of the Maker — Chapter 9: Pentecost (part 4)" data-chapter="Pentecost" data-kind="excerpt" data-tags="archetype/ghost,motif/ghosts,motif/time,concept/history,concept/identity,form/history,character/christ"></span>
 
 
 This is what the doctrine *means* ; whether it is true or mistaken is another matter, but this is the Idea that is put forward for our response. There is nothing mythological about Christian Trinitarian doctrine: it is analogical. It offers itself freely for meditation and discussion; but it is desirable that we should avoid the bewildered frame of mind of the apocryphal Japanese gentleman who complained:
@@ -4422,7 +4422,7 @@ Di questi due simboli pittorici, il primo opera per impedire allo spettatore di 
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_01" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 1)" data-chapter="The Love of the Creature" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_01" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 1)" data-chapter="The Love of the Creature" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/fire,motif/horse,motif/love,motif/nature,motif/pain,motif/sleep,motif/time,motif/well,concept/history,concept/nature,form/comedy,form/fragment,form/history,form/melodrama,form/tragedy,histref/christianity,character/lady_macbeth"></span>
 
 
 CHAPTER 10. The [[Love]] of the Creature
@@ -4483,7 +4483,7 @@ Due interpretazioni popolari della parola possiamo scartarle subito: l'amore del
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_02" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 2)" data-chapter="The Love of the Creature" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_02" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 2)" data-chapter="The Love of the Creature" data-kind="excerpt" data-tags="motif/desire,motif/dust,motif/leaves,motif/love,motif/nature,motif/soul,motif/time,concept/identity,concept/jealousy,concept/nature,concept/pride,concept/self,concept/self_sacrifice,concept/truth,form/tragedy,character/estella"></span>
 
 
 "I have ordered old brandy; I know you adore old brandy."
@@ -4591,7 +4591,7 @@ Quando la storia è per sua natura una tragedia, allora è verissimo che «ogni 
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_03" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 3)" data-chapter="The Love of the Creature" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_03" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 3)" data-chapter="The Love of the Creature" data-kind="excerpt" data-tags="archetype/artist,motif/cross,motif/desire,motif/lamb,motif/love,motif/moon,motif/nature,motif/night,motif/stars,motif/tears,motif/water,concept/nature,concept/procreation,concept/reconciliation,concept/resignation,concept/self,concept/self_sacrifice,setting/mountains,character/christ"></span>
 
 
 It is because, behind the restrictions of the moral code, we instinctively recognise the greater validity of the law of [[Nature|nature]], that we do always in our heart of hearts prefer the children of grace to the children of legality. We recognise a false ring in the demanding voice which proclaims: "I have sacrificed the best years of my life to my profession (my family, my country, or whatever it may be), and have a right to expect some return." The code compels us to admit the claim, but there is something in the expression of it that repels us. Conversely, however, the children of legality are shocked by the resolute refusal of the children of light to insist on this kind of claim and-still more disconcertingly-by their angry assertion of [[Love|love]]'s right to [[Self-Sacrifice|self-sacrifice]]. Those, for example, who obligingly inform creative artists of methods by which (with a little corrupting of their creative purpose) they could make more money, are often very excusably shocked by the fury with which they are sent about their business. Indeed, creative [[Love|love]] has its darker aspects, and will sacrifice, not only itself, but others to its over-mastering ends. Somerset Maugham, in *The [[Moon]] and Sixpence* , has given convincing expression to these dark fires of the [[Artist|artist]]'s devouring passion; and the meaning of the story is lost unless we recognise that Strickland's terrible sacrifices, suffered and exacted, are the assertion of a [[Love|love]] so tremendous that it has passed beyond even the [[Desire|desire]] of happiness. A passion of this temper does not resign itself to sacrifice, but embraces it, and sweeps the world up in the same embrace. It is not without reason that we feel a certain uneasy suspicion of that inert phrase, "Christian [[Resignation|resignation]]"; an inner voice reminds us that the Christian God is [[Love]], and that [[Love|love]] and [[Resignation|resignation]] can find no common ground to stand on. So much the human creator can tell us, if we like to listen to him. Our confusion on the subject is caused by a dissipation and eclecticism in our associations with the word "[[Love|love]]". We connect it too exclusively with the sexual and material passions, whose anti-passion is possessiveness, and with indulgent affection, whose anti-passion is sentimentality. Concentrated, and freed from its anti-passions, [[Love|love]] is the Energy of creation:
@@ -4683,7 +4683,7 @@ Che nessun artefice umano possa creare un essere autocosciente, l'abbiamo già v
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_04" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 4)" data-chapter="The Love of the Creature" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_04" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 4)" data-chapter="The Love of the Creature" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/outsider,motif/animals,motif/desire,motif/love,motif/nature,motif/ship,motif/spring,motif/time,motif/well,concept/beauty,concept/eternity,concept/freedom,concept/honour,concept/identity,concept/nature,concept/paradox,concept/self,concept/truth,setting/ship"></span>
 
 
 In the creature also, he recognises a division and a [[Paradox|paradox]]. He is aware at once of its insistent urge to become manifest, and also, at the same [[Time|time]], a resistance to creation and a tendency to fall back into the randomness of negation. It is this resistance that Berdyaev calls the "dark meonic [[Freedom|freedom]]"-the impulse to chaos. It is bound up with the natural law of matter, which is a law of increasing randomness as [[Time|time]] goes on. From this point of view, there is some justification for connecting the evil and negative principle with the material part of the universe. But if matter and randomness are inextricably connected, so also are matter and life; we do not know life within the universe, except in association with matter, and the natural tendency of *living* matter is away from randomness and towards complexity and order. Sir James Jeans has pessimistically expressed the situation:
@@ -4715,7 +4715,7 @@ L'artefice umano, che lavora in una materia priva di autocoscienza, non riceve a
 
 
 
-<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_05" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 5)" data-chapter="The Love of the Creature" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10_the_love_of_the_creature--part_05" data-title="The Mind of the Maker — Chapter 10: The Love of the Creature (part 5)" data-chapter="The Love of the Creature" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/hero,motif/dreams,motif/love,motif/moon,motif/nature,motif/well,concept/despair,concept/history,concept/imagination,concept/nature,concept/truth,form/history"></span>
 
 
 **NOTE "A"- Independence of the Creature.**
@@ -4747,7 +4747,7 @@ Su questo punto non sto discutendo con le autorità: sto informandole, perché �
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_01" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 1)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_01" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 1)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/childhood,motif/death,motif/dust,motif/ghosts,motif/nature,motif/river,motif/time,motif/well,concept/beauty,concept/nature,concept/truth,form/literary_criticism,character/hamlet"></span>
 
 
 CHAPTER 11. Scalene Trinities
@@ -4792,7 +4792,7 @@ Anna Livia Plurabelle è a un tempo il genere femminile e il fiume Liffey (*amni
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_02" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 2)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_02" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 2)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/cross,motif/death,motif/lightning,motif/memory,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,concept/nature,concept/self,character/bottom"></span>
 
 
 How clever, we admit; how ingenious and entertaining! Educative, too, like the more instructional kind of [[Cross|cross]]-word, if one were to go conscientiously through the "hundreds of rivers" with a gazetteer and an atlas; it would make a good "spotting" competition for the school-room. But what will become of the mood which the evocation of Lethe should engender?
@@ -4824,7 +4824,7 @@ La conclusione di Coquelin è «che per suscitare l'emozione non dobbiamo noi st
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_03" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 3)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_03" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 3)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/death,motif/home,motif/leaves,motif/nature,motif/rose,motif/time,concept/beauty,concept/history,concept/nature,concept/pride,concept/truth,form/history,form/novel,form/tragedy"></span>
 
 
 A [[Rose|rose]]-red [[City|city]] half as old as [[Time|time]] [ ](20140909_split_028.html#fn_54) -
@@ -4860,7 +4860,7 @@ Questa è l'immagine di un'Energia brillante, accompagnata da una Potenza impone
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_04" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 4)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_04" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 4)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/desire,motif/prison,motif/time,motif/well,concept/common_man,concept/despair,concept/self,histref/milton,character/christ,character/milton"></span>
 
 
 It is noticeable, by the way, that Beddoes was always eager for criticism and expressed himself surprisingly ready to alter his work to conform with other people's opinion. "Am I right in supposing that you would denounce, and order to be re-written, all the prose scenes and passages?-almost all the 1st and 2nd, great part of the 3rd act, much of the two principal scenes of the 4th, and the 5th to be strengthened and its opportunities better worked on? But you see this is no trifle, though I believe it ought to be done." [ ](20140909_split_028.html#fn_56) "You will probably by this [[Time|time]] have heard from Proctor and Bourne the decision of the higher powers . . . the play is to be revised and improved. . . . I have requested Proctor . . . to specify his objections, and as soon as he has done that, I shall do the same by you-What you have brought forward is, I believe, quite right and shall be adopted. . . . Proctor has denounced the carrion crows: [ ](20140909_split_028.html#fn_57) -I can spare them: but he has also as 'absolutely objectionable' anathematised Squats on a Toadstool, [ ](20140909_split_028.html#fn_57) with its crocodile-which I regard as almost necessary to the vitality of the piece. What say you? If a majority decide against it, I am probably wrong." [ ](20140909_split_028.html#fn_58) And so forth. It is true that the majority of these drastic reconstructions were never carried out; but what writer whose trinity was strongly co-ordinated would even dream of revising his work to conform with the majority report of a committee? Those whose Idea is in full control are especially obstinate and impervious to criticism; for in speaking for the father they speak with authority and not as the scribblers. One has only to compare the indifference and indecision of Beddoes with the independence of Blake, engraving his own verses in a stubborn isolation and damning the [[Well|well]]-meant suggestions of his friends, to realize the gulf that yawns between the unfathered and the father-centred [[Artist|artist]].
@@ -4888,7 +4888,7 @@ Talvolta è possibile, quando un'Energia è stata imprigionata ed è eruttata vi
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_05" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 5)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_05" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 5)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/blood,motif/city,motif/love,motif/time,motif/well,concept/imagination"></span>
 
 
 Distinct from this total and perilous frustration, and (mercifully) much more common, is partial and, as it were, localised weakness in the sonhood, which assumes innumerable forms, and from which no writer is absolutely free. *Every* failure in form and expression is a failure in the son, from clichés and bad grammar to an ill-constructed plot. It would be idle to try and enumerate them all, but we may look at a few typical weaknesses. The most striking and the most important for our purpose is perhaps the very common weakness which sets the [[Artist|artist]] at odds with his material. This is a trouble seated at the very heart of the sonhood, because the son is *the* agent for the interpretation of the Idea in terms of [[Time|time]]-space-matter. The department of the writer's job where this weakness shows most conspicuously is, naturally enough, the theatre, where the material factors that have to be handled are especially numerous, varied, and stubborn. So we will borrow a few illustrations from the drama.
@@ -4932,7 +4932,7 @@ Il figlio opera simultaneamente in cielo e in terra; questo bisogna riaffermarlo
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_06" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 6)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_06" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 6)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/ghost,motif/leaves,motif/love,motif/supernatural,motif/time,concept/body,concept/doubt,concept/sublime,form/tragedy"></span>
 
 
 I do not say that the playwright need be personally acquainted with every mechanical trick in the stage-manager's trade (though it will do him no harm if he is); but unless he knows what can and what can not be done in the theatre, the effect engineered for him by the producer will probably be very unlike the effect he hoped to see. Whereas, generally speaking, the more closely he thinks in terms of flesh and canvas and the Strand Electric catalogue, the more readily will the audience apprehend his vision in terms of the light invisible. The glory of the sonhood is manifest in the perfection of the flesh; and in insisting on the perfect Manhood, theologians are labouring no academic thesis, but one which is abundantly supported by theatrical experience.
@@ -4992,7 +4992,7 @@ Noteremo che qui c'è anche una debolezza nello spirito, poiché il drammaturgo,
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_07" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 7)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_07" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 7)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/ghost,motif/dust,motif/garden,motif/love,motif/machine,motif/nature,motif/silence,motif/soul,motif/stars,motif/tears,motif/time,motif/well,concept/ambition,concept/body,concept/exile,concept/nature,concept/truth"></span>
 
 
 A bodiless Gnosticism is the besetting heresy of the "literary" dramatist and assumes many forms: such as, for example, the "literary" dialogue, which reads elegantly, but which no living actor can get his tongue round, and the "literary" stage-direction, which requires the actor to impart, by face and gesture, complicated states of mind or detailed bulletins of information which it would strain the combined resources of a Henry James and a Gibbon to compress into a paragraph. What the actor is required to practise is, in fact, a species of telepathy. The dramatic Gnostic has been ruthlessly pilloried for all [[Time|time]] in Mr. Puff:
@@ -5074,7 +5074,7 @@ Questa, come tutto ciò che riguarda lo spirito, è (per le ragioni già dette) 
 
 
 
-<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_08" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 8)" data-chapter="Scalene Trinities" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11_scalene_trinities--part_08" data-title="The Mind of the Maker — Chapter 11: Scalene Trinities (part 8)" data-chapter="Scalene Trinities" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/desire,motif/dust,motif/flowers,motif/grave,concept/doubt,concept/self"></span>
 
 
 The unghosted writer is thus not only uninspired, but also uncritical. The notion that [[Self|self]]-criticism is necessarily a clog upon inspiration is quite erroneous, and is honoured only in the mind of the fifth-rate poetaster. Creative criticism is the Spirit's continual response to its own creation; the purely destructive and inhibiting kind of criticism being, like all destructive forces, merely the diabolic antitype of its divine archetype.
@@ -5134,7 +5134,7 @@ Tutto questo, in verità, riconduce a ciò che è l'essenza stessa della *person
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_01" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 1)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_01" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 1)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/nature,motif/time,motif/well,concept/common_man,concept/hope,concept/innocence_and_experience,concept/nature,histref/bible,histref/christianity,character/christ"></span>
 
 
 CHAPTER 12. Problem Picture
@@ -5179,7 +5179,7 @@ D'altra parte, possiamo concludere che la dottrina derivi da un'esperienza puram
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_02" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 2)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_02" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 2)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/cross,motif/love,motif/machine,motif/nature,motif/time,motif/well,concept/common_man,concept/nature,concept/procreation,concept/revenge,form/novel"></span>
 
 
 Now, when Isaac Newton observed a certain relationship and likeness between the behaviour of the falling apple and that of the circling planets, it might be said with equal plausibility either that he argued by analogy from the apple to a theory of astronomy, or that while evolving a theory of astronomical mathematics he suddenly perceived its application to the apple. But it would scarcely be exact to say that, in the former case, he absurdly supposed the planets to be but apples of a larger growth, with pips in them; or that, in the latter case, he had spun out a purely abstract piece of isolated cerebration which, oddly enough, turned out to be true about apples, though the movements of the planets themselves had no existence outside Newton's mathematics. Newton, being a rational man, concluded that the two kinds of behaviour resembled one another-not because the planets had copied the apples, or the apples copied the planets, but-because both were examples of the working of one and the same principle. If you took a [[Cross|cross]]-section of the physical universe at the point marked "Solar System" and again at the point marked "Apple", the same pattern was exhibited; and the natural and proper conclusion was that this pattern was part of a universal structure, which ran through the world of visible phenomena as the grain runs through wood. Similarly, we may take a [[Cross|cross]]-section of the spiritual universe [ ](20140909_split_028.html#fn_73) at the point marked "Christian Theology" and at the point marked "Art", and find at both precisely the same pattern of the creative mind; it is open to us to draw a similar conclusion.
@@ -5215,7 +5215,7 @@ Ancora: non esiste alcun senso strettamente matematico o poliziesco in cui si po
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_03" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 3)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_03" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 3)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/death,motif/desire,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/common_man,concept/nature,concept/poverty,concept/revenge,concept/suicide,form/detective_fiction,form/novel"></span>
 
 
 Yet the [[Common Man|common man]], obsessed by the practice of a mathematical and scientific period, is nevertheless obscurely aware that that enigmatic figure, the creative [[Artist|artist]], possesses some power of interpretation which he has not, some access to the hidden things behind that baffling curtain of phenomena which he cannot penetrate. Sometimes he merely resents this, as men do often resent an inexplicable and incommunicable superiority. Sometimes he dismisses it: "He is a dreamer; let us leave him. Pass." But at other times-especially when the disharmonies of contemporary existence force themselves on his attention with an urgency that cannot be ignored, he will lay hold of the [[Artist|artist]] and demand to be let into his secret. "Here, you!" he will cry, "you have some trick, some pass-word, some [[Magic|magic]] formula that unlocks the puzzle of the universe. Apply it for us. Give us the solution to the problems of civilisation."
@@ -5255,7 +5255,7 @@ La qualità arricchente (e insieme catastrofica) dell'Integrità è dunque l'Ide
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_04" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 4)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_04" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 4)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/death,motif/nature,motif/time,motif/well,concept/common_man,concept/nature,concept/truth,form/detective_fiction,setting/cathedral,character/guildenstern,character/hamlet,character/rosencrantz"></span>
 
 
 "Why do you allow the academic woman to have any doubts that she pursued the right course with Annie's husband? She seems to think she may have been wrong. Doesn't that conflict with your whole thesis?"
@@ -5299,7 +5299,7 @@ Vi sono quattro caratteristiche del problema matematico o poliziesco che sono as
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_05" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 5)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_05" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 5)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/nature,motif/poison,motif/time,motif/well,concept/body,concept/eternity,concept/fear,concept/hope,concept/nature,concept/paradox"></span>
 
 
 1. *The [[Detective|detective]] problem is always soluble.* It is, in fact, constructed for the express purpose of being solved, and when the solution is found, the problem no longer exists. A [[Detective|detective]] or mathematical problem that could not be solved by *any* means at all, would simply not be what we understand by a "problem" in this sense. But it is unwise to suppose that all human experiences present problems of this kind. There is one vast human experience that confronts us so formidably that we cannot pretend to overlook it. There is no solution to [[Death|death]]. There is no means whatever whereby you or I, by taking thought, can solve this difficulty in such a manner that it no longer exists. From very early days, alchemists have sought for the elixir of life, so reluctant is man to concede that there can be any problem incapable of solution. And of late, we note a growing resentment and exasperation in the face of [[Death|death]]. We do not so much [[Fear|fear]] the pains of dying, as feel affronted by the notion that anything in this world should be inevitable. Our efforts are not directed, like those of the saint or the poet, to making something creative out of the idea of [[Death|death]], but rather to seeing whether we cannot somehow evade, abolish, and, in fact, "solve the problem of" [[Death|death]]. The spiritual and mental energy which we expend upon resenting the inevitability of [[Death|death]] is as much wasted as that which we from [[Time|time]] to [[Time|time]] have expended on attempts to "solve the problem" of perpetual motion.
@@ -5351,7 +5351,7 @@ Allo stesso modo, esisteva un tempo la credenza saldamente radicata che per ogni
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_06" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 6)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_06" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 6)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/detective,motif/cross,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/imagination,concept/nature"></span>
 
 
 We have, perhaps, abandoned the superstitious belief in antidotes; but we continue to hug the delusion that all ill-health is caused by some single, definite disease, for which there ought to be a single, definite and complete cure without unfortunate after-effects. We think of our illness as a kind of [[Cross|cross]]-word *of which the answer is known to somebody* : the complete solution must be *there* , somewhere; it is the doctor's business to discover and apply it.
@@ -5399,7 +5399,7 @@ Ma la vita non è candidata al Detection Club. Essa fa spudoratamente uso di tut
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_07" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 7)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_07" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 7)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,motif/cross,motif/desire,motif/leaves,motif/pain,motif/time,motif/well,concept/history,concept/resurrection,form/history"></span>
 
 
 Take, for example, the problem of Unemployment. Have we perhaps so far failed to solve it because of the terms in which we have chosen to set it? In the terms in which it is set, it is an economic problem, concerned with such matters as the proper balance between Labour and Capital, Hours and Wages, Property and Financial Returns. When tackled along these lines, it disconcerts us by producing as off-shoots all manner of confusing and contradictory questions; such as: Should wages be adjusted to the [[Time|time]] worked, or to the amount and quality of the work done, or to the needs of the worker? At this point, we begin to notice irrelevancies and discrepancies, as though our [[Detective|detective]]-story had stepped outside its allotted terms of reference. We notice also that the "Problem of Unemployment" limits us to the consideration of Employment only; it does not allow us even to consider the Work itself-whether it is worth doing or not, or whether the workman is to find satisfaction in doing the work, or only in the fact of being employed and receiving his pay-envelope. We may then ask ourselves: Should a man work in order to get enough money to enable him to cease from working, or should he [[Desire|desire]] only such payment as will enable him to live in order to carry on his work? If the former is true, then blessed are the rich, for they are the flower of a leisured civilisation; but, if the latter is true, then blessed is the worker who gets no more than a living wage. When we have got so far, we may begin to suspect that the "problem of Unemployment" is not soluble in the terms in which it is set; and that what we ought to be asking is a totally different set of questions about Work and Money. Why, for example, does the actor so eagerly live to work, while the factory-worker, though often far better paid, reluctantly works to live? How much money would men need, beyond the subsistence that enables them to continue working, if the world (that is, you and I) admired work more than wealth? Does the fact that he is employed fully compensate a man for the fact that his work is trivial, unnecessary, or positively harmful to society: the manufacture of imbecile and ugly ornaments, for instance, or the deliberate throat-cutting between rival manufacturers of the same commodity? Ought we, in fact, to consider whether work is worth doing, before we encourage it for the sake of employment? In deciding whether men should be employed at a high wage in the production of debased and debasing cinema films or at a lower wage in the building of roads and houses, ought we to think *at all* about the comparative worth and necessity of bad films and good houses? Has the fact that enthusiastic crowds cheer and scream around professional footballers, while offering no enthusiastic greetings to navvies, anything to do with the wages offered to footballers and navvies respectively?
@@ -5431,7 +5431,7 @@ Ora, l'artista non si comporta così. Egli può finire un libro, come noi possia
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_08" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 8)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_08" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 8)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/king,motif/blood,motif/death,motif/desire,motif/dreams,motif/leaves,motif/mirror,motif/night,motif/rose,motif/time,motif/water,motif/wheel,concept/body,concept/greatness,concept/hope,form/detective_fiction,form/hymn"></span>
 
 
 This the [[Artist|artist]] knows, though the knowledge may not always stand in the forefront of his consciousness. At the day's end or the year's end he may tell himself: the work is done. But he knows in his heart that it is not, and that the passion of making will seize him again the following day and drive him to construct a fresh world. And though he may imagine for the moment that this fresh world is wholly unconnected with the world he has just finished, yet, if he looks back along the sequence of his creatures, he will find that each was in some way the outcome and fulfilment of the rest-that all his worlds belong to the one universe that is the image of his own Idea. I know it is no accident that *Gaudy [[Night]]* , coming towards the end of a long development in [[Detective Fiction|detective fiction]], should be a manifestation of precisely the same theme as the play *The Zeal of Thy [[house|House]]* , which followed it and was the first of a series of creatures embodying a Christian theology. They are variations upon a [[Hymn|hymn]] to the Master Maker; and now, after nearly twenty years, I can hear in *Whose [[Body]]?* the notes of that tune sounding unmistakably under the tripping melody of a very different descant; and further back still, I hear it again, in a youthful set of stanzas in *Catholic Tales* :
@@ -5523,7 +5523,7 @@ Il pericolo di parlare della vita esclusivamente in termini di problema e soluzi
 
 
 
-<span class="atom-split" data-atom="chapter_12_problem_picture--part_09" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 9)" data-chapter="Problem Picture" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12_problem_picture--part_09" data-title="The Mind of the Maker — Chapter 12: Problem Picture (part 9)" data-chapter="Problem Picture" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/desire,motif/fire,motif/grave,motif/leaves,motif/nature,motif/night,motif/well,motif/wheel,concept/common_man,concept/nature"></span>
 
 
 It was said by Kronecker the mathematician: "God made the integers; all else is the work of man." Man can table the integers and arrange them into problems which he can solve in the terms in which they are set. But before the inscrutable mystery of the integers themselves he is helpless, unless he calls upon that Tri-[[unity|Unity]] in himself which is made in the image of God, and can include and create the integers.
@@ -5619,7 +5619,7 @@ Ma essi sosterranno lo stato del mondo, e ogni loro desiderio è nell'opera del 
 
 
 
-<span class="atom-split" data-atom="chapter_13_postscript_the_worth_of_the_wo--part_01" data-title="The Mind of the Maker — Chapter 13: Postscript: The Worth of the Work (part 1)" data-chapter="Postscript The Worth of the Wo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_postscript_the_worth_of_the_wo--part_01" data-title="The Mind of the Maker — Chapter 13: Postscript: The Worth of the Work (part 1)" data-chapter="Postscript The Worth of the Wo" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/love,motif/machine,motif/nature,motif/soul,motif/time,concept/common_man,concept/deception,concept/doubt,concept/fear,concept/hope,concept/imagination,concept/nature,concept/self_sufficiency"></span>
 
 
 CHAPTER 13. Postscript: The Worth of the Work
@@ -5647,7 +5647,7 @@ Che l'atteggiamento dell'artista verso il lavoro sia del tutto estraneo a quello
 
 
 
-<span class="atom-split" data-atom="chapter_13_postscript_the_worth_of_the_wo--part_02" data-title="The Mind of the Maker — Chapter 13: Postscript: The Worth of the Work (part 2)" data-chapter="Postscript The Worth of the Wo" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13_postscript_the_worth_of_the_wo--part_02" data-title="The Mind of the Maker — Chapter 13: Postscript: The Worth of the Work (part 2)" data-chapter="Postscript The Worth of the Wo" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/love,motif/machine,motif/prison,motif/soul,motif/time,motif/well,motif/wind,concept/eternity,concept/freedom,concept/hope,concept/poverty,concept/suffering,concept/union,setting/cathedral"></span>
 
 
 So too, the [[Artist|artist]] has two meanings for the concept of property. When he says, "This is my top-hat, my bathroom, my motor-car," he means merely that he possesses these things; but when he says, "this is my work", he means that, no matter who now possesses it, he made it. The Communist makes it a great point that the worker should own the tools of his trade; but few people in a [[Machine|machine]] age think much whether it matters that a man should feel the accomplished work to be his own. Yet this is what underlies the delight of a man in his work. True, it is not for every man-not even for every [[Artist|artist]]-to say of a work: "This is all mine, from the first conception in the brain to the last detail made with hands." The novelist may say it if he disregards the work of printer and binder; the maker of a gem-ring may say it if he disregards the work of the miner; but the playwright may not say it, nor the actor, still less the stonemason who carves the capitals for a great [[Cathedral|cathedral]]; yet all of them in some degree may say it if they look to the end of the work. "The ring is mine, though I may not wear it", "the [[Cathedral]] is ours, though we no more possess it than the humblest of all who worship in it". But what of the factory hand, endlessly pushing a pin into a slot? How far does he feel of the far-off end-product of his task, "This thing is mine?" And if he does, how often does the contemplation of it afford food for the [[Soul|soul]]?
@@ -5687,7 +5687,7 @@ Che gli occhi di tutti i lavoratori contemplino l'integrità dell'opera è il so
 
 
 
-<span class="atom-split" data-atom="chapter_14_appendix--part_01" data-title="The Mind of the Maker — Chapter 14: Appendix (part 1)" data-chapter="Appendix" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_appendix--part_01" data-title="The Mind of the Maker — Chapter 14: Appendix (part 1)" data-chapter="Appendix" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/ghosts,motif/nature,motif/soul,concept/doubt,concept/faith,concept/nature,concept/self,histref/christianity,character/christ,character/jones"></span>
 
 
 CHAPTER 14. Appendix
@@ -5839,7 +5839,7 @@ che ebbe una tresca con un moretto;
 
 
 
-<span class="atom-split" data-atom="chapter_14_appendix--part_02" data-title="The Mind of the Maker — Chapter 14: Appendix (part 2)" data-chapter="Appendix" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_appendix--part_02" data-title="The Mind of the Maker — Chapter 14: Appendix (part 2)" data-chapter="Appendix" data-kind="excerpt" data-tags="archetype/shadow,motif/memory,motif/time,motif/well,concept/body,concept/common_man,concept/freedom,concept/history,concept/imagination,form/essay,form/history,histref/christianity,character/father_brown"></span>
 
 
 The result of her sins
@@ -5999,7 +5999,7 @@ Si veda [pagina 29](20140909_split_009.html#Page_29). In realtà il concetto è 
 
 
 
-<span class="atom-split" data-atom="chapter_14_appendix--part_03" data-title="The Mind of the Maker — Chapter 14: Appendix (part 3)" data-chapter="Appendix" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_appendix--part_03" data-title="The Mind of the Maker — Chapter 14: Appendix (part 3)" data-chapter="Appendix" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/cross,motif/death,motif/love,motif/memory,motif/time,motif/well,form/allegory,histref/milton,character/aquinas,character/milton"></span>
 
 
 [ ](20140909_split_021.html#fr_39) I think it was Mrs. Pritchard, Johnson's "inspired idiot".
@@ -6171,7 +6171,7 @@ Un poeta minore del Settecento, credo, sul tema dell'Arca che attraversa il Gior
 
 
 
-<span class="atom-split" data-atom="chapter_14_appendix--part_04" data-title="The Mind of the Maker — Chapter 14: Appendix (part 4)" data-chapter="Appendix" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14_appendix--part_04" data-title="The Mind of the Maker — Chapter 14: Appendix (part 4)" data-chapter="Appendix" data-kind="excerpt" data-tags="motif/cave,motif/home,motif/pain,form/tragedy,character/christ,character/sunday"></span>
 
 
 [ ](20140909_split_023.html#fr_71) Jane [[Cave]]: *[[Poems]] on Various Subjects, Entertaining, Elegiac, and Religious* , 1783. J. C. Squire is the benefactor who has rescued this treasure from oblivion, *Life and Letters* , Art. "Jane [[Cave]]".

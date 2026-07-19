@@ -457,7 +457,7 @@ O to haste firm holding--to haste, haste on with me.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Starting from Paumanok — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Starting from Paumanok — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/lover,motif/city,motif/dawn,motif/flowers,motif/home,motif/snow,motif/spring,motif/stars,motif/well"></span>
 
 
 1  
@@ -486,7 +486,7 @@ Solitary, singing in the West, I strike up for a New World.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Starting from Paumanok — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Starting from Paumanok — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/time,concept/faith,concept/identity,concept/union"></span>
 
 
 2  
@@ -522,7 +522,7 @@ With eyes retrospective towards me.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Starting from Paumanok — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Starting from Paumanok — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/fire"></span>
 
 
 3  
@@ -539,7 +539,7 @@ Shooting in pulses of [[Fire|fire]] ceaseless to vivify all.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Starting from Paumanok — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Starting from Paumanok — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/leaves,motif/spring,histref/america,setting/america"></span>
 
 
 4  
@@ -559,7 +559,7 @@ Why these are the children of the antique to justify it.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Starting from Paumanok — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Starting from Paumanok — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/ship,motif/soul,setting/ship"></span>
 
 
 5  
@@ -586,7 +586,7 @@ Yes here comes my mistress the [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Starting from Paumanok — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Starting from Paumanok — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/city,motif/love,motif/night,motif/soul,motif/water,concept/body,concept/heroism,concept/immortality,concept/mortality"></span>
 
 
 6  
@@ -633,7 +633,7 @@ And who but I should be the poet of comrades?
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Starting from Paumanok — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Starting from Paumanok — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/stars,concept/faith"></span>
 
 
 7  
@@ -671,7 +671,7 @@ Nor land nor man or woman without religion.)
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Starting from Paumanok — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Starting from Paumanok — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/well,concept/ambition"></span>
 
 
 8  
@@ -689,7 +689,7 @@ Any more than such are to religion.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Starting from Paumanok — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Starting from Paumanok — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/love,histref/america,setting/america"></span>
 
 
 9  
@@ -707,7 +707,7 @@ provides for all.
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="Starting from Paumanok — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="Starting from Paumanok — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/childhood,motif/love,motif/noon,concept/democracy,concept/greatness"></span>
 
 
 10  
@@ -741,7 +741,7 @@ cheerfully pass them forward.
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Starting from Paumanok — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Starting from Paumanok — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/birds,motif/the_mockingbird,motif/music_and_song,motif/nature,concept/procreation,form/free_verse,setting/american_south"></span>
 
 
 11  
@@ -762,7 +762,7 @@ A charge transmitted and gift occult for those being born.
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="Starting from Paumanok — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="Starting from Paumanok — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/death,motif/soul,motif/time,concept/body,concept/democracy"></span>
 
 
 12  
@@ -809,7 +809,7 @@ is no one nor any particle of one but has reference to the [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="Starting from Paumanok — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="Starting from Paumanok — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/death,motif/soul,concept/body"></span>
 
 
 13  
@@ -840,7 +840,7 @@ of it!
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Starting from Paumanok — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Starting from Paumanok — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="topos/double,motif/death,motif/garden,motif/leaves,motif/love,motif/river,motif/snow,motif/summer,motif/well,motif/winter,concept/democracy,histref/new_england"></span>
 
 
 14  
@@ -903,7 +903,7 @@ Enjoining you to acts, characters, spectacles, with me.
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="Starting from Paumanok — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="Starting from Paumanok — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/nature,concept/nature"></span>
 
 
 15  
@@ -921,7 +921,7 @@ For such I afford whoever can persevere to win them.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Starting from Paumanok — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Starting from Paumanok — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="motif/animals,motif/birds,motif/water,concept/sublime,histref/america,setting/america"></span>
 
 
 16  
@@ -943,7 +943,7 @@ Leaving such to the States they melt, they depart, charging the
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Starting from Paumanok — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Starting from Paumanok — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/sleep"></span>
 
 
 17  
@@ -960,7 +960,7 @@ fathomless, stirring, preparing unprecedented waves and storms.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Starting from Paumanok — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Starting from Paumanok — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="motif/animals,motif/night,motif/well"></span>
 
 
 18  
@@ -992,7 +992,7 @@ Hear the loud echoes of my [[songs]] there--read the hints come at last.
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Starting from Paumanok — Chapter 19" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Starting from Paumanok — Chapter 19" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/lover"></span>
 
 
 19  

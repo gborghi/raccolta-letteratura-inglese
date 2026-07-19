@@ -16731,7 +16731,7 @@ Finis
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Persuasion — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Persuasion — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/marriage,motif/well,concept/beauty,concept/history,concept/vanity,form/history,character/anne_elliot,character/gloucester,character/lady_russell,character/sir_walter_elliot"></span>
 
 
 CHAPTER I.
@@ -16947,7 +16947,7 @@ A few years before, [[Anne Elliot]] had been a very pretty girl, but her
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Persuasion — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Persuasion — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/death,motif/home,motif/marriage,motif/spring,motif/summer,motif/time,concept/history,concept/honour,concept/hope,concept/pride,concept/self,form/history,setting/london,character/lady_russell"></span>
 
 
 bloom had vanished early; and as even in its height, her father had
@@ -17143,7 +17143,7 @@ not admit him to be worth thinking of again. The disgrace of his first
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Persuasion — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Persuasion — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/spring,concept/pride,character/elizabeth_elliot,character/lady_russell,character/sir_walter_elliot"></span>
 
 
 perpetuated by offspring, have been got over, had he not done worse;
@@ -17265,7 +17265,7 @@ of taste or [[Pride|pride]].
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Persuasion — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Persuasion — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/death,motif/home,motif/love,motif/marriage,motif/pain,motif/well,motif/winter,concept/ambition,concept/conscience,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/self,concept/suffering,histref/reformation,setting/london,character/lady_russell,character/sir_walter_elliot"></span>
 
 
 CHAPTER II.
@@ -17651,7 +17651,7 @@ object of first-rate importance.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Persuasion — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Persuasion — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/spring,motif/time,motif/well,concept/doubt,concept/truth,character/sir_walter_elliot"></span>
 
 
 CHAPTER III.
@@ -17873,7 +17873,7 @@ deplorable-looking personage you can imagine; his face the colour of
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Persuasion — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Persuasion — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/leaves,motif/time,motif/well,concept/body,concept/mercy,concept/suffering,setting/london,character/admiral_croft"></span>
 
 
 mahogany, rough and rugged to the last degree; all lines and wrinkles,
@@ -18073,7 +18073,7 @@ unconnected in this country, any more than her husband; that is to say,
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Persuasion — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Persuasion — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/time,motif/well,concept/vanity,character/admiral_croft,character/sir_walter_elliot"></span>
 
 
 she is sister to a gentleman who did live amongst us once; she told me
@@ -18235,7 +18235,7 @@ here.”
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Persuasion — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Persuasion — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/home,motif/love,motif/memory,motif/pain,motif/ship,motif/silence,motif/summer,motif/time,concept/beauty,concept/doubt,concept/friendship,concept/history,concept/honour,concept/pride,concept/providence,concept/self,concept/suffering,form/history,setting/ship,character/admiral_croft,character/anne_elliot,character/captain_wentworth,character/lady_russell"></span>
 
 
 CHAPTER IV.
@@ -18581,7 +18581,7 @@ involve any particular awkwardness.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Persuasion — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Persuasion — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/autumn,motif/fire,motif/time,motif/well,concept/body,concept/hope,concept/suffering,character/lady_russell"></span>
 
 
 CHAPTER V.
@@ -18793,7 +18793,7 @@ such an absurd suspicion should occur to her, and indignantly answered
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Persuasion — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Persuasion — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/great_house,motif/home,motif/journey,motif/marriage,motif/summer,motif/time,motif/well,concept/melancholy,concept/self,concept/solitude,character/lady_russell"></span>
 
 
 for each party’s perfectly knowing their situation.
@@ -18997,7 +18997,7 @@ is out shooting. I have not seen him since seven o’[[Clock|clock]]. He would g
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Persuasion — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Persuasion — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/garden,motif/great_house,motif/home,motif/horse,motif/nature,motif/soul,motif/time,motif/well,motif/window,concept/hope,concept/nature,character/lady_russell"></span>
 
 
 though I told him how ill I was. He said he should not stay out long;
@@ -19265,7 +19265,7 @@ particular invitation.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Persuasion — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Persuasion — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/cross,motif/memory,motif/time,motif/well,motif/winter,concept/faith,concept/hope,concept/imagination,concept/self,concept/temptation,character/lady_russell,character/queen"></span>
 
 
 CHAPTER VI.
@@ -19463,7 +19463,7 @@ Mrs Charles had a little of your method with those children. They are
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Persuasion — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Persuasion — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dance,motif/great_house,motif/home,motif/time,motif/well,concept/jealousy"></span>
 
 
 quite different creatures with you! But to be sure, in general they are
@@ -19659,7 +19659,7 @@ more than anything else, and often drew this compliment;—“[[Well]] done,
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Persuasion — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Persuasion — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/great_house,motif/home,motif/time,motif/well,concept/courage,character/captain_wentworth,character/richard"></span>
 
 
 Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
@@ -19865,7 +19865,7 @@ full of it, and of poor [[Richard]]! So we must be as merry as we can, that
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Persuasion — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Persuasion — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,concept/history,form/history,character/captain_wentworth,character/richard"></span>
 
 
 she may not be dwelling upon such gloomy things.”
@@ -19999,7 +19999,7 @@ The resolution of doing so helped to form the comfort of their evening.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Persuasion — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Persuasion — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/great_house,motif/home,motif/love,motif/night,motif/time,motif/well,concept/hope,concept/suffering,character/captain_wentworth"></span>
 
 
 CHAPTER VII.
@@ -20195,7 +20195,7 @@ would not like to leave him yourself, but you see I can be of no use.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Persuasion — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Persuasion — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/night,motif/time,motif/well,concept/hope,concept/wonder,character/captain_wentworth,character/nurse"></span>
 
 
 Anne will send for me if anything is the matter.”
@@ -20403,7 +20403,7 @@ she could not but believe that in his place she should have done long
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Persuasion — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Persuasion — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/desire,motif/great_house,motif/love,motif/window,concept/beauty,concept/revenge,character/anne_elliot,character/captain_wentworth,character/speed"></span>
 
 
 ago, when events had been early giving him the independence which [[Alone|alone]]
@@ -20679,7 +20679,7 @@ most men.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Persuasion — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Persuasion — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/home,motif/pain,motif/ship,motif/time,motif/well,setting/ship,character/anne_elliot,character/bottom,character/captain_wentworth"></span>
 
 
 CHAPTER VIII.
@@ -20901,7 +20901,7 @@ entertaining, I had the good luck in my passage [[Home|home]] the next [[Autumn|
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Persuasion — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Persuasion — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/nature,motif/ship,motif/spring,motif/summer,motif/time,concept/nature,concept/self,setting/ship,character/captain_wentworth,character/richard"></span>
 
 
 to fall in with the very French frigate I wanted. I brought her into
@@ -21129,7 +21129,7 @@ Admiral, in rating the claims of women to every personal comfort
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Persuasion — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Persuasion — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/home,motif/love,motif/marriage,motif/ship,motif/tears,motif/time,motif/water,motif/well,motif/winter,concept/body,concept/friendship,concept/honour,concept/wonder,setting/ship,character/captain_wentworth"></span>
 
 
 _high_, and this is what I do. I hate to hear of women on board, or to
@@ -21399,7 +21399,7 @@ politeness, his ceremonious grace, were worse than anything.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Persuasion — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Persuasion — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/pain,motif/time,motif/well,concept/education,concept/pride,concept/wonder,character/captain_wentworth"></span>
 
 
 CHAPTER IX.
@@ -21611,7 +21611,7 @@ she has no right to throw herself away. I do not think any young woman
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Persuasion — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Persuasion — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/well,motif/window,concept/doubt,concept/honour,concept/hope,concept/nature,character/anne_elliot,character/captain_wentworth"></span>
 
 
 has a right to make a choice that may be disagreeable and inconvenient
@@ -21809,7 +21809,7 @@ The surprise of finding himself almost [[Alone|alone]] with [[Anne Elliot]], dep
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Persuasion — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Persuasion — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/silence,motif/well,motif/window,concept/hope,concept/solitude,character/captain_wentworth"></span>
 
 
 his manners of their usual composure: he started, and could only say,
@@ -21981,7 +21981,7 @@ recover her.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Persuasion — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Persuasion — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/grave,motif/home,motif/leaves,motif/love,motif/memory,motif/pain,motif/time,motif/window,concept/hope,concept/jealousy,concept/wonder,character/captain_wentworth"></span>
 
 
 CHAPTER X.
@@ -22179,7 +22179,7 @@ often, I assure you; but my sister makes nothing of it; she would as
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Persuasion — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Persuasion — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/autumn,motif/hill,motif/home,motif/memory,motif/silence,motif/spring,motif/time,motif/well,concept/beauty,concept/doubt,concept/honour,concept/hope,form/sonnet,character/captain_wentworth"></span>
 
 
 lieve be tossed out as not.”
@@ -22403,7 +22403,7 @@ morning visit to your aunt was in question; and woe betide him, and her
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Persuasion — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Persuasion — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/autumn,motif/cross,motif/home,motif/silence,motif/time,motif/well,concept/doubt,concept/pride,concept/solitude,character/admiral_croft,character/captain_wentworth,character/lady_russell"></span>
 
 
 too, when it comes to things of consequence, when they are placed in
@@ -22609,7 +22609,7 @@ save her a full mile, and they were going through Uppercross. The
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Persuasion — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Persuasion — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/horse,motif/pain,motif/time,motif/well,concept/friendship,concept/pride,character/captain_wentworth"></span>
 
 
 invitation was general, and generally declined. The Miss Musgroves were
@@ -22767,7 +22767,7 @@ herself safely deposited by them at the Cottage.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Persuasion — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Persuasion — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/desire,motif/hill,motif/memory,motif/nature,motif/night,motif/noon,motif/summer,motif/time,motif/water,motif/winter,concept/friendship,concept/nature,concept/self,character/captain_wentworth,character/lady_russell"></span>
 
 
 CHAPTER XI.
@@ -22965,7 +22965,7 @@ and, above all, Pinny, with its green chasms between romantic rocks,
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Persuasion — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Persuasion — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/desire,motif/summer,motif/time,motif/well,motif/winter,concept/friendship,concept/history,concept/melancholy,form/history,character/captain_benwick,character/captain_wentworth"></span>
 
 
 where the scattered forest trees and orchards of luxuriant growth,
@@ -23161,7 +23161,7 @@ rooms, where the common necessaries provided by the owner, in the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Persuasion — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Persuasion — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/faith,concept/hope,concept/nature,concept/resignation,concept/suffering,character/captain_benwick,character/captain_wentworth"></span>
 
 
 common indifferent plight, were contrasted with some few articles of a
@@ -23369,7 +23369,7 @@ would ill bear examination.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Persuasion — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Persuasion — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/spring,motif/time,motif/well,motif/wind,concept/conscience,concept/doubt,concept/melancholy,character/anne_elliot,character/captain_wentworth,character/lady_russell"></span>
 
 
 CHAPTER XII.
@@ -23565,7 +23565,7 @@ propriety of his apologies, that he was a man of exceedingly good
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Persuasion — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Persuasion — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/hill,motif/night,motif/time,motif/window,concept/doubt,concept/providence,concept/wonder,setting/london,character/captain_benwick,character/captain_wentworth,character/sir_walter_elliot"></span>
 
 
 manners. He seemed about thirty, and though not handsome, had an
@@ -23787,7 +23787,7 @@ company oftener. It is bad for him, I know, to be shut up as he is; but
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Persuasion — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Persuasion — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/home,motif/night,motif/silence,motif/summer,motif/time,motif/wind,concept/despair,concept/suffering,character/captain_benwick,character/captain_wentworth"></span>
 
 
 what can we do? We cannot part.”
@@ -24011,7 +24011,7 @@ one sister, to see the other in a state as insensible, or to witness
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="Persuasion — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="Persuasion — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/night,motif/prayer,motif/soul,motif/time,concept/doubt,concept/fear,concept/hope,concept/truth,character/captain_benwick,character/captain_wentworth,character/nurse"></span>
 
 
 the hysterical agitations of his wife, calling on him for help which he
@@ -24233,7 +24233,7 @@ be as little incumbrance as possible to Captain and Mrs Harville; but
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="Persuasion — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="Persuasion — Chapter 12 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/night,motif/road,motif/silence,motif/sleep,motif/time,concept/friendship,concept/hope,character/captain_benwick,character/captain_wentworth,character/nurse,character/speed"></span>
 
 
 as to leaving his sister in such a state, he neither ought, nor would.
@@ -24511,7 +24511,7 @@ baited, he was off.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Persuasion — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Persuasion — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/doubt,concept/friendship,concept/nature,concept/reconciliation,concept/self,concept/truth,character/lady_russell,character/nurse"></span>
 
 
 CHAPTER XIII.
@@ -24717,7 +24717,7 @@ was improved in plumpness and looks, or [[Lady Russell]] fancied her so;
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Persuasion — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Persuasion — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/pain,motif/spring,motif/time,motif/well,concept/beauty,concept/conscience,concept/courage,concept/friendship,concept/hope,concept/nature,concept/self,character/anne_elliot,character/captain_wentworth,character/lady_russell"></span>
 
 
 and Anne, in receiving her compliments on the occasion, had the
@@ -24921,7 +24921,7 @@ wound it up summarily by exclaiming—
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Persuasion — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Persuasion — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/home,motif/love,motif/time,motif/well,motif/wind,motif/winter,concept/self,concept/wonder,character/admiral_croft,character/captain_wentworth,character/lady_russell"></span>
 
 
 “Ay, a very bad business indeed. A new sort of way this, for a young
@@ -25069,7 +25069,7 @@ the subject.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Persuasion — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Persuasion — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/road,motif/soul,motif/time,motif/well,concept/beauty,concept/courage,concept/honour,concept/hope,character/captain_benwick,character/lady_russell"></span>
 
 
 CHAPTER XIV.
@@ -25279,7 +25279,7 @@ Russell’s kind answer.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Persuasion — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Persuasion — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/time,motif/well,concept/charity,concept/doubt,concept/hope,character/captain_benwick,character/captain_wentworth,character/lady_russell"></span>
 
 
 my acquaintance, for I have been seeing him every day this last
@@ -25503,7 +25503,7 @@ for the present, to see his brother in Shropshire.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Persuasion — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Persuasion — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/rose,motif/time,motif/well,motif/winter,character/lady_russell"></span>
 
 
 they were reseated in the carriage, “not to call at Uppercross in the
@@ -25595,7 +25595,7 @@ own lodgings, in Rivers Street.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Persuasion — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Persuasion — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/well,concept/imprisonment,concept/reconciliation,concept/wonder,setting/london"></span>
 
 
 CHAPTER XV.
@@ -25801,7 +25801,7 @@ in general; delighted, in short, by every proof of cousinly notice, and
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Persuasion — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Persuasion — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/clock,motif/frost,motif/home,motif/time,motif/well,concept/hope,concept/reconciliation"></span>
 
 
 placing his whole happiness in being on intimate terms in Camden Place.
@@ -25993,7 +25993,7 @@ the state which a butler and foot-boy could give, Mr Elliot was ushered
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Persuasion — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Persuasion — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/time,motif/well,concept/doubt,character/lady_russell"></span>
 
 
 into the room.
@@ -26143,7 +26143,7 @@ Camden Place could have passed so [[Well|well]]!
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Persuasion — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Persuasion — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/marriage,motif/spring,motif/time,motif/water,motif/well,concept/beauty,concept/honour,concept/pride,concept/reconciliation,character/lady_russell"></span>
 
 
 CHAPTER XVI.
@@ -26339,7 +26339,7 @@ crape round his hat, without fearing that she was the inexcusable one,
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Persuasion — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Persuasion — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/death,motif/love,motif/marriage,motif/time,motif/well,motif/winter,concept/conscience,concept/doubt,concept/education,concept/pride,setting/london,character/lady_russell,character/sir_walter_elliot"></span>
 
 
 in attributing to him such imaginations; for though his [[Marriage|marriage]] had
@@ -26617,7 +26617,7 @@ acquaintance was more than excusable in the view of defeating her.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Persuasion — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Persuasion — Chapter 17 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/journey,motif/nature,motif/pain,motif/time,motif/well,concept/beauty,concept/nature,concept/resignation,concept/suffering,character/lady_russell,character/nurse"></span>
 
 
 CHAPTER XVII.
@@ -26817,7 +26817,7 @@ that moment particularly unfit to meet any extraordinary expense. She
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Persuasion — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Persuasion — Chapter 17 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/pain,motif/time,motif/well,concept/education,concept/fear,concept/friendship,concept/heroism,concept/hope,concept/nature,concept/resignation,concept/self,character/anne_elliot,character/nurse"></span>
 
 
 had weathered it, however, and could truly say that it had done her
@@ -27009,7 +27009,7 @@ Forty?”
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Persuasion — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Persuasion — Chapter 17 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/doubt,concept/history,concept/imagination,concept/self,form/history,character/anne_elliot,character/lady_russell"></span>
 
 
 my engagement, because it is the only evening for some [[Time|time]] which will
@@ -27209,7 +27209,7 @@ brought Anne to composure again. The charm of Kellynch and of “Lady
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_04" data-title="Persuasion — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_04" data-title="Persuasion — Chapter 17 (part 4)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/autumn,motif/well,concept/body,concept/hope,character/lady_russell,character/sunday"></span>
 
 
 Elliot” all faded away. She never could accept him. And it was not only
@@ -27303,7 +27303,7 @@ Anne in Kellynch church, in the course of the following [[Autumn|autumn]].
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Persuasion — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Persuasion — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/great_house,motif/home,motif/journey,motif/love,motif/silence,motif/time,motif/well,concept/honour,concept/hope,character/admiral_croft,character/captain_benwick"></span>
 
 
 CHAPTER XVIII.
@@ -27523,7 +27523,7 @@ has written his consent, and [[Captain Benwick]] is expected to-day. Mrs
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Persuasion — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Persuasion — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/love,motif/time,motif/well,concept/courage,concept/doubt,concept/friendship,concept/hope,concept/vanity,concept/wonder,character/admiral_croft,character/captain_benwick,character/captain_wentworth"></span>
 
 
 Harville says her husband feels a good deal on his poor sister’s
@@ -27733,7 +27733,7 @@ ceremony was paid and returned; and Louisa Musgrove was mentioned, and
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Persuasion — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Persuasion — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/home,motif/road,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/wonder,setting/mountains,character/lady_russell"></span>
 
 
 The Crofts had placed themselves in lodgings in Gay Street, perfectly
@@ -27931,7 +27931,7 @@ did; but now she could safely suggest the name of “Louisa.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_04" data-title="Persuasion — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_04" data-title="Persuasion — Chapter 18 (part 4)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/autumn,motif/nature,motif/summer,motif/well,concept/friendship,concept/hope,concept/nature,concept/wonder,character/captain_benwick,character/captain_wentworth"></span>
 
 
 had not such a number of fine Christian names. I should never be out if
@@ -28127,7 +28127,7 @@ you think, Miss Elliot, we had better try to get him to Bath?”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Persuasion — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Persuasion — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/pain,motif/time,motif/well,motif/window,concept/doubt,concept/suffering,concept/union,character/admiral_croft,character/captain_wentworth"></span>
 
 
 CHAPTER XIX.
@@ -28335,7 +28335,7 @@ them. The carriage would not accommodate so many. I walk: I prefer
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Persuasion — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Persuasion — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,motif/window,concept/body,concept/courage,concept/suffering,concept/wonder,character/anne_elliot,character/captain_benwick,character/captain_wentworth,character/lady_russell"></span>
 
 
 walking.”
@@ -28635,7 +28635,7 @@ suspense, was obliged, and not sorry to be obliged, to hurry away.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Persuasion — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Persuasion — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/flag,motif/home,motif/love,motif/pain,motif/soul,motif/time,motif/well,concept/hope,character/captain_wentworth"></span>
 
 
 CHAPTER XX.
@@ -28859,7 +28859,7 @@ not [[Love|love]] a place the less for having suffered in it, unless it has been
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Persuasion — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Persuasion — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/friendship,concept/nature,concept/suffering,concept/vanity,concept/wonder,character/anne_elliot,character/captain_benwick,character/captain_wentworth,character/lady_russell"></span>
 
 
 all [[Suffering|suffering]], nothing but [[Suffering|suffering]], which was by no means the case at
@@ -29055,7 +29055,7 @@ inverted, transposed, curtailed Italian lines, into clear,
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Persuasion — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Persuasion — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/quest,motif/grave,motif/home,motif/night,motif/time,motif/well,concept/courage,concept/jealousy,concept/suffering,concept/truth,character/anne_elliot,character/captain_wentworth,character/lady_russell"></span>
 
 
 comprehensible, elegant English. You need not say anything more of your
@@ -29365,7 +29365,7 @@ attentions. Their evil was incalculable.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Persuasion — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Persuasion — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/courage,concept/doubt,concept/hope,concept/purification,concept/truth,concept/union,character/captain_wentworth"></span>
 
 
 CHAPTER XXI.
@@ -29607,7 +29607,7 @@ done.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Persuasion — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Persuasion — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/night,motif/well,concept/history,concept/hope,concept/truth,form/history,character/nurse,character/speed,character/sunday"></span>
 
 
 be of even the slightest use to you,” replied Anne; “but I suspect that
@@ -29833,7 +29833,7 @@ under a mistaken impression, I might, perhaps, have endeavoured to
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Persuasion — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Persuasion — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/desert,motif/home,motif/marriage,motif/time,concept/conscience,concept/truth,concept/union,concept/wonder,setting/desert"></span>
 
 
 interest you in some circumstances; but not now. No, I thank you, I
@@ -30049,7 +30049,7 @@ I can assure you. He told me the whole story. He had no concealments
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_04" data-title="Persuasion — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_04" data-title="Persuasion — Chapter 21 (part 4)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/love,motif/marriage,motif/nature,motif/night,motif/summer,motif/time,concept/education,concept/honour,concept/nature,concept/self,setting/london,character/anne_elliot"></span>
 
 
 with me. It was curious, that having just left you behind me in Bath,
@@ -30283,7 +30283,7 @@ Anne could not immediately get over the shock and mortification of
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_05" data-title="Persuasion — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_05" data-title="Persuasion — Chapter 21 (part 5)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/blood,motif/desire,motif/secrets,motif/summer,motif/time,motif/well,concept/doubt,concept/history,concept/honour,concept/reconciliation,concept/truth,form/history,character/anne_elliot,character/nurse"></span>
 
 
 finding such words applied to her father. She was obliged to recollect
@@ -30495,7 +30495,7 @@ him the means of ascertaining the degree of his danger, and of
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_06" data-title="Persuasion — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_06" data-title="Persuasion — Chapter 21 (part 6)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/death,motif/marriage,motif/time,concept/friendship,concept/self,concept/truth,concept/vanity,character/nurse"></span>
 
 
 circumventing the lady if he found it material. This was agreed upon
@@ -30689,7 +30689,7 @@ inhumanity; and Anne felt, at some moments, that no flagrant open crime
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_07" data-title="Persuasion — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_07" data-title="Persuasion — Chapter 21 (part 7)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/time,concept/fear,concept/history,concept/hope,concept/nature,concept/truth,concept/wonder,form/history,character/lady_russell"></span>
 
 
 could have been worse. She had a great deal to listen to; all the
@@ -30821,7 +30821,7 @@ to Mrs [[smith|Smith]], in which his conduct was involved.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Persuasion — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Persuasion — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/home,motif/night,motif/pain,motif/silence,motif/well,concept/body,concept/vanity,character/captain_wentworth,character/lady_russell"></span>
 
 
 CHAPTER XXII.
@@ -31037,7 +31037,7 @@ before her; but that a deeper hypocrite should be added to their party,
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Persuasion — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Persuasion — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/deception,concept/history,form/history,character/captain_benwick,character/lady_russell"></span>
 
 
 seemed the destruction of everything like peace and comfort. It was so
@@ -31233,7 +31233,7 @@ should happen; and that of two sisters, who both deserve equally [[Well|well]],
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Persuasion — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Persuasion — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/autumn,motif/journey,motif/time,motif/water,motif/well,concept/honour,concept/hope,concept/suffering,concept/vanity,character/lady_russell"></span>
 
 
 and who have always been such good friends, the pleasant prospect of
@@ -31435,7 +31435,7 @@ her full of regard and interest for everybody she had ever liked before
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Persuasion — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Persuasion — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/history,concept/hope,form/history,character/captain_wentworth"></span>
 
 
 at all; and Mrs Musgrove’s real affection had been won by her
@@ -31641,7 +31641,7 @@ family connexions, on purpose to be introduced to them? How can you be
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_05" data-title="Persuasion — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_05" data-title="Persuasion — Chapter 22 (part 5)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/silence,motif/soul,motif/time,motif/well,concept/freedom,concept/imagination,concept/truth,character/captain_wentworth"></span>
 
 
 so forgetful?”
@@ -31873,7 +31873,7 @@ drawing-room. The card was pointedly given, and Sir Walter and
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_06" data-title="Persuasion — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_06" data-title="Persuasion — Chapter 22 (part 6)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/home,motif/nature,concept/guilt,concept/nature,concept/wonder,character/captain_wentworth"></span>
 
 
 Elizabeth arose and disappeared.
@@ -32009,7 +32009,7 @@ or my seeing him could never have gone so entirely out of my head.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Persuasion — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Persuasion — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/time,motif/well,motif/window,concept/faith,concept/history,concept/self,concept/truth,form/history,character/captain_wentworth"></span>
 
 
 CHAPTER XXIII.
@@ -32221,7 +32221,7 @@ Wentworth’s table, not very near. As she joined him, Captain Harville’s
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Persuasion — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Persuasion — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/artist,motif/home,motif/love,motif/memory,motif/nature,motif/time,motif/well,concept/education,concept/hope,concept/nature,character/captain_benwick,character/captain_wentworth"></span>
 
 
 countenance re-assumed the serious, thoughtful expression which seemed
@@ -32445,7 +32445,7 @@ but make you comprehend what a man suffers when he takes a last look at
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Persuasion — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Persuasion — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/hope,character/captain_benwick,character/captain_wentworth"></span>
 
 
 his wife and children, and watches the boat that he has sent them off
@@ -32659,7 +32659,7 @@ decide whether I enter your father’s [[house]] this evening or never.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="Persuasion — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="Persuasion — Chapter 23 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="topos/double,motif/home,motif/nature,motif/night,motif/time,concept/hope,concept/immortality,concept/nature,concept/solitude,concept/union,character/bottom,character/captain_wentworth"></span>
 
 
 Such a letter was not to be soon recovered from. Half an hour’s
@@ -32871,7 +32871,7 @@ it had been first projected; more tender, more tried, more fixed in a
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="Persuasion — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="Persuasion — Chapter 23 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="concept/doubt,concept/honour,concept/jealousy,concept/madness,concept/pride,concept/self,concept/truth"></span>
 
 
 knowledge of each other’s character, [[Truth|truth]], and attachment; more equal
@@ -33075,7 +33075,7 @@ put myself in the way of happiness; I could exert myself; I could do
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_06" data-title="Persuasion — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_06" data-title="Persuasion — Chapter 23 (part 6)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/desire,motif/home,motif/love,motif/nature,motif/pain,motif/time,motif/well,concept/charity,concept/conscience,concept/doubt,concept/hope,concept/nature,concept/self,concept/suffering,character/lady_russell"></span>
 
 
 something. But to be waiting so long in inaction, and waiting only for
@@ -33341,7 +33341,7 @@ happier than I deserve.”
 
 
 
-<span class="atom-split" data-atom="chapter_24" data-title="Persuasion — Chapter 24" data-chapter="Chapter 24" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24" data-title="Persuasion — Chapter 24" data-chapter="Chapter 24" data-kind="chapter" data-tags="topos/double,archetype/child,motif/autumn,motif/love,motif/marriage,motif/pain,motif/spring,motif/well,concept/deception,concept/doubt,concept/honour,concept/hope,concept/providence,concept/suffering,concept/truth,concept/vanity,setting/london,character/captain_wentworth,character/lady_russell"></span>
 
 
 CHAPTER XXIV.

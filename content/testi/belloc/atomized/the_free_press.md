@@ -671,7 +671,7 @@ We have also this last consolation, that those who leave us and attach themselve
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Free Press (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Free Press (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/capitalism,concept/truth,histref/reformation,histref/renaissance,setting/london"></span>
 
 
 DEDICATION
@@ -725,7 +725,7 @@ That fruit upon which our modern observation has been most fixed was [[Capitalis
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Free Press (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Free Press (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/capitalism,concept/truth"></span>
 
 
 Another cognate fruit was what to-day we call Finance, that is, the domination of the State by private Capitalists who, taking advantage of the necessities of the State, fix an increasing mortgage upon the State and work perpetually for fluidity, anonymity, and irresponsibility in their arrangements. It was in England, again, that this began and vigorously began with what I think was the first true “National Debt”; a product contemporary in its origins with industrial [[Capitalism]].
@@ -767,7 +767,7 @@ In this early phase, moreover, the Press was necessarily highly diverse. One man
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Free Press (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Free Press (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/capitalism,setting/london"></span>
 
 
 III
@@ -805,7 +805,7 @@ He was compelled then to respect his advertisers as his paymasters. To that exte
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Free Press (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Free Press (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/capitalism"></span>
 
 
 An individual newspaper owner might, for instance, have the greatest possible dislike for the trade in patent medicines. He might object to the swindling of the poor which is the soul of that trade. He might himself have suffered acute physical pain through the imprudent absorption of one of those quack drugs. But he certainly could not print an article against them, nor even an article describing how they were made, without losing a great part of his income, directly; and, perhaps, indirectly, the whole of it, from the annoyance caused to other advertisers, who would note his independence and fear friction in their own case. He would prefer to retain his income, persuade his readers to buy poison, and remain free (personally) from touching the stuff he recommended for pay.
@@ -841,7 +841,7 @@ It is the advent of the great newspaper owner as the true governing power in the
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Free Press (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Free Press (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="concept/truth,setting/london"></span>
 
 
 It is the chief political event of our time and is the peculiar mark of this country to-day. Its full development has come on us suddenly and taken us by surprise in the midst of a terrible war. It was undreamt of but a few years ago. It is already to-day the capital fact of our whole political system. A Prime Minister is made or deposed by the owner of a group of newspapers, not by popular vote or by any other form of open authority.
@@ -891,7 +891,7 @@ If opinion can be once launched in spite of, or during the indifference of, the 
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Free Press (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Free Press (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="concept/deception,concept/truth,setting/london"></span>
 
 
 Here, again, we are dealing with something very different indeed from that title “An organ of opinion” to which the large newspaper has in the past pretended. But I am arguing for the [[Truth|truth]] that the Press — in the sense of the great Capitalist newspapers — cannot be wholly divorced from opinion.
@@ -927,7 +927,7 @@ There is no one in public life but could give dozens of examples from his own ex
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Free Press (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Free Press (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Equally significant with the mere vast numerical accumulation of such instances is their quality.
@@ -967,7 +967,7 @@ I say that the few newspaper controllers govern; and govern abominably. I am rig
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Free Press (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Free Press (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 This connection has developed in the great Capitalist papers a certain character which can be best described by the term “Official.”
@@ -1001,7 +1001,7 @@ This transitional state of affairs (for I hope to show that it is only transitio
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Free Press (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Free Press (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Now to every human evil of a political sort that has appeared in history (to every evil, that is, affecting the State, and proceeding from the will of man — not from ungovernable natural forces outside man) there comes a term and a reaction.
@@ -1051,7 +1051,7 @@ This creed was held with passionate conviction by men of the highest ability in 
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Free Press (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Free Press (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="concept/capitalism,concept/truth"></span>
 
 
 Religion, then, and cognate enthusiasms were the first breeders of the Free Press.
@@ -1093,7 +1093,7 @@ There was more than this. For long the owner of a newspaper had for the most par
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Free Press (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Free Press (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="concept/capitalism,concept/democracy,concept/freedom,concept/power_and_corruption,concept/reform,concept/truth,form/essay,setting/england"></span>
 
 
 I myself remember that state of affairs: the editor who was a gentleman and dined out, the proprietor who was a lord and nervous when he met a gentleman. It changed in the nineties of the last century or the late eighties. It had disappeared by the 1900’s.
@@ -1153,7 +1153,7 @@ This first disability, however, under which the Free Press suffered, and still s
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Free Press (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Free Press (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 2
@@ -1193,7 +1193,7 @@ The Free Press is rigorously boycotted by the great advertisers, partly, perhaps
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Free Press (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Free Press (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="concept/economics,concept/distributism,concept/freedom,concept/capitalism,form/essay,character/g_k_chesterton,character/cecil_chesterton,character/h_g_wells,character/george_bernard_shaw"></span>
 
 
 Stupidity, for instance, would account for the great advertisers not advertising articles of luxury in a paper with only a three thousand a week circulation, even if that paper were read from cover to cover by all the rich people in England; but it would not account for absence in the Free Press alone of advertisements appearing in every other kind of paper, and in many organs of far smaller circulation than the Free Press papers have.
@@ -1233,7 +1233,7 @@ But even the Guild of the Doctors is not so powerful as that of the Lawyers, qua
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Free Press (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Free Press (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Now the Lawyers’ Guild has latterly become (to its own hurt as it will find) hardly distinguishable from the complex of professional politics.
@@ -1281,7 +1281,7 @@ I started the “Eye-Witness” (succeeded by the “New Witness” under the ed
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Free Press (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Free Press (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 I knew from intimate personal experience exactly how formidable all these obstacles were.
@@ -1329,7 +1329,7 @@ Much more important than this clearly applicable test of vocabulary is the more 
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Free Press (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Free Press (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 More than this: one gets to hear of significant manœuvres, conducted secretly, of course, but showing vividly the weight and effect of the Free Press. One hears of orders given by a politician which prove his fear of the Free Press: of approaches made by this or that Capitalist to obtain control of a free journal: sometimes of a policy initiated, an official document drawn up, a memorandum filed, which proceeded directly from the advice, suggestion, or argument of a Free Paper which no one but its own readers is allowed to hear of, and of whose very existence the suburbs would be sceptical.
@@ -1369,7 +1369,7 @@ A worthy provincial might have been shocked ten years ago to hear that places in
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Free Press (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Free Press (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 Our worthy provincial may have heard but an echo of this [[Truth|truth]], for it would have had, ten years ago, but few readers. He may not have seen a syllable of it in his daily paper. But things happen. He sees first a great soldier, then a well-advertised politician, not a rich man, but very widely talked about, made peers. The events are normal in each case, and he is not moved. But sooner or later there comes a case in which he has local knowledge. He says to himself: “Why on earth is So-and-so made a peer (or a front bench man, or what not)? Why, in the name of goodness, is this very rich but unknown, and to my knowledge incompetent, man suddenly put into such a position?” Then he remembers what he was told, begins to ask questions, and finds out, of course, that money passed; perhaps, if he is lucky, he finds out which professional politician pouched the money — and even how much he took!
@@ -1415,7 +1415,7 @@ It will succeed at last in getting the truth told pretty openly and pretty thoro
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Free Press (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Free Press (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 So far as I can gather from the life around me, the popular appetite for freedom and even for criticism has disappeared. The wage-earner demands sufficient and regular subsistence, including a system of pensions, and, as part of his definition of subsistence and sufficiency, a due portion of leisure. That he demands a property in the means of production, I can see no sign whatever. It may come; but all the evidence is the other way. And as for a general public indignation against corrupt government, there is (below the few in the know who either share the swag or shrug their shoulders) no sign that it will be strong enough to have any effect.

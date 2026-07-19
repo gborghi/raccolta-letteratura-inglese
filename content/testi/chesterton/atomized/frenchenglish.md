@@ -170,7 +170,7 @@ that two pleasure-seeking Englishmen should ever find it pleasant!"
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="frenchenglish (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="frenchenglish (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/home,motif/love,motif/soul,concept/courage,concept/indolence"></span>
 
 
 "French And English"
@@ -290,7 +290,7 @@ quando non ha mai dissodato il rude ma ricco suolo della virtù francese.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="frenchenglish (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="frenchenglish (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/desire,motif/love,motif/soul,concept/freedom,character/sam_weller"></span>
 
 
 The thing can only be made clear to Englishmen by turning it round.
@@ -398,7 +398,7 @@ per produrre e giustificare il terribile fiore dell'indecenza francese.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="frenchenglish (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="frenchenglish (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/soul,motif/time,concept/democracy,setting/paris"></span>
 
 
 When I was in [[Paris]] a short [[Time|time]] ago, I went with an English

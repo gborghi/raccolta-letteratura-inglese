@@ -739,7 +739,7 @@ Signora Psyche Zenobia? Alas—nothing! I have done.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="A Predicament (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Predicament (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/memory,motif/nature,motif/river,motif/well,concept/body,concept/doubt,concept/madness,concept/nature,form/novel,setting/cathedral,character/diana,character/pompey"></span>
 
 
 What chance, good lady, hath bereft you thus?—COMUS.
@@ -929,7 +929,7 @@ an accident occurred of too momentous a [[Nature|nature]] in a moral, and
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="A Predicament (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A Predicament (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/city,motif/love,motif/tears,concept/body,concept/doubt,concept/revenge,concept/sublime,character/diana,character/pompey"></span>
 
 
 also in a metaphysical point of view, to be passed over without
@@ -1117,7 +1117,7 @@ aperture through which I had thrust my head was an opening in the
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="A Predicament (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="A Predicament (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/death,motif/desert,motif/machine,motif/pain,motif/time,motif/well,concept/doubt,setting/cathedral,setting/desert,character/diana,character/pompey"></span>
 
 
 dial-plate of a gigantic [[Clock|clock]], and must have appeared, from the
@@ -1311,7 +1311,7 @@ the eaves of the main building. The loss of the eye was not so
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="A Predicament (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="A Predicament (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/ghost,archetype/hero,archetype/monster,motif/spring,motif/time,concept/body,concept/identity,concept/melancholy,concept/truth,character/diana,character/pompey"></span>
 
 
 much as the insolent air of independence and contempt with which

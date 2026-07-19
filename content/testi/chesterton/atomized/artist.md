@@ -297,7 +297,7 @@ Lo guardai e dissi soltanto,
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="artist (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="artist (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/fire,motif/home,motif/love,motif/moon,motif/night,motif/rose,motif/soul,motif/stars"></span>
 
 
 ON THE DISASTROUS SPREAD OF AESTHETICISM IN ALL CLASSES  

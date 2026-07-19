@@ -164,7 +164,7 @@ many of the professors are wishing they had imitated the peasant.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="christmas-games (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="christmas-games (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/innocent,motif/cave,motif/dreams,motif/night,concept/history,concept/imagination,form/history"></span>
 
 
 Christmas and the First Games
@@ -275,7 +275,7 @@ Il principio sovversivo può essere applicato a quasi ogni gioco infantile; si p
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="christmas-games (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="christmas-games (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/animals,motif/nature,motif/night,concept/nature,concept/truth"></span>
 
 
 The two or three truths, of which my uncle's hypothesis is at

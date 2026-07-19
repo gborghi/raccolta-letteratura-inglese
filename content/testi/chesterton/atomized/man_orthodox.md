@@ -4572,7 +4572,7 @@ The Debater, March--April, 1891
 
 
 
-<span class="atom-split" data-atom="story_32_the_divine_comedy" data-title="Man Orthodox — The Divine Comedy" data-chapter="The Divine Comedy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_divine_comedy" data-title="Man Orthodox — The Divine Comedy" data-chapter="The Divine Comedy" data-kind="story" data-tags="concept/being_and_existence,form/aphorism"></span>
 
 
 THE DIVINE COMEDY
@@ -4598,7 +4598,7 @@ Daily News, 7 luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_33_humour_and_gravity" data-title="Man Orthodox — Humour And Gravity" data-chapter="Humour And Gravity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_humour_and_gravity" data-title="Man Orthodox — Humour And Gravity" data-chapter="Humour And Gravity" data-kind="story" data-tags="archetype/hero,archetype/prophet,motif/fire,motif/night,motif/time,concept/truth"></span>
 
 
 HUMOUR AND GRAVITY
@@ -4691,7 +4691,7 @@ Black and White, April 18th, 1903
 
 
 
-<span class="atom-split" data-atom="story_34_an_atheistic_nightmare" data-title="Man Orthodox — An Atheistic Nightmare" data-chapter="An Atheistic Nightmare" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_an_atheistic_nightmare" data-title="Man Orthodox — An Atheistic Nightmare" data-chapter="An Atheistic Nightmare" data-kind="story" data-tags="concept/despair,concept/spiritual_emptiness,concept/sympathy,concept/wit,form/essay,character/dante,character/charles_dickens"></span>
 
 
 AN ATHEISTIC NIGHTMARE
@@ -4735,7 +4735,7 @@ The Speaker, 10 agosto 1901
 
 
 
-<span class="atom-split" data-atom="story_35_the_anatomy_of_the_joke" data-title="Man Orthodox — The Anatomy Of The Joke" data-chapter="The Anatomy Of The Joke" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_the_anatomy_of_the_joke" data-title="Man Orthodox — The Anatomy Of The Joke" data-chapter="The Anatomy Of The Joke" data-kind="story" data-tags="topos/fall_from_innocence,concept/paradox,concept/grotesque,concept/original_sin,concept/darwinism_evolutionary_theory,concept/wit,form/essay"></span>
 
 
 THE ANATOMY OF THE JOKE
@@ -4868,7 +4868,7 @@ Hearst's International, giugno 1922
 
 
 
-<span class="atom-split" data-atom="story_36_punch_and_judy" data-title="Man Orthodox — Punch And Judy" data-chapter="Punch And Judy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_punch_and_judy" data-title="Man Orthodox — Punch And Judy" data-chapter="Punch And Judy" data-kind="story" data-tags="concept/grotesque,concept/paradox,concept/humility,concept/labor,concept/the_common_man,form/essay,histref/christianity"></span>
 
 
 PUNCH AND JUDY
@@ -5030,7 +5030,7 @@ Daily News, 26 ottobre 1907
 
 
 
-<span class="atom-split" data-atom="story_37_punch_and_judy_ii" data-title="Man Orthodox — Punch And Judy, II" data-chapter="Punch And Judy II" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_punch_and_judy_ii" data-title="Man Orthodox — Punch And Judy, II" data-chapter="Punch And Judy II" data-kind="story" data-tags="concept/labor,concept/tradition,concept/anti_industrialism,concept/the_common_man,form/essay"></span>
 
 
 PUNCH AND JUDY, II
@@ -5088,7 +5088,7 @@ Illustrated London News, 8 ottobre 1921
 
 
 
-<span class="atom-split" data-atom="story_38_the_saint_and_the_dragon" data-title="Man Orthodox — The Saint And The Dragon" data-chapter="The Saint And The Dragon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_saint_and_the_dragon" data-title="Man Orthodox — The Saint And The Dragon" data-chapter="The Saint And The Dragon" data-kind="story" data-tags="motif/serpent_snake,motif/dragon,motif/swords_and_weapons,concept/faith_and_doubt,concept/wonder,form/essay,character/st_george,character/adam"></span>
 
 
 THE SAINT AND THE DRAGON
@@ -5142,7 +5142,7 @@ Daily News, 8 luglio 1905
 
 
 
-<span class="atom-split" data-atom="story_39_a_universal_relevance" data-title="Man Orthodox — A Universal Relevance" data-chapter="A Universal Relevance" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_a_universal_relevance" data-title="Man Orthodox — A Universal Relevance" data-chapter="A Universal Relevance" data-kind="story" data-tags="concept/faith,concept/truth,form/apologetics,histref/christianity"></span>
 
 
 A UNIVERSAL RELEVANCE
@@ -5188,7 +5188,7 @@ Daily News, 12 dicembre 1903
 
 
 
-<span class="atom-split" data-atom="story_40_creeds_and_cobwebs" data-title="Man Orthodox — Creeds And Cobwebs" data-chapter="Creeds And Cobwebs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_creeds_and_cobwebs" data-title="Man Orthodox — Creeds And Cobwebs" data-chapter="Creeds And Cobwebs" data-kind="story" data-tags="concept/faith,concept/development_of_doctrine,concept/fate_and_free_will,concept/rationalism,concept/tradition,form/essay"></span>
 
 
 CREEDS AND COBWEBS
@@ -5300,7 +5300,7 @@ Daily News, 13 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_41_a_plea_for_popular_philosophy" data-title="Man Orthodox — A Plea For Popular Philosophy" data-chapter="A Plea For Popular Philosophy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_a_plea_for_popular_philosophy" data-title="Man Orthodox — A Plea For Popular Philosophy" data-chapter="A Plea For Popular Philosophy" data-kind="story" data-tags="motif/sleep,concept/self"></span>
 
 
 A PLEA FOR POPULAR PHILOSOPHY
@@ -5452,7 +5452,7 @@ Daily News, 22 giugno 1907
 
 
 
-<span class="atom-split" data-atom="story_42_rubbish" data-title="Man Orthodox — Rubbish" data-chapter="Rubbish" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_rubbish" data-title="Man Orthodox — Rubbish" data-chapter="Rubbish" data-kind="story" data-tags="motif/garden,concept/pride"></span>
 
 
 RUBBISH
@@ -5582,7 +5582,7 @@ Daily News, 24 giugno 1911
 
 
 
-<span class="atom-split" data-atom="story_43_no_such_thing" data-title="Man Orthodox — No Such Thing" data-chapter="No Such Thing" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_no_such_thing" data-title="Man Orthodox — No Such Thing" data-chapter="No Such Thing" data-kind="story" data-tags="archetype/child,motif/blood,motif/fire,motif/time,motif/well,concept/education,concept/faith,concept/hope,concept/reform,concept/truth,form/riddle,histref/bible,histref/christianity,histref/islam,histref/milton,setting/london,setting/mountains,character/milton,character/tolstoy"></span>
 
 
 NO SUCH THING
@@ -5874,7 +5874,7 @@ Daily News, 17 aprile 1909
 
 
 
-<span class="atom-split" data-atom="story_44_spiritualism" data-title="Man Orthodox — Spiritualism" data-chapter="Spiritualism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_spiritualism" data-title="Man Orthodox — Spiritualism" data-chapter="Spiritualism" data-kind="story" data-tags="motif/nature,motif/time,concept/freedom,concept/nature,concept/self,setting/london,character/witch"></span>
 
 
 SPIRITUALISM
@@ -6020,7 +6020,7 @@ Illustrated [[London]] News, 15 marzo 1919
 
 
 
-<span class="atom-split" data-atom="story_45_the_englishman_s_religion" data-title="Man Orthodox — The Englishman'S Religion" data-chapter="The Englishman S Religion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_the_englishman_s_religion" data-title="Man Orthodox — The Englishman'S Religion" data-chapter="The Englishman S Religion" data-kind="story" data-tags="concept/faith,form/aphorism,setting/england"></span>
 
 
 THE ENGLISHMAN'S RELIGION
@@ -6042,7 +6042,7 @@ The Bystander, 1º giugno 1904
 
 
 
-<span class="atom-split" data-atom="story_46_the_english_way" data-title="Man Orthodox — The English Way" data-chapter="The English Way" data-kind="story"></span>
+<span class="atom-split" data-atom="story_46_the_english_way" data-title="Man Orthodox — The English Way" data-chapter="The English Way" data-kind="story" data-tags="archetype/innocent,motif/nature,concept/doubt,concept/history,concept/nature,form/history,form/riddle,histref/reformation"></span>
 
 
 THE ENGLISH WAY
@@ -6142,7 +6142,7 @@ Daily News, 16 marzo 1905
 
 
 
-<span class="atom-split" data-atom="story_47_high_or_low" data-title="Man Orthodox — High Or Low?" data-chapter="High Or Low" data-kind="story"></span>
+<span class="atom-split" data-atom="story_47_high_or_low" data-title="Man Orthodox — High Or Low?" data-chapter="High Or Low" data-kind="story" data-tags="motif/road,motif/ship,motif/time,concept/hope,concept/union,histref/catholic_church,setting/london,setting/ship"></span>
 
 
 HIGH OR LOW?
@@ -6272,7 +6272,7 @@ Illustrated [[London]] News, 14 luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_48_straight_thinking" data-title="Man Orthodox — Straight Thinking" data-chapter="Straight Thinking" data-kind="story"></span>
+<span class="atom-split" data-atom="story_48_straight_thinking" data-title="Man Orthodox — Straight Thinking" data-chapter="Straight Thinking" data-kind="story" data-tags="concept/truth"></span>
 
 
 STRAIGHT THINKING
@@ -6356,7 +6356,7 @@ Daily News, 2 febbraio 1905
 
 
 
-<span class="atom-split" data-atom="story_49_a_man_of_distinction" data-title="Man Orthodox — A Man Of Distinction" data-chapter="A Man Of Distinction" data-kind="story"></span>
+<span class="atom-split" data-atom="story_49_a_man_of_distinction" data-title="Man Orthodox — A Man Of Distinction" data-chapter="A Man Of Distinction" data-kind="story" data-tags="motif/lightning,motif/time,motif/well,concept/courage,concept/doubt,concept/self,concept/wonder,character/arthur"></span>
 
 
 A MAN OF DISTINCTION
@@ -6534,7 +6534,7 @@ G. K.'s Weekly, 29 marzo 1930
 
 
 
-<span class="atom-split" data-atom="story_50_st_pius_x" data-title="Man Orthodox — St Pius X" data-chapter="St Pius X" data-kind="story"></span>
+<span class="atom-split" data-atom="story_50_st_pius_x" data-title="Man Orthodox — St Pius X" data-chapter="St Pius X" data-kind="story" data-tags="concept/humility,concept/the_common_man,concept/tradition,form/essay,histref/pope_pius_x,histref/catholic_church"></span>
 
 
 ST PIUS X
@@ -6642,7 +6642,7 @@ Illustrated London News, 29 agosto 1914
 
 
 
-<span class="atom-split" data-atom="story_51_the_black_lines" data-title="Man Orthodox — The Black Lines" data-chapter="The Black Lines" data-kind="story"></span>
+<span class="atom-split" data-atom="story_51_the_black_lines" data-title="Man Orthodox — The Black Lines" data-chapter="The Black Lines" data-kind="story" data-tags="motif/food_and_feasting,motif/the_sea,concept/paradox,concept/nature_vs_civilization,concept/order_vs_chaos,concept/darwinism_evolutionary_theory,form/essay"></span>
 
 
 THE BLACK LINES
@@ -6724,7 +6724,7 @@ Daily News, 9 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_52_the_cosmic_stew_pot" data-title="Man Orthodox — The Cosmic Stew-Pot" data-chapter="The Cosmic Stew Pot" data-kind="story"></span>
+<span class="atom-split" data-atom="story_52_the_cosmic_stew_pot" data-title="Man Orthodox — The Cosmic Stew-Pot" data-chapter="The Cosmic Stew Pot" data-kind="story" data-tags="motif/childhood,motif/grave,motif/home,motif/nature,motif/soul,motif/well,concept/honour,concept/nature,concept/truth,concept/union,concept/wonder,histref/dante,character/beatrice"></span>
 
 
 THE COSMIC STEW-POT
@@ -6846,7 +6846,7 @@ T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_53_the_sentinel" data-title="Man Orthodox — The Sentinel" data-chapter="The Sentinel" data-kind="story"></span>
+<span class="atom-split" data-atom="story_53_the_sentinel" data-title="Man Orthodox — The Sentinel" data-chapter="The Sentinel" data-kind="story" data-tags="motif/stars,concept/honour,concept/conscience,concept/faith,form/aphorism,histref/the_bible"></span>
 
 
 THE SENTINEL
@@ -6888,7 +6888,7 @@ The Speaker, 19 ottobre 1901
 
 
 
-<span class="atom-split" data-atom="story_54_everyman" data-title="Man Orthodox — Everyman" data-chapter="Everyman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_54_everyman" data-title="Man Orthodox — Everyman" data-chapter="Everyman" data-kind="story" data-tags="concept/immortality,concept/the_common_man,concept/transience,form/aphorism"></span>
 
 
 EVERYMAN
@@ -6910,7 +6910,7 @@ Blackfriars, gennaio 1923
 
 
 
-<span class="atom-split" data-atom="story_55_death_of_an_artist" data-title="Man Orthodox — Death Of An Artist" data-chapter="Death Of An Artist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_55_death_of_an_artist" data-title="Man Orthodox — Death Of An Artist" data-chapter="Death Of An Artist" data-kind="story" data-tags="archetype/artist,motif/chalk,motif/fire,motif/nature,motif/road,motif/stars,motif/time,motif/well,concept/greatness,concept/honour,concept/nature,concept/resignation,setting/cathedral"></span>
 
 
 DEATH OF AN ARTIST
@@ -7138,7 +7138,7 @@ The Speaker, 9 luglio 1904
 
 
 
-<span class="atom-split" data-atom="story_56_poetry_and_beliefs" data-title="Man Orthodox — Poetry And Beliefs" data-chapter="Poetry And Beliefs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_56_poetry_and_beliefs" data-title="Man Orthodox — Poetry And Beliefs" data-chapter="Poetry And Beliefs" data-kind="story" data-tags="motif/decay,motif/fire,concept/freedom,concept/sublime,histref/dante,histref/milton,character/milton"></span>
 
 
 POETRY AND BELIEFS
@@ -7202,7 +7202,7 @@ Daily News, 25 giugno 1904
 
 
 
-<span class="atom-split" data-atom="story_57_two_great_tories" data-title="Man Orthodox — Two Great Tories" data-chapter="Two Great Tories" data-kind="story"></span>
+<span class="atom-split" data-atom="story_57_two_great_tories" data-title="Man Orthodox — Two Great Tories" data-chapter="Two Great Tories" data-kind="story" data-tags="concept/truth,histref/french_revolution"></span>
 
 
 TWO GREAT TORIES
@@ -7572,7 +7572,7 @@ Daily News, 1° agosto 1903
 
 
 
-<span class="atom-split" data-atom="story_58_the_fallacy_of_freedom" data-title="Man Orthodox — The Fallacy Of Freedom" data-chapter="The Fallacy Of Freedom" data-kind="story"></span>
+<span class="atom-split" data-atom="story_58_the_fallacy_of_freedom" data-title="Man Orthodox — The Fallacy Of Freedom" data-chapter="The Fallacy Of Freedom" data-kind="story" data-tags="motif/chalk,concept/freedom,concept/anarchism,concept/paradox,form/essay"></span>
 
 
 THE FALLACY OF FREEDOM
@@ -7626,7 +7626,7 @@ Daily News, 21 dicembre 1905
 
 
 
-<span class="atom-split" data-atom="story_59_liberty" data-title="Man Orthodox — Liberty" data-chapter="Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_59_liberty" data-title="Man Orthodox — Liberty" data-chapter="Liberty" data-kind="story" data-tags="motif/time,concept/freedom"></span>
 
 
 LIBERTY
@@ -7684,7 +7684,7 @@ Daily News, 18 marzo 1911
 
 
 
-<span class="atom-split" data-atom="story_60_the_servile_state" data-title="Man Orthodox — The Servile State" data-chapter="The Servile State" data-kind="story"></span>
+<span class="atom-split" data-atom="story_60_the_servile_state" data-title="Man Orthodox — The Servile State" data-chapter="The Servile State" data-kind="story" data-tags="concept/freedom,concept/anarchism,concept/order_vs_chaos,concept/distributism,form/aphorism"></span>
 
 
 THE SERVILE STATE
@@ -7706,7 +7706,7 @@ Daily News, 29 luglio 1905
 
 
 
-<span class="atom-split" data-atom="story_61_the_sin_of_prohibition" data-title="Man Orthodox — The Sin Of Prohibition" data-chapter="The Sin Of Prohibition" data-kind="story"></span>
+<span class="atom-split" data-atom="story_61_the_sin_of_prohibition" data-title="Man Orthodox — The Sin Of Prohibition" data-chapter="The Sin Of Prohibition" data-kind="story" data-tags="archetype/child,archetype/innocent,motif/nature,motif/poison,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/history,concept/madness,concept/nature,concept/self,concept/truth,form/history,histref/america,setting/america"></span>
 
 
 THE SIN OF PROHIBITION
@@ -7872,7 +7872,7 @@ True Temperance Quarterly, maggio 1933
 
 
 
-<span class="atom-split" data-atom="story_62_automatic_evil" data-title="Man Orthodox — Automatic Evil" data-chapter="Automatic Evil" data-kind="story"></span>
+<span class="atom-split" data-atom="story_62_automatic_evil" data-title="Man Orthodox — Automatic Evil" data-chapter="Automatic Evil" data-kind="story" data-tags="motif/machine,concept/imagination,concept/pride"></span>
 
 
 AUTOMATIC EVIL
@@ -7961,7 +7961,7 @@ Daily News, 19 febbraio 1910
 
 
 
-<span class="atom-split" data-atom="story_63_the_tyrannical_sceptic" data-title="Man Orthodox — The Tyrannical Sceptic" data-chapter="The Tyrannical Sceptic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_63_the_tyrannical_sceptic" data-title="Man Orthodox — The Tyrannical Sceptic" data-chapter="The Tyrannical Sceptic" data-kind="story" data-tags="concept/history,form/history"></span>
 
 
 THE TYRANNICAL SCEPTIC
@@ -8005,7 +8005,7 @@ Black and White, 7 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_64_the_shape_of_things_to_come" data-title="Man Orthodox — The Shape Of Things To Come" data-chapter="The Shape Of Things To Come" data-kind="story"></span>
+<span class="atom-split" data-atom="story_64_the_shape_of_things_to_come" data-title="Man Orthodox — The Shape Of Things To Come" data-chapter="The Shape Of Things To Come" data-kind="story" data-tags="motif/tears"></span>
 
 
 THE SHAPE OF THINGS TO COME
@@ -8035,7 +8035,7 @@ Daily News, 18 febbraio 1905
 
 
 
-<span class="atom-split" data-atom="story_65_sky_signs" data-title="Man Orthodox — Sky Signs" data-chapter="Sky Signs" data-kind="story"></span>
+<span class="atom-split" data-atom="story_65_sky_signs" data-title="Man Orthodox — Sky Signs" data-chapter="Sky Signs" data-kind="story" data-tags="motif/nature,concept/madness,concept/nature,concept/pride,histref/puritanism,setting/manhattan"></span>
 
 
 SKY SIGNS
@@ -8075,7 +8075,7 @@ G. K.'s Weekly, 19 giugno 1926
 
 
 
-<span class="atom-split" data-atom="story_66_the_monstrosity" data-title="Man Orthodox — The Monstrosity" data-chapter="The Monstrosity" data-kind="story"></span>
+<span class="atom-split" data-atom="story_66_the_monstrosity" data-title="Man Orthodox — The Monstrosity" data-chapter="The Monstrosity" data-kind="story" data-tags="motif/decay,concept/body,concept/truth,setting/mountains"></span>
 
 
 THE MONSTROSITY
@@ -8135,7 +8135,7 @@ Daily News, 11 marzo 1911
 
 
 
-<span class="atom-split" data-atom="story_67_politics_and_discontent" data-title="Man Orthodox — Politics And Discontent" data-chapter="Politics And Discontent" data-kind="story"></span>
+<span class="atom-split" data-atom="story_67_politics_and_discontent" data-title="Man Orthodox — Politics And Discontent" data-chapter="Politics And Discontent" data-kind="story" data-tags="motif/birds,motif/dust,concept/exile,concept/madness"></span>
 
 
 POLITICS AND DISCONTENT
@@ -8281,7 +8281,7 @@ T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_68_against_divine_discontent" data-title="Man Orthodox — Against Divine Discontent" data-chapter="Against Divine Discontent" data-kind="story"></span>
+<span class="atom-split" data-atom="story_68_against_divine_discontent" data-title="Man Orthodox — Against Divine Discontent" data-chapter="Against Divine Discontent" data-kind="story" data-tags="archetype/rebel,motif/well,concept/fear,concept/truth,histref/bible,setting/new_york,character/satan"></span>
 
 
 AGAINST DIVINE DISCONTENT
@@ -8415,7 +8415,7 @@ Osserverete che uso il termine in un serio senso teologico.
 
 
 
-<span class="atom-split" data-atom="story_69_religion_and_revolution" data-title="Man Orthodox — Religion And Revolution" data-chapter="Religion And Revolution" data-kind="story"></span>
+<span class="atom-split" data-atom="story_69_religion_and_revolution" data-title="Man Orthodox — Religion And Revolution" data-chapter="Religion And Revolution" data-kind="story" data-tags="archetype/shadow,motif/death,motif/mutability,concept/despair,concept/fear,concept/slavery,setting/new_york,character/monks"></span>
 
 
 RELIGION AND REVOLUTION
@@ -8495,7 +8495,7 @@ i loro nomi sono la Noia e la [[Despair|Disperazione]].
 
 
 
-<span class="atom-split" data-atom="story_70_the_evil_day" data-title="Man Orthodox — The Evil Day" data-chapter="The Evil Day" data-kind="story"></span>
+<span class="atom-split" data-atom="story_70_the_evil_day" data-title="Man Orthodox — The Evil Day" data-chapter="The Evil Day" data-kind="story" data-tags="motif/blood,motif/home,motif/lightning,motif/time,concept/exile,concept/faith,concept/history,concept/truth,concept/union,form/comedy,form/history,setting/paris"></span>
 
 
 THE EVIL DAY
@@ -8695,7 +8695,7 @@ drammaturgo.]
 
 
 
-<span class="atom-split" data-atom="story_71_what_was_rationalism" data-title="Man Orthodox — What Was Rationalism?" data-chapter="What Was Rationalism" data-kind="story"></span>
+<span class="atom-split" data-atom="story_71_what_was_rationalism" data-title="Man Orthodox — What Was Rationalism?" data-chapter="What Was Rationalism" data-kind="story" data-tags="motif/nature,concept/nature"></span>
 
 
 WHAT WAS RATIONALISM?
@@ -8755,7 +8755,7 @@ New Witness, 20 marzo 1913
 
 
 
-<span class="atom-split" data-atom="story_72_from_dickens_to_gissing" data-title="Man Orthodox — From Dickens To Gissing" data-chapter="From Dickens To Gissing" data-kind="story"></span>
+<span class="atom-split" data-atom="story_72_from_dickens_to_gissing" data-title="Man Orthodox — From Dickens To Gissing" data-chapter="From Dickens To Gissing" data-kind="story" data-tags="topos/dance_of_death,motif/love,motif/well,motif/wind,setting/london,character/falstaff"></span>
 
 
 FROM DICKENS TO GISSING
@@ -9013,7 +9013,7 @@ G. K.'s Weekly, 17 ottobre 1925
 
 
 
-<span class="atom-split" data-atom="story_73_the_corner" data-title="Man Orthodox — The Corner" data-chapter="The Corner" data-kind="story"></span>
+<span class="atom-split" data-atom="story_73_the_corner" data-title="Man Orthodox — The Corner" data-chapter="The Corner" data-kind="story" data-tags="concept/faith_and_doubt,concept/nostalgia,form/aphorism,histref/victorian_england,character/queen_victoria,character/tennyson"></span>
 
 
 THE CORNER
@@ -9047,7 +9047,7 @@ Daily News, 14 maggio 1910
 
 
 
-<span class="atom-split" data-atom="story_74_chaos" data-title="Man Orthodox — Chaos" data-chapter="Chaos" data-kind="story"></span>
+<span class="atom-split" data-atom="story_74_chaos" data-title="Man Orthodox — Chaos" data-chapter="Chaos" data-kind="story" data-tags="motif/ship,motif/storm,concept/order_vs_chaos,concept/doubt,form/aphorism"></span>
 
 
 CHAOS
@@ -9073,7 +9073,7 @@ New York Herald Tribune Magazine, 5 luglio 1931
 
 
 
-<span class="atom-split" data-atom="story_75_the_vengeance_of_victoria" data-title="Man Orthodox — The Vengeance Of Victoria" data-chapter="The Vengeance Of Victoria" data-kind="story"></span>
+<span class="atom-split" data-atom="story_75_the_vengeance_of_victoria" data-title="Man Orthodox — The Vengeance Of Victoria" data-chapter="The Vengeance Of Victoria" data-kind="story" data-tags="concept/fame_and_publicity,concept/materialism,concept/satire_of_society,form/essay,histref/victorian_england,histref/america,character/queen_victoria"></span>
 
 
 THE VENGEANCE OF VICTORIA
@@ -9173,7 +9173,7 @@ G. K.'s Weekly, 15 ottobre 1932
 
 
 
-<span class="atom-split" data-atom="story_76_privacy" data-title="Man Orthodox — Privacy" data-chapter="Privacy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_76_privacy" data-title="Man Orthodox — Privacy" data-chapter="Privacy" data-kind="story" data-tags="concept/distributism,concept/individualism,form/aphorism"></span>
 
 
 PRIVACY
@@ -9195,7 +9195,7 @@ New Witness, 7 ottobre 1921
 
 
 
-<span class="atom-split" data-atom="story_77_northcliffe" data-title="Man Orthodox — Northcliffe" data-chapter="Northcliffe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_77_northcliffe" data-title="Man Orthodox — Northcliffe" data-chapter="Northcliffe" data-kind="story" data-tags="concept/fame_and_publicity,concept/appearance_vs_reality,concept/materialism,form/essay,histref/alfred_harmsworth_lord_northcliffe,histref/the_first_world_war,character/kitchener"></span>
 
 
 NORTHCLIFFE
@@ -9323,7 +9323,7 @@ G. K.'s Weekly, 17 settembre 1927
 
 
 
-<span class="atom-split" data-atom="story_78_the_vision_of_vulgarity_i" data-title="Man Orthodox — The Vision Of Vulgarity, I" data-chapter="The Vision Of Vulgarity I" data-kind="story"></span>
+<span class="atom-split" data-atom="story_78_the_vision_of_vulgarity_i" data-title="Man Orthodox — The Vision Of Vulgarity, I" data-chapter="The Vision Of Vulgarity I" data-kind="story" data-tags="concept/self"></span>
 
 
 THE VISION OF VULGARITY, I
@@ -9481,7 +9481,7 @@ New York American, 22 luglio 1933
 
 
 
-<span class="atom-split" data-atom="story_79_the_vision_of_vulgarity_ii" data-title="Man Orthodox — The Vision Of Vulgarity, II" data-chapter="The Vision Of Vulgarity II" data-kind="story"></span>
+<span class="atom-split" data-atom="story_79_the_vision_of_vulgarity_ii" data-title="Man Orthodox — The Vision Of Vulgarity, II" data-chapter="The Vision Of Vulgarity II" data-kind="story" data-tags="motif/blood,concept/faith"></span>
 
 
 THE VISION OF VULGARITY, II
@@ -9657,7 +9657,7 @@ G. K.'s Weekly, 1° gennaio 1927
 
 
 
-<span class="atom-split" data-atom="story_80_the_humblest_animal" data-title="Man Orthodox — The Humblest Animal" data-chapter="The Humblest Animal" data-kind="story"></span>
+<span class="atom-split" data-atom="story_80_the_humblest_animal" data-title="Man Orthodox — The Humblest Animal" data-chapter="The Humblest Animal" data-kind="story" data-tags="motif/animals,concept/humility,concept/paradox,concept/self_knowledge,concept/virtue,form/essay"></span>
 
 
 THE HUMBLEST ANIMAL
@@ -9707,7 +9707,7 @@ Daily News, 21 marzo 1906
 
 
 
-<span class="atom-split" data-atom="story_81_putting_the_clock_back" data-title="Man Orthodox — Putting The Clock Back" data-chapter="Putting The Clock Back" data-kind="story"></span>
+<span class="atom-split" data-atom="story_81_putting_the_clock_back" data-title="Man Orthodox — Putting The Clock Back" data-chapter="Putting The Clock Back" data-kind="story" data-tags="motif/clock,concept/tradition,concept/critique_of_progress,concept/reform,form/essay"></span>
 
 
 PUTTING THE CLOCK BACK
@@ -9751,7 +9751,7 @@ Illustrated London News, 8 luglio 1911
 
 
 
-<span class="atom-split" data-atom="story_82_the_number_you_first_thought_of" data-title="Man Orthodox — The Number You First Thought Of" data-chapter="The Number You First Thought Of" data-kind="story"></span>
+<span class="atom-split" data-atom="story_82_the_number_you_first_thought_of" data-title="Man Orthodox — The Number You First Thought Of" data-chapter="The Number You First Thought Of" data-kind="story" data-tags="motif/birds,motif/blood,motif/decay,motif/leaves,motif/nature,motif/time,concept/nature,setting/london"></span>
 
 
 THE NUMBER YOU FIRST THOUGHT OF
@@ -9893,7 +9893,7 @@ Illustrated [[London]] News, 24 febbraio 1912
 
 
 
-<span class="atom-split" data-atom="story_83_the_living_past" data-title="Man Orthodox — The Living Past" data-chapter="The Living Past" data-kind="story"></span>
+<span class="atom-split" data-atom="story_83_the_living_past" data-title="Man Orthodox — The Living Past" data-chapter="The Living Past" data-kind="story" data-tags="motif/mirror,motif/well,concept/democracy,concept/eugenics,concept/history,concept/reform,form/history,histref/french_revolution,histref/renaissance"></span>
 
 
 THE LIVING PAST
@@ -9993,7 +9993,7 @@ Daily News, 7 dicembre 1907
 
 
 
-<span class="atom-split" data-atom="story_84_the_unchanging_vision" data-title="Man Orthodox — The Unchanging Vision" data-chapter="The Unchanging Vision" data-kind="story"></span>
+<span class="atom-split" data-atom="story_84_the_unchanging_vision" data-title="Man Orthodox — The Unchanging Vision" data-chapter="The Unchanging Vision" data-kind="story" data-tags="motif/city,motif/nature,motif/time,concept/courage,concept/mercy,concept/nature,concept/truth"></span>
 
 
 THE UNCHANGING VISION
@@ -10165,7 +10165,7 @@ Daily News, 15 settembre 1906
 
 
 
-<span class="atom-split" data-atom="story_85_the_white_house" data-title="Man Orthodox — The White House" data-chapter="The White House" data-kind="story"></span>
+<span class="atom-split" data-atom="story_85_the_white_house" data-title="Man Orthodox — The White House" data-chapter="The White House" data-kind="story" data-tags="motif/garden,motif/decay,concept/tradition,concept/reform,concept/critique_of_progress,form/essay"></span>
 
 
 THE WHITE HOUSE
@@ -10269,7 +10269,7 @@ Daily News, 24 agosto 1907
 
 
 
-<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="The Iconoclast" data-kind="story"></span>
+<span class="atom-split" data-atom="story_86_the_iconoclast" data-title="Man Orthodox — The Iconoclast" data-chapter="The Iconoclast" data-kind="story" data-tags="form/aphorism,form/epigram"></span>
 
 
 THE ICONOCLAST
@@ -10293,7 +10293,7 @@ Daily News, 26 aprile 1905
 
 
 
-<span class="atom-split" data-atom="story_87_the_return_of_the_angels" data-title="Man Orthodox — The Return Of The Angels" data-chapter="The Return Of The Angels" data-kind="story"></span>
+<span class="atom-split" data-atom="story_87_the_return_of_the_angels" data-title="Man Orthodox — The Return Of The Angels" data-chapter="The Return Of The Angels" data-kind="story" data-tags="concept/pragmatism_method_of_the_hypothesis,concept/darwinism_evolutionary_theory,concept/the_supernatural,concept/spiritualism,concept/faith,form/essay,histref/darwinism_evolutionary_theory,character/charles_darwin"></span>
 
 
 THE RETURN OF THE ANGELS
@@ -10553,7 +10553,7 @@ Daily News, 14 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_88_the_necessity_of_luxury" data-title="Man Orthodox — The Necessity Of Luxury" data-chapter="The Necessity Of Luxury" data-kind="story"></span>
+<span class="atom-split" data-atom="story_88_the_necessity_of_luxury" data-title="Man Orthodox — The Necessity Of Luxury" data-chapter="The Necessity Of Luxury" data-kind="story" data-tags="concept/materialism,concept/the_body,concept/poverty,concept/darwinism_evolutionary_theory,form/essay"></span>
 
 
 THE NECESSITY OF LUXURY
@@ -10611,7 +10611,7 @@ The Open Review, luglio 1906
 
 
 
-<span class="atom-split" data-atom="story_89_the_club" data-title="Man Orthodox — The Club" data-chapter="The Club" data-kind="story"></span>
+<span class="atom-split" data-atom="story_89_the_club" data-title="Man Orthodox — The Club" data-chapter="The Club" data-kind="story" data-tags="form/aphorism,form/epigram"></span>
 
 
 THE CLUB
@@ -10633,7 +10633,7 @@ Daily News, 10 aprile 1906
 
 
 
-<span class="atom-split" data-atom="story_90_the_big_thing_and_the_small" data-title="Man Orthodox — The Big Thing And The Small" data-chapter="The Big Thing And The Small" data-kind="story"></span>
+<span class="atom-split" data-atom="story_90_the_big_thing_and_the_small" data-title="Man Orthodox — The Big Thing And The Small" data-chapter="The Big Thing And The Small" data-kind="story" data-tags="archetype/innocent,motif/nature,motif/sleep,motif/stars,motif/time,concept/mercy,concept/nature"></span>
 
 
 THE BIG THING AND THE SMALL
@@ -10789,7 +10789,7 @@ Daily News, 3 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_91_orange_peel_and_the_fall" data-title="Man Orthodox — Orange Peel And The Fall" data-chapter="Orange Peel And The Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_91_orange_peel_and_the_fall" data-title="Man Orthodox — Orange Peel And The Fall" data-chapter="Orange Peel And The Fall" data-kind="story" data-tags="topos/fall_from_innocence,concept/original_sin,concept/sin_and_the_fall,form/essay,character/eve"></span>
 
 
 ORANGE PEEL AND THE FALL
@@ -10825,7 +10825,7 @@ The Bystander, 11 maggio 1904
 
 
 
-<span class="atom-split" data-atom="story_92_original_sin" data-title="Man Orthodox — Original Sin" data-chapter="Original Sin" data-kind="story"></span>
+<span class="atom-split" data-atom="story_92_original_sin" data-title="Man Orthodox — Original Sin" data-chapter="Original Sin" data-kind="story" data-tags="concept/original_sin,concept/sin_and_the_fall,concept/virtue,form/essay"></span>
 
 
 ORIGINAL SIN
@@ -10861,7 +10861,7 @@ Daily News, 2 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_93_the_outline_of_the_fall" data-title="Man Orthodox — The Outline Of The Fall" data-chapter="The Outline Of The Fall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_93_the_outline_of_the_fall" data-title="Man Orthodox — The Outline Of The Fall" data-chapter="The Outline Of The Fall" data-kind="story" data-tags="motif/animals,motif/garden,concept/original_sin,concept/sublime,concept/truth"></span>
 
 
 THE OUTLINE OF THE FALL
@@ -10997,7 +10997,7 @@ G. K.'s Weekly, 25 settembre 1926
 
 
 
-<span class="atom-split" data-atom="story_94_neurosis" data-title="Man Orthodox — Neurosis" data-chapter="Neurosis" data-kind="story"></span>
+<span class="atom-split" data-atom="story_94_neurosis" data-title="Man Orthodox — Neurosis" data-chapter="Neurosis" data-kind="story" data-tags="concept/guilt,concept/conscience,concept/sin_and_the_fall,form/aphorism"></span>
 
 
 NEUROSIS
@@ -11025,7 +11025,7 @@ Daily News, 18 gennaio 1908
 
 
 
-<span class="atom-split" data-atom="story_95_the_battle" data-title="Man Orthodox — The Battle" data-chapter="The Battle" data-kind="story"></span>
+<span class="atom-split" data-atom="story_95_the_battle" data-title="Man Orthodox — The Battle" data-chapter="The Battle" data-kind="story" data-tags="topos/life_as_a_battle,concept/suffering,concept/self_sacrifice,form/essay,histref/the_bible,character/job"></span>
 
 
 THE BATTLE
@@ -11079,7 +11079,7 @@ The Speaker, 9 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_96_the_decoration" data-title="Man Orthodox — The Decoration" data-chapter="The Decoration" data-kind="story"></span>
+<span class="atom-split" data-atom="story_96_the_decoration" data-title="Man Orthodox — The Decoration" data-chapter="The Decoration" data-kind="story" data-tags="motif/cross,concept/suffering,concept/agnosticism,form/essay,histref/the_bible,character/job"></span>
 
 
 THE DECORATION
@@ -11117,7 +11117,7 @@ Illustrated London News, 10 febbraio 1906
 
 
 
-<span class="atom-split" data-atom="story_97_surprise" data-title="Man Orthodox — Surprise" data-chapter="Surprise" data-kind="story"></span>
+<span class="atom-split" data-atom="story_97_surprise" data-title="Man Orthodox — Surprise" data-chapter="Surprise" data-kind="story" data-tags="concept/wonder,form/aphorism"></span>
 
 
 SURPRISE
@@ -11139,7 +11139,7 @@ Black and White, 14 febbraio 1903
 
 
 
-<span class="atom-split" data-atom="story_98_the_philosophy_of_pumpkins" data-title="Man Orthodox — The Philosophy Of Pumpkins" data-chapter="The Philosophy Of Pumpkins" data-kind="story"></span>
+<span class="atom-split" data-atom="story_98_the_philosophy_of_pumpkins" data-title="Man Orthodox — The Philosophy Of Pumpkins" data-chapter="The Philosophy Of Pumpkins" data-kind="story" data-tags="archetype/prophet,motif/love,motif/nature,concept/nature,histref/christianity"></span>
 
 
 THE PHILOSOPHY OF PUMPKINS
@@ -11333,7 +11333,7 @@ T. P.'s Weekly, Numero di Natale, 1910
 
 
 
-<span class="atom-split" data-atom="story_99_the_sage" data-title="Man Orthodox — The Sage" data-chapter="The Sage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_99_the_sage" data-title="Man Orthodox — The Sage" data-chapter="The Sage" data-kind="story" data-tags="concept/charity"></span>
 
 
 THE SAGE
@@ -11495,7 +11495,7 @@ Daily News, 23 settembre 1905
 
 
 
-<span class="atom-split" data-atom="story_100_intimations" data-title="Man Orthodox — Intimations" data-chapter="Intimations" data-kind="story"></span>
+<span class="atom-split" data-atom="story_100_intimations" data-title="Man Orthodox — Intimations" data-chapter="Intimations" data-kind="story" data-tags="motif/childhood,motif/horse"></span>
 
 
 INTIMATIONS
@@ -11544,7 +11544,7 @@ The New Witness, 17 giugno 1921
 
 
 
-<span class="atom-split" data-atom="story_101_the_little_things" data-title="Man Orthodox — The Little Things" data-chapter="The Little Things" data-kind="story"></span>
+<span class="atom-split" data-atom="story_101_the_little_things" data-title="Man Orthodox — The Little Things" data-chapter="The Little Things" data-kind="story" data-tags="concept/paradox"></span>
 
 
 THE LITTLE THINGS
@@ -11593,7 +11593,7 @@ Black and White, 14 febbraio 1903
 
 
 
-<span class="atom-split" data-atom="story_102_the_hippopotamus_and_the_crocodile" data-title="Man Orthodox — The Hippopotamus And The Crocodile" data-chapter="The Hippopotamus And The Crocodile" data-kind="story"></span>
+<span class="atom-split" data-atom="story_102_the_hippopotamus_and_the_crocodile" data-title="Man Orthodox — The Hippopotamus And The Crocodile" data-chapter="The Hippopotamus And The Crocodile" data-kind="story" data-tags="archetype/monster,motif/decay,setting/london"></span>
 
 
 THE HIPPOPOTAMUS AND THE CROCODILE
@@ -11699,7 +11699,7 @@ Illustrated [[London]] News, 10 luglio 1920
 
 
 
-<span class="atom-split" data-atom="story_103_the_enemies_of_joy" data-title="Man Orthodox — The Enemies Of Joy" data-chapter="The Enemies Of Joy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_103_the_enemies_of_joy" data-title="Man Orthodox — The Enemies Of Joy" data-chapter="The Enemies Of Joy" data-kind="story" data-tags="archetype/child,archetype/innocent,motif/childhood,motif/desert,motif/nature,motif/night,concept/imagination,concept/nature,concept/solitude,setting/desert"></span>
 
 
 THE ENEMIES OF JOY
@@ -11815,7 +11815,7 @@ G. K.'s Weekly, 11 ottobre 1930
 
 
 
-<span class="atom-split" data-atom="story_104_autobiography" data-title="Man Orthodox — Autobiography" data-chapter="Autobiography" data-kind="story"></span>
+<span class="atom-split" data-atom="story_104_autobiography" data-title="Man Orthodox — Autobiography" data-chapter="Autobiography" data-kind="story" data-tags="concept/optimism_and_pessimism,concept/despair,concept/heresy_and_schism,form/aphorism"></span>
 
 
 AUTOBIOGRAPHY
@@ -11842,7 +11842,7 @@ Blackfriars, gennaio 1923
 
 
 
-<span class="atom-split" data-atom="story_105_life_and_liberty" data-title="Man Orthodox — Life And Liberty" data-chapter="Life And Liberty" data-kind="story"></span>
+<span class="atom-split" data-atom="story_105_life_and_liberty" data-title="Man Orthodox — Life And Liberty" data-chapter="Life And Liberty" data-kind="story" data-tags="archetype/child,motif/garden,motif/night,motif/well,motif/window,concept/freedom,concept/slavery,form/sketch"></span>
 
 
 LIFE AND LIBERTY
@@ -12067,7 +12067,7 @@ Daily [[Sketch]], 14 maggio 1931
 
 
 
-<span class="atom-split" data-atom="story_106_the_lesson" data-title="Man Orthodox — The Lesson" data-chapter="The Lesson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_106_the_lesson" data-title="Man Orthodox — The Lesson" data-chapter="The Lesson" data-kind="story" data-tags="concept/optimism_and_pessimism,form/aphorism"></span>
 
 
 THE LESSON
@@ -12091,7 +12091,7 @@ Daily News, 13 giugno 1903
 
 
 
-<span class="atom-split" data-atom="story_107_the_true_critic" data-title="Man Orthodox — The True Critic" data-chapter="The True Critic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_107_the_true_critic" data-title="Man Orthodox — The True Critic" data-chapter="The True Critic" data-kind="story" data-tags="concept/literary_criticism,concept/optimism_and_pessimism,form/essay,histref/samuel_taylor_coleridge"></span>
 
 
 THE TRUE CRITIC
@@ -12171,7 +12171,7 @@ The Speaker, 3 maggio 1902
 
 
 
-<span class="atom-split" data-atom="story_108_fairy_tales" data-title="Man Orthodox — Fairy Tales" data-chapter="Fairy Tales" data-kind="story"></span>
+<span class="atom-split" data-atom="story_108_fairy_tales" data-title="Man Orthodox — Fairy Tales" data-chapter="Fairy Tales" data-kind="story" data-tags="motif/love"></span>
 
 
 FAIRY TALES
@@ -12217,7 +12217,7 @@ The World, 27 settembre 1904
 
 
 
-<span class="atom-split" data-atom="story_109_the_ethics_of_fairyland" data-title="Man Orthodox — The Ethics Of Fairyland" data-chapter="The Ethics Of Fairyland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_109_the_ethics_of_fairyland" data-title="Man Orthodox — The Ethics Of Fairyland" data-chapter="The Ethics Of Fairyland" data-kind="story" data-tags="topos/ages_of_the_world,archetype/hero,motif/city,motif/fire,motif/road,motif/supernatural,motif/time,concept/beauty,concept/doubt,concept/history,concept/truth,form/history"></span>
 
 
 THE ETHICS OF FAIRYLAND
@@ -12415,7 +12415,7 @@ The Speaker, 12 ottobre 1901
 
 
 
-<span class="atom-split" data-atom="story_110_divine_immanence" data-title="Man Orthodox — Divine Immanence" data-chapter="Divine Immanence" data-kind="story"></span>
+<span class="atom-split" data-atom="story_110_divine_immanence" data-title="Man Orthodox — Divine Immanence" data-chapter="Divine Immanence" data-kind="story" data-tags="motif/memory,motif/tears,concept/faith,concept/humility,concept/imagination,concept/providence"></span>
 
 
 DIVINE IMMANENCE
@@ -12497,7 +12497,7 @@ Daily News, 24 marzo 1903
 
 
 
-<span class="atom-split" data-atom="story_111_a_local_habitation" data-title="Man Orthodox — A Local Habitation" data-chapter="A Local Habitation" data-kind="story"></span>
+<span class="atom-split" data-atom="story_111_a_local_habitation" data-title="Man Orthodox — A Local Habitation" data-chapter="A Local Habitation" data-kind="story" data-tags="motif/cave,motif/garden,motif/nature,motif/supernatural,motif/well,concept/nature"></span>
 
 
 A LOCAL HABITATION
@@ -12627,7 +12627,7 @@ New Witness, 15 luglio 1921
 
 
 
-<span class="atom-split" data-atom="story_112_sacrament_or_magic" data-title="Man Orthodox — Sacrament Or Magic" data-chapter="Sacrament Or Magic" data-kind="story"></span>
+<span class="atom-split" data-atom="story_112_sacrament_or_magic" data-title="Man Orthodox — Sacrament Or Magic" data-chapter="Sacrament Or Magic" data-kind="story" data-tags="motif/bread_and_wine_eucharist,concept/the_supernatural,concept/good_vs_evil,form/aphorism"></span>
 
 
 SACRAMENT OR MAGIC
@@ -12653,7 +12653,7 @@ Illustrated London News, 22 settembre 1906
 
 
 
-<span class="atom-split" data-atom="story_113_the_concrete_and_the_abstract" data-title="Man Orthodox — The Concrete And The Abstract" data-chapter="The Concrete And The Abstract" data-kind="story"></span>
+<span class="atom-split" data-atom="story_113_the_concrete_and_the_abstract" data-title="Man Orthodox — The Concrete And The Abstract" data-chapter="The Concrete And The Abstract" data-kind="story" data-tags="motif/soul,concept/beauty,concept/truth"></span>
 
 
 THE CONCRETE AND THE ABSTRACT
@@ -12723,7 +12723,7 @@ The Speaker, 31 maggio 1902
 
 
 
-<span class="atom-split" data-atom="story_114_the_light_and_the_heat" data-title="Man Orthodox — The Light And The Heat" data-chapter="The Light And The Heat" data-kind="story"></span>
+<span class="atom-split" data-atom="story_114_the_light_and_the_heat" data-title="Man Orthodox — The Light And The Heat" data-chapter="The Light And The Heat" data-kind="story" data-tags="motif/death"></span>
 
 
 THE LIGHT AND THE HEAT
@@ -12801,7 +12801,7 @@ The Speaker, 17 novembre 1900
 
 
 
-<span class="atom-split" data-atom="story_115_a_note_on_comparative_religion" data-title="Man Orthodox — A Note On Comparative Religion" data-chapter="A Note On Comparative Religion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_115_a_note_on_comparative_religion" data-title="Man Orthodox — A Note On Comparative Religion" data-chapter="A Note On Comparative Religion" data-kind="story" data-tags="concept/religious_sectarianism,concept/heresy_and_schism,concept/eastern_religion_and_asceticism,form/essay,histref/islam,histref/catholic_church,character/buddha,character/mahomet,character/confucius"></span>
 
 
 A NOTE ON COMPARATIVE RELIGION
@@ -12965,7 +12965,7 @@ Blackfriars, marzo 1923
 
 
 
-<span class="atom-split" data-atom="story_116_assimilation_and_rejection" data-title="Man Orthodox — Assimilation And Rejection" data-chapter="Assimilation And Rejection" data-kind="story"></span>
+<span class="atom-split" data-atom="story_116_assimilation_and_rejection" data-title="Man Orthodox — Assimilation And Rejection" data-chapter="Assimilation And Rejection" data-kind="story" data-tags="concept/faith,concept/religious_sectarianism,concept/good_vs_evil,form/essay"></span>
 
 
 ASSIMILATION AND REJECTION
@@ -13003,7 +13003,7 @@ Daily News, 19 marzo 1910
 
 
 
-<span class="atom-split" data-atom="story_117_the_winter_feast" data-title="Man Orthodox — The Winter Feast" data-chapter="The Winter Feast" data-kind="story"></span>
+<span class="atom-split" data-atom="story_117_the_winter_feast" data-title="Man Orthodox — The Winter Feast" data-chapter="The Winter Feast" data-kind="story" data-tags="motif/christmas,motif/food_and_feasting,concept/christmas_and_the_nativity,concept/paganism_and_classical_revival,concept/charity,concept/poverty,concept/tradition,form/essay"></span>
 
 
 THE WINTER FEAST
@@ -13159,7 +13159,7 @@ G. K.'s Weekly, 2 gennaio 1936
 
 
 
-<span class="atom-split" data-atom="story_118_the_three_gifts" data-title="Man Orthodox — The Three Gifts" data-chapter="The Three Gifts" data-kind="story"></span>
+<span class="atom-split" data-atom="story_118_the_three_gifts" data-title="Man Orthodox — The Three Gifts" data-chapter="The Three Gifts" data-kind="story" data-tags="motif/christmas,concept/incarnation,concept/christmas_and_the_nativity,form/aphorism,setting/holy_land_jerusalem_and_bethlehem,character/magi"></span>
 
 
 THE THREE GIFTS
@@ -13189,7 +13189,7 @@ G. K.'s Weekly, 12 dicembre 1931
 
 
 
-<span class="atom-split" data-atom="story_119_the_spring_in_the_soul" data-title="Man Orthodox — The Spring In The Soul" data-chapter="The Spring In The Soul" data-kind="story"></span>
+<span class="atom-split" data-atom="story_119_the_spring_in_the_soul" data-title="Man Orthodox — The Spring In The Soul" data-chapter="The Spring In The Soul" data-kind="story" data-tags="motif/nature,motif/spring,motif/winter,concept/nature"></span>
 
 
 THE SPRING IN THE SOUL
@@ -13323,7 +13323,7 @@ G. K.'s Weekly, 26 marzo 1932
 
 
 
-<span class="atom-split" data-atom="story_120_the_person_of_jesus_christ" data-title="Man Orthodox — The Person Of Jesus Christ" data-chapter="The Person Of Jesus Christ" data-kind="story"></span>
+<span class="atom-split" data-atom="story_120_the_person_of_jesus_christ" data-title="Man Orthodox — The Person Of Jesus Christ" data-chapter="The Person Of Jesus Christ" data-kind="story" data-tags="archetype/prophet,motif/nature,motif/soul,concept/nature,concept/truth,form/comedy,character/christ"></span>
 
 
 THE PERSON OF JESUS CHRIST
@@ -13443,7 +13443,7 @@ The Speaker, 9 febbraio 1901
 
 
 
-<span class="atom-split" data-atom="story_121_the_dragon" data-title="Man Orthodox — The Dragon" data-chapter="The Dragon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_121_the_dragon" data-title="Man Orthodox — The Dragon" data-chapter="The Dragon" data-kind="story" data-tags="archetype/king,form/essay"></span>
 
 
 THE DRAGON

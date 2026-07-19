@@ -4753,7 +4753,7 @@ of Grass" (1860 Edition).
 
 
 
-<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_story_edifices_sometimes_ranged_along_in" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — story edifices, sometimes ranged along in a row, with their heads to" data-chapter="story edifices sometimes ranged along in" data-kind="story" data-tags="motif/death,concept/suffering_and_pain,concept/death,concept/sympathy,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 one-story edifices, sometimes ranged along in a row, with their heads to
@@ -4885,7 +4885,7 @@ Of course I did not forget him, for he was a young fellow to interest any
 
 
 
-<span class="atom-split" data-atom="story_02_he_remained_very_sick_vomiting_much_ever" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — He remained very sick--vomiting much every day, frequent diarrhoea," data-chapter="He remained very sick vomiting much ever" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_he_remained_very_sick_vomiting_much_ever" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — He remained very sick--vomiting much every day, frequent diarrhoea," data-chapter="He remained very sick vomiting much ever" data-kind="story" data-tags="archetype/corrupt_official,concept/charity,concept/sympathy,concept/power_and_corruption,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 one. He remained very sick--vomiting much every day, frequent diarrhoea,
@@ -5066,7 +5066,7 @@ pretty bad, but now better. Occasionally I meet some of the Brooklyn
 
 
 
-<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 1)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 1)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt" data-tags="archetype/corrupt_official,concept/power_and_corruption,concept/sympathy,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Fourteenth. In Ward E of Armory hospital I found a member of Company C of
@@ -5178,7 +5178,7 @@ contest.
 
 
 
-<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 2)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_in_ward_e_of_armory_hospital_i_found_a_m--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — In Ward E of Armory hospital I found a member of Company C of (part 2)" data-chapter="In Ward E of Armory hospital I found a m" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/letters_and_writing,concept/war_and_its_cost,form/nonfiction,histref/american_civil_war,setting/military_camp,character/walt_whitman"></span>
 
 
 Began my visits (December 21, 1862) among the camp hospitals in the Army
@@ -5299,7 +5299,7 @@ mostly paid, envelopes, of which the men were much in need; also a
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 1)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 1)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/charity,concept/sympathy,concept/war_and_its_cost,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 four-pound bag of gingersnaps I bought at a baker's in Seventh street.
@@ -5410,7 +5410,7 @@ cheer them up.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 2)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 2)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="concept/death,concept/faith,concept/resurrection,concept/sympathy,form/nonfiction,histref/american_civil_war,character/walt_whitman,character/christ"></span>
 
 
 My note-books are full of memoranda of the cases of this summer, and the
@@ -5521,7 +5521,7 @@ wounded and sick.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 3)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 3)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="motif/disease_and_contagion,concept/war_and_its_cost,concept/suffering_and_pain,concept/critique_of_progress,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 These wards are either lettered alphabetically, Ward G, Ward K, or else
@@ -5639,7 +5639,7 @@ ceremony.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 4)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 4)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="motif/book_reading,concept/charity,concept/sympathy,form/nonfiction,histref/american_civil_war,setting/new_york,character/walt_whitman"></span>
 
 
 Through Fourteenth street to the river, and then over the long bridge and
@@ -5760,7 +5760,7 @@ immense good to the sick and wounded.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 5)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 5)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/family,concept/sympathy,concept/war_and_its_cost,form/letter,histref/american_civil_war,setting/military_camp,character/walt_whitman"></span>
 
 
 To those who might be interested in knowing it, I must add, in conclusion,
@@ -5880,7 +5880,7 @@ George.
 
 
 
-<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 6)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_pound_bag_of_gingersnaps_i_bought_at_a_b--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — pound bag of gingersnaps I bought at a baker's in Seventh street. (part 6)" data-chapter="pound bag of gingersnaps I bought at a b" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/family,concept/war_and_its_cost,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 II
@@ -6012,7 +6012,7 @@ to go down without delay to the P. O. and send George's letter and this
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 1)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 1)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/family,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 one. Good-bye, dear mother.
@@ -6117,7 +6117,7 @@ French style--well, enough for a New York.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 2)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 2)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/snow,concept/family,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 VI
@@ -6235,7 +6235,7 @@ or Mat goes down there you take this and show him.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 3)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 3)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="concept/family,concept/death,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Mat, I am quite glad to hear that you are not hurried and fretted with
@@ -6345,7 +6345,7 @@ difference.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 4)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 4)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/death,concept/war_and_its_cost,concept/family,concept/suffering,concept/death,concept/charity,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Matty, I send you my best love, dear sister--how I wish I could be with
@@ -6470,7 +6470,7 @@ my best love to sister Mat and all. Good-bye, dearest mother.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 5)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 5)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/clothing,motif/food_and_feasting,concept/war_and_its_cost,concept/family,concept/charity,concept/suffering,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 WALT.
@@ -6590,7 +6590,7 @@ Campbell hospital, out a couple of miles.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 6)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 6)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,concept/endurance,concept/suffering,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Mother, I should like to have Jeff send me 20 of the large-sized portraits
@@ -6701,7 +6701,7 @@ to sister Mat, and Jeff.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_07" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 7)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_07" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 7)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/disease_and_contagion,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,concept/charity,concept/self_sacrifice,concept/mortality,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 WALT.
@@ -6817,7 +6817,7 @@ anyone. I am let to take my own course.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_08" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 8)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_08" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 8)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/drums_and_bugles,motif/horse,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,concept/slavery,concept/death,form/letter,histref/american_civil_war,setting/washington_dc,setting/military_camp,character/walt_whitman,character/abraham_lincoln"></span>
 
 
 Well, mother, I suppose you folks think we are in a somewhat dubious
@@ -6955,7 +6955,7 @@ as if I _must_ come home and see you all--I want to very much.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_09" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 9)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_09" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 9)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/blood,motif/pain,concept/war_and_its_cost,concept/family,concept/suffering,concept/death,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 My hospital life still continues the same--I was in Armory all day
@@ -7081,7 +7081,7 @@ up for me--if I knew their street and number I should write.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_10" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 10)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_10" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 10)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/endurance,concept/nationalism_and_patriotism,concept/death,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 It has been awful hot here now for twenty-one days; ain't that a spell of
@@ -7194,7 +7194,7 @@ the 9th Corps might take a rest awhile, anyhow. Good-bye, mother.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_11" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 11)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_11" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 11)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 WALT.
@@ -7323,7 +7323,7 @@ men love each other. Good-bye, dearest mother, for present.
 
 
 
-<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_12" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 12)" data-chapter="Good bye dear mother" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_good_bye_dear_mother--part_12" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Good-bye, dear mother. (part 12)" data-chapter="Good bye dear mother" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/death,concept/war_and_its_cost,concept/family,concept/death,concept/charity,concept/self_sacrifice,concept/slavery,form/letter,histref/american_civil_war,setting/washington_dc,setting/military_camp,character/walt_whitman"></span>
 
 
 WALT.
@@ -7399,7 +7399,7 @@ managed splendidly so far, his taking Knoxville and all together--it is a
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 1)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 1)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/disease_and_contagion,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,concept/endurance,concept/comradeship,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 first-class success. I have known Tennessee Union men here in hospital,
@@ -7508,7 +7508,7 @@ makes me feel bad.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 2)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 2)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/moon,motif/disease_and_contagion,concept/war_and_its_cost,concept/family,concept/charity,concept/nationalism_and_patriotism,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Mother, we are having perfect weather here nowadays, both night and day.
@@ -7643,7 +7643,7 @@ all, and tell Andrew he must not be discouraged yet.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 3)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/friendship,concept/comradeship,concept/charity,concept/death,concept/suffering,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/abraham_lincoln"></span>
 
 
 WALT.
@@ -7754,7 +7754,7 @@ dear friends, and I send my love to all.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 4)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 4)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/blood,motif/tears,motif/food_and_feasting,concept/war_and_its_cost,concept/family,concept/charity,concept/suffering,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 WALT.
@@ -7894,7 +7894,7 @@ that deafness again. Good-bye for present.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 5)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 5)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/charity,concept/hope,concept/nationalism_and_patriotism,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/abraham_lincoln"></span>
 
 
 WALT.
@@ -8004,7 +8004,7 @@ is now editor of the _Eagle_, and is very friendly to me.
 
 
 
-<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 6)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_class_success_i_have_known_tennessee_uni--part_06" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class success. I have known Tennessee Union men here in hospital, (part 6)" data-chapter="class success I have known Tennessee Uni" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,concept/suffering,concept/comradeship,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Mother, I am quite well. I have been out this morning early, went down
@@ -8098,7 +8098,7 @@ scenes--I was mentioning that I had a great desire to be present at a
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 1)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 1)" data-chapter="class battle he told me if I would only" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/disease_and_contagion,concept/war_and_its_cost,concept/family,concept/charity,concept/suffering,concept/comradeship,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 first-class battle; he told me if I would only stay around here three or
@@ -8226,7 +8226,7 @@ gets too deeply seated.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 2)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 2)" data-chapter="class battle he told me if I would only" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/music_and_song,concept/war_and_its_cost,concept/family,concept/comradeship,concept/sympathy,form/letter,histref/american_civil_war,setting/washington_dc,setting/military_camp,character/walt_whitman"></span>
 
 
 To-day I have been out among some of the camps of the 2nd division of the
@@ -8344,7 +8344,7 @@ haste.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 3)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 3)" data-chapter="class battle he told me if I would only" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/blood,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/ulysses_s_grant"></span>
 
 
 WALT.
@@ -8463,7 +8463,7 @@ with, too.
 
 
 
-<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 4)" data-chapter="class battle he told me if I would only" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_class_battle_he_told_me_if_i_would_only--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — class battle; he told me if I would only stay around here three or (part 4)" data-chapter="class battle he told me if I would only" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/death,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,concept/charity,concept/spiritualism,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 Well, mother, you must not worry about the grocery bill, etc., though I
@@ -8561,7 +8561,7 @@ skirmish. It cost three men's lives, just to get one little flag, four by
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 1)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 1)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/flag,motif/stars,concept/war_and_its_cost,concept/family,concept/nationalism_and_patriotism,concept/death,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 three. Our men rescued it, and tore it from the breast of a dead
@@ -8688,7 +8688,7 @@ You don't see about it in the papers, but we have a very large army here.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 2)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 2)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/prayer,concept/war_and_its_cost,concept/family,concept/charity,concept/death,concept/comradeship,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/ulysses_s_grant"></span>
 
 
 Mother, I am first rate in health, thank God; I never was better. Dear
@@ -8801,7 +8801,7 @@ telling you the 9th Corps was camped then about sixteen miles from here.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 3)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 3)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/disease_and_contagion,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/ulysses_s_grant"></span>
 
 
 About George's pictures, perhaps you better wait till I hear from him,
@@ -8924,7 +8924,7 @@ George so far. Of course I _know_ nothing. Well, good-bye, dearest mother.
 
 
 
-<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 4)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_our_men_rescued_it_and_tore_it_from_the--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — Our men rescued it, and tore it from the breast of a dead (part 4)" data-chapter="Our men rescued it and tore it from the" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/blood,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 WALT.
@@ -8993,7 +8993,7 @@ they are all reprinted at great length in N. Y. papers) are of men
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 1)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_01" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 1)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/war_and_its_cost,concept/family,concept/death,concept/mortality,concept/suffering,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman,character/ulysses_s_grant"></span>
 
 
 three-fourths of them quite slightly wounded, and the rest hurt pretty
@@ -9108,7 +9108,7 @@ remembrance to Mr. Lane.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 2)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_02" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 2)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/blood,motif/lightning,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,concept/charity,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 I may very likely go down for a few days to Ball Plain and Fredericksburg,
@@ -9233,7 +9233,7 @@ average one an hour.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 3)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_03" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 3)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/death,concept/war_and_its_cost,concept/family,concept/death,concept/suffering,concept/charity,concept/madness,concept/mortality,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 I saw Capt. Baldwin of the 14th this morning; he has lost his left arm--is
@@ -9337,7 +9337,7 @@ the air is not good. Jeff, you must write.
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 4)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_04" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 4)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt" data-tags="motif/disease_contagion,motif/death,concept/war_and_its_cost,concept/suffering,concept/family,concept/grief_and_loss,form/letter,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 XXVII
@@ -9470,7 +9470,7 @@ And set a tombstone here._
 
 
 
-<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 5)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_09_fourths_of_them_quite_slightly_wounded_a--part_05" data-title="The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — fourths of them quite slightly wounded, and the rest hurt pretty (part 5)" data-chapter="fourths of them quite slightly wounded a" data-kind="excerpt" data-tags="concept/family,histref/american_civil_war,character/walt_whitman"></span>
 
 
 _Printed by John Wilson and Son, at the University Press, Cambridge,

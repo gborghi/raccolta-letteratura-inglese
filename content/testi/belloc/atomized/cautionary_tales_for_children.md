@@ -1047,7 +1047,7 @@ SIMPLY DOING RIGHT.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="Cautionary Tales for Children — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="Cautionary Tales for Children — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="motif/childhood,concept/childhood_and_growth,form/comic_verse_song"></span>
 
 
 INTRODUCTION
@@ -1083,7 +1083,7 @@ H. B.
 
 
 
-<span class="atom-split" data-atom="story_02_jim" data-title="Cautionary Tales for Children — Jim" data-chapter="Jim" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_jim" data-title="Cautionary Tales for Children — Jim" data-chapter="Jim" data-kind="story" data-tags="archetype/child,motif/childhood,motif/lion,motif/animals,motif/death,form/comic_verse_song,form/narrative_poem"></span>
 
 
 Jim
@@ -1213,7 +1213,7 @@ For fear of finding something worse.
 
 
 
-<span class="atom-split" data-atom="story_03_henry_king" data-title="Cautionary Tales for Children — Henry King" data-chapter="Henry King" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_henry_king" data-title="Cautionary Tales for Children — Henry King" data-chapter="Henry King" data-kind="story" data-tags="archetype/child,motif/death"></span>
 
 
 Henry King
@@ -1263,7 +1263,7 @@ With that the Wretched [[Child]] expires.
 
 
 
-<span class="atom-split" data-atom="story_04_matilda" data-title="Cautionary Tales for Children — Matilda" data-chapter="Matilda" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_matilda" data-title="Cautionary Tales for Children — Matilda" data-chapter="Matilda" data-kind="story" data-tags="motif/death,motif/fire"></span>
 
 
 Matilda
@@ -1381,7 +1381,7 @@ Matilda, and the House, were Burned.
 
 
 
-<span class="atom-split" data-atom="story_05_franklin_hyde" data-title="Cautionary Tales for Children — Franklin Hyde" data-chapter="Franklin Hyde" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_franklin_hyde" data-title="Cautionary Tales for Children — Franklin Hyde" data-chapter="Franklin Hyde" data-kind="story" data-tags="archetype/child,motif/childhood,form/comic_verse_song"></span>
 
 
 Franklin Hyde
@@ -1411,7 +1411,7 @@ As though it were a Toy!”
 
 
 
-<span class="atom-split" data-atom="story_06_moral" data-title="Cautionary Tales for Children — MORAL" data-chapter="MORAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_moral" data-title="Cautionary Tales for Children — MORAL" data-chapter="MORAL" data-kind="story" data-tags="motif/childhood,form/comic_verse_song"></span>
 
 
 MORAL
@@ -1437,7 +1437,7 @@ May always play with Sand.
 
 
 
-<span class="atom-split" data-atom="story_07_godolphin_horne" data-title="Cautionary Tales for Children — Godolphin Horne" data-chapter="Godolphin Horne" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_godolphin_horne" data-title="Cautionary Tales for Children — Godolphin Horne" data-chapter="Godolphin Horne" data-kind="story" data-tags="archetype/child"></span>
 
 
 Godolphin Horne
@@ -1555,7 +1555,7 @@ Who blacks the Boots at the Savoy.
 
 
 
-<span class="atom-split" data-atom="story_08_algernon" data-title="Cautionary Tales for Children — Algernon" data-chapter="Algernon" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_algernon" data-title="Cautionary Tales for Children — Algernon" data-chapter="Algernon" data-kind="story" data-tags="archetype/child,motif/childhood,form/comic_verse_song"></span>
 
 
 Algernon
@@ -1587,7 +1587,7 @@ For playing with a Loaded Gun.
 
 
 
-<span class="atom-split" data-atom="story_09_hildebrand" data-title="Cautionary Tales for Children — Hildebrand" data-chapter="Hildebrand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_hildebrand" data-title="Cautionary Tales for Children — Hildebrand" data-chapter="Hildebrand" data-kind="story" data-tags="archetype/child"></span>
 
 
 Hildebrand
@@ -1643,7 +1643,7 @@ And purchase some!”
 
 
 
-<span class="atom-split" data-atom="story_10_lord_lundy" data-title="Cautionary Tales for Children — Lord Lundy" data-chapter="Lord Lundy" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_lord_lundy" data-title="Cautionary Tales for Children — Lord Lundy" data-chapter="Lord Lundy" data-kind="story" data-tags="archetype/child"></span>
 
 
 Lord Lundy

@@ -1322,7 +1322,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_1" data-title="The History of King Lear (Quarto Text) — Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_1" data-title="The History of King Lear (Quarto Text) — Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/quest,archetype/child,archetype/king,motif/blood,motif/death,motif/grave,motif/leaves,motif/love,motif/nature,motif/night,motif/spring,motif/time,motif/well,concept/beauty,concept/faith,concept/fear,concept/friendship,concept/history,concept/honour,concept/nature,concept/pride,concept/self,concept/truth,form/history,setting/court,character/apollo,character/cordelia,character/duke_of_gloucester,character/edmund,character/gloucester,character/kent,character/king_lear,character/king_of_france,character/queen,character/regan"></span>
 
 
 | Speaker | Line |
@@ -1428,7 +1428,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_2" data-title="The History of King Lear (Quarto Text) — Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_2" data-title="The History of King Lear (Quarto Text) — Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/monster,archetype/villain,motif/death,motif/love,motif/moon,motif/nature,motif/night,motif/sleep,motif/stars,motif/time,motif/well,motif/wind,concept/fear,concept/friendship,concept/history,concept/honour,concept/hope,concept/melancholy,concept/nature,form/comedy,form/history,character/duke_of_gloucester,character/edgar,character/edmund,character/gloucester,character/kent,character/king_lear,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1491,7 +1491,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_3" data-title="The History of King Lear (Quarto Text) — Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_3" data-title="The History of King Lear (Quarto Text) — Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,motif/night,motif/well,concept/history,form/history,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1510,7 +1510,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_4" data-title="The History of King Lear (Quarto Text) — Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_4" data-title="The History of King Lear (Quarto Text) — Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/monster,archetype/shadow,motif/crown,motif/death,motif/fire,motif/horse,motif/love,motif/nature,motif/sleep,motif/spring,motif/tears,motif/well,motif/wind,concept/body,concept/faith,concept/fear,concept/history,concept/honour,concept/nature,concept/truth,form/history,setting/court,character/cordelia,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1666,7 +1666,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_5" data-title="The History of King Lear (Quarto Text) — Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_5" data-title="The History of King Lear (Quarto Text) — Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/fool,archetype/monster,motif/nature,motif/sleep,motif/stars,motif/time,concept/history,concept/nature,form/history,character/gloucester,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -1707,7 +1707,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_6" data-title="The History of King Lear (Quarto Text) — Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_6" data-title="The History of King Lear (Quarto Text) — Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/child,archetype/villain,motif/blood,motif/death,motif/home,motif/moon,motif/night,motif/time,motif/well,motif/window,concept/body,concept/history,form/history,character/duke_of_gloucester,character/edgar,character/edmund,character/gloucester,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -1776,7 +1776,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_7" data-title="The History of King Lear (Quarto Text) — Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_7" data-title="The History of King Lear (Quarto Text) — Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="topos/double,archetype/child,archetype/fool,archetype/king,archetype/rebel,archetype/villain,motif/blood,motif/childhood,motif/death,motif/desert,motif/fire,motif/hill,motif/home,motif/horse,motif/love,motif/moon,motif/nakedness,motif/nature,motif/night,motif/noon,motif/sleep,motif/snow,motif/storm,motif/time,motif/water,motif/well,motif/wheel,motif/wind,motif/winter,concept/beauty,concept/body,concept/charity,concept/fear,concept/forgiveness,concept/history,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,concept/vanity,form/history,setting/desert,character/ajax,character/cordelia,character/duke_of_gloucester,character/edgar,character/edmund,character/gloucester,character/kent,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -1972,7 +1972,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_8" data-title="The History of King Lear (Quarto Text) — Scene 8" data-chapter="Scene 8" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_8" data-title="The History of King Lear (Quarto Text) — Scene 8" data-chapter="Scene 8" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/lion,motif/night,motif/storm,motif/tears,motif/wind,concept/fear,concept/history,form/history,character/cordelia,character/kent,character/king_lear,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1994,7 +1994,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_9" data-title="The History of King Lear (Quarto Text) — Scene 9" data-chapter="Scene 9" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_9" data-title="The History of King Lear (Quarto Text) — Scene 9" data-chapter="Scene 9" data-kind="scene" data-tags="archetype/fool,motif/fire,motif/love,motif/nature,motif/night,motif/sleep,motif/storm,motif/water,motif/wind,concept/friendship,concept/history,concept/nature,form/history,setting/court,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2022,7 +2022,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_10" data-title="The History of King Lear (Quarto Text) — Scene 10" data-chapter="Scene 10" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_10" data-title="The History of King Lear (Quarto Text) — Scene 10" data-chapter="Scene 10" data-kind="scene" data-tags="archetype/king,motif/home,motif/night,motif/pain,concept/charity,concept/history,form/history,character/duke_of_gloucester,character/edmund,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2036,7 +2036,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_11" data-title="The History of King Lear (Quarto Text) — Scene 11" data-chapter="Scene 11" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_11" data-title="The History of King Lear (Quarto Text) — Scene 11" data-chapter="Scene 11" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/king,archetype/shadow,motif/blood,motif/death,motif/fire,motif/grave,motif/hill,motif/horse,motif/lion,motif/nature,motif/night,motif/seasons,motif/storm,motif/water,motif/well,motif/wind,concept/body,concept/charity,concept/history,concept/madness,concept/mercy,concept/nature,form/history,character/duke_of_gloucester,character/edgar,character/gloucester,character/kent,character/king_lear,character/regan,character/witch"></span>
 
 
 | Speaker | Line |
@@ -2112,7 +2112,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_12" data-title="The History of King Lear (Quarto Text) — Scene 12" data-chapter="Scene 12" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_12" data-title="The History of King Lear (Quarto Text) — Scene 12" data-chapter="Scene 12" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/love,motif/nature,concept/history,concept/nature,concept/revenge,form/history,character/edmund,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2130,7 +2130,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_13" data-title="The History of King Lear (Quarto Text) — Scene 13" data-chapter="Scene 13" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_13" data-title="The History of King Lear (Quarto Text) — Scene 13" data-chapter="Scene 13" data-kind="scene" data-tags="archetype/fool,archetype/innocent,archetype/king,motif/death,motif/fire,motif/horse,motif/love,motif/nature,motif/nightingale,motif/pain,motif/tears,concept/history,concept/mercy,concept/nature,form/history,character/duke_of_gloucester,character/edgar,character/gloucester,character/kent,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2186,7 +2186,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_14" data-title="The History of King Lear (Quarto Text) — Scene 14" data-chapter="Scene 14" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_14" data-title="The History of King Lear (Quarto Text) — Scene 14" data-chapter="Scene 14" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/death,motif/nature,motif/night,motif/storm,motif/time,motif/well,concept/body,concept/history,concept/madness,concept/nature,concept/truth,form/history,character/duke_of_gloucester,character/edgar,character/edmund,character/gloucester,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2270,7 +2270,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_15" data-title="The History of King Lear (Quarto Text) — Scene 15" data-chapter="Scene 15" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_15" data-title="The History of King Lear (Quarto Text) — Scene 15" data-chapter="Scene 15" data-kind="scene" data-tags="archetype/fool,motif/dance,motif/love,motif/night,motif/soul,motif/storm,motif/time,concept/fear,concept/history,form/history,character/duke_of_gloucester,character/edgar,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2316,7 +2316,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_16" data-title="The History of King Lear (Quarto Text) — Scene 16" data-chapter="Scene 16" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_16" data-title="The History of King Lear (Quarto Text) — Scene 16" data-chapter="Scene 16" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/blood,motif/death,motif/dust,motif/home,motif/love,motif/nature,motif/well,motif/wind,concept/body,concept/fear,concept/history,concept/honour,concept/nature,concept/revenge,concept/self,concept/suffering,form/history,character/edmund,character/gloucester,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2370,7 +2370,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_17" data-title="The History of King Lear (Quarto Text) — Scene 17" data-chapter="Scene 17" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_17" data-title="The History of King Lear (Quarto Text) — Scene 17" data-chapter="Scene 17" data-kind="scene" data-tags="archetype/king,archetype/rebel,motif/night,motif/stars,motif/storm,motif/tears,motif/water,motif/well,concept/faith,concept/fear,concept/history,concept/self,form/history,character/cordelia,character/kent,character/king_lear,character/king_of_france,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2406,7 +2406,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_18" data-title="The History of King Lear (Quarto Text) — Scene 18" data-chapter="Scene 18" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_18" data-title="The History of King Lear (Quarto Text) — Scene 18" data-chapter="Scene 18" data-kind="scene" data-tags="motif/flowers,motif/love,motif/nature,motif/secrets,motif/spring,motif/tears,concept/ambition,concept/history,concept/nature,form/history,character/cordelia,character/king_lear,character/nurse,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2424,7 +2424,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_19" data-title="The History of King Lear (Quarto Text) — Scene 19" data-chapter="Scene 19" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_19" data-title="The History of King Lear (Quarto Text) — Scene 19" data-chapter="Scene 19" data-kind="scene" data-tags="motif/desire,motif/home,motif/love,motif/well,concept/faith,concept/history,form/history,character/edmund,character/gloucester,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2453,7 +2453,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_20" data-title="The History of King Lear (Quarto Text) — Scene 20" data-chapter="Scene 20" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_20" data-title="The History of King Lear (Quarto Text) — Scene 20" data-chapter="Scene 20" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/tyrant,archetype/villain,motif/autumn,motif/blood,motif/crown,motif/death,motif/desire,motif/dust,motif/flowers,motif/garden,motif/hill,motif/horse,motif/jewel,motif/love,motif/moon,motif/nature,motif/snow,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/despair,concept/history,concept/imagination,concept/madness,concept/mortality,concept/nature,form/history,character/costard,character/duke_of_gloucester,character/edgar,character/edmund,character/gloucester,character/king_lear,character/queen,character/regan,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2574,7 +2574,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_21" data-title="The History of King Lear (Quarto Text) — Scene 21" data-chapter="Scene 21" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_21" data-title="The History of King Lear (Quarto Text) — Scene 21" data-chapter="Scene 21" data-kind="scene" data-tags="archetype/child,archetype/king,motif/cross,motif/desire,motif/fire,motif/grave,motif/lightning,motif/love,motif/nature,motif/night,motif/poison,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,motif/wheel,motif/wind,concept/doubt,concept/faith,concept/fear,concept/history,concept/nature,concept/truth,concept/wonder,form/history,setting/germany,character/cordelia,character/edgar,character/gloucester,character/kent,character/king_lear"></span>
 
 
 | Speaker | Line |
@@ -2620,7 +2620,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_22" data-title="The History of King Lear (Quarto Text) — Scene 22" data-chapter="Scene 22" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_22" data-title="The History of King Lear (Quarto Text) — Scene 22" data-chapter="Scene 22" data-kind="scene" data-tags="archetype/king,motif/love,motif/time,motif/well,concept/fear,concept/history,concept/honour,concept/mercy,concept/self,concept/truth,form/history,form/riddle,character/cordelia,character/edgar,character/edmund,character/king_lear,character/regan"></span>
 
 
 | Speaker | Line |
@@ -2667,7 +2667,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_23" data-title="The History of King Lear (Quarto Text) — Scene 23" data-chapter="Scene 23" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_23" data-title="The History of King Lear (Quarto Text) — Scene 23" data-chapter="Scene 23" data-kind="scene" data-tags="archetype/shadow,concept/history,form/history,character/cordelia,character/duke_of_gloucester,character/edgar,character/gloucester,character/king_lear,character/queen"></span>
 
 
 | Speaker | Line |
@@ -2683,7 +2683,7 @@ tags:
 
 
 
-<span class="atom-split" data-atom="scenes--scene_24" data-title="The History of King Lear (Quarto Text) — Scene 24" data-chapter="Scene 24" data-kind="scene"></span>
+<span class="atom-split" data-atom="scenes--scene_24" data-title="The History of King Lear (Quarto Text) — Scene 24" data-chapter="Scene 24" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,archetype/villain,motif/birds,motif/blood,motif/death,motif/decay,motif/dust,motif/fire,motif/horse,motif/journey,motif/love,motif/mirror,motif/moon,motif/nature,motif/night,motif/pain,motif/poison,motif/prison,motif/soul,motif/time,motif/well,motif/wheel,concept/charity,concept/despair,concept/forgiveness,concept/history,concept/honour,concept/nature,concept/poverty,concept/truth,concept/wonder,form/history,form/satire,setting/castle,setting/court,setting/oxford,character/alcibiades,character/cordelia,character/edgar,character/edmund,character/flavius,character/gloucester,character/kent,character/king_lear,character/mark_antony,character/queen,character/regan,character/timon"></span>
 
 
 | Speaker | Line |

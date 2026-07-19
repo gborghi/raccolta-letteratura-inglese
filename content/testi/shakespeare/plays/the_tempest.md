@@ -869,7 +869,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="The Tempest — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="The Tempest — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/death,motif/lightning,motif/love,motif/ship,motif/silence,motif/storm,motif/water,motif/wind,concept/mercy,setting/ship,character/alonso,character/antonio,character/ferdinand,character/gonzalo,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -920,7 +920,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="The Tempest — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="The Tempest — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/villain,motif/bees,motif/crown,motif/fire,motif/frost,motif/grave,motif/home,motif/lightning,motif/love,motif/memory,motif/nature,motif/night,motif/prayer,motif/prison,motif/ship,motif/sleep,motif/soul,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/ambition,concept/beauty,concept/charity,concept/conscience,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/mercy,concept/nature,concept/providence,concept/self,concept/truth,concept/wonder,histref/inquisition,setting/court,setting/ship,character/antonio,character/ariel,character/caliban,character/duke_of_milan,character/ferdinand,character/gonzalo,character/miranda,character/queen,character/witch"></span>
 
 
 | Speaker | Line |
@@ -1098,7 +1098,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="The Tempest — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="The Tempest — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/golden_age,archetype/fool,archetype/innocent,archetype/king,archetype/monster,archetype/tyrant,motif/clock,motif/crown,motif/death,motif/desert,motif/fire,motif/home,motif/love,motif/marriage,motif/memory,motif/moon,motif/nature,motif/sleep,motif/soul,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/ambition,concept/conscience,concept/doubt,concept/fear,concept/freedom,concept/honour,concept/hope,concept/imagination,concept/madness,concept/mercy,concept/nature,concept/poverty,concept/truth,concept/wonder,setting/desert,setting/italy,character/alonso,character/antonio,character/ariel,character/bottom,character/caliban,character/ferdinand,character/gonzalo,character/queen,character/sebastian,character/trinculo"></span>
 
 
 | Speaker | Line |
@@ -1337,7 +1337,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="The Tempest — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="The Tempest — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,motif/crown,motif/desire,motif/jewel,motif/lightning,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/freedom,concept/honour,concept/imagination,concept/slavery,character/ferdinand,character/miranda"></span>
 
 
 | Speaker | Line |
@@ -1376,7 +1376,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="The Tempest — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="The Tempest — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,archetype/monster,archetype/tyrant,motif/death,motif/moon,motif/sleep,motif/time,motif/water,concept/beauty,concept/greatness,concept/honour,concept/mercy,concept/revenge,character/ariel,character/caliban,character/queen,character/trinculo"></span>
 
 
 | Speaker | Line |
@@ -1459,7 +1459,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="The Tempest — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="The Tempest — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/king,motif/dance,motif/death,motif/home,motif/lightning,motif/poison,motif/time,motif/well,concept/faith,concept/fear,concept/guilt,concept/hope,character/alonso,character/antonio,character/ariel,character/ferdinand,character/gonzalo,character/sebastian"></span>
 
 
 | Speaker | Line |
@@ -1506,7 +1506,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="The Tempest — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="The Tempest — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/king,archetype/monster,archetype/shadow,archetype/tyrant,motif/blood,motif/crown,motif/dance,motif/dreams,motif/fire,motif/flowers,motif/horse,motif/love,motif/nature,motif/night,motif/silence,motif/sleep,motif/snow,motif/time,motif/well,motif/wind,concept/body,concept/freedom,concept/honour,concept/hope,concept/mercy,concept/nature,concept/union,concept/vanity,setting/mountains,character/ariel,character/caliban,character/ferdinand,character/miranda,character/queen,character/trinculo,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1611,7 +1611,7 @@ The Tempest
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="The Tempest — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="The Tempest — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/king,archetype/lover,archetype/monster,motif/blood,motif/chains,motif/crown,motif/death,motif/desire,motif/fire,motif/garden,motif/grave,motif/home,motif/love,motif/marriage,motif/moon,motif/nature,motif/night,motif/prayer,motif/ship,motif/sleep,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/ambition,concept/body,concept/despair,concept/doubt,concept/fear,concept/forgiveness,concept/freedom,concept/history,concept/honour,concept/hope,concept/madness,concept/mercy,concept/nature,concept/providence,concept/reconciliation,concept/truth,concept/wonder,form/history,form/tragicomedy,form/translation,setting/court,setting/london,setting/ship,character/alonso,character/antonio,character/ariel,character/caliban,character/don_quixote,character/duke_of_milan,character/ferdinand,character/gonzalo,character/miranda,character/pericles,character/queen,character/sebastian,character/trinculo,character/witch"></span>
 
 
 | Speaker | Line |

@@ -160,7 +160,7 @@ That is a lie; so perhaps Mr. Jackson does not believe it
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Two_Kinds_of_Paradox (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Two_Kinds_of_Paradox (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/horse,motif/love,motif/night,motif/road,motif/sleep,motif/stars,motif/time,concept/doubt,concept/hope,concept/paradox,concept/truth,setting/london,character/macbeth"></span>
 
 
 # Two Kinds of [[Paradox]]
@@ -284,7 +284,7 @@ Poiché vi sono due specie di paradossi.  Non sono tanto i buoni e i cattivi, e 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Two_Kinds_of_Paradox (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Two_Kinds_of_Paradox (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/nature,concept/charity,concept/imagination,concept/nature,concept/paradox,concept/truth"></span>
 
 
 I will give such instances as happen to lie before me.

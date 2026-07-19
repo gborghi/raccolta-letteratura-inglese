@@ -3182,7 +3182,8 @@ Outlook, [[New York]]._
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="part 01" data-chapter="part 01" data-kind="excerpt" data-tags="motif/garden,motif/road,motif/stars,motif/time,concept/wonder,form/comedy,setting/london,setting/new_york,character/fred,character/hastings"></span>
+
 
 
 
@@ -3409,7 +3410,7 @@ He is an old-fashioned practitioner, very much of a gentleman and
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Magic (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Magic (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/garden,motif/ghosts,motif/night,motif/well,motif/window,concept/hope,histref/america,setting/america,character/hastings"></span>
 
 
 very carefully dressed in a slightly antiquated style. He is about
@@ -3813,7 +3814,7 @@ del crepuscolo celtico. Ha la tendenza a posarsi sul petto.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Magic (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Magic (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/night,motif/silence,motif/supernatural,motif/well,motif/window,histref/america,histref/french_revolution,histref/spanish_inquisition,setting/america,character/hastings"></span>
 
 
 But what is worse, she is always talking about meeting somebody, some
@@ -4205,7 +4206,7 @@ Quello che io chiamo sempre il temperamento artistico! Wordsworth, sapete, e
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Magic (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Magic (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/moon,motif/night,motif/stars,motif/time,motif/well,motif/window,concept/truth"></span>
 
 
 all that.
@@ -4625,7 +4626,7 @@ dureranno più a lungo delle lampade rosse?
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Magic (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Magic (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/shadow,motif/garden,motif/leaves,motif/night,motif/stars,motif/time,motif/well,concept/doubt,character/hastings"></span>
 
 
 [[smith|SMITH]]. [_With decision._] Yes. But they are fixed [[Stars|stars]].
@@ -4843,7 +4844,7 @@ CONJURER. I should say it was remembering which people to remember.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="Magic (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="Magic (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/silence,motif/well,concept/fear,character/hastings,character/kent"></span>
 
 
 DUKE. [[Well]], [[Well|well]], now.... [_Looks round rather wildly for something._]
@@ -5247,7 +5248,7 @@ PATRICIA. La risposta a che cosa?
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="Magic (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="Magic (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/night,motif/time,motif/well,concept/truth,character/bottom"></span>
 
 
 CONJURER. [_Coming round to the front of the table and sitting against
@@ -5631,7 +5632,7 @@ PATRICIA. [_Attraversando la stanza e parlando seriamente a suo fratello._]
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="Magic (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="Magic (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/grave,motif/time,motif/water,motif/well,concept/fear,histref/america,histref/bible,setting/america"></span>
 
 
 Really, Morris, you are very rude. And it's quite ridiculous to be rude.
@@ -5835,7 +5836,7 @@ DOCTOR. [_With a certain dignity, his social type shining through his
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="Magic (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="Magic (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/garden,motif/ghosts,motif/moon,motif/silence,motif/time,motif/well,concept/hope,histref/america,setting/america"></span>
 
 
 profession._] Mr. Carleon, you will forgive an old man, who knew your
@@ -6037,7 +6038,7 @@ science, and you dare to tell me not to inquire!
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="Magic (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="Magic (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/death,motif/garden,motif/grave,motif/mirror,motif/night,motif/silence,motif/well,motif/window,concept/doubt,histref/bible,character/apollo"></span>
 
 
 MORRIS. [_Violently._] No, Priest, I will not let it [[Alone|alone]]. [_Pacing the
@@ -6469,7 +6470,7 @@ male può essere venuta dal non credere in [[Apollo]]? Non le viene mai in mente
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="Magic (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="Magic (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/grave,motif/night,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/faith,concept/madness,concept/truth,character/hastings"></span>
 
 
 that [[Doubt|doubt]] can be a [[Madness|madness]], as [[Well|well]] be [[Faith|faith]]? That asking questions may
@@ -6877,7 +6878,7 @@ PRESTIGIATORE. Perché non mi crederebbe se lo facessi.
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="Magic (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="Magic (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="motif/grave,motif/secrets,motif/well,concept/hope,concept/truth"></span>
 
 
 [_Enter the_ DUKE _with papers in his hand. His usual gaiety of
@@ -7297,7 +7298,7 @@ PRESTIGIATORE. Mi toglierò il mantello quando lei si toglierà l'abito.
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="Magic (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="Magic (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/love,motif/night,motif/secrets,motif/soul,motif/supernatural,motif/time,motif/well,concept/body,concept/courage,character/nurse"></span>
 
 
 [[smith|SMITH]]. [_Smiling._] Why? Do you want me to fight?
@@ -7705,7 +7706,7 @@ PATRICIA. Perché smise?
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="Magic (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="Magic (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/garden,motif/silence,motif/supernatural,motif/time,motif/well,motif/window,concept/pride,concept/wonder,character/hastings"></span>
 
 
 CONJURER. It began by giving me headaches. And I found that every
@@ -8133,7 +8134,7 @@ DUCA. Professore, le dobbiamo mille grazie!
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="Magic (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="Magic (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/death,motif/love,motif/marriage,motif/memory,motif/moon,motif/night,motif/well,concept/beauty,concept/fear,concept/history,concept/imagination,form/comedy,form/history,histref/america,setting/america,setting/london,setting/new_york,character/queen,character/queen_elizabeth"></span>
 
 
 DOCTOR. Really, you have doubled your claim to originality!
@@ -8365,7 +8366,7 @@ only to that of Cromwell.
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="Magic (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="Magic (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="archetype/king,motif/crown,concept/beauty,concept/history,concept/union,form/history,form/tragedy,histref/america,setting/america,setting/london,setting/new_york,character/henry_viii,character/kent"></span>
 
 
 =The White Cockade= is founded on a tradition of [[King]] James having escaped

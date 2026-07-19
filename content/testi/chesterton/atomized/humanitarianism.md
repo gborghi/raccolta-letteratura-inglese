@@ -194,7 +194,7 @@ G. K. Chesterton.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Humanitarianism (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Humanitarianism (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/love,motif/nature,concept/imagination,concept/nature,concept/union,form/parody,form/riddle"></span>
 
 
 [[Humanitarianism]] True and False 
@@ -308,7 +308,7 @@ Ma all'uomo che voglia assumere questa posizione verso chi spara alle pernici oc
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Humanitarianism (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Humanitarianism (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/well,concept/greatness,concept/hope,form/parable"></span>
 
 
 The opponents of [[Humanitarianism|humanitarianism]] do actually say that the humanitarian

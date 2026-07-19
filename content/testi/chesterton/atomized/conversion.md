@@ -2311,7 +2311,7 @@ with the great dome over all.
 
 
 
-<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_01" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_01" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 1)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt" data-tags="motif/love,motif/night,motif/time,concept/conversion,concept/doubt,concept/faith,concept/fear,concept/survival,concept/truth,histref/america,setting/america,setting/oxford"></span>
 
 
 CHAPTER I:  INTRODUCTORY:  A NEW RELIGION
@@ -2453,7 +2453,7 @@ Ora, questo è piuttosto strano; perché Roma non è poi così nuova. Tra queste
 
 
 
-<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_02" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_introductory_a_new_religion--part_02" data-title="The Catholic Church and Conversion — Chapter 1: INTRODUCTORY:  A NEW RELIGION (part 2)" data-chapter="INTRODUCTORY A NEW RELIGION" data-kind="excerpt" data-tags="archetype/innocent,motif/cross,motif/nature,motif/time,motif/well,concept/conversion,concept/faith,concept/mortality,concept/nature,concept/truth,character/christ"></span>
 
 
 I am not going to talk about numbers and statistics, though I
@@ -2544,7 +2544,7 @@ Queste sono le considerazioni generali che governano ogni studio personale della
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_01" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 1)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_01" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 1)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt" data-tags="archetype/fool,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/conversion,concept/education,concept/hope,concept/temptation,concept/truth,concept/wonder,form/hymn,histref/bible,histref/catholic_church,character/maria,character/monks"></span>
 
 
 CHAPTER II:  THE OBVIOUS BLUNDERS
@@ -2712,7 +2712,7 @@ La Chiesa è una [[house|casa]] dalle cento porte; e non vi sono due uomini che 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_02" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_02" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 2)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt" data-tags="motif/birds,motif/home,motif/nature,motif/night,motif/well,concept/conversion,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/imagination,concept/nature,concept/truth"></span>
 
 
 Similarly, I could never take seriously the [[Fear|fear]] of the priest,
@@ -2863,7 +2863,7 @@ Una sfumatura più plausibile dell'idea che i preti papisti mirino soltanto al m
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_03" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_03" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 3)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt" data-tags="archetype/shadow,motif/childhood,motif/death,motif/love,motif/rose,motif/storm,motif/time,concept/conversion,concept/faith,concept/history,concept/honour,concept/paradox,concept/union,form/history,histref/bible,character/nurse"></span>
 
 
 It is strange to me to go back to these things now, and to think
@@ -3013,7 +3013,7 @@ Vi era questo in comune tra i cattolici cui sono giunto e i liberali tra cui nac
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_04" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 4)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_obvious_blunders--part_04" data-title="The Catholic Church and Conversion — Chapter 2: THE OBVIOUS BLUNDERS (part 4)" data-chapter="THE OBVIOUS BLUNDERS" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/horse,motif/nature,motif/rose,motif/time,motif/well,concept/conversion,concept/faith,concept/nature,form/novel,form/translation,histref/catholic_church,histref/christianity,character/christ"></span>
 
 
 The [[Catholic Church]] loves nations as she loves men; because they
@@ -3094,7 +3094,7 @@ Ho scelto questo particolare caso del patriottismo perché riguarda almeno un'em
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_01" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 1)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_01" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 1)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/horse,motif/marriage,motif/well,concept/conversion,concept/faith,concept/fear,concept/freedom,concept/paradox,histref/christianity,histref/reformation,setting/court"></span>
 
 
 CHAPTER III:  THE REAL OBSTACLES
@@ -3238,7 +3238,7 @@ In breve, si può dire che egli non teme più i vizi, ma teme moltissimo le virt
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_02" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 2)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_02" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 2)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/animals,motif/flowers,motif/home,motif/prayer,motif/road,motif/time,motif/uncanny,concept/conversion,concept/doubt,concept/faith,concept/fear,concept/immortality,concept/truth,concept/uncanny,form/translation,histref/catholic_church"></span>
 
 
 It is the same with all the other points of attack,
@@ -3437,7 +3437,7 @@ It is that in which the man is trying not to be converted.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_03" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 3)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_03" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 3)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/nature,motif/poison,motif/road,motif/time,motif/window,concept/conversion,concept/doubt,concept/fear,concept/nature,concept/paradox,concept/suicide,concept/truth,histref/catholic_church,histref/renaissance,character/venus"></span>
 
 
 He has come too near to the [[Truth|truth]], and has forgotten that [[Truth|truth]]
@@ -3546,7 +3546,7 @@ but rather of the Church finding him out.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_04" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 4)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_real_obstacles--part_04" data-title="The Catholic Church and Conversion — Chapter 3: THE REAL OBSTACLES (part 4)" data-chapter="THE REAL OBSTACLES" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/flowers,motif/garden,motif/love,motif/moon,motif/nature,motif/soul,motif/tears,motif/time,motif/well,concept/conversion,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/history,concept/madness,concept/nature,concept/truth,concept/wonder,form/history,histref/catholic_church,histref/christianity,character/christ"></span>
 
 
 This note on the stages of [[conversion]] is necessarily very negative
@@ -3789,7 +3789,7 @@ fasi sono finite, una più ampia [[Truth|verità]] comincia a entrare in vista;
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_01" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 1)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_01" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 1)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt" data-tags="motif/death,motif/moon,motif/ship,concept/conversion,concept/history,form/history,histref/catholic_church,histref/dante,setting/cathedral,setting/ship"></span>
 
 
 CHAPTER IV:  THE WORLD INSIDE OUT
@@ -3921,7 +3921,7 @@ Ma in un senso assai più profondo e filosofico questa nozione che la Chiesa sia
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_02" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 2)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_02" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 2)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/ghosts,motif/horse,motif/lion,motif/road,motif/time,concept/conversion,concept/education,concept/history,concept/imagination,concept/madness,concept/truth,form/history,histref/catholic_church,histref/milton,character/milton"></span>
 
 
 It is not easy to express this enormous inversion which I have
@@ -4041,7 +4041,7 @@ In breve, la storia di queste sette non è fatta di linee rette che si slanciano
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_03" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_the_world_inside_out--part_03" data-title="The Catholic Church and Conversion — Chapter 4: THE WORLD INSIDE OUT (part 3)" data-chapter="THE WORLD INSIDE OUT" data-kind="excerpt" data-tags="archetype/outsider,motif/dance,motif/garden,motif/home,motif/journey,motif/machine,motif/prison,motif/road,motif/stars,motif/supernatural,motif/time,motif/well,motif/wheel,concept/conversion,concept/despair,concept/freedom,concept/hope,concept/melancholy,concept/temptation,concept/truth,form/essay,form/sketch,histref/america,histref/catholic_church,histref/christianity,setting/america,character/christ"></span>
 
 
 When the [[convert]] has once seen the world like that,
@@ -4210,7 +4210,7 @@ So molto [[Well|bene]] che se intraprendessi quel [[Journey|viaggio]] mi toccher
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_01" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_01" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 1)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/well,motif/wind,concept/charity,concept/conversion,concept/faith,concept/history,concept/nature,concept/paradox,concept/reconciliation,concept/self,concept/slavery,concept/truth,form/history,form/parable,form/tragedy,histref/catholic_church"></span>
 
 
 CHAPTER V:  THE EXCEPTION PROVES THE RULE
@@ -4342,7 +4342,7 @@ Non vogliamo davvero una religione che abbia ragione là dove noi abbiamo ragion
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_02" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 2)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_02" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 2)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/dreams,motif/hill,motif/love,motif/prison,motif/ship,motif/time,motif/well,concept/conscience,concept/conversion,concept/slavery,histref/catholic_church,setting/castle,setting/ship"></span>
 
 
 As will be seen in a moment, I do not mean in the least that the
@@ -4465,7 +4465,7 @@ Il critico superficiale di queste cose, notando che non sono più socialista, di
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_03" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_03" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 3)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt" data-tags="topos/double,archetype/innocent,archetype/pilgrim,motif/childhood,motif/dreams,motif/road,motif/supernatural,motif/time,concept/conscience,concept/conversion,concept/faith,concept/fear,concept/mesmerism,concept/poverty,concept/slavery,concept/truth,histref/catholic_church"></span>
 
 
 As it happens, my story was almost exactly the same in connection
@@ -4593,7 +4593,7 @@ Potrei dare molti altri esempi, ma [[Fear|temo]] che tenderebbero inevitabilment
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_04" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 4)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_exception_proves_the_rule--part_04" data-title="The Catholic Church and Conversion — Chapter 5: THE EXCEPTION PROVES THE RULE (part 4)" data-chapter="THE EXCEPTION PROVES THE RULE" data-kind="excerpt" data-tags="motif/garden,motif/nature,concept/charity,concept/conversion,concept/education,concept/faith,concept/history,concept/imagination,concept/mercy,concept/nature,concept/truth,form/history,character/maria"></span>
 
 
 In this we find the supreme example of the exception that proves
@@ -4677,7 +4677,7 @@ Ma il modo migliore di esprimere ciò che intendo è ripetere quanto ho già det
 
 
 
-<span class="atom-split" data-atom="chapter_06_a_note_on_present_prospects" data-title="The Catholic Church and Conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS" data-chapter="A NOTE ON PRESENT PROSPECTS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_a_note_on_present_prospects" data-title="The Catholic Church and Conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS" data-chapter="A NOTE ON PRESENT PROSPECTS" data-kind="chapter" data-tags="motif/desire,motif/leaves,motif/love,motif/nature,motif/time,concept/conversion,concept/endurance,concept/faith,concept/nature,histref/catholic_church"></span>
 
 
 CHAPTER VI:  A NOTE ON PRESENT PROSPECTS

@@ -140,7 +140,7 @@ published in 1933.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="turnpikes (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="turnpikes (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/love,motif/road,motif/time,concept/fear,concept/history,concept/melancholy,concept/paradox,form/comedy,form/history,histref/dante,setting/oxford,setting/paris"></span>
 
 
 On [[turnpikes|Turnpikes]] and Medievalism
@@ -237,7 +237,7 @@ Ma, in realtà, questa bizzarra espressione non coprirebbe soltanto ciò che si 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="turnpikes (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="turnpikes (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/self,setting/london"></span>
 
 
 Next we have, of course, the very considerable historic [[Doubt|doubt]]

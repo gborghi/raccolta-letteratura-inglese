@@ -309,7 +309,7 @@ the subject of discussion.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Social_Reform_BC (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Social_Reform_BC (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/king,motif/flowers,motif/time,motif/water,concept/charity,concept/history,concept/reform,form/history"></span>
 
 
 # Social [[Reform]] B.C
@@ -444,7 +444,7 @@ Se qualcuno dubita che questo sia il motivo assai semplice, lo metta alla prova 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Social_Reform_BC (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Social_Reform_BC (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/desire,concept/reform,concept/truth"></span>
 
 
 But the Birth-Controllers have not the smallest [[Desire|desire]] to control
@@ -555,7 +555,7 @@ Ciò che non riesco a far vedere ai miei avversari in questa faccenda, nella str
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Social_Reform_BC (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Social_Reform_BC (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/sleep,motif/well,concept/despair,concept/doubt,concept/freedom,concept/nature,concept/reform,concept/self,concept/slavery"></span>
 
 
 There is of course a great deal more to be said.  I have dealt with

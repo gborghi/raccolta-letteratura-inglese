@@ -3527,7 +3527,7 @@ The End
 
 
 
-<span class="atom-split" data-atom="story_01_two_stones_in_a_square" data-title="Irish Impressions — Two Stones in a Square" data-chapter="Two Stones in a Square" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_two_stones_in_a_square" data-title="Irish Impressions — Two Stones in a Square" data-chapter="Two Stones in a Square" data-kind="story" data-tags="archetype/ghost,archetype/king,motif/birds,motif/city,motif/cross,motif/dance,motif/decay,motif/flag,motif/flowers,motif/garden,motif/grave,motif/horse,motif/journey,motif/leaves,motif/memory,motif/road,motif/silence,motif/summer,motif/time,motif/well,concept/beauty,concept/body,concept/history,concept/paradox,concept/resurrection,concept/truth,concept/wonder,form/allegory,form/history,form/tragedy,setting/mountains"></span>
 
 
 I. Two Stones in a Square
@@ -3945,7 +3945,7 @@ premonizione di concretezza nel miracolo dell'Irlanda moderna.
 
 
 
-<span class="atom-split" data-atom="story_02_the_root_of_reality" data-title="Irish Impressions — The Root of Reality" data-chapter="The Root of Reality" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_root_of_reality" data-title="Irish Impressions — The Root of Reality" data-chapter="The Root of Reality" data-kind="story" data-tags="motif/autumn,motif/city,motif/crown,motif/desire,motif/fire,motif/home,motif/machine,motif/nature,motif/road,motif/stars,motif/time,motif/well,motif/wind,concept/democracy,concept/doubt,concept/faith,concept/fear,concept/history,concept/honour,concept/imagination,concept/madness,concept/nature,concept/slavery,concept/suffering,concept/truth,concept/union,concept/wonder,form/allegory,form/history,form/parable,histref/america,histref/irish_question,histref/islam,setting/america,setting/italy,setting/london,setting/venice"></span>
 
 
 II. The Root of Reality
@@ -4727,7 +4727,7 @@ anche allora saranno le nostre strade a essere morte; e l'erba sarà ancora viva
 
 
 
-<span class="atom-split" data-atom="story_03_the_family_and_the_feud" data-title="Irish Impressions — The Family and the Feud" data-chapter="The Family and the Feud" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_family_and_the_feud" data-title="Irish Impressions — The Family and the Feud" data-chapter="The Family and the Feud" data-kind="story" data-tags="archetype/child,archetype/shadow,motif/blood,motif/childhood,motif/dawn,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/apocalypse,concept/charity,concept/courage,concept/democracy,concept/doubt,concept/education,concept/eugenics,concept/history,concept/humility,concept/nature,concept/paradox,concept/pride,concept/reform,concept/truth,concept/union,form/history,histref/reformation,setting/london,character/bottom,character/michael,character/satan"></span>
 
 
 III. The Family and the Feud
@@ -5298,7 +5298,7 @@ Legge non si applicherà all'Irlanda».
 
 
 
-<span class="atom-split" data-atom="story_04_the_paradox_of_labour" data-title="Irish Impressions — The Paradox of Labour" data-chapter="The Paradox of Labour" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_paradox_of_labour" data-title="Irish Impressions — The Paradox of Labour" data-chapter="The Paradox of Labour" data-kind="story" data-tags="archetype/child,archetype/ghost,archetype/king,archetype/shadow,motif/city,motif/dance,motif/death,motif/dreams,motif/flag,motif/garden,motif/love,motif/memory,motif/moon,motif/nature,motif/road,motif/time,motif/water,motif/well,motif/wind,concept/charity,concept/courage,concept/democracy,concept/doubt,concept/faith,concept/freedom,concept/greatness,concept/greed,concept/history,concept/imagination,concept/loneliness,concept/martyrdom,concept/nature,concept/paradox,concept/sublime,concept/truth,concept/union,form/essay,form/history,form/parable,form/sketch,form/tragedy,histref/america,setting/america,setting/castle,setting/mountains"></span>
 
 
 IV. The [[Paradox]] of Labour
@@ -5987,7 +5987,7 @@ miei padri».
 
 
 
-<span class="atom-split" data-atom="story_05_the_englishman_in_ireland" data-title="Irish Impressions — The Englishman in Ireland" data-chapter="The Englishman in Ireland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_englishman_in_ireland" data-title="Irish Impressions — The Englishman in Ireland" data-chapter="The Englishman in Ireland" data-kind="story" data-tags="archetype/fool,archetype/hero,archetype/rebel,archetype/tyrant,motif/cross,motif/desire,motif/flag,motif/home,motif/love,motif/memory,motif/pain,motif/stars,motif/time,motif/well,concept/doubt,concept/exile,concept/fear,concept/friendship,concept/greatness,concept/history,concept/hope,concept/humility,concept/imagination,concept/pride,concept/reconciliation,concept/self,concept/suicide,concept/truth,form/history,form/tragedy,setting/germany,character/aquinas"></span>
 
 
 V. The Englishman in Ireland
@@ -6568,7 +6568,7 @@ poiché so molto [[Well|bene]] che egli non sentiva soltanto da inglese, ma da
 
 
 
-<span class="atom-split" data-atom="story_06_the_mistake_of_england" data-title="Irish Impressions — The Mistake of England" data-chapter="The Mistake of England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_mistake_of_england" data-title="Irish Impressions — The Mistake of England" data-chapter="The Mistake of England" data-kind="story" data-tags="archetype/fool,archetype/pilgrim,archetype/tyrant,archetype/villain,motif/blood,motif/chains,motif/city,motif/cross,motif/fire,motif/flag,motif/garden,motif/hill,motif/love,motif/machine,motif/memory,motif/road,motif/rose,motif/time,motif/well,concept/body,concept/democracy,concept/doubt,concept/fear,concept/history,concept/honour,concept/hope,concept/imagination,concept/madness,concept/paradox,concept/reconciliation,concept/reform,concept/suicide,concept/union,form/allegory,form/history,form/novel,form/parable,form/tragedy,histref/america,histref/islam,setting/america,setting/germany,setting/london,setting/paris,character/christ"></span>
 
 
 VI. The Mistake of England
@@ -7275,7 +7275,7 @@ un'immagine alata della Vittoria; e le vie si dividono.
 
 
 
-<span class="atom-split" data-atom="story_07_the_mistake_of_ireland" data-title="Irish Impressions — The Mistake of Ireland" data-chapter="The Mistake of Ireland" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_mistake_of_ireland" data-title="Irish Impressions — The Mistake of Ireland" data-chapter="The Mistake of Ireland" data-kind="story" data-tags="archetype/artist,archetype/ghost,archetype/hero,archetype/king,archetype/lover,archetype/shadow,motif/animals,motif/blood,motif/city,motif/dance,motif/death,motif/desire,motif/flag,motif/home,motif/love,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/alienation,concept/body,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/heroism,concept/hope,concept/paradox,concept/self,concept/sublime,concept/survival,concept/truth,form/litany,histref/america,setting/america,setting/court,setting/germany,setting/mountains,setting/paris,character/buckingham,character/chorus,character/michael,character/sunday"></span>
 
 
 VII. The Mistake of Ireland
@@ -7746,7 +7746,7 @@ who knew and loved him spoke to me for a million others in saying:
 
 
 
-<span class="atom-split" data-atom="story_08_an_example_and_a_question" data-title="Irish Impressions — An Example and a Question" data-chapter="An Example and a Question" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_an_example_and_a_question" data-title="Irish Impressions — An Example and a Question" data-chapter="An Example and a Question" data-kind="story" data-tags="topos/double,topos/quest,archetype/child,archetype/detective,archetype/innocent,archetype/king,archetype/monster,archetype/outsider,archetype/shadow,motif/childhood,motif/cross,motif/decay,motif/flag,motif/grave,motif/hill,motif/home,motif/love,motif/memory,motif/moon,motif/nature,motif/road,motif/silence,motif/soul,motif/time,motif/water,motif/well,motif/wheel,motif/window,concept/body,concept/despair,concept/doubt,concept/exile,concept/faith,concept/freedom,concept/grotesque,concept/hope,concept/nature,concept/truth,concept/union,form/comedy,form/essay,histref/america,setting/america,setting/egypt,setting/germany,setting/london,character/arthur,character/bottom,character/queen"></span>
 
 
 VIII. An Example and a Question
@@ -8782,7 +8782,7 @@ sopra uno strano fianco di [[Hill|collina]], e lei che incedeva come una [[Queen
 
 
 
-<span class="atom-split" data-atom="story_09_belfast_and_the_religious_problem" data-title="Irish Impressions — Belfast and the Religious Problem" data-chapter="Belfast and the Religious Problem" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_belfast_and_the_religious_problem" data-title="Irish Impressions — Belfast and the Religious Problem" data-chapter="Belfast and the Religious Problem" data-kind="story" data-tags="topos/ages_of_the_world,topos/golden_age,archetype/child,archetype/hero,archetype/innocent,archetype/king,archetype/monster,motif/blood,motif/city,motif/cross,motif/crown,motif/dance,motif/death,motif/decay,motif/desire,motif/dreams,motif/garden,motif/hill,motif/home,motif/horse,motif/insects,motif/love,motif/marriage,motif/road,motif/silence,motif/sleep,motif/soul,motif/swallow,motif/time,motif/well,concept/body,concept/charity,concept/doubt,concept/education,concept/endurance,concept/exile,concept/faith,concept/forgiveness,concept/greatness,concept/history,concept/honour,concept/hope,concept/humility,concept/imagination,concept/madness,concept/paradox,concept/poverty,concept/pride,concept/reform,concept/self,concept/temptation,concept/truth,concept/union,concept/vanity,concept/wonder,form/history,form/lyric,form/parable,form/parody,form/riddle,form/satire,form/tragedy,histref/america,histref/inquisition,histref/puritanism,histref/reformation,setting/america,setting/cathedral,setting/germany,character/chorus,character/lord_mayor,character/puck"></span>
 
 
 IX. Belfast and the Religious Problem

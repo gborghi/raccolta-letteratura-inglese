@@ -3638,7 +3638,7 @@ A GLIMPSE OF THE FRENCH LINE
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME I.
@@ -3659,7 +3659,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME II.
@@ -3677,7 +3677,7 @@ IX. THE BATTLE OF LOOS From September 27 to the End of the Year
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME III.
@@ -3699,7 +3699,7 @@ XIII. THE BATTLE OF THE ANCRE November 13, 1916
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME IV.
@@ -3719,7 +3719,7 @@ XI. THE BATTLE OF CAMBRAI Second Phase of Battle, November 30
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME V.
@@ -3739,7 +3739,7 @@ XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES May 27 to June 2
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="concept/war_and_its_cost,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VOLUME VI.
@@ -3764,7 +3764,7 @@ Map to illustrate the British Campaign in France and Flanders, 1914
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/history,form/history,form/nonfiction,histref/first_world_war"></span>
 
 
 VOLUME I.
@@ -3829,7 +3829,7 @@ We have now seen how the great cloud which had hung so long over Europe burst at
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/democracy,concept/war_and_its_cost,form/history,histref/first_world_war,setting/england,character/napoleon,character/shakespeare"></span>
 
 
 II. THE OPENING OF THE WAR
@@ -3864,7 +3864,7 @@ The French plans had in truth been somewhat disarranged by the Belgian resistanc
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/war_as_glory,motif/sea,concept/war_and_its_cost,concept/heroism,form/history,histref/first_world_war,setting/france"></span>
 
 
 III. THE BATTLE OF MONS
@@ -4137,7 +4137,7 @@ Division IV. — General Snow.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/the_battlefield_image,concept/war_and_its_cost,concept/endurance,form/history,histref/first_world_war,setting/france"></span>
 
 
 10th Infantry Brigade — General Haldane.
@@ -4201,7 +4201,7 @@ Dawn broke upon August 26, a day upon which the exhausted troops were destined t
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/last_stand,concept/war_and_its_cost,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france"></span>
 
 
 IV. THE BATTLE OF LE CATEAU
@@ -4267,7 +4267,7 @@ Get into position to the east of Mons,
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/heroism,form/history,histref/battle_of_the_marne,histref/first_world_war,setting/france"></span>
 
 
 covering the line Mons — Bray.
@@ -4389,7 +4389,7 @@ The battle must also be regarded as a fixed point in military history, since it 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/river,concept/war_and_its_cost,concept/endurance,form/history,histref/first_world_war,setting/france"></span>
 
 
 VI. THE BATTLE OF THE AISNE
@@ -4423,7 +4423,7 @@ DIVISION VI. — GENERAL KEIR
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/rain,concept/endurance,concept/courage,concept/mercy,concept/war_and_its_cost,form/history,histref/first_world_war,setting/france"></span>
 
 
 16th Infantry Brigade — General Ing. Williams.
@@ -4500,7 +4500,7 @@ From this time Germany was in temporary occupation of all Belgium, save only the
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 9)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 9)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/the_battlefield_image,concept/war_and_its_cost,concept/endurance,form/history,histref/first_world_war,setting/france"></span>
 
 
 VII. THE LA BASSÉE — ARMENTIÈRES OPERATIONS
@@ -4552,7 +4552,7 @@ This brings the general record of the doings of the Third Corps down to the end 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 10)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 10)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/war_as_glory,concept/war_and_its_cost,concept/heroism,concept/self_sacrifice,form/history,histref/first_world_war,setting/the_battlefield"></span>
 
 
 VIII. THE FIRST BATTLE OF YPRES
@@ -4702,7 +4702,7 @@ Such was the British epic. There was another to the north which was no less wond
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 11)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 11)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/the_battlefield"></span>
 
 
 IX. THE FIRST BATTLE OF YPRES (continued)
@@ -4760,7 +4760,7 @@ EIGHTH DIVISION — GENERAL DAVIES.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 12)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 12)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/winter,motif/frost,concept/war_and_its_cost,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/the_battlefield"></span>
 
 
 23rd Infantry Brigade. — General Penny.
@@ -4833,7 +4833,7 @@ These were the main incidents of the world’s war during the months which have 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 13)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 1 (part 13)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/winter,motif/christmas,motif/ruins,concept/war_and_its_cost,concept/endurance,form/history,histref/first_world_war,setting/the_battlefield"></span>
 
 
 XI. THE WINTER LULL OF 1914
@@ -4950,7 +4950,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/endurance,concept/courage,form/history,form/nonfiction,histref/first_world_war,setting/france"></span>
 
 
 VOLUME II.
@@ -4981,7 +4981,7 @@ There was still considerable activity in the St. Eloi sector south-east of Ypres
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/empire_and_imperialism,form/history,histref/first_world_war,histref/british_empire,setting/france,setting/the_battlefield"></span>
 
 
 II. NEUVE CHAPELLE AND HILL 60
@@ -5034,7 +5034,7 @@ It is with a feeling of loathing that the chronicler turns from such knightly de
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/last_stand,motif/the_battlefield_image,motif/poison,motif/fog_and_smoke,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 III. THE SECOND BATTLE OF YPRES
@@ -5091,7 +5091,7 @@ One incident of this period may be quoted as showing the peculiar happenings of 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/last_stand,motif/the_battlefield_image,motif/poison,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IV. THE SECOND BATTLE OF YPRES
@@ -5163,7 +5163,7 @@ Such, in a condensed form, was the record of the second Battle of Ypres, which f
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,motif/death,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/self_sacrifice,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 V. THE BATTLE OF RICHEBOURG FESTUBERT
@@ -5197,7 +5197,7 @@ Whilst the London Division had been thrust into the right of the British line, t
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,concept/war_and_its_cost,concept/heroism,concept/courage,concept/empire_and_imperialism,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,histref/british_empire,setting/france,setting/the_battlefield"></span>
 
 
 VI. THE TRENCHES OF HOOGE
@@ -5250,7 +5250,7 @@ The welcome accession of Italy upon May 23 and the lamentable defection of Bulga
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 7)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/poison,motif/fog_and_smoke,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VII. THE BATTLE OF LOOS
@@ -5298,7 +5298,7 @@ It was a nightmare night in the advanced line of the Army. The weather had been 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 8)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 8)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/hero,motif/the_battlefield_image,motif/death,concept/war_and_its_cost,concept/heroism,concept/courage,concept/self_sacrifice,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VIII. THE BATTLE OF LOOS
@@ -5331,7 +5331,7 @@ The evening of this day, September 26, found the British lines contracted as com
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 9)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 2 (part 9)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/death,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/self_sacrifice,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IX. THE BATTLE OF LOOS
@@ -5389,7 +5389,7 @@ Sir Douglas Haig, who succeeded to the chief command, was the leader who would u
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/history,form/history,histref/first_world_war,setting/france,character/sir_arthur_conan_doyle"></span>
 
 
 VOLUME III.
@@ -5453,7 +5453,7 @@ Before plunging into the huge task of following and describing the various phase
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/comradeship,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield,character/ferdinand_foch"></span>
 
 
 II. THE BATTLE OF THE SOMME
@@ -5499,7 +5499,7 @@ It must have been with a heavy heart that General Hunter-Weston realised, with t
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 III. THE BATTLE OF THE SOMME
@@ -5537,7 +5537,7 @@ We have now completed our survey of that long stretch of line in which our galla
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IV. THE BATTLE OF THE SOMME
@@ -5588,7 +5588,7 @@ When one considers the enormous scale of the action, the desperate valour of the
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/life_as_a_battle,motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 V. THE BATTLE OF THE SOMME
@@ -5659,7 +5659,7 @@ The Second German Line, Bazentins, Delville Wood, etc.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,motif/the_battlefield_image,motif/night,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VI. THE BATTLE OF THE SOMME
@@ -5689,7 +5689,7 @@ It has been stated in the account of the action of July 14 that at one stage of 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 7)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/empire_and_imperialism,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield,character/ferdinand_foch"></span>
 
 
 VII. THE BATTLE OF THE SOMME
@@ -5741,7 +5741,7 @@ It should be remarked that during all this fighting upon the Somme continual dem
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 8)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 8)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/hero,motif/the_battlefield_image,concept/war_and_its_cost,concept/heroism,concept/courage,concept/empire_and_imperialism,concept/nationalism_and_patriotism,form/history,histref/first_world_war,histref/british_empire,setting/france,setting/the_battlefield"></span>
 
 
 VIII. THE BATTLE OF THE SOMME
@@ -5778,7 +5778,7 @@ At this point we may suspend our account of the operations of Gough’s Fifth Ar
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 9)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 9)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/nationalism_and_patriotism,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IX. THE BATTLE OF THE SOMME
@@ -5833,7 +5833,7 @@ On September 8 the 3rd Brigade penetrated into the western part of High Wood, bu
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 10)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 10)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/machine,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/empire_and_imperialism,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 X. THE BATTLE OF THE SOMME
@@ -5877,7 +5877,7 @@ Summing up the events of September 15, it was without any doubt the greatest Bri
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 11)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 11)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/self_sacrifice,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 XI. THE GAINING OF THE THIEPVAL RIDGE
@@ -5916,7 +5916,7 @@ From this time onwards this northern section of the line was quiet save for smal
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 12)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 12)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/rain,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,concept/empire_and_imperialism,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 XII. THE BATTLE OF THE SOMME
@@ -5969,7 +5969,7 @@ But all our leadership would have been vain had it not been supported by the hig
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 13)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 3 (part 13)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/the_battlefield_image,motif/cave,motif/chalk,motif/blood,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 XIII. THE BATTLE OF THE ANCRE
@@ -6014,7 +6014,7 @@ And now as the year drew to its close, Germany, wounded and weary, saw as she gl
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/war_and_its_cost,concept/history,concept/heroism,form/history,histref/first_world_war,setting/france,character/sir_arthur_conan_doyle"></span>
 
 
 VOLUME IV.
@@ -6058,7 +6058,7 @@ Beyond the usual skirmishes of light craft and isolated sinkings of warships by 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 II. THE BATTLE OF ARRAS
@@ -6122,7 +6122,7 @@ Chart of Order of Battle, Arras, April 9, 1917
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,concept/self_sacrifice,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 III. OPERATIONS IN THE ARRAS
@@ -6173,7 +6173,7 @@ During a week continual counter-attacks moving up from Riencourt broke themselve
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 IV. THE BATTLE OF MESSINES
@@ -6209,7 +6209,7 @@ So fell Messines Ridge. Only when the British stood upon its low summit and look
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,concept/self_sacrifice,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 V. OPERATIONS FROM JUNE 10 TO JULY 31
@@ -6241,7 +6241,7 @@ This month of July was signalised by the last efforts of the Russian Army so lon
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france,character/duke_of_wellington"></span>
 
 
 VI. THE THIRD BATTLE OF YPRES
@@ -6287,7 +6287,7 @@ We have now briefly reviewed the work of each of the twelve divisions which were
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 7)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 7)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VII. THE THIRD BATTLE OF YPRES
@@ -6328,7 +6328,7 @@ The Ypres Front
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 8)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 8)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VIII. THE THIRD BATTLE OF YPRES
@@ -6366,7 +6366,7 @@ Third Ypres Battle, September 26, 1917
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 9)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 9)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 IX. THE THIRD BATTLE OF YPRES
@@ -6424,7 +6424,7 @@ Whilst this long and arduous struggle had been raging the chief events upon the 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 10)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 10)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/battlefield_2,motif/machine,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 X. THE BATTLE OF CAMBRAI
@@ -6488,7 +6488,7 @@ Fighting Line, November 30, 1917
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 11)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 4 (part 11)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 XI. THE BATTLE OF CAMBRAI
@@ -6541,7 +6541,7 @@ The year 1917 had been a very glorious one both to the French and to the British
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,concept/history,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VOLUME V.
@@ -6571,7 +6571,7 @@ The general situation then upon the night of March 20, when the German preparati
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 II. THE SECOND BATTLE OF THE SOMME
@@ -6617,7 +6617,7 @@ A word should be said before one finally passes from this portion of the great e
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 III. THE SECOND BATTLE OF THE SOMME
@@ -6665,7 +6665,7 @@ The losses of the Third Army during that week of desperate fighting when, in spi
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 IV. THE SECOND BATTLE OF THE SOMME
@@ -6714,7 +6714,7 @@ British Battle Line, March 21
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 V. THE SECOND BATTLE OF THE SOMME
@@ -6788,7 +6788,7 @@ The total losses of the Nineteenth Corps during this fourteen days of battle cam
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VI. THE SECOND BATTLE OF THE SOMME
@@ -6825,7 +6825,7 @@ This may be taken as the limit of the retreat of the Eighteenth Corps, since the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 7)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 7)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VII. THE SECOND BATTLE OF THE SOMME
@@ -6865,7 +6865,7 @@ Granting, however, that the disaster was minimised by the prompt appreciation of
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 8)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 8)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 VIII. THE SOMME FRONT FROM APRIL 1 ONWARDS
@@ -6906,7 +6906,7 @@ From this time onwards this front was the scene of continuous aggressive action 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 9)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 9)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,concept/self_sacrifice,form/history,histref/first_world_war,setting/battlefield,setting/france,character/ferdinand_foch"></span>
 
 
 IX. THE BATTLE OF THE LYS
@@ -6962,7 +6962,7 @@ There was no fighting on the new line opposite Messines on April 12, but the bat
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 10)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 10)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/the_last_stand,motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 X. THE BATTLE OF THE LYS
@@ -7068,7 +7068,7 @@ No account of the battle of the Lys can close without a word as to the splendid 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 11)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 5 (part 11)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france"></span>
 
 
 XI. THE BATTLES OF THE CHEMIN DES DAMES AND OF THE ARDRES
@@ -7110,7 +7110,7 @@ The cause of the Allies seemed at this hour to be at the very lowest. They had r
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/battlefield_2,concept/war_and_its_cost,concept/heroism_courage,concept/endurance,concept/nationalism_and_patriotism,concept/comradeship,form/history,histref/first_world_war,setting/battlefield,setting/france,character/ferdinand_foch"></span>
 
 
 VOLUME VI.
@@ -7158,7 +7158,7 @@ and Final Position after the Fall of Peronne
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 II. ATTACK OF RAWLINSON’S FOURTH ARMY
@@ -7197,7 +7197,7 @@ Amid the tremendous events which followed each other in a stupendous historical 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 III. CONTINUATION OF THE OPERATIONS OF RAWLINSON’S FOURTH ARMY
@@ -7264,7 +7264,7 @@ Position of British Corps, end of September 1918
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IV. THE ATTACK OF BYNG’S THIRD ARMY
@@ -7371,7 +7371,7 @@ September 3 saw the Sixty-third Division still adding to its gains. In the morni
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 V. THE ADVANCE OF HORNE’S FIRST ARMY
@@ -7398,7 +7398,7 @@ The Germans had dammed the river which flows down the Trinquis valley in front o
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,form/history,histref/first_world_war,histref/napoleon,setting/france,setting/the_battlefield,character/napoleon"></span>
 
 
 VI. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY
@@ -7454,7 +7454,7 @@ The next day, October 10, the whole Corps front was moving forward, but resistan
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 7)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_07" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 7)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VII. THE OPERATIONS OF RAWLINSON’S FOURTH ARMY
@@ -7504,7 +7504,7 @@ So ended the splendid work of Braithwaite’s Ninth Corps. Its total advance sin
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 8)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_08" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 8)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 VIII. OPERATIONS OF BYNG’S THIRD ARMY
@@ -7539,7 +7539,7 @@ We have thus traced all four Corps of the Third Army from the date August 21, wh
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 9)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_09" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 9)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 IX. OPERATIONS OF BYNG’S THIRD ARMY
@@ -7587,7 +7587,7 @@ the Armistice of November 11, 1918
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 10)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_10" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 10)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 X. THE ADVANCE OF HORNE’S FIRST ARMY
@@ -7632,7 +7632,7 @@ Allied Advance in the North
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 11)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_11" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 11)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 XI. OPERATIONS OF THE SECOND AND FIFTH ARMIES
@@ -7662,7 +7662,7 @@ As to naval matters there is nothing to be said save that the submarine trouble 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 12)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_12" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 12)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,concept/war_and_its_cost,concept/nationalism_and_patriotism,concept/justice,form/history,histref/first_world_war,histref/kaiser_wilhelm_ii,setting/france,character/kaiser_wilhelm_ii,character/ferdinand_foch"></span>
 
 
 XII. THE END
@@ -7682,7 +7682,7 @@ Here the historian’s task is done. It has occupied and alleviated many heavy d
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 13)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_13" data-title="THE BRITISH CAMPAIGN IN FRANCE AND FLANDERS VOLUMES I-VI — Volume 6 (part 13)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/the_world_as_battlefield,archetype/hero,motif/battlefield_2,concept/war_and_its_cost,concept/heroism,concept/courage,concept/endurance,form/history,histref/first_world_war,setting/france,setting/the_battlefield"></span>
 
 
 APPENDIX

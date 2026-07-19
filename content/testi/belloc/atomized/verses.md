@@ -3275,7 +3275,7 @@ And Consols are at 82.
 
 
 
-<span class="atom-split" data-atom="story_01_a_dedication_with_this_book_of_verse" data-title="Verses — A DEDICATION WITH THIS BOOK OF VERSE" data-chapter="A DEDICATION WITH THIS BOOK OF VERSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_a_dedication_with_this_book_of_verse" data-title="Verses — A DEDICATION WITH THIS BOOK OF VERSE" data-chapter="A DEDICATION WITH THIS BOOK OF VERSE" data-kind="story" data-tags="motif/night"></span>
 
 
 A DEDICATION WITH THIS BOOK OF VERSE
@@ -3299,7 +3299,7 @@ They too attain the form of perfect things?
 
 
 
-<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_01" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 1)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_01" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 1)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt" data-tags="form/literary_criticism,histref/french_revolution,histref/first_world_war,character/hilaire_belloc,character/robespierre"></span>
 
 
 INTRODUCTION by Joyce Kilmer
@@ -3337,7 +3337,7 @@ There’s no harm in that. It’s good exercise for the mind, and of it comes mu
 
 
 
-<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_02" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 2)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_02" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 2)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt" data-tags="histref/boer_war"></span>
 
 
 Could anything, for example, be less studied, be more clearly marked with the stigmata of that noble spontaneity we call inspiration, than the passionate, rushing, irresistible lines “To the Balliol Men Still in Africa”? Like Gilbert K. Chesterton and many another English democrat, Hilaire Belloc deeply resented his country’s war upon the Boers. Yet his heart went out to the friends of his university days who were fighting in Africa. They were fighting, he thought, in an unjust cause; but they were his friends and they were, at any rate, fighting. And so he made something that seems (like all great writing) an utterance rather than a composition; he put his love of war in general and his hatred of this war in particular, his devotion to Balliol and to the friends of his youth into one of the very few pieces of genuine poetry which the [[Boer War]] produced. Nor has any of Oxford’s much-sung colleges known praise more fit than this
@@ -3381,7 +3381,7 @@ Hilaire Belloc was born July 27, 1870. He was educated at the Oratory School, Ed
 
 
 
-<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_03" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 3)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_introduction_by_joyce_kilmer--part_03" data-title="Verses — INTRODUCTION by Joyce Kilmer (part 3)" data-chapter="INTRODUCTION by Joyce Kilmer" data-kind="excerpt" data-tags="motif/birds,concept/faith,histref/catholic_church"></span>
 
 
 IV
@@ -3425,7 +3425,7 @@ And therein is Hilaire Belloc most thoroughly and consistently a democrat. For i
 
 
 
-<span class="atom-split" data-atom="story_03_to_dives" data-title="Verses — TO DIVES" data-chapter="TO DIVES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_to_dives" data-title="Verses — TO DIVES" data-chapter="TO DIVES" data-kind="story" data-tags="concept/greed_and_money,concept/mortality,form/satire,setting/the_underworld,character/king_dives"></span>
 
 
 TO DIVES
@@ -3529,7 +3529,7 @@ They order things so damnably in Hell.
 
 
 
-<span class="atom-split" data-atom="story_04_stanzas_written_on_battersea_bridge_duri" data-title="Verses — STANZAS WRITTEN ON BATTERSEA BRIDGE DURING A SOUTH-WESTERLY GALE" data-chapter="STANZAS WRITTEN ON BATTERSEA BRIDGE DURI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_stanzas_written_on_battersea_bridge_duri" data-title="Verses — STANZAS WRITTEN ON BATTERSEA BRIDGE DURING A SOUTH-WESTERLY GALE" data-chapter="STANZAS WRITTEN ON BATTERSEA BRIDGE DURI" data-kind="story" data-tags="motif/wind,motif/the_sea,concept/nostalgia,concept/exile,form/lyric,setting/rural_england"></span>
 
 
 STANZAS WRITTEN ON BATTERSEA BRIDGE DURING A SOUTH-WESTERLY GALE
@@ -3627,7 +3627,7 @@ What have you not refused?
 
 
 
-<span class="atom-split" data-atom="story_05_the_south_country" data-title="Verses — THE SOUTH COUNTRY" data-chapter="THE SOUTH COUNTRY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_south_country" data-title="Verses — THE SOUTH COUNTRY" data-chapter="THE SOUTH COUNTRY" data-kind="story" data-tags="concept/faith"></span>
 
 
 THE SOUTH COUNTRY
@@ -3755,7 +3755,7 @@ Shall sit and drink with me.
 
 
 
-<span class="atom-split" data-atom="story_06_the_fanatic" data-title="Verses — THE FANATIC" data-chapter="THE FANATIC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_fanatic" data-title="Verses — THE FANATIC" data-chapter="THE FANATIC" data-kind="story" data-tags="motif/night"></span>
 
 
 THE FANATIC
@@ -3911,7 +3911,7 @@ But foul forever, rolled along.”
 
 
 
-<span class="atom-split" data-atom="story_07_noel" data-title="Verses — NOËL" data-chapter="NOEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_noel" data-title="Verses — NOËL" data-chapter="NOEL" data-kind="story" data-tags="motif/night"></span>
 
 
 NOËL
@@ -3991,7 +3991,7 @@ And the small child Jesus smile on you.
 
 
 
-<span class="atom-split" data-atom="story_08_the_early_morning" data-title="Verses — THE EARLY MORNING" data-chapter="THE EARLY MORNING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_early_morning" data-title="Verses — THE EARLY MORNING" data-chapter="THE EARLY MORNING" data-kind="story" data-tags="motif/night"></span>
 
 
 THE EARLY MORNING
@@ -4007,7 +4007,7 @@ My brother, good morning: my sister, good [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="story_09_the_birds" data-title="Verses — THE BIRDS" data-chapter="THE BIRDS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_birds" data-title="Verses — THE BIRDS" data-chapter="THE BIRDS" data-kind="story" data-tags="motif/birds"></span>
 
 
 THE [[Birds|BIRDS]]
@@ -4035,7 +4035,7 @@ And bring my soul to Paradise.
 
 
 
-<span class="atom-split" data-atom="story_10_our_lord_and_our_lady" data-title="Verses — OUR LORD AND OUR LADY" data-chapter="OUR LORD AND OUR LADY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_our_lord_and_our_lady" data-title="Verses — OUR LORD AND OUR LADY" data-chapter="OUR LORD AND OUR LADY" data-kind="story" data-tags="motif/the_cross,concept/faith,form/ballad,setting/holy_land_jerusalem_and_bethlehem,character/the_virgin_mary,character/christ"></span>
 
 
 OUR LORD AND OUR LADY
@@ -4091,7 +4091,7 @@ With the white Moon at Her feet.
 
 
 
-<span class="atom-split" data-atom="story_11_in_a_boat" data-title="Verses — IN A BOAT" data-chapter="IN A BOAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_in_a_boat" data-title="Verses — IN A BOAT" data-chapter="IN A BOAT" data-kind="story" data-tags="motif/prayer,motif/the_sea,motif/ship,concept/faith,form/lyric,character/the_virgin_mary"></span>
 
 
 IN A BOAT
@@ -4155,7 +4155,7 @@ A ship of pure gold.
 
 
 
-<span class="atom-split" data-atom="story_12_courtesy" data-title="Verses — COURTESY" data-chapter="COURTESY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_courtesy" data-title="Verses — COURTESY" data-chapter="COURTESY" data-kind="story" data-tags="concept/grace_and_redemption,concept/faith,form/lyric,character/the_virgin_mary,character/gabriel,character/christ"></span>
 
 
 COURTESY
@@ -4217,7 +4217,7 @@ My Rhyme is written, my work is done.
 
 
 
-<span class="atom-split" data-atom="story_13_the_night" data-title="Verses — THE NIGHT" data-chapter="THE NIGHT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_night" data-title="Verses — THE NIGHT" data-chapter="THE NIGHT" data-kind="story" data-tags="motif/night"></span>
 
 
 THE [[Night|NIGHT]]
@@ -4257,7 +4257,7 @@ Most Holy [[Night]].
 
 
 
-<span class="atom-split" data-atom="story_14_the_leader" data-title="Verses — THE LEADER" data-chapter="THE LEADER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_leader" data-title="Verses — THE LEADER" data-chapter="THE LEADER" data-kind="story" data-tags="motif/night"></span>
 
 
 THE LEADER
@@ -4337,7 +4337,7 @@ We lost her in the dawn.
 
 
 
-<span class="atom-split" data-atom="story_15_a_bivouac" data-title="Verses — A BIVOUAC" data-chapter="A BIVOUAC" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_a_bivouac" data-title="Verses — A BIVOUAC" data-chapter="A BIVOUAC" data-kind="story" data-tags="motif/the_cross,motif/dreams,concept/war_and_its_cost,form/lyric,setting/france"></span>
 
 
 A BIVOUAC
@@ -4381,7 +4381,7 @@ At midnight, in the Pines of Var.
 
 
 
-<span class="atom-split" data-atom="story_16_to_the_balliol_men_still_in_africa" data-title="Verses — TO THE BALLIOL MEN STILL IN AFRICA" data-chapter="TO THE BALLIOL MEN STILL IN AFRICA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_to_the_balliol_men_still_in_africa" data-title="Verses — TO THE BALLIOL MEN STILL IN AFRICA" data-chapter="TO THE BALLIOL MEN STILL IN AFRICA" data-kind="story" data-tags="concept/comradeship,concept/friendship,form/lyric,histref/boer_war,setting/oxford,setting/africa"></span>
 
 
 TO THE BALLIOL MEN STILL IN AFRICA
@@ -4463,7 +4463,7 @@ God be with you, Balliol men.
 
 
 
-<span class="atom-split" data-atom="story_17_verses_to_a_lord" data-title="Verses — VERSES TO A LORD" data-chapter="VERSES TO A LORD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_verses_to_a_lord" data-title="Verses — VERSES TO A LORD" data-chapter="VERSES TO A LORD" data-kind="story" data-tags="concept/greed_and_money,concept/antisemitism,form/satire,histref/second_boer_war,setting/south_africa"></span>
 
 
 VERSES TO A LORD
@@ -4523,7 +4523,7 @@ We mean to rub them in.
 
 
 
-<span class="atom-split" data-atom="story_18_the_rebel" data-title="Verses — THE REBEL" data-chapter="THE REBEL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_rebel" data-title="Verses — THE REBEL" data-chapter="THE REBEL" data-kind="story" data-tags="archetype/rebel"></span>
 
 
 THE [[Rebel|REBEL]]
@@ -4601,7 +4601,7 @@ Should break his hands, as I have done.
 
 
 
-<span class="atom-split" data-atom="story_19_the_prophet_lost_in_the_hills_at_evening" data-title="Verses — THE PROPHET LOST IN THE HILLS AT EVENING" data-chapter="THE PROPHET LOST IN THE HILLS AT EVENING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_the_prophet_lost_in_the_hills_at_evening" data-title="Verses — THE PROPHET LOST IN THE HILLS AT EVENING" data-chapter="THE PROPHET LOST IN THE HILLS AT EVENING" data-kind="story" data-tags="concept/faith"></span>
 
 
 THE PROPHET LOST IN THE HILLS AT EVENING
@@ -4667,7 +4667,7 @@ And harbour me — almighty God!
 
 
 
-<span class="atom-split" data-atom="story_20_song" data-title="Verses — SONG" data-chapter="SONG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_song" data-title="Verses — SONG" data-chapter="SONG" data-kind="story" data-tags="motif/spring,motif/flowers,concept/beauty,form/song,character/diana"></span>
 
 
 SONG
@@ -4713,7 +4713,7 @@ Could so lead on the Spring.
 
 
 
-<span class="atom-split" data-atom="story_21_the_ring" data-title="Verses — THE RING" data-chapter="THE RING" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_the_ring" data-title="Verses — THE RING" data-chapter="THE RING" data-kind="story" data-tags="motif/gems_jewels,concept/romantic_love,form/ballad,setting/france"></span>
 
 
 THE RING
@@ -4757,7 +4757,7 @@ But what I had was lost to me.
 
 
 
-<span class="atom-split" data-atom="story_22_cuckoo" data-title="Verses — CUCKOO!" data-chapter="CUCKOO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_cuckoo" data-title="Verses — CUCKOO!" data-chapter="CUCKOO" data-kind="story" data-tags="motif/birds,motif/winter,motif/music_and_song,form/lyric"></span>
 
 
 CUCKOO!
@@ -4803,7 +4803,7 @@ In woods so long time bare.
 
 
 
-<span class="atom-split" data-atom="story_23_the_mirror" data-title="Verses — THE MIRROR" data-chapter="THE MIRROR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_mirror" data-title="Verses — THE MIRROR" data-chapter="THE MIRROR" data-kind="story" data-tags="motif/the_mirror,motif/eyes_sight,concept/memory,concept/romantic_love,form/lyric"></span>
 
 
 THE MIRROR
@@ -4827,7 +4827,7 @@ My constant memory lies.
 
 
 
-<span class="atom-split" data-atom="story_24_the_little_serving_maid" data-title="Verses — THE LITTLE SERVING MAID" data-chapter="THE LITTLE SERVING MAID" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_the_little_serving_maid" data-title="Verses — THE LITTLE SERVING MAID" data-chapter="THE LITTLE SERVING MAID" data-kind="story" data-tags="topos/love_death,concept/romantic_love,form/ballad,setting/england,character/the_queen"></span>
 
 
 THE LITTLE SERVING MAID
@@ -4943,7 +4943,7 @@ Of the Little Serving Maid.
 
 
 
-<span class="atom-split" data-atom="story_25_the_end_of_the_road" data-title="Verses — THE END OF THE ROAD" data-chapter="THE END OF THE ROAD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_the_end_of_the_road" data-title="Verses — THE END OF THE ROAD" data-chapter="THE END OF THE ROAD" data-kind="story" data-tags="topos/the_open_road,archetype/pilgrim,motif/journey,motif/road,motif/wine_and_drink,motif/prayer,form/poem,histref/catholic_church,setting/italy"></span>
 
 
 THE END OF THE ROAD
@@ -5019,7 +5019,7 @@ Till I had slaked my heart at Rome.
 
 
 
-<span class="atom-split" data-atom="story_26_auvergnat" data-title="Verses — AUVERGNAT" data-chapter="AUVERGNAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_auvergnat" data-title="Verses — AUVERGNAT" data-chapter="AUVERGNAT" data-kind="story" data-tags="archetype/lover,motif/bells,motif/love,concept/unrequited_love,form/ballad,setting/france"></span>
 
 
 AUVERGNAT
@@ -5059,7 +5059,7 @@ At Pontgibaud they mended it.
 
 
 
-<span class="atom-split" data-atom="story_27_drinking_song" data-title="Verses — DRINKING SONG" data-chapter="DRINKING SONG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_drinking_song" data-title="Verses — DRINKING SONG" data-chapter="DRINKING SONG" data-kind="story" data-tags="motif/wine_and_drink,motif/inn_tavern,motif/food_and_feasting,concept/joy,form/song,setting/france"></span>
 
 
 DRINKING SONG
@@ -5111,7 +5111,7 @@ Burgundy’s Burgundy all the year round.
 
 
 
-<span class="atom-split" data-atom="story_28_drinking_dirge" data-title="Verses — DRINKING DIRGE" data-chapter="DRINKING DIRGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_drinking_dirge" data-title="Verses — DRINKING DIRGE" data-chapter="DRINKING DIRGE" data-kind="story" data-tags="motif/wine_and_drink,motif/sea,motif/comradeship,concept/friendship,concept/nostalgia,concept/grief_and_loss,form/dirge"></span>
 
 
 DRINKING DIRGE
@@ -5167,7 +5167,7 @@ I put my pleasure in a pint of ale.
 
 
 
-<span class="atom-split" data-atom="story_29_envoi" data-title="Verses — ENVOI" data-chapter="ENVOI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_envoi" data-title="Verses — ENVOI" data-chapter="ENVOI" data-kind="story" data-tags="motif/wine_and_drink,motif/food_and_feasting,form/comic_verse_song"></span>
 
 
 ENVOI
@@ -5183,7 +5183,7 @@ I put my pleasure in a pint of ale.
 
 
 
-<span class="atom-split" data-atom="story_30_west_sussex_drinking_song" data-title="Verses — WEST SUSSEX DRINKING SONG" data-chapter="WEST SUSSEX DRINKING SONG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_west_sussex_drinking_song" data-title="Verses — WEST SUSSEX DRINKING SONG" data-chapter="WEST SUSSEX DRINKING SONG" data-kind="story" data-tags="motif/night"></span>
 
 
 WEST SUSSEX DRINKING SONG
@@ -5251,7 +5251,7 @@ And it has a rousing chorus.
 
 
 
-<span class="atom-split" data-atom="story_31_a_ballad_on_sociological_economics" data-title="Verses — A BALLAD ON SOCIOLOGICAL ECONOMICS" data-chapter="A BALLAD ON SOCIOLOGICAL ECONOMICS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_a_ballad_on_sociological_economics" data-title="Verses — A BALLAD ON SOCIOLOGICAL ECONOMICS" data-chapter="A BALLAD ON SOCIOLOGICAL ECONOMICS" data-kind="story" data-tags="motif/animals,motif/wine_and_drink,concept/nonsense,form/ballad"></span>
 
 
 A BALLAD ON SOCIOLOGICAL ECONOMICS
@@ -5299,7 +5299,7 @@ Remarkable artifice).
 
 
 
-<span class="atom-split" data-atom="story_32_an_oracle" data-title="Verses — AN ORACLE" data-chapter="AN ORACLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_an_oracle" data-title="Verses — AN ORACLE" data-chapter="AN ORACLE" data-kind="story" data-tags="archetype/pilgrim"></span>
 
 
 AN ORACLE
@@ -5343,7 +5343,7 @@ The [[Pilgrim]]’s great attempt shall fail.
 
 
 
-<span class="atom-split" data-atom="story_33_heretics_all" data-title="Verses — HERETICS ALL" data-chapter="HERETICS ALL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_heretics_all" data-title="Verses — HERETICS ALL" data-chapter="HERETICS ALL" data-kind="story" data-tags="motif/wine_and_drink,motif/prayer,concept/heresy_and_schism,concept/faith,form/song,histref/catholic_church"></span>
 
 
 HERETICS ALL
@@ -5383,7 +5383,7 @@ Dona Eis Requiem.
 
 
 
-<span class="atom-split" data-atom="story_34_the_death_and_last_confession_of_wanderi" data-title="Verses — THE DEATH AND LAST CONFESSION OF WANDERING PETER" data-chapter="THE DEATH AND LAST CONFESSION OF WANDERI" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_death_and_last_confession_of_wanderi" data-title="Verses — THE DEATH AND LAST CONFESSION OF WANDERING PETER" data-chapter="THE DEATH AND LAST CONFESSION OF WANDERI" data-kind="story" data-tags="topos/the_journey_of_life,archetype/pilgrim,motif/journey,motif/wine_and_drink,concept/death,concept/heaven_and_the_afterlife,form/narrative_poem,setting/france,character/st_peter,character/michael,character/god"></span>
 
 
 THE DEATH AND LAST CONFESSION OF WANDERING PETER
@@ -5473,7 +5473,7 @@ And having spoken it, he died.
 
 
 
-<span class="atom-split" data-atom="story_35_dedicatory_ode" data-title="Verses — DEDICATORY ODE" data-chapter="DEDICATORY ODE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_dedicatory_ode" data-title="Verses — DEDICATORY ODE" data-chapter="DEDICATORY ODE" data-kind="story" data-tags="concept/faith,concept/friendship"></span>
 
 
 DEDICATORY ODE
@@ -5793,7 +5793,7 @@ And drink it, “Gentlemen: the Club.”
 
 
 
-<span class="atom-split" data-atom="story_36_dedication_on_the_gift_of_a_book_to_a_ch" data-title="Verses — DEDICATION ON THE GIFT OF A BOOK TO A CHILD" data-chapter="DEDICATION ON THE GIFT OF A BOOK TO A CH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_dedication_on_the_gift_of_a_book_to_a_ch" data-title="Verses — DEDICATION ON THE GIFT OF A BOOK TO A CHILD" data-chapter="DEDICATION ON THE GIFT OF A BOOK TO A CH" data-kind="story" data-tags="archetype/child,motif/childhood,motif/the_book,motif/prayer,concept/childhood_and_growth,form/poem"></span>
 
 
 DEDICATION ON THE GIFT OF A BOOK TO A CHILD
@@ -5833,7 +5833,7 @@ For men that lose their fairylands.
 
 
 
-<span class="atom-split" data-atom="story_37_dedication_of_a_childs_book_of_imaginary" data-title="Verses — DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES" data-chapter="DEDICATION OF A CHILDS BOOK OF IMAGINARY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_dedication_of_a_childs_book_of_imaginary" data-title="Verses — DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES" data-chapter="DEDICATION OF A CHILDS BOOK OF IMAGINARY" data-kind="story" data-tags="archetype/child,motif/childhood,concept/childhood_and_growth,form/poem"></span>
 
 
 DEDICATION OF A CHILD’S BOOK OF IMAGINARY TALES
@@ -5853,7 +5853,7 @@ Are doing something rather wrong.
 
 
 
-<span class="atom-split" data-atom="story_38_homage" data-title="Verses — HOMAGE" data-chapter="HOMAGE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_homage" data-title="Verses — HOMAGE" data-chapter="HOMAGE" data-kind="story" data-tags="motif/light_and_dark,motif/flowers,motif/stars,concept/beauty,form/poem,setting/mountains"></span>
 
 
 HOMAGE
@@ -5889,7 +5889,7 @@ The early hours of all their happy circuit take.
 
 
 
-<span class="atom-split" data-atom="story_39_fille_la_haine" data-title="Verses — FILLE-LA-HAINE" data-chapter="FILLE LA HAINE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_fille_la_haine" data-title="Verses — FILLE-LA-HAINE" data-chapter="FILLE LA HAINE" data-kind="story" data-tags="archetype/death_personified,motif/death,motif/bells,motif/river,concept/death,form/ballad,setting/france"></span>
 
 
 FILLE-LA-HAINE
@@ -5933,7 +5933,7 @@ Fille-la-Haine was my sweetheart.
 
 
 
-<span class="atom-split" data-atom="story_40_the_moons_funeral" data-title="Verses — THE MOON’S FUNERAL" data-chapter="THE MOONS FUNERAL" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_the_moons_funeral" data-title="Verses — THE MOON’S FUNERAL" data-chapter="THE MOONS FUNERAL" data-kind="story" data-tags="motif/moon,motif/death,motif/night,motif/ghosts,concept/mortality,concept/despair,form/poem"></span>
 
 
 THE MOON’S FUNERAL
@@ -5997,7 +5997,7 @@ The Moon is dead. I saw her die.
 
 
 
-<span class="atom-split" data-atom="story_41_the_happy_journalist" data-title="Verses — THE HAPPY JOURNALIST" data-chapter="THE HAPPY JOURNALIST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_the_happy_journalist" data-title="Verses — THE HAPPY JOURNALIST" data-chapter="THE HAPPY JOURNALIST" data-kind="story" data-tags="motif/night"></span>
 
 
 THE HAPPY JOURNALIST
@@ -6061,7 +6061,7 @@ I am as happy as a lord!
 
 
 
-<span class="atom-split" data-atom="story_42_lines_to_a_don" data-title="Verses — LINES TO A DON" data-chapter="LINES TO A DON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_lines_to_a_don" data-title="Verses — LINES TO A DON" data-chapter="LINES TO A DON" data-kind="story" data-tags="concept/wit,concept/hypocrisy,form/satire,setting/oxford,character/g_k_chesterton"></span>
 
 
 LINES TO A DON
@@ -6191,7 +6191,7 @@ That dared attack my Chesterton.
 
 
 
-<span class="atom-split" data-atom="story_43_newdigate_poem" data-title="Verses — NEWDIGATE POEM" data-chapter="NEWDIGATE POEM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_newdigate_poem" data-title="Verses — NEWDIGATE POEM" data-chapter="NEWDIGATE POEM" data-kind="story" data-tags="motif/night"></span>
 
 
 NEWDIGATE POEM
@@ -6405,7 +6405,7 @@ The Benefits of the Electric Light.
 
 
 
-<span class="atom-split" data-atom="story_44_the_yellow_mustard" data-title="Verses — THE YELLOW MUSTARD" data-chapter="THE YELLOW MUSTARD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_the_yellow_mustard" data-title="Verses — THE YELLOW MUSTARD" data-chapter="THE YELLOW MUSTARD" data-kind="story" data-tags="motif/flowers,motif/rain,concept/loneliness,concept/pain,concept/nature,concept/melancholy,form/poem"></span>
 
 
 THE YELLOW MUSTARD
@@ -6455,7 +6455,7 @@ To see the yellow mustard grow!
 
 
 
-<span class="atom-split" data-atom="story_45_on_hygiene" data-title="Verses — ON HYGIENE" data-chapter="ON HYGIENE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_on_hygiene" data-title="Verses — ON HYGIENE" data-chapter="ON HYGIENE" data-kind="story" data-tags="motif/disease_and_contagion,concept/wit,concept/satire_of_society,form/epigram"></span>
 
 
 ON HYGIENE
@@ -6471,7 +6471,7 @@ Both how to make men sick and keep them so.
 
 
 
-<span class="atom-split" data-atom="story_46_the_false_heart" data-title="Verses — THE FALSE HEART" data-chapter="THE FALSE HEART" data-kind="story"></span>
+<span class="atom-split" data-atom="story_46_the_false_heart" data-title="Verses — THE FALSE HEART" data-chapter="THE FALSE HEART" data-kind="story" data-tags="concept/wit,concept/self_deception,concept/literary_criticism,form/epigram"></span>
 
 
 THE FALSE HEART
@@ -6493,7 +6493,7 @@ In my next book I’ll fill a page with ONE.
 
 
 
-<span class="atom-split" data-atom="story_47_sonnet_upon_god_the_wine_giver" data-title="Verses — SONNET UPON GOD, THE WINE GIVER" data-chapter="SONNET UPON GOD THE WINE GIVER" data-kind="story"></span>
+<span class="atom-split" data-atom="story_47_sonnet_upon_god_the_wine_giver" data-title="Verses — SONNET UPON GOD, THE WINE GIVER" data-chapter="SONNET UPON GOD THE WINE GIVER" data-kind="story" data-tags="motif/wine_and_drink,motif/bread_and_wine_eucharist,concept/faith,concept/labor,form/sonnet,character/god"></span>
 
 
 SONNET UPON GOD, THE WINE GIVER
@@ -6531,7 +6531,7 @@ Who taught us how the wine-press should be trod!
 
 
 
-<span class="atom-split" data-atom="story_48_the_politician_or_the_irish_earldom" data-title="Verses — THE POLITICIAN OR THE IRISH EARLDOM" data-chapter="THE POLITICIAN OR THE IRISH EARLDOM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_48_the_politician_or_the_irish_earldom" data-title="Verses — THE POLITICIAN OR THE IRISH EARLDOM" data-chapter="THE POLITICIAN OR THE IRISH EARLDOM" data-kind="story" data-tags="concept/satire_of_society,concept/hypocrisy,concept/empire_and_imperialism,concept/power_and_corruption,concept/temperance_and_teetotalism,form/satire"></span>
 
 
 THE POLITICIAN OR THE IRISH EARLDOM
@@ -6629,7 +6629,7 @@ To know each other’s value more.
 
 
 
-<span class="atom-split" data-atom="story_49_short_ballad_and_postscript_on_consols" data-title="Verses — SHORT BALLAD AND POSTSCRIPT ON CONSOLS" data-chapter="SHORT BALLAD AND POSTSCRIPT ON CONSOLS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_49_short_ballad_and_postscript_on_consols" data-title="Verses — SHORT BALLAD AND POSTSCRIPT ON CONSOLS" data-chapter="SHORT BALLAD AND POSTSCRIPT ON CONSOLS" data-kind="story" data-tags="archetype/pilgrim"></span>
 
 
 SHORT BALLAD AND POSTSCRIPT ON CONSOLS

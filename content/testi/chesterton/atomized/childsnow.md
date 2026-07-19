@@ -73,7 +73,7 @@ e un [[Child|Bambino]] viene avanti [[Alone|solo]].
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="childsnow (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="childsnow (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/frost,motif/leaves,motif/night,motif/snow,form/hymn"></span>
 
 
 A [[Child]] of the Snows  

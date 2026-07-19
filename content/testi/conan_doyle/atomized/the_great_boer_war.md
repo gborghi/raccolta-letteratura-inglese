@@ -1376,7 +1376,7 @@ AUTHOR OF ‘THE GREAT BOER WAR’
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_end" data-title="THE GREAT BOER WAR — Chapter 39: THE END" data-chapter="THE END" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_end" data-title="THE GREAT BOER WAR — Chapter 39: THE END" data-chapter="THE END" data-kind="chapter" data-tags="concept/history,form/history,histref/boer_war,setting/south_africa"></span>
 
 
 CHAPTER 39. THE END.
@@ -1389,7 +1389,7 @@ Arthur Conan Doyle, Undershaw, Hindhead: September 1902.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_boer_nations" data-title="THE GREAT BOER WAR — Chapter 1: THE BOER NATIONS" data-chapter="THE BOER NATIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_boer_nations" data-title="THE GREAT BOER WAR — Chapter 1: THE BOER NATIONS" data-chapter="THE BOER NATIONS" data-kind="chapter" data-tags="motif/blood,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 1. THE BOER NATIONS.
@@ -1429,7 +1429,7 @@ This, then, is a synopsis of what had occurred up to the signing of the Conventi
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_cause_of_quarrel" data-title="THE GREAT BOER WAR — Chapter 2: THE CAUSE OF QUARREL" data-chapter="THE CAUSE OF QUARREL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_cause_of_quarrel" data-title="THE GREAT BOER WAR — Chapter 2: THE CAUSE OF QUARREL" data-chapter="THE CAUSE OF QUARREL" data-kind="chapter" data-tags="setting/south_africa"></span>
 
 
 CHAPTER 2. THE CAUSE OF QUARREL.
@@ -1472,7 +1472,7 @@ A commission appointed by the State was sent to examine into the condition of th
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_negotiations" data-title="THE GREAT BOER WAR — Chapter 3: THE NEGOTIATIONS" data-chapter="THE NEGOTIATIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_negotiations" data-title="THE GREAT BOER WAR — Chapter 3: THE NEGOTIATIONS" data-chapter="THE NEGOTIATIONS" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 3. THE NEGOTIATIONS.
@@ -1501,7 +1501,7 @@ Such was the message, and Great Britain waited with strained attention for the a
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_eve_of_war" data-title="THE GREAT BOER WAR — Chapter 4: THE EVE OF WAR" data-chapter="THE EVE OF WAR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_eve_of_war" data-title="THE GREAT BOER WAR — Chapter 4: THE EVE OF WAR" data-chapter="THE EVE OF WAR" data-kind="chapter" data-tags="motif/blood,histref/british_empire,setting/battlefield,setting/south_africa"></span>
 
 
 CHAPTER 4. THE EVE OF WAR.
@@ -1548,7 +1548,7 @@ And so we have come to the end of the long road, past the battle of the pens and
 
 
 
-<span class="atom-split" data-atom="chapter_06_talana_hill" data-title="THE GREAT BOER WAR — Chapter 5: TALANA HILL" data-chapter="TALANA HILL" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_talana_hill" data-title="THE GREAT BOER WAR — Chapter 5: TALANA HILL" data-chapter="TALANA HILL" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/battlefield"></span>
 
 
 CHAPTER 5. TALANA HILL.
@@ -1580,7 +1580,7 @@ The battle of Talana Hill was a tactical victory but a strategic defeat. It was 
 
 
 
-<span class="atom-split" data-atom="chapter_07_elandslaagte_and_rietfontein" data-title="THE GREAT BOER WAR — Chapter 6: ELANDSLAAGTE AND RIETFONTEIN" data-chapter="ELANDSLAAGTE AND RIETFONTEIN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_elandslaagte_and_rietfontein" data-title="THE GREAT BOER WAR — Chapter 6: ELANDSLAAGTE AND RIETFONTEIN" data-chapter="ELANDSLAAGTE AND RIETFONTEIN" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 6. ELANDSLAAGTE AND RIETFONTEIN.
@@ -1610,7 +1610,7 @@ At the end of this first vigorous week of hostilities it is interesting to sum u
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_battle_of_ladysmith" data-title="THE GREAT BOER WAR — Chapter 7: THE BATTLE OF LADYSMITH" data-chapter="THE BATTLE OF LADYSMITH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_the_battle_of_ladysmith" data-title="THE GREAT BOER WAR — Chapter 7: THE BATTLE OF LADYSMITH" data-chapter="THE BATTLE OF LADYSMITH" data-kind="chapter" data-tags="motif/horse,setting/battlefield"></span>
 
 
 CHAPTER 7. THE BATTLE OF LADYSMITH.
@@ -1644,7 +1644,7 @@ But the sting of contumely or insult was not added to their misfortunes. There i
 
 
 
-<span class="atom-split" data-atom="chapter_09_lord_methuens_advance" data-title="THE GREAT BOER WAR — Chapter 8: LORD METHUEN’S ADVANCE" data-chapter="LORD METHUENS ADVANCE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_lord_methuens_advance" data-title="THE GREAT BOER WAR — Chapter 8: LORD METHUEN’S ADVANCE" data-chapter="LORD METHUENS ADVANCE" data-kind="chapter" data-tags="motif/horse,histref/british_empire"></span>
 
 
 CHAPTER 8. LORD METHUEN’S ADVANCE.
@@ -1689,7 +1689,7 @@ The honours of the day upon the side of the British rested with the Argyll and S
 
 
 
-<span class="atom-split" data-atom="chapter_10_battle_of_magersfontein" data-title="THE GREAT BOER WAR — Chapter 9: BATTLE OF MAGERSFONTEIN" data-chapter="BATTLE OF MAGERSFONTEIN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_battle_of_magersfontein" data-title="THE GREAT BOER WAR — Chapter 9: BATTLE OF MAGERSFONTEIN" data-chapter="BATTLE OF MAGERSFONTEIN" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 9. BATTLE OF MAGERSFONTEIN.
@@ -1718,7 +1718,7 @@ But of all the corps who deserve praise, there was none more gallant than the br
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_battle_of_stormberg" data-title="THE GREAT BOER WAR — Chapter 10: THE BATTLE OF STORMBERG" data-chapter="THE BATTLE OF STORMBERG" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_the_battle_of_stormberg" data-title="THE GREAT BOER WAR — Chapter 10: THE BATTLE OF STORMBERG" data-chapter="THE BATTLE OF STORMBERG" data-kind="chapter" data-tags="motif/horse"></span>
 
 
 CHAPTER 10. THE BATTLE OF STORMBERG.
@@ -1742,7 +1742,7 @@ Fortunately no very evil result followed. No doubt the recruiting of rebels was 
 
 
 
-<span class="atom-split" data-atom="chapter_12_battle_of_colenso" data-title="THE GREAT BOER WAR — Chapter 11: BATTLE OF COLENSO" data-chapter="BATTLE OF COLENSO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_battle_of_colenso" data-title="THE GREAT BOER WAR — Chapter 11: BATTLE OF COLENSO" data-chapter="BATTLE OF COLENSO" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 11. BATTLE OF COLENSO.
@@ -1784,7 +1784,7 @@ Much allowance is to be made for a man who is staggering under the mental shock 
 
 
 
-<span class="atom-split" data-atom="chapter_13_the_dark_hour" data-title="THE GREAT BOER WAR — Chapter 12: THE DARK HOUR" data-chapter="THE DARK HOUR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_the_dark_hour" data-title="THE GREAT BOER WAR — Chapter 12: THE DARK HOUR" data-chapter="THE DARK HOUR" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 12. THE DARK HOUR.
@@ -1815,7 +1815,7 @@ Time here as elsewhere was working for the British, for reinforcements were stea
 
 
 
-<span class="atom-split" data-atom="chapter_14_the_siege_of_ladysmith" data-title="THE GREAT BOER WAR — Chapter 13: THE SIEGE OF LADYSMITH" data-chapter="THE SIEGE OF LADYSMITH" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_the_siege_of_ladysmith" data-title="THE GREAT BOER WAR — Chapter 13: THE SIEGE OF LADYSMITH" data-chapter="THE SIEGE OF LADYSMITH" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 13. THE SIEGE OF LADYSMITH.
@@ -1867,7 +1867,7 @@ Throughout the Empire the course of this great struggle was watched with the kee
 
 
 
-<span class="atom-split" data-atom="chapter_15_the_colesberg_operations" data-title="THE GREAT BOER WAR — Chapter 14: THE COLESBERG OPERATIONS" data-chapter="THE COLESBERG OPERATIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_the_colesberg_operations" data-title="THE GREAT BOER WAR — Chapter 14: THE COLESBERG OPERATIONS" data-chapter="THE COLESBERG OPERATIONS" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 14. THE COLESBERG OPERATIONS.
@@ -1899,7 +1899,7 @@ It was evident from this time onwards that the turning movement had failed, and 
 
 
 
-<span class="atom-split" data-atom="chapter_16_spion_kop" data-title="THE GREAT BOER WAR — Chapter 15: SPION KOP" data-chapter="SPION KOP" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_spion_kop" data-title="THE GREAT BOER WAR — Chapter 15: SPION KOP" data-chapter="SPION KOP" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 15. SPION KOP.
@@ -1979,7 +1979,7 @@ General Buller had lost nearly two thousand men since he had crossed the Tugela,
 
 
 
-<span class="atom-split" data-atom="chapter_17_vaalkranz" data-title="THE GREAT BOER WAR — Chapter 16: VAALKRANZ" data-chapter="VAALKRANZ" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_vaalkranz" data-title="THE GREAT BOER WAR — Chapter 16: VAALKRANZ" data-chapter="VAALKRANZ" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 16. VAALKRANZ.
@@ -2001,7 +2001,7 @@ That night Hildyard’s men supplemented the defences made by Lyttelton, and tig
 
 
 
-<span class="atom-split" data-atom="chapter_18_bullers_final_advance" data-title="THE GREAT BOER WAR — Chapter 17: BULLER’S FINAL ADVANCE" data-chapter="BULLERS FINAL ADVANCE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_bullers_final_advance" data-title="THE GREAT BOER WAR — Chapter 17: BULLER’S FINAL ADVANCE" data-chapter="BULLERS FINAL ADVANCE" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 17. BULLER’S FINAL ADVANCE.
@@ -2043,7 +2043,7 @@ The relief of Ladysmith stirred the people of the Empire as nothing, save perhap
 
 
 
-<span class="atom-split" data-atom="chapter_19_the_siege_and_relief_of_kimber" data-title="THE GREAT BOER WAR — Chapter 18: THE SIEGE AND RELIEF OF KIMBERLEY" data-chapter="THE SIEGE AND RELIEF OF KIMBER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_the_siege_and_relief_of_kimber" data-title="THE GREAT BOER WAR — Chapter 18: THE SIEGE AND RELIEF OF KIMBERLEY" data-chapter="THE SIEGE AND RELIEF OF KIMBER" data-kind="chapter" data-tags="motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 18. THE SIEGE AND RELIEF OF KIMBERLEY.
@@ -2083,7 +2083,7 @@ A few more words as a sequel to this short sketch of the siege and relief of Kim
 
 
 
-<span class="atom-split" data-atom="chapter_20_paardeberg" data-title="THE GREAT BOER WAR — Chapter 19: PAARDEBERG" data-chapter="PAARDEBERG" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_paardeberg" data-title="THE GREAT BOER WAR — Chapter 19: PAARDEBERG" data-chapter="PAARDEBERG" data-kind="chapter" data-tags="motif/blood,motif/horse"></span>
 
 
 CHAPTER 19. PAARDEBERG.
@@ -2156,7 +2156,7 @@ A fortnight had elapsed since Lord Roberts had launched his forces from Ramdam, 
 
 
 
-<span class="atom-split" data-atom="chapter_21_robertss_advance_on_bloemfonte" data-title="THE GREAT BOER WAR — Chapter 20: ROBERTS’S ADVANCE ON BLOEMFONTEIN" data-chapter="ROBERTSS ADVANCE ON BLOEMFONTE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_robertss_advance_on_bloemfonte" data-title="THE GREAT BOER WAR — Chapter 20: ROBERTS’S ADVANCE ON BLOEMFONTEIN" data-chapter="ROBERTSS ADVANCE ON BLOEMFONTE" data-kind="chapter" data-tags="motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 20. ROBERTS’S ADVANCE ON BLOEMFONTEIN.
@@ -2183,7 +2183,7 @@ It was just a month after the start from Ramdam that Lord Roberts and his army r
 
 
 
-<span class="atom-split" data-atom="chapter_22_strategic_effects_of_lord_robe" data-title="THE GREAT BOER WAR — Chapter 21: STRATEGIC EFFECTS OF LORD ROBERTS’S MARCH" data-chapter="STRATEGIC EFFECTS OF LORD ROBE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_strategic_effects_of_lord_robe" data-title="THE GREAT BOER WAR — Chapter 21: STRATEGIC EFFECTS OF LORD ROBERTS’S MARCH" data-chapter="STRATEGIC EFFECTS OF LORD ROBE" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 21. STRATEGIC EFFECTS OF LORD ROBERTS’S MARCH.
@@ -2221,7 +2221,7 @@ With this frank and uncompromising reply the Empire, with the exception of a sma
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_halt_at_bloemfontein" data-title="THE GREAT BOER WAR — Chapter 22: THE HALT AT BLOEMFONTEIN" data-chapter="THE HALT AT BLOEMFONTEIN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_the_halt_at_bloemfontein" data-title="THE GREAT BOER WAR — Chapter 22: THE HALT AT BLOEMFONTEIN" data-chapter="THE HALT AT BLOEMFONTEIN" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 22. THE HALT AT BLOEMFONTEIN.
@@ -2257,7 +2257,7 @@ In this short period of depression there came one gleam of light from the west. 
 
 
 
-<span class="atom-split" data-atom="chapter_24_the_clearing_of_the_south_east" data-title="THE GREAT BOER WAR — Chapter 23: THE CLEARING OF THE SOUTH-EAST" data-chapter="THE CLEARING OF THE SOUTH EAST" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_24_the_clearing_of_the_south_east" data-title="THE GREAT BOER WAR — Chapter 23: THE CLEARING OF THE SOUTH-EAST" data-chapter="THE CLEARING OF THE SOUTH EAST" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 23. THE CLEARING OF THE SOUTH-EAST.
@@ -2288,7 +2288,7 @@ The operations which have been here described may be finally summed up in one sh
 
 
 
-<span class="atom-split" data-atom="chapter_25_the_siege_of_mafeking" data-title="THE GREAT BOER WAR — Chapter 24: THE SIEGE OF MAFEKING" data-chapter="THE SIEGE OF MAFEKING" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25_the_siege_of_mafeking" data-title="THE GREAT BOER WAR — Chapter 24: THE SIEGE OF MAFEKING" data-chapter="THE SIEGE OF MAFEKING" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 24. THE SIEGE OF MAFEKING.
@@ -2328,7 +2328,7 @@ So ended a singular incident, the defence of an open town which contained no reg
 
 
 
-<span class="atom-split" data-atom="chapter_26_the_march_on_pretoria" data-title="THE GREAT BOER WAR — Chapter 25: THE MARCH ON PRETORIA" data-chapter="THE MARCH ON PRETORIA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_26_the_march_on_pretoria" data-title="THE GREAT BOER WAR — Chapter 25: THE MARCH ON PRETORIA" data-chapter="THE MARCH ON PRETORIA" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/second_boer_war,setting/south_africa"></span>
 
 
 CHAPTER 25. THE MARCH ON PRETORIA.
@@ -2366,7 +2366,7 @@ In the centre of the town there is a wide square decorated or disfigured by a ba
 
 
 
-<span class="atom-split" data-atom="chapter_27_diamond_hill_rundles_operation" data-title="THE GREAT BOER WAR — Chapter 26: DIAMOND HILL — RUNDLE’S OPERATIONS" data-chapter="DIAMOND HILL RUNDLES OPERATION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_27_diamond_hill_rundles_operation" data-title="THE GREAT BOER WAR — Chapter 26: DIAMOND HILL — RUNDLE’S OPERATIONS" data-chapter="DIAMOND HILL RUNDLES OPERATION" data-kind="chapter" data-tags="motif/horse"></span>
 
 
 CHAPTER 26. DIAMOND HILL — RUNDLE’S OPERATIONS.
@@ -2392,7 +2392,7 @@ At the end of May, then, the Colonial Division, Rundle’s Division, and Clement
 
 
 
-<span class="atom-split" data-atom="chapter_28_the_lines_of_communication" data-title="THE GREAT BOER WAR — Chapter 27: THE LINES OF COMMUNICATION" data-chapter="THE LINES OF COMMUNICATION" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28_the_lines_of_communication" data-title="THE GREAT BOER WAR — Chapter 27: THE LINES OF COMMUNICATION" data-chapter="THE LINES OF COMMUNICATION" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/british_empire"></span>
 
 
 CHAPTER 27. THE LINES OF COMMUNICATION.
@@ -2427,7 +2427,7 @@ On July 30th the motley army which had held the British off so long emerged from
 
 
 
-<span class="atom-split" data-atom="chapter_29_the_halt_at_pretoria" data-title="THE GREAT BOER WAR — Chapter 28: THE HALT AT PRETORIA" data-chapter="THE HALT AT PRETORIA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_29_the_halt_at_pretoria" data-title="THE GREAT BOER WAR — Chapter 28: THE HALT AT PRETORIA" data-chapter="THE HALT AT PRETORIA" data-kind="chapter" data-tags="motif/horse"></span>
 
 
 CHAPTER 28. THE HALT AT PRETORIA.
@@ -2460,7 +2460,7 @@ Two Boer plots had been discovered during the first half of August, the one in P
 
 
 
-<span class="atom-split" data-atom="chapter_30_the_advance_to_komatipoort" data-title="THE GREAT BOER WAR — Chapter 29: THE ADVANCE TO KOMATIPOORT" data-chapter="THE ADVANCE TO KOMATIPOORT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_30_the_advance_to_komatipoort" data-title="THE GREAT BOER WAR — Chapter 29: THE ADVANCE TO KOMATIPOORT" data-chapter="THE ADVANCE TO KOMATIPOORT" data-kind="chapter" data-tags="motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 29. THE ADVANCE TO KOMATIPOORT.
@@ -2494,7 +2494,7 @@ One find of the utmost importance was made at Komatipoort, and at Hector Spruit 
 
 
 
-<span class="atom-split" data-atom="chapter_31_the_campaign_of_de_wet" data-title="THE GREAT BOER WAR — Chapter 30: THE CAMPAIGN OF DE WET" data-chapter="THE CAMPAIGN OF DE WET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_31_the_campaign_of_de_wet" data-title="THE GREAT BOER WAR — Chapter 30: THE CAMPAIGN OF DE WET" data-chapter="THE CAMPAIGN OF DE WET" data-kind="chapter" data-tags="motif/blood,motif/horse,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 30. THE CAMPAIGN OF DE WET.
@@ -2536,7 +2536,7 @@ The result then of these bustling operations had been that De Wet and his force 
 
 
 
-<span class="atom-split" data-atom="chapter_32_the_guerilla_warfare_in_the_tr" data-title="THE GREAT BOER WAR — Chapter 31: THE GUERILLA WARFARE IN THE TRANSVAAL: NOOITGEDACHT" data-chapter="THE GUERILLA WARFARE IN THE TR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32_the_guerilla_warfare_in_the_tr" data-title="THE GREAT BOER WAR — Chapter 31: THE GUERILLA WARFARE IN THE TRANSVAAL: NOOITGEDACHT" data-chapter="THE GUERILLA WARFARE IN THE TR" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/battlefield"></span>
 
 
 CHAPTER 31. THE GUERILLA WARFARE IN THE TRANSVAAL: NOOITGEDACHT.
@@ -2576,7 +2576,7 @@ The words reflect honour both upon the troops addressed and upon the man who add
 
 
 
-<span class="atom-split" data-atom="chapter_33_the_second_invasion_of_cape_co" data-title="THE GREAT BOER WAR — Chapter 32: THE SECOND INVASION OF CAPE COLONY" data-chapter="THE SECOND INVASION OF CAPE CO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_33_the_second_invasion_of_cape_co" data-title="THE GREAT BOER WAR — Chapter 32: THE SECOND INVASION OF CAPE COLONY" data-chapter="THE SECOND INVASION OF CAPE CO" data-kind="chapter" data-tags="motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 32. THE SECOND INVASION OF CAPE COLONY.
@@ -2614,7 +2614,7 @@ While Plumer and Bethune were following upon the track of De Wet until he left t
 
 
 
-<span class="atom-split" data-atom="chapter_34_the_northern_operations_from_j" data-title="THE GREAT BOER WAR — Chapter 33: THE NORTHERN OPERATIONS FROM JANUARY TO APRIL, 1901" data-chapter="THE NORTHERN OPERATIONS FROM J" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_34_the_northern_operations_from_j" data-title="THE GREAT BOER WAR — Chapter 33: THE NORTHERN OPERATIONS FROM JANUARY TO APRIL, 1901" data-chapter="THE NORTHERN OPERATIONS FROM J" data-kind="chapter" data-tags="motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 33. THE NORTHERN OPERATIONS FROM JANUARY TO APRIL, 1901.
@@ -2657,7 +2657,7 @@ All over the country small British columns had been operating during these month
 
 
 
-<span class="atom-split" data-atom="chapter_35_the_winter_campaign_april_to_s" data-title="THE GREAT BOER WAR — Chapter 34: THE WINTER CAMPAIGN (APRIL TO SEPTEMBER, 1901)" data-chapter="THE WINTER CAMPAIGN APRIL TO S" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_35_the_winter_campaign_april_to_s" data-title="THE GREAT BOER WAR — Chapter 34: THE WINTER CAMPAIGN (APRIL TO SEPTEMBER, 1901)" data-chapter="THE WINTER CAMPAIGN APRIL TO S" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 34. THE WINTER CAMPAIGN (APRIL TO SEPTEMBER, 1901).
@@ -2708,7 +2708,7 @@ Lord Kitchener’s proclamation issued upon August 9th marked one more turn in t
 
 
 
-<span class="atom-split" data-atom="chapter_36_the_guerilla_operations_in_cap" data-title="THE GREAT BOER WAR — Chapter 35: THE GUERILLA OPERATIONS IN CAPE COLONY" data-chapter="THE GUERILLA OPERATIONS IN CAP" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_36_the_guerilla_operations_in_cap" data-title="THE GREAT BOER WAR — Chapter 35: THE GUERILLA OPERATIONS IN CAPE COLONY" data-chapter="THE GUERILLA OPERATIONS IN CAP" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 35. THE GUERILLA OPERATIONS IN CAPE COLONY.
@@ -2744,7 +2744,7 @@ The last incident of this scattered, scrambling, unsatisfactory campaign in the 
 
 
 
-<span class="atom-split" data-atom="chapter_37_the_spring_campaign_september" data-title="THE GREAT BOER WAR — Chapter 36: THE SPRING CAMPAIGN (SEPTEMBER TO DECEMBER, 1901)" data-chapter="THE SPRING CAMPAIGN SEPTEMBER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_37_the_spring_campaign_september" data-title="THE GREAT BOER WAR — Chapter 36: THE SPRING CAMPAIGN (SEPTEMBER TO DECEMBER, 1901)" data-chapter="THE SPRING CAMPAIGN SEPTEMBER" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 36. THE SPRING CAMPAIGN (SEPTEMBER TO DECEMBER, 1901).
@@ -2810,7 +2810,7 @@ Such was the short but vigorous campaign of De Wet in the last part of December 
 
 
 
-<span class="atom-split" data-atom="chapter_38_the_campaign_of_january_to_apr" data-title="THE GREAT BOER WAR — Chapter 37: THE CAMPAIGN OF JANUARY TO APRIL, 1902" data-chapter="THE CAMPAIGN OF JANUARY TO APR" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_38_the_campaign_of_january_to_apr" data-title="THE GREAT BOER WAR — Chapter 37: THE CAMPAIGN OF JANUARY TO APRIL, 1902" data-chapter="THE CAMPAIGN OF JANUARY TO APR" data-kind="chapter" data-tags="motif/blood,motif/horse,setting/south_africa"></span>
 
 
 CHAPTER 37. THE CAMPAIGN OF JANUARY TO APRIL, 1902.
@@ -2851,7 +2851,7 @@ One other isolated incident may be mentioned here, though it occurred far away i
 
 
 
-<span class="atom-split" data-atom="chapter_39_de_la_reys_campaign_of_1902" data-title="THE GREAT BOER WAR — Chapter 38: DE LA REY’S CAMPAIGN OF 1902" data-chapter="DE LA REYS CAMPAIGN OF 1902" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39_de_la_reys_campaign_of_1902" data-title="THE GREAT BOER WAR — Chapter 38: DE LA REY’S CAMPAIGN OF 1902" data-chapter="DE LA REYS CAMPAIGN OF 1902" data-kind="chapter" data-tags="motif/horse"></span>
 
 
 CHAPTER 38. DE LA REY’S CAMPAIGN OF 1902.
@@ -2890,7 +2890,7 @@ Upon May 29th, only two days before the final declaration of peace, a raid was m
 
 
 
-<span class="atom-split" data-atom="chapter_40_the_end" data-title="THE GREAT BOER WAR — Chapter 39: THE END" data-chapter="THE END" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_40_the_end" data-title="THE GREAT BOER WAR — Chapter 39: THE END" data-chapter="THE END" data-kind="chapter" data-tags="motif/blood,histref/british_empire,setting/south_africa"></span>
 
 
 CHAPTER 39. THE END.

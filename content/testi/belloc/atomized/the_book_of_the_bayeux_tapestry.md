@@ -355,7 +355,7 @@ What seems to me to prove definitely that the Tapestry did end almost exactly wh
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Book of the Bayeux Tapestry — Introduction (part 1)" data-chapter="Introduction" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_01" data-title="The Book of the Bayeux Tapestry — Introduction (part 1)" data-chapter="Introduction" data-kind="excerpt" data-tags="concept/history,concept/memory,concept/tradition,form/essay,histref/crusades,histref/the_renaissance,setting/medieval_england"></span>
 
 
 INTRODUCTION
@@ -377,7 +377,7 @@ It is not universal, because the written characters and the language which they 
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Book of the Bayeux Tapestry — Introduction (part 2)" data-chapter="Introduction" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_02" data-title="The Book of the Bayeux Tapestry — Introduction (part 2)" data-chapter="Introduction" data-kind="excerpt" data-tags="concept/tradition,histref/crusades,histref/william_the_conqueror,character/william_the_conqueror"></span>
 
 
 “This Foundation Stone was laid by the Rev. Charles Woodle, M.A., on the occasion of the Second Jubilee of Her Gracious Majesty Queen Victoria.”
@@ -407,7 +407,7 @@ Let me briefly lay before the reader the evidence upon which this decision must 
 
 
 
-<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Book of the Bayeux Tapestry — Introduction (part 3)" data-chapter="Introduction" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_introduction--part_03" data-title="The Book of the Bayeux Tapestry — Introduction (part 3)" data-chapter="Introduction" data-kind="excerpt" data-tags="motif/crown,concept/tradition,histref/crusades,histref/william_the_conqueror,character/harold,character/william_the_conqueror"></span>
 
 
 So with Bayeux. The correspondence of the length of the Tapestry to the length of the nave proves that the Tapestry was at least not earlier than the nave, but we do not know that the nave may not have been of just that length before some process of rebuilding.
@@ -445,7 +445,7 @@ The helmet with a nasal is not now in any document before the seal of Baldwin, t
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_01" data-title="The Book of the Bayeux Tapestry — Notes (part 1)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_01" data-title="The Book of the Bayeux Tapestry — Notes (part 1)" data-chapter="Notes" data-kind="excerpt" data-tags="motif/crown,character/harold"></span>
 
 
 NOTES
@@ -499,7 +499,7 @@ The last scene in this episode (which ends the first part of the story) is a sce
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_02" data-title="The Book of the Bayeux Tapestry — Notes (part 2)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_02" data-title="The Book of the Bayeux Tapestry — Notes (part 2)" data-chapter="Notes" data-kind="excerpt" data-tags="concept/tradition,character/harold"></span>
 
 
 To this first series of episodes in the story succeeds the arrival of the Duke of Normandy’s heralds insisting upon the release of [[Harold]] because Guy was vassal to William. The advent of these messengers forms the 12th and 13th sections of the design. It is perhaps a guide to the time of year in which all this took place, that on the border below we have the ploughing and the sowing of the spring. There has arisen in connection with these messengers of William’s a considerable and rather futile debate as to the meaning of the little figure who is holding the horses. I take his small size to be merely a piece of perspective, and the word “Turold” to refer to the taller figure on the left, to which it is attached.
@@ -537,7 +537,7 @@ The episode of the priest and of the woman who is given the name of “Aelfgyva�
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_03" data-title="The Book of the Bayeux Tapestry — Notes (part 3)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_03" data-title="The Book of the Bayeux Tapestry — Notes (part 3)" data-chapter="Notes" data-kind="excerpt" data-tags="motif/crown,character/harold"></span>
 
 
 21
@@ -593,7 +593,7 @@ Then comes the turning-point in the story, as in the series of pictures, and it 
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_04" data-title="The Book of the Bayeux Tapestry — Notes (part 4)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_04" data-title="The Book of the Bayeux Tapestry — Notes (part 4)" data-chapter="Notes" data-kind="excerpt" data-tags="motif/ship,setting/france,setting/ship,character/harold"></span>
 
 
 35
@@ -649,7 +649,7 @@ In the next panel (47), which is the disembarkation, the horses are again insist
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_05" data-title="The Book of the Bayeux Tapestry — Notes (part 5)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_05" data-title="The Book of the Bayeux Tapestry — Notes (part 5)" data-chapter="Notes" data-kind="excerpt" data-tags="character/harold"></span>
 
 
 With this panel the preliminaries of the action may be said to end, and the advance towards the battle itself to begin. There are two incidents in the next panel introducing that advance: one in which a messenger from [[Harold]] reaches William (whose portrait is again clearly marked), another in which the act of war begins with the burning of a house.
@@ -699,7 +699,7 @@ Now we know what that order was. There were three columns of attack, consisting 
 
 
 
-<span class="atom-split" data-atom="story_02_notes--part_06" data-title="The Book of the Bayeux Tapestry — Notes (part 6)" data-chapter="Notes" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_notes--part_06" data-title="The Book of the Bayeux Tapestry — Notes (part 6)" data-chapter="Notes" data-kind="excerpt" data-tags="character/harold"></span>
 
 
 Now all this the artist has attempted to represent. You have the attack represented both to the right and to the left and falling upon a body which faces two fronts; this is to symbolise the convergence of the three columns upon the semicircular front of the Saxon position upon Battle Hill. No particular figures are given; not even [[Harold]] is to be distinguished. Some critics too ingenious have discovered in the head of the Norman charge the person of Taillefer, “Iron-shear,” who certainly rode out before the army singing his song of Roncesvalles and tossing his sword (or by another account, his lance) into the air. There is nothing of this in the Tapestry.

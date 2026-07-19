@@ -99,7 +99,7 @@ most when we have nearly lost them.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="morality (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="morality (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/ship,motif/soul,motif/time,motif/well,concept/charity,concept/despair,concept/faith,concept/fear,concept/hope,concept/humility,concept/reform,concept/truth,setting/london,setting/ship"></span>
 
 
 Negative and Positive [[morality|Morality]]

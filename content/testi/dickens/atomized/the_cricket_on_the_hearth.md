@@ -3666,7 +3666,7 @@ nothing else remains.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="The Cricket on the Hearth — Introduction" data-chapter="Introduction" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="The Cricket on the Hearth — Introduction" data-chapter="Introduction" data-kind="story" data-tags="archetype/artist,archetype/ghost,archetype/shadow,motif/bells,motif/blood,motif/dance,motif/window,concept/grotesque,concept/resurrection,concept/self,form/comedy,form/novel,form/satire,character/caleb_plummer,character/tiny_tim"></span>
 
 
 INTRODUCTION
@@ -3737,7 +3737,7 @@ _Chatham, N.J._
 
 
 
-<span class="atom-split" data-atom="story_02_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story" data-tags="motif/fire,concept/fear"></span>
 
 
 THE CRICKET ON THE HEARTH
@@ -3776,7 +3776,7 @@ to chirp!_                                                        166
 
 
 
-<span class="atom-split" data-atom="story_03_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_cricket_on_the_hearth" data-title="The Cricket on the Hearth — The Cricket On The Hearth" data-chapter="The Cricket On The Hearth" data-kind="story" data-tags="motif/home"></span>
 
 
 THE CRICKET ON THE HEARTH
@@ -3786,7 +3786,7 @@ A FAIRY TALE OF [[Home|HOME]]
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_01" data-title="The Cricket on the Hearth — Chirp The First (part 1)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_01" data-title="The Cricket on the Hearth — Chirp The First (part 1)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/love,motif/nightingale,motif/time,motif/water,concept/body,concept/hope,concept/wonder,character/bottom"></span>
 
 
 CHIRP THE FIRST
@@ -3896,7 +3896,7 @@ dumb young cymbal that had never known the use of its twin brother.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_02" data-title="The Cricket on the Hearth — Chirp The First (part 2)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_02" data-title="The Cricket on the Hearth — Chirp The First (part 2)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/frost,motif/home,motif/horse,motif/leaves,motif/night,motif/summer,motif/time,motif/water,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/fear,concept/pride,concept/wonder,character/chorus"></span>
 
 
 That this [[Song|song]] of the kettle's was a [[Song|song]] of invitation and welcome to
@@ -4003,7 +4003,7 @@ much.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_03" data-title="The Cricket on the Hearth — Chirp The First (part 3)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_03" data-title="The Cricket on the Hearth — Chirp The First (part 3)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/home,motif/horse,motif/nature,motif/night,motif/sleep,motif/wind,motif/window,concept/charity,concept/fear,concept/honour,concept/nature,concept/pride,character/tilly_slowboy"></span>
 
 
 "Why, what else are you?" returned John, looking down upon her with a
@@ -4134,7 +4134,7 @@ meaning, and expresses quite another thing.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_04" data-title="The Cricket on the Hearth — Chirp The First (part 4)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_04" data-title="The Cricket on the Hearth — Chirp The First (part 4)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/fear,concept/hope,concept/truth,concept/wonder,character/tackleton"></span>
 
 
 To have seen little Mrs. Peerybingle come back with her husband, tugging
@@ -4265,7 +4265,7 @@ Dot."
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_05" data-title="The Cricket on the Hearth — Chirp The First (part 5)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_05" data-title="The Cricket on the Hearth — Chirp The First (part 5)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/innocent,motif/fire,motif/lamb,motif/nature,motif/rose,motif/silence,motif/sleep,motif/time,motif/well,concept/imagination,concept/nature,concept/wonder,form/inscription,character/tilly_slowboy"></span>
 
 
 Even this, his usual sentiment at meal-times, one of his [[Innocent|innocent]]
@@ -4416,7 +4416,7 @@ the word GLASS in bold characters.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_06" data-title="The Cricket on the Hearth — Chirp The First (part 6)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_06" data-title="The Cricket on the Hearth — Chirp The First (part 6)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/home,motif/nature,motif/road,motif/soul,motif/supernatural,motif/time,motif/well,concept/hope,concept/nature,character/caleb_plummer,character/tackleton"></span>
 
 
 "Good evening, John!" said the little man. "Good evening, mum! Good
@@ -4564,7 +4564,7 @@ whole Christmas or Midsummer Vacation.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_07" data-title="The Cricket on the Hearth — Chirp The First (part 7)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_07" data-title="The Cricket on the Hearth — Chirp The First (part 7)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/home,motif/night,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/imagination,concept/self,concept/truth,character/tackleton"></span>
 
 
 What he was in toys, he was (as most men are) in other things. You may
@@ -4699,7 +4699,7 @@ Pleasant [[Dreams|dreams]]!"
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_08" data-title="The Cricket on the Hearth — Chirp The First (part 8)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_08" data-title="The Cricket on the Hearth — Chirp The First (part 8)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="motif/fire,motif/night,motif/well,concept/doubt,concept/fear,concept/hope,concept/wonder,character/john_peerybingle,character/tackleton"></span>
 
 
 The Carrier was puzzled, and made uncomfortable and uncertain, in spite
@@ -4837,7 +4837,7 @@ stool beside him on the hearth.
 
 
 
-<span class="atom-split" data-atom="story_04_chirp_the_first--part_09" data-title="The Cricket on the Hearth — Chirp The First (part 9)" data-chapter="Chirp The First" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chirp_the_first--part_09" data-title="The Cricket on the Hearth — Chirp The First (part 9)" data-chapter="Chirp The First" data-kind="excerpt" data-tags="archetype/shadow,motif/clock,motif/fire,motif/flowers,motif/home,character/tackleton"></span>
 
 
 She always _would_ sit on that little stool. I think she must have had a
@@ -4895,7 +4895,7 @@ visions. Why has its [[Shadow|shadow]] fallen on his hearth?
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_01" data-title="The Cricket on the Hearth — Chirp The Second (part 1)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_01" data-title="The Cricket on the Hearth — Chirp The Second (part 1)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/home,motif/love,motif/nature,motif/ship,motif/sleep,motif/well,concept/doubt,concept/grotesque,concept/honour,concept/hope,concept/melancholy,concept/nature,concept/truth,concept/wonder,setting/ship,character/caleb_plummer,character/tackleton"></span>
 
 
 CHIRP THE SECOND
@@ -5009,7 +5009,7 @@ as any Toy was ever made to undertake.
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_02" data-title="The Cricket on the Hearth — Chirp The Second (part 2)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_02" data-title="The Cricket on the Hearth — Chirp The Second (part 2)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="motif/love,motif/night,motif/time,motif/well,concept/common_man,concept/doubt,concept/honour,concept/hope,concept/identity,form/fragment,character/tackleton"></span>
 
 
 In the midst of all these objects, Caleb and his daughter sat at work.
@@ -5144,7 +5144,7 @@ happy as you would make the whole world, if you could!"
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_03" data-title="The Cricket on the Hearth — Chirp The Second (part 3)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_03" data-title="The Cricket on the Hearth — Chirp The Second (part 3)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/bells,motif/death,motif/dreams,motif/flowers,motif/home,motif/night,motif/pain,motif/rose,motif/sleep,motif/time,motif/well,concept/deception,concept/doubt,concept/fear,character/may_fielding,character/tackleton"></span>
 
 
 "Poor Idiot!" muttered [[Tackleton]]. "No gleam of reason. Not a gleam!"
@@ -5293,7 +5293,7 @@ one arm round his neck, "tell me something about May. She is very fair?"
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_04" data-title="The Cricket on the Hearth — Chirp The Second (part 4)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_04" data-title="The Cricket on the Hearth — Chirp The Second (part 4)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/love,motif/road,motif/sleep,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/suffering,concept/truth,character/nurse"></span>
 
 
 "She is indeed," said Caleb. And she was indeed. It was quite a rare
@@ -5420,7 +5420,7 @@ things behind me. The basket's safe enough."
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_05" data-title="The Cricket on the Hearth — Chirp The Second (part 5)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_05" data-title="The Cricket on the Hearth — Chirp The Second (part 5)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/monster,motif/home,motif/journey,motif/nature,motif/night,motif/road,motif/silence,motif/time,concept/body,concept/honour,concept/hope,concept/nature,concept/wonder,character/john_peerybingle,character/tilly_slowboy"></span>
 
 
 "What a hard-hearted [[Monster|monster]] you must be, John, not to have said so at
@@ -5534,7 +5534,7 @@ that blessed young Peerybingle was, all the way.
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_06" data-title="The Cricket on the Hearth — Chirp The Second (part 6)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_06" data-title="The Cricket on the Hearth — Chirp The Second (part 6)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="motif/fire,motif/frost,motif/home,motif/river,motif/sleep,motif/soul,motif/summer,motif/time,motif/wind,concept/honour,character/bottom,character/john_peerybingle,character/may_fielding,character/tackleton"></span>
 
 
 You couldn't see very far in the fog, of course; but you could see a
@@ -5640,7 +5640,7 @@ the whole proceedings.
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_07" data-title="The Cricket on the Hearth — Chirp The Second (part 7)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_07" data-title="The Cricket on the Hearth — Chirp The Second (part 7)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/home,motif/horse,motif/journey,motif/love,motif/silence,motif/tears,motif/time,concept/doubt,character/john_peerybingle,character/tackleton"></span>
 
 
 Certainly, if these old gentlemen were inclined to have a fiendish joy
@@ -5760,7 +5760,7 @@ had been ever since their institution.
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_08" data-title="The Cricket on the Hearth — Chirp The Second (part 8)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_08" data-title="The Cricket on the Hearth — Chirp The Second (part 8)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/child,motif/horse,motif/love,motif/night,motif/road,motif/rose,motif/soul,motif/tears,motif/time,concept/beauty,concept/honour,concept/pride,concept/truth,concept/wonder,character/john_peerybingle,character/may_fielding,character/tackleton,character/tilly_slowboy"></span>
 
 
 There were two persons present, besides the bride and bridegroom elect,
@@ -5896,7 +5896,7 @@ of her dress.
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_09" data-title="The Cricket on the Hearth — Chirp The Second (part 9)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_09" data-title="The Cricket on the Hearth — Chirp The Second (part 9)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="motif/fire,motif/horse,motif/nature,motif/night,motif/secrets,motif/time,motif/well,motif/winter,concept/fear,concept/honour,concept/humility,concept/nature,concept/self,concept/truth,character/tackleton"></span>
 
 
 "Great Power!" exclaimed her father, smitten at one blow with the [[Truth|truth]],
@@ -6010,7 +6010,7 @@ about him, is all he cares for. He's easily pleased."
 
 
 
-<span class="atom-split" data-atom="story_05_chirp_the_second--part_10" data-title="The Cricket on the Hearth — Chirp The Second (part 10)" data-chapter="Chirp The Second" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chirp_the_second--part_10" data-title="The Cricket on the Hearth — Chirp The Second (part 10)" data-chapter="Chirp The Second" data-kind="excerpt" data-tags="archetype/shadow,motif/fire,motif/home,motif/horse,motif/lion,motif/nature,motif/night,motif/silence,motif/stars,motif/time,motif/window,concept/nature,concept/suffering,concept/wonder,character/john_peerybingle,character/nurse,character/tackleton"></span>
 
 
 Bertha had been listening intently. She called Caleb to her side, when
@@ -6153,7 +6153,7 @@ combination of circumstances.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_01" data-title="The Cricket on the Hearth — Chirp The Third (part 1)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_01" data-title="The Cricket on the Hearth — Chirp The Third (part 1)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,archetype/villain,motif/blood,motif/clock,motif/fire,motif/love,motif/moon,motif/nature,motif/night,motif/rose,motif/sleep,motif/tears,motif/time,motif/water,motif/wind,motif/window,concept/mercy,concept/nature,concept/pride,concept/revenge,concept/truth,concept/wonder,character/tackleton"></span>
 
 
 CHIRP THE THIRD
@@ -6268,7 +6268,7 @@ his face, he then sat down again beside the [[Fire|fire]], and found relief in
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_02" data-title="The Cricket on the Hearth — Chirp The Third (part 2)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_02" data-title="The Cricket on the Hearth — Chirp The Third (part 2)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/shadow,motif/bees,motif/clock,motif/crown,motif/dance,motif/fire,motif/flowers,motif/home,motif/love,motif/mirror,motif/moon,motif/nature,motif/night,motif/well,concept/honour,concept/nature,concept/truth,character/may_fielding"></span>
 
 
 The Cricket on the Hearth came out into the room, and stood in Fairy
@@ -6390,7 +6390,7 @@ cheered in the most inspiring manner.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_03" data-title="The Cricket on the Hearth — Chirp The Third (part 3)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_03" data-title="The Cricket on the Hearth — Chirp The Third (part 3)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/dance,motif/flowers,motif/home,motif/horse,motif/love,motif/marriage,motif/moon,motif/night,motif/noon,motif/road,motif/rose,motif/stars,motif/time,concept/hope,concept/self,character/caleb_plummer,character/john_peerybingle,character/tackleton,character/tilly_slowboy"></span>
 
 
 They never showed her otherwise than beautiful and bright, for they were
@@ -6506,7 +6506,7 @@ looked in, went in, and soon came running out again.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_04" data-title="The Cricket on the Hearth — Chirp The Third (part 4)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_04" data-title="The Cricket on the Hearth — Chirp The Third (part 4)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/love,motif/marriage,motif/nature,motif/night,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/honour,concept/hope,concept/nature,concept/truth,character/john_peerybingle,character/may_fielding,character/tackleton"></span>
 
 
 "[[John Peerybingle]]," said [[Tackleton]] in his ear, "I [[Hope|hope]] there has been
@@ -6636,7 +6636,7 @@ me when I am here [[Alone|alone]]."
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_05" data-title="The Cricket on the Hearth — Chirp The Third (part 5)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_05" data-title="The Cricket on the Hearth — Chirp The Third (part 5)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/clock,motif/flowers,motif/home,motif/horse,motif/leaves,motif/marriage,motif/night,motif/pain,motif/soul,motif/time,motif/well,concept/courage,concept/forgiveness,concept/self,concept/truth,character/john_peerybingle,character/tackleton"></span>
 
 
 "Here [[Alone|alone]]?" said [[Tackleton]]. "Oh! Then you do mean to take some notice
@@ -6765,7 +6765,7 @@ and done with everybody, making everybody else so wretched? Ow-w-w-w!"
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_06" data-title="The Cricket on the Hearth — Chirp The Third (part 6)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_06" data-title="The Cricket on the Hearth — Chirp The Third (part 6)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/endurance,concept/nature,concept/truth,concept/wonder,character/caleb_plummer"></span>
 
 
 The soft-hearted Slowboy tailed off at this juncture into such a
@@ -6895,7 +6895,7 @@ rain.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_07" data-title="The Cricket on the Hearth — Chirp The Third (part 7)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_07" data-title="The Cricket on the Hearth — Chirp The Third (part 7)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/garden,motif/home,motif/love,motif/night,motif/road,motif/rose,motif/soul,motif/tears,motif/well,motif/wind,motif/winter,concept/honour,concept/pride"></span>
 
 
 She heard the Cricket-voice more plainly soon, and was conscious,
@@ -7035,7 +7035,7 @@ and, flinging away his hat into the air, came sweeping down upon them.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_08" data-title="The Cricket on the Hearth — Chirp The Third (part 8)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_08" data-title="The Cricket on the Hearth — Chirp The Third (part 8)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/marriage,motif/nature,motif/night,motif/road,motif/tears,motif/well,concept/honour,concept/hope,concept/nature,concept/truth,character/john_peerybingle,character/tackleton"></span>
 
 
 "Yes!"
@@ -7164,7 +7164,7 @@ But oh, dear John, how could you, could you think so?"
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_09" data-title="The Cricket on the Hearth — Chirp The Third (part 9)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_09" data-title="The Cricket on the Hearth — Chirp The Third (part 9)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/fire,motif/flowers,motif/home,motif/horse,motif/love,motif/marriage,motif/night,motif/road,motif/soul,motif/time,motif/water,motif/well,concept/honour,character/john_peerybingle,character/tackleton,character/tilly_slowboy,character/touchstone"></span>
 
 
 Little woman, how she sobbed again! [[John Peerybingle]] would have caught
@@ -7309,7 +7309,7 @@ or other, into close acquaintance with it.
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_10" data-title="The Cricket on the Hearth — Chirp The Third (part 10)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_10" data-title="The Cricket on the Hearth — Chirp The Third (part 10)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/night,motif/road,motif/time,character/bottom,character/john_peerybingle,character/nurse,character/tackleton"></span>
 
 
 Then there was a great Expedition set on foot to go and find out Mrs.
@@ -7423,7 +7423,7 @@ him, to have effected such a change?
 
 
 
-<span class="atom-split" data-atom="story_06_chirp_the_third--part_11" data-title="The Cricket on the Hearth — Chirp The Third (part 11)" data-chapter="Chirp The Third" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chirp_the_third--part_11" data-title="The Cricket on the Hearth — Chirp The Third (part 11)" data-chapter="Chirp The Third" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/dust,motif/fire,motif/home,motif/horse,motif/journey,motif/time,motif/well,character/tackleton,character/tilly_slowboy"></span>
 
 
 He had been very near it, though.

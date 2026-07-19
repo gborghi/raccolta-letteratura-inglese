@@ -572,7 +572,7 @@ This sort of exaltation is the inevitable first phase of Bible-mania in decay. B
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="concept/faith,concept/truth,histref/catholic_church,histref/h_g_wells,character/h_g_wells"></span>
 
 
 INTRODUCTION
@@ -626,7 +626,7 @@ I will deal with these six matters which build up Mr. Wells’s pamphlet, taking
 
 
 
-<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 1)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 1)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt" data-tags="concept/truth,histref/catholic_church"></span>
 
 
 I. MR. WELLS’S GENERAL GRIEVANCES
@@ -672,7 +672,7 @@ Well, the whole book is written quite clearly round the object of convincing the
 
 
 
-<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 2)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 2)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt" data-tags="concept/faith,histref/catholic_church,histref/christianity,character/lord_salisbury"></span>
 
 
 Now what Body is it which maintains in their entirety the doctrines thus attacked? Can anyone deny that it is the [[Catholic Church]]? Many of them have been held by other Bodies schismatical or heretical to it, and therefore the doctrines are often alluded to as those not of the [[Catholic Church]], but of a vague entity, impossible to define, called “[[Christianity]].” Nevertheless, we all know that the denial to-day of those doctrines does not provoke determined resistance in any large organised Body outside the [[Catholic Church]].
@@ -706,7 +706,7 @@ As to “ignorance.” This is a word exactly applicable to point after point in
 
 
 
-<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 3)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 3)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt" data-tags="concept/darwinism_evolutionary_theory,concept/incarnation,concept/critique_of_progress,form/essay,histref/catholic_church,character/h_g_wells,character/charles_darwin"></span>
 
 
 There is an example of ignorance on a very wide general point. Next let me give an example of a highly particular point. It is really startling in its effect.
@@ -744,7 +744,7 @@ The words “science” and “scientific” do not imply a smattering of biolog
 
 
 
-<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_04" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 4)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_mr_wellss_general_grievances--part_04" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S GENERAL GRIEVANCES (part 4)" data-chapter="MR WELLSS GENERAL GRIEVANCES" data-kind="excerpt" data-tags="concept/faith"></span>
 
 
 As for muddle-headedness, what can be more muddle-headed than mixing up the general theory of evolution with the particular (and now moribund) materialist theory of Natural Selection? And yet that is what Mr. Wells is perpetually doing!
@@ -766,7 +766,7 @@ I could add not only further examples justifying the terms I have used, but a gr
 
 
 
-<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 1)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 1)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt" data-tags="histref/darwinism"></span>
 
 
 II. MR. WELLS AS BIOLOGIST
@@ -826,7 +826,7 @@ Let us turn to Dwight: —
 
 
 
-<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 2)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 2)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt" data-tags="histref/darwinism"></span>
 
 
 Who is this fellow Dwight? cries Mr. Wells. Whoever heard of him? I do not know whether Mr. Wells has ever heard of him, but he wrote in the year 1918. And he happened to hold the position of Professor of Anatomy at Harvard University.
@@ -888,7 +888,7 @@ The point is this, that not only one accidental advantageous variation which mig
 
 
 
-<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 3)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_mr_wells_as_biologist--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS AS BIOLOGIST (part 3)" data-chapter="MR WELLS AS BIOLOGIST" data-kind="excerpt" data-tags="histref/darwinism"></span>
 
 
 That argument in Mr. Wells’s judgment is “burlesque,” “beautifully absurd,” and so forth. But the judgment is not passed on him by me (who make no pretence to anything but the most general reading on these affairs). It is passed by such an authority, for instance, as Wolff. It is clear that Mr. Wells has never heard of Wolff; yet it is, I believe, now nearly eighteen years since Wolff brought out this argument, and for all I know many another clear-headed man had preceded him; certainly a great many have followed.
@@ -918,7 +918,7 @@ The bubble is pricked and has burst.
 
 
 
-<span class="atom-split" data-atom="story_04_mr_wellss_ignorance_of_the_catholic_chur" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S IGNORANCE OF THE CATHOLIC CHURCH" data-chapter="MR WELLSS IGNORANCE OF THE CATHOLIC CHUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_mr_wellss_ignorance_of_the_catholic_chur" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS’S IGNORANCE OF THE CATHOLIC CHURCH" data-chapter="MR WELLSS IGNORANCE OF THE CATHOLIC CHUR" data-kind="story" data-tags="concept/faith,histref/catholic_church"></span>
 
 
 III. MR. WELLS’S IGNORANCE OF THE [[Catholic Church|CATHOLIC CHURCH]]
@@ -970,7 +970,7 @@ That knowledge is rare and fragmentary in many considerable anti-Catholic histor
 
 
 
-<span class="atom-split" data-atom="story_05_my_errors--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 1)" data-chapter="MY ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_my_errors--part_01" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 1)" data-chapter="MY ERRORS" data-kind="excerpt" data-tags="concept/faith,histref/darwinism"></span>
 
 
 IV. MY ERRORS
@@ -1014,7 +1014,7 @@ But on the attached point, that I accuse him of never having read Vialleton, and
 
 
 
-<span class="atom-split" data-atom="story_05_my_errors--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 2)" data-chapter="MY ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_my_errors--part_02" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 2)" data-chapter="MY ERRORS" data-kind="excerpt" data-tags="concept/darwinism_evolutionary_theory,concept/critique_of_progress,form/essay,histref/darwinism_evolutionary_theory,character/h_g_wells,character/charles_darwin"></span>
 
 
 Mr. Wells is foolish enough — and ignorant enough — to say that this leading European authority, one of the greatest living authorities on his subject, “may have seen fit in one of his works” (my italics) to set right some “French student” (why French?) who had imagined that the embryo reproduced in detail all its ancestral life.
@@ -1068,7 +1068,7 @@ It is, as is usual with Mr. Wells, a mass of vague guess work, on very little ev
 
 
 
-<span class="atom-split" data-atom="story_05_my_errors--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 3)" data-chapter="MY ERRORS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_my_errors--part_03" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MY ERRORS (part 3)" data-chapter="MY ERRORS" data-kind="excerpt" data-tags="concept/darwinism_evolutionary_theory,concept/critique_of_progress,concept/faith,form/essay,histref/darwinism_evolutionary_theory,character/h_g_wells"></span>
 
 
 Then Mr. Wells steps sideways again. “No doubt” our own breed, “which includes the Tasmanians, was a very similar and parallel creature.” There is, of course, no ground for that “no doubt,” but that is by the way. He next goes on to say that some imaginary ancestor of ours and of the Tasmanians (whom he generously admits to be men), is not so far from us as to have allowed contemporary types to have eliminated, not indeed Neanderthal but the Neanderthaloid types. Then, on page 52, there is a smart return to the original position that Neanderthal Man was not an early type of our own breed, and that true men did not intermix with him.
@@ -1100,7 +1100,7 @@ Now, let me ask my reader, in conclusion, is it not remarkable that a man settin
 
 
 
-<span class="atom-split" data-atom="story_06_mr_wells_shirks" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS SHIRKS" data-chapter="MR WELLS SHIRKS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_mr_wells_shirks" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — MR. WELLS SHIRKS" data-chapter="MR WELLS SHIRKS" data-kind="story" data-tags="concept/faith,concept/truth,histref/darwinism"></span>
 
 
 V. MR. WELLS SHIRKS
@@ -1154,7 +1154,7 @@ Mr. Wells must, I think, have heard the famous dictum of the late Master of Ball
 
 
 
-<span class="atom-split" data-atom="story_07_the_great_rosy_dawn" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — THE GREAT ROSY DAWN" data-chapter="THE GREAT ROSY DAWN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_great_rosy_dawn" data-title="Mr. Belloc Still Objects to Mr. Wells’s “Outline of History” — THE GREAT ROSY DAWN" data-chapter="THE GREAT ROSY DAWN" data-kind="story" data-tags="concept/faith"></span>
 
 
 VI. THE GREAT ROSY DAWN

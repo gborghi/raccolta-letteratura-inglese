@@ -487,7 +487,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="story_01_introduction" data-title="The River of London — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_introduction" data-title="The River of London — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="motif/river,motif/ship,motif/water,concept/materialism,concept/tradition,setting/london,setting/ship"></span>
 
 
 I. INTRODUCTION
@@ -523,7 +523,7 @@ But all these things, though one may put them in the form of statements, are rea
 
 
 
-<span class="atom-split" data-atom="story_02_the_approach_up_river--part_01" data-title="The River of London — THE APPROACH UP RIVER (part 1)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_approach_up_river--part_01" data-title="The River of London — THE APPROACH UP RIVER (part 1)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 II. THE APPROACH UP [[River|RIVER]]
@@ -549,7 +549,7 @@ The second should by right be Roman: but nothing Roman remains; no, nor anything
 
 
 
-<span class="atom-split" data-atom="story_02_the_approach_up_river--part_02" data-title="The River of London — THE APPROACH UP RIVER (part 2)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_approach_up_river--part_02" data-title="The River of London — THE APPROACH UP RIVER (part 2)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 Of all that life of the Middle Ages which the English countrysides preserve in so many visible relics — and especially in a host of parish churches surpassing all of the kind in Europe — the Lower Thames has but one clear instance remaining to the eye; and that is the little isolated church of St. Clement’s. Rainham is too far from the [[Water|water]], the legends and associations surrounding the well of St. Chad are also too distant to count in the picture. The endowed foundations of religion either stood remote from the [[River|river]]-bank or have disappeared. [[London]], but for the Great Fire, would have supplied in this the emptiness of the lower [[River|river]].
@@ -573,7 +573,7 @@ In the earliest map of this point (which is preserved in the Admiralty) one may 
 
 
 
-<span class="atom-split" data-atom="story_02_the_approach_up_river--part_03" data-title="The River of London — THE APPROACH UP RIVER (part 3)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_approach_up_river--part_03" data-title="The River of London — THE APPROACH UP RIVER (part 3)" data-chapter="THE APPROACH UP RIVER" data-kind="excerpt" data-tags="motif/river,motif/ship,motif/water,setting/london,setting/ship"></span>
 
 
 For the rest, as I say, and with the exception of those rare survivals of which Tilbury is the most striking, modern industrialism, down to its last manifestations, has captured the Lower Thames and stands in a bleak contrast against the windy emptiness of the flats. Nowhere is one more oddly struck by this than opposite the great tanks which have been put up for the storage of petrol — the last of our necessities. From Tilbury upwards, wherever there is available space or good ground, it is the haste, the necessity, and the carelessness of modern exchange directed for the immediate profit of men who perpetually change their methods of acquirement (and even their homes) that marks the [[River|river]]. It is a new sort of desolation, the obverse (and not a pleasant one) of that more natural desolation which Nature made by stretching out her marshes and lagoons upon either side of the tideway.
@@ -593,7 +593,7 @@ But the entry by the river cannot be wholly destroyed. The river is too strong. 
 
 
 
-<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_01" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 1)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_01" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 1)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 III. [[London|LONDON]] THE FIRST CROSSING OF THE THAMES
@@ -619,7 +619,7 @@ Once that crossing was founded and continuously maintained it was equally necess
 
 
 
-<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_02" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 2)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_02" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 2)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 All the causes which we have seen to feed the commercial growth of the site from the sea were reinforced by the inland communications which met at this crossing place. The bridge (as I have shown elsewhere) made a terminal not only to sea-borne traffic, but to all the inland traffic from down the upper valley. It became the place of transhipment. It was further the terminal, and the necessary terminal, of the three great roads from north-west, from the north, and from the east, which combined at this point to seek the Straits of Dover to the south; and once this nexus was woven, once the market and place of meeting was fixed, it must further become the goal of other roads against which the Thames did not originally provide an obstacle. Thus it was that a road would necessarily be established from this crossing place to the west and to the south-west. Though the main traffic from the fertile Lower Severn valley would more naturally make for the Straits by way of the Chalk ridges, yet, when once [[London]] with its market supplies and depôts was established, a main road would necessarily aim at the Straits through [[London]] rather than south of the Thames. And though the secondary entries into the island from the Continent by Southampton [[Water]], and by the ports to the west of it, would naturally send out arteries of communication northward and westward, yet their communication north-eastward through [[London]] would soon acquire the chief place. That London would have become what it did through no more than these domestic causes may well be denied. The main factor in its growth was throughout the centuries what it remains to-day — the commerce of the tidal Thames. But standing at the head of that commerce London also gathered to itself, as the main crossing point of the Thames, the communications of the whole island.
@@ -641,7 +641,7 @@ The second factor in the establishment of such an obstacle is the type of soil o
 
 
 
-<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_03" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 3)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_03" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 3)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 But there is more than this.
@@ -669,7 +669,7 @@ We have, then, on the north, only Purfleet and Grays; and both must be rejected.
 
 
 
-<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_04" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 4)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_04" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 4)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 GREENWICH
@@ -693,7 +693,7 @@ Thus, one can point out to many a path across the clay of the weald which picks 
 
 
 
-<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_05" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 5)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_london_the_first_crossing_of_the_thames--part_05" data-title="The River of London — LONDON THE FIRST CROSSING OF THE THAMES (part 5)" data-chapter="LONDON THE FIRST CROSSING OF THE THAMES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 Upon the farther or northern bank traces of artificial embankment (indicating the original limit of alluvial mud upon that side) have been found upon the line of Thames Street, and the Roman wall ran just to the north of it. The total width, then, which had to be negotiated at this point was one at the very most of seven hundred yards, and perhaps much less than that, and it was one which at high [[Water|water]] was flanked to the south, as to the north, by a hard surface across which the [[River|river]] could be approached.
@@ -733,7 +733,7 @@ STRAND ON THE GREEN
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_01" data-title="The River of London — ENDNOTES. (part 1)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_01" data-title="The River of London — ENDNOTES. (part 1)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 ENDNOTES.
@@ -763,7 +763,7 @@ To explain the supremacy of London as a market more than one thesis is put forwa
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_02" data-title="The River of London — ENDNOTES. (part 2)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_02" data-title="The River of London — ENDNOTES. (part 2)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="setting/london"></span>
 
 
 THE THAMES FROM GREENWICH PARK
@@ -795,7 +795,7 @@ To continue the proof after the Tudors would be superfluous. There was even a ph
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_03" data-title="The River of London — ENDNOTES. (part 3)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_03" data-title="The River of London — ENDNOTES. (part 3)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 [[London]], then, for all these centuries has enjoyed the two political conditions necessary to the establishment of a chief market, security and a productive area in the hands of a race by its genius inclined to exchange.
@@ -829,7 +829,7 @@ In balancing the various advantages offered by various sites for the establishme
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_04" data-title="The River of London — ENDNOTES. (part 4)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_04" data-title="The River of London — ENDNOTES. (part 4)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 As part of this ease of access must be reckoned, the peculiar character of the Thames, much more open to the wind than the Seine, not blocked by any island, affording once within the estuary a constant depth amply sufficient for all vessels until quite recent times.
@@ -869,7 +869,7 @@ I have no space to show why and how [[Water|water]] carriage was of supreme impo
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_05" data-title="The River of London — ENDNOTES. (part 5)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_05" data-title="The River of London — ENDNOTES. (part 5)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,motif/ship,motif/water,setting/london,setting/ship"></span>
 
 
 Now when we recognise that the bulk of English wealth lay for centuries south and east of a line drawn from Exmouth to the Wash, and when we appreciate what the Thames valley is in that triangle, we shall see how necessarily the main market of the Thames was also the main market of England. The natural [[Water|water]] communications of the south consist in a number of small streams, only one of which, the Salisbury Avon, may have been navigable for more than a dozen miles or so inland. East Anglia was better served, and particularly the northern area, which was drained by the three rivers converging upon Breydon [[Water]]. The northern part of that area was also fairly well served by the three parallel rivers of the Ouse, the Nen, and the Welland, but their service as a means of communication was handicapped by the nature of their entry into the sea through the Fens, and after that through the perils, sandbanks, and shallows of the Wash; while the good service of rivers along all the East Anglian coast had this drawback: that, as we there have nothing but a series of short systems, there was no [[Water|water]] connection between one group of short valleys and another, not even one thought-out road. A dozen streams will carry produce from the sea to Worstead, to Norwich, to Beccles, to what was once the considerable port of Orford, to Ipswich, to Colchester, etc. But each avenue is a separate avenue. There is no “trunk” connecting the system.
@@ -893,7 +893,7 @@ It so happens that London during all the centuries of its growth, and especially
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_06" data-title="The River of London — ENDNOTES. (part 6)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_06" data-title="The River of London — ENDNOTES. (part 6)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,motif/water,setting/london"></span>
 
 
 The type of goods for which this local power of demand existed had also a very great effect in helping the growth of [[London]] through the traffic of the Thames.
@@ -919,7 +919,7 @@ Areas which differ in the type of their culture tend to become polarised one tow
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_07" data-title="The River of London — ENDNOTES. (part 7)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_07" data-title="The River of London — ENDNOTES. (part 7)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 TWICKENHAM FERRY
@@ -961,7 +961,7 @@ We do not know whether the maritime belts of Suffolk, Essex, Kent, and Sussex sp
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_08" data-title="The River of London — ENDNOTES. (part 8)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_08" data-title="The River of London — ENDNOTES. (part 8)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 We do not know whether a Christian Church was sufficiently established in those belts for the raids to have had an opportunity of “destroying” such a Church.
@@ -993,7 +993,7 @@ They first charged at and then carried Bordeaux, and all this while they raided 
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_09" data-title="The River of London — ENDNOTES. (part 9)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_09" data-title="The River of London — ENDNOTES. (part 9)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 The pirates, keeping more or less together in one horde, marched and ravaged without strategical purpose and with no power of conquest, organisation, or government, ruining as they went, and you have in the Anglo-Saxon Chronicle such phrases as: “Here the host travelled over the mouth of Humber to York.” “Here the host went to Mercia and to Nottingham.” “Here the host went again to York.” “Here the army rode across Mercia into East Anglia and took up their winter quarters in Thetford.” “Here the host went into Northumbria, and took up their winter quarters at Torksey.” “Here the host went to Repton” — and so forth, to Cambridge, to Wareham, to Exeter — a perpetual raid until in 878 Alfred came out from behind Selwood and his hiding in the crisis of his kingdom, and beat them for good on the bare chalk Down above Eddington. Thenceforward the pressure is against the pirates.
@@ -1009,7 +1009,7 @@ That campaign (the campaign of 1016) is as excellent an example of the part the 
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_10" data-title="The River of London — ENDNOTES. (part 10)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_10" data-title="The River of London — ENDNOTES. (part 10)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,setting/london"></span>
 
 
 You could not have within a shorter space of time a clearer view both of what the Lower Thames meant as an avenue of approach to invasion during the Dark Ages that were coming to a close, and what it was to mean as an obstacle to a passage of armies during the centuries of the Middle Ages which were about to open. The Lower Thames played no great part between this date, 1016, and the invasion of William the Conqueror. A fleet seems to have stood on it perpetually for the defence of the kingdom under Canute, but did not serve as an avenue of invasion, nor was that fleet brought to action.
@@ -1037,7 +1037,7 @@ The first of these two characters is obvious, and as obviously recurs throughout
 
 
 
-<span class="atom-split" data-atom="story_04_endnotes--part_11" data-title="The River of London — ENDNOTES. (part 11)" data-chapter="ENDNOTES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_endnotes--part_11" data-title="The River of London — ENDNOTES. (part 11)" data-chapter="ENDNOTES" data-kind="excerpt" data-tags="motif/river,concept/tradition,setting/london"></span>
 
 
 But the second character, [[London]] as a base, is of even more importance. You had here a town so great that after the Dark Ages it need never stand a siege. It is further a town the supplies of which under primitive conditions lay almost always uncut. Unless a man had so considerable a fleet that he could cut off supplies by [[River]], so well organised a transport that he could keep both banks of that broad stream perpetually in touch, and finally so very large a command that he could hold the whole circuit of the walls securely and the Bridge end on the Southwark side as well, [[London]] could not be, strictly speaking, besieged, and, from the Danish Wars onwards, [[London]] never was.

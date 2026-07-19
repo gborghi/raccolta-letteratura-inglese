@@ -10507,7 +10507,7 @@ fisher in a far province, beside a small and almost secret sea.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="GKC-Autobiography — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="GKC-Autobiography — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/death,motif/grave,motif/hill,motif/night,motif/pain,motif/swallow,motif/time,motif/water,motif/well,concept/pride,concept/self,form/comedy,setting/london,character/queen"></span>
 
 
 I
@@ -10745,7 +10745,7 @@ una sorta di reliquiario, con profondi inchini e reverenti apostrofi.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="GKC-Autobiography — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="GKC-Autobiography — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dawn,motif/grave,motif/silence,motif/time,motif/well,concept/conscience,concept/hope,concept/wonder,histref/america,setting/america"></span>
 
 
 "You are a Monument," said the strange gentleman, "Sir, you
@@ -10959,7 +10959,7 @@ avrebbe steso a terra tutti i miei parenti per miglia intorno.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="GKC-Autobiography — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="GKC-Autobiography — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/blood,motif/childhood,motif/dust,motif/hill,motif/horse,motif/love,motif/prayer,motif/road,motif/silence,motif/soul,motif/time,motif/well,concept/education,concept/pride,form/blank_verse,setting/denmark,character/hamlet"></span>
 
 
 And this care about [[Education|education]] and diction, though I can see
@@ -11233,7 +11233,7 @@ da non parlare quasi mai affatto, disse d'improvviso, uscendo dal suo [[Silence|
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="GKC-Autobiography — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="GKC-Autobiography — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/ghosts,motif/memory,motif/prayer,motif/prison,motif/time,motif/well,concept/fear,concept/friendship,concept/heroism,form/biography,character/dick_swiveller,character/sunday"></span>
 
 
 Of the other side of my family I may say more when I come to my
@@ -11469,7 +11469,7 @@ sfavillano davvero. Il mondo è meno gaio per aver perduto quella solennità.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="GKC-Autobiography — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="GKC-Autobiography — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/memory,motif/poison,motif/time,motif/well,concept/ambition,concept/fear,concept/individualism,concept/reform,histref/puritanism"></span>
 
 
 Another real Victorian virtue, not to be discredited by many imaginary
@@ -11691,7 +11691,7 @@ o di chi fosse il denaro che avrebbe fatto.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="GKC-Autobiography — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="GKC-Autobiography — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/tyrant,motif/clock,motif/home,motif/prayer,motif/rose,motif/soul,motif/stars,motif/water,motif/well,concept/grotesque,concept/history,concept/pride,form/allegory,form/biography,form/history,setting/castle"></span>
 
 
 I know [[Well|well]] I was very fortunate in my own family.
@@ -11923,7 +11923,7 @@ a San Giorgio.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="GKC-Autobiography — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="GKC-Autobiography — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/king,archetype/shadow,motif/childhood,motif/crown,motif/grave,motif/home,motif/memory,motif/time,motif/well,motif/window,concept/beauty,concept/truth,setting/castle"></span>
 
 
 II
@@ -12048,7 +12048,7 @@ Mi scuso per questa parentesi; e per aver menzionato la psicologia [[Child|infan
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="GKC-Autobiography — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="GKC-Autobiography — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/blood,motif/childhood,motif/death,motif/garden,motif/hill,motif/horse,motif/journey,motif/marriage,motif/memory,motif/time,motif/well,concept/history,concept/suicide,concept/truth,form/fragment,form/history,character/chorus,character/pistol"></span>
 
 
 The interlude is now over, thank you; and I will proceed to
@@ -12194,7 +12194,7 @@ Prenderò un altro esempio di questo trucco psicologico, benché comporti l'anti
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="GKC-Autobiography — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="GKC-Autobiography — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/childhood,motif/dawn,motif/dreams,motif/flowers,motif/grave,motif/home,motif/horse,motif/love,motif/memory,motif/moon,motif/time,motif/water,motif/window,concept/grotesque,concept/hope,concept/imagination,concept/wonder,histref/renaissance,character/beatrice"></span>
 
 
 From this general [[Memory|memory]] about [[Memory|memory]] I draw a certain inference.
@@ -12328,7 +12328,7 @@ La sua versatilità, sia come sperimentatore sia come uomo tuttofare, in tutte q
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="GKC-Autobiography — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="GKC-Autobiography — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/city,motif/home,motif/love,motif/memory,motif/nature,motif/time,concept/body,concept/imagination,concept/nature"></span>
 
 
 If I made a generalisation about the Chestertons, my paternal kinsfolk
@@ -12454,7 +12454,7 @@ Il n. 999 nel vasto catalogo-biblioteca dei libri che non ho mai scritto (tutti 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="GKC-Autobiography — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="GKC-Autobiography — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dreams,motif/garden,motif/nature,concept/beauty,concept/courage,concept/doubt,concept/faith,concept/nature,concept/temptation,form/fable,character/queen"></span>
 
 
 I am inclined to contradict much of the modern Cult of the [[Child]] at Play.
@@ -12573,7 +12573,7 @@ Il mio scopo principale qui, tuttavia, è dire questo. Per me tutta la mia [[Chi
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="GKC-Autobiography — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="GKC-Autobiography — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/ghost,motif/fire,motif/memory,motif/moon,motif/night,motif/window,concept/truth,concept/wonder,form/essay,form/novel"></span>
 
 
 Of this positive quality the most general attribute was clearness.
@@ -12696,7 +12696,7 @@ Riassumerò qui in quattro affermazioni, che avranno un'aria molto simile a romp
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="GKC-Autobiography — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="GKC-Autobiography — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/childhood,motif/desert,motif/dreams,motif/hill,motif/leaves,motif/memory,motif/nature,motif/pain,motif/road,motif/time,motif/uncanny,motif/well,concept/beauty,concept/fear,concept/imagination,concept/nature,concept/self_deception,concept/uncanny,setting/desert"></span>
 
 
 First; my life unfolded itself in the epoch of evolution; which really
@@ -12867,7 +12867,7 @@ Poi uno dei suoi hobby artistici tornò alla sua mente astratta e umoristica; e 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="GKC-Autobiography — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="GKC-Autobiography — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/childhood,motif/dawn,motif/home,motif/nature,motif/time,motif/well,concept/democracy,concept/doubt,concept/education,concept/fear,concept/friendship,concept/nature,concept/pride,concept/revenge,histref/renaissance,setting/new_york,character/saturn"></span>
 
 
 III
@@ -13127,7 +13127,7 @@ Noi scolari non dicevamo mai «Facciamo finta»; fingevamo soltanto.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="GKC-Autobiography — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="GKC-Autobiography — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,motif/blood,motif/clock,motif/death,motif/secrets,motif/well,concept/ambition,concept/body,concept/comradeship,concept/friendship,concept/union,form/biography,form/free_verse,setting/london,character/queen"></span>
 
 
 Boys, I have said, wander in threes.  Three is certainly the
@@ -13371,7 +13371,7 @@ Ma noi non ci aspettavamo ciò più di quanto ci aspettassimo la [[Death|Morte]]
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="GKC-Autobiography — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="GKC-Autobiography — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/crown,motif/time,motif/well,concept/despair,concept/honour,concept/martyrdom,concept/melancholy,concept/mercy,concept/union,form/novel,form/parody,histref/america,histref/ancient_rome,setting/america,setting/ancient_rome,setting/germany,setting/italy,character/nurse"></span>
 
 
 Our debates are still recorded in stray volumes of our strange
@@ -13587,7 +13587,7 @@ e all'istante fummo in pieno bagliore del riflettore.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="GKC-Autobiography — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="GKC-Autobiography — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/time,concept/comradeship,concept/grotesque,concept/honour,form/epic,form/parable,form/satire"></span>
 
 
 It is [[Time|time]] that something should be said about the masters,
@@ -13806,7 +13806,7 @@ sono pagate, non si porrà alcuna domanda sulla sua posizione sociale.»
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="GKC-Autobiography — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="GKC-Autobiography — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/detective,motif/desire,motif/dreams,motif/nature,motif/time,motif/well,concept/fear,concept/history,concept/hope,concept/nature,concept/truth,form/history,histref/milton,character/bottom,character/milton"></span>
 
 
 One day I was frozen with astonishment to find my name in an
@@ -14004,7 +14004,7 @@ per la narrativa.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="GKC-Autobiography — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="GKC-Autobiography — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,concept/friendship,histref/inquisition,setting/oxford"></span>
 
 
 Perhaps the same chapter of accidents, that threw me first in
@@ -14208,7 +14208,7 @@ probabilmente maggiore distinzione dei miei altri amici.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="GKC-Autobiography — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="GKC-Autobiography — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/time,motif/wind,concept/union,setting/court,setting/oxford"></span>
 
 
 Most of the members of our little club, however, thus passed
@@ -14352,7 +14352,7 @@ a una fine.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="GKC-Autobiography — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="GKC-Autobiography — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/fire,motif/soul,motif/time,motif/well,concept/courage,concept/doubt,concept/education,concept/humility,concept/madness,concept/self,concept/self_deception,concept/truth"></span>
 
 
 IV
@@ -14562,7 +14562,7 @@ e diceva: «Orriblirivelazioninellaltasocietà».
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="GKC-Autobiography — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="GKC-Autobiography — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,motif/childhood,motif/lightning,motif/time,motif/well,concept/body,concept/deception,concept/doubt,concept/education,concept/faith,concept/hope,concept/wonder,character/arthur,character/oliver,character/puck"></span>
 
 
 If it was our subconsciousness, our subconsciousness at least had
@@ -14780,7 +14780,7 @@ di non essere entrato nel [[house|locale]] pubblico.»
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="GKC-Autobiography — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="GKC-Autobiography — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/desire,motif/garden,motif/road,motif/time,motif/well,motif/window,concept/body,concept/faith,concept/fear,concept/hope,character/faust"></span>
 
 
 Most of this happened when I was at the art school; but even
@@ -15024,7 +15024,7 @@ In breve, l'unica obiezione alla mia completa e convincente teoria psichica
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="GKC-Autobiography — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="GKC-Autobiography — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/nature,motif/stars,motif/time,concept/doubt,concept/imagination,concept/madness,concept/nature,concept/suicide,concept/temptation,concept/unattainable"></span>
 
 
 All this, of course, happened ages afterwards:  I only mention
@@ -15254,7 +15254,7 @@ che credevano davvero nei diavoli.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="GKC-Autobiography — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="GKC-Autobiography — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/hill,motif/home,motif/love,motif/soul,motif/time,motif/well,concept/body,concept/truth,concept/wonder,character/edmund,character/pistol,character/ulysses"></span>
 
 
 In [[Truth|truth]], the story of what was called my Optimism was rather odd.
@@ -15518,7 +15518,7 @@ ma sento qualcosa di simile riguardo a Gosse.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="GKC-Autobiography — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="GKC-Autobiography — Chapter 4 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,motif/crown,motif/death,motif/love,motif/time,motif/well,concept/body,concept/honour,concept/hope,concept/humility,concept/self,concept/truth,form/biography,form/riddle"></span>
 
 
 About this [[Time|time]] I discovered the secret of amiability in another
@@ -15794,7 +15794,7 @@ e la risposta a parecchie questioni critiche.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_07" data-title="GKC-Autobiography — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_07" data-title="GKC-Autobiography — Chapter 4 (part 7)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/memory,motif/nature,motif/time,concept/nature,character/sunday"></span>
 
 
 I pause upon the point here, because it is of some importance
@@ -15952,7 +15952,7 @@ un po' utile ad altri folli.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="GKC-Autobiography — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="GKC-Autobiography — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dawn,motif/desire,motif/dreams,motif/garden,motif/hill,motif/home,motif/love,motif/moon,motif/nature,motif/stars,motif/time,motif/window,concept/honour,concept/imagination,concept/longing,concept/nature,concept/truth,form/sketch,character/nurse"></span>
 
 
 V
@@ -16100,7 +16100,7 @@ L'ordinaria descrizione poetica dei primi [[Dreams|sogni]] della vita è una des
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="GKC-Autobiography — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="GKC-Autobiography — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/childhood,motif/city,motif/desert,motif/dreams,motif/hill,motif/lightning,motif/memory,motif/nature,motif/time,concept/imagination,concept/nature,concept/self,concept/union,concept/wonder,setting/castle,setting/desert,setting/london,character/hamlet"></span>
 
 
 This game of [[Self|self]]-limitation is one of the secret pleasures of life.
@@ -16228,7 +16228,7 @@ Piuttosto nel senso in cui ero un Socialista riluttante, ero persino pronto a es
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="GKC-Autobiography — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="GKC-Autobiography — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,motif/horse,motif/stars,motif/well,concept/friendship,concept/resurrection,form/parody,setting/london,character/edgar,character/queen"></span>
 
 
 The nation seemed solid for the war.  It was far more eager for the
@@ -16352,7 +16352,7 @@ Fui chiamato Pro-Boero e, a differenza di alcuni Pro-Boeri, ero molto fiero del 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="GKC-Autobiography — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="GKC-Autobiography — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/blood,motif/cave,motif/hill,motif/love,motif/night,motif/time,motif/well,concept/courage,concept/history,concept/hope,concept/imagination,concept/truth,form/fable,form/history,setting/london,setting/oxford,character/edgar,character/king_john,character/michael"></span>
 
 
 My friends had just come down from [[Oxford]], Bentley from Merton and
@@ -16508,7 +16508,7 @@ Sarebbe grossolanamente ingiusto suggerire che tutti o la maggior parte del part
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="GKC-Autobiography — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="GKC-Autobiography — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/mirror,motif/rose,motif/soul,motif/time,motif/well,concept/friendship,concept/truth,concept/wonder,histref/christianity,histref/french_revolution,setting/court,setting/oxford,character/sunday"></span>
 
 
 It was by the same political connection that I was drawn still
@@ -16639,7 +16639,7 @@ George Wyndham aveva ogni sorta di nozioni bizzarre e originali; e una delle sue
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="GKC-Autobiography — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="GKC-Autobiography — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/fire,motif/rose,motif/time,motif/well,concept/education,concept/faith,concept/melancholy,concept/reform,concept/self,form/fable"></span>
 
 
 Charles Masterman, of whom I have just spoken, was a very remarkable man.
@@ -16751,7 +16751,7 @@ In generale, nel frattempo, cominciai a vedere qualcosa del mondo politico, e sp
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="GKC-Autobiography — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="GKC-Autobiography — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/animals,motif/cross,motif/grave,motif/horse,motif/memory,motif/road,motif/rose,motif/time,motif/well,concept/conversion,concept/fear,concept/history,concept/revenge,form/comedy,form/history,form/parable,histref/christianity,setting/court,character/hamlet"></span>
 
 
 At this point she received hearty, one might almost say heavy support,
@@ -16903,7 +16903,7 @@ Ma benché io [[Fear|tema]] di non essere stato di molta utilità alla campagna 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_08" data-title="GKC-Autobiography — Chapter 5 (part 8)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_08" data-title="GKC-Autobiography — Chapter 5 (part 8)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/shadow,motif/cross,motif/home,motif/memory,motif/rose,motif/time,motif/well,concept/honour,concept/paradox,form/tragedy,setting/castle,setting/germany"></span>
 
 
 I only mention it here because there will be some misunderstanding
@@ -17009,7 +17009,7 @@ Li guardai ed essi guardarono me, e credo che abbiano compreso; e si [[Rose|lev�
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="GKC-Autobiography — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="GKC-Autobiography — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/city,motif/hill,motif/night,motif/tears,motif/time,motif/well,concept/doubt,concept/guilt,concept/imagination,concept/paradox,concept/truth,concept/wonder,form/epic,setting/london"></span>
 
 
 VI
@@ -17237,7 +17237,7 @@ e, per ora, ben poco altro.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="GKC-Autobiography — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="GKC-Autobiography — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,archetype/king,motif/city,motif/clock,motif/death,motif/garden,motif/hill,motif/memory,motif/road,motif/time,motif/well,concept/hope,concept/madness,setting/cathedral,setting/london"></span>
 
 
 If I have at all suggested the modest virtues of my own middle-class
@@ -17495,7 +17495,7 @@ vagamente forse, dalla [[Memory|Memoria]]:—
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="GKC-Autobiography — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="GKC-Autobiography — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/grave,motif/journey,motif/lightning,motif/lion,motif/love,motif/rose,motif/sleep,motif/time,motif/well,concept/doubt,concept/history,concept/hope,concept/imagination,concept/individualism,concept/pride,concept/truth,form/comedy,form/history,form/satire,setting/cathedral,setting/court"></span>
 
 
 Match me this marvel, save where aesthetes are,
@@ -17733,7 +17733,7 @@ devo ora tentare di descrivere.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="GKC-Autobiography — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="GKC-Autobiography — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/innocent,motif/decay,motif/desert,motif/memory,motif/silence,motif/time,concept/body,concept/democracy,concept/despair,concept/fear,concept/immortality,concept/truth,setting/desert,setting/london,character/queen"></span>
 
 
 The general background of all my boyhood was agnostic.
@@ -17941,7 +17941,7 @@ del mondo com'era allora.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="GKC-Autobiography — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="GKC-Autobiography — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/ghost,motif/dance,motif/desire,motif/nature,motif/sleep,motif/soul,motif/well,motif/wheel,concept/body,concept/charity,concept/despair,concept/doubt,concept/hope,concept/imagination,concept/nature,concept/truth,form/comedy,histref/christianity,setting/london,character/aquinas,character/witch,character/woodcutter"></span>
 
 
 Now against this drab background of dreary modern materialism,
@@ -18213,7 +18213,7 @@ Qualcosa all'Ens di San Tommaso d'[[aquinas|Aquino]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="GKC-Autobiography — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="GKC-Autobiography — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/love,motif/moon,motif/night,motif/time,motif/well,concept/grotesque,concept/history,concept/hope,concept/immortality,form/essay,form/history,setting/court,setting/london,character/tolstoy"></span>
 
 
 There was a debating-club in Bedford Park, on which I first tried my
@@ -18509,7 +18509,7 @@ che il ponte a St. James's Park può spaventarvi parecchio.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="GKC-Autobiography — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="GKC-Autobiography — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/love,motif/time,concept/doubt,concept/endurance,concept/faith,concept/grotesque,concept/truth,histref/christianity,setting/london,character/edgar,character/tolstoy"></span>
 
 
 VII
@@ -18646,7 +18646,7 @@ Ora, c'era una cosa che cominciai a notare, come avevo notato in quella minore o
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="GKC-Autobiography — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="GKC-Autobiography — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,archetype/rebel,motif/animals,motif/garden,motif/grave,motif/hill,motif/love,motif/time,motif/well,motif/window,concept/forgiveness,concept/identity,concept/self,setting/russia,character/richard"></span>
 
 
 Conrad Noel, the son of a poet and the grandson of a peer,
@@ -18762,7 +18762,7 @@ Ma il signor Noel non perse certo mai la sua fede in ciò che si può chiamare l
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="GKC-Autobiography — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="GKC-Autobiography — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/flag,motif/grave,motif/river,motif/time,concept/doubt,concept/history,form/history,setting/london"></span>
 
 
 Anyhow, it was when I was staying with Conrad Noel, afterwards famous
@@ -18879,7 +18879,7 @@ Ho detto assai poco di mio fratello finora, nonostante la gran parte che ebbe ne
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="GKC-Autobiography — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="GKC-Autobiography — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/dreams,motif/dust,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/friendship,concept/hope,concept/imprisonment,concept/poverty,concept/union,form/fable"></span>
 
 
 The old High Church or Anglo-Catholic group, of which Conrad Noel
@@ -19076,7 +19076,7 @@ Non ho mai capito, da quel giorno a oggi, più di quanto lo capisse lui, perché
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="GKC-Autobiography — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="GKC-Autobiography — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,motif/animals,motif/childhood,motif/desert,motif/nature,motif/time,motif/well,concept/doubt,concept/faith,concept/nature,concept/truth,setting/desert"></span>
 
 
 But I have also dwelt for a moment on such a meeting and such
@@ -19196,7 +19196,7 @@ Ora, credo che la prima cosa che mi colpì come sorprendente fosse esattamente q
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="GKC-Autobiography — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="GKC-Autobiography — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/nature,motif/well,concept/body,concept/faith,concept/history,concept/hope,concept/nature,concept/truth,form/history,character/sunday"></span>
 
 
 I suppose I have got a dogmatic mind.  Anyhow, even when I
@@ -19326,7 +19326,7 @@ In mezzo a tutto questo pensiero sparso, talvolta non a torto definibile pensier
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="GKC-Autobiography — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="GKC-Autobiography — Chapter 7 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/time,motif/well,concept/faith,concept/paradox,concept/truth,setting/russia"></span>
 
 
 I began to examine more exactly the general Christian theology
@@ -19461,7 +19461,7 @@ Perché questo stadio possa essere compreso, si deve capire quali fossero le cos
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="GKC-Autobiography — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="GKC-Autobiography — Chapter 7 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/prison,concept/charity,concept/forgiveness,concept/truth"></span>
 
 
 On that day, in short, I escaped from an error, which still
@@ -19535,7 +19535,7 @@ E da tutti questi [[Dreams|sogni]] del passato mi ridesto d'un tratto, e con qua
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="GKC-Autobiography — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="GKC-Autobiography — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/night,motif/time,concept/despair,concept/survival,concept/truth,form/comedy,form/epic,histref/french_revolution,setting/london"></span>
 
 
 VIII
@@ -19662,7 +19662,7 @@ Comunque sia, tutti converranno che io fui un incidente in Fleet Street. Alcuni 
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="GKC-Autobiography — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="GKC-Autobiography — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/bells,motif/fire,motif/horse,motif/machine,motif/memory,motif/well,concept/charity,concept/doubt,concept/honour,concept/pride,form/essay,histref/catholic_church,histref/reformation,character/aquinas,character/queen,character/sunday"></span>
 
 
 ... trod the path to hell,
@@ -19790,7 +19790,7 @@ Segnava una sorta di sublimazione dello spirito di Fleet Street nella mia cognat
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="GKC-Autobiography — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="GKC-Autobiography — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/villain,motif/dust,motif/love,motif/machine,motif/pain,motif/time,motif/well,concept/fear,concept/history,concept/truth,form/history,form/melodrama,character/arthur,character/sunday"></span>
 
 
 It was in connection with this last line of journalistic adventure
@@ -19913,7 +19913,7 @@ Non esiste una Legge sulla Diffamazione. Ecco perché tutti ne hanno tanta paura
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="GKC-Autobiography — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="GKC-Autobiography — Chapter 8 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,motif/death,motif/home,motif/nature,motif/pain,motif/time,motif/well,concept/courage,concept/doubt,concept/history,concept/imprisonment,concept/nature,form/comedy,form/history,histref/america,histref/catholic_church,setting/america"></span>
 
 
 All this must be kept in mind, when we come to more crucial and
@@ -20043,7 +20043,7 @@ Ma per sempre immondo, rotolava avanti.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="GKC-Autobiography — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="GKC-Autobiography — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/desert,motif/time,concept/courage,concept/democracy,concept/doubt,concept/fear,concept/history,concept/truth,form/history,histref/puritanism,setting/desert"></span>
 
 
 IX
@@ -20178,7 +20178,7 @@ La mattina dopo vidi in cima al mio giornale liberale, in titoli giganteschi, la
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="GKC-Autobiography — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="GKC-Autobiography — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,archetype/innocent,motif/memory,motif/stars,motif/time,motif/well,concept/ambition,concept/history,concept/jealousy,concept/paradox,concept/pride,concept/truth,form/history,histref/milton,character/milton"></span>
 
 
 This sense of unreality in the party struggle, which was gradually growing
@@ -20300,7 +20300,7 @@ Non c'era mai stato nulla di simile all'Eye-Witness in Inghilterra prima; certo 
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="GKC-Autobiography — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="GKC-Autobiography — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/fool,motif/home,motif/time,concept/conscience,concept/reform,concept/truth,character/achilles"></span>
 
 
 There are various legends about it.  One is, for instance,
@@ -20442,7 +20442,7 @@ Il metodo effettivo, naturalmente, è [[Time|ormai]] abbastanza familiare. Si qu
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="GKC-Autobiography — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="GKC-Autobiography — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/double,archetype/outsider,motif/time,motif/well,concept/charity,concept/courage,concept/doubt,concept/honour,concept/reconciliation,concept/self,concept/truth,histref/catholic_church,character/arthur"></span>
 
 
 Attempts were made afterwards to justify all this inconsistency
@@ -20562,7 +20562,7 @@ Infine, può valere la pena di notare che l'ultima e meno degna delle leggende s
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="GKC-Autobiography — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="GKC-Autobiography — Chapter 9 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/nature,motif/silence,motif/time,concept/democracy,concept/faith,concept/fear,concept/history,concept/honour,concept/nature,concept/truth,form/history,histref/irish_question,setting/germany,setting/russia"></span>
 
 
 Soon after the affair had concluded, as such affairs always
@@ -20722,7 +20722,7 @@ Così finì l'ultimo considerevole tentativo di purgare il Parlamento, ovvero l'
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="GKC-Autobiography — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="GKC-Autobiography — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/childhood,motif/cross,motif/desire,motif/frost,motif/garden,motif/home,motif/journey,motif/memory,motif/rose,motif/well,motif/wind,motif/winter,concept/doubt,concept/friendship,concept/loneliness,concept/solitude,form/comedy"></span>
 
 
 X
@@ -20863,7 +20863,7 @@ Tornammo poi alla [[house|casa]] di Belloc; dove egli piuttosto neutralizzò gli
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="GKC-Autobiography — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="GKC-Autobiography — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,motif/cross,motif/desire,motif/fire,motif/garden,motif/ghosts,motif/great_house,motif/hill,motif/home,motif/memory,motif/secrets,motif/summer,motif/well,motif/winter,concept/doubt,concept/longing,concept/truth,form/comedy,histref/america,setting/america"></span>
 
 
 We were young, we were merry, we were very very wise
@@ -21006,7 +21006,7 @@ Inutile dire che fu una visita assai maestosa e cerimoniosa; e James pareva riem
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="GKC-Autobiography — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="GKC-Autobiography — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,motif/ghosts,motif/home,motif/memory,motif/night,motif/sleep,motif/water,motif/well,concept/doubt,concept/poverty,form/comedy,histref/america,setting/america"></span>
 
 
 Heard Ney shouting to the guns to unlimber
@@ -21146,7 +21146,7 @@ Posso capire un uomo come Wells che senta che Henry James avrebbe mostrato una c
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="GKC-Autobiography — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="GKC-Autobiography — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/rebel,motif/nature,motif/time,motif/well,concept/nature,concept/truth,character/hubert"></span>
 
 
 The name of Mr. H. G. Wells has already inevitably suggested the name
@@ -21262,7 +21262,7 @@ Allo stesso modo il signor Bernard [[Shaw]] è stato assai lusingato dalle false
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="GKC-Autobiography — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="GKC-Autobiography — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/crown,motif/dance,motif/garden,motif/home,motif/love,motif/well,motif/window,concept/courage,concept/fear,concept/freedom,concept/honour,form/elegy"></span>
 
 
 For in fact all these differences come back to a religious difference;
@@ -21385,7 +21385,7 @@ Ma perfino il più sincero puritano del diciassettesimo secolo errava nel suppor
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="GKC-Autobiography — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="GKC-Autobiography — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/grave,motif/rose,motif/time,motif/well,concept/body,concept/individualism,concept/resignation,concept/self_sacrifice,concept/truth,character/buckingham,character/chorus,character/edgar"></span>
 
 
 Prince, when I took your goblet tall
@@ -21519,7 +21519,7 @@ Trovai che il misterioso procedimento praticamente si divideva in due parti. Ent
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_07" data-title="GKC-Autobiography — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_07" data-title="GKC-Autobiography — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/road,motif/rose,motif/time,setting/london"></span>
 
 
 But the other half of the mystery was, if possible, more mysterious.
@@ -21595,7 +21595,7 @@ Se i Cowboy stavano davvero lottando per trovare la [[Road|strada]] del ritorno 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="GKC-Autobiography — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="GKC-Autobiography — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/desire,motif/garden,motif/time,concept/friendship,concept/history,concept/hope,form/history,histref/puritanism,setting/italy,setting/paris"></span>
 
 
 XI
@@ -21734,7 +21734,7 @@ La prima cosa da notare, come tipica del tono moderno, è un certo effetto di to
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="GKC-Autobiography — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="GKC-Autobiography — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/cross,motif/memory,motif/time,motif/well,concept/democracy,concept/hope,concept/truth,character/christ,character/julius_caesar"></span>
 
 
 And the second moral to the story is this; that the modern mind finds
@@ -21857,7 +21857,7 @@ Vi fu tuttavia un seguito, che coinvolgeva cose più serie. Uno shock rinnovato 
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="GKC-Autobiography — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="GKC-Autobiography — Chapter 11 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/fire,motif/home,concept/body,concept/doubt,concept/honour,histref/catholic_church"></span>
 
 
 Of that revolution in my life I shall write more fully later.
@@ -21974,7 +21974,7 @@ Poiché tutto il punto in questione è realmente là. Il Memoriale fu eretto, co
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="GKC-Autobiography — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="GKC-Autobiography — Chapter 11 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/fire,motif/garden,motif/home,motif/nature,motif/night,motif/soul,motif/time,concept/body,concept/education,concept/hope,concept/imagination,concept/nature,concept/original_sin,concept/truth,form/riddle,histref/puritanism,setting/oxford"></span>
 
 
 Conflict came to a head in Europe because the Prussian was insufferable.
@@ -22122,7 +22122,7 @@ Immediatamente dopo lo scoppio della Guerra fui abbattuto da una gravissima mala
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="GKC-Autobiography — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="GKC-Autobiography — Chapter 11 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/city,motif/crown,motif/death,motif/fire,motif/lion,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/history,concept/hope,concept/paradox,concept/pride,concept/union,form/essay,form/history,setting/germany,setting/italy,setting/london,character/juliet,character/nancy,character/nurse"></span>
 
 
 When I first recovered full consciousness, in the final turn
@@ -22256,7 +22256,7 @@ Ma sono piuttosto fiero del fatto che se scrissi un libriccino intitolato «La B
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="GKC-Autobiography — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="GKC-Autobiography — Chapter 11 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/death,motif/home,motif/nature,motif/road,motif/rose,motif/spring,motif/time,motif/water,concept/courage,concept/faith,concept/fear,concept/grotesque,concept/history,concept/melancholy,concept/mortality,concept/nature,concept/truth,form/history,form/novel,form/tragedy,histref/catholic_church,setting/london,setting/russia,character/ancient_mariner,character/buckingham"></span>
 
 
 When he had gone, Belloc and I walked across the Park with the last
@@ -22414,7 +22414,7 @@ Vivevano ancora; e così anch'io.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="GKC-Autobiography — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="GKC-Autobiography — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/king,motif/secrets,motif/silence,motif/time,concept/history,concept/paradox,concept/truth,form/history,setting/london,setting/oxford,character/chorus"></span>
 
 
 XII
@@ -22540,7 +22540,7 @@ La mia prima illuminazione, sul contrasto fra un essere umano e il suo ritratto 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="GKC-Autobiography — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="GKC-Autobiography — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/time,motif/well,motif/window,concept/education,concept/individualism,concept/truth,histref/reformation,setting/germany,character/christ,character/cressida,character/troilus"></span>
 
 
 In Liberal caricatures, and in all the letter-press of Liberalism
@@ -22669,7 +22669,7 @@ Incontrai George Wyndham la prima volta a Taplow, alla [[house|casa]] di Lord e 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="GKC-Autobiography — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="GKC-Autobiography — Chapter 12 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/memory,motif/time,motif/well,motif/wind,concept/pride,concept/vanity,setting/castle,setting/rural_england,character/arthur"></span>
 
 
 It was at Taplow, at the same [[Time|time]] as my first meeting with Wyndham,
@@ -22793,7 +22793,7 @@ Ma questi statisti non erano il genere di uomini, o perfino il genere di scozzes
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="GKC-Autobiography — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="GKC-Autobiography — Chapter 12 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="topos/double,archetype/king,motif/blood,motif/death,motif/desire,motif/home,motif/lion,motif/memory,motif/rose,motif/time,concept/doubt,concept/fear,concept/honour,histref/dante,histref/renaissance,character/brutus"></span>
 
 
 There was a small row or scandal, connected with Cunninghame Graham
@@ -22971,7 +22971,7 @@ L'Insurance Act del signor Lloyd George segna grossomodo il momento della mia sc
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="GKC-Autobiography — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="GKC-Autobiography — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/shadow,motif/decay,motif/lightning,motif/memory,motif/sleep,motif/time,motif/well,concept/doubt,concept/humility,concept/pride,concept/truth,form/biography,form/sketch,character/queen"></span>
 
 
 XIII
@@ -23110,7 +23110,7 @@ Poiché questa era la piuttosto tremenda [[Truth|verità]] su Hardy; che egli av
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="GKC-Autobiography — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="GKC-Autobiography — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/garden,motif/silence,motif/swallow,motif/time,motif/well,concept/doubt,concept/greatness,concept/hope,concept/imagination,concept/self,concept/temptation,concept/truth,concept/vanity,form/comedy,form/novel,form/tragedy,histref/christianity,character/bottom,character/prometheus,character/satan,character/tolstoy"></span>
 
 
 Who can picture the scene at the starry portals?
@@ -23250,7 +23250,7 @@ Ma ho visto Sir James Barrie molte volte da allora, e potrei dire molte altre co
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="GKC-Autobiography — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="GKC-Autobiography — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/prophet,motif/cross,motif/dust,motif/moon,motif/nature,motif/poison,motif/road,motif/time,motif/well,concept/doubt,concept/eternity,concept/faith,concept/imagination,concept/nature,concept/wonder,setting/court,character/kent"></span>
 
 
 It is little enough that a man can save
@@ -23384,7 +23384,7 @@ Ho conosciuto anche uno o due casi isolati del mero uomo d'[[Imagination|Immagin
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="GKC-Autobiography — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="GKC-Autobiography — Chapter 13 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/decay,motif/flowers,motif/seasons,motif/time,concept/beauty,concept/despair,concept/mortality,character/cleopatra"></span>
 
 
 The images of imaginative men are indisputable; and I never wanted
@@ -23446,7 +23446,7 @@ Ma fra queste figure letterarie, ve n'era una che metterò per ultima perché do
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="GKC-Autobiography — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="GKC-Autobiography — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/crown,motif/hill,motif/love,motif/memory,motif/time,motif/well,concept/doubt,concept/exile,concept/resignation,concept/vanity,form/comedy,form/literary_criticism,setting/oxford"></span>
 
 
 XIV
@@ -23593,7 +23593,7 @@ Eccles, come Belloc, era il [[Child|figlio]] di un genitore francese e uno ingle
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="GKC-Autobiography — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="GKC-Autobiography — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/rebel,motif/dawn,motif/death,motif/flag,motif/night,motif/rose,motif/well,concept/democracy,concept/faith,concept/fear,concept/union,form/comedy,form/hymn,setting/london,setting/paris,character/chorus"></span>
 
 
 I knew Eccles in Fleet Street, from the first days of the old
@@ -23713,7 +23713,7 @@ E poi Belloc scrisse una poesia intitolata «Il [[Rebel|Ribelle]]», e nessuno n
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="GKC-Autobiography — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="GKC-Autobiography — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,motif/dawn,motif/nature,motif/storm,motif/time,concept/doubt,concept/faith,concept/nature,concept/slavery,concept/truth,form/lyric"></span>
 
 
 That is not a [[Song]] Before Sunrise.  That is an attack before sunrise.
@@ -23851,7 +23851,7 @@ La tesi del libro è che il movimento socialista non conduce al Socialismo. Ciò
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="GKC-Autobiography — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="GKC-Autobiography — Chapter 14 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/garden,motif/grave,motif/road,motif/rose,motif/time,motif/water,form/lyric,character/queen"></span>
 
 
 Now I take that one example of a scientific thesis, maintained in
@@ -23959,7 +23959,7 @@ Questa transizione di tono aveva un tremendo effetto, l'intera sala si [[Rose|le
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_05" data-title="GKC-Autobiography — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_05" data-title="GKC-Autobiography — Chapter 14 (part 5)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/jewel,motif/memory,motif/time,motif/well,concept/comradeship,concept/despair,concept/paradox,concept/resurrection,concept/truth,setting/paris,character/bottom"></span>
 
 
 But while it is quite a mistake to suppose that there was anything
@@ -24066,7 +24066,7 @@ Uno degli eventi più divertenti della mia vita avvenne quando presiedetti a una
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_06" data-title="GKC-Autobiography — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_06" data-title="GKC-Autobiography — Chapter 14 (part 6)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/memory,motif/night,motif/rose,motif/tears,motif/time,concept/honour,concept/hope"></span>
 
 
 And sacramental raise me the divine
@@ -24182,7 +24182,7 @@ E non eravate voi mio amico.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="GKC-Autobiography — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="GKC-Autobiography — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/desert,motif/garden,motif/grave,motif/home,motif/memory,motif/moon,motif/night,motif/road,motif/time,motif/wind,concept/history,concept/hope,concept/humility,form/history,histref/america,setting/america,setting/desert,character/aquinas"></span>
 
 
 XV
@@ -24438,7 +24438,7 @@ che mi disse: «La gente deve tornare alla fattoria».
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="GKC-Autobiography — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="GKC-Autobiography — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/city,motif/love,motif/secrets,motif/soul,motif/spring,concept/education,concept/exile,concept/truth,form/epic,form/translation,histref/dante,histref/inquisition,setting/italy,setting/oxford,setting/paris,setting/russia"></span>
 
 
 I had pottered about in France ever since my father took me
@@ -24670,7 +24670,7 @@ con un hobby straniero.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="GKC-Autobiography — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="GKC-Autobiography — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/dawn,motif/secrets,motif/time,concept/pride,concept/self,form/riddle,form/tragedy,histref/puritanism,setting/germany,setting/russia,character/christ"></span>
 
 
 I felt the same when I went to lecture in Madrid; and met that shy
@@ -24882,7 +24882,7 @@ e Lituani sono in pace--persino quando sono in guerra.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="GKC-Autobiography — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="GKC-Autobiography — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/home,motif/memory,motif/night,motif/time,motif/well,concept/mercy"></span>
 
 
 I was driving with a Polish lady, who was very witty and [[Well|well]]-aquainted
@@ -24982,7 +24982,7 @@ la razza spietata degli uomini.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="GKC-Autobiography — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="GKC-Autobiography — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/innocent,motif/nature,motif/summer,motif/time,motif/well,concept/identity,concept/nature,concept/sublime,concept/truth,form/comedy,form/detective_fiction,form/novel,character/father_brown"></span>
 
 
 XVI
@@ -25206,7 +25206,7 @@ in mente.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="GKC-Autobiography — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="GKC-Autobiography — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/artist,archetype/innocent,motif/dawn,motif/fire,motif/garden,motif/journey,motif/memory,motif/night,motif/road,motif/secrets,motif/silence,motif/snow,motif/storm,motif/time,motif/well,concept/conscience,concept/fear,concept/friendship,form/lyric,histref/catholic_church,histref/spanish_inquisition,setting/london"></span>
 
 
 In those early days, especially just before and just after
@@ -25478,7 +25478,7 @@ credo che sia una cosa assai più nobile non aver paura della conoscenza».
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="GKC-Autobiography — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="GKC-Autobiography — Chapter 16 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/detective,motif/childhood,motif/cross,motif/dawn,motif/grave,motif/hill,motif/love,motif/memory,motif/nature,motif/soul,motif/time,motif/well,concept/hope,concept/nature,concept/truth,form/comedy,histref/catholic_church,character/father_brown"></span>
 
 
 To me, still almost shivering with the appallingly practical facts
@@ -25688,7 +25688,7 @@ Quando il processo è applicato solo ad altre persone si chiama Realismo.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="GKC-Autobiography — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="GKC-Autobiography — Chapter 16 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/desire,motif/dreams,motif/flowers,motif/garden,motif/lion,motif/sleep,motif/supernatural,motif/time,concept/despair,concept/hope,concept/humility,concept/truth,concept/wonder"></span>
 
 
 I began by being what the pessimists called an optimist; I have ended
@@ -25924,7 +25924,7 @@ Forse l'unica e sola opinione che è davvero più di un'opinione.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="GKC-Autobiography — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="GKC-Autobiography — Chapter 16 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/dust,motif/flowers,motif/home,motif/love,motif/nature,motif/sleep,motif/time,motif/well,motif/wind,concept/humility,concept/nature,concept/paradox,concept/pride,concept/providence,concept/truth,character/witch"></span>
 
 
 For this secret of antiseptic simplicity was really a secret;
@@ -26178,7 +26178,7 @@ e pungente e ripugnante, come un mento non rasato.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_06" data-title="GKC-Autobiography — Chapter 16 (part 6)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_06" data-title="GKC-Autobiography — Chapter 16 (part 6)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/tyrant,motif/childhood,motif/dust,motif/flowers,motif/garden,motif/time,motif/well,concept/faith,concept/truth,form/fragment"></span>
 
 
 That is the first note; that this common human mysticism about the [[Dust|dust]]
@@ -26378,7 +26378,7 @@ un senso preciso e dogmatico; d'esser reso vivo da ciò che può
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_07" data-title="GKC-Autobiography — Chapter 16 (part 7)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_07" data-title="GKC-Autobiography — Chapter 16 (part 7)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/detective,motif/desert,motif/well,motif/window,concept/body,concept/imagination,concept/solitude,setting/desert,character/monks"></span>
 
 
 I have said that this rude and primitive religion of gratitude did not

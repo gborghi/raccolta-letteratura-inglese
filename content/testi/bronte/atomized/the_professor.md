@@ -15775,7 +15775,7 @@ Victor and I will begin without you.”
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Professor — Chapter 25" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Professor — Chapter 25" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/hero,motif/hill,motif/time,concept/fear,character/jane_eyre"></span>
 
 
 CHAPTER XXV.
@@ -15887,7 +15887,7 @@ T H E    P R O F E S S O R
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_01" data-title="The Professor — Chapter 1: INTRODUCTORY (part 1)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_01" data-title="The Professor — Chapter 1: INTRODUCTORY (part 1)" data-chapter="INTRODUCTORY" data-kind="excerpt" data-tags="archetype/fool,archetype/orphan,motif/death,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/winter,concept/ambition,concept/doubt,concept/education,concept/hope,concept/nature,concept/union"></span>
 
 
 CHAPTER I. INTRODUCTORY.
@@ -16067,7 +16067,7 @@ Of this I was apprised by the occasional short letters I received from
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_02" data-title="The Professor — Chapter 1: INTRODUCTORY (part 2)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_02" data-title="The Professor — Chapter 1: INTRODUCTORY (part 2)" data-chapter="INTRODUCTORY" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/fire,motif/home,motif/rose,motif/time,motif/well,concept/education,concept/union"></span>
 
 
 him, some three or four times a year; which said letters never concluded
@@ -16251,7 +16251,7 @@ meeting, betrayed any warmth, any enthusiasm; that I had saluted this
 
 
 
-<span class="atom-split" data-atom="chapter_02_introductory--part_03" data-title="The Professor — Chapter 1: INTRODUCTORY (part 3)" data-chapter="INTRODUCTORY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_introductory--part_03" data-title="The Professor — Chapter 1: INTRODUCTORY (part 3)" data-chapter="INTRODUCTORY" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/flowers,motif/home,motif/horse,motif/nature,motif/rose,motif/seasons,motif/silence,motif/soul,motif/time,motif/well,concept/beauty,concept/doubt,concept/nature,concept/vanity,character/william_crimsworth"></span>
 
 
 man with a quiet and steady phlegm.
@@ -16459,7 +16459,7 @@ proceed.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Professor — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Professor — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fool,archetype/rebel,motif/autumn,motif/fire,motif/hill,motif/horse,motif/lion,motif/mirror,motif/nature,motif/night,motif/river,motif/road,motif/time,motif/well,concept/nature,concept/self"></span>
 
 
 CHAPTER II.
@@ -16635,7 +16635,7 @@ remained standing near the hearth; he said presently--
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Professor — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Professor — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/memory,motif/nature,motif/night,motif/rose,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/nature,concept/revenge"></span>
 
 
 with this gentleman. Come back when you hear the bell.”
@@ -16851,7 +16851,7 @@ French and German--he went out again in [[Silence|silence]].
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Professor — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Professor — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/beauty,concept/freedom,concept/honour,concept/nature,concept/self"></span>
 
 
 CHAPTER III.
@@ -17029,7 +17029,7 @@ and general in character (the last excepted), sufficed, for they enabled
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Professor — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Professor — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,motif/chalk,motif/childhood,motif/dance,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/freedom,concept/self,concept/wonder,character/edward_crimsworth"></span>
 
 
 me to recognize him.
@@ -17227,7 +17227,7 @@ at her side during the remainder of the evening, and I read in her
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Professor — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="The Professor — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/well,concept/doubt,concept/self,setting/court"></span>
 
 
 animated and gratified countenance that he succeeded in making himself
@@ -17301,7 +17301,7 @@ know not which; perhaps after all it might only be a bilious caprice.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Professor — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Professor — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/tyrant,motif/desire,motif/fire,motif/nature,motif/night,motif/silence,motif/sleep,motif/soul,motif/stars,motif/well,motif/wind,motif/window,concept/education,concept/identity,concept/imagination,concept/nature"></span>
 
 
 CHAPTER IV.
@@ -17485,7 +17485,7 @@ But since you’re not running from the police, from whom are you running?
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Professor — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Professor — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/fire,motif/night,motif/poison,motif/silence,motif/soul,motif/water,motif/well,concept/ambition,concept/body"></span>
 
 
 the devil?”
@@ -17669,7 +17669,7 @@ Starting from his silent fit, he began:--
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Professor — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Professor — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/dawn,motif/fire,motif/garden,motif/nature,motif/night,motif/silence,motif/sleep,motif/soul,motif/water,motif/well,concept/freedom,concept/nature,concept/solitude,concept/truth,concept/wonder"></span>
 
 
 [[Garden|garden]] like me!”
@@ -17891,7 +17891,7 @@ rang, and I sprang from my bed with other slaves.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Professor — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Professor — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/clock,motif/dawn,motif/desert,motif/fire,motif/home,motif/night,motif/noon,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/conscience,concept/endurance,concept/friendship,concept/hope,concept/self,concept/slavery,concept/solitude,concept/union,setting/desert,setting/egypt,character/edward_crimsworth,character/william_crimsworth"></span>
 
 
 CHAPTER V.
@@ -18071,7 +18071,7 @@ no longer.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Professor — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Professor — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/tyrant,archetype/villain,motif/blood,motif/clock,motif/frost,motif/memory,motif/night,motif/prison,motif/river,motif/road,motif/rose,motif/snow,motif/time,motif/water,motif/winter,concept/fear,concept/revenge,concept/self,concept/temptation"></span>
 
 
 took down the heavy gig whip hanging beside his mackintosh.
@@ -18299,7 +18299,7 @@ face towards X----.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Professor — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Professor — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/tyrant,archetype/villain,motif/desire,motif/fire,motif/home,motif/night,motif/water,motif/well,concept/hope"></span>
 
 
 CHAPTER VI.
@@ -18487,7 +18487,7 @@ In fact I was grateful, or almost so, and I believe I half liked him at
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Professor — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Professor — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,archetype/tyrant,motif/clock,motif/death,motif/nature,motif/time,motif/well,concept/doubt,concept/nature,concept/poverty,concept/regeneration,concept/wonder"></span>
 
 
 the moment, notwithstanding his proviso that what he had done was not
@@ -18697,7 +18697,7 @@ know Brussels almost as [[Well|well]] as I know X----, and I am sure it would
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Professor — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Professor — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/clock,motif/well,concept/hope,setting/london"></span>
 
 
 suit such a one as you better than [[London]].”
@@ -18797,7 +18797,7 @@ him good-bye. The front door banged to.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Professor — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Professor — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/hill,motif/memory,motif/nature,motif/night,motif/road,motif/sleep,motif/soul,motif/spring,motif/time,motif/well,motif/wind,motif/window,concept/freedom,concept/imagination,concept/nature,concept/resurrection,setting/london"></span>
 
 
 CHAPTER VII.
@@ -18971,7 +18971,7 @@ suppose the sensations, stirred by those first sounds, first sights, are
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Professor — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Professor — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/grave,motif/memory,motif/mirror,motif/nature,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/nature,character/monsieur_pelet"></span>
 
 
 felt but once; treasure them, [[Memory]]; seal them in urns, and keep them
@@ -19157,7 +19157,7 @@ The word “professor” struck me. “I am not a professor,” said I.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Professor — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Professor — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/silence,motif/time,motif/well,concept/conscience,concept/doubt,concept/melancholy,concept/suffering,character/edward_crimsworth"></span>
 
 
 “Oh,” returned Mr. Brown, “professor, here in Belgium, means a teacher,
@@ -19335,7 +19335,7 @@ stood, and faced the circle of my pupils. I took a moment to collect
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Professor — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="The Professor — Chapter 7 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/leaves,motif/moon,motif/night,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/longing,concept/self,setting/court"></span>
 
 
 my thoughts, and likewise to frame in French the sentence by which I
@@ -19521,7 +19521,7 @@ when I listened attentively, I could hear, even through the boards, the
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="The Professor — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="The Professor — Chapter 7 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/road,motif/window,concept/history,concept/solitude,concept/truth,form/history,character/zoraide_reuter"></span>
 
 
 voices of the demoiselles in their hours of recreation, and, to speak
@@ -19663,7 +19663,7 @@ ancestors. Pelet’s school was merely an epitome of the Belgian nation.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Professor — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Professor — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/love,motif/soul,motif/well,concept/fear"></span>
 
 
 CHAPTER VIII.
@@ -19843,7 +19843,7 @@ generally begin such affairs with eating and drinking, I believe.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Professor — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Professor — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/crown,motif/flowers,motif/grave,motif/spring,motif/time,motif/well,concept/doubt,concept/fear,concept/imagination,concept/truth,concept/wonder"></span>
 
 
 There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],
@@ -20029,7 +20029,7 @@ compliments at that rate, Zoraide will positively be afraid of you; but
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Professor — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Professor — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/well,motif/window"></span>
 
 
 if you are good, I will keep your secret, and not tell her how [[Well|well]] you
@@ -20119,7 +20119,7 @@ the mysterious [[Garden|garden]]: I shall gaze both on the angels and their Eden
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="The Professor — Chapter 9" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="The Professor — Chapter 9" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/garden,motif/home,motif/leaves,motif/love,motif/night,motif/rose,motif/spring,motif/time,motif/well,motif/window"></span>
 
 
 CHAPTER IX.
@@ -20391,7 +20391,7 @@ those days.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Professor — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Professor — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/chalk,motif/clock,motif/garden,motif/grave,motif/noon,motif/silence,motif/time,motif/window,concept/self"></span>
 
 
 CHAPTER X.
@@ -20583,7 +20583,7 @@ Not so had I bid the boys at Pelet’s take their reading-books. A
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Professor — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Professor — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/grave,motif/rose,motif/silence,motif/time,motif/well,concept/beauty,concept/courage,concept/freedom,concept/union,concept/wonder,character/lucrece"></span>
 
 
 rustle followed, and an opening of desks; behind the lifted lids which
@@ -20773,7 +20773,7 @@ faults of orthography. I coolly read aloud both exercises, marking the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Professor — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Professor — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/nature,character/zoraide_reuter"></span>
 
 
 faults--then I looked at Eulalie:
@@ -20971,7 +20971,7 @@ propensities.
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="The Professor — Chapter 11" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="The Professor — Chapter 11" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/birds,motif/blood,motif/clock,motif/fire,motif/love,motif/silence,motif/spring,motif/time,concept/beauty,concept/doubt,concept/honour,character/zoraide_reuter"></span>
 
 
 CHAPTER XI.
@@ -21347,7 +21347,7 @@ the room, humming as he went some gay strain of Beranger’s.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Professor — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Professor — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/innocent,motif/flowers,motif/nature,motif/well,concept/body,concept/education,concept/nature,concept/solitude,form/sketch"></span>
 
 
 CHAPTER XII.
@@ -21523,7 +21523,7 @@ which language has no name. If, in walking up the schoolroom, I pass
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Professor — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Professor — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/damsel,motif/horse,motif/soul,motif/well,concept/body,concept/honour,concept/self,concept/wonder"></span>
 
 
 near her, she puts out her foot that it may touch mine; if I do not
@@ -21697,7 +21697,7 @@ her whole [[Soul|soul]] was warped to a conventual bias, and in the tame, traine
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Professor — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Professor — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/love,motif/soul,motif/time,motif/well,concept/conscience,concept/education,concept/self,setting/germany"></span>
 
 
 subjection of her manner, one read that she had already prepared herself
@@ -21873,7 +21873,7 @@ round me, baffled, yet persevering; I believe she thought I was like
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Professor — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Professor — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/garden,motif/jewel,motif/leaves,motif/love,motif/night,motif/spring,motif/stars,motif/summer,motif/time,motif/well,motif/window,concept/imagination"></span>
 
 
 a smooth and bare precipice, which offered neither jutting stone nor
@@ -22057,7 +22057,7 @@ Reuter’s [[Garden|garden]], called “l’allee defendue,” so named because 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Professor — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_05" data-title="The Professor — Chapter 12 (part 5)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,motif/garden,motif/love,motif/memory,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/faith,concept/friendship,concept/hope,concept/jealousy,concept/vanity,character/zoraide_reuter"></span>
 
 
 were forbidden to enter it on account of its proximity to the boys’
@@ -22289,7 +22289,7 @@ my veins which prevented me from sleeping much that [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Professor — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Professor — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/clock,motif/dawn,motif/garden,motif/home,motif/leaves,motif/love,motif/memory,motif/moon,motif/nature,motif/night,motif/rose,motif/soul,motif/window,concept/hope,concept/nature,concept/self,concept/union,character/zoraide_reuter"></span>
 
 
 CHAPTER XIII.
@@ -22463,7 +22463,7 @@ of involuntary admiration. She had felt that I had withdrawn from her
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Professor — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Professor — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/love,motif/silence,motif/time,motif/well,concept/education,concept/identity,concept/self"></span>
 
 
 my esteem; she had seen contempt and coldness in my eye, and to her, who
@@ -22671,7 +22671,7 @@ grasped my hat and evacuated the premises.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Professor — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Professor — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/artist,motif/dance,motif/grave,motif/love,motif/nature,motif/prayer,motif/rose,motif/silence,motif/well,concept/beauty,concept/doubt,concept/education,concept/nature,concept/self,concept/temptation,concept/vanity"></span>
 
 
 CHAPTER XIV.
@@ -22845,7 +22845,7 @@ retain for ever, and when separation deprives him of them he feels as if
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Professor — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Professor — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/lamb,motif/time,motif/well,motif/window,concept/beauty,concept/conscience,character/bottom"></span>
 
 
 some ruthless hand had snatched from him his only ewe-[[Lamb|lamb]]. Such being
@@ -23059,7 +23059,7 @@ bewildered, but not when gratified; I thought that scarcely fair.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="The Professor — Chapter 15" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="The Professor — Chapter 15" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/child,archetype/king,motif/grave,motif/leaves,motif/nature,motif/pain,motif/silence,motif/time,motif/water,motif/well,motif/window,concept/deception,concept/doubt,concept/fear,concept/history,concept/hope,concept/humility,concept/nature,concept/pride,concept/resignation,concept/self,form/history"></span>
 
 
 CHAPTER XV.
@@ -23409,7 +23409,7 @@ wore off, the real material appeared below, and they laid her aside as a
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Professor — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="The Professor — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/nature,motif/night,motif/snow,motif/storm,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/identity,concept/nature,concept/suffering,form/history"></span>
 
 
 CHAPTER XVI.
@@ -23585,7 +23585,7 @@ forest is most wild and lonely; strange noises are often heard therein
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Professor — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="The Professor — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/king,motif/blood,motif/clock,motif/crown,motif/grave,motif/night,motif/river,motif/snow,motif/time,motif/wind,concept/courage,concept/despair,concept/education,concept/hope"></span>
 
 
 after sunset; wolves haunt these glades, and Danish warriors infest the
@@ -23759,7 +23759,7 @@ manual aid I presently got her placed just where I wanted her to be,
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Professor — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="The Professor — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/time,motif/window,concept/courage,concept/fear,concept/nature,concept/suffering"></span>
 
 
 that is, between my desk and the [[Window|window]], where she was screened from the
@@ -23875,7 +23875,7 @@ calmly clipping the tassels of her finished purse.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Professor — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="The Professor — Chapter 17 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/child,motif/memory,motif/time,motif/well,concept/education,concept/history,concept/self,form/history,form/sketch"></span>
 
 
 CHAPTER XVII.
@@ -24123,7 +24123,7 @@ and grammar you might, by degrees, have relinquished your lace-[[mending]]
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Professor — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="The Professor — Chapter 17 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/death,motif/rose,motif/silence,motif/time,motif/well,concept/friendship,concept/history,concept/pride,form/history,form/translation,setting/london"></span>
 
 
 drudgery, and risen in the world.”
@@ -24403,7 +24403,7 @@ once before, she hastily [[Rose|rose]] and made her exit.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Professor — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="The Professor — Chapter 18 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/dawn,motif/fire,motif/nature,motif/rose,motif/tears,motif/well,concept/body,concept/freedom,concept/hope,concept/imagination,concept/nature,concept/truth"></span>
 
 
 CHAPTER XVIII.
@@ -24585,7 +24585,7 @@ her. If any girl had rebelled, she would no longer have taken her
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Professor — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="The Professor — Chapter 18 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clock,motif/flag,motif/home,motif/nature,motif/river,motif/rose,motif/silence,motif/well,concept/ambition,concept/doubt,concept/faith,concept/honour,concept/nature,concept/self"></span>
 
 
 rebellion to heart; she possessed a source of comfort they could not
@@ -24767,7 +24767,7 @@ wriggle, titter, or other flourish of folly.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Professor — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="The Professor — Chapter 18 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/dust,motif/fire,motif/garden,motif/rose,motif/summer,motif/time,motif/wind,concept/pride,concept/truth"></span>
 
 
 exercise-book I had been examining.
@@ -24965,7 +24965,7 @@ has ever been dismissed from it.”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="The Professor — Chapter 18 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="The Professor — Chapter 18 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/flag,motif/flowers,motif/garden,motif/leaves,motif/nature,motif/time,motif/well,concept/nature,concept/poverty,concept/pride,concept/temptation,concept/truth,form/novel"></span>
 
 
 instructors is often beneficial to the interests of a school; it gives
@@ -25183,7 +25183,7 @@ TETE-A-TETE and departed.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Professor — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="The Professor — Chapter 19 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/night,motif/pain,motif/spring,motif/tears,motif/time,motif/well,concept/courage,concept/despair,concept/eternity,concept/faith,concept/fear,concept/hope,concept/immortality,concept/jealousy,concept/revenge,concept/suffering"></span>
 
 
 CHAPTER XIX.
@@ -25365,7 +25365,7 @@ prevent my immediately opening it; it contained four five-franc pieces,
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Professor — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="The Professor — Chapter 19 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/leaves,motif/time,motif/well,motif/window,concept/doubt,concept/poverty,concept/pride,concept/wonder,character/sunday"></span>
 
 
 and a note in English.
@@ -25557,7 +25557,7 @@ English service, filled the choirs of the chapel-royal, and after it,
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Professor — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="The Professor — Chapter 19 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/city,motif/cross,motif/flowers,motif/garden,motif/grave,motif/hill,motif/love,motif/night,motif/road,motif/silence,motif/time,motif/water,motif/well,concept/solitude,form/inscription"></span>
 
 
 issuing forth into the square, came into disadvantageous contrast with
@@ -25729,7 +25729,7 @@ the white wall before her, and a little stone set up against the wall,
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_04" data-title="The Professor — Chapter 19 (part 4)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_04" data-title="The Professor — Chapter 19 (part 4)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/fire,motif/grave,motif/home,motif/jewel,motif/lightning,motif/love,motif/summer,motif/tears,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/honour,concept/hope,concept/self,concept/solitude,concept/truth,concept/wonder,form/inscription"></span>
 
 
 and, at the foot of the stone, was an allotment of turf freshly turned
@@ -25903,7 +25903,7 @@ troubles ought to have made me forget it.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_05" data-title="The Professor — Chapter 19 (part 5)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_05" data-title="The Professor — Chapter 19 (part 5)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/city,motif/death,motif/fire,motif/home,motif/lightning,motif/night,motif/road,motif/rose,motif/soul,motif/storm,motif/time,motif/well,concept/doubt,concept/poverty"></span>
 
 
 “Your aunt is dead?”
@@ -26081,7 +26081,7 @@ Her eye, as she re-entered the small sitting-room, instantly sought
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_06" data-title="The Professor — Chapter 19 (part 6)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_06" data-title="The Professor — Chapter 19 (part 6)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/home,motif/pain,motif/rose,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/humility,concept/truth,concept/wonder"></span>
 
 
 mine, which was just then lingering on the hearth; I knew she read at
@@ -26267,7 +26267,7 @@ once the chair I placed for her at my side. She had selected “Paradise
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_07" data-title="The Professor — Chapter 19 (part 7)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_07" data-title="The Professor — Chapter 19 (part 7)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/home,motif/time,motif/well,motif/window,concept/courage,concept/doubt,concept/poverty,concept/pride,concept/self,concept/truth,histref/milton,character/milton,character/sunday"></span>
 
 
 Lost” from her shelf of classics, thinking, I suppose, the religious
@@ -26447,7 +26447,7 @@ re-entered the room as if in haste:--
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_08" data-title="The Professor — Chapter 19 (part 8)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_08" data-title="The Professor — Chapter 19 (part 8)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/fire,motif/lightning,motif/night,motif/rose,motif/stars,motif/time,motif/water,motif/winter,concept/hope"></span>
 
 
 “Mademoiselle, I have forgotten one of my gloves; I must have left it
@@ -26535,7 +26535,7 @@ bow overhead, and a voice in my heart whispered--
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Professor — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="The Professor — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/double,archetype/fool,motif/bells,motif/blood,motif/city,motif/home,motif/love,motif/moon,motif/night,motif/noon,motif/soul,motif/time,concept/doubt,concept/friendship,concept/honour,concept/jealousy,character/zoraide_reuter"></span>
 
 
 CHAPTER XX.
@@ -26711,7 +26711,7 @@ away on an unprincipled adventurer; directing the point of the last
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Professor — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="The Professor — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/tyrant,motif/love,motif/nature,motif/night,motif/soul,motif/time,concept/alienation,concept/humility,concept/jealousy,concept/nature,concept/self"></span>
 
 
 appellation by a furious blow, obliquely aimed at me. I left him in the
@@ -26889,7 +26889,7 @@ and pliant, sensitive and sagacious, serious and ardent, in my head; a
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Professor — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="The Professor — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/desire,motif/flowers,motif/home,motif/love,motif/memory,motif/poison,motif/road,motif/rose,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/deception,concept/endurance,concept/fear,concept/self,concept/temptation,form/novel,setting/court,character/frances_henri"></span>
 
 
 certain tone of feeling, fervid and modest, refined and practical, pure
@@ -27121,7 +27121,7 @@ decision. After twenty minutes’ conversation, I re-entered my own room,
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Professor — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="The Professor — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/dust,motif/marriage,motif/time,motif/well,concept/doubt,concept/fear,concept/history,concept/temptation,concept/truth,concept/wonder,form/history,setting/egypt"></span>
 
 
 CHAPTER XXI.
@@ -27303,7 +27303,7 @@ sanctuary, and every now and then plunging in a consecrated hook, and
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Professor — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="The Professor — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/marriage,motif/nature,motif/time,motif/well,motif/window,concept/conscience,concept/nature,concept/poverty,concept/self,setting/london,character/yorke_hunsden"></span>
 
 
 drawing out of the sea of broth the fattest of heave-shoulders and the
@@ -27485,7 +27485,7 @@ you shall not bait him thus by thoughts of what might have been; he
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Professor — Chapter 21 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="The Professor — Chapter 21 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/dust,motif/garden,motif/memory,motif/rose,motif/time,motif/well,concept/conscience,concept/hope,concept/pride,concept/truth"></span>
 
 
 relinquished a temporary and contingent good to avoid a permanent and
@@ -27625,7 +27625,7 @@ would be back. I left my card, and retraced my steps.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Professor — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="The Professor — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/temptress,motif/love,motif/marriage,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/freedom,concept/identity,concept/imagination,concept/longing,concept/nature,setting/paris"></span>
 
 
 CHAPTER XXII
@@ -27809,7 +27809,7 @@ spell being broken, he went on: “I thought you lived at Pelet’s; I went
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Professor — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="The Professor — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/death,motif/love,motif/night,motif/silence,motif/well,motif/wind,concept/pride,concept/solitude,concept/truth"></span>
 
 
 there this afternoon expecting to be starved to [[Death|death]] by sitting in
@@ -28019,7 +28019,7 @@ X----? You left no friends there, for you made none. Nobody ever asks
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Professor — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="The Professor — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/rose,motif/silence,motif/well,motif/window,concept/beauty,concept/history,concept/hope,concept/self,concept/truth,form/history"></span>
 
 
 after you--neither man nor woman; and if I mention your name in company,
@@ -28207,7 +28207,7 @@ turned:--
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_04" data-title="The Professor — Chapter 22 (part 4)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_04" data-title="The Professor — Chapter 22 (part 4)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/tyrant,motif/bells,motif/clock,motif/home,motif/nature,motif/night,motif/sleep,motif/window,concept/nature,concept/poverty,concept/wonder,setting/court,setting/germany,character/edward_crimsworth"></span>
 
 
 “Crimsworth Hall is sold,” said he.
@@ -28399,7 +28399,7 @@ him than ever; by watching the dog’s [[Nature|nature]] come out over his bone.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_05" data-title="The Professor — Chapter 22 (part 5)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_05" data-title="The Professor — Chapter 22 (part 5)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/bells,motif/fire,motif/home,motif/night,motif/pain,motif/rose,motif/stars,motif/time,motif/well,concept/pride,character/william_crimsworth"></span>
 
 
 In giving [[William Crimsworth]] his mother’s picture, I give him sweets,
@@ -28605,7 +28605,7 @@ content. I went away with its sunshine in my heart.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Professor — Chapter 23 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="The Professor — Chapter 23 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/autumn,motif/clock,motif/death,motif/desert,motif/dreams,motif/fire,motif/grave,motif/love,motif/night,motif/pain,motif/rose,motif/time,motif/well,motif/wind,concept/hope,concept/self,concept/self_reliance,concept/solitude,setting/desert"></span>
 
 
 CHAPTER XXIII
@@ -28813,7 +28813,7 @@ bent to meditation and haply inspiration--what had she to do with [[Love|love]]?
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Professor — Chapter 23 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="The Professor — Chapter 23 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/crown,motif/fire,motif/flowers,motif/garden,motif/grave,motif/leaves,motif/love,motif/nature,motif/pain,motif/rose,motif/window,concept/ambition,concept/doubt,concept/endurance,concept/hope,concept/nature,concept/resignation,concept/self,form/translation"></span>
 
 
 seemed to say, “I must cultivate fortitude and cling to poetry; one is
@@ -29061,7 +29061,7 @@ The strong pulse of [[Ambition]] struck
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Professor — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="The Professor — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/desire,motif/fire,motif/frost,motif/home,motif/love,motif/rose,motif/ship,motif/silence,motif/time,concept/jealousy,concept/poverty,concept/self,concept/truth,setting/ship"></span>
 
 
 In every vein I owned;
@@ -29287,7 +29287,7 @@ and she made a sort of movement, as if she would have clung to me, but
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_04" data-title="The Professor — Chapter 23 (part 4)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_04" data-title="The Professor — Chapter 23 (part 4)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/double,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/nature,concept/pride,concept/providence,concept/truth,character/nurse"></span>
 
 
 restraining herself she only added with earnest emphasis--“Master, I
@@ -29485,7 +29485,7 @@ either “edentee, myope, rugueuse, ou bossue,” my feelings towards
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_05" data-title="The Professor — Chapter 23 (part 5)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_05" data-title="The Professor — Chapter 23 (part 5)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/death,motif/flowers,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/rose,motif/silence,motif/soul,motif/supernatural,motif/time,motif/well,concept/body,concept/mortality,concept/nature,concept/truth,concept/wonder"></span>
 
 
 her might still have been kindly, but they could never have been
@@ -29629,7 +29629,7 @@ and sit at her side, freed from the dreadful tyranny of my demon.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Professor — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="The Professor — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/city,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/well,concept/beauty,concept/doubt,concept/education,concept/hope,setting/germany,character/sunday"></span>
 
 
 CHAPTER XXIV.
@@ -29837,7 +29837,7 @@ future wife much prosperity; and I [[Hope|hope]] she will satisfy your fastidiou
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Professor — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="The Professor — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/fire,motif/flowers,motif/grave,motif/love,motif/night,motif/rose,motif/soul,motif/well,motif/window,concept/beauty,concept/doubt,concept/pride,form/satire,setting/london"></span>
 
 
 I had much ado to refrain from laughing as I beheld the magnanimous pity
@@ -30023,7 +30023,7 @@ thinking of the good side--of what is elevated in your character as a
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Professor — Chapter 24 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="The Professor — Chapter 24 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/home,motif/love,motif/nature,motif/snow,motif/soul,motif/time,concept/education,concept/freedom,concept/greatness,concept/madness,concept/nature,concept/truth,concept/wonder,histref/milton,setting/mountains,character/milton"></span>
 
 
 nation.”
@@ -30219,7 +30219,7 @@ the refuse, by way of turning it to what you call use.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Professor — Chapter 24 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="The Professor — Chapter 24 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/fire,motif/moon,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/freedom,concept/hope,concept/nature,character/desdemona,character/othello"></span>
 
 
 “You cannot reason at all,” said Hunsden; “there is no [[logic]] in you.”
@@ -30417,7 +30417,7 @@ the parts shall be reversed according to the plan just sketched--you,
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Professor — Chapter 24 (part 5)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_05" data-title="The Professor — Chapter 24 (part 5)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/fire,motif/well,character/queen"></span>
 
 
 however, being in my nightcap. Farewell, mademoiselle!” He bowed on her
@@ -30523,7 +30523,7 @@ said “God bless you;” yet on the morrow the sea was to roll between us.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="The Professor — Chapter 25 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="The Professor — Chapter 25 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/clock,motif/fire,motif/flowers,motif/memory,motif/prayer,motif/snow,motif/summer,motif/time,motif/well,motif/window,character/touchstone"></span>
 
 
 CHAPTER XXV.
@@ -30713,7 +30713,7 @@ looked so engaging in her light [[Summer|summer]] dress and little cottage bonne
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="The Professor — Chapter 25 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="The Professor — Chapter 25 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/clock,motif/flowers,motif/grave,motif/home,motif/moon,motif/nature,motif/silence,motif/summer,motif/tears,motif/time,concept/beauty,concept/education,concept/hope,concept/nature"></span>
 
 
 and her manner in speaking to me was then, as always, so unaffectedly
@@ -30893,7 +30893,7 @@ unpretending, was never trite or dry; she did not speak from routine
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="The Professor — Chapter 25 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="The Professor — Chapter 25 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/clock,motif/home,motif/lightning,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/winter,concept/fear,concept/history,concept/nature,form/history,character/frances_henri,character/julia"></span>
 
 
 formulas--she made her own phrases as she went on, and very nervous
@@ -31065,7 +31065,7 @@ and read English to me for an hour by way of penance. I frequently dosed
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_04" data-title="The Professor — Chapter 25 (part 4)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_04" data-title="The Professor — Chapter 25 (part 4)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/tyrant,motif/clock,motif/death,motif/grave,motif/marriage,motif/nature,motif/night,motif/road,motif/sleep,motif/well,concept/courage,concept/doubt,concept/freedom,concept/honour,concept/nature,concept/slavery"></span>
 
 
 her with Wordsworth in this way, and Wordsworth steadied her soon; she
@@ -31249,7 +31249,7 @@ honourable, beloved ----?” She stopped, her voice was cut off, her eyes
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_05" data-title="The Professor — Chapter 25 (part 5)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_05" data-title="The Professor — Chapter 25 (part 5)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/autumn,motif/bells,motif/death,motif/flowers,motif/garden,motif/home,motif/nature,motif/spring,motif/summer,motif/time,motif/well,motif/winter,concept/charity,concept/nature,setting/london,setting/russia,character/bottom,character/yorke_hunsden"></span>
 
 
 suddenly suffused. She and I were standing side by side; she threw her
@@ -31425,7 +31425,7 @@ men he seemed leagued hand and heart.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_06" data-title="The Professor — Chapter 25 (part 6)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_06" data-title="The Professor — Chapter 25 (part 6)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/shadow,motif/chains,motif/dance,motif/home,motif/insects,motif/memory,motif/moon,motif/night,motif/nightingale,motif/summer,motif/time,motif/well,concept/beauty,concept/body,concept/freedom,concept/history,form/history,character/hamlet"></span>
 
 
 When Hunsden is staying [[Alone|alone]] at the Wood (which seldom happens) he
@@ -31617,7 +31617,7 @@ dim light you give?”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_07" data-title="The Professor — Chapter 25 (part 7)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_07" data-title="The Professor — Chapter 25 (part 7)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/garden,motif/home,motif/love,motif/night,motif/pain,motif/summer,motif/time,motif/window,concept/fear,concept/wonder"></span>
 
 
 “My sight was always too weak to endure a blaze, Frances,” and we had
@@ -31797,7 +31797,7 @@ being cruel; the balmy words being repeated, he again pillowed his cheek
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_08" data-title="The Professor — Chapter 25 (part 8)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_08" data-title="The Professor — Chapter 25 (part 8)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/bees,motif/fire,motif/flowers,motif/garden,motif/home,motif/love,motif/nature,motif/pain,motif/soul,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/courage,concept/melancholy,concept/nature,concept/pride,concept/self,concept/suffering"></span>
 
 
 on her breast, and was again tranquil.

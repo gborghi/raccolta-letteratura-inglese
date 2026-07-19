@@ -1583,7 +1583,7 @@ This collection of 13 Sherlock Holmes stories was originally published in 1903.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE HOUND OF THE BASKERVILLES — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE HOUND OF THE BASKERVILLES — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/night,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 1
@@ -1656,7 +1656,7 @@ Holmes was silent, but his little darting glances showed me the interest which h
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE HOUND OF THE BASKERVILLES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE HOUND OF THE BASKERVILLES — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/night,concept/fear,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 2
@@ -1714,7 +1714,7 @@ Dr. Mortimer looked strangely at us for an instant, and his voice sank almost to
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE HOUND OF THE BASKERVILLES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE HOUND OF THE BASKERVILLES — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/night,motif/supernatural,concept/fear,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 3
@@ -1860,7 +1860,7 @@ He laughed at my bewildered expression.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE HOUND OF THE BASKERVILLES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE HOUND OF THE BASKERVILLES — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/detective,motif/night,motif/supernatural,concept/fear,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 4
@@ -1997,7 +1997,7 @@ A lad of fourteen, with a bright, keen face, had obeyed the summons of the manag
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE HOUND OF THE BASKERVILLES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE HOUND OF THE BASKERVILLES — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/detective,motif/night,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 5
@@ -2148,7 +2148,7 @@ John Clayton departed chuckling, and Holmes turned to me with a shrug of his sho
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE HOUND OF THE BASKERVILLES — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE HOUND OF THE BASKERVILLES — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/night,concept/fear,character/sherlock_holmes"></span>
 
 
 CHAPTER 6
@@ -2229,7 +2229,7 @@ And yet it was not quite the last. I found myself weary and yet wakeful, tossing
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE HOUND OF THE BASKERVILLES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE HOUND OF THE BASKERVILLES — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/detective,motif/night,motif/secrets,motif/uncanny,concept/fear,concept/uncanny,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 7
@@ -2372,7 +2372,7 @@ An expression of irresolution passed for an instant over her face, but her eyes 
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE HOUND OF THE BASKERVILLES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE HOUND OF THE BASKERVILLES — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/night,motif/supernatural,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 8
@@ -2407,7 +2407,7 @@ Barrymore was crouching at the window with the candle held against the glass. Hi
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE HOUND OF THE BASKERVILLES — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE HOUND OF THE BASKERVILLES — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/villain,motif/night,concept/fear,setting/london"></span>
 
 
 CHAPTER 9
@@ -2547,7 +2547,7 @@ I wished to go in that direction and to search the tor, but it was some distance
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE HOUND OF THE BASKERVILLES — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE HOUND OF THE BASKERVILLES — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/night,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 10
@@ -2646,7 +2646,7 @@ Barrymore hesitated for a moment, as if he regretted his outburst, or found it d
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="THE HOUND OF THE BASKERVILLES — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="THE HOUND OF THE BASKERVILLES — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="motif/night,concept/fear,setting/london"></span>
 
 
 CHAPTER 11
@@ -2772,7 +2772,7 @@ And then at last I heard him. Far away came the sharp clink of a boot striking u
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="THE HOUND OF THE BASKERVILLES — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="THE HOUND OF THE BASKERVILLES — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="archetype/villain,motif/night,motif/supernatural,concept/fear,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 12
@@ -2918,7 +2918,7 @@ And so it was arranged. Resisting Stapleton’s offer of hospitality, Holmes and
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="THE HOUND OF THE BASKERVILLES — Chapter 13" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="THE HOUND OF THE BASKERVILLES — Chapter 13" data-chapter="Chapter 13" data-kind="chapter" data-tags="archetype/detective,archetype/villain,motif/night,concept/fear,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 13
@@ -3067,7 +3067,7 @@ The London express came roaring into the station, and a small, wiry bulldog of a
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="THE HOUND OF THE BASKERVILLES — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="THE HOUND OF THE BASKERVILLES — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/detective,archetype/villain,motif/night,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 14
@@ -3161,7 +3161,7 @@ Many traces we found of him in the bog-girt island where he had hid his savage a
 
 
 
-<span class="atom-split" data-atom="chapter_15" data-title="THE HOUND OF THE BASKERVILLES — Chapter 15" data-chapter="Chapter 15" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15" data-title="THE HOUND OF THE BASKERVILLES — Chapter 15" data-chapter="Chapter 15" data-kind="chapter" data-tags="motif/night,concept/fear,concept/guilt,setting/london,character/sherlock_holmes"></span>
 
 
 CHAPTER 15

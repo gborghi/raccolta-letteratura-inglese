@@ -3894,7 +3894,7 @@ Lord keep my [[Memory]] green.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/birds,motif/cave,motif/city,motif/fire,motif/grave,motif/journey,motif/night,motif/snow,motif/time,motif/well,motif/wind,motif/winter,setting/mountains"></span>
 
 
 CHAPTER I
@@ -4013,7 +4013,7 @@ stairs, in the long, cold, dusky [[Journey|journey]] up to bed.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/monster,archetype/shadow,motif/blood,motif/clock,motif/fire,motif/ghosts,motif/grave,motif/home,motif/horse,motif/leaves,motif/mirror,motif/night,motif/noon,motif/river,motif/rose,motif/sleep,motif/time,motif/water,motif/wind,motif/window,concept/mercy,concept/pride,character/nurse,character/sunday"></span>
 
 
 When, in rustic places, the last glimmering of daylight died away from
@@ -4125,7 +4125,7 @@ Swidger!—Spoon.”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/death,motif/fire,motif/nature,motif/night,motif/time,motif/well,motif/wind,concept/fear,concept/nature,concept/self,setting/london"></span>
 
 
 “True, William,” was the patient and abstracted answer, when he stopped
@@ -4248,7 +4248,7 @@ her aged father-in-law looked on much interested in the ceremony.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/desire,motif/memory,motif/swallow,motif/time,motif/well,motif/wind,motif/winter,concept/pride,character/queen_elizabeth"></span>
 
 
 “My duty to you, sir,” returned the old man. “Should have spoke before,
@@ -4375,7 +4375,7 @@ don’t blow us away, or the darkness don’t [[Swallow|swallow]] us up.”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/fire,motif/home,motif/leaves,motif/love,motif/night,motif/rose,motif/sleep,motif/time,motif/winter,concept/doubt,concept/honour,concept/hope,concept/self,character/william_swidger"></span>
 
 
 The quiet Mouse had brought her calm face to his side, and silently taken
@@ -4513,7 +4513,7 @@ a mother to him!”
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/birds,motif/desire,motif/fire,motif/home,motif/journey,motif/love,motif/memory,motif/night,motif/prayer,motif/stars,motif/well,motif/wind,motif/winter,concept/self,character/phantom"></span>
 
 
 The room turned darker and colder, and the gloom and [[Shadow|shadow]] gathering
@@ -4641,7 +4641,7 @@ looking down into his face with searching eyes, that seemed instinct with
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/home,motif/love,motif/memory,motif/nature,motif/night,motif/spring,motif/time,motif/well,motif/wind,concept/ambition,concept/fear,concept/jealousy,concept/nature,concept/self,concept/wonder,character/phantom"></span>
 
 
 “Such glimpses of the light of [[Home|home]] as I had ever known, had streamed
@@ -4774,7 +4774,7 @@ confused traces of them, that will die out soon,” returned the Spectre.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/monster,archetype/shadow,motif/blood,motif/death,motif/fire,motif/memory,motif/night,motif/poison,motif/spring,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/doubt,concept/fear,concept/freedom,concept/identity,concept/melancholy,concept/wonder,character/phantom"></span>
 
 
 “Stay!” cried the haunted man, arresting by a terrified gesture the
@@ -4964,7 +4964,7 @@ For now he was, indeed, [[Alone|alone]]. [[Alone]], [[Alone|alone]].
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/childhood,motif/home,motif/night,motif/sleep,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/hope,form/inscription,character/bottom"></span>
 
 
 CHAPTER II
@@ -5071,7 +5071,7 @@ no young family to provide for.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/clock,motif/cross,motif/desire,motif/fire,motif/home,motif/night,motif/sleep,motif/time,motif/winter,character/nurse,character/speed"></span>
 
 
 Tetterby himself, however, in his little parlour, as already mentioned,
@@ -5199,7 +5199,7 @@ relations.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/home,motif/noon,motif/rose,motif/snow,motif/time,motif/well,motif/wind,motif/winter,concept/reconciliation,concept/renunciation,concept/resignation,character/tetterbys"></span>
 
 
 “Whatever you do, Johnny,” said Mrs. Tetterby, shaking her head, “take
@@ -5331,7 +5331,7 @@ idea than a [[Child|child]] [[unborn]]—”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,motif/cross,motif/home,motif/nightingale,motif/pain,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/wonder,character/tetterbys"></span>
 
 
 Mr. Tetterby seemed to dislike this figure of speech, and observed, “Say
@@ -5455,7 +5455,7 @@ was so small, and would go such a little way;—you hate me, don’t you,
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/night,motif/sleep,motif/time,motif/well,concept/fear,concept/hope,concept/truth"></span>
 
 
 “Not quite,” said Mr. Tetterby, “as yet.”
@@ -5596,7 +5596,7 @@ the light, if you can spare it, and I’ll find the way.”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 6)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/desire,motif/fire,motif/home,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/freedom,concept/nature,concept/wonder,character/nurse"></span>
 
 
 In the quickness of his expression of this [[Desire|desire]], and in taking the
@@ -5726,7 +5726,7 @@ little personal communication together?”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 7)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/dreams,motif/home,motif/marriage,motif/pain,motif/time,motif/well,concept/history,concept/honour,concept/truth,concept/wonder,form/history"></span>
 
 
 “Very little.”
@@ -5860,7 +5860,7 @@ comfortable too. A gentleman with him, is there!”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 8)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/desire,motif/fire,motif/home,motif/night,motif/time,motif/well,motif/window,character/edmund"></span>
 
 
 Redlaw released his hold, as he listened.
@@ -5998,7 +5998,7 @@ we can’t perpetuate it.”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_09" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_09" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 9)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/desert,motif/desire,motif/fire,motif/love,motif/moon,motif/night,motif/poison,motif/snow,motif/spring,motif/time,motif/well,motif/wind,motif/window,setting/desert,character/edmund,character/phantom"></span>
 
 
 He coldly took a book, and sat down at the table.
@@ -6117,7 +6117,7 @@ enough submission to be raised upon his feet, and looked at.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_10" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_10" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 10)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/monster,archetype/shadow,motif/blood,motif/fire,motif/moon,motif/night,motif/stars,motif/time,motif/water,motif/well,motif/wind,motif/winter"></span>
 
 
 “Who washed them, and put those bandages where they were bruised and
@@ -6265,7 +6265,7 @@ his face, that Redlaw started from him.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_11" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_11" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 11)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/dust,motif/home,motif/night,motif/spring,motif/tears,motif/time,motif/winter,concept/mercy,concept/pride,character/william_swidger"></span>
 
 
 “In there!” said the boy, pointing out the [[house]] again. “I’ll wait.”
@@ -6413,7 +6413,7 @@ eldest son, George, who was more his mother’s [[Pride|pride]] than all the res
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_12" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 12)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_12" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 12)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/decay,motif/memory,motif/night,motif/silence,motif/tears,motif/time,concept/fear,concept/hope,setting/london,character/william_swidger"></span>
 
 
 Redlaw’s eyes wandered from the old man’s grey head, as he laid it down
@@ -6544,7 +6544,7 @@ wrong and sorrow lying at my door, that—”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_13" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 13)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_13" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 13)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/home,motif/leaves,motif/lightning,motif/night,motif/time,motif/well,concept/body,concept/wonder"></span>
 
 
 Was it the extremity to which he had come, or was it the dawning of
@@ -6682,7 +6682,7 @@ his shillings, which he kept clenched up in a bunch, in one hand.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_14" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 14)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_14" data-title="The Haunted Man and the Ghost's Bargain — Chapter 2 (part 14)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/night,motif/time,concept/fear"></span>
 
 
 “And this,” said Redlaw, gazing on him with increased repugnance and
@@ -6762,7 +6762,7 @@ in!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/shadow,motif/fire,motif/hill,motif/memory,motif/moon,motif/night,motif/rose,motif/silence,motif/snow,motif/tears,motif/time,concept/hope,concept/melancholy,concept/mercy,character/phantom"></span>
 
 
 CHAPTER III
@@ -6895,7 +6895,7 @@ still lay on the ground between them, at the [[Phantom]]’s feet.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/childhood,motif/city,motif/memory,motif/night,motif/rose,motif/sleep,motif/snow,motif/soul,motif/spring,motif/wind,motif/window,concept/fear,concept/hope,character/phantom,character/tetterbys"></span>
 
 
 “Terrible instructor,” said the Chemist, sinking on his knee before it,
@@ -7012,7 +7012,7 @@ never did come through, and the [[Child|child]] continued to be somebody else.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/quest,archetype/child,archetype/ghost,archetype/rebel,motif/rose,motif/tears,motif/time,motif/water,concept/aspiration,concept/melancholy,character/tetterbys"></span>
 
 
 The tempers of the little [[Tetterbys]] had sadly changed with a few hours.
@@ -7149,7 +7149,7 @@ a sacrifice!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/ghost,motif/dance,motif/death,motif/fire,motif/home,motif/love,motif/marriage,motif/memory,motif/night,motif/soul,motif/storm,motif/water,motif/well,concept/conscience,concept/doubt,concept/self,character/nurse,character/tetterbys"></span>
 
 
 Mrs. Tetterby shook her head; and without replying in words, raised a
@@ -7284,7 +7284,7 @@ it, Dolf!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/love,motif/night,motif/prayer,motif/rose,motif/tears,concept/honour,concept/hope,concept/truth,concept/wonder,character/chorus,character/edmund,character/nurse"></span>
 
 
 “Hurrah! Here’s Mrs. William!” cried Johnny.
@@ -7423,7 +7423,7 @@ likes me too!” said Milly. “Oh dear, that’s another!”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/ghost,motif/fire,motif/flowers,motif/home,motif/memory,motif/nature,motif/time,motif/well,motif/winter,concept/honour,concept/hope,concept/nature,concept/wonder,character/edmund,character/phantom"></span>
 
 
 “This morning! Where is she now?”
@@ -7544,7 +7544,7 @@ Redlaw, but I think it was a sister you was very much attached to?”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/fire,motif/home,motif/memory,motif/night,motif/prayer,motif/rose,motif/silence,motif/snow,motif/tears,motif/time,motif/wheel,concept/fear,concept/hope,concept/providence,concept/self,character/edmund"></span>
 
 
 The Chemist looked at him, and shook his head. “I had a sister,” he said
@@ -7694,7 +7694,7 @@ lesson from every tone of her voice, and every beam of her eyes.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_08" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 8)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/grave,motif/home,motif/love,motif/memory,motif/night,motif/rose,motif/time,motif/well,concept/body,concept/doubt,concept/forgiveness,concept/hope"></span>
 
 
 “I have no learning, and you have much,” said Milly; “I am not used to
@@ -7831,7 +7831,7 @@ heart as proud and happy.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_09" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_09" data-title="The Haunted Man and the Ghost's Bargain — Chapter 3 (part 9)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/ghost,archetype/shadow,motif/childhood,motif/cross,motif/fire,motif/love,motif/memory,motif/night,motif/sleep,motif/time,motif/winter,concept/history,concept/hope,concept/mercy,concept/suffering,form/history,character/christ,character/tetterbys"></span>
 
 
 Redlaw raised his head, and looked towards her.

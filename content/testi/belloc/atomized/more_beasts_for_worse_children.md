@@ -407,7 +407,7 @@ What nobody is sure about!
 
 
 
-<span class="atom-split" data-atom="story_01_dedication" data-title="More Beasts for Worse Children — DEDICATION." data-chapter="DEDICATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_dedication" data-title="More Beasts for Worse Children — DEDICATION." data-chapter="DEDICATION" data-kind="story" data-tags="form/inscription"></span>
 
 
 DEDICATION.
@@ -421,7 +421,7 @@ OF PHILADELPHIA.
 
 
 
-<span class="atom-split" data-atom="story_02_introduction" data-title="More Beasts for Worse Children — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introduction" data-title="More Beasts for Worse Children — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="archetype/child"></span>
 
 
 INTRODUCTION
@@ -489,7 +489,7 @@ But for this little book.”
 
 
 
-<span class="atom-split" data-atom="story_03_the_python" data-title="More Beasts for Worse Children — The Python" data-chapter="The Python" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_python" data-title="More Beasts for Worse Children — The Python" data-chapter="The Python" data-kind="story" data-tags="motif/animals,motif/serpent_snake,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Python
@@ -529,7 +529,7 @@ The Snake is living yet.
 
 
 
-<span class="atom-split" data-atom="story_04_the_welsh_mutton" data-title="More Beasts for Worse Children — The Welsh Mutton" data-chapter="The Welsh Mutton" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_welsh_mutton" data-title="More Beasts for Worse Children — The Welsh Mutton" data-chapter="The Welsh Mutton" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Welsh Mutton
@@ -547,7 +547,7 @@ But then — observe his face!
 
 
 
-<span class="atom-split" data-atom="story_05_the_porcupine" data-title="More Beasts for Worse Children — The Porcupine" data-chapter="The Porcupine" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_porcupine" data-title="More Beasts for Worse Children — The Porcupine" data-chapter="The Porcupine" data-kind="story" data-tags="archetype/child"></span>
 
 
 The Porcupine
@@ -571,7 +571,7 @@ With prickles on its skin.
 
 
 
-<span class="atom-split" data-atom="story_06_the_scorpion" data-title="More Beasts for Worse Children — The Scorpion" data-chapter="The Scorpion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_the_scorpion" data-title="More Beasts for Worse Children — The Scorpion" data-chapter="The Scorpion" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Scorpion
@@ -589,7 +589,7 @@ To find in bed, at night.
 
 
 
-<span class="atom-split" data-atom="story_07_the_crocodile" data-title="More Beasts for Worse Children — The Crocodile" data-chapter="The Crocodile" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_the_crocodile" data-title="More Beasts for Worse Children — The Crocodile" data-chapter="The Crocodile" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song,setting/egypt"></span>
 
 
 The Crocodile
@@ -639,7 +639,7 @@ An Infant Crocodile.
 
 
 
-<span class="atom-split" data-atom="story_08_the_vulture" data-title="More Beasts for Worse Children — The Vulture" data-chapter="The Vulture" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_vulture" data-title="More Beasts for Worse Children — The Vulture" data-chapter="The Vulture" data-kind="story" data-tags="motif/birds,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Vulture
@@ -665,7 +665,7 @@ To only eat at dinner!
 
 
 
-<span class="atom-split" data-atom="story_09_the_bison" data-title="More Beasts for Worse Children — The Bison" data-chapter="The Bison" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_bison" data-title="More Beasts for Worse Children — The Bison" data-chapter="The Bison" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Bison
@@ -685,7 +685,7 @@ But is sewn on with needle and thread.
 
 
 
-<span class="atom-split" data-atom="story_10_the_viper" data-title="More Beasts for Worse Children — The Viper" data-chapter="The Viper" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_the_viper" data-title="More Beasts for Worse Children — The Viper" data-chapter="The Viper" data-kind="story" data-tags="motif/serpent_snake,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Viper
@@ -707,7 +707,7 @@ But after the second you die.
 
 
 
-<span class="atom-split" data-atom="story_11_the_llama" data-title="More Beasts for Worse Children — The Llama" data-chapter="The Llama" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_llama" data-title="More Beasts for Worse Children — The Llama" data-chapter="The Llama" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Llama
@@ -745,7 +745,7 @@ The Mongol of the Monastery of Shan.
 
 
 
-<span class="atom-split" data-atom="story_12_the_chamois" data-title="More Beasts for Worse Children — The Chamois" data-chapter="The Chamois" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_chamois" data-title="More Beasts for Worse Children — The Chamois" data-chapter="The Chamois" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Chamois
@@ -767,7 +767,7 @@ And he lives in perpetual fear.
 
 
 
-<span class="atom-split" data-atom="story_13_the_frozen_mammoth" data-title="More Beasts for Worse Children — The Frozen Mammoth" data-chapter="The Frozen Mammoth" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_the_frozen_mammoth" data-title="More Beasts for Worse Children — The Frozen Mammoth" data-chapter="The Frozen Mammoth" data-kind="story" data-tags="motif/animals,concept/nonsense,form/comic_verse_song"></span>
 
 
 The Frozen Mammoth
@@ -797,7 +797,7 @@ The dainty is nearly unknown.
 
 
 
-<span class="atom-split" data-atom="story_14_the_microbe" data-title="More Beasts for Worse Children — The Microbe" data-chapter="The Microbe" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_microbe" data-title="More Beasts for Worse Children — The Microbe" data-chapter="The Microbe" data-kind="story" data-tags="concept/nonsense,concept/doubt,form/comic_verse_song"></span>
 
 
 The Microbe

@@ -225,7 +225,7 @@ G. K. Chesterton.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Pickwick (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Pickwick (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/grave,concept/democracy,concept/doubt,concept/pride,concept/vanity,form/comedy"></span>
 
 
 [[Pickwick|PICKWICK]] AND THE ENGLISH PEOPLES
@@ -320,7 +320,7 @@ Assieme a questo accidente storico dell'aristocrazia puritana andarono parecchie
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Pickwick (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Pickwick (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/cross,concept/charity,concept/democracy,concept/doubt,concept/freedom,concept/melancholy,concept/self,concept/truth,character/fagin,character/falstaff,character/oliver_twist,character/robin_hood"></span>
 
 
 The meaning of Merry England was in this old original character
@@ -407,7 +407,7 @@ Insomma, Dickens guadagnò soltanto liberalità quando perse la libertà. È uno
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Pickwick (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Pickwick (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/charity,concept/endurance,concept/truth,form/epic"></span>
 
 
 And that is the [[Truth|truth]] about the English adventure even outside England.

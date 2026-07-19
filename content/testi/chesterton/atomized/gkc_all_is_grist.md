@@ -5382,7 +5382,7 @@ I really do not know how to answer, except with a melancholy smile.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="GKC All is Grist — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="GKC All is Grist — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/childhood,motif/home,motif/nature,motif/time,concept/education,concept/nature,concept/truth,concept/union,histref/dante,histref/puritanism,histref/renaissance,character/beatrice,character/nurse"></span>
 
 
 CHAPTER
@@ -5571,7 +5571,7 @@ Per esempio, ci fu un [[Time|tempo]] in cui era consuetudine chiamare un padre u
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="GKC All is Grist — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="GKC All is Grist — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/desert,motif/dust,motif/nature,motif/well,concept/body,concept/faith,concept/fear,concept/freedom,concept/nature,concept/self,concept/truth,setting/desert"></span>
 
 
 There are, indeed, human and historic aspects of this problem, which would
@@ -5709,7 +5709,7 @@ Ma il punto, qui, è che se questo argomento è fatale alla [[Faith|fede]] o al 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="GKC All is Grist — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="GKC All is Grist — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,archetype/tyrant,motif/nakedness,motif/nature,concept/doubt,concept/freedom,concept/nature,concept/survival,form/essay,histref/french_revolution,setting/italy"></span>
 
 
 For instance, I am writing these words in a country which
@@ -5841,7 +5841,7 @@ Ma la fallacia insita in una simile moda ha a che fare con un certo ultimo buon 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="GKC All is Grist — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="GKC All is Grist — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/fire,motif/machine,motif/nakedness,motif/nature,motif/time,motif/well,concept/education,concept/honour,concept/madness,concept/nature,concept/self,histref/spanish_inquisition,character/apollo,character/prometheus"></span>
 
 
 For instance, man could not exist at all, in the ordinary sense, if he had
@@ -5959,7 +5959,7 @@ MOLTO [[Time|tempo]] fa segnalai la fallacia dell'invocare a gran voce un uomo p
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="GKC All is Grist — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="GKC All is Grist — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/city,concept/education"></span>
 
 
 I am glad to see that what I applied to the unpractical
@@ -6184,7 +6184,7 @@ alla fissità inerte di un fossile.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="GKC All is Grist — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="GKC All is Grist — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/nature,motif/sleep,motif/time,motif/well,concept/nature,character/brutus"></span>
 
 
 V. On the Intellect of Yesterday
@@ -6315,7 +6315,7 @@ Oppure si prenda un'altra prova, da un altro tipo d'indagine. Quando tutti i sal
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="GKC All is Grist — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="GKC All is Grist — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/city,motif/desert,motif/dust,motif/hill,motif/journey,motif/leaves,motif/prison,concept/loneliness,concept/paradox,concept/truth,setting/castle,setting/desert,setting/mountains,setting/venice"></span>
 
 
 One way of putting it is that this is a psychological age,
@@ -6430,7 +6430,7 @@ Lo strano è che ciò che ci si aspetterebbe fosse la prima cosa menzionata è g
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="GKC All is Grist — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="GKC All is Grist — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/monster,motif/river,motif/ship,motif/snow,concept/reconciliation,setting/ship"></span>
 
 
 I had another experience of the same sort recently; I suddenly
@@ -6574,7 +6574,7 @@ La maggior parte di noi non dedicherebbe la sua breve vacanza estiva a visitare 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_09" data-title="GKC All is Grist — Chapter 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_09" data-title="GKC All is Grist — Chapter 1 (part 9)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/soul,concept/body,concept/imagination,setting/court"></span>
 
 
 But there is another, more subtle, more sunken and fundamental
@@ -6717,7 +6717,7 @@ Non importa nulla ad alcun cristiano se Dio abbia fatto l'uomo per pensare con i
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_10" data-title="GKC All is Grist — Chapter 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_10" data-title="GKC All is Grist — Chapter 1 (part 10)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/death,motif/dust,motif/flowers,motif/grave,motif/love,motif/nature,motif/soul,motif/well,concept/body,concept/longing,concept/nature,concept/truth,form/fable"></span>
 
 
 Nevertheless, there is another aspect of this fancy, whether or no it
@@ -6863,7 +6863,7 @@ Per esempio, un piacere connesso al farsi più vecchi è che molte cose paiono f
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_11" data-title="GKC All is Grist — Chapter 1 (part 11)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_11" data-title="GKC All is Grist — Chapter 1 (part 11)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/childhood,motif/death,motif/ghosts,motif/nature,motif/supernatural,motif/time,motif/well,concept/nature,concept/paradox,form/inscription,histref/america,setting/america,character/oliver"></span>
 
 
 For instance, we have just seen a staggering turn of the wheel
@@ -6985,7 +6985,7 @@ X. Sul signor Mencken e il fondamentalismo
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_12" data-title="GKC All is Grist — Chapter 1 (part 12)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_12" data-title="GKC All is Grist — Chapter 1 (part 12)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/swallow,concept/fear,concept/pride,form/translation,character/don_quixote"></span>
 
 
 Mr. H. L. Mencken is at least a brilliant man of letters and ought
@@ -7115,7 +7115,7 @@ Nutro un'ammirazione così calorosa per il signor Mencken quale critico dell'[[P
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_13" data-title="GKC All is Grist — Chapter 1 (part 13)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_13" data-title="GKC All is Grist — Chapter 1 (part 13)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/crown,motif/death,motif/nature,motif/road,motif/secrets,concept/doubt,concept/history,concept/nature,concept/truth,form/history"></span>
 
 
 XI.  On Anthony Trollope:  Historian
@@ -7233,7 +7233,7 @@ Chiunque, leggendo Trollope con attenzione, noti quale fosse la vera divisione t
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_14" data-title="GKC All is Grist — Chapter 1 (part 14)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_14" data-title="GKC All is Grist — Chapter 1 (part 14)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/memory,motif/time,motif/well,concept/democracy,concept/faith,concept/fear,concept/history,concept/imagination,concept/renunciation,concept/truth,form/history,form/novel"></span>
 
 
 Far above all these people, like gods on Olympus, like higher
@@ -7417,7 +7417,7 @@ C'è un caso di questa complessità che sempre mi diverte: il modo in cui gli as
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_15" data-title="GKC All is Grist — Chapter 1 (part 15)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_15" data-title="GKC All is Grist — Chapter 1 (part 15)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/poison,motif/well,concept/history,concept/truth,concept/wonder,form/history"></span>
 
 
 XIII.  On the New Insularity
@@ -7557,7 +7557,7 @@ Del resto, la nostra stessa politica britannica ha di recente illustrato abbasta
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_16" data-title="GKC All is Grist — Chapter 1 (part 16)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_16" data-title="GKC All is Grist — Chapter 1 (part 16)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/money_and_gold,concept/money_and_avarice,concept/materialism,concept/spiritualism,concept/satire_of_society,form/essay"></span>
 
 
 XIV.  On Christian Science
@@ -7676,7 +7676,7 @@ Questo stato di cose nervoso e non troppo sano è l'origine dell'Ottimismo e del
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_17" data-title="GKC All is Grist — Chapter 1 (part 17)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_17" data-title="GKC All is Grist — Chapter 1 (part 17)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/critique_of_progress,concept/optimism_and_pessimism,concept/materialism,concept/satire_of_society,form/essay"></span>
 
 
 Now, for an atmosphere so atmospheric as that the obvious religion
@@ -7805,7 +7805,7 @@ Non insisterei ovunque nel sostituire, alla rispettabile vecchia teoria della Ri
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_18" data-title="GKC All is Grist — Chapter 1 (part 18)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_18" data-title="GKC All is Grist — Chapter 1 (part 18)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/nature_vs_civilization,concept/critique_of_progress,concept/crime_and_punishment,form/essay,character/rousseau"></span>
 
 
 Anyhow, there is something to be said for this theory of the periodical
@@ -7947,7 +7947,7 @@ Ma è davvero vero, ahimè!, che ho mancato di seguire adeguatamente lo sviluppo
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_19" data-title="GKC All is Grist — Chapter 1 (part 19)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_19" data-title="GKC All is Grist — Chapter 1 (part 19)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/horse,concept/history,form/history"></span>
 
 
 There is something in the plan of the idea that is straight like a
@@ -8078,7 +8078,7 @@ Cominciamo con un'inezia che non ha la minima importanza. Egli amava discutere d
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_20" data-title="GKC All is Grist — Chapter 1 (part 20)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_20" data-title="GKC All is Grist — Chapter 1 (part 20)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/dreams,motif/fire,motif/well,concept/imagination,concept/paradox,concept/truth"></span>
 
 
 And that is what is the matter with the modern man who says,
@@ -8198,7 +8198,7 @@ XVIII. Sui brividi della noia
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_21" data-title="GKC All is Grist — Chapter 1 (part 21)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_21" data-title="GKC All is Grist — Chapter 1 (part 21)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dance,motif/night,motif/road,motif/time,concept/despair,concept/doubt,concept/hope,concept/imagination,concept/imprisonment,concept/individualism,concept/solitude"></span>
 
 
 I can recall in my [[Childhood|childhood]] the continuous excitement of long days
@@ -8309,7 +8309,7 @@ Questo bisogno è un bisogno normale; come gli altri bisogni normali, può esser
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_22" data-title="GKC All is Grist — Chapter 1 (part 22)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_22" data-title="GKC All is Grist — Chapter 1 (part 22)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/jewel,motif/time,concept/education,concept/history,concept/self,form/history"></span>
 
 
 In this connexion, by the way, I must once more express my
@@ -8425,7 +8425,7 @@ Ma nei grandi giorni in cui la Scienza era anche Moda, quando il mondo doveva in
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_23" data-title="GKC All is Grist — Chapter 1 (part 23)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_23" data-title="GKC All is Grist — Chapter 1 (part 23)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/love,motif/soul,concept/truth,form/novel,form/parable,histref/dante,setting/castle"></span>
 
 
 But this wild [[Romance|romance]] of popular science spread wider and wider.
@@ -8546,7 +8546,7 @@ In simili casi, tutti noi non facciamo che raccogliere qua e là piume sparse, c
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_24" data-title="GKC All is Grist — Chapter 1 (part 24)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_24" data-title="GKC All is Grist — Chapter 1 (part 24)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/flowers,motif/garden,motif/love,motif/nightingale,motif/ship,motif/supernatural,motif/well,concept/beauty,concept/imagination,form/comedy,form/epic,form/fragment,form/tragedy,histref/dante,setting/ship,character/beatrice"></span>
 
 
 For the Romantics of the nineteenth century really implied that God
@@ -8661,7 +8661,7 @@ Si può fare qualcosa per arginare, per non dire maledire, il diluvio di Ciarlat
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_25" data-title="GKC All is Grist — Chapter 1 (part 25)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_25" data-title="GKC All is Grist — Chapter 1 (part 25)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/time,motif/well"></span>
 
 
 Quackery is false science; it is everywhere apparent in cheap
@@ -8788,7 +8788,7 @@ Noterete l'assoluto caos di terminologia e di definizione, anche in queste poche
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_26" data-title="GKC All is Grist — Chapter 1 (part 26)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_26" data-title="GKC All is Grist — Chapter 1 (part 26)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/horse,motif/time,concept/doubt,concept/history,concept/truth,form/history,histref/renaissance,character/christ,character/hamlet"></span>
 
 
 XXII.  On a Generally Accepted Mistake
@@ -8917,7 +8917,7 @@ In breve, ci fu un momento, verso la metà dell'Ottocento, che fu la mezzanotte 
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_27" data-title="GKC All is Grist — Chapter 1 (part 27)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_27" data-title="GKC All is Grist — Chapter 1 (part 27)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/death,motif/home,motif/time,motif/well,concept/doubt,concept/grotesque,concept/imagination,concept/original_sin,concept/sublime,form/epic,form/epigram,form/lyric,character/hector,character/ulysses"></span>
 
 
 This particular matter, in which the medieval world differed from
@@ -9036,7 +9036,7 @@ Ma sospetto fortemente che vi sia un crollo improvviso ed enorme nel numero di c
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_28" data-title="GKC All is Grist — Chapter 1 (part 28)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_28" data-title="GKC All is Grist — Chapter 1 (part 28)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/childhood,motif/garden,motif/nature,motif/stars,motif/time,motif/well,motif/wheel,concept/eternity,concept/history,concept/imagination,concept/nature,form/history,histref/christianity,character/chorus"></span>
 
 
 Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of ‘Hellas'.
@@ -9168,7 +9168,7 @@ Sono giusto abbastanza vecchio da ricordare il mondo prima dei telefoni. E ricor
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_29" data-title="GKC All is Grist — Chapter 1 (part 29)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_29" data-title="GKC All is Grist — Chapter 1 (part 29)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/dawn,motif/desire,motif/dreams,motif/garden,motif/love,motif/moon,motif/nature,motif/time,motif/window,concept/doubt,concept/imagination,concept/longing,concept/nature,concept/self,concept/truth,concept/wonder,character/nurse"></span>
 
 
 I have already picked two quarrels with better men than myself,
@@ -9283,7 +9283,7 @@ Non nutro grandi speranze che la mia personale Utopia, l'Utopia della suddivisio
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_30" data-title="GKC All is Grist — Chapter 1 (part 30)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_30" data-title="GKC All is Grist — Chapter 1 (part 30)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/cross,motif/desert,motif/nature,motif/rose,motif/soul,motif/well,concept/body,concept/faith,concept/history,concept/nature,concept/paradox,concept/resurrection,concept/suffering,form/history,histref/christianity,histref/renaissance,setting/desert,setting/egypt,character/apollo,character/aquinas,character/christ,character/diana,character/michael"></span>
 
 
 XXV.  On the [[Renaissance]]
@@ -9421,7 +9421,7 @@ La storia ha molte morali; ma una dev'essere manifesta nella semplice parola che
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_31" data-title="GKC All is Grist — Chapter 1 (part 31)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_31" data-title="GKC All is Grist — Chapter 1 (part 31)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/quest,archetype/artist,archetype/fool,motif/crown,motif/leaves,motif/time,concept/faith,concept/grotesque,concept/imagination,concept/truth,form/parable,histref/dante,histref/renaissance"></span>
 
 
 I would not be provocative, but I think this rather neglected [[Truth|truth]]
@@ -9554,7 +9554,7 @@ Da parte mia, per quanto mi sia concesso qualsiasi quantità di buffoneria, depl
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_32" data-title="GKC All is Grist — Chapter 1 (part 32)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_32" data-title="GKC All is Grist — Chapter 1 (part 32)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/aspiration"></span>
 
 
 The man who has exhibited himself--as in so much of modern prose
@@ -9685,7 +9685,7 @@ Ma se presentiamo esattamente la stessa idea, in una forma presente e pratica, l
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_33" data-title="GKC All is Grist — Chapter 1 (part 33)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_33" data-title="GKC All is Grist — Chapter 1 (part 33)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/nature,motif/time,concept/nature,concept/pride,form/lyric,histref/america,setting/america"></span>
 
 
 I grieve to say that I am not moved to a profound respect or
@@ -9803,7 +9803,7 @@ Naturalmente so che vi sono parecchie cose verso le quali il suo effettivo atteg
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_34" data-title="GKC All is Grist — Chapter 1 (part 34)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_34" data-title="GKC All is Grist — Chapter 1 (part 34)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,motif/childhood,motif/dreams,motif/time,motif/uncanny,concept/ambition,concept/truth,concept/uncanny,concept/vanity,character/helena"></span>
 
 
 For certainly if Napoleon, or some revolutionary soldier nearly as
@@ -9941,7 +9941,7 @@ HO CONOSCIUTO per tutta la vita ciò che si chiama il conflitto fra il [[Romance
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_35" data-title="GKC All is Grist — Chapter 1 (part 35)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_35" data-title="GKC All is Grist — Chapter 1 (part 35)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/childhood,motif/love,motif/rose,motif/time,concept/history,concept/truth,form/fable,form/history,histref/bible,character/queen,character/queen_elizabeth"></span>
 
 
 For instance, it was sentimental gossip that Mary [[Queen]] of Scots
@@ -10079,7 +10079,7 @@ SI OSSERVERÀ che l'Esperienza, un tempo rivendicata dagli anziani, oggi è rive
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_36" data-title="GKC All is Grist — Chapter 1 (part 36)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_36" data-title="GKC All is Grist — Chapter 1 (part 36)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/double,archetype/child,archetype/monster,motif/home,motif/love,motif/road,motif/time,motif/well,form/novel"></span>
 
 
 On the face of it, of course, the whole question is rather a joke;
@@ -10207,7 +10207,7 @@ Ora, se vi è una cosa di cui sono stato certo fin dalla mia adolescenza, e dive
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_37" data-title="GKC All is Grist — Chapter 1 (part 37)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_37" data-title="GKC All is Grist — Chapter 1 (part 37)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/pilgrim,motif/city,motif/hill,motif/spring,motif/well,concept/history,concept/honour,concept/hope,concept/truth,form/history"></span>
 
 
 XXXI.  On Sightseeing
@@ -10323,7 +10323,7 @@ Potremmo porre la questione così: che i due modi di visitare la statua o il san
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_38" data-title="GKC All is Grist — Chapter 1 (part 38)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_38" data-title="GKC All is Grist — Chapter 1 (part 38)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,archetype/pilgrim"></span>
 
 
 But all this is altered, because we have passed from the age
@@ -10449,7 +10449,7 @@ Sembra tanto sensato sostenere che alcuni criminali fanno cattivo uso del pepe q
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_39" data-title="GKC All is Grist — Chapter 1 (part 39)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_39" data-title="GKC All is Grist — Chapter 1 (part 39)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/soul,motif/well,concept/truth,character/satan"></span>
 
 
 By the way, though the point is a parenthesis, what a remarkable
@@ -10565,7 +10565,7 @@ SUPPONGO che la gente andrà avanti fino al giorno del giudizio a dire (come qua
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_40" data-title="GKC All is Grist — Chapter 1 (part 40)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_40" data-title="GKC All is Grist — Chapter 1 (part 40)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent,archetype/lover,motif/time,concept/madness"></span>
 
 
 So far as that is concerned, the facts (as everybody knows, or ought
@@ -10686,7 +10686,7 @@ Ho protestato poco tempo fa contro l'abominevole calunnia di insinuare che la ma
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_41" data-title="GKC All is Grist — Chapter 1 (part 41)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_41" data-title="GKC All is Grist — Chapter 1 (part 41)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/heroism,concept/nationalism_and_patriotism,form/essay,histref/british_empire,setting/canada,character/general_wolfe,character/nelson"></span>
 
 
 XXXIV.  On Thoughts in Canada
@@ -10898,7 +10898,7 @@ inglesi erano re francesi.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_42" data-title="GKC All is Grist — Chapter 1 (part 42)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_42" data-title="GKC All is Grist — Chapter 1 (part 42)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/nature,concept/truth,character/king_john"></span>
 
 
 Now, I do not wish myself to make England and France one nation;
@@ -11138,7 +11138,7 @@ e il peggiore uomo.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_43" data-title="GKC All is Grist — Chapter 1 (part 43)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_43" data-title="GKC All is Grist — Chapter 1 (part 43)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/dance,motif/flag,motif/love,motif/time,motif/well,concept/beauty,concept/body,concept/history,concept/self,concept/truth,form/history,form/novel"></span>
 
 
 Now the Guild method is no more medieval than it is modern, in so far
@@ -11380,7 +11380,7 @@ distinto e insigne.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_44" data-title="GKC All is Grist — Chapter 1 (part 44)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_44" data-title="GKC All is Grist — Chapter 1 (part 44)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/innocent,motif/time"></span>
 
 
 But there is one particular form of this modern simplicity that has
@@ -11634,7 +11634,7 @@ la proprietà o la decenza che neghi.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_45" data-title="GKC All is Grist — Chapter 1 (part 45)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_45" data-title="GKC All is Grist — Chapter 1 (part 45)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/garden,concept/beauty,concept/body,concept/grotesque,concept/humility"></span>
 
 
 This is an obvious example of the modern muddle, but it
@@ -11770,7 +11770,7 @@ XXXVIII.  Su Algernon Charles Swinburne
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="GKC All is Grist — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="GKC All is Grist — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/tyrant,motif/flowers,motif/leaves,motif/memory,motif/nature,motif/spring,motif/well,concept/freedom,concept/nature,concept/suffering,concept/truth,form/essay,histref/christianity,character/edmund"></span>
 
 
 I
@@ -12060,7 +12060,7 @@ siano tutti la stessa cosa.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="GKC All is Grist — Chapter 2" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="GKC All is Grist — Chapter 2" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/tyrant,archetype/villain,motif/crown,motif/dust,motif/love,motif/nature,motif/night,motif/tears,motif/time,concept/despair,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,form/lyric,form/tragedy"></span>
 
 
 II
@@ -12362,7 +12362,7 @@ punto egli non ricevette giustizia — nemmeno la giustizia che condanna.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="GKC All is Grist — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="GKC All is Grist — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/love,form/dirge,form/hymn"></span>
 
 
 III

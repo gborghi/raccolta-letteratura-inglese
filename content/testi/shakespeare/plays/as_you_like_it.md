@@ -1053,7 +1053,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="As You Like It — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="As You Like It — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/animals,motif/blood,motif/home,motif/love,motif/nature,motif/poison,motif/soul,motif/tears,motif/time,motif/well,concept/ambition,concept/education,concept/exile,concept/honour,concept/hope,concept/nature,concept/wonder,setting/court,character/jaques,character/oliver,character/orlando,character/robin_hood,character/rosalind"></span>
 
 
 | Speaker | Line |
@@ -1110,7 +1110,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_1--scene_2" data-title="As You Like It — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_2" data-title="As You Like It — Act I, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/monster,archetype/tyrant,motif/desire,motif/fire,motif/love,motif/nature,motif/rose,motif/silence,motif/soul,motif/tears,motif/time,motif/well,motif/wheel,concept/beauty,concept/faith,concept/fear,concept/friendship,concept/greatness,concept/honour,concept/hope,concept/mercy,concept/nature,concept/poverty,concept/pride,concept/truth,setting/court,character/celia,character/duke_frederick,character/orlando,character/rosalind,character/speed,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1286,7 +1286,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="As You Like It — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="As You Like It — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/innocent,motif/animals,motif/city,motif/desert,motif/jewel,motif/love,motif/seasons,motif/tears,motif/wind,motif/winter,concept/body,concept/exile,concept/melancholy,setting/court,setting/desert,character/duke_senior,character/jaques"></span>
 
 
 | Speaker | Line |
@@ -1307,7 +1307,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="As You Like It — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="As You Like It — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="histref/inquisition,setting/court,character/duke_frederick"></span>
 
 
 | Speaker | Line |
@@ -1322,7 +1322,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="As You Like It — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="As You Like It — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/home,motif/love,motif/memory,motif/night,motif/road,motif/well,motif/winter,concept/fear,concept/truth,character/nurse,character/orlando"></span>
 
 
 | Speaker | Line |
@@ -1342,7 +1342,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="As You Like It — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="As You Like It — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/cross,motif/death,motif/desert,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/courage,concept/nature,setting/desert,character/celia,character/phoebe,character/rosalind,character/silvius,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1388,7 +1388,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_5" data-title="As You Like It — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_5" data-title="As You Like It — Act II, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/desire,motif/sleep,motif/well,motif/winter,concept/ambition,concept/melancholy,setting/egypt,character/jaques"></span>
 
 
 | Speaker | Line |
@@ -1418,7 +1418,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_6" data-title="As You Like It — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_6" data-title="As You Like It — Act II, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="motif/death,motif/desert,motif/grave,motif/well,setting/desert,character/orlando"></span>
 
 
 | Speaker | Line |
@@ -1430,7 +1430,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_2--scene_7" data-title="As You Like It — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_7" data-title="As You Like It — Act II, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/bells,motif/cave,motif/city,motif/clock,motif/desert,motif/love,motif/time,motif/well,motif/wind,motif/winter,concept/body,concept/friendship,concept/history,concept/honour,concept/hope,concept/melancholy,concept/pride,form/history,setting/desert,character/duke_senior,character/jaques,character/nurse,character/orlando"></span>
 
 
 | Speaker | Line |
@@ -1479,7 +1479,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="As You Like It — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="As You Like It — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/villain,motif/nature,motif/well,concept/mercy,concept/nature,concept/revenge,character/duke_frederick,character/oliver"></span>
 
 
 | Speaker | Line |
@@ -1495,7 +1495,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="As You Like It — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="As You Like It — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/lover,motif/clock,motif/desert,motif/desire,motif/fire,motif/jewel,motif/lamb,motif/love,motif/marriage,motif/nature,motif/night,motif/pain,motif/rose,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/faith,concept/hope,concept/longing,concept/madness,concept/melancholy,concept/nature,concept/pride,concept/wonder,setting/court,setting/desert,setting/mountains,character/celia,character/cleopatra,character/helen,character/jaques,character/orlando,character/queen,character/rosalind,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1652,7 +1652,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="As You Like It — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="As You Like It — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/fool,motif/bells,motif/horse,motif/marriage,motif/well,motif/wind,concept/beauty,concept/courage,concept/hope,character/jaques,character/oliver,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1697,7 +1697,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="As You Like It — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="As You Like It — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/lover,motif/desire,motif/horse,motif/love,motif/tears,motif/well,motif/winter,concept/faith,concept/truth,character/celia,character/diana,character/orlando,character/rosalind"></span>
 
 
 | Speaker | Line |
@@ -1733,7 +1733,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_3--scene_5" data-title="As You Like It — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_5" data-title="As You Like It — Act III, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="motif/death,motif/love,motif/nature,motif/time,motif/well,motif/wind,concept/beauty,concept/faith,concept/hope,concept/mercy,concept/nature,concept/poverty,concept/pride,character/celia,character/phoebe,character/rosalind,character/silvius"></span>
 
 
 | Speaker | Line |
@@ -1768,7 +1768,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="As You Like It — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="As You Like It — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/lover,archetype/shadow,motif/clock,motif/death,motif/desire,motif/love,motif/night,motif/sleep,motif/time,motif/well,concept/faith,concept/fear,concept/hope,concept/madness,concept/melancholy,form/blank_verse,character/bottom,character/celia,character/diana,character/jaques,character/nurse,character/orlando,character/rosalind,character/troilus,character/venus"></span>
 
 
 | Speaker | Line |
@@ -1861,7 +1861,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="As You Like It — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="As You Like It — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/home,motif/well,character/jaques"></span>
 
 
 | Speaker | Line |
@@ -1876,7 +1876,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="As You Like It — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="As You Like It — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/fool,archetype/lover,archetype/tyrant,motif/blood,motif/cave,motif/clock,motif/desert,motif/home,motif/love,motif/nature,motif/sleep,motif/tears,motif/well,concept/body,concept/conversion,concept/faith,concept/nature,concept/revenge,setting/desert,character/bottom,character/celia,character/oliver,character/orlando,character/phoebe,character/rosalind,character/silvius"></span>
 
 
 | Speaker | Line |
@@ -1942,7 +1942,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="As You Like It — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="As You Like It — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,motif/death,motif/desire,motif/love,motif/poison,motif/time,motif/well,concept/faith,character/oliver,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -1985,7 +1985,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="As You Like It — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="As You Like It — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/lover,motif/lion,motif/love,motif/marriage,motif/moon,motif/tears,motif/well,concept/faith,concept/poverty,character/oliver,character/orlando,character/phoebe,character/rosalind,character/silvius"></span>
 
 
 | Speaker | Line |
@@ -2041,7 +2041,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="As You Like It — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="As You Like It — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/lover,motif/birds,motif/desire,motif/horse,motif/love,motif/spring,motif/time,motif/well,concept/faith,concept/hope,character/touchstone"></span>
 
 
 | Speaker | Line |
@@ -2065,7 +2065,7 @@ As You Like It
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="As You Like It — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="As You Like It — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/king,motif/blood,motif/cave,motif/cross,motif/crown,motif/dance,motif/death,motif/desire,motif/grave,motif/horse,motif/love,motif/marriage,motif/time,motif/well,motif/winter,concept/body,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/history,concept/honour,concept/hope,concept/madness,concept/revenge,concept/truth,concept/wonder,form/history,form/hymn,setting/court,setting/denmark,character/celia,character/claudius,character/duke_frederick,character/duke_senior,character/gertrude,character/guildenstern,character/hamlet,character/jaques,character/laertes,character/oliver,character/ophelia,character/orlando,character/phoebe,character/polonius,character/rosalind,character/rosencrantz,character/silvius,character/touchstone"></span>
 
 
 | Speaker | Line |

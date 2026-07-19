@@ -15697,7 +15697,7 @@ FINIS.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Mansfield Park — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Mansfield Park — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/love,motif/marriage,motif/time,motif/well,concept/education,concept/greatness,concept/pride,concept/reconciliation,character/bertram,character/maria,character/sir_thomas_bertram"></span>
 
 
 CHAPTER I
@@ -15801,7 +15801,7 @@ interrupted him with a reply to them all, whether stated or not.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Mansfield Park — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Mansfield Park — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/time,motif/well,concept/beauty,concept/charity,concept/education,concept/poverty,concept/truth,setting/london,character/bertram,character/edmund"></span>
 
 
 “My dear Sir Thomas, I perfectly comprehend you, and do justice to the
@@ -15913,7 +15913,7 @@ mention of such a thing she was sure would distract him.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Mansfield Park — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Mansfield Park — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/well,concept/education,concept/fear,concept/hope,character/bertram,character/julia"></span>
 
 
 “Then she had better come to us,” said Lady [[Bertram]], with the utmost
@@ -15991,7 +15991,7 @@ agree with many of her children.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mansfield Park — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Mansfield Park — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/flowers,motif/grave,motif/home,motif/journey,motif/night,motif/silence,motif/sleep,motif/swallow,motif/tears,motif/time,motif/well,concept/beauty,concept/education,concept/fear,concept/longing,concept/union,character/bertram,character/edmund,character/fanny_price,character/julia,character/maria,character/nurse"></span>
 
 
 CHAPTER II
@@ -16104,7 +16104,7 @@ the youngest of the sons, sitting crying on the attic stairs.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mansfield Park — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Mansfield Park — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/love,motif/nature,motif/pain,motif/time,motif/water,concept/fear,concept/nature,setting/russia,character/edmund,character/julia,character/maria"></span>
 
 
 “My dear little cousin,” said he, with all the gentleness of an
@@ -16224,7 +16224,7 @@ strange!—Did you ever hear anything so stupid?”
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mansfield Park — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Mansfield Park — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/night,motif/spring,motif/time,motif/well,concept/beauty,concept/education,concept/fear,concept/friendship,concept/history,concept/honour,concept/humility,concept/indolence,concept/nature,concept/self_knowledge,form/history,setting/oxford,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 “My dear,” their considerate aunt would reply, “it is very bad, but you
@@ -16361,7 +16361,7 @@ except William: her heart was divided between the two.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mansfield Park — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Mansfield Park — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/time,motif/well,concept/conscience,concept/hope,character/bertram,character/edmund"></span>
 
 
 CHAPTER III
@@ -16491,7 +16491,7 @@ her.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mansfield Park — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Mansfield Park — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/horse,motif/love,motif/memory,motif/time,motif/well,concept/hope,character/bertram"></span>
 
 
 “I can say nothing for her manner to you as a [[Child|child]]; but it was the
@@ -16620,7 +16620,7 @@ my sorrows and difficulties as I can.”
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mansfield Park — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Mansfield Park — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/love,motif/nature,motif/time,motif/well,motif/winter,concept/beauty,concept/fear,concept/hope,concept/nature,concept/solitude,concept/wonder,character/bertram,character/edmund"></span>
 
 
 “Then you will not mind living by yourself quite [[Alone|alone]]?”
@@ -16763,7 +16763,7 @@ her down as a hypocrite.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mansfield Park — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Mansfield Park — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/night,motif/spring,motif/time,motif/well,motif/winter,concept/beauty,concept/hope,concept/vanity,character/bertram,character/edmund"></span>
 
 
 CHAPTER IV
@@ -16870,7 +16870,7 @@ waiting till September?
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mansfield Park — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Mansfield Park — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/autumn,motif/home,motif/horse,motif/love,motif/marriage,motif/road,motif/time,motif/well,motif/winter,concept/beauty,concept/doubt,concept/pride,character/bertram,character/edmund,character/maria,character/maria_bertram"></span>
 
 
 Though [[Edmund]] was much more displeased with his aunt than with his
@@ -16969,7 +16969,7 @@ present.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mansfield Park — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Mansfield Park — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/marriage,motif/summer,motif/time,motif/well,concept/beauty,setting/london,character/bertram,character/edmund,character/mary_crawford"></span>
 
 
 [[Edmund]] was the only one of the family who could see a fault in the
@@ -17107,7 +17107,7 @@ advantage.”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mansfield Park — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Mansfield Park — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/hill,motif/love,motif/marriage,motif/nature,motif/well,concept/beauty,concept/honour,concept/imagination,concept/nature,character/bertram,character/julia,character/maria"></span>
 
 
 CHAPTER V
@@ -17238,7 +17238,7 @@ and we will cure you.”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mansfield Park — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Mansfield Park — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/time,motif/well,concept/beauty,setting/london,character/bertram,character/edmund"></span>
 
 
 The Crawfords, without wanting to be cured, were very willing to stay.
@@ -17352,7 +17352,7 @@ plain, has heard the story.”
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mansfield Park — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Mansfield Park — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/truth,concept/vanity,character/bertram,character/edmund"></span>
 
 
 “And a very pretty story it is, and with more [[Truth|truth]] in it, I dare say,
@@ -17413,7 +17413,7 @@ Mrs. Grant, and Fanny stays at [[Home|home]] with _her_.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mansfield Park — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Mansfield Park — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/garden,motif/prison,motif/spring,motif/time,motif/well,concept/doubt,concept/hope,concept/melancholy,concept/truth,concept/wonder,setting/court,character/bertram,character/bottom,character/edmund"></span>
 
 
 CHAPTER VI
@@ -17526,7 +17526,7 @@ begun in dilapidations, and their habits were totally dissimilar.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mansfield Park — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Mansfield Park — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/hill,motif/time,motif/water,motif/well,concept/beauty,concept/despair,concept/doubt,concept/education,concept/hope,concept/truth,setting/london,character/bertram,character/edmund"></span>
 
 
 After a short interruption Mr. Rushworth began again. “[[smith|Smith]]’s place is
@@ -17648,7 +17648,7 @@ the village. I might as [[Well|well]] have asked for porters and a handbarrow.�
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mansfield Park — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Mansfield Park — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/grave,motif/home,motif/horse,motif/love,motif/nature,motif/silence,motif/tears,motif/time,motif/well,concept/fear,concept/nature,setting/london,character/bertram,character/edmund,character/julia"></span>
 
 
 “You would find it difficult, I dare say, just now, in the middle of a
@@ -17770,7 +17770,7 @@ like to have been busy much longer.”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mansfield Park — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Mansfield Park — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,concept/doubt,concept/honour,character/bertram,character/edmund,character/julia"></span>
 
 
 “You are fond of the sort of thing?” said [[Julia]].
@@ -17823,7 +17823,7 @@ who heard it all and said nothing.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mansfield Park — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Mansfield Park — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/memory,motif/nature,motif/pain,motif/summer,motif/time,motif/water,motif/well,motif/window,concept/beauty,concept/nature,concept/wonder,character/edmund"></span>
 
 
 CHAPTER VII
@@ -17958,7 +17958,7 @@ asking her leave for it.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mansfield Park — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mansfield Park — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/hill,motif/home,motif/horse,motif/nature,motif/road,motif/rose,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/hope,concept/imagination,concept/nature,concept/wonder,form/essay,character/edmund"></span>
 
 
 Miss Crawford made her first [[Essay|essay]] with great credit to herself, and no
@@ -18058,7 +18058,7 @@ in praising it.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mansfield Park — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Mansfield Park — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/night,motif/stars,motif/time,motif/well,concept/doubt,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 “I was sure she would ride [[Well|well]],” said [[Julia]]; “she has the make for it.
@@ -18183,7 +18183,7 @@ forget to have mine filled.”
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mansfield Park — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Mansfield Park — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/pain,motif/swallow,motif/tears,motif/time,motif/well,concept/wonder,character/bertram,character/edmund,character/julia"></span>
 
 
 “She has got it,” said Lady [[Bertram]]; “she has had it ever since she
@@ -18268,7 +18268,7 @@ hardly know how to support herself.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mansfield Park — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Mansfield Park — Chapter 8 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/truth,character/bertram,character/edmund,character/fanny_price,character/julia,character/maria"></span>
 
 
 CHAPTER VIII
@@ -18382,7 +18382,7 @@ herself.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mansfield Park — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Mansfield Park — Chapter 8 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/desire,motif/hill,motif/home,motif/nature,motif/pain,motif/road,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 “There can be no objection, then, to Fanny’s going with you; there can
@@ -18498,7 +18498,7 @@ more than once.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mansfield Park — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Mansfield Park — Chapter 8 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/hill,motif/road,motif/well,concept/honour,concept/pride,concept/vanity,setting/court,character/bertram,character/julia"></span>
 
 
 For the first seven miles Miss [[Bertram]] had very little real comfort:
@@ -18569,7 +18569,7 @@ entrance.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mansfield Park — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Mansfield Park — Chapter 9 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/grave,motif/memory,motif/night,motif/prayer,motif/rose,motif/time,motif/well,motif/wind,motif/window,concept/history,concept/imagination,concept/melancholy,form/history,character/bertram,character/edmund,character/henry_crawford"></span>
 
 
 CHAPTER IX
@@ -18684,7 +18684,7 @@ more harm than good in the custom.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mansfield Park — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mansfield Park — Chapter 9 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/lover,motif/nature,motif/silence,motif/time,concept/doubt,concept/nature,concept/self,form/sketch,setting/oxford,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 “At any rate, it is safer to leave people to their own devices on such
@@ -18803,7 +18803,7 @@ number of our plants, and here are the curious pheasants.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mansfield Park — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Mansfield Park — Chapter 9 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/love,motif/time,motif/well,concept/beauty,concept/education,concept/hope,concept/self,setting/london,character/bertram,character/edmund,character/julia"></span>
 
 
 “Query,” said Mr. Crawford, looking round him, “whether we may not find
@@ -18933,7 +18933,7 @@ to be, so are the rest of the nation.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mansfield Park — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Mansfield Park — Chapter 9 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/great_house,motif/horse,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/honour,concept/hope,concept/nature,concept/wonder,setting/oxford,character/bottom,character/edmund"></span>
 
 
 “Certainly,” said Fanny, with gentle earnestness.
@@ -19065,7 +19065,7 @@ and listened till all sound of them had ceased.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mansfield Park — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Mansfield Park — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/desire,motif/memory,motif/silence,motif/summer,motif/well,concept/doubt,concept/solitude,concept/truth,character/bertram,character/edmund,character/henry_crawford,character/julia"></span>
 
 
 CHAPTER X
@@ -19196,7 +19196,7 @@ have the little wood all to herself. She could almost have thought that
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mansfield Park — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Mansfield Park — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/pain,motif/silence,motif/time,motif/well,concept/history,concept/wonder,form/history,character/bertram,character/bottom,character/edmund,character/julia,character/maria"></span>
 
 
 She was again roused from disagreeable musings by sudden footsteps:
@@ -19330,7 +19330,7 @@ depression, as they prepared by general agreement to return to the
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mansfield Park — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Mansfield Park — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/nature,motif/pain,motif/tears,motif/time,motif/well,concept/hope,concept/nature,character/bertram,character/bottom,character/julia,character/maria"></span>
 
 
 On reaching the [[Bottom|bottom]] of the steps to the terrace, Mrs. Rushworth and
@@ -19430,7 +19430,7 @@ almost all.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mansfield Park — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Mansfield Park — Chapter 11 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/lover,motif/marriage,motif/well,motif/window,concept/doubt,concept/heroism,concept/hope,concept/madness,concept/temptation,concept/wonder,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 CHAPTER XI
@@ -19557,7 +19557,7 @@ sincerity or good intentions in the choice of his.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Mansfield Park — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Mansfield Park — Chapter 11 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/well,motif/window,concept/ambition,concept/body,concept/doubt,concept/indolence,concept/nature,concept/self,concept/suffering,concept/truth,concept/wonder,character/bertram,character/edmund,character/sunday"></span>
 
 
 “Oh! no [[Doubt|doubt]] he is very sincere in preferring an income ready made, to
@@ -19700,7 +19700,7 @@ threats of catching cold.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Mansfield Park — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Mansfield Park — Chapter 12 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/time,motif/well,concept/beauty,concept/jealousy,concept/longing,concept/vanity,concept/wonder,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 CHAPTER XII
@@ -19821,7 +19821,7 @@ above-mentioned ladies was forced on her—
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mansfield Park — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Mansfield Park — Chapter 12 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/lover,motif/dance,motif/death,motif/horse,motif/love,motif/nature,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,concept/wonder,histref/america,setting/america,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 “I think, ma’am,” said Mrs. Norris, her eyes directed towards Mr.
@@ -19930,7 +19930,7 @@ head, nothing can stop her.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Mansfield Park — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Mansfield Park — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/death,motif/love,motif/storm,motif/time,motif/well,concept/friendship,form/comedy,form/tragedy,character/agatha,character/bertram,character/henry_crawford,character/richard_iii,character/shylock"></span>
 
 
 CHAPTER XIII
@@ -20035,7 +20035,7 @@ among ourselves we should want nothing more.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Mansfield Park — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Mansfield Park — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/time,motif/well,concept/body,concept/education,form/comedy,form/tragedy,character/bertram,character/edmund,character/henry_crawford,character/julia,character/julius_caesar,character/maria"></span>
 
 
 “I believe we must be satisfied with _less_,” said [[Maria]]. “There would
@@ -20152,7 +20152,7 @@ Christmas holidays.”
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="Mansfield Park — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="Mansfield Park — Chapter 13 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/nature,motif/well,concept/hope,concept/nature,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria,character/mary_crawford"></span>
 
 
 “It was a very different thing. You must see the difference yourself.
@@ -20261,7 +20261,7 @@ the project.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Mansfield Park — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Mansfield Park — Chapter 14 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/storm,motif/time,motif/well,motif/wheel,concept/ambition,concept/hope,concept/longing,form/comedy,form/tragedy,character/agatha,character/bertram,character/edmund,character/hamlet,character/henry_crawford,character/julia,character/macbeth,character/maria,character/mary_crawford,character/othello"></span>
 
 
 CHAPTER XIV
@@ -20369,7 +20369,7 @@ be scrupulous on Miss Crawford’s account.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Mansfield Park — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Mansfield Park — Chapter 14 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/nature,motif/prison,motif/silence,motif/well,concept/hope,concept/nature,form/comedy,form/tragedy,character/agatha,character/bertram,character/henry_crawford,character/julia,character/maria"></span>
 
 
 “This is not behaving [[Well|well]] by the absent,” said she. “Here are not
@@ -20481,7 +20481,7 @@ know what to say. Tom [[Bertram]] began again—
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Mansfield Park — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Mansfield Park — Chapter 14 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/time,concept/solitude,form/comedy,character/agatha,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 “Miss Crawford must be Amelia. She will be an excellent Amelia.”
@@ -20528,7 +20528,7 @@ remonstrance which [[Edmund]] would certainly make.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Mansfield Park — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Mansfield Park — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/leaves,motif/time,motif/well,concept/hope,concept/wonder,setting/london,character/agatha,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 CHAPTER XV
@@ -20646,7 +20646,7 @@ Thomas would not like it.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Mansfield Park — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Mansfield Park — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/well,concept/courage,concept/hope,concept/melancholy,concept/truth,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 “There, my dear, do you hear what [[Edmund]] says?”
@@ -20757,7 +20757,7 @@ brightened look; “Anhalt is a heavy part.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Mansfield Park — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Mansfield Park — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/cross,motif/fire,motif/tears,motif/well,character/bertram,character/edmund,character/edmund_bertram,character/maria"></span>
 
 
 “_The_ _Count_ has two-and-forty speeches,” returned Mr. Rushworth,
@@ -20899,7 +20899,7 @@ favour.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_04" data-title="Mansfield Park — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_04" data-title="Mansfield Park — Chapter 15 (part 4)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/horse,motif/love,motif/well,character/bertram,character/edmund,character/julia,character/maria,character/oliver"></span>
 
 
 Fanny did not [[Love|love]] Miss Crawford; but she felt very much obliged to her
@@ -20956,7 +20956,7 @@ and by no means what I expected.”
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Mansfield Park — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Mansfield Park — Chapter 16 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/autumn,motif/cave,motif/fire,motif/nature,motif/ship,motif/spring,motif/tears,motif/time,motif/window,motif/winter,concept/charity,concept/fear,concept/nature,concept/suffering,concept/truth,form/sketch,setting/italy,setting/ship,character/bertram,character/bottom,character/edmund,character/julia,character/maria,character/maria_bertram"></span>
 
 
 CHAPTER XVI
@@ -21071,7 +21071,7 @@ to be laid. Her eyes brightened at the sight of [[Edmund]].
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Mansfield Park — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Mansfield Park — Chapter 16 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="topos/quest,archetype/fool,motif/night,motif/road,motif/spring,motif/well,concept/conscience,concept/doubt,character/edmund"></span>
 
 
 “Can I speak with you, Fanny, for a few minutes?” said he.
@@ -21208,7 +21208,7 @@ reach; and if at last obliged to yield—no matter—it was all misery now.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Mansfield Park — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Mansfield Park — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/crown,motif/grave,motif/home,motif/love,motif/nature,motif/night,motif/silence,motif/time,motif/well,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/solitude,concept/suffering,concept/wonder,form/parody,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria,character/maria_bertram"></span>
 
 
 CHAPTER XVII
@@ -21415,7 +21415,7 @@ watching the behaviour, or guarding the happiness of his daughters.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_01" data-title="Mansfield Park — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_01" data-title="Mansfield Park — Chapter 18 (part 1)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="archetype/innocent,motif/memory,motif/soul,motif/time,motif/well,concept/jealousy,character/bertram,character/edmund,character/henry_crawford,character/maria"></span>
 
 
 CHAPTER XVIII
@@ -21518,7 +21518,7 @@ _you_, we should not get on very fast.”
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_02" data-title="Mansfield Park — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_02" data-title="Mansfield Park — Chapter 18 (part 2)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/noon,motif/silence,motif/time,motif/well,concept/courage,concept/longing,concept/wonder,character/agatha,character/bertram,character/edmund,character/henry_crawford"></span>
 
 
 Fanny took the work very quietly, without attempting any defence; but
@@ -21629,7 +21629,7 @@ a pause, and the entrance of [[Edmund]], the next moment, suspended it all.
 
 
 
-<span class="atom-split" data-atom="chapter_18--part_03" data-title="Mansfield Park — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_18--part_03" data-title="Mansfield Park — Chapter 18 (part 3)" data-chapter="Chapter 18" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/conscience,concept/despair,concept/nature,concept/suffering,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 Surprise, consciousness, and pleasure appeared in each of the three on
@@ -21730,7 +21730,7 @@ is come! He is in the hall at this moment.”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Mansfield Park — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Mansfield Park — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/time,concept/beauty,concept/courage,concept/doubt,concept/hope,concept/jealousy,concept/mercy,concept/self,concept/suffering,character/agatha,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 CHAPTER XIX
@@ -21849,7 +21849,7 @@ unsuspected vexation was probably ready to burst on him.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Mansfield Park — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Mansfield Park — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/fire,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/hope,character/bertram,character/edmund"></span>
 
 
 Sir Thomas was indeed the life of the party, who at his suggestion now
@@ -21958,7 +21958,7 @@ soon.”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Mansfield Park — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Mansfield Park — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/history,form/history,character/bertram,character/edmund,character/henry_crawford,character/maria,character/sir_thomas_bertram"></span>
 
 
 For the present the danger was over, and Fanny’s sick feelings
@@ -22066,7 +22066,7 @@ sort of thing in us formerly. It was like treading old ground again.”
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Mansfield Park — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Mansfield Park — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/time,motif/well,concept/honour,concept/jealousy,concept/truth,character/edmund"></span>
 
 
 Mr. Yates took the subject from his friend as soon as possible, and
@@ -22149,7 +22149,7 @@ towards preserving that good opinion a little longer.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Mansfield Park — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Mansfield Park — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/animals,motif/frost,motif/hill,motif/love,motif/snow,motif/time,motif/winter,concept/fear,character/bertram,character/bottom,character/edmund,character/maria"></span>
 
 
 CHAPTER XX
@@ -22250,7 +22250,7 @@ visit.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Mansfield Park — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Mansfield Park — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/home,motif/night,motif/time,concept/hope,concept/suffering,character/bertram,character/henry_crawford,character/julia,character/maria"></span>
 
 
 “I [[Hope|hope]] we shall always think the acquaintance worth any trouble that
@@ -22351,7 +22351,7 @@ should not be lost by _his_ absence.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_03" data-title="Mansfield Park — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_03" data-title="Mansfield Park — Chapter 20 (part 3)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/time,motif/well,concept/fear,concept/pride,concept/revenge,concept/self,concept/solitude,concept/vanity,concept/wonder,setting/london,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 “From Bath, Norfolk, [[London]], York, wherever I may be,” said he; “I will
@@ -22434,7 +22434,7 @@ happened to be particularly in want of green baize.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Mansfield Park — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Mansfield Park — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/home,motif/love,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/hope,concept/truth,concept/wonder,character/edmund"></span>
 
 
 CHAPTER XXI
@@ -22551,7 +22551,7 @@ his side.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Mansfield Park — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Mansfield Park — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/grave,motif/home,motif/love,motif/marriage,motif/pain,motif/time,motif/well,motif/winter,concept/doubt,concept/hope,concept/pride,concept/revenge,concept/self,concept/temptation,concept/truth,concept/wonder,character/bertram,character/henry_crawford,character/maria"></span>
 
 
 “She must know herself too secure of the regard of all the rest of
@@ -22658,7 +22658,7 @@ the comfort that [[Pride|pride]] and [[Self|self]] [[Revenge|revenge]] could giv
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Mansfield Park — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Mansfield Park — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/spring,motif/summer,motif/time,motif/winter,setting/london,character/henry_crawford,character/julia,character/maria"></span>
 
 
 [[Henry Crawford]] had destroyed her happiness, but he should not know that
@@ -22745,7 +22745,7 @@ affectionate regret which they had never done much to deserve!
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Mansfield Park — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Mansfield Park — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/desire,motif/home,motif/leaves,motif/time,motif/window,concept/self,concept/wonder,character/bertram,character/edmund,character/mary_crawford"></span>
 
 
 CHAPTER XXII
@@ -22872,7 +22872,7 @@ walk for warmth.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Mansfield Park — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Mansfield Park — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/home,motif/memory,motif/nature,motif/summer,motif/time,motif/well,concept/beauty,concept/heroism,concept/nature,concept/truth,concept/wonder,setting/court,character/bertram,character/edmund"></span>
 
 
 “This is pretty, very pretty,” said Fanny, looking around her as they
@@ -22986,7 +22986,7 @@ they can begin?”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Mansfield Park — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Mansfield Park — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/frost,motif/time,motif/well,motif/wind,motif/window,concept/doubt,concept/friendship,concept/hope,concept/poverty,concept/suffering,character/bertram,character/edmund,character/sunday"></span>
 
 
 [[Edmund]] met them with particular pleasure. It was the first [[Time|time]] of his
@@ -23108,7 +23108,7 @@ they are of a different character.”
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_04" data-title="Mansfield Park — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_04" data-title="Mansfield Park — Chapter 22 (part 4)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/time,motif/well,concept/courage,concept/self,character/edmund,character/edmund_bertram"></span>
 
 
 A look of consciousness as he spoke, and what seemed a consciousness of
@@ -23170,7 +23170,7 @@ any other.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Mansfield Park — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Mansfield Park — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/pain,motif/time,motif/well,concept/hope,concept/self,character/bertram,character/edmund,character/julia"></span>
 
 
 CHAPTER XXIII
@@ -23307,7 +23307,7 @@ had been at [[Home|home]], you would not have been asked at all.”
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Mansfield Park — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Mansfield Park — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/night,motif/tears,motif/time,motif/well,motif/winter,concept/fear,concept/hope,character/bertram,character/edmund,character/julia"></span>
 
 
 Mrs. Norris had now so ingeniously done away all Mrs. Grant’s part of
@@ -23449,7 +23449,7 @@ not have him speak to her.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Mansfield Park — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Mansfield Park — Chapter 23 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/time,motif/well,motif/wind,concept/despair,concept/doubt,concept/honour,concept/hope,concept/nature,character/bertram,character/edmund,character/henry_crawford,character/julia,character/maria"></span>
 
 
 Her two absent cousins, especially [[Maria]], were much in her thoughts on
@@ -23608,7 +23608,7 @@ should do her no harm.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Mansfield Park — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Mansfield Park — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/grave,motif/love,motif/night,motif/soul,motif/well,concept/beauty,concept/body,concept/despair,concept/truth,character/fanny_price,character/henry_crawford"></span>
 
 
 CHAPTER XXIV
@@ -23721,7 +23721,7 @@ it was impossible not to be civil to him in return.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Mansfield Park — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Mansfield Park — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/love,motif/nature,motif/pain,motif/ship,motif/time,motif/well,concept/doubt,concept/nature,concept/self,setting/ship,character/edmund,character/fanny_price"></span>
 
 
 A very few days were enough to effect this; and at the end of those few
@@ -23832,7 +23832,7 @@ increase.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Mansfield Park — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Mansfield Park — Chapter 24 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="topos/quest,motif/horse,motif/well,concept/courage,concept/doubt,concept/endurance,concept/heroism,concept/self,concept/wonder,character/bertram,character/edmund,character/henry_crawford"></span>
 
 
 An affection so amiable was advancing each in the opinion of all who
@@ -23916,7 +23916,7 @@ entirely so long as he remained in Northamptonshire.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Mansfield Park — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Mansfield Park — Chapter 25 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/autumn,motif/home,motif/horse,motif/silence,motif/time,motif/well,concept/honour,concept/hope,character/bertram,character/fanny_price,character/henry_crawford"></span>
 
 
 CHAPTER XXV
@@ -24038,7 +24038,7 @@ knoll and church. I found myself, in short, in Thornton Lacey.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Mansfield Park — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Mansfield Park — Chapter 25 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/garden,motif/memory,motif/road,motif/well,concept/beauty,concept/doubt,concept/education,concept/hope,character/bertram,character/edmund,character/queen"></span>
 
 
 “It sounds like it,” said [[Edmund]]; “but which way did you turn after
@@ -24155,7 +24155,7 @@ will certainly be yours.”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Mansfield Park — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Mansfield Park — Chapter 25 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/spring,motif/time,motif/winter,concept/friendship,concept/hope,character/bertram,character/edmund,character/henry_crawford"></span>
 
 
 “And Fanny had much rather it were William’s,” said [[Edmund]], smiling at
@@ -24264,7 +24264,7 @@ may occur to you this [[Spring|spring]].”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_04" data-title="Mansfield Park — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_04" data-title="Mansfield Park — Chapter 25 (part 4)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/grave,motif/home,motif/nature,motif/night,motif/time,motif/well,concept/hope,concept/nature,concept/suffering,character/edmund,character/henry_crawford,character/sunday"></span>
 
 
 “We shall be the losers,” continued Sir Thomas. “His going, though only
@@ -24424,7 +24424,7 @@ obliged to be indebted to his more prominent attention.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Mansfield Park — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Mansfield Park — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/desire,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/conscience,concept/doubt,concept/hope,concept/unattainable,setting/london,character/bertram,character/edmund,character/julia"></span>
 
 
 CHAPTER XXVI
@@ -24553,7 +24553,7 @@ demanding such sacrifices of situation and employment on his side as
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Mansfield Park — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Mansfield Park — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/chains,motif/cross,motif/journey,motif/love,motif/night,motif/well,concept/fear,concept/hope,concept/longing,concept/pride,setting/london,character/edmund"></span>
 
 
 The issue of all depended on one question. Did she [[Love|love]] him [[Well|well]] enough
@@ -24665,7 +24665,7 @@ were.”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Mansfield Park — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Mansfield Park — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/home,motif/well"></span>
 
 
 “You must think of somebody else too, when you wear that necklace,”
@@ -24729,7 +24729,7 @@ treading that path before.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Mansfield Park — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Mansfield Park — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/desire,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/time,motif/well,concept/doubt,concept/friendship,concept/history,concept/hope,concept/longing,concept/nature,form/history,character/edmund"></span>
 
 
 CHAPTER XXVII
@@ -24850,7 +24850,7 @@ I have on earth.”
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Mansfield Park — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Mansfield Park — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/journey,motif/love,motif/nature,motif/night,motif/tears,motif/time,concept/ambition,concept/deception,concept/heroism,concept/hope,concept/humility,concept/imagination,concept/nature,concept/self,setting/london,character/bertram,character/edmund,character/queen"></span>
 
 
 He was gone as he spoke; and Fanny remained to tranquillise herself as
@@ -24969,7 +24969,7 @@ share in it.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Mansfield Park — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Mansfield Park — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/cross,motif/dance,motif/home,motif/soul,motif/time,motif/well,concept/conscience,concept/education,concept/fear,concept/hope,character/bertram,character/edmund"></span>
 
 
 As she walked slowly upstairs she thought of yesterday; it had been
@@ -25118,7 +25118,7 @@ could do themselves.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_01" data-title="Mansfield Park — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_01" data-title="Mansfield Park — Chapter 28 (part 1)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/time,motif/well,concept/beauty,concept/honour,concept/hope,concept/longing,character/bertram,character/edmund,character/mary_crawford"></span>
 
 
 CHAPTER XXVIII
@@ -25227,7 +25227,7 @@ of each, they followed with the rest.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_02" data-title="Mansfield Park — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_02" data-title="Mansfield Park — Chapter 28 (part 2)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/autumn,motif/dance,motif/desire,motif/home,motif/night,motif/silence,motif/time,motif/well,concept/beauty,concept/education,concept/honour,concept/self,character/bertram,character/edmund,character/julia"></span>
 
 
 Fanny’s heart sunk, but there was no leisure for thinking long even of
@@ -25362,7 +25362,7 @@ that Sir Thomas had been bringing up no wife for his younger son.
 
 
 
-<span class="atom-split" data-atom="chapter_28--part_03" data-title="Mansfield Park — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_28--part_03" data-title="Mansfield Park — Chapter 28 (part 3)" data-chapter="Chapter 28" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/desire,motif/love,motif/sleep,motif/tears,motif/time,motif/well,concept/hope,concept/suffering,concept/wonder,character/edmund"></span>
 
 
 The evening had afforded [[Edmund]] little pleasure. Miss Crawford had been
@@ -25451,7 +25451,7 @@ by shewing her persuadableness.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Mansfield Park — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Mansfield Park — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/nature,motif/night,motif/time,motif/well,motif/winter,concept/hope,concept/imagination,concept/melancholy,concept/nature,concept/solitude,character/bertram,character/edmund,character/julia,character/maria,character/nurse"></span>
 
 
 CHAPTER XXIX
@@ -25565,7 +25565,7 @@ we did, for now the others are away we feel the good of it.”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Mansfield Park — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Mansfield Park — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/great_house,motif/home,motif/love,motif/snow,motif/time,motif/well,concept/hope,concept/jealousy,concept/longing,setting/london,character/bertram,character/edmund,character/maria,character/sunday"></span>
 
 
 Sir Thomas immediately improved this compliment by adding, “Very true.
@@ -25671,7 +25671,7 @@ Is it Christmas gaieties that he is staying for?”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Mansfield Park — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Mansfield Park — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/time,motif/well,concept/beauty,concept/doubt,concept/wonder,character/bertram"></span>
 
 
 “I only heard a part of the letter; it was to my uncle; but I believe
@@ -25755,7 +25755,7 @@ he is,” and turned the subject.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Mansfield Park — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Mansfield Park — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/home,motif/love,motif/marriage,motif/mirror,motif/silence,motif/soul,motif/time,motif/well,concept/ambition,concept/beauty,concept/doubt,concept/faith,concept/honour,concept/imagination,setting/london,character/bertram,character/edmund,character/fanny_price,character/henry_crawford,character/sir_thomas_bertram"></span>
 
 
 CHAPTER XXX
@@ -25891,7 +25891,7 @@ principled and religious.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Mansfield Park — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Mansfield Park — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/silence,motif/time,motif/well,concept/honour,setting/london,character/edmund,character/fanny_price,character/julia"></span>
 
 
 “I could so wholly and absolutely confide in her,” said he; “and _that_
@@ -26015,7 +26015,7 @@ in the world, to what I _shall_ do?”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Mansfield Park — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Mansfield Park — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/desire,motif/hill,motif/journey,motif/time,concept/doubt,concept/hope,setting/london,character/bertram,character/henry_crawford"></span>
 
 
 CHAPTER XXXI
@@ -26145,7 +26145,7 @@ stand. He pressed for an answer.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Mansfield Park — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Mansfield Park — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/desire,motif/pain,motif/time,motif/well,concept/despair,concept/doubt,concept/fear,concept/friendship,character/bertram"></span>
 
 
 “No, no, no!” she cried, hiding her face. “This is all nonsense. Do not
@@ -26266,7 +26266,7 @@ glad she had contributed her mite towards it.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Mansfield Park — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Mansfield Park — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/nature,motif/pain,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/nature,setting/london,character/bertram"></span>
 
 
 “I am glad you gave him something considerable,” said Lady [[Bertram]],
@@ -26391,7 +26391,7 @@ neither imposed on nor gratified by Mr. Crawford’s attentions.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Mansfield Park — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Mansfield Park — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/lover,motif/fire,motif/journey,motif/night,motif/snow,motif/time,motif/well,concept/hope"></span>
 
 
 CHAPTER XXXII
@@ -26522,7 +26522,7 @@ my room, and hoping to see you there.”
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Mansfield Park — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Mansfield Park — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/silence,motif/time,motif/well,concept/truth,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 There was a look, a start, an exclamation on hearing this, which
@@ -26655,7 +26655,7 @@ was not.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Mansfield Park — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Mansfield Park — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/love,motif/marriage,motif/tears,motif/time,motif/well,concept/hope,concept/self,character/julia,character/maria"></span>
 
 
 Sir Thomas came towards the table where she sat in trembling
@@ -26757,7 +26757,7 @@ cry over what had passed, with very wretched feelings.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_04" data-title="Mansfield Park — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_04" data-title="Mansfield Park — Chapter 32 (part 4)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/pain,motif/tears,motif/time,motif/well,concept/conscience,concept/suffering,character/bertram"></span>
 
 
 Her mind was all disorder. The past, present, future, everything was
@@ -26873,7 +26873,7 @@ dinner.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_05" data-title="Mansfield Park — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_05" data-title="Mansfield Park — Chapter 32 (part 5)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="concept/hope,concept/wonder,setting/london"></span>
 
 
 It was over, however, at last; and the evening set in with more
@@ -26922,7 +26922,7 @@ herself, as she anticipated, in another minute [[Alone|alone]] with Mr. Crawford
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Mansfield Park — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Mansfield Park — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/despair,concept/education,concept/hope,concept/nature,concept/self,concept/truth,concept/vanity,character/henry_crawford,character/maria_bertram"></span>
 
 
 CHAPTER XXXIII
@@ -27035,7 +27035,7 @@ could have engaged them.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Mansfield Park — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Mansfield Park — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="archetype/lover,motif/fire,motif/leaves,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/nature,concept/truth,concept/wonder"></span>
 
 
 So thought Fanny, in good [[Truth|truth]] and sober sadness, as she sat musing
@@ -27146,7 +27146,7 @@ things.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Mansfield Park — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Mansfield Park — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/silence,motif/time,motif/well,concept/beauty,character/bertram,character/julia,character/maria"></span>
 
 
 Mrs. Norris, however, relieved him. He pressed for the strictest
@@ -27213,7 +27213,7 @@ puppy.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Mansfield Park — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Mansfield Park — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/leaves,motif/time,motif/well,concept/beauty,concept/courage,concept/history,concept/hope,concept/melancholy,concept/pride,concept/self,concept/wonder,form/history,character/bertram,character/buckingham,character/cardinal_wolsey,character/edmund,character/henry_crawford,character/queen"></span>
 
 
 CHAPTER XXXIV
@@ -27342,7 +27342,7 @@ as she had been used to suffer in seeing him on the stage with Miss
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Mansfield Park — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Mansfield Park — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/fire,motif/nature,motif/time,motif/well,concept/doubt,concept/honour,concept/nature,character/bertram,character/edmund"></span>
 
 
 [[Edmund]] watched the progress of her attention, and was amused and
@@ -27457,7 +27457,7 @@ sentiment and feeling, and seriousness on serious subjects.
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Mansfield Park — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Mansfield Park — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="archetype/lover,motif/nature,motif/prayer,motif/silence,motif/spring,motif/well,concept/fear,concept/honour,concept/longing,concept/nature,concept/wonder,setting/london,character/bertram,character/edmund"></span>
 
 
 “Our liturgy,” observed Crawford, “has beauties, which not even a
@@ -27571,7 +27571,7 @@ a trifle, for she might always be considered as only half-awake, and
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_04" data-title="Mansfield Park — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_04" data-title="Mansfield Park — Chapter 34 (part 4)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,concept/body,concept/hope,concept/imagination,concept/imprisonment,concept/wonder,character/edmund"></span>
 
 
 “[[Well]],” said Crawford, after a course of rapid questions and reluctant
@@ -27621,7 +27621,7 @@ to without some profit to the speaker.
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Mansfield Park — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Mansfield Park — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/time,motif/well,concept/hope,concept/self,character/edmund"></span>
 
 
 CHAPTER XXXV
@@ -27752,7 +27752,7 @@ indifference.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Mansfield Park — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Mansfield Park — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/grave,motif/home,motif/love,motif/night,motif/time,motif/well,concept/education,concept/honour,concept/hope,concept/wonder,character/edmund,character/julia,character/maria"></span>
 
 
 “We are so totally unlike,” said Fanny, avoiding a direct answer, “we
@@ -27867,7 +27867,7 @@ Crawford.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_03" data-title="Mansfield Park — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_03" data-title="Mansfield Park — Chapter 35 (part 3)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/truth,concept/vanity,character/edmund,character/henry_crawford,character/sunday"></span>
 
 
 Fanny was too [[Well|well]] aware of it to have anything to say; and they walked
@@ -28014,7 +28014,7 @@ the [[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Mansfield Park — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Mansfield Park — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/time,concept/hope,concept/self,character/bertram,character/edmund"></span>
 
 
 CHAPTER XXXVI
@@ -28127,7 +28127,7 @@ impossible to do anything but [[Love|love]] you.”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Mansfield Park — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Mansfield Park — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/chains,motif/love,motif/tears,motif/time,motif/well,motif/winter,concept/friendship,concept/hope,concept/melancholy,concept/truth,concept/wonder,setting/london,character/sir_thomas_bertram"></span>
 
 
 Fanny was affected. She had not foreseen anything of this, and her
@@ -28230,7 +28230,7 @@ as you profess yourself? No, no, I see you are not.”
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Mansfield Park — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Mansfield Park — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/desire,motif/love,motif/nature,motif/spring,motif/summer,motif/time,motif/well,concept/friendship,concept/longing,concept/mercy,concept/nature,concept/self,character/henry_crawford,character/julia"></span>
 
 
 There was, indeed, so deep a blush over Fanny’s face at that moment as
@@ -28363,7 +28363,7 @@ On the morrow the Crawfords were gone.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Mansfield Park — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Mansfield Park — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/love,motif/nature,motif/pain,motif/time,concept/ambition,concept/doubt,concept/hope,concept/nature,concept/self,character/edmund"></span>
 
 
 CHAPTER XXXVII
@@ -28479,7 +28479,7 @@ comfort, of which she had the offer.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Mansfield Park — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Mansfield Park — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/love,motif/pain,motif/silence,motif/time,motif/well,concept/conscience,concept/doubt,concept/fear,concept/self,setting/london,character/bertram,character/edmund"></span>
 
 
 It was a medicinal project upon his niece’s understanding, which he
@@ -28582,7 +28582,7 @@ dockyard, too, which he quite longed to shew her.
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Mansfield Park — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Mansfield Park — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/tears,motif/time,motif/well,concept/hope,setting/london,character/bertram,character/edmund"></span>
 
 
 He did not scruple to add that her being at [[Home|home]] for a while would be a
@@ -28679,7 +28679,7 @@ William and Fanny were talked of as already advanced one stage.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Mansfield Park — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Mansfield Park — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/journey,motif/love,motif/time,motif/well,concept/hope,concept/wonder,setting/oxford,character/bertram,character/edmund"></span>
 
 
 CHAPTER XXXVIII
@@ -28803,7 +28803,7 @@ once.”
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Mansfield Park — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Mansfield Park — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/hope,concept/self,concept/wonder,character/cleopatra,character/endymion,character/nurse"></span>
 
 
 Her son answered cheerfully, telling her that everything was always for
@@ -28924,7 +28924,7 @@ ached.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Mansfield Park — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Mansfield Park — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/pain,motif/seasons,motif/tears,motif/time,motif/well,concept/body,concept/despair,setting/london"></span>
 
 
 She had now seen all that were at [[Home|home]]; there remained only two
@@ -29031,7 +29031,7 @@ getting her to Spithead to see the sloop.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_04" data-title="Mansfield Park — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_04" data-title="Mansfield Park — Chapter 38 (part 4)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/home,motif/love,motif/prayer,motif/soul,motif/time,motif/water,motif/well,concept/honour,concept/hope,concept/imagination,character/bertram"></span>
 
 
 The next bustle brought in Mr. Campbell, the surgeon of the Thrush, a
@@ -29152,7 +29152,7 @@ think with respect of her own little attic at [[Mansfield Park]], in _that_
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="Mansfield Park — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="Mansfield Park — Chapter 39" data-chapter="Chapter 39" data-kind="chapter" data-tags="archetype/child,motif/desire,motif/home,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/water,motif/wind,concept/despair,concept/education,concept/friendship,concept/hope,concept/nature,concept/pride,concept/self,character/bertram,character/edmund,character/richard"></span>
 
 
 CHAPTER XXXIX
@@ -29312,7 +29312,7 @@ Park might have some pains, Portsmouth could have no pleasures.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Mansfield Park — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Mansfield Park — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/home,motif/love,motif/time,motif/well,concept/beauty,concept/exile,concept/hope,concept/reform,concept/self,setting/london,character/bertram,character/edmund,character/julia,character/queen"></span>
 
 
 CHAPTER XL
@@ -29416,7 +29416,7 @@ some excesses of very offensive indulgence and vulgarity.
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Mansfield Park — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Mansfield Park — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/love,motif/time,concept/doubt,concept/education,concept/hope,concept/wonder,form/biography,setting/london,character/edmund"></span>
 
 
 In every argument with her mother, Susan had in point of reason the
@@ -29521,7 +29521,7 @@ the idea for even half an hour, it was something gained.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Mansfield Park — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Mansfield Park — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/love,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/doubt,setting/london,character/edmund,character/sunday"></span>
 
 
 CHAPTER XLI
@@ -29640,7 +29640,7 @@ the vulgarity of her nearest relations.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Mansfield Park — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Mansfield Park — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/charity,character/bertram"></span>
 
 
 Mr. Crawford probably could not regard his future father-in-law with
@@ -29740,7 +29740,7 @@ and ought not to think of her.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Mansfield Park — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Mansfield Park — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/autumn,motif/crown,motif/summer,motif/time,motif/well,concept/honour,concept/hope,character/edmund,character/edmund_bertram"></span>
 
 
 He perceived that enough had been said of Everingham, and that it would
@@ -29815,7 +29815,7 @@ luxury and epicurism.
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_01" data-title="Mansfield Park — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_01" data-title="Mansfield Park — Chapter 42 (part 1)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/nature,character/bertram,character/edmund,character/sunday"></span>
 
 
 CHAPTER XLII
@@ -29939,7 +29939,7 @@ would be felt on the occasion.”
 
 
 
-<span class="atom-split" data-atom="chapter_42--part_02" data-title="Mansfield Park — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_42--part_02" data-title="Mansfield Park — Chapter 42 (part 2)" data-chapter="Chapter 42" data-kind="excerpt" data-tags="motif/clock,motif/journey,motif/love,motif/nature,motif/well,concept/body,concept/hope,concept/nature,character/edmund"></span>
 
 
 Fanny thanked him, but tried to laugh it off.
@@ -30049,7 +30049,7 @@ distressing to her?
 
 
 
-<span class="atom-split" data-atom="chapter_43" data-title="Mansfield Park — Chapter 43" data-chapter="Chapter 43" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_43" data-title="Mansfield Park — Chapter 43" data-chapter="Chapter 43" data-kind="chapter" data-tags="archetype/hero,motif/desire,motif/home,motif/love,motif/time,motif/well,concept/beauty,concept/history,concept/longing,form/essay,form/history,setting/london,character/edmund"></span>
 
 
 CHAPTER XLIII
@@ -30215,7 +30215,7 @@ most pleasantly.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Mansfield Park — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Mansfield Park — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/shadow,motif/home,motif/love,motif/marriage,motif/nature,motif/silence,motif/time,motif/well,concept/despair,concept/fear,concept/friendship,concept/hope,concept/jealousy,concept/nature,concept/truth,setting/london,character/bertram,character/edmund,character/julia,character/maria,character/mary_crawford"></span>
 
 
 CHAPTER XLIV
@@ -30347,7 +30347,7 @@ pen instead of hers.—Yours ever, my dearest Fanny.”
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Mansfield Park — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Mansfield Park — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/journey,motif/marriage,motif/nature,motif/time,motif/well,concept/doubt,concept/hope,concept/nature,concept/self,concept/solitude,concept/suffering,concept/wonder,setting/london,character/bertram,character/edmund"></span>
 
 
 “I never will, no, I certainly never will wish for a letter again,” was
@@ -30507,7 +30507,7 @@ to have them so [[Well|well]] provided for.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Mansfield Park — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Mansfield Park — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/flowers,motif/garden,motif/home,motif/leaves,motif/spring,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/imagination,concept/jealousy,concept/longing,concept/suffering,concept/truth,concept/vanity,setting/london,character/bertram,character/edmund"></span>
 
 
 CHAPTER XLV
@@ -30626,7 +30626,7 @@ her!
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Mansfield Park — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Mansfield Park — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/home,motif/silence,motif/spring,motif/time,motif/well,concept/conscience,concept/doubt,concept/friendship,concept/honour,concept/melancholy,concept/solitude,concept/truth,setting/london,character/bertram,character/edmund,character/julia,character/nurse"></span>
 
 
 Could she have been at [[Home|home]], she might have been of service to every
@@ -30722,7 +30722,7 @@ Mary.”
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_03" data-title="Mansfield Park — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_03" data-title="Mansfield Park — Chapter 45 (part 3)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/spring,motif/time,concept/ambition,concept/conscience,concept/hope,concept/vanity,character/edmund"></span>
 
 
 “I had actually begun folding my letter when Henry walked in, but he
@@ -30783,7 +30783,7 @@ money.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Mansfield Park — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Mansfield Park — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/dust,motif/well,concept/doubt,concept/jealousy,concept/melancholy,character/julia"></span>
 
 
 CHAPTER XLVI
@@ -30904,7 +30904,7 @@ even to the editor of the newspaper whither they were gone.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Mansfield Park — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Mansfield Park — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/home,motif/nature,motif/night,motif/time,concept/despair,concept/doubt,concept/guilt,concept/honour,concept/hope,concept/nature,concept/truth,concept/vanity,concept/wonder,setting/london,character/edmund,character/julia"></span>
 
 
 “It is a mistake, sir,” said Fanny instantly; “it must be a mistake, it
@@ -31007,7 +31007,7 @@ mail.—Yours, etc.”
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Mansfield Park — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Mansfield Park — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/desert,motif/fire,motif/home,motif/journey,motif/pain,motif/sleep,motif/summer,motif/time,motif/well,motif/window,motif/winter,concept/beauty,concept/imagination,concept/melancholy,concept/self,concept/suffering,concept/wonder,setting/desert,setting/oxford,character/bertram,character/edmund,character/julia"></span>
 
 
 Never had Fanny more wanted a cordial. Never had she felt such a one as
@@ -31156,7 +31156,7 @@ to meet her; came with no indolent step; and falling on her neck, said,
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Mansfield Park — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Mansfield Park — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/time,concept/guilt,concept/hope,concept/pride,setting/london,character/bertram,character/edmund,character/julia,character/maria"></span>
 
 
 CHAPTER XLVII
@@ -31266,7 +31266,7 @@ might be apprehended.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Mansfield Park — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Mansfield Park — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/nature,motif/pain,motif/sleep,motif/time,concept/doubt,concept/fear,concept/hope,concept/nature,concept/suffering,setting/london,character/bertram,character/edmund,character/julia,character/maria,character/sunday"></span>
 
 
 This dreadful communication could not be kept from the rest of the
@@ -31374,7 +31374,7 @@ quite convinced.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_03" data-title="Mansfield Park — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_03" data-title="Mansfield Park — Chapter 47 (part 3)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/leaves,motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/despair,concept/friendship,concept/honour,concept/hope,concept/nature,concept/providence,concept/wonder,character/maria"></span>
 
 
 How Fanny listened, with what curiosity and concern, what [[Pain|pain]] and what
@@ -31498,7 +31498,7 @@ get his daughter away, it will be destroying the chief hold.’”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_04" data-title="Mansfield Park — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_04" data-title="Mansfield Park — Chapter 47 (part 4)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/friendship,concept/imagination,concept/nature,concept/reconciliation,concept/reform,concept/vanity,character/bertram,character/edmund"></span>
 
 
 After repeating this, [[Edmund]] was so much affected that Fanny, watching
@@ -31590,7 +31590,7 @@ that he had to cling to.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_01" data-title="Mansfield Park — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_01" data-title="Mansfield Park — Chapter 48 (part 1)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/pain,motif/summer,motif/time,motif/well,concept/education,concept/guilt,concept/hope,concept/humility,concept/melancholy,concept/self,concept/suffering,character/edmund,character/julia,character/maria"></span>
 
 
 CHAPTER XLVIII
@@ -31697,7 +31697,7 @@ being acquainted with their character and temper.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_02" data-title="Mansfield Park — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_02" data-title="Mansfield Park — Chapter 48 (part 2)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/spring,motif/tears,motif/time,concept/beauty,concept/education,concept/guilt,concept/hope,concept/melancholy,concept/self,character/henry_crawford,character/julia,character/maria"></span>
 
 
 The high spirit and strong passions of Mrs. Rushworth, especially, were
@@ -31806,7 +31806,7 @@ selfish alarm. It had appeared to her the only thing to be done.
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_03" data-title="Mansfield Park — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_03" data-title="Mansfield Park — Chapter 48 (part 3)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/death,motif/home,motif/journey,motif/love,motif/marriage,motif/well,concept/ambition,concept/beauty,concept/conscience,concept/doubt,concept/hope,concept/self,concept/temptation,concept/vanity,setting/london,character/bertram,character/edmund,character/fanny_price,character/henry_crawford,character/maria"></span>
 
 
 [[Henry Crawford]], ruined by early independence and bad domestic example,
@@ -31907,7 +31907,7 @@ domestic happiness she had there learned to estimate, or put [[Edmund]]
 
 
 
-<span class="atom-split" data-atom="chapter_48--part_04" data-title="Mansfield Park — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_48--part_04" data-title="Mansfield Park — Chapter 48 (part 4)" data-chapter="Chapter 48" data-kind="excerpt" data-tags="motif/childhood,motif/death,motif/desire,motif/home,motif/love,motif/marriage,motif/road,motif/time,motif/well,concept/hope,concept/poverty,concept/self_deception,concept/truth,character/bertram,character/edmund,character/mary_crawford"></span>
 
 
 [[Edmund]] had greatly the advantage of her in this respect. He had not to

@@ -857,7 +857,7 @@ instance.]
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Angel of the Odd (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Angel of the Odd (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/monster,motif/bees,motif/death,motif/fire,concept/body,concept/despair,concept/imagination,setting/london"></span>
 
 
 AN EXTRAVAGANZA.
@@ -1073,7 +1073,7 @@ com’d here for to let you zee for yourzelf.”
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Angel of the Odd (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Angel of the Odd (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/clock,motif/pain,motif/tears,motif/time,motif/water,motif/well,concept/courage"></span>
 
 
 and order my footman to kick you into the street.”
@@ -1291,7 +1291,7 @@ for it still wanted seven and twenty of the appointed hour. I
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Angel of the Odd (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Angel of the Odd (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/dreams,motif/fire,motif/love,motif/river,motif/time,motif/window"></span>
 
 
 betook myself again to my nap, and at length a second [[Time|time]] awoke,
@@ -1477,7 +1477,7 @@ solitary crow that had been seduced into the eating of
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Angel of the Odd (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Angel of the Odd (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/villain,motif/clock,motif/crown,motif/fire,motif/machine,motif/time,motif/water,character/speed"></span>
 
 
 brandy-saturated corn, and so had staggered away from his

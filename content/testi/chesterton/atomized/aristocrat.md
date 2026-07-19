@@ -79,7 +79,7 @@ perché il Diavolo è un gentiluomo, e non tiene la parola.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="aristocrat (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="aristocrat (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/fool,motif/crown,motif/love,motif/pain,motif/stars"></span>
 
 
 The [[aristocrat|Aristocrat]]  

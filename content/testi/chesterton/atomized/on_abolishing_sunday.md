@@ -149,7 +149,7 @@ to destroy it.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="On_Abolishing_Sunday (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On_Abolishing_Sunday (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/night,motif/sleep,motif/well,concept/body,concept/doubt,concept/individualism,concept/self,concept/slavery,character/sunday"></span>
 
 
 # On Abolishing [[Sunday]]
@@ -337,7 +337,7 @@ o, piuttosto (come direbbero i bolscevichi), l'assenza di Dio non voglia!
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="On_Abolishing_Sunday (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="On_Abolishing_Sunday (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/nature,motif/well,concept/nature,concept/truth,character/sunday"></span>
 
 
 But, even apart from the failure of the solitary holiday to be a

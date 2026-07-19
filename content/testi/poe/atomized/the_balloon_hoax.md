@@ -1053,7 +1053,7 @@ become apparent.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Balloon-Hoax (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Balloon-Hoax (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/machine,motif/time,motif/well,form/novel,setting/new_york"></span>
 
 
 [Astounding News by Express, _via_ Norfolk!—The Atlantic crossed in
@@ -1243,7 +1243,7 @@ centre of the balloon, was a frame of light wood, about nine feet
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Balloon-Hoax (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Balloon-Hoax (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/machine,motif/spring,motif/time,motif/well"></span>
 
 
 long, and rigged on to the balloon itself with a network in the
@@ -1435,7 +1435,7 @@ ballast, arranged in bags of different sizes, with their
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Balloon-Hoax (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Balloon-Hoax (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/cross,motif/fire,motif/machine,motif/nature,motif/time,motif/water,concept/body,concept/doubt,concept/nature,setting/court,setting/paris"></span>
 
 
 respective weights marked upon them—by cordage, barometers,
@@ -1623,7 +1623,7 @@ no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Balloon-Hoax (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Balloon-Hoax (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/rose,motif/spring,motif/time,motif/water,motif/wind,concept/sublime,form/fable,histref/america,setting/america,setting/mountains,setting/paris"></span>
 
 
 us, having been made over [[Night|night]], we commenced the inflation this
@@ -1797,7 +1797,7 @@ by ourselves, and especially by our two men, who, now under the
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Balloon-Hoax (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Balloon-Hoax (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/machine,motif/night,motif/noon,motif/silence,motif/stars,motif/well,motif/wind,concept/doubt,concept/fear,concept/wonder"></span>
 
 
 influence of a dram of Geneva, seemed resolved to give all
@@ -1981,7 +1981,7 @@ by the expansion of the gas, through increase of heat in the
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Balloon-Hoax (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Balloon-Hoax (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/night,motif/ship,motif/time,motif/well,setting/new_york,setting/ship"></span>
 
 
 atmosphere, and the consequent disruption of the minute particles

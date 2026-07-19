@@ -743,7 +743,7 @@ upon the wall of Jerusalem.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="meaning of the crusade (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="meaning of the crusade (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/birds,motif/death,motif/flowers,motif/garden,motif/hill,motif/nature,motif/prison,motif/stars,motif/well,concept/beauty,concept/fear,concept/imagination,concept/nature,concept/paradox,concept/pride,concept/truth,character/bottom,character/christ"></span>
 
 
 The Meaning of the Crusade
@@ -904,7 +904,7 @@ La [[Nature|natura]] della differenza, io penso, merita d'essere notata. L'Ospiz
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="meaning of the crusade (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="meaning of the crusade (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/autumn,motif/blood,motif/cross,motif/flowers,motif/hill,motif/leaves,motif/nature,motif/time,motif/well,motif/wind,concept/democracy,concept/doubt,concept/faith,concept/fanaticism,concept/madness,concept/nature,concept/truth,form/allegory,form/parody,histref/christianity,histref/crusades,setting/germany,character/bottom"></span>
 
 
 And this is as true of the moral as of the artistic elements
@@ -1038,7 +1038,7 @@ Da allora, per quanto ne so, l'unica persona abbastanza paziente da dissotterrar
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="meaning of the crusade (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="meaning of the crusade (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/grave,motif/love,motif/nature,motif/stars,motif/time,motif/well,motif/wheel,concept/conversion,concept/faith,concept/nature,concept/paradox,concept/survival,concept/truth,concept/vanity,histref/dante,setting/new_york"></span>
 
 
 In plain words, this sort of theory is a blasphemy against
@@ -1150,7 +1150,7 @@ La Cristianità sarebbe stata pienamente giustificata in astratto nell'allarmars
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="meaning of the crusade (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="meaning of the crusade (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/animals,motif/bees,motif/birds,motif/cross,motif/hill,motif/insects,concept/democracy,concept/history,concept/self,concept/truth,form/fragment,form/history,histref/america,histref/french_revolution,setting/america,setting/paris"></span>
 
 
 Christendom might quite reasonably have been alarmed if it had not
@@ -1263,7 +1263,7 @@ In chiaro, le virtù di una folla non possono essere trovate in un branco di tor
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="meaning of the crusade (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="meaning of the crusade (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/crown,motif/flag,motif/time,concept/conscience,concept/conversion,concept/democracy,concept/history,concept/honour,concept/truth,form/fable,form/history,histref/french_revolution,character/aquinas,character/christ"></span>
 
 
 What is peculiar about the First Crusade is that it was in quite
@@ -1379,7 +1379,7 @@ Questa folla marciò contro la disciplina militare dei Musulmani e fu massacrata
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="meaning of the crusade (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="meaning of the crusade (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/dust,motif/fire,motif/nature,motif/pain,motif/road,motif/secrets,motif/summer,motif/water,motif/well,concept/faith,concept/fanaticism,concept/imagination,concept/nature,concept/self,concept/truth,concept/wonder,histref/french_revolution,histref/islam,character/dwarf,character/monks"></span>
 
 
 Allied with Godfrey were Tancred the Italian, Raymond of Toulouse
@@ -1563,7 +1563,7 @@ la terza ed ultima era in fiamme.
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="meaning of the crusade (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="meaning of the crusade (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/cross,motif/dawn,motif/death,motif/dust,motif/fire,motif/night,motif/time,motif/well,motif/wind,concept/despair,concept/self,form/allegory"></span>
 
 
 All that [[Night|night]] Godfrey was toiling to retrieve the disaster.

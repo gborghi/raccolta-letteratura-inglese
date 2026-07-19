@@ -227,7 +227,7 @@ Email: martin@gkc.org.uk
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="success (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="success (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/leaves,motif/time,concept/doubt,concept/mercy,concept/suicide,histref/christianity,setting/new_york"></span>
 
 
 The Fallacy of [[success|Success]]
@@ -394,7 +394,7 @@ di consiglio tipico su come avere successo. È così pratico;
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="success (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="success (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/king,motif/love,motif/soul,motif/wind,concept/truth,histref/america,setting/america,character/bottom"></span>
 
 
 The name of Vanderbilt is synonymous with wealth gained by modern
@@ -542,7 +542,7 @@ che nascondono, e a volte ho pensato di aver sentito sul
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="success (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="success (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/home,motif/rose,concept/hope,concept/pride,concept/truth"></span>
 
 
 At least, let us [[Hope|hope]] that we shall all live to see these absurd

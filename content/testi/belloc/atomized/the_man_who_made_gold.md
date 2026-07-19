@@ -2483,7 +2483,7 @@ Only one false note was struck, the Red Flag, while admitting the suitability of
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="The Man Who Made Gold — Chapter 15" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="The Man Who Made Gold — Chapter 15" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/money_gold,concept/economics,concept/capitalism,form/novel,form/satire,setting/oxford"></span>
 
 
 CHAPTER XV
@@ -2541,7 +2541,7 @@ And with that I leave him for a little, to turn from the glories of Modern Scien
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Made Gold — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="The Man Who Made Gold — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/outsider,motif/supernatural,concept/decadence_and_aestheticism,concept/grotesque,form/novel,setting/oxford,character/rudyard_kipling"></span>
 
 
 CHAPTER I
@@ -2571,7 +2571,7 @@ The unfortunate reader — unless he has been so foolish as to skip the Prologue
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Made Gold — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="The Man Who Made Gold — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/letters_writing,concept/education,concept/reason_and_rationalism,concept/superstition_and_omen,form/satire,form/science_fiction"></span>
 
 
 He was a man typical of his profession and a good hand at his trade : atheist, industrious, clearheaded, very conscientious about his work, trying hard to keep up the standard of his pupils and to give St. Olaf’s the same name in his own branch of Science as it had already gained in Classics and Philosophy, Sophistry, and History.
@@ -2609,7 +2609,7 @@ This was too much! The Reader in Electrochemistry to the University set his teet
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Made Gold — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="The Man Who Made Gold — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/fanatic,motif/fire,motif/prayer,concept/the_supernatural,concept/superstition_and_omen,form/satire,form/science_fiction"></span>
 
 
 CHAPTER II
@@ -2653,7 +2653,7 @@ The curtains were pulled back, the last embers of incense in the brazier were ex
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Made Gold — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="The Man Who Made Gold — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/eyes_and_sight,motif/money_and_gold,concept/reason_and_rationalism,concept/appearance_vs_reality,concept/deception,form/satire,form/science_fiction"></span>
 
 
 But one object there was now present on the table which no one would have seen when first he left the worship of the head, something which had not met the eye under the taper light before that was extinguished; something which now lay conspicuous and new beyond the book upon the hard surface of the old oaken table. Of sulphur none remained. In its place was a short length, roughly cylindrical in shape, of a texture which I will attempt to describe; for although I have not myself even seen that famous Thing, I have read of it.
@@ -2699,7 +2699,7 @@ There was nothing to be frightened of. It was pretty heavy. It seemed familiar e
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Man Who Made Gold — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="The Man Who Made Gold — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,concept/wonder,concept/reason_and_rationalism,form/satire,form/science_fiction"></span>
 
 
 “It is lead,” said Henry Bolter simply, still keeping his eyes directed upon the other. If staring at a man were like hitting him, Lexington would have protested; but there is a difference. And instead of protesting he turned his head a little away.
@@ -2761,7 +2761,7 @@ He looked round again at the tawdry fittings and the grotesque and futile Head o
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Made Gold — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="The Man Who Made Gold — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/money_and_gold,motif/secrets,concept/reason_and_rationalism,concept/wonder,form/satire,form/science_fiction"></span>
 
 
 “What I mean, Mr. Lexington,” said Bolter, still quite gently, “is this. Shall I be insulting you if I ask you to take this — whatever it is — —” (he picked up the little roll of brown crystalline granulated substance and wrapped it in a silk cloth)— “then in full liberty — but, I trust you, in full privacy — do as I have done and discover whether there be not something in the wisdom of old?”
@@ -2783,7 +2783,7 @@ He reached his rooms. He opened the drawer in which he kept his valuables. He pu
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Man Who Made Gold — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="The Man Who Made Gold — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/sleep,motif/poison,concept/despair,concept/reason_and_rationalism,form/satire,form/science_fiction"></span>
 
 
 CHAPTER III
@@ -2823,7 +2823,7 @@ While the lead was melting he fetched Bolter’s strange gift from the drawer in
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Made Gold — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="The Man Who Made Gold — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,motif/death,concept/reason_and_rationalism,concept/secrecy_and_concealment,form/satire,form/science_fiction"></span>
 
 
 The metal continued to move, unchanged, save in its passage from the solid to the liquid. It was but molten lead after all. Secretly Lexington felt a sort of relief. He was still in the familiar world, and that silly business in Brecon Street had been a cheat and a folly. He already blamed himself for having allowed himself to be impressed.
@@ -2907,7 +2907,7 @@ The drug had done its work. Henry Bolter had passed while its beneficence was st
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Made Gold — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="The Man Who Made Gold — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,motif/grave,motif/death,concept/greed,concept/money_gold_greed,concept/ambition,form/satire,form/science_fiction"></span>
 
 
 CHAPTER IV
@@ -2945,7 +2945,7 @@ William Bowring was a man some ten years older than Lexington, a friend to whom 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Man Who Made Gold — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="The Man Who Made Gold — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/reason_and_rationalism,concept/economics,concept/money_gold_greed,form/satire,form/science_fiction,setting/london"></span>
 
 
 They saw each other often enough. Sometimes in the vacations Lexington would stop in the house of his wealthier friend — for Bowring was well-established in an excellent house of the late seventeenth century on the river–side at Hammersmith. And when Bowring (a year or two after Lexington had got his Fellowship) amused himself by starting a shop in Percy Street for dealing in old furniture and glass and plate, he had prospered steadily and solidly, as he did in everything he touched.
@@ -3023,7 +3023,7 @@ Lexington shook his head. Bowring lit his cigar and then nodded.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Made Gold — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="The Man Who Made Gold — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/economics,concept/secrecy_and_concealment,concept/fame_and_publicity,concept/reason_and_rationalism,form/satire,form/science_fiction,setting/london"></span>
 
 
 Lexington sprang from his chair. He was wound up. He stood before the fire with his hands in his trouser pockets, as he always did when his eagerness was strong upon him, either of speech or of thought.
@@ -3091,7 +3091,7 @@ Lexington nodded. “I’ve done it twice. The conditions were identical. I’m 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Man Who Made Gold — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="The Man Who Made Gold — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/money_gold_greed,concept/secrecy_and_concealment,concept/capitalism,form/satire,form/science_fiction,setting/london"></span>
 
 
 “Thank you,” said Lexington, a little dryly.
@@ -3145,7 +3145,7 @@ Bowring nodded. “Don’t you see the electric heater?”
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Man Who Made Gold — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="The Man Who Made Gold — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,concept/economics,concept/money_gold_greed,concept/reason_and_rationalism,form/satire,form/science_fiction,setting/london"></span>
 
 
 CHAPTER V
@@ -3211,7 +3211,7 @@ Would Lexington, by the way, as the crucible was here in town, come back in a da
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Made Gold — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="The Man Who Made Gold — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/money_gold_greed,concept/deception,form/satire,form/science_fiction,setting/london,setting/rural_england"></span>
 
 
 Yes, that was all that was wanted. And thus with mutual politeness and with the best of good feelings did these careful partners start upon the great career.
@@ -3251,7 +3251,7 @@ Lexington asked to hold it again for a moment, and weighed it in his hands.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Man Who Made Gold — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="The Man Who Made Gold — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_gold_greed,concept/economics,concept/jealousy,form/satire,form/science_fiction"></span>
 
 
 Lexington made a rapid calculation in his head. “19 oz.= £76. 76 goes into 500 six times and something over. Bowring got over £6 for £1 worth of gold. He, Lexington, only got 10s. — Humph!”
@@ -3309,7 +3309,7 @@ Next week he brought the full thirty ounces weight. The routine was gone through
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Man Who Made Gold — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="The Man Who Made Gold — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_gold_greed,concept/deception,concept/self_deception,form/satire,form/science_fiction"></span>
 
 
 “Oh,” said Lexington.
@@ -3347,7 +3347,7 @@ It took him perhaps five minutes to clinch down that new certitude. Then he put 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Man Who Made Gold — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="The Man Who Made Gold — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,motif/ship,concept/greed,concept/money_gold_greed,concept/economics,form/satire,form/science_fiction,setting/london"></span>
 
 
 CHAPTER VI
@@ -3433,7 +3433,7 @@ Lexington nodded.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Made Gold — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="The Man Who Made Gold — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/power_and_corruption,concept/money_gold_greed,form/satire,form/science_fiction,setting/london"></span>
 
 
 “No! I won’t ask you for any share, because I don’t understand your business. I don’t pretend to.”
@@ -3505,7 +3505,7 @@ Lexington desired nothing better. He was eager for essential advice, and no one 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Man Who Made Gold — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="The Man Who Made Gold — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/money_gold_greed,concept/reason_and_rationalism,concept/secrecy_and_concealment,form/satire,form/science_fiction,setting/london"></span>
 
 
 “Well, you see, chemistry’s my line.”
@@ -3577,7 +3577,7 @@ A change of mood passed over all the atmosphere of that grand room. The two men 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Man Who Made Gold — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="The Man Who Made Gold — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/money_and_gold,motif/fire,concept/economics,concept/reason_and_rationalism,concept/wonder,form/satire,form/science_fiction,setting/london"></span>
 
 
 “Will you wait a moment whilst I get some things from my bag? I think I can convince you.”
@@ -3627,7 +3627,7 @@ Lord Taylor, almost reverently, led the way upstairs and showed his guest his ro
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Made Gold — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="The Man Who Made Gold — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,motif/secrets,concept/greed,concept/secrecy_and_concealment,concept/reason_and_rationalism,form/satire,form/science_fiction,setting/rural_england"></span>
 
 
 CHAPTER VII
@@ -3667,7 +3667,7 @@ When he had calmed down his thoughts took shape, and he flattered himself that t
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Man Who Made Gold — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="The Man Who Made Gold — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/fire,motif/money_and_gold,concept/reason_and_rationalism,concept/greed,concept/critique_of_progress,form/satire,form/science_fiction,setting/rural_england"></span>
 
 
 He would take a walk and think matters over. It would clear his brain. But one thing was certain. He would never leave that treasure out of his sight again. He would sleep with it; he would have it on his person; it should be under his hand every hour of his waking day — until he was sure of the formula for reconstructing the material at will.
@@ -3707,7 +3707,7 @@ Whereupon there rushed into his mind like a river flood what, had he been less s
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Made Gold — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="The Man Who Made Gold — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_gold_greed,concept/despair,form/satire,form/science_fiction"></span>
 
 
 In any other occasion whatsoever, I think he, being still so well on the right side of forty, would have summoned his reserves of energy and told himself that this would never do and that something must be done. But the case was peculiar. There was nothing to be done. And so far from the situation not doing, it had a completeness rarely rivalled and never equalled.
@@ -3733,7 +3733,7 @@ And, meanwhile, in London the wheels he had set moving began to revolve.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Man Who Made Gold — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="The Man Who Made Gold — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/power_and_corruption,concept/money_gold_greed,concept/communism,form/satire,form/science_fiction,setting/london"></span>
 
 
 CHAPTER VIII
@@ -3801,7 +3801,7 @@ Lord Taylor sat down, without being asked, said it was a fine spring day, and th
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Made Gold — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="The Man Who Made Gold — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/economics,concept/power_and_corruption,concept/communism,concept/satire_of_society,concept/money_gold_greed,form/satire,form/science_fiction,setting/london"></span>
 
 
 Bowring nodded.
@@ -3865,7 +3865,7 @@ Jack Mills was as much respected by the larger world into which he had entered s
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Man Who Made Gold — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="The Man Who Made Gold — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/authority,concept/communism,concept/economics,concept/satire_of_society,form/satire,form/science_fiction,setting/london"></span>
 
 
 Of his origins he had kept no more than what decency demanded: the flat collar, the ready-made clothes, and, for use on popular occasions, the dialect of his native town. In private he had long talked ordinary English. Courtesy he had had from the first, and knowledge of the world he had acquired. He had also maintained, since each of our public men must have some distinguishing feature by which they shall be represented in the Press, the very thin but long pointed wax moustache on which he had been so unmercifully chaffed by his comrades in the workshop before his name had been known outside it.
@@ -3935,7 +3935,7 @@ Hammersham went out and returned with it in a few minutes.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Made Gold — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="The Man Who Made Gold — Chapter 8 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/imprisonment,concept/power_and_corruption,concept/authority,concept/communism,concept/secrecy_and_concealment,form/satire,form/science_fiction,setting/london"></span>
 
 
 “I don’t see what else you can do except issue an order immediately,” the banker said stolidly. “They may begin putting their gold on the market any minute. They may be doing it now.” He had come with an object; to get something done and checkmate Bowring. He did not like to be put off.
@@ -3975,7 +3975,7 @@ He showed the banker through the double doors and took him to the landing of the
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Made Gold — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="The Man Who Made Gold — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="setting/oxford"></span>
 
 
 CHAPTER IX
@@ -4015,7 +4015,7 @@ Bowring sighed, but said nothing.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Man Who Made Gold — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="The Man Who Made Gold — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/money_and_gold,concept/economics,concept/power_and_corruption,concept/authority,concept/reason_and_rationalism,concept/satire_of_society,form/satire,form/science_fiction,setting/london"></span>
 
 
 “No,” said Bowring.
@@ -4075,7 +4075,7 @@ Bowring broke in :
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Made Gold — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="The Man Who Made Gold — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/vow,concept/power_and_corruption,concept/economics,concept/money_gold_greed,concept/authority,concept/satire_of_society,form/satire,form/science_fiction,setting/london"></span>
 
 
 “Is that final?” said Mr. Mills, his eyes still beaming mechanically, but rather insufficiently, and his tight lips rather ironically menacing.
@@ -4135,7 +4135,7 @@ Taylor had at least imagined something — perhaps half guessed. Taylor had want
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Man Who Made Gold — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="The Man Who Made Gold — Chapter 9 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/wine_and_drink,concept/deception,concept/secrecy_and_concealment,concept/crime_and_punishment,concept/poverty,form/satire,form/science_fiction,setting/london"></span>
 
 
 Even as he pondered a slight sound of muffled stirring woke him from his reverie.
@@ -4263,7 +4263,7 @@ He turned out to be right. The Waif regularly returned, night after night, and c
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Made Gold — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="The Man Who Made Gold — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 CHAPTER X
@@ -4317,7 +4317,7 @@ And then the final blow:
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Made Gold — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="The Man Who Made Gold — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 At this point in the official peroration Lexington’s horrified reading was interrupted.
@@ -4357,7 +4357,7 @@ He wondered, as he waited while they made up the parcel, whether he had been wat
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Man Who Made Gold — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="The Man Who Made Gold — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,motif/clothing,concept/poverty,concept/class_conflict,concept/deception,concept/appearance_vs_reality,form/satire,setting/london"></span>
 
 
 “Drive me,” he said, “to … ah — drive me to Wimbledon Common.”
@@ -4419,7 +4419,7 @@ Then the consequence of the disappearance struck him for the first time. He had 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Made Gold — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="The Man Who Made Gold — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,concept/poverty,concept/charity,concept/class_conflict,form/satire,setting/london,setting/the_river_thames"></span>
 
 
 CHAPTER XI
@@ -4473,7 +4473,7 @@ The word “hop” unsuitably describes the gait with which poor Mr. Lexington m
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Made Gold — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="The Man Who Made Gold — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,motif/the_inn_tavern,concept/poverty,concept/class_conflict,concept/crime_and_punishment,form/satire,setting/london"></span>
 
 
 The psychological–research people whom, as Reader in Electro — Chemistry, it was his duty to despise, could have told him that his intense anxiety to find refuge would in itself make the refuge appear; and immediately round the first corner he turned he came upon a large dingy building into which he saw as he watched it half a dozen men enter, and from which two or three came out, through a door that stood permanently open.
@@ -4513,7 +4513,7 @@ He was pleased beyond words when the dour old master of the place, taking one of
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Man Who Made Gold — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="The Man Who Made Gold — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,concept/poverty,concept/class_conflict,concept/endurance,form/satire,setting/london,setting/the_river_thames"></span>
 
 
 Lexington paid again, as in duty bound, for a cup of stiff each and two slabs; the new-comer by way of returning the courtesy offered him a cigarette drawn from a trouser pocket, and Lexington was glad to take it. Then, their meal eaten at the counter, where hard-working men were serving one customer after another, they went off to fill two empty places on the long bench in front of the fire, which had been kept well stoked, late as was the season.
@@ -4559,7 +4559,7 @@ He had heard of them a hundred times, he had seen men sleeping on them with his 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Made Gold — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="The Man Who Made Gold — Chapter 12 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/prayer,motif/masks_disguise,concept/charity,concept/hypocrisy,concept/poverty,form/satire,setting/london"></span>
 
 
 CHAPTER XII
@@ -4597,7 +4597,7 @@ At last the orator ceased. Charles Lexington was still wondering whether his sur
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Made Gold — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="The Man Who Made Gold — Chapter 12 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/prayer,motif/masks_disguise,concept/charity,concept/hypocrisy,concept/tradition,form/satire,setting/london"></span>
 
 
 “Do not despair!” the kindly voice began again.
@@ -4633,7 +4633,7 @@ Sister Frideswied opened a book with plans in it, on which squares neatly number
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Man Who Made Gold — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="The Man Who Made Gold — Chapter 12 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/imprisonment,concept/imprisonment,concept/freedom,concept/charity,concept/hypocrisy,form/satire,setting/london"></span>
 
 
 Here Charles Lexington interrupted her, and his clear St. Olaf’s accent made her pucker her brows.
@@ -4679,7 +4679,7 @@ Neither his morals nor the pace of his reactions would have permitted him three 
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Made Gold — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="The Man Who Made Gold — Chapter 12 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/trickster,archetype/outcast_wanderer,motif/masks_disguise,motif/imprisonment,concept/freedom,concept/deception,form/satire,setting/london"></span>
 
 
 Charles Lexington, still grasping with his hand well hidden in his pocket the key to freedom, went up to No. 19 with a zest, a punctuality and an obedience to orders which made him seem a model inmate. Sister Frideswied had never been better pleased.
@@ -4709,7 +4709,7 @@ The bed was a ruin. The bird (if I may so call him) was flown. From the tap of t
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Man Who Made Gold — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="The Man Who Made Gold — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,concept/poverty,concept/fate_and_free_will,concept/deception,concept/class_conflict,form/satire,setting/london"></span>
 
 
 CHAPTER XIII
@@ -4749,7 +4749,7 @@ The captain of this band (“band” is the applicable word) was a strong, burly
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Made Gold — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="The Man Who Made Gold — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/trickster,archetype/outcast_wanderer,motif/masks_disguise,motif/clothing,concept/deception,concept/class_conflict,form/satire,setting/london"></span>
 
 
 His two slaves obediently clattered up the creaky stairs with their burden. The protest of Sarah could be heard above, and sundry heavy footsteps on the flooring as the unconscious Joe was deposited in a room above. Meanwhile, Charles Lexington was left alone with the Master.
@@ -4779,7 +4779,7 @@ There was a lively chorus in which the two dependants and the Master had kept it
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Man Who Made Gold — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="The Man Who Made Gold — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/outcast_wanderer,motif/masks_disguise,concept/deception,concept/crime_and_punishment,concept/fate_and_free_will,form/satire,setting/london"></span>
 
 
 Strange! He could do many things. He could do some things better than other men. He had prided himself upon these talents of his. But the Muse he had never pleased.
@@ -4821,7 +4821,7 @@ He came soon to the beginnings of things well kept. There was a gravelled path. 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Man Who Made Gold — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="The Man Who Made Gold — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/masks_disguise,concept/class_conflict,concept/charity,concept/hypocrisy,concept/family_and_lineage,concept/deception,form/satire,setting/england"></span>
 
 
 CHAPTER XIV
@@ -4873,7 +4873,7 @@ The Duchess, in common with too many of her kind, had suffered from the extravag
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Made Gold — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="The Man Who Made Gold — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 “Yesterday morning, Madam, at Basham. A farmer’s wife gave me some bread.”
@@ -4905,7 +4905,7 @@ In the old days taps would often leak. Many of them still do — but that is in 
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Man Who Made Gold — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="The Man Who Made Gold — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/machine,motif/water,motif/masks_disguise,concept/critique_of_progress,concept/anti_industrialism,form/satire,setting/england"></span>
 
 
 Kingley’s patent has this one drawback, which is not mentioned in the prospectus nor even in the advertisements, but which you ought to hear of in case you should go in for the gadget yourself. It is true that it does not leak, but it is also true that it jams as hard as an Arctic winter, and when it does that, you can’t draw water from it. It turns dumb of a sudden, starts a nasty temper, and won’t turn. So had it happened with this great tap of taps, the most important tap of the household.
@@ -4949,7 +4949,7 @@ After that little Anderson thought it his duty to report; the thing was altogeth
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Man Who Made Gold — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="The Man Who Made Gold — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 CHAPTER XV
@@ -4991,7 +4991,7 @@ Anyhow he had been given the name of Pugginholt. He got on to that Exchange, aft
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Man Who Made Gold — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="The Man Who Made Gold — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/machine"></span>
 
 
 “I don’t know anything about any Mr. Anybody. There has been no man in here to-day since noon. There was a funny-looking woman, if that’s what you mean.”
@@ -5079,7 +5079,7 @@ Bowring made no direct answer : all he asked was :
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Man Who Made Gold — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="The Man Who Made Gold — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="concept/power_and_corruption,concept/deception,concept/hypocrisy,concept/economics,form/satire,setting/london"></span>
 
 
 “Are you talking from your house now?” asked Hammersham’s voice again on the wire.
@@ -5129,7 +5129,7 @@ Then it was the Home Secretary’s turn to speak at some length.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_04" data-title="The Man Who Made Gold — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_04" data-title="The Man Who Made Gold — Chapter 15 (part 4)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/money_and_gold,concept/power_and_corruption,concept/greed_and_money,concept/deception,concept/economics,concept/capitalism,form/satire,setting/london"></span>
 
 
 Mills broke in abruptly. “There’s one more thing I mean to say before I go,” he cried, looking Lexington and Bowring up and down alternately with his pale eyes. “Certain arrests have been arranged and I intend to go forward with them.”
@@ -5195,7 +5195,7 @@ Mills cleared his throat. “I was just going to say … I can’t make part of 
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_05" data-title="The Man Who Made Gold — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_05" data-title="The Man Who Made Gold — Chapter 15 (part 5)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/money_and_gold,concept/nationalism_and_patriotism,concept/hypocrisy,concept/fame_and_publicity,concept/empire_and_imperialism,concept/power_and_corruption,form/satire"></span>
 
 
 Mills nodded agreement thoughtfully.

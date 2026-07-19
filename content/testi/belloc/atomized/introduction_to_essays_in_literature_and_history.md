@@ -147,7 +147,7 @@ H. BELLOC.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘Essays in Literature and History’ (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Introduction to ‘Essays in Literature and History’ (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="concept/truth"></span>
 
 
 ESSAYS IN LITERATURE AND HISTORY by James Anthony Froude
@@ -181,7 +181,7 @@ The contrary might be objected by some foreign observer, or by some one who had 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘Essays in Literature and History’ (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Introduction to ‘Essays in Literature and History’ (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="concept/courage,concept/truth,setting/oxford"></span>
 
 
 He ridicules (upon ) the tradition of St. Patrick which all modern research has come to accept. He says downright (upon p-187) that the Ancient world did not inquire into the problem of evil. On he will have it that the ordinary man rejects, “without hesitation,” the interference of will with material causes. In other words, he asserts that the ordinary man is a fatalist — for Froude knew very well that between the fatalist and the believer in a possibility of miracle there is no conceivable position. He will have it (on ) that a modern doctor always regards a “vision” as an hallucination. On he denies by implication the stigmata of St. Francis — and so forth — one might multiply the instances indefinitely. All Froude’s works are full of them, they are part and parcel of his method — but their number is to no purport. One example may stand for all, and their special value to our purpose is not that they are mere assertions, but that they are assertions which Froude must have known to be personal, disputable, and dogmatic.
@@ -209,7 +209,7 @@ Perpetually this looking at the world from the standpoint of the men around him 
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘Essays in Literature and History’ (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Introduction to ‘Essays in Literature and History’ (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="concept/doubt,concept/faith,setting/oxford"></span>
 
 
 These are grave faults, but, I repeat, they are the faults of those great qualities which gave him his position.
@@ -251,7 +251,7 @@ The position of the relative is often as slipshod as the position of the qualica
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Introduction to ‘Essays in Literature and History’ (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Introduction to ‘Essays in Literature and History’ (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="concept/faith,concept/truth,setting/oxford"></span>
 
 
 It is singular that, while these obvious errors have excited so little comment, Froude should have been blamed so often and by such different authorities for weaknesses of the pen from which he did not suffer, or which, if he did suffer from them, at least he had in common with every other writer of our time and perhaps less than most.
@@ -283,7 +283,7 @@ There is always left to any man who deals with the writings of Froude, a task im
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Introduction to ‘Essays in Literature and History’ (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Introduction to ‘Essays in Literature and History’ (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="concept/faith,concept/truth,histref/catholic_church"></span>
 
 
 Upon the main discussion of his life it is impossible to pass a judgment, for the elements of that discussion are now destroyed; the universities no longer pretend to believe. And “free discussion” has become so free that the main doctrines he assailed are no longer presented or read without weariness in the class to which he appealed and from which he sprang.

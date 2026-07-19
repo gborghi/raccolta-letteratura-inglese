@@ -141,7 +141,7 @@ Virginia blushed.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Canterville Ghost (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Canterville Ghost (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/ghost,archetype/king,motif/blood,motif/death,motif/ghosts,motif/home,motif/lightning,motif/nature,motif/night,motif/road,motif/seasons,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/window,concept/body,concept/doubt,concept/fear,concept/freedom,concept/honour,concept/nature,concept/providence,histref/america,setting/america,setting/london,setting/new_york,character/achilles,character/sir_simon_de_canterville,character/washington_otis"></span>
 
 
 CHAPTER I
@@ -168,7 +168,7 @@ The old woman smiled, and answered in the same low, mysterious voice, ‘It is t
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Canterville Ghost (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Canterville Ghost (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,archetype/king,motif/blood,motif/chains,motif/clock,motif/fire,motif/ghosts,motif/home,motif/night,motif/soul,motif/storm,motif/supernatural,motif/swallow,motif/time,motif/window,concept/history,form/history,setting/london,setting/new_york,character/sir_simon_de_canterville"></span>
 
 
 CHAPTER II
@@ -181,7 +181,7 @@ On reaching a small secret chamber in the left wing, he leaned up against a moon
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Canterville Ghost (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Canterville Ghost (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/blood,motif/chains,motif/clock,motif/dawn,motif/death,motif/fire,motif/ghosts,motif/moon,motif/night,motif/secrets,motif/sleep,motif/soul,motif/storm,motif/time,motif/well,motif/wind,motif/window,concept/body,concept/fear,concept/grotesque,concept/hope,concept/suicide,character/phantom,character/queen,character/sunday,character/washington_otis"></span>
 
 
 CHAPTER III
@@ -202,7 +202,7 @@ Hardly had he finished this awful oath when, from the red-tiled roof of a distan
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Canterville Ghost (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Canterville Ghost (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="topos/double,archetype/ghost,archetype/lover,motif/blood,motif/chains,motif/clock,motif/garden,motif/home,motif/horse,motif/night,motif/supernatural,motif/time,motif/water,motif/well,motif/window,concept/despair,concept/fear,concept/history,concept/hope,form/history,setting/london,character/phantom,character/washington_otis"></span>
 
 
 CHAPTER IV
@@ -217,7 +217,7 @@ and his Friends.  The [[Ghost|ghost]], then, was naturally very anxious to show
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Canterville Ghost (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Canterville Ghost (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/animals,motif/blood,motif/chains,motif/death,motif/fire,motif/garden,motif/grave,motif/home,motif/leaves,motif/love,motif/moon,motif/night,motif/nightingale,motif/prayer,motif/rose,motif/silence,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/wind,motif/window,concept/despair,concept/faith,concept/melancholy,concept/mercy,concept/wonder,histref/america,histref/new_england,setting/america,setting/new_york"></span>
 
 
 CHAPTER V
@@ -264,7 +264,7 @@ He [[Rose|rose]] from his seat with a faint cry of joy, and taking her hand bent
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Canterville Ghost (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Canterville Ghost (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/clock,motif/dance,motif/death,motif/dust,motif/fire,motif/flowers,motif/garden,motif/grave,motif/home,motif/horse,motif/night,motif/road,motif/rose,motif/time,motif/water,motif/well,motif/window,concept/fear,concept/melancholy,concept/wonder,form/tragedy"></span>
 
 
 CHAPTER VI
@@ -283,7 +283,7 @@ The whole family gazed at her in mute amazement, but she was quite [[Grave|grave
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Canterville Ghost (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Canterville Ghost (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/lover,motif/clock,motif/cross,motif/death,motif/garden,motif/grave,motif/home,motif/love,motif/marriage,motif/moon,motif/night,motif/nightingale,motif/rose,motif/secrets,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/courage,form/inscription,setting/london,character/marchioness,character/queen"></span>
 
 
 CHAPTER VII

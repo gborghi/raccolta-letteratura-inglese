@@ -149,7 +149,7 @@ Nella lotteria eterna: per non essere invano.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Francis_Xavier (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Francis_Xavier (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/pilgrim,motif/cross,motif/death,motif/dust,motif/love,motif/pain,motif/silence,motif/soul,motif/stars,motif/time,concept/truth,concept/vanity,character/francis_xavier"></span>
 
 
 # Francis Xavier

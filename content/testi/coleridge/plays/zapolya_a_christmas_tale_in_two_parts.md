@@ -19,7 +19,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="ZAPOLYA — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="ZAPOLYA — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/king,archetype/lover,archetype/monster,archetype/orphan,archetype/prophet,archetype/rebel,archetype/shadow,archetype/tyrant,archetype/usurper,archetype/villain,motif/blood,motif/city,motif/death,motif/decay,motif/fire,motif/flag,motif/frost,motif/grave,motif/home,motif/leaves,motif/love,motif/moon,motif/nature,motif/pain,motif/prayer,motif/road,motif/rose,motif/silence,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/despair,concept/faith,concept/fear,concept/freedom,concept/guilt,concept/honour,concept/hope,concept/mercy,concept/nature,concept/self,concept/truth,concept/wonder,setting/court,setting/mountains,character/brutus,character/queen,character/speed"></span>
 
 
 | Speaker | Line |
@@ -152,7 +152,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="ZAPOLYA — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="ZAPOLYA — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/king,archetype/orphan,archetype/prophet,archetype/tyrant,motif/birds,motif/blood,motif/childhood,motif/cross,motif/dance,motif/dreams,motif/fire,motif/flowers,motif/jewel,motif/love,motif/mirror,motif/moon,motif/nature,motif/prayer,motif/rose,motif/soul,motif/spring,motif/stars,motif/tears,motif/time,motif/water,motif/well,concept/ambition,concept/beauty,concept/charity,concept/conscience,concept/courage,concept/faith,concept/fear,concept/honour,concept/hope,concept/jealousy,concept/nature,concept/revenge,concept/self,concept/truth,concept/vanity,form/fragment,form/riddle,setting/court,setting/mountains,character/bottom,character/witch"></span>
 
 
 | Speaker | Line |
@@ -336,7 +336,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="ZAPOLYA — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="ZAPOLYA — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/king,archetype/monster,archetype/orphan,archetype/rebel,archetype/shadow,archetype/usurper,motif/blood,motif/cave,motif/death,motif/desert,motif/dreams,motif/fire,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/prayer,motif/road,motif/rose,motif/silence,motif/sleep,motif/soul,motif/tears,motif/well,concept/doubt,concept/faith,concept/fear,concept/friendship,concept/hope,concept/mercy,concept/nature,concept/resignation,concept/solitude,concept/truth,setting/desert,character/queen"></span>
 
 
 | Speaker | Line |
@@ -422,7 +422,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="ZAPOLYA — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="ZAPOLYA — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/hero,archetype/innocent,archetype/king,archetype/monster,archetype/rebel,archetype/shadow,archetype/tyrant,archetype/usurper,archetype/villain,motif/blood,motif/city,motif/cross,motif/crown,motif/death,motif/dreams,motif/home,motif/leaves,motif/lion,motif/love,motif/night,motif/prayer,motif/road,motif/silence,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/ambition,concept/beauty,concept/conscience,concept/faith,concept/fear,concept/forgiveness,concept/guilt,concept/honour,concept/jealousy,concept/mercy,concept/truth,setting/castle,setting/court,character/phantom,character/queen,character/tarquin,character/witch"></span>
 
 
 | Speaker | Line |
@@ -541,7 +541,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="ZAPOLYA — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="ZAPOLYA — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/hero,archetype/innocent,archetype/king,archetype/monster,archetype/orphan,archetype/tyrant,archetype/usurper,archetype/villain,motif/birds,motif/cave,motif/cross,motif/death,motif/dreams,motif/fire,motif/home,motif/lightning,motif/love,motif/nature,motif/noon,motif/poison,motif/soul,motif/storm,motif/swallow,motif/time,motif/well,concept/body,concept/despair,concept/doubt,concept/faith,concept/fear,concept/guilt,concept/honour,concept/hope,concept/loneliness,concept/mercy,concept/nature,concept/providence,concept/self,concept/truth,form/essay,character/proteus,character/queen,character/satan,character/speed"></span>
 
 
 | Speaker | Line |
@@ -667,7 +667,7 @@ Coleridge's romance verse-drama in blank verse, modelled on Shakespeare's Winter
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="ZAPOLYA — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="ZAPOLYA — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/king,archetype/rebel,archetype/tyrant,motif/fire,motif/home,motif/love,motif/memory,motif/soul,concept/ambition,concept/exile,concept/freedom,concept/friendship,concept/pride,concept/providence,setting/castle,setting/orient,character/queen"></span>
 
 
 | Speaker | Line |

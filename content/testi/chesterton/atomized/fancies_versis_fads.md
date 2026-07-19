@@ -6084,7 +6084,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_01" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 1)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_01" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 1)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/cave,motif/mirror,motif/time,concept/fear,concept/freedom,concept/history,concept/imagination,concept/mercy,concept/self,concept/slavery,concept/truth,concept/wonder,form/free_verse,form/history,form/satire,histref/milton,character/hamlet,character/milton"></span>
 
 
 BOOK MANUFACTURERS
@@ -6259,7 +6259,7 @@ Non vi è in verità nulla di molto straordinario in queste visioni, se non le s
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_02" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 2)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_02" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 2)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/chalk,motif/childhood,motif/desire,motif/home,motif/moon,motif/soul,motif/well,concept/courage,concept/history,concept/hope,concept/truth,form/essay,form/history,form/satire,form/short_story,histref/milton,setting/london,character/diana,character/endymion,character/milton"></span>
 
 
 But while these are frivolous essays, pretending only to touch
@@ -6398,7 +6398,7 @@ L'intera [[history|storia]] della cosa chiamata rima si può trovare fra queste 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_03" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 3)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_03" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 3)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/child,archetype/ghost,archetype/lover,motif/desire,motif/ghosts,motif/love,motif/road,motif/seasons,motif/soul,motif/time,motif/water,motif/well,motif/wheel,concept/beauty,concept/body,concept/doubt,concept/identity,concept/reform,concept/truth,form/epic,histref/milton,character/chorus,character/milton,character/ulysses"></span>
 
 
 But the application of this distinction here is to the case of rhyme
@@ -6577,7 +6577,7 @@ Il [[Romance|fascino romantico]] della rima non consiste soltanto nel piacere di
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_04" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 4)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_04" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 4)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,motif/leaves,motif/love,motif/memory,motif/night,motif/time,motif/well,concept/education,concept/history,concept/wonder,form/history,form/translation,histref/bible,histref/milton,character/arthur,character/milton,character/monks"></span>
 
 
 [[Milton]]'s revolt against rhyme must be read in the light of [[history]].
@@ -6695,7 +6695,7 @@ Tutto questo non fu che l'inizio di un processo che presenta due grandi punti d'
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_05" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 5)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_05" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 5)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/double,topos/paradise_lost,archetype/child,motif/love,motif/nature,motif/night,motif/rose,motif/well,concept/nature,concept/paradox,concept/truth,form/allegory,form/blank_verse,form/melodrama,form/riddle,histref/milton,histref/reformation,setting/mountains,character/apollo,character/chorus,character/milton"></span>
 
 
 So far we might say that simple people do not like simple things.
@@ -6813,7 +6813,7 @@ Un buon critico dovrebbe essere come Dio nel grande detto di un mistico scozzese
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_06" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 6)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_06" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 6)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,motif/dreams,motif/night,motif/silence,motif/sleep,motif/time,motif/well,concept/pride,concept/self,concept/truth,form/blank_verse,histref/milton,setting/london,setting/mountains,character/hamlet,character/milton"></span>
 
 
 But the joke of it is that even when it is formless it is
@@ -6941,7 +6941,7 @@ Quando scesi a colazione, guardai il giornale del mattino; non (come voi suggeri
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_07" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 7)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_07" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 7)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,archetype/innocent,motif/desire,motif/dreams,motif/ghosts,motif/nature,motif/night,motif/silence,motif/time,concept/doubt,concept/faith,concept/fear,concept/grotesque,concept/hope,concept/nature,concept/self,concept/suicide,concept/truth,form/novel"></span>
 
 
 Mr. J. D. Beresford practically asked himself whether he should become
@@ -7157,7 +7157,7 @@ mortificato soltanto da persone come gli psicoanalisti.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_08" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 8)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_08" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 8)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/innocent,motif/chains,motif/desire,motif/ghosts,motif/home,motif/poison,motif/sleep,concept/body,concept/imagination,concept/madness,concept/self,form/comedy,histref/dante,character/banquo,character/duncan,character/hamlet,character/lady_macbeth,character/macbeth,character/puck"></span>
 
 
 Mr. Beresford must therefore excuse me if, with a sincere [[Desire|desire]]
@@ -7372,7 +7372,7 @@ era una persona inconscia; ma una fin troppo conscia.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_09" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 9)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_09" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 9)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/blood,motif/city,motif/mutability,motif/pain,motif/soul,motif/time,concept/conscience,concept/reform,concept/temptation,concept/truth,form/tragedy,setting/denmark,setting/venice,character/arthur,character/christ,character/claudius,character/hamlet,character/oliver,character/shylock"></span>
 
 
 Strangely enough, this theory of sub-conscious repulsion in the dramatic
@@ -7570,7 +7570,7 @@ perdono. «Là non lo si noterà in lui; là gli uomini sono pazzi quanto lui».
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_10" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 10)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_10" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 10)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/prophet,motif/love,motif/memory,motif/moon,motif/sleep,motif/soul,concept/fear,concept/reform,concept/romantic_love,concept/self,concept/truth,form/tragedy,histref/america,setting/america,setting/denmark,character/hamlet,character/tolstoy"></span>
 
 
 It is therefore very natural that men should be trying to dissolve
@@ -7793,7 +7793,7 @@ Simone dovrebbe avere le sue torte, anche in assenza dei suoi soldi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_11" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 11)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_11" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 11)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/time,motif/well,concept/hope,concept/paradox,concept/self"></span>
 
 
 But the [[philosophy]] of the two Simple Simons is plain enough.
@@ -8015,7 +8015,7 @@ paiono provarlo per nulla.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_12" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 12)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_12" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 12)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/dance,motif/death,motif/soul,motif/spring,motif/water,concept/ambition,concept/body,concept/grotesque,concept/hope,concept/paradox,concept/wonder,setting/court"></span>
 
 
 But as my new idealistic instructor tells me to analyze, I will
@@ -8221,7 +8221,7 @@ orrenda, in maniera fredda e scientifica.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_13" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 13)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_13" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 13)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/innocent,motif/marriage,motif/well,concept/beauty,concept/doubt,concept/hope,concept/suicide,concept/wonder,form/comedy,setting/court,setting/venice,character/antonio,character/celia,character/gratiano,character/jessica,character/launcelot_gobbo,character/lorenzo,character/olivia,character/portia,character/rosalind,character/shylock,character/viola"></span>
 
 
 It is not true, of course, that crime is a disease.
@@ -8363,7 +8363,7 @@ Comunque sia, l'incarico è quello; e io non sto qui sostenendo che non sia un i
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_14" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 14)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_14" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 14)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/innocent,archetype/tyrant,motif/bells,motif/cross,motif/garden,motif/river,motif/time,motif/well,concept/ambition,concept/courage,concept/hope,concept/suffering,concept/truth,concept/wonder,histref/america,histref/industrial_revolution,setting/america,setting/court,character/michael,character/portia"></span>
 
 
 I [[Wonder|wonder]] how many people are still duped by the story of
@@ -8522,7 +8522,7 @@ STAVO guardando alcuni ritagli di stampa che mi avevano inseguito fino a un remo
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_15" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 15)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_15" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 15)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/dawn,motif/garden,motif/time,motif/well,concept/comradeship,concept/fear,concept/friendship,concept/imagination,setting/venice,character/macbeth,character/shylock"></span>
 
 
 From the extracts I saw, it would seem that certain ladies were
@@ -8665,7 +8665,7 @@ LUNGHI elenchi vengono forniti di casi particolari in cui bambini hanno sofferto
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_16" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 16)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_16" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 16)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/hill,motif/prison,motif/time,motif/well,concept/eugenics,concept/fear,concept/imagination,concept/reform,form/lyric,form/short_story,histref/america,histref/inquisition,setting/america"></span>
 
 
 I will give two examples from my own most personal circle; I could
@@ -8805,7 +8805,7 @@ Invece di vedere nei bizzarri casi della lingua della mucca o della pecora belan
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_17" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 17)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_17" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 17)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/fire,motif/home,motif/night,motif/prison,motif/soul,motif/time,motif/water,motif/well,concept/conscience,concept/fear,concept/history,form/fable,form/history"></span>
 
 
 --
@@ -8952,7 +8952,7 @@ La vera obiezione risiede assai più a fondo. Comincia col semplice fatto che l'
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_18" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 18)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_18" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 18)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/crown,motif/soul,motif/stars,motif/summer,motif/time,concept/education,concept/freedom,concept/history,concept/honour,concept/hope,concept/slavery,concept/truth,form/epic,form/free_verse,form/history,form/lyric,form/sonnet,character/apollo"></span>
 
 
 For the rest, if anybody wants to strike the central stream of moderate
@@ -9080,7 +9080,7 @@ Ho sempre coltivato la fantasia che, se un uomo fosse davvero libero, parlerebbe
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_19" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 19)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_19" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 19)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/birds,motif/garden,motif/horse,motif/time,concept/conscience,concept/doubt,concept/freedom,concept/history,concept/longing,concept/truth,form/history,form/sonnet,histref/america,histref/milton,setting/america,character/milton"></span>
 
 
 But the [[Truth|truth]] behind all this is that expressed in that very ancient
@@ -9215,7 +9215,7 @@ Per esempio, il critico che qui mi arrischio a criticare dice che sul Proibizion
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_20" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 20)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_20" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 20)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/fire,motif/time,concept/body,concept/doubt,concept/freedom,concept/imagination,concept/mercy,concept/reform,concept/slavery,concept/truth"></span>
 
 
 For my part I do feel very strongly about the frivolity and
@@ -9339,7 +9339,7 @@ Il signor Arnold Bennett ha scritto di recente una delle sue _causeries_ umorist
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_21" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 21)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_21" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 21)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/villain,motif/garden,motif/soul,motif/spring,motif/time,concept/charity,concept/guilt,concept/mercy,concept/self,concept/sublime,histref/christianity,character/christ"></span>
 
 
 Mr. Arnold Bennett does not darken the question with the dreary
@@ -9570,7 +9570,7 @@ sono quasi schiavi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_22" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 22)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_22" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 22)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/shadow,archetype/villain,motif/fire,motif/ghosts,motif/home,motif/love,motif/soul,motif/time,concept/democracy,concept/doubt,concept/exile,concept/hope,concept/imagination,form/tragedy,histref/america,setting/america,setting/denmark,character/dwarf,character/hamlet"></span>
 
 
 For the heathen state is a Servile State.  And no one has
@@ -9696,7 +9696,7 @@ Si fa torto alle antiche regole classiche della critica artistica, perché non l
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_23" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 23)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_23" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 23)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/detective,archetype/king,motif/death,motif/home,motif/insects,motif/marriage,motif/time,motif/well,concept/freedom,concept/honour,concept/truth,form/novel"></span>
 
 
 We might say that superior literature is centripetal, while inferior
@@ -9833,7 +9833,7 @@ and I fancy I can guess why.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_24" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 24)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_24" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 24)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/quest,archetype/hero,motif/desire,motif/love,motif/marriage,motif/mutability,motif/nature,motif/time,motif/well,concept/beauty,concept/disillusionment,concept/freedom,concept/imagination,concept/nature,concept/truth,form/novel,form/satire,form/tragedy,character/arthur,character/helen"></span>
 
 
 A pedantic logician may perhaps imagine that a thing can only be
@@ -10048,7 +10048,7 @@ dietro, l'immagine si ripete senza scopo e senza finalità.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_25" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 25)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_25" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 25)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/autumn,motif/death,motif/fire,motif/garden,motif/road,motif/time,concept/doubt,concept/fear,concept/reform,concept/self,concept/truth,histref/spanish_inquisition,character/sebastian"></span>
 
 
 --
@@ -10251,7 +10251,7 @@ società. A tali livelli intellettuali può ritornare il mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_26" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 26)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_26" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 26)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,archetype/king,archetype/monster,motif/blood,motif/crown,motif/dawn,motif/decay,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/imagination,concept/longing,form/fable,form/satire,histref/america,setting/america,setting/denmark,setting/venice,character/cleopatra,character/cressida,character/macbeth,character/macduff,character/othello,character/shylock,character/troilus"></span>
 
 
 There are indeed yet lower levels.  There is a story from [[America]]
@@ -10540,7 +10540,7 @@ parallelo porcino, o nell'associazione figurata di maiali e codini.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_27" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 27)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_27" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 27)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/home,motif/love,motif/moon,motif/nature,motif/pain,motif/time,motif/water,motif/well,concept/fear,concept/honour,concept/immortality,concept/mortality,concept/nature,concept/paradox,concept/truth,form/tragedy,character/bottom"></span>
 
 
 But, as a matter of fact, the argument is especially apt in the case
@@ -10788,7 +10788,7 @@ di grado.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_28" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 28)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_28" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 28)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/double,archetype/king,archetype/shadow,motif/death,motif/dust,motif/home,motif/mirror,motif/nature,motif/soul,motif/tears,concept/conscience,concept/fear,concept/martyrdom,concept/nature,concept/suicide,concept/truth,form/tragedy"></span>
 
 
 Now there is a fault in every analogy; but the fault in my analogy is not
@@ -11008,7 +11008,7 @@ molto stupidi.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_29" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 29)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_29" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 29)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,motif/flowers,motif/love,motif/marriage,concept/melancholy,concept/slavery,concept/truth,setting/court,character/chorus"></span>
 
 
 --
@@ -11259,7 +11259,7 @@ da distruggere.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_30" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 30)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_30" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 30)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/love,motif/nature,motif/time,motif/well,concept/freedom,concept/nature,concept/resignation,concept/slavery,concept/truth,histref/christianity"></span>
 
 
 Free [[Love|love]] is the direct enemy of [[Freedom|freedom]].  It is the most obvious
@@ -11390,7 +11390,7 @@ Ora, è interessante chiederci che cosa il giornale intendesse davvero, quando f
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_31" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 31)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_31" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 31)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/city,motif/desert,motif/home,motif/lion,motif/memory,motif/ship,motif/time,motif/well,concept/charity,concept/deception,concept/education,concept/history,concept/hope,concept/reform,concept/self_deception,concept/suffering,concept/truth,form/history,form/novel,form/satire,setting/desert,setting/london,setting/ship"></span>
 
 
 In [[Truth|truth]], it would be much more practical to be more logical.
@@ -11533,7 +11533,7 @@ Miss May Sinclair scrisse un [[Novel|romanzo]] del genere che intendo, su una zi
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_32" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 32)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_32" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 32)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,motif/moon,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/fanaticism,concept/grotesque,concept/imprisonment,concept/self,concept/truth"></span>
 
 
 It seems a little hard on the late Victorian idealist to be
@@ -11671,7 +11671,7 @@ UNA FRASE, che tutti abbiamo udito, viene talvolta pronunciata da qualche ometto
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_33" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 33)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_33" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 33)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/city,motif/cross,motif/home,motif/sleep,motif/well,concept/reform,concept/self,concept/survival,form/tragedy,setting/court,setting/mountains,setting/russia,character/artful_dodger,character/falstaff,character/sam_weller,character/sunday,character/tony_weller"></span>
 
 
 He is punished if his [[Home|home]] is neglected though there is nobody
@@ -11802,7 +11802,7 @@ Nondimeno questo semicosciente buffone che è lo zimbello della nostra società 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_34" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 34)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_34" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 34)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/flowers,motif/leaves,motif/moon,motif/prayer,motif/soul,motif/time,concept/courage,concept/democracy,concept/doubt,concept/faith,concept/reform,concept/self,concept/suicide,concept/truth,concept/wonder,histref/bible"></span>
 
 
 In politics, of course, the case is the same.  I will defer
@@ -11924,7 +11924,7 @@ In realtà, sono gli uomini assai più delle donne ad aver avuto bisogno di una 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_35" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 35)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_35" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 35)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/monster,archetype/tyrant,motif/nature,motif/time,motif/well,motif/wind,concept/courage,concept/democracy,concept/madness,concept/nature,concept/reform"></span>
 
 
 Just as civilization is guarded by potential war, so it is guarded
@@ -12044,7 +12044,7 @@ QUALSIASI delle strane leggi che patiamo è un compromesso tra un capriccio e un
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_36" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 36)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_36" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 36)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/dust,motif/memory,concept/freedom,concept/friendship,concept/truth,form/parable"></span>
 
 
 What happens is something like this.  The line of least resistance
@@ -12179,7 +12179,7 @@ Ora l'unico modo in cui questa conclusiva spiegazione può essere confutata è m
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_37" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 37)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_37" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 37)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/fool,motif/well,concept/reform"></span>
 
 
 It might be a good thing to give the control of drink to the State--
@@ -12323,7 +12323,7 @@ L'argomento particolare relativo alle donne non è il punto principale; ma in ve
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_38" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 38)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_38" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 38)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/birds,motif/love,concept/democracy,concept/freedom,concept/history,concept/truth,form/history,form/novel,histref/america,histref/crusades,histref/new_england,setting/america,setting/castle,setting/mountains,character/arthur,character/king_arthur"></span>
 
 
 But it does not matter to the main question whether anybody else
@@ -12447,7 +12447,7 @@ Ora, il «Mayflower» è un mito. È un esempio intensamente interessante di un 
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_39" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 39)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_39" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 39)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,motif/ship,motif/spring,motif/time,motif/well,concept/greatness,concept/history,concept/honour,concept/imagination,concept/truth,concept/union,form/fable,form/history,histref/new_england,histref/puritanism,setting/london,setting/ship"></span>
 
 
 For at least the old fables are faults on the right side.
@@ -12571,7 +12571,7 @@ TUTTI gli uomini saggi converranno che la [[history|storia]] dovrebbe essere ins
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_40" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 40)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_40" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 40)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/poison,concept/history,concept/imagination,concept/nature,concept/truth,concept/union,form/history"></span>
 
 
 He begins with a small but singular error, which itself shows
@@ -12700,7 +12700,7 @@ Tutto lo scopo della [[history|storia]] è ampliare l'esperienza mediante l'[[Im
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_41" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 41)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_41" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 41)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/nakedness,motif/nature,motif/water,concept/beauty,concept/democracy,concept/fear,concept/freedom,concept/grotesque,concept/history,concept/nature,concept/self,concept/union,form/history,histref/america,setting/america,setting/oxford"></span>
 
 
 I [[Fear|fear]] [[The Professor|the professor]] will not follow me into matters so disturbing
@@ -12843,7 +12843,7 @@ Ma l'ultimo esempio che ho fatto, quello della normalità degli abiti o della [[
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_42" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 42)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_42" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 42)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/shadow,motif/desire,motif/nature,motif/rose,motif/time,motif/water,motif/well,concept/history,concept/hope,concept/nature,concept/survival,form/history,histref/america,setting/america"></span>
 
 
 Now at the back of all this, of course, the real difference is religious.
@@ -12989,7 +12989,7 @@ Ma la mia ignoranza della musica si dà il caso mi soccorra con una comoda metaf
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_43" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 43)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_43" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 43)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/nature,motif/rose,motif/water,motif/well,motif/wind,concept/doubt,concept/fear,concept/freedom,concept/history,concept/hope,concept/nature,concept/survival,concept/truth,form/history"></span>
 
 
 To explain what I mean I will take this parallel of the technique
@@ -13097,7 +13097,7 @@ C'è un'altra risposta che si dà spesso e che mi pare persino più illogica. Il
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_44" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 44)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_44" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 44)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/home,motif/prison,motif/soul,motif/time,motif/winter,concept/doubt,concept/education,concept/freedom,concept/hope,concept/truth,concept/vanity,character/macbeth"></span>
 
 
 And I would respectfully ask these critics what would be thought of a
@@ -13321,7 +13321,7 @@ deve essere libero di coprire anch'egli ogni materia.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_45" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 45)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_45" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 45)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/king,archetype/prophet,motif/garden,motif/home,motif/soul,motif/well,concept/despair,concept/doubt,concept/education,concept/paradox,concept/poverty,concept/slavery,concept/sublime,concept/truth,character/michael,character/nurse"></span>
 
 
 For the idea of a non-parental substitute is simply an illusion
@@ -13615,7 +13615,7 @@ Quando guardi negli occhi il solitario valletto, vedi che la sua
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_46" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 46)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_46" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 46)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/crown,motif/death,motif/love,motif/nature,motif/night,motif/prayer,motif/seasons,motif/soul,motif/well,concept/conscience,concept/education,concept/history,concept/nature,concept/suicide,concept/truth,concept/wonder,form/allegory,form/fable,form/history,character/nurse"></span>
 
 
 In other words, you find yourself at the foot of a steep and staggering
@@ -13857,7 +13857,7 @@ ma forse siamo noi che dovremmo cominciare a pregare.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_47" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 47)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_47" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 47)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/lightning,motif/nature,motif/river,motif/road,motif/soul,motif/stars,motif/time,motif/window,concept/body,concept/doubt,concept/hope,concept/nature,concept/providence,concept/revenge,concept/slavery,concept/truth,concept/wonder,setting/london"></span>
 
 
 In the current criticisms of the Strikes there is a particular tone,
@@ -14085,7 +14085,7 @@ Non lasciarti sbalordire da una metafora; non ci sono metafore nelle fiabe.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_48" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 48)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_48" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 48)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/horse,motif/window,motif/winter,concept/history,concept/self,form/essay,form/history"></span>
 
 
 --
@@ -14307,7 +14307,7 @@ tutti da biasimare.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_49" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 49)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_49" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 49)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="motif/mirror,motif/nature,motif/road,concept/courage,concept/history,concept/hope,concept/humility,concept/nature,concept/providence,concept/reform,concept/self,concept/slavery,concept/truth,form/history,histref/milton,histref/puritanism,setting/london,character/milton,character/sam_weller"></span>
 
 
 I am more and more convinced that what is wanted nowadays is not
@@ -14529,7 +14529,7 @@ cui si riferiva il signor Freeman.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_50" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 50)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_50" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 50)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/artist,archetype/shadow,motif/dawn,motif/death,motif/home,motif/love,motif/moon,motif/nature,motif/soul,motif/time,concept/conscience,concept/greatness,concept/history,concept/nature,concept/suicide,form/history,histref/milton,character/dorian_gray,character/florizel,character/milton"></span>
 
 
 My first impulse to write, and almost my first impulse to think,
@@ -14775,7 +14775,7 @@ e per il mero gusto di dirlo il più spesso possibile:
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_51" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 51)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_51" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 51)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/artist,motif/tears,motif/time,motif/well,concept/doubt,concept/freedom,concept/hope,concept/humility,concept/truth,form/epic,form/literary_criticism,histref/christianity,histref/milton,character/apollo,character/christ,character/milton,character/satan"></span>
 
 
 Dying put on the weeds of Dominic
@@ -14975,7 +14975,7 @@ i campi splendenti di un Paradiso che non è del tutto perduto.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_52" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 52)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_52" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 52)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/lightning,motif/memory,motif/time,motif/well,concept/apocalypse,concept/despair,concept/doubt,concept/freedom,concept/history,concept/truth,form/history,form/literary_criticism,histref/milton,histref/puritanism,character/milton"></span>
 
 
 Of such was the [[anti-puritan|anti-Puritan]] party; and the reader may learn
@@ -15195,7 +15195,7 @@ o libri come i «Gulliver's Travels».
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_53" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 53)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_53" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 53)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/artist,archetype/king,archetype/prophet,archetype/rebel,motif/stars,motif/well,concept/ambition,concept/fear,concept/history,concept/hope,concept/imagination,concept/madness,concept/mercy,concept/pride,concept/truth,form/allegory,form/history,form/literary_criticism,form/satire,form/sketch,character/oliver"></span>
 
 
 I will take only one example of what I mean by this purely
@@ -15409,7 +15409,7 @@ unico — [[Oliver]] Goldsmith.
 
 
 
-<span class="atom-split" data-atom="chapter_01_manufacturers--part_54" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 54)" data-chapter="MANUFACTURERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_manufacturers--part_54" data-title="Fancies Versis Fads — Book 1: MANUFACTURERS (part 54)" data-chapter="MANUFACTURERS" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/shadow,archetype/tyrant,motif/night,motif/prayer,motif/well,motif/wind,concept/hope,concept/pride,concept/truth,histref/puritanism,setting/venice"></span>
 
 
 I [[Hope|hope]] that the author of an admirable study of Mr. Belloc

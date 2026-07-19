@@ -1629,7 +1629,7 @@ So it is; let us be off to the hills. The silence and the immensity that inhabit
 
 
 
-<span class="atom-split" data-atom="story_01_on_song" data-title="On Everything — On Song" data-chapter="On Song" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_on_song" data-title="On Everything — On Song" data-chapter="On Song" data-kind="story" data-tags="motif/hill,motif/home,motif/river"></span>
 
 
 On Song
@@ -1701,7 +1701,7 @@ It is the best of all trades, to make songs, and the second best to sing them.
 
 
 
-<span class="atom-split" data-atom="story_02_on_an_empty_house" data-title="On Everything — On an Empty House" data-chapter="On an Empty House" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_an_empty_house" data-title="On Everything — On an Empty House" data-chapter="On an Empty House" data-kind="story" data-tags="motif/home,concept/tradition,setting/london"></span>
 
 
 On an Empty House
@@ -1727,7 +1727,7 @@ When he got to lunch at his friends’ house he told them that he would not take
 
 
 
-<span class="atom-split" data-atom="story_03_the_landfall" data-title="On Everything — The Landfall" data-chapter="The Landfall" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_the_landfall" data-title="On Everything — The Landfall" data-chapter="The Landfall" data-kind="story" data-tags="motif/hill,motif/home"></span>
 
 
 The Landfall
@@ -1767,7 +1767,7 @@ With that return to the common business of living the thought on which my mind h
 
 
 
-<span class="atom-split" data-atom="story_04_the_little_old_man" data-title="On Everything — The Little Old Man" data-chapter="The Little Old Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_little_old_man" data-title="On Everything — The Little Old Man" data-chapter="The Little Old Man" data-kind="story" data-tags="motif/home,concept/tradition"></span>
 
 
 The Little Old Man
@@ -1829,7 +1829,7 @@ He shook his head determinedly and like one who knows. He did assure me that in 
 
 
 
-<span class="atom-split" data-atom="story_05_the_long_march" data-title="On Everything — The Long March" data-chapter="The Long March" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_long_march" data-title="On Everything — The Long March" data-chapter="The Long March" data-kind="story" data-tags="setting/london"></span>
 
 
 The Long March
@@ -1875,7 +1875,7 @@ They are an incredible people!
 
 
 
-<span class="atom-split" data-atom="story_06_on_saturnalia" data-title="On Everything — On Saturnalia" data-chapter="On Saturnalia" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_on_saturnalia" data-title="On Everything — On Saturnalia" data-chapter="On Saturnalia" data-kind="story" data-tags="concept/faith"></span>
 
 
 On Saturnalia
@@ -1917,7 +1917,7 @@ For my part I shall look for the first signs in the provinces of rich and riotou
 
 
 
-<span class="atom-split" data-atom="story_07_a_little_conversation_in_herefordshire" data-title="On Everything — A Little Conversation in Herefordshire" data-chapter="A Little Conversation in Herefordshire" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_a_little_conversation_in_herefordshire" data-title="On Everything — A Little Conversation in Herefordshire" data-chapter="A Little Conversation in Herefordshire" data-kind="story" data-tags="motif/home,motif/river"></span>
 
 
 A Little Conversation in Herefordshire
@@ -1963,7 +1963,7 @@ He went on tasting them in silence, until the Daughter of the House, who felt aw
 
 
 
-<span class="atom-split" data-atom="story_08_on_the_rights_of_property" data-title="On Everything — On the Rights of Property" data-chapter="On the Rights of Property" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_on_the_rights_of_property" data-title="On Everything — On the Rights of Property" data-chapter="On the Rights of Property" data-kind="story" data-tags="setting/london"></span>
 
 
 On the Rights of Property
@@ -1993,7 +1993,7 @@ These three, not yet in a mood for sleep, sauntered together westward through th
 
 
 
-<span class="atom-split" data-atom="story_09_the_economist" data-title="On Everything — The Economist" data-chapter="The Economist" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_the_economist" data-title="On Everything — The Economist" data-chapter="The Economist" data-kind="story" data-tags="motif/home,setting/london"></span>
 
 
 The Economist
@@ -2065,7 +2065,7 @@ How various is man! How multiplied his experience, his outlook, his conclusions!
 
 
 
-<span class="atom-split" data-atom="story_10_a_little_conversation_in_carthage" data-title="On Everything — A Little Conversation in Carthage" data-chapter="A Little Conversation in Carthage" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_a_little_conversation_in_carthage" data-title="On Everything — A Little Conversation in Carthage" data-chapter="A Little Conversation in Carthage" data-kind="story" data-tags="motif/home,concept/tradition"></span>
 
 
 A Little Conversation in Carthage
@@ -2141,7 +2141,7 @@ Bethaal [leaning forwards to Matho]: Please don’t mind my cousin. You know he�
 
 
 
-<span class="atom-split" data-atom="story_11_the_strange_companion" data-title="On Everything — The Strange Companion" data-chapter="The Strange Companion" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_the_strange_companion" data-title="On Everything — The Strange Companion" data-chapter="The Strange Companion" data-kind="story" data-tags="concept/wonder,concept/faith_and_doubt,concept/tradition,concept/wit,form/short_story,setting/cathedral,setting/england"></span>
 
 
 The Strange Companion
@@ -2185,7 +2185,7 @@ I lost my companion at nine, and I have never seen him since, but he is surely s
 
 
 
-<span class="atom-split" data-atom="story_12_the_visitor" data-title="On Everything — The Visitor" data-chapter="The Visitor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_the_visitor" data-title="On Everything — The Visitor" data-chapter="The Visitor" data-kind="story" data-tags="motif/hill,motif/river,setting/london"></span>
 
 
 The Visitor
@@ -2301,7 +2301,7 @@ He then watched to see whether I would give him money for no particular reason, 
 
 
 
-<span class="atom-split" data-atom="story_13_a_reconstruction_of_the_past" data-title="On Everything — A Reconstruction of the Past" data-chapter="A Reconstruction of the Past" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_a_reconstruction_of_the_past" data-title="On Everything — A Reconstruction of the Past" data-chapter="A Reconstruction of the Past" data-kind="story" data-tags="concept/tradition,setting/london"></span>
 
 
 A Reconstruction of the Past
@@ -2323,7 +2323,7 @@ A Reconstruction of the Past
 
 
 
-<span class="atom-split" data-atom="story_14_the_reasonable_press" data-title="On Everything — The Reasonable Press" data-chapter="The Reasonable Press" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_reasonable_press" data-title="On Everything — The Reasonable Press" data-chapter="The Reasonable Press" data-kind="story" data-tags="motif/home"></span>
 
 
 The Reasonable Press
@@ -2369,7 +2369,7 @@ We are requested by the [[Home]] Office to give publicity to the arrangements fo
 
 
 
-<span class="atom-split" data-atom="story_15_asmodeus" data-title="On Everything — Asmodeus" data-chapter="Asmodeus" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_asmodeus" data-title="On Everything — Asmodeus" data-chapter="Asmodeus" data-kind="story" data-tags="motif/home"></span>
 
 
 Asmodeus
@@ -2461,7 +2461,7 @@ With these words Asmodeus took the Student by the hand and darted with inconceiv
 
 
 
-<span class="atom-split" data-atom="story_16_the_death_of_the_comic_author" data-title="On Everything — The Death of the Comic Author" data-chapter="The Death of the Comic Author" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_the_death_of_the_comic_author" data-title="On Everything — The Death of the Comic Author" data-chapter="The Death of the Comic Author" data-kind="story" data-tags="archetype/the_writer,motif/death,concept/satire_of_society,concept/greed,concept/money_and_avarice,form/satire,form/short_story,character/apollo"></span>
 
 
 The Death of the Comic Author
@@ -2513,7 +2513,7 @@ There is no moral to this simple story: it is one of the many tragedies which da
 
 
 
-<span class="atom-split" data-atom="story_17_on_certain_manners_and_customs--part_01" data-title="On Everything — On certain Manners and Customs (part 1)" data-chapter="On certain Manners and Customs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_on_certain_manners_and_customs--part_01" data-title="On Everything — On certain Manners and Customs (part 1)" data-chapter="On certain Manners and Customs" data-kind="excerpt" data-tags="topos/world_upside_down,concept/satire_of_society,concept/democracy,concept/economics,concept/class_conflict,concept/money_and_avarice,form/satire"></span>
 
 
 On certain Manners and Customs
@@ -2531,7 +2531,7 @@ If indeed those who are the wealthiest and therefore the most important in the S
 
 
 
-<span class="atom-split" data-atom="story_17_on_certain_manners_and_customs--part_02" data-title="On Everything — On certain Manners and Customs (part 2)" data-chapter="On certain Manners and Customs" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_17_on_certain_manners_and_customs--part_02" data-title="On Everything — On certain Manners and Customs (part 2)" data-chapter="On certain Manners and Customs" data-kind="excerpt" data-tags="concept/tradition"></span>
 
 
 I cannot conclude without telling you briefly the manner in which their Kings are elected, for it reflects in every detail at once the originality and the wisdom of this people.
@@ -2543,7 +2543,7 @@ When by a process of elimination the two strongest talkers have been discovered,
 
 
 
-<span class="atom-split" data-atom="story_18_the_statesman" data-title="On Everything — The Statesman" data-chapter="The Statesman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_the_statesman" data-title="On Everything — The Statesman" data-chapter="The Statesman" data-kind="story" data-tags="concept/faith,setting/london"></span>
 
 
 The Statesman
@@ -2603,7 +2603,7 @@ The Statesman
 
 
 
-<span class="atom-split" data-atom="story_19_the_duel--part_01" data-title="On Everything — The Duel (part 1)" data-chapter="The Duel" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_the_duel--part_01" data-title="On Everything — The Duel (part 1)" data-chapter="The Duel" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 The Duel
@@ -2631,7 +2631,7 @@ Before lunch the thing was arranged, and Mr. Newman, who was waiting in a rather
 
 
 
-<span class="atom-split" data-atom="story_19_the_duel--part_02" data-title="On Everything — The Duel (part 2)" data-chapter="The Duel" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_19_the_duel--part_02" data-title="On Everything — The Duel (part 2)" data-chapter="The Duel" data-kind="excerpt" data-tags="motif/hill,motif/home"></span>
 
 
 “But,” said the other second, interrupting him, “since we have chosen pistols that will not be much good, for the report will be heard.”
@@ -2661,7 +2661,7 @@ But they remembered that in democracies the office is distinguished from the man
 
 
 
-<span class="atom-split" data-atom="story_20_on_a_battle_or_journalism_or_points_of_v--part_01" data-title="On Everything — On a Battle, or “Journalism,” or “Points of View” (part 1)" data-chapter="On a Battle or Journalism or Points of V" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_on_a_battle_or_journalism_or_points_of_v--part_01" data-title="On Everything — On a Battle, or “Journalism,” or “Points of View” (part 1)" data-chapter="On a Battle or Journalism or Points of V" data-kind="excerpt" data-tags="motif/home,motif/river"></span>
 
 
 On a Battle, or “Journalism,” or “Points of View”
@@ -2697,7 +2697,7 @@ Extract from a Leading Article in one of the most Reputable Newspapers of the Ca
 
 
 
-<span class="atom-split" data-atom="story_20_on_a_battle_or_journalism_or_points_of_v--part_02" data-title="On Everything — On a Battle, or “Journalism,” or “Points of View” (part 2)" data-chapter="On a Battle or Journalism or Points of V" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_20_on_a_battle_or_journalism_or_points_of_v--part_02" data-title="On Everything — On a Battle, or “Journalism,” or “Points of View” (part 2)" data-chapter="On a Battle or Journalism or Points of V" data-kind="excerpt" data-tags="motif/river"></span>
 
 
 IV
@@ -2727,7 +2727,7 @@ Extract from a Lecture delivered by a Professor of Military History one hundred 
 
 
 
-<span class="atom-split" data-atom="story_21_a_descendant_of_william_shakespeare" data-title="On Everything — A Descendant of William Shakespeare" data-chapter="A Descendant of William Shakespeare" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_a_descendant_of_william_shakespeare" data-title="On Everything — A Descendant of William Shakespeare" data-chapter="A Descendant of William Shakespeare" data-kind="story" data-tags="motif/home,setting/london"></span>
 
 
 A Descendant of William Shakespeare
@@ -2769,7 +2769,7 @@ Though delighting in social intercourse, Mr. Hopper has the true gentleman’s i
 
 
 
-<span class="atom-split" data-atom="story_22_on_the_approach_to_western_england" data-title="On Everything — On the Approach to Western England" data-chapter="On the Approach to Western England" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_on_the_approach_to_western_england" data-title="On Everything — On the Approach to Western England" data-chapter="On the Approach to Western England" data-kind="story" data-tags="motif/hill,motif/home,motif/river,concept/tradition"></span>
 
 
 On the Approach to Western England
@@ -2809,7 +2809,7 @@ I could wish the differences of this island were so known and that people coming
 
 
 
-<span class="atom-split" data-atom="story_23_the_weald" data-title="On Everything — The Weald" data-chapter="The Weald" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_the_weald" data-title="On Everything — The Weald" data-chapter="The Weald" data-kind="story" data-tags="setting/london"></span>
 
 
 The Weald
@@ -2833,7 +2833,7 @@ She stands and still shall stand; she remains and shall remain: a watcher of the
 
 
 
-<span class="atom-split" data-atom="story_24_on_london_and_the_houses_in_it" data-title="On Everything — On London and the Houses in it" data-chapter="On London and the Houses in it" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_london_and_the_houses_in_it" data-title="On Everything — On London and the Houses in it" data-chapter="On London and the Houses in it" data-kind="story" data-tags="motif/home,motif/river,concept/tradition,setting/london"></span>
 
 
 On [[London]] and the Houses in it
@@ -2855,7 +2855,7 @@ It is better, I think, for those who have such memories when the material things
 
 
 
-<span class="atom-split" data-atom="story_25_on_old_towns" data-title="On Everything — On Old Towns" data-chapter="On Old Towns" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_old_towns" data-title="On Everything — On Old Towns" data-chapter="On Old Towns" data-kind="story" data-tags="motif/hill,motif/home"></span>
 
 
 On Old Towns
@@ -2891,7 +2891,7 @@ There is a moral to this, but I will not write it down, for in the first place i
 
 
 
-<span class="atom-split" data-atom="story_26_a_crossing_of_the_hills" data-title="On Everything — A Crossing of the Hills" data-chapter="A Crossing of the Hills" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_a_crossing_of_the_hills" data-title="On Everything — A Crossing of the Hills" data-chapter="A Crossing of the Hills" data-kind="story" data-tags="motif/hill,motif/home"></span>
 
 
 A Crossing of the Hills
@@ -2963,7 +2963,7 @@ We then continued our way down the darkening valley, whistling little English so
 
 
 
-<span class="atom-split" data-atom="story_27_the_barber" data-title="On Everything — The Barber" data-chapter="The Barber" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_barber" data-title="On Everything — The Barber" data-chapter="The Barber" data-kind="story" data-tags="motif/river,setting/london"></span>
 
 
 The Barber
@@ -3003,7 +3003,7 @@ In that next village I slept, and I went forward all the next day and half the n
 
 
 
-<span class="atom-split" data-atom="story_28_on_high_places" data-title="On Everything — On High Places" data-chapter="On High Places" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_on_high_places" data-title="On Everything — On High Places" data-chapter="On High Places" data-kind="story" data-tags="motif/hill,motif/river,setting/london"></span>
 
 
 On High Places
@@ -3021,7 +3021,7 @@ Among the many misfortunes of men confined to this island, in the great cities o
 
 
 
-<span class="atom-split" data-atom="story_29_on_some_little_horses" data-title="On Everything — On Some Little Horses" data-chapter="On Some Little Horses" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_on_some_little_horses" data-title="On Everything — On Some Little Horses" data-chapter="On Some Little Horses" data-kind="story" data-tags="motif/home"></span>
 
 
 On Some Little Horses
@@ -3053,7 +3053,7 @@ Not so the Little Horses.
 
 
 
-<span class="atom-split" data-atom="story_30_on_streams_and_rivers" data-title="On Everything — On Streams and Rivers" data-chapter="On Streams and Rivers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_on_streams_and_rivers" data-title="On Everything — On Streams and Rivers" data-chapter="On Streams and Rivers" data-kind="story" data-tags="motif/hill,motif/river"></span>
 
 
 On Streams and Rivers
@@ -3085,7 +3085,7 @@ There is one English river out of at least thirty others. I wish that all were k
 
 
 
-<span class="atom-split" data-atom="story_31_on_two_manuals" data-title="On Everything — On Two Manuals" data-chapter="On Two Manuals" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_on_two_manuals" data-title="On Everything — On Two Manuals" data-chapter="On Two Manuals" data-kind="story" data-tags="concept/faith,setting/london"></span>
 
 
 On Two Manuals
@@ -3111,7 +3111,7 @@ But this revolution will not take place. The two books of which I speak will not
 
 
 
-<span class="atom-split" data-atom="story_32_on_fantastic_books" data-title="On Everything — On Fantastic Books" data-chapter="On Fantastic Books" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_on_fantastic_books" data-title="On Everything — On Fantastic Books" data-chapter="On Fantastic Books" data-kind="story" data-tags="motif/the_book,concept/imagination,concept/wonder,form/essay,form/literary_criticism,histref/rabelais,character/dante,character/h_g_wells"></span>
 
 
 On Fantastic Books
@@ -3151,7 +3151,7 @@ Also, in the Perigord, truffles are hunted with Hounds.
 
 
 
-<span class="atom-split" data-atom="story_33_the_unfortunate_man" data-title="On Everything — The Unfortunate Man" data-chapter="The Unfortunate Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_the_unfortunate_man" data-title="On Everything — The Unfortunate Man" data-chapter="The Unfortunate Man" data-kind="story" data-tags="motif/home"></span>
 
 
 The Unfortunate Man
@@ -3185,7 +3185,7 @@ He is now living, broken and prematurely aged, in a brick house which he has bui
 
 
 
-<span class="atom-split" data-atom="story_34_the_contented_man" data-title="On Everything — The Contented Man" data-chapter="The Contented Man" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_the_contented_man" data-title="On Everything — The Contented Man" data-chapter="The Contented Man" data-kind="story" data-tags="motif/home,setting/london"></span>
 
 
 The Contented Man
@@ -3207,7 +3207,7 @@ I could not explain that content of his in any way save upon the hypothesis that
 
 
 
-<span class="atom-split" data-atom="story_35_the_missioner--part_01" data-title="On Everything — The Missioner (part 1)" data-chapter="The Missioner" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_the_missioner--part_01" data-title="On Everything — The Missioner (part 1)" data-chapter="The Missioner" data-kind="excerpt" data-tags="motif/home"></span>
 
 
 The Missioner
@@ -3239,7 +3239,7 @@ When the Chief heard this he asked the Pilot, not as a man possessing divine kno
 
 
 
-<span class="atom-split" data-atom="story_35_the_missioner--part_02" data-title="On Everything — The Missioner (part 2)" data-chapter="The Missioner" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_35_the_missioner--part_02" data-title="On Everything — The Missioner (part 2)" data-chapter="The Missioner" data-kind="excerpt" data-tags="motif/home,concept/faith"></span>
 
 
 When he had said this they all looked at the Stranger and they saw that he had with him a little instrument that was not known to them, for it was a flute of metal. It was of silver, as they could see, long drawn and very delicately made, and with this had he summoned at the gate.
@@ -3265,7 +3265,7 @@ The [[Faith]] went over the world as very light seed goes upon the wind, and no 
 
 
 
-<span class="atom-split" data-atom="story_36_the_dream" data-title="On Everything — The Dream" data-chapter="The Dream" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_the_dream" data-title="On Everything — The Dream" data-chapter="The Dream" data-kind="story" data-tags="concept/faith,setting/london"></span>
 
 
 The Dream
@@ -3291,7 +3291,7 @@ The dreamer suddenly felt the wine of that feast, the words spoken round him, mo
 
 
 
-<span class="atom-split" data-atom="story_37_the_silence_of_the_battlefields" data-title="On Everything — The Silence of the Battlefields" data-chapter="The Silence of the Battlefields" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_the_silence_of_the_battlefields" data-title="On Everything — The Silence of the Battlefields" data-chapter="The Silence of the Battlefields" data-kind="story" data-tags="motif/hill"></span>
 
 
 The Silence of the Battlefields
@@ -3319,7 +3319,7 @@ Loneliest of all, with a loneliness which perpetually haunts me whenever I write
 
 
 
-<span class="atom-split" data-atom="story_38_novissima_hora" data-title="On Everything — Novissima Hora" data-chapter="Novissima Hora" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_novissima_hora" data-title="On Everything — Novissima Hora" data-chapter="Novissima Hora" data-kind="story" data-tags="motif/hill"></span>
 
 
 Novissima Hora
@@ -3353,7 +3353,7 @@ Here his mind failed, and he had died. It was Napoleon.
 
 
 
-<span class="atom-split" data-atom="story_39_on_rest" data-title="On Everything — On Rest" data-chapter="On Rest" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_on_rest" data-title="On Everything — On Rest" data-chapter="On Rest" data-kind="story" data-tags="motif/home,motif/river"></span>
 
 
 On Rest

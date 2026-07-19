@@ -957,7 +957,7 @@ First published in 1899, this epistolary novel draws on Conan Doyle’s personal
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/desert,motif/journey,setting/desert,setting/egypt,character/cecil_brown,character/colonel_cochrane_cochrane,character/james_stephens,character/miss_sadie_adams"></span>
 
 
 CHAPTER I
@@ -1047,7 +1047,7 @@ The American was puzzled.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="motif/desert,setting/desert,setting/egypt,character/cecil_brown"></span>
 
 
 CHAPTER II
@@ -1088,7 +1088,7 @@ Down below they could hear the mellow Irish accents of Mrs. Belmont and the deep
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/desert,concept/courage,setting/desert,setting/egypt,character/cecil_brown,character/miss_sadie_adams"></span>
 
 
 CHAPTER III
@@ -1188,7 +1188,7 @@ They all looked at the long string of red-turbaned riders who were winding out o
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/villain,motif/desert,concept/fear,setting/desert,character/cecil_brown"></span>
 
 
 CHAPTER IV
@@ -1275,7 +1275,7 @@ The Colonel shook his head.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="archetype/villain,motif/desert,motif/journey,concept/courage,concept/fear,setting/desert,setting/egypt,character/cecil_brown"></span>
 
 
 CHAPTER V
@@ -1368,7 +1368,7 @@ There was something there upon a camel, but it was difficult to catch a glimpse 
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/desert,concept/courage,concept/fanaticism,concept/fear,setting/desert,setting/egypt"></span>
 
 
 CHAPTER VI
@@ -1496,7 +1496,7 @@ What is there in life that we should cling to it so? It is not the pleasures, fo
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/villain,motif/desert,concept/fear,setting/desert,setting/egypt"></span>
 
 
 CHAPTER VII
@@ -1574,7 +1574,7 @@ The wells in the centre of the grove consisted of seven large and two small sauc
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/desert,concept/fear,setting/desert,setting/egypt"></span>
 
 
 CHAPTER VIII
@@ -1735,7 +1735,7 @@ It was to Belmont that he held them first. The Irishman gave an involuntary groa
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/hero,motif/desert,motif/journey,concept/fear,setting/desert"></span>
 
 
 CHAPTER IX
@@ -1844,7 +1844,7 @@ But Mrs. Belmont’s eyes were far away, and she shook her head sadly as she gen
 
 
 
-<span class="atom-split" data-atom="chapter_10" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 10" data-chapter="Chapter 10" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10" data-title="THE TRAGEDY OF THE KOROSKO — Chapter 10" data-chapter="Chapter 10" data-kind="chapter" data-tags="motif/desert,concept/courage,concept/fear,setting/desert,setting/egypt"></span>
 
 
 CHAPTER X

@@ -140,7 +140,7 @@ up a hypochondriac.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="On_Lying_In_Bed (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="On_Lying_In_Bed (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/desire,motif/fire,motif/marriage,motif/window,concept/freedom,concept/unattainable,histref/bible"></span>
 
 
 # On Lying In Bed
@@ -316,7 +316,7 @@ ma non vi è nulla di buono in esso né di cattivo nel suo opposto.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="On_Lying_In_Bed (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="On_Lying_In_Bed (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/clock,motif/garden,motif/night,motif/well"></span>
 
 
 Misers get up early in the morning; and burglars, I am informed,

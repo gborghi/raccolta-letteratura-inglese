@@ -1807,7 +1807,7 @@ FINIS
 
 
 
-<span class="atom-split" data-atom="story_01_to_nothing_the_human_race_in_gratitude" data-title="On Nothing and Kindred Subjects — TO NOTHING. THE HUMAN RACE IN GRATITUDE." data-chapter="TO NOTHING THE HUMAN RACE IN GRATITUDE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_to_nothing_the_human_race_in_gratitude" data-title="On Nothing and Kindred Subjects — TO NOTHING. THE HUMAN RACE IN GRATITUDE." data-chapter="TO NOTHING THE HUMAN RACE IN GRATITUDE" data-kind="story" data-tags="setting/england"></span>
 
 
 TO NOTHING. THE HUMAN RACE IN GRATITUDE.
@@ -1845,7 +1845,7 @@ Amen.
 
 
 
-<span class="atom-split" data-atom="story_02_on_nothing_on_the_pleasure_of_taking_up" data-title="On Nothing and Kindred Subjects — ON NOTHING. ON THE PLEASURE OF TAKING UP ONE’S PEN" data-chapter="ON NOTHING ON THE PLEASURE OF TAKING UP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_on_nothing_on_the_pleasure_of_taking_up" data-title="On Nothing and Kindred Subjects — ON NOTHING. ON THE PLEASURE OF TAKING UP ONE’S PEN" data-chapter="ON NOTHING ON THE PLEASURE OF TAKING UP" data-kind="story" data-tags="archetype/the_writer"></span>
 
 
 ON NOTHING. ON THE PLEASURE OF TAKING UP ONE’S PEN
@@ -1883,7 +1883,7 @@ But the pen you lay down when you will. At any moment: without remorse, without 
 
 
 
-<span class="atom-split" data-atom="story_03_on_getting_respected_in_inns_and_hotels" data-title="On Nothing and Kindred Subjects — ON GETTING RESPECTED IN INNS AND HOTELS" data-chapter="ON GETTING RESPECTED IN INNS AND HOTELS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_on_getting_respected_in_inns_and_hotels" data-title="On Nothing and Kindred Subjects — ON GETTING RESPECTED IN INNS AND HOTELS" data-chapter="ON GETTING RESPECTED IN INNS AND HOTELS" data-kind="story" data-tags="setting/oxford"></span>
 
 
 ON GETTING RESPECTED IN INNS AND HOTELS
@@ -1921,7 +1921,7 @@ And the fifth way is to be Strong, to Dominate and to Lead. To be one of the Mak
 
 
 
-<span class="atom-split" data-atom="story_04_on_ignorance" data-title="On Nothing and Kindred Subjects — ON IGNORANCE" data-chapter="ON IGNORANCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_on_ignorance" data-title="On Nothing and Kindred Subjects — ON IGNORANCE" data-chapter="ON IGNORANCE" data-kind="story" data-tags="concept/nonsense"></span>
 
 
 ON IGNORANCE
@@ -1991,7 +1991,7 @@ This you then do to him or he to you, mutatis mutandis, ceteris paribus; and tha
 
 
 
-<span class="atom-split" data-atom="story_05_on_advertisement" data-title="On Nothing and Kindred Subjects — ON ADVERTISEMENT" data-chapter="ON ADVERTISEMENT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_on_advertisement" data-title="On Nothing and Kindred Subjects — ON ADVERTISEMENT" data-chapter="ON ADVERTISEMENT" data-kind="story" data-tags="concept/nonsense"></span>
 
 
 ON ADVERTISEMENT
@@ -2031,7 +2031,7 @@ Very faithfully yours,
 
 
 
-<span class="atom-split" data-atom="story_06_henry_de_la_mere_ullmo" data-title="On Nothing and Kindred Subjects — HENRY DE LA MERE ULLMO." data-chapter="HENRY DE LA MERE ULLMO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_henry_de_la_mere_ullmo" data-title="On Nothing and Kindred Subjects — HENRY DE LA MERE ULLMO." data-chapter="HENRY DE LA MERE ULLMO" data-kind="story" data-tags="motif/letters_and_writing,concept/satire_of_society,concept/greed,concept/money_and_avarice,concept/vulgarity,form/satire,form/sketch"></span>
 
 
 HENRY DE LA MERE ULLMO.
@@ -2055,7 +2055,7 @@ And there it is. There is no moral; there is no conclusion or application. The w
 
 
 
-<span class="atom-split" data-atom="story_07_on_a_house" data-title="On Nothing and Kindred Subjects — ON A HOUSE" data-chapter="ON A HOUSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_on_a_house" data-title="On Nothing and Kindred Subjects — ON A HOUSE" data-chapter="ON A HOUSE" data-kind="story" data-tags="motif/the_house,motif/decay,concept/transience,concept/nostalgia,concept/loneliness,concept/memory,form/essay"></span>
 
 
 ON A HOUSE
@@ -2103,7 +2103,7 @@ Heaven send us such a house, or a house of some kind; but Heaven send us also th
 
 
 
-<span class="atom-split" data-atom="story_08_the_illness_of_my_muse" data-title="On Nothing and Kindred Subjects — THE ILLNESS OF MY MUSE" data-chapter="THE ILLNESS OF MY MUSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_the_illness_of_my_muse" data-title="On Nothing and Kindred Subjects — THE ILLNESS OF MY MUSE" data-chapter="THE ILLNESS OF MY MUSE" data-kind="story" data-tags="archetype/the_writer,concept/creative_sterility,concept/satire_of_society,concept/literary_criticism,form/allegory,form/satire,character/rudyard_kipling"></span>
 
 
 ONE THE ILLNESS OF MY MUSE
@@ -2139,7 +2139,7 @@ I thought it polite as I took him to the door to ask after some of his more dist
 
 
 
-<span class="atom-split" data-atom="story_09_on_a_dog_and_a_man_also" data-title="On Nothing and Kindred Subjects — ON A DOG AND A MAN ALSO" data-chapter="ON A DOG AND A MAN ALSO" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_on_a_dog_and_a_man_also" data-title="On Nothing and Kindred Subjects — ON A DOG AND A MAN ALSO" data-chapter="ON A DOG AND A MAN ALSO" data-kind="story" data-tags="motif/animals,concept/solitude,concept/loneliness,concept/grief_and_loss,form/essay,character/odysseus"></span>
 
 
 ON A DOG AND A MAN ALSO
@@ -2199,7 +2199,7 @@ Then in my heart I prayed that of these two (unless The God would make them both
 
 
 
-<span class="atom-split" data-atom="story_10_on_tea" data-title="On Nothing and Kindred Subjects — ON TEA" data-chapter="ON TEA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_on_tea" data-title="On Nothing and Kindred Subjects — ON TEA" data-chapter="ON TEA" data-kind="story" data-tags="motif/childhood,concept/nostalgia,concept/memory,concept/childhood_and_growth,concept/transience,concept/materialism,form/essay"></span>
 
 
 ON TEA
@@ -2227,7 +2227,7 @@ Well, then, it fades…. I begin to see that this cannot continue … of Tea it 
 
 
 
-<span class="atom-split" data-atom="story_11_on_them" data-title="On Nothing and Kindred Subjects — ON THEM" data-chapter="ON THEM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_on_them" data-title="On Nothing and Kindred Subjects — ON THEM" data-chapter="ON THEM" data-kind="story" data-tags="motif/animals,concept/the_supernatural,concept/superstition_and_omen,form/essay,form/satire"></span>
 
 
 ON THEM
@@ -2257,7 +2257,7 @@ All that They do is venomous, and all that They think is evil, and when I take m
 
 
 
-<span class="atom-split" data-atom="story_12_on_railways_and_things--part_01" data-title="On Nothing and Kindred Subjects — ON RAILWAYS AND THINGS (part 1)" data-chapter="ON RAILWAYS AND THINGS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_on_railways_and_things--part_01" data-title="On Nothing and Kindred Subjects — ON RAILWAYS AND THINGS (part 1)" data-chapter="ON RAILWAYS AND THINGS" data-kind="excerpt" data-tags="concept/solitude"></span>
 
 
 ON RAILWAYS AND THINGS
@@ -2281,7 +2281,7 @@ Thanks to my railway I can sit in the garden of an evening and read my paper as 
 
 
 
-<span class="atom-split" data-atom="story_12_on_railways_and_things--part_02" data-title="On Nothing and Kindred Subjects — ON RAILWAYS AND THINGS (part 2)" data-chapter="ON RAILWAYS AND THINGS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_12_on_railways_and_things--part_02" data-title="On Nothing and Kindred Subjects — ON RAILWAYS AND THINGS (part 2)" data-chapter="ON RAILWAYS AND THINGS" data-kind="excerpt" data-tags="setting/england"></span>
 
 
 Yet another good we owe to railways occurs to me. They keep the small towns going.
@@ -2309,7 +2309,7 @@ For the rest I cannot detail the innumerable minor advantages of railways; the m
 
 
 
-<span class="atom-split" data-atom="story_13_on_conversations_in_trains" data-title="On Nothing and Kindred Subjects — ON CONVERSATIONS IN TRAINS" data-chapter="ON CONVERSATIONS IN TRAINS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_on_conversations_in_trains" data-title="On Nothing and Kindred Subjects — ON CONVERSATIONS IN TRAINS" data-chapter="ON CONVERSATIONS IN TRAINS" data-kind="story" data-tags="setting/england"></span>
 
 
 ON CONVERSATIONS IN TRAINS
@@ -2417,7 +2417,7 @@ Mocks holy beauty and our desire returned.”
 
 
 
-<span class="atom-split" data-atom="story_14_on_the_return_of_the_dead" data-title="On Nothing and Kindred Subjects — ON THE RETURN OF THE DEAD" data-chapter="ON THE RETURN OF THE DEAD" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_on_the_return_of_the_dead" data-title="On Nothing and Kindred Subjects — ON THE RETURN OF THE DEAD" data-chapter="ON THE RETURN OF THE DEAD" data-kind="story" data-tags="motif/ghosts,concept/spiritualism,concept/the_supernatural,form/satire,histref/rabelais,histref/boer_war"></span>
 
 
 ON THE RETURN OF THE DEAD
@@ -2469,7 +2469,7 @@ I do not say that Rabelais was not over-hasty both in his appearance and his dep
 
 
 
-<span class="atom-split" data-atom="story_15_on_the_approach_of_an_awful_doom" data-title="On Nothing and Kindred Subjects — ON THE APPROACH OF AN AWFUL DOOM" data-chapter="ON THE APPROACH OF AN AWFUL DOOM" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_on_the_approach_of_an_awful_doom" data-title="On Nothing and Kindred Subjects — ON THE APPROACH OF AN AWFUL DOOM" data-chapter="ON THE APPROACH OF AN AWFUL DOOM" data-kind="story" data-tags="concept/being_and_existence,concept/reason_and_rationalism,form/satire,histref/samuel_taylor_coleridge,character/thomas_aquinas,character/albertus_magnus,character/rousseau"></span>
 
 
 ON THE APPROACH OF AN AWFUL DOOM
@@ -2505,7 +2505,7 @@ Well, what must be must be, and what will be will be, and if the Rich are upon u
 
 
 
-<span class="atom-split" data-atom="story_16_on_a_rich_man_who_suffered" data-title="On Nothing and Kindred Subjects — ON A RICH MAN WHO SUFFERED" data-chapter="ON A RICH MAN WHO SUFFERED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_on_a_rich_man_who_suffered" data-title="On Nothing and Kindred Subjects — ON A RICH MAN WHO SUFFERED" data-chapter="ON A RICH MAN WHO SUFFERED" data-kind="story" data-tags="concept/satire_of_society,concept/capitalism,concept/class_conflict,concept/money_and_avarice,concept/materialism,form/satire"></span>
 
 
 ON A RICH MAN WHO SUFFERED
@@ -2581,7 +2581,7 @@ The unhappy story need not be pursued. Like every misfortune it bred a crop of o
 
 
 
-<span class="atom-split" data-atom="story_17_on_a_child_who_died" data-title="On Nothing and Kindred Subjects — ON A CHILD WHO DIED" data-chapter="ON A CHILD WHO DIED" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_on_a_child_who_died" data-title="On Nothing and Kindred Subjects — ON A CHILD WHO DIED" data-chapter="ON A CHILD WHO DIED" data-kind="story" data-tags="setting/england,setting/oxford"></span>
 
 
 ON A CHILD WHO DIED
@@ -2641,7 +2641,7 @@ His portrait may be found in Annals of the Rutlandshire Gentry, a book recently 
 
 
 
-<span class="atom-split" data-atom="story_18_on_a_lost_manuscript" data-title="On Nothing and Kindred Subjects — ON A LOST MANUSCRIPT" data-chapter="ON A LOST MANUSCRIPT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_on_a_lost_manuscript" data-title="On Nothing and Kindred Subjects — ON A LOST MANUSCRIPT" data-chapter="ON A LOST MANUSCRIPT" data-kind="story" data-tags="archetype/the_writer,motif/letters_and_writing,concept/grief_and_loss,concept/creative_sterility,form/essay,setting/africa"></span>
 
 
 ON A LOST MANUSCRIPT
@@ -2683,7 +2683,7 @@ I will not console myself with the uncertain guess that things perished are in s
 
 
 
-<span class="atom-split" data-atom="story_19_on_a_man_who_was_protected_by_another_ma" data-title="On Nothing and Kindred Subjects — ON A MAN WHO WAS PROTECTED BY ANOTHER MAN" data-chapter="ON A MAN WHO WAS PROTECTED BY ANOTHER MA" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_on_a_man_who_was_protected_by_another_ma" data-title="On Nothing and Kindred Subjects — ON A MAN WHO WAS PROTECTED BY ANOTHER MAN" data-chapter="ON A MAN WHO WAS PROTECTED BY ANOTHER MA" data-kind="story" data-tags="motif/desert,motif/money_and_gold,concept/empire_and_imperialism,concept/greed,form/parable,form/allegory,setting/the_desert"></span>
 
 
 ON A MAN WHO WAS PROTECTED BY ANOTHER MAN
@@ -2777,7 +2777,7 @@ Mahmoud was so pleased with this song that he wrote it down, a thing he only did
 
 
 
-<span class="atom-split" data-atom="story_20_on_national_debts_which_are_imaginaries" data-title="On Nothing and Kindred Subjects — ON NATIONAL DEBTS (WHICH ARE IMAGINARIES AND TRUE NOTHINGS OF STATE)" data-chapter="ON NATIONAL DEBTS WHICH ARE IMAGINARIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_on_national_debts_which_are_imaginaries" data-title="On Nothing and Kindred Subjects — ON NATIONAL DEBTS (WHICH ARE IMAGINARIES AND TRUE NOTHINGS OF STATE)" data-chapter="ON NATIONAL DEBTS WHICH ARE IMAGINARIES" data-kind="story" data-tags="concept/economics,concept/money_and_avarice,concept/satire_of_society,form/allegory,form/satire"></span>
 
 
 ON NATIONAL DEBTS (WHICH ARE IMAGINARIES AND TRUE NOTHINGS OF STATE)
@@ -2825,7 +2825,7 @@ Thus miserably perished Peter and Paul, the one in the thirtieth, the other in t
 
 
 
-<span class="atom-split" data-atom="story_21_on_lords" data-title="On Nothing and Kindred Subjects — ON LORDS" data-chapter="ON LORDS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_on_lords" data-title="On Nothing and Kindred Subjects — ON LORDS" data-chapter="ON LORDS" data-kind="story" data-tags="setting/england"></span>
 
 
 ON LORDS
@@ -2855,7 +2855,7 @@ NOTE. — I find I am wrong upon Viscounts, but as I did not discover this until
 
 
 
-<span class="atom-split" data-atom="story_22_on_jingoes_in_the_shape_of_a_warning_bei--part_01" data-title="On Nothing and Kindred Subjects — ON JINGOES: IN THE SHAPE OF A WARNING BEING (part 1)" data-chapter="ON JINGOES IN THE SHAPE OF A WARNING BEI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_on_jingoes_in_the_shape_of_a_warning_bei--part_01" data-title="On Nothing and Kindred Subjects — ON JINGOES: IN THE SHAPE OF A WARNING BEING (part 1)" data-chapter="ON JINGOES IN THE SHAPE OF A WARNING BEI" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/empire_and_imperialism,concept/satire_of_society,form/satire,form/allegory,character/john_bull"></span>
 
 
 ON JINGOES: IN THE SHAPE OF A WARNING BEING
@@ -2893,7 +2893,7 @@ About this time he began to think himself too fine a gentleman to live over the 
 
 
 
-<span class="atom-split" data-atom="story_22_on_jingoes_in_the_shape_of_a_warning_bei--part_02" data-title="On Nothing and Kindred Subjects — ON JINGOES: IN THE SHAPE OF A WARNING BEING (part 2)" data-chapter="ON JINGOES IN THE SHAPE OF A WARNING BEI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_22_on_jingoes_in_the_shape_of_a_warning_bei--part_02" data-title="On Nothing and Kindred Subjects — ON JINGOES: IN THE SHAPE OF A WARNING BEING (part 2)" data-chapter="ON JINGOES IN THE SHAPE OF A WARNING BEI" data-kind="excerpt" data-tags="motif/the_flag,concept/nationalism_and_patriotism,concept/empire_and_imperialism,concept/satire_of_society,form/satire,character/john_bull"></span>
 
 
 He hired a singing man to stand before his door day and night singing vulgar songs out of the street in praise of Dick Turpin and Molly Nog, only forcing him to put in his name of Jack Bull in the place of the Murderer or Oyster Wench therein celebrated.
@@ -2923,7 +2923,7 @@ But of how he came to selling tokens of little leaden soldiers at a penny in fro
 
 
 
-<span class="atom-split" data-atom="story_23_on_a_winged_horse_and_the_exile_who_rode" data-title="On Nothing and Kindred Subjects — ON A WINGED HORSE AND THE EXILE WHO RODE HIM" data-chapter="ON A WINGED HORSE AND THE EXILE WHO RODE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_on_a_winged_horse_and_the_exile_who_rode" data-title="On Nothing and Kindred Subjects — ON A WINGED HORSE AND THE EXILE WHO RODE HIM" data-chapter="ON A WINGED HORSE AND THE EXILE WHO RODE" data-kind="story" data-tags="setting/england,setting/oxford"></span>
 
 
 ON A WINGED HORSE AND THE EXILE WHO RODE HIM
@@ -3039,7 +3039,7 @@ Some of those to whom I have related this adventure criticise it by the method o
 
 
 
-<span class="atom-split" data-atom="story_24_on_a_man_and_his_burden" data-title="On Nothing and Kindred Subjects — ON A MAN AND HIS BURDEN" data-chapter="ON A MAN AND HIS BURDEN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_on_a_man_and_his_burden" data-title="On Nothing and Kindred Subjects — ON A MAN AND HIS BURDEN" data-chapter="ON A MAN AND HIS BURDEN" data-kind="story" data-tags="archetype/pilgrim,concept/doubt,concept/suffering,concept/endurance,form/allegory"></span>
 
 
 ON A MAN AND HIS BURDEN
@@ -3099,7 +3099,7 @@ I trust that with this Key the Parable will be clear to all.
 
 
 
-<span class="atom-split" data-atom="story_25_on_a_fisherman_and_the_quest_of_peace" data-title="On Nothing and Kindred Subjects — ON A FISHERMAN AND THE QUEST OF PEACE" data-chapter="ON A FISHERMAN AND THE QUEST OF PEACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_on_a_fisherman_and_the_quest_of_peace" data-title="On Nothing and Kindred Subjects — ON A FISHERMAN AND THE QUEST OF PEACE" data-chapter="ON A FISHERMAN AND THE QUEST OF PEACE" data-kind="story" data-tags="setting/england"></span>
 
 
 ON A FISHERMAN AND THE QUEST OF PEACE
@@ -3149,7 +3149,7 @@ Had it been a pike or a trout I could have told it, for I am well acquainted wit
 
 
 
-<span class="atom-split" data-atom="story_26_on_a_hermit_whom_i_knew" data-title="On Nothing and Kindred Subjects — ON A HERMIT WHOM I KNEW" data-chapter="ON A HERMIT WHOM I KNEW" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_on_a_hermit_whom_i_knew" data-title="On Nothing and Kindred Subjects — ON A HERMIT WHOM I KNEW" data-chapter="ON A HERMIT WHOM I KNEW" data-kind="story" data-tags="concept/solitude"></span>
 
 
 ON A HERMIT WHOM I KNEW
@@ -3219,7 +3219,7 @@ Of the many strange men I have met in my travels he was one of the most strange 
 
 
 
-<span class="atom-split" data-atom="story_27_of_an_unknown_country" data-title="On Nothing and Kindred Subjects — OF AN UNKNOWN COUNTRY" data-chapter="OF AN UNKNOWN COUNTRY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_of_an_unknown_country" data-title="On Nothing and Kindred Subjects — OF AN UNKNOWN COUNTRY" data-chapter="OF AN UNKNOWN COUNTRY" data-kind="story" data-tags="motif/the_book,concept/longing,concept/the_unattainable,concept/imagination,concept/aspiration,form/essay"></span>
 
 
 OF AN UNKNOWN COUNTRY
@@ -3281,7 +3281,7 @@ Whether we shall reach this country at last or whether we shall not, it is impos
 
 
 
-<span class="atom-split" data-atom="story_28_on_a_faery_castle" data-title="On Nothing and Kindred Subjects — ON A FAERY CASTLE" data-chapter="ON A FAERY CASTLE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_on_a_faery_castle" data-title="On Nothing and Kindred Subjects — ON A FAERY CASTLE" data-chapter="ON A FAERY CASTLE" data-kind="story" data-tags="motif/the_castle,motif/the_supernatural,concept/the_unattainable,concept/longing,concept/imagination,form/essay"></span>
 
 
 ON A FAERY CASTLE
@@ -3373,7 +3373,7 @@ Where the vision is but mirage, even there it is a symbol of our goal; where it 
 
 
 
-<span class="atom-split" data-atom="story_29_on_a_southern_harbour" data-title="On Nothing and Kindred Subjects — ON A SOUTHERN HARBOUR" data-chapter="ON A SOUTHERN HARBOUR" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_on_a_southern_harbour" data-title="On Nothing and Kindred Subjects — ON A SOUTHERN HARBOUR" data-chapter="ON A SOUTHERN HARBOUR" data-kind="story" data-tags="topos/open_road_homecoming,motif/the_sea,motif/ship,motif/journey,concept/exile,form/travel_writing,setting/the_sea"></span>
 
 
 ON A SOUTHERN HARBOUR
@@ -3421,7 +3421,7 @@ When I had got aboard again the ship sailed out and rounded a lighthouse point a
 
 
 
-<span class="atom-split" data-atom="story_30_on_a_young_man_and_an_older_man" data-title="On Nothing and Kindred Subjects — ON A YOUNG MAN AND AN OLDER MAN" data-chapter="ON A YOUNG MAN AND AN OLDER MAN" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_on_a_young_man_and_an_older_man" data-title="On Nothing and Kindred Subjects — ON A YOUNG MAN AND AN OLDER MAN" data-chapter="ON A YOUNG MAN AND AN OLDER MAN" data-kind="story" data-tags="concept/maturation_and_growth,concept/transience,concept/disillusionment,concept/melancholy,form/essay"></span>
 
 
 ON A YOUNG MAN AND AN OLDER MAN
@@ -3469,7 +3469,7 @@ The Older Man, considering all these things as he looked into the fire when he w
 
 
 
-<span class="atom-split" data-atom="story_31_on_the_departure_of_a_guest" data-title="On Nothing and Kindred Subjects — ON THE DEPARTURE OF A GUEST" data-chapter="ON THE DEPARTURE OF A GUEST" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_on_the_departure_of_a_guest" data-title="On Nothing and Kindred Subjects — ON THE DEPARTURE OF A GUEST" data-chapter="ON THE DEPARTURE OF A GUEST" data-kind="story" data-tags="topos/tempus_fugit,motif/time,concept/transience,concept/nostalgia,concept/melancholy,form/allegory"></span>
 
 
 ON THE DEPARTURE OF A GUEST
@@ -3559,7 +3559,7 @@ Youth (pettishly): I did not say I had lost it! I said I hoped I had not … (fe
 
 
 
-<span class="atom-split" data-atom="story_32_on_death" data-title="On Nothing and Kindred Subjects — ON DEATH" data-chapter="ON DEATH" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_on_death" data-title="On Nothing and Kindred Subjects — ON DEATH" data-chapter="ON DEATH" data-kind="story" data-tags="topos/memento_mori,motif/death,concept/death,concept/mortality,concept/war_and_its_cost,form/essay"></span>
 
 
 ON DEATH
@@ -3599,7 +3599,7 @@ This human debate of ours (and very one-sided it was!) is now resolved, for in t
 
 
 
-<span class="atom-split" data-atom="story_33_on_coming_to_an_end" data-title="On Nothing and Kindred Subjects — ON COMING TO AN END" data-chapter="ON COMING TO AN END" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_on_coming_to_an_end" data-title="On Nothing and Kindred Subjects — ON COMING TO AN END" data-chapter="ON COMING TO AN END" data-kind="story" data-tags="archetype/the_writer,setting/england"></span>
 
 
 ON COMING TO AN END

@@ -23793,7 +23793,7 @@ probably have nothing better to say."
 
 
 
-<span class="atom-split" data-atom="story_01_specimen_days" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — SPECIMEN DAYS" data-chapter="SPECIMEN DAYS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_specimen_days" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — SPECIMEN DAYS" data-chapter="SPECIMEN DAYS" data-kind="story" data-tags="motif/birds,motif/blood,motif/city,motif/flowers,motif/home,motif/memory,motif/nature,motif/river,motif/seasons,motif/soul,motif/time,concept/body,concept/history,concept/nature,form/history"></span>
 
 
 SPECIMEN DAYS
@@ -23874,7 +23874,7 @@ told in a statement.
 
 
 
-<span class="atom-split" data-atom="story_02_answer_to_an_insisting_friend" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend" data-chapter="Answer to an Insisting Friend" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_answer_to_an_insisting_friend" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend" data-chapter="Answer to an Insisting Friend" data-kind="story" data-tags="motif/leaves,setting/new_york"></span>
 
 
 ANSWER TO AN INSISTING FRIEND
@@ -23901,7 +23901,7 @@ but those will be the best versions of what I want to convey.
 
 
 
-<span class="atom-split" data-atom="story_03_genealogy_van_velsor_and_whitman" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Genealogy--Van Velsor and Whitman" data-chapter="Genealogy Van Velsor and Whitman" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_genealogy_van_velsor_and_whitman" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Genealogy--Van Velsor and Whitman" data-chapter="Genealogy Van Velsor and Whitman" data-kind="story" data-tags="motif/hill,motif/love,motif/spring,motif/time,histref/america,histref/new_england,setting/america,character/queen"></span>
 
 
 GENEALOGY--VAN VELSOR AND WHITMAN
@@ -23948,7 +23948,7 @@ folks lived, and where I was born.
 
 
 
-<span class="atom-split" data-atom="story_04_the_old_whitman_and_van_velsor_cemeterie" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Old Whitman and Van Velsor Cemeteries" data-chapter="The Old Whitman and Van Velsor Cemeterie" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_old_whitman_and_van_velsor_cemeterie" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Old Whitman and Van Velsor Cemeteries" data-chapter="The Old Whitman and Van Velsor Cemeterie" data-kind="story" data-tags="motif/city,motif/decay,motif/garden,motif/grave,motif/hill,motif/road,motif/silence,motif/spring,motif/well,motif/wind,concept/doubt,concept/history,form/history,setting/new_york,character/apollo"></span>
 
 
 THE OLD WHITMAN AND VAN VELSOR CEMETERIES
@@ -24003,7 +24003,7 @@ fitting accompaniments.
 
 
 
-<span class="atom-split" data-atom="story_05_the_maternal_homestead" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Maternal Homestead" data-chapter="The Maternal Homestead" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_the_maternal_homestead" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Maternal Homestead" data-chapter="The Maternal Homestead" data-kind="story" data-tags="archetype/child,motif/grave,motif/road,motif/spring,setting/manhattan"></span>
 
 
 THE MATERNAL HOMESTEAD
@@ -24042,7 +24042,7 @@ full Americanized specimen than Major Cornelius Van Velsor.
 
 
 
-<span class="atom-split" data-atom="story_06_old_family_interiors" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors" data-chapter="Old Family Interiors" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_old_family_interiors" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors" data-chapter="Old Family Interiors" data-kind="story" data-tags="archetype/child,motif/bells,motif/birds,motif/childhood,motif/hill,motif/home,motif/horse,motif/marriage,motif/night,motif/seasons,motif/ship,motif/storm,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/history,concept/slavery,form/history,setting/new_york,setting/orient,setting/ship"></span>
 
 
 TWO OLD FAMILY INTERIORS
@@ -24205,7 +24205,7 @@ _Paumanacker_, or _Creole-'Paumanacker_."--_John Burroughs_.
 
 
 
-<span class="atom-split" data-atom="story_07_my_first_reading_lafayette" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My First Reading--Lafayette" data-chapter="My First Reading Lafayette" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_my_first_reading_lafayette" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My First Reading--Lafayette" data-chapter="My First Reading Lafayette" data-kind="story" data-tags="archetype/child,motif/city,motif/home,motif/time,motif/window"></span>
 
 
 MY FIRST READING--LAFAYETTE
@@ -24245,7 +24245,7 @@ spot in the excavation."--John Burroughs.
 
 
 
-<span class="atom-split" data-atom="story_08_printing_office_old_brooklyn" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Printing Office--Old Brooklyn" data-chapter="Printing Office Old Brooklyn" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_printing_office_old_brooklyn" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Printing Office--Old Brooklyn" data-chapter="Printing Office Old Brooklyn" data-kind="story" data-tags="motif/city,motif/garden,motif/love,motif/road,motif/time"></span>
 
 
 PRINTING OFFICE--OLD BROOKLYN
@@ -24291,7 +24291,7 @@ Udall, and old Mr. Duflon, with his military [[Garden|garden]].
 
 
 
-<span class="atom-split" data-atom="story_09_growth_health_work" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work" data-chapter="Growth Health Work" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_growth_health_work" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work" data-chapter="Growth Health Work" data-kind="story" data-tags="motif/city,motif/nature,motif/summer,motif/time,concept/nature,form/novel,setting/new_york"></span>
 
 
 GROWTH--HEALTH--WORK
@@ -24319,7 +24319,7 @@ printer and writer, mostly prose, but an occasional shy at "poetry".
 
 
 
-<span class="atom-split" data-atom="story_10_my_passion_for_ferries" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Passion for Ferries" data-chapter="My Passion for Ferries" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_my_passion_for_ferries" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Passion for Ferries" data-chapter="My Passion for Ferries" data-kind="story" data-tags="motif/city,motif/cross,motif/river,motif/time,motif/well,setting/new_york"></span>
 
 
 MY PASSION FOR FERRIES
@@ -24349,7 +24349,7 @@ Gere--how [[Well|well]] I remember them all.
 
 
 
-<span class="atom-split" data-atom="story_11_broadway_sights" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Broadway Sights" data-chapter="Broadway Sights" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_broadway_sights" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Broadway Sights" data-chapter="Broadway Sights" data-kind="story" data-tags="motif/animals,motif/city,motif/time,motif/well,form/novel,setting/court,setting/new_york,character/edgar,character/speed"></span>
 
 
 BROADWAY SIGHTS
@@ -24397,7 +24397,7 @@ working as writer and printer, having my usual good health, and a good
 
 
 
-<span class="atom-split" data-atom="story_12_omnibus_jaunts_and_drivers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Omnibus Jaunts and Drivers" data-chapter="Omnibus Jaunts and Drivers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_omnibus_jaunts_and_drivers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Omnibus Jaunts and Drivers" data-chapter="Omnibus Jaunts and Drivers" data-kind="story" data-tags="motif/birds,motif/leaves,motif/night,motif/well,concept/comradeship,concept/pride,character/julius_caesar,character/richard"></span>
 
 
 OMNIBUS JAUNTS AND DRIVERS
@@ -24437,7 +24437,7 @@ undoubtedly enter'd into the gestation of "[[Leaves]] of Grass.")
 
 
 
-<span class="atom-split" data-atom="story_13_plays_and_operas_too" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Plays and Operas too" data-chapter="Plays and Operas too" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_plays_and_operas_too" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Plays and Operas too" data-chapter="Plays and Operas too" data-kind="story" data-tags="archetype/ghost,motif/garden,motif/night,motif/noon,motif/seasons,motif/time,motif/well,histref/america,setting/america,setting/castle,setting/london,setting/new_york,character/ariel,character/bianca,character/brutus,character/caliban,character/faust,character/hamlet,character/iago,character/macbeth,character/richard"></span>
 
 
 PLAYS AND OPERAS TOO
@@ -24497,7 +24497,7 @@ sea-walls could tell!)
 
 
 
-<span class="atom-split" data-atom="story_14_through_eight_years" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Through Eight Years" data-chapter="Through Eight Years" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_through_eight_years" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Through Eight Years" data-chapter="Through Eight Years" data-kind="story" data-tags="motif/death,motif/journey,motif/leaves,motif/time,setting/new_york"></span>
 
 
 THROUGH EIGHT YEARS.
@@ -24523,7 +24523,7 @@ touches, but succeeded at last.) I am now (1856-'7) passing through my
 
 
 
-<span class="atom-split" data-atom="story_15_sources_of_character_results_1860" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Sources of Character--Results--1860" data-chapter="Sources of Character Results 1860" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_sources_of_character_results_1860" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Sources of Character--Results--1860" data-chapter="Sources of Character Results 1860" data-kind="story" data-tags="motif/childhood,setting/new_york"></span>
 
 
 SOURCES OF CHARACTER--RESULTS--1860
@@ -24548,7 +24548,7 @@ field of war in Virginia. But I must go back a little.
 
 
 
-<span class="atom-split" data-atom="story_16_opening_of_the_secession_war" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Opening of the Secession War" data-chapter="Opening of the Secession War" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_opening_of_the_secession_war" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Opening of the Secession War" data-chapter="Opening of the Secession War" data-kind="story" data-tags="motif/city,motif/clock,motif/cross,motif/night,setting/new_york"></span>
 
 
 OPENING OF THE SECESSION WAR
@@ -24573,7 +24573,7 @@ at midnight again.
 
 
 
-<span class="atom-split" data-atom="story_17_national_uprising_and_volunteering" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — National Uprising and Volunteering" data-chapter="National Uprising and Volunteering" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_national_uprising_and_volunteering" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — National Uprising and Volunteering" data-chapter="National Uprising and Volunteering" data-kind="story" data-tags="motif/flag,motif/summer,motif/time,concept/democracy,concept/doubt,concept/history,concept/slavery,concept/union,form/history,histref/america,setting/america"></span>
 
 
 NATIONAL UPRISING AND VOLUNTEERING
@@ -24605,7 +24605,7 @@ peaceful and harmonious disbanding of the armies in the [[Summer|summer]] of 186
 
 
 
-<span class="atom-split" data-atom="story_18_contemptuous_feeling" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Contemptuous Feeling" data-chapter="Contemptuous Feeling" data-kind="story"></span>
+<span class="atom-split" data-atom="story_18_contemptuous_feeling" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Contemptuous Feeling" data-chapter="Contemptuous Feeling" data-kind="story" data-tags="motif/city,motif/fire"></span>
 
 
 CONTEMPTUOUS FEELING
@@ -24636,7 +24636,7 @@ return!
 
 
 
-<span class="atom-split" data-atom="story_19_battle_of_bull_run_july_1861" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Bull Run, July, 1861" data-chapter="Battle of Bull Run July 1861" data-kind="story"></span>
+<span class="atom-split" data-atom="story_19_battle_of_bull_run_july_1861" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Bull Run, July, 1861" data-chapter="Battle of Bull Run July 1861" data-kind="story" data-tags="motif/city,motif/crown,motif/dust,motif/fire,motif/flag,motif/hill,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,concept/union,histref/america,setting/america,character/lincoln,character/sunday"></span>
 
 
 BATTLE OF BULL RUN, JULY, 1861
@@ -24748,7 +24748,7 @@ likely to see the last breath of the [[Union]] as to see it continue.)
 
 
 
-<span class="atom-split" data-atom="story_20_the_stupor_passes_something_else_begins" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Stupor Passes--Something Else Begins" data-chapter="The Stupor Passes Something Else Begins" data-kind="story"></span>
+<span class="atom-split" data-atom="story_20_the_stupor_passes_something_else_begins" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Stupor Passes--Something Else Begins" data-chapter="The Stupor Passes Something Else Begins" data-kind="story" data-tags="motif/death,motif/home,motif/memory,motif/night,motif/time,motif/well,concept/history,concept/hope,concept/union,form/history,setting/new_york,character/abraham_lincoln"></span>
 
 
 THE STUPOR PASSES--SOMETHING ELSE BEGINS
@@ -24790,7 +24790,7 @@ extras of that period, and pass'd them silently to each other.)
 
 
 
-<span class="atom-split" data-atom="story_21_down_at_the_front" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Down at the Front" data-chapter="Down at the Front" data-kind="story"></span>
+<span class="atom-split" data-atom="story_21_down_at_the_front" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Down at the Front" data-chapter="Down at the Front" data-kind="story" data-tags="archetype/rebel,motif/home,motif/horse,motif/river,motif/time,motif/well,concept/doubt"></span>
 
 
 DOWN AT THE FRONT
@@ -24822,7 +24822,7 @@ needing it.
 
 
 
-<span class="atom-split" data-atom="story_22_after_first_fredericksburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — After First Fredericksburg" data-chapter="After First Fredericksburg" data-kind="story"></span>
+<span class="atom-split" data-atom="story_22_after_first_fredericksburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — After First Fredericksburg" data-chapter="After First Fredericksburg" data-kind="story" data-tags="motif/fire,motif/leaves,motif/night,motif/snow,motif/well"></span>
 
 
 AFTER FIRST FREDERICKSBURG
@@ -24853,7 +24853,7 @@ have built themselves huts of logs and mud, with [[Fire|fire]]-places.
 
 
 
-<span class="atom-split" data-atom="story_23_back_to_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington" data-chapter="Back to Washington" data-kind="story"></span>
+<span class="atom-split" data-atom="story_23_back_to_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington" data-chapter="Back to Washington" data-kind="story" data-tags="motif/home,motif/journey,motif/road,motif/time,motif/well,setting/new_york,character/sunday"></span>
 
 
 BACK TO WASHINGTON
@@ -24919,7 +24919,7 @@ much in need.
 
 
 
-<span class="atom-split" data-atom="story_24_fifty_hours_left_wounded_on_the_field" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Fifty Hours Left Wounded on the Field" data-chapter="Fifty Hours Left Wounded on the Field" data-kind="story"></span>
+<span class="atom-split" data-atom="story_24_fifty_hours_left_wounded_on_the_field" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Fifty Hours Left Wounded on the Field" data-chapter="Fifty Hours Left Wounded on the Field" data-kind="story" data-tags="motif/blood,motif/city,motif/flag,motif/hill,motif/time,motif/water"></span>
 
 
 FIFTY HOURS LEFT WOUNDED ON THE FIELD
@@ -24953,7 +24953,7 @@ field this way, one, two, or even four or five days.)
 
 
 
-<span class="atom-split" data-atom="story_25_hospital_scenes_and_persons" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Scenes and Persons" data-chapter="Hospital Scenes and Persons" data-kind="story"></span>
+<span class="atom-split" data-atom="story_25_hospital_scenes_and_persons" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Scenes and Persons" data-chapter="Hospital Scenes and Persons" data-kind="story" data-tags="motif/blood,motif/home,motif/love,motif/pain,motif/silence,motif/time,motif/water,motif/well,setting/new_york,character/nurse,character/sunday"></span>
 
 
 HOSPITAL SCENES AND PERSONS
@@ -25014,7 +25014,7 @@ of horehound candy I gave him, with one or two other trifles.
 
 
 
-<span class="atom-split" data-atom="story_26_patent_office_hospital" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Patent-Office Hospital" data-chapter="Patent Office Hospital" data-kind="story"></span>
+<span class="atom-split" data-atom="story_26_patent_office_hospital" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Patent-Office Hospital" data-chapter="Patent Office Hospital" data-kind="story" data-tags="topos/double,motif/death,motif/machine,motif/night,concept/suffering,character/nurse"></span>
 
 
 PATENT-OFFICE HOSPITAL
@@ -25047,7 +25047,7 @@ wounded have since been removed from there, and it is now vacant again.)
 
 
 
-<span class="atom-split" data-atom="story_27_the_white_house_house_by_moonlight" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The White House by Moonlight" data-chapter="The White house House by Moonlight" data-kind="story"></span>
+<span class="atom-split" data-atom="story_27_the_white_house_house_by_moonlight" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The White House by Moonlight" data-chapter="The White house House by Moonlight" data-kind="story" data-tags="motif/dreams,motif/moon,motif/night,motif/snow,motif/stars,concept/beauty"></span>
 
 
 THE WHITE [[house|HOUSE]] BY MOONLIGHT
@@ -25073,7 +25073,7 @@ eyes, whichever way you move.
 
 
 
-<span class="atom-split" data-atom="story_28_an_army_hospital_ward" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — An Army Hospital Ward" data-chapter="An Army Hospital Ward" data-kind="story"></span>
+<span class="atom-split" data-atom="story_28_an_army_hospital_ward" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — An Army Hospital Ward" data-chapter="An Army Hospital Ward" data-kind="story" data-tags="motif/horse,motif/stars,motif/well,concept/suffering,histref/new_england,setting/new_york"></span>
 
 
 AN ARMY HOSPITAL WARD
@@ -25108,7 +25108,7 @@ tedious sickness, or the pangs of aggravated wounds.
 
 
 
-<span class="atom-split" data-atom="story_29_a_connecticut_case" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Connecticut Case" data-chapter="A Connecticut Case" data-kind="story"></span>
+<span class="atom-split" data-atom="story_29_a_connecticut_case" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Connecticut Case" data-chapter="A Connecticut Case" data-kind="story" data-tags="motif/home,motif/time"></span>
 
 
 A CONNECTICUT CASE
@@ -25135,7 +25135,7 @@ I must take dinner with him, which I did, and a very good one it was.
 
 
 
-<span class="atom-split" data-atom="story_30_brooklyn_boys" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Brooklyn Boys" data-chapter="Brooklyn Boys" data-kind="story"></span>
+<span class="atom-split" data-atom="story_30_brooklyn_boys" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Brooklyn Boys" data-chapter="Brooklyn Boys" data-kind="story" data-tags="motif/home,motif/well,setting/new_york"></span>
 
 
 TWO BROOKLYN BOYS
@@ -25152,7 +25152,7 @@ of meeting Johnny Rebs.
 
 
 
-<span class="atom-split" data-atom="story_31_a_secesh_brave" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Secesh Brave" data-chapter="A Secesh Brave" data-kind="story"></span>
+<span class="atom-split" data-atom="story_31_a_secesh_brave" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Secesh Brave" data-chapter="A Secesh Brave" data-kind="story" data-tags="archetype/rebel,motif/flag"></span>
 
 
 A SECESH BRAVE
@@ -25171,7 +25171,7 @@ one of our men.
 
 
 
-<span class="atom-split" data-atom="story_32_the_wounded_from_chancellorsville" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville" data-chapter="The Wounded from Chancellorsville" data-kind="story"></span>
+<span class="atom-split" data-atom="story_32_the_wounded_from_chancellorsville" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville" data-chapter="The Wounded from Chancellorsville" data-kind="story" data-tags="motif/blood,motif/clock,motif/crown,motif/death,motif/fire,motif/moon,motif/nature,motif/night,motif/pain,motif/stars,motif/storm,motif/summer,motif/well,concept/courage,concept/history,concept/melancholy,concept/nature,form/fragment,form/history,character/sunday"></span>
 
 
 THE WOUNDED FROM CHANCELLORSVILLE
@@ -25301,7 +25301,7 @@ falls.)
 
 
 
-<span class="atom-split" data-atom="story_33_unnamed_remains_the_bravest_soldier" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Unnamed Remains the Bravest Soldier" data-chapter="Unnamed Remains the Bravest Soldier" data-kind="story"></span>
+<span class="atom-split" data-atom="story_33_unnamed_remains_the_bravest_soldier" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Unnamed Remains the Bravest Soldier" data-chapter="Unnamed Remains the Bravest Soldier" data-kind="story" data-tags="motif/blood,motif/death,concept/doubt,concept/history,concept/pain_and_suffering,form/history"></span>
 
 
 UNNAMED REMAINS THE BRAVEST SOLDIER
@@ -25328,7 +25328,7 @@ unburied and unknown.
 
 
 
-<span class="atom-split" data-atom="story_34_some_specimen_cases" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Some Specimen Cases" data-chapter="Some Specimen Cases" data-kind="story"></span>
+<span class="atom-split" data-atom="story_34_some_specimen_cases" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Some Specimen Cases" data-chapter="Some Specimen Cases" data-kind="story" data-tags="motif/death,motif/desire,motif/home,motif/horse,motif/silence,motif/sleep,motif/time,motif/well,concept/fear,setting/new_york,character/nurse"></span>
 
 
 SOME SPECIMEN CASES
@@ -25417,7 +25417,7 @@ condition.) He died soon after she came.
 
 
 
-<span class="atom-split" data-atom="story_35_my_preparations_for_visits" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Preparations for Visits" data-chapter="My Preparations for Visits" data-kind="story"></span>
+<span class="atom-split" data-atom="story_35_my_preparations_for_visits" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — My Preparations for Visits" data-chapter="My Preparations for Visits" data-kind="story" data-tags="concept/sympathy,concept/charity,concept/comradeship,form/nonfiction,histref/american_civil_war,setting/washington_dc,character/walt_whitman"></span>
 
 
 MY PREPARATIONS FOR VISITS
@@ -25435,7 +25435,7 @@ possible.
 
 
 
-<span class="atom-split" data-atom="story_36_ambulance_processions" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Ambulance Processions" data-chapter="Ambulance Processions" data-kind="story"></span>
+<span class="atom-split" data-atom="story_36_ambulance_processions" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Ambulance Processions" data-chapter="Ambulance Processions" data-kind="story" data-tags="motif/horse,motif/winter"></span>
 
 
 AMBULANCE PROCESSIONS
@@ -25453,7 +25453,7 @@ wharf, with loads from Aquia creek.
 
 
 
-<span class="atom-split" data-atom="story_37_bad_wounds_the_young" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Bad Wounds--the Young" data-chapter="Bad Wounds the Young" data-kind="story"></span>
+<span class="atom-split" data-atom="story_37_bad_wounds_the_young" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Bad Wounds--the Young" data-chapter="Bad Wounds the Young" data-kind="story" data-tags="archetype/the_common_man,motif/blood,concept/war_and_its_cost,concept/suffering_and_pain,concept/death,form/nonfiction,histref/american_civil_war,character/walt_whitman"></span>
 
 
 BAD WOUNDS--THE YOUNG
@@ -25474,7 +25474,7 @@ had fainted away and fallen to the floor.
 
 
 
-<span class="atom-split" data-atom="story_38_the_most_inspiriting_of_all_war_s_shows" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows" data-chapter="The Most Inspiriting of all War s Shows" data-kind="story"></span>
+<span class="atom-split" data-atom="story_38_the_most_inspiriting_of_all_war_s_shows" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows" data-chapter="The Most Inspiriting of all War s Shows" data-kind="story" data-tags="motif/road,motif/well"></span>
 
 
 THE MOST INSPIRITING OF ALL WAR'S SHOWS
@@ -25513,7 +25513,7 @@ wending along, bearing a large lot of wounded to the hospitals.
 
 
 
-<span class="atom-split" data-atom="story_39_battle_of_gettysburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg" data-chapter="Battle of Gettysburg" data-kind="story"></span>
+<span class="atom-split" data-atom="story_39_battle_of_gettysburg" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Gettysburg" data-chapter="Battle of Gettysburg" data-kind="story" data-tags="archetype/innocent,motif/bells,motif/city,motif/dust,motif/night,motif/noon,motif/water,concept/union"></span>
 
 
 BATTLE OF GETTYSBURG
@@ -25546,7 +25546,7 @@ and the usual fusilades of boys' pistols, crackers, and guns.
 
 
 
-<span class="atom-split" data-atom="story_40_a_cavalry_camp" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Cavalry Camp" data-chapter="A Cavalry Camp" data-kind="story"></span>
+<span class="atom-split" data-atom="story_40_a_cavalry_camp" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Cavalry Camp" data-chapter="A Cavalry Camp" data-kind="story" data-tags="archetype/pilgrim,motif/city,motif/cross,motif/death,motif/hill,motif/home,motif/horse,motif/night,motif/rose,motif/silence,motif/spring,motif/summer,motif/tears,motif/time,motif/water,motif/well,motif/window,concept/fear,setting/new_york,character/abraham_lincoln,character/christ,character/lincoln,character/nurse"></span>
 
 
 A CAVALRY CAMP
@@ -25700,7 +25700,7 @@ centuries ago is needed.
 
 
 
-<span class="atom-split" data-atom="story_41_heated_term" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Heated Term" data-chapter="Heated Term" data-kind="story"></span>
+<span class="atom-split" data-atom="story_41_heated_term" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Heated Term" data-chapter="Heated Term" data-kind="story" data-tags="motif/city,motif/summer,motif/wheel,concept/identity,concept/suffering"></span>
 
 
 HEATED TERM
@@ -25726,7 +25726,7 @@ prouder.
 
 
 
-<span class="atom-split" data-atom="story_42_soldiers_and_talks" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Soldiers and Talks" data-chapter="Soldiers and Talks" data-kind="story"></span>
+<span class="atom-split" data-atom="story_42_soldiers_and_talks" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Soldiers and Talks" data-chapter="Soldiers and Talks" data-kind="story" data-tags="motif/blood,motif/city,motif/death,motif/desire,motif/flag,motif/night,motif/pain,motif/sleep,motif/summer,motif/water,motif/well,concept/doubt,concept/hope,concept/union,histref/america,setting/america,character/nurse"></span>
 
 
 SOLDIERS AND TALKS
@@ -25818,7 +25818,7 @@ went into rebellion?"
 
 
 
-<span class="atom-split" data-atom="story_43_hospitals_ensemble" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospitals Ensemble" data-chapter="Hospitals Ensemble" data-kind="story"></span>
+<span class="atom-split" data-atom="story_43_hospitals_ensemble" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospitals Ensemble" data-chapter="Hospitals Ensemble" data-kind="story" data-tags="motif/city,motif/clock,motif/death,motif/hill,motif/moon,motif/night,motif/river,motif/time,concept/self,character/lincoln"></span>
 
 
 HOSPITALS ENSEMBLE
@@ -25887,7 +25887,7 @@ after midnight.
 
 
 
-<span class="atom-split" data-atom="story_44_spiritual_characters_among_the_soldiers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Spiritual Characters among the Soldiers" data-chapter="Spiritual Characters among the Soldiers" data-kind="story"></span>
+<span class="atom-split" data-atom="story_44_spiritual_characters_among_the_soldiers" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Spiritual Characters among the Soldiers" data-chapter="Spiritual Characters among the Soldiers" data-kind="story" data-tags="motif/nature,concept/education,concept/heroism,concept/nature,concept/solitude"></span>
 
 
 SPIRITUAL CHARACTERS AMONG THE SOLDIERS
@@ -25913,7 +25913,7 @@ understanding that they are different from the rest, more silent,
 
 
 
-<span class="atom-split" data-atom="story_45_cattle_droves_about_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Cattle Droves about Washington" data-chapter="Cattle Droves about Washington" data-kind="story"></span>
+<span class="atom-split" data-atom="story_45_cattle_droves_about_washington" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Cattle Droves about Washington" data-chapter="Cattle Droves about Washington" data-kind="story" data-tags="motif/city,motif/dust,motif/wheel"></span>
 
 
 CATTLE DROVES ABOUT WASHINGTON
@@ -25936,7 +25936,7 @@ shouting, hooting, movement, &c.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_01" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 1)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_01" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 1)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/flowers,motif/home,motif/moon,motif/night,motif/time,motif/well,concept/endurance,concept/fear,setting/mountains,setting/new_york,character/sunday"></span>
 
 
 HOSPITAL PERPLEXITY
@@ -26054,7 +26054,7 @@ unhappy State.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_02" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 2)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_02" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 2)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,archetype/rebel,motif/death,motif/home,motif/night,motif/prayer,motif/summer,motif/time,motif/well,concept/suffering,concept/wonder,histref/america,histref/bible,setting/america,character/nurse,character/sunday"></span>
 
 
 [[Summer|SUMMER]] OF 1864
@@ -26167,7 +26167,7 @@ then moved him to a [[house]], but he died in a few minutes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_03" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 3)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_03" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 3)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/rebel,motif/death,motif/fire,motif/home,motif/nature,motif/prison,motif/road,motif/ship,motif/time,motif/winter,concept/despair,concept/hope,concept/nature,concept/self,concept/union,setting/ship,character/michael"></span>
 
 
 _Another_.--After the battles at Columbia, Tennessee, where we repuls'd
@@ -26279,7 +26279,7 @@ surrender'd, most had been thus maim'd or slaughter'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_04" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 4)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_04" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 4)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/home,motif/lion,motif/love,motif/night,motif/pain,motif/water,motif/well,concept/greed,concept/providence,concept/revenge,concept/union,histref/new_england,setting/new_york,character/nurse"></span>
 
 
 At this instant a force of our cavalry, who had been following the
@@ -26388,7 +26388,7 @@ favorite. He had quite a funeral ceremony.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_05" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 5)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_05" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 5)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/grave,motif/home,motif/time,motif/well,motif/winter,concept/doubt,concept/endurance,character/nurse"></span>
 
 
 ARMY SURGEONS--AID DEFICIENCIES
@@ -26493,7 +26493,7 @@ days since.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_06" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 6)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_06" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 6)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/city,motif/river,motif/time,motif/well,concept/doubt"></span>
 
 
 FEMALE NURSES FOR SOLDIERS
@@ -26598,7 +26598,7 @@ accomplish all those wholesome designs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_07" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 7)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_07" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 7)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/home,motif/horse,motif/night,motif/noon,motif/prayer,motif/stars,motif/storm,motif/well,concept/fear,concept/hope,concept/union,histref/america,setting/america,setting/germany,character/lincoln"></span>
 
 
 _March 1st_.--Plenty more butternut or clay-color'd escapees every
@@ -26708,7 +26708,7 @@ hovering bird, right over him.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_08" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 8)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_08" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 8)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,archetype/rebel,motif/blood,motif/dance,motif/dawn,motif/death,motif/home,motif/moon,motif/night,motif/silence,motif/sleep,motif/soul,motif/storm,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,concept/body,concept/fear,concept/heroism,concept/history,concept/hope,concept/wonder,form/history,character/nurse,character/venus"></span>
 
 
 Indeed, the heavens, the elements, all the meteorological influences,
@@ -26821,7 +26821,7 @@ to surrender.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_09" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 9)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_09" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 9)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/leaves,motif/love,motif/noon,motif/silence,motif/time,concept/beauty,concept/body,concept/conscience,concept/history,concept/union,form/biography,form/history,histref/america,setting/america,character/abraham_lincoln,character/lincoln"></span>
 
 
 WOUNDS AND DISEASES
@@ -26931,7 +26931,7 @@ imbecile, and will never recuperate.[8]
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_10" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 10)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_10" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 10)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/innocent,archetype/rebel,motif/animals,motif/cross,motif/death,motif/nature,motif/night,motif/prison,motif/river,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/eternity,concept/nature,concept/union,setting/battlefield"></span>
 
 
 Note:
@@ -27056,7 +27056,7 @@ is a text, "God doeth all things [[Well|well]]"--the meaning of which, after due
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_11" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 11)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_11" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 11)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/bees,motif/city,motif/death,motif/hill,motif/night,motif/pain,motif/rose,motif/sleep,motif/time,motif/water,motif/well,concept/union,histref/america,setting/america,character/lincoln,character/sunday"></span>
 
 
 I thought perhaps a few words, though from a stranger, about your son,
@@ -27171,7 +27171,7 @@ for his cause.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_12" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 12)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_12" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 12)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/city,motif/death,motif/leaves,motif/moon,motif/night,motif/sleep,motif/time,concept/despair,concept/hope,character/sunday"></span>
 
 
 SOME SAD CASES YET
@@ -27283,7 +27283,7 @@ the [[City|city]], made one useful result, at any rate, out of the war.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_13" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 13)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_13" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 13)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/city,motif/hill,motif/nakedness,motif/nature,motif/night,motif/prison,motif/storm,motif/summer,motif/time,motif/well,motif/winter,concept/body,concept/fear,concept/history,concept/nature,concept/union,form/history,histref/dante,histref/new_england,setting/new_york,character/bottom,character/fred"></span>
 
 
 TYPICAL SOLDIERS
@@ -27400,7 +27400,7 @@ Southerners, crumble to-day in Northern earth.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_14" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 14)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_14" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 14)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/night,motif/river,motif/time,motif/wind,concept/despair,concept/friendship,concept/history,form/history,form/tragedy"></span>
 
 
 And everywhere among these countless graves--everywhere in the many
@@ -27506,7 +27506,7 @@ skies.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_15" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 15)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_15" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 15)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/city,motif/crown,motif/death,motif/home,motif/horse,motif/love,motif/machine,motif/nature,motif/night,motif/prison,motif/seasons,motif/silence,motif/snow,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,motif/water,motif/wind,motif/winter,concept/ambition,concept/freedom,concept/nature"></span>
 
 
 NEW THEMES ENTERED UPON
@@ -27627,7 +27627,7 @@ plover.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_16" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 16)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_16" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 16)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/home,motif/insects,motif/journey,motif/nature,motif/night,motif/rose,motif/sleep,motif/soul,motif/summer,motif/time,concept/beauty,concept/body,concept/nature,character/bottom"></span>
 
 
 BUMBLE-[[Bees|BEES]]
@@ -27739,7 +27739,7 @@ In low, soft bass--poor maudlin bumble!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_17" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 17)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_17" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 17)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/insects,motif/journey,motif/leaves,motif/lightning,motif/machine,motif/night,motif/noon,motif/silence,motif/soul,motif/summer,motif/time,motif/water,motif/well,motif/wheel,motif/wind,concept/beauty,concept/solitude"></span>
 
 
 CEDAR-APPLES
@@ -27852,7 +27852,7 @@ not sweet, but far better than sweet.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_18" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 18)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_18" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 18)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/animals,motif/autumn,motif/insects,motif/leaves,motif/love,motif/marriage,motif/night,motif/sleep,motif/snow,motif/well,motif/window,concept/beauty,concept/education,concept/friendship,concept/solitude,concept/wonder,character/speed"></span>
 
 
 But the katydid--how shall I describe its piquant utterances? One sings
@@ -27957,7 +27957,7 @@ September breeze, with pensive cadence through the tree tops.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_19" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 19)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_19" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 19)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/autumn,motif/death,motif/fire,motif/flowers,motif/frost,motif/hill,motif/leaves,motif/moon,motif/night,motif/noon,motif/rose,motif/soul,motif/stars,motif/storm,motif/time,motif/water,motif/wind,motif/winter,concept/doubt,concept/solitude"></span>
 
 
 _Another Day_.--The ground in all directions strew'd with _d�bris_ from
@@ -28069,7 +28069,7 @@ patient horses waiting.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_20" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 20)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_20" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 20)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/journey,motif/love,motif/mirror,motif/night,motif/seasons,motif/time,motif/well,motif/wind,motif/winter"></span>
 
 
 COLORS--A CONTRAST
@@ -28181,7 +28181,7 @@ at [[Night|night]] and can hear and see it plainly.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_21" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 21)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_21" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 21)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/cross,motif/death,motif/home,motif/memory,motif/snow,motif/time,motif/water,motif/well,motif/winter,concept/union,histref/america,setting/america,setting/new_york,character/lincoln,character/sunday"></span>
 
 
 IN [[Memory|MEMORY]] OF THOMAS PAINE.
@@ -28289,7 +28289,7 @@ distinctly.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_22" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 22)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_22" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 22)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/animals,motif/bees,motif/birds,motif/crown,motif/flowers,motif/frost,motif/insects,motif/leaves,motif/mirror,motif/night,motif/noon,motif/rose,motif/soul,motif/spring,motif/summer,motif/water,motif/wind,motif/window,motif/winter,concept/body,concept/fear,concept/freedom,concept/solitude"></span>
 
 
 [[spring|SPRING]] OVERTURES--RECREATIONS
@@ -28397,7 +28397,7 @@ upturn'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_23" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 23)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_23" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 23)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/birds,motif/clock,motif/cross,motif/crown,motif/leaves,motif/moon,motif/nature,motif/night,motif/noon,motif/river,motif/soul,motif/stars,motif/summer,motif/swallow,motif/time,motif/water,motif/well,motif/wind,concept/nature,concept/paradox,character/saturn,character/venus"></span>
 
 
 [[Birds|BIRDS]] AND [[Birds|BIRDS]] AND [[Birds|BIRDS]]
@@ -28508,7 +28508,7 @@ restlessness conveying a sense of eternal rest.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_24" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 24)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_24" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 24)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/birds,motif/moon,motif/nakedness,motif/nature,motif/pain,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/body,concept/faith,concept/freedom,concept/heroism,concept/identity,concept/nature,concept/solitude,character/venus"></span>
 
 
 _Other adjuncts._--But the sun and the [[Moon|moon]] here and these times. As
@@ -28625,7 +28625,7 @@ than I ever thought.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_25" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 25)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_25" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 25)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/frost,motif/home,motif/journey,motif/love,motif/memory,motif/nature,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/identity,concept/nature"></span>
 
 
 But now pleasantly imprison'd here under the big oak--the rain dripping,
@@ -28753,7 +28753,7 @@ insensibly, really, liked Billy Alcott.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_26" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 26)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_26" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 26)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/clock,motif/death,motif/hill,motif/home,motif/moon,motif/nature,motif/night,motif/noon,motif/silence,motif/snow,motif/soul,motif/stars,motif/summer,motif/time,motif/water,motif/wind,motif/winter,concept/courage,concept/nature,setting/new_york"></span>
 
 
 I, too, loved him. At last, after being with him quite a good
@@ -28856,7 +28856,7 @@ tug and snort.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_27" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 27)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_27" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 27)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/fire,motif/leaves,motif/nature,motif/night,motif/rose,motif/seasons,motif/silence,motif/storm,motif/summer,motif/time,motif/water,motif/wind,motif/winter,concept/body,concept/hope,concept/nature,concept/solitude,character/apollo"></span>
 
 
 (Robert Burns says in one of his letters: "There is scarcely any earthly
@@ -28972,7 +28972,7 @@ while.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_28" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 28)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_28" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 28)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/death,motif/desire,motif/grave,motif/hill,motif/home,motif/horse,motif/leaves,motif/nature,motif/noon,motif/river,motif/rose,motif/seasons,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/nature,setting/italy,setting/mountains,setting/new_york"></span>
 
 
 [[Horse|HORSE]]-MINT
@@ -29081,7 +29081,7 @@ the woods--make up the scene.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_29" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 29)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_29" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 29)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/city,motif/dawn,motif/fire,motif/flowers,motif/hill,motif/horse,motif/night,motif/river,motif/road,motif/rose,motif/ship,motif/stars,motif/water,motif/well,motif/wind,motif/window,concept/beauty,concept/wonder,setting/manhattan,setting/new_york,setting/ship,character/venus"></span>
 
 
 HAPPINESS AND RASPBERRIES
@@ -29188,7 +29188,7 @@ heaven above, and June haze on the surface below.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_30" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 30)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_30" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 30)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/horse,motif/moon,motif/nature,motif/night,motif/rose,motif/soul,motif/stars,motif/storm,motif/time,motif/water,motif/well,motif/wind,motif/winter,concept/comradeship,concept/democracy,concept/doubt,concept/nature,concept/paradox,concept/self,concept/union,histref/bible,setting/manhattan,setting/new_york"></span>
 
 
 HUMAN AND HEROIC [[New York|NEW YORK]]
@@ -29283,7 +29283,7 @@ All silently--the indescribable [[Night|night]] and [[Stars|stars]]--far off and
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_31" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 31)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_31" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 31)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/dance,motif/dawn,motif/insects,motif/leaves,motif/mirror,motif/moon,motif/night,motif/rose,motif/ship,motif/soul,motif/stars,motif/summer,motif/time,motif/well,motif/wind,concept/beauty,concept/history,form/history,setting/orient,setting/ship,character/diana,character/venus"></span>
 
 
 THE [[Dawn|DAWN]].--_July 23_.--This morning, between one and two hours before
@@ -29408,7 +29408,7 @@ of the maples and willows.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_32" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 32)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_32" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 32)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/bees,motif/birds,motif/flag,motif/flowers,motif/frost,motif/insects,motif/leaves,motif/memory,motif/moon,motif/night,motif/river,motif/soul,motif/spring,motif/stars,motif/summer,motif/time,motif/water,motif/wind,motif/winter,character/ariel,character/dwarf"></span>
 
 
 _Aug. 20_.--Butterflies and butterflies, (taking the place of the
@@ -29522,7 +29522,7 @@ those saucy little bull-pups of the current, the steamtugs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_33" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 33)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_33" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 33)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/cross,motif/love,motif/night,motif/river,motif/snow,motif/soul,motif/stars,motif/time,motif/well,motif/wind,motif/winter,concept/beauty,character/fred,character/gloucester"></span>
 
 
 But let me bunch and catalogue the affair--the [[River|river]] itself, all the
@@ -29618,7 +29618,7 @@ replenish the stove, and clearing it with long crow-bar poker.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_34" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 34)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_34" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 34)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,motif/bells,motif/city,motif/cross,motif/flowers,motif/horse,motif/moon,motif/night,motif/river,motif/silence,motif/spring,motif/stars,motif/water,motif/well,motif/winter,concept/ambition,concept/beauty,concept/pride,form/comedy,histref/dante,setting/new_york,character/abraham_lincoln,character/venus"></span>
 
 
 Besides all this "[[Comedy|comedy]] human," the [[River|river]] affords nutriment of a
@@ -29757,7 +29757,7 @@ windows--are they not about the same, the civilized world over?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_35" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 35)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_35" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 35)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/bees,motif/birds,motif/city,motif/flowers,motif/home,motif/insects,motif/love,motif/moon,motif/nature,motif/night,motif/noon,motif/river,motif/road,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/freedom,concept/nature,form/tragedy,setting/new_york,character/venus"></span>
 
 
 How fast the flitting figures come!
@@ -29862,7 +29862,7 @@ ease and moderate [[Freedom|freedom]], but did not unbosom his life, or story, o
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_36" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 36)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_36" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 36)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/clock,motif/flag,motif/flowers,motif/leaves,motif/nature,motif/night,motif/river,motif/road,motif/snow,motif/storm,motif/summer,motif/water,motif/wind,concept/nature,concept/union,form/epic,form/tragedy,setting/new_york"></span>
 
 
 AN ULSTER COUNTY WATERFALL
@@ -29976,7 +29976,7 @@ glitter, magnetism, and happiness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_37" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 37)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_37" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 37)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/animals,motif/city,motif/hill,motif/horse,motif/road,motif/ship,motif/summer,motif/tears,motif/well,motif/wheel,concept/beauty,concept/doubt,concept/heroism,concept/wonder,histref/america,setting/america,setting/london,setting/new_york,setting/paris,setting/ship,character/speed"></span>
 
 
 Second: also from 5 to 7 P.M. the stretch of Fifth avenue, all the way
@@ -30091,7 +30091,7 @@ steam whistles, kissing of hands and waving of handkerchiefs.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_38" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 38)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_38" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 38)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/clock,motif/home,motif/lightning,motif/moon,motif/night,motif/river,motif/ship,motif/snow,motif/summer,motif/water,motif/well,setting/ship"></span>
 
 
 This departing of the big steamers, noons or afternoons--there is no
@@ -30194,7 +30194,7 @@ pile impress one as it impress'd me those fifteen minutes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_39" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 39)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_39" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 39)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/autumn,motif/birds,motif/city,motif/clock,motif/cross,motif/crown,motif/journey,motif/leaves,motif/lightning,motif/moon,motif/night,motif/river,motif/ship,motif/sleep,motif/stars,motif/swallow,motif/time,motif/water,motif/wind,concept/beauty,concept/fear,concept/union,setting/new_york,setting/ship,character/columbus,character/speed,character/ulysses"></span>
 
 
 To-[[Night|night]], since, I have been long on the [[River|river]]. I watch the C-shaped
@@ -30300,7 +30300,7 @@ eastern eyes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_40" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 40)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_40" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 40)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/autumn,motif/city,motif/dreams,motif/hill,motif/home,motif/love,motif/river,motif/soul,motif/time,concept/beauty,concept/freedom,concept/wonder,histref/america,setting/america,setting/court,setting/mountains,character/lincoln"></span>
 
 
 LAWRENCE AND TOPEKA, KANSAS
@@ -30409,7 +30409,7 @@ the bright sun in this pure air. But I had better commence with the day.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_41" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 41)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_41" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 41)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/autumn,motif/chains,motif/dawn,motif/fire,motif/hill,motif/nature,motif/night,motif/snow,motif/soul,motif/water,motif/well,concept/beauty,concept/nature,histref/america,setting/america,setting/mountains,character/lincoln,character/speed"></span>
 
 
 The confronting of Platte ca�on just at [[Dawn|dawn]], after a ten miles' ride in
@@ -30514,7 +30514,7 @@ Adirondacks, the Catskills, and the White [[Mountains]], range from 2000 to
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_42" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 42)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_42" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 42)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/city,motif/cross,motif/flowers,motif/journey,motif/river,motif/snow,motif/time,motif/water,motif/well,concept/beauty,concept/wonder,histref/dante,setting/mountains,setting/new_york,character/angelo"></span>
 
 
 THE PARKS
@@ -30620,7 +30620,7 @@ definite and strong that I must put it on record."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_43" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 43)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_43" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 43)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/city,motif/cross,motif/fire,motif/hill,motif/journey,motif/love,motif/nature,motif/night,motif/river,motif/snow,motif/time,motif/well,motif/winter,concept/nature,setting/american_west,setting/mountains,character/queen"></span>
 
 
 So much for my feeling toward the [[Queen]] [[City|city]] of the plains and peaks,
@@ -30731,7 +30731,7 @@ arms slightly raised and swinging as they ride.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_44" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 44)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_44" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 44)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/grave,motif/journey,motif/night,motif/river,motif/road,motif/summer,motif/time,motif/water,motif/well,concept/history,concept/sublime,concept/union,form/history,histref/america,histref/milton,setting/america,setting/new_york,character/milton"></span>
 
 
 THE SPANISH PEAKS--EVENING ON THE PLAINS
@@ -30846,7 +30846,7 @@ country.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_45" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 45)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_45" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 45)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/city,motif/fire,motif/home,motif/river,motif/ship,motif/time,motif/well,concept/ambition,concept/body,concept/doubt,concept/freedom,concept/greatness,concept/history,form/history,histref/america,setting/america,setting/court,setting/mountains,setting/new_york,setting/ship"></span>
 
 
 Will the day ever come--no matter how long deferr'd--when those
@@ -30959,7 +30959,7 @@ seem to have concentrated upon him.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_46" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 46)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_46" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 46)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,archetype/artist,motif/city,motif/decay,motif/home,motif/horse,motif/moon,motif/nature,motif/night,motif/river,motif/silence,motif/stars,motif/time,motif/water,motif/well,motif/wheel,concept/beauty,concept/comradeship,concept/democracy,concept/nature,concept/self,concept/union,concept/wonder,histref/america,setting/america,character/edgar"></span>
 
 
 PRESIDENT HAYES'S SPEECHES
@@ -31080,7 +31080,7 @@ which is next best to fully exemplifying it.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_47" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 47)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_47" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 47)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/childhood,motif/dreams,motif/grave,motif/memory,motif/nature,motif/night,motif/noon,motif/ship,motif/soul,motif/storm,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/education,concept/nature,setting/new_york,setting/ship,character/edgar,character/viola"></span>
 
 
 Almost without the first sign of moral principle, or of the concrete
@@ -31186,7 +31186,7 @@ sea, sky, shore--and then disappearing in the distance.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_48" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 48)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_48" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 48)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/clock,motif/crown,motif/fire,motif/garden,motif/leaves,motif/night,motif/noon,motif/river,motif/rose,motif/snow,motif/stars,motif/storm,motif/summer,motif/time,motif/well,motif/wind,motif/winter,concept/identity,form/hymn,setting/london,setting/new_york,character/feste,character/richard,character/sunday"></span>
 
 
 LOAFING IN THE WOODS
@@ -31300,7 +31300,7 @@ humanity, mine and yours, everywhere:
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_49" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 49)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_49" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 49)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/blood,motif/death,motif/desire,motif/home,motif/love,motif/mirror,motif/night,motif/time,motif/water,concept/beauty,concept/greed,concept/pride,concept/union,concept/wonder,form/hymn,histref/america,setting/america,setting/new_york"></span>
 
 
 "The same old [[Blood|blood]]--the same red, running [[Blood|blood]];"
@@ -31418,7 +31418,7 @@ deck of the steamer.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_50" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 50)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_50" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 50)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/frost,motif/love,motif/memory,motif/nature,motif/night,motif/river,motif/seasons,motif/silence,motif/soul,motif/stars,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/beauty,concept/doubt,concept/eternity,concept/nature,setting/mountains"></span>
 
 
 THE SAVAGE SAGUENAY
@@ -31560,7 +31560,7 @@ latter the nearest, dearest trait affinity of all.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_51" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 51)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_51" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 51)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/bees,motif/crown,motif/death,motif/night,motif/noon,motif/snow,motif/soul,motif/stars,motif/time,motif/winter,concept/beauty,concept/body,concept/despair,concept/doubt,concept/poverty,concept/pride,concept/reform,concept/self,histref/french_revolution"></span>
 
 
 Then reader dear, in conclusion, as to the point of the name for the
@@ -31683,7 +31683,7 @@ salve or defend such stupendous hoggishness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_52" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 52)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_52" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 52)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/moon,motif/night,motif/silence,motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/identity,histref/america,setting/america,setting/london,character/hamlet,character/saturn,character/venus"></span>
 
 
 The way to test how much he has left his country were to consider,
@@ -31794,7 +31794,7 @@ was no emigration.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_53" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 53)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_53" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 53)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/blood,motif/cross,motif/desire,motif/road,motif/ship,motif/time,motif/well,concept/conscience,concept/democracy,concept/madness,setting/ship"></span>
 
 
 Carlyle's work in the sphere of literature as he commenced and carried
@@ -31897,7 +31897,7 @@ to be had.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_54" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 54)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_54" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 54)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/nature,motif/soul,motif/time,concept/democracy,concept/doubt,concept/education,concept/faith,concept/history,concept/identity,concept/nature,concept/suffering,concept/truth,form/history,histref/america,setting/america,setting/new_york"></span>
 
 
 There is, apart from mere intellect, in the make-up of every superior
@@ -31994,7 +31994,7 @@ certainly destin'd to failures, after causing great [[Suffering|suffering]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_55" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 55)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_55" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 55)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/home,motif/lightning,motif/love,motif/nature,motif/soul,motif/time,concept/democracy,concept/despair,concept/faith,concept/history,concept/hope,concept/nature,concept/providence,form/history,histref/america,histref/bible,setting/america,character/angelo"></span>
 
 
 Theology, Hegel translates into science.[16] All apparent contradictions
@@ -32097,7 +32097,7 @@ modern--or rather, I should say, it _is_ [[Democracy|democracy]], and _is_ the m
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_56" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 56)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_56" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 56)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/fool,motif/bees,motif/birds,motif/city,motif/death,motif/nature,motif/night,motif/noon,motif/road,motif/sleep,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/winter,concept/democracy,concept/nature,form/essay,form/tragedy,histref/america,histref/new_england,setting/america,setting/germany,setting/new_york,character/abraham_lincoln,character/speed"></span>
 
 
 [16] I am much indebted to J. Gostick's abstract.
@@ -32226,7 +32226,7 @@ ours could show.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_57" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 57)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_57" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 57)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/birds,motif/blood,motif/death,motif/flowers,motif/home,motif/love,motif/nature,motif/night,motif/river,motif/silence,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/heroism,concept/nature,concept/poverty,concept/sublime,concept/wonder,histref/america,histref/french_revolution,histref/milton,histref/new_england,setting/america,character/dwarf,character/milton,character/queen"></span>
 
 
 MY TRIBUTE TO FOUR POETS
@@ -32348,7 +32348,7 @@ slip in them.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_58" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 58)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_58" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 58)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/city,motif/fire,motif/love,motif/pain,motif/prayer,motif/ship,motif/soul,motif/water,motif/well,motif/wind,concept/body,concept/conscience,concept/faith,concept/history,concept/self,concept/truth,concept/wonder,form/history,setting/new_york,setting/ship,character/christ"></span>
 
 
 SAMPLES OF MY COMMON-PLACE BOOK
@@ -32495,7 +32495,7 @@ beyond all worldly wealth.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_59" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 59)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_59" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 59)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/blood,motif/city,motif/death,motif/decay,motif/hill,motif/home,motif/leaves,motif/memory,motif/river,motif/rose,motif/time,motif/well,concept/beauty,concept/body,concept/sublime,form/sketch,histref/america,setting/america,setting/london,setting/manhattan,setting/new_york,setting/paris,character/bottom,character/pistol"></span>
 
 
 HOT WEATHER [[New York|NEW YORK]]
@@ -32596,7 +32596,7 @@ others.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_60" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 60)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_60" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 60)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/chalk,motif/city,motif/clock,motif/hill,motif/home,motif/river,motif/silence,motif/time,motif/well,concept/doubt,histref/america,setting/america,setting/manhattan,character/ada_clare,character/sunday"></span>
 
 
 SOME OLD ACQUAINTANCES--MEMORIES
@@ -32701,7 +32701,7 @@ family, by invitation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_61" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 61)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_61" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 61)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/cross,motif/death,motif/garden,motif/ghosts,motif/grave,motif/hill,motif/home,motif/memory,motif/moon,motif/night,motif/rose,motif/silence,motif/soul,motif/time,motif/water,motif/well,motif/wind,form/inscription,character/sunday"></span>
 
 
 OTHER CONCORD NOTATIONS
@@ -32810,7 +32810,7 @@ trembling harp."]
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_62" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 62)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_62" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 62)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/grave,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/river,motif/silence,motif/soul,motif/water,motif/well,motif/wind,concept/beauty,concept/doubt,concept/nature,concept/self,form/translation,histref/america,setting/america,setting/germany,setting/italy,character/agamemnon,character/venus"></span>
 
 
 How or why I know not, just at the moment, but I too muse and think of
@@ -32919,7 +32919,7 @@ words brought up quite a string of reminiscences.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_63" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 63)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_63" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 63)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,motif/city,motif/cross,motif/death,motif/decay,motif/grave,motif/home,motif/horse,motif/journey,motif/leaves,motif/love,motif/memory,motif/mirror,motif/nature,motif/night,motif/road,motif/soul,motif/stars,motif/time,motif/well,concept/faith,concept/heroism,concept/nature,concept/solitude,setting/new_york"></span>
 
 
 I commenced when I was but a boy of eleven or twelve writing sentimental
@@ -33024,7 +33024,7 @@ no mere
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_64" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 64)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_64" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 64)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/love,motif/nature,motif/night,motif/noon,motif/soul,motif/spring,motif/stars,motif/storm,motif/time,concept/conscience,concept/faith,concept/imagination,concept/nature,concept/pride,setting/new_york,character/abraham_lincoln"></span>
 
 
 "Warrior, rest, thy task is done,"
@@ -33144,7 +33144,7 @@ to look on all fixed-up poetry and art as something almost impertinent.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_65" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 65)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_65" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 65)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/animals,motif/birds,motif/chalk,motif/city,motif/cross,motif/leaves,motif/nature,motif/night,motif/seasons,motif/soul,motif/stars,motif/time,concept/beauty,concept/body,concept/democracy,concept/freedom,concept/nature,form/essay,histref/america,setting/america,setting/new_york"></span>
 
 
 Thus I went on, years following, various [[Seasons|seasons]] and areas, spinning
@@ -33258,7 +33258,7 @@ necessitates, and draws after it--let me begin my speculations.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_66" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 66)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_66" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 66)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/time,concept/democracy,concept/education,concept/faith,concept/history,concept/hope,concept/self_reliance,form/essay,form/history,histref/america,setting/america"></span>
 
 
 [[America]], filling the present with greatest deeds and problems,
@@ -33362,7 +33362,7 @@ original literature is surely to become the justification and reliance,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_67" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 67)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_67" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 67)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/stars,motif/time,motif/well,concept/democracy,concept/education,concept/fear,concept/history,concept/identity,concept/imagination,concept/self,concept/union,form/history,histref/america,histref/ancient_greece,setting/america"></span>
 
 
 Few are aware how the great literature penetrates all, gives hue to
@@ -33475,7 +33475,7 @@ spiritual, emotional power.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_68" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 68)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_68" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 68)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/cross,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/conscience,concept/democracy,concept/fear,concept/freedom,concept/nature,concept/pride,concept/union,form/fable,histref/america,setting/america,setting/mountains,setting/new_york"></span>
 
 
 It may be claim'd, (and I admit the weight of the claim,) that common
@@ -33595,7 +33595,7 @@ all this mighty, many-threaded wealth and industry concentrated here.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_69" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 69)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_69" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 69)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/memory,motif/time,motif/well,concept/beauty,concept/democracy,concept/faith,concept/freedom,concept/history,concept/identity,concept/individualism,concept/pride,concept/truth,concept/union,form/history,histref/america,setting/america"></span>
 
 
 But sternly discarding, shutting our eyes to the glow and grandeur of
@@ -33700,7 +33700,7 @@ right of nationality, the [[Union|union]],) that we insist on the [[Identity|ide
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_70" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 70)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_70" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 70)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/death,motif/dust,motif/nature,motif/night,motif/road,motif/silence,motif/snow,motif/summer,motif/time,motif/well,concept/charity,concept/democracy,concept/doubt,concept/freedom,concept/history,concept/nature,form/history,histref/america,setting/america,character/abraham_lincoln"></span>
 
 
 The purpose of [[Democracy|democracy]]--supplanting old belief in the necessary
@@ -33809,7 +33809,7 @@ sinewy with unconquerable resolution.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_71" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 71)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_71" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 71)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/nature,motif/night,motif/rose,motif/soul,motif/time,concept/aspiration,concept/beauty,concept/democracy,concept/freedom,concept/nature,concept/pride,concept/self,form/essay,histref/america,setting/america,character/christ"></span>
 
 
 We have seen this race proved by wholesale by drearier, yet more fearful
@@ -33908,7 +33908,7 @@ imperfections.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_72" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 72)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_72" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 72)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/road,motif/time,motif/well,concept/ambition,concept/beauty,concept/body,concept/democracy,concept/doubt,concept/freedom,concept/greatness,concept/individualism,concept/nature,concept/self,histref/america,setting/america"></span>
 
 
 But to become an enfranchised man, and now, impediments removed,
@@ -34005,7 +34005,7 @@ most prudently to democratize.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_73" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 73)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_73" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 73)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/desert,motif/ship,motif/soul,motif/time,motif/well,concept/courage,concept/democracy,concept/doubt,concept/endurance,concept/freedom,concept/history,concept/paradox,concept/slavery,form/history,histref/america,setting/america,setting/desert,setting/ship"></span>
 
 
 The eager and often inconsiderate appeals of reformers and
@@ -34122,7 +34122,7 @@ noticed more and more, the alarming spectacle of parties usurping the
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_74" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 74)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_74" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 74)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/seasons,motif/silence,motif/time,motif/well,concept/aspiration,concept/body,concept/democracy,concept/doubt,concept/faith,concept/history,concept/pride,form/history,histref/america,setting/america,setting/castle,setting/new_york"></span>
 
 
 Sad, serious, deep truths. Yet are there other, still deeper, amply
@@ -34222,7 +34222,7 @@ see that it is, in itself, the final authority and reliance!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_75" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 75)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_75" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 75)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/ghost,motif/city,motif/nature,motif/seasons,motif/time,motif/well,motif/wheel,concept/democracy,concept/despair,concept/faith,concept/history,concept/identity,concept/nature,concept/pride,form/history,histref/america,setting/america,character/monks"></span>
 
 
 Did you, too, O friend, suppose [[Democracy|democracy]] was only for elections, for
@@ -34327,7 +34327,7 @@ imperial republican forms.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_76" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 76)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_76" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 76)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/dreams,motif/garden,motif/nature,motif/soul,motif/stars,motif/time,concept/democracy,concept/history,concept/identity,concept/nature,concept/self,form/fable,form/history,histref/america,setting/america,character/dwarf"></span>
 
 
 Assuming [[Democracy]] to be at present in its embryo condition, and that
@@ -34437,7 +34437,7 @@ conclusive reply?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_77" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 77)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_77" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 77)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/soul,motif/time,motif/well,concept/beauty,concept/conscience,concept/grotesque,concept/history,concept/hope,concept/pride,concept/self,form/history,histref/america,setting/america"></span>
 
 
 I do not so much object to the name, or word, but I should certainly
@@ -34541,7 +34541,7 @@ extricates itself entirely from the churches, and not before.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_78" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 78)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_78" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 78)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/love,motif/nature,motif/snow,motif/soul,motif/time,motif/well,concept/aspiration,concept/education,concept/identity,concept/nature,concept/self,form/inscription,histref/america,setting/america"></span>
 
 
 Personalism fuses this, and favors it. I should say, indeed, that only
@@ -34649,7 +34649,7 @@ breath, and peculiar personal magnetism.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_79" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 79)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_79" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 79)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/dreams,motif/hill,motif/love,motif/soul,motif/time,motif/wind,concept/body,concept/democracy,concept/fear,concept/history,concept/pride,form/history,histref/america,setting/america,setting/court"></span>
 
 
 The foregoing portraits, I admit, are frightfully out of line from these
@@ -34761,7 +34761,7 @@ blocks in their foundations.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_80" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 80)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_80" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 80)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/prophet,motif/city,motif/lightning,motif/love,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/conscience,concept/doubt,concept/history,concept/pride,concept/self,form/epic,form/history,form/hymn,form/satire,histref/america,histref/dante,setting/america,character/angelo,character/bottom,character/christ"></span>
 
 
 Approaching thus the momentous spaces, and considering with reference to
@@ -34875,7 +34875,7 @@ spaces of that other heaven, the kosmic intellect, the [[Soul|soul]]?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_81" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 81)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_81" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 81)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/time,motif/well,concept/body,concept/courage,concept/democracy,concept/history,concept/imagination,concept/self,concept/sublime,form/history,form/novel,histref/america,setting/america,character/columbus"></span>
 
 
 Ye powerful and resplendent ones! ye were, in your atmospheres, grown
@@ -35008,7 +35008,7 @@ society.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_82" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 82)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_82" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 82)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/flowers,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/faith,concept/freedom,concept/history,concept/identity,concept/nature,concept/pride,concept/self,form/history,histref/america,setting/america,setting/italy,setting/london,setting/manhattan,setting/mountains,setting/paris"></span>
 
 
 For [[America]], type of progress, and of essential [[Faith|faith]] in man, above
@@ -35126,7 +35126,7 @@ indigenous here, may haply arrive, be grafted, and sprout, in [[Time|time]],
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_83" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 83)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_83" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 83)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/leaves,motif/love,motif/nature,motif/night,motif/soul,motif/time,motif/water,motif/well,concept/comradeship,concept/conscience,concept/doubt,concept/faith,concept/hope,concept/nature,concept/truth,form/epic,form/lyric,histref/america,setting/america,setting/italy"></span>
 
 
 I say it were a standing disgrace to these States--I say it were a
@@ -35233,7 +35233,7 @@ can give.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_84" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 84)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_84" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 84)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/desert,motif/fire,motif/nature,motif/night,motif/snow,motif/soul,motif/time,motif/well,concept/conscience,concept/democracy,concept/fear,concept/history,concept/identity,concept/nature,form/history,setting/desert,setting/new_york"></span>
 
 
 In the prophetic literature of these States, (the reader of my
@@ -35335,7 +35335,7 @@ and eligibility to free, arouse, dilate.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_85" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 85)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_85" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 85)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/nature,motif/ship,motif/soul,motif/time,motif/well,concept/body,concept/democracy,concept/eternity,concept/faith,concept/fear,concept/history,concept/identity,concept/nature,concept/pride,concept/self,form/epic,form/history,histref/america,setting/america,setting/ship"></span>
 
 
 As, within the purposes of the Kosmos, and vivifying all meteorology,
@@ -35430,7 +35430,7 @@ and compellers.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_86" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 86)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_86" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 86)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/decay,motif/nature,motif/road,motif/ship,motif/sleep,motif/soul,motif/storm,motif/time,motif/well,concept/conscience,concept/democracy,concept/doubt,concept/faith,concept/greatness,concept/greed,concept/history,concept/hope,concept/nature,concept/poverty,form/essay,form/history,histref/america,setting/america,setting/ship,character/dwarf,character/speed"></span>
 
 
 Our lands, embracing so much, (embracing indeed the whole, rejecting
@@ -35543,7 +35543,7 @@ used to depend on themselves, and not on a few coteries of writers.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_87" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 87)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_87" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 87)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/river,motif/time,concept/beauty,concept/greatness,concept/heroism,concept/history,concept/pride,concept/union,concept/wonder,form/history,histref/america,setting/america"></span>
 
 
 Investigating here, we see, not that it is a little thing we have, in
@@ -35654,7 +35654,7 @@ style, &c.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_88" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 88)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_88" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 88)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/love,motif/soul,motif/time,motif/well,concept/democracy,concept/doubt,concept/fear,concept/individualism,concept/paradox,form/essay,form/fable,form/sketch,histref/america,histref/bible,histref/milton,setting/america,character/achilles,character/arthur,character/cleopatra,character/don_quixote,character/faust,character/hamlet,character/milton,character/oliver,character/prometheus,character/richard_ii,character/satan,character/theseus,character/ulysses"></span>
 
 
 [22] Of these rapidly-[[Sketch|sketch]]'d hiatuses, the two which seem to me most
@@ -35756,7 +35756,7 @@ the mythic-materialistic, superstitious, untaught and credulous,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_89" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 89)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_89" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 89)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/chains,motif/crown,motif/death,motif/fire,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/comradeship,concept/conscience,concept/democracy,concept/faith,concept/fanaticism,concept/friendship,concept/identity,concept/nature,form/inscription,histref/america,setting/america,setting/mountains,character/christ"></span>
 
 
 [29] It is to the development, identification, and general prevalence
@@ -35850,7 +35850,7 @@ religion, sweet and unimpugnable alike to little [[Child|child]] or great savan.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_90" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 90)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_90" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 90)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/chains,motif/city,motif/storm,motif/time,motif/well,concept/body,concept/freedom,concept/history,concept/identity,concept/slavery,form/history,setting/new_york"></span>
 
 
 ORIGINS OF ATTEMPTED SECESSION
@@ -35950,7 +35950,7 @@ army hospitals--but the wounds and diseases of peace?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_91" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 91)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_91" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 91)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/blood,motif/ship,motif/storm,motif/time,concept/democracy,concept/freedom,concept/history,concept/slavery,concept/union,form/history,histref/america,histref/crusades,setting/america,setting/new_york,setting/ship"></span>
 
 
 Out of those generic influences, mainly in [[New York]], Pennsylvania, Ohio,
@@ -36046,7 +36046,7 @@ and overturn, would these States, as they are, exist to-day.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_92" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 92)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_92" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 92)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/leaves,motif/nature,motif/night,motif/sleep,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/faith,concept/freedom,concept/history,concept/nature,concept/pride,form/epic,form/history,histref/america,setting/america"></span>
 
 
 It is certain to me that the United States, by virtue of that war and
@@ -36146,7 +36146,7 @@ just as sacred and perfect as the greatest [[artist]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_93" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 93)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_93" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 93)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/lover,motif/animals,motif/birds,motif/blood,motif/death,motif/leaves,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/despair,concept/fear,concept/jealousy,concept/melancholy,concept/misanthropy,concept/suffering,setting/mountains,character/chorus"></span>
 
 
 The power to destroy or remould is freely used by the greatest poet, but
@@ -36240,7 +36240,7 @@ fruition of his [[Love|love]], and of all perfection and [[Beauty|beauty]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_94" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 94)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_94" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 94)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/animals,motif/blood,motif/death,motif/horse,motif/love,motif/mirror,motif/moon,motif/nature,motif/pain,motif/secrets,motif/sleep,motif/snow,motif/soul,motif/time,motif/well,concept/beauty,concept/nature,concept/pride"></span>
 
 
 The fruition of [[Beauty|beauty]] is no chance of miss or hit--it is as inevitable
@@ -36341,7 +36341,7 @@ sea, Master of [[Nature|nature]] and passion and [[Death|death]], and of all ter
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_95" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 95)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_95" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 95)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/love,motif/nakedness,motif/night,motif/soul,motif/supernatural,motif/time,motif/well,concept/beauty,concept/body,concept/faith,concept/greatness,concept/poverty,concept/truth,setting/new_york"></span>
 
 
 The American bards shall be mark'd for generosity and affection, and
@@ -36444,7 +36444,7 @@ large.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_96" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 96)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_96" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 96)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/flowers,motif/nature,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/charity,concept/forgiveness,concept/hope,concept/immortality,concept/melancholy,concept/nature,concept/truth,histref/reformation"></span>
 
 
 These American States, strong and healthy and accomplish'd, shall
@@ -36547,7 +36547,7 @@ deputed atonement.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_97" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 97)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_97" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 97)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/leaves,motif/nature,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/courage,concept/democracy,concept/eternity,concept/faith,concept/freedom,concept/immortality,concept/melancholy,concept/mortality,concept/nature,concept/self,form/epic,histref/america,setting/america"></span>
 
 
 The direct trial of him who would be the greatest poet is to-day. If
@@ -36667,7 +36667,7 @@ chances--and would keep on venturing.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_98" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 98)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_98" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 98)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/leaves,motif/nature,motif/soul,motif/time,motif/well,concept/ambition,concept/body,concept/democracy,concept/education,concept/fear,concept/freedom,concept/history,concept/hope,concept/nature,form/history,histref/america,setting/america"></span>
 
 
 I will therefore not conceal from any persons, known or unknown to me,
@@ -36790,7 +36790,7 @@ nation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_99" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 99)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_99" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 99)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/leaves,motif/love,motif/time,concept/democracy,concept/identity,concept/imagination,concept/immortality,concept/pride,concept/union,histref/america,setting/america"></span>
 
 
 The Four Years' War is over--and in the peaceful, strong, exciting,
@@ -36895,7 +36895,7 @@ democratic career?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_100" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 100)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_100" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 100)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/crown,motif/leaves,motif/soul,motif/stars,motif/time,motif/wind,concept/democracy,concept/faith,concept/freedom,concept/identity,concept/imagination,concept/pride,concept/self,concept/union,histref/america,setting/america,setting/court"></span>
 
 
 Of the whole, [[Poems|poems]] and prose, (not attending at all to chronological
@@ -37003,7 +37003,7 @@ the impalpable odor.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_101" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 101)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_101" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 101)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/death,motif/leaves,motif/ship,motif/soul,motif/stars,motif/time,motif/water,motif/wind,concept/body,concept/democracy,concept/history,concept/immortality,concept/paradox,form/history,setting/ship"></span>
 
 
 Finally, as I have lived in fresh lands, inchoate, and in a
@@ -37105,7 +37105,7 @@ to me.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_102" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 102)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_102" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 102)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/crown,motif/death,motif/leaves,motif/nature,motif/pain,motif/summer,motif/time,motif/well,concept/aspiration,concept/beauty,concept/courage,concept/fear,concept/history,concept/hope,concept/identity,concept/nature,concept/pride,form/history,setting/egypt,character/lincoln"></span>
 
 
 [As I write these lines, May 31, 1875, it is again early [[Summer|summer]],--again
@@ -37202,7 +37202,7 @@ inevitably to it--begin and necessitate it.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_103" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 103)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_103" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 103)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/leaves,motif/love,motif/nature,motif/rose,motif/soul,motif/time,motif/well,concept/body,concept/comradeship,concept/conscience,concept/democracy,concept/friendship,concept/greatness,concept/identity,concept/nature,concept/truth,concept/union,histref/america,setting/america"></span>
 
 
 Then I meant "[[Leaves]] of Grass," as publish'd, to be the Poem of average
@@ -37313,7 +37313,7 @@ to the nation.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_104" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 104)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_104" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 104)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/grave,motif/home,motif/love,motif/memory,motif/nature,motif/secrets,motif/stars,motif/storm,motif/time,motif/well,motif/window,concept/aspiration,concept/courage,concept/democracy,concept/history,concept/melancholy,concept/nature,concept/pride,concept/slavery,concept/suffering,concept/wonder,form/history,histref/america,setting/america,character/queen"></span>
 
 
 Here our thirty-eight States stand to-day, the children of past
@@ -37423,7 +37423,7 @@ oblivious of them.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_105" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 105)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_105" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 105)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/flowers,motif/time,motif/well,concept/democracy,concept/doubt,concept/revenge,concept/self,histref/america,setting/america,setting/london"></span>
 
 
 The same of feudalism, its castles, courts, etiquettes, personalities.
@@ -37528,7 +37528,7 @@ with aversion from the sturdy, the universal, and the democratic.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_106" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 106)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_106" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 106)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/lover,motif/desire,motif/leaves,motif/love,motif/time,motif/well,concept/ambition,concept/beauty,concept/democracy,concept/freedom,concept/greed,concept/history,concept/identity,concept/imagination,concept/sublime,concept/truth,form/history,form/lyric,form/tragedy,histref/milton,character/agamemnon,character/caliban,character/hector,character/milton,character/puck"></span>
 
 
 The poetry of the future, (a phrase open to sharp criticism, and not
@@ -37643,7 +37643,7 @@ war of attempted secession of 1861-'65 to the future esthetics, drama,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_107" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 107)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_107" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 107)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/journey,motif/nature,motif/soul,motif/time,concept/comradeship,concept/democracy,concept/friendship,concept/greatness,concept/greed,concept/nature,concept/union,concept/wonder,histref/america,setting/america,setting/court,character/hamlet"></span>
 
 
 Nor could utility itself provide anything more practically serviceable
@@ -37740,7 +37740,7 @@ penetrate those woes, as shafts of light the darkness?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_108" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 108)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_108" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 108)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/cross,motif/dawn,motif/death,motif/decay,motif/nature,motif/noon,motif/road,motif/ship,motif/silence,motif/spring,motif/time,motif/well,concept/democracy,concept/doubt,concept/education,concept/freedom,concept/humility,concept/nature,form/essay,histref/america,setting/america,setting/egypt,setting/germany,setting/italy,setting/orient,setting/ship"></span>
 
 
 As I write, the last fifth of the nineteenth century is enter'd upon,
@@ -37850,7 +37850,7 @@ uncramp'd [[Nature]] works on every individual without exception.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_109" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 109)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_109" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 109)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/nature,motif/summer,motif/time,motif/well,motif/winter,concept/conscience,concept/doubt,concept/faith,concept/greed,concept/history,concept/hope,concept/nature,concept/paradox,concept/sublime,concept/truth,form/history,histref/america,setting/america"></span>
 
 
 [38] Is there not such a thing as the [[philosophy]] of American [[history]] and
@@ -37959,7 +37959,7 @@ bases, its eligibilities."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_110" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 110)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_110" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 110)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/leaves,motif/marriage,motif/nature,motif/silence,motif/time,concept/faith,concept/freedom,concept/identity,concept/martyrdom,concept/nature,concept/pride,concept/sexuality,histref/america,histref/puritanism,setting/america"></span>
 
 
 Shall the mention of such topics as I have briefly but plainly and
@@ -38066,7 +38066,7 @@ humanity, might not the Creative Power itself deign a smile of approval?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_111" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 111)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_111" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 111)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/animals,motif/marriage,motif/soul,motif/time,motif/well,concept/beauty,concept/body"></span>
 
 
 To the movement for the eligibility and entrance of women amid new
@@ -38169,7 +38169,7 @@ human race have yet to be develop'd.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_112" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 112)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_112" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 112)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/desire,motif/nature,motif/night,motif/silence,motif/time,concept/courage,concept/doubt,concept/fear,concept/hope,concept/martyrdom,concept/nature,form/comedy,histref/america,setting/america,setting/new_york,character/abraham_lincoln,character/lincoln,character/pistol"></span>
 
 
 [[Death|DEATH]] OF [[Abraham Lincoln|ABRAHAM LINCOLN]] LECTURE
@@ -38280,7 +38280,7 @@ breast-pocket there, ready, soon as break and riot came.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_113" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 113)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_113" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 113)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/flag,motif/flowers,motif/marriage,motif/nature,motif/night,motif/storm,motif/summer,motif/time,motif/well,motif/winter,concept/doubt,concept/history,concept/hope,concept/nature,concept/union,concept/wonder,form/comedy,form/history,form/tragedy,histref/america,setting/america,character/abraham_lincoln,character/angelo,character/lincoln"></span>
 
 
 But no break or riot came. The tall figure gave another relieving
@@ -38405,7 +38405,7 @@ murder of [[Abraham Lincoln]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_114" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 114)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_114" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 114)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/innocent,motif/blood,motif/death,motif/flag,motif/horse,motif/lightning,motif/night,motif/storm,motif/time,motif/water,concept/beauty,concept/history,concept/imagination,concept/union,form/history,form/tragedy,histref/america,setting/america,character/abraham_lincoln,character/helena,character/lincoln,character/pistol,character/speed"></span>
 
 
 Great as all its manifold train, circling round it, and stretching into
@@ -38528,7 +38528,7 @@ homogeneous [[Union]], compact, consistent with itself.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_115" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 115)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_115" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 115)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/death,motif/grave,concept/democracy,concept/history,concept/slavery,concept/union,form/epic,form/history,form/tragedy,histref/america,setting/america,setting/london,setting/new_york,character/abraham_lincoln,character/agamemnon,character/lincoln,character/ulysses"></span>
 
 
 Nor will ever future American Patriots and Unionists, indifferently over
@@ -38638,7 +38638,7 @@ writings for the press.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_116" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 116)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_116" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 116)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/flag,motif/leaves,motif/nature,motif/stars,motif/well,concept/comradeship,concept/democracy,concept/endurance,concept/faith,concept/freedom,concept/friendship,concept/history,concept/identity,concept/nature,concept/union,form/history,form/translation,histref/america,setting/america,setting/russia,character/speed"></span>
 
 
 W. W.
@@ -38763,7 +38763,7 @@ either one will indeed be the loss of vitality of the other.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_117" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 117)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_117" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 117)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/lion,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/freedom,concept/history,concept/imagination,concept/nature,form/history,histref/america,setting/america,character/columbus"></span>
 
 
 EMERSON'S BOOKS, (THE SHADOWS OF THEM)
@@ -38865,7 +38865,7 @@ them--as of our democratic politics.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_118" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 118)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_118" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 118)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/rose,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/courage,concept/freedom,concept/heroism,concept/pride,histref/america,histref/bible,setting/america"></span>
 
 
 At times it has been doubtful to me if Emerson really knows or feels
@@ -38981,7 +38981,7 @@ rhyming hunks, or lascivious, glib _rou�_?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_119" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 119)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_119" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 119)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/soul,motif/time,motif/well,concept/beauty,concept/democracy,concept/education,concept/freedom,concept/heroism,concept/hope,concept/melancholy,concept/self,concept/union,histref/america,histref/crusades,setting/america,setting/egypt,setting/germany,setting/italy,setting/new_york,character/christ,character/don_quixote,character/hamlet"></span>
 
 
 In these States, beyond all precedent, poetry will have to do with
@@ -39101,7 +39101,7 @@ arise?)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_120" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 120)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_120" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 120)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/ghosts,motif/secrets,motif/time,motif/well,motif/winter,concept/courage,concept/democracy,concept/faith,concept/hope,concept/vanity,histref/america,setting/america,setting/new_york"></span>
 
 
 Of this old theory, evolution, as broach'd anew, trebled, with indeed
@@ -39204,7 +39204,7 @@ Hugo living, and Byron dead, are samples. Both deserving so [[Well|well]] of
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_121" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 121)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_121" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 121)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/storm,motif/time,concept/democracy,concept/faith,concept/freedom,concept/history,concept/poverty,concept/sublime,form/history,histref/america,histref/french_revolution,setting/america"></span>
 
 
 Meanwhile I must still offset the like of the foregoing, and all it
@@ -39318,7 +39318,7 @@ whether with [[Freedom|freedom]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_122" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 122)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_122" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 122)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/nature,concept/beauty,concept/democracy,concept/despair,concept/faith,concept/fear,concept/friendship,concept/greed,concept/history,concept/nature,form/history,histref/america,setting/america,setting/new_york"></span>
 
 
 "The ideal form of human society," Canon Kingsley declares, "is
@@ -39427,7 +39427,7 @@ pure compulsion or science, its rule and sovereignty--is, in short, in
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_123" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 123)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_123" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 123)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/lightning,motif/love,motif/soul,concept/body,concept/democracy,concept/friendship,concept/greatness,concept/history,concept/identity,concept/slavery,form/history,histref/america,histref/bible,setting/america,setting/germany,character/lincoln"></span>
 
 
 "[[Friendship]]," said Bonaparte, in one of his [[Lightning|lightning]]-flashes of
@@ -39541,7 +39541,7 @@ States.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_124" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 124)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_124" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 124)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/night,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/window,concept/democracy,concept/freedom,concept/history,concept/immortality,concept/paradox,concept/self,concept/union,form/history,histref/america,setting/america,setting/egypt,character/lincoln"></span>
 
 
 LITTLE OR NOTHING NEW, AFTER ALL
@@ -39644,7 +39644,7 @@ mainly of value, or worth consideration, only with reference to it.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_125" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 125)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_125" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 125)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/home,motif/night,motif/seasons,motif/silence,motif/storm,motif/tears,motif/well,concept/freedom,concept/truth,concept/union,histref/america,setting/america,character/speed"></span>
 
 
 There is a subtle something in the common earth, crops, cattle, air,
@@ -39809,7 +39809,7 @@ propitious gales [[Speed|speed]] that day!)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_126" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 126)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_126" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 126)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/villain,motif/clock,motif/fire,motif/garden,motif/home,motif/night,motif/road,motif/time,motif/well,concept/charity,concept/fear,concept/poverty,concept/pride,concept/truth,character/jones"></span>
 
 
 "Were you by Mr. Nichols's [[Garden|garden]]-fence last [[Night|night]]?" said Lugare.
@@ -39937,7 +39937,7 @@ in his profession.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_127" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 127)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_127" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 127)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/grave,motif/marriage,motif/silence,motif/time,motif/well,concept/body,concept/mercy,concept/truth,form/tragedy,setting/new_york"></span>
 
 
 The hour of grace had drawn to its close, and the [[Time|time]] approach'd at
@@ -40050,7 +40050,7 @@ nineteenth year.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_128" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 128)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_128" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 128)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/villain,motif/death,motif/desire,motif/lightning,motif/marriage,motif/night,motif/summer,motif/time,motif/well,concept/self,setting/new_york"></span>
 
 
 Having such power over his wards, Covert did not scruple openly to use
@@ -40160,7 +40160,7 @@ his guardian.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_129" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 129)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_129" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 129)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/desert,motif/fire,motif/home,motif/lightning,motif/night,motif/pain,motif/prison,motif/spring,motif/storm,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/doubt,concept/fear,concept/suffering,setting/court,setting/desert,setting/new_york"></span>
 
 
 Philip Marsh had drank deeply--(let us plead all that may be possible
@@ -40277,7 +40277,7 @@ for himself.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_130" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 130)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_130" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 130)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/orphan,motif/city,motif/dawn,motif/death,motif/dreams,motif/flowers,motif/garden,motif/grave,motif/nature,motif/night,motif/pain,motif/river,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/beauty,concept/nature,setting/new_york"></span>
 
 
 That afternoon Philip left [[New York]]. His friendly employer own'd a small
@@ -40390,7 +40390,7 @@ fostering care.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_131" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 131)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_131" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 131)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/rebel,motif/autumn,motif/childhood,motif/crown,motif/death,motif/horse,motif/night,motif/road,motif/time,motif/well,concept/history,concept/poverty,form/history"></span>
 
 
 The period now arrived when the great national convulsion burst
@@ -40503,7 +40503,7 @@ uncharitably.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_132" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 132)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_132" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 132)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/orphan,motif/blood,motif/death,motif/fire,motif/grave,motif/lightning,motif/night,motif/road,motif/rose,motif/silence,motif/sleep,motif/storm,motif/swallow,motif/time,motif/well,concept/conscience,concept/pride"></span>
 
 
 "After things had gone on in this way for some [[Time|time]], a countryman,
@@ -40610,7 +40610,7 @@ Battery.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_133" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 133)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_133" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 133)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/blood,motif/city,motif/dust,motif/grave,motif/home,motif/love,motif/night,motif/silence,motif/well,motif/window,concept/self_sufficiency,concept/truth,character/richard"></span>
 
 
 As the warning sound of a trumpet called together all who were
@@ -40737,7 +40737,7 @@ leave the parental roof, bent his steps toward the [[City|city]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_134" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 134)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_134" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 134)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/shadow,motif/city,motif/hill,motif/home,motif/journey,motif/leaves,motif/love,motif/noon,motif/road,motif/rose,motif/ship,motif/silence,motif/spring,motif/storm,motif/time,motif/well,concept/faith,setting/new_york,setting/ship,character/richard,character/speed"></span>
 
 
 It may [[Well|well]] be imagined that alarm and grief pervaded the whole of the
@@ -40850,7 +40850,7 @@ was now coming on in its fury, he slept like a babe in its cradle.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_135" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 135)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_135" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 135)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/lover,motif/childhood,motif/city,motif/death,motif/decay,motif/grave,motif/hill,motif/horse,motif/lightning,motif/love,motif/nature,motif/river,motif/road,motif/rose,motif/ship,motif/storm,motif/time,motif/well,motif/wind,concept/beauty,concept/body,concept/fear,concept/madness,concept/nature,concept/revenge,concept/truth,setting/ship"></span>
 
 
 Black Nell had ceased grazing, and stood by her sleeping master with
@@ -40955,7 +40955,7 @@ retain' d the most admirable placidity and gentleness.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_136" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 136)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_136" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 136)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/autumn,motif/city,motif/grave,motif/home,motif/journey,motif/love,motif/memory,motif/nature,motif/river,motif/sleep,motif/spring,motif/summer,motif/time,motif/winter,concept/beauty,concept/doubt,concept/nature,setting/new_york"></span>
 
 
 He was cheerful, but never boisterous, and everybody loved him; his mind
@@ -41062,7 +41062,7 @@ sultriness, is the air, and how decently [[Nature|nature]] seems preparing for h
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_137" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 137)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_137" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 137)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/chalk,motif/city,motif/death,motif/night,motif/pain,motif/poison,motif/silence,motif/summer,motif/tears,motif/well,concept/despair,concept/truth,setting/new_york"></span>
 
 
 Thus it was the last Wednesday we started on our accustomed excursion.
@@ -41183,7 +41183,7 @@ the gate, came through the path, and sat down by his mother in [[Silence|silence
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_138" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 138)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_138" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 138)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/grave,motif/love,motif/night,motif/road,motif/snow,motif/tears,motif/time,motif/water,motif/well,concept/charity,concept/poverty,concept/self"></span>
 
 
 "You are sullen to-[[Night|night]], Charley," said the widow, after a moment's
@@ -41291,7 +41291,7 @@ again indiscriminately, and a box of very thick and very long cigars.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_139" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 139)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_139" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 139)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/nature,motif/prayer,motif/sleep,motif/soul,motif/swallow,motif/time,motif/window,concept/nature"></span>
 
 
 One of the sailors--and it was he who made the largest share of the
@@ -41400,7 +41400,7 @@ around his legs and prevented his advancing.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_140" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 140)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_140" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 140)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/city,motif/desire,motif/home,motif/nature,motif/night,motif/rose,motif/seasons,motif/sleep,motif/time,motif/well,concept/body,concept/friendship,concept/history,concept/nature,concept/truth,form/history,histref/reformation,setting/new_york"></span>
 
 
 The scene was a strange one, and for the [[Time|time]] quite a silent one. The
@@ -41510,7 +41510,7 @@ his escapes.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_141" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 141)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_141" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 141)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/death,motif/desire,motif/noon,motif/ship,motif/soul,motif/summer,motif/time,motif/well,motif/window,concept/ambition,concept/greatness,concept/hope,concept/poverty,concept/pride,concept/temptation,setting/ship"></span>
 
 
 LINGAVE'S [[Temptation|TEMPTATION]]
@@ -41625,7 +41625,7 @@ engagement which he came near breaking.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_142" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 142)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_142" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 142)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/home,motif/night,motif/pain,motif/poison,motif/road,motif/soul,motif/spring,motif/stars,motif/time,concept/beauty,concept/slavery,concept/truth,character/michael,character/nurse"></span>
 
 
 Ridman had a smooth tongue. All his ingenuity was needed in the
@@ -41741,7 +41741,7 @@ and I'll be bound she'll stay on earth three years longer."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_143" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 143)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_143" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 143)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/garden,motif/grave,motif/home,motif/love,motif/night,motif/silence,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/beauty,concept/hope,concept/pride,concept/providence,concept/reform"></span>
 
 
 And as he concluded this wicked and most brutal reply, the speaker
@@ -41847,7 +41847,7 @@ pure breast, and the dove of peace fled away forever.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_144" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 144)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_144" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 144)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/villain,motif/blood,motif/death,motif/fire,motif/grave,motif/hill,motif/love,motif/prison,motif/sleep,motif/soul,motif/spring,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/exile,concept/heroism,concept/history,concept/self,concept/truth,concept/union,form/history,setting/new_york,character/bottom"></span>
 
 
 One of the persons who had occasion to stop most frequently at the
@@ -41970,7 +41970,7 @@ More sorrowful than [[Death|death]] is thy [[Soul|soul]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_145" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 145)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_145" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 145)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/home,motif/river,motif/storm,motif/time,motif/well,motif/wind,concept/freedom,concept/greatness,histref/america,setting/america,setting/court,setting/london,setting/new_york,character/christ,character/phantom"></span>
 
 
 Witness of anguish, brother of slaves,
@@ -42124,7 +42124,7 @@ array of guests:
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_146" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 146)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_146" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 146)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/dust,motif/fire,motif/memory,motif/time,motif/well,concept/democracy,concept/history,concept/identity,concept/melancholy,form/history,histref/america,histref/bible,setting/america,character/sunday"></span>
 
 
 "We read the list," says the _Times_, "of those who assembled to do
@@ -42224,7 +42224,7 @@ it possible but that the right understanding would ensue?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_147" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 147)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_147" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 147)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/city,motif/death,motif/journey,motif/love,motif/nature,motif/soul,motif/time,concept/beauty,concept/body,concept/faith,concept/friendship,concept/history,concept/mortality,concept/nature,concept/providence,concept/self,form/biography,form/epic,form/history,histref/america,histref/bible,setting/america,setting/egypt,character/hamlet"></span>
 
 
 THE [[Bible|BIBLE]] AS POETRY
@@ -42345,7 +42345,7 @@ depends--our ancestry, our past.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_148" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 148)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_148" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 148)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/ghost,motif/autumn,motif/nature,motif/ship,motif/soul,motif/spring,motif/tears,motif/time,motif/well,concept/conscience,concept/history,concept/hope,concept/nature,concept/pride,form/history,histref/america,histref/bible,setting/america,setting/ship,character/hamlet,character/sunday"></span>
 
 
 Strange, but true, that the principal factor in cohering the nations,
@@ -42450,7 +42450,7 @@ be the Holy [[Ghost]] we read of in the Testament."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_149" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 149)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_149" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 149)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/memory,motif/ship,motif/summer,motif/time,concept/courage,concept/history,concept/identity,form/history,histref/america,histref/new_england,setting/america,setting/new_york,setting/ship,character/cassius"></span>
 
 
 I should be at a loss to make any comparison with other preachers or
@@ -42558,7 +42558,7 @@ autochthonic ones?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_150" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 150)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_150" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 150)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/fire,motif/love,motif/nature,motif/river,motif/time,motif/well,concept/democracy,concept/nature,histref/america,setting/america,character/coriolanus,character/hamlet,character/henry_v,character/henry_vi,character/king_john,character/macbeth,character/othello,character/richard_ii,character/richard_iii"></span>
 
 
 As to the Spanish stock of our Southwest, it is certain to me that we
@@ -42669,7 +42669,7 @@ civilized world.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_151" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 151)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_151" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 151)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/home,motif/soul,motif/stars,concept/beauty,concept/democracy,form/comedy,histref/america,histref/dante,histref/french_revolution,setting/america,setting/castle"></span>
 
 
 Whether such was the unconscious, or (as I think likely) the more
@@ -42784,7 +42784,7 @@ life and [[Death|death]] was going on in a country by-place in Scotland!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_152" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 152)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_152" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 152)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/hill,motif/home,motif/love,motif/time,motif/well,concept/ambition,histref/america,setting/america,character/richard"></span>
 
 
 Burns's correspondence, generally collected and publish'd since his
@@ -42889,7 +42889,7 @@ bee of the moment buzzes in my bonnet-lug."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_153" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 153)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_153" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 153)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/home,motif/memory,motif/nature,motif/soul,motif/time,motif/well,concept/courage,concept/democracy,concept/freedom,concept/heroism,concept/nature,concept/poverty,concept/self,histref/america,setting/america"></span>
 
 
 Consonantly with the customs of the [[Time|time]]--yet markedly inconsistent in
@@ -43013,7 +43013,7 @@ teething a Heckle," "O lay thy loof in mine, lass," and others.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_154" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 154)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_154" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 154)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/home,motif/nature,motif/night,motif/prayer,motif/well,concept/imagination,concept/nature,concept/paradox"></span>
 
 
 The longer and more elaborated [[Poems|poems]] of Burns are just such as would
@@ -43121,7 +43121,7 @@ First, a father, having fallen in battle, his [[Child|child]] (the singer)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_155" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 155)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_155" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 155)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,archetype/orphan,motif/hill,motif/home,motif/lion,motif/love,motif/nature,motif/ship,motif/stars,motif/time,motif/well,motif/wind,concept/democracy,concept/faith,concept/hope,concept/nature,concept/truth,histref/america,setting/america,setting/ship,character/arthur"></span>
 
 
 Was left a trampled [[Orphan|orphan]], and a selfish uncle's ward.
@@ -43242,7 +43242,7 @@ farmer's [[house]] and miner's cabin.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_156" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 156)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_156" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 156)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/childhood,motif/nature,motif/time,motif/well,concept/democracy,concept/history,concept/nature,form/history,histref/america,setting/america,setting/new_york"></span>
 
 
 Best thanks, anyhow, to Alfred Tennyson--thanks and appreciation in
@@ -43362,7 +43362,7 @@ case in point. "Tippecanoe, and Tyler too," another.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_157" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 157)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_157" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 157)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/death,motif/dust,motif/fire,motif/horse,motif/leaves,motif/nature,motif/river,motif/stars,motif/time,motif/wind,concept/beauty,concept/body,concept/doubt,concept/grotesque,concept/identity,concept/imagination,concept/nature,concept/survival,concept/union,concept/wonder,form/translation,setting/new_york"></span>
 
 
 I find the same rule in the people's conversations everywhere. I heard
@@ -43469,7 +43469,7 @@ own with the best of the said trees or rocks, and outdoing them.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_158" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 158)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_158" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 158)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/animals,motif/hill,motif/nature,motif/rose,motif/well,concept/beauty,concept/body,concept/hope,concept/nature,character/apollo"></span>
 
 
 There were Omahas, Poncas, Winnebagoes, Cheyennes, Navahos, Apaches,
@@ -43578,7 +43578,7 @@ complexion."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_159" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 159)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_159" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 159)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/monster,motif/autumn,motif/childhood,motif/city,motif/desire,motif/horse,motif/moon,motif/nature,motif/night,motif/stars,motif/summer,motif/time,motif/well,concept/nature,concept/union,histref/america,setting/america,setting/court,setting/new_york,character/saturn"></span>
 
 
 SOME DIARY NOTES AT RANDOM
@@ -43688,7 +43688,7 @@ doctor records symptoms.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_160" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 160)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_160" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 160)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/bells,motif/city,motif/home,motif/lightning,motif/night,motif/river,motif/stars,motif/storm,motif/well,form/novel,character/angelo"></span>
 
 
 PLATE GLASS NOTES
@@ -43798,7 +43798,7 @@ orderlies.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_161" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 161)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_161" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 161)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/clock,motif/desire,motif/fire,motif/flag,motif/flowers,motif/garden,motif/home,motif/night,motif/river,motif/road,motif/snow,motif/time,concept/beauty,concept/body,setting/new_york"></span>
 
 
 THE 195TH PENNSYLVANIA
@@ -43926,7 +43926,7 @@ down in the distance.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_162" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 162)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_162" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 162)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/nature,motif/noon,motif/river,motif/time,motif/water,motif/well,concept/hope,concept/nature,concept/union,histref/america,setting/america"></span>
 
 
 Now the paying is to begin. The Major (paymaster) with his clerk seat
@@ -44036,7 +44036,7 @@ even at rare and long intervals, something approximately good.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_163" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 163)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_163" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 163)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/ghost,motif/garden,motif/memory,motif/nature,motif/stars,motif/well,concept/doubt,concept/freedom,concept/longing,concept/nature,concept/solitude,form/lyric,form/tragedy,histref/america,setting/america,setting/castle,setting/london,setting/new_york,character/falstaff,character/hamlet,character/lady_macbeth,character/richard_iii,character/shylock"></span>
 
 
 THE OLD BOWERY
@@ -44142,7 +44142,7 @@ principal character in "The Iron Chest."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_164" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 164)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_164" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 164)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/lion,motif/nature,motif/night,motif/river,motif/ship,motif/time,motif/well,concept/freedom,concept/nature,concept/wonder,setting/castle,setting/new_york,setting/ship,character/bertram,character/bottom,character/brutus,character/constance,character/jones,character/julius_caesar,character/king_john,character/richard,character/tarquin"></span>
 
 
 In any portraiture of Booth, those years, the Bowery Theatre, with its
@@ -44247,7 +44247,7 @@ his appearance in lively condition.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_165" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 165)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_165" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 165)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,motif/city,motif/death,motif/fire,motif/journey,motif/leaves,motif/nature,motif/road,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/winter,concept/hope,concept/nature,form/tragedy,histref/america,setting/america,setting/london,setting/mountains,setting/new_york,character/abraham_lincoln,character/bottom"></span>
 
 
 After a one-act farce over, as contrast and prelude, the curtain rising
@@ -44369,7 +44369,7 @@ and season, the aimless and resultless ways of most human lives.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_166" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 166)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_166" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 166)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/soul,motif/time,motif/well,motif/winter,concept/democracy,concept/doubt,concept/history,concept/hope,form/history,histref/america,setting/america,character/abraham_lincoln,character/lincoln"></span>
 
 
 Thus the last 14 years have pass'd. At present (end-days of March,
@@ -44495,7 +44495,7 @@ summing-up of him yet in existence?
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_167" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 167)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_167" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 167)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/memory,motif/nature,motif/tears,motif/time,concept/democracy,concept/history,concept/nature,concept/union,form/history,histref/america,setting/america,setting/new_york,character/abraham_lincoln,character/lincoln,character/ulysses"></span>
 
 
 The best way to estimate the value of [[Lincoln]] is to think what the
@@ -44615,7 +44615,7 @@ returning wounded, and so on.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_168" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 168)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_168" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 168)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/night,motif/noon,motif/river,motif/snow,motif/time,motif/water,motif/well,concept/pride,setting/cathedral,setting/new_york,character/sunday"></span>
 
 
 I remember very [[Well|well]] seeing Gen. Taylor with his staff and other
@@ -44715,7 +44715,7 @@ villages.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_169" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 169)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_169" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 169)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/hill,motif/night,motif/noon,motif/river,motif/summer,motif/time,motif/water,motif/well,motif/wind,setting/new_york"></span>
 
 
 It was 10 o'[[Clock|clock]] A.M. when we got in Chicago, too late for the steamer;
@@ -44828,7 +44828,7 @@ signature. He seems to be in no hurry about it, but lets them wait.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_170" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 170)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_170" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 170)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/clock,motif/fire,motif/home,motif/horse,motif/love,motif/memory,motif/night,motif/snow,motif/storm,motif/time,motif/well,concept/body,concept/hope,concept/slavery,concept/union,histref/bible,character/abraham_lincoln,character/lincoln"></span>
 
 
 The crowds that come here make a curious study for me. I get along, very
@@ -44950,7 +44950,7 @@ for life, and the universe with its objects and play of action.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_171" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 171)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_171" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 171)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/nature,motif/tears,motif/time,concept/doubt,concept/faith,concept/fear,concept/nature,concept/self,concept/union,setting/new_york,character/lincoln,character/sunday"></span>
 
 
 "We Americans devote an official day to it every year; yet I sometimes
@@ -45054,7 +45054,7 @@ I have not waver'd or had any [[Doubt|doubt]] of the issue, since Gettysburg.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_172" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 172)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_172" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 172)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/rebel,motif/city,motif/death,motif/flag,motif/nature,motif/night,motif/noon,motif/prayer,motif/stars,motif/tears,motif/time,motif/well,concept/body,concept/madness,concept/nature,concept/suffering,character/lorenzo,character/speed,character/sunday"></span>
 
 
 _8th September, '63_.--Here, now, is a specimen army hospital case:
@@ -45155,7 +45155,7 @@ afterward, without any special agitation, in the course of the [[Night|night]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_173" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 173)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_173" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 173)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/rebel,motif/death,motif/home,motif/sleep,motif/soul,motif/tears,motif/time,motif/well,concept/body,concept/charity,concept/education,concept/faith,concept/freedom,concept/hope,concept/imprisonment,setting/new_york,character/sunday"></span>
 
 
 _Washington, May 26, '63_.--M., I think something of commencing a series
@@ -45287,7 +45287,7 @@ things for the dying man.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_174" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 174)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_174" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 174)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/cross,motif/death,motif/home,motif/nature,motif/soul,motif/time,motif/water,motif/well,concept/body,concept/conversion,concept/doubt,concept/nature,concept/truth,concept/union,setting/new_york,character/sunday"></span>
 
 
 _December, '65_.--The only remaining hospital is now "Harewood," out in
@@ -45407,7 +45407,7 @@ Camden, N.J., July, 1888_.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_175" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 175)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_175" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 175)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/birds,motif/city,motif/cross,motif/death,motif/nature,motif/seasons,motif/time,motif/well,motif/winter,concept/education,concept/history,concept/nature,concept/poverty,form/biography,form/history,histref/america,histref/french_revolution,setting/america,setting/new_york,setting/paris,character/hastings,character/jones,character/queen"></span>
 
 
 To begin with, my theme is comparatively featureless. The great
@@ -45511,7 +45511,7 @@ cruel procedure affects my heart while penning these lines.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_176" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 176)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_176" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 176)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/death,motif/home,motif/journey,motif/marriage,motif/nature,motif/noon,motif/time,motif/well,concept/faith,concept/fear,concept/mercy,concept/nature,concept/providence,concept/reconciliation,concept/resignation,concept/truth,histref/america,setting/america,setting/new_york"></span>
 
 
 In his 23d year Elias was married, by the Friends' ceremony, to Jemima
@@ -45677,7 +45677,7 @@ direction of our yearly meeting the next year.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_177" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 177)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_177" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 177)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/home,motif/journey,motif/love,motif/time,motif/water,concept/faith,concept/fear,concept/mercy,concept/truth,form/parable,histref/new_england,character/christ"></span>
 
 
 Then, season after season, when peace and Independence reign'd, year
@@ -45794,7 +45794,7 @@ described.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_178" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 178)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_178" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 178)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/death,motif/grave,motif/home,motif/lightning,motif/nature,motif/night,motif/ship,motif/soul,motif/storm,motif/tears,motif/time,motif/well,concept/conscience,concept/faith,concept/nature,histref/new_england,setting/new_york,setting/ship"></span>
 
 
 Elias Hicks was at this period in the latter part (November or December)
@@ -45906,7 +45906,7 @@ of Quakerdom show some unseemly and insane acts.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_179" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 179)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_179" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 179)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cross,motif/dust,motif/home,motif/lamb,motif/lion,motif/love,motif/soul,concept/faith,concept/fear,concept/truth,histref/christianity,character/christ"></span>
 
 
 In one of the lives of Ralph Waldo Emerson is a list of lessons or
@@ -46021,7 +46021,7 @@ full of the knowledge of the Lord, as the waters cover the sea."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_180" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 180)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_180" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 180)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/desire,motif/fire,motif/nature,motif/rose,motif/time,motif/water,motif/well,concept/aspiration,concept/body,concept/madness,concept/nature,concept/suffering,setting/mountains,setting/new_york,character/christ"></span>
 
 
 The exposition in the last sentence, that the terms of the texts are not
@@ -46126,7 +46126,7 @@ husbands and wives, parents and children, were separated.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_181" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 181)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_181" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 181)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/prophet,motif/crown,motif/grave,motif/nature,motif/stars,motif/tears,motif/time,concept/ambition,concept/body,concept/conscience,concept/divine_love,concept/faith,concept/fear,concept/nature,concept/paradox,concept/pride,concept/self,concept/truth,histref/america,setting/america,character/angelo,character/christ"></span>
 
 
 Of course what Elias promulg'd spread a great commotion among the
@@ -46236,7 +46236,7 @@ for the unlearn'd, the common, and the poor.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_182" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 182)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_182" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 182)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/crown,motif/death,motif/prayer,motif/soul,motif/stars,motif/time,motif/well,concept/aspiration,concept/charity,concept/democracy,concept/slavery,histref/america,histref/milton,histref/reformation,setting/america,setting/court,character/milton,character/queen_elizabeth,character/witch"></span>
 
 
 I don't know in what book I once read, (possibly the remark has been
@@ -46341,7 +46341,7 @@ wandering up and down England.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_183" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 183)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_183" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 183)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/night,motif/prison,motif/soul,motif/time,concept/beauty,concept/identity,concept/imagination,concept/immortality,concept/imprisonment,concept/union,form/sketch,histref/america,histref/bible,histref/new_england,setting/america,setting/london,setting/new_york,character/hamlet,character/othello,character/romeo"></span>
 
 
 George Fox, born 1624, was of decent stock, in ordinary lower life--as
@@ -46447,7 +46447,7 @@ life, and faithful in [[Death|death]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_184" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 184)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_184" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 184)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/leaves,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/heroism,concept/history,concept/hope,concept/nature,form/essay,form/history,form/novel,histref/america,histref/dante,setting/america,character/bottom"></span>
 
 
 GOOD-BYE MY FANCY
@@ -46558,7 +46558,7 @@ will branch or offshoot.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_185" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 185)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_185" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 185)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/road,motif/rose,motif/well,concept/beauty,concept/history,concept/pride,concept/slavery,form/epigram,form/history,form/hymn,form/inscription,setting/mountains"></span>
 
 
 So much have I now rattled off (old age's garrulity,) that there is not
@@ -46670,7 +46670,7 @@ Halleck, Mrs. Sigourney, Allston, Willis, Dana,
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_186" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 186)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_186" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 186)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/dreams,motif/flowers,motif/ship,motif/soul,motif/stars,motif/time,motif/wind,concept/beauty,concept/despair,histref/america,setting/america,setting/ship,character/columbus,character/hamlet"></span>
 
 
 John Pierpont, W. G. Simms, Robert Sands, Drake, Hillhouse, Theodore
@@ -46780,7 +46780,7 @@ For companionship and good will for ever to all and each.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_187" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 187)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_187" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 187)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/cross,motif/mirror,motif/time,motif/well,concept/courage,concept/history,concept/hope,form/essay,form/history,histref/america,histref/bible,histref/new_england,setting/america,setting/court,character/queen"></span>
 
 
 FOR [[Queen|QUEEN]] VICTORIA'S BIRTHDAY
@@ -46893,7 +46893,7 @@ kings or millionaires or majorities.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_188" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 188)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_188" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 188)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/grave,motif/nature,motif/time,motif/well,concept/education,concept/history,concept/identity,concept/nature,form/history,histref/america,histref/puritanism,setting/america,setting/germany,setting/new_york"></span>
 
 
 What the United States are working out and establishing needs
@@ -46998,7 +46998,7 @@ there is a loftier.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_189" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 189)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_189" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 189)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/autumn,motif/hill,motif/home,motif/insects,motif/leaves,motif/mirror,motif/nature,motif/noon,motif/soul,motif/spring,motif/summer,motif/time,motif/well,concept/democracy,concept/freedom,concept/nature,form/essay,histref/america,setting/america"></span>
 
 
 The great current points are perhaps simple, after all: first, that the
@@ -47109,7 +47109,7 @@ the calls, [[songs]], laughter of the young fellows.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_190" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 190)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_190" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 190)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/shadow,motif/autumn,motif/death,motif/frost,motif/hill,motif/horse,motif/leaves,motif/moon,motif/night,motif/noon,motif/pain,motif/road,motif/silence,motif/soul,motif/stars,motif/summer,motif/time,motif/well,concept/doubt,concept/heroism,concept/hope,concept/immortality,concept/suffering,character/saturn"></span>
 
 
 Not to forget, hereabouts, in the Middle States, the old worm fences,
@@ -47225,7 +47225,7 @@ blunted or even gone.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_191" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 191)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_191" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 191)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/nature,motif/soul,motif/time,motif/well,concept/beauty,concept/courage,concept/nature,concept/wonder,form/inscription,histref/america,histref/milton,setting/america,setting/london,character/milton"></span>
 
 
 Then to give the following, and cease before the thought gets
@@ -47345,7 +47345,7 @@ thankfulest heart and [[Memory|memory]].
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_192" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 192)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_192" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 192)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/dreams,motif/garden,motif/nature,motif/night,motif/pain,motif/snow,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/nature,form/essay,setting/mountains"></span>
 
 
 W.W. CAMDEN, NEW JERSEY, _February 24th, 1890_.
@@ -47486,7 +47486,7 @@ really GAY-HEARTED MAN."
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_193" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 193)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_193" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 193)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/city,motif/decay,motif/home,motif/night,motif/pain,motif/river,motif/summer,motif/time,motif/water,motif/well,concept/fear,concept/history,form/history,histref/america,setting/america,setting/new_york"></span>
 
 
 It was a terrible criticism--cut into me like a surgeon's lance. Made me
@@ -47617,7 +47617,7 @@ action!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_194" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 194)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_194" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 194)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/leaves,motif/love,motif/night,motif/noon,motif/time,motif/well,motif/winter,concept/hope,concept/martyrdom,form/essay,form/tragedy,histref/america,setting/america,setting/london,character/abraham_lincoln,character/lincoln,character/nurse,character/ulysses"></span>
 
 
 A SICK SPELL
@@ -47736,7 +47736,7 @@ pulsating and swaying like a first-class Andalusian dancer.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_195" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 195)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_195" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 195)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/city,motif/horse,motif/leaves,motif/nature,motif/river,motif/sleep,motif/time,motif/water,motif/well,motif/white_and_red,motif/window,concept/immortality,concept/nature,setting/court,setting/new_york"></span>
 
 
 And such a critical dissection, and flattering summary! The Whitmanites
@@ -47854,7 +47854,7 @@ ever vivified our race.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_196" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 196)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_196" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 196)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/death,motif/memory,motif/nature,motif/time,motif/water,motif/well,concept/fear,concept/freedom,concept/friendship,concept/identity,concept/nature,concept/slavery,form/novel,setting/new_york,character/lincoln"></span>
 
 
 In Boston, 1860, I first met William Douglas O'Connor.[48] As I saw
@@ -47957,7 +47957,7 @@ for nearly 20 years.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_197" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 197)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_197" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 197)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/city,motif/death,motif/memory,motif/nature,motif/road,motif/ship,motif/time,motif/water,motif/well,concept/jealousy,concept/nature,concept/self,form/comedy,setting/court,setting/london,setting/mountains,setting/new_york,setting/paris,setting/ship,character/constance,character/king_john"></span>
 
 
 Of the last six years he has been largely occupied as consulting
@@ -48068,7 +48068,7 @@ like a cyclone!
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_198" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 198)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_198" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 198)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/birds,motif/time,motif/well,concept/history,concept/slavery,form/history,histref/america,histref/new_england,setting/america,setting/egypt,setting/new_york,character/cassius,character/fred,character/jones"></span>
 
 
 Saw Hackett at the old Park many times, and remember him [[Well|well]]. His
@@ -48181,7 +48181,7 @@ not at this moment recall.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_199" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 199)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_199" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 199)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="topos/double,motif/animals,motif/city,motif/death,motif/home,motif/leaves,motif/lion,motif/spring,motif/time,motif/well,motif/winter,form/literary_criticism,histref/america,setting/america,setting/new_york,character/hubert,character/nurse"></span>
 
 
 In another paper I have described the elder Booth, and the Bowery
@@ -48285,7 +48285,7 @@ works.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_200" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 200)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_200" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 200)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/crown,motif/death,motif/dust,motif/fire,motif/home,motif/journey,motif/leaves,motif/river,motif/ship,motif/soul,motif/time,motif/water,motif/well,concept/doubt,concept/faith,form/sketch,histref/bible,histref/dante,setting/mountains,setting/new_york,setting/ship,character/nurse"></span>
 
 
 But for a few portraiture or descriptive bits. To-day in the upper story
@@ -48419,7 +48419,7 @@ and young.
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_201" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 201)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_201" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 201)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/love,motif/nature,motif/road,motif/soul,motif/time,motif/well,motif/wheel,motif/winter,concept/beauty,concept/democracy,concept/freedom,concept/heroism,concept/history,concept/imprisonment,concept/nature,concept/union,concept/wonder,form/history,histref/america,histref/christianity,setting/america,character/bottom"></span>
 
 
 OUT IN THE OPEN AGAIN
@@ -48537,7 +48537,7 @@ but quite freely and fairly in honest type.)
 
 
 
-<span class="atom-split" data-atom="story_46_hospital_perplexity--part_202" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 202)" data-chapter="Hospital Perplexity" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_46_hospital_perplexity--part_202" data-title="Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 202)" data-chapter="Hospital Perplexity" data-kind="excerpt" data-tags="motif/death,motif/memory,motif/soul,motif/time,concept/faith,concept/identity,histref/america,setting/america"></span>
 
 
 Haven't I given specimen clues, if no more? At any rate I have written

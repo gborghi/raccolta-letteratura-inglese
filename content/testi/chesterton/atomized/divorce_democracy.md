@@ -434,7 +434,7 @@ Il principio sostenuto dal popolo, contro il quale viene macchinata questa congi
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Divorce Democracy (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Divorce Democracy (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/home,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/conscience,concept/democracy,concept/despair,concept/nature,concept/reform,concept/self,concept/slavery,form/essay,form/tragedy,histref/french_revolution"></span>
 
 
 1916
@@ -597,7 +597,7 @@ C'è un'obiezione enorme ed elementare al rendere popolare il [[divorce|divorzio
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Divorce Democracy (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Divorce Democracy (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/marriage,motif/prayer,motif/prison,motif/well,concept/democracy,concept/doubt,concept/madness,concept/poverty,concept/self,setting/court"></span>
 
 
 [[Well]], the Poor Man's [[divorce|Divorce]] Law will be applied exactly as all
@@ -709,7 +709,7 @@ Ma questa prova della crudeltà tecnica, che è grossolana e sbrigativa applicat
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Divorce Democracy (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Divorce Democracy (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/city,motif/death,motif/decay,motif/fire,motif/love,motif/marriage,motif/memory,motif/nature,motif/prayer,motif/soul,motif/well,concept/body,concept/democracy,concept/despair,concept/doubt,concept/freedom,concept/honour,concept/nature,concept/wonder,form/parable,form/tragedy,histref/america,setting/america,character/benedick,character/monks,character/nurse"></span>
 
 
 It is common to meet nowadays men who talk of what they call Free [[Love]]

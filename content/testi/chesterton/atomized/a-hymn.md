@@ -81,7 +81,7 @@ un'unica [[Sword|spada]] verso di te.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="a-hymn (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="a-hymn (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/sleep,concept/faith,concept/honour,concept/pride,form/hymn"></span>
 
 
 A [[Hymn]]  

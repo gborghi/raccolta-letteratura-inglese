@@ -291,7 +291,7 @@ Here as everywhere the [[Soul|soul]] of man went first, even when it denied itse
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="anti_religious_thought (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="anti_religious_thought (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/golden_age,motif/memory,motif/supernatural,motif/time,concept/faith,concept/history,form/history,histref/christianity,histref/reformation,histref/renaissance,setting/london"></span>
 
 
 # anti religious thought
@@ -407,7 +407,7 @@ Per metterne in luce la qualità essenziale, confrontiamo dapprima quel periodo 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="anti_religious_thought (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="anti_religious_thought (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="topos/last_stand,motif/cross,motif/nature,motif/poison,motif/time,motif/well,concept/doubt,concept/nature,concept/union,histref/bible,histref/christianity,histref/islam,histref/reformation,histref/renaissance,setting/court,character/christ"></span>
 
 
 The seventeenth century ended with a note of interrogation.
@@ -507,7 +507,7 @@ Il pensiero, come pensiero individuale, era naturalmente cominciato assai prima.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="anti_religious_thought (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="anti_religious_thought (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/child,motif/ghosts,motif/night,motif/rose,motif/soul,motif/time,motif/well,concept/doubt,concept/endurance,concept/fanaticism,concept/history,concept/martyrdom,concept/poverty,concept/reform,form/history,histref/french_revolution,histref/inquisition,histref/islam,histref/spanish_inquisition,setting/battlefield,character/witch"></span>
 
 
 But against this clear mood, as against a quiet evening sky,
@@ -613,7 +613,7 @@ Forse il momento perfetto di ogni cosa mortale è breve, anche delle cose mortal
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="anti_religious_thought (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="anti_religious_thought (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/soul,histref/christianity"></span>
 
 
 One word may be added, to link up the age with many other ages.

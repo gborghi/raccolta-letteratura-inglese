@@ -8778,7 +8778,7 @@ il 6 luglio 1998.)
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="CharlesDickens — Part 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="CharlesDickens — Part 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="histref/america,setting/america"></span>
 
 
 PART ONE
@@ -8824,7 +8824,7 @@ DICKENS E L'[[America|AMERICA]]
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="CharlesDickens — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="CharlesDickens — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,archetype/shadow,motif/dawn,motif/decay,motif/desire,motif/time,concept/greatness,concept/hope,concept/reform,histref/french_revolution"></span>
 
 
 CHAPTER I
@@ -8962,7 +8962,7 @@ Il più assennato dei critici di Dickens, un uomo di genio, il signor George Gis
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="CharlesDickens — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="CharlesDickens — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/hero,archetype/king,archetype/rebel,motif/dawn,motif/nature,motif/prison,motif/ship,motif/stars,motif/tears,motif/time,motif/wind,concept/democracy,concept/education,concept/greatness,concept/hope,concept/nature,concept/paradox,concept/reform,concept/truth,histref/french_revolution,setting/ship"></span>
 
 
 This [[Dawn|dawn]], against which the gibbet and all the old cruelties stood
@@ -9088,7 +9088,7 @@ Carlyle uccise gli eroi; non ve ne sono stati più dai suoi [[Time|tempi]]. Ucci
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="CharlesDickens — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="CharlesDickens — Chapter 1 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/fool,archetype/prophet,motif/prison,motif/soul,motif/time,concept/democracy,concept/education,concept/exile,concept/faith,concept/greatness,concept/hope,concept/original_sin,form/literary_criticism,histref/christianity,histref/french_revolution,character/nicholas_nickleby"></span>
 
 
 But we, in the post-Carlylean period, have be come fastidious about
@@ -9225,7 +9225,7 @@ Lo svantaggio in cui Dickens è caduto, sia come [[Artist|artista]] sia come mor
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="CharlesDickens — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="CharlesDickens — Chapter 1 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/jewel,motif/love,motif/nature,motif/night,motif/soul,motif/spring,motif/stars,motif/supernatural,motif/time,concept/democracy,concept/doubt,concept/faith,concept/hope,concept/melancholy,concept/nature,concept/pride,concept/sublime,concept/truth,character/bottom,character/major_bagstock"></span>
 
 
 This much the intelligence of men soon perceived.
@@ -9380,7 +9380,7 @@ Io credo, per parte mia, che questo suo mondo più coraggioso certamente ritorne
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="CharlesDickens — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="CharlesDickens — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/home,motif/night,motif/tears,motif/time,concept/doubt,concept/education,concept/paradox,concept/self,concept/wonder,character/jones,character/kent"></span>
 
 
 CHAPTER II
@@ -9511,7 +9511,7 @@ C'era un altro tratto in quel ragazzo che rendeva il suo caso più singolare, e 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="CharlesDickens — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="CharlesDickens — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/crown,motif/hill,motif/home,motif/nature,motif/night,motif/prison,motif/road,motif/silence,motif/spring,motif/time,motif/well,concept/fear,concept/nature,concept/sublime,concept/truth,form/blank_verse,form/comedy,form/tragedy,setting/london,character/david_copperfield,character/falstaff,character/kent,character/wilkins_micawber"></span>
 
 
 It must be remembered (as I have suggested before)
@@ -9633,7 +9633,7 @@ Il giovane Charles era stato frettolosamente scagliato nella fabbrica dalla più
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="CharlesDickens — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="CharlesDickens — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/home,motif/night,motif/pain,motif/prison,motif/silence,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/hope,concept/pride,concept/self,concept/suffering,concept/truth,concept/vanity,form/lyric,form/tragedy,character/fagin,character/little_nell"></span>
 
 
 It need not be suggested, I think, that this agony in the [[Child|child]]
@@ -9784,7 +9784,7 @@ Se mettiamo insieme questi fatti, che la [[Tragedy|tragedia]] pareva definitiva,
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="CharlesDickens — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="CharlesDickens — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/nature,concept/beauty,concept/nature,form/tragedy"></span>
 
 
 This boy who dropped down groaning at his work, who was hungry
@@ -9856,7 +9856,7 @@ Di fatto, non c'è un briciolo di prova a dimostrare che coloro i quali hanno av
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="CharlesDickens — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="CharlesDickens — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/blood,motif/cross,motif/great_house,motif/home,motif/love,motif/memory,motif/night,motif/secrets,motif/soul,motif/stars,motif/window,concept/beauty,concept/education,concept/hope,form/inscription,form/lyric,form/riddle,form/tragedy,setting/london"></span>
 
 
 CHAPTER III
@@ -9990,7 +9990,7 @@ Qui sta tutto il segreto di quel realismo perturbante con cui Dickens sapeva sem
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="CharlesDickens — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="CharlesDickens — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/king,motif/city,motif/home,motif/love,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/honour,concept/individualism,concept/vanity,form/comedy,form/tragedy,setting/court,setting/london,character/david_copperfield,character/marchioness"></span>
 
 
 And so the little Dickens Dickensised [[London]].  He prepared
@@ -10115,7 +10115,7 @@ Visti dal di fuori, i suoi piccoli piaceri e le sue stravaganze paiono più pate
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="CharlesDickens — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="CharlesDickens — Chapter 3 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/childhood,motif/fire,motif/hill,motif/marriage,motif/night,motif/prison,motif/sleep,motif/time,motif/well,concept/doubt,concept/fear,concept/grotesque,form/comedy,character/david_copperfield"></span>
 
 
 For the boy individually the prospect seemed to be growing drearier
@@ -10243,7 +10243,7 @@ Lasciata la scuola, Dickens trovò impiego come scrivano presso il signor Blackm
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="CharlesDickens — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="CharlesDickens — Chapter 3 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/mirror,motif/prison,motif/time,motif/well,concept/aspiration,concept/courage,concept/honour,concept/self,concept/truth"></span>
 
 
 This practical intensity of Dickens is worth our dwelling on,
@@ -10365,7 +10365,7 @@ Dickens riuscì a diventare stenografo; riuscì a diventare cronista; riuscì in
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="CharlesDickens — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="CharlesDickens — Chapter 3 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/love,motif/marriage,motif/nature,motif/night,motif/storm,motif/time,concept/beauty,concept/nature,form/sketch,form/tragedy,character/jonas_chuzzlewit"></span>
 
 
 It cannot be too often said, then, that we must read into young
@@ -10483,7 +10483,7 @@ Gli «Sketches», a parte splendidi guizzi di [[Humour|umorismo]] qua e là, non
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_06" data-title="CharlesDickens — Chapter 3 (part 6)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_06" data-title="CharlesDickens — Chapter 3 (part 6)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/fire,motif/well,concept/democracy,concept/doubt,character/horatio"></span>
 
 
 In one way, however, the "Sketches by Boz" do stand out
@@ -10535,7 +10535,7 @@ In un modo, tuttavia, gli «Sketches by Boz» spiccano assai simbolicamente nell
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="CharlesDickens — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="CharlesDickens — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/death,motif/time,concept/greatness,concept/imagination,concept/melancholy,concept/truth,character/martin_chuzzlewit"></span>
 
 
 CHAPTER IV
@@ -10797,7 +10797,7 @@ come splendidi forestieri.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="CharlesDickens — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="CharlesDickens — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/night,motif/river,motif/road,motif/rose,motif/time,motif/water,concept/doubt,concept/freedom,form/novel,form/parody,character/david_copperfield,character/major_bagstock,character/martin_chuzzlewit,character/nicholas_nickleby,character/sam_weller"></span>
 
 
 Seymour's claim, then, viewed symbolically, was even a compliment.
@@ -11041,7 +11041,7 @@ i personaggi che non incidono sulle storie.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="CharlesDickens — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="CharlesDickens — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/hero,motif/blood,motif/childhood,motif/crown,motif/death,motif/fire,motif/home,motif/silence,motif/time,concept/beauty,concept/history,concept/self,form/history,form/novel,form/short_story,setting/london,character/achilles,character/apollo,character/falstaff,character/robin_hood"></span>
 
 
 This is a plain matter; but, unless it be stated and felt,
@@ -11251,7 +11251,7 @@ e l'intero mondo mortale è una fabbrica d'immortali.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="CharlesDickens — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="CharlesDickens — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/hero,motif/autumn,motif/death,motif/desire,motif/fire,motif/flowers,motif/horse,motif/nature,motif/night,motif/soul,motif/summer,motif/supernatural,motif/tears,motif/time,concept/eternity,concept/grotesque,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,concept/vanity,concept/wonder,form/comedy,character/bottom,character/david_copperfield,character/hector,character/paul_dombey,character/puck,character/samuel_pickwick,character/ulysses"></span>
 
 
 Dickens was a mythologist rather than a novelist; he was
@@ -11551,7 +11551,7 @@ caratteristica originale de «Il [[Pickwick|Circolo Pickwick]]».
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="CharlesDickens — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="CharlesDickens — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/innocent,motif/dance,motif/grave,motif/horse,motif/love,motif/mirror,motif/moon,motif/prison,motif/sleep,motif/soul,motif/stars,motif/water,concept/body,concept/courage,concept/hope,concept/truth,concept/vanity,character/samuel_pickwick"></span>
 
 
 "[[Pickwick]]," I have said, is a [[Romance|romance]] of adventure, and [[Samuel Pickwick]]
@@ -11781,7 +11781,7 @@ dentro dalla Vita.  E lo scettico ne è cacciato fuori.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="CharlesDickens — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="CharlesDickens — Chapter 5 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/soul,motif/stars,motif/time,motif/well,concept/doubt,concept/eternity,concept/history,concept/paradox,form/fragment,form/history,form/novel,histref/christianity,character/arthur,character/samuel_pickwick"></span>
 
 
 CHAPTER V
@@ -11901,7 +11901,7 @@ Nel trattare di Dickens, dunque, trattiamo di un uomo il cui [[success|successo]
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="CharlesDickens — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="CharlesDickens — Chapter 5 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/ghost,motif/blood,motif/death,motif/silence,motif/soul,motif/tears,concept/democracy,concept/doubt,concept/faith,concept/fear,concept/grotesque,form/comedy,form/essay,form/melodrama,form/tragedy,histref/dante,character/queen"></span>
 
 
 I ask the artistic critic to be patient for a little and to believe
@@ -12039,7 +12039,7 @@ La migliore espressione del fatto, tuttavia, si trova nel notare le due cose in 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="CharlesDickens — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="CharlesDickens — Chapter 5 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,archetype/villain,motif/blood,motif/jewel,motif/love,motif/night,motif/soul,motif/well,motif/window,form/melodrama,form/satire,form/sketch,character/fagin,character/jonas_chuzzlewit,character/monks,character/nicholas_nickleby,character/oliver,character/oliver_twist,character/rose_maylie"></span>
 
 
 These two primary dispositions of Dickens, to make the flesh creep
@@ -12172,7 +12172,7 @@ In genere egli mescolava le due cose in un libro, e con esse mescolava molte alt
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="CharlesDickens — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="CharlesDickens — Chapter 5 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/clock,motif/lamb,motif/love,motif/memory,motif/pain,motif/well,concept/beauty,concept/body,concept/history,concept/resurrection,concept/self,concept/truth,form/fragment,form/history,setting/castle,setting/london,character/madeline_bray,character/nicholas_nickleby,character/sam_weller"></span>
 
 
 But the book contains something which is much more Dickensian.  It is
@@ -12291,7 +12291,7 @@ Nel prologo di Master Humphrey ricompaiono il signor [[Pickwick]] e [[Sam Weller
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="CharlesDickens — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="CharlesDickens — Chapter 5 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/childhood,motif/clock,motif/love,motif/memory,motif/nature,motif/rose,motif/sleep,motif/well,concept/beauty,concept/freedom,concept/humility,concept/nature,concept/paradox,concept/renunciation,concept/vanity,concept/wonder,form/historical_novel,form/novel,histref/america,setting/america,character/barnaby_rudge,character/dick_swiveller,character/florence_dombey,character/little_nell,character/marchioness"></span>
 
 
 But "Master Humphrey's [[Clock]]" is now scarcely known except as
@@ -12433,7 +12433,7 @@ E ancora la pentola di quella immensa popolarità bolliva. Nel 1841 fu richiesto
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="CharlesDickens — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="CharlesDickens — Chapter 6 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/desire,motif/mirror,motif/night,motif/pain,motif/road,motif/stars,motif/tears,motif/well,concept/fanaticism,concept/romantic_love,concept/self,histref/america,setting/america"></span>
 
 
 CHAPTER VI
@@ -12574,7 +12574,7 @@ Il buon senso comune è un filo fatato, sottile e tenue, e facile a perdersi com
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="CharlesDickens — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="CharlesDickens — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/dreams,motif/grave,motif/road,motif/sleep,motif/time,motif/well,concept/democracy,concept/doubt,concept/freedom,concept/history,concept/hope,concept/self,concept/truth,form/epic,form/history,form/satire,histref/america,histref/reformation,setting/america,setting/germany,character/martin_chuzzlewit"></span>
 
 
 Now, among many interests of his contact with [[America]] this interest
@@ -12709,7 +12709,7 @@ Il corso principale degli eventi fu il seguente; ed è giusto registrarlo prima 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="CharlesDickens — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="CharlesDickens — Chapter 6 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/blood,motif/lion,motif/night,motif/sleep,motif/soul,motif/time,motif/well,concept/democracy,concept/freedom,concept/self,concept/truth,concept/wonder,histref/america,setting/america,character/bottom"></span>
 
 
 He landed in [[America]], and he liked it.  As John Forster very truly says,
@@ -12823,7 +12823,7 @@ Per tali ragioni, fra le altre, Dickens era in collera con l'[[America]]. Ma se 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="CharlesDickens — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="CharlesDickens — Chapter 6 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/mirror,motif/nature,motif/time,motif/well,concept/doubt,concept/fear,concept/freedom,concept/honour,concept/nature,concept/slavery,concept/suffering,histref/america,setting/america,setting/london,character/queen"></span>
 
 
 If [[America]] had then this Pinkertonian propriety, this new,
@@ -12936,7 +12936,7 @@ Andò a ovest lungo i grandi canali; andò a sud e toccò la regione della [[Sla
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="CharlesDickens — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="CharlesDickens — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,motif/home,motif/lion,motif/prison,motif/road,motif/spring,motif/well,concept/courage,concept/democracy,concept/madness,concept/pride,concept/self,concept/temptation,concept/truth,form/novel,form/satire,histref/america,setting/america,setting/london,setting/new_york,character/bottom,character/falstaff,character/martin_chuzzlewit,character/queen,character/uriah_heep"></span>
 
 
 He returned [[Home|home]] in the [[spring]] of 1842, and in the later part
@@ -13097,7 +13097,7 @@ L'[[America]] di [[Martin Chuzzlewit]] è un [[house|manicomio]]: ma è un [[hou
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="CharlesDickens — Part 2" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="CharlesDickens — Part 2" data-chapter="Chapter 08" data-kind="chapter" data-tags="form/biography,character/charles_dickens"></span>
 
 
 PART TWO
@@ -13123,7 +13123,7 @@ Charles Dickens
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="CharlesDickens — Part 2" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="CharlesDickens — Part 2" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/time"></span>
 
 
 PART TWO
@@ -13169,7 +13169,7 @@ UNA NOTA SUL FUTURO DI DICKENS
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="CharlesDickens — Chapter 7 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="CharlesDickens — Chapter 7 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/death,motif/garden,motif/home,motif/river,motif/snow,motif/stars,motif/time,motif/well,concept/education,concept/wonder,form/novel,form/satire,histref/catholic_church,setting/germany,setting/italy,setting/london,character/lincoln"></span>
 
 
 CHAPTER VII
@@ -13291,7 +13291,7 @@ Questa specie di piacere Dickens la prese dalla vita latina; ma nessuna più pro
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="CharlesDickens — Chapter 7 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="CharlesDickens — Chapter 7 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/animals,motif/city,motif/love,motif/nature,concept/history,concept/honour,concept/nature,form/history,setting/italy,setting/london,character/sam_weller"></span>
 
 
 Dickens could find in any street divergences between man
@@ -13411,7 +13411,7 @@ Sarebbe difficile trovare un esempio migliore di questo della grande difesa del 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="CharlesDickens — Chapter 7 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="CharlesDickens — Chapter 7 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/desire,motif/dreams,motif/fire,motif/garden,motif/memory,motif/nature,motif/snow,motif/soul,motif/summer,motif/time,motif/winter,concept/charity,concept/nature,concept/suffering,concept/truth,setting/castle,setting/italy,setting/london"></span>
 
 
 And (as I have said) as were his unconscious relations
@@ -13527,7 +13527,7 @@ Di questa qualità del tutto deliberata e artistica della chiusa camera natalizi
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="CharlesDickens — Chapter 7 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="CharlesDickens — Chapter 7 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/childhood,motif/fire,motif/ghosts,motif/home,motif/moon,motif/night,motif/river,motif/sleep,motif/snow,motif/soul,motif/stars,motif/summer,motif/well,motif/winter,concept/beauty,concept/doubt,concept/madness,concept/truth,form/lyric,character/arthur_clennam,character/miss_havisham,character/prometheus,character/sally_brass"></span>
 
 
 There is a current prejudice against fogs, and Dickens, perhaps,
@@ -13643,7 +13643,7 @@ E come coi suoi sfondi di tenebra, così coi suoi sfondi di buona volontà, in r
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="CharlesDickens — Chapter 7 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="CharlesDickens — Chapter 7 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/bells,motif/blood,motif/love,motif/winter,concept/charity,concept/fear,concept/paradox,setting/italy,character/alderman_cute,character/trotty_veck"></span>
 
 
 Dickens, as has been said, went to [[Italy]] with this kindly
@@ -13754,7 +13754,7 @@ Infine, egli era una cosa sola coi poveri in questa faccenda capitale del Natale
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="CharlesDickens — Chapter 7 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="CharlesDickens — Chapter 7 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/sleep,motif/well,concept/conversion,character/tackleton,character/trotty_veck"></span>
 
 
 The third of his Christmas stories, "The Cricket on the Hearth,"
@@ -13810,7 +13810,7 @@ Il vero e proprio racconto del vetturale e di sua moglie risuona alquanto sonnol
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="CharlesDickens — Chapter 8 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="CharlesDickens — Chapter 8 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/villain,motif/clock,motif/desire,motif/love,motif/nature,motif/night,motif/time,motif/well,concept/aspiration,concept/doubt,concept/education,concept/exile,concept/hope,concept/nature,concept/pride,concept/self,form/melodrama,form/novel,form/sketch,form/tragedy,setting/london,setting/oxford,character/david_copperfield,character/nicholas_nickleby,character/ralph_nickleby,character/venus"></span>
 
 
 CHAPTER VIII
@@ -14068,7 +14068,7 @@ quanto fosse adatto a qualcosa di opposto.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="CharlesDickens — Chapter 8 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="CharlesDickens — Chapter 8 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,archetype/prophet,motif/cross,motif/love,motif/marriage,concept/grotesque,concept/humility,concept/paradox,concept/romantic_love,concept/self_knowledge,concept/truth,character/dick_swiveller,character/florence_dombey,character/little_nell,character/lizzie_hexam,character/major_bagstock,character/marchioness,character/martin_chuzzlewit,character/nell_s_grandfather,character/nicholas_nickleby,character/romeo,character/susan_nipper,character/walter_gay"></span>
 
 
 The incurable poetic character, the hopelessly non-realistic
@@ -14306,7 +14306,7 @@ Ma una volta che ha riso di una cosa, essa è sacra per sempre.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="CharlesDickens — Chapter 8 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="CharlesDickens — Chapter 8 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/death,motif/desire,motif/soul,motif/time,motif/well,concept/ambition,concept/doubt,concept/truth,concept/vanity,form/novel,histref/america,setting/america,character/david_copperfield,character/edwin_drood"></span>
 
 
 "Dombey," however, means first and foremost the finale of
@@ -14504,7 +14504,7 @@ Dickens decise di farne un unico e completo [[Novel|romanzo]].
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="CharlesDickens — Chapter 8 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="CharlesDickens — Chapter 8 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/childhood,motif/love,motif/nature,motif/poison,concept/courage,concept/doubt,concept/fear,concept/loneliness,concept/nature,form/comedy,form/melodrama,character/david_copperfield,character/nurse"></span>
 
 
 For though there are many other aspects of "[[David Copperfield]],"
@@ -14738,7 +14738,7 @@ Ma la vita propria di un uomo è sempre un [[Melodrama|melodramma]]».
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_05" data-title="CharlesDickens — Chapter 8 (part 5)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_05" data-title="CharlesDickens — Chapter 8 (part 5)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/prison,motif/silence,motif/time,concept/body,concept/fear,concept/hope,concept/madness,concept/nature,concept/pride,concept/revenge,concept/self,concept/truth,form/satire,setting/court,character/david_copperfield,character/harold_skimpole,character/nicholas_nickleby,character/sir_leicester_dedlock"></span>
 
 
 There are other effective things in "[[David Copperfield]];" they are
@@ -14948,7 +14948,7 @@ il pensiero fantasioso: «Supponiamo che un mascalzone si comporti come Hunt!».
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_06" data-title="CharlesDickens — Chapter 8 (part 6)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_06" data-title="CharlesDickens — Chapter 8 (part 6)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/night,motif/time,motif/window,concept/honour,concept/self,concept/truth,form/comedy,form/tragedy,setting/london"></span>
 
 
 But there is a good reason for mentioning Skimpole especially.
@@ -15138,7 +15138,7 @@ e cristiane l'una dall'altra, come una raffica di bigamia o adulterio.
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="CharlesDickens — Chapter 9 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="CharlesDickens — Chapter 9 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/birds,motif/desire,motif/time,motif/well,concept/grotesque,concept/self,concept/wonder,form/sketch,setting/cathedral,character/bottom"></span>
 
 
 CHAPTER IX
@@ -15266,7 +15266,7 @@ L'abbigliamento delle classi agiate negli ultimi anni di Dickens era, in confron
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="CharlesDickens — Chapter 9 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="CharlesDickens — Chapter 9 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/marriage,motif/nature,motif/time,concept/charity,concept/courage,concept/education,concept/individualism,concept/nature,form/novel,form/tragedy,histref/america,setting/america,character/nicholas_nickleby"></span>
 
 
 His private life consisted of one [[Tragedy|tragedy]] and ten thousand comedies.
@@ -15398,7 +15398,7 @@ Il tono di Dickens verso la religione, benché simile a quello della maggior par
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="CharlesDickens — Chapter 9 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="CharlesDickens — Chapter 9 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/decay,motif/grave,motif/marriage,motif/nature,motif/prayer,motif/stars,motif/time,concept/body,concept/democracy,concept/fanaticism,concept/hope,concept/imagination,concept/nature,concept/self,concept/union,form/satire,setting/venice,character/lincoln"></span>
 
 
 I have mentioned this matter for a special reason.  It brings us
@@ -15529,7 +15529,7 @@ Un esempio ancora più chiaro di ciò che intendo si può trovare nel suo attegg
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_04" data-title="CharlesDickens — Chapter 9 (part 4)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_04" data-title="CharlesDickens — Chapter 9 (part 4)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/ghost,motif/death,motif/love,motif/memory,motif/night,motif/stars,motif/time,concept/hope,concept/individualism,concept/melancholy,concept/reform,concept/truth,form/satire,form/sketch,character/martin_chuzzlewit,character/nicholas_nickleby"></span>
 
 
 "I am hourly strengthened," he says, "in my old belief,
@@ -15675,7 +15675,7 @@ Frattanto i suoi libri, apparendo di [[Time|tempo]] in [[Time|tempo]], pur brill
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_05" data-title="CharlesDickens — Chapter 9 (part 5)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_05" data-title="CharlesDickens — Chapter 9 (part 5)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/shadow,motif/blood,motif/nature,motif/night,motif/prison,motif/road,motif/time,concept/nature,concept/paradox,concept/temptation,histref/bible,histref/french_revolution,character/estella"></span>
 
 
 Thenceforward until the end his books grow consistently graver,
@@ -15808,7 +15808,7 @@ Ripeto che questa nota più grave è variata, ma rimane una nota più grave. La 
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_06" data-title="CharlesDickens — Chapter 9 (part 6)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_06" data-title="CharlesDickens — Chapter 9 (part 6)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/detective,archetype/hero,archetype/king,archetype/lover,archetype/villain,motif/death,motif/nature,motif/well,concept/honour,concept/melancholy,concept/nature,form/fragment,form/satire,form/tragedy,histref/america,setting/america,character/bradley_headstone,character/edwin_drood,character/joe_gargery,character/lady_dedlock,character/lizzie_hexam,character/miss_havisham"></span>
 
 
 Dickens has dealt with this easy descent of desertion,
@@ -15956,7 +15956,7 @@ Sì, c'erano molti altri Dickens: un Dickens ingegnoso, un Dickens operoso, un D
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="CharlesDickens — Chapter 10 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="CharlesDickens — Chapter 10 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/death,motif/love,motif/moon,motif/time,concept/common_man,concept/democracy,concept/greatness,concept/grotesque,concept/pride,concept/sublime,form/tragedy,character/helen"></span>
 
 
 CHAPTER X
@@ -16107,7 +16107,7 @@ In questo aspetto democratico dell'interesse e della varietà di tutti gli uomin
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="CharlesDickens — Chapter 10 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="CharlesDickens — Chapter 10 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/love,motif/nature,concept/democracy,concept/grotesque,concept/nature,setting/germany,character/arthur,character/susan_nipper"></span>
 
 
 In all this Scott, though a Royalist and a Tory, had in the strangest way,
@@ -16224,7 +16224,7 @@ Dickens aveva dunque questo sentimento inglese di una [[democracy|democrazia]] [
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_03" data-title="CharlesDickens — Chapter 10 (part 3)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_03" data-title="CharlesDickens — Chapter 10 (part 3)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/fire,motif/hill,motif/love,concept/democracy,concept/education,concept/greatness,concept/grotesque,concept/imagination,concept/truth,form/epic,character/achilles,character/bottom,character/nurse"></span>
 
 
 Of the high virtue of this variation I shall speak more
@@ -16349,7 +16349,7 @@ La chiave dei grandi personaggi di Dickens è che sono tutti grandi sciocchi. V'
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_04" data-title="CharlesDickens — Chapter 10 (part 4)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_04" data-title="CharlesDickens — Chapter 10 (part 4)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,archetype/monster,motif/dreams,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/despair,concept/fear,concept/greatness,concept/grotesque,concept/humility,concept/nature,concept/paradox,concept/resignation,concept/sublime,concept/truth,character/bottom,character/hamlet,character/marchioness"></span>
 
 
 It is impossible to do justice to these figures because the essential
@@ -16501,7 +16501,7 @@ Questo è il vero vangelo di Dickens; le inesauribili occasioni offerte dalla li
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="CharlesDickens — Chapter 11 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="CharlesDickens — Chapter 11 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/artist,motif/desire,motif/fire,motif/home,motif/marriage,motif/pain,motif/time,motif/well,concept/charity,concept/democracy,concept/despair,concept/fear,concept/humility,concept/martyrdom,character/david_copperfield,character/kit_nubbles,character/othello"></span>
 
 
 CHAPTER XI
@@ -16745,7 +16745,7 @@ con essi, come [[Othello]].
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="CharlesDickens — Chapter 11 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="CharlesDickens — Chapter 11 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/animals,motif/blood,motif/rose,motif/soul,motif/time,motif/water,concept/democracy,concept/despair,concept/mortality,concept/paradox,concept/reform,concept/slavery,setting/court,setting/mountains"></span>
 
 
 This is the real vulgar optimism of Dickens:  it does exist; and I have
@@ -17047,7 +17047,7 @@ siano letteralmente ricaduti nello stato degli [[Animals|animali]] inferiori.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="CharlesDickens — Chapter 11 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="CharlesDickens — Chapter 11 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/hero,archetype/villain,motif/machine,motif/prison,motif/silence,motif/soul,motif/well,concept/faith,concept/paradox,concept/poverty,concept/truth,character/christ,character/mark_tapley,character/oliver,character/oliver_twist"></span>
 
 
 A writer sufficiently typical of recent revolutionism--Gorky--has called
@@ -17303,7 +17303,7 @@ vivere Squeers prima di poterlo far morire.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_04" data-title="CharlesDickens — Chapter 11 (part 4)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_04" data-title="CharlesDickens — Chapter 11 (part 4)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/villain,motif/blood,motif/garden,motif/poison,motif/storm,motif/time,motif/well,concept/apocalypse,concept/body,concept/history,concept/melancholy,concept/truth,form/history,setting/battlefield,character/bill_sikes,character/jonas_chuzzlewit,character/monks,character/ralph_nickleby,character/satan,character/uriah_heep"></span>
 
 
 In connection with the accusation of vulgar optimism, which I
@@ -17573,7 +17573,7 @@ avremmo respinto la semplice idea di esso come miracolo e assurdità.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="CharlesDickens — Chapter 12 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="CharlesDickens — Chapter 12 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="topos/double,motif/autumn,motif/road,motif/time,concept/ambition,concept/vanity,character/kent,character/oliver_twist"></span>
 
 
 CHAPTER XII
@@ -17815,7 +17815,7 @@ Dickens abbia fatto opera cattiva, ma saprà che ne ha fatta di buona.
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="CharlesDickens — Chapter 12 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="CharlesDickens — Chapter 12 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/hero,motif/road,motif/time,motif/well,concept/comradeship,concept/democracy,concept/doubt,concept/greatness,setting/germany,setting/italy,character/achilles,character/dick_swiveller"></span>
 
 
 Again, the other chief accusation against Dickens was that his

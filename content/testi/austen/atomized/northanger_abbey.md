@@ -16007,7 +16007,7 @@ have been largely brought into conformity with modern British usage.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Northanger Abbey — Chapter 31" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Northanger Abbey — Chapter 31" data-chapter="Chapter 01" data-kind="chapter" data-tags="motif/mutability"></span>
 
 
 CHAPTER 31
@@ -16057,7 +16057,7 @@ undergone considerable changes.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Northanger Abbey — Chapter 1" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Northanger Abbey — Chapter 1" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/hero,archetype/lover,motif/desert,motif/flowers,motif/garden,motif/love,motif/nature,motif/rose,motif/time,motif/well,concept/beauty,concept/heroism,concept/nature,concept/poverty,form/fable,form/sketch,setting/desert,character/catherine_morland,character/richard"></span>
 
 
 CHAPTER 1
@@ -16371,7 +16371,7 @@ and Catherine all happiness.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Northanger Abbey — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Northanger Abbey — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/journey,motif/nature,motif/night,motif/tears,motif/time,motif/well,concept/beauty,concept/fear,concept/jealousy,concept/nature,character/catherine_morland"></span>
 
 
 CHAPTER 2
@@ -16571,7 +16571,7 @@ With more care for the safety of her new gown than for the comfort of
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Northanger Abbey — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Northanger Abbey — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/dance,motif/time,motif/well,motif/winter,concept/hope,concept/imprisonment,concept/vanity,concept/wonder"></span>
 
 
 her protégée, Mrs. Allen made her way through the throng of men by the
@@ -16823,7 +16823,7 @@ perfectly satisfied with her share of public attention.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Northanger Abbey — Chapter 3" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Northanger Abbey — Chapter 3" data-chapter="Chapter 04" data-kind="chapter" data-tags="archetype/king,archetype/lover,motif/dance,motif/death,motif/love,motif/nature,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/nature"></span>
 
 
 CHAPTER 3
@@ -17259,7 +17259,7 @@ respectable family in Gloucestershire.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Northanger Abbey — Chapter 4" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Northanger Abbey — Chapter 4" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/clock,motif/love,motif/night,motif/time,motif/well,motif/window,concept/beauty,concept/despair,concept/friendship,concept/history,concept/hope,form/history,setting/london,setting/oxford,character/isabella"></span>
 
 
 CHAPTER 4
@@ -17511,7 +17511,7 @@ passed twenty years before, be minutely repeated.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Northanger Abbey — Chapter 5" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Northanger Abbey — Chapter 5" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/hero,motif/dance,motif/desert,motif/love,motif/nature,motif/well,concept/body,concept/doubt,concept/friendship,concept/history,concept/hope,concept/imagination,concept/nature,concept/pride,form/history,form/novel,histref/milton,setting/desert,character/isabella,character/milton,character/sunday"></span>
 
 
 CHAPTER 5
@@ -17741,7 +17741,7 @@ of the age that could endure it.
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Northanger Abbey — Chapter 6" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Northanger Abbey — Chapter 6" data-chapter="Chapter 07" data-kind="chapter" data-tags="archetype/orphan,motif/dance,motif/fire,motif/love,motif/nature,motif/night,motif/time,motif/well,motif/window,motif/winter,concept/friendship,concept/honour,concept/hope,concept/nature,setting/castle,character/edgar,character/isabella"></span>
 
 
 CHAPTER 6
@@ -18139,7 +18139,7 @@ pursuit of the two young men.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Northanger Abbey — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Northanger Abbey — Chapter 7 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/quest,motif/blood,motif/city,motif/clock,motif/horse,motif/nature,motif/road,motif/soul,motif/time,motif/well,concept/nature,concept/union,setting/london,setting/oxford,character/isabella,character/john_thorpe,character/speed"></span>
 
 
 CHAPTER 7
@@ -18357,7 +18357,7 @@ I cannot judge whether it was cheap or dear.”
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Northanger Abbey — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Northanger Abbey — Chapter 7 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/hill,motif/horse,motif/nature,motif/silence,motif/soul,motif/time,motif/well,concept/beauty,concept/doubt,concept/faith,concept/fear,concept/nature,concept/self,character/edgar,character/isabella,character/john_thorpe,character/jones,character/witch"></span>
 
 
 I hate haggling, and poor Freeman wanted cash.”
@@ -18613,7 +18613,7 @@ tenderness, for he asked each of them how they did, and observed that
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Northanger Abbey — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Northanger Abbey — Chapter 7 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/time,motif/well,concept/beauty,concept/conscience,concept/friendship,concept/hope,concept/imagination,character/edgar,character/isabella,character/isabella_thorpe"></span>
 
 
 they both looked very ugly.
@@ -18773,7 +18773,7 @@ engaged for the evening.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Northanger Abbey — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Northanger Abbey — Chapter 8 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/love,motif/nature,motif/time,motif/well,motif/winter,concept/doubt,concept/hope,concept/mercy,concept/nature,character/isabella"></span>
 
 
 CHAPTER 8
@@ -18979,7 +18979,7 @@ after a few minutes’ consideration, he asked Catherine to [[Dance|dance]] with
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Northanger Abbey — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Northanger Abbey — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/dance,motif/desire,motif/time,motif/well,concept/courage,concept/honour,character/isabella"></span>
 
 
 him. This compliment, delightful as it was, produced severe
@@ -19187,7 +19187,7 @@ partners.”
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Northanger Abbey — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Northanger Abbey — Chapter 8 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/dance,motif/silence,motif/well,concept/hope,character/isabella,character/john_thorpe"></span>
 
 
 often done as not.”
@@ -19337,7 +19337,7 @@ squeeze, and one “dearest Catherine.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Northanger Abbey — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Northanger Abbey — Chapter 9 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/desire,motif/dust,motif/home,motif/horse,motif/night,motif/noon,motif/sleep,motif/time,motif/well,motif/window,concept/eternity,concept/friendship,concept/longing,character/isabella,character/john_thorpe"></span>
 
 
 CHAPTER 9
@@ -19541,7 +19541,7 @@ he had then held the reins, and the singular discernment and dexterity
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Northanger Abbey — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Northanger Abbey — Chapter 9 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/freedom,concept/vanity,setting/oxford"></span>
 
 
 with which he had directed his whip. Catherine, though she could not
@@ -19775,7 +19775,7 @@ will lead. Her own family were plain, matter-of-fact people who seldom
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Northanger Abbey — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Northanger Abbey — Chapter 9 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/birds,motif/clock,motif/home,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,character/isabella,character/john_thorpe"></span>
 
 
 aimed at wit of any kind; her father, at the utmost, being contented
@@ -20027,7 +20027,7 @@ pleasant and that [[John Thorpe]] himself was quite disagreeable.
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_01" data-title="Northanger Abbey — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_01" data-title="Northanger Abbey — Chapter 10 (part 1)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/dance,motif/love,motif/silence,motif/time,motif/water,motif/well,concept/courage,concept/doubt,concept/truth,character/isabella"></span>
 
 
 CHAPTER 10
@@ -20239,7 +20239,7 @@ I was to see him again. I felt so sure of his being quite gone away.”
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_02" data-title="Northanger Abbey — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_02" data-title="Northanger Abbey — Chapter 10 (part 2)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/dance,motif/grave,motif/home,motif/night,motif/time,motif/well,concept/hope,concept/self,concept/wonder,character/isabella,character/john_thorpe"></span>
 
 
 for a couple of days. He came only to engage lodgings for us.”
@@ -20455,7 +20455,7 @@ acquaintance that I was going to [[Dance|dance]] with the prettiest girl in the
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_03" data-title="Northanger Abbey — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_03" data-title="Northanger Abbey — Chapter 10 (part 3)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/dance,motif/home,motif/horse,motif/marriage,motif/road,motif/time,motif/water,motif/well,motif/winter,concept/courage,concept/fear,concept/honour,setting/london"></span>
 
 
 room; and when they see you standing up with somebody else, they will
@@ -20681,7 +20681,7 @@ as this than in my own [[Home|home]]; for here are a variety of amusements, a
 
 
 
-<span class="atom-split" data-atom="chapter_11--part_04" data-title="Northanger Abbey — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_11--part_04" data-title="Northanger Abbey — Chapter 10 (part 4)" data-chapter="Chapter 11" data-kind="excerpt" data-tags="motif/clock,motif/dance,motif/home,motif/time,concept/fear,concept/longing,concept/poverty,concept/truth,character/bottom,character/general_tilney,character/isabella"></span>
 
 
 variety of things to be seen and done all day long, which I can know
@@ -20857,7 +20857,7 @@ chair all the way [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_01" data-title="Northanger Abbey — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_01" data-title="Northanger Abbey — Chapter 11 (part 1)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/time,motif/window,concept/despair,concept/doubt,concept/hope,concept/wonder,setting/castle,character/isabella,character/john_thorpe"></span>
 
 
 CHAPTER 11
@@ -21109,7 +21109,7 @@ see.”
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_02" data-title="Northanger Abbey — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_02" data-title="Northanger Abbey — Chapter 11 (part 2)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="motif/horse,motif/night,motif/road,motif/soul,motif/time,motif/well,motif/winter,concept/hope,setting/castle,character/isabella"></span>
 
 
 “By dozens.”
@@ -21357,7 +21357,7 @@ of being stopped in their way along narrow, winding vaults, by a low,
 
 
 
-<span class="atom-split" data-atom="chapter_12--part_03" data-title="Northanger Abbey — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_12--part_03" data-title="Northanger Abbey — Chapter 11 (part 3)" data-chapter="Chapter 12" data-kind="excerpt" data-tags="archetype/fool,motif/horse,motif/journey,motif/night,motif/tears,motif/well,motif/wind,concept/wonder,character/isabella"></span>
 
 
 grated door; or even of having their lamp, their only lamp,
@@ -21533,7 +21533,7 @@ rest in the course of the next three months.
 
 
 
-<span class="atom-split" data-atom="chapter_13" data-title="Northanger Abbey — Chapter 12" data-chapter="Chapter 13" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13" data-title="Northanger Abbey — Chapter 12" data-chapter="Chapter 13" data-kind="chapter" data-tags="motif/home,motif/night,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/honour,form/comedy,setting/london,character/bottom,character/edgar,character/eleanor,character/general_tilney,character/henry_tilney,character/isabella,character/john_thorpe"></span>
 
 
 CHAPTER 12
@@ -21937,7 +21937,7 @@ more, for her than could have been expected.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_01" data-title="Northanger Abbey — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_01" data-title="Northanger Abbey — Chapter 13 (part 1)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="archetype/fool,motif/grave,motif/home,motif/love,motif/silence,motif/swallow,motif/time,motif/well,concept/friendship,character/isabella,character/sunday"></span>
 
 
 CHAPTER 13
@@ -22141,7 +22141,7 @@ distressed, but always steady.
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_02" data-title="Northanger Abbey — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_02" data-title="Northanger Abbey — Chapter 13 (part 2)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/soul,motif/time,motif/well,concept/conscience,concept/hope,setting/castle,character/general_tilney,character/isabella,character/john_thorpe"></span>
 
 
 kindest, best-tempered of my sisters.”
@@ -22367,7 +22367,7 @@ with the servant whose neglect had reduced her to open the door of the
 
 
 
-<span class="atom-split" data-atom="chapter_14--part_03" data-title="Northanger Abbey — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_14--part_03" data-title="Northanger Abbey — Chapter 13 (part 3)" data-chapter="Chapter 14" data-kind="excerpt" data-tags="motif/home,motif/rose,motif/well,motif/wind,concept/doubt,concept/honour,concept/wonder,character/general_tilney,character/isabella"></span>
 
 
 apartment herself. “What did William mean by it? He should make a point
@@ -22575,7 +22575,7 @@ breach of propriety, only to enable her to be guilty of another?
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Northanger Abbey — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Northanger Abbey — Chapter 14 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/hero,motif/hill,motif/home,motif/river,motif/time,motif/well,concept/history,concept/imagination,concept/truth,form/history,form/novel,setting/italy,setting/oxford,character/eleanor"></span>
 
 
 CHAPTER 14
@@ -22815,7 +22815,7 @@ am fond of [[history]]—and am very [[Well|well]] contented to take the false w
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Northanger Abbey — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Northanger Abbey — Chapter 14 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/city,motif/crown,motif/desire,motif/hill,motif/home,motif/nature,motif/time,motif/well,concept/beauty,concept/courage,concept/history,concept/nature,concept/vanity,form/fragment,form/history"></span>
 
 
 the true. In the principal facts they have sources of intelligence in
@@ -23005,7 +23005,7 @@ to forests, the enclosure of them, waste lands, [[Crown|crown]] lands and
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Northanger Abbey — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Northanger Abbey — Chapter 14 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/blood,motif/fire,motif/grave,motif/home,motif/horse,motif/nature,motif/silence,motif/soul,motif/time,motif/well,motif/window,concept/doubt,concept/friendship,concept/hope,concept/nature,setting/london,character/edgar,character/eleanor,character/henry_tilney,character/isabella,character/maria"></span>
 
 
 politics, it was an easy step to [[Silence|silence]]. The general pause which
@@ -23295,7 +23295,7 @@ to resent her resistance any longer.
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_01" data-title="Northanger Abbey — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_01" data-title="Northanger Abbey — Chapter 15 (part 1)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/love,motif/moon,motif/nature,motif/night,motif/pain,motif/sleep,motif/tears,motif/water,motif/well,concept/faith,concept/friendship,concept/nature,concept/truth,concept/wonder,setting/castle,character/edgar,character/isabella,character/maria"></span>
 
 
 CHAPTER 15
@@ -23501,7 +23501,7 @@ I feel that I have betrayed myself perpetually—so unguarded in speaking
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_02" data-title="Northanger Abbey — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_02" data-title="Northanger Abbey — Chapter 15 (part 2)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/lover,motif/death,motif/home,motif/love,motif/nature,motif/night,motif/tears,motif/time,concept/courage,concept/doubt,concept/nature,concept/poverty,setting/london,character/isabella,character/maria,character/speed"></span>
 
 
 of my partiality for the church! but my secret I was always sure would
@@ -23715,7 +23715,7 @@ John” and “dear Catherine” at every word; “dear Anne and dear [[Maria]]�
 
 
 
-<span class="atom-split" data-atom="chapter_16--part_03" data-title="Northanger Abbey — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_16--part_03" data-title="Northanger Abbey — Chapter 15 (part 3)" data-chapter="Chapter 16" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/journey,motif/love,motif/nature,motif/silence,motif/soul,motif/well,motif/window,concept/beauty,concept/honour,concept/hope,concept/imagination,concept/nature,concept/self,concept/truth,setting/london,character/isabella,character/john_thorpe"></span>
 
 
 must immediately be made sharers in their felicity; and two “dears” at
@@ -23963,7 +23963,7 @@ to his father and mother, and her kind compliments to all the Skinners.
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_01" data-title="Northanger Abbey — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_01" data-title="Northanger Abbey — Chapter 16 (part 1)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/home,motif/well,concept/doubt,concept/pride,character/general_tilney,character/henry_tilney,character/isabella,character/speed"></span>
 
 
 CHAPTER 16
@@ -24181,7 +24181,7 @@ not take immediate alarm, and lay it down as fact, that Captain Tilney
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_02" data-title="Northanger Abbey — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_02" data-title="Northanger Abbey — Chapter 16 (part 2)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/desire,motif/nature,motif/pain,motif/time,motif/well,concept/beauty,concept/hope,concept/nature,concept/wonder,form/satire,character/isabella"></span>
 
 
 must have heard some malevolent misrepresentation of her, which he now
@@ -24427,7 +24427,7 @@ to discuss. James Morland’s second letter was then received, and the
 
 
 
-<span class="atom-split" data-atom="chapter_17--part_03" data-title="Northanger Abbey — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_17--part_03" data-title="Northanger Abbey — Chapter 16 (part 3)" data-chapter="Chapter 17" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/love,motif/marriage,motif/well,concept/doubt,concept/union,character/isabella"></span>
 
 
 kind intentions of his father fully explained. A living, of which Mr.
@@ -24567,7 +24567,7 @@ received with the most gratifying kindness.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Northanger Abbey — Chapter 17" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Northanger Abbey — Chapter 17" data-chapter="Chapter 18" data-kind="chapter" data-tags="motif/desire,motif/home,motif/pain,motif/time,motif/well,concept/doubt,concept/honour,concept/hope,concept/pride,histref/reformation,setting/court,character/eleanor,character/general_tilney,character/henry_tilney,character/isabella"></span>
 
 
 CHAPTER 17
@@ -24847,7 +24847,7 @@ in a valley, sheltered from the north and east by rising woods of oak.
 
 
 
-<span class="atom-split" data-atom="chapter_19" data-title="Northanger Abbey — Chapter 18" data-chapter="Chapter 19" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19" data-title="Northanger Abbey — Chapter 18" data-chapter="Chapter 19" data-kind="chapter" data-tags="archetype/child,motif/dance,motif/home,motif/love,motif/nature,motif/pain,motif/rose,motif/time,motif/well,concept/doubt,concept/friendship,concept/honour,concept/hope,concept/longing,concept/nature,concept/self,concept/truth,concept/vanity,concept/wonder,character/edgar,character/isabella,character/john_thorpe"></span>
 
 
 CHAPTER 18
@@ -25267,7 +25267,7 @@ present ease and comfort.
 
 
 
-<span class="atom-split" data-atom="chapter_20" data-title="Northanger Abbey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20" data-title="Northanger Abbey — Chapter 19" data-chapter="Chapter 20" data-kind="chapter" data-tags="topos/double,archetype/lover,motif/grave,motif/journey,motif/love,motif/pain,motif/tears,motif/time,motif/well,concept/doubt,concept/hope,concept/jealousy,concept/solitude,character/edgar,character/henry_tilney,character/isabella"></span>
 
 
 CHAPTER 19
@@ -25615,7 +25615,7 @@ may be fancied.
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Northanger Abbey — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Northanger Abbey — Chapter 20 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/clock,motif/journey,motif/road,motif/silence,motif/time,concept/hope,character/eleanor,character/general_tilney,character/isabella"></span>
 
 
 CHAPTER 20
@@ -25807,7 +25807,7 @@ was a heavy and troublesome business, and she could not easily forget
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Northanger Abbey — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Northanger Abbey — Chapter 20 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/night,motif/storm,motif/time,motif/well,motif/wind,concept/friendship,setting/mountains,character/eleanor"></span>
 
 
 its having stopped two hours at Petty France. Half the [[Time|time]] would have
@@ -26021,7 +26021,7 @@ your hand, will pass through it into a small vaulted room.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Northanger Abbey — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Northanger Abbey — Chapter 20 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/blood,motif/journey,motif/leaves,motif/road,motif/spring,motif/time,motif/well,concept/hope,concept/imagination"></span>
 
 
 “No, indeed; I should be too much frightened to do any such thing.”
@@ -26233,7 +26233,7 @@ she would make as little alteration as possible in her dress.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Northanger Abbey — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Northanger Abbey — Chapter 21 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,motif/desire,motif/supernatural,motif/time,motif/well,concept/fear,concept/wonder"></span>
 
 
 CHAPTER 21
@@ -26427,7 +26427,7 @@ her to peace. The dining-parlour was a noble room, suitable in its
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Northanger Abbey — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Northanger Abbey — Chapter 21 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/fire,motif/journey,motif/night,motif/sleep,motif/time,motif/wind,motif/window,concept/courage,concept/honour,character/general_tilney"></span>
 
 
 dimensions to a much larger drawing-room than the one in common use,
@@ -26609,7 +26609,7 @@ mysterious! the door was still immovable. She paused a moment in
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Northanger Abbey — Chapter 21 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Northanger Abbey — Chapter 21 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/nature,motif/night,motif/sleep,motif/storm,motif/time,motif/well,motif/wind,concept/courage,concept/hope,concept/nature,concept/wonder"></span>
 
 
 breathless [[Wonder|wonder]]. The [[Wind|wind]] roared down the chimney, the rain beat in
@@ -26773,7 +26773,7 @@ tempest subsided or she unknowingly fell fast asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Northanger Abbey — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Northanger Abbey — Chapter 22 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/clock,motif/dust,motif/fire,motif/flowers,motif/love,motif/night,motif/rose,motif/time,motif/well,motif/wind,motif/window,concept/hope,character/speed"></span>
 
 
 CHAPTER 22
@@ -26977,7 +26977,7 @@ Catherine was saved the embarrassment of attempting an answer by the
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Northanger Abbey — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Northanger Abbey — Chapter 22 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/desire,motif/garden,motif/horse,motif/silence,motif/time,motif/well,motif/window,concept/hope,concept/vanity,setting/court,character/eleanor"></span>
 
 
 entrance of the General, whose smiling compliments announced a happy
@@ -27173,7 +27173,7 @@ steep woody hills rising behind, to give it shelter, were beautiful
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_03" data-title="Northanger Abbey — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_03" data-title="Northanger Abbey — Chapter 22 (part 3)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="topos/double,motif/death,motif/fire,motif/garden,motif/horse,motif/love,motif/marriage,motif/memory,motif/nature,motif/time,motif/well,motif/winter,concept/ambition,concept/melancholy,concept/nature,concept/self,concept/wonder,character/eleanor"></span>
 
 
 even in the leafless month of March. Catherine had seen nothing to
@@ -27461,7 +27461,7 @@ Catherine as very remarkable.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Northanger Abbey — Chapter 23 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Northanger Abbey — Chapter 23 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/spring,motif/time,motif/well,concept/conscience,concept/pride,concept/vanity,setting/court"></span>
 
 
 CHAPTER 23
@@ -27651,7 +27651,7 @@ Allen; and, when Catherine saw what was necessary here, she began to be
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Northanger Abbey — Chapter 23 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Northanger Abbey — Chapter 23 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/desire,motif/home,motif/time,motif/well,concept/beauty,concept/conscience,concept/guilt,concept/hope,concept/suffering,concept/wonder,character/eleanor"></span>
 
 
 amazed herself.
@@ -27859,7 +27859,7 @@ But neither the business alleged, nor the magnificent compliment, could
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_03" data-title="Northanger Abbey — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_03" data-title="Northanger Abbey — Chapter 23 (part 3)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/memory,motif/prison,motif/time,motif/well,motif/window,concept/imprisonment,concept/jealousy"></span>
 
 
 win Catherine from thinking that some very different object must
@@ -27965,7 +27965,7 @@ asleep.
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_01" data-title="Northanger Abbey — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_01" data-title="Northanger Abbey — Chapter 24 (part 1)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/death,motif/home,motif/memory,motif/tears,motif/time,motif/well,concept/courage,concept/guilt,concept/honour,concept/hope,concept/imagination,setting/court,character/eleanor,character/sunday"></span>
 
 
 CHAPTER 24
@@ -28155,7 +28155,7 @@ her into an apartment which must wring her heart, could not be the
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_02" data-title="Northanger Abbey — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_02" data-title="Northanger Abbey — Chapter 24 (part 2)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/clock,motif/road,motif/time,motif/well,concept/courage,concept/doubt,character/eleanor"></span>
 
 
 office of a friend. The General’s utmost anger could not be to herself
@@ -28369,7 +28369,7 @@ the gallery. “Have you had any letter from Bath since I saw you?”
 
 
 
-<span class="atom-split" data-atom="chapter_25--part_03" data-title="Northanger Abbey — Chapter 24 (part 3)" data-chapter="Chapter 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_25--part_03" data-title="Northanger Abbey — Chapter 24 (part 3)" data-chapter="Chapter 25" data-kind="excerpt" data-tags="motif/death,motif/home,motif/memory,motif/nature,motif/pain,motif/silence,motif/spring,motif/tears,motif/time,motif/well,concept/education,concept/honour,concept/nature,concept/wonder,character/eleanor,character/isabella"></span>
 
 
 “No, and I am very much surprised. [[Isabella]] promised so faithfully to
@@ -28533,7 +28533,7 @@ ran off to her own room.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Northanger Abbey — Chapter 25 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Northanger Abbey — Chapter 25 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/clock,motif/desire,motif/love,motif/nature,motif/poison,motif/time,motif/well,concept/doubt,concept/fear,concept/hope,concept/imagination,concept/nature,concept/self,setting/italy,setting/oxford,character/eleanor,character/eleanor_tilney,character/isabella"></span>
 
 
 CHAPTER 25
@@ -28725,7 +28725,7 @@ For nine successive mornings, Catherine wondered over the repetition of
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Northanger Abbey — Chapter 25 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Northanger Abbey — Chapter 25 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/love,motif/pain,motif/silence,motif/tears,motif/time,motif/well,concept/hope,concept/truth,concept/wonder,setting/oxford,character/eleanor,character/isabella"></span>
 
 
 a disappointment, which each morning became more severe: but, on the
@@ -28945,7 +28945,7 @@ bad in the world?”
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Northanger Abbey — Chapter 25 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Northanger Abbey — Chapter 25 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="archetype/lover,motif/love,motif/nature,motif/well,concept/ambition,concept/hope,concept/nature,concept/truth,character/eleanor,character/isabella"></span>
 
 
 “I [[Hope|hope]], so far as concerns my brother, you are misinformed. I [[Hope|hope]] he
@@ -29161,7 +29161,7 @@ produced it.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Northanger Abbey — Chapter 26 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Northanger Abbey — Chapter 26 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/desire,motif/silence,motif/time,motif/well,concept/courage,concept/hope,character/eleanor,character/isabella"></span>
 
 
 CHAPTER 26
@@ -29357,7 +29357,7 @@ Because I am to [[Hope|hope]] for the satisfaction of seeing you at Woodston on
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Northanger Abbey — Chapter 26 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Northanger Abbey — Chapter 26 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/spring,motif/time,motif/well,concept/doubt,concept/imagination,concept/solitude,character/eleanor,character/isabella,character/sunday"></span>
 
 
 Wednesday, which bad weather, or twenty other causes, may prevent, I
@@ -29569,7 +29569,7 @@ from them pleasant, though only over green meadows; and she expressed
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Northanger Abbey — Chapter 26 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Northanger Abbey — Chapter 26 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/clock,motif/well"></span>
 
 
 her admiration at the moment with all the honest simplicity with which
@@ -29671,7 +29671,7 @@ anxiety as to the How or the When she might return to it.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Northanger Abbey — Chapter 27" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Northanger Abbey — Chapter 27" data-chapter="Chapter 28" data-kind="chapter" data-tags="archetype/fool,archetype/shadow,motif/desire,motif/dust,motif/home,motif/love,motif/night,motif/spring,motif/time,motif/well,concept/doubt,concept/friendship,concept/hope,concept/revenge,setting/oxford,character/eleanor,character/isabella"></span>
 
 
 CHAPTER 27
@@ -29949,7 +29949,7 @@ of it.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Northanger Abbey — Chapter 28 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Northanger Abbey — Chapter 28 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/time,motif/well,setting/london,character/eleanor"></span>
 
 
 CHAPTER 28
@@ -30149,7 +30149,7 @@ moving close to her door made her start; it seemed as if someone was
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Northanger Abbey — Chapter 28 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Northanger Abbey — Chapter 28 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/home,motif/pain,motif/time,motif/water,motif/well,concept/hope,concept/imagination,character/eleanor"></span>
 
 
 touching the very doorway—and in another moment a slight motion of the
@@ -30359,7 +30359,7 @@ might have written [[Home|home]]. But it is of very little consequence.”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Northanger Abbey — Chapter 28 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Northanger Abbey — Chapter 28 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/night,motif/pain,motif/rose,motif/silence,motif/sleep,motif/swallow,motif/tears,motif/time,motif/well,motif/wind,concept/friendship,concept/hope,concept/imagination,concept/pride,concept/solitude,character/eleanor,character/general_tilney"></span>
 
 
 but to everything else it is of the greatest consequence: to comfort,
@@ -30543,7 +30543,7 @@ from you as soon as possible. Till I know you to be safe at [[Home|home]], I
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Northanger Abbey — Chapter 28 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Northanger Abbey — Chapter 28 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/time,motif/well,concept/doubt,concept/pride,concept/wonder,character/eleanor"></span>
 
 
 shall not have an hour’s comfort. For _one_ letter, at all risks, all
@@ -30627,7 +30627,7 @@ chaise, and in a moment was driven from the door.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Northanger Abbey — Chapter 29 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Northanger Abbey — Chapter 29 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/innocent,motif/clock,motif/home,motif/journey,motif/marriage,motif/pain,motif/road,motif/tears,motif/time,motif/well,concept/solitude,concept/wonder,character/eleanor"></span>
 
 
 CHAPTER 29
@@ -30819,7 +30819,7 @@ A heroine in a hack post-chaise is such a blow upon sentiment, as no
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Northanger Abbey — Chapter 29 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Northanger Abbey — Chapter 29 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/nature,motif/time,motif/well,motif/window,concept/doubt,concept/hope,concept/nature,concept/suffering,concept/wonder,character/eleanor,character/general_tilney,character/sunday"></span>
 
 
 attempt at grandeur or pathos can withstand. Swiftly therefore shall
@@ -31011,7 +31011,7 @@ and never had it been harder for her to write than in addressing
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Northanger Abbey — Chapter 29 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Northanger Abbey — Chapter 29 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/home,motif/night,motif/road,motif/tears,motif/time,motif/well,concept/hope,concept/wonder,character/eleanor,character/eleanor_tilney,character/general_tilney,character/henry_tilney,character/isabella"></span>
 
 
 [[Eleanor Tilney]]. To compose a letter which might at once do justice to
@@ -31277,7 +31277,7 @@ for Hereford.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Northanger Abbey — Chapter 30 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Northanger Abbey — Chapter 30 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/mirror,motif/night,motif/rose,motif/silence,motif/time,motif/well,concept/hope,form/essay,character/general_tilney,character/henry_tilney,character/richard"></span>
 
 
 CHAPTER 30
@@ -31475,7 +31475,7 @@ Allen were now at Fullerton? And on developing, from amidst all her
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Northanger Abbey — Chapter 30 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Northanger Abbey — Chapter 30 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/night,motif/time,motif/well,motif/window,concept/deception,concept/doubt,concept/faith,concept/imagination,concept/pride,concept/truth,concept/vanity,character/general_tilney,character/isabella,character/john_thorpe"></span>
 
 
 perplexity of words in reply, the meaning, which one short syllable
@@ -31655,7 +31655,7 @@ the Allens being wealthy and childless, of Miss Morland’s being under
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Northanger Abbey — Chapter 30 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Northanger Abbey — Chapter 30 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="motif/desire,motif/journey,motif/marriage,motif/time,concept/conscience,concept/friendship,concept/honour,concept/reconciliation,character/eleanor,character/general_tilney,character/isabella"></span>
 
 
 their care, and—as soon as his acquaintance allowed him to judge—of
@@ -31825,7 +31825,7 @@ Fullerton.
 
 
 
-<span class="atom-split" data-atom="chapter_32" data-title="Northanger Abbey — Chapter 31" data-chapter="Chapter 32" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_32" data-title="Northanger Abbey — Chapter 31" data-chapter="Chapter 32" data-kind="chapter" data-tags="archetype/fool,motif/death,motif/home,motif/marriage,motif/summer,motif/time,motif/well,concept/doubt,concept/endurance,concept/fear,concept/forgiveness,concept/hope,concept/imagination,concept/pride,concept/self,concept/suffering,form/fable,setting/london,character/eleanor,character/eleanor_tilney"></span>
 
 
 CHAPTER 31

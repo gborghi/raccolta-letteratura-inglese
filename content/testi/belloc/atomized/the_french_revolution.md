@@ -1359,7 +1359,7 @@ The attempt to “de-christianise” France failed, as I have said, completely. 
 
 
 
-<span class="atom-split" data-atom="story_01_preface" data-title="The French Revolution — PREFACE" data-chapter="PREFACE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_preface" data-title="The French Revolution — PREFACE" data-chapter="PREFACE" data-kind="story" data-tags="motif/blood,histref/catholic_church,setting/france"></span>
 
 
 PREFACE
@@ -1397,7 +1397,7 @@ January 1911.
 
 
 
-<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_01" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 1)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_01" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 1)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt" data-tags="concept/authority"></span>
 
 
 I. THE POLITICAL THEORY OF THE REVOLUTION
@@ -1427,7 +1427,7 @@ In other words, men may justly condemn, and justly have in a thousand circumstan
 
 
 
-<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_02" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 2)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_02" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 2)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt" data-tags="concept/authority,concept/democracy"></span>
 
 
 Let us take it, then, as indubitable that where civil government is concerned, the community is supreme, if only from the argument that no organ within the community can prove its right to withstand the corporate will when once that corporate will shall find expression.
@@ -1453,7 +1453,7 @@ The doctrine of the equality of the man is a transcendent doctrine: a “dogma,�
 
 
 
-<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_03" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 3)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_03" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 3)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt" data-tags="motif/crown,concept/democracy,setting/france"></span>
 
 
 Its truth is to be arrived at (for these) in a negative manner. If men are not equal then no scheme of jurisprudence, no act of justice, no movement of human indignation, no exaltation of fellowship, has any meaning. The doctrine of the equality of man is one which, like many of the great transcendental doctrines, may be proved by the results consequent upon its absence. It is in man to believe it — and all lively societies believe it.
@@ -1483,7 +1483,7 @@ There was indeed one great example of democratic representation in existence: th
 
 
 
-<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_04" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 4)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_political_theory_of_the_revolution--part_04" data-title="The French Revolution — THE POLITICAL THEORY OF THE REVOLUTION (part 4)" data-chapter="THE POLITICAL THEORY OF THE REVOLUTION" data-kind="excerpt" data-tags="concept/democracy,setting/france"></span>
 
 
 True, they could not foresee modern parliamentarism. Nothing could be more alien to their conception of the State than the deplorable method of government which parliamentarism everywhere tends to introduce to-day.
@@ -1507,7 +1507,7 @@ An explanation of Rousseau’s power merits a particular digression, for few who
 
 
 
-<span class="atom-split" data-atom="story_03_rousseau" data-title="The French Revolution — ROUSSEAU" data-chapter="ROUSSEAU" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_rousseau" data-title="The French Revolution — ROUSSEAU" data-chapter="ROUSSEAU" data-kind="story" data-tags="concept/authority,concept/democracy"></span>
 
 
 II. ROUSSEAU
@@ -1561,7 +1561,7 @@ Rousseau’s hundred pages are the direct source of the theory of the modern Sta
 
 
 
-<span class="atom-split" data-atom="story_04_the_characters_of_the_revolution" data-title="The French Revolution — THE CHARACTERS OF THE REVOLUTION" data-chapter="THE CHARACTERS OF THE REVOLUTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_the_characters_of_the_revolution" data-title="The French Revolution — THE CHARACTERS OF THE REVOLUTION" data-chapter="THE CHARACTERS OF THE REVOLUTION" data-kind="story" data-tags="concept/faith,histref/catholic_church,setting/france,setting/paris,character/louis_xvi,character/marie_antoinette"></span>
 
 
 III. THE CHARACTERS OF THE REVOLUTION
@@ -1608,7 +1608,7 @@ Being what he was, his character is among the half-dozen which determined the Re
 
 
 
-<span class="atom-split" data-atom="story_05_the_queen--part_01" data-title="The French Revolution — THE QUEEN (part 1)" data-chapter="THE QUEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_queen--part_01" data-title="The French Revolution — THE QUEEN (part 1)" data-chapter="THE QUEEN" data-kind="excerpt" data-tags="motif/blood,setting/paris,character/marie_antoinette"></span>
 
 
 THE QUEEN
@@ -1638,7 +1638,7 @@ That a multitude could instruct and order themselves for a common purpose, rapid
 
 
 
-<span class="atom-split" data-atom="story_05_the_queen--part_02" data-title="The French Revolution — THE QUEEN (part 2)" data-chapter="THE QUEEN" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_queen--part_02" data-title="The French Revolution — THE QUEEN (part 2)" data-chapter="THE QUEEN" data-kind="excerpt" data-tags="motif/crown,character/marie_antoinette"></span>
 
 
 In the matter of religion (which the reader may see in these pages to be of such moment in the revolutionary story), the queen was originally far more indifferent than her husband, though she observed a certain measure of personal practice. It was not until her heavy misfortunes came upon her that any degree of personal devotion appeared in her daily life, though it must be admitted that, by a sort of premonition of disaster, she turned to religion in the months immediately preceding the outbreak of the reform.
@@ -1666,7 +1666,7 @@ She indulged also in a number of small and unimportant flirtations which might a
 
 
 
-<span class="atom-split" data-atom="story_06_mirabeau" data-title="The French Revolution — MIRABEAU" data-chapter="MIRABEAU" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_mirabeau" data-title="The French Revolution — MIRABEAU" data-chapter="MIRABEAU" data-kind="story" data-tags="concept/democracy,concept/faith,histref/catholic_church,setting/france"></span>
 
 
 MIRABEAU
@@ -1704,7 +1704,7 @@ This very brief sketch does not present Mirabeau to the reader. He can only be p
 
 
 
-<span class="atom-split" data-atom="story_07_la_fayette" data-title="The French Revolution — LA FAYETTE" data-chapter="LA FAYETTE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_la_fayette" data-title="The French Revolution — LA FAYETTE" data-chapter="LA FAYETTE" data-kind="story" data-tags="motif/crown,setting/paris,character/danton,character/marie_antoinette"></span>
 
 
 LA FAYETTE
@@ -1722,7 +1722,7 @@ In religion the man was anodyne, Catholic of course by baptism, but distinctly P
 
 
 
-<span class="atom-split" data-atom="story_08_dumouriez" data-title="The French Revolution — DUMOURIEZ" data-chapter="DUMOURIEZ" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_dumouriez" data-title="The French Revolution — DUMOURIEZ" data-chapter="DUMOURIEZ" data-kind="story" data-tags="concept/democracy,setting/france"></span>
 
 
 DUMOURIEZ
@@ -1746,7 +1746,7 @@ It is perhaps a worthy excuse for Dumouriez’ failure to point out that he also
 
 
 
-<span class="atom-split" data-atom="story_09_danton" data-title="The French Revolution — DANTON" data-chapter="DANTON" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_danton" data-title="The French Revolution — DANTON" data-chapter="DANTON" data-kind="story" data-tags="character/danton"></span>
 
 
 [[Danton|DANTON]]
@@ -1774,7 +1774,7 @@ Danton failed and died from two combined causes: first his health gave way, seco
 
 
 
-<span class="atom-split" data-atom="story_10_carnot" data-title="The French Revolution — CARNOT" data-chapter="CARNOT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_carnot" data-title="The French Revolution — CARNOT" data-chapter="CARNOT" data-kind="story" data-tags="concept/faith,character/danton"></span>
 
 
 CARNOT
@@ -1796,7 +1796,7 @@ The stoical inflexibility of his temper is the noblest among the many noble char
 
 
 
-<span class="atom-split" data-atom="story_11_marat" data-title="The French Revolution — MARAT" data-chapter="MARAT" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_marat" data-title="The French Revolution — MARAT" data-chapter="MARAT" data-kind="story" data-tags="archetype/fanatic,concept/democracy"></span>
 
 
 MARAT
@@ -1822,7 +1822,7 @@ Those who met him in the management of affairs thought him worthless enough; a f
 
 
 
-<span class="atom-split" data-atom="story_12_robespierre" data-title="The French Revolution — ROBESPIERRE" data-chapter="ROBESPIERRE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_robespierre" data-title="The French Revolution — ROBESPIERRE" data-chapter="ROBESPIERRE" data-kind="story" data-tags="concept/democracy,concept/faith,setting/france,setting/paris,character/danton,character/robespierre"></span>
 
 
 [[Robespierre|ROBESPIERRE]]
@@ -1872,7 +1872,7 @@ By birth he was of the smaller gentry, though poor. It is an indication of his c
 
 
 
-<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_01" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 1)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_01" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 1)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt" data-tags="motif/crown,concept/authority,setting/france"></span>
 
 
 IV. THE PHASES OF THE REVOLUTION
@@ -1901,7 +1901,7 @@ Now the King and his advisers, notably Necker, who still had great weight, were 
 
 
 
-<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_02" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 2)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_02" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 2)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt" data-tags="motif/crown,concept/authority,setting/france"></span>
 
 
 So far there had been no action which could be precisely called illegal or revolutionary. The Commons had affirmed a right based upon a political theory which the vast majority of the nation admitted, and the legal depositary of power, the King, had not yet reproved. One may draw a parallel and compare the action of the Commons so far to some action which a trade union, for instance, may take in England; some action the legality of which is doubtful but upon which the courts have not yet decided.
@@ -1921,7 +1921,7 @@ The National Assembly was now legally constituted, and set out upon its career. 
 
 
 
-<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_03" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 3)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_the_phases_of_the_revolution--part_03" data-title="The French Revolution — THE PHASES OF THE REVOLUTION (part 3)" data-chapter="THE PHASES OF THE REVOLUTION" data-kind="excerpt" data-tags="motif/crown,concept/authority,setting/france,setting/paris"></span>
 
 
 At this point the reader must appreciate what forces were face to face in the coming struggle. So far, the illegal and revolutionary act of the 17th of June, the Royal Session which replied to that act upon the 23rd, the King’s decree which yielded to the Commons upon the 27th, had all of them been but words. If it came to action, what physical forces were opposed?
@@ -1961,7 +1961,7 @@ So ends the first phase of the Revolution. It had lasted from the opening of the
 
 
 
-<span class="atom-split" data-atom="story_14_from_the_17th_of_july_1789_to_the_6th_of" data-title="The French Revolution — From the 17th of July 1789 to the 6th of Oct. 1789." data-chapter="From the 17th of July 1789 to the 6th of" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_from_the_17th_of_july_1789_to_the_6th_of" data-title="The French Revolution — From the 17th of July 1789 to the 6th of Oct. 1789." data-chapter="From the 17th of July 1789 to the 6th of" data-kind="story" data-tags="motif/crown,concept/democracy,setting/france,setting/paris"></span>
 
 
 II. From the 17th of July 1789 to the 6th of Oct. 1789.
@@ -1985,7 +1985,7 @@ With the return of the royal family to Paris, and with the presence of the Assem
 
 
 
-<span class="atom-split" data-atom="story_15_from_october_1789_to_june_1791" data-title="The French Revolution — From October 1789 to June 1791." data-chapter="From October 1789 to June 1791" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_from_october_1789_to_june_1791" data-title="The French Revolution — From October 1789 to June 1791." data-chapter="From October 1789 to June 1791" data-kind="story" data-tags="motif/crown,setting/france,setting/paris"></span>
 
 
 III. From October 1789 to June 1791.
@@ -2023,7 +2023,7 @@ Shortly after Mirabeau’s death a tumult, which excessively frightened the roya
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_01" data-title="The French Revolution — From June 1791 to September 1792. (part 1)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_01" data-title="The French Revolution — From June 1791 to September 1792. (part 1)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/crown,concept/democracy,setting/france,setting/paris,character/danton,character/robespierre"></span>
 
 
 IV. From June 1791 to September 1792.
@@ -2055,7 +2055,7 @@ On the French side, with the exception of the Mountain and notably of [[Robespie
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_02" data-title="The French Revolution — From June 1791 to September 1792. (part 2)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_02" data-title="The French Revolution — From June 1791 to September 1792. (part 2)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/marie_antoinette"></span>
 
 
 The Court and the reactionaries were sufficiently certain of the victory of the Allies to find their salvation in war.
@@ -2081,7 +2081,7 @@ The shock between the palace and the populace was joined in the morning of the 1
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_03" data-title="The French Revolution — From June 1791 to September 1792. (part 3)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_03" data-title="The French Revolution — From June 1791 to September 1792. (part 3)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,histref/french_revolution,setting/france,setting/paris,character/danton"></span>
 
 
 Meanwhile the King and Queen, the Dauphin and his little sister, with others of the royal household, had taken refuge during the fighting in the hall of the Parliament.
@@ -2115,7 +2115,7 @@ It was on the 20th of September that the Convention met for its first sitting, w
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_04" data-title="The French Revolution — From June 1791 to September 1792. (part 4)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_04" data-title="The French Revolution — From June 1791 to September 1792. (part 4)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,setting/france,setting/paris,character/danton,character/louis_xvi"></span>
 
 
 Upon the morrow the new Assembly met in the riding school (the Manège), where the two former Assemblies had also sat. It was about to separate after that day’s sitting when one of the members proposed the abolition of Royalty; the Convention voted the reform unanimously and dispersed.
@@ -2137,7 +2137,7 @@ Then followed war with England, with Holland, and with Spain; and almost at that
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_05" data-title="The French Revolution — From June 1791 to September 1792. (part 5)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_05" data-title="The French Revolution — From June 1791 to September 1792. (part 5)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,setting/paris,character/danton"></span>
 
 
 With the establishment of this truly national and traditional thing, whose form alone was novel, but whose power and method were native to all the military tradition of Gaul, the Revolution was saved. We have now chiefly to follow the way in which the Committee governed and in which it directed affairs in the great crisis of the war. This sixth phase lasts for nearly sixteen months, from the beginning of April 1793 to the 28th of July 1794, and it is convenient to divide those sixteen months into two divisions.
@@ -2165,7 +2165,7 @@ That day nothing of moment was done, but the Parliament had proved of no strengt
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_06" data-title="The French Revolution — From June 1791 to September 1792. (part 6)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_06" data-title="The French Revolution — From June 1791 to September 1792. (part 6)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,concept/faith,setting/france,setting/paris,character/danton,character/robespierre"></span>
 
 
 This first Committee of Public Safety endured to the 10th of July. In the midst of such a war and of such an internal struggle the Convention had voted (upon the initiative of the Committee of Public Safety) the famous Constitution of ‘93, that prime document of [[Democracy|democracy]] which, as though to mock its own ideal, has remained no more than a written thing from then until now. Therein will be found universal suffrage, therein the yearly Parliament, therein the referendum, therein the elected Executive — a thing no Parliament would ever give us to-day. The Constitution was passed but three weeks after the successful insurrection of [[Paris]]. A fortnight later still, on the 10th of July, the first of the Committees of Public Safety was followed by its successor.
@@ -2197,7 +2197,7 @@ Now let it be noted that, unlike his follower Saint-Just, and exceedingly unlike
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_07" data-title="The French Revolution — From June 1791 to September 1792. (part 7)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_07" data-title="The French Revolution — From June 1791 to September 1792. (part 7)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,setting/france,setting/paris,character/danton,character/robespierre"></span>
 
 
 The first weeks after his appearance in the Committee of Public Safety were the critical weeks of the whole revolutionary movement. The despotic action of [[Paris]] (which I have concluded to be secretly supported by the Committee) had provoked insurrection upon all sides in the provinces. Normandy had protested, and on the 13th of July a Norman girl stabbed Marat to death. Lyons, as we have seen, had been some weeks in revolt; Marseilles had rebelled in the first week of June, Bordeaux and the whole department of the Gironde had of course risen, for their men were at stake. Later Toulon, the great naval depot of [[France]], revolted: a reactionary municipal provincial Government was formed in that port, the little boy imprisoned in the Temple, heir to the kingdom, was proclaimed under the title of Louis XVII, and before the end of August the English and Spanish fleets had been admitted into the harbour and an excellent foreign garrison was defending the town against the national Government.
@@ -2223,7 +2223,7 @@ In the last four months of the period we are considering in this book, through A
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_08" data-title="The French Revolution — From June 1791 to September 1792. (part 8)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_08" data-title="The French Revolution — From June 1791 to September 1792. (part 8)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,concept/democracy,setting/france,character/danton,character/robespierre"></span>
 
 
 In the past they had permitted him to indulge a private policy where it did not interfere with the general military plan. He was largely responsible, not through his own judgment but from his desire to voice opinion, for the trial and execution of the Queen. He had temporised when [[Danton]] was beginning his campaign against the Terror at the end of 1793, and it is an ineffaceable blot upon his memory and his justly earned reputation for integrity and sincerity, that he first permitted and then helped towards [[Danton]]’s execution. We may presume from the few indications we have that he protested against it in the secret counsels of the Committee, but he had yielded, and what is more, since Saint-Just desired to be [[Danton]]’s accuser he had furnished Saint-Just with notes against Danton. Though it was the Committee who were morally responsible for the extreme extension of the Terror which proceeded during those last few months, [[Robespierre]] had the unwisdom to act as their instrument, to draft their last decrees, and, believing the Terror to be popular, to support it in public. It was this that ruined him. The extreme Terrorists, those who were not yet satiated with vengeance, and who hated and feared a popular idol, determined to overthrow him.
@@ -2245,7 +2245,7 @@ We all know that as a matter of fact the Revolution was, upon the whole, success
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_09" data-title="The French Revolution — From June 1791 to September 1792. (part 9)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_09" data-title="The French Revolution — From June 1791 to September 1792. (part 9)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/blood,setting/france"></span>
 
 
 Again, that element fatal to all accurate study of military history, the imputation of civilian virtues and motives, enters the mind of the reader with fatal facility when he studies the revolutionary wars.
@@ -2279,7 +2279,7 @@ These instruments were what have been called the “professional” armies. The 
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_10" data-title="The French Revolution — From June 1791 to September 1792. (part 10)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_10" data-title="The French Revolution — From June 1791 to September 1792. (part 10)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/danton"></span>
 
 
 I must not in all this be supposed to be belittling that great period between 1660 and 1789, during which the art of war was most thoroughly thought out, the traditions of most of our great European armies fixed, and the permanent military qualities which we still inherit developed. The men so caught as private soldiers could not but enjoy the game when it was actively played, for men of European stock will always enjoy the game of war; they took glory in its recital and in its memories; to be a soldier, even under the servile conditions of the time, was a proper subject for pride, and it is further to be remarked that the excesses of cruelty discoverable in the establishment of their discipline were also accompanied by very high and lasting examples of military virtue. The behaviour of the English contingents at Fontenoy afford but one of many examples of what I mean.
@@ -2305,7 +2305,7 @@ Many factors combine to make that date the starting-point. In the first place, u
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_11" data-title="The French Revolution — From June 1791 to September 1792. (part 11)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_11" data-title="The French Revolution — From June 1791 to September 1792. (part 11)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/crown,setting/france,setting/paris,character/marie_antoinette"></span>
 
 
 The wild march upon Versailles, in the days of October 1789, had its parallel in a hundred popular tumults with which Europe was familiar enough for centuries. But the rapidly succeeding reforms of the year 1790, and even the great religious blunder of 1791, had received the signature and the public assent of the [[Crown]]. The Court, though no longer at Versailles, was splendid, the power of the King over the Executive still far greater than that of any other organ in the State, and indefinitely greater than that of any other individual in the State. The talk of captivity, of insult and the rest, the outcries of the emigrants and the perpetual complaint of the French royal family in its private relations, seemed exaggerated, or at any rate nothing to act upon, until there came the shock of the King’s attempted flight and recapture. This clinched things; and it clinched them all the more because more than one Court, and especially that of Austria, believed for some days that the escape had been successful.
@@ -2339,7 +2339,7 @@ Their soil is clay, and though the height of the hills is only three hundred fee
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_12" data-title="The French Revolution — From June 1791 to September 1792. (part 12)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_12" data-title="The French Revolution — From June 1791 to September 1792. (part 12)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Three of these passes alone existed, and to this day there is very little choice in the crossing of these hills. The accompanying sketch will explain their disposition. Through the southernmost went the great high road from the frontier and Verdun to [[Paris]]. At the middle one (which is called the Gap of Grandpré) Dumouriez was waiting with his incongruous army. The third and northern one was also held, but less strongly. The obvious march for an unimpeded invader would have been from Verdun along the high road, through the southern pass at “Les Islettes,” and so to Chalôns and on to [[Paris]]. But Dumouriez, marching down rapidly from the north, had set an advanced guard to hold that pass and was lying himself with the mass of the army on the pass to the north of it at Grandpré. Against Grandpré the Prussians marched, and meanwhile the Austrians were attacking the further pass to the north. Both were forced. Dumouriez fell back southward to St. Menehould. Meanwhile Kellermann was coming up from Metz to join him, and all the while the main pass at “Les Islettes,” through which the great road to [[Paris]] went, continued to be held by the French.
@@ -2363,7 +2363,7 @@ Finally, we must recollect that whatever causes had forbidden the Prussian charg
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_13" data-title="The French Revolution — From June 1791 to September 1792. (part 13)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_13" data-title="The French Revolution — From June 1791 to September 1792. (part 13)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,setting/paris,character/danton"></span>
 
 
 For a whole week of increasing anxiety and increasing inefficiency the Allied Army hung thus, impotent, though they were between the French forces and the capital. Dumouriez ably entertained this hesitation, with all its accumulating dangers for the enemy, by prolonged negotiations, until upon the 30th of September the Prussian and Austrian organisation could stand the strain no longer, and its commanders determined upon retreat. It was the genius of [[Danton]], as we now know, that chiefly organised the withdrawal of what might still have been a dangerous invading force. It is principally due to him that no unwise Jingoism was permitted to claim a trial of strength with the invader, that he was allowed to retire with all his guns, his colours and his train. The retreat was lengthy and unmolested, though watched by the French forces that discreetly shepherded it but were kept tightly in hand from [[Paris]]. It was more than three weeks later when the Allied Army, upon which Europe and the French monarchy had counted for an immediate settlement of the Revolution, re-crossed the frontier, and in this doubtful and perhaps inexplicable fashion the first campaign of the European Powers against the Revolution utterly failed.
@@ -2393,7 +2393,7 @@ Like many another great and apparently decisive action, however, it bore no last
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_14" data-title="The French Revolution — From June 1791 to September 1792. (part 14)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_14" data-title="The French Revolution — From June 1791 to September 1792. (part 14)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Jemappes was fought upon the 6th of November, 1702. Brussels was entered upon the 14th, and throughout that winter the Low Countries lay entirely in the hands of the French. The Commissioners from the Convention, though endowing Belgium with republican institutions, treated it as a conquered country, and before the breaking of spring, the French Parliament voted its annexation to [[France]]. This annexation, the determination of the politicians in [[Paris]] that the new Belgian Government should be republican and anti-Catholic, the maltreatment of the Church in the occupied country and the increasing ill discipline and lack of cohesion in his army, left Dumouriez in a position which grew more and more difficult as the new year, 1793, advanced. It must be remembered that this moment exactly corresponded with the execution of the King and the consequent declaration of war by or against [[France]] in the case of one Power after another throughout Europe. Meanwhile, it was decided, foolishly enough, to proceed from the difficult occupation of Belgium to the still more difficult occupation of Holland, and the siege of Maestricht was planned.
@@ -2417,7 +2417,7 @@ What we have now to follow is somewhat over a year of a struggle thus abnormally
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_15" data-title="The French Revolution — From June 1791 to September 1792. (part 15)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_15" data-title="The French Revolution — From June 1791 to September 1792. (part 15)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,setting/paris"></span>
 
 
 The spring of 1793, the months of April and May, form the first crisis of the revolutionary war. The attack about to be delivered is universal, and seems absolutely certain to succeed. With the exception of the rush at Jemappes, where less than thirty thousand Austrians were broken through by a torrent superior in numbers (though even there obviously ill-organised), no success had attended the revolutionary armies. Their condition was, even to the eye of the layman, bad, and to the eye of the expert hopeless. There was no unity apparent in direction, there were vast lesions in the discipline of the ranks like great holes torn in some rotten fabric. Even against the forces already mobilised against it, it had proved powerless, and it might be taken for granted that by an act more nearly resembling police work than a true campaign, the Allies would reach [[Paris]] and something resembling the old order be soon restored. What remains is to follow the process by which this expectation was disappointed.
@@ -2441,7 +2441,7 @@ The second point, the so-called “delay” involved in the sieges undertaken by
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_16" data-title="The French Revolution — From June 1791 to September 1792. (part 16)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_16" data-title="The French Revolution — From June 1791 to September 1792. (part 16)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 We approach the military problem of 1793, therefore, with the following two fields clear before us: —
@@ -2477,7 +2477,7 @@ Kilmaine had hardly escaped from York, drawn up his army behind the Scarpe and p
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_17" data-title="The French Revolution — From June 1791 to September 1792. (part 17)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_17" data-title="The French Revolution — From June 1791 to September 1792. (part 17)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="archetype/fanatic,histref/french_revolution,setting/france,setting/paris,character/danton"></span>
 
 
 At about the same moment occurred three very important changes in the general military situation, which the reader must note if he is to understand what follows.
@@ -2501,7 +2501,7 @@ It must be further remembered that this powerful genius had behind him in these 
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_18" data-title="The French Revolution — From June 1791 to September 1792. (part 18)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_18" data-title="The French Revolution — From June 1791 to September 1792. (part 18)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 The third, as I have said, was the English diversion upon Dunquerque.
@@ -2541,7 +2541,7 @@ Two days later again, on August 24, Freytag had occupied Wormhoudt and Esquelbec
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_19" data-title="The French Revolution — From June 1791 to September 1792. (part 19)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_19" data-title="The French Revolution — From June 1791 to September 1792. (part 19)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Such was the situation upon the dawn of the 25th, when everything was ready for active operations. And here the reader must look upon the map for what ultimately proved the ruin of the situation.
@@ -2569,7 +2569,7 @@ Perhaps his execution was made more certain by the continuance of bad news from 
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_20" data-title="The French Revolution — From June 1791 to September 1792. (part 20)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_20" data-title="The French Revolution — From June 1791 to September 1792. (part 20)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Not only had he that immense superiority in the quality of his troops which must be still insisted upon, but numerically also he was three to one when, on the 28th of September, at dawn, he crossed the Sambre above and below Maubeuge, and by noon of that day had contained the French army in that neighbourhood within the lines of the fortress.
@@ -2601,7 +2601,7 @@ Initiative in war is essentially a calculation of risk, and with high initiative
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_21" data-title="The French Revolution — From June 1791 to September 1792. (part 21)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_21" data-title="The French Revolution — From June 1791 to September 1792. (part 21)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority"></span>
 
 
 Thus was successfully passed the turning-point of the revolutionary wars.
@@ -2631,7 +2631,7 @@ The Allies lay along the river Scheldt on Friday, the 16th of May: Tournay was t
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_22" data-title="The French Revolution — From June 1791 to September 1792. (part 22)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_22" data-title="The French Revolution — From June 1791 to September 1792. (part 22)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 On the day of the 17th what happened was this: The left of the Allies, marching from St. Amand, came up half a day late; the right of the Allies took Mouscron, but were beaten out of it by the French. The centre of the Allies fulfilled their programme, reaching Tourcoing and its neighbourhood by noon and holding their positions. It is to the honour of English arms that this success was accomplished by a force a third of which was British and the most notable bayonet work in which was done by the Guards. Meanwhile, Clerfayt was late in moving and in crossing the river Lys, which lay between him and his objective.
@@ -2669,7 +2669,7 @@ Ypres captured on June 19 by the French, they march on Oudenarde and pass it on 
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_23" data-title="The French Revolution — From June 1791 to September 1792. (part 23)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_23" data-title="The French Revolution — From June 1791 to September 1792. (part 23)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,histref/catholic_church,histref/french_revolution,setting/france,character/robespierre"></span>
 
 
 Thus the English at Tournai and all the Allied Forces at Condé, Valenciennes, Landrecies, and Mons are imperilled and must surrender or retire.
@@ -2709,7 +2709,7 @@ We have seen in this book that one department of revolutionary history, the seco
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_24" data-title="The French Revolution — From June 1791 to September 1792. (part 24)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_24" data-title="The French Revolution — From June 1791 to September 1792. (part 24)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,concept/faith,histref/catholic_church,histref/french_revolution"></span>
 
 
 Now in this second and greater problem, the problem of the function played by religion, it is an exactly opposite method which can alone be of service.
@@ -2743,7 +2743,7 @@ One may say that the actions of men are divided not by theories but by spiritual
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_25" data-title="The French Revolution — From June 1791 to September 1792. (part 25)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_25" data-title="The French Revolution — From June 1791 to September 1792. (part 25)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,histref/catholic_church"></span>
 
 
 Or one may give a totally different answer and say, “There was no quarrel between the theology of the [[Catholic Church]] and the political theory of the Revolution; but the folly of this statesman, the ill drafting of that law, the misconception of such and such an institution, the coincidence of war breaking out at such and such a moment and affecting men in such and such a fashion — all these material accidents bred a misunderstanding between the two great forces, led into conflict the human officers and the human organisations which directed them; and conflict once established feeds upon, and grows from, its own substance.”
@@ -2773,7 +2773,7 @@ The succeeding hundred years, from 1615 to 1715, let us say, were a settlement, 
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_26" data-title="The French Revolution — From June 1791 to September 1792. (part 26)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_26" data-title="The French Revolution — From June 1791 to September 1792. (part 26)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="motif/crown,concept/authority,concept/faith,histref/catholic_church,setting/france"></span>
 
 
 There was, even in that same seventeenth century, a separate, but futile, attempt to destroy Catholicism in Ireland. In Germany a struggle of the utmost violence had only led to a similar regional result. The first third of that hundred years concluded in the Peace of Westphalia, and left the Protestant and Catholic territorial divisions much what we now know them.
@@ -2801,7 +2801,7 @@ It is safe to say that where one adult of the educated classes concerned himself
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_27" data-title="The French Revolution — From June 1791 to September 1792. (part 27)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_27" data-title="The French Revolution — From June 1791 to September 1792. (part 27)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,concept/faith,histref/catholic_church,setting/france,setting/paris"></span>
 
 
 As a fact, of course it was not: and in the popular indifference to or hatred of the Church the principal factor was the strict brotherhood not so much of Church and State as of Church and executive Government.
@@ -2827,7 +2827,7 @@ The feudal dues of the nobles, if abandoned, must fall rather to the peasantry t
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_28" data-title="The French Revolution — From June 1791 to September 1792. (part 28)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_28" data-title="The French Revolution — From June 1791 to September 1792. (part 28)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,concept/faith,histref/catholic_church,setting/france"></span>
 
 
 It may be argued, of course, that the right of the Church to this ecclesiastical property, whether in land or in tithes, was absolute, and that the confiscation of the one or of the other form of revenue was mere theft. But such was not the legal conception of the moment. The wealth of the Church was not even (and this is most remarkable) defended as absolute property by the generality of those who enjoyed it. The tone of the debates which suppressed the tithes, and later confiscated the Church lands, was a tone of discussion upon legal points, precedents, public utility, and so forth. There was not heard in it, in any effective degree, the assertion of mere moral right; though in that time the moral rights of property were among the first of political doctrines.
@@ -2849,7 +2849,7 @@ Had the Catholic Church been, as nearly all educated men then imagined, a moribu
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_29" data-title="The French Revolution — From June 1791 to September 1792. (part 29)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_29" data-title="The French Revolution — From June 1791 to September 1792. (part 29)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,concept/faith,histref/catholic_church,setting/france"></span>
 
 
 On the other hand, and from the point of view of the statesman, the Civil Constitution of the Clergy bound strictly to the State and made responsible to it those ancient functions, not yet dead, of the episcopacy and all its train. It was a wise and a just consideration on the part of the Assembly that religions retain their machinery long after they are dead, and if that machinery has ever been a State machinery it must remain subject to the control of the State: and subject not only up to the moment when the living force which once animated it is fled, but much longer; up, indeed, to the moment when the surviving institutions of the dead religion break down and perish.
@@ -2877,7 +2877,7 @@ The reader must carefully distinguish between the acceptation by the Church of a
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_30" data-title="The French Revolution — From June 1791 to September 1792. (part 30)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_30" data-title="The French Revolution — From June 1791 to September 1792. (part 30)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,concept/democracy,setting/france,setting/paris"></span>
 
 
 I have said that not until the end of the year 1790 was the debate opened upon the proposition to compel the clergy to take the oath.
@@ -2907,7 +2907,7 @@ To the way in which I have presented the problem a great deal more might be adde
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_31" data-title="The French Revolution — From June 1791 to September 1792. (part 31)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_31" data-title="The French Revolution — From June 1791 to September 1792. (part 31)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/authority,concept/democracy,setting/paris,character/louis_xvi"></span>
 
 
 So much for the first year of the schism, May 1790 to May 1791. The second year is but an intensification of the process apparent in the first.
@@ -2941,7 +2941,7 @@ With the crash of the 10th of August the persecution began: the true persecution
 
 
 
-<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_32" data-title="The French Revolution — From June 1791 to September 1792. (part 32)" data-chapter="From June 1791 to September 1792" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_16_from_june_1791_to_september_1792--part_32" data-title="The French Revolution — From June 1791 to September 1792. (part 32)" data-chapter="From June 1791 to September 1792" data-kind="excerpt" data-tags="concept/democracy,histref/catholic_church,histref/french_revolution,setting/france"></span>
 
 
 The decree of the 27th of May was put into force within eleven days of the fall of the Tuileries. True, it was not put into force in that crudity which the Parliament had demanded: the non-juring priests were given a fortnight to leave the kingdom, and if they failed to avail themselves of the delay were to be transported.

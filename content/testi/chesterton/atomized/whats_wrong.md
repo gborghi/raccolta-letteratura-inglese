@@ -6015,7 +6015,7 @@ but because it will leave it so horribly the same.
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_homelessness_of_man" data-title="whats wrong — Part 1: THE HOMELESSNESS OF MAN" data-chapter="THE HOMELESSNESS OF MAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_homelessness_of_man" data-title="whats wrong — Part 1: THE HOMELESSNESS OF MAN" data-chapter="THE HOMELESSNESS OF MAN" data-kind="chapter" data-tags="concept/fear,concept/history,form/history,character/jones"></span>
 
 
 PART ONE:  THE HOMELESSNESS OF MAN
@@ -6051,7 +6051,7 @@ XI     [[Jones]] senza casa
 
 
 
-<span class="atom-split" data-atom="chapter_02_imperialism_or_the_mistake_abo" data-title="whats wrong — Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN" data-chapter="IMPERIALISM OR THE MISTAKE ABO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_imperialism_or_the_mistake_abo" data-title="whats wrong — Part 2: IMPERIALISM, OR THE MISTAKE ABOUT MAN" data-chapter="IMPERIALISM OR THE MISTAKE ABO" data-kind="chapter" data-tags="concept/empire_and_imperialism,concept/nationalism_and_patriotism,concept/common_man,form/essay"></span>
 
 
 PART TWO:  IMPERIALISM, OR THE MISTAKE ABOUT MAN
@@ -6073,7 +6073,7 @@ IV     La folle necessità
 
 
 
-<span class="atom-split" data-atom="chapter_03_feminism_or_the_mistake_about" data-title="whats wrong — Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN" data-chapter="FEMINISM OR THE MISTAKE ABOUT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_feminism_or_the_mistake_about" data-title="whats wrong — Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN" data-chapter="FEMINISM OR THE MISTAKE ABOUT" data-kind="chapter" data-tags="archetype/child,concept/education,concept/humility,concept/truth,character/queen"></span>
 
 
 PART THREE:  FEMINISM, OR THE MISTAKE ABOUT WOMAN
@@ -6145,7 +6145,7 @@ XIV    La Follia e l'[[Education|Educazione]] Femminile
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_home_home_of_man" data-title="whats wrong — Part 5: THE HOME OF MAN" data-chapter="THE Home HOME OF MAN" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_home_home_of_man" data-title="whats wrong — Part 5: THE HOME OF MAN" data-chapter="THE Home HOME OF MAN" data-kind="chapter" data-tags="motif/home,motif/well,concept/comradeship,concept/education,concept/friendship"></span>
 
 
 PART FIVE:  THE [[Home|HOME]] OF MAN
@@ -6287,7 +6287,7 @@ G. K. Chesterton.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="whats wrong — Part 1 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="whats wrong — Part 1 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/home,motif/lion,motif/nature,motif/soul,motif/well,concept/body,concept/doubt,concept/eugenics,concept/individualism,concept/madness,concept/nature,concept/poverty"></span>
 
 
 PART ONE
@@ -6408,7 +6408,7 @@ What is wrong is that we do not ask what is right.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="whats wrong — Part 1 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="whats wrong — Part 1 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/machine,motif/poison,motif/ship,motif/supernatural,motif/time,setting/ship"></span>
 
 
 * * *
@@ -6525,7 +6525,7 @@ For the man of action there is nothing but idealism.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="whats wrong — Part 1 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="whats wrong — Part 1 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/desire,motif/soul,concept/doubt,concept/education,concept/faith,concept/history,concept/self,concept/truth,form/history,histref/islam,histref/puritanism,setting/oxford,character/apollo,character/clifford"></span>
 
 
 This definite ideal is a far more urgent and practical matter in our
@@ -6637,7 +6637,7 @@ possibly believe him.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="whats wrong — Part 1 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="whats wrong — Part 1 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/road,motif/silence,concept/faith,concept/fanaticism,concept/friendship,concept/sublime,concept/truth,form/parable,setting/germany"></span>
 
 
 But indeed the case is yet more curious than this.
@@ -6760,7 +6760,7 @@ and the dead.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="whats wrong — Part 1 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="whats wrong — Part 1 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/dawn,motif/desire,motif/memory,motif/road,motif/time,motif/water,motif/winter,concept/beauty,concept/fear,concept/imagination,concept/sublime,concept/truth,form/biography,form/novel,histref/crusades,character/angelo,character/michael"></span>
 
 
 Doctrine, therefore, does not cause dissensions;
@@ -6870,7 +6870,7 @@ to look back.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="whats wrong — Part 1 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="whats wrong — Part 1 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/monster,motif/fire,motif/flag,motif/memory,motif/silence,motif/well,concept/democracy,concept/eugenics,concept/fear,concept/freedom,concept/history,concept/melancholy,form/history,histref/bible,histref/reformation,histref/renaissance,character/angelo,character/michael"></span>
 
 
 Now in [[history]] there is no Revolution that is not a Restoration.
@@ -6980,7 +6980,7 @@ a need of complete [[Freedom|freedom]] for restoration as [[Well|well]] as revol
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="whats wrong — Part 1 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="whats wrong — Part 1 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,archetype/rebel,motif/blood,motif/city,motif/clock,motif/flowers,motif/nature,motif/time,concept/courage,concept/freedom,concept/history,concept/hope,concept/humility,concept/nature,concept/truth,form/history,histref/catholic_church,histref/christianity,histref/french_revolution,histref/reformation,setting/cathedral,character/henry_viii,character/lord_chief_justice,character/monks"></span>
 
 
 We often read nowadays of the valor or audacity with which some
@@ -7117,7 +7117,7 @@ It has been found difficult; and left untried.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_08" data-title="whats wrong — Part 1 (part 8)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_08" data-title="whats wrong — Part 1 (part 8)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/hill,motif/secrets,motif/time,concept/faith,concept/history,concept/madness,concept/poverty,concept/temptation,form/fragment,form/history,histref/america,histref/french_revolution,setting/america,setting/germany,setting/russia,character/christ"></span>
 
 
 It is, of course, the same in the case of the [[French Revolution]].
@@ -7255,7 +7255,7 @@ and as new as the New Jerusalem.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_09" data-title="whats wrong — Part 1 (part 9)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_09" data-title="whats wrong — Part 1 (part 9)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,archetype/lover,motif/garden,motif/home,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/beauty,concept/democracy,concept/history,concept/nature,concept/self,form/history,form/sonnet,histref/christianity"></span>
 
 
 But in the modern world we are primarily confronted with the
@@ -7365,7 +7365,7 @@ and thence arises the family in its full educational sense.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_10" data-title="whats wrong — Part 1 (part 10)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_10" data-title="whats wrong — Part 1 (part 10)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/death,motif/home,motif/marriage,motif/moon,motif/nature,motif/night,motif/pain,motif/wind,concept/courage,concept/fear,concept/freedom,concept/nature,concept/sublime"></span>
 
 
 It may be said that this institution of the [[Home|home]] is the one
@@ -7475,7 +7475,7 @@ THE WILDNESS OF DOMESTICITY
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_11" data-title="whats wrong — Part 1 (part 11)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_11" data-title="whats wrong — Part 1 (part 11)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/dreams,motif/garden,motif/home,motif/love,motif/night,motif/sleep,motif/time,motif/well,motif/window,concept/poverty,concept/sexuality,concept/truth,setting/court"></span>
 
 
 In the course of this crude study we shall have to touch on what is
@@ -7581,7 +7581,7 @@ instructive human picture.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_12" data-title="whats wrong — Part 1 (part 12)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_12" data-title="whats wrong — Part 1 (part 12)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/fire,motif/garden,motif/nature,motif/sleep,motif/soul,motif/time,motif/water,motif/well,concept/fear,concept/history,concept/nature,concept/poverty,form/history"></span>
 
 
 I take, then, this one institution as a test.  As every
@@ -7691,7 +7691,7 @@ And this is what I have now to attempt to explain.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_13" data-title="whats wrong — Part 1 (part 13)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_13" data-title="whats wrong — Part 1 (part 13)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/animals,motif/home,motif/nature,motif/sleep,motif/time,motif/well,concept/doubt,concept/history,concept/individualism,concept/nature,form/history,histref/reformation,setting/castle"></span>
 
 
 Burke, a fine rhetorician, who rarely faced realities,
@@ -7807,7 +7807,7 @@ are studying is somewhat singular.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_14" data-title="whats wrong — Part 1 (part 14)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_14" data-title="whats wrong — Part 1 (part 14)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/golden_age,archetype/fool,motif/cross,motif/dawn,motif/dreams,motif/garden,motif/home,motif/love,motif/nature,motif/night,motif/ship,motif/spring,motif/well,concept/democracy,concept/doubt,concept/nature,concept/sublime,concept/truth,setting/ship,character/jones"></span>
 
 
 In each of the separate holes or quandaries in which the ordinary
@@ -7923,7 +7923,7 @@ and that has been refused him.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_15" data-title="whats wrong — Part 1 (part 15)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_15" data-title="whats wrong — Part 1 (part 15)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/garden,motif/marriage,motif/poison,motif/prison,motif/road,motif/time,motif/well,motif/window,concept/doubt,concept/history,concept/poverty,concept/slavery,concept/truth,form/history,histref/puritanism,setting/london"></span>
 
 
 Such an apologue is literally no exaggeration of the facts
@@ -8063,7 +8063,7 @@ il [[Desire|desiderio]] del mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="whats wrong — Part 2 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="whats wrong — Part 2 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/innocent,motif/bells,motif/desire,motif/love,motif/nature,motif/river,motif/spring,concept/imagination,concept/nature,concept/sublime,form/sketch,form/tragedy,character/david_copperfield"></span>
 
 
 PART TWO
@@ -8179,7 +8179,7 @@ of the first needs of human intercourse.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="whats wrong — Part 2 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="whats wrong — Part 2 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="topos/memento_mori,motif/dance,motif/death,motif/fire,motif/frost,motif/home,motif/love,motif/nature,motif/prayer,motif/soul,motif/well,concept/beauty,concept/body,concept/comradeship,concept/friendship,concept/hope,concept/humility,concept/nature,concept/self,concept/sexuality,histref/milton,character/jones,character/milton"></span>
 
 
 * * *
@@ -8292,7 +8292,7 @@ voice of [[Love]], seeking to destroy [[Comradeship]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="whats wrong — Part 2 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="whats wrong — Part 2 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/desire,motif/flowers,motif/love,motif/marriage,motif/soul,motif/window,concept/beauty,concept/body,concept/comradeship,concept/courage,concept/democracy,concept/friendship,histref/bible"></span>
 
 
 All true [[Comradeship|comradeship]] has in it those three elements which I have
@@ -8420,7 +8420,7 @@ he is the [[King]] of England.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="whats wrong — Part 2 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="whats wrong — Part 2 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/decay,motif/fire,motif/love,motif/night,motif/stars,motif/time,motif/well,concept/democracy,concept/self,concept/truth"></span>
 
 
 The [[Decay|decay]] of taverns, which is but a part of the general [[Decay|decay]]
@@ -8551,7 +8551,7 @@ Submission to a strong man is only servility.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="whats wrong — Part 2 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="whats wrong — Part 2 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/decay,motif/dreams,motif/home,motif/love,motif/road,motif/ship,motif/soul,motif/time,motif/well,concept/comradeship,concept/democracy,concept/freedom,concept/greed,concept/madness,concept/truth,histref/islam,setting/court,setting/ship,character/jones"></span>
 
 
 Now it can be easily shown that the thing we call aristocracy
@@ -8782,7 +8782,7 @@ Ora (per ribadire il mio titolo) questo è ciò che non va. Questa è l'enorme e
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="whats wrong — Part 3 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="whats wrong — Part 3 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/fire,motif/horse,motif/nature,motif/well,concept/conscience,concept/democracy,concept/nature,concept/truth"></span>
 
 
 PART THREE
@@ -8911,7 +8911,7 @@ as the great heathens said, a man should die.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="whats wrong — Part 3 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="whats wrong — Part 3 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/bells,motif/desert,motif/fire,motif/home,motif/horse,motif/nature,motif/time,motif/water,motif/well,motif/wheel,concept/conscience,concept/education,concept/nature,concept/wonder,form/parable,setting/court,setting/desert"></span>
 
 
 Now it is the great mark of our modernity that people are always
@@ -9065,7 +9065,7 @@ and certain things.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="whats wrong — Part 3 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="whats wrong — Part 3 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/fire,motif/home,motif/machine,motif/time,motif/water,concept/ambition,concept/doubt"></span>
 
 
 But for women this ideal of comprehensive capacity (or common-sense)
@@ -9172,7 +9172,7 @@ The French [[King]] wrote--
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="whats wrong — Part 3 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="whats wrong — Part 3 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/home,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/imagination,concept/nature,concept/truth,setting/cathedral,character/jones,character/queen_elizabeth"></span>
 
 
 but the [[Truth|truth]] is that woman always varies, and that is exactly why
@@ -9283,7 +9283,7 @@ as the ideal of thrift and the ideal of dignity.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="whats wrong — Part 3 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="whats wrong — Part 3 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/night,motif/soul,motif/time,concept/body,concept/comradeship,concept/eternity,concept/mercy,concept/nature,form/parody"></span>
 
 
 Unfortunately for this book it is written by a male, and these
@@ -9405,7 +9405,7 @@ wastes the energies that could be used on the private [[house]].
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="whats wrong — Part 3 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="whats wrong — Part 3 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/flowers,motif/nature,motif/stars,motif/time,motif/well,concept/comradeship,concept/history,concept/humility,concept/nature,concept/pride,concept/truth,form/history,form/sketch,character/queen"></span>
 
 
 As it is about feminine thrift against masculine waste,
@@ -9621,7 +9621,7 @@ ma chiaramente non era così nera come imbellettata.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="whats wrong — Part 3 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="whats wrong — Part 3 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/love,motif/marriage,motif/nature,motif/prison,motif/snow,motif/stars,motif/time,concept/doubt,concept/education,concept/friendship,concept/grotesque,concept/history,concept/nature,concept/self,concept/survival,concept/truth,concept/wonder,form/history"></span>
 
 
 But I only introduce the reader into this atmosphere of the older
@@ -9764,7 +9764,7 @@ as they do still.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="whats wrong — Part 3 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="whats wrong — Part 3 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/king,motif/home,motif/tears,motif/time,motif/well,concept/aspiration,concept/truth,setting/court,character/chorus,character/queen"></span>
 
 
 It is equally obvious that these two necessary sanctities
@@ -9885,7 +9885,7 @@ of this odd business called voting.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_09" data-title="whats wrong — Part 3 (part 9)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_09" data-title="whats wrong — Part 3 (part 9)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/king,motif/dawn,motif/death,motif/fire,motif/pain,motif/secrets,motif/well,concept/courage,concept/democracy,concept/faith,concept/fear,concept/history,concept/self,concept/slavery,form/history,histref/america,histref/reformation,setting/america"></span>
 
 
 * * *
@@ -9989,7 +9989,7 @@ all punishment is as sacred and solemn as lynching.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_10" data-title="whats wrong — Part 3 (part 10)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_10" data-title="whats wrong — Part 3 (part 10)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/tyrant,motif/blood,motif/cross,motif/death,motif/prison,motif/well,concept/democracy,concept/education,concept/truth"></span>
 
 
 * * *
@@ -10107,7 +10107,7 @@ for none ever called it fatherwit.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_11" data-title="whats wrong — Part 3 (part 11)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_11" data-title="whats wrong — Part 3 (part 11)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,archetype/monster,motif/chains,motif/cross,motif/death,motif/desire,motif/flag,motif/marriage,motif/moon,motif/silence,motif/soul,motif/time,motif/well,concept/body,concept/education,concept/freedom,concept/self,concept/suffering,concept/truth,form/tragedy"></span>
 
 
 Now anarchy is only tact when it works badly.  Tact is only anarchy
@@ -10207,7 +10207,7 @@ belong to such a [[Monster|monster]] as man that was born of a man.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_12" data-title="whats wrong — Part 3 (part 12)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_12" data-title="whats wrong — Part 3 (part 12)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/child,motif/crown,motif/death,motif/home,motif/nature,motif/silence,motif/well,concept/conscience,concept/education,concept/freedom,concept/history,concept/nature,concept/self,concept/slavery,concept/sublime,form/history,character/queen,character/queen_elizabeth"></span>
 
 
 * * *
@@ -10321,7 +10321,7 @@ of this book to expose.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_13" data-title="whats wrong — Part 3 (part 13)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_13" data-title="whats wrong — Part 3 (part 13)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/chains,motif/garden,motif/time,concept/democracy"></span>
 
 
 The Feminist (which means, I think, one who dislikes the chief
@@ -10429,7 +10429,7 @@ Fabbricano [[Chains|catene]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="whats wrong — Part 4 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="whats wrong — Part 4 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/chains,motif/death,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/education,concept/eternity,concept/eugenics,concept/self,form/novel,histref/puritanism"></span>
 
 
 PART FOUR
@@ -10552,7 +10552,7 @@ lonely as a miracle.  Every [[Child|child]] is as uninvited as a monstrosity.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="whats wrong — Part 4 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="whats wrong — Part 4 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/crown,motif/dreams,motif/nature,motif/rose,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/eugenics,concept/faith,concept/freedom,concept/nature,concept/truth,form/tragedy,histref/christianity,histref/reformation,setting/mountains"></span>
 
 
 On all such subjects there is no science, but only a sort of
@@ -10677,7 +10677,7 @@ Creed happens to be the Latin for [[Faith|faith]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="whats wrong — Part 4 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="whats wrong — Part 4 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/love,motif/poison,motif/time,concept/education,concept/freedom,concept/self,concept/truth,histref/christianity,character/fagin,character/sunday"></span>
 
 
 Now having read numberless newspaper articles on [[Education|education]],
@@ -10791,7 +10791,7 @@ and hopeless to find one for ourselves?
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="whats wrong — Part 4 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="whats wrong — Part 4 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/decay,motif/love,motif/nature,motif/secrets,motif/soul,concept/democracy,concept/education,concept/fear,concept/freedom,concept/nature,concept/truth"></span>
 
 
 I know that certain crazy pedants have attempted to counter this
@@ -10908,7 +10908,7 @@ I wish I could use it as meaning [[Education|education]] by the people.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="whats wrong — Part 4 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="whats wrong — Part 4 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/night,motif/prison,motif/well,concept/democracy,concept/education,concept/humility,concept/imagination,concept/imprisonment,concept/paradox,concept/self,histref/puritanism,setting/london,setting/russia,character/sunday"></span>
 
 
 The urgent point at present is that these expansive educators
@@ -11015,7 +11015,7 @@ In fact, there is nothing else.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="whats wrong — Part 4 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="whats wrong — Part 4 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/nature,motif/swallow,concept/democracy,concept/doubt,concept/education,concept/history,concept/nature,form/history,form/tragedy,setting/london"></span>
 
 
 There are no uneducated people.  Everybody in England is educated;
@@ -11136,7 +11136,7 @@ or lose the taste of mustard altogether.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_07" data-title="whats wrong — Part 4 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_07" data-title="whats wrong — Part 4 (part 7)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/shadow,motif/blood,motif/chains,motif/dreams,motif/dust,motif/fire,motif/flag,motif/nature,motif/time,motif/well,concept/doubt,concept/education,concept/faith,concept/humility,concept/nature,form/parable,form/tragedy,setting/london,character/aquinas,character/bottom,character/queen"></span>
 
 
 Now suppose we compare these gigantic trivialities on
@@ -11259,7 +11259,7 @@ to trace and to track a star.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_08" data-title="whats wrong — Part 4 (part 8)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_08" data-title="whats wrong — Part 4 (part 8)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/desire,motif/grave,motif/machine,motif/ship,motif/stars,motif/wheel,motif/wind,concept/common_man,concept/education,concept/unattainable,histref/french_revolution,setting/ship"></span>
 
 
 I have spoken so far of popular [[Education|education]], which began too
@@ -11384,7 +11384,7 @@ but his heart's [[Desire|desire]].
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_09" data-title="whats wrong — Part 4 (part 9)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_09" data-title="whats wrong — Part 4 (part 9)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,motif/blood,motif/city,concept/body,concept/courage,concept/democracy,concept/education,concept/history,concept/reform,concept/self,concept/truth,form/history"></span>
 
 
 Now if one may compare very small things with very great,
@@ -11503,7 +11503,7 @@ In two generations they can do the trick.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_10" data-title="whats wrong — Part 4 (part 10)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_10" data-title="whats wrong — Part 4 (part 10)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/animals,motif/decay,motif/desire,motif/love,motif/poison,motif/time,motif/water,motif/well,concept/self,concept/truth,concept/union,setting/oxford"></span>
 
 
 * * *
@@ -11635,7 +11635,7 @@ in a muck cart and the most complex blackguard in a bath.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_11" data-title="whats wrong — Part 4 (part 11)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_11" data-title="whats wrong — Part 4 (part 11)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/clock,motif/home,motif/love,motif/time,concept/charity,concept/doubt,concept/education,concept/grotesque,concept/history,concept/reform,concept/truth,form/history,histref/reformation"></span>
 
 
 There are other instances, of course, of this oily trick
@@ -11764,7 +11764,7 @@ and Socialism are two hobbies of the upper middle class.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_12" data-title="whats wrong — Part 4 (part 12)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_12" data-title="whats wrong — Part 4 (part 12)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/death,motif/dust,motif/soul,motif/time,concept/charity,concept/democracy,concept/education,concept/history,concept/truth,concept/wonder,form/history,histref/dante,character/angelo,character/christ,character/hamlet,character/michael"></span>
 
 
 These "healthy" ideals, as they are called, which our politicians
@@ -11897,7 +11897,7 @@ about being fed by the nation.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_13" data-title="whats wrong — Part 4 (part 13)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_13" data-title="whats wrong — Part 4 (part 13)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/garden,motif/home,motif/soul,motif/time,motif/water,concept/education,concept/truth,concept/unattainable,setting/oxford,character/portia,character/queen"></span>
 
 
 * * *
@@ -12016,7 +12016,7 @@ that if a thing is worth doing, it is worth doing badly.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="whats wrong — Part 5 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="whats wrong — Part 5 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/king,archetype/tyrant,motif/animals,motif/bees,motif/birds,motif/cross,motif/home,motif/insects,motif/lamb,motif/leaves,motif/lion,motif/mirror,motif/time,motif/well,motif/wind,concept/charity,concept/courage,concept/democracy,concept/doubt,concept/faith,concept/grotesque,concept/history,concept/truth,form/history,histref/french_revolution,character/edmund"></span>
 
 
 PART FIVE
@@ -12228,7 +12228,7 @@ come gli antichi Egizi.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="whats wrong — Part 5 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="whats wrong — Part 5 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/bees,motif/garden,motif/home,motif/horse,motif/insects,motif/lion,motif/love,motif/machine,motif/nature,motif/soul,motif/time,motif/well,concept/courage,concept/fear,concept/imagination,concept/loneliness,concept/nature,concept/reform,character/jones"></span>
 
 
 Maurice Maeterlinck is a man of unmistakable genius, and genius
@@ -12352,7 +12352,7 @@ by the police.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="whats wrong — Part 5 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="whats wrong — Part 5 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/child,motif/cross,motif/death,motif/hill,motif/insects,motif/nature,motif/soul,motif/well,concept/nature,concept/reform,concept/truth,histref/french_revolution,setting/court,character/chorus,character/oliver_twist"></span>
 
 
 The point it is my purpose to urge might perhaps be suggested thus:
@@ -12526,7 +12526,7 @@ revolutionize the nation.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="whats wrong — Part 5 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="whats wrong — Part 5 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/flowers,motif/insects,motif/soul,motif/spring,motif/time,motif/well,concept/eternity,concept/freedom,concept/poverty,concept/reform,concept/truth,form/lyric,form/parable,character/jones"></span>
 
 
 * * *
@@ -12657,7 +12657,7 @@ it is built wrong.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="whats wrong — Part 5 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="whats wrong — Part 5 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/rebel,motif/cross,motif/desire,motif/fire,motif/home,motif/love,motif/road,motif/soul,motif/time,concept/beauty,concept/body,concept/democracy,concept/education,concept/freedom,concept/history,concept/hope,concept/pride,concept/slavery,form/essay,form/history,form/parable,character/hamlet,character/thomas_becket"></span>
 
 
 The mob can never [[Rebel|rebel]] unless it is conservative, at least enough

@@ -6238,7 +6238,7 @@ PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Robert Browning — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Robert Browning — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/blood,motif/memory,motif/nature,concept/doubt,concept/history,concept/nature,concept/self,concept/union,form/epic,form/history"></span>
 
 
 CHAPTER I
@@ -6390,7 +6390,7 @@ Questa qualità e questo carattere effettivi della famiglia Browning mostrano un
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Robert Browning — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Robert Browning — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/lover,motif/animals,motif/blood,motif/love,motif/soul,motif/stars,motif/time,concept/body,concept/history,concept/temptation,concept/truth,form/biography,form/history,histref/wars_of_the_roses"></span>
 
 
 There is nothing valid against any of these three theories, just as
@@ -6532,7 +6532,7 @@ trattato in un modo che è un ottimo esempio del senso comune selvaggio del libr
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Robert Browning — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Robert Browning — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/fire,motif/home,motif/road,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/ambition,concept/conscience,concept/education,concept/eternity,concept/imagination,concept/paradox,concept/slavery,concept/suffering,concept/union,setting/mountains,character/caliban"></span>
 
 
 It may be [[Well|well]] therefore to abandon the task of obtaining a clear
@@ -6736,7 +6736,7 @@ di guardare i luoghi dove ella aveva camminato.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Robert Browning — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Robert Browning — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/childhood,motif/city,motif/flowers,motif/home,motif/love,motif/nature,motif/spring,motif/summer,motif/time,concept/education,concept/history,concept/nature,concept/self,concept/truth,form/history,histref/french_revolution,histref/milton,setting/italy,character/milton,character/satan"></span>
 
 
 Browning's [[Education|education]] in the formal sense reduces itself to a minimum.
@@ -6860,7 +6860,7 @@ La [[French Revolution|Rivoluzione Francese]] era in radice una cosa profondamen
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_05" data-title="Robert Browning — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_05" data-title="Robert Browning — Chapter 1 (part 5)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/birds,motif/garden,motif/nature,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/beauty,concept/nature,setting/italy,setting/london,character/queen"></span>
 
 
 Browning grew up, then, with the growing fame of Shelley and Keats, in
@@ -7052,7 +7052,7 @@ non riesce a comprendere.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_06" data-title="Robert Browning — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_06" data-title="Robert Browning — Chapter 1 (part 6)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/fool,archetype/king,motif/crown,motif/death,motif/dust,motif/flowers,motif/garden,motif/love,motif/soul,motif/time,concept/ambition,concept/beauty,concept/comradeship,concept/history,concept/imagination,concept/original_sin,concept/truth,form/fragment,form/history,form/satire,histref/renaissance"></span>
 
 
 The earliest works of Browning bear witness, without exception, to
@@ -7202,7 +7202,7 @@ La cerchia di amici di Browning, tuttavia, si allargava in quel [[Time|tempo]] i
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_07" data-title="Robert Browning — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_07" data-title="Robert Browning — Chapter 1 (part 7)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/king,motif/death,motif/desire,motif/home,motif/love,motif/night,motif/time,motif/well,concept/conversion,concept/disillusionment,concept/education,concept/faith,concept/greatness,concept/history,concept/imagination,concept/self,concept/truth,form/history,form/tragedy,setting/paris,character/queen"></span>
 
 
 It would have been hard, therefore, for Browning to have chosen a
@@ -7580,7 +7580,7 @@ tanto rapida quanto il Derby.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_08" data-title="Robert Browning — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_08" data-title="Robert Browning — Chapter 1 (part 8)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/time,concept/ambition,concept/self,form/sketch"></span>
 
 
 One of the favourite subjects among those who like to conduct long
@@ -7680,7 +7680,7 @@ europea e si offrì di cantare.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Robert Browning — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Robert Browning — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/city,motif/love,motif/nature,motif/sleep,motif/time,motif/well,concept/history,concept/nature,concept/pride,concept/vanity,form/history"></span>
 
 
 CHAPTER II
@@ -7898,7 +7898,7 @@ perché per lui erano ovvi.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Browning — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Robert Browning — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/love,motif/soul,concept/conscience,concept/history,concept/honour,concept/humility,concept/self,form/history,histref/puritanism,setting/italy,character/hamlet"></span>
 
 
 A man who is intellectually vain does not make himself
@@ -8148,7 +8148,7 @@ scrivere con l'ilarità di uno scolaretto, ma che scrisse nella sua fanciullezza
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Robert Browning — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Robert Browning — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/desire,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/nature,concept/self,concept/solitude,form/melodrama,character/christ"></span>
 
 
 _Sordello_, with all its load of learning, and almost more oppressive
@@ -8263,7 +8263,7 @@ C'è un altro punto riguardo a _Pippa Passes_ che merita un momento d'attenzione
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Robert Browning — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Robert Browning — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/garden,motif/horse,motif/love,motif/soul,motif/time,motif/window,concept/ambition,concept/doubt,concept/grotesque,concept/history,concept/mortality,concept/paradox,concept/sublime,form/history,form/lyric"></span>
 
 
 Let any one who believes in the arrogantly intellectual character of
@@ -8369,7 +8369,7 @@ La qualità effettiva, l'originalità effettiva della forma è un po' difficile 
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_05" data-title="Robert Browning — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_05" data-title="Robert Browning — Chapter 2 (part 5)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/detective,archetype/hero,archetype/lover,motif/desire,motif/love,motif/memory,motif/nature,motif/tears,motif/time,concept/ambition,concept/charity,concept/doubt,concept/grotesque,concept/history,concept/hope,concept/nature,concept/temptation,concept/truth,form/history"></span>
 
 
 The general accusation against Browning in connection with his use of
@@ -8546,7 +8546,7 @@ _A Blot on the 'Scutcheon_ seguì _The Return of the Druses_. In connessione con
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Robert Browning — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Robert Browning — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/love,motif/marriage,motif/nature,motif/spring,motif/time,concept/doubt,concept/fear,concept/freedom,concept/jealousy,concept/nature,concept/paradox,concept/pride,concept/sublime,setting/oxford"></span>
 
 
 CHAPTER III
@@ -8687,7 +8687,7 @@ Browning aveva spesso sentito parlare non solo della vita pubblica, ma anche di 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Robert Browning — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Robert Browning — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/desire,motif/love,motif/marriage,motif/nature,motif/tears,motif/time,concept/courage,concept/doubt,concept/fear,concept/forgiveness,concept/history,concept/loneliness,concept/melancholy,concept/nature,concept/renunciation,concept/self,concept/truth,concept/wonder,form/history"></span>
 
 
 Her father, Edward Moulton Barrett, had been a landowner in the West
@@ -8824,7 +8824,7 @@ Ella aveva, naturalmente, vissuto la sua seconda e reale vita nella letteratura 
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Robert Browning — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Robert Browning — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/hill,motif/love,motif/marriage,motif/nature,motif/secrets,motif/well,concept/beauty,concept/nature,concept/truth,form/parody,histref/dante,character/christ"></span>
 
 
 Then began the chief part of that celebrated correspondence which has
@@ -8951,7 +8951,7 @@ Che cosa il nostro immaginario sentimentale farebbe di questo tenero passo è da
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Robert Browning — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Robert Browning — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/desire,motif/love,motif/marriage,motif/moon,motif/time,concept/doubt,concept/friendship,concept/hope,concept/mesmerism,concept/truth,setting/london"></span>
 
 
 With regard to Browning himself this characteristic is comparatively
@@ -9058,7 +9058,7 @@ Si incontrarono il 20 maggio 1845. Poco [[Time|tempo]] dopo egli si era preso d'
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="Robert Browning — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="Robert Browning — Chapter 3 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/clock,motif/hill,motif/love,motif/nature,motif/stars,motif/summer,motif/time,concept/body,concept/fear,concept/nature,concept/self,concept/self_sacrifice,concept/truth,setting/italy,setting/mountains,character/oliver"></span>
 
 
 This may be taken as a fairly accurate description of the real state
@@ -9173,7 +9173,7 @@ Aveva, se possiamo giudicare da ciò che sappiamo di lui, il suo peculiare e alq
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="Robert Browning — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="Robert Browning — Chapter 3 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/journey,motif/leaves,motif/marriage,motif/well,concept/courage,concept/deception,concept/imagination,concept/self,concept/truth,form/comedy,form/fragment,setting/italy,setting/paris"></span>
 
 
 "The racks of the earth and the rods
@@ -9310,7 +9310,7 @@ Elizabeth Barrett cedette gradualmente sotto l'ostinata e quasi monotona asserzi
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="Robert Browning — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="Robert Browning — Chapter 3 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/nature,motif/time,concept/courage,concept/nature,concept/reconciliation,concept/truth,setting/italy"></span>
 
 
 Browning arranged the eccentric adventure with a great deal of
@@ -9372,7 +9372,7 @@ Non lo rividero mai più, e a stento poco più di una fioca eco giunse loro del 
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Robert Browning — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Robert Browning — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/fire,motif/love,motif/marriage,motif/silence,motif/soul,motif/well,concept/beauty,concept/hope,concept/longing,concept/sublime,form/hymn,setting/italy,setting/mountains"></span>
 
 
 CHAPTER IV
@@ -9508,7 +9508,7 @@ Egli era, in altre parole, ciò che si chiama un dilettante. La parola «amateur
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Robert Browning — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Robert Browning — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/love,motif/machine,motif/soul,motif/time,concept/beauty,concept/doubt,concept/fear,concept/friendship,concept/history,concept/hope,concept/truth,form/history,form/sonnet,setting/germany,setting/italy,setting/russia"></span>
 
 
 The [[Love|love]] of Browning for Italian art, therefore, was anything but an
@@ -9629,7 +9629,7 @@ E mentre da un lato della lotta stava questo grande ideale di energia e varietà
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Robert Browning — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Robert Browning — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/death,motif/fire,motif/ghosts,motif/home,motif/journey,motif/marriage,motif/night,motif/time,concept/beauty,concept/doubt,concept/exile,concept/history,concept/hope,concept/madness,concept/self,concept/truth,form/history,setting/italy,setting/paris,character/caliban,character/phantom"></span>
 
 
 Browning, as we have said, was in [[Italy]] at the [[Time|time]] of the break-up of
@@ -9793,7 +9793,7 @@ Quando Browning viveva da poco in [[Italy|Italia]], un telegramma che gli era st
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Robert Browning — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Robert Browning — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/artist,archetype/hero,motif/cross,motif/dance,motif/home,motif/love,motif/nature,motif/night,motif/pain,motif/silence,motif/time,motif/well,concept/doubt,concept/hope,concept/imagination,concept/nature"></span>
 
 
 David [[Home]], the medium, came to Florence about 1857. Mrs. Browning
@@ -9921,7 +9921,7 @@ Robert Browning era indiscutibilmente un uomo del tutto convenzionale. Molti rit
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_05" data-title="Robert Browning — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_05" data-title="Robert Browning — Chapter 4 (part 5)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/hero,archetype/lover,motif/city,motif/death,motif/desire,motif/dreams,motif/horse,motif/lion,motif/love,motif/marriage,motif/nature,motif/night,motif/time,concept/beauty,concept/friendship,concept/nature,concept/original_sin,concept/pride,concept/self,concept/truth,histref/america,setting/america,setting/italy"></span>
 
 
 Poetry deals with primal and conventional things--the hunger for
@@ -10082,7 +10082,7 @@ Un evento [[Alone|solo]] poteva davvero porre fine a questa infinita vita dell'A
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Robert Browning — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Robert Browning — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/chalk,motif/city,motif/death,motif/mirror,motif/time,concept/doubt,concept/education,concept/history,concept/poverty,concept/pride,concept/providence,concept/truth,form/history,form/lyric,form/sketch,setting/italy,setting/london,setting/paris,character/ferdinand"></span>
 
 
 CHAPTER V
@@ -10259,7 +10259,7 @@ Come è già stato suggerito, qualsiasi apparente pericolo che possa esservi in 
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Browning — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Robert Browning — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/death,motif/time,motif/well,motif/winter,concept/ambition,concept/humility,concept/pride,concept/vanity,form/epic,setting/oxford,setting/paris"></span>
 
 
 "Each life unfulfilled, you see;
@@ -10467,7 +10467,7 @@ ciò che si può chiamare un uomo dell'universo, per essere un uomo di mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Robert Browning — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Robert Browning — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/home,motif/nature,motif/poison,motif/silence,motif/supernatural,concept/conscience,concept/nature,character/mermaid"></span>
 
 
 One of his faults probably was the thing roughly called prejudice. On
@@ -10685,7 +10685,7 @@ suppongano.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Robert Browning — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Robert Browning — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/autumn,motif/death,motif/desire,motif/love,motif/memory,motif/night,motif/summer,motif/time,concept/beauty,concept/friendship,concept/self,form/lyric,form/satire,form/translation,setting/oxford,character/agamemnon,character/caliban"></span>
 
 
 Such, roughly and as far as we can discover, was the man who, in the
@@ -10881,7 +10881,7 @@ scolastico, con il suo carico di facezie.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Robert Browning — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Robert Browning — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/detective,archetype/rebel,archetype/villain,motif/blood,motif/death,motif/desire,motif/night,motif/sleep,motif/time,motif/well,concept/imagination,concept/mercy,concept/reform,concept/suicide,form/melodrama,character/chorus"></span>
 
 
 In 1871 also appeared _Prince Hohenstiel-Schwangau: Saviour of
@@ -11077,7 +11077,7 @@ Cotton [[Night]]-Cap Country.'»
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="Robert Browning — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="Robert Browning — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,motif/love,motif/nature,motif/pain,motif/prayer,motif/rose,motif/soul,motif/time,concept/conscience,concept/grotesque,concept/immortality,concept/nature,form/allegory,form/fragment,form/lyric,setting/court,character/mermaid"></span>
 
 
 Shortly before this, in 1872, he had published _Fifine at the Fair_,
@@ -11297,7 +11297,7 @@ Apple Eating».
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="Robert Browning — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="Robert Browning — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/autumn,motif/death,motif/fire,motif/grave,motif/leaves,motif/love,motif/nature,motif/night,motif/ship,motif/sleep,motif/summer,motif/time,motif/well,motif/winter,concept/body,concept/despair,concept/grotesque,concept/history,concept/nature,concept/vanity,form/history,setting/italy,setting/london,setting/ship,setting/venice,character/sunday"></span>
 
 
 Three more years passed, and the last book which Browning published in
@@ -11537,7 +11537,7 @@ giorno in cui morì fu pubblicato _Asolando_.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="Robert Browning — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="Robert Browning — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/chalk,motif/dawn,motif/garden,motif/nature,motif/well,concept/greatness,concept/nature,concept/truth,concept/vanity,form/short_story,setting/cathedral,character/caliban"></span>
 
 
 CHAPTER VI
@@ -11743,7 +11743,7 @@ diverse metriche quanti sono i diversi [[Poems|poemi]].
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="Robert Browning — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="Robert Browning — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/lover,motif/blood,motif/dreams,motif/love,motif/nature,concept/beauty,concept/doubt,concept/grotesque,concept/immortality,concept/nature,concept/truth,form/lyric,form/novel,form/sonnet,form/tragedy,histref/milton,setting/paris,character/caliban,character/milton,character/prometheus"></span>
 
 
 The great English poets who are supposed to have cared more for form
@@ -11876,7 +11876,7 @@ Browning ha patito assai più ingiustizia dai suoi ammiratori che dai suoi avver
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="Robert Browning — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="Robert Browning — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/flowers,motif/grave,motif/love,motif/nature,motif/stars,concept/doubt,concept/fear,concept/grotesque,concept/nature,concept/self,concept/sublime,concept/temptation,concept/truth,form/hymn,setting/castle,setting/germany,character/edgar"></span>
 
 
 "Up jumped Tokay on our table,
@@ -12083,7 +12083,7 @@ Una delle cose più curiose da notare intorno alla critica estetica popolare è 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="Robert Browning — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="Robert Browning — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/dust,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/nightingale,motif/soul,motif/stars,motif/time,motif/water,concept/doubt,concept/fear,concept/grotesque,concept/hope,concept/nature,concept/truth,form/fragment,form/sketch,setting/italy,character/witch"></span>
 
 
 "He is either himsell a devil frae hell,
@@ -12308,7 +12308,7 @@ Chiedersi perché Browning godesse più di ogni altro di questo stile perverso e
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="Robert Browning — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="Robert Browning — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/cross,motif/dance,motif/flowers,motif/grave,motif/horse,motif/love,motif/nature,motif/well,concept/grotesque,concept/mercy,concept/nature,concept/self,concept/wonder,setting/cathedral"></span>
 
 
 "And pitch down his basket before us,
@@ -12477,7 +12477,7 @@ Questo bizzarro tratto di Browning, la sua incapacità di tenere una sorta di di
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="Robert Browning — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="Robert Browning — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/death,motif/grave,motif/leaves,motif/love,motif/time,motif/well,concept/doubt,concept/grotesque,character/bottom"></span>
 
 
 The quality of what, can only be called buffoonery which is under
@@ -12614,7 +12614,7 @@ Questa non è sottigliezza, ma soltanto una specie di folle rapidità. Browning 
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="Robert Browning — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="Robert Browning — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/artist,motif/garden,motif/horse,motif/leaves,motif/nature,motif/night,motif/time,motif/water,motif/well,concept/beauty,concept/hope,concept/nature,concept/truth,setting/mountains"></span>
 
 
 Many who could understand that ruggedness might be an artistic
@@ -12746,7 +12746,7 @@ non significa nulla.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Robert Browning — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Robert Browning — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/city,motif/home,motif/love,motif/time,motif/well,concept/doubt,concept/eternity,form/epic,histref/dante,histref/milton,setting/london,character/milton"></span>
 
 
 CHAPTER VII
@@ -12882,7 +12882,7 @@ Possiamo vedere la cosa meglio prendendo un parallelo immaginario. Supponiamo ch
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Robert Browning — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Robert Browning — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/monster,motif/desire,motif/dust,motif/leaves,motif/night,motif/road,motif/soul,motif/time,motif/well,motif/window,concept/democracy,concept/doubt,concept/history,concept/madness,form/epic,form/fragment,form/history,form/tragedy"></span>
 
 
 In this Browning is, of course, the supreme embodiment of his [[Time|time]].
@@ -12988,7 +12988,7 @@ Questa marea dell'importanza delle piccole cose fluisce oggi così costantemente
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Robert Browning — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Robert Browning — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/detective,archetype/lover,motif/birds,motif/love,motif/nature,motif/well,concept/courage,concept/guilt,concept/history,concept/melancholy,concept/nature,concept/truth,form/epic,form/history,form/lyric,form/tragedy,character/chorus"></span>
 
 
 But this is only the first half of the claim of _The Ring and the
@@ -13129,7 +13129,7 @@ Ora Browning, quale appare in _The Ring and the Book_, rappresenta il tentativo 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Robert Browning — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Robert Browning — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/villain,motif/blood,motif/city,motif/nature,motif/road,motif/seasons,motif/time,motif/well,concept/courage,concept/history,concept/nature,concept/paradox,concept/self,concept/truth,form/epic,form/fable,form/history,form/melodrama,character/arthur,character/king_arthur,character/ulysses"></span>
 
 
 Here then we have the second great respect in which _The Ring and the
@@ -13287,7 +13287,7 @@ La concezione dell'Universo di Browning non può essere espressa meglio che nell
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Robert Browning — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Robert Browning — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/desire,motif/fire,motif/love,motif/memory,motif/prayer,motif/soul,motif/spring,motif/window,concept/body,concept/doubt,concept/faith,concept/hope,concept/immortality,concept/jealousy,concept/mercy,concept/self,concept/self_sacrifice,concept/suffering,histref/christianity"></span>
 
 
 CHAPTER VIII
@@ -13471,7 +13471,7 @@ Uno dei pochissimi critici che paiono essersi avvicinati al vero segreto dell'ot
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_01" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 1)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_01" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 1)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/love,motif/nature,motif/sleep,motif/well,concept/nature,concept/suicide,concept/truth"></span>
 
 
 book _Interpretations of Poetry and Religion_. He, in contradistinction
@@ -13602,7 +13602,7 @@ Per Browning, probabilmente il principio e la fine di ogni ottimismo si trovavan
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_02" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 2)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_02" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 2)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/fool,motif/desire,motif/home,motif/time,motif/well,concept/courage,concept/doubt,concept/faith,concept/history,concept/mercy,concept/self,concept/truth,form/history,form/satire,form/sketch"></span>
 
 
 In the delightful memoirs of that very remarkable man Sir Charles
@@ -13732,7 +13732,7 @@ Quando Robert Browning fu coinvolto in quella disputa alquanto oscura con lo spi
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_03" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 3)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_03" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 3)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/trickster,motif/desert,motif/home,motif/time,concept/fear,concept/grotesque,concept/self,concept/truth,histref/america,setting/america,setting/desert"></span>
 
 
 The general idea is that Browning must have intended "Sludge" for an
@@ -13837,7 +13837,7 @@ Dobbiamo tuttavia tornare alla questione dello svolgimento principale dell'[[Sel
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_04" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 4)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_04" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 4)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/innocent,archetype/villain,motif/desert,motif/nature,motif/secrets,motif/soul,motif/tears,concept/conscience,concept/faith,concept/fear,concept/honour,concept/hope,concept/nature,concept/pride,concept/self,concept/truth,setting/desert"></span>
 
 
 "As I [[Fear|fear]], sir, he sometimes used to do
@@ -13986,7 +13986,7 @@ Egli reagirebbe così; è uno dei tratti più artistici di Browning. Ma ciò non
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_05" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 5)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_05" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 5)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/dance,motif/death,motif/love,motif/nature,motif/soul,concept/doubt,concept/faith,concept/grotesque,concept/madness,concept/nature,concept/pride,concept/self,concept/truth,character/chorus"></span>
 
 
 When we have grasped this point about "Sludge the Medium," we have
@@ -14120,7 +14120,7 @@ Insieme a questa tendenza alla poesia fra i furfanti di Browning, si deve annove
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_06" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 6)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_06" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 6)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/cross,motif/death,motif/dreams,motif/garden,motif/home,motif/journey,motif/love,motif/marriage,motif/night,concept/education,concept/friendship,concept/grotesque,concept/history,concept/vanity,form/history,form/tragedy,histref/french_revolution,setting/italy,setting/venice,character/agamemnon,character/arthur,character/caliban,character/mermaid,character/oliver"></span>
 
 
 INDEX
@@ -14786,7 +14786,7 @@ Kipling, Rudyard, 142.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_07" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 7)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_07" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 7)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/death,motif/lamb,motif/night,motif/time,concept/immortality,form/sonnet,histref/dante,histref/milton,setting/paris,setting/russia,setting/venice,character/edgar,character/edmund,character/maria,character/milton,character/prometheus,character/queen,character/richard"></span>
 
 
 Kirkup, Seymour, 103.
@@ -15512,7 +15512,7 @@ WORDSWORTH. Di F.W.H. MYERS.
 
 
 
-<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_08" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 8)" data-chapter="Interpretations of Poetry and" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_interpretations_of_poetry_and--part_08" data-title="Robert Browning — Book 9: _Interpretations of Poetry and Religion_. He, in contradistinction (part 8)" data-chapter="Interpretations of Poetry and" data-kind="excerpt" data-tags="archetype/king,motif/crown,concept/history,form/history,setting/london,setting/oxford,character/cardinal_wolsey,character/hastings,character/henry_v,character/mowbray,character/oliver,character/richard"></span>
 
 
 MACMILLAN AND CO., LTD., [[London|LONDON]].

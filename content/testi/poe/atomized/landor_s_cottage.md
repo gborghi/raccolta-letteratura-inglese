@@ -513,7 +513,7 @@ himself—may, possibly form the subject of another article.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Landor's Cottage (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Landor's Cottage (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/night,motif/river,motif/road,motif/summer,motif/time,motif/water,motif/wheel,concept/wonder,setting/new_york,character/bottom"></span>
 
 
 A Pendant to “[[The Domain of Arnheim]]”
@@ -617,7 +617,7 @@ became brilliantly visible.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Landor's Cottage (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Landor's Cottage (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/leaves,motif/road,motif/well,concept/beauty,concept/body,concept/natural_order,concept/pride,form/melodrama,setting/mountains,character/bottom"></span>
 
 
 The first _coup d’œil_, as the sun slid into the position
@@ -712,7 +712,7 @@ hard to conceive how all this [[Beauty|beauty]] had been attained.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Landor's Cottage (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Landor's Cottage (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/animals,motif/flowers,motif/mirror,motif/road,motif/water,character/bottom"></span>
 
 
 I have spoken of two openings into the vale. From the one to the
@@ -815,7 +815,7 @@ merely outre was perceptible in any respect.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Landor's Cottage (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Landor's Cottage (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/artist,motif/flowers,motif/leaves,motif/night,motif/road,motif/spring,motif/time,motif/well,motif/window,character/bottom"></span>
 
 
 In fact nothing could [[Well|well]] be more simple—more utterly
@@ -927,7 +927,7 @@ vicinity of the main buildings.
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="Landor's Cottage (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="Landor's Cottage (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/hill,motif/road,motif/silence,motif/time,motif/window,form/novel"></span>
 
 
 I did not remain very long on the brow of the [[Hill|hill]], although long

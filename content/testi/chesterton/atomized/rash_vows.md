@@ -173,7 +173,7 @@ is over and a man is burning his ships.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="rash_vows (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="rash_vows (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/city,motif/leaves,motif/night,motif/pain,motif/time,concept/freedom,concept/imagination,setting/mountains"></span>
 
 
 # rash vows
@@ -365,7 +365,7 @@ questa è la ghignante tirannia della decadenza che si chiama [[Freedom|Libertà
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="rash_vows (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="rash_vows (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/desire,motif/flag,motif/love,motif/marriage,motif/moon,motif/soul,motif/stars,concept/aspiration,concept/greatness,concept/immortality,concept/self,concept/suicide,concept/truth,setting/mountains"></span>
 
 
 Let us turn, on the other hand, to the maker of vows.

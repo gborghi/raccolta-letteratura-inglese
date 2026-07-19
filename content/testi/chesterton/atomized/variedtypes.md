@@ -6674,7 +6674,7 @@ the colour of an Italian [[City|city]] or the [[Soul|soul]] of a silent village 
 
 
 
-<span class="atom-split" data-atom="story_01_published_september_1905" data-title="VariedTypes — Published September, 1905" data-chapter="Published September 1905" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_published_september_1905" data-title="VariedTypes — Published September, 1905" data-chapter="Published September 1905" data-kind="story" data-tags="form/essay"></span>
 
 
 PUBLISHED SEPTEMBER, 1905
@@ -6702,7 +6702,7 @@ Speaker_.
 
 
 
-<span class="atom-split" data-atom="story_02_g_k_c" data-title="VariedTypes — G.K.C." data-chapter="G K C" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_g_k_c" data-title="VariedTypes — G.K.C." data-chapter="G K C" data-kind="story" data-tags="archetype/innocent,archetype/monster,motif/chains,motif/city,motif/home,motif/love,motif/night,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/fear,concept/solitude,concept/sublime,concept/truth,form/biography,form/epic,form/fable,form/novel,form/satire,form/tragedy,histref/dante,character/jane_eyre,character/queen,character/tolstoy"></span>
 
 
 G.K.C.
@@ -7386,7 +7386,7 @@ cuore di tutte le cose e la fine del viaggio.
 
 
 
-<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_01" data-title="VariedTypes — William Morris And His School (part 1)" data-chapter="William Morris And His School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_01" data-title="VariedTypes — William Morris And His School (part 1)" data-chapter="William Morris And His School" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/cross,motif/crown,motif/fire,motif/lightning,motif/nature,motif/secrets,motif/spring,motif/time,concept/beauty,concept/doubt,concept/freedom,concept/imagination,concept/nature,concept/self,character/venus"></span>
 
 
 WILLIAM MORRIS AND HIS SCHOOL
@@ -7730,7 +7730,7 @@ famiglia in Inghilterra ha avuto il proprio gusto astutamente e proditoriamente
 
 
 
-<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_02" data-title="VariedTypes — William Morris And His School (part 2)" data-chapter="William Morris And His School" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_william_morris_and_his_school--part_02" data-title="VariedTypes — William Morris And His School (part 2)" data-chapter="William Morris And His School" data-kind="excerpt" data-tags="archetype/child,archetype/lover,archetype/monster,archetype/prophet,motif/childhood,motif/dawn,motif/death,motif/fire,motif/leaves,motif/love,motif/secrets,motif/silence,motif/spring,motif/stars,motif/time,concept/apocalypse,concept/beauty,concept/comradeship,concept/courage,concept/history,concept/honour,concept/reform,concept/self,concept/truth,form/history,setting/london"></span>
 
 
 improved, and if we look back at the early Victorian drawing-rooms it is
@@ -8102,7 +8102,7 @@ grigiore della [[Death|morte]], ma il grigiore dell'[[Dawn|alba]].
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_01" data-title="VariedTypes — Optimism Of Byron (part 1)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_01" data-title="VariedTypes — Optimism Of Byron (part 1)" data-chapter="Optimism Of Byron" data-kind="excerpt" data-tags="archetype/child,motif/birds,motif/dance,motif/death,motif/fire,motif/flowers,motif/love,motif/nature,motif/stars,concept/fear,concept/nature,concept/self,concept/truth,concept/vanity,character/chorus"></span>
 
 
 OPTIMISM OF BYRON
@@ -8450,7 +8450,7 @@ non sul fatto che biasimavano ogni cosa, ma sul fatto che
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_02" data-title="VariedTypes — Optimism Of Byron (part 2)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_02" data-title="VariedTypes — Optimism Of Byron (part 2)" data-chapter="Optimism Of Byron" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/chalk,motif/decay,motif/desert,motif/fire,motif/love,motif/nature,motif/night,motif/spring,motif/time,motif/winter,concept/beauty,concept/body,concept/despair,concept/doubt,concept/faith,concept/imagination,concept/melancholy,concept/nature,concept/truth,form/satire,setting/desert"></span>
 
 
 they praised something. They heaped curses upon man, but they used man
@@ -8798,7 +8798,7 @@ da un cappello senza aver imparato a fare il prestigiatore. Perciò, si
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_03" data-title="VariedTypes — Optimism Of Byron (part 3)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_03" data-title="VariedTypes — Optimism Of Byron (part 3)" data-chapter="Optimism Of Byron" data-kind="excerpt" data-tags="archetype/fool,archetype/prophet,motif/time,motif/well,concept/courage,concept/doubt,concept/fear,concept/paradox,concept/temptation,concept/truth,form/lyric,form/satire,character/christ"></span>
 
 
 be submitted, there was a certain discipline in the old antithetical
@@ -9174,7 +9174,7 @@ mai tocca; ed è l'uomo contro cui è diretta. L'unico
 
 
 
-<span class="atom-split" data-atom="story_04_optimism_of_byron--part_04" data-title="VariedTypes — Optimism Of Byron (part 4)" data-chapter="Optimism Of Byron" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_optimism_of_byron--part_04" data-title="VariedTypes — Optimism Of Byron (part 4)" data-chapter="Optimism Of Byron" data-kind="excerpt" data-tags="archetype/fool,motif/grave,motif/love,motif/soul,motif/storm,concept/honour,concept/madness,concept/revenge,concept/self,concept/wonder,form/satire"></span>
 
 
 person for whom the whole [[Satire|satire]] has been written in vain is the man
@@ -9570,7 +9570,7 @@ meriti, non possiamo nemmeno fargli del male.
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_01" data-title="VariedTypes — Francis (part 1)" data-chapter="Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_01" data-title="VariedTypes — Francis (part 1)" data-chapter="Francis" data-kind="excerpt" data-tags="motif/home,motif/lightning,motif/love,motif/marriage,motif/nature,motif/ship,motif/silence,motif/time,motif/well,concept/ambition,concept/eternity,concept/history,concept/melancholy,concept/mercy,concept/nature,concept/self,concept/truth,form/history,histref/christianity,setting/mountains,setting/oxford,setting/ship,character/monks,character/queen"></span>
 
 
 FRANCIS
@@ -9922,7 +9922,7 @@ il tono di un libro devozionale. Un libro devozionale è cosa eccellente,
 
 
 
-<span class="atom-split" data-atom="story_05_francis--part_02" data-title="VariedTypes — Francis (part 2)" data-chapter="Francis" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_francis--part_02" data-title="VariedTypes — Francis (part 2)" data-chapter="Francis" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/innocent,archetype/outsider,motif/animals,motif/desire,motif/fire,motif/flowers,motif/love,motif/night,motif/tears,motif/time,motif/water,concept/ambition,concept/fear,concept/history,concept/madness,concept/mercy,concept/poverty,concept/self,concept/truth,form/biography,form/history,form/sketch,form/sonnet,histref/christianity,character/christ,character/monks"></span>
 
 
 but we do not look in it for the portrait of a man, for the same reason
@@ -10298,7 +10298,7 @@ i lineamenti di un nuovo amico.
 
 
 
-<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Rostand" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_rostand" data-title="VariedTypes — Rostand" data-chapter="Rostand" data-kind="story" data-tags="archetype/hero,archetype/monster,motif/birds,motif/blood,motif/death,motif/flowers,motif/love,motif/nature,motif/pain,motif/soul,motif/stars,motif/time,concept/disillusionment,concept/faith,concept/nature,concept/self,concept/sublime,concept/truth,form/allegory,form/comedy,form/tragedy,histref/greek_tragedy,character/chorus,character/falstaff,character/oliver"></span>
 
 
 ROSTAND
@@ -10890,7 +10890,7 @@ e in un senso sacratissimo e tremendo, _Vive l'Empereur_.
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="VariedTypes — Charles II (part 1)" data-chapter="Charles II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_01" data-title="VariedTypes — Charles II (part 1)" data-chapter="Charles II" data-kind="excerpt" data-tags="motif/chains,motif/cross,motif/fire,motif/insects,motif/nature,motif/stars,motif/time,concept/madness,concept/nature,concept/paradox,concept/truth,histref/puritanism,setting/mountains,character/brutus"></span>
 
 
 CHARLES II
@@ -11238,7 +11238,7 @@ cosa senza nome, ignorata dai codici logici. La cortesia ha in verità in sé
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="VariedTypes — Charles II (part 2)" data-chapter="Charles II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_02" data-title="VariedTypes — Charles II (part 2)" data-chapter="Charles II" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/king,motif/dance,motif/nature,motif/soul,motif/tears,motif/time,concept/history,concept/nature,concept/slavery,concept/truth,form/history,histref/puritanism,histref/renaissance,setting/court"></span>
 
 
 something mystical; like religion, it is everywhere understood and
@@ -11582,7 +11582,7 @@ enumerare e ordinare tutta l'opera del maestro e distribuire lode e biasimo
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="VariedTypes — Charles II (part 3)" data-chapter="Charles II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_03" data-title="VariedTypes — Charles II (part 3)" data-chapter="Charles II" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/death,motif/grave,motif/love,motif/marriage,motif/nature,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/hope,concept/nature,concept/paradox,concept/sublime,concept/truth,setting/london,character/florizel"></span>
 
 
 with decision and even severity, without ever thinking for a moment of
@@ -11926,7 +11926,7 @@ in ciascun campo, ma per far ogni cosa troppo [[Well|bene]] in ciascun campo. Co
 
 
 
-<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="VariedTypes — Charles II (part 4)" data-chapter="Charles II" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_charles_ii--part_04" data-title="VariedTypes — Charles II (part 4)" data-chapter="Charles II" data-kind="excerpt" data-tags="archetype/child,motif/garden,motif/soul,motif/well,concept/body,histref/dante"></span>
 
 
 pirate, or Puritan, his disguises were so good that most people could
@@ -12086,7 +12086,7 @@ Baildon. Chatto & Windus.
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="VariedTypes — Thomas Carlyle (part 1)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_01" data-title="VariedTypes — Thomas Carlyle (part 1)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="archetype/prophet,motif/decay,motif/machine,motif/night,motif/soul,concept/eternity,concept/faith,concept/fear,concept/hope,concept/imagination,concept/suffering,concept/truth,form/tragedy,setting/court,character/christ"></span>
 
 
 THOMAS CARLYLE
@@ -12422,7 +12422,7 @@ Il loro difetto è che, per un'inevitabile abitudine psicologica, tendono a
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="VariedTypes — Thomas Carlyle (part 2)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_02" data-title="VariedTypes — Thomas Carlyle (part 2)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/prophet,motif/love,motif/nature,motif/soul,concept/conscience,concept/humility,concept/melancholy,concept/nature,concept/pride,concept/truth,histref/christianity,histref/puritanism"></span>
 
 
 forget that there are two parts of a logical process, the first the
@@ -12596,7 +12596,7 @@ to-day seems obliged to prove that gout and unrequited [[Love|love]] make him
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="VariedTypes — Thomas Carlyle (part 3)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_03" data-title="VariedTypes — Thomas Carlyle (part 3)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/nature,motif/road,motif/soul,motif/time,concept/courage,concept/faith,concept/history,concept/honour,concept/nature,concept/slavery,concept/truth,form/history,character/apollo,character/tolstoy"></span>
 
 
 [[Dance|dance]] with joy, and the pessimist of to-day to prove that sunshine and a
@@ -12940,7 +12940,7 @@ baionette del tutto inefficaci del Ministero della Guerra britannico. È natural
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_04" data-title="VariedTypes — Thomas Carlyle (part 4)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_04" data-title="VariedTypes — Thomas Carlyle (part 4)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="archetype/artist,archetype/king,motif/desire,motif/love,motif/nature,motif/time,motif/well,concept/history,concept/nature,concept/self,concept/truth,concept/wonder,form/fable,form/history,form/satire,character/tolstoy"></span>
 
 
 to the Jingo, for a man to kill other people with gunpowder and himself
@@ -13280,7 +13280,7 @@ che abita un angolo di un grande e buon uomo.
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_05" data-title="VariedTypes — Thomas Carlyle (part 5)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_05" data-title="VariedTypes — Thomas Carlyle (part 5)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="archetype/artist,motif/nature,motif/stars,concept/history,concept/nature,concept/procreation,concept/self,concept/vanity,form/history,histref/christianity,histref/puritanism,histref/reformation,histref/renaissance,character/christ,character/tolstoy"></span>
 
 
 It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[artist]] with
@@ -13628,7 +13628,7 @@ Ragnarök, un crepuscolo degli dèi. L'uomo del diciannovesimo secolo,
 
 
 
-<span class="atom-split" data-atom="story_08_thomas_carlyle--part_06" data-title="VariedTypes — Thomas Carlyle (part 6)" data-chapter="Thomas Carlyle" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_thomas_carlyle--part_06" data-title="VariedTypes — Thomas Carlyle (part 6)" data-chapter="Thomas Carlyle" data-kind="excerpt" data-tags="motif/city,motif/cross,motif/dreams,motif/love,motif/tears,motif/time,concept/body,concept/courage,concept/doubt,concept/history,concept/sublime,form/history,histref/christianity,character/christ"></span>
 
 
 like a schoolboy of sixteen, believes that his [[Doubt|doubt]] and depression are
@@ -14040,7 +14040,7 @@ sole si oscurò in pieno mezzogiorno.
 
 
 
-<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Savonarola" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_savonarola" data-title="VariedTypes — Savonarola" data-chapter="Savonarola" data-kind="story" data-tags="archetype/artist,archetype/hero,archetype/lover,motif/bells,motif/blood,motif/dawn,motif/horse,motif/nature,motif/pain,motif/silence,motif/soul,motif/spring,motif/summer,motif/time,motif/well,concept/beauty,concept/democracy,concept/education,concept/fear,concept/hope,concept/imagination,concept/madness,concept/nature,concept/purification,concept/slavery,concept/truth,concept/wonder,form/fragment,histref/christianity,histref/renaissance,character/angelo,character/lorenzo,character/macbeth,character/michael"></span>
 
 
 SAVONAROLA
@@ -14552,7 +14552,7 @@ che trasfigurava il cielo era l'[[Dawn|alba]] di un mondo più giovane e più sa
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_01" data-title="VariedTypes — The Position Of Sir Walter Scott (part 1)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_01" data-title="VariedTypes — The Position Of Sir Walter Scott (part 1)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/dreams,motif/night,motif/soul,motif/swallow,motif/time,concept/eternity,concept/immortality,concept/providence,concept/vanity,form/tragedy,setting/mountains,character/arthur,character/polonius"></span>
 
 
 THE POSITION OF SIR WALTER SCOTT
@@ -14888,7 +14888,7 @@ Roy intrappolato nella Tolbooth, e messo di fronte al balivo Nicol Jarvie,
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_02" data-title="VariedTypes — The Position Of Sir Walter Scott (part 2)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_02" data-title="VariedTypes — The Position Of Sir Walter Scott (part 2)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,archetype/villain,motif/blood,motif/desert,motif/love,motif/night,motif/silence,motif/time,motif/water,motif/wind,motif/window,concept/truth,setting/castle,setting/desert"></span>
 
 
 draws no [[Sword|sword]], leaps from no [[Window|window]], affects none of the dazzling
@@ -15216,7 +15216,7 @@ nel disprezzare uno qualunque dei suoi personaggi. Egli non disdegnava il più r
 
 
 
-<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_03" data-title="VariedTypes — The Position Of Sir Walter Scott (part 3)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_10_the_position_of_sir_walter_scott--part_03" data-title="VariedTypes — The Position Of Sir Walter Scott (part 3)" data-chapter="The Position Of Sir Walter Scott" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/hero,archetype/king,archetype/villain,motif/fire,motif/flowers,motif/garden,motif/soul,motif/time,motif/well,concept/ambition,concept/greatness,concept/mortality,concept/self,character/bertram,character/bottom"></span>
 
 
 miscreant as the realist of to-day commonly scorns his own [[Hero|hero]]. Though
@@ -15656,7 +15656,7 @@ confuso e indifendibile e ispirante e sano quanto lui.
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_01" data-title="VariedTypes — Bret Harte (part 1)" data-chapter="Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_01" data-title="VariedTypes — Bret Harte (part 1)" data-chapter="Bret Harte" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/rose,motif/stars,concept/imagination,concept/nature,concept/paradox,form/parable,form/parody,histref/america,setting/america,setting/london,setting/mountains"></span>
 
 
 BRET HARTE
@@ -15988,7 +15988,7 @@ aveva un reale potere di imitare i grandi autori, come nelle sue parodie su
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_02" data-title="VariedTypes — Bret Harte (part 2)" data-chapter="Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_02" data-title="VariedTypes — Bret Harte (part 2)" data-chapter="Bret Harte" data-kind="excerpt" data-tags="motif/clock,motif/dreams,motif/garden,motif/journey,motif/memory,motif/night,motif/silence,motif/stars,motif/storm,concept/ambition,concept/beauty,concept/eternity,concept/grotesque,concept/solitude,form/parody,setting/london,character/antonio,character/edgar,character/madeline,character/tony_weller"></span>
 
 
 Dumas, on Victor Hugo, on Charlotte Brontë. This means, and can only
@@ -16344,7 +16344,7 @@ viste di peggio là dentro."
 
 
 
-<span class="atom-split" data-atom="story_11_bret_harte--part_03" data-title="VariedTypes — Bret Harte (part 3)" data-chapter="Bret Harte" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_11_bret_harte--part_03" data-title="VariedTypes — Bret Harte (part 3)" data-chapter="Bret Harte" data-kind="excerpt" data-tags="motif/city,motif/desire,motif/love,motif/time,motif/well,concept/history,concept/paradox,concept/truth,form/fragment,form/history,form/satire,form/tragedy,setting/london,character/falstaff"></span>
 
 
 To be rebuked thus is like being rebuked by the Pyramids or by the
@@ -16700,7 +16700,7 @@ ancora più raro, raro fino alla mostruosità, trovare un uomo che non
 
 
 
-<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Alfred The Great" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_alfred_the_great" data-title="VariedTypes — Alfred The Great" data-chapter="Alfred The Great" data-kind="story" data-tags="archetype/hero,archetype/king,archetype/shadow,motif/blood,motif/fire,motif/moon,motif/time,motif/water,motif/well,concept/education,concept/greatness,concept/history,concept/humility,concept/self,concept/sublime,concept/truth,form/fable,form/history,histref/king_alfred,character/queen_elizabeth"></span>
 
 
 ALFRED THE GREAT
@@ -17196,7 +17196,7 @@ grande [[King|re]].
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_01" data-title="VariedTypes — Maeterlinck (part 1)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_01" data-title="VariedTypes — Maeterlinck (part 1)" data-chapter="Maeterlinck" data-kind="excerpt" data-tags="motif/city,motif/love,concept/doubt,concept/greatness,concept/temptation,concept/truth,form/parody,histref/christianity,character/christ,character/venus"></span>
 
 
 MAETERLINCK
@@ -17540,7 +17540,7 @@ qualsiasi cosa. Può essere [[A Dream|un sogno]], può essere uno scherzo, può 
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_02" data-title="VariedTypes — Maeterlinck (part 2)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_02" data-title="VariedTypes — Maeterlinck (part 2)" data-chapter="Maeterlinck" data-kind="excerpt" data-tags="archetype/prophet,motif/city,motif/desire,motif/flag,motif/silence,motif/soul,motif/time,motif/well,concept/charity,concept/courage,concept/fear,concept/humility,form/epigram,histref/renaissance"></span>
 
 
 thing of which we are certain is this human [[Soul|soul]]. This human [[Soul|soul]] finds
@@ -17884,7 +17884,7 @@ testa contro quel soffitto per vent'anni non abbia migliorato il temperamento de
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_03" data-title="VariedTypes — Maeterlinck (part 3)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_03" data-title="VariedTypes — Maeterlinck (part 3)" data-chapter="Maeterlinck" data-kind="excerpt" data-tags="archetype/tyrant,motif/desire,motif/home,motif/memory,motif/mutability,motif/silence,motif/time,motif/well,concept/courage,concept/education,concept/eternity,concept/faith,concept/imagination,concept/self,concept/sublime,concept/suffering,setting/london,character/queen,character/speed"></span>
 
 
 pictures--"an opening into [[Eternity|eternity]]."
@@ -18232,7 +18232,7 @@ spetta il merito di aver inventato un nuovo genere di monarchia; in cui la
 
 
 
-<span class="atom-split" data-atom="story_13_maeterlinck--part_04" data-title="VariedTypes — Maeterlinck (part 4)" data-chapter="Maeterlinck" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_13_maeterlinck--part_04" data-title="VariedTypes — Maeterlinck (part 4)" data-chapter="Maeterlinck" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,motif/crown,motif/death,motif/nature,concept/democracy,concept/grotesque,concept/honour,concept/hope,concept/humility,concept/mercy,concept/nature,concept/survival,form/novel,character/queen"></span>
 
 
 [[Crown]], by relinquishing the whole of that political and legal department
@@ -18480,7 +18480,7 @@ può essere compiuto fino al tramonto, la nostra vita può essere vissuta fino a
 
 
 
-<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="The German Emperor" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_the_german_emperor" data-title="VariedTypes — The German Emperor" data-chapter="The German Emperor" data-kind="story" data-tags="motif/crown,motif/desire,motif/moon,motif/ship,motif/soul,motif/stars,motif/time,motif/well,concept/body,concept/longing,setting/russia,setting/ship,character/beatrice"></span>
 
 
 THE GERMAN EMPEROR
@@ -19000,7 +19000,7 @@ minore; un poeta minore, ma pur sempre un poeta.
 
 
 
-<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Tennyson" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_tennyson" data-title="VariedTypes — Tennyson" data-chapter="Tennyson" data-kind="story" data-tags="archetype/lover,archetype/prophet,archetype/rebel,motif/birds,motif/fire,motif/flowers,motif/home,motif/love,motif/nature,motif/time,concept/faith,concept/history,concept/nature,concept/paradox,concept/resurrection,form/fable,form/history,form/lyric"></span>
 
 
 TENNYSON
@@ -19516,7 +19516,7 @@ come ogni poeta, egli fu l'apostolo della santità delle parole.
 
 
 
-<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_elizabeth_barrett_browning" data-title="VariedTypes — Elizabeth Barrett Browning" data-chapter="Elizabeth Barrett Browning" data-kind="story" data-tags="archetype/shadow,motif/birds,motif/blood,motif/city,motif/crown,motif/flag,motif/flowers,motif/love,motif/marriage,motif/nature,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/courage,concept/democracy,concept/faith,concept/friendship,concept/imagination,concept/nature,concept/self,concept/truth,form/epigram,histref/renaissance,setting/italy,setting/london"></span>
 
 
 ELIZABETH BARRETT BROWNING

@@ -592,7 +592,7 @@ or we perish.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Premature Burial (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Premature Burial (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/lover,motif/city,motif/death,motif/grave,motif/love,motif/marriage,motif/memory,motif/pain,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/despair,concept/history,concept/mortality,concept/pride,concept/resurrection,concept/suffering,concept/truth,form/fragment,form/history,histref/america,setting/america,setting/london,setting/paris"></span>
 
 
 There are certain themes of which the interest is all-absorbing,
@@ -730,7 +730,7 @@ legally, the authority of the husband.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Premature Burial (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Premature Burial (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/dawn,motif/grave,motif/horse,motif/memory,motif/night,motif/noon,motif/sleep,motif/time,motif/well,concept/body,concept/wonder,setting/london,character/sunday"></span>
 
 
 The “Chirurgical Journal” of Leipsic, a periodical of high
@@ -840,7 +840,7 @@ astonishment—may be conceived.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Premature Burial (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Premature Burial (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/memory,motif/mirror,motif/nature,motif/night,motif/pain,motif/silence,motif/sleep,motif/soul,motif/well,motif/winter,concept/imagination,concept/nature,concept/truth"></span>
 
 
 The most thrilling peculiarity of this incident, nevertheless, is
@@ -948,7 +948,7 @@ condition of absolute abeyance.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Premature Burial (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Premature Burial (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/dreams,motif/grave,motif/home,motif/nature,motif/night,motif/sleep,motif/water,motif/well,concept/body,concept/fear,concept/melancholy,concept/nature,concept/suffering"></span>
 
 
 In all that I endured there was no physical [[Suffering|suffering]] but of
@@ -1060,7 +1060,7 @@ agonies foredoomed!
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Premature Burial (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Premature Burial (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/blood,motif/dawn,motif/death,motif/garden,motif/grave,motif/home,motif/memory,motif/night,motif/pain,motif/river,motif/sleep,motif/soul,motif/storm,motif/time,concept/courage,concept/despair,concept/doubt,concept/endurance,concept/hope,concept/imagination,character/bottom"></span>
 
 
 There arrived an epoch—as often before there had arrived—in which

@@ -63,7 +63,7 @@ uno straniero per strada.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="suprise (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="suprise (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/river,motif/soul"></span>
 
 
 The [[Sword]] of Surprise  

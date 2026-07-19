@@ -216,7 +216,7 @@ the restaurant withdrew.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The_Angry_Street (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The_Angry_Street (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/clock,motif/home,motif/road,concept/doubt,setting/london"></span>
 
 
 # The Angry Street
@@ -447,7 +447,7 @@ parte non c'erano affatto colline.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The_Angry_Street (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The_Angry_Street (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/shadow,motif/death,motif/garden,motif/hill,motif/horse,motif/road,motif/silence,motif/stars,motif/time,concept/democracy,concept/honour"></span>
 
 
 "Yet it was not the wrong street.  The name written on it was the same;

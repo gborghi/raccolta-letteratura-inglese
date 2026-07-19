@@ -3817,7 +3817,7 @@ Déjà une victoire signalée vient de raviver toutes les espérances de la patr
 
 
 
-<span class="atom-split" data-atom="chapter_01_robespierre--part_01" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 1)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_robespierre--part_01" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 1)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="character/robespierre"></span>
 
 
 CHAPTER VIII. [[Robespierre|ROBESPIERRE]]
@@ -3881,7 +3881,7 @@ So in the period of which we deal there was a clear doctrine of political right,
 
 
 
-<span class="atom-split" data-atom="chapter_01_robespierre--part_02" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 2)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01_robespierre--part_02" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 2)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,character/robespierre"></span>
 
 
 We must postulate, then, of the Revolution that which Taine ridiculed, that for which Michelet lived, and that which Carlyle never grasped — the Revolutionary idea. And we must read into the lives of all the actors in that drama, and especially of the subject of this book, some general motive which is connected with the creed of the time. We must make his actions show as a consonant whole — as a man’s — and then, if possible, determine his place in what was not an anarchic explosion, but a regular, though a vigorous and exceedingly rapid development.
@@ -3913,7 +3913,7 @@ This Portrait is presumably a David, both from its style and from the fact that 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_01" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 1)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_01" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 1)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france"></span>
 
 
 CHAPTER I. THE REVOLUTION
@@ -3945,7 +3945,7 @@ It is this which necessitates and moulds the Revolution. The privileged men, the
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_02" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 2)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_02" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 2)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france"></span>
 
 
 I say, then, that the great disease of the time preceding the Revolution came from the fact that it had kept the letter and forgotten the spirit. It continued to do the same things as Europe at its best — it had entirely neglected to nourish similar motives. Let me give an extreme example. There are conditions under which to burn a man to death seems admissible and just. When offences often occur which society finds heinous beyond words, then no punishment seems sufficient for the satisfaction of the emotion which the crime arouses. Thus during the Middle Ages (especially in the latter part of their decay), and sometimes in the United States to-day, a man is burned at the stake. But there are other conditions under which a society shrinks with the greatest horror from such a punishment. Security is so well established, conviction in this or that so much less firm, the danger from the criminal so much less menacing, that the idea of such an extreme agony revolts all men. Then to burn is wrong, because it is unnecessary and undesired. But let us suppose the lawyers to be bent on a formula, tenacious from habit and become angrily tenacious from opposition, saying that what has been shall be; and what happens? The Parliament of Strasbourg condemns a man to be burnt while the States General are actually in session in 1789!
@@ -3967,7 +3967,7 @@ You could not [[Reform|reform]] such a body as the Châtelet, nor replace by a s
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_03" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 3)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_03" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 3)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,histref/napoleon,setting/france,setting/paris,character/napoleon"></span>
 
 
 As it is, the word Revolution recalls scenes almost as violent as those which marked the transition of Rome from the Republic to the Empire. We remember the name not of Condorcet but of Marat: in place of the divided Europe and complicated struggle which (on the analogy of the Reformation) should have attended a movement upon which sympathy was so evenly divided, in place of a series of long, desultory campaigns, you have a violent shock of battle between the French and every government in Europe; you have the world outlawing a people; you have, as a direct consequence of such a pressure, the creation of a focus from whose extreme heat proceeds the conquering energy of [[Napoleon]]. Blows terrible and unexpected are struck in the first four years of the war, and there appears in 1796 a portent — the sword that was not broken until it had cut down and killed the old society of the West.
@@ -3997,7 +3997,7 @@ It is of the utmost importance in studying the Revolution to appreciate this fac
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_04" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 4)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_04" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 4)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Capital was not well distributed, but at least it was not centralised as it is in our modern industrial societies. All men owned; the peasant was miserable beyond words, but his misery was not the result of an “Economic Law;” it was due to that much more tangible thing, misgovernment. The citizen was apathetic, but potentially he was vigorous and alert. If he knew nothing of the jury or of public discussion, it was the system oppressing the man, not the man creating, or even permitting, the system. In a word, the vices or the misfortunes of [[France]] were not to be traced to the character of the social system or of the national temper. They were to be found in an artificial centre, the Government.
@@ -4025,7 +4025,7 @@ The logical end of such a movement should have been the Empire — citizens all 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_05" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 5)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_05" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 5)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 In the anarchy of the dark ages the framework of intense local differences had been constructed; the village, the guild, the chapter, each had their special customs born of isolation. Finally, the spirit of secondary nationalities was powerful in many places; notably among the Germans it conquered every other tendency.
@@ -4051,7 +4051,7 @@ The peasant owned land, his roof and a few acres beside; he had been buying for 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_06" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 6)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_06" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 6)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Such men did not make the Revolution; they were the inert mass upon which it worked. They did not sing the war-songs; they did not understand the meaning of the invasions. No peasant marked the assemblies with the sense or cunning of the fields, the sound of patois was lacking in the great chorus, and as you read the Revolution you feel continually the lack of something closely in touch with Nature, because the most French of all Frenchmen had forgotten how to speak.
@@ -4079,7 +4079,7 @@ Finally, the Church, which, as we have seen, had none too firm a hold on the vil
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_07" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 7)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_07" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 7)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france,character/robespierre"></span>
 
 
 To these characters, which they brought into the Revolution, a further accident must be added. They became disfranchised. As we shall see later, the constitution of 1790, based upon the very sound principle of representing those only who supported the State, gave no provision (as it should have done) for making that support fall upon the shoulders of all. It enfranchised the great bulk of Frenchmen — over four million entered the ranks of the “Active Citizens” — but it disfranchised the very class which sat in the galleries of the Parliament or ran to the Place de Grève. The workman, living in lodgings or flats sublet, often changing his residence, rarely paid any direct tax; he alone, therefore, lost the vote to which practically every peasant was entitled. This accident (it was not planned) worked in two ways. It added to the discontent of the Parisian workman, but it also forbade his movements to take political shape. To the very last the initiative was in the hands of others.
@@ -4103,7 +4103,7 @@ He was noble whom the king had ennobled or who could prove an ancestry from the 
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_08" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 8)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_08" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 8)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france"></span>
 
 
 Now to all these, without exception, [[Reform|reform]] seemed necessary; it was only when the Revolution was in full swing that the opposition of particular bodies appeared. The peasant was in misery; the artisan was angry; the middle class, possessed of that feeling which Sieyès expressed in a phrase: “Qu’est-ce que le Tiers État? — Rien;” and they were determined to work upon the sequel: “Que doit-il être? — Tout.” To this general chorus of demand the professionals added a strong conviction (in the abstract) of the good of self-government and of the necessity for removing State interference. The noblesse, as a class, expected nothing in particular to happen, but they were not unwilling for a Parliament to meet; they also suffered from the extreme complexity, or rather anarchy, into which things had fallen. Talent saw itself wrecked by court intrigue; piety was offended by the sight of a starving priest side by side with a careless, wealthy, often irreligious member of the higher clergy. Moreover, there ran through the nobility this curious feeling — an error which you will always find in the more generous of a privileged class — namely, that in some mysterious way their special rights might be abolished and they not suffer for it — as though there were some vast sum in reserve, into which the State had but to put its hand and relieve the poor without taxing the rich. On the moral as on the material side this error obtained, and Lafayette, a man created by privilege, thought that when privilege was abolished his native virtues would lift him into the first rank.
@@ -4125,7 +4125,7 @@ While, then, the nation was fitted for action to such a degree, what was the the
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_09" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 9)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_09" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 9)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 It is the fashion to belittle this man. Something in him angers our successful and eager century, and yet but for him our century would not have taken the shape it has. It is needless to recall the movement which had preceded and which surrounded him. He did but complete the theory of the social contract; he hardly did more than repeat the conclusions of the rationalists; in the matter of economics he was entirely ignorant; he fell continually into the error of superficiality where history or where the details of institutions were concerned. A resident in England, he imagined that her people were represented; writing his famous work at Nuneham Courtenay, he could not see that the squire was everything in the little village. He had all the faults of weakness; he invited a persecution which he had not the wit to attack nor the stamina to sustain. What, then, made him such a prophet? In the first place, the power of words. All his critics in this country (with the exception of Mr. Morley perhaps) have failed to appreciate how great this power was. See what the Jacobean translation of the Bible has done in England; note what the pure rhetoric of Burke, proceeding solely from passion and untouched by any movement of reason, effected in England within a year of the fall of the Bastille: it was this that Rousseau did in [[France]]. But not this alone. If he possessed the power of words, he also had to an extraordinary degree that other quality which does not reside in style but in the texture of the mind. He could write in the pure abstract, and produce a piece of clear exposition deduced in an unbreakable chain from some fundamental dogma. He never commits the error of supposing his first principles to rely upon reason; he postulates a Faith. He allows that Faith to illumine his every sentence. He is certain that the things common to all men are the things of immeasurable importance; he is certain that the accidents of living are secondary. He is certain that our being part of all nature is the condition of happiness and of good; he is certain that the complexity of living which separates us from Nature is an evil, and to a [[France]] tortured with age he proposes this simple water of youth: that it should return to the first conditions of a small hamlet; where the families met together dictate the law; where each sees himself to be a part of the whole, and where the harmony that all men sought comes easily to an ideal democracy hidden in happy valleys. It is idle to argue that complexity was there; that [[France]] could not have at once the patriotism of twenty million, and the institutions of a hundred, hearths. Every one saw that difficulty, and in the midst of ‘94 the most fervent apostles of Rousseau compromised on the chief point, for the principle of election, which he hated, remained of necessity the chief method in their scheme of democracy.
@@ -4145,7 +4145,7 @@ This brain, which is necessary to a complex organism, might have been found in a
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_10" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 10)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_10" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 10)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 The truth is that no definite system can escape attendant evils, and that if one nation does not adopt the methods that have succeeded in another it is because those methods are connected with instinct, and instinct can neither be taught nor adopted.
@@ -4171,7 +4171,7 @@ Such will be the phases through which the form of the Revolution will pass. As f
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_revolution--part_11" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 11)" data-chapter="THE REVOLUTION" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02_the_revolution--part_11" data-title="Danton: A Study — Chapter 1: THE REVOLUTION (part 11)" data-chapter="THE REVOLUTION" data-kind="excerpt" data-tags="concept/reform,histref/napoleon,setting/france,setting/paris,character/napoleon"></span>
 
 
 What place did Danton take in this transformation? Of his opinions in detail, his habit of body and mind, his convictions, the accidents of his life, it is the purport of this biography to treat. I will attempt only a very brief description of his position, to make clear the drift of his Revolutionary career, and with this close a chapter whose only object has been to describe the surroundings of a character with which the rest of this book is concerned.
@@ -4205,7 +4205,7 @@ He failed. The extreme theorists whom he despised had captured his dictatorship,
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_01" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 1)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_01" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 1)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 CHAPTER II. THE YOUTH OF DANTON
@@ -4235,7 +4235,7 @@ As to fortune, we do not accurately know the amount of the family income during 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_02" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 2)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_02" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 2)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 His mother was of a somewhat lower rank. She was the daughter of a builder from the Champagne, and her brother was a master-carpenter of the town. Of her two sisters, one had married a postmaster and the other a shopkeeper, both in Troyes; her brother was the priest of Barberey, near Arcis.
@@ -4267,7 +4267,7 @@ In 1780 — his twenty-first year17 — he entered the office of a solicitor at 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_03" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 3)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_03" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 3)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 He was called to the bar (a process in the same form as taking a degree) in 1785,19 choosing, with provincial patriotism, Rheims as the place in which formally to join the profession; but he intended to practise in the capital, and returned thither at once.
@@ -4289,7 +4289,7 @@ For the next two years his forensic reputation is continually rising. No longer 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_04" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 4)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_04" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 4)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt" data-tags="histref/napoleon,setting/france,character/napoleon,character/robespierre"></span>
 
 
 The last case (that of De Montbarey) shows us Danton defending the claims of an old house and at work in the rustiest of all the legal grooves. It had been on the stocks since 1657, and Danton, in attempting to give the quietus to this intolerable longevity, uses a phrase which shows us the feeling that spared one grave at least when the mob sacked St. Denis: “Jeanne d’Albret24 is a name dear to all Frenchmen, for it recalls the memory of that other Jeanne d’Albret who was the mother of Henri IV.”
@@ -4323,7 +4323,7 @@ He possessed a singularly wide view of the Europe in which [[France]] stood. In 
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_05" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 5)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03_the_youth_of_danton--part_05" data-title="Danton: A Study — Chapter 2: THE YOUTH OF DANTON (part 5)" data-chapter="THE YOUTH OF DANTON" data-kind="excerpt" data-tags="setting/france,character/robespierre"></span>
 
 
 He was fond of wide reading, and his reading was of the philosophers; it ranged from Rabelais to the physiocrats in his own tongue, from Adam Smith to the “Essay on Civil Government” in that of strangers; and of the Encyclopædia he possessed all the numbers steadily accumulated. When we consider the time, his fortune, and the obvious personal interest in so small and individual a collection, few shelves will be found more interesting than those which Danton delighted to fill.31
@@ -4341,7 +4341,7 @@ Weighted with these conditions he enters the arena, supported by not quite thirt
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_01" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 1)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_01" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 1)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER III. DANTON AT THE CORDELIERS
@@ -4367,7 +4367,7 @@ There is one matter in these pre-revolutionary months which is of no very great 
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_02" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 2)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_02" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 2)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="motif/prison,concept/reform,setting/france,setting/paris"></span>
 
 
 As to the precise date of the offer, how far it was pressed, or how seriously it was made, we can have no exact knowledge. But it seems to me unwise to reject so characteristic an anecdote, and one which fits in so well with Danton’s known position, merely on the somewhat strained theory that documentary evidence alone should be admitted in history, and documentary evidence sifted by the rules of a rigid cross-examination.37
@@ -4391,7 +4391,7 @@ The mention, however, of the districts of Paris, and especially of that which co
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_03" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 3)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_03" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 3)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="motif/blood,concept/reform,setting/france,setting/paris"></span>
 
 
 If you stood in the Cour du Commerce in Danton’s time, and looked north to where his house made the corner of the narrow entry, you would have seen a main street only a trifle broader than the court, and running at right angles. Standing in the mouth of the narrow passage, you would have seen on the other side of the main street, and a hundred yards up it, a little fifteenth-century turret, capped with a pointed slate roof and jutting outward on round supports.43 This was the extreme angle of an old convent called the Cordeliers.44 Here the Franciscans had settled in St. Louis’s time, five hundred years before, but the walls you would have seen were not of the thirteenth, but rather of the early fourteenth century, while the church which flanked the street was of the sixteenth, and additions had been made of all periods. As you came out of the Cour du Commerce and went up the street, you would have the convent running all along the opposite side, from the little turret on the corner to the church of St. Come in the Rue de la Harpe, save where it was interrupted by private houses, and where it was broken in one place by a little lane leading to the hall of the University College, which the convent supported. Like so many great foundations, this rich place was in full decay, and the vaulted hall, with its dim light and resonant echoes, was given over to the meeting of the district, and later to the thunder of the voice that threw back the armies of Europe. Alone of all the mediæval buildings of the Cordeliers this hall remains to-day as the Musée Dupuytren.
@@ -4407,7 +4407,7 @@ As for his politics, he was centred wholly on the outward thing. He seems to hav
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_04" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 4)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_04" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 4)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/paris"></span>
 
 
 On the 24th of January 1789, the Primaries were convened. It was the opportunity for movement, in [[Paris]] especially, since it was the first definite action after so much discussion, attention, and fever. The district of the Cordeliers met in the hall of which so much mention has been made above. But there does not seem to have been anything of importance transacted, unless we call this important; I mean the beginnings of the habit of reunion and of open discussion. For three months the place seems to have had its doors open to the first comer of the quarter. The cahier was drawn up here, and the rough foundations of what was to be the famous permanent survival of the “République des Cordeliers” were laid. But of Danton’s part in all this we have, as I have said above, no trace. We can only conjecture and infer.
@@ -4427,7 +4427,7 @@ All this pamphleteering, discussion, violence, salonising, oratory, and anxious 
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_05" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 5)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_05" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 5)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="histref/napoleon,setting/paris,character/napoleon"></span>
 
 
 [[Paris]], and especially the Palais Royal, had been watching the struggle at Versailles with gathering anger. There, twelve miles off, every purpose for which the Parliament had met, and every good thing which the elections had seemed to ensure, lay in jeopardy. Step after step the Commons had in fact, though not in their phrases, been beaten, and the promises of six months before seemed in danger, not through any known or calculable enemy, but from the sudden appearance of an opposition which the nation, and especially [[Paris]], had ignored. The King had retreated from his position of the last December, and the privileged orders were sympathising with a growing reaction. How far all this was due to the unconstitutional and unprecedented action of the Commons in insisting on a General Assembly cannot be discussed here. Suffice it to say that, in the opinion of the nation, the new departure of the Commons was in thorough accordance with the spirit, if not with the letter, of the recent decrees; the King was held to have broken his word, and the privileged orders to have abandoned their declarations in the face of facts. The symbol, though a poor one, of the constitutional position was the personality of Necker. Conceited, foreign, and common-place, the father of an authoress whom neither [[Napoleon]] nor posterity could tolerate, Genevese and bourgeois to the backbone, this mass of impotence yet stood, by one of the ironies of history, in the place of an idol. He, the banker, was the imagined champion for the moment of that other man from Geneva, who had died of persecution ten years before, the tender-eyed, wandering, unfortunate Rousseau, between whom and him was the distance between a financier and an apostle.
@@ -4445,7 +4445,7 @@ The Cordeliers were in the attack, and presumably Danton also, since all the wor
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_06" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 6)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_06" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 6)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 I have spoken of an armed force and a patrol: it is in this connection that the meaning of the days of July — for Danton and for the Revolution — must be considered. They form above all a municipal [[Reform|reform]]. Those towns of which I have spoken as being the bond of [[France]] harked back suddenly to their primitive institutions, and were organising communal government. [[Paris]] of course was the leader. Even before the taking of the Bastille, the districts had in some cases maintained their electoral colleges as a permanent committee, and these electoral colleges met at the Hotel de Ville, forming a rough government for the two nights of the revolt, and finally directing the whole movement. Such a body was of necessity too large to work. But its plans were rapidly formed. They named a committee, which was formed of electors with one citizen (not an elector) added. They invited and obtained the aid of the permanent officers of what had once been the old dying and corrupt corporation, and they thus had formed an irregular but sufficient organ of government for the city. It was not confirmed from above, nor had it, for days, any authority from the King, but it reposed on a force which was admitted in the theory of those times to be the source of power, for it was composed of men elected by the new suffrage. They had been elected for another purpose, but they were the only popular representatives present at all in [[Paris]].
@@ -4465,7 +4465,7 @@ Thirdly, the victory, or rather the act of Paris, changed and weakened the oppos
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_07" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 7)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_07" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 7)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris,character/robespierre"></span>
 
 
 Fourthly (and perhaps this is the most important point), that municipal movement, of which mention has been made above, took its rise directly from the 14th of July. The towns hear of Necker’s dismissal and of the Parisian rising by the same courier, and in a week or ten days the story is repeated all over [[France]]. Rouen, Lyons, Valence, Montpellier, Nîmes, Tours, Amiens (to cite but a few of the more prominent examples), organise a new town government. Sometimes the old hereditary or appointed body is deposed, more often it is enlarged by the addition of the electoral college of the city; occasionally it takes upon itself the task of adding to itself representatives of the three orders. Again, the towns arm themselves as [[Paris]] did; and finally, by what a contemporary called “spontaneous anarchy,” the whole network of cities has received the pulse and vibration of [[Paris]]; the National Guards are being drilled in thousands; the rusty, confused, and broken machinery of the ancien régime is replaced by a simple if rough system of local government. Moreover, since all this has been done by the people themselves, and without a command or a centralised effort, since it is natural and not artificial, it has entered into the body of the Revolution and cannot be undone.
@@ -4483,7 +4483,7 @@ I cannot leave what has already grown to an over-lengthy description of their po
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_08" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 8)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_08" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 8)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 Against all this the Cordeliers set their face. Such a partial conception of the State was the enemy of that ideal by which they lived and which has formed the Republic in [[France]] and the Jeffersonian democracy in America. Only four days after the King had worn his tricolour cockade, smiling on the balcony of the Hotel de Ville, they issue and print a resolution to use the armed force of their district at its own discretion; they do not (of course) claim to act further, but they determine to be themselves the police which shall conduct prisoners to the tribunals.51 At the close of 1789, and especially in the succeeding year, we shall find them in the affair of Marat, of Danton’s election, of the Mandat Imperatif, and of the Châtelet continually acting in the spirit of local autonomy, and refusing to admit any central authority save that of the whole people — bowing after every revolt to the Assembly, but refusing to admit the bourgeois power.
@@ -4501,7 +4501,7 @@ This ring of courtiers, who were Louis’s evil fates, had a certain quality tha
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_09" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 9)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_09" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 9)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/paris"></span>
 
 
 What is the effect? That the King, always honestly intending the [[Reform|reform]], always hesitates a little too long, with doubts that are often intellectual in origin and sometimes wise in their nature, but foolish at the moment. He hesitates to sign the decree of the 4th of August;52 he hesitates about this and that expression in the Declaration of rights. He has a very strong reluctance to forego the absolute veto; all through September you can hear the machinery creaking, and it gets worse as the autumn advances.
@@ -4521,7 +4521,7 @@ The struggle as it continues becomes of greater importance, until, within four m
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_10" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 10)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_10" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 10)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 We have described above the various forces that were fatally converging to form the whirlpool of October — the hesitancy of the King, the desperate intrigues of the Court, the intense political excitement of the Palais Royal and of the electors in [[Paris]], the growing misery of the populace. We have pointed out how the Cordeliers, with their popular audience and popular sympathies, were at once the only great debating place in [[Paris]] and the only spot where the forces of voters and non-voters could join hands. Add to this the effect of the protest described above and of the position such a struggle gave them in the democratic movement, and their importance in the days of October becomes evident.
@@ -4539,7 +4539,7 @@ With the King, then, at the Tuilleries, with the Assembly some three hundreds ya
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_11" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 11)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_11" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 11)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The quarrel which was sketched earlier in this chapter, the assault of the district upon the Moderates, continued throughout the autumn and winter. Four times running Danton is elected President,57 and it is under his guidance that the affair proceeds. While the Assembly are making a new [[France]] at the Manège, organising the departments,58 fixing the restricted suffrage,59 creating the communes over all [[France]],60 the Cordeliers are making the spirit of a new [[Paris]] on the hill over the river; this spirit will conquer and transform the debaters in the Parliament.
@@ -4557,7 +4557,7 @@ The Commune took its defeat ill. They tried to prove that the old members had no
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_12" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 12)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_12" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 12)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 My readers must excuse so detailed an account of an event which is empty of picturesque detail and which is so small a part of that fertile winter. From the point of view of general history it is the first appearance of the Mandat Imperatif in action; and from the point of view of Danton’s rôle in the Revolution it is of the utmost importance, though it is so insignificant a catalogue of quarrels. It was Danton’s first victory, and it was decisive. It put a wedge, as it were, into the gate that he was forcing open by persistent effort; and though his final position in the administration of [[Paris]] is won after many further failures, it is a direct consequence of this success in 1789. At the same time it showed that a young, loud-voiced lawyer of the middle class could have that one necessary quality of skill lying under the coarse exterior; he could play the game with the subtlety of appreciation which was so necessary in the terrible year of invasion, the keen aptitude of the mind which the visionaries were too unpractised, the demagogues too brutal to attain. That aptitude had appeared in Danton’s pleading, and was to make him during the war a man necessary to [[France]].
@@ -4575,7 +4575,7 @@ The principal object of Marat’s tirades was the moderate town council, and esp
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_13" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 13)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_13" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 13)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 Marat, on the 12th of that month, was hunted out of his retreat, and brought before a lower court, but so confused were the powers of the Châtelet in this period of its [[Reform|reform]] and extinction that the prosecution was dropped. Emboldened by this failure on the part of his opponents, he came to live and print his sheet openly in the Rue des Fossés St. Germains — that is, in the midst of the district of the Cordeliers. What followed is well known. At a moment when the struggle between the district and the Hotel de Ville is at its height, just after the scene in which Danton’s deputation had protested against the mayor’s commission to the militia officers, while the insulting irony of the term “my lord” was still ringing in Bailly’s ears, and when Danton himself had been actually elected for the district, and was present in the Municipality on the point of taking the oath — when all these causes of quarrel were, so to speak, met in one date, the Moderates determined to strike. Marat was pouring out his impossible diatribes from the territory of the rebellious district, and no opportunity could be more favourable. The Châtelet issued once more the warrant for his arrest, and this time it was supported by Lafayette, who promised to lend four thousand of the National Guard.
@@ -4593,7 +4593,7 @@ Now, since that date the Assembly had passed several important changes in the cr
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_14" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 14)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_14" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 14)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Danton affirmed that the writ was illegal, offered to prove it, and led the officers of the Châtelet to the hall of the district. There he had the new procedure read to them, compared it with the date of their warrant, and so confused the minds of those simple men that they signed a procès-verbal which declared that, after hearing such reasons, they doubted how they should act. They came back escorted by Fabre d’Eglantine through an angry crowd, and were received by the officers of the National Guard with some heat. They stood firm, however, and refused to pursue the arrest until they could consult with those who sent them, and finally the difficulty was removed by Danton’s promising to appeal to the National Assembly and to abide by its decision. The terms were accepted, the sentries left Marat’s door, and the troops withdrew.
@@ -4613,7 +4613,7 @@ Danton came, then, with Legendre and the three others into a city Council very m
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_15" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 15)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_15" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 15)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/paris"></span>
 
 
 In the eight months during which he was a member of the Provisional Commune, that is, from January to September 1790, his name appears in the debates but a dozen times.71 More than half of these are mention of committees upon which his common-sense and legal training were of service; in one only, that of February 4, does he speak on a motion, and that is in support of Barré to admit the public when the oath was taken: one other (that on the 19th of March concerning the formation of a “grand jury”) would be interesting were it not that the whole gist of the debate was but a repetition of the much more significant discussion at the Cordeliers. Finally, there is one little notice which is half-pathetic and half-grotesque: he is one of the committee of twenty-four charged with the duty of “presenting their humble thanks, with the mayor at their head,” to the King for giving the municipality a marble bust of himself. But every entry is petty and unimportant: Danton at the Provisional Municipality of 1790 is deliberately silent — he can do nothing.
@@ -4633,7 +4633,7 @@ An appeal was lodged with the National Assembly, and Anthoine read a long report
 
 
 
-<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_16" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 16)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04_danton_at_the_cordeliers--part_16" data-title="Danton: A Study — Chapter 3: DANTON AT THE CORDELIERS (part 16)" data-chapter="DANTON AT THE CORDELIERS" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 But while this business was drawing to its close, during the very months of April and May which saw his partial vindication, another and a far more momentous business was occupying the Cordeliers — a matter in which they directed all their energy towards a legal solution, but in which, unfortunately for the city, they failed.
@@ -4655,7 +4655,7 @@ If I may repeat a common-place that I have used continually in this book, the ti
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_01" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 1)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_01" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 1)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="concept/reform,histref/french_revolution,setting/france,setting/paris"></span>
 
 
 CHAPTER IV. THE FALL OF THE MONARCHY
@@ -4673,7 +4673,7 @@ Let me recapitulate and define the problem which, as it seems to me, can be solv
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_02" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 2)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_02" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 2)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 There are, then, in the story of the Revolution these two phases, so distinct that their recognition is the foundation of all just views upon the period. In the first, the leaders of the nation are bent upon practical reforms; the monarchy is a machine to hand for their accomplishment; the sketch of a new [[France]] is drawn, the outlines even begin to be filled by trained and masterly hands. Phrases will be found abundantly in those thirty months, because phrases are the christening of ideas, and no nation of Roman training could attempt any work without clear definitions to guide it. But these phrases, though often abstract in the extreme, are never violent, and the oratory itself of the National Assembly is rarely found to pass the limits which separate the art of persuasion from the mere practice of defiance.
@@ -4697,7 +4697,7 @@ It may be well, at the expense of some digression, to say why the laws affecting
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_03" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 3)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_03" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 3)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="motif/prison,concept/reform,setting/france,setting/paris"></span>
 
 
 It is a common accusation that the Revolution committed the capital sin of being unhistorical. Taine’s work is a long anathema pronounced against men who dared to deny the dogmas of evolution before those dogmas were formulated. Such a criticism is erroneous and vain; in the mouths of many it is hypocritical. The great bulk of what the Revolution did was set directly with the current of time. For example: The re-unison of Gaul had been coming of itself for a thousand years — the Revolution achieved it; the peasant was virtually master of his land — it made him so in law and fact; Europe had been trained for centuries in the Roman law — it was precisely the Roman law that triumphed in the great [[Reform|reform]], and most of its results, all of its phraseology, is drawn from the civil code. But in this one feature of the constitution of the clergy it sinned against the nature of [[France]]. Of necessity the Parliament was formed of educated men, steeped in the philosophy of the time, and of necessity it worked under the eyes of a great city population. In other words, the statesmen who bungled in this matter and the artisans who formed their immediate surroundings were drawn from the two classes which had most suffered from the faults of the hierarchy in [[France]].
@@ -4719,7 +4719,7 @@ While these future divisions were preparing, during the rest of the year 1790 Da
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_04" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 4)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_04" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 4)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The failure of his policy, the check which had been given to the Cordeliers, and the uselessness of their protests on the 1st, 2nd, and 3rd of July, had a marked effect upon the position of Danton even in his own district. He had been president when they were issued, and his friend D’Eglantine had been secretary. One may say that the policy of resistance was Danton’s, and that but for his leadership it would have been unheard. Hence, when it has notoriously failed, that great mass of men who (when there is no party system) follow the event, lost their faith in him.
@@ -4745,7 +4745,7 @@ There followed another check in which he showed once more his power of self-cont
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_05" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 5)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_05" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 5)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Unfortunately the new constitution of [[Paris]] had been provided with one of those checks whose main object it is to interfere with direct representation. The choice of each Section was submitted to the censure or the approval of all the others. It is by the judgment which they pass that we can best judge the suspicion in which he was held by the great bulk of his equals. A regular campaign was led against him. The affair of Marat was dragged up, especially the warrant for Danton’s arrest which the Châtelet had issued six months before. That very favourite device in electioneering, the doubt as to real candidature, was used. The voter, not over-well informed in a detail of law (especially at a time when all law was being re-modelled), was told that the warrant made Danton’s candidature illegal. They said he was sold to Orleans, because he had haunted the Palais Royal and because he hated Lafayette. The character of demagogue — the one thing he desired to avoid — was pinned to his coat, and alone of all the Notables he was rejected by forty-three Sections (five only voting for him) in the week between the 9th and the 16th of September.77
@@ -4777,7 +4777,7 @@ Yet Danton’s harangue was moderate and sensible. There is, indeed, one passage
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_06" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 6)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_06" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 6)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris"></span>
 
 
 For the rest, he is continually insisting upon the right of the Parliament to govern — the right, above all, of a representative body to dismiss a ministry. He had in this, as in certain other matters, a very English point of view, and certainly the arguments he used were able. But he was interrupted continually, and we get, even in the dry account of the Moniteur, a good picture of what the scene must have been like —
@@ -4813,7 +4813,7 @@ A sign of this appeasement in the violence of the time (a movement, by the way, 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_07" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 7)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_07" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 7)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="concept/reform,setting/france,setting/paris,character/robespierre"></span>
 
 
 He did not, however, come often to the Council — to less than a quarter of its sittings, at the most; moreover, the men who composed it still looked upon him with suspicion; and when, on the 4th of May, the committees were drawn up, his name was omitted. He asked on the next day to be inscribed on the committee that contained Sieyès, and his request was granted.
@@ -4847,7 +4847,7 @@ On the other hand, those of the National Guard who obeyed Lafayette87 could not,
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_08" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 8)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_08" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 8)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Meanwhile, what had occurred at the Hotel de Ville? The testimony is contradictory and the whole story confused, but the truth seems to have been something of this kind. Lafayette certainly called on the administration of the Department and asked for martial law. Bailly as certainly was willing to grant it. Danton was called from his rank and came to oppose it; but did he end the matter by his speech? Camille Desmoulins88 says so, and draws a fine picture of Danton carrying the administration with him, as he carried the club or the street. But Desmoulins is often inaccurate, and here his account is improbable. Danton’s own note of the circumstance (which he thought worthy of being pinned to his family papers) runs: “I was present at the Department when MM. the commandant and the mayor demanded martial law.” Nothing more.
@@ -4873,7 +4873,7 @@ These were the reasons that made him hesitate at this date. A man understanding 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_09" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 9)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_09" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 9)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 When Louis was known to have fled, and when [[Paris]], vigilant beyond the provinces, and deceived by the declaration of April, had undergone its first wave of passion, the word Republic began to be spoken out loud. The theorists found themselves for once in accordance with public humour; and against the keenness, if not the numbers, of those who petitioned for the deposition of the King on his return, there stood two barriers — the Assembly and the moderate fortunes of the capital. Danton lived with the former, thought with the latter, and was all but silent.
@@ -4903,7 +4903,7 @@ Here is Danton at the Jacobins, sitting by Desmoulin’s side; he goes to the tr
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_10" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 10)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_10" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 10)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 This is clear enough in all conscience to show what was Danton’s main pre-occupation in the days of June 1791. And if, upon the other hand, you will turn to Lafayette’s Memoirs, the third volume, the 83rd and following pages, you will find that Danton was Lafayette’s pre-occupation, and that he makes this moment the occasion to deliver the most definite and (luckily) the most demonstrably false of his many accusations of venality. He tells us that he could not reply because it would have “cost Montmorin his life;” that Montmorin “had the receipt for the 100,000 francs;” that Danton had been “reimbursed to the extent of 100,000 francs for a place worth 10,000,” and so forth. We know now exactly the amount of compensation paid to him and his colleagues at the court of appeal,98 and we know that Lafayette, writing a generation later, animated by a bitter hatred, and remembering that somebody had paid Danton something, and with his head full of vague rumours of bribing, has fallen into one of those unpardonable errors common to vain and vacillating men. But at this juncture the main point that should be seized is that Danton was taking the opportunity of the King’s evasion to attack Lafayette with all his might, and that a generation later the old man chiefly remembered Danton as leading the popular anger which the commander of the guard thought himself bound to repress. It is this that will explain why Danton, who so carefully avoided giving the word for the Republican “false start,” was yet marked out, fled, and returned to lead the opposition.
@@ -4923,7 +4923,7 @@ He had left [[Paris]] at once when he saw that Lafayette had practically absolut
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_11" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 11)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_11" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 11)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 It would be of the utmost interest to know how he passed those thirty or forty days. Unfortunately there is no direct evidence as to whom he met or what negotiations he entered into. As to his English acquaintances, his letters from Priestley and Christie, the relations he had with Talleyrand, and their common diplomacy for the English alliance — all these properly belong to Danton in power, the minister directing [[France]] after August 1792, and it is in that place that they will be dealt with. Of historical events in his voyage we have none, and there is no more regrettable gap in the very disconnected series of ascertained facts concerning him.
@@ -4953,7 +4953,7 @@ As to the first, it came with his moderate but important success in the municipa
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_12" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 12)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_12" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 12)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/robespierre"></span>
 
 
 His candidature for the principal position was cordially supported by the Cordeliers, but the Jacobins were divided, and they hesitated. Manuel was elected, and Danton obtained only the third place. This vote, however, was not decisive, and there was a second ballot on December the 2nd. In this Manuel was definitely elected.
@@ -4977,7 +4977,7 @@ This club was now definitely the organ of the left. It was after Danton had been
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_13" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 13)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_13" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 13)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 In March and April, the months when the war was preparing and was declared, he was silent. And we can understand his silence when we turn to his speech in the Commune when he was given office. He alludes to the false character given him; he speaks of the reputation which his past actions in [[Paris]] had given; he says things that indicate a determination to play the part of a Moderate, and to see whether in his case, as in that of so many others, there would not be permanence in the compromise of the last six months. But there rankled in his mind the insults of the men with whom he sat, Condorcet’s disavowal in his paper of so much as knowing Danton, and he made a peroration which at the time offended, but which possesses for us a certain pathos. “Nature gave me a strong frame, and she put into my face the violence of liberty. I have not sprung from a family which was weakened by the protection of the old privileges; my existence has been all my own; I know that I have kept and shown my vigour, but in my profession and in my private life I have controlled it. If I was carried away by enthusiasm in the first days of our regeneration, have I not atoned for it? Have I not been ostracised?... I have given myself altogether to the people, and now that they are beyond attack, now that they are in arms and ready to break the league unless it consents to dissolve,109 I will die in their cause if I must, ... for I love them only, and they deserve it. Their courage will make them eternal.”
@@ -4995,7 +4995,7 @@ On the 18th of June he found the old phrases against Lafayette at the Jacobins. 
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_14" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 14)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_14" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 14)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 A week later Lafayette appeared. He demanded the right to use the army, and July opened with the certainty of civil war.
@@ -5027,7 +5027,7 @@ It was on a Paris thus enfevered, doubtful, nursing a secret insurrectionary pla
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_15" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 15)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_15" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 15)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “(3) That the combined armies will protect all towns, boroughs, and villages, and the persons and goods of all those that will submit to the King, and that they will help to re-establish immediately the order and police of [[France]].
@@ -5061,7 +5061,7 @@ Danton went to Arcis and settled an income on his mother in case of his death, c
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_16" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 16)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05_the_fall_of_the_monarchy--part_16" data-title="Danton: A Study — Chapter 4: THE FALL OF THE MONARCHY (part 16)" data-chapter="THE FALL OF THE MONARCHY" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Meanwhile the King had gathered in the Tuilleries about 6000 men, and depended very largely upon the thick mass of wooden buildings in the Carrousel for cover. The Swiss Guard, whom the decree had removed, were only as far off as Rueil, and were ordered into [[Paris]], over 1500. They were the nucleus, and with them some 2000 of the National Guard, 1500 of the old “Constitutional Guards,” and a group of “Gentilshommes.” Mandat had ordered a battery of the National Guard’s artillery to keep the Pont Neuf; they revolted and joined the people, and Mandat himself, the chief of the defence, was killed on the steps of the Hotel de Ville. Danton, who had not slept, but had lain down in Desmoulin’s flat till midnight, had been to the Hotel de Ville since two in the morning, and he took before posterity — in his trial — the responsibility of Mandat’s death. He did more. He acted during the short night (a night of calm and great beauty, dark and with stars) as the organiser and chief of the insurrection. Especially he appoints Santerre to lead the National Guard. On these rapid determinations the morning broke, and the first hours of the misty day passed in gathering the forces.
@@ -5083,7 +5083,7 @@ So perished the French monarchy. Its dim origins stretched out and lost themselv
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_01" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 1)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_01" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 1)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER V. THE REPUBLIC August 10, 1792 — April 5, 1793
@@ -5107,7 +5107,7 @@ The second division stretches from the meeting of the Convention to the death of
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_02" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 2)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_02" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 2)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The third opens with the universal war that follows the death of Louis, and continues to a date which you may fix at the rising of the 10th of March, or at the defeat of Neerwinden on the 19th. Danton is absent with the army during the greater part of these six weeks; he returns at their close, and when things were at their worst, to create the two great instruments which he destined to govern [[France]] — the Tribunal and the Committee.
@@ -5133,7 +5133,7 @@ From the hills above the town, the same hills which make of Verdun the fifth gre
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_03" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 3)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_03" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 3)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="motif/blood,setting/paris"></span>
 
 
 Meanwhile, in the capital itself, a vortex was opening, and the poor remnants of public authority and of public order were being drawn down into it. The 10th of August had been a victory into which there entered three very dangerous elements. First, it was not final; it had been won against a small local garrison under the menace of an invasion, and this invasion was proving itself irresistible. Secondly, it had left behind it terrors accentuated by success; I mean whatever fears of vengeance or of the destruction of [[Paris]] existed before the insurrection were doubled when so much greater cause had been given for the “execution” that Brunswick had threatened. Finally, the success of the insurrection had of itself destroyed the last shadow of executive power, for all such power, weak and perishing though it was, had centred in the King.
@@ -5157,7 +5157,7 @@ Roland spoke for all his friends. He was very pale and broken-down; he leaned hi
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_04" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 4)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_04" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 4)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 I know of no anecdote that tells more about Danton, or explains with greater clearness his attitude during the crisis that brought on the massacres. For these over-vigorous words, full of excess, were uttered by a man whose character was all for material results — results obtained, as a rule, by compromise. This same Danton, who talked of “torches” and “[[Paris]] en cendres,” was the only man in [[France]] who had the self-control to negotiate for the retreat of the Prussians after Valmy. His “mother of seventy years” had indeed been brought to [[Paris]], but from Arcis, which every one knew to be right in the track of the invasion. What we have to discover in this speech, as in every phrase he uttered, is the motive; for with any other of the great Revolutionaries words were the whole of the idea, and sometimes more than the idea, but with Danton alone words were the means to a tangible end.
@@ -5177,7 +5177,7 @@ He did not wholly fail. When he had rung the great bell of the Hotel de Ville an
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_05" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 5)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_05" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 5)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 But why did Danton not save the prisoners? I know that question is usually answered by saying that he was indifferent. So much (it seems to me) survives of a legend. For history no longer pretends that he organised or directed the crime. Indeed, history finds it daily more difficult, as the details accumulate, to fix it upon any one man. But the fact that he persistently defended the extremists in the following month, that he made himself (for the purposes of reunion) an advocate for many men who were blameworthy, and tried to reconcile the pure minds of the Girondins with such terrible memories — in a word, the fact that for months he sacrificed himself in the Convention, that he demanded union, has condemned him to every suspicion. Que mon nom soit flétri et que la [[France]] soit libre.
@@ -5197,7 +5197,7 @@ Paris was very silent; the accusations had not yet begun; the Assembly was dying
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_06" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 6)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_06" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 6)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/robespierre"></span>
 
 
 There came, therefore, into the Convention an apparently united body of men from [[Paris]] — the Mountain. Up on the benches of the extreme left, in the grey, dark theatre of the Tuilleries, there were to sit, in a compact group, these extremists; and across the floor the Departments, the pure Republicans of the south, who despised the city and them, who feared them terribly, and who hated with the force of a religion, were to single them out as tyrants. And in this Mountain, this body of Reds, Danton was to find himself imbedded, bound up, falsified. He had determined to prevent such parties. He had tried hard to make [[Paris]] elect not only [[Robespierre]] but Pétion also as a mark of unity: he had failed.
@@ -5215,7 +5215,7 @@ But the attack came from the others. Within a week Lasource had proposed a guard
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_07" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 7)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_07" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 7)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 But, for the mass of the Girondins, he remained an outcast. He used words that one could not use before Roland’s wife, and the great group that surrounded her (men over-full of utopias, but heroic, men whom Danton himself regretted bitterly) made him an outcast. He replied often with passion, and once with insult, but as we shall see he did not abandon them entirely till the insurrection destroyed them in ‘93.
@@ -5233,7 +5233,7 @@ October was a month of reconciliation. When the man broad awake succeeds, the dr
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_08" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 8)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_08" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 8)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Michelet gives us two pictures130 which, like the revelation of lightning, show us that rapid drama standing still. In the first it is Madame Roland, in the second Marat, who makes the tragedy. In the first Dumouriez and Danton sat in the same box at the theatre, and Vergniaud was coming in with the soul of the Girondins. The door opened and promised this spectacle: Danton and the general and the orator of the pure Republicans, and the woman most identified with the Right. It would have been such a picture for all the people there as Danton would have prayed or paid for. The door was ajar, and, as she came near, Madame Roland saw Danton sitting in the box; she put out her hand from Vergniaud’s arm and shut the door. There is in her memoirs a kind of apology,”des femmes de mauvaise tournure.” Utter nonsense; it was Roland’s box, and his wife was expected. Danton and Dumouriez were not of the gutter. No, it was the narrow feminine hatred, so closely allied to her intense devotion, that made Madame Roland thrust Danton at arm’s length. The same spirit that made her vilify the Left like a fury made her the calm saint of the Girondins. For she lived entirely in the Idea.
@@ -5257,7 +5257,7 @@ He went through the desolate bare woods of November, under the hurrying sky, tha
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_09" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 9)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_09" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 9)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="motif/blood,setting/france"></span>
 
 
 During the arraignment and during the trial of the King the opinions that divided the Left and the Right fought it out in his absence.132 He was not there to attempt such a movement as his character demanded. No one in all the Assembly dared hold out a hand as he would have done and see whether after all Vergniaud might not perhaps be right on the one hand, and the Mountain perhaps be patriots on the other.
@@ -5281,7 +5281,7 @@ Another people, then in their infancy, now old, whom Louis had been persuaded to
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_10" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 10)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_10" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 10)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 In the days that followed (they were only ten) between the 21st of January and the end of the month, it is still plain that the shock which most affected Danton’s vigorous and independent judgment was that return after seven weeks to the wife whom he had passionately loved, and whom this ugly Orpheus felt slipping from his arms back into the shades. After her death, as we shall see, he did not reel so heavily, but in that fortnight of January, which was of such supreme importance, he permitted misfortune to rouse mere passion in his mind; and he who might have led the Moderates, who might have played with the life of Louis like a card, chose to remember his rebuff in the winter and threw his trump away.
@@ -5301,7 +5301,7 @@ I know that events will largely account for the change. The Girondins had repell
 
 
 
-<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_11" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 11)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06_the_republic_august_10_1792_ap--part_11" data-title="Danton: A Study — Chapter 5: THE REPUBLIC August 10, 1792 — April 5, 1793 (part 11)" data-chapter="THE REPUBLIC August 10 1792 Ap" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Coming from fields in which he had seen the whole force of the early battles breaking up in confusion and retreat, he had suddenly to meet the news of his wife’s death. He bought a light carriage for himself in order to travel with greater speed, and arrived at the city in time, they say, to have her coffin taken out of the grave and opened, so that he might look once more upon her face. The home was entirely empty. The two little children, one of whom was in arms, the other of whom was just beginning to talk, had been taken away to their grandmother’s. The seals were on the furniture and on the doors. One servant only remained. The house had been without a fire for a week when he entered. It was an opportunity and a command for another origin in his political life. Coming and going from these rooms, he found them intolerable; he took refuge in direct and determined action, calling to his aid all that vast reserve of energy which he was accustomed to expend at the cost of so much future exhaustion.
@@ -5333,7 +5333,7 @@ The names that they heard read out were Barrère, Delmas, Bréard, Debry, Morvau
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_01" data-title="Danton: A Study — Chapter 6: THE TERROR (part 1)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_01" data-title="Danton: A Study — Chapter 6: THE TERROR (part 1)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 CHAPTER VI. THE TERROR
@@ -5355,7 +5355,7 @@ All government since that time in France has been its heir. It was the Committee
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_02" data-title="Danton: A Study — Chapter 6: THE TERROR (part 2)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_02" data-title="Danton: A Study — Chapter 6: THE TERROR (part 2)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/robespierre"></span>
 
 
 All the remaining year with which this chapter must deal is the story of the Committee. The Committee explains and gives us the clue to every action. Its changes, the men who dominated it, the reasons it had for violence or for clemency, its main object of throwing back the invasions — these are the central part of 1793 and 1794.
@@ -5375,7 +5375,7 @@ What led such men into conflict with [[Paris]], and perhaps with [[France]]? Thi
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_03" data-title="Danton: A Study — Chapter 6: THE TERROR (part 3)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_03" data-title="Danton: A Study — Chapter 6: THE TERROR (part 3)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The result of this sublime obstinacy was the ruin of [[France]] and of themselves. The Royalists saw it, and called themselves “Girondins;” the great name became a label for every reaction, and in every new disaster [[Paris]] saw with increasing clearness the restraining hand of the Gironde. For it was [[Paris]] and its Commune that took the leadership in the attempt to depose or expel the men who led the Parliament. Already before the Committee had been formed, the Commune on April the 2nd had begun to correspond with the municipalities of [[France]] — the fatal step that had so often preceded insurrection. To [[Paris]] as a centre, to Paris radical, and especially to Paris violent and unreasoning, the Girondins had grown detestable. Paris for a thousand years had stood for unity — the Girondins were autonomist and federal. Paris was passionate — the Girondins as calm as light. To all this enmity the Gironde answered by no force, but only by an assertion of their inviolable right. All April and May is consumed in the tale of great disasters without, and of the acute battle between the Right and the deputation from Paris within.
@@ -5393,7 +5393,7 @@ Such measures as those which “the twelve” had decreed were but fuel for the 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_04" data-title="Danton: A Study — Chapter 6: THE TERROR (part 4)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_04" data-title="Danton: A Study — Chapter 6: THE TERROR (part 4)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 It was in the matter of the petition for the release of Hébert. Isnard rose in the chair, lifted his hand, and pronounced in his hollow voice the words that have enriched history at the expense of his country: “If such a thing should happen as an attempt upon the representatives of the nation, I say to you, in the name of all [[France]], that very soon men would search upon the banks of the Seine for proofs that [[Paris]] had once been there.” Danton intervened, but he could do nothing. The glove had been thrown down. He asked for the withdrawal of those words; the Girondin majority reaffirmed them. Two days later he obtained the freedom of Hébert; but though for a moment he was promised the dissolution of the “Commission of the Twelve,” his effort failed, for they were immediately reinstated. In the night between the 30th and the 31st of May the Sections named a new and insurrectionary Commune; for one day the danger was warded off, and you may see Danton, still so difficult to understand, urging the Committee, while Barrère is proposing the conciliatory message to [[France]], a document which blamed neither the Girondins nor [[Paris]], and the twelve were dissolved. But the final blow was not to be avoided. On the 2nd of June the news of the counter-revolution in Lyons reached [[Paris]]. The Convention was surrounded; Henriot, at the head of the city militia, guarded its approaches, lined the corridors. Even in that moment, when Isnard proposed to retire, and made his superb apology, the Gironde, as a whole, stood firm. The inflexible Jansenist, Lanjuinais, proposed, with heroic folly, “a decree dissolving the authorities of Paris,” at a moment when these very authorities were holding the doors with fixed bayonets; but in spite of Barrère’s demand for Henriot’s condemnation, in spite of Danton’s demand for “a signal punishment,” the Convention yielded, voted the arrest not only of the twenty-two, whom the Commune had demanded, but of twenty-nine, and Vergniaud, Barbaroux, Guadet; Le Brun, and Clavière (who were nominally ministers); Roland (who had fled, and whose wife was imprisoned by the Commune) — in fine, the whole body of those great orators who had made the Republic — were thrust out of the Assembly, some to be held in the honourable confinement of their own houses, some to fly and raise civil war in the Departments. The Commune offered hostages in equal number, but they were refused; and before the day was over the Parliament was mutilated, and the obstacle to the dictatorship and to the Terror had been swept away.
@@ -5411,7 +5411,7 @@ Now to prove this certain steps are necessary. In the first place, why can we sa
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_05" data-title="Danton: A Study — Chapter 6: THE TERROR (part 5)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_05" data-title="Danton: A Study — Chapter 6: THE TERROR (part 5)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 In the second place, we must establish, as far as is possible, the aims of the Committee and their method of guiding the insurrection. As was said earlier in this chapter, those aims and methods can only be arrived at by inference; the very nature of a body that deliberates in secret makes this method of inquiry necessary. There is no direct evidence, unless the contradictory anecdotes of a much later period can be given that name. Now we can infer with some accuracy what went on in their deliberations. There should be noted at the outset the document to which I have already referred, and which, if I am not mistaken, is printed for the first time in this book. It was the first of those general Rapports which were delivered by Barrère to the Convention for the next sixteen months, and which so profoundly affected the course of the Revolution. It sums up the result of two months of astonishing labour; everything — all the weakness of [[France]] — has been noted with the accuracy of a topographical survey. It gives the equipment, the provisioning, the local difficulties of each army, the detailed condition of the fleet (a most deplorable picture), the result of what is evidently an elaborate spy-system in the department of foreign intrigue, and everywhere the indictment is obvious— “whatever has governed [[France]] hitherto has hopelessly failed.” There are, indeed, polite references to the ineptitude of the old regime, but side by side with these there is a direct attack on the Girondin Ministers of War, and on the diplomatic, or rather non-diplomatic, methods which had been pursued abroad; indeed, many parts of this report would not be out of place had they appeared in a Compte Rendu drawn up by the victorious insurrection, instead of preceding, as they did, the fall of the Gironde.
@@ -5429,7 +5429,7 @@ Here, then, the Committee, even in its infancy, furnishes the clue to a difficul
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_06" data-title="Danton: A Study — Chapter 6: THE TERROR (part 6)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_06" data-title="Danton: A Study — Chapter 6: THE TERROR (part 6)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 The Gironde having disappeared, there was left before Danton a task of extreme difficulty. He was about to attempt the management of men whom he deliberately permitted to engage in battle. It is of the very first importance in our study of his career to appreciate the conditions of this task. Consider for a moment what he has done. He has by arguments, by threats, and finally by the use of the mob, made the Revolutionary Government a reality. It is in this last ally that we find the cause of his future failure. Hitherto he has been battling with particular men, preventing a small group of politicians from obstructing the Revolutionary measures, cajoling on the other hand the extreme members of the Convention by calculated outbursts of sympathy. Such a task no one would find impossible, did he possess at once a clear object and the genius to approach it. But after the 2nd of June it was another matter. He had let loose the storm, and with the pride of a man who felt his strength inwards and outwards (for scheming and for haranguing), he had determined deliberately to ride it. It was a miscalculation. Something resembling a natural force, something like an earthquake or a lava stream, opposed itself to his mere individual will; and Danton, who among the politicians had been like a man among boys, became in the presence of these new forces like a lonely traveller struggling at evening against a growing tempest in the mountains. From this moment we shall see him using in vain against the passions of 1793 the ability, the ruse, the eloquence, the energy which had so long succeeded among the statesmen. They will be swept down like driftwood upon the current of popular madness which he himself has let loose. The Committee will be formed of new members, the Terror will grow from day to day, the Revolution will begin to take on that character of fanaticism which was directly opposed to Danton’s plan, and he will retire disappointed and beaten. He will return frankly out of sympathy with the excesses, and in expiation of that fault of sanity he will die.
@@ -5445,7 +5445,7 @@ Within the Committee they framed the Constitution of 1793 — that great monumen
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_07" data-title="Danton: A Study — Chapter 6: THE TERROR (part 7)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_07" data-title="Danton: A Study — Chapter 6: THE TERROR (part 7)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 The second proof that Danton had still hold of the reins is to be found in this: that the advice which he gives during the discussions on the Constitution is not that of violence, nor of flattery, but of moderate common-sense; and of such advice which the Convention accepts the best example is to be found in the speech on the power of making war. It was a difficult thing to convince the Assembly, in those days of abstractions, that the nation, as a whole, could not exercise such a right without hopeless confusion. Yet Danton had his way. This month of June, then, which was so full of terrible internal danger, during which Buzot had raised a Girondin army sixty miles from [[Paris]], during which Normandy was in full revolt, during which Lyons had attacked the Republic, and during which the counter-Revolution seemed on the point of breaking out — this month was still Danton’s own. He was secure in his public position, for the very conquerors of the 2nd of June, the violent extremists, could not prevent him from exercising his diplomacy abroad and his pacificatory compromise in domestic affairs.
@@ -5465,7 +5465,7 @@ Let us see how the misfortunes of the country reacted upon the position of Danto
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_08" data-title="Danton: A Study — Chapter 6: THE TERROR (part 8)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_08" data-title="Danton: A Study — Chapter 6: THE TERROR (part 8)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="motif/blood,setting/france,character/robespierre"></span>
 
 
 It would be an error to regard this as a mere resignation on the part of Danton; it would be equally an error to regard it as a violent censure on the part of the Convention. It is certain that he chose to withdraw because the fatal necessity of things was giving power to men of whom he had no opinion. Thus [[Robespierre]] joined the Committee on the 27th of July — [[Robespierre]], of whom Danton could say in private, “The man has not wits enough to cook an egg.” Yet this was the man who was so worshipped by the crowd, that, once within the Committee, he was destined to become the master of [[France]]. It may be remarked in passing that something fatal seemed to attach to the date on which a man entered and began to lead the Committee. On the day that Danton entered in ‘93, on that day was he guillotined in ‘94. On the day that [[Robespierre]] entered in ‘93, on that day in ‘94 he fell.
@@ -5483,7 +5483,7 @@ He was ill already; the great energies which had been poured out recklessly in a
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_09" data-title="Danton: A Study — Chapter 6: THE TERROR (part 9)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_09" data-title="Danton: A Study — Chapter 6: THE TERROR (part 9)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 Starting from this point, his weariness and his longing for home, we can trace the movement of his mind during the six weeks of his repose. He recovered health with the rapidity that so often characterises men of his stamp; he found about him the peaceable affection, the cessation of argument and of self-defence which his soul had not known since the first days of 1789. His old mother was with him, and his children also, the memories of his own childhood. The place refreshed him like sleep; he became again the active and merry companion of four years before, sitting long at his meals, laughing with his friends. The window of the ground-floor room opened on to the Grande Place, and there are still stories of him in Arcis making that window a kind of little rendezvous for men passing and repassing whom he knew, his chatting and his questions, his interests on every point except that political turmoil in which the giant had worn himself out. The garden was a great care of his, and he was concerned for the farm in which he had invested the reimbursement of his pre-revolutionary office. He delighted to meet his father’s old friends, the mayor, the functionaries of the place. This man, whom we find so typical of his fellow-countrymen, is never more French than in his home. The little provincial town, the amour du clocher, the prospect of retirement in the province where one was born — the whole scene is one that repeats itself upon every side to-day in the class from which Danton sprang.
@@ -5501,7 +5501,7 @@ Against the Committee was the Commune. Hébert at its worst; Clootz at its most 
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_10" data-title="Danton: A Study — Chapter 6: THE TERROR (part 10)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_10" data-title="Danton: A Study — Chapter 6: THE TERROR (part 10)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="motif/blood,histref/napoleon,setting/france,setting/paris,character/napoleon,character/robespierre"></span>
 
 
 The third party in the struggle was [[Robespierre]]. He also desired the Terror, but he intended to use it, as he did every power in [[France]], towards a definite end — a certain perfect state, of which he had received a revelation, and of which he was the prophet. Of his aims and character I shall treat when I come to his action after the fall of Danton. It suffices to point out here that of the three forces at work [[Robespierre]] alone had personality to aid him. He had a guard, a group of defenders. They were inside, and led the Committee itself; they were the mystics in a moment of strong exaltation, and unreal as was the dream of their chief, the Robespierrians were bound to succeed unless the force of the real, the “cold water” that came with Danton’s return, should destroy their hopes. Therefore, as a fact, though no one, though Danton himself, did not see it, it was between him and [[Robespierre]] that the battle would ultimately be fought out.
@@ -5515,7 +5515,7 @@ Events helped him, or rather he had foreseen them. The Vendeans, moving more lik
 
 
 
-<span class="atom-split" data-atom="chapter_07_the_terror--part_11" data-title="Danton: A Study — Chapter 6: THE TERROR (part 11)" data-chapter="THE TERROR" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07_the_terror--part_11" data-title="Danton: A Study — Chapter 6: THE TERROR (part 11)" data-chapter="THE TERROR" data-kind="excerpt" data-tags="motif/blood,setting/france,setting/paris,character/robespierre"></span>
 
 
 All these victories were the allies of the party of indulgence. The men who said, “The Terror has no raison d’être save that of the national defence,” found themselves expressing what all [[France]] felt. After such successes it only remained to add, “The nation is safe; the Terror may end.” Already Danton had called up a reserve, so to speak, in the shape of the genius of Desmoulins. The first issue of “Vieux Cordelier” had appeared, and the journal was read by all [[Paris]].
@@ -5543,7 +5543,7 @@ But that week they determined on his arrest and that of his friends. Panis heard
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_01" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 1)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_01" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 1)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="motif/prison,setting/france,setting/paris,character/robespierre"></span>
 
 
 CHAPTER VII. THE DEATH OF DANTON
@@ -5575,7 +5575,7 @@ In the morning of the 12th Germinal the Convention met, and each man looked at h
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_02" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 2)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_02" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 2)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="setting/france,character/robespierre"></span>
 
 
 Tallien was President that day, and he gave the reply to [[Robespierre]]. Now [[Robespierre]] was no good fencer. The supreme feint, the final disarming of opinion, was left to an abler man. He had gone home from the Committee to Duplay’s house in the early morning; a monomaniac hardly needing sleep, he reappeared at the early meeting of the Convention. But, poor debater as he was, he could take advantage of so easy an opportunity. In a speech which was twice applauded, he asserted that Legendre had demanded a privilege. He struck the note which above all others dominated those minds. “Are we here to defend principles or men? Give the right of speech to Danton, and you give rein to an extraordinary talent, you confuse the issue with a hundred memories, you permit the bias of friendship. Let the man defend himself by proofs and witnesses, not by eloquence and sentiment.” Yet he did not add — perhaps he hardly knew — that the memories and friendship would but have balanced a direct enmity, and that witnesses and proofs would be denied. Again he used that argument of government — had not they saved [[France]]? were they not the head of the police? did not they know in the past what they were doing? He assured them that a little waiting would produce conviction in them also. It did not, but time was gained; already half the Convention doubted.
@@ -5601,7 +5601,7 @@ From that moment his position becomes the attitude of the man fighting, as we ha
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_03" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 3)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_03" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 3)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="motif/prison,setting/france,character/robespierre"></span>
 
 
 He was like a man whose enemy stands before him, and who sees at his own side, passive and bewildered, a strong but foolish ally. His ally was the people, his enemy was Death.
@@ -5639,7 +5639,7 @@ Herman was president of the tribunal, and sat facing the prisoners; on either si
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_04" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 4)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_04" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 4)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/france,character/robespierre"></span>
 
 
 At a table between the President and the prisoners sat Fouquier-Tinville, the public prosecutor; and finally, on the judges’ right was the open part of the court and the door to the witnesses’ room.
@@ -5685,7 +5685,7 @@ In the debate and cross-questioning that followed we must depend mainly upon the
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_05" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 5)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_05" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 5)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="histref/french_revolution,setting/paris,character/robespierre"></span>
 
 
 He pointed at Cambon, who had sat by him on the Committee, and said, “Come now, Cambon, do you think we are conspirators? Look, he is laughing; he believes no such thing.” Then he turned, laughing himself, to the jury and said, “Write down in your notes that he laughed.”
@@ -5711,7 +5711,7 @@ This short and violent speech, which I have attempted to reproduce from the shor
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_06" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 6)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_06" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 6)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="setting/paris,character/robespierre"></span>
 
 
 When the unhappy man who had taken upon his shoulders the vile duty of the political work that day, when Herman was himself upon his trial, he said, “Remember that this affair was out of the ordinary, and was a political trial,” when a voice rose from the court, “There are no political trials under a Republic.” He would have done well, obscure as he is before history, to have saved his own soul by refusing a task which he knew to involve injustice from beginning to end.
@@ -5737,7 +5737,7 @@ But note the way in which the letter was presented to a Parliament in which ther
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_07" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 7)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_07" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 7)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="motif/prison,character/robespierre"></span>
 
 
 As they were about to vote, Billaud Varennes added his word, “I beg the Convention to listen to a letter which the Committees have received from the police concerning the conspirators, and their connection with the prisoners.” The letter is not genuine. Even if it were, it depends entirely upon the word of one obscure and untrustworthy man (Laflotte), but it did the work. The Committees, as we know, were names to conjure with. Their secret debates, their evident success, the fact that their members had been chosen for the very purpose of guarding the interests of the Republic, all fatally told against the prisoners. The decree passed without a vote. [[Robespierre]] asked that the letter might be read in full court, and his demand was granted. It was from that letter, from this obscure and uncertain origin, that there dated the legend of the “conspiracy in the prisons” which was to cost the lives of so many hundreds.
@@ -5759,7 +5759,7 @@ Early as was the season, the air was warm and pleasant, the leaves and the buds 
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_08" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 8)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_08" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 8)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="concept/reform,character/robespierre"></span>
 
 
 Where the light poured up the river and came reflected from the Seine on to the bridge, it marked out the terrible column that was moving ponderously forward to death. A great crowd, foolish, unstable, varied, of whom some sang, some ran to catch a near sight of the “Indulgents,” some pitied, and a few understood and despaired of the Republic — all these surging and jostling as a crowd will that is forced to a slow pace and confined by the narrowness of an old thoroughfare, stretched from one end of the bridge to the other, and you would have seen them in the sunlight, brilliant in the colours that men wore in those days, while here and there a red cap of liberty marked the line of heads.
@@ -5785,7 +5785,7 @@ But if the scene was a tragedy, it was a tragedy of the real that refused to fol
 
 
 
-<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_09" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 9)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08_the_death_of_danton--part_09" data-title="Danton: A Study — Chapter 7: THE DEATH OF DANTON (part 9)" data-chapter="THE DEATH OF DANTON" data-kind="excerpt" data-tags="motif/blood,setting/paris,character/robespierre"></span>
 
 
 Fabre, who had best known how omnipresent is this complexity — Fabre, who had said, “Between the giving and taking of snuff there is a comedy” — furnished the example now. Danton hearing so much weakness and so many groans from the sick man said, “What is your complaint?” He answered, “I have written a play called ‘The Maltese Orange,’ and I fear the police have taken it, and that some one will steal it and get the fame.” Poor Fabre! It is lost, and no one has the ridicule of his little folly. Danton answered him with a phrase to turn the [[Blood|blood]]: “Tais toi! Dans une semaine tu feras assez de vers,” and imposed silence. Nor did this satisfy Fate; there were other points in the framework of the incongruous which she loves to throw round terror. A play was running in the opera called the “10th of August;” in this the Dantonists were represented on the stage. When the Dantonists were hardly buried it was played again that very night, and actors made up for Hérault and the rest passed before a public that ignored or had forgotten what the afternoon had seen. More than this, there was already set in type a verse which the street-hawkers cried and sold that very night. For the sake of its coincidence I will take the liberty of translating it into rhymed heroics: —
@@ -5819,7 +5819,7 @@ They showed his head to the people, and the sun set. There rose at once the conf
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_01" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 1)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_01" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 1)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 CHAPTER VIII. [[Robespierre|ROBESPIERRE]]
@@ -5845,7 +5845,7 @@ It is possible that he may take, centuries hence, the appearance of majesty. He 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_02" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 2)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_02" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 2)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="concept/reform,setting/france,character/robespierre"></span>
 
 
 We are accustomed to clothe such figures with a solemn drapery, and to lend them, at great distances of time, a certain terrible grandeur. [[Robespierre]] is too near us, he is too well known, and his reforms failed too utterly, for this to be now the case with him. Yet it may well happen that some one else treading in the same path, and succeeding, will see fit to build a legend round his name.
@@ -5867,7 +5867,7 @@ What gave him his great ascendancy, his practically absolute power? It was due, 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_03" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 3)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_03" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 3)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,character/robespierre"></span>
 
 
 In the second place, his name had been the most present and the most familiar from the earliest days of the Revolution. He had sat in the Assembly of the Commons five years before, a notable though hardly a noted figure, with some stories surrounding him, with quite a reputation in his provincial centre; he had been, since first the Jacobin Club became the mouthpiece of the pure Republicans, the conspicuous leader of the Society. The force of continuity and tradition counts for little in the history of this whirlwind, but such as it is it explains to a great degree the ascendancy of [[Robespierre]]. He alone was never absent, he alone remained to chant a ceaseless chorus to the action of the drama. His name was familiar to excess; but it was hardly an epoch at which men grew weary of hearing a politician called “the just.” Besides this familiarity with his name, certain virtues — and those the most cherished of the time — were in fact or by reputation his. None could accuse him of venality; his sincerity was obvious — indeed, it was the necessary fruit of his narrow mind. The ambition from which we cannot divorce his name was apparent to but few of his contemporaries, and was not fully seized even by his enemies till he had started on that short career of absolute power which has stamped itself for ever upon the fortunes of his country. Thus habit, the strongest of forces, was his ally.
@@ -5887,7 +5887,7 @@ One of the accused “has wished to efface the idea of the divinity.” Another 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_04" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 4)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_04" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 4)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 Three days more — the 17th of April — and the machinery was further centralised. St. Just demanded that the political prisoners should be taken from every part of [[France]] to be judged in [[Paris]]. The popular commissions — mere gatherings to denounce without proofs and without forms — were actively used all over the Republic. In [[Paris]] the commission was to be the feeler for the central machine. And such was the incapacity of the Dreamer, “who had not wits enough to cook an egg,” that this new feature in the machinery was not even organised: it was a government of mere rigid absolutism resting on bases that were rapidly becoming mere anarchy. But even as the system, such as it was, developed, as the central power grew more rigid, and the thing to be governed more decayed, Danton, who had been killed that it might exist, pursued it. It was due to his work that the wrestling on the frontier was showing a definite issue. The advance had begun.
@@ -5909,7 +5909,7 @@ But in sight of the mummery stood Notre Dame. Not a man there but had been bapti
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_05" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 5)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_05" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 5)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="histref/napoleon,setting/france,setting/paris,character/napoleon,character/robespierre"></span>
 
 
 The law of the 22nd of Prairial followed this feast. It was the establishment of a pure despotism, arbitrary, absolute, personal. Already the trials were centralised in [[Paris]] since the demand of St. Just had been made. The Commune had been captured, the popular commissions used, even the Presidency of the Convention had become the appanage of one man and his associates. This new law proposed the final step. After it was passed the trials were to be conducted without proofs, and without witness or pleading, for they were to be nothing more than a formal process. The Committee once satisfied of guilt, the tribunal was merely to condemn. To be upon the lists was virtually to be dead. It was the end of civil government, the declaration of a state of siege. And that at the moment when the armies sent every day better and better news. The Convention debated with [[Robespierre]] in the chair; it hesitated and it nearly condemned the proposal. There was a conflict in the minds of some between the admiration — almost the adoration — of a man; in the minds of others, between fear and the necessity apparent to all of relaxing the machinery which only the national danger had called into being.
@@ -5931,7 +5931,7 @@ A sixth attempt was for a sixth time foiled. The seventh succeeded. The Austrian
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_06" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 6)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_06" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 6)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 It was upon the 25th of June that the armies met and fought with blazing hay about them and ripe harvest that had caught fire. Kleber recovered the left wing, as Cromwell at Naseby, after it had given way. Marceau obstinately held the right in front of Fleurus, as Davoust did at Austerlitz ten years later. And towards evening the watchers in the balloon above the French ranks saw in regular and stiff retreat the last army of the old world. By the end of Messidor the English were in Holland, the Austrians upon the Rhine, the whole of Belgium was in the hands of the Republic.
@@ -5961,7 +5961,7 @@ Robespierre could be virtually a master, but a master only on the tolerance of s
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_07" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 7)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_07" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 7)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 What then was the ultimate master which permitted [[Robespierre]] to rule? It was composed of several forces, and in its division is to be found the secret of its inertia.
@@ -5993,7 +5993,7 @@ The origins of that report merit a certain discussion. We have seen that from th
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_08" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 8)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_08" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 8)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 Who drew up Barrère’s report, whether (possibly) it was his own work, when he saw opinion shifting away from [[Robespierre]], or whether, as is more probable, it was inspired by Billaud and Collot, and permitted by the five neutrals, we cannot tell. The main fact is this, that the Committee had at least permitted to be made in its name a public declaration hostile to the man who, through the Committee, had ruled [[France]].
@@ -6021,7 +6021,7 @@ Then twice Robespierre tried to speak; the hubbub silenced him. During a lull in
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_09" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 9)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_09" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 9)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/blood,motif/prison,setting/france,setting/paris,character/robespierre"></span>
 
 
 Tallien was given the tribune by the Speaker (Collot was Speaker that day, and Collot had been turned out by the Jacobins the night before). Tallien spoke theatrically, as he always did, but to the point. [[Robespierre]], he said, had plotted to destroy the assembly for his purposes; he quoted the speech of the day before. While Barrère, the turncoat, stood looking this way and that, not knowing how things would turn. Once more [[Robespierre]] attempted a reply; he only raised a storm that drowned his voice.
@@ -6049,7 +6049,7 @@ While it was still just light, between eight and nine in the evening, Robespierr
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_10" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 10)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_10" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 10)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 [[Robespierre]] refused to put himself at the head of the movement; at least it is only thus that we can explain the delay and the confusion. He was to the last the strange mixture of lawyer and pedant and idealist. He would not act without the legal right, for his pedantry forbade it, nor move with an armed minority, because, judged by his theories, it would have been a crime. Perhaps at the very last he decided to move: there exists a document authorising a march on the Convention, and at its base the first three letters of his name — the signature unfinished, interrupted.
@@ -6085,7 +6085,7 @@ It would have been a poor excuse for leaving unremoved the rubble, the dust, and
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_11" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 11)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_11" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 11)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="concept/reform,histref/napoleon,setting/france,setting/paris,character/napoleon"></span>
 
 
 The new foundations alone stand at the present day. They are crude, they satisfy nothing in us permanently, they are very far from affording that sentiment of content which is the first requisite of a happy civilisation. But time will do in this case, as it has always done in every other, the work of harmony and of completion. The final society will not be without its innumerable complexity of detail, its humour, and its inner life. Certainly it will not long remain a stranger to the unseen; but it will be built upon 1793.
@@ -6117,7 +6117,7 @@ THE SPOT ONCE occupied by the Cordeliers is among the most interesting in [[Pari
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_12" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 12)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_12" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 12)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="concept/reform,setting/paris"></span>
 
 
 All the land from St. Germains des Près up northwards along the hillside had belonged to that abbey since its foundation, when the first dynasty of Frankish kings had endowed the foundation with a great estate carved out of what had once been the Roman fiscal lands on the south bank. Round the abbey itself a few houses had gathered, forming the “Faubourg” (or suburb) of “St. Germains”; but the greater part of the estate was open field and meadow. When Philip Augustus built his great wall round [[Paris]] it cut through the estate, leaving the Church and Abbey of St. Germains outside the city, but enclosing a small part of the fields within its boundary.
@@ -6139,7 +6139,7 @@ This famous monument, the only part of the college that has been preserved, stoo
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_13" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 13)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_13" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 13)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 I have called it a hall because its use exactly corresponded to that of our college halls in the English universities. I mean, it was at once a refectory and lecture-room. It was approached by a little lane running up through the grounds under the side of the convent, later hemmed in with houses.
@@ -6157,7 +6157,7 @@ To reproduce the quarter in 1788 we have to imagine the following changes: — T
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_14" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 14)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_14" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 14)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Finally, to see the building as Danton saw it, you must imagine a half-deserted place, rich, but somewhat unfrequented, like certain old legal Inns that once stood in London, old walls appearing here and there from between houses of a century’s date; a mass of irregular buildings, of garden and of private house hopelessly intermingled; while up a narrow and dark passage stood the Hall, which was still the best preserved part of the college, and with which alone his name is associated.
@@ -6185,7 +6185,7 @@ As to the furniture of the little apartment, it may be described as follows: —
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_15" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 15)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_15" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 15)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 As to the Cordeliers, on which the preceding note is written, the hall in which their meetings were first held still exists (as we have said in the text) under the title of Musée Dupuytren. The Church of the Cordeliers, into which they afterwards moved, has disappeared, but the last locale of the club (when the Municipality had turned them out of the church in 1791) still remains, and is to be discovered at No. 105 Rue Thionville. Danton’s father-in-law had been master of a café on the Quai de l’École. This house still remains. If I am not mistaken, it was altered slightly during the restorations of the Second Empire. It is the house which now stands at the south-western corner of the Place de l’École, and which faces the quai on one side and the square on the other. The street and quay outside M. Charpentier’s café was, however, somewhat oblique to the modern street, and ran less east than west, more south-east than north-west, than it does to-day.
@@ -6209,7 +6209,7 @@ Thirdly, Lafayette says (Memoirs, iii. 83-85): “Danton, whose receipt for 100,
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_16" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 16)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_16" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 16)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 Fourthly, there is Brissot (iv. 193-194). “Among the stipendiaries of Orleans was ... Danton. I have seen the receipt for 500,000 francs which were paid him by Montmorin. He was sold to the court in order to thrust the Revolution into the excesses which would make it odious to the great bulk of Frenchmen.”
@@ -6237,7 +6237,7 @@ When the trial of the king was mooted, Danton did speak (notably on the 6th of S
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_17" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 17)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_17" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 17)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 In the much more important debates wherein the life of Louis was first implicitly and then explicitly at stake, Danton was absent, and in the days of November there is no question at all but that Danton’s one preoccupation was to reconcile the Mountain with the Girondins.
@@ -6267,7 +6267,7 @@ As to Madame Roland, I cannot imagine what flight of feminine inaccuracy made he
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_18" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 18)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_18" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 18)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 Now, the papers that prove Danton’s financial position are quite simple. He was cut off suddenly; they were all seized, and they all remain. Unless he spent huge sums in debauch (sums like those of Orleans), or unless he buried the money, he cannot have received much more than what openly appears. He entered his married life with a debt of £2500 secured on his office. He enjoyed a good practice for four years; he was reimbursed to somewhat less than the value of his office, and on his death the sum sequestrated by the State, and later refunded to his sons, tallies with this small fortune.
@@ -6299,7 +6299,7 @@ Firstly: that he knew that the massacres were coming, and withdrew from [[Prison
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_19" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 19)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_19" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 19)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 Secondly, it is affirmed with justice that Danton, from the peculiar position of the ministry which he occupied, filled the prisons, which were afterwards gutted. It is true that on Danton, as Minister of Justice, and above all as a general power in the Cabinet, the responsibility of arresting the prisoners rests; but was this action taken with a knowledge of what the consequences would be nearly a month later? Certainly not. It would show a complete ignorance of what happened in the last fortnight of August to say that an action taken just after the 10th was taken with a view to something that would occur on the 2nd of September. The state of public feeling in those four weeks went through a most violent crisis, and one might say that the intensity of the feeling against the Royalists and the foreigners was not only a hundred-fold greater when Verdun was actually falling than it had been just after the success against the Tuilleries, but different in quality as well.
@@ -6317,7 +6317,7 @@ Finally, it may be asked, could these envelopes go out without his knowledge? To
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_20" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 20)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_20" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 20)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/blood,setting/paris"></span>
 
 
 As to the accusations such as that of Lafayette (Memoirs, iv. 139, 140), “He commanded the massacre of September and paid the murderers, who went all covered with [[Blood|blood]] to get their money from Roland,” I attach no importance to them at all. Even the phrase in which Danton is supposed to have saluted the return of the murderers from Versailles is very doubtful. It does not occur in any contemporary account; it is not in the Moniteur; it is not in the “Révolutions de [[Paris]];” Madame Roland does not quote it, even on hearsay; it is not one of Peltier’s inventions, and I have some difficulty in tracing it to its origin.
@@ -6343,7 +6343,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_21" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 21)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_21" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 21)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/childhood,concept/liberty,form/biography,histref/french_revolution,setting/france,character/danton,character/jean_jacques_rousseau"></span>
 
 
 “Il est intéressant de noter quel fut le milieu dans lequel Danton passa ainsi ses premières années, et nous avons trouvé, dans un auteur contemporain, le passage suivant qui nous semble curieux:
@@ -6375,7 +6375,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_22" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 22)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_22" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 22)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “A peine revenu à Arcis-sur-Aube, il déclara à sa mère qu’il ne rentrerait plus au petit séminaire: “Il y a là, dit-il, des habitudes qui ne me vont pas, et que je ne pourrai jamais comprendre.” L’année suivante, on le mit dans une pension laïque. Ses études n’y perdirent rien, car il eut depuis des succès qu’il n’avait pas obtenus auparavant. Il fit ainsi sa seconde, et y remporta la presque totalité des prix....
@@ -6395,7 +6395,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_23" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 23)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_23" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 23)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/prison,setting/paris"></span>
 
 
 “Tels furent les préparatifs du départ.
@@ -6419,7 +6419,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_24" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 24)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_24" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 24)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Mais les témoignages de ces hommes éminents, qui assuraient à Danton un succès d’honneur, ne le menaient point à la fortune; il s’en éloignait même à mesure que son talent aurait dû l’en rapprocher davantage, car il recherchait la clientèle du pauvre autant que d’autres recherchaient la clientèle du riche. Il pensait qu’en thèse générale le pauvre est le plus souvent l’opprimé, qu’ainsi il a le droit de priorité à la défense. D’après ce principe de conduite, ceux qui ont dit que Danton n’avait point fait fortune au barreau, pouvaient ajouter qu’il ne l’y aurait jamais faite....
@@ -6441,7 +6441,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_25" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 25)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_25" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 25)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 “Les avocats aux conseils avaient ainsi l’occasion, en discutant avec les ministres eux-mêmes, soit pour les attaquer, soit pour les défendre, d’apprendre à connaître les rapports des autorités entre elles, la vraie distinction des pouvoirs, l’organisation civile dans toute son étendue, l’ordre social dans son ensemble: c’était une excellente école pour créer des économistes, des politiques, des législateurs.
@@ -6471,7 +6471,7 @@ The criticisms to be made against his account are obvious. It is too florid; it 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_26" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 26)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_26" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 26)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “Il se montrait peu exigeant dans la question des honoraires, même lorsqu’il avait gagné sa cause. Lorsque son client venait s’acquitter envers lui, il lui arrivait souvent de dire: c’est trop, et de rendre ce qu’il appelait le trop. Dans certaines affaires perdues, il refusait toute rémunération. ‘Je n’ai point de déboursés, disait-il, puisque je n’ai point fait d’écritures, et que j’ai laissé à la régie son papier timbré.’ Il lui arrivait, bien qu’il ne fût pas riche, de donner lui-même des secours d’argent à des clients malheureux.
@@ -6505,7 +6505,7 @@ They are three in number: —
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_27" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 27)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_27" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 27)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 I have quoted only the essential portions of this exceedingly interesting piece of evidence. They give us the date of the transaction (March 29, 1787), the price paid, 78,000 livres, or rather (seeing that Danton acquired the right to collect a debt of 11,000) 67,000 livres net (say £2600); the fact that some £2000 of this was paid down out of a loan raised for him by his relations in Champagne and his future father-in-law, while some £160 he paid out of his savings, and the rest remained owing. The receipt of 1789, which I have attached at the end of the extract, shows us that by that time the balance had been paid over to Me. Huet de Paisy, including interest at 5 per cent. Incidentally there is mention of Danton moving to the Rue de la Tissanderie, whence we shall find him drawing up his marriage-contract.
@@ -6541,7 +6541,7 @@ When he marries, his wife’s dowry cancels his debt to Charpentier and leaves h
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_28" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 28)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_28" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 28)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “A ces présentes est intervenu Me. François-Jacques Millot, procureur au Parlement, demeurant à [[Paris]], rue Percée, paroisse St. Séverin. Fondé de la procuration spéciale pour ce qui suit dû, Sieur François Lenoir, maître de poste, et dame Marie-Geneviève Camus, son épouse, de dame Elisabeth Camus, veuve du Sieur Nicolas Jeannet et de demoiselle Anne Camus, fille majeure, demeurant tous à Arcy-sur-Aube, passée en brevet devant Morey notaire à Troyes, en présence de témoins, le deux décembre dernier, l’original de laquelle dûment contrôlé légalisé a été certifié véritable et déposé pour minute à Me. Dosfant, l’un des notaires soussignés par acte du vingt-huit du présent mois. Lequel a, par ces présentes, rendu et constitué lesdits Sieur et dame Lenoir, dame veuve Jeannet et demoiselle Camus, cautions et répondants solidaires dudit Me. Danton envers ledit Me. Huet de Paisy, ce faisant les oblige solidairement avec lui, séparément les uns avec les autres au payement desdites douze mille livres qui restent dues sur ladite pratique, intérêts d’icelle, et au payement des dix mille livres, prix du corps dudit office aux époques ci-dessus fixées, à quoi ledit Me. Millot, audit nom, affecte, oblige et hypothèque sous ladite solidarité, généralement tous les biens, meubles et immeubles, présents et à venir de ses constituants.
@@ -6585,7 +6585,7 @@ When he marries, his wife’s dowry cancels his debt to Charpentier and leaves h
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_29" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 29)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_29" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 29)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Ledit office liquidé... par décret de l’Assemblée Nationale ... sanctionné par le Roi le deux octobre, à la somme de 69,031 livres 4 sols.... Avons delivré au Sieur Danton... la présente reconnaissance définitive de la dite somme de 69,031 livres 4 sols, qui sera payée a la caisse de l’extraordinaire....
@@ -6625,7 +6625,7 @@ All the three were obtained by Dr. Robinet from the lawyers who have succeeded t
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_30" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 30)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_30" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 30)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 (a) Extracts from the “Apposition des Scellés” by M. Thuiller, Justice of the Peace, on February 12, 1793, and from the “Vacations” by the same.
@@ -6725,7 +6725,7 @@ This gives us the whole value of the furniture, clothing, &c., in the house, and
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_31" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 31)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_31" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 31)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “Nous, Jean-Baptiste Jourdain cy-dessus qualiffié, demeurant audit [[Paris]], rue de la Liberté, nᵒ 86, section du Théâtre-Français.
@@ -7267,7 +7267,7 @@ The whole is valued at just over a hundred pounds (2800 livres).
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_32" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 32)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_32" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 32)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 IX. EXTRACTS FROM THE MEMOIR WRITTEN IN 1846 BY THE SONS OF DANTON
@@ -7289,7 +7289,7 @@ It is not a precise historical document, such as are the official reports, recei
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_33" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 33)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_33" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 33)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 “Au moment où la Révolution éclata, notre père était avocat aux conseils du Roi. C’est un fait dont il n’est pas nécessaire de fournir la preuve: ses ennemis eux-mêmes ne le contestent pas. Nous ne pouvons pas établir d’un manière précise et certaine ce qu’il possédait à cette époque, cependant nous disons que, s’il ne possédait rien autre chose (ce qui n’est pas prouvé) il possédait au moins sa charge, et voici sur ce point notre raisonnement: —
@@ -7343,7 +7343,7 @@ A reporter 48,200 liv.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_34" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 34)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_34" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 34)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/money_gold,concept/family,form/biography,histref/french_revolution,setting/france,character/danton"></span>
 
 
 “Voici notre réponse: —
@@ -7365,7 +7365,7 @@ A reporter 48,200 liv.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_35" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 35)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_35" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 35)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 “Voici encore une pièce, peu importante en elle-même à la vérité, mais qui honore Danton et qui prouve sa bonté: c’est un pétition en date du 30 thermidor an II. (17 août 1794), adressée aux citoyens administrateurs du département de [[Paris]], par Marguerite Hariot (veuve de Jacques Geoffroy, charpentier à Arcis), qui expose que par acte passé devant Mᵉ Finot, notaire à Arcis, le 11 décembre 1791, Danton, dont elle était la nourrice, lui avait assuré et constitué une rente viagère de cent livres dont elle devait commencer à jouir à partir du jour du décès de Danton, ajoutant que, de son vivant, il ne bornerait pas sa générosité à cette somme. Elle demande, en conséquence, que les administrateurs du département de [[Paris]], ordonnent que cette rente viagère lui soit payée à compter du jour du décès et que le principal en soit prélevé sur ses biens confisqués au profit de la République. Nous ne savons pas ce qui fut ordonné. Cette brave femme, que notre père ne manquait jamais d’embrasser avec effusion et à plusieurs reprises chaque fois qu’il venait à Arcis, ne lui survécut que pendant peu d’années.
@@ -7393,7 +7393,7 @@ Au président, qui lui demande ses nom, prénoms, âge et domicile, il répond: 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_36" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 36)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_36" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 36)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="histref/napoleon,character/napoleon,character/robespierre"></span>
 
 
 Seance de 14 Germinal (13 Avril).
@@ -7453,7 +7453,7 @@ Je nie et prouve le contraire. Ce fut Marat qui m’envoya un porte feuille et l
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_37" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 37)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_37" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 37)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris,character/robespierre"></span>
 
 
 — Je talonnai Servan et Laenée; je n’ai connu de plan militaire que celui de Dumourier et de Kelerman, et Billaud fut nommé par moi pour surveiller Dumourier; il eu a rendu compte à la législature et aux Jacobin. Ordre d’examiner ce que c’etait... cette retraite (sic). La Convention a envoyé trois commissaires.
@@ -7499,7 +7499,7 @@ Je fus indigné, au 31 mai, de voir un officier qui disait: il n’y a ni Marais
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_38" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 38)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_38" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 38)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Hanriot crut que j’etais opposé à l’insurrection et alors je lui dis: vas toujours ton train, n’aie pas peur, nous voulons constater que l’Assemblée est libre.
@@ -7567,7 +7567,7 @@ Citoyens, — Chargés par les représentans du peuple de leur parler aujourd’
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_39" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 39)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_39" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 39)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="concept/war_and_its_cost,form/history,histref/french_revolution,setting/france,character/danton"></span>
 
 
 Quoiqu’accablés par la tâche périlleuse et grande que vous nous avez imposée, nous avons dû obéir. Votre confiance, notre zèle et l’amour de notre pays ont dû nous tenir lieu de facultés.
@@ -7603,7 +7603,7 @@ C’est de l’audace dans les conceptions politiques, c’est de l’ensemble d
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_40" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 40)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_40" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 40)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="motif/swords_weapons,concept/war_and_its_cost,form/history,histref/french_revolution,setting/france,character/danton"></span>
 
 
 Again, a direct attack on the Girondins, especially in the characteristic phrase, “the paralysis of honesty.”
@@ -7649,7 +7649,7 @@ Ces jours derniers il a défilé devant vous un détachement de braves soldats d
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_41" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 41)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_41" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 41)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/paris"></span>
 
 
 L’armée des Ardennes, réunie à celle du Nord, se forme sous les regards de commissaires actifs, et les recrues y abondent à un point que votre comité a cru devoir les faire refluer vers l’armee du Nord.
@@ -7699,7 +7699,7 @@ VOICI LE DERNIER ÉTAT.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_42" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 42)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_42" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 42)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Il arrive des troupes à Bayonne ainsi que des canons. Le camp qui était à Bidard entre Bayonne et Saint-Jean de Luz a été porté, depuis vendredi, entre Saint-Jean de Luz et Andaye.
@@ -7735,7 +7735,7 @@ Quant à la suppression de la paie en numéraire, toutes les armées de la Répu
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_43" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 43)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_43" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 43)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france"></span>
 
 
 Dans le choix des officiers généraux, nous avons dû quelquefois obéir aux défiances populaires et aux dénonciations individuelles; mais c’est là un des maux attachés à la révolution, qui use beaucoup d’hommes, qui en éloigne un plus grand nombre, et qui présente plus d’accusations que de ressources. Sans doute après les odieuses trahisons qui ont affligé et qui affligent encore la république et désorganisé deux fois les armées, on peut, on doit même devenir défiant et soupçonneux; mais la ligne qui sépare la défiance et la calomnie, est trop facile à dépasser; et si la dénonciation juste est une action civique, l’accusation intéressée est la honte de nos mœurs et la ressource de la haine....
@@ -7771,7 +7771,7 @@ Le comité a cherché à resserrer le lien qui attache déjà, par les relations
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_44" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 44)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_44" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 44)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Nous apprenons que les peuples neutres et amis reçoivent avec reconnaissance le décret du 15 avril, qui eut servi plus utilement la liberté, s’il eut été d’une date plus reculée, et si le décret impolitique du 19 décembre n’eût pas donné un nouveau prétexte à la perfidie des cours étrangères.
@@ -7819,7 +7819,7 @@ A Marseille où tout annonce l’ardeur républicaine, à Marseille où l’on v
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_45" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 45)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_45" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 45)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Nous avons à gémir sur des excès commis à Avignon et à Aix; ce qui s’est passé d’irrégulier à Toulon, relativement aux officiers de la marine, vous sera rapporté quand le comité aura fait le travail de cette partie.
@@ -7871,7 +7871,7 @@ Il a alimenté le fanatisme de la Vendée; il a fourni des hommes, des armes et 
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_46" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 46)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_46" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 46)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 ROYALISME.
@@ -7927,7 +7927,7 @@ Il n’y a que les émigrés, les ci-devant, et les prêtres qui voudraient mett
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_47" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 47)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_47" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 47)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 Les chefs connus sont les ci-devant de Leseur, Laroche-Jacquelin, Beauchamp, Langrenière, Delbecq, Baudré-de-Brochin, Debouillé-Loret, un abbé appelé Larivière. Domengé est colonel-général de la cavalerie; Demenens et Delbecq commandent l’armée catholique-royale.
@@ -7967,7 +7967,7 @@ Elle se ressent partout de l’anarchie que règne. Là, elle délibère; ici, e
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_48" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 48)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_48" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 48)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 C’est à la législation et à la morale à flétrir ceux qui ne paient cette dette ni à la nature ni à la République.
@@ -8025,7 +8025,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_49" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 49)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_49" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 49)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 5 For example, the island of Serque.
@@ -8149,7 +8149,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_50" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 50)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_50" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 50)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,setting/paris"></span>
 
 
 64 Marat’s presses were hidden in a cellar of the Cordeliers now situated under the house of the concierge of the Clinique.
@@ -8265,7 +8265,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_51" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 51)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_51" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 51)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="setting/france,character/robespierre"></span>
 
 
 119 The word “illegally” is just, for the constitution of the Commune and all its acts were legally dependent on the Assembly. On the other hand, the Commune had given this committee right to add to its numbers, but such men as Marat, who was not a member of the Commune, were surely not intended.
@@ -8341,7 +8341,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_09_robespierre--part_52" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 52)" data-chapter="ROBESPIERRE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09_robespierre--part_52" data-title="Danton: A Study — Chapter 8: ROBESPIERRE (part 52)" data-chapter="ROBESPIERRE" data-kind="excerpt" data-tags="character/robespierre"></span>
 
 
 153 Wallon, Tribunal Révolutionnaire, vol. iii. p. 155.

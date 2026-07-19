@@ -1102,7 +1102,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_1" data-title="Julius Caesar — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_1" data-title="Julius Caesar — Act I, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,archetype/shadow,motif/blood,motif/crown,motif/death,motif/fire,motif/flowers,motif/home,motif/love,motif/night,motif/silence,motif/sleep,motif/soul,motif/stars,motif/tears,motif/time,motif/well,motif/winter,concept/ambition,concept/body,concept/conscience,concept/fear,concept/honour,concept/hope,concept/self,character/antonio,character/brutus,character/calpurnia,character/casca,character/cassius,character/flavius,character/julius_caesar,character/mark_antony,character/pompey,character/portia,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1231,7 +1231,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_1--scene_3" data-title="Julius Caesar — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_1--scene_3" data-title="Julius Caesar — Act I, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/birds,motif/cross,motif/crown,motif/fire,motif/ghosts,motif/home,motif/lightning,motif/lion,motif/night,motif/time,motif/well,motif/window,concept/fear,concept/wonder,setting/italy,character/antonio,character/brutus,character/casca,character/cassius,character/julius_caesar,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1283,7 +1283,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_1" data-title="Julius Caesar — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_1" data-title="Julius Caesar — Act II, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/king,motif/blood,motif/clock,motif/crown,motif/death,motif/desire,motif/dreams,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/secrets,motif/sleep,motif/soul,motif/stars,motif/time,motif/well,motif/window,concept/ambition,concept/beauty,concept/doubt,concept/fear,concept/greatness,concept/honour,concept/nature,concept/self,concept/suffering,concept/truth,concept/wonder,character/brutus,character/casca,character/cassius,character/julius_caesar,character/lucius,character/mark_antony,character/pompey,character/portia,character/tarquin"></span>
 
 
 | Speaker | Line |
@@ -1401,7 +1401,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="Julius Caesar — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="Julius Caesar — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="motif/blood,motif/clock,motif/crown,motif/death,motif/dreams,motif/ghosts,motif/home,motif/lightning,motif/love,motif/sleep,motif/time,motif/well,concept/fear,concept/truth,character/brutus,character/calpurnia,character/casca,character/cassius,character/julius_caesar,character/mark_antony"></span>
 
 
 | Speaker | Line |
@@ -1460,7 +1460,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_3" data-title="Julius Caesar — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_3" data-title="Julius Caesar — Act II, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/lover,motif/well,character/brutus,character/casca,character/cassius,character/julius_caesar"></span>
 
 
 | Speaker | Line |
@@ -1471,7 +1471,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_2--scene_4" data-title="Julius Caesar — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_4" data-title="Julius Caesar — Act II, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/clock,motif/death,motif/well,motif/wind,concept/fear,character/brutus,character/julius_caesar,character/lucius,character/portia,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1504,7 +1504,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_1" data-title="Julius Caesar — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_1" data-title="Julius Caesar — Act III, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/rebel,motif/blood,motif/death,motif/desire,motif/dust,motif/fire,motif/leaves,motif/love,motif/time,motif/water,motif/well,concept/ambition,concept/body,concept/doubt,concept/faith,concept/fear,concept/freedom,concept/friendship,concept/honour,concept/hope,concept/revenge,setting/italy,character/brutus,character/casca,character/cassius,character/julius_caesar,character/lepidus,character/mark_antony,character/octavius_caesar,character/pompey,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1619,7 +1619,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="Julius Caesar — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="Julius Caesar — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/lover,archetype/tyrant,motif/blood,motif/crown,motif/death,motif/fire,motif/home,motif/love,motif/memory,motif/rose,motif/silence,motif/soul,motif/summer,motif/tears,motif/time,motif/well,concept/ambition,concept/body,concept/doubt,concept/fear,concept/honour,concept/revenge,character/brutus,character/casca,character/cassius,character/julius_caesar,character/lepidus,character/mark_antony,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -1747,7 +1747,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="Julius Caesar — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="Julius Caesar — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="concept/fear,character/brutus,character/casca,character/cassius,character/julius_caesar"></span>
 
 
 | Speaker | Line |
@@ -1786,7 +1786,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="Julius Caesar — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="Julius Caesar — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="motif/horse,motif/wind,concept/fear,character/brutus,character/cassius,character/julius_caesar,character/lepidus,character/mark_antony"></span>
 
 
 | Speaker | Line |
@@ -1810,7 +1810,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_4--scene_2" data-title="Julius Caesar — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_2" data-title="Julius Caesar — Act IV, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/fool,archetype/ghost,archetype/villain,motif/blood,motif/death,motif/decay,motif/fire,motif/horse,motif/lamb,motif/love,motif/moon,motif/nature,motif/night,motif/sleep,motif/time,motif/well,motif/wind,concept/body,concept/doubt,concept/faith,concept/honour,concept/nature,concept/revenge,concept/truth,character/brutus,character/cassius,character/claudio,character/julius_caesar,character/lepidus,character/lucius,character/mark_antony,character/portia"></span>
 
 
 | Speaker | Line |
@@ -2015,7 +2015,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_1" data-title="Julius Caesar — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_1" data-title="Julius Caesar — Act V, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="archetype/ghost,motif/bees,motif/cross,motif/death,motif/love,motif/storm,motif/time,motif/well,motif/wind,concept/courage,concept/fear,concept/honour,concept/hope,concept/providence,character/brutus,character/casca,character/cassius,character/julius_caesar,character/mark_antony,character/pompey"></span>
 
 
 | Speaker | Line |
@@ -2072,7 +2072,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="Julius Caesar — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="Julius Caesar — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="character/brutus,character/julius_caesar"></span>
 
 
 | Speaker | Line |
@@ -2084,7 +2084,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="Julius Caesar — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="Julius Caesar — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,motif/blood,motif/clock,motif/fire,motif/hill,motif/horse,motif/night,motif/tears,motif/time,motif/well,concept/body,concept/melancholy,character/brutus,character/cassius,character/julius_caesar,character/mark_antony"></span>
 
 
 | Speaker | Line |
@@ -2143,7 +2143,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_4" data-title="Julius Caesar — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_4" data-title="Julius Caesar — Act V, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="motif/death,concept/body,character/brutus,character/flavius,character/julius_caesar"></span>
 
 
 | Speaker | Line |
@@ -2172,7 +2172,7 @@ The [[Tragedy]] of [[Julius Caesar]]
 
 
 
-<span class="atom-split" data-atom="act_5--scene_5" data-title="Julius Caesar — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_5" data-title="Julius Caesar — Act V, Scene 5" data-chapter="Scene 5" data-kind="scene" data-tags="archetype/ghost,motif/death,motif/fire,motif/love,motif/marriage,motif/nature,motif/night,motif/time,motif/well,concept/body,concept/history,concept/honour,concept/melancholy,concept/nature,form/history,setting/court,character/brutus,character/celia,character/duke_frederick,character/jaques,character/julius_caesar,character/mark_antony,character/oliver,character/orlando,character/phoebe,character/rosalind,character/silvius,character/touchstone"></span>
 
 
 | Speaker | Line |

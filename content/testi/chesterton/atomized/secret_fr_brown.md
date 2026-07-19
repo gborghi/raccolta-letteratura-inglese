@@ -6746,7 +6746,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_01" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 1)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_01" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 1)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/fire,motif/garden,motif/jewel,motif/mirror,motif/night,motif/road,motif/well,concept/wonder,histref/america,setting/america,setting/paris"></span>
 
 
 I. THE [[Mirror|MIRROR]] OF THE MAGISTRATE
@@ -6991,7 +6991,7 @@ segno che non vuol essere disturbato.»
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_02" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 2)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_02" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 2)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/detective,archetype/shadow,motif/blood,motif/cross,motif/fire,motif/garden,motif/mirror,motif/moon,motif/water,motif/well,concept/grotesque,concept/identity,form/tragedy,character/father_brown,character/michael"></span>
 
 
 "Sort of red danger signals," suggested the other.
@@ -7152,7 +7152,7 @@ Underhill non seppe per quanto tempo rimase a fissare quella figura macabra, qua
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_03" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 3)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_03" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 3)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/death,motif/dust,motif/garden,motif/home,motif/leaves,motif/mirror,motif/well,concept/doubt,concept/truth,character/father_brown,character/michael,character/pistol"></span>
 
 
 Then he heard Bagshaw saying to the priest:
@@ -7338,7 +7338,7 @@ Alla fine tornarono nell'atrio, dirigendosi verso la porta principale, con [[Fat
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_04" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 4)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_04" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 4)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/cave,motif/dawn,motif/flowers,motif/garden,motif/home,motif/mirror,motif/night,motif/time,concept/self,setting/court,character/arthur,character/father_brown"></span>
 
 
 There was no reply; and they passed out of the front door into the front
@@ -7585,7 +7585,7 @@ di Orm quella [[Night|notte]], fu considerevolmente più efficace.
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_05" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 5)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_05" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 5)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/monster,motif/death,motif/garden,motif/horse,motif/mirror,motif/silence,motif/soul,motif/time,motif/well,concept/ambition,concept/truth,setting/court,character/arthur,character/cain,character/father_brown"></span>
 
 
 The prisoner went into the witness-box, chiefly because his astute
@@ -7716,7 +7716,7 @@ never occurred to him to ask Orm the obvious question."
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_06" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 6)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_06" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 6)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/artist,archetype/child,archetype/detective,motif/garden,motif/mirror,motif/moon,motif/stars,motif/well,concept/mercy,setting/court,character/father_brown"></span>
 
 
 "What question do you mean?" asked the other.
@@ -7891,7 +7891,7 @@ Il prete sbatté le palpebre con un che di sofferto. «Davvero?» mormorò. «Ma
 
 
 
-<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_07" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 7)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_the_mirror_mirror_of_the_magistrate--part_07" data-title="secret Fr Brown — THE MIRROR OF THE MAGISTRATE (part 7)" data-chapter="THE Mirror MIRROR OF THE MAGISTRATE" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/home,motif/mirror,motif/nature,motif/well,concept/nature,character/arthur,character/father_brown,character/pistol"></span>
 
 
 "[[Well]], what else could he have been firing at except Gwynne?" asked the
@@ -8089,7 +8089,7 @@ egli...»
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_01" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 1)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_01" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 1)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,archetype/lover,archetype/rebel,archetype/tyrant,motif/home,motif/love,motif/well,concept/fear,concept/history,concept/hope,concept/imprisonment,concept/martyrdom,concept/revenge,concept/truth,form/history,character/father_brown,character/michael,character/robin_hood"></span>
 
 
 II. THE MAN WITH TWO BEARDS
@@ -8218,7 +8218,7 @@ Si affermava nel giornale che un criminale un tempo famoso, noto come [[Michael]
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_02" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 2)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_02" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 2)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/home,motif/night,motif/spring,motif/well,motif/wheel,motif/window,concept/doubt,concept/education,concept/hope,concept/truth,setting/court"></span>
 
 
 Mr. Simon Bankes, the father of the family, was at once better read and
@@ -8369,7 +8369,7 @@ La bocca di Devine, in quel momento, non pareva così facile da aprire, e giunse
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_03" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 3)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_03" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 3)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/shadow,motif/bees,motif/moon,motif/night,motif/road,motif/well,concept/longing,concept/melancholy,character/father_brown"></span>
 
 
 "I say," burst in the irrepressible John, before Devine could offer any
@@ -8574,7 +8574,7 @@ Un istante dopo vi fu il rumore di colpi alla porta d'ingresso, attutito dalle p
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_04" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 4)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_04" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 4)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/detective,archetype/ghost,motif/decay,motif/garden,motif/ghosts,motif/grave,motif/insects,motif/jewel,motif/rose,motif/silence,motif/time,motif/well,motif/window,concept/fear,character/father_brown,character/michael,character/pistol"></span>
 
 
 "I'm so glad you've come. I've seen a [[Ghost|ghost]]."
@@ -8771,7 +8771,7 @@ Ci fu un [[Silence|silenzio]], e poi Devine sobbalzò e parlò: «Non vorrà mic
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_05" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 5)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_05" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 5)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/detective,archetype/innocent,motif/bees,motif/fire,motif/garden,motif/great_house,motif/moon,motif/night,motif/ship,motif/silence,motif/time,motif/well,motif/window,concept/truth,setting/ship,character/father_brown"></span>
 
 
 Devine nodded gloomily, and the [[Detective|detective]] turned back to his papers.
@@ -8968,7 +8968,7 @@ Devine si sporse in avanti con improvviso interesse. «Vuol dire che non crede c
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_06" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 6)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_06" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 6)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="archetype/detective,motif/bees,motif/garden,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/honour,concept/hope,concept/vanity,histref/reformation,character/father_brown,character/michael"></span>
 
 
 "Where they generally are in such cases," said Carver. "He's either
@@ -9164,7 +9164,7 @@ Il giorno dopo, Devine trovò [[Father Brown]] che andava avanti e indietro dava
 
 
 
-<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_07" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 7)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_the_man_with_two_beards--part_07" data-title="secret Fr Brown — THE MAN WITH TWO BEARDS (part 7)" data-chapter="THE MAN WITH TWO BEARDS" data-kind="excerpt" data-tags="topos/dance_of_death,archetype/ghost,archetype/villain,motif/animals,motif/bees,motif/dawn,motif/fire,motif/garden,motif/home,motif/night,motif/prison,motif/soul,motif/window,concept/body,concept/doubt,concept/grotesque,concept/truth,character/father_brown,character/michael,character/pistol"></span>
 
 
 "No, the more I thought of it the more I felt there was something funny
@@ -9285,7 +9285,7 @@ Ci fu una breve pausa, e poi Devine si strinse nelle spalle e disse: «Tutto si 
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_01" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 1)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_01" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 1)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/fool,motif/grave,motif/leaves,motif/moon,motif/nature,motif/soul,motif/time,motif/well,concept/grotesque,concept/history,concept/nature,concept/providence,concept/self,concept/wonder,form/history,setting/london,character/father_brown,character/hamlet"></span>
 
 
 III THE [[Song|SONG]] OF THE FLYING FISH
@@ -9433,7 +9433,7 @@ La conversazione fu abbastanza generale, giacché era presente tutto il piccolo 
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_02" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 2)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_02" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 2)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/shadow,archetype/tyrant,motif/cave,motif/silence,motif/sleep,motif/supernatural,motif/time,motif/well,concept/hope,character/father_brown,character/witch"></span>
 
 
 To him had been recounted anew the glories of the gilded fish and the
@@ -9681,7 +9681,7 @@ sognante. «Sarebbe meglio di tutte queste parole.»
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_03" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 3)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_03" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 3)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="motif/dreams,motif/garden,motif/jewel,motif/moon,motif/night,motif/river,motif/road,motif/silence,motif/sleep,motif/time,motif/window,concept/solitude,concept/truth,setting/london,character/pistol"></span>
 
 
 "Yes, I might understand that better," said the young man in a low
@@ -9812,7 +9812,7 @@ Boyle, essendo giovane, era naturalmente il più sano e il più pesante dormitor
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_04" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 4)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_04" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 4)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/birds,motif/dawn,motif/desert,motif/road,motif/rose,motif/sleep,motif/time,motif/well,motif/window,setting/desert,character/hamlet"></span>
 
 
 The first complete impressions he had were the words of a [[Song|song]], with a
@@ -10008,7 +10008,7 @@ L'ispettore Pinner era giunto con parecchi poliziotti, e aveva compiuto parecchi
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_05" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 5)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_05" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 5)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="motif/road,motif/time,motif/well,concept/truth,concept/wonder,setting/london,character/father_brown"></span>
 
 
 Indeed, the attitude of each member of the little group was
@@ -10178,7 +10178,7 @@ Mentre aprivano il portone della [[house|casa]] di Smart e salivano le scale, Bo
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_06" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 6)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_06" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 6)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/artist,archetype/ghost,motif/grave,motif/moon,motif/road,motif/well,concept/truth,concept/wonder,character/father_brown"></span>
 
 
 "Or could he have slipped in between you from another angle? Are there
@@ -10378,7 +10378,7 @@ Boyle trovò finalmente le parole, e furono per ripetere parole già dette.
 
 
 
-<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_07" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 7)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_song_song_of_the_flying_fish--part_07" data-title="secret Fr Brown — THE SONG OF THE FLYING FISH (part 7)" data-chapter="THE Song SONG OF THE FLYING FISH" data-kind="excerpt" data-tags="archetype/artist,motif/home,motif/time,motif/well,character/father_brown"></span>
 
 
 "Jameson!" exclaimed Boyle incredulously. "He was such a dull old stick
@@ -10477,7 +10477,7 @@ suddenly do it."
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_01" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 1)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_01" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 1)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="archetype/hero,motif/childhood,motif/memory,motif/time,motif/well,form/tragedy"></span>
 
 
 IV THE ACTOR AND THE ALIBI
@@ -10606,7 +10606,7 @@ Comprendeva la cameriera o vestiarista della moglie del signor Mundon Mandeville
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_02" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 2)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_02" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 2)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="archetype/hero,motif/lamb,motif/silence,motif/time,motif/well,concept/suicide,character/father_brown"></span>
 
 
 Two more figures appeared in that subterranean passage under the stage:
@@ -10775,7 +10775,7 @@ E indicò dove la grande mole nera di Mandeville stava con le spalle a loro, a p
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_03" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 3)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_03" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 3)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/grave,motif/love,motif/night,motif/secrets,motif/silence,motif/well,concept/conscience,concept/doubt,concept/wonder,character/father_brown"></span>
 
 
 "Plays are a bore; but I've never seen a rehearsal in ordinary clothes.
@@ -10969,7 +10969,7 @@ Proseguirono lungo il corridoio fino all'altra estremità, dove la rigida sorveg
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_04" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 4)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_04" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 4)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="motif/blood,motif/mirror,motif/rose,motif/time,motif/well,motif/window,concept/body,concept/education,concept/hope,form/tragedy,character/father_brown,character/queen"></span>
 
 
 They both remained for an instant in a listening attitude, so that the
@@ -11151,7 +11151,7 @@ Quando fu destino che il teatro dovesse essere mutato in una [[house|casa]] di l
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_05" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 5)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_05" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 5)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="archetype/ghost,motif/home,motif/leaves,motif/love,motif/time,concept/body,concept/jealousy,character/father_brown"></span>
 
 
 "It depends," said the priest, "whom you mean by the strange woman."
@@ -11313,7 +11313,7 @@ L'istante dopo si rizzò in piedi, con l'aria assai afflitta e angosciata. «È 
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_06" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 6)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_06" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 6)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="archetype/fool,motif/mirror,motif/silence,motif/soul,motif/tears,motif/well,motif/window,concept/loneliness,concept/martyrdom,concept/self,character/father_brown,character/maria,character/satan,character/witch"></span>
 
 
 "Only being a born [[Fool|fool]]," said [[Father Brown]]; "a very common complaint in
@@ -11468,7 +11468,7 @@ Camminò inquieto su e giù per la stanza finché Jarvis ricomparve sulla porta 
 
 
 
-<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_07" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 7)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_actor_and_the_alibi--part_07" data-title="secret Fr Brown — THE ACTOR AND THE ALIBI (part 7)" data-chapter="THE ACTOR AND THE ALIBI" data-kind="excerpt" data-tags="motif/love,motif/night,motif/silence,motif/time,motif/well,concept/hope,character/father_brown"></span>
 
 
 "[[Well]], I wouldn't be so sure," said [[Father Brown]], with a smile. "But she
@@ -11551,7 +11551,7 @@ Ci fu un [[Silence|silenzio]], e poi l'attore disse: «Lei pensa che sia sguscia
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_01" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 1)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_01" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 1)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="motif/cross,motif/dawn,motif/garden,motif/great_house,motif/river,motif/road,motif/summer,concept/fear,character/arthur,character/father_brown,character/hamlet"></span>
 
 
 V THE VANISHING OF VAUDREY
@@ -11753,7 +11753,7 @@ piuttosto inespressivo; disse soltanto, con mitezza:
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_02" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 2)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_02" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 2)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="archetype/shadow,motif/cross,motif/flowers,motif/journey,motif/love,motif/night,motif/river,motif/silence,motif/time,motif/well,concept/hope,concept/melancholy,setting/court,character/arthur,character/father_brown"></span>
 
 
 "Naturally, we all sympathize with her anxiety. I suppose you haven't
@@ -12009,7 +12009,7 @@ non ha ucciso Vaudrey.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_03" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 3)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_03" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 3)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="archetype/monster,motif/birds,motif/leaves,motif/marriage,motif/river,motif/storm,motif/time,motif/well,concept/conscience,concept/courage,concept/history,concept/madness,concept/melancholy,concept/truth,concept/wonder,form/history,character/arthur,character/father_brown"></span>
 
 
 "Yes," said the other patiently, "and what does that mean?"
@@ -12225,7 +12225,7 @@ voce molto bassa:
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_04" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 4)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_04" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 4)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="motif/blood,motif/river,motif/time,motif/water,motif/well,concept/body,concept/doubt,concept/suicide,form/riddle,character/arthur,character/father_brown,character/hamlet"></span>
 
 
 "Don't let the lady come down here. Can't you get rid of her? Ask her to
@@ -12458,7 +12458,7 @@ tabaccaio?»
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_05" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 5)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_05" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 5)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="motif/flowers,motif/garden,motif/ghosts,motif/grave,motif/river,motif/silence,motif/time,motif/well,concept/body,concept/doubt,concept/fear,character/arthur,character/father_brown,character/hamlet"></span>
 
 
 "What is the matter with you?" demanded [[smith|Smith]] in some exasperation; for
@@ -12706,7 +12706,7 @@ il prete annuì.
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_06" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 6)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_06" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 6)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/prayer,motif/river,motif/silence,motif/sleep,motif/time,motif/well,motif/window,concept/fear,concept/pride,concept/revenge,concept/self,setting/court,character/arthur,character/bottom,character/father_brown"></span>
 
 
 "I know you had," be said. "You hated him; and that's how I know you
@@ -12926,7 +12926,7 @@ udito.»
 
 
 
-<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_07" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 7)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_vanishing_of_vaudrey--part_07" data-title="secret Fr Brown — THE VANISHING OF VAUDREY (part 7)" data-chapter="THE VANISHING OF VAUDREY" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/dawn,motif/garden,motif/great_house,motif/prison,motif/river,motif/road,motif/silence,motif/soul,motif/time,motif/wind,concept/apocalypse,concept/body,concept/pride,concept/revenge,concept/self,concept/vanity,character/arthur,character/father_brown"></span>
 
 
 "It wasn't on John Dalmon that he planned vengeance," replied the
@@ -13150,7 +13150,7 @@ notizie di lui e Dalmon sembra essere scomparso del tutto.»
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_01" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 1)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_01" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 1)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="archetype/child,motif/city,motif/time,motif/well,concept/hope,concept/truth,setting/castle,character/father_brown"></span>
 
 
 VI THE WORST CRIME IN THE WORLD
@@ -13299,7 +13299,7 @@ Era il viso acuto ma non ostile di un avvocato di nome Granby, le cui chiazze di
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_02" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 2)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_02" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 2)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/well,concept/grotesque,concept/resignation,concept/wonder,setting/london,character/father_brown"></span>
 
 
 And the solicitor, who had been stamping impatiently about the emptier
@@ -13576,7 +13576,7 @@ altrui.
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_03" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 3)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_03" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 3)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="motif/great_house,motif/home,motif/journey,motif/leaves,motif/time,motif/water,motif/well,concept/doubt,concept/greatness,concept/history,concept/honour,concept/solitude,form/history,form/novel,setting/castle,character/edward_iii,character/father_brown"></span>
 
 
 They broke their [[Journey|journey]] very agreeably in one of the great dales of the
@@ -13745,7 +13745,7 @@ Li condusse nella galleria più interna, di cui avevano già colto un'occhiata, 
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_04" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 4)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_04" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 4)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="archetype/king,archetype/pilgrim,motif/grave,motif/journey,motif/night,motif/stars,motif/time,motif/well,concept/doubt,concept/hope,concept/truth,setting/castle,character/father_brown"></span>
 
 
 "Yes," said [[Father Brown]] thoughtfully; "I see what you mean."
@@ -13923,7 +13923,7 @@ Il giorno dopo [[Father Brown]] rientrò piuttosto spossato, e gettò a terra il
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_05" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 5)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_05" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 5)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="archetype/fool,motif/fire,motif/night,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/body,concept/inner_life,setting/castle,character/father_brown"></span>
 
 
 "It's rather a shock," he said in a dull voice; "but I ought to have
@@ -14099,7 +14099,7 @@ Si fermò un istante, poi proseguì con tono più prosaico: «A pensarci bene, �
 
 
 
-<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_06" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 6)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_worst_crime_in_the_world--part_06" data-title="secret Fr Brown — THE WORST CRIME IN THE WORLD (part 6)" data-chapter="THE WORST CRIME IN THE WORLD" data-kind="excerpt" data-tags="motif/marriage,motif/night,motif/well,concept/paradox,concept/truth,character/father_brown"></span>
 
 
 "An old man of eighty can walk," said [[Father Brown]]. "An old man can even
@@ -14263,7 +14263,7 @@ un prudente [[Marriage|matrimonio]].»
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_01" data-title="secret Fr Brown — THE RED MOON OF MERU (part 1)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_01" data-title="secret Fr Brown — THE RED MOON OF MERU (part 1)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="archetype/prophet,motif/moon,motif/well,concept/charity,concept/doubt,concept/honour,concept/mesmerism,concept/paradox,concept/truth,concept/wonder,character/father_brown"></span>
 
 
 VII THE RED [[Moon|MOON]] OF MERU
@@ -14410,7 +14410,7 @@ La persona interpellata guardò piuttosto perplessa il cerchietto che teneva in 
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_02" data-title="secret Fr Brown — THE RED MOON OF MERU (part 2)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_02" data-title="secret Fr Brown — THE RED MOON OF MERU (part 2)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="archetype/ghost,archetype/prophet,motif/moon,motif/secrets,motif/time,motif/well,concept/solitude,character/father_brown,character/monks"></span>
 
 
 "You really think," began Hardcastle grimly.
@@ -14600,7 +14600,7 @@ Era un signore anziano, ammantato dalla testa ai piedi di bianco, con un turbant
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_03" data-title="secret Fr Brown — THE RED MOON OF MERU (part 3)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_03" data-title="secret Fr Brown — THE RED MOON OF MERU (part 3)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/jewel,motif/moon,motif/prayer,motif/rose,motif/time,motif/water,motif/window,concept/hope,concept/truth,histref/christianity,histref/islam,character/christ,character/father_brown"></span>
 
 
 The others were all staring at what seemed a stupendously large red
@@ -14747,7 +14747,7 @@ Persino la serenità cattedratica di sua signoria fu spezzata di colpo dalla voc
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_04" data-title="secret Fr Brown — THE RED MOON OF MERU (part 4)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_04" data-title="secret Fr Brown — THE RED MOON OF MERU (part 4)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="archetype/king,archetype/prophet,motif/jewel,motif/moon,motif/rose,motif/silence,motif/time,motif/well,motif/window,setting/mountains,character/father_brown"></span>
 
 
 "Look here," cried the impetuous Tommy Hunter, "I haven't got any bumps;
@@ -14938,7 +14938,7 @@ Hardcastle [[Rose|si levò]] con impazienza e cominciò a percorrere la stanza c
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_05" data-title="secret Fr Brown — THE RED MOON OF MERU (part 5)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_05" data-title="secret Fr Brown — THE RED MOON OF MERU (part 5)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="archetype/detective,archetype/fool,archetype/hero,motif/moon,motif/rose,motif/time,motif/water,motif/well,motif/window,concept/doubt,concept/honour,concept/mesmerism,character/father_brown"></span>
 
 
 "I never believed so much as you did; but I admit that powers of a-
@@ -15141,7 +15141,7 @@ Dopo una pausa proseguì pensieroso. «Fin dal principio, in quella loro discuss
 
 
 
-<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_06" data-title="secret Fr Brown — THE RED MOON OF MERU (part 6)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_07_the_red_moon_moon_of_meru--part_06" data-title="secret Fr Brown — THE RED MOON OF MERU (part 6)" data-chapter="THE RED Moon MOON OF MERU" data-kind="excerpt" data-tags="archetype/innocent,motif/flowers,motif/jewel,motif/moon,motif/time,motif/well,motif/window,concept/ambition,concept/hope,concept/temptation,character/father_brown"></span>
 
 
 "Do you mean he made that an excuse?" asked his companion, puzzled.
@@ -15264,7 +15264,7 @@ Ci fu una lunga pausa e poi l'ex Frenologo disse lentamente. «[[Well]], questo 
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_01" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 1)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_01" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 1)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/child,motif/lightning,motif/road,motif/spring,motif/storm,motif/time,concept/melancholy,setting/castle"></span>
 
 
 VIII THE CHIEF MOURNER OF MARNE
@@ -15416,7 +15416,7 @@ La signora americana lo guardò accigliata e con una lieve aria di diffidenza, c
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_02" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 2)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_02" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 2)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/artist,archetype/fool,motif/death,motif/garden,motif/home,motif/love,motif/memory,motif/silence,motif/storm,motif/well,concept/exile,concept/madness,concept/pride,concept/wonder,form/tragedy,histref/america,setting/america,character/hamlet,character/monks,character/ophelia,character/viola"></span>
 
 
 "The reason," she replied, "is that he isn't the Nobleman Nobody Knows.
@@ -15575,7 +15575,7 @@ Mentre si allontanavano in processione, Mallow e il generale chiudevano la fila;
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_03" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 3)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_03" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 3)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="motif/ship,motif/time,motif/well,concept/hope,concept/humility,concept/truth,form/tragedy,setting/ship,character/father_brown,character/monks"></span>
 
 
 "It's all very strange," said the young man rather vaguely. "It isn't
@@ -15820,7 +15820,7 @@ Gli occhi castani luccicarono di nuovo, ma il generale non disse nulla.
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_04" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 4)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_04" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 4)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flag,motif/well,concept/conscience,concept/doubt,concept/truth,concept/vanity,form/tragedy,character/father_brown,character/pistol"></span>
 
 
 "General," said [[Father Brown]], "suppose Cockspur or his sort were going
@@ -16001,7 +16001,7 @@ Il generale si alzò in piedi e cominciò a camminare, anzi a battere i piedi, p
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_05" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 5)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_05" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 5)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/death,motif/horse,motif/love,motif/memory,motif/soul,motif/time,motif/well,concept/body,setting/castle,character/father_brown,character/hamlet,character/pistol,character/speed,character/viola"></span>
 
 
 "How do you know all this?" asked the priest.
@@ -16125,7 +16125,7 @@ council of old friends to-morrow, I believe. She is very energetic."
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_06" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 6)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_06" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 6)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="topos/double,motif/death,motif/lightning,motif/storm,motif/time,concept/charity,concept/friendship,concept/hope,concept/imagination,form/tragedy,setting/castle,character/father_brown"></span>
 
 
 [[Father Brown]] was playing with the pins that lay beside the general's
@@ -16356,7 +16356,7 @@ secolo fa. È questa che voi chiamate [[Charity|carità]] cristiana?»
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_07" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 7)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_07" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 7)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/ghost,motif/birds,motif/death,motif/desert,motif/fire,motif/grave,motif/lightning,motif/love,motif/silence,motif/time,motif/well,concept/charity,concept/conscience,concept/mercy,concept/resignation,histref/christianity,setting/castle,setting/desert,character/cain,character/father_brown,character/viola"></span>
 
 
 "It's about all the Christian [[Charity|charity]] you'll ever get out of these
@@ -16618,7 +16618,7 @@ della poltrona come per alzarsi.
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_08" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 8)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_08" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 8)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/lover,motif/dawn,motif/fire,motif/night,motif/silence,motif/well,concept/body,concept/charity,concept/conscience,concept/despair,concept/honour,concept/hope,concept/melancholy,concept/mercy,concept/reform,concept/suicide,setting/castle,character/father_brown,character/flambeau,character/pistol"></span>
 
 
 "Amen," said [[Father Brown]]. "You told me how quickly it seemed to come;
@@ -16799,7 +16799,7 @@ IL SEGRETO DI [[Flambeau|FLAMBEAU]]
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_09" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 9)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_09" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 9)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="archetype/child,archetype/monster,archetype/prophet,motif/fire,motif/ghosts,motif/jewel,motif/silence,motif/time,motif/uncanny,motif/well,concept/charity,concept/honour,concept/humility,concept/imagination,concept/madness,concept/uncanny,character/father_brown"></span>
 
 
 "Some people would think it was rather morbid," said Grandison Chace
@@ -17025,7 +17025,7 @@ quelle due virtù».
 
 
 
-<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_10" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 10)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_08_the_chief_mourner_of_marne--part_10" data-title="secret Fr Brown — THE CHIEF MOURNER OF MARNE (part 10)" data-chapter="THE CHIEF MOURNER OF MARNE" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/blood,motif/fire,motif/night,motif/rose,concept/hope,concept/reform,concept/truth,character/father_brown,character/flambeau"></span>
 
 
 They did not answer and he went on in the same heavy tone, as if he were

@@ -6270,7 +6270,7 @@ The End
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/fire,motif/flowers,motif/garden,motif/hill,motif/love,motif/road,motif/rose,motif/ship,motif/storm,motif/time,motif/wind,form/melodrama,form/tragedy,setting/london,setting/ship,character/cleopatra"></span>
 
 
 Chapter I
@@ -6375,7 +6375,7 @@ like the curtain of some long-expected pantomime.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="Manalive — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="Manalive — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="archetype/child,archetype/fool,archetype/innocent,motif/birds,motif/decay,motif/desire,motif/fire,motif/garden,motif/memory,motif/moon,motif/pain,motif/silence,motif/well,motif/wind,concept/ambition,concept/apocalypse,concept/body,character/arthur,character/diana,character/michael"></span>
 
 
 Nor, oddly, was the girl in blue entirely unimpressed by this
@@ -6563,7 +6563,7 @@ C'era un piccolo ebreo elastico di nome Moses Gould nella stessa pensione, un uo
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/fire,motif/moon,motif/wind,concept/doubt,setting/germany,setting/oxford,character/michael"></span>
 
 
 The colossal clearance which the [[Wind|wind]] had made of that cloudy sky grew
@@ -6694,7 +6694,7 @@ holding his breath, like a man watching a duel.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_04" data-title="Manalive — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_04" data-title="Manalive — Chapter 1 (part 4)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="topos/axis_mundi_world_tree,motif/tree,motif/wind,motif/autumn,concept/wonder,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/dr_warner"></span>
 
 
 While that tall wind was at the top of its sky-scraping energy,
@@ -6823,7 +6823,7 @@ and that great western wind shook the whole house and passed.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="concept/wonder,concept/optimism,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/moses_gould,character/rosamund_hunt,character/mary_gray"></span>
 
 
 Chapter II
@@ -6943,7 +6943,7 @@ house was much shorter than it used to be.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="Manalive — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="Manalive — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/innocent,archetype/child,motif/wine_and_drink,concept/innocence_and_experience,concept/wonder,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/moses_gould,character/diana_duke,character/rosamund_hunt,character/joan_of_arc"></span>
 
 
 Arthur Inglewood followed his old friend--or his new friend,
@@ -7061,7 +7061,7 @@ like the conical hood of a dwarf.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/world_upside_down,motif/wine_and_drink,motif/stars,motif/the_supernatural,concept/wonder,character/innocent_smith,character/michael_moon,character/arthur_inglewood,character/moses_gould,character/satan"></span>
 
 
 "Rather a small box for you, sir," said the waggish Mr. Gould.
@@ -7175,7 +7175,7 @@ was now almost demoniacal.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="Manalive — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="Manalive — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/world_upside_down,motif/wine_and_drink,motif/swords_and_weapons,concept/wonder,concept/madness,histref/irish_question,character/michael_moon,character/arthur_inglewood,character/innocent_smith,character/rosamund_hunt"></span>
 
 
 "Christ confound it!" cried out Moon, suddenly clutching the empty
@@ -7326,7 +7326,7 @@ Fu quindi tanto più commosso e persino scioccato quando i suoi occhi caddero su
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/trickster,concept/freedom,concept/order_vs_chaos,concept/wonder,histref/tennyson,character/innocent_smith,character/arthur_inglewood,character/michael_moon,character/diana_duke,character/rosamund_hunt,character/mary_gray"></span>
 
 
 Chapter III
@@ -7448,7 +7448,7 @@ her silence was a sort of steady applause.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="Manalive — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="Manalive — Chapter 3 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/crown,motif/desire,motif/storm,motif/time,form/sonnet,character/michael"></span>
 
 
 But among the hilarious experiments of that holiday
@@ -7573,7 +7573,7 @@ or one of Miss Hunt's gold bangles is nearly big enough to--"
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="Manalive — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="Manalive — Chapter 3 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/dance,motif/garden,motif/jewel,motif/moon,motif/noon,motif/time,motif/well,concept/humility,concept/madness,concept/self,form/allegory,form/satire,character/michael"></span>
 
 
 The good-humoured Rosamund was almost choking with laughter.
@@ -7706,7 +7706,7 @@ An [[Allegory|allegory]], shall we say? a social [[Satire|satire]]."
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/machine,motif/road,motif/time,motif/well,motif/window,concept/wonder,character/arthur,character/diana,character/michael,character/speed"></span>
 
 
 "And I hate and despise your satires," cried Rosamund Hunt,
@@ -7796,7 +7796,7 @@ Gladstone bag on top of it.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/cross,motif/garden,motif/love,motif/marriage,motif/moon,motif/night,motif/sleep,motif/soul,motif/tears,motif/well,motif/wheel,concept/body,concept/honour,concept/truth,character/diana,character/michael"></span>
 
 
 Chapter IV
@@ -8014,7 +8014,7 @@ e non è mai soddisfacente."
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="Manalive — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="Manalive — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/childhood,motif/dance,motif/fire,motif/garden,motif/memory,motif/moon,motif/stars,motif/tears,motif/time,motif/well,setting/london,character/arthur,character/diana,character/michael"></span>
 
 
 "[[Michael]]," said Miss Hunt, in a very soft voice, "if you won't talk so much,
@@ -8136,7 +8136,7 @@ batteries with an animal magnetism.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,motif/dance,motif/garden,motif/grave,motif/hill,motif/memory,motif/moon,motif/night,motif/time,concept/truth,concept/wonder,setting/london,character/arthur,character/diana,character/michael"></span>
 
 
 "And now," cried [[Moon]] quite suddenly, stretching out a hand on each side,
@@ -8277,7 +8277,7 @@ animal that we have all been."
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="Manalive — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="Manalive — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/swords_and_weapons,concept/innocence_and_experience,concept/appearance_vs_reality,character/innocent_smith,character/michael_moon,character/dr_warner,character/arthur_inglewood,character/dr_cyrus_pym,character/rosamund_hunt"></span>
 
 
 "That is only you absurd boys," said Diana.  "I don't believe
@@ -8405,7 +8405,7 @@ away towards the darkening road.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="Manalive — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="Manalive — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/detective,concept/appearance_vs_reality,concept/deception,concept/crime_and_punishment,character/dr_cyrus_pym,character/dr_warner,character/rosamund_hunt,character/innocent_smith,character/don_quixote"></span>
 
 
 Chapter V
@@ -8529,7 +8529,7 @@ and the garden seemed to grow grayer still.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="Manalive — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="Manalive — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="concept/faith,concept/appearance_vs_reality,concept/crime_and_punishment,character/mary_gray,character/rosamund_hunt,character/diana_duke,character/dr_cyrus_pym,character/dr_warner,character/michael_moon,character/innocent_smith"></span>
 
 
 The American gentleman named Pym seemed to be turning and on the move
@@ -8664,7 +8664,7 @@ to have killed the women too, for nobody can find them."
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="Manalive — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="Manalive — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/moon,setting/court,character/diana,character/michael"></span>
 
 
 "He is really rather naughty sometimes," said Mary Gray,
@@ -8809,7 +8809,7 @@ and airy style.  I appeal to Mrs. Duke--it's her house."
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="Manalive — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="Manalive — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,archetype/monster,motif/desert,motif/home,motif/moon,motif/well,concept/melancholy,concept/self,concept/truth,setting/court,setting/desert,character/arthur"></span>
 
 
 "Mrs. Duke?" repeated Inglewood doubtfully.
@@ -8931,7 +8931,7 @@ sleeping [[dogs]] lie.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="Manalive — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="Manalive — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,archetype/monster,archetype/shadow,motif/garden,motif/moon,motif/night,motif/time,motif/well,concept/freedom,setting/court,character/diana,character/michael"></span>
 
 
 On the other hand, Cyrus Pym belonged to a country in which things are
@@ -9105,7 +9105,7 @@ dopo aver corretto il suo costume di piume, volò via.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="Manalive — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="Manalive — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,archetype/shadow,motif/dance,motif/garden,motif/horse,motif/moon,motif/night,motif/silence,motif/spring,motif/time,motif/well,motif/wind,concept/doubt,concept/temptation,form/tragedy,setting/court,character/arthur,character/diana,character/michael,character/pistol"></span>
 
 
 "Why," cried [[Michael]], with a shout of laughter, "the [[Court]] of Beacon
@@ -9218,7 +9218,7 @@ attitude as before.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="Manalive — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="Manalive — Chapter 5 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,motif/autumn,motif/dance,motif/flowers,motif/garden,motif/leaves,motif/marriage,motif/moon,motif/night,motif/soul,motif/storm,motif/time,motif/well,motif/wind,concept/body,concept/despair,setting/court,character/arthur,character/michael,character/oliver"></span>
 
 
 "Get inside! get inside!" cried [[Moon]] hilariously, with the air
@@ -9363,7 +9363,7 @@ Homer Danton Michaelangelo Shakespeare Brakespeare--"
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="Manalive — Chapter 1 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/flowers,motif/garden,motif/moon,motif/nature,motif/rose,motif/soul,motif/time,motif/window,concept/beauty,concept/nature,setting/court,character/michael,character/queen"></span>
 
 
 Chapter I
@@ -9478,7 +9478,7 @@ burst like a well-timed bomb."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Manalive — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Manalive — Chapter 1 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/letters_and_writing,motif/swords_and_weapons,concept/crime_and_punishment,concept/faith_and_doubt,concept/rationalism,character/innocent_smith,character/dr_cyrus_pym,character/moses_gould,character/michael_moon,character/arthur_inglewood"></span>
 
 
 Arthur Inglewood glanced curiously for an instant at the huge creature
@@ -9596,7 +9596,7 @@ My principal wants to do a bit of talkin'."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="Manalive — Chapter 1 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/moon,motif/water,concept/body,setting/london"></span>
 
 
 Dr. Pym was indeed on his feet, looking pallid and rather vicious.
@@ -9715,7 +9715,7 @@ shots really hit the doctor."
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="Manalive — Chapter 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="Manalive — Chapter 1 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="archetype/fool,archetype/innocent,motif/moon,motif/river,motif/rose,motif/silence,motif/water,motif/well,motif/window,concept/doubt,concept/self,concept/truth,form/riddle,setting/venice,character/arthur,character/michael"></span>
 
 
 "Yet they were fired from a few feet away."
@@ -9849,7 +9849,7 @@ into which a bird could as easily wing its way as--"
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="Manalive — Chapter 1 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="Manalive — Chapter 1 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="topos/double,motif/animals,motif/cross,motif/machine,motif/mirror,motif/moon,motif/nakedness,motif/nature,motif/night,motif/rose,motif/stars,motif/time,motif/water,motif/well,concept/body,concept/nature,concept/reform,concept/suicide,concept/truth,setting/court,character/brutus,character/michael,character/pistol"></span>
 
 
 Dr. Cyrus Pym [[Rose|rose]] in protest.  The documents he had put
@@ -9962,7 +9962,7 @@ atrocious because it was true.  All their universe was black with white spots.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="Manalive — Chapter 1 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="Manalive — Chapter 1 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/home,motif/night,motif/pain,motif/silence,motif/stars,motif/swallow,motif/well,motif/window,concept/despair,concept/melancholy,character/pistol"></span>
 
 
 "[[smith|Smith]] looked up with relief from the glittering pools below
@@ -10093,7 +10093,7 @@ and seeing the South Pole below.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_07" data-title="Manalive — Chapter 1 (part 7)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_07" data-title="Manalive — Chapter 1 (part 7)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/fire,concept/despair,concept/doubt,histref/bible,character/pistol"></span>
 
 
 "‘Hang the world, we said,' observed Smith, ‘and the world is hanged.
@@ -10228,7 +10228,7 @@ with which he summoned the porter and the ladder.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_08" data-title="Manalive — Chapter 1 (part 8)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_08" data-title="Manalive — Chapter 1 (part 8)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/birds,motif/death,motif/night,motif/pain,motif/rose,motif/time,motif/water,motif/well,character/pistol"></span>
 
 
 "It took Dr. Eames some little time to disentangle himself from
@@ -10359,7 +10359,7 @@ Warden of Brakespeare College, Cambridge.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_01" data-title="Manalive — Chapter 2 (part 1)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/swords_and_weapons,concept/crime_and_punishment,concept/rationalism,concept/paradox,concept/satire_of_society,character/innocent_smith,character/arthur_inglewood,character/dr_cyrus_pym,character/michael_moon,character/dr_warner,character/moses_gould"></span>
 
 
 Chapter II
@@ -10488,7 +10488,7 @@ Kleptomania commonly con-joins itself--"
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_02" data-title="Manalive — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_02" data-title="Manalive — Chapter 2 (part 2)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/crime_and_punishment,concept/rationalism,concept/satire_of_society,concept/socialism,concept/paradox,character/innocent_smith,character/dr_cyrus_pym,character/michael_moon,character/moses_gould"></span>
 
 
 "I beg pardon," said Michael; "I did not ask just now because,
@@ -10605,7 +10605,7 @@ and envious faces--"
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_03" data-title="Manalive — Chapter 2 (part 3)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/cross,motif/grave,motif/well,concept/vanity"></span>
 
 
 "Adopting," said Moon explosively, for he was getting restive--"adopting
@@ -10722,7 +10722,7 @@ could all the time.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_04" data-title="Manalive — Chapter 2 (part 4)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_04" data-title="Manalive — Chapter 2 (part 4)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/letters_and_writing,concept/socialism,concept/reform,concept/crime_and_punishment,concept/satire_of_society,character/innocent_smith,character/michael_moon,character/dr_cyrus_pym,character/moses_gould,character/arthur_inglewood"></span>
 
 
 "‘It's a right-of-way,' declared my indefensible informant.
@@ -10862,7 +10862,7 @@ when all three men were standing on the garden wall:--
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_05" data-title="Manalive — Chapter 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_05" data-title="Manalive — Chapter 2 (part 5)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/blood,motif/rose,character/michael,character/witch"></span>
 
 
 "As I watched Hawkins wavering on the wall, I made up my own mind
@@ -10974,7 +10974,7 @@ the reading of the document.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_06" data-title="Manalive — Chapter 2 (part 6)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_06" data-title="Manalive — Chapter 2 (part 6)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/childhood,motif/city,motif/moon,motif/time,concept/truth,concept/vanity,form/comedy,setting/italy,setting/london"></span>
 
 
 "Then I read the writing of the smoke.  Smoke was like the modern
@@ -11086,7 +11086,7 @@ is really wrong.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_07" data-title="Manalive — Chapter 2 (part 7)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_07" data-title="Manalive — Chapter 2 (part 7)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="topos/double,archetype/monster,motif/well,motif/window,concept/pride,form/riddle,setting/egypt,character/pistol"></span>
 
 
 "It was too late to turn back, however, and I followed
@@ -11216,7 +11216,7 @@ I am only quite certain that I did not expect to see what I did see.
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_08" data-title="Manalive — Chapter 2 (part 8)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_08" data-title="Manalive — Chapter 2 (part 8)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="motif/autumn,motif/blood,motif/death,motif/leaves,motif/love,motif/spring,motif/stars,motif/time,motif/well,concept/doubt,concept/faith,concept/fear,concept/wonder,form/satire,character/brutus,character/pistol,character/speed"></span>
 
 
 "Framed in the open doorway stood, with an air of great serenity,
@@ -11336,7 +11336,7 @@ late for tea.'
 
 
 
-<span class="atom-split" data-atom="chapter_08--part_09" data-title="Manalive — Chapter 2 (part 9)" data-chapter="Chapter 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_08--part_09" data-title="Manalive — Chapter 2 (part 9)" data-chapter="Chapter 08" data-kind="excerpt" data-tags="archetype/innocent,motif/home,concept/wonder_and_gratitude,concept/marriage_and_fidelity,concept/paradox,character/innocent_smith,character/moses_gould,character/michael_moon,character/arthur_inglewood,character/mary_gray"></span>
 
 
 "He lashed his soul with laughter to prevent it falling asleep.
@@ -11432,7 +11432,7 @@ in elsewhere; then the wrinkle vanished and he looked relieved.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_01" data-title="Manalive — Chapter 3 (part 1)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/road,motif/garden,motif/lamp_post,concept/marriage_and_fidelity,concept/crime_and_punishment,character/innocent_smith,character/dr_cyrus_pym,character/michael_moon,character/arthur_inglewood,character/moses_gould,character/mary_gray"></span>
 
 
 Chapter III
@@ -11552,7 +11552,7 @@ By Mr. Inglewood's favour we will hear the French innkeeper."
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Manalive — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Manalive — Chapter 3 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="topos/world_upside_down,motif/city,motif/dawn,concept/honour,concept/hope,histref/french_revolution,character/kent"></span>
 
 
 Before the company had decided the delicate point Inglewood was already
@@ -11686,7 +11686,7 @@ with which I have the [[Honour|honour]] to be your obedient servant,
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_03" data-title="Manalive — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_03" data-title="Manalive — Chapter 3 (part 3)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/marriage,motif/memory,motif/snow,motif/window,motif/winter,concept/freedom,setting/russia"></span>
 
 
 "The next document in our dossier," continued Inglewood,
@@ -11806,7 +11806,7 @@ the one hot and heavy cloud of that cold clear evening of pale green.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_04" data-title="Manalive — Chapter 3 (part 4)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/birds,motif/love,motif/night,concept/doubt,setting/court,setting/russia"></span>
 
 
 "‘Yes,' he said with a huge sigh, ‘I am free in [[Russia]].  You are right.
@@ -11934,7 +11934,7 @@ yet his look was very gentle.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_05" data-title="Manalive — Chapter 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_05" data-title="Manalive — Chapter 3 (part 5)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/innocent,motif/autumn,motif/blood,motif/city,motif/garden,motif/leaves,motif/nature,motif/night,motif/road,motif/stars,motif/time,motif/well,motif/winter,concept/hope,concept/nature,concept/solitude,setting/mountains,character/arthur,character/hamlet"></span>
 
 
 "And I, smiling at his simplicity, answered:  ‘And so, if there be no gods,
@@ -12113,7 +12113,7 @@ cosa che non facevo da quattordici anni.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_06" data-title="Manalive — Chapter 3 (part 6)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_06" data-title="Manalive — Chapter 3 (part 6)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="archetype/pilgrim,motif/garden,motif/home,motif/road,motif/rose,concept/exile"></span>
 
 
 "Then he slowly withdrew his eyes from this and looked out eastward
@@ -12247,7 +12247,7 @@ the table like the Committee of Public Safety.
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_07" data-title="Manalive — Chapter 3 (part 7)" data-chapter="Chapter 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_09--part_07" data-title="Manalive — Chapter 3 (part 7)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="motif/well,concept/conscience,concept/doubt"></span>
 
 
 Suddenly Moses Gould banged one big scientific book on top of another,
@@ -12348,7 +12348,7 @@ of the darkening room.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Manalive — Chapter 4 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,motif/marriage,motif/time,motif/well,concept/comradeship,concept/doubt,concept/temptation,concept/truth,character/michael"></span>
 
 
 Chapter IV
@@ -12467,7 +12467,7 @@ and deeper into the shaking quagmires of infidelity and shame."
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Manalive — Chapter 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Manalive — Chapter 4 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,archetype/king,motif/machine,motif/marriage,motif/time,character/richard"></span>
 
 
 Dr. Pym closed his eyes, but the unfortunate fact that there was no more
@@ -12586,7 +12586,7 @@ Publishers' Reader.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="Manalive — Chapter 4 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/wordplay,motif/letters_and_writing,concept/madness,concept/power_of_language,concept/nonsense,concept/crime_and_punishment,character/innocent_smith,character/dr_cyrus_pym,character/michael_moon"></span>
 
 
 "And the last document," said Dr. Pym complacently, "is from
@@ -12696,7 +12696,7 @@ But we still ask whether they were ever born?"
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="Manalive — Chapter 4 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="Manalive — Chapter 4 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/love,motif/moon,motif/well,character/michael"></span>
 
 
 "There could hardly," interposed Pym with a quiet smile,
@@ -12819,7 +12819,7 @@ at Beacon House, West Hampstead."
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="Manalive — Chapter 4 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="Manalive — Chapter 4 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,archetype/innocent,motif/city,motif/flowers,motif/garden,motif/love,motif/moon,motif/road,motif/rose,motif/silence,motif/well,concept/doubt,form/tragedy,character/christ,character/michael,character/pistol"></span>
 
 
 Amid a dead silence Moon continued his exposition.
@@ -12966,7 +12966,7 @@ Dr. Herbert Warner died years ago."
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Manalive — Chapter 5" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Manalive — Chapter 5" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/innocent,archetype/king,motif/fire,motif/garden,motif/leaves,motif/river,motif/road,motif/storm,motif/time,motif/well,motif/wind,motif/window,concept/truth,character/arthur,character/diana,character/michael,character/sunday"></span>
 
 
 Chapter V

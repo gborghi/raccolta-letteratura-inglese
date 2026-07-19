@@ -2524,7 +2524,7 @@ BILLING AND SONS, LTD., PRINTERS, GUILDFORD
 
 
 
-<span class="atom-split" data-atom="story_01_in_defence_of_a_new_edition" data-title="The Defendant — IN DEFENCE OF A NEW EDITION" data-chapter="IN DEFENCE OF A NEW EDITION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_01_in_defence_of_a_new_edition" data-title="The Defendant — IN DEFENCE OF A NEW EDITION" data-chapter="IN DEFENCE OF A NEW EDITION" data-kind="story" data-tags="archetype/child,motif/decay,motif/desire,motif/dust,motif/memory,motif/river,concept/beauty,concept/melancholy,concept/paradox,concept/pride,concept/reform,concept/truth,form/fragment,character/king_john"></span>
 
 
 _IN DEFENCE OF A NEW EDITION
@@ -2696,7 +2696,7 @@ L'IMPUTATO
 
 
 
-<span class="atom-split" data-atom="story_02_introduction" data-title="The Defendant — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_02_introduction" data-title="The Defendant — INTRODUCTION" data-chapter="INTRODUCTION" data-kind="story" data-tags="archetype/lover,archetype/prophet,motif/birds,motif/city,motif/death,motif/dust,motif/garden,motif/pain,motif/snow,motif/spring,motif/time,concept/fear,concept/history,concept/humility,concept/imagination,concept/pride,form/history,setting/mountains,character/christ"></span>
 
 
 INTRODUCTION
@@ -2936,7 +2936,7 @@ e l'Uomo fu respinto dagli uomini.
 
 
 
-<span class="atom-split" data-atom="story_03_a_defence_of_penny_dreadfuls" data-title="The Defendant — A DEFENCE OF PENNY DREADFULS" data-chapter="A DEFENCE OF PENNY DREADFULS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_03_a_defence_of_penny_dreadfuls" data-title="The Defendant — A DEFENCE OF PENNY DREADFULS" data-chapter="A DEFENCE OF PENNY DREADFULS" data-kind="story" data-tags="archetype/child,motif/blood,motif/childhood,motif/cross,motif/grave,motif/prison,motif/soul,motif/time,concept/conscience,concept/courage,concept/doubt,concept/history,concept/pride,concept/revenge,concept/sublime,concept/suicide,form/epigram,form/history,form/novel,character/robin_hood"></span>
 
 
 A DEFENCE OF PENNY DREADFULS
@@ -3147,7 +3147,7 @@ Ma siamo noi le eccezioni morbose; siamo noi la classe criminale. Questo dovrebb
 
 
 
-<span class="atom-split" data-atom="story_04_a_defence_of_rash_vows" data-title="The Defendant — A DEFENCE OF RASH VOWS" data-chapter="A DEFENCE OF RASH VOWS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_04_a_defence_of_rash_vows" data-title="The Defendant — A DEFENCE OF RASH VOWS" data-chapter="A DEFENCE OF RASH VOWS" data-kind="story" data-tags="topos/golden_age,archetype/artist,archetype/king,archetype/lover,motif/city,motif/desire,motif/flag,motif/home,motif/leaves,motif/love,motif/marriage,motif/moon,motif/mutability,motif/nature,motif/night,motif/pain,motif/prison,motif/soul,motif/stars,motif/time,motif/water,motif/window,concept/aspiration,concept/courage,concept/fear,concept/freedom,concept/greatness,concept/imagination,concept/immortality,concept/nature,concept/self,concept/self_sacrifice,concept/suicide,concept/truth,setting/mountains"></span>
 
 
 A DEFENCE OF RASH VOWS
@@ -3393,7 +3393,7 @@ dal porto annunciando che il regno dei codardi è finito e un uomo sta bruciando
 
 
 
-<span class="atom-split" data-atom="story_05_a_defence_of_skeletons" data-title="The Defendant — A DEFENCE OF SKELETONS" data-chapter="A DEFENCE OF SKELETONS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_05_a_defence_of_skeletons" data-title="The Defendant — A DEFENCE OF SKELETONS" data-chapter="A DEFENCE OF SKELETONS" data-kind="story" data-tags="archetype/child,archetype/lover,archetype/shadow,motif/animals,motif/death,motif/hill,motif/leaves,motif/love,motif/moon,motif/nature,motif/night,motif/sleep,motif/stars,motif/summer,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/grotesque,concept/nature,concept/pride,concept/truth,concept/vanity,histref/renaissance,setting/london,character/monks"></span>
 
 
 A DEFENCE OF SKELETONS
@@ -3552,7 +3552,7 @@ C'è in giro una peculiare idea, ossia che il valore e il fascino di ciò che ch
 
 
 
-<span class="atom-split" data-atom="story_06_a_defence_of_publicity" data-title="The Defendant — A DEFENCE OF PUBLICITY" data-chapter="A DEFENCE OF PUBLICITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_06_a_defence_of_publicity" data-title="The Defendant — A DEFENCE OF PUBLICITY" data-chapter="A DEFENCE OF PUBLICITY" data-kind="story" data-tags="motif/birds,motif/dawn,motif/desire,motif/flowers,motif/hill,motif/leaves,motif/lion,motif/love,motif/nature,motif/night,motif/soul,motif/spring,motif/stars,concept/beauty,concept/courage,concept/doubt,concept/fear,concept/mercy,concept/nature,concept/pride,concept/truth,form/biography,form/essay,form/sketch,histref/christianity,character/christ,character/sunday"></span>
 
 
 A DEFENCE OF PUBLICITY
@@ -3729,7 +3729,7 @@ Il mero significato grammaticale della parola «martire» manda in frantumi d'un
 
 
 
-<span class="atom-split" data-atom="story_07_a_defence_of_nonsense" data-title="The Defendant — A DEFENCE OF NONSENSE" data-chapter="A DEFENCE OF NONSENSE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_07_a_defence_of_nonsense" data-title="The Defendant — A DEFENCE OF NONSENSE" data-chapter="A DEFENCE OF NONSENSE" data-kind="story" data-tags="topos/double,archetype/detective,archetype/hero,motif/childhood,motif/desert,motif/ghosts,motif/journey,motif/moon,motif/nature,motif/night,motif/ship,motif/soul,motif/stars,motif/time,motif/well,concept/body,concept/faith,concept/nature,concept/truth,concept/wonder,form/biography,form/melodrama,form/parody,form/riddle,form/satire,setting/desert,setting/ship,character/oliver"></span>
 
 
 A DEFENCE OF NONSENSE
@@ -3929,7 +3929,7 @@ Questo è il lato delle cose che tende più veramente alla [[Wonder|meraviglia]]
 
 
 
-<span class="atom-split" data-atom="story_08_a_defence_of_planets" data-title="The Defendant — A DEFENCE OF PLANETS" data-chapter="A DEFENCE OF PLANETS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_08_a_defence_of_planets" data-title="The Defendant — A DEFENCE OF PLANETS" data-chapter="A DEFENCE OF PLANETS" data-kind="story" data-tags="topos/double,archetype/king,archetype/prophet,motif/birds,motif/dance,motif/flowers,motif/memory,motif/stars,motif/time,motif/water,concept/apocalypse,concept/body,concept/history,concept/imagination,concept/mercy,concept/sublime,form/fable,form/history,histref/bible"></span>
 
 
 A DEFENCE OF PLANETS
@@ -4104,7 +4104,7 @@ Nei primi giorni del mondo, la scoperta di un fatto di [[history|storia]] natura
 
 
 
-<span class="atom-split" data-atom="story_09_a_defence_of_china_shepherdesses" data-title="The Defendant — A DEFENCE OF CHINA SHEPHERDESSES" data-chapter="A DEFENCE OF CHINA SHEPHERDESSES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_09_a_defence_of_china_shepherdesses" data-title="The Defendant — A DEFENCE OF CHINA SHEPHERDESSES" data-chapter="A DEFENCE OF CHINA SHEPHERDESSES" data-kind="story" data-tags="archetype/innocent,motif/city,motif/clock,motif/dance,motif/flowers,motif/love,motif/secrets,motif/soul,motif/time,motif/well,concept/democracy,concept/doubt,concept/endurance,concept/history,concept/imagination,concept/resurrection,form/history,histref/catholic_church,histref/dante,setting/paris"></span>
 
 
 A DEFENCE OF CHINA SHEPHERDESSES
@@ -4372,7 +4372,7 @@ simile al Contadino Felice di quanto il mondo mai saprà.
 
 
 
-<span class="atom-split" data-atom="story_10_a_defence_of_useful_information" data-title="The Defendant — A DEFENCE OF USEFUL INFORMATION" data-chapter="A DEFENCE OF USEFUL INFORMATION" data-kind="story"></span>
+<span class="atom-split" data-atom="story_10_a_defence_of_useful_information" data-title="The Defendant — A DEFENCE OF USEFUL INFORMATION" data-chapter="A DEFENCE OF USEFUL INFORMATION" data-kind="story" data-tags="archetype/child,archetype/detective,archetype/prophet,motif/birds,motif/blood,motif/flowers,motif/love,motif/nature,motif/night,motif/time,motif/winter,concept/democracy,concept/education,concept/history,concept/imagination,concept/madness,concept/nature,concept/truth,form/comedy,form/history,histref/christianity,histref/crusades,setting/london"></span>
 
 
 A DEFENCE OF USEFUL INFORMATION
@@ -4565,7 +4565,7 @@ Che molto si possa dire, e si dica, contro la letteratura dell'informazione, non
 
 
 
-<span class="atom-split" data-atom="story_11_a_defence_of_heraldry" data-title="The Defendant — A DEFENCE OF HERALDRY" data-chapter="A DEFENCE OF HERALDRY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_11_a_defence_of_heraldry" data-title="The Defendant — A DEFENCE OF HERALDRY" data-chapter="A DEFENCE OF HERALDRY" data-kind="story" data-tags="archetype/fool,motif/cross,motif/lion,motif/nature,motif/road,motif/spring,motif/time,concept/beauty,concept/democracy,concept/education,concept/history,concept/honour,concept/nature,concept/pride,concept/sublime,concept/suffering,concept/truth,form/history,histref/french_revolution,setting/castle"></span>
 
 
 A DEFENCE OF HERALDRY
@@ -4703,7 +4703,7 @@ Vi era nella [[French Revolution|Rivoluzione francese]] una classe di persone di
 
 
 
-<span class="atom-split" data-atom="story_12_a_defence_of_ugly_things" data-title="The Defendant — A DEFENCE OF UGLY THINGS" data-chapter="A DEFENCE OF UGLY THINGS" data-kind="story"></span>
+<span class="atom-split" data-atom="story_12_a_defence_of_ugly_things" data-title="The Defendant — A DEFENCE OF UGLY THINGS" data-chapter="A DEFENCE OF UGLY THINGS" data-kind="story" data-tags="archetype/hero,motif/blood,motif/dance,motif/love,motif/nature,motif/soul,motif/summer,motif/tears,concept/beauty,concept/conscience,concept/grotesque,concept/nature,concept/pride,concept/truth,form/literary_criticism,form/satire,histref/puritanism,character/apollo,character/venus"></span>
 
 
 A DEFENCE OF UGLY THINGS
@@ -4849,7 +4849,7 @@ Questo ramo dell'arte viene comunemente liquidato come il [[Grotesque|grottesco]
 
 
 
-<span class="atom-split" data-atom="story_13_a_defence_of_farce" data-title="The Defendant — A DEFENCE OF FARCE" data-chapter="A DEFENCE OF FARCE" data-kind="story"></span>
+<span class="atom-split" data-atom="story_13_a_defence_of_farce" data-title="The Defendant — A DEFENCE OF FARCE" data-chapter="A DEFENCE OF FARCE" data-kind="story" data-tags="topos/paradise_lost,archetype/artist,archetype/detective,archetype/fool,archetype/great_mother,motif/bells,motif/blood,motif/clock,motif/death,motif/fire,motif/home,motif/love,motif/night,motif/pain,motif/river,motif/stars,motif/time,motif/water,concept/ambition,concept/doubt,concept/fear,concept/grotesque,concept/hope,concept/madness,concept/pride,concept/self,concept/truth,concept/wonder,form/comedy,form/epic,form/sonnet,form/tragedy,setting/london,character/king_lear,character/othello,character/puck,character/satan"></span>
 
 
 A DEFENCE OF FARCE
@@ -5010,7 +5010,7 @@ I vecchi maestri di una sana [[Madness|follia]], Aristofane o Rabelais o Shakesp
 
 
 
-<span class="atom-split" data-atom="story_14_a_defence_of_humility_humility" data-title="The Defendant — A DEFENCE OF HUMILITY" data-chapter="A DEFENCE OF Humility HUMILITY" data-kind="story"></span>
+<span class="atom-split" data-atom="story_14_a_defence_of_humility_humility" data-title="The Defendant — A DEFENCE OF HUMILITY" data-chapter="A DEFENCE OF Humility HUMILITY" data-kind="story" data-tags="archetype/child,archetype/hero,archetype/lover,motif/bells,motif/birds,motif/childhood,motif/desert,motif/dust,motif/love,motif/road,motif/stars,motif/time,motif/well,motif/wind,motif/window,concept/ambition,concept/body,concept/doubt,concept/faith,concept/humility,concept/imagination,concept/original_sin,concept/paradox,concept/self,concept/vanity,histref/christianity,histref/dante,setting/desert,setting/mountains"></span>
 
 
 A DEFENCE OF [[Humility|HUMILITY]]
@@ -5185,7 +5185,7 @@ In un'opera assai divertente, sulla quale abbiamo riso a crepapelle nell'[[Child
 
 
 
-<span class="atom-split" data-atom="story_15_a_defence_of_slang" data-title="The Defendant — A DEFENCE OF SLANG" data-chapter="A DEFENCE OF SLANG" data-kind="story"></span>
+<span class="atom-split" data-atom="story_15_a_defence_of_slang" data-title="The Defendant — A DEFENCE OF SLANG" data-chapter="A DEFENCE OF SLANG" data-kind="story" data-tags="archetype/king,motif/animals,motif/home,motif/lion,motif/mirror,motif/nature,motif/well,concept/grotesque,concept/individualism,concept/nature,concept/self,concept/sublime,concept/truth,concept/wonder,form/allegory,form/sonnet,histref/puritanism,character/queen"></span>
 
 
 A DEFENCE OF SLANG
@@ -5344,7 +5344,7 @@ Ogni gergo è metafora, e ogni metafora è poesia. Se ci fermassimo un istante a
 
 
 
-<span class="atom-split" data-atom="story_16_a_defence_of_baby_worship" data-title="The Defendant — A DEFENCE OF BABY-WORSHIP" data-chapter="A DEFENCE OF BABY WORSHIP" data-kind="story"></span>
+<span class="atom-split" data-atom="story_16_a_defence_of_baby_worship" data-title="The Defendant — A DEFENCE OF BABY-WORSHIP" data-chapter="A DEFENCE OF BABY WORSHIP" data-kind="story" data-tags="archetype/child,motif/love,motif/nature,motif/stars,motif/supernatural,concept/apocalypse,concept/body,concept/doubt,concept/fear,concept/hope,concept/humility,concept/imagination,concept/nature,concept/paradox,concept/truth,character/bottom"></span>
 
 
 A DEFENCE OF BABY-WORSHIP
@@ -5473,7 +5473,7 @@ Ma l'aspetto buffo dei bambini è forse il più caro di tutti i legami che tengo
 
 
 
-<span class="atom-split" data-atom="story_17_a_defence_of_detective_detective_stories" data-title="The Defendant — A DEFENCE OF DETECTIVE STORIES" data-chapter="A DEFENCE OF Detective DETECTIVE STORIES" data-kind="story"></span>
+<span class="atom-split" data-atom="story_17_a_defence_of_detective_detective_stories" data-title="The Defendant — A DEFENCE OF DETECTIVE STORIES" data-chapter="A DEFENCE OF Detective DETECTIVE STORIES" data-kind="story" data-tags="archetype/detective,archetype/hero,archetype/rebel,motif/city,motif/grave,motif/journey,motif/nature,motif/road,motif/ship,motif/soul,motif/winter,concept/loneliness,concept/nature,form/comedy,form/epic,setting/london,setting/mountains,setting/ship,character/hamlet,character/macbeth,character/robin_hood"></span>
 
 
 A DEFENCE OF [[Detective|DETECTIVE]] STORIES
@@ -5605,7 +5605,7 @@ Vi è tuttavia un'altra opera buona che i racconti [[Detective|polizieschi]] com
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_01" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 1)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_01" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 1)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/blood,motif/childhood,motif/city,motif/death,motif/decay,motif/desire,motif/love,motif/moon,motif/night,motif/well,concept/doubt,concept/history,concept/honour,concept/truth,form/history,histref/dante,character/pericles"></span>
 
 
 A DEFENCE OF PATRIOTISM
@@ -5829,7 +5829,7 @@ Shakespeare, Newton, Burke e Darwin di cui vantarsi.
 
 
 
-<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_02" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 2)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_18_a_defence_of_patriotism--part_02" data-title="The Defendant — A DEFENCE OF PATRIOTISM (part 2)" data-chapter="A DEFENCE OF PATRIOTISM" data-kind="excerpt" data-tags="motif/time,concept/education,concept/honour,histref/dante"></span>
 
 
 The peculiar lack of any generosity or delicacy in the current English

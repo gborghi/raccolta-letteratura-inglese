@@ -2654,7 +2654,7 @@ End of The Trees of [[Pride]], by G. K. Chesterton
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_01" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 1)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_01" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 1)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="motif/garden,motif/ghosts,motif/grave,motif/road,motif/rose,motif/spring,motif/time,motif/well,concept/education,concept/pride,form/tragedy,histref/bible,character/woodcutter"></span>
 
 
 I. THE TALE OF THE PEACOCK TREES
@@ -2797,7 +2797,7 @@ Il boscaiolo era naturalmente una figura più rude e persino più selvaggia del 
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_02" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 2)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_02" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 2)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="archetype/shadow,motif/road,motif/rose,motif/stars,motif/well,motif/window,concept/grotesque,concept/hope,concept/pride,concept/wonder,setting/italy,character/woodcutter"></span>
 
 
 The obnoxious objects stood some hundred yards away from the speaker,
@@ -2935,7 +2935,7 @@ Il barcaiolo era di mestiere un pescatore; ma poiché la sua [[house|casa]], cos
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_03" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 3)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_03" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 3)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="archetype/child,archetype/shadow,motif/flowers,motif/garden,motif/silence,motif/time,motif/well,concept/exile,concept/fear,concept/pride"></span>
 
 
 "There is some stupid legend," said Squire Vane gruffly.
@@ -3134,7 +3134,7 @@ Cyprian Paynter lo seguì, meditando interiormente su un enigma che aveva sorpre
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_04" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 4)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_04" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 4)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="motif/birds,motif/city,motif/desert,motif/desire,motif/garden,motif/leaves,motif/love,motif/night,motif/spring,motif/summer,motif/time,motif/water,motif/well,motif/wind,concept/fear,concept/pride,concept/solitude,concept/vanity,setting/desert"></span>
 
 
 The Squire, anticipating the trial of luncheon with a strange
@@ -3271,7 +3271,7 @@ L'americano s'inchinò attraverso il tavolo con seria cortesia, e poi cominciò 
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_05" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 5)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_05" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 5)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="archetype/hero,archetype/shadow,motif/birds,motif/garden,motif/moon,motif/nature,motif/road,motif/rose,motif/time,motif/well,motif/window,concept/history,concept/hope,concept/nature,concept/pride,form/allegory,form/history"></span>
 
 
 "Ex Africa," said the lawyer, smiling.  "It comes from a
@@ -3450,7 +3450,7 @@ Sembrava avere il potere di arrivare a una conversazione piuttosto intima in un 
 
 
 
-<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_06" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 6)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_the_tale_of_the_peacock_trees--part_06" data-title="trees of pride — THE TALE OF THE PEACOCK TREES (part 6)" data-chapter="THE TALE OF THE PEACOCK TREES" data-kind="excerpt" data-tags="archetype/shadow,motif/birds,motif/dreams,motif/garden,motif/grave,motif/memory,motif/rose,motif/well,concept/body,concept/education,concept/history,concept/pride,form/history,character/dwarf,character/woodcutter"></span>
 
 
 Then, after a pause, he made a general gesture toward
@@ -3594,7 +3594,7 @@ e che le fate non fossero sue amiche.
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_01" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 1)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_01" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 1)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="motif/garden,motif/moon,motif/night,motif/spring,motif/swallow,motif/well,motif/wind,concept/pride"></span>
 
 
 II.  THE WAGER OF SQUIRE VANE
@@ -3747,7 +3747,7 @@ Lo Squire Vane si alzò in piedi, i capelli d'argento fiammeggianti nel [[Wind|v
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_02" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 2)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_02" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 2)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="archetype/ghost,archetype/shadow,motif/cross,motif/garden,motif/lion,motif/night,motif/rose,motif/sleep,motif/time,motif/well,concept/pride"></span>
 
 
 Without waiting for reply, he snatched up his wide white hat and
@@ -3907,7 +3907,7 @@ Paynter guardò; vide il mare colore del vino e i fantastici alberi che lo frang
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_03" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 3)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_03" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 3)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="motif/dance,motif/dawn,motif/dreams,motif/garden,motif/night,motif/sleep,motif/storm,motif/time,motif/wind,concept/education,concept/fear,concept/pride,concept/truth,concept/wonder"></span>
 
 
 "Didn't some other minor poet remark," inquired Paynter flippantly,
@@ -4059,7 +4059,7 @@ Era uscita lentamente dalla [[house|casa]], nella quale la sua propria o l'altru
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_04" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 4)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_04" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 4)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="motif/birds,motif/dawn,motif/death,motif/garden,motif/leaves,motif/night,motif/rose,motif/silence,motif/spring,motif/summer,motif/time,motif/well,concept/body,concept/courage,concept/fear,concept/grotesque,concept/pride"></span>
 
 
 The [[spring]] had already begun to ripen into [[Summer|summer]], and spread a green
@@ -4282,7 +4282,7 @@ Comparve all'alba del mattino seguente davanti al Vane Arms con tutta l'aria di 
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_05" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 5)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_05" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 5)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="archetype/shadow,motif/crown,motif/garden,motif/leaves,motif/road,motif/summer,motif/time,motif/well,concept/doubt,concept/pride,concept/wonder,setting/court,character/woodcutter"></span>
 
 
 He was brought to a standstill once, however, and that at
@@ -4437,7 +4437,7 @@ Un bosco, anche un piccolo bosco, non è cosa facile da perquisire minuziosament
 
 
 
-<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_06" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 6)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_the_wager_of_squire_vane--part_06" data-title="trees of pride — THE WAGER OF SQUIRE VANE (part 6)" data-chapter="THE WAGER OF SQUIRE VANE" data-kind="excerpt" data-tags="motif/grave,motif/mirror,motif/night,motif/rose,motif/water,motif/well,concept/grotesque,concept/pride"></span>
 
 
 One of these beaten and broken tracks went from the space under
@@ -4531,7 +4531,7 @@ quella distanza dall'orlo quando l'[[Water|acqua]] parlò.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_01" data-title="trees of pride — THE MYSTERY OF THE WELL (part 1)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_01" data-title="trees of pride — THE MYSTERY OF THE WELL (part 1)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/blood,motif/crown,motif/fire,motif/night,motif/road,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/pride,character/woodcutter"></span>
 
 
 III.  THE MYSTERY OF THE [[Well|WELL]]
@@ -4769,7 +4769,7 @@ con tutta la propria energia alla scena delle fatiche del giorno prima.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_02" data-title="trees of pride — THE MYSTERY OF THE WELL (part 2)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_02" data-title="trees of pride — THE MYSTERY OF THE WELL (part 2)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="topos/double,archetype/innocent,archetype/outsider,motif/birds,motif/dance,motif/garden,motif/leaves,motif/night,motif/summer,motif/time,motif/well,concept/doubt,concept/hope,concept/pride,concept/truth,setting/court,character/bottom"></span>
 
 
 It may [[Well|well]] have brightened and made breezier his second day's toil that
@@ -5047,7 +5047,7 @@ di ritenere perfettamente vero."
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_03" data-title="trees of pride — THE MYSTERY OF THE WELL (part 3)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_03" data-title="trees of pride — THE MYSTERY OF THE WELL (part 3)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="archetype/shadow,motif/blood,motif/garden,motif/moon,motif/night,motif/silence,motif/water,motif/well,concept/body,concept/doubt,concept/fear,concept/pride,concept/wonder,character/woodcutter"></span>
 
 
 "What was that?" inquired the other.
@@ -5301,7 +5301,7 @@ vedendoli.
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_04" data-title="trees of pride — THE MYSTERY OF THE WELL (part 4)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_04" data-title="trees of pride — THE MYSTERY OF THE WELL (part 4)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="motif/birds,motif/garden,motif/grave,motif/night,motif/silence,motif/time,motif/well,concept/pride"></span>
 
 
 "I should like to speak to you rather particularly if I may,"
@@ -5539,7 +5539,7 @@ con le più belle favole su un santo e il suo bosco incantato."
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_05" data-title="trees of pride — THE MYSTERY OF THE WELL (part 5)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_05" data-title="trees of pride — THE MYSTERY OF THE WELL (part 5)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/love,motif/rose,motif/soul,motif/time,motif/water,motif/well,concept/beauty,concept/pride,concept/truth,concept/wonder,form/tragedy,character/helen"></span>
 
 
 "[[Well]], and you!" she cried, and [[Rose|rose]] radiantly and swiftly.
@@ -5783,7 +5783,7 @@ pena di scusarlo?"
 
 
 
-<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_06" data-title="trees of pride — THE MYSTERY OF THE WELL (part 6)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_the_mystery_of_the_well_well--part_06" data-title="trees of pride — THE MYSTERY OF THE WELL (part 6)" data-chapter="THE MYSTERY OF THE Well WELL" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/city,motif/death,motif/fire,motif/grave,motif/night,motif/rose,motif/silence,motif/time,motif/water,motif/well,concept/despair,concept/hope,concept/imagination,concept/mercy,concept/pride"></span>
 
 
 "[[Well]]," said Paynter, with his ready appreciation, "I always said
@@ -5997,7 +5997,7 @@ il suo boccale vuoto.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_01" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 1)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_01" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 1)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/ghost,motif/cross,motif/death,motif/dreams,motif/garden,motif/great_house,motif/night,motif/time,motif/well,concept/imagination,concept/pride,concept/truth,form/sketch,setting/london"></span>
 
 
 IV.  THE CHASE AFTER THE [[Truth|TRUTH]]
@@ -6239,7 +6239,7 @@ l'uomo di medicina di questo villaggio.
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_02" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 2)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_02" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 2)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt" data-tags="archetype/artist,archetype/detective,archetype/lover,archetype/shadow,motif/blood,motif/dust,motif/flowers,motif/garden,motif/memory,motif/mirror,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/pride,concept/truth,character/speed,character/woodcutter"></span>
 
 
 "The next examination I made was that of Martin, the [[Woodcutter|woodcutter]].
@@ -6399,7 +6399,7 @@ Il fuggitivo si scontrò con uno dei poliziotti accorso a tagliargli la strada, 
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_03" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 3)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_03" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 3)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt" data-tags="archetype/detective,motif/cave,motif/moon,motif/seasons,motif/silence,motif/time,motif/well,motif/wind,concept/friendship,concept/pride,concept/self,concept/truth,concept/wonder,character/woodcutter"></span>
 
 
 "I'm rather glad of this," said Treherne, with a great sigh.
@@ -6557,7 +6557,7 @@ Il [[Wind|vento]] si scagliava dalla cima dell'alta scogliera verso il mare, pas
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_04" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 4)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_04" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 4)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt" data-tags="motif/cave,motif/night,motif/silence,motif/spring,motif/time,motif/well,concept/pride,concept/truth,concept/vanity,concept/wonder,histref/america,setting/america,setting/london"></span>
 
 
 "[[Well]], gentlemen," he said genially, "so this is the end of
@@ -6714,7 +6714,7 @@ Non guardavano più lo spoglio promontorio su cui gli alberi piumati erano un te
 
 
 
-<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_05" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 5)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_the_chase_after_the_truth_truth--part_05" data-title="trees of pride — THE CHASE AFTER THE TRUTH (part 5)" data-chapter="THE CHASE AFTER THE Truth TRUTH" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/garden,motif/ghosts,motif/hill,motif/supernatural,motif/time,motif/well,motif/wheel,motif/wind,concept/beauty,concept/conversion,concept/doubt,concept/fear,concept/pride,concept/self,concept/truth,form/parody,setting/cathedral,character/witch"></span>
 
 
 "First, I wish it clearly understood that I believe in nothing.

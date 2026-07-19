@@ -128,7 +128,7 @@ the [[Humility|humility]] of birth also.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Our_Birthday (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Our_Birthday (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/stars,concept/doubt,concept/hope,concept/truth"></span>
 
 
 # Our Birthday
@@ -242,7 +242,7 @@ canteremo in perfetta armonia, seppure con tecnica non proprio pari.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Our_Birthday (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Our_Birthday (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/leaves,motif/time,motif/well,concept/humility,concept/pride"></span>
 
 
 But there is a second fact about Birthdays, and the birth-[[Song|song]]

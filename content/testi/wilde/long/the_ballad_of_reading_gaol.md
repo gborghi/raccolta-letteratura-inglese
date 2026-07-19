@@ -685,7 +685,7 @@ The brave man with a [[Sword|sword]]!
 
 
 
-<span class="atom-split" data-atom="section_01_part_i" data-title="The Ballad of Reading Gaol — Part I" data-chapter="part i" data-kind="section"></span>
+<span class="atom-split" data-atom="section_01_part_i" data-title="The Ballad of Reading Gaol — Part I" data-chapter="part i" data-kind="section" data-tags="motif/blood,motif/cross,motif/dawn,motif/death,motif/love,motif/night,motif/pain,motif/prison,motif/soul,motif/tears,character/christ"></span>
 
 
 I  
@@ -790,7 +790,7 @@ The kiss of Caiaphas.
 
 
 
-<span class="atom-split" data-atom="section_02_part_ii" data-title="The Ballad of Reading Gaol — Part II" data-chapter="part II" data-kind="section"></span>
+<span class="atom-split" data-atom="section_02_part_ii" data-title="The Ballad of Reading Gaol — Part II" data-chapter="part II" data-kind="section" data-tags="motif/cave,motif/dance,motif/leaves,motif/love,motif/night,motif/pain,motif/prison,motif/soul,motif/storm,concept/despair,concept/hope,concept/self"></span>
 
 
 II  
@@ -876,7 +876,7 @@ Had caught us in its snare.
 
 
 
-<span class="atom-split" data-atom="section_03_part_iii" data-title="The Ballad of Reading Gaol — Part III" data-chapter="part III" data-kind="section"></span>
+<span class="atom-split" data-atom="section_03_part_iii" data-title="The Ballad of Reading Gaol — Part III" data-chapter="part III" data-kind="section" data-tags="archetype/fool,motif/blood,motif/clock,motif/dawn,motif/death,motif/dreams,motif/grave,motif/moon,motif/night,motif/pain,motif/prayer,motif/prison,motif/rose,motif/sleep,motif/soul,motif/stars,motif/tears,motif/well,motif/wheel,motif/wind,concept/despair,concept/fear,concept/guilt,concept/hope,form/masque,character/christ"></span>
 
 
 III  
@@ -1106,7 +1106,7 @@ More deaths than one must die.
 
 
 
-<span class="atom-split" data-atom="section_04_part_iv" data-title="The Ballad of Reading Gaol — Part IV" data-chapter="part IV" data-kind="section"></span>
+<span class="atom-split" data-atom="section_04_part_iv" data-title="The Ballad of Reading Gaol — Part IV" data-chapter="part IV" data-kind="section" data-tags="archetype/pilgrim,motif/blood,motif/cross,motif/flowers,motif/grave,motif/memory,motif/moon,motif/night,motif/noon,motif/pain,motif/prison,motif/rose,motif/soul,motif/tears,motif/time,motif/well,motif/wind,concept/common_man,concept/despair,concept/fear,concept/freedom,character/christ,character/sunday"></span>
 
 
 IV  
@@ -1252,7 +1252,7 @@ And outcasts always mourn
 
 
 
-<span class="atom-split" data-atom="section_05_part_v" data-title="The Ballad of Reading Gaol — Part V" data-chapter="part v" data-kind="section"></span>
+<span class="atom-split" data-atom="section_05_part_v" data-title="The Ballad of Reading Gaol — Part V" data-chapter="part v" data-kind="section" data-tags="archetype/child,archetype/fool,motif/blood,motif/chalk,motif/death,motif/dust,motif/machine,motif/moon,motif/night,motif/poison,motif/prison,motif/silence,motif/sleep,motif/snow,motif/soul,motif/tears,motif/time,motif/water,motif/well,concept/body,concept/despair,character/cain,character/christ"></span>
 
 
 V  
@@ -1362,7 +1362,7 @@ Became [[Christ]]’s [[Snow|snow]]-white seal.
 
 
 
-<span class="atom-split" data-atom="section_06_part_vi" data-title="The Ballad of Reading Gaol — Part VI" data-chapter="part VI" data-kind="section"></span>
+<span class="atom-split" data-atom="section_06_part_vi" data-title="The Ballad of Reading Gaol — Part VI" data-chapter="part VI" data-kind="section" data-tags="motif/grave,motif/love,motif/silence,character/christ"></span>
 
 
 VI  

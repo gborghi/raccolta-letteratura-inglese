@@ -694,7 +694,7 @@ than did the merry fishermen of Lofoden.”
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="A Descent Into the Maelstrom (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="A Descent Into the Maelstrom (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="topos/double,archetype/shadow,motif/cross,motif/nature,motif/soul,motif/time,motif/water,motif/well,motif/wind,concept/body,concept/courage,concept/imagination,concept/nature,concept/providence,concept/truth,character/speed"></span>
 
 
 The ways of God in [[Nature]], as in [[Providence]], are not as our ways; 
@@ -808,7 +808,7 @@ except in precipitous descents.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="A Descent Into the Maelstrom (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="A Descent Into the Maelstrom (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/ship,motif/storm,motif/time,motif/water,concept/self,setting/ship,character/bottom,character/sunday"></span>
 
 
 In a few minutes more, there came over the scene another radical
@@ -908,7 +908,7 @@ the hurricane, and must disappear bodily and at once.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="A Descent Into the Maelstrom (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="A Descent Into the Maelstrom (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/cross,motif/death,motif/home,motif/night,motif/time,motif/water,motif/well,motif/wind,concept/courage,concept/imagination,concept/truth"></span>
 
 
 The attempts to account for the phenomenon—some of which, I
@@ -1011,7 +1011,7 @@ follow.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="A Descent Into the Maelstrom (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="A Descent Into the Maelstrom (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/cross,motif/death,motif/home,motif/moon,motif/rose,motif/ship,motif/storm,motif/time,motif/water,motif/well,motif/wind,concept/hope,setting/mountains,setting/ship"></span>
 
 
 “The three of us—my two brothers and myself—had crossed over to
@@ -1118,7 +1118,7 @@ fingers, as if to say _‘listen! ‘_
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="A Descent Into the Maelstrom (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="A Descent Into the Maelstrom (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/prayer,motif/prison,motif/rose,motif/tears,motif/time,motif/water,motif/well,motif/wind,concept/despair,concept/doubt,concept/hope,concept/self,concept/truth"></span>
 
 
 “At first I could not make out what he meant—but soon a hideous
@@ -1228,7 +1228,7 @@ muttered a hurried [[prayer]] to God, and thought all was over.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="A Descent Into the Maelstrom (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="A Descent Into the Maelstrom (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/memory,motif/moon,motif/nature,motif/ship,motif/time,motif/water,concept/body,concept/courage,concept/doubt,concept/eternity,concept/hope,concept/nature,setting/ship,character/bottom,character/speed"></span>
 
 
 “As I felt the sickening sweep of the descent, I had
@@ -1347,7 +1347,7 @@ difficulty than an equally bulky [[Body|body]], of any form whatever. (*1)
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="A Descent Into the Maelstrom (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="A Descent Into the Maelstrom (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="motif/memory,motif/moon,motif/water,concept/faith,character/bottom"></span>
 
 
 “There was one startling circumstance which went a great way in

@@ -79,7 +79,7 @@ prima d'andare in Paradiso passando per Kensal Green.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="rolling (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="rolling (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/flowers,motif/night,motif/road,motif/rose"></span>
 
 
 The [[rolling|Rolling]] English [[Road]]  

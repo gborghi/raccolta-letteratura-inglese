@@ -4407,7 +4407,7 @@ hallooing and the sound of [[Horse|horse]]-hoofs that return.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_01" data-title="William Cobbett — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_01" data-title="William Cobbett — Chapter 1 (part 1)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/memory,motif/time,concept/body,concept/honour,concept/hope,concept/melancholy,concept/paradox,form/essay,character/jones"></span>
 
 
 CHAPTER I
@@ -4567,7 +4567,7 @@ Cobbett might be proud.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_02" data-title="William Cobbett — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_02" data-title="William Cobbett — Chapter 1 (part 2)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="concept/class_conflict,concept/tradition,concept/poverty,form/biography,histref/victorian_england,setting/england,character/william_cobbett"></span>
 
 
 Now, I have only mentioned my premature lament over the bargee,
@@ -4700,7 +4700,7 @@ as Mr. Dick.
 
 
 
-<span class="atom-split" data-atom="chapter_01--part_03" data-title="William Cobbett — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_01--part_03" data-title="William Cobbett — Chapter 1 (part 3)" data-chapter="Chapter 01" data-kind="excerpt" data-tags="motif/storm"></span>
 
 
 But the point is that these idealists--most of them very noble idealists--
@@ -4862,7 +4862,7 @@ amid the gathering [[Storm|storm]] and the growing darkness, reads this old stor
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="William Cobbett — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="William Cobbett — Chapter 2 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/fool,archetype/king,archetype/self_made_man,motif/bees,motif/city,motif/love,motif/prison,motif/rose,motif/secrets,motif/silence,motif/soul,motif/time,motif/well,concept/exile,concept/history,concept/pride,concept/reform,concept/slavery,form/history,setting/london,character/christ"></span>
 
 
 CHAPTER II
@@ -5009,7 +5009,7 @@ which decided how William Cobbett was to live and die.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/death,motif/home,motif/love,motif/memory,motif/snow,motif/storm,concept/beauty,concept/honour,concept/melancholy,concept/pride,concept/self,concept/solitude,concept/truth,concept/vanity,form/comedy,histref/america,setting/america"></span>
 
 
 Cobbett began to note something queer and quite wrong about the
@@ -5137,7 +5137,7 @@ came back to him with all the [[Beauty|beauty]] of banners.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_03" data-title="William Cobbett — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_03" data-title="William Cobbett — Chapter 2 (part 3)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/child,archetype/self_made_man,motif/desire,motif/fire,motif/horse,motif/love,motif/marriage,motif/night,motif/silence,motif/sleep,motif/water,motif/well,concept/exile,concept/honour,concept/hope,concept/poverty,concept/self,concept/truth,histref/america,histref/french_revolution,setting/america"></span>
 
 
 I have dwelt on this one case of the contrast between
@@ -5247,7 +5247,7 @@ practical of the two.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_04" data-title="William Cobbett — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_04" data-title="William Cobbett — Chapter 2 (part 4)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="archetype/king,archetype/self_made_man,motif/journey,motif/nature,motif/prison,motif/sleep,concept/fear,concept/nature"></span>
 
 
 Cobbett was eminently and emphatically a respectable man.
@@ -5345,7 +5345,7 @@ il ruggito d'una bestia cieca, si appellava dalla tirannia a Dio.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="William Cobbett — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="William Cobbett — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/childhood,motif/grave,motif/time,motif/well,concept/disillusionment,concept/exile,concept/imagination,concept/individualism,concept/truth,form/biography,form/tragedy,histref/america,setting/america"></span>
 
 
 CHAPTER II
@@ -5478,7 +5478,7 @@ American but Anti-English.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="William Cobbett — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/exile,form/biography,histref/america,setting/america,character/william_cobbett,character/thomas_paine,character/thomas_jefferson"></span>
 
 
 It is part of the picturesque combat of personalities throughout
@@ -5593,7 +5593,7 @@ this yellow fever of finance.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="William Cobbett — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="William Cobbett — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="concept/distributism,concept/class_conflict,concept/tradition,form/biography,histref/napoleon,character/william_cobbett,character/william_pitt,character/napoleon"></span>
 
 
 There is sometimes in a great comedy a scene of almost tragic irony,
@@ -5708,7 +5708,7 @@ and personal hatred of people they had never seen.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_04" data-title="William Cobbett — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_04" data-title="William Cobbett — Chapter 2 (part 4)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/wheel,motif/flag,concept/tradition,concept/anti_industrialism,concept/nationalism_and_patriotism,concept/class_conflict,form/biography,histref/the_industrial_revolution,setting/rural_england,character/william_cobbett"></span>
 
 
 In any case, Cobbett was born long after the true Tory monarchy
@@ -5815,7 +5815,7 @@ it to them.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_05" data-title="William Cobbett — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_05" data-title="William Cobbett — Chapter 2 (part 5)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/prison,concept/nationalism_and_patriotism,concept/social_injustice,concept/imprisonment,concept/despair,form/biography,character/william_cobbett,character/william_pitt,character/castlereagh"></span>
 
 
 Broadly speaking, if there was one man who was bound to be
@@ -5975,7 +5975,7 @@ swaying rather blindly under this first blow.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_06" data-title="William Cobbett — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_06" data-title="William Cobbett — Chapter 2 (part 6)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/well,concept/charity,concept/courage,concept/heroism,form/tragedy"></span>
 
 
 Cobbett was a particular human type; the very last to be fairly
@@ -6088,7 +6088,7 @@ had the lines and slopes of a slow earthquake.
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_07" data-title="William Cobbett — Chapter 2 (part 7)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_07" data-title="William Cobbett — Chapter 2 (part 7)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/hero,motif/memory,motif/soul,concept/charity,concept/doubt,concept/faith,concept/truth,character/cranmer"></span>
 
 
 Macaulay, it has been noted, said about [[Cranmer]] that he could
@@ -6163,7 +6163,7 @@ they had not cut it out.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="William Cobbett — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="William Cobbett — Chapter 4 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="histref/america,setting/america,character/oliver"></span>
 
 
 CHAPTER IV
@@ -6310,7 +6310,7 @@ established himself on a farm in Long Island.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="William Cobbett — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="William Cobbett — Chapter 4 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/innocent,motif/garden,motif/time,motif/well,concept/sublime,concept/wonder,histref/america,histref/christianity,setting/america"></span>
 
 
 Cobbett's second visit to [[America]] is associated with an action
@@ -6427,7 +6427,7 @@ returned to dust, and Thomas Paine was dead.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_03" data-title="William Cobbett — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_03" data-title="William Cobbett — Chapter 4 (part 3)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/grave,motif/death,concept/tradition,concept/exile,concept/mortality,form/biography,histref/ancient_greece,character/william_cobbett,character/thomas_paine,character/abraham_lincoln"></span>
 
 
 Cobbett did something which any other age would have understood; nay,
@@ -6601,7 +6601,7 @@ or Daniel O'Connell or Thomas Paine.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_04" data-title="William Cobbett — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_04" data-title="William Cobbett — Chapter 4 (part 4)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/child,archetype/king,archetype/prophet,motif/home,motif/time,motif/well,concept/exile,concept/history,concept/wonder,form/history,setting/new_york"></span>
 
 
 Anyhow, as things stood, he could get no more good out of the possible
@@ -6694,7 +6694,7 @@ a lucid and enduring surprise.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="William Cobbett — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="William Cobbett — Chapter 5 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/desert,motif/horse,motif/river,motif/stars,motif/uncanny,motif/well,concept/education,concept/faith,concept/history,concept/mesmerism,concept/self,concept/uncanny,form/history,form/satire,setting/desert,character/kubla_khan"></span>
 
 
 CHAPTER V
@@ -6821,7 +6821,7 @@ but through the book.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="William Cobbett — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="William Cobbett — Chapter 5 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/king,motif/well,concept/history,form/history"></span>
 
 
 Now, in nothing is this more vivid than in his vision of [[history]].
@@ -6947,7 +6947,7 @@ see the church spire.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="William Cobbett — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="William Cobbett — Chapter 5 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="topos/world_upside_down,motif/ruins,concept/history,concept/tradition,concept/critique_of_progress,concept/perception_and_consciousness,form/biography,setting/rural_england,setting/cathedral,character/william_cobbett"></span>
 
 
 He did not by any means see all that was to be seen in the church,
@@ -7076,7 +7076,7 @@ It belongs as much to the Age of Reason as the books of Voltaire.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="William Cobbett — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="William Cobbett — Chapter 5 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/ruins_the_abbey,motif/the_castle,concept/appearance_vs_reality,concept/tradition,concept/paganism_and_classical_revival,form/biography,histref/jane_austen,character/tennyson,character/catherine_morland,character/general_tilney"></span>
 
 
 But people were blinded to this fact by books they knew better
@@ -7189,7 +7189,7 @@ confirmed what he had seen.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="William Cobbett — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="William Cobbett — Chapter 5 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/innocent,concept/doubt,concept/history,concept/paradox,concept/truth,form/history,histref/reformation,character/queen,character/queen_elizabeth"></span>
 
 
 I say he really began to read; for there is a distinction in this case.
@@ -7301,7 +7301,7 @@ were challenged; it was his challenge.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="William Cobbett — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="William Cobbett — Chapter 5 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/city,motif/hill,motif/horse,motif/night,motif/well,concept/beauty,concept/comradeship,concept/greatness,concept/greed,concept/history,concept/reform,concept/resurrection,concept/truth,form/history,histref/reformation,setting/cathedral"></span>
 
 
 Here we are only concerned with his controversy as a part
@@ -7456,7 +7456,7 @@ was the first man who was even tall enough to see the giant.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_01" data-title="William Cobbett — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_01" data-title="William Cobbett — Chapter 6 (part 1)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/road,motif/time,motif/well,concept/body,concept/imprisonment,form/biography,form/satire,setting/london"></span>
 
 
 CHAPTER VI
@@ -7589,7 +7589,7 @@ into one harmonious whole.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="William Cobbett — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="William Cobbett — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/love,motif/stars,motif/well,motif/wind,concept/education"></span>
 
 
 The primary picturesqueness of his work has therefore something
@@ -7723,7 +7723,7 @@ it to the village idiot.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_03" data-title="William Cobbett — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_03" data-title="William Cobbett — Chapter 6 (part 3)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/grotesque,concept/vanity,histref/america,setting/america,setting/london"></span>
 
 
 For this reason also, and not only for the other,
@@ -7892,7 +7892,7 @@ he would probably have added a Lamp of Thrift.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_04" data-title="William Cobbett — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_04" data-title="William Cobbett — Chapter 6 (part 4)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="archetype/monster,concept/charity,concept/history,concept/paradox,concept/reform,concept/truth,form/history,histref/industrial_revolution"></span>
 
 
 In this limited and definite sense he did object to England being
@@ -8026,7 +8026,7 @@ to anybody who had a little more money.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="William Cobbett — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="William Cobbett — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/home,motif/well"></span>
 
 
 Now, the unconscious ingenuity of that approach is that it
@@ -8142,7 +8142,7 @@ that ‘thunder should be mild at [[Home|home]].'
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_06" data-title="William Cobbett — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_06" data-title="William Cobbett — Chapter 6 (part 6)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/optimism_and_pessimism,concept/capitalism,concept/social_injustice,concept/poverty,form/biography,histref/victorian_england,histref/irish_question,character/william_cobbett,character/charles_stewart_parnell"></span>
 
 
 But when all this element in the great Englishman has been
@@ -8249,7 +8249,7 @@ But in that sense Cobbett could not see the u se of Sarum.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_07" data-title="William Cobbett — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_06--part_07" data-title="William Cobbett — Chapter 6 (part 7)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/cross,motif/horse,motif/road,motif/time,motif/uncanny,concept/uncanny,histref/bible"></span>
 
 
 This imaginative quality in the man is all the more interesting
@@ -8352,7 +8352,7 @@ Christian will ever see.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_01" data-title="William Cobbett — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_01" data-title="William Cobbett — Chapter 7 (part 1)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/death,motif/decay,motif/love,motif/time,motif/well,concept/fear,concept/honour,concept/madness,concept/reform,concept/revenge,concept/truth,concept/union,setting/court"></span>
 
 
 CHAPTER VII
@@ -8526,7 +8526,7 @@ Quell'ora sul banco degli imputati fu il momento supremo della sua vita; e sebbe
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="William Cobbett — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="William Cobbett — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/swallow,motif/time"></span>
 
 
 Before this had happened, of course, and while it was happening,
@@ -8632,7 +8632,7 @@ and sword.  There was no red waistcoat on these occasions.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_03" data-title="William Cobbett — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_03" data-title="William Cobbett — Chapter 7 (part 3)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/hill"></span>
 
 
 The affair of Caroline of Anspach need not be fully discussed here;
@@ -8737,7 +8737,7 @@ that he opposed a Police Force.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_04" data-title="William Cobbett — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_04" data-title="William Cobbett — Chapter 7 (part 4)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/silence,motif/madness,concept/the_common_man,concept/tradition,form/biography,histref/victorian_england,character/william_cobbett,character/robert_peel,character/queen_victoria"></span>
 
 
 The short way of putting it is that Cobbett failed in Parliament.
@@ -8896,7 +8896,7 @@ and sell English children into slavery for being poor.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="William Cobbett — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="William Cobbett — Chapter 7 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/well,concept/fanaticism,concept/friendship,concept/greatness,concept/self,concept/truth"></span>
 
 
 There is an irony that is like an agony and is beyond speech or measure.
@@ -9004,7 +9004,7 @@ direction and still find the circumference of his mind.
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_06" data-title="William Cobbett — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_07--part_06" data-title="William Cobbett — Chapter 7 (part 6)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/childhood,motif/horse,motif/night,motif/road,motif/well,motif/wind,concept/faith,concept/fear,concept/grotesque,concept/history,concept/imagination,concept/loneliness,concept/paradox,concept/union,concept/vanity,form/biography,form/history,histref/america,setting/america,setting/london"></span>
 
 
 There was never a Cobbettite except Cobbett.  That gives

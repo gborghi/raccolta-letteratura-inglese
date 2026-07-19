@@ -5272,7 +5272,7 @@ of one, with its inevitable result of plutocracy and class contempt_.
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="TheCrimesOfEngland — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="TheCrimesOfEngland — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="concept/education"></span>
 
 
 CHAPTER I
@@ -5320,7 +5320,7 @@ Torto.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="TheCrimesOfEngland — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="TheCrimesOfEngland — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/hero,concept/fear"></span>
 
 
 CHAPTER II
@@ -5356,7 +5356,7 @@ Il trionfo di Federico il Grande.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="TheCrimesOfEngland — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="TheCrimesOfEngland — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="topos/double,form/allegory,histref/french_revolution,setting/russia"></span>
 
 
 CHAPTER III
@@ -5412,7 +5412,7 @@ di Blücher.
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="TheCrimesOfEngland — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="TheCrimesOfEngland — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="concept/empire_and_imperialism,form/history,setting/ireland,character/lord_salisbury"></span>
 
 
 CHAPTER IV
@@ -5448,7 +5448,7 @@ dei Mercenari tedeschi.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="TheCrimesOfEngland — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="TheCrimesOfEngland — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="concept/truth"></span>
 
 
 CHAPTER V
@@ -5496,7 +5496,7 @@ dei Mercenari tedeschi.
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="TheCrimesOfEngland — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="TheCrimesOfEngland — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/child,character/hamlet"></span>
 
 
 CHAPTER VI
@@ -5548,7 +5548,7 @@ l'inglese--Il trionfo di Bismarck.
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="TheCrimesOfEngland — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="TheCrimesOfEngland — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="concept/empire_and_imperialism,form/history,setting/europe,character/napoleon,character/napoleon_iii,character/kaiser_wilhelm_ii"></span>
 
 
 CHAPTER VII
@@ -5584,7 +5584,7 @@ Trionfo del Kaiser.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="TheCrimesOfEngland — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="TheCrimesOfEngland — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="motif/horse"></span>
 
 
 CHAPTER VIII
@@ -5620,7 +5620,7 @@ Turbine.
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="TheCrimesOfEngland — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="TheCrimesOfEngland — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="motif/sleep"></span>
 
 
 CHAPTER IX
@@ -5652,7 +5652,7 @@ dell'Inghilterra.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="TheCrimesOfEngland — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="TheCrimesOfEngland — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/moon,motif/poison,motif/ship,motif/snow,motif/time,motif/wind,concept/doubt,concept/temptation,concept/truth,setting/germany,setting/ship,character/bottom"></span>
 
 
 CHAPTER X
@@ -6008,7 +6008,7 @@ che voi ci assicurate così positivamente, come se fossero questioni di
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="TheCrimesOfEngland — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="TheCrimesOfEngland — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/fool,motif/city,motif/dawn,motif/time,concept/doubt,concept/education,concept/self,concept/wonder,setting/germany,setting/london,setting/russia,setting/venice"></span>
 
 
 opinion. Scarborough might be a fortress; but it is not. I happen to
@@ -6348,7 +6348,7 @@ la [[Germany|Germania]], per un proprio atto, divenne indifendibile. Se non diss
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_03" data-title="TheCrimesOfEngland — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_03" data-title="TheCrimesOfEngland — Chapter 10 (part 3)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/city,motif/death,motif/leaves,motif/moon,motif/silence,motif/tears,motif/well,concept/courage,concept/education,concept/pride,concept/truth,setting/denmark,setting/germany"></span>
 
 
 support of the tearing up of the promise of peace to Belgium, it is
@@ -6704,7 +6704,7 @@ Una questione corre nel nostro più sciatto giornalismo inglese riguardo a ciò 
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_04" data-title="TheCrimesOfEngland — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_04" data-title="TheCrimesOfEngland — Chapter 10 (part 4)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,archetype/king,archetype/lover,archetype/shadow,motif/childhood,motif/crown,motif/fire,motif/home,motif/horse,motif/love,motif/memory,motif/nature,motif/poison,motif/stars,motif/time,motif/well,concept/ambition,concept/beauty,concept/body,concept/exile,concept/greatness,concept/nature,concept/paradox,concept/sublime,concept/truth,form/epic,form/inscription,form/tragedy,histref/bible,character/helena"></span>
 
 
 should be done with the German Emperor after a victory of the Allies.
@@ -7040,7 +7040,7 @@ ciò che in lui era cattolico comprendeva il [[Paradox|paradosso]] di Nostra Sig
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_05" data-title="TheCrimesOfEngland — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_05" data-title="TheCrimesOfEngland — Chapter 10 (part 5)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/chains,motif/flowers,motif/grave,motif/soul,motif/swallow,concept/body,concept/courage,concept/fear,concept/imagination,concept/madness,concept/resurrection,concept/vanity,character/henry_viii,character/queen_elizabeth"></span>
 
 
 Victories. [[Henry VIII]]., a far less reputable person, was in his early
@@ -7384,7 +7384,7 @@ disputa tra il [[King|Re]] e i giuristi che ebbe il suo esito a Naseby;
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_06" data-title="TheCrimesOfEngland — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_06" data-title="TheCrimesOfEngland — Chapter 10 (part 6)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,archetype/king,motif/crown,motif/decay,motif/swallow,motif/time,motif/well,concept/ambition,concept/history,form/history,histref/milton,histref/puritanism,setting/court,setting/germany,character/henry_viii,character/maria,character/milton"></span>
 
 
 and thence again to the angry exit of [[Henry VIII]]. from the mediaeval
@@ -7728,7 +7728,7 @@ donna. [[Maria]] Teresa d'Austria era una tedesca del genere più generoso,
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_07" data-title="TheCrimesOfEngland — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_07" data-title="TheCrimesOfEngland — Chapter 10 (part 7)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,archetype/tyrant,motif/death,motif/time,motif/well,concept/body,concept/doubt,concept/faith,concept/reform,concept/resurrection,form/tragedy,histref/crusades,setting/germany,setting/russia,character/brutus,character/maria"></span>
 
 
 limited in a domestic rather than a national sense, firm in the ancient
@@ -8072,7 +8072,7 @@ era la [[Reform|riforma]] e non addirittura la Rivoluzione. Il ruolo che Giusepp
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_08" data-title="TheCrimesOfEngland — Chapter 10 (part 8)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_08" data-title="TheCrimesOfEngland — Chapter 10 (part 8)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/shadow,motif/love,motif/road,motif/snow,motif/soul,motif/time,concept/democracy,concept/freedom,concept/history,concept/self,concept/truth,form/history,histref/french_revolution,setting/denmark,setting/russia,character/maria"></span>
 
 
 Austria played in the matter is symbolic. For he was what is called an
@@ -8424,7 +8424,7 @@ per quanto solo una beffa blasfema per i suoi furfanteschi alleati, Metternich e
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_09" data-title="TheCrimesOfEngland — Chapter 10 (part 9)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_09" data-title="TheCrimesOfEngland — Chapter 10 (part 9)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/innocent,motif/death,motif/garden,motif/memory,motif/nature,motif/night,motif/ship,motif/soul,motif/time,motif/well,concept/democracy,concept/nature,concept/truth,form/tragedy,histref/america,histref/french_revolution,setting/america,setting/russia,setting/ship,character/maria"></span>
 
 
 Castlereagh. Austria, though she had lately fallen to a somewhat
@@ -8772,7 +8772,7 @@ accaduto fuori del mondo, che il suo primo grande atto d'armi e anche
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_10" data-title="TheCrimesOfEngland — Chapter 10 (part 10)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_10" data-title="TheCrimesOfEngland — Chapter 10 (part 10)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/double,archetype/artist,archetype/ghost,motif/death,motif/prison,motif/sleep,motif/time,motif/well,concept/democracy,concept/doubt,concept/history,concept/jealousy,concept/reform,concept/resurrection,form/fragment,form/history,form/satire,histref/reformation,setting/germany,setting/paris,character/henry_viii"></span>
 
 
 its last were both primarily symbols; and but for this visionary
@@ -9116,7 +9116,7 @@ verso il nord, la sua quarantena contro la cultura latina, era in un certo senso
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_11" data-title="TheCrimesOfEngland — Chapter 10 (part 11)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_11" data-title="TheCrimesOfEngland — Chapter 10 (part 11)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,archetype/lover,motif/crown,motif/machine,motif/well,concept/history,concept/self,concept/union,form/allegory,form/history,form/tragedy,histref/america,histref/french_revolution,histref/wars_of_the_roses,setting/america,setting/germany,character/brutus"></span>
 
 
 the beginning of the business. It is [[Well|well]] represented in two facts; the
@@ -9456,7 +9456,7 @@ e Carlo I: non v'è semplicemente nessuno che supponga che Emmet fosse in
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_12" data-title="TheCrimesOfEngland — Chapter 10 (part 12)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_12" data-title="TheCrimesOfEngland — Chapter 10 (part 12)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/desire,motif/fire,motif/soul,motif/well,concept/body,concept/democracy,concept/history,concept/suicide,concept/truth,concept/vanity,form/history,histref/america,histref/inquisition,setting/america,setting/court,setting/germany"></span>
 
 
 for worldly gain, or that Castlereagh was out for anything else. Even
@@ -9800,7 +9800,7 @@ La stessa serie di coincidenze negative che stiamo analizzando in questo libro
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_13" data-title="TheCrimesOfEngland — Chapter 10 (part 13)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_13" data-title="TheCrimesOfEngland — Chapter 10 (part 13)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="topos/golden_age,motif/death,motif/decay,motif/nature,motif/night,motif/poison,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/history,concept/hope,concept/nature,concept/truth,concept/wonder,form/history,form/parable,setting/germany,setting/manhattan,character/lord_chief_justice,character/theseus"></span>
 
 
 the ideal Englishman was too much of a squire; but it is just to add
@@ -10144,7 +10144,7 @@ Scritto con pittogrammi, se più tardi, per comune accordo, dal Capo
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_14" data-title="TheCrimesOfEngland — Chapter 10 (part 14)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_14" data-title="TheCrimesOfEngland — Chapter 10 (part 14)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/well,concept/suffering,form/biography"></span>
 
 
 known as Pine in the Twilight, was the best living poet, or the Chief
@@ -10492,7 +10492,7 @@ sempre un Radicale perché era sempre un Tory. Pochi uomini cambiarono meno; è
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_15" data-title="TheCrimesOfEngland — Chapter 10 (part 15)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_15" data-title="TheCrimesOfEngland — Chapter 10 (part 15)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/home,motif/soul,motif/time,motif/wind,concept/doubt,concept/faith,concept/history,concept/paradox,concept/truth,form/history,histref/french_revolution,histref/reformation,setting/castle,character/chorus,character/cranmer"></span>
 
 
 was round him that the politicians like Pitt chopped and changed, like
@@ -10844,7 +10844,7 @@ Ma Dickens era più angusto di Cobbett, non per colpa sua, ma
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_16" data-title="TheCrimesOfEngland — Chapter 10 (part 16)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_16" data-title="TheCrimesOfEngland — Chapter 10 (part 16)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/cross,motif/flag,motif/home,motif/love,motif/prison,motif/time,motif/well,concept/beauty,concept/fear,concept/truth,concept/union,setting/germany,character/faust,character/robin_hood"></span>
 
 
 because in the intervening epoch of the triumph of Scrooge and Gradgrind
@@ -11188,7 +11188,7 @@ alla serietà tedesca fino alla morte. Sono tutto per le Fiabe di Grimm; ma se
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_17" data-title="TheCrimesOfEngland — Chapter 10 (part 17)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_17" data-title="TheCrimesOfEngland — Chapter 10 (part 17)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/garden,motif/grave,motif/love,motif/mirror,motif/nature,motif/time,motif/well,concept/fanaticism,concept/fear,concept/nature,concept/self,concept/truth,concept/wonder,histref/french_revolution,setting/germany,character/bottom,character/christ,character/hamlet"></span>
 
 
 there is such a thing as Grimm's Law, I would break it, if I knew what
@@ -11520,7 +11520,7 @@ intende, alle foreste, alla [[Germany|Germania]]. Ma quando Carlyle vi giunse, l
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_18" data-title="TheCrimesOfEngland — Chapter 10 (part 18)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_18" data-title="TheCrimesOfEngland — Chapter 10 (part 18)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/child,archetype/king,motif/crown,motif/horse,motif/love,motif/river,motif/time,motif/water,concept/body,concept/freedom,concept/hope,concept/wonder,form/allegory,form/tragedy,setting/denmark,setting/germany,setting/russia"></span>
 
 
 fell upon him a sort of spell which is his [[Tragedy|tragedy]] and the English
@@ -11852,7 +11852,7 @@ un [[Horse|cavallo]] di legno. Attraverso di lui i bambini e la specie più feli
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_19" data-title="TheCrimesOfEngland — Chapter 10 (part 19)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_19" data-title="TheCrimesOfEngland — Chapter 10 (part 19)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,archetype/innocent,motif/silence,motif/time,motif/well,concept/faith,concept/fear,concept/freedom,concept/honour,concept/poverty,form/allegory,setting/denmark,setting/germany,character/arthur,character/hamlet,character/king_arthur"></span>
 
 
 feel themselves covered by a roof as by the folded wings of some vast
@@ -12204,7 +12204,7 @@ per procurarsi un po' di rosso indiano e aveva prodotto un pellerossa.
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_20" data-title="TheCrimesOfEngland — Chapter 10 (part 20)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_20" data-title="TheCrimesOfEngland — Chapter 10 (part 20)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/crown,motif/dust,motif/lightning,motif/love,motif/soul,motif/time,motif/well,concept/democracy,concept/history,concept/truth,form/history,histref/french_revolution,setting/italy,setting/russia,character/king_john,character/queen_elizabeth"></span>
 
 
 The Englishman would not see that if there was only a verbal difference
@@ -12548,7 +12548,7 @@ comprensibile disprezzo per i politici senatori dall'anima grassa. E
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_21" data-title="TheCrimesOfEngland — Chapter 10 (part 21)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_21" data-title="TheCrimesOfEngland — Chapter 10 (part 21)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,motif/flag,motif/lion,motif/time,motif/well,concept/beauty,concept/democracy,concept/fear,concept/history,concept/paradox,concept/revenge,concept/truth,form/history,form/novel,setting/denmark,setting/italy,setting/london,character/queen"></span>
 
 
 if a real revolutionist like Hugo did not do justice to the
@@ -12896,7 +12896,7 @@ Mi sono soffermato un poco su questo esperimento italiano perché illumina
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_22" data-title="TheCrimesOfEngland — Chapter 10 (part 22)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_22" data-title="TheCrimesOfEngland — Chapter 10 (part 22)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,archetype/innocent,motif/cross,motif/horse,motif/lion,motif/machine,motif/nature,motif/night,motif/nightingale,motif/time,motif/water,motif/well,concept/conversion,concept/courage,concept/fear,concept/freedom,concept/nature,concept/pride,form/allegory,setting/denmark,setting/russia"></span>
 
 
 Louis Napoleon as what he really was before the eclipse, a
@@ -13240,7 +13240,7 @@ di [[Song|canto]]. Gli eglefini sono vertebrati; e dunque sono cavalli marini. E
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_23" data-title="TheCrimesOfEngland — Chapter 10 (part 23)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_23" data-title="TheCrimesOfEngland — Chapter 10 (part 23)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/artist,motif/birds,motif/horse,motif/nature,motif/nightingale,motif/noon,motif/soul,motif/water,motif/well,concept/conscience,concept/history,concept/nature,concept/truth,form/history,form/parable,histref/french_revolution,histref/renaissance,setting/germany,character/angelo,character/michael"></span>
 
 
 though the oyster outwardly presents dissimilarities which seem to
@@ -13576,7 +13576,7 @@ tedesco felice come un ritratto; in Francia è il francese l'[[artist|artista]],
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_24" data-title="TheCrimesOfEngland — Chapter 10 (part 24)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_24" data-title="TheCrimesOfEngland — Chapter 10 (part 24)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/ghost,motif/bees,motif/blood,motif/clock,motif/cross,motif/nature,motif/soul,motif/stars,motif/time,motif/well,concept/eternity,concept/freedom,concept/history,concept/hope,concept/nature,concept/reform,concept/slavery,form/history,histref/french_revolution,setting/germany"></span>
 
 
 always painting and repainting France like a [[house]]. No state of social
@@ -13916,7 +13916,7 @@ antica tenuta schiavista, il datore di lavoro ritenne del tutto sufficiente risp
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_25" data-title="TheCrimesOfEngland — Chapter 10 (part 25)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_25" data-title="TheCrimesOfEngland — Chapter 10 (part 25)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/dust,motif/machine,motif/nature,motif/well,concept/courage,concept/freedom,concept/history,concept/nature,concept/self,form/history,form/hymn,form/sketch,form/translation,setting/denmark,setting/germany,setting/mountains,character/maria"></span>
 
 
 indignantly that he had provided baths, playing-grounds, a theatre,
@@ -14260,7 +14260,7 @@ che era salito in questo nido d'aquila quasi inaccessibile, e di là, per
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_26" data-title="TheCrimesOfEngland — Chapter 10 (part 26)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_26" data-title="TheCrimesOfEngland — Chapter 10 (part 26)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/desert,motif/horse,motif/road,motif/time,motif/water,concept/democracy,concept/faith,concept/truth,histref/crusades,setting/desert,setting/germany,setting/italy,setting/russia,character/lord_chief_justice"></span>
 
 
 many hundred years, had mocked at the predatory empire of the Turks. The
@@ -14608,7 +14608,7 @@ Europa». Era l'uomo più forte della Cristianità; e aveva confermato
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_27" data-title="TheCrimesOfEngland — Chapter 10 (part 27)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_27" data-title="TheCrimesOfEngland — Chapter 10 (part 27)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/hero,motif/hill,motif/machine,motif/soul,motif/time,motif/well,concept/body,concept/doubt,concept/fear,setting/germany"></span>
 
 
 and consecrated the Crescent. And when he had consecrated it a few [[Hill|hill]]
@@ -14952,7 +14952,7 @@ la Mezzaluna fu abbattuta, ecco ciò che era ovunque il vero nemico della
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_28" data-title="TheCrimesOfEngland — Chapter 10 (part 28)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_28" data-title="TheCrimesOfEngland — Chapter 10 (part 28)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/king,motif/cross,motif/dawn,motif/horse,motif/time,concept/doubt,concept/fear,concept/freedom,concept/history,concept/imagination,form/history,setting/germany,character/queen"></span>
 
 
 the Iron [[Cross]]--the peasant's [[Cross|cross]], which is of wood.
@@ -15304,7 +15304,7 @@ I britannici erano stati postati all'estremità occidentale estrema dello schier
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_29" data-title="TheCrimesOfEngland — Chapter 10 (part 29)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_29" data-title="TheCrimesOfEngland — Chapter 10 (part 29)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/blood,motif/city,motif/death,motif/ghosts,motif/horse,motif/road,motif/soul,motif/time,motif/well,concept/hope,concept/pride,form/sketch,setting/germany,setting/mountains,setting/paris"></span>
 
 
 line in the north. The other end rested on the secure [[City|city]] and fortress
@@ -15644,7 +15644,7 @@ come gli stessi tedeschi, dopo alcuni scioperi rapidamente spezzati, si erano
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_30" data-title="TheCrimesOfEngland — Chapter 10 (part 30)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_30" data-title="TheCrimesOfEngland — Chapter 10 (part 30)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="archetype/artist,archetype/lover,motif/autumn,motif/blood,motif/city,motif/death,motif/dust,motif/leaves,motif/machine,motif/night,motif/river,motif/time,motif/well,concept/body,concept/courage,concept/despair,concept/history,concept/honour,concept/hope,concept/madness,concept/truth,concept/wonder,form/epic,form/history,setting/paris"></span>
 
 
 already surrendered to Krupp. Through every cogwheel in that
@@ -15992,7 +15992,7 @@ spiegazione, non fosse che per prevenire l'ira dell'inevitabile scozzese. Per
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_31" data-title="TheCrimesOfEngland — Chapter 10 (part 31)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_31" data-title="TheCrimesOfEngland — Chapter 10 (part 31)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="concept/nationalism_and_patriotism,concept/class_conflict,concept/identity,form/essay,setting/scotland,setting/ireland,character/robert_louis_stevenson"></span>
 
 
 begin with, the word "British" involves a similar awkwardness. I have

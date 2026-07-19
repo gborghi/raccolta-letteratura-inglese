@@ -370,7 +370,7 @@ dog’s meat.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="Never Bet the Devil your Head (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="Never Bet the Devil your Head (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,archetype/villain,motif/death,motif/tears,motif/time,motif/well,concept/history,concept/hope,concept/truth,form/history,form/parable"></span>
 
 
 A Tale With a Moral.
@@ -477,7 +477,7 @@ his head that I would not venture to try that experiment again.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="Never Bet the Devil your Head (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="Never Bet the Devil your Head (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/fool,motif/cross,motif/home,motif/river,motif/soul,motif/tears,motif/time,motif/well,concept/conscience,concept/doubt,concept/poverty,concept/truth"></span>
 
 
 [[Poverty]] was another vice which the peculiar physical deficiency of
@@ -593,7 +593,7 @@ head that he could.
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="Never Bet the Devil your Head (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="Never Bet the Devil your Head (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/fool,motif/nature,motif/silence,motif/time,motif/well,concept/conscience,concept/doubt,concept/nature,concept/truth,concept/wonder,histref/america,setting/america"></span>
 
 
 I was about to reply, notwithstanding my previous resolutions, with some
@@ -704,7 +704,7 @@ I uttered the four last words of my remark.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="Never Bet the Devil your Head (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="Never Bet the Devil your Head (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/spring,motif/tears,motif/window,concept/truth,character/speed"></span>
 
 
 But what I said, or what I thought, or what I heard, occupied only an

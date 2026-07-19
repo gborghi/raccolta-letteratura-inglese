@@ -2946,7 +2946,7 @@ and as deathless as his own remembrance, that you shall not pass this way."
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="TheAppOfTyranny — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="TheAppOfTyranny — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/villain,motif/crown,motif/fire,motif/poison,motif/road,motif/time,motif/well,concept/doubt,concept/faith,concept/greed,concept/history,concept/hope,concept/madness,concept/truth,form/history,setting/germany,setting/italy,setting/russia,character/maria"></span>
 
 
 CHAPTER
@@ -3622,7 +3622,7 @@ il [[Poison|veleno]] è dilagato su tutte le nazioni della terra.
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_01" data-title="TheAppOfTyranny — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_01" data-title="TheAppOfTyranny — Chapter 1 (part 1)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="motif/garden,motif/grave,motif/love,motif/tears,motif/window,concept/courage,concept/doubt,concept/faith,concept/identity,concept/self,setting/london,setting/russia"></span>
 
 
 I
@@ -3962,7 +3962,7 @@ arte equestre. Non si potrebbero avere nemmeno i pirati danesi senza navi, o
 
 
 
-<span class="atom-split" data-atom="chapter_02--part_02" data-title="TheAppOfTyranny — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_02--part_02" data-title="TheAppOfTyranny — Chapter 1 (part 2)" data-chapter="Chapter 02" data-kind="excerpt" data-tags="topos/last_stand,motif/desire,motif/nature,motif/time,motif/well,motif/wheel,concept/honour,concept/imagination,concept/nature,concept/suicide,setting/london,setting/mountains"></span>
 
 
 ships without seamanship. This person, whom I may call the Positive
@@ -4410,7 +4410,7 @@ padronanza del [[Time|tempo]]."
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_01" data-title="TheAppOfTyranny — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_01" data-title="TheAppOfTyranny — Chapter 2 (part 1)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/child,motif/river,motif/soul,motif/time,motif/well,concept/doubt,concept/honour,concept/revenge,concept/truth,concept/vanity,form/comedy,histref/america,setting/america,setting/germany,setting/italy"></span>
 
 
 II
@@ -4742,7 +4742,7 @@ avere cicatrici per tutto il volto se gli piacciono; anzi, spesso esse sono la
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_02" data-title="TheAppOfTyranny — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_02" data-title="TheAppOfTyranny — Chapter 2 (part 2)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="archetype/king,motif/blood,motif/cross,motif/marriage,motif/time,motif/well,concept/comradeship,concept/doubt,concept/fear,concept/honour,concept/self,histref/america,setting/america,setting/germany"></span>
 
 
 redeeming points of interest on an otherwise somewhat unenlightening
@@ -5070,7 +5070,7 @@ Da Hannoveriano a Tataro: chiunque abbia l'abitudine dolorosa di...
 
 
 
-<span class="atom-split" data-atom="chapter_03--part_03" data-title="TheAppOfTyranny — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_03--part_03" data-title="TheAppOfTyranny — Chapter 2 (part 3)" data-chapter="Chapter 03" data-kind="excerpt" data-tags="motif/love,motif/memory,motif/mirror,concept/beauty,concept/history,form/history,setting/germany"></span>
 
 
 again. Boiled down to its bones of [[logic]], it means simply this: "I am a
@@ -5334,7 +5334,7 @@ amico o nemico.
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_01" data-title="TheAppOfTyranny — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_01" data-title="TheAppOfTyranny — Chapter 3 (part 1)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="motif/cross,motif/well,concept/history,concept/resurrection,form/fable,form/history,setting/russia,character/don_quixote"></span>
 
 
 III
@@ -5670,7 +5670,7 @@ Sono stati alleati di quasi tutti, ora con uno ora con l'altro; della Francia,
 
 
 
-<span class="atom-split" data-atom="chapter_04--part_02" data-title="TheAppOfTyranny — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_04--part_02" data-title="TheAppOfTyranny — Chapter 3 (part 2)" data-chapter="Chapter 04" data-kind="excerpt" data-tags="archetype/tyrant,motif/city,motif/cross,motif/crown,motif/death,motif/desire,motif/flag,motif/well,concept/courage,concept/democracy,concept/history,concept/imagination,concept/paradox,concept/slavery,concept/truth,form/history,form/tragedy,histref/catholic_church,histref/christianity,histref/french_revolution,setting/russia"></span>
 
 
 with England, with Austria, with [[Russia]]. Can any one candidly say that they
@@ -6110,7 +6110,7 @@ della libertà in tutto il mondo.
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_01" data-title="TheAppOfTyranny — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_01" data-title="TheAppOfTyranny — Chapter 4 (part 1)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/blood,motif/time,motif/well,concept/faith,setting/denmark,setting/germany,setting/mountains"></span>
 
 
 IV
@@ -6450,7 +6450,7 @@ Il tedesco e l'inglese non sono affatto simili, tranne per...
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_02" data-title="TheAppOfTyranny — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_02" data-title="TheAppOfTyranny — Chapter 4 (part 2)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/desire,motif/flag,motif/love,motif/memory,motif/time,concept/history,concept/honour,concept/pride,concept/truth,form/history,setting/germany,setting/italy"></span>
 
 
 evil, more unlike than any other two men we can take at random from the
@@ -6794,7 +6794,7 @@ Mio caro ------
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_03" data-title="TheAppOfTyranny — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_03" data-title="TheAppOfTyranny — Chapter 4 (part 3)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/flag,motif/love,motif/nature,motif/time,motif/well,concept/courage,concept/education,concept/faith,concept/fear,concept/hope,concept/madness,concept/nature,concept/pride,concept/purification,concept/revenge,setting/germany,setting/italy"></span>
 
 
 It is a long [[Time|time]] since we met; and I [[Fear|fear]] these letters may never reach
@@ -7118,7 +7118,7 @@ impedire un futuro tedesco all'Europa. Pensiamo che sarebbe più angusto, più m
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_04" data-title="TheAppOfTyranny — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_04" data-title="TheAppOfTyranny — Chapter 4 (part 4)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/death,motif/river,motif/well,concept/beauty,concept/charity,concept/faith,concept/fear,concept/freedom,concept/madness,histref/christianity,setting/germany,character/angelo,character/michael"></span>
 
 
 less sane, less capable of liberty and of laughter, than any of the worst
@@ -7454,7 +7454,7 @@ Ma ho posto questo caso particolare davanti a voi come un [[artist|artista]] piu
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_05" data-title="TheAppOfTyranny — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_05" data-title="TheAppOfTyranny — Chapter 4 (part 5)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/silence,motif/soul,motif/spring,motif/storm,motif/well,concept/doubt,histref/renaissance,setting/cathedral,setting/germany,setting/paris,character/angelo,character/hamlet,character/michael,character/venus"></span>
 
 
 than an Italian, to show what I mean when I object to a "German future for
@@ -7798,7 +7798,7 @@ con Europei della tua specie nulla. Non hanno mai una sola volta davvero
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_06" data-title="TheAppOfTyranny — Chapter 4 (part 6)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_06" data-title="TheAppOfTyranny — Chapter 4 (part 6)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/pain,concept/disillusionment,concept/fear,concept/freedom,histref/dante,setting/germany,setting/italy,setting/paris"></span>
 
 
 sympathised with the feeling of a Switzer for Switzerland; the feeling of a
@@ -8126,7 +8126,7 @@ cerca di frodare i poveri contadini dei loro campi (e viene frodato) e
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_07" data-title="TheAppOfTyranny — Chapter 4 (part 7)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_07" data-title="TheAppOfTyranny — Chapter 4 (part 7)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/shadow,motif/animals,motif/cross,motif/grave,motif/home,motif/night,motif/time,concept/eternity,concept/self,histref/dante,setting/london,setting/paris"></span>
 
 
 then takes refuge in beating little boys for saying their prayers in their
@@ -8458,7 +8458,7 @@ Da lodare. Probabilmente ne è orgoglioso; probabilmente pensa di averne il diri
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_08" data-title="TheAppOfTyranny — Chapter 4 (part 8)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_08" data-title="TheAppOfTyranny — Chapter 4 (part 8)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="archetype/child,archetype/fool,motif/nature,motif/poison,motif/time,motif/water,motif/well,concept/democracy,concept/despair,concept/doubt,concept/faith,concept/freedom,concept/history,concept/nature,concept/self_knowledge,form/history,setting/germany,setting/paris,character/christ"></span>
 
 
 good digestion, because the [[Poison|poison]] of praise does not make him sick. He
@@ -8790,7 +8790,7 @@ Né la religione al suo peggio né il repubblicanesimo al suo peggio mai
 
 
 
-<span class="atom-split" data-atom="chapter_05--part_09" data-title="TheAppOfTyranny — Chapter 4 (part 9)" data-chapter="Chapter 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_05--part_09" data-title="TheAppOfTyranny — Chapter 4 (part 9)" data-chapter="Chapter 05" data-kind="excerpt" data-tags="motif/night,motif/silence,concept/guilt,concept/humility,concept/pride,concept/truth,setting/denmark"></span>
 
 
 nakedly universal monarchy.

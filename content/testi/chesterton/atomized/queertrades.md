@@ -5248,7 +5248,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_01" data-title="The Club of Queer Trades — Chapter 1 (part 1)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_01" data-title="The Club of Queer Trades — Chapter 1 (part 1)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="motif/childhood,motif/dust,motif/fire,motif/nature,motif/ship,motif/soul,motif/time,concept/body,concept/grotesque,concept/hope,concept/imprisonment,concept/melancholy,concept/nature,concept/vanity,histref/america,setting/america,setting/court,setting/london,setting/ship"></span>
 
 
 Chapter 1
@@ -5380,7 +5380,7 @@ were as follows:
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_02" data-title="The Club of Queer Trades — Chapter 1 (part 2)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_02" data-title="The Club of Queer Trades — Chapter 1 (part 2)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="archetype/child,archetype/detective,motif/clock,motif/death,motif/dreams,motif/fire,motif/flowers,motif/garden,motif/nature,motif/time,motif/water,motif/well,concept/nature"></span>
 
 
 "O Rowty-owty tiddly-owty Tiddly-owty tiddly-owty Highty-ighty
@@ -5517,7 +5517,7 @@ close to the Major.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_03" data-title="The Club of Queer Trades — Chapter 1 (part 3)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_03" data-title="The Club of Queer Trades — Chapter 1 (part 3)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/clock,motif/death,motif/flowers,motif/garden,motif/road,motif/soul,motif/water,motif/window,form/inscription"></span>
 
 
 "I'll tell you what, sir," he said.  "If you're interested in them things,
@@ -5649,7 +5649,7 @@ proclamation from the dark street, again horribly articulate.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_04" data-title="The Club of Queer Trades — Chapter 1 (part 4)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_04" data-title="The Club of Queer Trades — Chapter 1 (part 4)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="archetype/monster,motif/animals,motif/blood,motif/desire,motif/fire,motif/stars,motif/time,motif/well,concept/truth,setting/court"></span>
 
 
 "Major Brown, Major Brown, how did the jackal die?"
@@ -5792,7 +5792,7 @@ like a fountain, at the [[Stars|stars]]."
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_05" data-title="The Club of Queer Trades — Chapter 1 (part 5)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_05" data-title="The Club of Queer Trades — Chapter 1 (part 5)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="archetype/detective,motif/death,motif/night,motif/stars,motif/well,concept/doubt,concept/eternity,concept/madness,concept/vanity,setting/court,setting/london"></span>
 
 
 "But what the deuce else can the letter be but criminal?"
@@ -5937,7 +5937,7 @@ the Major himself, the victim of the outrage, stepped forward.
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_06" data-title="The Club of Queer Trades — Chapter 1 (part 6)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_06" data-title="The Club of Queer Trades — Chapter 1 (part 6)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="concept/nonsense,form/short_story,character/major_brown,character/p_g_northover,character/basil_grant,character/rupert_grant"></span>
 
 
 The letter was in his hand, and he looked unusually grim.
@@ -6082,7 +6082,7 @@ me what was the name of the man who lived in your house before you?"
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_07" data-title="The Club of Queer Trades — Chapter 1 (part 7)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_07" data-title="The Club of Queer Trades — Chapter 1 (part 7)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="motif/blood,motif/childhood,motif/dance,motif/desire,motif/time,motif/window,concept/doubt,histref/bible,character/robin_hood"></span>
 
 
 The unhappy Major was only faintly more disturbed by this last
@@ -6211,7 +6211,7 @@ a little hobby; in the [[Bible]], you know, ‘There remaineth a rest'."
 
 
 
-<span class="atom-split" data-atom="story_01_chapter_1--part_08" data-title="The Club of Queer Trades — Chapter 1 (part 8)" data-chapter="Chapter 1" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_01_chapter_1--part_08" data-title="The Club of Queer Trades — Chapter 1 (part 8)" data-chapter="Chapter 1" data-kind="excerpt" data-tags="motif/marriage,concept/nonsense,form/short_story,character/major_brown,character/p_g_northover,character/basil_grant"></span>
 
 
 Northover bowed.  Then after a pause he said:
@@ -6395,7 +6395,7 @@ un mondo migliore.
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_01" data-title="The Club of Queer Trades — Chapter 2 (part 1)" data-chapter="Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_01" data-title="The Club of Queer Trades — Chapter 2 (part 1)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="motif/the_city,concept/good_vs_evil,concept/pride,form/short_story,setting/london,character/basil_grant,character/satan"></span>
 
 
 Chapter 2
@@ -6529,7 +6529,7 @@ of God and the stars, look at his hat."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_02" data-title="The Club of Queer Trades — Chapter 2 (part 2)" data-chapter="Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_02" data-title="The Club of Queer Trades — Chapter 2 (part 2)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="motif/fog_and_smoke,motif/the_city,concept/appearance_vs_reality,concept/ratiocination_detection,concept/critique_of_progress,form/detective_fiction,setting/london,character/basil_grant,character/mr_swinburne"></span>
 
 
 I stirred uncomfortably.
@@ -6669,7 +6669,7 @@ I am really surprised to see a criminal enter there."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_03" data-title="The Club of Queer Trades — Chapter 2 (part 3)" data-chapter="Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_03" data-title="The Club of Queer Trades — Chapter 2 (part 3)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="topos/double,motif/home,motif/moon,motif/time,motif/well,concept/body,concept/hope,concept/vanity,character/angelo,character/michael,character/queen"></span>
 
 
 "My good fellow," I said firmly, striking my foot on the pavement,
@@ -6810,7 +6810,7 @@ came from within.
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_04" data-title="The Club of Queer Trades — Chapter 2 (part 4)" data-chapter="Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_04" data-title="The Club of Queer Trades — Chapter 2 (part 4)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="motif/desire,motif/night,motif/time,motif/well,motif/window,concept/history,form/history,setting/london"></span>
 
 
 "I only ask," said Basil, "because of the last two friends of yours
@@ -6950,7 +6950,7 @@ are not going."
 
 
 
-<span class="atom-split" data-atom="story_02_chapter_2--part_05" data-title="The Club of Queer Trades — Chapter 2 (part 5)" data-chapter="Chapter 2" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_02_chapter_2--part_05" data-title="The Club of Queer Trades — Chapter 2 (part 5)" data-chapter="Chapter 2" data-kind="excerpt" data-tags="topos/double,motif/clock,motif/great_house,motif/home,motif/night,motif/road,motif/time,motif/well,motif/winter,concept/doubt,concept/forgiveness,concept/vanity,form/epigram"></span>
 
 
 "[[Well]], really," I said, "it is already six o'[[Clock|clock]] and I [[Doubt|doubt]] if we
@@ -7157,7 +7157,7 @@ of Queer Trades."
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_01" data-title="The Club of Queer Trades — Chapter 3 (part 1)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_01" data-title="The Club of Queer Trades — Chapter 3 (part 1)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/masks_disguise,motif/concealment_hidden_identity,concept/ratiocination_detection,concept/deception,form/detective_fiction,character/major_brown,character/mr_swinburne"></span>
 
 
 Chapter 3
@@ -7300,7 +7300,7 @@ than comic, and I said respectfully:
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_02" data-title="The Club of Queer Trades — Chapter 3 (part 2)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_02" data-title="The Club of Queer Trades — Chapter 3 (part 2)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/fire,motif/time,character/mowbray"></span>
 
 
 "I will begin at the beginning," said Mr Shorter, "and I
@@ -7419,7 +7419,7 @@ things, har lar theater.'
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_03" data-title="The Club of Queer Trades — Chapter 3 (part 3)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_03" data-title="The Club of Queer Trades — Chapter 3 (part 3)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/time,motif/well,character/diana,character/mowbray"></span>
 
 
 "My head went round and round.  Was it really true, as I had suddenly
@@ -7544,7 +7544,7 @@ I to do?'
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_04" data-title="The Club of Queer Trades — Chapter 3 (part 4)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_04" data-title="The Club of Queer Trades — Chapter 3 (part 4)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/home,motif/road,motif/wind,motif/winter,concept/doubt,character/mowbray,character/pistol"></span>
 
 
 "‘That's easy said, your 'oldness,' said the man with
@@ -7673,7 +7673,7 @@ yourself in the wrong box.'
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_05" data-title="The Club of Queer Trades — Chapter 3 (part 5)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_05" data-title="The Club of Queer Trades — Chapter 3 (part 5)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/death,motif/rose,motif/stars,motif/time,concept/courage,concept/truth,form/tragedy"></span>
 
 
 "The [[Truth|truth]] and dignity of this staggered the policeman for a moment.
@@ -7804,7 +7804,7 @@ for the salvation of a fellow creature, Basil Grant had gone mad.
 
 
 
-<span class="atom-split" data-atom="story_03_chapter_3--part_06" data-title="The Club of Queer Trades — Chapter 3 (part 6)" data-chapter="Chapter 3" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_03_chapter_3--part_06" data-title="The Club of Queer Trades — Chapter 3 (part 6)" data-chapter="Chapter 3" data-kind="excerpt" data-tags="motif/city,motif/night,motif/well,concept/imagination,concept/truth"></span>
 
 
 "Your whiskers," he cried, advancing with blazing eyes.
@@ -7953,7 +7953,7 @@ Colonels are four guineas."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_01" data-title="The Club of Queer Trades — Chapter 4 (part 1)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_01" data-title="The Club of Queer Trades — Chapter 4 (part 1)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="concept/appearance_vs_reality,concept/truth,concept/ratiocination_detection,concept/deception,form/detective_fiction,character/basil_grant,character/rupert_grant"></span>
 
 
 Chapter 4
@@ -8084,7 +8084,7 @@ on its screw and picked up a quill-pen.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_02" data-title="The Club of Queer Trades — Chapter 4 (part 2)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_02" data-title="The Club of Queer Trades — Chapter 4 (part 2)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="motif/animals,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,setting/london,character/rupert_grant,character/basil_grant"></span>
 
 
 "Really," began Rupert, with a rather nervous loudness,
@@ -8234,7 +8234,7 @@ I tried to get all the heating apparatus possible under the circumstances
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_03" data-title="The Club of Queer Trades — Chapter 4 (part 3)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_03" data-title="The Club of Queer Trades — Chapter 4 (part 3)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="motif/animals,motif/swords_weapons,motif/the_city,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,character/rupert_grant,character/basil_grant"></span>
 
 
 "Can't expect much, eh?" said the lieutenant, cutting in with the same
@@ -8378,7 +8378,7 @@ in the scuffle and have a good eye kept on them."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_04" data-title="The Club of Queer Trades — Chapter 4 (part 4)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_04" data-title="The Club of Queer Trades — Chapter 4 (part 4)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/appearance_vs_reality,concept/good_vs_evil,concept/truth,form/detective_fiction,character/basil_grant,character/rupert_grant"></span>
 
 
 "Have a good eye kept on that one," said Rupert, pale to the lips,
@@ -8522,7 +8522,7 @@ dropped somewhere about the heath.  But as a fact, there isn't."
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_05" data-title="The Club of Queer Trades — Chapter 4 (part 5)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_05" data-title="The Club of Queer Trades — Chapter 4 (part 5)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="motif/journey,concept/paradox,concept/ratiocination_detection,concept/appearance_vs_reality,form/detective_fiction,character/basil_grant,character/rupert_grant"></span>
 
 
 Basil's face during this sensible speech had been growing darker
@@ -8669,7 +8669,7 @@ such a place was Buxton Common, near Purley.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_06" data-title="The Club of Queer Trades — Chapter 4 (part 6)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_06" data-title="The Club of Queer Trades — Chapter 4 (part 6)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="motif/tree,motif/wind,motif/night,concept/nature_vs_civilization,concept/paradox,character/basil_grant,character/rupert_grant,character/mr_swinburne"></span>
 
 
 There was certainly a sort of grey futility in the landscape itself.
@@ -8800,7 +8800,7 @@ like a falling star.
 
 
 
-<span class="atom-split" data-atom="story_04_chapter_4--part_07" data-title="The Club of Queer Trades — Chapter 4 (part 7)" data-chapter="Chapter 4" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_04_chapter_4--part_07" data-title="The Club of Queer Trades — Chapter 4 (part 7)" data-chapter="Chapter 4" data-kind="excerpt" data-tags="motif/wind"></span>
 
 
 "Can nothing be done to stop Basil?"  I called out.
@@ -8932,7 +8932,7 @@ of the elm tree swayed in the sky like a stricken thistle.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_01" data-title="The Club of Queer Trades — Chapter 5 (part 1)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_01" data-title="The Club of Queer Trades — Chapter 5 (part 1)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="motif/home,motif/night,motif/prayer,motif/time,motif/well,concept/doubt"></span>
 
 
 Chapter 5
@@ -9049,7 +9049,7 @@ definable in some degree as an inferior evolutionary stage."
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_02" data-title="The Club of Queer Trades — Chapter 5 (part 2)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_02" data-title="The Club of Queer Trades — Chapter 5 (part 2)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="archetype/child,archetype/ghost,motif/journey,motif/moon,motif/nature,motif/night,motif/noon,motif/rose,motif/time,motif/water,motif/well,concept/doubt,concept/hope,concept/nature,concept/truth,concept/wonder"></span>
 
 
 Nothing but his lips had moved as he spoke, and his glasses still
@@ -9193,7 +9193,7 @@ from under him and came round to me in two strides.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_03" data-title="The Club of Queer Trades — Chapter 5 (part 3)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_03" data-title="The Club of Queer Trades — Chapter 5 (part 3)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="motif/dance,motif/death,motif/flowers,motif/garden,motif/night,motif/pain,motif/road,motif/soul,motif/summer,motif/time,motif/window,setting/london,character/chorus"></span>
 
 
 "What do you make of that?" he said, and flattened out the wire
@@ -9339,7 +9339,7 @@ The [[Night|night]] makes them credible and therefore commonplace.
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_04" data-title="The Club of Queer Trades — Chapter 5 (part 4)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_04" data-title="The Club of Queer Trades — Chapter 5 (part 4)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/cross,motif/garden,motif/time,motif/well,motif/wheel,motif/window,concept/hope,concept/madness"></span>
 
 
 The second sister had by this [[Time|time]] entered the room and came somewhat
@@ -9463,7 +9463,7 @@ in their follies by the steely voice of Adelaide Chadd saying,
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_05" data-title="The Club of Queer Trades — Chapter 5 (part 5)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_05" data-title="The Club of Queer Trades — Chapter 5 (part 5)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/rose,motif/time,motif/well"></span>
 
 
 Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
@@ -9602,7 +9602,7 @@ Bingham cut in sharply:
 
 
 
-<span class="atom-split" data-atom="story_05_chapter_5--part_06" data-title="The Club of Queer Trades — Chapter 5 (part 6)" data-chapter="Chapter 5" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_05_chapter_5--part_06" data-title="The Club of Queer Trades — Chapter 5 (part 6)" data-chapter="Chapter 5" data-kind="excerpt" data-tags="motif/dance,motif/garden,motif/grave,motif/well,concept/faith,concept/hope"></span>
 
 
 "Then," said Basil lightly, "your task is easy.  Get Chadd L800
@@ -9725,7 +9725,7 @@ and friendly.  They were still dancing when I left.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_01" data-title="The Club of Queer Trades — Chapter 6 (part 1)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_01" data-title="The Club of Queer Trades — Chapter 6 (part 1)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/detective,motif/city,motif/crown,motif/home,motif/nature,motif/road,motif/silence,motif/summer,motif/well,concept/nature,concept/providence,concept/truth,setting/london"></span>
 
 
 Chapter 6
@@ -9856,7 +9856,7 @@ I was just about to turn back when Rupert caught me by the elbow.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_02" data-title="The Club of Queer Trades — Chapter 6 (part 2)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_02" data-title="The Club of Queer Trades — Chapter 6 (part 2)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="motif/imprisonment,motif/secrets,motif/the_city,concept/ratiocination_detection,concept/imprisonment,form/detective_fiction,setting/london,character/rupert_grant"></span>
 
 
 "Just listen to that," he said, and keeping my coat gripped
@@ -10001,7 +10001,7 @@ At length he said:
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_03" data-title="The Club of Queer Trades — Chapter 6 (part 3)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_03" data-title="The Club of Queer Trades — Chapter 6 (part 3)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="motif/the_soul,concept/ratiocination_detection,concept/good_vs_evil,concept/appearance_vs_reality,form/detective_fiction,character/basil_grant,character/rupert_grant"></span>
 
 
 "If you're thinking of going back to look the thing up, you must
@@ -10140,7 +10140,7 @@ pseudo-Darwinian business.  Ethics of evolution and all that."
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_04" data-title="The Club of Queer Trades — Chapter 6 (part 4)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_04" data-title="The Club of Queer Trades — Chapter 6 (part 4)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/king,archetype/monster,motif/great_house,motif/wheel"></span>
 
 
 "I think," said Rupert darkly, ringing the bell, "that we shall
@@ -10273,7 +10273,7 @@ Rupert lifted himself on his elbow, but he was still dazed.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_05" data-title="The Club of Queer Trades — Chapter 6 (part 5)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_05" data-title="The Club of Queer Trades — Chapter 6 (part 5)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/child,motif/leaves,motif/moon,motif/pain,motif/prison,motif/ship,motif/silence,motif/spring,concept/body,concept/survival,form/sketch,setting/ship"></span>
 
 
 In the strained [[Silence|silence]] of our helplessness I heard the voice
@@ -10393,7 +10393,7 @@ and of the human secret locked below.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_06" data-title="The Club of Queer Trades — Chapter 6 (part 6)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_06" data-title="The Club of Queer Trades — Chapter 6 (part 6)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="motif/cross,motif/road,motif/rose,motif/silence,motif/well,motif/wind,motif/window,concept/conscience,concept/doubt,concept/honour"></span>
 
 
 The basement floor had several doors, as is usual in such
@@ -10541,7 +10541,7 @@ in an argument.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_07" data-title="The Club of Queer Trades — Chapter 6 (part 7)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_07" data-title="The Club of Queer Trades — Chapter 6 (part 7)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/shadow,motif/garden,motif/grave,motif/home,motif/moon,motif/night,motif/prison,motif/well,concept/doubt"></span>
 
 
 "The lady downstairs," replied Rupert.  "The lady who was locked up.
@@ -10677,7 +10677,7 @@ the finding of the Club of Queer Trades.
 
 
 
-<span class="atom-split" data-atom="story_06_chapter_6--part_08" data-title="The Club of Queer Trades — Chapter 6 (part 8)" data-chapter="Chapter 6" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="story_06_chapter_6--part_08" data-title="The Club of Queer Trades — Chapter 6 (part 8)" data-chapter="Chapter 6" data-kind="excerpt" data-tags="archetype/king,archetype/shadow,motif/moon,motif/night,motif/prison,motif/rose,motif/time,motif/well,concept/honour,concept/vanity,concept/wonder,form/epic,setting/court"></span>
 
 
 I have had many strange experiences in my life, but never a stranger

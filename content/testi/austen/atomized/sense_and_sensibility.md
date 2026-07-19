@@ -25363,7 +25363,7 @@ THE END
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="Sense and Sensibility — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="Sense and Sensibility — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="archetype/child,motif/death,motif/desire,motif/home,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/hope,concept/nature"></span>
 
 
 CHAPTER I.
@@ -25669,7 +25669,7 @@ her sisters at a more advanced period of life.
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="Sense and Sensibility — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="Sense and Sensibility — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="archetype/child,motif/blood,motif/death,motif/home,motif/love,motif/seasons,motif/time,motif/well,concept/truth"></span>
 
 
 CHAPTER II.
@@ -26075,7 +26075,7 @@ his own wife pointed out.
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="Sense and Sensibility — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="Sense and Sensibility — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="archetype/lover,motif/fire,motif/grave,motif/love,motif/marriage,motif/night,motif/time,motif/well,concept/ambition,concept/despair,concept/education,concept/melancholy,character/edward_ferrars"></span>
 
 
 CHAPTER III.
@@ -26403,7 +26403,7 @@ destiny be different from hers!”
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="Sense and Sensibility — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="Sense and Sensibility — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/desire,motif/garden,motif/home,motif/love,motif/nature,motif/time,motif/well,concept/doubt,concept/friendship,concept/hope,concept/imagination,concept/nature,concept/suffering,concept/truth,concept/wonder"></span>
 
 
 CHAPTER IV.
@@ -26793,7 +26793,7 @@ sending a letter of acquiescence.
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="Sense and Sensibility — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="Sense and Sensibility — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="motif/death,motif/decay,motif/home,motif/journey,motif/tears,motif/time,motif/water,motif/well,concept/hope"></span>
 
 
 CHAPTER V.
@@ -26995,7 +26995,7 @@ you?”
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="Sense and Sensibility — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="Sense and Sensibility — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="archetype/child,motif/desire,motif/garden,motif/home,motif/journey,motif/rose,motif/spring,motif/tears,motif/time,motif/well,motif/window,concept/beauty,concept/body,concept/hope,concept/melancholy,setting/court"></span>
 
 
 CHAPTER VI.
@@ -27251,7 +27251,7 @@ securing their promise of dining at the park the next day.
 
 
 
-<span class="atom-split" data-atom="chapter_07" data-title="Sense and Sensibility — Chapter 7" data-chapter="Chapter 07" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07" data-title="Sense and Sensibility — Chapter 7" data-chapter="Chapter 07" data-kind="chapter" data-tags="motif/grave,motif/hill,motif/home,motif/marriage,motif/nature,motif/pain,motif/summer,motif/time,motif/well,motif/winter,concept/body,concept/education,concept/nature,concept/suffering,concept/vanity,character/colonel_brandon"></span>
 
 
 CHAPTER VII.
@@ -27503,7 +27503,7 @@ required.
 
 
 
-<span class="atom-split" data-atom="chapter_08" data-title="Sense and Sensibility — Chapter 8" data-chapter="Chapter 08" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08" data-title="Sense and Sensibility — Chapter 8" data-chapter="Chapter 08" data-kind="chapter" data-tags="archetype/child,motif/decay,motif/home,motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/hope,concept/melancholy,concept/nature,concept/self,concept/vanity,character/colonel_brandon,character/edward_ferrars,character/nurse"></span>
 
 
 CHAPTER VIII.
@@ -27767,7 +27767,7 @@ avoid society, or appear restless and dissatisfied in it?”
 
 
 
-<span class="atom-split" data-atom="chapter_09" data-title="Sense and Sensibility — Chapter 9" data-chapter="Chapter 09" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09" data-title="Sense and Sensibility — Chapter 9" data-chapter="Chapter 09" data-kind="chapter" data-tags="archetype/child,archetype/hero,motif/clock,motif/garden,motif/hill,motif/home,motif/pain,motif/rose,motif/soul,motif/time,motif/well,motif/wind,motif/window,concept/beauty,concept/honour,concept/imagination,concept/wonder,setting/court,character/bottom,character/speed"></span>
 
 
 CHAPTER IX.
@@ -28175,7 +28175,7 @@ spraining of ankles.”
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_01" data-title="Sense and Sensibility — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_01" data-title="Sense and Sensibility — Chapter 10 (part 1)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/love,motif/well,concept/beauty,concept/imagination,concept/truth"></span>
 
 
 CHAPTER X.
@@ -28377,7 +28377,7 @@ people, in sacrificing general politeness to the enjoyment of undivided
 
 
 
-<span class="atom-split" data-atom="chapter_10--part_02" data-title="Sense and Sensibility — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_10--part_02" data-title="Sense and Sensibility — Chapter 10 (part 2)" data-chapter="Chapter 10" data-kind="excerpt" data-tags="motif/marriage,motif/nature,motif/pain,motif/time,motif/well,concept/body,concept/doubt,concept/hope,concept/imagination,concept/nature,character/colonel_brandon"></span>
 
 
 attention where his heart was engaged, and in slighting too easily the
@@ -28615,7 +28615,7 @@ privilege of disliking him as much as ever.”
 
 
 
-<span class="atom-split" data-atom="chapter_11" data-title="Sense and Sensibility — Chapter 11" data-chapter="Chapter 11" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11" data-title="Sense and Sensibility — Chapter 11" data-chapter="Chapter 11" data-kind="chapter" data-tags="archetype/lover,motif/desire,motif/home,motif/love,motif/memory,motif/night,motif/silence,motif/time,motif/water,concept/body,concept/friendship,concept/history,concept/imagination,concept/melancholy,concept/self,form/history,character/colonel_brandon"></span>
 
 
 CHAPTER XI.
@@ -28915,7 +28915,7 @@ established in the most [[Melancholy|melancholy]] order of disastrous [[Love|lov
 
 
 
-<span class="atom-split" data-atom="chapter_12" data-title="Sense and Sensibility — Chapter 12" data-chapter="Chapter 12" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12" data-title="Sense and Sensibility — Chapter 12" data-chapter="Chapter 12" data-kind="chapter" data-tags="motif/home,motif/horse,motif/night,motif/summer,motif/time,motif/water,motif/well,concept/body,concept/doubt,character/colonel_brandon,character/queen"></span>
 
 
 CHAPTER XII.
@@ -29275,7 +29275,7 @@ persuaded by Elinor to stay at [[Home|home]].
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_01" data-title="Sense and Sensibility — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_01" data-title="Sense and Sensibility — Chapter 13 (part 1)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/clock,motif/journey,motif/night,motif/time,motif/well,motif/winter,concept/body,concept/doubt,concept/fear,concept/hope,concept/truth,character/colonel_brandon"></span>
 
 
 CHAPTER XIII.
@@ -29603,7 +29603,7 @@ exultingly.
 
 
 
-<span class="atom-split" data-atom="chapter_13--part_02" data-title="Sense and Sensibility — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_13--part_02" data-title="Sense and Sensibility — Chapter 13 (part 2)" data-chapter="Chapter 13" data-kind="excerpt" data-tags="motif/dance,motif/garden,motif/summer,motif/time,motif/well,concept/body,concept/doubt,concept/fear,concept/hope"></span>
 
 
 “Yes; it is about Miss Williams, I am sure.”
@@ -29847,7 +29847,7 @@ she would have described every room in the [[house]] with equal delight.
 
 
 
-<span class="atom-split" data-atom="chapter_14" data-title="Sense and Sensibility — Chapter 14" data-chapter="Chapter 14" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14" data-title="Sense and Sensibility — Chapter 14" data-chapter="Chapter 14" data-kind="chapter" data-tags="archetype/lover,motif/clock,motif/home,motif/marriage,motif/silence,motif/spring,motif/time,motif/well,concept/body,concept/doubt,concept/melancholy,concept/poverty,concept/truth,concept/wonder,character/colonel_brandon"></span>
 
 
 CHAPTER XIV.
@@ -30165,7 +30165,7 @@ He engaged to be with them by four o’[[Clock|clock]].
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_01" data-title="Sense and Sensibility — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_01" data-title="Sense and Sensibility — Chapter 15 (part 1)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/love,motif/nature,motif/night,motif/well,concept/doubt,concept/hope,concept/nature,concept/solitude,concept/suffering,setting/london"></span>
 
 
 CHAPTER XV.
@@ -30409,7 +30409,7 @@ first seemed strange to me as [[Well|well]] as to you.”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_02" data-title="Sense and Sensibility — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_02" data-title="Sense and Sensibility — Chapter 15 (part 2)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/nature,motif/silence,motif/time,concept/body,concept/doubt,concept/fear,concept/guilt,concept/honour,concept/hope,concept/nature,concept/truth"></span>
 
 
 “Can you, indeed!”
@@ -30633,7 +30633,7 @@ create alarm? can he be deceitful?”
 
 
 
-<span class="atom-split" data-atom="chapter_15--part_03" data-title="Sense and Sensibility — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_15--part_03" data-title="Sense and Sensibility — Chapter 15 (part 3)" data-chapter="Chapter 15" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/marriage,motif/tears,motif/time,motif/well,concept/fear,concept/honour,concept/hope,concept/temptation"></span>
 
 
 sincerely [[Love|love]] him; and suspicion of his integrity cannot be more
@@ -30733,7 +30733,7 @@ connected with him.
 
 
 
-<span class="atom-split" data-atom="chapter_16" data-title="Sense and Sensibility — Chapter 16" data-chapter="Chapter 16" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16" data-title="Sense and Sensibility — Chapter 16" data-chapter="Chapter 16" data-kind="chapter" data-tags="archetype/child,archetype/lover,motif/hill,motif/horse,motif/leaves,motif/night,motif/pain,motif/road,motif/silence,motif/sleep,motif/tears,motif/time,motif/well,motif/wind,motif/winter,concept/melancholy,concept/truth,setting/london,character/edward_ferrars,character/hamlet"></span>
 
 
 CHAPTER XVI.
@@ -31187,7 +31187,7 @@ as she thought he ought to be treated from the family connection.
 
 
 
-<span class="atom-split" data-atom="chapter_17" data-title="Sense and Sensibility — Chapter 17" data-chapter="Chapter 17" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17" data-title="Sense and Sensibility — Chapter 17" data-chapter="Chapter 17" data-kind="chapter" data-tags="motif/fire,motif/grave,motif/love,motif/nature,motif/soul,motif/time,motif/well,concept/ambition,concept/body,concept/deception,concept/doubt,concept/greatness,concept/hope,concept/melancholy,concept/nature,concept/self,concept/wonder,form/novel,setting/london"></span>
 
 
 CHAPTER XVII.
@@ -31601,7 +31601,7 @@ in their fullest extent—and he sat for some [[Time|time]] silent and dull.
 
 
 
-<span class="atom-split" data-atom="chapter_18" data-title="Sense and Sensibility — Chapter 18" data-chapter="Chapter 18" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18" data-title="Sense and Sensibility — Chapter 18" data-chapter="Chapter 18" data-kind="chapter" data-tags="motif/dance,motif/grave,motif/nature,motif/night,motif/silence,motif/soul,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/forgiveness,concept/hope,concept/nature"></span>
 
 
 CHAPTER XVIII.
@@ -31951,7 +31951,7 @@ mention it.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_01" data-title="Sense and Sensibility — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_01" data-title="Sense and Sensibility — Chapter 19 (part 1)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="archetype/child,motif/pain,motif/time,motif/well,concept/body,concept/education,concept/hope,concept/melancholy,concept/self,setting/london,setting/oxford"></span>
 
 
 CHAPTER XIX.
@@ -32155,7 +32155,7 @@ Mrs. Dashwood, gave additional [[Pain|pain]] to them all in the parting, which
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_02" data-title="Sense and Sensibility — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_02" data-title="Sense and Sensibility — Chapter 19 (part 2)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/grave,motif/memory,motif/nature,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/doubt,concept/nature,concept/self,concept/solitude,setting/court,character/colonel_brandon"></span>
 
 
 shortly took place, and left an uncomfortable impression on Elinor’s
@@ -32365,7 +32365,7 @@ it as long as he staid.
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_03" data-title="Sense and Sensibility — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_19--part_03" data-title="Sense and Sensibility — Chapter 19 (part 3)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/nature,motif/rose,motif/well,concept/body,concept/nature,setting/london"></span>
 
 
 Mrs. Palmer, on the contrary, who was strongly endowed by [[Nature|nature]] with a
@@ -32563,7 +32563,7 @@ grown tedious and dull. We must look for the change elsewhere.”
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_01" data-title="Sense and Sensibility — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_01" data-title="Sense and Sensibility — Chapter 20 (part 1)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/cross,motif/desire,motif/grave,motif/love,motif/pain,motif/time,motif/well,motif/winter,concept/beauty,concept/body,concept/hope"></span>
 
 
 CHAPTER XX.
@@ -32831,7 +32831,7 @@ They both eagerly and resolutely declined her invitation.
 
 
 
-<span class="atom-split" data-atom="chapter_20--part_02" data-title="Sense and Sensibility — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_20--part_02" data-title="Sense and Sensibility — Chapter 20 (part 2)" data-chapter="Chapter 20" data-kind="excerpt" data-tags="motif/grave,motif/love,motif/night,motif/well,concept/body,concept/fear,concept/honour,concept/hope,character/colonel_brandon"></span>
 
 
 “But indeed you must and shall come. I am sure you will like it of all
@@ -33129,7 +33129,7 @@ the kind of man I like.”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_01" data-title="Sense and Sensibility — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_01" data-title="Sense and Sensibility — Chapter 21 (part 1)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/cross,motif/home,motif/rose,motif/swallow,motif/time,motif/well,concept/beauty,concept/endurance,setting/court"></span>
 
 
 CHAPTER XXI.
@@ -33325,7 +33325,7 @@ work-bags searched, and their knives and scissors stolen away, and felt
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_02" data-title="Sense and Sensibility — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_02" data-title="Sense and Sensibility — Chapter 21 (part 2)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/love,motif/rose,motif/tears,motif/water,motif/window,concept/doubt,concept/freedom,concept/hope,character/lucy_steele"></span>
 
 
 no [[Doubt|doubt]] of its being a reciprocal enjoyment. It suggested no other
@@ -33561,7 +33561,7 @@ Dashwood, before he married, as he was so rich?”
 
 
 
-<span class="atom-split" data-atom="chapter_21--part_03" data-title="Sense and Sensibility — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_21--part_03" data-title="Sense and Sensibility — Chapter 21 (part 3)" data-chapter="Chapter 21" data-kind="excerpt" data-tags="motif/time,motif/well,concept/beauty,concept/doubt,concept/freedom,concept/hope"></span>
 
 
 “Upon my word,” replied Elinor, “I cannot tell you, for I do not
@@ -33743,7 +33743,7 @@ openly mentioned by Sir John.
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_01" data-title="Sense and Sensibility — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_01" data-title="Sense and Sensibility — Chapter 22 (part 1)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/silence,motif/soul,motif/time,motif/well,concept/education,concept/fear,concept/hope,concept/wonder"></span>
 
 
 CHAPTER XXII.
@@ -33971,7 +33971,7 @@ heard was at first too great for words; but at length forcing herself
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_02" data-title="Sense and Sensibility — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_02" data-title="Sense and Sensibility — Chapter 22 (part 2)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/love,motif/silence,motif/well,concept/doubt,concept/fear,concept/honour,concept/self,concept/wonder,character/edward_ferrars"></span>
 
 
 to speak, and to speak cautiously, she said, with calmness of manner,
@@ -34217,7 +34217,7 @@ meet above twice a-year. I am sure I [[Wonder|wonder]] my heart is not quite
 
 
 
-<span class="atom-split" data-atom="chapter_22--part_03" data-title="Sense and Sensibility — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_22--part_03" data-title="Sense and Sensibility — Chapter 22 (part 3)" data-chapter="Chapter 22" data-kind="excerpt" data-tags="motif/silence,motif/time,motif/well,concept/doubt,concept/fear,concept/melancholy"></span>
 
 
 broke.”
@@ -34381,7 +34381,7 @@ END OF THE FIRST VOLUME
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_01" data-title="Sense and Sensibility — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_01" data-title="Sense and Sensibility — Chapter 23 (part 1)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/body,concept/doubt,concept/education,concept/fear,concept/melancholy,concept/nature,concept/self,concept/temptation,concept/truth,concept/vanity,character/lucy_steele"></span>
 
 
 CHAPTER XXIII.
@@ -34575,7 +34575,7 @@ more reasons than one. She wanted to hear many particulars of their
 
 
 
-<span class="atom-split" data-atom="chapter_23--part_02" data-title="Sense and Sensibility — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_23--part_02" data-title="Sense and Sensibility — Chapter 23 (part 2)" data-chapter="Chapter 23" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/rose,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/honour,concept/hope,concept/solitude,concept/wonder,character/lucy_steele"></span>
 
 
 engagement repeated again, she wanted more clearly to understand what
@@ -34857,7 +34857,7 @@ subject, without any risk of being heard at the card-table.
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_01" data-title="Sense and Sensibility — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_01" data-title="Sense and Sensibility — Chapter 24 (part 1)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/love,motif/nature,motif/silence,motif/time,motif/well,concept/doubt,concept/madness,concept/melancholy,concept/nature,concept/poverty,concept/truth"></span>
 
 
 CHAPTER XXIV.
@@ -35099,7 +35099,7 @@ angrily at her sister. A mutual [[Silence|silence]] took place for some [[Time|t
 
 
 
-<span class="atom-split" data-atom="chapter_24--part_02" data-title="Sense and Sensibility — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_24--part_02" data-title="Sense and Sensibility — Chapter 24 (part 2)" data-chapter="Chapter 24" data-kind="excerpt" data-tags="motif/marriage,motif/time,motif/well,motif/winter,concept/friendship,concept/hope,concept/melancholy,concept/self,setting/london,character/edward_ferrars"></span>
 
 
 first put an end to it by saying in a lower tone, though Marianne was
@@ -35331,7 +35331,7 @@ balls and large dinners to proclaim its importance.
 
 
 
-<span class="atom-split" data-atom="chapter_25" data-title="Sense and Sensibility — Chapter 25" data-chapter="Chapter 25" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_25" data-title="Sense and Sensibility — Chapter 25" data-chapter="Chapter 25" data-kind="chapter" data-tags="motif/death,motif/home,motif/time,motif/well,motif/winter,concept/doubt,concept/hope,concept/mercy,concept/truth,setting/london,character/edward_ferrars"></span>
 
 
 CHAPTER XXV.
@@ -35721,7 +35721,7 @@ the park, and were to quit it only with the rest of the family.
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_01" data-title="Sense and Sensibility — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_01" data-title="Sense and Sensibility — Chapter 26 (part 1)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/clock,motif/fire,motif/home,motif/journey,motif/nature,motif/silence,motif/soul,motif/time,concept/beauty,concept/doubt,concept/hope,concept/nature,setting/london"></span>
 
 
 CHAPTER XXVI.
@@ -35917,7 +35917,7 @@ is!” and seemed almost ready to throw herself into his arms, when
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_02" data-title="Sense and Sensibility — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_02" data-title="Sense and Sensibility — Chapter 26 (part 2)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/pain,motif/rose,motif/secrets,motif/time,motif/well,concept/beauty,setting/london,character/colonel_brandon"></span>
 
 
 [[Colonel Brandon]] appeared.
@@ -36139,7 +36139,7 @@ was equally abstracted from every thing actually before them, from all
 
 
 
-<span class="atom-split" data-atom="chapter_26--part_03" data-title="Sense and Sensibility — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_26--part_03" data-title="Sense and Sensibility — Chapter 26 (part 3)" data-chapter="Chapter 26" data-kind="excerpt" data-tags="motif/home,motif/pain,motif/time,motif/window"></span>
 
 
 that interested and occupied the others. Restless and dissatisfied
@@ -36247,7 +36247,7 @@ in hopes of distinguishing the long-expected rap.
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_01" data-title="Sense and Sensibility — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_01" data-title="Sense and Sensibility — Chapter 27 (part 1)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/city,motif/fire,motif/frost,motif/home,motif/night,motif/time,motif/wind,motif/window,concept/truth,setting/london,character/colonel_brandon"></span>
 
 
 CHAPTER XXVII.
@@ -36505,7 +36505,7 @@ Elinor, distressed by this charge of reserve in herself, which she was
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_02" data-title="Sense and Sensibility — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_02" data-title="Sense and Sensibility — Chapter 27 (part 2)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/grave,motif/night,motif/silence,motif/time,motif/well,motif/window,concept/melancholy,concept/truth,setting/london,character/colonel_brandon"></span>
 
 
 not at liberty to do away, knew not how, under such circumstances, to
@@ -36719,7 +36719,7 @@ inquiry has been impertinent; but I had not supposed any secrecy
 
 
 
-<span class="atom-split" data-atom="chapter_27--part_03" data-title="Sense and Sensibility — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_27--part_03" data-title="Sense and Sensibility — Chapter 27 (part 3)" data-chapter="Chapter 27" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/rose,motif/time,concept/doubt,concept/hope,concept/melancholy,character/colonel_brandon"></span>
 
 
 intended, as they openly correspond, and their [[Marriage|marriage]] is universally
@@ -36817,7 +36817,7 @@ anxiety for the very event that must confirm it.
 
 
 
-<span class="atom-split" data-atom="chapter_28" data-title="Sense and Sensibility — Chapter 28" data-chapter="Chapter 28" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_28" data-title="Sense and Sensibility — Chapter 28" data-chapter="Chapter 28" data-kind="chapter" data-tags="motif/fire,motif/home,motif/tears,motif/time,motif/water,concept/body,concept/doubt,concept/honour,concept/hope"></span>
 
 
 CHAPTER XXVIII.
@@ -37119,7 +37119,7 @@ irreconcilable rupture with him.
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_01" data-title="Sense and Sensibility — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_01" data-title="Sense and Sensibility — Chapter 29 (part 1)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/death,motif/fire,motif/love,motif/sleep,motif/tears,motif/time,motif/window,concept/body,concept/fear,concept/hope,concept/solitude,concept/suffering,character/bottom"></span>
 
 
 CHAPTER XXIX.
@@ -37325,7 +37325,7 @@ itself, and then turning eagerly to Willoughby’s letter, read as
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_02" data-title="Sense and Sensibility — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_02" data-title="Sense and Sensibility — Chapter 29 (part 2)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/night,motif/silence,motif/time,motif/window,concept/faith,concept/forgiveness,concept/honour,character/john_willoughby"></span>
 
 
 follows:
@@ -37553,7 +37553,7 @@ happiness as that?”
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_03" data-title="Sense and Sensibility — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_03" data-title="Sense and Sensibility — Chapter 29 (part 3)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/dance,motif/leaves,motif/night,motif/soul,motif/time,concept/faith,concept/hope,concept/temptation"></span>
 
 
 “Many, many circumstances,” said Elinor, solemnly.
@@ -37819,7 +37819,7 @@ For a moment or two she could say no more; but when this emotion had
 
 
 
-<span class="atom-split" data-atom="chapter_29--part_04" data-title="Sense and Sensibility — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_29--part_04" data-title="Sense and Sensibility — Chapter 29 (part 4)" data-chapter="Chapter 29" data-kind="excerpt" data-tags="motif/fire,motif/home,motif/nature,motif/pain,motif/time,motif/well,motif/window,concept/body,concept/nature,concept/pride,concept/self"></span>
 
 
 passed away, she added, in a firmer tone,
@@ -37995,7 +37995,7 @@ returned, she continued on the bed quiet and motionless.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_01" data-title="Sense and Sensibility — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_01" data-title="Sense and Sensibility — Chapter 30 (part 1)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/love,motif/marriage,motif/soul,motif/well,concept/reform,concept/wonder,character/biddy"></span>
 
 
 CHAPTER XXX.
@@ -38209,7 +38209,7 @@ herself; and a pretty choice she has made!—What now,” after pausing a
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_02" data-title="Sense and Sensibility — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_02" data-title="Sense and Sensibility — Chapter 30 (part 2)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="archetype/child,motif/fire,motif/garden,motif/home,motif/love,motif/nature,motif/road,motif/silence,motif/soul,motif/summer,motif/time,motif/well,motif/wind,concept/hope,concept/nature,concept/suffering,concept/truth,concept/wonder,character/colonel_brandon"></span>
 
 
 moment—“your poor sister is gone to her own room, I suppose, to moan by
@@ -38413,7 +38413,7 @@ Mrs. Jennings, with a wine-glass, full of something, in her hand.
 
 
 
-<span class="atom-split" data-atom="chapter_30--part_03" data-title="Sense and Sensibility — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_30--part_03" data-title="Sense and Sensibility — Chapter 30 (part 3)" data-chapter="Chapter 30" data-kind="excerpt" data-tags="motif/grave,motif/marriage,motif/well,concept/hope,concept/truth,character/colonel_brandon,character/john_willoughby"></span>
 
 
 “My dear,” said she, entering, “I have just recollected that I have
@@ -38611,7 +38611,7 @@ more serious and thoughtful than usual.
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_01" data-title="Sense and Sensibility — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_01" data-title="Sense and Sensibility — Chapter 31 (part 1)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/innocent,motif/home,motif/nature,motif/night,motif/pain,motif/silence,motif/sleep,motif/tears,motif/window,concept/hope,concept/imagination,concept/nature,setting/london,character/colonel_brandon"></span>
 
 
 CHAPTER XXXI.
@@ -38833,7 +38833,7 @@ from _him_.”
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_02" data-title="Sense and Sensibility — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_02" data-title="Sense and Sensibility — Chapter 31 (part 2)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/orphan,motif/dance,motif/desire,motif/love,motif/marriage,motif/time,motif/well,concept/conscience,concept/fear,concept/friendship,concept/hope,concept/melancholy,concept/temptation,concept/wonder,character/colonel_brandon"></span>
 
 
 has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
@@ -39031,7 +39031,7 @@ He could say no more, and rising hastily walked for a few minutes about
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_03" data-title="Sense and Sensibility — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_03" data-title="Sense and Sensibility — Chapter 31 (part 3)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/home,motif/marriage,motif/nature,motif/time,motif/well,concept/body,concept/education,concept/fear,concept/hope,concept/melancholy,concept/nature,concept/suffering"></span>
 
 
 the room. Elinor, affected by his relation, and still more by his
@@ -39217,7 +39217,7 @@ have availed? Would he have been less gay or less happy in the smiles
 
 
 
-<span class="atom-split" data-atom="chapter_31--part_04" data-title="Sense and Sensibility — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_31--part_04" data-title="Sense and Sensibility — Chapter 31 (part 4)" data-chapter="Chapter 31" data-kind="excerpt" data-tags="archetype/child,archetype/lover,motif/home,motif/silence,concept/hope,concept/self,concept/truth,character/colonel_brandon"></span>
 
 
 of your sister? No, he had already done that, which no man who _can_
@@ -39381,7 +39381,7 @@ and esteem for him.
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_01" data-title="Sense and Sensibility — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_01" data-title="Sense and Sensibility — Chapter 32 (part 1)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/home,motif/marriage,motif/nature,motif/pain,motif/silence,motif/tears,motif/time,motif/well,concept/doubt,concept/guilt,concept/nature,concept/truth,setting/london,character/colonel_brandon"></span>
 
 
 CHAPTER XXXII.
@@ -39583,7 +39583,7 @@ and they were kept watching for two hours together. Such a scoundrel of
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_02" data-title="Sense and Sensibility — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_02" data-title="Sense and Sensibility — Chapter 32 (part 2)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/grave,motif/marriage,motif/nature,motif/pain,motif/tears,motif/time,concept/nature,setting/london,character/colonel_brandon"></span>
 
 
 a fellow! such a deceitful dog! It was only the last [[Time|time]] they met that
@@ -39787,7 +39787,7 @@ sister came. And now to be sure you will be in no _hurry_ to be gone. I
 
 
 
-<span class="atom-split" data-atom="chapter_32--part_03" data-title="Sense and Sensibility — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_32--part_03" data-title="Sense and Sensibility — Chapter 32 (part 3)" data-chapter="Chapter 32" data-kind="excerpt" data-tags="motif/time,motif/well,concept/self,character/nancy"></span>
 
 
 am amazingly glad you did not keep to _your word_.”
@@ -39941,7 +39941,7 @@ other.
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_01" data-title="Sense and Sensibility — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_01" data-title="Sense and Sensibility — Chapter 33 (part 1)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/time,motif/well,concept/hope"></span>
 
 
 CHAPTER XXXIII.
@@ -40161,7 +40161,7 @@ which seemed to say, that he only wanted to know him to be rich, to be
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_02" data-title="Sense and Sensibility — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_02" data-title="Sense and Sensibility — Chapter 33 (part 2)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/garden,motif/time,motif/well,concept/conscience,concept/doubt,concept/hope,character/colonel_brandon,character/edward_ferrars"></span>
 
 
 equally civil to _him_.
@@ -40401,7 +40401,7 @@ flower-[[Garden|garden]] marked out.”
 
 
 
-<span class="atom-split" data-atom="chapter_33--part_03" data-title="Sense and Sensibility — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_33--part_03" data-title="Sense and Sensibility — Chapter 33 (part 3)" data-chapter="Chapter 33" data-kind="excerpt" data-tags="motif/garden,motif/home,motif/marriage,motif/time,motif/well,concept/beauty,concept/poverty,concept/truth,character/colonel_brandon"></span>
 
 
 “Upon the knoll behind the [[house]]. The old walnut trees are all come
@@ -40595,7 +40595,7 @@ carry her a most satisfactory account of both.”
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_01" data-title="Sense and Sensibility — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_01" data-title="Sense and Sensibility — Chapter 34 (part 1)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/desire,motif/marriage,motif/pain,motif/silence,motif/time,motif/well,concept/fear,concept/truth,character/colonel_brandon"></span>
 
 
 CHAPTER XXXIV.
@@ -40809,7 +40809,7 @@ gracious! In a moment I shall see the person that all my happiness
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_02" data-title="Sense and Sensibility — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_02" data-title="Sense and Sensibility — Chapter 34 (part 2)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/home,motif/nature,motif/well,concept/beauty,concept/body,concept/nature,concept/poverty,concept/pride,character/colonel_brandon"></span>
 
 
 depends on—that is to be my mother!”
@@ -41027,7 +41027,7 @@ Middletons’s approbation, Fanny presented them to her mother,
 
 
 
-<span class="atom-split" data-atom="chapter_34--part_03" data-title="Sense and Sensibility — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_34--part_03" data-title="Sense and Sensibility — Chapter 34 (part 3)" data-chapter="Chapter 34" data-kind="excerpt" data-tags="motif/rose,motif/tears,motif/time,motif/well,concept/beauty,concept/body,character/colonel_brandon"></span>
 
 
 considerately informing her, at the same [[Time|time]], that they were done by
@@ -41183,7 +41183,7 @@ you see it is all gone.”
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_01" data-title="Sense and Sensibility — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_01" data-title="Sense and Sensibility — Chapter 35 (part 1)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/desire,motif/love,motif/marriage,motif/time,motif/well,concept/despair,concept/friendship,concept/hope,concept/pride,concept/suffering,concept/vanity,concept/wonder"></span>
 
 
 CHAPTER XXXV.
@@ -41415,7 +41415,7 @@ appearance of secrecy must still be kept up. She could therefore only
 
 
 
-<span class="atom-split" data-atom="chapter_35--part_02" data-title="Sense and Sensibility — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_35--part_02" data-title="Sense and Sensibility — Chapter 35 (part 2)" data-chapter="Chapter 35" data-kind="excerpt" data-tags="motif/home,motif/love,motif/nature,motif/pain,motif/tears,motif/time,motif/well,concept/body,concept/conscience,concept/courage,concept/fear,concept/hope,concept/nature,concept/revenge,setting/london"></span>
 
 
 _look_ her tenderness, and after slightly addressing him, said no more.
@@ -41711,7 +41711,7 @@ expect.
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_01" data-title="Sense and Sensibility — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_01" data-title="Sense and Sensibility — Chapter 36 (part 1)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/fire,motif/home,motif/night,motif/time,motif/well,concept/mercy,concept/truth"></span>
 
 
 CHAPTER XXXVI.
@@ -41905,7 +41905,7 @@ when people are determined on a mode of conduct which they know to be
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_02" data-title="Sense and Sensibility — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_02" data-title="Sense and Sensibility — Chapter 36 (part 2)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/nature,motif/soul,motif/time,motif/well,concept/body,concept/charity,concept/education,concept/nature,setting/london"></span>
 
 
 wrong, they feel injured by the expectation of any thing better from
@@ -42113,7 +42113,7 @@ advise every [[Body|body]] who is going to build, to build a cottage. My friend
 
 
 
-<span class="atom-split" data-atom="chapter_36--part_03" data-title="Sense and Sensibility — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_36--part_03" data-title="Sense and Sensibility — Chapter 36 (part 3)" data-chapter="Chapter 36" data-kind="excerpt" data-tags="motif/dance,motif/fire,motif/home,motif/love,motif/time,motif/well,concept/conscience,concept/humility,concept/pride,character/colonel_brandon"></span>
 
 
 Lord Courtland came to me the other day on purpose to ask my advice,
@@ -42321,7 +42321,7 @@ END OF THE SECOND VOLUME
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_01" data-title="Sense and Sensibility — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_01" data-title="Sense and Sensibility — Chapter 37 (part 1)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="archetype/child,motif/grave,motif/home,motif/love,motif/soul,motif/time,motif/well,concept/fear,concept/greatness,concept/hope,concept/pride,concept/vanity,concept/wonder,character/edward_ferrars,character/nancy,character/nurse"></span>
 
 
 CHAPTER XXXVII.
@@ -42513,7 +42513,7 @@ is no reason on earth why Mr. Edward and Lucy should not marry; for I
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_02" data-title="Sense and Sensibility — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_02" data-title="Sense and Sensibility — Chapter 37 (part 2)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/love,motif/marriage,motif/nature,motif/time,motif/well,concept/body,concept/doubt,concept/nature,concept/self,concept/suffering,concept/truth,concept/wonder"></span>
 
 
 am sure Mrs. Ferrars may afford to do very [[Well|well]] by her son, and though
@@ -42737,7 +42737,7 @@ dear to me, I was glad to spare them from knowing how much I felt. Now,
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_03" data-title="Sense and Sensibility — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_03" data-title="Sense and Sensibility — Chapter 37 (part 3)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/desire,motif/silence,motif/spring,motif/storm,motif/time,motif/well,concept/heroism,concept/hope,concept/self,concept/suffering,concept/wonder"></span>
 
 
 I can think and speak of it with little emotion. I would not have you
@@ -42941,7 +42941,7 @@ had been placed! It was quite out of the benevolence of her heart, that
 
 
 
-<span class="atom-split" data-atom="chapter_37--part_04" data-title="Sense and Sensibility — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_37--part_04" data-title="Sense and Sensibility — Chapter 37 (part 4)" data-chapter="Chapter 37" data-kind="excerpt" data-tags="motif/nature,motif/time,motif/well,concept/fear,concept/melancholy,concept/nature,concept/revenge,concept/wonder,character/lucy_steele"></span>
 
 
 she had asked these young women to her [[house]]; merely because she
@@ -43223,7 +43223,7 @@ party.
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_01" data-title="Sense and Sensibility — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_01" data-title="Sense and Sensibility — Chapter 38 (part 1)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/grave,motif/home,motif/night,motif/pain,motif/time,motif/well,concept/courage,concept/hope,concept/self,character/lucy_steele,character/richard,character/sunday"></span>
 
 
 CHAPTER XXXVIII.
@@ -43447,7 +43447,7 @@ my heart Lucy gave it up all for lost; for we came away from your
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_02" data-title="Sense and Sensibility — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_02" data-title="Sense and Sensibility — Chapter 38 (part 2)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="motif/home,motif/horse,motif/love,motif/rose,motif/secrets,motif/time,motif/well,concept/body,concept/fear,concept/hope,concept/wonder,setting/oxford"></span>
 
 
 brother’s Wednesday, and we saw nothing of him not all [[thursday|Thursday]],
@@ -43643,7 +43643,7 @@ should happen to take you and your sister away, and Mrs. Jennings
 
 
 
-<span class="atom-split" data-atom="chapter_38--part_03" data-title="Sense and Sensibility — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_38--part_03" data-title="Sense and Sensibility — Chapter 38 (part 3)" data-chapter="Chapter 38" data-kind="excerpt" data-tags="archetype/child,motif/love,motif/marriage,motif/soul,motif/time,motif/well,concept/body,concept/friendship,concept/hope,concept/wonder"></span>
 
 
 should want company, I am sure we should be very glad to come and stay
@@ -43829,7 +43829,7 @@ letter as ever I saw, and does Lucy’s head and heart great credit.”
 
 
 
-<span class="atom-split" data-atom="chapter_39" data-title="Sense and Sensibility — Chapter 39" data-chapter="Chapter 39" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_39" data-title="Sense and Sensibility — Chapter 39" data-chapter="Chapter 39" data-kind="chapter" data-tags="motif/desire,motif/home,motif/journey,motif/marriage,motif/pain,motif/time,motif/well,motif/window,concept/doubt,concept/fear,concept/friendship,form/sketch,character/colonel_brandon"></span>
 
 
 CHAPTER XXXIX.
@@ -44233,7 +44233,7 @@ properly worded than if it had arisen from an offer of [[Marriage|marriage]].
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_01" data-title="Sense and Sensibility — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_01" data-title="Sense and Sensibility — Chapter 40 (part 1)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/time,motif/well,concept/body,concept/honour,character/colonel_brandon"></span>
 
 
 CHAPTER XL.
@@ -44487,7 +44487,7 @@ particularly uncomfortable for some minutes. He too was much
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_02" data-title="Sense and Sensibility — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_02" data-title="Sense and Sensibility — Chapter 40 (part 2)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/home,motif/time,motif/well,concept/friendship,concept/truth,setting/london,setting/oxford,character/colonel_brandon"></span>
 
 
 distressed; and they sat down together in a most promising state of
@@ -44721,7 +44721,7 @@ secret in her possession, than by anything else, that she reverted to
 
 
 
-<span class="atom-split" data-atom="chapter_40--part_03" data-title="Sense and Sensibility — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_40--part_03" data-title="Sense and Sensibility — Chapter 40 (part 3)" data-chapter="Chapter 40" data-kind="excerpt" data-tags="motif/time,motif/well,concept/deception,character/colonel_brandon"></span>
 
 
 it again as soon as Elinor appeared.
@@ -44843,7 +44843,7 @@ waiting for any thing more.
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_01" data-title="Sense and Sensibility — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_01" data-title="Sense and Sensibility — Chapter 41 (part 1)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="archetype/child,motif/death,motif/desire,motif/marriage,motif/time,motif/well,concept/fear,concept/friendship,concept/wonder,character/colonel_brandon"></span>
 
 
 CHAPTER XLI.
@@ -45073,7 +45073,7 @@ be. When the [[Marriage|marriage]] takes place, I [[Fear|fear]] she must hear of
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_02" data-title="Sense and Sensibility — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_02" data-title="Sense and Sensibility — Chapter 41 (part 2)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="topos/quest,archetype/child,motif/grave,motif/love,motif/marriage,motif/memory,motif/nature,motif/silence,motif/soul,motif/time,motif/well,concept/doubt,concept/nature,concept/self,concept/vanity,character/colonel_brandon"></span>
 
 
 supposed that Mrs. Ferrars can have the smallest satisfaction in
@@ -45293,7 +45293,7 @@ perhaps, as any in the world. You must not judge of him, Miss Dashwood,
 
 
 
-<span class="atom-split" data-atom="chapter_41--part_03" data-title="Sense and Sensibility — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_41--part_03" data-title="Sense and Sensibility — Chapter 41 (part 3)" data-chapter="Chapter 41" data-kind="excerpt" data-tags="motif/nature,motif/soul,concept/beauty,concept/education,concept/nature"></span>
 
 
 from _your_ slight acquaintance. Poor Edward! His manners are certainly
@@ -45393,7 +45393,7 @@ that was most affectionate and graceful.
 
 
 
-<span class="atom-split" data-atom="chapter_42" data-title="Sense and Sensibility — Chapter 42" data-chapter="Chapter 42" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_42" data-title="Sense and Sensibility — Chapter 42" data-chapter="Chapter 42" data-kind="chapter" data-tags="archetype/child,archetype/lover,motif/frost,motif/garden,motif/home,motif/journey,motif/marriage,motif/night,motif/pain,motif/road,motif/tears,motif/time,motif/well,concept/beauty,concept/body,concept/friendship,concept/hope,concept/imagination,concept/solitude,setting/london,character/colonel_brandon"></span>
 
 
 CHAPTER XLII.
@@ -45751,7 +45751,7 @@ to bed, to try one or two of the simplest of the remedies.
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_01" data-title="Sense and Sensibility — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_01" data-title="Sense and Sensibility — Chapter 43 (part 1)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/fire,motif/grave,motif/home,motif/journey,motif/love,motif/nature,motif/night,motif/sleep,motif/time,motif/well,concept/hope,concept/nature,character/colonel_brandon,character/nurse"></span>
 
 
 CHAPTER XLIII.
@@ -45945,7 +45945,7 @@ left entirely [[Alone|alone]], were but too favourable for the admission of ever
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_02" data-title="Sense and Sensibility — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_02" data-title="Sense and Sensibility — Chapter 43 (part 2)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="archetype/child,motif/clock,motif/night,motif/pain,motif/sleep,motif/time,concept/courage,concept/friendship,concept/hope,concept/melancholy,concept/suffering,setting/london,character/colonel_brandon"></span>
 
 
 [[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
@@ -46147,7 +46147,7 @@ She was on the point of sending again for Mr. Harris, or if _he_ could
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_03" data-title="Sense and Sensibility — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_03" data-title="Sense and Sensibility — Chapter 43 (part 3)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/decay,motif/noon,motif/sleep,motif/tears,motif/time,concept/doubt,concept/fear,concept/hope,concept/suffering,character/colonel_brandon"></span>
 
 
 not come, for some other advice, when the former—but not till after
@@ -46337,7 +46337,7 @@ now be travelling towards them. The Colonel, too!—perhaps scarcely less
 
 
 
-<span class="atom-split" data-atom="chapter_43--part_04" data-title="Sense and Sensibility — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_43--part_04" data-title="Sense and Sensibility — Chapter 43 (part 4)" data-chapter="Chapter 43" data-kind="excerpt" data-tags="motif/clock,motif/night,motif/sleep,motif/time,motif/wind,motif/window,concept/despair,concept/doubt,concept/truth"></span>
 
 
 an object of pity!—Oh!—how slow was the progress of [[Time|time]] which yet kept
@@ -46433,7 +46433,7 @@ drawing-room,—she entered it,—and saw only Willoughby.
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_01" data-title="Sense and Sensibility — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_01" data-title="Sense and Sensibility — Chapter 44 (part 1)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,motif/clock,motif/rose,motif/soul,motif/time,motif/well,concept/forgiveness,concept/hope,concept/vanity,setting/london"></span>
 
 
 CHAPTER XLIV.
@@ -46703,7 +46703,7 @@ angry contempt, stopped him, by saying,
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_02" data-title="Sense and Sensibility — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_02" data-title="Sense and Sensibility — Chapter 44 (part 2)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,motif/death,motif/love,motif/soul,motif/time,motif/well,concept/faith,concept/guilt,concept/honour,concept/poverty,concept/self,concept/vanity"></span>
 
 
 “It is hardly worth while, Mr. Willoughby, for you to relate, or for me
@@ -46903,7 +46903,7 @@ could not deny, and vain was every endeavour to soften it. She was
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_03" data-title="Sense and Sensibility — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_03" data-title="Sense and Sensibility — Chapter 44 (part 3)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/villain,motif/journey,motif/night,motif/time,motif/well,concept/body,concept/conscience,concept/doubt,concept/faith,concept/friendship,concept/guilt,concept/poverty,concept/pride,concept/self,setting/london"></span>
 
 
 previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
@@ -47113,7 +47113,7 @@ some measure quieted it, and I had been growing a fine hardened
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_04" data-title="Sense and Sensibility — Chapter 44 (part 4)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_04" data-title="Sense and Sensibility — Chapter 44 (part 4)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/fool,archetype/lover,motif/dance,motif/death,motif/desire,motif/time,motif/well"></span>
 
 
 she too must have become indifferent to me; talking to myself of our
@@ -47319,7 +47319,7 @@ make them think me a blackguard one.’ Such were my reasonings, as, in a
 
 
 
-<span class="atom-split" data-atom="chapter_44--part_05" data-title="Sense and Sensibility — Chapter 44 (part 5)" data-chapter="Chapter 44" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_44--part_05" data-title="Sense and Sensibility — Chapter 44 (part 5)" data-chapter="Chapter 44" data-kind="excerpt" data-tags="archetype/villain,motif/clock,motif/marriage,motif/nature,motif/night,motif/soul,motif/time,motif/well,concept/conscience,concept/forgiveness,concept/guilt,concept/honour,concept/nature,concept/temptation,concept/vanity"></span>
 
 
 sort of desperate carelessness, I copied my wife’s words, and parted
@@ -47595,7 +47595,7 @@ And with these words, he almost ran out of the room.
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_01" data-title="Sense and Sensibility — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_01" data-title="Sense and Sensibility — Chapter 45 (part 1)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,archetype/innocent,motif/death,motif/desire,motif/journey,motif/love,motif/night,motif/silence,motif/sleep,motif/tears,motif/time,concept/fear,character/colonel_brandon,character/nurse"></span>
 
 
 CHAPTER XLV.
@@ -47785,7 +47785,7 @@ source of joy unthought of by Elinor. It was thus imparted to her, as
 
 
 
-<span class="atom-split" data-atom="chapter_45--part_02" data-title="Sense and Sensibility — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_45--part_02" data-title="Sense and Sensibility — Chapter 45 (part 2)" data-chapter="Chapter 45" data-kind="excerpt" data-tags="archetype/child,motif/desire,motif/love,motif/marriage,motif/time,motif/well,concept/friendship,concept/hope,concept/imagination,concept/wonder,character/colonel_brandon"></span>
 
 
 soon as any opportunity of private conference between them occurred.
@@ -48033,7 +48033,7 @@ friend, and yet in wishing it, to feel a pang for Willoughby.
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_01" data-title="Sense and Sensibility — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_01" data-title="Sense and Sensibility — Chapter 46 (part 1)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="archetype/child,motif/journey,motif/nature,motif/road,motif/well,motif/window,concept/body,concept/courage,concept/melancholy,concept/nature,concept/self,concept/suffering,concept/wonder,character/colonel_brandon"></span>
 
 
 CHAPTER XLVI.
@@ -48233,7 +48233,7 @@ contrary, with a mind and [[Body|body]] alike strengthened by rest, she looked
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_02" data-title="Sense and Sensibility — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_02" data-title="Sense and Sensibility — Chapter 46 (part 2)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/autumn,motif/cross,motif/grave,motif/hill,motif/home,motif/pain,motif/silence,motif/summer,motif/time,motif/well,concept/hope,concept/indolence,concept/self,concept/wonder,character/colonel_brandon"></span>
 
 
 and spoke with more genuine spirit, anticipating the pleasure of
@@ -48461,7 +48461,7 @@ feelings as these reflections gave me, I [[Wonder|wonder]] at my recovery,—[[W
 
 
 
-<span class="atom-split" data-atom="chapter_46--part_03" data-title="Sense and Sensibility — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_46--part_03" data-title="Sense and Sensibility — Chapter 46 (part 3)" data-chapter="Chapter 46" data-kind="excerpt" data-tags="motif/desire,motif/home,motif/tears,motif/time,motif/well,concept/body,concept/friendship,concept/self,concept/solitude,character/nurse"></span>
 
 
 that the very eagerness of my [[Desire|desire]] to live, to have [[Time|time]] for
@@ -48629,7 +48629,7 @@ injunction.
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_01" data-title="Sense and Sensibility — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_01" data-title="Sense and Sensibility — Chapter 47 (part 1)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="motif/desire,motif/marriage,motif/silence,motif/time,motif/well,concept/conscience,concept/faith,concept/guilt,concept/honour,concept/self,concept/truth,character/colonel_brandon"></span>
 
 
 CHAPTER XLVII.
@@ -48841,7 +48841,7 @@ even to domestic happiness, than the mere temper of a wife.”
 
 
 
-<span class="atom-split" data-atom="chapter_47--part_02" data-title="Sense and Sensibility — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_47--part_02" data-title="Sense and Sensibility — Chapter 47 (part 2)" data-chapter="Chapter 47" data-kind="excerpt" data-tags="archetype/child,motif/silence,motif/time,motif/well,concept/doubt,concept/friendship,concept/self,concept/suffering,setting/london,setting/oxford,character/colonel_brandon"></span>
 
 
 “I have not a [[Doubt|doubt]] of it,” said Marianne; “and I have nothing to
@@ -49159,7 +49159,7 @@ with less [[Self|self]]-provocation, and greater fortitude.
 
 
 
-<span class="atom-split" data-atom="chapter_48" data-title="Sense and Sensibility — Chapter 48" data-chapter="Chapter 48" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_48" data-title="Sense and Sensibility — Chapter 48" data-chapter="Chapter 48" data-kind="chapter" data-tags="motif/desire,motif/love,motif/pain,motif/rose,motif/silence,motif/tears,motif/well,motif/window,concept/hope,concept/self,concept/wonder,form/sketch,setting/london,character/colonel_brandon,character/lucy_steele"></span>
 
 
 CHAPTER XLVIII.
@@ -49455,7 +49455,7 @@ lessening but by their own conjectures.
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_01" data-title="Sense and Sensibility — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_01" data-title="Sense and Sensibility — Chapter 49 (part 1)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="archetype/lover,motif/clock,motif/desire,motif/home,motif/love,motif/night,motif/tears,motif/time,concept/despair,concept/doubt,concept/freedom,concept/hope,concept/truth,setting/oxford"></span>
 
 
 CHAPTER XLIX.
@@ -49651,7 +49651,7 @@ other claims might be made on him, it was impossible that less than a
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_02" data-title="Sense and Sensibility — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_02" data-title="Sense and Sensibility — Chapter 49 (part 2)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/marriage,motif/road,motif/time,motif/well,concept/beauty,concept/doubt,concept/imagination,concept/jealousy,concept/vanity,concept/wonder,setting/london,setting/oxford,character/colonel_brandon"></span>
 
 
 week should be given up to the enjoyment of Elinor’s company, or
@@ -49865,7 +49865,7 @@ a very cruel reception. It was his business, however, to say that he
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_03" data-title="Sense and Sensibility — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_03" data-title="Sense and Sensibility — Chapter 49 (part 3)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/garden,motif/love,motif/nature,motif/time,motif/well,concept/education,concept/friendship,concept/honour,concept/imagination,concept/nature,concept/self,concept/vanity,character/colonel_brandon,character/lucy_steele"></span>
 
 
 _did_, and he said it very prettily. What he might say on the subject a
@@ -50077,7 +50077,7 @@ having, for the first [[Time|time]] since her living at Barton, more company
 
 
 
-<span class="atom-split" data-atom="chapter_49--part_04" data-title="Sense and Sensibility — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_49--part_04" data-title="Sense and Sensibility — Chapter 49 (part 4)" data-chapter="Chapter 49" data-kind="excerpt" data-tags="motif/home,motif/journey,motif/love,motif/marriage,motif/night,motif/soul,motif/time,motif/well,concept/body,concept/fear,concept/friendship,concept/honour,concept/humility,concept/reconciliation,concept/wonder,setting/london,setting/oxford,character/colonel_brandon,character/nancy"></span>
 
 
 with her than her [[house]] would hold. Edward was allowed to retain the
@@ -50309,7 +50309,7 @@ nights, he was to proceed on his [[Journey|journey]] to town.
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_01" data-title="Sense and Sensibility — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_01" data-title="Sense and Sensibility — Chapter 50 (part 1)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="motif/autumn,motif/desire,motif/home,motif/journey,motif/marriage,motif/time,motif/well,concept/honour,concept/humility,concept/truth,character/colonel_brandon"></span>
 
 
 CHAPTER L.
@@ -50513,7 +50513,7 @@ given for their exercise, reconciled Mrs. Ferrars to his choice, and
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_02" data-title="Sense and Sensibility — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_02" data-title="Sense and Sensibility — Chapter 50 (part 2)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/child,motif/home,motif/marriage,motif/time,motif/well,concept/conscience,concept/forgiveness,concept/friendship,concept/humility,concept/self,character/colonel_brandon,character/marianne_dashwood"></span>
 
 
 re-established him completely in her favour.
@@ -50703,7 +50703,7 @@ But so it was. Instead of falling a sacrifice to an irresistible
 
 
 
-<span class="atom-split" data-atom="chapter_50--part_03" data-title="Sense and Sensibility — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="chapter_50--part_03" data-title="Sense and Sensibility — Chapter 50 (part 3)" data-chapter="Chapter 50" data-kind="excerpt" data-tags="archetype/lover,motif/home,motif/love,motif/marriage,motif/time,concept/beauty,concept/forgiveness,concept/honour,character/colonel_brandon"></span>
 
 
 passion, as once she had fondly flattered herself with

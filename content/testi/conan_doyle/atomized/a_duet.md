@@ -2410,7 +2410,7 @@ This 1929 novel is about the discovery of a sunken city of Atlantis by a team of
 
 
 
-<span class="atom-split" data-atom="chapter_01_the_trio" data-title="A DUET — Chapter 22: THE TRIO" data-chapter="THE TRIO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01_the_trio" data-title="A DUET — Chapter 22: THE TRIO" data-chapter="THE TRIO" data-kind="chapter" data-tags="topos/the_journey_of_life,motif/sea,motif/ship,motif/storm,concept/marriage_and_fidelity,concept/romantic_love,form/letter,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER XXII - THE TRIO
@@ -2424,7 +2424,7 @@ Jan. 20, 1899.
 
 
 
-<span class="atom-split" data-atom="chapter_02_the_overture_about_that_date" data-title="A DUET — Chapter 1: THE OVERTURE - ABOUT THAT DATE" data-chapter="THE OVERTURE ABOUT THAT DATE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02_the_overture_about_that_date" data-title="A DUET — Chapter 1: THE OVERTURE - ABOUT THAT DATE" data-chapter="THE OVERTURE ABOUT THAT DATE" data-kind="chapter" data-tags="motif/love,motif/marriage"></span>
 
 
 CHAPTER I - THE OVERTURE - ABOUT THAT DATE
@@ -2454,7 +2454,7 @@ So that is how they arranged about the date.
 
 
 
-<span class="atom-split" data-atom="chapter_03_the_overture_continued_in_a_mi" data-title="A DUET — Chapter 2: THE OVERTURE CONTINUED - IN A MINOR KEY" data-chapter="THE OVERTURE CONTINUED IN A MI" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03_the_overture_continued_in_a_mi" data-title="A DUET — Chapter 2: THE OVERTURE CONTINUED - IN A MINOR KEY" data-chapter="THE OVERTURE CONTINUED IN A MI" data-kind="chapter" data-tags="archetype/lover,motif/love,motif/marriage,setting/london,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER II - THE OVERTURE CONTINUED - IN A MINOR KEY
@@ -2492,7 +2492,7 @@ Saturday!  Saturday!  Saturday! oh, how I am longing for Saturday, when I shal
 
 
 
-<span class="atom-split" data-atom="chapter_04_the_overture_concluded" data-title="A DUET — Chapter 3: THE OVERTURE CONCLUDED" data-chapter="THE OVERTURE CONCLUDED" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04_the_overture_concluded" data-title="A DUET — Chapter 3: THE OVERTURE CONCLUDED" data-chapter="THE OVERTURE CONCLUDED" data-kind="chapter" data-tags="archetype/lover,motif/love,motif/marriage,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER III - THE OVERTURE CONCLUDED
@@ -2520,7 +2520,7 @@ P.P.S. - Saturday!  Saturday!!  Saturday!!!
 
 
 
-<span class="atom-split" data-atom="chapter_05_the_two_solos" data-title="A DUET — Chapter 4: THE TWO SOLOS" data-chapter="THE TWO SOLOS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05_the_two_solos" data-title="A DUET — Chapter 4: THE TWO SOLOS" data-chapter="THE TWO SOLOS" data-kind="chapter" data-tags="archetype/lover,motif/love,setting/london,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER IV - THE TWO SOLOS
@@ -2606,7 +2606,7 @@ Frank and Maude stood together looking up at it.
 
 
 
-<span class="atom-split" data-atom="chapter_06_in_britains_valhalla" data-title="A DUET — Chapter 5: IN BRITAIN’S VALHALLA" data-chapter="IN BRITAINS VALHALLA" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06_in_britains_valhalla" data-title="A DUET — Chapter 5: IN BRITAIN’S VALHALLA" data-chapter="IN BRITAINS VALHALLA" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london"></span>
 
 
 CHAPTER V - IN BRITAIN’S VALHALLA
@@ -2715,7 +2715,7 @@ But Maude laid her hand upon his arm.
 
 
 
-<span class="atom-split" data-atom="chapter_07_two_solos_and_a_duet" data-title="A DUET — Chapter 6: TWO SOLOS AND A DUET" data-chapter="TWO SOLOS AND A DUET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_07_two_solos_and_a_duet" data-title="A DUET — Chapter 6: TWO SOLOS AND A DUET" data-chapter="TWO SOLOS AND A DUET" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER VI - TWO SOLOS AND A DUET
@@ -2820,7 +2820,7 @@ A broad-brimmed hat with a curling feather is not a good shape for driving with 
 
 
 
-<span class="atom-split" data-atom="chapter_08_keeping_up_appearances" data-title="A DUET — Chapter 7: KEEPING UP APPEARANCES" data-chapter="KEEPING UP APPEARANCES" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_08_keeping_up_appearances" data-title="A DUET — Chapter 7: KEEPING UP APPEARANCES" data-chapter="KEEPING UP APPEARANCES" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london,character/frank_crosse,character/maude_selby"></span>
 
 
 CHAPTER VII - KEEPING UP APPEARANCES
@@ -2956,7 +2956,7 @@ And so ignominiously ended the attempt which so many have made, and at which so 
 
 
 
-<span class="atom-split" data-atom="chapter_09_the_home_coming" data-title="A DUET — Chapter 8: THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_09_the_home_coming" data-title="A DUET — Chapter 8: THE HOME-COMING" data-chapter="THE HOME COMING" data-kind="chapter" data-tags="motif/marriage"></span>
 
 
 CHAPTER VIII - THE HOME-COMING
@@ -3034,7 +3034,7 @@ But all the mistakes and misfortunes were very quickly explained.  The telegram
 
 
 
-<span class="atom-split" data-atom="chapter_10_laying_a_course" data-title="A DUET — Chapter 9: LAYING A COURSE" data-chapter="LAYING A COURSE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_10_laying_a_course" data-title="A DUET — Chapter 9: LAYING A COURSE" data-chapter="LAYING A COURSE" data-kind="chapter" data-tags="archetype/lover,motif/love,motif/marriage,setting/london,character/frank_crosse"></span>
 
 
 CHAPTER IX - LAYING A COURSE
@@ -3186,7 +3186,7 @@ Such was their course as far as this ambitious young couple could lay it.  They
 
 
 
-<span class="atom-split" data-atom="chapter_11_confessions" data-title="A DUET — Chapter 10: CONFESSIONS" data-chapter="CONFESSIONS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_11_confessions" data-title="A DUET — Chapter 10: CONFESSIONS" data-chapter="CONFESSIONS" data-kind="chapter" data-tags="motif/love,motif/marriage"></span>
 
 
 CHAPTER X - CONFESSIONS
@@ -3454,7 +3454,7 @@ And just then Jemima came in with the tray.
 
 
 
-<span class="atom-split" data-atom="chapter_12_concerning_mrs_beeton" data-title="A DUET — Chapter 11: CONCERNING MRS. BEETON" data-chapter="CONCERNING MRS BEETON" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_12_concerning_mrs_beeton" data-title="A DUET — Chapter 11: CONCERNING MRS. BEETON" data-chapter="CONCERNING MRS BEETON" data-kind="chapter" data-tags="motif/love,motif/marriage,character/frank_crosse"></span>
 
 
 CHAPTER XI - CONCERNING MRS. BEETON
@@ -3576,7 +3576,7 @@ And they clattered downstairs for their golf-clubs.
 
 
 
-<span class="atom-split" data-atom="chapter_13_mr_samuel_pepys" data-title="A DUET — Chapter 12: MR. SAMUEL PEPYS" data-chapter="MR SAMUEL PEPYS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_13_mr_samuel_pepys" data-title="A DUET — Chapter 12: MR. SAMUEL PEPYS" data-chapter="MR SAMUEL PEPYS" data-kind="chapter" data-tags="motif/love"></span>
 
 
 CHAPTER XII - MR. SAMUEL PEPYS
@@ -3663,7 +3663,7 @@ But the man who doesn’t misses a good deal.
 
 
 
-<span class="atom-split" data-atom="chapter_14_a_visit_to_mr_samuel_pepys" data-title="A DUET — Chapter 13: A VISIT TO MR. SAMUEL PEPYS" data-chapter="A VISIT TO MR SAMUEL PEPYS" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_14_a_visit_to_mr_samuel_pepys" data-title="A DUET — Chapter 13: A VISIT TO MR. SAMUEL PEPYS" data-chapter="A VISIT TO MR SAMUEL PEPYS" data-kind="chapter" data-tags="motif/love,setting/london"></span>
 
 
 CHAPTER XIII - A VISIT TO MR. SAMUEL PEPYS
@@ -3762,7 +3762,7 @@ And then they finished their excursion in the dark, wainscotted, low-ceilinged c
 
 
 
-<span class="atom-split" data-atom="chapter_15_trouble" data-title="A DUET — Chapter 14: TROUBLE" data-chapter="TROUBLE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_15_trouble" data-title="A DUET — Chapter 14: TROUBLE" data-chapter="TROUBLE" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london,character/frank_crosse"></span>
 
 
 CHAPTER XIV - TROUBLE
@@ -3917,7 +3917,7 @@ This seemed to Frank to be a most unexpected and fearsome stroke, but Owen simpl
 
 
 
-<span class="atom-split" data-atom="chapter_16_a_rescue" data-title="A DUET — Chapter 15: A RESCUE" data-chapter="A RESCUE" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_16_a_rescue" data-title="A DUET — Chapter 15: A RESCUE" data-chapter="A RESCUE" data-kind="chapter" data-tags="setting/london"></span>
 
 
 CHAPTER XV - A RESCUE
@@ -4037,7 +4037,7 @@ So it was that Frank, coming down upon the morning of his birthday, perceived a 
 
 
 
-<span class="atom-split" data-atom="chapter_17_the_browning_society" data-title="A DUET — Chapter 16: THE BROWNING SOCIETY" data-chapter="THE BROWNING SOCIETY" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_17_the_browning_society" data-title="A DUET — Chapter 16: THE BROWNING SOCIETY" data-chapter="THE BROWNING SOCIETY" data-kind="chapter" data-tags="motif/love"></span>
 
 
 CHAPTER XVI - THE BROWNING SOCIETY
@@ -4201,7 +4201,7 @@ And so after one hour of precarious life, Mrs. Hunt Mortimer’s Mutual Improvem
 
 
 
-<span class="atom-split" data-atom="chapter_18_an_investment" data-title="A DUET — Chapter 17: AN INVESTMENT" data-chapter="AN INVESTMENT" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_18_an_investment" data-title="A DUET — Chapter 17: AN INVESTMENT" data-chapter="AN INVESTMENT" data-kind="chapter" data-tags="motif/love,setting/london,character/frank_crosse"></span>
 
 
 CHAPTER XVII - AN INVESTMENT
@@ -4381,7 +4381,7 @@ Two days later the poor old Broadwood with the squeaky treble and the wheezy bas
 
 
 
-<span class="atom-split" data-atom="chapter_19_a_thundercloud" data-title="A DUET — Chapter 18: A THUNDERCLOUD" data-chapter="A THUNDERCLOUD" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_19_a_thundercloud" data-title="A DUET — Chapter 18: A THUNDERCLOUD" data-chapter="A THUNDERCLOUD" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london,character/frank_crosse"></span>
 
 
 CHAPTER XVIII - A THUNDERCLOUD
@@ -4543,7 +4543,7 @@ He took no notice, but passed on down the street without a word of farewell.  W
 
 
 
-<span class="atom-split" data-atom="chapter_20_danger" data-title="A DUET — Chapter 19: DANGER" data-chapter="DANGER" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_20_danger" data-title="A DUET — Chapter 19: DANGER" data-chapter="DANGER" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london,character/frank_crosse"></span>
 
 
 CHAPTER XIX - DANGER
@@ -4662,7 +4662,7 @@ Frank had a long and animated account from Maude of the extraordinary visitor wh
 
 
 
-<span class="atom-split" data-atom="chapter_21_no_5_cheyne_row" data-title="A DUET — Chapter 20: NO. 5 CHEYNE ROW" data-chapter="NO 5 CHEYNE ROW" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_21_no_5_cheyne_row" data-title="A DUET — Chapter 20: NO. 5 CHEYNE ROW" data-chapter="NO 5 CHEYNE ROW" data-kind="chapter" data-tags="motif/love,motif/marriage,setting/london"></span>
 
 
 CHAPTER XX - NO. 5 CHEYNE ROW
@@ -4790,7 +4790,7 @@ It was pleasant to be out in the open air once more, but they were in the pine g
 
 
 
-<span class="atom-split" data-atom="chapter_22_the_last_note_of_the_duet" data-title="A DUET — Chapter 21: THE LAST NOTE OF THE DUET" data-chapter="THE LAST NOTE OF THE DUET" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_22_the_last_note_of_the_duet" data-title="A DUET — Chapter 21: THE LAST NOTE OF THE DUET" data-chapter="THE LAST NOTE OF THE DUET" data-kind="chapter" data-tags="motif/love"></span>
 
 
 CHAPTER XXI - THE LAST NOTE OF THE DUET
@@ -4893,7 +4893,7 @@ So Frank went down into the darkening room below, and mechanically lighting his 
 
 
 
-<span class="atom-split" data-atom="chapter_23_the_trio" data-title="A DUET — Chapter 22: THE TRIO" data-chapter="THE TRIO" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_23_the_trio" data-title="A DUET — Chapter 22: THE TRIO" data-chapter="THE TRIO" data-kind="chapter" data-tags="motif/love,character/frank_crosse"></span>
 
 
 CHAPTER XXII - THE TRIO

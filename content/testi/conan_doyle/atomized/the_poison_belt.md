@@ -636,7 +636,7 @@ This novel was published in 1926. Although this is a Professor Challenger story,
 
 
 
-<span class="atom-split" data-atom="chapter_01" data-title="THE POISON BELT — Chapter 1" data-chapter="Chapter 01" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_01" data-title="THE POISON BELT — Chapter 1" data-chapter="Chapter 01" data-kind="chapter" data-tags="setting/london,character/lord_john_roxton,character/professor_challenger,character/professor_summerlee"></span>
 
 
 CHAPTER I
@@ -767,7 +767,7 @@ The lady shook her head ruefully, and the Professor laughed loudly and stroked h
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="THE POISON BELT — Chapter 2" data-chapter="Chapter 02" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="THE POISON BELT — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="setting/london,character/lord_john_roxton,character/professor_challenger,character/professor_summerlee"></span>
 
 
 CHAPTER II
@@ -876,7 +876,7 @@ The taciturn Austin saluted and withdrew. Challenger lit a cigarette, and, drawi
 
 
 
-<span class="atom-split" data-atom="chapter_03" data-title="THE POISON BELT — Chapter 3" data-chapter="Chapter 03" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_03" data-title="THE POISON BELT — Chapter 3" data-chapter="Chapter 03" data-kind="chapter" data-tags="motif/sleep,setting/london,character/professor_challenger,character/professor_summerlee"></span>
 
 
 CHAPTER III
@@ -985,7 +985,7 @@ There were several red glares at different points, and the pile of debris upon t
 
 
 
-<span class="atom-split" data-atom="chapter_04" data-title="THE POISON BELT — Chapter 4" data-chapter="Chapter 04" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_04" data-title="THE POISON BELT — Chapter 4" data-chapter="Chapter 04" data-kind="chapter" data-tags="motif/sleep,character/edward_malone,character/lord_john_roxton"></span>
 
 
 CHAPTER IV
@@ -1076,7 +1076,7 @@ I don’t know how long we sat in amazed silence. Then as in a dream, I heard Ch
 
 
 
-<span class="atom-split" data-atom="chapter_05" data-title="THE POISON BELT — Chapter 5" data-chapter="Chapter 05" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_05" data-title="THE POISON BELT — Chapter 5" data-chapter="Chapter 05" data-kind="chapter" data-tags="setting/london,character/professor_summerlee"></span>
 
 
 CHAPTER V
@@ -1172,7 +1172,7 @@ We got into the car without another word. Lord John backed her round and turned 
 
 
 
-<span class="atom-split" data-atom="chapter_06" data-title="THE POISON BELT — Chapter 6" data-chapter="Chapter 06" data-kind="chapter"></span>
+<span class="atom-split" data-atom="chapter_06" data-title="THE POISON BELT — Chapter 6" data-chapter="Chapter 06" data-kind="chapter" data-tags="motif/sleep,setting/london,character/edward_malone,character/lord_john_roxton,character/professor_challenger"></span>
 
 
 CHAPTER VI

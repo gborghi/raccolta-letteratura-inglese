@@ -414,7 +414,7 @@ loathsome—of detestable putrescence.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Facts in the Case of M. Valdemar (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Facts in the Case of M. Valdemar (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/desire,motif/sleep,motif/time,motif/well,concept/mesmerism,concept/wonder,histref/america,setting/america,character/sunday"></span>
 
 
 Of course I shall not pretend to consider it any matter for
@@ -533,7 +533,7 @@ morrow ([[Sunday]]). It was then seven o’[[Clock|clock]] on Saturday evening.
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Facts in the Case of M. Valdemar (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Facts in the Case of M. Valdemar (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="motif/clock,motif/death,motif/desire,motif/mirror,motif/night,motif/sleep,motif/time,motif/well,concept/fear,character/nurse"></span>
 
 
 On quitting the invalid’s bed-side to hold conversation with
@@ -644,7 +644,7 @@ barely audible whisper, issued the words:
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Facts in the Case of M. Valdemar (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Facts in the Case of M. Valdemar (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="motif/blood,motif/clock,motif/death,motif/mirror,motif/pain,motif/sleep,motif/time,motif/well,concept/fear,concept/madness"></span>
 
 
 “Yes;—asleep now. Do not wake me!—let me die so!”
@@ -763,7 +763,7 @@ physicians and Mr. L—l.
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Facts in the Case of M. Valdemar (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Facts in the Case of M. Valdemar (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="motif/death,motif/desire,motif/sleep,motif/time"></span>
 
 
 In the afternoon we all called again to see the patient. His

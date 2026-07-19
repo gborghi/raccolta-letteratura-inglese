@@ -1643,7 +1643,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_2--scene_2" data-title="King John — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_2--scene_2" data-title="King John — Act II, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/child,archetype/fool,archetype/innocent,archetype/king,archetype/villain,motif/blood,motif/clock,motif/crown,motif/death,motif/dust,motif/fire,motif/lion,motif/love,motif/marriage,motif/nature,motif/river,motif/rose,motif/soul,motif/stars,motif/time,motif/well,concept/common_man,concept/despair,concept/doubt,concept/faith,concept/fear,concept/greatness,concept/honour,concept/nature,concept/revenge,concept/truth,character/arthur,character/constance,character/dauphin,character/earl_of_salisbury,character/eleanor,character/king_john,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1739,7 +1739,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_2" data-title="King John — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_2" data-title="King John — Act III, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="concept/fear,character/arthur,character/hubert,character/king_john"></span>
 
 
 | Speaker | Line |
@@ -1754,7 +1754,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_3" data-title="King John — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_3" data-title="King John — Act III, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="motif/blood,motif/death,motif/grave,motif/love,motif/night,motif/soul,motif/time,motif/well,concept/melancholy,character/arthur,character/eleanor,character/hubert,character/king_john,character/queen"></span>
 
 
 | Speaker | Line |
@@ -1787,7 +1787,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_3--scene_4" data-title="King John — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_3--scene_4" data-title="King John — Act III, Scene 4" data-chapter="Scene 4" data-kind="scene" data-tags="archetype/child,archetype/ghost,archetype/king,archetype/monster,motif/blood,motif/death,motif/dust,motif/grave,motif/love,motif/nature,motif/night,motif/prison,motif/sleep,motif/snow,motif/soul,motif/well,motif/wind,concept/beauty,concept/charity,concept/courage,concept/fear,concept/madness,concept/nature,setting/court,character/arthur,character/cain,character/constance,character/dauphin,character/king_john,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1835,7 +1835,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_1" data-title="King John — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_1" data-title="King John — Act IV, Scene 1" data-chapter="Scene 1" data-kind="scene" data-tags="topos/double,archetype/child,archetype/innocent,archetype/king,archetype/prophet,motif/blood,motif/crown,motif/death,motif/dreams,motif/dust,motif/fire,motif/grave,motif/lamb,motif/love,motif/nature,motif/night,motif/noon,motif/prison,motif/silence,motif/sleep,motif/soul,motif/storm,motif/tears,motif/time,motif/well,motif/wind,concept/body,concept/conscience,concept/doubt,concept/fear,concept/greatness,concept/hope,concept/mercy,concept/mortality,concept/nature,concept/truth,character/arthur,character/constance,character/dauphin,character/hubert,character/kent,character/king_john,character/speed"></span>
 
 
 | Speaker | Line |
@@ -1951,7 +1951,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_4--scene_3" data-title="King John — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_4--scene_3" data-title="King John — Act IV, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/child,archetype/innocent,archetype/king,archetype/prophet,archetype/villain,motif/blood,motif/crown,motif/death,motif/decay,motif/fire,motif/grave,motif/home,motif/jewel,motif/journey,motif/leaves,motif/lion,motif/love,motif/noon,motif/prison,motif/ship,motif/soul,motif/storm,motif/tears,motif/time,motif/water,motif/well,concept/beauty,concept/body,concept/courage,concept/despair,concept/fear,concept/greatness,concept/mercy,concept/revenge,concept/truth,setting/castle,setting/london,setting/ship,character/arthur,character/dauphin,character/hubert,character/kent,character/king_john,character/lucifer,character/richard,character/speed"></span>
 
 
 | Speaker | Line |
@@ -2034,7 +2034,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_2" data-title="King John — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_2" data-title="King John — Act V, Scene 2" data-chapter="Scene 2" data-kind="scene" data-tags="archetype/king,motif/blood,motif/crown,motif/death,motif/fire,motif/lion,motif/marriage,motif/soul,motif/storm,motif/tears,motif/time,motif/well,motif/wind,concept/doubt,concept/faith,concept/honour,concept/hope,form/masque,character/arthur,character/dauphin,character/king_john"></span>
 
 
 | Speaker | Line |
@@ -2068,7 +2068,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_3" data-title="King John — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_3" data-title="King John — Act V, Scene 3" data-chapter="Scene 3" data-kind="scene" data-tags="archetype/king,archetype/tyrant,motif/death,motif/fire,motif/home,motif/love,motif/night,motif/soul,motif/well,concept/body,concept/conscience,concept/faith,concept/fear,concept/truth,character/dauphin,character/hubert,character/king_john,character/richard"></span>
 
 
 | Speaker | Line |
@@ -2109,7 +2109,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_6" data-title="King John — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_6" data-title="King John — Act V, Scene 6" data-chapter="Scene 6" data-kind="scene" data-tags="archetype/king,archetype/villain,motif/night,motif/time,motif/well,concept/doubt,concept/fear,character/hubert,character/king_john,character/lincoln,character/pistol"></span>
 
 
 | Speaker | Line |
@@ -2139,7 +2139,7 @@ Gain, be my lord, for I will worship thee. Exit
 
 
 
-<span class="atom-split" data-atom="act_5--scene_7" data-title="King John — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene"></span>
+<span class="atom-split" data-atom="act_5--scene_7" data-title="King John — Act V, Scene 7" data-chapter="Scene 7" data-kind="scene" data-tags="archetype/king,motif/blood,motif/death,motif/dust,motif/fire,motif/home,motif/leaves,motif/love,motif/marriage,motif/night,motif/pain,motif/poison,motif/soul,motif/stars,motif/summer,motif/tears,motif/time,motif/well,motif/winter,concept/body,concept/friendship,concept/history,concept/honour,concept/hope,concept/mortality,concept/revenge,concept/self,concept/vanity,form/comedy,form/history,form/hymn,form/translation,setting/venice,setting/verona,character/antonio,character/bassanio,character/dauphin,character/earl_of_salisbury,character/gower,character/jessica,character/king_john,character/lorenzo,character/nerissa,character/portia,character/shylock,character/speed"></span>
 
 
 | Speaker | Line |

@@ -3786,7 +3786,7 @@ by E. T. Dillon.  [[London]]:  Fisher Unwin, 5s.
 
 
 
-<span class="atom-split" data-atom="part--part_01" data-title="The Speaker (part 1)" data-chapter="part 01" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_01" data-title="The Speaker (part 1)" data-chapter="part 01" data-kind="excerpt" data-tags="archetype/lover,motif/dance,motif/death,motif/time,motif/wind,concept/fear,concept/friendship,concept/paradox,form/lyric,form/translation,setting/cathedral,setting/london"></span>
 
 
 A Manx Minstrel
@@ -3925,7 +3925,7 @@ In modo appropriato siamo in grado, al [[Time|tempo]] stesso, di considerare la 
 
 
 
-<span class="atom-split" data-atom="part--part_02" data-title="The Speaker (part 2)" data-chapter="part 02" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_02" data-title="The Speaker (part 2)" data-chapter="part 02" data-kind="excerpt" data-tags="archetype/ghost,motif/clock,motif/death,motif/leaves,motif/machine,motif/memory,motif/nature,motif/prayer,concept/beauty,concept/charity,concept/conscience,concept/doubt,concept/fear,concept/grotesque,concept/history,concept/hope,concept/nature,concept/pride,concept/truth,concept/vanity,form/history,form/lyric,setting/london,setting/oxford,character/queen,character/richard"></span>
 
 
 ".... God
@@ -4143,7 +4143,7 @@ Il libro del signor Bowen, che è scritto dal punto di vista del protestantesimo
 
 
 
-<span class="atom-split" data-atom="part--part_03" data-title="The Speaker (part 3)" data-chapter="part 03" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_03" data-title="The Speaker (part 3)" data-chapter="part 03" data-kind="excerpt" data-tags="archetype/artist,motif/blood,motif/city,motif/grave,motif/lamb,motif/love,motif/river,motif/soul,motif/well,concept/body,concept/history,concept/self,concept/self_reliance,form/history,form/riddle,histref/bible,histref/christianity,setting/london"></span>
 
 
 Let us take another example from Mr. Bowen's pages-the passage
@@ -4292,7 +4292,7 @@ Nella descrizione della guerra stessa il signor Conan Doyle mostra, da puro [[ar
 
 
 
-<span class="atom-split" data-atom="part--part_04" data-title="The Speaker (part 4)" data-chapter="part 04" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_04" data-title="The Speaker (part 4)" data-chapter="part 04" data-kind="excerpt" data-tags="archetype/hero,archetype/lover,motif/birds,motif/death,motif/decay,motif/frost,motif/nature,motif/night,motif/secrets,motif/stars,motif/well,motif/winter,concept/ambition,concept/doubt,concept/grotesque,concept/natural_order,concept/nature,concept/paradox,concept/poverty,form/tragedy,histref/christianity,character/arthur"></span>
 
 
 "And dark with [[Winter|winter]] was the flow--
@@ -4461,7 +4461,7 @@ Ma per quanto possiamo [[Well|ben]] credere, col signor Lillie, che il vero Budd
 
 
 
-<span class="atom-split" data-atom="part--part_05" data-title="The Speaker (part 5)" data-chapter="part 05" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_05" data-title="The Speaker (part 5)" data-chapter="part 05" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/childhood,motif/city,motif/death,motif/dreams,motif/marriage,motif/nature,motif/soul,motif/time,motif/well,concept/doubt,concept/education,concept/history,concept/immortality,concept/nature,concept/pride,concept/truth,form/history,form/parable,form/translation,histref/christianity,setting/london,character/christ"></span>
 
 
 Perhaps the most unsatisfactory part of Mr. Lillie's very satisfactory
@@ -4612,7 +4612,7 @@ che ha bisogno di imparare la grandezza dei bambini.
 
 
 
-<span class="atom-split" data-atom="part--part_06" data-title="The Speaker (part 6)" data-chapter="part 06" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_06" data-title="The Speaker (part 6)" data-chapter="part 06" data-kind="excerpt" data-tags="archetype/artist,archetype/child,motif/blood,motif/childhood,motif/poison,motif/ship,motif/time,motif/well,concept/beauty,concept/grotesque,concept/history,concept/hope,concept/truth,form/fable,form/history,form/tragedy,setting/ship,character/edward_iii,character/jones,character/queen"></span>
 
 
 Upon this error a great part of this collection, like most
@@ -4734,7 +4734,7 @@ Di tutti questi libri i più facili da criticare sono quelli più o meno francam
 
 
 
-<span class="atom-split" data-atom="part--part_07" data-title="The Speaker (part 7)" data-chapter="part 07" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_07" data-title="The Speaker (part 7)" data-chapter="part 07" data-kind="excerpt" data-tags="archetype/fool,archetype/ghost,archetype/rebel,motif/nature,motif/night,motif/pain,motif/soul,motif/tears,concept/body,concept/charity,concept/history,concept/hope,concept/imagination,concept/nature,concept/reform,concept/resurrection,form/allegory,form/history,histref/bible,histref/puritanism,setting/london,character/chorus,character/oliver"></span>
 
 
 Mr. Thomas Cobb's little book, The Bountiful Lady;
@@ -4912,7 +4912,7 @@ Mentre il professor Dowden coglie pienamente gli ampi e nobili ideali della scuo
 
 
 
-<span class="atom-split" data-atom="part--part_08" data-title="The Speaker (part 8)" data-chapter="part 08" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_08" data-title="The Speaker (part 8)" data-chapter="part 08" data-kind="excerpt" data-tags="topos/paradise_lost,archetype/child,archetype/prophet,motif/leaves,motif/nature,motif/supernatural,motif/water,concept/beauty,concept/conscience,concept/education,concept/faith,concept/fear,concept/individualism,concept/loneliness,concept/nature,concept/sublime,form/comedy,form/essay,histref/dante,histref/milton,setting/london,character/christ,character/milton"></span>
 
 
 In dealing with the Religio Medici Professor Dowden is just
@@ -5072,7 +5072,7 @@ Il [[success|successo]] che la signora Rye consegue nell'offrire ai bambini un s
 
 
 
-<span class="atom-split" data-atom="part--part_09" data-title="The Speaker (part 9)" data-chapter="part 09" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_09" data-title="The Speaker (part 9)" data-chapter="part 09" data-kind="excerpt" data-tags="motif/dawn,motif/death,motif/love,motif/snow,concept/reconciliation,form/novel,form/parable,histref/christianity,histref/dante,setting/london,character/christ,character/julius_caesar,character/sunday"></span>
 
 
 The best element in Mrs. Rye's work lies probably in the mere names of
@@ -5201,7 +5201,7 @@ Dei [[Novel|nuovi]] metodi con cui quest'opera è stata portata all'attenzione d
 
 
 
-<span class="atom-split" data-atom="part--part_10" data-title="The Speaker (part 10)" data-chapter="part 10" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_10" data-title="The Speaker (part 10)" data-chapter="part 10" data-kind="excerpt" data-tags="motif/childhood,motif/grave,motif/machine,motif/mirror,motif/nature,motif/rose,motif/time,motif/water,concept/faith,concept/fanaticism,concept/fear,concept/hope,concept/natural_order,concept/nature,concept/truth,form/hymn,character/bottom,character/cain"></span>
 
 
 Chaos in the scheme, however, could be easily forgiven if there
@@ -5391,7 +5391,7 @@ Desideriamo dire il meno possibile sulla lunga, slegata e stucchevole argomentaz
 
 
 
-<span class="atom-split" data-atom="part--part_11" data-title="The Speaker (part 11)" data-chapter="part 11" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_11" data-title="The Speaker (part 11)" data-chapter="part 11" data-kind="excerpt" data-tags="motif/dance,motif/dawn,motif/home,motif/leaves,motif/nature,motif/time,motif/water,concept/body,concept/despair,concept/education,concept/nature,concept/self,concept/suicide,concept/truth,setting/london,character/christ"></span>
 
 
 Since the appearance, or appearances, of Ad Astra, Mr. Wynne has
@@ -5556,7 +5556,7 @@ Abbiamo trattato con una certa ampiezza questo singolo esempio della [[Nature|na
 
 
 
-<span class="atom-split" data-atom="part--part_12" data-title="The Speaker (part 12)" data-chapter="part 12" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_12" data-title="The Speaker (part 12)" data-chapter="part 12" data-kind="excerpt" data-tags="archetype/fool,motif/birds,motif/love,motif/well,concept/imagination,concept/truth"></span>
 
 
 Among other items in the book is "A Supplementary Note on the Devil."
@@ -5693,7 +5693,7 @@ L'autore parla con giusto disprezzo di questi sforzi di screditare le donne medi
 
 
 
-<span class="atom-split" data-atom="part--part_13" data-title="The Speaker (part 13)" data-chapter="part 13" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_13" data-title="The Speaker (part 13)" data-chapter="part 13" data-kind="excerpt" data-tags="motif/animals,motif/dawn,motif/memory,motif/well,concept/doubt,concept/identity,concept/survival,concept/truth,concept/wonder,histref/bible,setting/london"></span>
 
 
 We think this book would have been better if it had been purely
@@ -5835,7 +5835,7 @@ Il professor Pearson, nella sua visione della vita nazionale, è un [[Well|ben]]
 
 
 
-<span class="atom-split" data-atom="part--part_14" data-title="The Speaker (part 14)" data-chapter="part 14" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_14" data-title="The Speaker (part 14)" data-chapter="part 14" data-kind="excerpt" data-tags="archetype/child,motif/animals,motif/blood,motif/ghosts,motif/lion,motif/nature,motif/soul,motif/well,concept/beauty,concept/conscience,concept/courage,concept/faith,concept/fear,concept/heroism,concept/nature,concept/self,concept/sublime,concept/truth,concept/union,character/virgin_mary"></span>
 
 
 But the error of Professor Pearson's [[philosophy]] lies deeper.
@@ -5962,7 +5962,7 @@ Concordiamo calorosamente col professor Pearson nel dire che il sentimento patri
 
 
 
-<span class="atom-split" data-atom="part--part_15" data-title="The Speaker (part 15)" data-chapter="part 15" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_15" data-title="The Speaker (part 15)" data-chapter="part 15" data-kind="excerpt" data-tags="motif/childhood,motif/crown,motif/dawn,motif/desert,motif/ghosts,motif/leaves,motif/moon,motif/nature,motif/stars,motif/time,concept/courage,concept/doubt,concept/education,concept/fear,concept/hope,concept/nature,concept/truth,setting/desert,setting/egypt,setting/london"></span>
 
 
 And just as what produces health in a man is enthusiasm
@@ -6093,7 +6093,7 @@ C'è, ci pare, fra i dotti studiosi di mitologia, una tendenza eccessiva a trasc
 
 
 
-<span class="atom-split" data-atom="part--part_16" data-title="The Speaker (part 16)" data-chapter="part 16" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_16" data-title="The Speaker (part 16)" data-chapter="part 16" data-kind="excerpt" data-tags="archetype/ghost,archetype/hero,motif/dawn,motif/ghosts,motif/moon,motif/pain,motif/soul,concept/procreation,concept/truth,setting/cathedral,character/banquo,character/hamlet"></span>
 
 
 But we ourselves, as we have said, conceive that the question
@@ -6230,7 +6230,7 @@ C'è un solo altro difetto nell'opera del signor Lang, oltre a questa comune ten
 
 
 
-<span class="atom-split" data-atom="part--part_17" data-title="The Speaker (part 17)" data-chapter="part 17" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_17" data-title="The Speaker (part 17)" data-chapter="part 17" data-kind="excerpt" data-tags="archetype/detective,archetype/shadow,motif/death,motif/nature,motif/night,motif/river,motif/soul,motif/time,concept/doubt,concept/faith,concept/nature,concept/sublime,concept/truth,setting/cathedral,character/speed"></span>
 
 
 We do not feel any disrespect towards this book because it contains
@@ -6402,7 +6402,7 @@ Che il signor Dickinson concordi o no con la nostra visione del linguaggio, è a
 
 
 
-<span class="atom-split" data-atom="part--part_18" data-title="The Speaker (part 18)" data-chapter="part 18" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_18" data-title="The Speaker (part 18)" data-chapter="part 18" data-kind="excerpt" data-tags="motif/blood,motif/death,motif/fire,motif/love,motif/rose,motif/storm,motif/supernatural,concept/beauty,concept/courage,concept/greatness,concept/grotesque,concept/hope,concept/truth,concept/wonder,form/fable,setting/london,character/robin_hood"></span>
 
 
 If this view be correct and the universal good be essentially
@@ -6546,7 +6546,7 @@ In un remoto e appartato angolo dell'Impero britannico, assai trascurato dallo s
 
 
 
-<span class="atom-split" data-atom="part--part_19" data-title="The Speaker (part 19)" data-chapter="part 19" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_19" data-title="The Speaker (part 19)" data-chapter="part 19" data-kind="excerpt" data-tags="motif/desire,motif/ghosts,motif/road,motif/supernatural,motif/time,concept/history,concept/hope,concept/self,concept/wonder,form/history"></span>
 
 
 "They have shunned the naked steel; we have scattered wide their picket:
@@ -6688,7 +6688,7 @@ Non è solo vero che molte civiltà orientali non si tolgono il cappello in segn
 
 
 
-<span class="atom-split" data-atom="part--part_20" data-title="The Speaker (part 20)" data-chapter="part 20" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_20" data-title="The Speaker (part 20)" data-chapter="part 20" data-kind="excerpt" data-tags="motif/flowers,motif/home,motif/love,motif/nature,motif/road,motif/soul,motif/stars,motif/wheel,concept/beauty,concept/fear,concept/history,concept/immortality,concept/nature,concept/self,concept/sublime,concept/truth,form/history,form/riddle,histref/bible,histref/christianity,histref/reformation,setting/castle,setting/london"></span>
 
 
 If, by the operation of other causes, it has become natural to us
@@ -6841,7 +6841,7 @@ Questa tremenda semplificazione delle cose essi la scoprirono, come da allora l'
 
 
 
-<span class="atom-split" data-atom="part--part_21" data-title="The Speaker (part 21)" data-chapter="part 21" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_21" data-title="The Speaker (part 21)" data-chapter="part 21" data-kind="excerpt" data-tags="motif/blood,motif/cross,motif/dance,motif/death,motif/hill,motif/memory,motif/nature,motif/soul,motif/well,concept/despair,concept/fear,concept/friendship,concept/honour,concept/madness,concept/nature,concept/survival,concept/truth,histref/america,setting/america,setting/mountains,character/christ,character/speed"></span>
 
 
 Another curious example of facile argument on an insufficient
@@ -7018,7 +7018,7 @@ di un ebreo martirizzato su una forca ariana.
 
 
 
-<span class="atom-split" data-atom="part--part_22" data-title="The Speaker (part 22)" data-chapter="part 22" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_22" data-title="The Speaker (part 22)" data-chapter="part 22" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/dance,motif/love,motif/moon,motif/silence,concept/beauty,concept/courage,concept/doubt,concept/faith,concept/hope,concept/truth,setting/london"></span>
 
 
 G.K.C.
@@ -7145,7 +7145,7 @@ Di qui viene la qualità del tutto peculiare di questo libro. La signora Gilman 
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="The Speaker (part 23)" data-chapter="part 23" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="The Speaker (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="archetype/child,motif/blood,motif/cave,motif/death,motif/fire,motif/flowers,motif/love,motif/well,concept/education,concept/self,concept/slavery,concept/truth,form/tragedy"></span>
 
 
 The same profoundly unnatural rationalism marks the author's
@@ -7280,7 +7280,7 @@ Il libro che compare sotto il titolo alquanto mistico e allusivo di [[Flowers|Fi
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Speaker (part 24)" data-chapter="part 24" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Speaker (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="topos/vanitas,archetype/child,motif/blood,motif/death,motif/dust,motif/fire,motif/nature,motif/soul,motif/stars,motif/time,motif/well,concept/beauty,concept/history,concept/hope,concept/immortality,concept/melancholy,concept/nature,concept/self,concept/sublime,concept/truth,concept/wonder,form/epigram,form/history,form/lyric,form/satire,setting/london,character/buckingham"></span>
 
 
 In an unpretentious, but singularly able preface, the editors demur
@@ -7449,7 +7449,7 @@ Come scrivere narrativa. (Serie «How to».) [[London|Londra]]: Grant Richards.
 
 
 
-<span class="atom-split" data-atom="part--part_25" data-title="The Speaker (part 25)" data-chapter="part 25" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_25" data-title="The Speaker (part 25)" data-chapter="part 25" data-kind="excerpt" data-tags="archetype/child,archetype/hero,motif/love,motif/nature,motif/prison,motif/soul,motif/time,motif/wind,concept/fear,concept/inner_life,concept/nature,concept/self_reliance,form/epic,form/lyric,form/novel,form/tragedy,setting/paris"></span>
 
 
 Another school has also arisen to-day with the same idea
@@ -7561,7 +7561,7 @@ Ma se la didattica della letteratura basterebbe a sconcertare chiunque, la didat
 
 
 
-<span class="atom-split" data-atom="part--part_26" data-title="The Speaker (part 26)" data-chapter="part 26" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_26" data-title="The Speaker (part 26)" data-chapter="part 26" data-kind="excerpt" data-tags="archetype/hero,archetype/villain,motif/jewel,motif/time,motif/well,concept/faith,concept/humility,concept/truth,concept/vanity,concept/wonder,form/novel,setting/cathedral,character/hamlet"></span>
 
 
 Thus the author of How to Write Fiction is in reality wrong at
@@ -7783,7 +7783,7 @@ non debba dire con tutta naturalezza:-
 
 
 
-<span class="atom-split" data-atom="part--part_27" data-title="The Speaker (part 27)" data-chapter="part 27" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_27" data-title="The Speaker (part 27)" data-chapter="part 27" data-kind="excerpt" data-tags="motif/death,motif/love,motif/nature,motif/time,motif/well,concept/beauty,concept/courage,concept/doubt,concept/melancholy,concept/nature,form/sonnet,histref/christianity,histref/milton,histref/renaissance,character/milton"></span>
 
 
 "Pass me those goblins, in the earth that grew,
@@ -8073,7 +8073,7 @@ connessione c'è tra il signor Chamberlain e il patriottismo?
 
 
 
-<span class="atom-split" data-atom="part--part_28" data-title="The Speaker (part 28)" data-chapter="part 28" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_28" data-title="The Speaker (part 28)" data-chapter="part 28" data-kind="excerpt" data-tags="archetype/fool,motif/blood,motif/dawn,motif/flag,motif/love,concept/democracy,concept/history,concept/pride,concept/sublime,form/history,histref/christianity,histref/french_revolution"></span>
 
 
 This is the primary and superficial objection to Mr. Godard,
@@ -8187,7 +8187,7 @@ E il signor Godard suppone davvero che, se l'[[Love|amore]] per l'umanità diven
 
 
 
-<span class="atom-split" data-atom="part--part_29" data-title="The Speaker (part 29)" data-chapter="part 29" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_29" data-title="The Speaker (part 29)" data-chapter="part 29" data-kind="excerpt" data-tags="motif/crown,motif/home,motif/lamb,motif/lion,motif/love,motif/nature,motif/road,motif/seasons,motif/stars,motif/time,concept/conscience,concept/immortality,concept/madness,concept/nature,concept/pride,concept/self,histref/christianity,setting/london"></span>
 
 
 Of some of Mr. Godard's arguments I will not speak at length,
@@ -8429,7 +8429,7 @@ di tutti gli dèi.
 
 
 
-<span class="atom-split" data-atom="part--part_30" data-title="The Speaker (part 30)" data-chapter="part 30" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_30" data-title="The Speaker (part 30)" data-chapter="part 30" data-kind="excerpt" data-tags="motif/blood,motif/grave,motif/moon,motif/nature,motif/time,concept/courage,concept/doubt,concept/faith,concept/melancholy,concept/nature,histref/america,histref/milton,setting/america,setting/germany,character/milton"></span>
 
 
 A certain amount of the literary importance of Mr. Watson can no
@@ -8715,7 +8715,7 @@ a criticare qualsivoglia libro.
 
 
 
-<span class="atom-split" data-atom="part--part_31" data-title="The Speaker (part 31)" data-chapter="part 31" data-kind="excerpt"></span>
+<span class="atom-split" data-atom="part--part_31" data-title="The Speaker (part 31)" data-chapter="part 31" data-kind="excerpt" data-tags="topos/quest,archetype/child,archetype/monster,motif/chains,motif/crown,motif/nature,motif/pain,motif/time,motif/water,motif/well,concept/hope,concept/nature,concept/paradox,concept/suffering,concept/suicide,form/riddle,form/satire,setting/london,setting/mountains"></span>
 
 
 Books exist to produce emotions:  if we are not moved by them
