@@ -4067,7 +4067,7 @@ As the procession of [[City]] men, Croydon acquaintances and earlier friends who
 
 
 
-<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/money_and_avarice,concept/power_and_corruption,concept/vanity,form/satire"></span>
+<span class="atom-split" data-atom="chapter_09--part_02" data-title="Mr. Clutterbuck’s Election — Chapter 8 (part 2)" data-chapter="Chapter 09" data-kind="excerpt" data-tags="concept/satire_of_society,concept/class_conflict,concept/money_and_avarice,concept/power_and_corruption,concept/vanity,concept/sale_of_honours,form/satire"></span>
 
 
 With all this a certain new glory surrounded Charlie, a glory reflected from the result of the Mickleton election. The people among whom he was for the moment a companion at quiet but historic Habberton were not of a kind to exaggerate the influence of a by-election upon the general scheme of English government; but they did appreciate that here was one of themselves who could weigh the temper of a great constituency and could understand very different classes of men; for Charlie was not slow to let them understand the part he had played in the business.

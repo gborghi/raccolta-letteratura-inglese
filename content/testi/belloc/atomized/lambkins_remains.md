@@ -2979,7 +2979,7 @@ We’re mortgaging the rest to build it.
 
 
 
-<span class="atom-split" data-atom="part--part_23" data-title="Lambkin’s Remains (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="concept/classical_education,concept/religious_persecution,form/satire"></span>
+<span class="atom-split" data-atom="part--part_23" data-title="Lambkin’s Remains (part 23)" data-chapter="part 23" data-kind="excerpt" data-tags="concept/classical_education,concept/religious_persecution,concept/anticlericalism,form/satire"></span>
 
 
 65 Professor of Micro-graphy at Bonn.

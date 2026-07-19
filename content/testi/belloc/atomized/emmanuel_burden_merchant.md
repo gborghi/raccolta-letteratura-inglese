@@ -3419,7 +3419,7 @@ It was late in the evening at Avonmore: the fire lit in fitful glimpses the eigh
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/economics,form/satire,form/social_novel"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Emmanuel Burden, Merchant — Chapter 6 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/empire_and_imperialism,concept/capitalism,concept/economics,concept/financial_speculation,form/satire,form/social_novel"></span>
 
 
 The hour and the scene were propitious, when Mr Burden committed himself to a confidence unique in his lifetime; for, with the single exceptions of Mr Abbott, whose advice he most constantly demanded, of his head clerk (a man of immense experience), and of his sister, no human being, he could boast, had inspired his ventures or had ever been privy to his intentions.

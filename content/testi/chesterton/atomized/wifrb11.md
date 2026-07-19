@@ -14345,7 +14345,7 @@ La porta della taverna si aprì e l'ombra gigantesca dell'investigatore Flambeau
 
 
 
-<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_05" data-title="The Wisdom of Father Brown — The Head of Caesar (part 5)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/money_and_avarice,concept/deception,concept/suicide,concept/crime_and_punishment,form/detective_fiction,character/father_brown,character/flambeau"></span>
+<span class="atom-split" data-atom="story_06_the_head_of_caesar--part_05" data-title="The Wisdom of Father Brown — The Head of Caesar (part 5)" data-chapter="The Head of Caesar" data-kind="excerpt" data-tags="concept/ratiocination_detection,concept/money_and_avarice,concept/deception,concept/suicide,concept/crime_and_punishment,concept/blackmail,form/detective_fiction,character/father_brown,character/flambeau"></span>
 
 
 "I've got only one thing to say.  I don't deserve to be helped;
@@ -15261,7 +15261,7 @@ contro il Duca di Exmoor.
 
 
 
-<span class="atom-split" data-atom="story_07_the_purple_wig--part_04" data-title="The Wisdom of Father Brown — The Purple Wig (part 4)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="concept/superstition_and_omen,concept/pride,concept/secrecy_and_concealment,form/detective_fiction,character/father_brown,character/midas,character/lord_byron"></span>
+<span class="atom-split" data-atom="story_07_the_purple_wig--part_04" data-title="The Wisdom of Father Brown — The Purple Wig (part 4)" data-chapter="The Purple Wig" data-kind="excerpt" data-tags="concept/superstition_and_omen,concept/pride,concept/secrecy_and_concealment,concept/journalism,form/detective_fiction,character/father_brown,character/midas,character/lord_byron"></span>
 
 
 Mr Nutt, of the Daily Reformer, wrote some highly incongruous

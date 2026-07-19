@@ -4121,7 +4121,7 @@ What still hindered the final successful establishment of Rotors under a Nationa
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Petre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/machine,concept/capitalism,concept/socialism,concept/power_and_corruption,concept/economics,concept/empire_and_imperialism,form/novel,form/satire"></span>
+<span class="atom-split" data-atom="chapter_07--part_02" data-title="Mr. Petre — Chapter 7 (part 2)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="motif/machine,concept/capitalism,concept/socialism,concept/power_and_corruption,concept/economics,concept/empire_and_imperialism,concept/monopoly,form/novel,form/satire"></span>
 
 
 The elder Trefusis had felt a very honourable scruple in directly promoting such a measure; he left it in the hands of his two most intimate associates in the Cabinet. But there was no doubt about the Bills going through, especially as it could not, of course, be submitted to public debate; it was quite unfitted for treatment of that kind, dealing as it did with a mass of scientific particulars and equally technical and difficult financial details, which a large assembly is quite unfitted to discuss.

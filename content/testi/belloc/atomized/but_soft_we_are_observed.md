@@ -3769,7 +3769,7 @@ It arrived. The nobleman proceeded.
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_05" data-title="But Soft: We Are Observed! — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/secrets,motif/concealment_hidden_identity,concept/deception,concept/secrecy_and_concealment,concept/greed_and_money,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
+<span class="atom-split" data-atom="chapter_06--part_05" data-title="But Soft: We Are Observed! — Chapter 6 (part 5)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="motif/secrets,motif/concealment_hidden_identity,concept/deception,concept/secrecy_and_concealment,concept/greed_and_money,concept/satire_of_society,concept/surveillance,form/satire,form/novel,setting/london"></span>
 
 
 “Ar, you’re a deep un!” answered the admiring Peer. “Naow you give me your word yer weren’t thinking of Scotland?”

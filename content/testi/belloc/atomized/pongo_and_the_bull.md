@@ -5535,7 +5535,7 @@ The Chair gave him the fullest latitude, almost to the North Pole of latitude; h
 
 
 
-<span class="atom-split" data-atom="chapter_19--part_04" data-title="Pongo and the Bull — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clothing,concept/satire_of_society,concept/democracy,concept/power_and_corruption,concept/money_and_avarice,concept/antisemitism,form/satire,setting/london"></span>
+<span class="atom-split" data-atom="chapter_19--part_04" data-title="Pongo and the Bull — Chapter 19 (part 4)" data-chapter="Chapter 19" data-kind="excerpt" data-tags="motif/clothing,concept/satire_of_society,concept/democracy,concept/power_and_corruption,concept/money_and_avarice,concept/antisemitism,concept/plutocracy,form/satire,setting/london"></span>
 
 
 At Madame de Schahrr’s the professional politicians were drowning their sorrows in wine. In the House, when Worston sat down, the cranks talked on and on. About ten the House began to fill again. The two Front Benches dribbled in beautifully dressed and amply filled — but no Pongo!

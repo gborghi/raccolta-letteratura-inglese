@@ -3943,7 +3943,7 @@ During the eighteenth century the fixed yearly salary of £2000 hereditarily enj
 
 
 
-<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Change in the Cabinet — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/tradition,concept/authority,concept/hypocrisy,concept/ambition,concept/power_and_corruption,form/satire,form/novel"></span>
+<span class="atom-split" data-atom="chapter_06--part_02" data-title="A Change in the Cabinet — Chapter 6 (part 2)" data-chapter="Chapter 06" data-kind="excerpt" data-tags="concept/satire_of_society,concept/tradition,concept/authority,concept/hypocrisy,concept/ambition,concept/power_and_corruption,concept/bureaucracy,form/satire,form/novel"></span>
 
 
 Our grandfathers, in the zeal of that somewhat iconoclastic moment, swept away the corrupt figment. The emoluments of the post were ruthlessly cut down to the original £2000; its hereditary character was, after a violent debate in the House of Lords, destroyed by a majority of over fifty votes, determined (as were so many of the great changes of that time!) by the voice of Eldon. The Detainer of the office (for such was his official title) received in compensation a lump sum of half a million only — not twenty years’ purchase — and certain apparently unimportant functions were attached to the place which from that day forward became an appointment changing with the Administration.

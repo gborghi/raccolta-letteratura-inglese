@@ -142,7 +142,7 @@
     "graph": {
       "source": "github:gborghi/graph",
       "resolved": "https://github.com/gborghi/graph.git",
-      "commit": "96ad9ce54ce94326051303b4d2124566e45a4965",
+      "commit": "9c7016a144391831375481365b3d93db36301058",
       "installedAt": "2026-06-30T15:24:14.318Z"
     },
     "hard-line-breaks": {

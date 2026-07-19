@@ -2031,7 +2031,7 @@ Very faithfully yours,
 
 
 
-<span class="atom-split" data-atom="story_06_henry_de_la_mere_ullmo" data-title="On Nothing and Kindred Subjects — HENRY DE LA MERE ULLMO." data-chapter="HENRY DE LA MERE ULLMO" data-kind="story" data-tags="motif/letters_and_writing,concept/satire_of_society,concept/greed,concept/money_and_avarice,concept/vulgarity,form/satire,form/sketch"></span>
+<span class="atom-split" data-atom="story_06_henry_de_la_mere_ullmo" data-title="On Nothing and Kindred Subjects — HENRY DE LA MERE ULLMO." data-chapter="HENRY DE LA MERE ULLMO" data-kind="story" data-tags="motif/letters_and_writing,concept/satire_of_society,concept/greed,concept/money_and_avarice,concept/vulgarity,concept/journalism,form/satire,form/sketch"></span>
 
 
 HENRY DE LA MERE ULLMO.

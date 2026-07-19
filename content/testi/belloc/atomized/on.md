@@ -2537,7 +2537,7 @@ ON TRUTH AND THE ADMIRALTY
 
 
 
-<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_18" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 18)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/truth,concept/deception,concept/satire_of_society,concept/history,form/essay,form/travel_writing,histref/the_first_world_war"></span>
+<span class="atom-split" data-atom="story_09_on_the_cathedral_of_seville_and_the_misa--part_18" data-title="On — ON THE CATHEDRAL OF SEVILLE AND “THE MISANTHROPE” (part 18)" data-chapter="ON THE CATHEDRAL OF SEVILLE AND THE MISA" data-kind="excerpt" data-tags="concept/truth,concept/deception,concept/satire_of_society,concept/history,concept/propaganda,form/essay,form/travel_writing,histref/the_first_world_war"></span>
 
 
 WHAT A PLEASURE it will be — a minor pleasure, I admit, but life is complex and it is difficult to establish values — what a pleasure it will be when maps and statistics return!

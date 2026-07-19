@@ -3703,7 +3703,7 @@ That, I may further inform any one of my readers who may be considering entering
 
 
 
-<span class="atom-split" data-atom="part--part_24" data-title="The Postmaster General (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,concept/power_and_corruption,concept/deception,concept/satire_of_society,form/satire,form/novel,setting/london"></span>
+<span class="atom-split" data-atom="part--part_24" data-title="The Postmaster General (part 24)" data-chapter="part 24" data-kind="excerpt" data-tags="archetype/trickster,motif/letters_and_writing,concept/power_and_corruption,concept/deception,concept/satire_of_society,concept/blackmail,form/satire,form/novel,setting/london"></span>
 
 
 All these things having been accomplished, Honest Jack Williams turned off the heaters, replaced the iron in the back room, leaving everything tidy, and then came back for a quiet perusal of his prizes. He leaned back in his chair, holding one in each hand, and surveying them with affection and pride.

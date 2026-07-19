@@ -3067,7 +3067,7 @@ ENDNOTES.
 
 
 
-<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_01" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 1)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="concept/antisemitism,concept/history,concept/religious_persecution,concept/money_and_avarice,form/essay,histref/medieval_england,setting/england"></span>
+<span class="atom-split" data-atom="chapter_11_the_present_relation_between_t--part_01" data-title="The Jews — Chapter 10: THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS (part 1)" data-chapter="THE PRESENT RELATION BETWEEN T" data-kind="excerpt" data-tags="concept/antisemitism,concept/history,concept/religious_persecution,concept/money_and_avarice,concept/usury,form/essay,histref/medieval_england,setting/england"></span>
 
 
 CHAPTER X THE PRESENT RELATION BETWEEN THE ENGLISH STATE AND THE JEWS

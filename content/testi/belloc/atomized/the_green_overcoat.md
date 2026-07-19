@@ -4511,7 +4511,7 @@ George Babcock remained after all his escapades and alarms — such as they may 
 
 
 
-<span class="atom-split" data-atom="chapter_07--part_05" data-title="The Green Overcoat — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/power_and_corruption,concept/vulgarity,form/novel,form/satire,histref/alfred_harmsworth_lord_northcliffe,setting/england"></span>
+<span class="atom-split" data-atom="chapter_07--part_05" data-title="The Green Overcoat — Chapter 6 (part 5)" data-chapter="Chapter 07" data-kind="excerpt" data-tags="concept/fame_and_publicity,concept/power_and_corruption,concept/vulgarity,concept/journalism,form/novel,form/satire,histref/alfred_harmsworth_lord_northcliffe,setting/england"></span>
 
 
 This was the figure Garden saw coming up the street towards him as Professor Higginson shambled off, already a distant figure, nearing the gates of the College (for it was in the street without that the Philosopher had met the Research man and made that fatal move).

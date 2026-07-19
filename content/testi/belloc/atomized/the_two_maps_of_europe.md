@@ -1789,7 +1789,7 @@ The French Government is by far the most reticent. It occasionally mentions the 
 
 
 
-<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_03" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 3)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/deception,concept/truth,concept/war_and_its_cost,form/essay,histref/first_world_war,setting/germany"></span>
+<span class="atom-split" data-atom="story_06_what_to_believe_in_war_news--part_03" data-title="The Two Maps of Europe — WHAT TO BELIEVE IN WAR NEWS (part 3)" data-chapter="WHAT TO BELIEVE IN WAR NEWS" data-kind="excerpt" data-tags="concept/deception,concept/truth,concept/war_and_its_cost,concept/propaganda,form/essay,histref/first_world_war,setting/germany"></span>
 
 
 The Russian Government is accurate, and, if anything, a little too terse in what it communicates to the public, but its censorship is far less strict than that of the French or even the English. Thus during the fighting round Lodz in defence of Warsaw at the beginning of December, correspondents from Petrograd were allowed to telegraph the most flamboyant descriptions of an immediately approaching German retreat which never took place. But, I repeat, the official Russian news is sober and restrained and accurate to a fault.

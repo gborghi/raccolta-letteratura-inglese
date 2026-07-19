@@ -177,6 +177,8 @@ plugins:
     options:
       localGraph:
         maxNodes: 220
+      globalGraph:
+        maxNodes: 3000
     layout:
       position: right
       priority: 10

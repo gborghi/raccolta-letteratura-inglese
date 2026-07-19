@@ -2819,7 +2819,7 @@ Thus was it that Mr. Delgairn found himself saddled with something which seemed 
 
 
 
-<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="topos/the_double,archetype/double_doppelganger,motif/the_mirror,motif/great_house,concept/appearance_vs_reality,concept/deception,concept/creativity_and_artistic_labor,concept/satire_of_society,form/satire,setting/rural_england"></span>
+<span class="atom-split" data-atom="chapter_02" data-title="The Missing Masterpiece — Chapter 2" data-chapter="Chapter 02" data-kind="chapter" data-tags="topos/the_double,archetype/double_doppelganger,motif/the_mirror,motif/great_house,concept/appearance_vs_reality,concept/deception,concept/creativity_and_artistic_labor,concept/satire_of_society,concept/forgery,form/satire,setting/rural_england"></span>
 
 
 CHAPTER II

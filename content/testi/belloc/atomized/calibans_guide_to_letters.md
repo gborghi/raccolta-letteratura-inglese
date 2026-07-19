@@ -3257,7 +3257,7 @@ I earnestly beseech the reader of this text-book, especially if he be young, to 
 
 
 
-<span class="atom-split" data-atom="story_04_political_appeals--part_03" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 3)" data-chapter="POLITICAL APPEALS" data-kind="excerpt" data-tags="motif/supernatural,motif/prayer,concept/satire_of_society,concept/superstition_and_omen,concept/religious_sectarianism,concept/faith_and_doubt,form/satire,form/essay,setting/france"></span>
+<span class="atom-split" data-atom="story_04_political_appeals--part_03" data-title="Caliban’s Guide to Letters — POLITICAL APPEALS. (part 3)" data-chapter="POLITICAL APPEALS" data-kind="excerpt" data-tags="motif/supernatural,motif/prayer,concept/satire_of_society,concept/superstition_and_omen,concept/religious_sectarianism,concept/faith_and_doubt,concept/anticlericalism,form/satire,form/essay,setting/france"></span>
 
 
 I had some little hesitation what model to put before the student. This book does not profess to be more than an introduction to the elements of our science; I therefore omitted what had first seemed to me of some value, the letters written on a special commission to Pondicherry during the plague and famine in that unhappy and ill-governed remnant of a falling empire. The articles on the tortures in the Phillipines were never printed, and might mislead. I have preferred to show Priestcraft and Liberty in their eternal struggle as they appeared to me in the character of Special Commissioner for Out and About during the troubles of 1901. It is clear, and I think unbiassed; it opens indeed in that light fashion which is a concession to contemporary journalism: but the half-frivolous exterior conceals a permanent missionary purpose. Its carefully collected array of facts give, I suggest, a vivid picture of one particular battlefield; that whereon there rage to-day the opposed forces which will destroy or save the French people. The beginner could not have a better introduction to his struggle against the infamies of Clericalism. Let him ask himself (as Mr. Gardy, M.P., asked in a letter to Out and About) the indignant question, “Could such things happen here in England?”
@@ -4263,7 +4263,7 @@ February 8th, 19 — . — The Standard has a large map of the North of France, 
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_01" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 1)" data-chapter="ON REVELATIONS" data-kind="excerpt" data-tags="concept/literary_criticism,concept/deception,form/satire,form/essay"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_01" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 1)" data-chapter="ON REVELATIONS" data-kind="excerpt" data-tags="concept/literary_criticism,concept/deception,concept/journalism,form/satire,form/essay"></span>
 
 
 ON REVELATIONS.
@@ -4315,7 +4315,7 @@ The note ran: —
 
 
 
-<span class="atom-split" data-atom="story_11_on_revelations--part_02" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 2)" data-chapter="ON REVELATIONS" data-kind="excerpt" data-tags="concept/deception,concept/hypocrisy,concept/satire_of_society,form/satire,form/parody"></span>
+<span class="atom-split" data-atom="story_11_on_revelations--part_02" data-title="Caliban’s Guide to Letters — ON REVELATIONS. (part 2)" data-chapter="ON REVELATIONS" data-kind="excerpt" data-tags="concept/deception,concept/hypocrisy,concept/satire_of_society,concept/forgery,form/satire,form/parody"></span>
 
 
 I told Dr. Caliban, that in my opinion, on the one hand, there might be something in it; while on the other hand, that there might not.

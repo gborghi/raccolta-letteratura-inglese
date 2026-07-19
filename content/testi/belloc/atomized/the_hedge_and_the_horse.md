@@ -3448,7 +3448,7 @@ Wilfred was a little afraid of the strength of the cigars. There was no end to B
 
 
 
-<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_03" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 3)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="topos/fall_from_innocence,archetype/trickster,motif/money_and_gold,concept/greed_and_money,concept/deception,concept/innocence_and_experience,form/satire,form/novel"></span>
+<span class="atom-split" data-atom="story_02_john_scotts_baby_passes_night_in_cells--part_03" data-title="The Hedge and the Horse — John Scott’S Baby Passes Night In Cells (part 3)" data-chapter="John ScottS Baby Passes Night In Cells" data-kind="excerpt" data-tags="topos/fall_from_innocence,archetype/trickster,motif/money_and_gold,concept/greed_and_money,concept/deception,concept/innocence_and_experience,concept/financial_speculation,form/satire,form/novel"></span>
 
 
 “What’s that mean?” said Wilfred.

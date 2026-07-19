@@ -10,7 +10,18 @@ export function mergeAtoms(index, atoms) {
   for (const [frag, a] of Object.entries(atoms)) {
     const parent = a.work && a.work !== a.title ? a.work : ""
     const title = parent ? `${a.title || ""} — ${parent}` : a.title || ""
-    index[frag] = { title, content: a.text || "", tags: [], links: [], slug: frag }
+    // Graph: give each leaf a leaf->work edge + its own tags, so the (on-demand)
+    // graph shows leaf fragments connected to their parent work, not isolated.
+    // parentWorkSlug = the frag's workSlug (before '#'); single-atom works are
+    // re-keyed to a bare workSlug with no '#' — guard to avoid a self-loop.
+    const parentWorkSlug = frag.includes("#") ? frag.split("#")[0] : ""
+    index[frag] = {
+      title,
+      content: a.text || "",
+      tags: Array.isArray(a.tags) ? a.tags : [],
+      links: parentWorkSlug ? [parentWorkSlug] : [],
+      slug: frag,
+    }
   }
   return index
 }

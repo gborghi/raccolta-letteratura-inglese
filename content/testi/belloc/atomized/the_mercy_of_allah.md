@@ -2875,7 +2875,7 @@ Here the eldest of the nephews interrupted Mahmoud to ask, most respectfully, wh
 
 
 
-<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_03" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 3)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt" data-tags="archetype/trickster,concept/greed_and_money,concept/deception,concept/hypocrisy,concept/economics,concept/suicide,form/satire,setting/the_orient"></span>
+<span class="atom-split" data-atom="chapter_03_entitled_al_tawajin_or_the_pip--part_03" data-title="The Mercy of Allah — Chapter 3: ENTITLED AL-TAWAJIN, OR THE PIPKINS (part 3)" data-chapter="ENTITLED AL TAWAJIN OR THE PIP" data-kind="excerpt" data-tags="archetype/trickster,concept/greed_and_money,concept/deception,concept/hypocrisy,concept/economics,concept/suicide,concept/usury,form/satire,setting/the_orient"></span>
 
 
 “As I had had to carry on, I had not now left by me my full hoard of 10,000 dinars. I had but 8,000 left. Yet I was in no difficulty. Half 20,000 is 10,000 — but there would be deductions!
@@ -5149,7 +5149,7 @@ The merchant with a benign air replied: “The science of political economy is a
 
 
 
-<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_13" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 13)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/capitalism,concept/economics,concept/war_and_its_cost,concept/deception,form/satire,form/fable,histref/islam,setting/the_orient"></span>
+<span class="atom-split" data-atom="chapter_12_entitled_al_mahallat_al_jadida--part_13" data-title="The Mercy of Allah — Chapter 12: ENTITLED AL-MAHALLAT AL-JADIDA, OR THE NEW QUARTER OF THE CITY (part 13)" data-chapter="ENTITLED AL MAHALLAT AL JADIDA" data-kind="excerpt" data-tags="motif/money_and_gold,concept/greed,concept/money_and_avarice,concept/capitalism,concept/economics,concept/war_and_its_cost,concept/deception,concept/usury,form/satire,form/fable,histref/islam,setting/the_orient"></span>
 
 
 “When I rose as though to leave, the Vizier, in a state of the utmost excitement, implored me to reconsider so sudden a decision. He was prepared (he swore) to take but an instalment of the whole. Ready money was absolutely necessary. And if, with my profound knowledge of finance, I could devise some way of escape for his master, the most substantial proofs of gratitude would be afforded me.

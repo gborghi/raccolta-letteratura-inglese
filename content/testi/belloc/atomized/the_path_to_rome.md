@@ -9017,7 +9017,7 @@ He went up to the wall of the Credit Lyonnais, put the forefinger of either hand
 
 
 
-<span class="atom-split" data-atom="story_250_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story" data-tags="archetype/detective,concept/authority,concept/appearance_vs_reality,concept/deception,form/short_story,form/satire,setting/paris"></span>
+<span class="atom-split" data-atom="story_250_story_of_the_duke_of_sussex" data-title="The Path to Rome — Story Of The Duke Of Sussex" data-chapter="Story Of The Duke Of Sussex" data-kind="story" data-tags="archetype/detective,concept/authority,concept/appearance_vs_reality,concept/deception,concept/bureaucracy,form/short_story,form/satire,setting/paris"></span>
 
 
 STORY OF THE DUKE OF SUSSEX
