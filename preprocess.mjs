@@ -325,6 +325,36 @@ const AXES = [
   ["character", "characters"],
 ]
 
+// Split a flat "axis/slug" tag list (a leaf atom's own frontmatter `tags:`) into the
+// same per-axis field buckets as the PASS-1 work-note scan, plus a bare-slug
+// `clusters` bucket for any `cluster/<slug>` tags. Mirrors the AXES loop below.
+function axesFromFlatTags(tags) {
+  const out = {}
+  for (const [prefix, field] of AXES)
+    out[field] = tags.filter((t) => t.startsWith(prefix + "/")).map((t) => t.slice(prefix.length + 1))
+  out.clusters = tags.filter((t) => t.startsWith("cluster/")).map((t) => t.slice("cluster/".length))
+  return out
+}
+// Reverse of axesFromFlatTags: rebuild the flat "axis/slug" list from axis buckets
+// (used for the atom-split data-tags attribute + atomSearch tags field).
+function flatTagsFromAxes(axesObj) {
+  const flat = []
+  for (const [prefix, field] of AXES)
+    for (const slug of axesObj[field] || []) flat.push(`${prefix}/${slug}`)
+  for (const slug of axesObj.clusters || []) flat.push(`cluster/${slug}`)
+  return flat
+}
+// Lowercase / non-alnum-collapse a single cluster-scalar token into a tag-safe slug.
+function slugifyToken(s) {
+  return String(s).toLowerCase().replace(/[^a-z0-9]+/g, "_").replace(/^_+|_+$/g, "")
+}
+// A work note's `cluster: "A · B · C"` scalar (U+00B7-separated) -> bare cluster-axis
+// slugs, e.g. ["a", "b", "c"]. Same bucket shape as the other axis arrays.
+function deriveClusters(clusterScalar) {
+  if (!clusterScalar) return []
+  return String(clusterScalar).split(" · ").map(slugifyToken).filter(Boolean)
+}
+
 // Pull the [!abstract] callout body out of a work note as a plain-text summary.
 function extractSummary(content) {
   const lines = content.split(/\r?\n/)
@@ -540,7 +570,7 @@ function bilingualBody(en, it) {
   )
 }
 
-async function publishUnits(rawSourceToWork, translations = new Map()) {
+async function publishUnits(rawSourceToWork, translations = new Map(), sourceTagAxes = new Map()) {
   const unitHref = new Map()
   const excerpts = []
   const excerptsKw = {}
@@ -554,6 +584,8 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
   const atomSourceToFrag = new Map() // "Authors/<Author>/<sub>/<relU>" -> "workSlug#atomId" (subwork href resolution)
   const atomSearch = {} // SPA: frag (or bare reading slug for atomless works) -> { title, work, text }, corpus-wide search
   const unitPlainText = new Map() // SPA: reading slug (workSlug) -> plain text of its intro unit, for atomless works
+  const leafAtoms = [] // SPA: one entry per emitted leaf atom -> data/leaf_atoms.json (tagging-run manifest)
+  const leafFragRows = [] // SPA: synthetic works-index rows for tagged leaf atoms not already covered by a subwork rec
   let copied = 0
 
   const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
@@ -694,14 +726,44 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
               row.replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]"),
             )
             const atomText = plainForSearch(enBody)
-            atomSearch[frag] = { title, work: workLabel, text: atomText }
+
+            // ---- Phase-2 leaf-tag join: leaf's own frontmatter tags (source #2,
+            // wins when present) else the subwork work-note's tags via sourceTagAxes
+            // (source #1, e.g. the 154 sonnets). Neither exists for most atoms yet —
+            // that's expected before the tagging run.
+            const { data: atomFm } = parseFrontmatter(raw)
+            const leafTags = Array.isArray(atomFm.tags) ? atomFm.tags : atomFm.tags ? [atomFm.tags] : []
+            const tagAxes = leafTags.length ? axesFromFlatTags(leafTags) : sourceTagAxes.get(authPath) || null
+            const flatTags = tagAxes ? flatTagsFromAxes(tagAxes) : []
+            const hasTags = flatTags.length > 0
+
+            atomSearch[frag] = { title, work: workLabel, text: atomText, ...(hasTags ? { tags: flatTags } : {}) }
             workDirFrags.push(frag)
             if (isIntro) unitPlainText.set(workSlug, atomText)
             const kind = isIntro ? "intro" : it.unitType
             let block =
               `\n\n<span class="atom-split" data-atom="${esc(atomId)}" ` +
-              `data-title="${esc(title)}" data-chapter="${esc(chapLabel)}" data-kind="${kind}"></span>\n\n` +
+              `data-title="${esc(title)}" data-chapter="${esc(chapLabel)}" data-kind="${kind}"` +
+              (hasTags ? ` data-tags="${esc(flatTags.join(","))}"` : "") +
+              `></span>\n\n` +
               enBody
+
+            leafAtoms.push({
+              frag, source: authPath, work: workLabel, author: authorName,
+              unitType: kind, hasTags, len: atomText.length,
+            })
+            // Emit an index.json fragment row for a tagged leaf that ISN'T already a
+            // subwork's source atom (subwork recs get their row via the resolver in
+            // main() — sourceTagAxes is keyed by exactly those source paths).
+            if (hasTags && !sourceTagAxes.has(authPath)) {
+              leafFragRows.push({
+                href: frag, title, author: authorName, parentWork: workLabel,
+                topoi: tagAxes.topoi, archetypes: tagAxes.archetypes, motifs: tagAxes.motifs,
+                concepts: tagAxes.concepts, forms: tagAxes.forms, histrefs: tagAxes.histrefs,
+                settings: tagAxes.settings, characters: tagAxes.characters, clusters: tagAxes.clusters,
+                nconnections: flatTags.length, _leaf: true,
+              })
+            }
             const unitRel = `${TESTI_REL}/${author}/${sub}/${it.relU}`.toLowerCase()
             const tr = translations.get(unitRel)
             if (tr)
@@ -919,7 +981,17 @@ async function publishUnits(rawSourceToWork, translations = new Map()) {
       }
     }
   }
-  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText }
+
+  // Leaf-atom manifest: the authoritative untagged-enumeration source for the
+  // tagging run (an atom is "untagged" when hasTags is false). len lets the tagger
+  // batch atoms by size. Only meaningful under SPA (the atom loop above only
+  // populates leafAtoms in that mode).
+  if (SPA) {
+    await fs.mkdir(DATA, { recursive: true })
+    await fs.writeFile(path.join(DATA, "leaf_atoms.json"), JSON.stringify(leafAtoms))
+  }
+
+  return { unitHref, excerpts, excerptsKw, copied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText, leafFragRows }
 }
 
 async function main() {
@@ -988,6 +1060,10 @@ async function main() {
         n += vals.length
       }
       rec.nconnections = n
+      // 9th axis, derived from the `cluster:` scalar (not from tags): see
+      // deriveClusters. Left untouched: the wheel/landing page reads rec.cluster
+      // (the scalar) directly, not this array.
+      rec.clusters = deriveClusters(rec.cluster)
       // Readability indices (prose only) as searchable/sortable work properties.
       {
         const ftIdx = content.search(/##\s+Testo integrale/i)
@@ -1012,6 +1088,23 @@ async function main() {
     }
   }
 
+  // ---- source -> tags join map (Phase-2 leaf-tag plumbing) ----
+  // publishUnits() below runs AFTER this PASS-1 scan (works[] is already fully built
+  // here), so its atom loop can join straight off `works` — no separate re-scan of the
+  // vault is needed. Keyed by each work-note's own `source:` field; in practice only
+  // subwork notes (e.g. the 154 Shakespeare sonnets) have one that resolves to an
+  // atomized leaf path — non-subwork work notes' `source` points at their _raw file,
+  // which never matches an Atomized/Plays/Long atom path, so those entries are
+  // harmless dead keys.
+  const sourceTagAxes = new Map() // "Authors/<Author>/<sub>/<relU>" -> axis-bucket object
+  for (const rec of works) {
+    if (!rec._source) continue
+    const axes = {}
+    for (const [, field] of AXES) axes[field] = rec[field] || []
+    axes.clusters = rec.clusters || []
+    sourceTagAxes.set(rec._source, axes)
+  }
+
   // ---- Load precomputed IT translations (data/translations_pages.jsonl) ----
   // Keyed by lowercased content-relative path. When a page has a translation we
   // also emit a "<slug>.it.md" sibling and inject a per-page language-toggle
@@ -1030,7 +1123,7 @@ async function main() {
   }
 
   // ---- Publish atomized excerpts / play scenes / long-poem sections ----
-  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText } = await publishUnits(rawSourceToWork, translations)
+  const { unitHref, excerpts, excerptsKw, copied: unitsCopied, workUnits, workContainers, workParts, atomMeta, readHrefByWork, atomSourceToFrag, atomSearch, unitPlainText, leafFragRows } = await publishUnits(rawSourceToWork, translations, sourceTagAxes)
 
   // Page-less sub-work nodes: their href is the SPA fragment of their source atom, and
   // they emit NO content/works page (see PASS 2). Resolve href from source now, so the
@@ -1053,6 +1146,12 @@ async function main() {
     titleToHref.set(rec._base, frag)
     if (rec.title !== rec._base) titleToHref.set(rec.title, frag)
   }
+
+  // Leaf-atom fragment rows: atoms that resolved tags (join or own frontmatter) but
+  // are NOT a subwork's source atom (those already got a row via the resolver just
+  // above). publishUnits() pre-filtered on the same sourceTagAxes.has() check, so
+  // every row here is additive.
+  works.push(...leafFragRows)
 
   // Cover atomless works: a single-unit work IS its own leaf atom, but if the
   // whole workDir produced no leaf-atom entry (e.g. a readable work with a reading

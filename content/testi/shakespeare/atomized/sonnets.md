@@ -11,7 +11,7 @@ tags:
 <div class="atom-reader" data-work="testi/shakespeare/atomized/sonnets" data-author="Shakespeare" data-workhref="works/sonnets-(shakespeare)"></div>
 
 
-<span class="atom-split" data-atom="sonnet_001" data-title="Sonnet 1" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_001" data-title="Sonnet 1" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/rose,motif/flowers,motif/the_grave,motif/spring,concept/procreation,concept/beauty,concept/transience,form/shakespearean_sonnet,form/sonnet,form/sonnet_sequence,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 From fairest creatures we [[Desire|desire]] increase,  
@@ -53,7 +53,7 @@ divorare, per la [[Grave|tomba]] e per te, quanto al mondo è dovuto.
 
 
 
-<span class="atom-split" data-atom="sonnet_002" data-title="Sonnet 2" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_002" data-title="Sonnet 2" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,archetype/child,motif/time,motif/winter,motif/decay,motif/blood,concept/procreation,concept/transience,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 When forty winters shall besiege thy brow  
@@ -95,7 +95,7 @@ e vedere caldo il tuo [[Blood|sangue]] quando lo sentirai freddo.
 
 
 
-<span class="atom-split" data-atom="sonnet_003" data-title="Sonnet 3" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_003" data-title="Sonnet 3" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/the_mirror,motif/garden,motif/the_grave,concept/procreation,concept/beauty,concept/transience,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Look in thy glass, and tell the face thou viewest  
@@ -137,7 +137,7 @@ muori solo, e la tua immagine muore con te.
 
 
 
-<span class="atom-split" data-atom="sonnet_004" data-title="Sonnet 4" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_004" data-title="Sonnet 4" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/money_gold,motif/the_grave,concept/procreation,concept/beauty,concept/transience,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Unthrifty loveliness, why dost thou spend  
@@ -179,7 +179,7 @@ che, usata, vive per esserne l’esecutore.
 
 
 
-<span class="atom-split" data-atom="sonnet_005" data-title="Sonnet 5" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_005" data-title="Sonnet 5" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/seasons,motif/winter,motif/time,motif/flowers,motif/decay,concept/transience,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
 Those hours that with gentle work did frame  
@@ -221,7 +221,7 @@ perdono solo l’apparenza; la loro sostanza vive ancora dolce.
 
 
 
-<span class="atom-split" data-atom="sonnet_006" data-title="Sonnet 6" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_006" data-title="Sonnet 6" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/winter,motif/money_gold,motif/death,concept/procreation,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Then let not [[Winter|winter]]’s ragged hand deface  
@@ -263,7 +263,7 @@ per essere conquista della [[Death|morte]] e fare i vermi tuoi eredi.
 
 
 
-<span class="atom-split" data-atom="sonnet_007" data-title="Sonnet 7" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_007" data-title="Sonnet 7" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/sun,motif/the_journey,motif/eyes_sight,concept/procreation,concept/transience,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Lo, in the [[Orient|orient]] when the gracious light  
@@ -305,7 +305,7 @@ non guardato morrai, se non generi un figlio.
 
 
 
-<span class="atom-split" data-atom="sonnet_008" data-title="Sonnet 8" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_008" data-title="Sonnet 8" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/marriage,concept/procreation,concept/marriage_and_fidelity,concept/the_natural_order,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Music to hear, why hear‘st thou music sadly?  
@@ -347,7 +347,7 @@ ti canta questo: ‘Tu, solo, non sarai nessuno.’
 
 
 
-<span class="atom-split" data-atom="sonnet_009" data-title="Sonnet 9" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_009" data-title="Sonnet 9" data-chapter="" data-kind="intro" data-tags="motif/death,concept/procreation,concept/marriage_and_fidelity,concept/grief_and_loss,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Is it for [[Fear|fear]] to wet a widow’s eye  
@@ -389,7 +389,7 @@ che su se stesso sì assassina vergogna commette.
 
 
 
-<span class="atom-split" data-atom="sonnet_010" data-title="Sonnet 10" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_010" data-title="Sonnet 10" data-chapter="" data-kind="intro" data-tags="motif/decay,concept/procreation,concept/self_and_soul,concept/beauty,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 For shame deny that thou bear‘st [[Love|love]] to any,  
@@ -431,7 +431,7 @@ che la [[Beauty|bellezza]] possa ancora vivere nei tuoi o in te.
 
 
 
-<span class="atom-split" data-atom="sonnet_011" data-title="Sonnet 11" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_011" data-title="Sonnet 11" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/decay,motif/letters_writing,concept/procreation,concept/the_natural_order,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 As fast as thou shalt wane, so fast thou grow‘st  
@@ -475,7 +475,7 @@ che tu ne stampassi altri, non lasciassi morire quella copia.
 
 
 
-<span class="atom-split" data-atom="sonnet_012" data-title="Sonnet 12" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_012" data-title="Sonnet 12" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/the_clock,motif/time,motif/seasons,motif/night,motif/death,concept/transience,concept/mortality,concept/procreation,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 When I do count the [[Clock|clock]] that tells the [[Time|time]],  
@@ -517,7 +517,7 @@ se non la prole, a sfidarlo quando ti porterà via.
 
 
 
-<span class="atom-split" data-atom="sonnet_013" data-title="Sonnet 13" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_013" data-title="Sonnet 13" data-chapter="" data-kind="intro" data-tags="motif/winter,motif/storm,motif/decay,motif/death,concept/procreation,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O that you were yourself! But, [[Love|love]], you are  
@@ -559,7 +559,7 @@ Aveste un padre; che vostro figlio possa dirlo.
 
 
 
-<span class="atom-split" data-atom="sonnet_014" data-title="Sonnet 14" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_014" data-title="Sonnet 14" data-chapter="" data-kind="intro" data-tags="motif/stars,motif/eyes_sight,concept/beauty_and_truth,concept/procreation,concept/fate_and_free_will,concept/truth,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Not from the [[Stars|stars]] do I my judgement pluck,  
@@ -601,7 +601,7 @@ la tua fine sarà di [[Truth|verità]] e di [[Beauty|bellezza]] condanna e termi
 
 
 
-<span class="atom-split" data-atom="sonnet_015" data-title="Sonnet 15" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_015" data-title="Sonnet 15" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/immortality_through_verse,topos/love_as_war,motif/time,motif/stars,motif/decay,concept/transience,concept/immortality_of_art,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 When I consider every thing that grows  
@@ -643,7 +643,7 @@ Quanto egli vi toglie, io v’innesto di nuovo.
 
 
 
-<span class="atom-split" data-atom="sonnet_016" data-title="Sonnet 16" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_016" data-title="Sonnet 16" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,archetype/tyrant,motif/time,motif/garden,motif/flowers,concept/procreation,concept/immortality_of_art,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 But wherefore do not you a mightier way  
@@ -685,7 +685,7 @@ E dovrete vivere ritratto dalla vostra dolce arte.
 
 
 
-<span class="atom-split" data-atom="sonnet_017" data-title="Sonnet 17" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_017" data-title="Sonnet 17" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/inexpressibility,motif/letters_writing,motif/the_grave,concept/procreation,concept/immortality_of_art,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Who will believe my verse in [[Time|time]] to come  
@@ -727,7 +727,7 @@ Vivreste due volte: in lui, e nella mia rima.
 
 
 
-<span class="atom-split" data-atom="sonnet_018" data-title="Sonnet 18" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_018" data-title="Sonnet 18" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/seasons,motif/sun,motif/death,motif/letters_writing,concept/immortality_of_art,concept/beauty,concept/transience,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Shall I compare thee to a [[Summer|summer]]’s day?  
@@ -769,7 +769,7 @@ Tanto vivrà questo, e questo darà vita a te.
 
 
 
-<span class="atom-split" data-atom="sonnet_019" data-title="Sonnet 19" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_019" data-title="Sonnet 19" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/immortality_through_verse,motif/time,motif/lion,motif/animals,concept/immortality_of_art,concept/beauty,form/shakespearean_sonnet,form/sonnet,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Devouring [[Time|time]], blunt thou the [[Lion|lion]]’s paws,  
@@ -811,7 +811,7 @@ Il mio [[Love|amore]] nei miei versi vivrà sempre giovane.
 
 
 
-<span class="atom-split" data-atom="sonnet_020" data-title="Sonnet 20" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_020" data-title="Sonnet 20" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,concept/love_romantic,concept/identity,concept/beauty,concept/lust,concept/the_natural_order,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 A woman’s face with [[Nature|nature]]’s own hand painted  
@@ -853,7 +853,7 @@ Mio sia il tuo [[Love|amore]], e l’uso del tuo [[Love|amore]] loro tesoro.
 
 
 
-<span class="atom-split" data-atom="sonnet_021" data-title="Sonnet 21" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_021" data-title="Sonnet 21" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/moon,motif/stars,motif/flowers,concept/beauty_and_truth,concept/the_artist_and_society,concept/truth,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 So is it not with me as with that muse  
@@ -895,7 +895,7 @@ Io non voglio lodare ciò che non intendo vendere.
 
 
 
-<span class="atom-split" data-atom="sonnet_022" data-title="Sonnet 22" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_022" data-title="Sonnet 22" data-chapter="" data-kind="intro" data-tags="topos/the_double,motif/the_mirror,motif/time,concept/love_romantic,concept/identity,concept/mortality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 My glass shall not persuade me I am old  
@@ -937,7 +937,7 @@ tu mi desti il tuo non perché fosse reso.
 
 
 
-<span class="atom-split" data-atom="sonnet_023" data-title="Sonnet 23" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_023" data-title="Sonnet 23" data-chapter="" data-kind="intro" data-tags="topos/theatrum_mundi,topos/inexpressibility,motif/silence,motif/the_book,motif/eyes_sight,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 As an unperfect actor on the stage  
@@ -979,7 +979,7 @@ udire con gli occhi è del fine ingegno d’[[Love|amore]].
 
 
 
-<span class="atom-split" data-atom="sonnet_024" data-title="Sonnet 24" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_024" data-title="Sonnet 24" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/the_window,concept/appearance_vs_reality,concept/imagination,concept/love_romantic,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Mine eye hath played the painter, and hath steeled  
@@ -1021,7 +1021,7 @@ ritraggono sol ciò che vedono, non conoscono il cuore.
 
 
 
-<span class="atom-split" data-atom="sonnet_025" data-title="Sonnet 25" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_025" data-title="Sonnet 25" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/stars,motif/flowers,motif/the_book,concept/love_romantic,concept/fate_and_free_will,concept/honour,form/shakespearean_sonnet,form/sonnet,cluster/crown,cluster/pride,cluster/fortune_s_wheel"></span>
 
 
 Let those who are in favour with their [[Stars|stars]]  
@@ -1063,7 +1063,7 @@ dove non posso rimuovermi né essere rimosso.
 
 
 
-<span class="atom-split" data-atom="sonnet_026" data-title="Sonnet 26" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_026" data-title="Sonnet 26" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,motif/stars,motif/clothing,concept/love_romantic,concept/humility,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Lord of my [[Love|love]], to whom in vassalage  
@@ -1105,7 +1105,7 @@ fino ad allora, non mostrerò il capo dove tu possa provarmi.
 
 
 
-<span class="atom-split" data-atom="sonnet_027" data-title="Sonnet 27" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_027" data-title="Sonnet 27" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/pilgrim,motif/sleep,motif/night,motif/the_journey,motif/light_and_dark,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Weary with toil I haste me to my bed,  
@@ -1147,7 +1147,7 @@ per te, e per me stesso, quiete non trovano.
 
 
 
-<span class="atom-split" data-atom="sonnet_028" data-title="Sonnet 28" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_028" data-title="Sonnet 28" data-chapter="" data-kind="intro" data-tags="motif/light_and_dark,motif/night,motif/stars,concept/grief_and_loss,concept/alienation,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 How can I then return in happy plight,  
@@ -1189,7 +1189,7 @@ e la [[Night|notte]] ogni notte fa parer più forte la forza del dolore.
 
 
 
-<span class="atom-split" data-atom="sonnet_029" data-title="Sonnet 29" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_029" data-title="Sonnet 29" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,topos/love_as_religion,archetype/outcast_wanderer,motif/birds,motif/dawn,concept/alienation,concept/melancholy,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/alienation,cluster/outsider,cluster/exile"></span>
 
 
 When, in disgrace with fortune and men’s eyes,  
@@ -1231,7 +1231,7 @@ che allora sdegno di mutare il mio stato con quello dei re.
 
 
 
-<span class="atom-split" data-atom="sonnet_030" data-title="Sonnet 30" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_030" data-title="Sonnet 30" data-chapter="" data-kind="intro" data-tags="motif/memory,motif/death,motif/money_gold,concept/memory_and_time,concept/grief_and_loss,concept/melancholy,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/memory_and_time,cluster/memory,cluster/nostalgia"></span>
 
 
 When to the sessions of sweet silent thought  
@@ -1273,7 +1273,7 @@ ogni perdita è risarcita, e i dolori han fine.
 
 
 
-<span class="atom-split" data-atom="sonnet_031" data-title="Sonnet 31" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_031" data-title="Sonnet 31" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/the_grave,motif/memory,motif/death,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
 Thy bosom is endearèd with all hearts  
@@ -1315,7 +1315,7 @@ e tu, che sei tutti loro, hai tutto il tutto di me.
 
 
 
-<span class="atom-split" data-atom="sonnet_032" data-title="Sonnet 32" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_032" data-title="Sonnet 32" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/dust,motif/death,motif/letters_writing,concept/mortality,concept/immortality_of_art,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/mortality,cluster/grave,cluster/memento_mori"></span>
 
 
 If thou survive my [[Well|well]]-contented day  
@@ -1357,7 +1357,7 @@ leggerò i loro per lo stile, il suo per il suo [[Love|amore]].’
 
 
 
-<span class="atom-split" data-atom="sonnet_033" data-title="Sonnet 33" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_033" data-title="Sonnet 33" data-chapter="" data-kind="intro" data-tags="motif/sun,motif/money_gold,motif/dawn,concept/appearance_vs_reality,concept/grief_and_loss,concept/love_romantic,concept/disillusionment,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Full many a glorious morning have I seen  
@@ -1399,7 +1399,7 @@ i soli del mondo possono macchiarsi, quando si macchia il sole del cielo.
 
 
 
-<span class="atom-split" data-atom="sonnet_034" data-title="Sonnet 34" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_034" data-title="Sonnet 34" data-chapter="" data-kind="intro" data-tags="motif/storm,motif/sun,motif/the_cross,concept/guilt,concept/mercy,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Why didst thou promise such a beauteous day  
@@ -1441,7 +1441,7 @@ e sono ricche, e riscattano ogni malefatta.
 
 
 
-<span class="atom-split" data-atom="sonnet_035" data-title="Sonnet 35" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_035" data-title="Sonnet 35" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/rose,motif/sun,motif/moon,concept/guilt,concept/love_romantic,concept/appearance_vs_reality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 No more be grieved at that which thou hast done:  
@@ -1483,7 +1483,7 @@ di quel dolce ladro che amaramente mi deruba.
 
 
 
-<span class="atom-split" data-atom="sonnet_036" data-title="Sonnet 36" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_036" data-title="Sonnet 36" data-chapter="" data-kind="intro" data-tags="topos/the_double,concept/guilt,concept/love_romantic,concept/alienation,concept/identity,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Let me confess that we two must be twain  
@@ -1525,7 +1525,7 @@ che, essendo tu mio, mia è la tua buona fama.
 
 
 
-<span class="atom-split" data-atom="sonnet_037" data-title="Sonnet 37" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_037" data-title="Sonnet 37" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/child,concept/love_romantic,concept/appearance_vs_reality,concept/truth,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 As a decrepit father takes delight  
@@ -1567,7 +1567,7 @@ questo augurio io ho: dieci volte felice, allora, me.
 
 
 
-<span class="atom-split" data-atom="sonnet_038" data-title="Sonnet 38" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_038" data-title="Sonnet 38" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/letters_writing,concept/imagination,concept/the_artist_and_society,concept/immortality_of_art,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,histref/greek_mythology,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 How can my muse want subject to invent  
@@ -1609,7 +1609,7 @@ mia sia la [[Pain|pena]], ma tua sarà la lode.
 
 
 
-<span class="atom-split" data-atom="sonnet_039" data-title="Sonnet 39" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_039" data-title="Sonnet 39" data-chapter="" data-kind="intro" data-tags="topos/the_double,motif/time,concept/identity,concept/love_romantic,concept/alienation,concept/self_and_soul,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O, how thy worth with manners may I sing  
@@ -1651,7 +1651,7 @@ lodando qui colui che lontano rimane!
 
 
 
-<span class="atom-split" data-atom="sonnet_040" data-title="Sonnet 40" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_040" data-title="Sonnet 40" data-chapter="" data-kind="intro" data-tags="archetype/trickster,concept/jealousy,concept/unrequited_love,concept/love_romantic,concept/mercy,concept/grief_and_loss,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Take all my loves, my [[Love|love]], yea, take them all:  
@@ -1693,7 +1693,7 @@ uccidimi di dispetti, ma nemici non dobbiamo essere.
 
 
 
-<span class="atom-split" data-atom="sonnet_041" data-title="Sonnet 41" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_041" data-title="Sonnet 41" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/desire,concept/jealousy,concept/lust,concept/temptation,concept/marriage_and_fidelity,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Those pretty wrongs that liberty commits  
@@ -1735,7 +1735,7 @@ la tua, con la tua [[Beauty|bellezza]] essendo falso a me.
 
 
 
-<span class="atom-split" data-atom="sonnet_042" data-title="Sonnet 42" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_042" data-title="Sonnet 42" data-chapter="" data-kind="intro" data-tags="archetype/double_doppelganger,motif/love,concept/jealousy,concept/friendship,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 That thou hast her, it is not all my grief,  
@@ -1777,7 +1777,7 @@ Dolce lusinga! Allora lei ama me [[Alone|soltanto]].
 
 
 
-<span class="atom-split" data-atom="sonnet_043" data-title="Sonnet 43" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_043" data-title="Sonnet 43" data-chapter="" data-kind="intro" data-tags="motif/dreams,motif/sleep,motif/eyes_sight,motif/light_and_dark,motif/night,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,cluster/dreams,cluster/moon"></span>
 
 
 When most I wink, then do mine eyes best see,  
@@ -1819,7 +1819,7 @@ e le notti chiari giorni quando i [[Dreams|sogni]] ti mostrano a me.
 
 
 
-<span class="atom-split" data-atom="sonnet_044" data-title="Sonnet 44" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_044" data-title="Sonnet 44" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/water,concept/grief_and_loss,concept/love_romantic,concept/melancholy,form/shakespearean_sonnet,cluster/journey,cluster/ship"></span>
 
 
 If the dull substance of my flesh were thought,  
@@ -1861,7 +1861,7 @@ se non grevi [[Tears|lacrime]], insegne del dolore d’entrambi.
 
 
 
-<span class="atom-split" data-atom="sonnet_045" data-title="Sonnet 45" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_045" data-title="Sonnet 45" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/desire,concept/melancholy,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 The other two, slight air and purging [[Fire|fire]],  
@@ -1903,7 +1903,7 @@ di nuovo li rimando e subito m’attristo.
 
 
 
-<span class="atom-split" data-atom="sonnet_046" data-title="Sonnet 46" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_046" data-title="Sonnet 46" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,motif/eyes_sight,motif/love,concept/appearance_vs_reality,concept/love_romantic,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Mine eye and heart are at a mortal war  
@@ -1945,7 +1945,7 @@ e al mio cuore per diritto l’intimo [[Love|amore]] del tuo cuore.
 
 
 
-<span class="atom-split" data-atom="sonnet_047" data-title="Sonnet 47" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_047" data-title="Sonnet 47" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/food_feasting,motif/love,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Betwixt mine eye and heart a league is took,  
@@ -1987,7 +1987,7 @@ desta il mio cuore a delizia di cuore e d’occhio.
 
 
 
-<span class="atom-split" data-atom="sonnet_048" data-title="Sonnet 48" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_048" data-title="Sonnet 48" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/money_gold,concept/jealousy,concept/love_romantic,concept/grief_and_loss,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 How careful was I when I took my way  
@@ -2029,7 +2029,7 @@ ché la [[Truth|verità]] si fa ladra per un premio sì caro.
 
 
 
-<span class="atom-split" data-atom="sonnet_049" data-title="Sonnet 49" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_049" data-title="Sonnet 49" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/money_gold,concept/unrequited_love,concept/grief_and_loss,concept/melancholy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Against that [[Time|time]]—if ever that [[Time|time]] come—  
@@ -2071,7 +2071,7 @@ poiché ad [[Love|amare]] io non so addurre causa.
 
 
 
-<span class="atom-split" data-atom="sonnet_050" data-title="Sonnet 50" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_050" data-title="Sonnet 50" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/the_road,motif/horse,motif/blood,concept/grief_and_loss,concept/melancholy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 How heavy do I [[Journey|journey]] on the way,  
@@ -2113,7 +2113,7 @@ il mio dolore è innanzi, e dietro la mia gioia.
 
 
 
-<span class="atom-split" data-atom="sonnet_051" data-title="Sonnet 51" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_051" data-title="Sonnet 51" data-chapter="" data-kind="intro" data-tags="motif/the_journey,motif/horse,motif/desire,concept/love_romantic,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Thus can my [[Love|love]] excuse the slow offence  
@@ -2155,7 +2155,7 @@ verso te correrò, e a lui darò licenza d’andare.
 
 
 
-<span class="atom-split" data-atom="sonnet_052" data-title="Sonnet 52" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_052" data-title="Sonnet 52" data-chapter="" data-kind="intro" data-tags="motif/money_gold,motif/food_feasting,motif/clothing,concept/love_romantic,concept/grief_and_loss,form/shakespearean_sonnet,cluster/money_and_gold,cluster/poverty,cluster/imprisonment"></span>
 
 
 So am I as the rich whose blessèd key  
@@ -2197,7 +2197,7 @@ posseduto, al trionfo; mancante, alla [[Hope|speranza]].
 
 
 
-<span class="atom-split" data-atom="sonnet_053" data-title="Sonnet 53" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_053" data-title="Sonnet 53" data-chapter="" data-kind="intro" data-tags="motif/seasons,concept/beauty,concept/appearance_vs_reality,concept/truth,concept/love_romantic,form/shakespearean_sonnet,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 What is your substance, whereof are you made,  
@@ -2239,7 +2239,7 @@ ma tu come nessuno, nessuno come te, per costanza di cuore.
 
 
 
-<span class="atom-split" data-atom="sonnet_054" data-title="Sonnet 54" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_054" data-title="Sonnet 54" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/rose,motif/flowers,concept/beauty_and_truth,concept/appearance_vs_reality,concept/beauty,form/shakespearean_sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 O how much more doth [[Beauty|beauty]] beauteous seem  
@@ -2281,7 +2281,7 @@ quando ciò sfiorirà, il verso distilla la tua [[Truth|verità]].
 
 
 
-<span class="atom-split" data-atom="sonnet_055" data-title="Sonnet 55" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_055" data-title="Sonnet 55" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/sic_transit_gloria_mundi,motif/ruins,motif/swords_weapons,motif/memory,motif/time,concept/immortality_of_art,form/shakespearean_sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Not marble nor the gilded monuments  
@@ -2323,7 +2323,7 @@ vivi in questo, e dimori negli occhi degli [[lovers]].
 
 
 
-<span class="atom-split" data-atom="sonnet_056" data-title="Sonnet 56" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_056" data-title="Sonnet 56" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/the_sea,motif/seasons,motif/winter,concept/love_romantic,concept/grief_and_loss,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Sweet [[Love|love]], renew thy force. Be it not said  
@@ -2365,7 +2365,7 @@ rende il benvenuto dell’[[Summer|estate]] tre volte più bramato, più raro.
 
 
 
-<span class="atom-split" data-atom="sonnet_057" data-title="Sonnet 57" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_057" data-title="Sonnet 57" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/lover,motif/the_clock,concept/jealousy,concept/unrequited_love,concept/grief_and_loss,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Being your slave, what should I do but tend  
@@ -2407,7 +2407,7 @@ qualunque cosa tu faccia, non pensa alcun male.
 
 
 
-<span class="atom-split" data-atom="sonnet_058" data-title="Sonnet 58" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_058" data-title="Sonnet 58" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/time,concept/jealousy,concept/unrequited_love,concept/grief_and_loss,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 That god forbid, that made me first your slave,  
@@ -2449,7 +2449,7 @@ né biasimare il tuo piacere, sia esso male o [[Well|bene]].
 
 
 
-<span class="atom-split" data-atom="sonnet_059" data-title="Sonnet 59" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_059" data-title="Sonnet 59" data-chapter="" data-kind="intro" data-tags="topos/eternal_return,topos/golden_age,motif/time,motif/the_book,motif/sun,concept/eternal_return,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 If there be nothing new, but that which is  
@@ -2491,7 +2491,7 @@ a soggetti peggiori han dato lode ammirata.
 
 
 
-<span class="atom-split" data-atom="sonnet_060" data-title="Sonnet 60" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_060" data-title="Sonnet 60" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/immortality_through_verse,motif/time,motif/the_sea,motif/mutability,concept/transience,form/shakespearean_sonnet,character/death_personified,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 Like as the waves make towards the pebbled shore,  
@@ -2533,7 +2533,7 @@ lodando il tuo pregio a dispetto della sua mano crudele.
 
 
 
-<span class="atom-split" data-atom="sonnet_061" data-title="Sonnet 61" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_061" data-title="Sonnet 61" data-chapter="" data-kind="intro" data-tags="motif/night,motif/sleep,motif/eyes_sight,concept/jealousy,concept/love_romantic,concept/grief_and_loss,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Is it thy will thy image should keep open  
@@ -2575,7 +2575,7 @@ da me lontano, ad altri fin troppo vicino.
 
 
 
-<span class="atom-split" data-atom="sonnet_062" data-title="Sonnet 62" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_062" data-title="Sonnet 62" data-chapter="" data-kind="intro" data-tags="motif/the_mirror,motif/decay,concept/pride,concept/identity,concept/self_and_soul,concept/beauty,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Sin of [[Self|self]]-[[Love|love]] possesseth all mine eye,  
@@ -2617,7 +2617,7 @@ dipingendo la mia età con la [[Beauty|bellezza]] dei tuoi giorni.
 
 
 
-<span class="atom-split" data-atom="sonnet_063" data-title="Sonnet 63" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_063" data-title="Sonnet 63" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/immortality_through_verse,motif/time,motif/decay,motif/memory,motif/letters_writing,concept/transience,form/shakespearean_sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 Against my [[Love|love]] shall be as I am now,  
@@ -2659,7 +2659,7 @@ ed esse vivranno, e lui in esse sempre verde.
 
 
 
-<span class="atom-split" data-atom="sonnet_064" data-title="Sonnet 64" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_064" data-title="Sonnet 64" data-chapter="" data-kind="intro" data-tags="topos/sic_transit_gloria_mundi,motif/mutability,motif/ruins,motif/the_sea,motif/time,concept/transience,concept/grief_and_loss,form/shakespearean_sonnet,cluster/transience,cluster/decay,cluster/carpe_diem"></span>
 
 
 When I have seen by [[Time|time]]’s fell hand defaced  
@@ -2701,7 +2701,7 @@ che piangere d’avere ciò che teme di perdere.
 
 
 
-<span class="atom-split" data-atom="sonnet_065" data-title="Sonnet 65" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_065" data-title="Sonnet 65" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/love_as_war,motif/time,motif/letters_writing,motif/flowers,concept/mortality,concept/beauty,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Since brass, nor stone, nor earth, nor boundless sea,  
@@ -2743,7 +2743,7 @@ che in nero inchiostro il mio [[Love|amore]] possa ancora splendere chiaro.
 
 
 
-<span class="atom-split" data-atom="sonnet_066" data-title="Sonnet 66" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_066" data-title="Sonnet 66" data-chapter="" data-kind="intro" data-tags="topos/world_upside_down,motif/death,concept/social_injustice,concept/power_and_corruption,concept/disillusionment,concept/melancholy,form/shakespearean_sonnet,cluster/world_upside_down,cluster/comedy"></span>
 
 
 Tired with all these, for restful [[Death|death]] I cry:  
@@ -2785,7 +2785,7 @@ se non che, morendo, lascio il mio [[Love|amore]] [[Alone|solo]].
 
 
 
-<span class="atom-split" data-atom="sonnet_067" data-title="Sonnet 67" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_067" data-title="Sonnet 67" data-chapter="" data-kind="intro" data-tags="topos/golden_age,motif/masks_disguise,motif/rose,concept/appearance_vs_reality,concept/deception,concept/beauty,form/shakespearean_sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Ah, wherefore with infection should he live  
@@ -2827,7 +2827,7 @@ nei giorni lontani, prima di questi ultimi così tristi.
 
 
 
-<span class="atom-split" data-atom="sonnet_068" data-title="Sonnet 68" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_068" data-title="Sonnet 68" data-chapter="" data-kind="intro" data-tags="topos/golden_age,motif/flowers,motif/the_grave,concept/appearance_vs_reality,concept/deception,concept/beauty,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Thus is his cheek the map of days outworn,  
@@ -2869,7 +2869,7 @@ per mostrare alla falsa arte quale fosse la [[Beauty|bellezza]] d’un tempo.
 
 
 
-<span class="atom-split" data-atom="sonnet_069" data-title="Sonnet 69" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_069" data-title="Sonnet 69" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/eyes_sight,concept/appearance_vs_reality,concept/beauty,concept/deception,form/shakespearean_sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Those parts of thee that the world’s eye doth view  
@@ -2913,7 +2913,7 @@ il terreno è questo: che tu cresci comune.
 
 
 
-<span class="atom-split" data-atom="sonnet_070" data-title="Sonnet 70" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_070" data-title="Sonnet 70" data-chapter="" data-kind="intro" data-tags="archetype/innocent,motif/flowers,concept/appearance_vs_reality,concept/beauty,concept/jealousy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 That thou are blamed shall not be thy defect,  
@@ -2955,7 +2955,7 @@ allora tu [[Alone|solo]] regni di cuori possederesti.
 
 
 
-<span class="atom-split" data-atom="sonnet_071" data-title="Sonnet 71" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_071" data-title="Sonnet 71" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/death,motif/bells,motif/the_grave,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,cluster/death,cluster/silence,cluster/bells"></span>
 
 
 No longer mourn for me when I am dead  
@@ -2997,7 +2997,7 @@ e non ti schernisca per me, quando me ne sarò andato.
 
 
 
-<span class="atom-split" data-atom="sonnet_072" data-title="Sonnet 72" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_072" data-title="Sonnet 72" data-chapter="" data-kind="intro" data-tags="motif/death,motif/the_grave,concept/grief_and_loss,concept/truth,concept/love_romantic,form/shakespearean_sonnet,cluster/death,cluster/silence,cluster/bells"></span>
 
 
 O, lest the world should task you to recite  
@@ -3039,7 +3039,7 @@ e così dovresti tu, ad [[Love|amare]] cose che nulla valgono.
 
 
 
-<span class="atom-split" data-atom="sonnet_073" data-title="Sonnet 73" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_073" data-title="Sonnet 73" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/autumn,motif/seasons,motif/fire,motif/light_and_dark,motif/birds,motif/death,concept/mortality,form/shakespearean_sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
 That [[Time|time]] of year thou mayst in me behold  
@@ -3081,7 +3081,7 @@ per [[Love|amar]] [[Well|bene]] ciò che dovrai lasciare tra breve.
 
 
 
-<span class="atom-split" data-atom="sonnet_074" data-title="Sonnet 74" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_074" data-title="Sonnet 74" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/death,motif/letters_writing,motif/swords_weapons,concept/self_and_soul,concept/immortality_of_art,form/shakespearean_sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 But be contented when that fell arrest  
@@ -3123,7 +3123,7 @@ e quello è questo, e questo con te rimane.
 
 
 
-<span class="atom-split" data-atom="sonnet_075" data-title="Sonnet 75" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_075" data-title="Sonnet 75" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/desire,motif/money_gold,concept/love_romantic,concept/jealousy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 So are you to my thoughts as food to life,  
@@ -3165,7 +3165,7 @@ o ingozzandomi di tutto, o di tutto privo.
 
 
 
-<span class="atom-split" data-atom="sonnet_076" data-title="Sonnet 76" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_076" data-title="Sonnet 76" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/sun,concept/the_artist_and_society,concept/love_romantic,concept/identity,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Why is my verse so barren of new [[Pride|pride]],  
@@ -3203,7 +3203,7 @@ così il mio [[Love|amore]] ridice sempre ciò che è detto.
 
 
 
-<span class="atom-split" data-atom="sonnet_077" data-title="Sonnet 77" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_077" data-title="Sonnet 77" data-chapter="" data-kind="intro" data-tags="topos/memento_mori,motif/the_mirror,motif/the_clock,motif/the_book,motif/the_grave,motif/time,concept/memory_and_time,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Thy glass will show thee how thy beauties wear,  
@@ -3241,7 +3241,7 @@ ti gioveranno e molto arricchiranno il tuo libro.
 
 
 
-<span class="atom-split" data-atom="sonnet_078" data-title="Sonnet 78" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_078" data-title="Sonnet 78" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,motif/birds,concept/the_artist_and_society,concept/jealousy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 So oft have I invoked thee for my muse  
@@ -3279,7 +3279,7 @@ alta quanto dottrina la mia rozza ignoranza.
 
 
 
-<span class="atom-split" data-atom="sonnet_079" data-title="Sonnet 79" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_079" data-title="Sonnet 79" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,concept/the_artist_and_society,concept/jealousy,concept/beauty,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Whilst I [[Alone|alone]] did call upon thy aid  
@@ -3317,7 +3317,7 @@ poiché ciò che ti deve tu stesso lo paghi.
 
 
 
-<span class="atom-split" data-atom="sonnet_080" data-title="Sonnet 80" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_080" data-title="Sonnet 80" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/the_sea,motif/letters_writing,concept/the_artist_and_society,concept/jealousy,form/shakespearean_sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O, how I faint when I of you do write,  
@@ -3355,7 +3355,7 @@ il peggio fu questo: il mio [[Love|amore]] fu la mia [[Decay|rovina]].
 
 
 
-<span class="atom-split" data-atom="sonnet_081" data-title="Sonnet 81" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_081" data-title="Sonnet 81" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/death,motif/the_grave,motif/letters_writing,concept/immortality_of_art,concept/mortality,concept/immortality,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Or I shall live your epitaph to make,  
@@ -3395,7 +3395,7 @@ uomini.
 
 
 
-<span class="atom-split" data-atom="sonnet_082" data-title="Sonnet 82" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_082" data-title="Sonnet 82" data-chapter="" data-kind="intro" data-tags="motif/letters_writing,motif/the_book,concept/the_artist_and_society,concept/truth,concept/beauty,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 I grant thou wert not married to my muse,  
@@ -3433,7 +3433,7 @@ dove le guance han bisogno di [[Blood|sangue]]: in te è abusata.
 
 
 
-<span class="atom-split" data-atom="sonnet_083" data-title="Sonnet 83" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_083" data-title="Sonnet 83" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/silence,motif/eyes_sight,motif/the_grave,concept/the_artist_and_society,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 I never saw that you did painting need,  
@@ -3471,7 +3471,7 @@ di quanta entrambi i vostri poeti sappiano in lode inventare.
 
 
 
-<span class="atom-split" data-atom="sonnet_084" data-title="Sonnet 84" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_084" data-title="Sonnet 84" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/letters_writing,concept/beauty,concept/the_artist_and_society,concept/pride,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Who is it that says most which can say more  
@@ -3509,7 +3509,7 @@ ghiotto di lode, il che rende le vostre lodi peggiori.
 
 
 
-<span class="atom-split" data-atom="sonnet_085" data-title="Sonnet 85" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_085" data-title="Sonnet 85" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/silence,motif/money_gold,concept/the_artist_and_society,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 My tongue-tied muse in manners holds her still  
@@ -3547,7 +3547,7 @@ me per i miei muti pensieri, che parlano in effetto.
 
 
 
-<span class="atom-split" data-atom="sonnet_086" data-title="Sonnet 86" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_086" data-title="Sonnet 86" data-chapter="" data-kind="intro" data-tags="motif/the_supernatural,motif/ghosts,motif/the_grave,motif/the_sea,concept/the_artist_and_society,concept/jealousy,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Was it the proud full sail of his great verse  
@@ -3585,7 +3585,7 @@ allora mi mancò materia; ciò infiacchì il mio.
 
 
 
-<span class="atom-split" data-atom="sonnet_087" data-title="Sonnet 87" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_087" data-title="Sonnet 87" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,archetype/king,motif/dreams,motif/sleep,motif/money_gold,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/dreams,cluster/moon"></span>
 
 
 Farewell—thou art too dear for my possessing,  
@@ -3623,7 +3623,7 @@ nel [[Sleep|sonno]] un [[King|re]], ma al risveglio nulla di ciò.
 
 
 
-<span class="atom-split" data-atom="sonnet_088" data-title="Sonnet 88" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_088" data-title="Sonnet 88" data-chapter="" data-kind="intro" data-tags="archetype/martyr,concept/self_and_soul,concept/humility,concept/love_romantic,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 When thou shalt be disposed to set me light  
@@ -3661,7 +3661,7 @@ che per il tuo diritto sopporterò ogni torto.
 
 
 
-<span class="atom-split" data-atom="sonnet_089" data-title="Sonnet 89" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_089" data-title="Sonnet 89" data-chapter="" data-kind="intro" data-tags="archetype/outcast_wanderer,concept/alienation,concept/grief_and_loss,concept/humility,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Say that thou didst forsake me for some fault,  
@@ -3699,7 +3699,7 @@ ché mai devo [[Love|amare]] colui che tu odii.
 
 
 
-<span class="atom-split" data-atom="sonnet_090" data-title="Sonnet 90" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_090" data-title="Sonnet 90" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/storm,motif/wind,concept/grief_and_loss,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Then hate me when thou wilt, if ever, now,  
@@ -3737,7 +3737,7 @@ paragonate alla perdita di te non lo parranno.
 
 
 
-<span class="atom-split" data-atom="sonnet_091" data-title="Sonnet 91" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_091" data-title="Sonnet 91" data-chapter="" data-kind="intro" data-tags="motif/horse,motif/clothing,motif/money_gold,motif/animals,concept/love_romantic,concept/pride,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Some glory in their birth, some in their skill,  
@@ -3775,7 +3775,7 @@ tutto questo, e rendermi il più misero.
 
 
 
-<span class="atom-split" data-atom="sonnet_092" data-title="Sonnet 92" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_092" data-title="Sonnet 92" data-chapter="" data-kind="intro" data-tags="motif/death,concept/doubt,concept/deception,concept/marriage_and_fidelity,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 But do thy worst to steal thyself away,  
@@ -3813,7 +3813,7 @@ Tu puoi esser falso, e io pure non saperlo.
 
 
 
-<span class="atom-split" data-atom="sonnet_093" data-title="Sonnet 93" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_093" data-title="Sonnet 93" data-chapter="" data-kind="intro" data-tags="topos/fall_from_innocence,motif/eyes_sight,motif/garden,concept/appearance_vs_reality,concept/deception,concept/jealousy,concept/sin_and_the_fall,form/shakespearean_sonnet,form/sonnet,histref/the_bible,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 So shall I live supposing thou art true  
@@ -3851,7 +3851,7 @@ se la tua dolce virtù non risponde al tuo aspetto!
 
 
 
-<span class="atom-split" data-atom="sonnet_094" data-title="Sonnet 94" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_094" data-title="Sonnet 94" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/decay,motif/seasons,concept/temptation,concept/power_and_corruption,concept/appearance_vs_reality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 They that have power to hurt and will do none,  
@@ -3889,7 +3889,7 @@ i gigli che marciscono puzzano assai più delle erbacce.
 
 
 
-<span class="atom-split" data-atom="sonnet_095" data-title="Sonnet 95" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_095" data-title="Sonnet 95" data-chapter="" data-kind="intro" data-tags="motif/rose,motif/decay,motif/swords_weapons,concept/appearance_vs_reality,concept/sin_and_the_fall,concept/lust,form/shakespearean_sonnet,form/sonnet,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
 How sweet and lovely dost thou make the shame  
@@ -3927,7 +3927,7 @@ il coltello più duro, mal usato, perde il suo filo.
 
 
 
-<span class="atom-split" data-atom="sonnet_096" data-title="Sonnet 96" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_096" data-title="Sonnet 96" data-chapter="" data-kind="intro" data-tags="archetype/temptress,motif/lamb,motif/animals,motif/crown,concept/appearance_vs_reality,concept/temptation,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Some say thy fault is youth, some wantonness;  
@@ -3965,7 +3965,7 @@ che, essendo tu mio, mia è la tua buona fama.
 
 
 
-<span class="atom-split" data-atom="sonnet_097" data-title="Sonnet 97" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_097" data-title="Sonnet 97" data-chapter="" data-kind="intro" data-tags="motif/seasons,motif/winter,motif/autumn,motif/birds,motif/the_journey,concept/grief_and_loss,concept/exile,form/shakespearean_sonnet,form/sonnet,cluster/seasons,cluster/winter,cluster/autumn"></span>
 
 
 How like a [[Winter|winter]] hath my absence been  
@@ -4003,7 +4003,7 @@ che le [[Leaves|foglie]] impallidiscono, temendo vicino l’[[Winter|inverno]].
 
 
 
-<span class="atom-split" data-atom="sonnet_098" data-title="Sonnet 98" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_098" data-title="Sonnet 98" data-chapter="" data-kind="intro" data-tags="motif/spring,motif/seasons,motif/flowers,motif/rose,motif/birds,concept/grief_and_loss,concept/exile,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 From you have I been absent in the [[spring]]  
@@ -4041,7 +4041,7 @@ come con la tua [[Shadow|ombra]], con esse io giocavo.
 
 
 
-<span class="atom-split" data-atom="sonnet_099" data-title="Sonnet 99" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_099" data-title="Sonnet 99" data-chapter="" data-kind="intro" data-tags="motif/flowers,motif/rose,motif/white_and_red,motif/garden,motif/decay,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/rose,cluster/desire,cluster/value_and_scarcity"></span>
 
 
 The forward violet thus did I chide:  
@@ -4081,7 +4081,7 @@ che dolcezza o colore non t’avesse rubato.
 
 
 
-<span class="atom-split" data-atom="sonnet_100" data-title="Sonnet 100" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_100" data-title="Sonnet 100" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,topos/tempus_fugit,motif/time,motif/swords_weapons,motif/decay,concept/the_artist_and_society,concept/immortality_of_art,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 Where art thou, muse, that thou forget‘st so long  
@@ -4119,7 +4119,7 @@ così previeni la sua falce e il curvo coltello.
 
 
 
-<span class="atom-split" data-atom="sonnet_101" data-title="Sonnet 101" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_101" data-title="Sonnet 101" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/the_grave,concept/beauty_and_truth,concept/immortality_of_art,concept/the_artist_and_society,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 O truant muse, what shall be thy amends  
@@ -4157,7 +4157,7 @@ farlo apparire fra molto tempo qual ora si mostra.
 
 
 
-<span class="atom-split" data-atom="sonnet_102" data-title="Sonnet 102" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_102" data-title="Sonnet 102" data-chapter="" data-kind="intro" data-tags="motif/music_and_song,motif/nightingale,motif/birds,motif/silence,motif/seasons,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,histref/greek_mythology,cluster/birds,cluster/music_and_song,cluster/nightingale"></span>
 
 
 My [[Love|love]] is strengthened, though more weak in seeming.  
@@ -4195,7 +4195,7 @@ perché non vorrei tediarvi col mio [[Song|canto]].
 
 
 
-<span class="atom-split" data-atom="sonnet_103" data-title="Sonnet 103" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_103" data-title="Sonnet 103" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,motif/the_mirror,motif/letters_writing,concept/beauty,concept/the_artist_and_society,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Alack, what [[Poverty|poverty]] my muse brings forth  
@@ -4233,7 +4233,7 @@ il vostro specchio vi mostra quando vi guardate.
 
 
 
-<span class="atom-split" data-atom="sonnet_104" data-title="Sonnet 104" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_104" data-title="Sonnet 104" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,motif/mutability,motif/seasons,motif/the_clock,concept/transience,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 To me, fair friend, you never can be old;  
@@ -4271,7 +4271,7 @@ prima che tu nascessi, della [[Beauty|bellezza]] l’[[Summer|estate]] era morta
 
 
 
-<span class="atom-split" data-atom="sonnet_105" data-title="Sonnet 105" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_105" data-title="Sonnet 105" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,concept/love_divine,concept/beauty_and_truth,concept/faith,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,histref/christianity,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Let not my [[Love|love]] be called idolatry,  
@@ -4309,7 +4309,7 @@ che tre fin ora mai sedettero in uno.
 
 
 
-<span class="atom-split" data-atom="sonnet_106" data-title="Sonnet 106" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_106" data-title="Sonnet 106" data-chapter="" data-kind="intro" data-tags="topos/inexpressibility,archetype/poet_as_prophet,motif/the_book,motif/time,concept/memory_and_time,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 When in the chronicle of wasted [[Time|time]]  
@@ -4347,7 +4347,7 @@ abbiamo occhi per [[Wonder|stupirci]], ma non lingue per lodare.
 
 
 
-<span class="atom-split" data-atom="sonnet_107" data-title="Sonnet 107" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_107" data-title="Sonnet 107" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,archetype/prophet,archetype/tyrant,motif/moon,motif/death,motif/the_grave,concept/immortality_of_art,form/shakespearean_sonnet,form/sonnet,histref/elizabethan_england,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Not mine own fears nor the prophetic [[Soul|soul]]  
@@ -4385,7 +4385,7 @@ quando cimieri di tiranni e tombe di bronzo saranno consunti.
 
 
 
-<span class="atom-split" data-atom="sonnet_108" data-title="Sonnet 108" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_108" data-title="Sonnet 108" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,motif/letters_writing,motif/time,motif/dust,concept/love_divine,concept/immortality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 What’s in the brain that ink may character  
@@ -4423,7 +4423,7 @@ dove il [[Time|tempo]] e la forma esteriore lo mostrerebbero morto.
 
 
 
-<span class="atom-split" data-atom="sonnet_109" data-title="Sonnet 109" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_109" data-title="Sonnet 109" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,archetype/outcast_wanderer,motif/the_journey,motif/rose,concept/marriage_and_fidelity,concept/self_and_soul,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O never say that I was false of heart,  
@@ -4461,7 +4461,7 @@ salvo te, mia [[Rose|rosa]]; in esso tu sei il mio tutto.
 
 
 
-<span class="atom-split" data-atom="sonnet_110" data-title="Sonnet 110" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_110" data-title="Sonnet 110" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/fool,motif/masks_disguise,concept/guilt,concept/conversion,concept/truth,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Alas, ’tis true, I have gone here and there  
@@ -4499,7 +4499,7 @@ fin nel tuo puro e più che amoroso petto.
 
 
 
-<span class="atom-split" data-atom="sonnet_111" data-title="Sonnet 111" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_111" data-title="Sonnet 111" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/wine_and_drink,concept/the_artist_and_society,concept/guilt,concept/grace_and_redemption,concept/alienation,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O, for my sake do you with fortune chide,  
@@ -4537,7 +4537,7 @@ che la tua sola pietà basta a guarirmi.
 
 
 
-<span class="atom-split" data-atom="sonnet_112" data-title="Sonnet 112" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_112" data-title="Sonnet 112" data-chapter="" data-kind="intro" data-tags="motif/serpent_snake,concept/alienation,concept/love_romantic,concept/the_artist_and_society,concept/friendship,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Your [[Love|love]] and pity doth th‘impression fill  
@@ -4575,7 +4575,7 @@ che tutto il resto del mondo, mi pare, è morto.
 
 
 
-<span class="atom-split" data-atom="sonnet_113" data-title="Sonnet 113" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_113" data-title="Sonnet 113" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/birds,motif/the_sea,concept/appearance_vs_reality,concept/exile,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Since I left you mine eye is in my mind,  
@@ -4613,7 +4613,7 @@ la mia mente fedelissima rende così infedele l’occhio.
 
 
 
-<span class="atom-split" data-atom="sonnet_114" data-title="Sonnet 114" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_114" data-title="Sonnet 114" data-chapter="" data-kind="intro" data-tags="archetype/king,motif/eyes_sight,motif/crown,motif/wine_and_drink,concept/appearance_vs_reality,concept/deception,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Or whether doth my mind, being crowned with you,  
@@ -4651,7 +4651,7 @@ che l’occhio mio l’ami e per primo cominci.
 
 
 
-<span class="atom-split" data-atom="sonnet_115" data-title="Sonnet 115" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_115" data-title="Sonnet 115" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,motif/mutability,motif/crown,concept/transience,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 Those lines that I before have writ do lie,  
@@ -4689,7 +4689,7 @@ per dare piena crescita a ciò che ancora cresce.
 
 
 
-<span class="atom-split" data-atom="sonnet_116" data-title="Sonnet 116" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_116" data-title="Sonnet 116" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,topos/tempus_fugit,motif/stars,motif/the_sea,motif/storm,motif/time,concept/marriage_and_fidelity,concept/love_romantic,concept/immortality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Let me not to the [[Marriage|marriage]] of true minds  
@@ -4727,7 +4727,7 @@ io non ho mai scritto, né uomo ha mai amato.
 
 
 
-<span class="atom-split" data-atom="sonnet_117" data-title="Sonnet 117" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_117" data-title="Sonnet 117" data-chapter="" data-kind="intro" data-tags="topos/the_open_road,motif/the_journey,motif/wind,motif/the_sea,concept/marriage_and_fidelity,concept/guilt,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Accuse me thus: that I have scanted all  
@@ -4765,7 +4765,7 @@ la costanza e la virtù del tuo [[Love|amore]].
 
 
 
-<span class="atom-split" data-atom="sonnet_118" data-title="Sonnet 118" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_118" data-title="Sonnet 118" data-chapter="" data-kind="intro" data-tags="motif/food_feasting,motif/wine_and_drink,concept/paradox,concept/love_romantic,concept/temptation,form/shakespearean_sonnet,form/sonnet,cluster/paradox,cluster/food_and_feasting,cluster/aphorism"></span>
 
 
 Like as, to make our appetites more keen,  
@@ -4803,7 +4803,7 @@ i farmaci [[Poison|avvelenano]] chi di te così s’ammalò.
 
 
 
-<span class="atom-split" data-atom="sonnet_119" data-title="Sonnet 119" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_119" data-title="Sonnet 119" data-chapter="" data-kind="intro" data-tags="motif/madness,motif/wine_and_drink,motif/eyes_sight,concept/paradox,concept/grace_and_redemption,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,histref/greek_mythology,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 What potions have I drunk of siren [[Tears|tears]]  
@@ -4841,7 +4841,7 @@ e guadagno dai mali tre volte più di quanto ho speso.
 
 
 
-<span class="atom-split" data-atom="sonnet_120" data-title="Sonnet 120" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_120" data-title="Sonnet 120" data-chapter="" data-kind="intro" data-tags="archetype/tyrant,motif/money_gold,concept/guilt,concept/mercy,concept/grace_and_redemption,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 That you were once unkind befriends me now,  
@@ -4879,7 +4879,7 @@ il mio riscatta il tuo, e il tuo deve riscattare me.
 
 
 
-<span class="atom-split" data-atom="sonnet_121" data-title="Sonnet 121" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_121" data-title="Sonnet 121" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/blood,concept/identity,concept/conscience,concept/appearance_vs_reality,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 ’Tis better to be vile than vile esteemed  
@@ -4917,7 +4917,7 @@ tutti gli uomini sono malvagi e nella loro malvagità regnano.
 
 
 
-<span class="atom-split" data-atom="sonnet_122" data-title="Sonnet 122" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_122" data-title="Sonnet 122" data-chapter="" data-kind="intro" data-tags="topos/immortality_through_verse,motif/memory,motif/letters_writing,motif/the_book,motif/love,concept/memory_and_time,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Thy gift, thy tables, are within my brain  
@@ -4955,7 +4955,7 @@ sarebbe ammettere in me dimenticanza.
 
 
 
-<span class="atom-split" data-atom="sonnet_123" data-title="Sonnet 123" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_123" data-title="Sonnet 123" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,motif/time,motif/mutability,concept/transience,concept/truth,form/shakespearean_sonnet,form/sonnet,cluster/time,cluster/tempus_fugit,cluster/clock"></span>
 
 
 No, [[Time|time]], thou shalt not boast that I do change!  
@@ -4993,7 +4993,7 @@ sarò fedele a dispetto della tua falce e di te.
 
 
 
-<span class="atom-split" data-atom="sonnet_124" data-title="Sonnet 124" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_124" data-title="Sonnet 124" data-chapter="" data-kind="intro" data-tags="topos/fortunes_wheel,motif/mutability,motif/flowers,concept/love_romantic,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 If my dear [[Love|love]] were but the [[Child|child]] of state  
@@ -5031,7 +5031,7 @@ che muoiono per il bene, vissuti per il crimine.
 
 
 
-<span class="atom-split" data-atom="sonnet_125" data-title="Sonnet 125" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_125" data-title="Sonnet 125" data-chapter="" data-kind="intro" data-tags="topos/vanitas,motif/ruins,concept/transience,concept/appearance_vs_reality,concept/truth,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Were’t aught to me I bore the canopy,  
@@ -5069,7 +5069,7 @@ quanto più accusata, tanto meno sta in tuo potere.
 
 
 
-<span class="atom-split" data-atom="sonnet_126" data-title="Sonnet 126" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_126" data-title="Sonnet 126" data-chapter="" data-kind="intro" data-tags="topos/tempus_fugit,topos/memento_mori,motif/time,motif/death,motif/the_mirror,concept/mortality,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O thou my lovely boy, who in thy power  
@@ -5103,7 +5103,7 @@ e la sua quietanza è il renderti.
 
 
 
-<span class="atom-split" data-atom="sonnet_127" data-title="Sonnet 127" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_127" data-title="Sonnet 127" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,motif/light_and_dark,motif/eyes_sight,concept/beauty,concept/appearance_vs_reality,concept/deception,form/shakespearean_sonnet,form/sonnet_sequence,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 In the old age black was not counted fair,  
@@ -5141,7 +5141,7 @@ Che ogni lingua dice: così dovrebbe apparire la [[Beauty|bellezza]].
 
 
 
-<span class="atom-split" data-atom="sonnet_128" data-title="Sonnet 128" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_128" data-title="Sonnet 128" data-chapter="" data-kind="intro" data-tags="archetype/lover,motif/desire,motif/music_and_song,concept/jealousy,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 How oft, when thou, my music, music play‘st  
@@ -5179,7 +5179,7 @@ Da’ loro le tue dita, a me le tue labbra da baciare.
 
 
 
-<span class="atom-split" data-atom="sonnet_129" data-title="Sonnet 129" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_129" data-title="Sonnet 129" data-chapter="" data-kind="intro" data-tags="motif/desire,motif/blood,motif/madness,motif/dreams,concept/lust,concept/guilt,concept/sin_and_the_fall,concept/paradox,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 Th‘expense of spirit in a waste of shame  
@@ -5217,7 +5217,7 @@ Fuggire il cielo che conduce gli uomini a questo inferno.
 
 
 
-<span class="atom-split" data-atom="sonnet_130" data-title="Sonnet 130" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_130" data-title="Sonnet 130" data-chapter="" data-kind="intro" data-tags="motif/white_and_red,motif/rose,motif/sun,motif/eyes_sight,concept/appearance_vs_reality,concept/beauty,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 My mistress’ eyes are nothing like the sun;  
@@ -5255,7 +5255,7 @@ Quanto ogni donna travisata da falsi paragoni.
 
 
 
-<span class="atom-split" data-atom="sonnet_131" data-title="Sonnet 131" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_131" data-title="Sonnet 131" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,archetype/femme_fatale,archetype/tyrant,motif/light_and_dark,motif/desire,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 Thou art as tyrannous so as thou art  
@@ -5293,7 +5293,7 @@ E di là, io credo, questa calunnia procede.
 
 
 
-<span class="atom-split" data-atom="sonnet_132" data-title="Sonnet 132" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_132" data-title="Sonnet 132" data-chapter="" data-kind="intro" data-tags="topos/love_as_religion,archetype/temptress,motif/eyes_sight,motif/light_and_dark,motif/sun,concept/beauty,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Thine eyes I [[Love|love]], and they, as pitying me—  
@@ -5331,7 +5331,7 @@ E brutte tutte quelle cui manca il tuo colorito.
 
 
 
-<span class="atom-split" data-atom="sonnet_133" data-title="Sonnet 133" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_133" data-title="Sonnet 133" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/eyes_sight,concept/friendship,concept/jealousy,concept/self_and_soul,form/shakespearean_sonnet,form/sonnet,cluster/friendship,cluster/tears"></span>
 
 
 Beshrew that heart that makes my heart to groan  
@@ -5369,7 +5369,7 @@ Per forza sono tuo, con tutto ciò che è in me.
 
 
 
-<span class="atom-split" data-atom="sonnet_134" data-title="Sonnet 134" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_134" data-title="Sonnet 134" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/desire,motif/money_gold,concept/friendship,concept/deception,form/shakespearean_sonnet,form/sonnet,cluster/friendship,cluster/tears"></span>
 
 
 So, now I have confessed that he is thine,  
@@ -5407,7 +5407,7 @@ Egli paga l’intero, e pure io non son libero.
 
 
 
-<span class="atom-split" data-atom="sonnet_135" data-title="Sonnet 135" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_135" data-title="Sonnet 135" data-chapter="" data-kind="intro" data-tags="archetype/temptress,motif/desire,motif/the_sea,motif/water,concept/lust,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 Whoever hath her wish, thou hast thy Will,  
@@ -5445,7 +5445,7 @@ Pensali tutti uno solo, e me in quell’unico Will.
 
 
 
-<span class="atom-split" data-atom="sonnet_136" data-title="Sonnet 136" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_136" data-title="Sonnet 136" data-chapter="" data-kind="intro" data-tags="motif/desire,concept/lust,concept/self_and_soul,concept/conscience,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 If thy [[Soul|soul]] check thee that I come so near,  
@@ -5483,7 +5483,7 @@ E allora tu mi ami, perché il mio nome è Will.
 
 
 
-<span class="atom-split" data-atom="sonnet_137" data-title="Sonnet 137" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_137" data-title="Sonnet 137" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,archetype/fool,motif/eyes_sight,concept/deception,concept/appearance_vs_reality,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 Thou blind [[Fool|fool]] [[Love|love]], what dost thou to mine eyes  
@@ -5521,7 +5521,7 @@ E a questa falsa peste ora sono consegnati.
 
 
 
-<span class="atom-split" data-atom="sonnet_138" data-title="Sonnet 138" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_138" data-title="Sonnet 138" data-chapter="" data-kind="intro" data-tags="concept/deception,concept/appearance_vs_reality,concept/truth,concept/love_romantic,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 When my [[Love|love]] swears that she is made of [[Truth|truth]]  
@@ -5559,7 +5559,7 @@ E nelle nostre colpe dalle menzogne siamo lusingati.
 
 
 
-<span class="atom-split" data-atom="sonnet_139" data-title="Sonnet 139" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_139" data-title="Sonnet 139" data-chapter="" data-kind="intro" data-tags="topos/love_as_war,archetype/femme_fatale,motif/eyes_sight,motif/desire,concept/marriage_and_fidelity,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 O, call not me to justify the wrong  
@@ -5599,7 +5599,7 @@ Uccidimi del tutto con gli sguardi, e libera la mia [[Pain|pena]].
 
 
 
-<span class="atom-split" data-atom="sonnet_140" data-title="Sonnet 140" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_140" data-title="Sonnet 140" data-chapter="" data-kind="intro" data-tags="archetype/femme_fatale,motif/madness,motif/desire,concept/madness,concept/deception,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Be wise as thou art cruel; do not press  
@@ -5639,7 +5639,7 @@ errando.
 
 
 
-<span class="atom-split" data-atom="sonnet_141" data-title="Sonnet 141" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_141" data-title="Sonnet 141" data-chapter="" data-kind="intro" data-tags="archetype/temptress,motif/eyes_sight,concept/lust,concept/self_and_soul,concept/sin_and_the_fall,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 In [[Faith|faith]], I do not [[Love|love]] thee with mine eyes,  
@@ -5677,7 +5677,7 @@ che colei che mi fa peccare mi assegna [[Pain|pena]].
 
 
 
-<span class="atom-split" data-atom="sonnet_142" data-title="Sonnet 142" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_142" data-title="Sonnet 142" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,motif/white_and_red,concept/lust,concept/sin_and_the_fall,concept/marriage_and_fidelity,concept/mercy,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 [[Love]] is my sin, and thy dear virtue hate,  
@@ -5715,7 +5715,7 @@ per l’esempio di [[Self|te stessa]] ti sia negato!
 
 
 
-<span class="atom-split" data-atom="sonnet_143" data-title="Sonnet 143" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_143" data-title="Sonnet 143" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,motif/desire,motif/childhood,motif/birds,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 Lo, as a care-full housewife runs to catch  
@@ -5753,7 +5753,7 @@ se ti volgi indietro e plachi il mio forte pianto.
 
 
 
-<span class="atom-split" data-atom="sonnet_144" data-title="Sonnet 144" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_144" data-title="Sonnet 144" data-chapter="" data-kind="intro" data-tags="topos/the_double,archetype/femme_fatale,archetype/double_doppelganger,archetype/satanic_figure,motif/light_and_dark,motif/fire,concept/temptation,concept/good_vs_evil,form/shakespearean_sonnet,form/sonnet,cluster/temptation,cluster/good_vs_evil,cluster/serpent_snake"></span>
 
 
 Two loves I have, of comfort and [[Despair|despair]],  
@@ -5791,7 +5791,7 @@ finché il mio angelo cattivo non scacci col [[Fire|fuoco]] il mio buono.
 
 
 
-<span class="atom-split" data-atom="sonnet_145" data-title="Sonnet 145" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_145" data-title="Sonnet 145" data-chapter="" data-kind="intro" data-tags="motif/love,motif/light_and_dark,motif/dawn,concept/love_romantic,concept/mercy,form/shakespearean_sonnet,form/lyric,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Those lips that [[Love|love]]’s own hand did make  
@@ -5829,7 +5829,7 @@ e mi salvò la vita, dicendo ‘non te.’
 
 
 
-<span class="atom-split" data-atom="sonnet_146" data-title="Sonnet 146" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_146" data-title="Sonnet 146" data-chapter="" data-kind="intro" data-tags="topos/contemptus_mundi,topos/memento_mori,topos/vanitas,motif/death,concept/self_and_soul,concept/mortality,concept/faith,concept/grace_and_redemption,form/shakespearean_sonnet,form/sonnet,cluster/self_knowledge,cluster/immortality,cluster/self_reliance"></span>
 
 
 Poor [[Soul|soul]], the centre of my sinful earth,  
@@ -5867,7 +5867,7 @@ e morta una volta la [[Death|morte]], non c’è più morire allora.
 
 
 
-<span class="atom-split" data-atom="sonnet_147" data-title="Sonnet 147" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_147" data-title="Sonnet 147" data-chapter="" data-kind="intro" data-tags="motif/madness,motif/desire,motif/death,motif/light_and_dark,concept/madness,concept/lust,concept/deception,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 My [[Love|love]] is as a fever, [[Longing|longing]] still  
@@ -5905,7 +5905,7 @@ te che sei nera come l’inferno, buia come la [[Night|notte]].
 
 
 
-<span class="atom-split" data-atom="sonnet_148" data-title="Sonnet 148" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_148" data-title="Sonnet 148" data-chapter="" data-kind="intro" data-tags="motif/eyes_sight,motif/sun,concept/deception,concept/appearance_vs_reality,concept/truth,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 O me, what eyes hath [[Love|love]] put in my head,  
@@ -5943,7 +5943,7 @@ perché gli occhi, [[Well|ben]] vedendo, le tue turpi colpe non trovino!
 
 
 
-<span class="atom-split" data-atom="sonnet_149" data-title="Sonnet 149" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_149" data-title="Sonnet 149" data-chapter="" data-kind="intro" data-tags="topos/the_unattainable_beloved,topos/love_as_religion,motif/desire,motif/eyes_sight,concept/self_and_soul,form/shakespearean_sonnet,form/sonnet,cluster/unrequited_frustrated_love,cluster/unattainable_beloved,cluster/petrarchan_sonnet"></span>
 
 
 Canst thou, O cruel, say I [[Love|love]] thee not  
@@ -5981,7 +5981,7 @@ Tu ami quelli che vedono, e io sono cieco.
 
 
 
-<span class="atom-split" data-atom="sonnet_150" data-title="Sonnet 150" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_150" data-title="Sonnet 150" data-chapter="" data-kind="intro" data-tags="archetype/temptress,motif/desire,motif/eyes_sight,concept/appearance_vs_reality,concept/paradox,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 O, from what power hast thou this powerful might  
@@ -6019,7 +6019,7 @@ più degno io sono d’essere amato da te.
 
 
 
-<span class="atom-split" data-atom="sonnet_151" data-title="Sonnet 151" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_151" data-title="Sonnet 151" data-chapter="" data-kind="intro" data-tags="motif/desire,concept/lust,concept/conscience,concept/self_and_soul,concept/sin_and_the_fall,form/shakespearean_sonnet,form/sonnet,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 [[Love]] is too young to know what [[Conscience|conscience]] is,  
@@ -6057,7 +6057,7 @@ lei ‘[[Love|amore]]’, per il cui caro [[Love|amore]] sorgo e cado.
 
 
 
-<span class="atom-split" data-atom="sonnet_152" data-title="Sonnet 152" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_152" data-title="Sonnet 152" data-chapter="" data-kind="intro" data-tags="archetype/fallen_woman,motif/eyes_sight,concept/deception,concept/marriage_and_fidelity,concept/guilt,concept/truth,form/shakespearean_sonnet,form/sonnet,cluster/appearance_vs_reality,cluster/beauty,cluster/eyes_and_sight"></span>
 
 
 In loving thee thou know’st I am forsworn,  
@@ -6095,7 +6095,7 @@ a giurare contro la [[Truth|verità]] sì turpe menzogna.
 
 
 
-<span class="atom-split" data-atom="sonnet_153" data-title="Sonnet 153" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_153" data-title="Sonnet 153" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/water,motif/desire,motif/eyes_sight,concept/love_romantic,form/shakespearean_sonnet,form/sonnet,histref/classical_antiquity,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 Cupid laid by his brand and fell asleep.  
@@ -6133,7 +6133,7 @@ dove Cupido prese nuovo [[Fire|fuoco]]: gli occhi della mia donna.
 
 
 
-<span class="atom-split" data-atom="sonnet_154" data-title="Sonnet 154" data-chapter="" data-kind="intro"></span>
+<span class="atom-split" data-atom="sonnet_154" data-title="Sonnet 154" data-chapter="" data-kind="intro" data-tags="motif/fire,motif/water,motif/desire,concept/love_romantic,concept/temptation,form/shakespearean_sonnet,form/sonnet,histref/classical_antiquity,histref/greek_mythology,cluster/greek_mythology,cluster/lust_sexual_desire,cluster/desire"></span>
 
 
 The little [[Love|love]]-god lying once asleep  
