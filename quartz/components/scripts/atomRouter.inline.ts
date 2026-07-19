@@ -21,6 +21,7 @@ interface Atom {
   title: string
   chapter: string
   kind: string
+  tags: string[]
   en: Node[]
   it: Node[]
 }
@@ -51,7 +52,11 @@ function markerOf(el: HTMLElement): HTMLElement | null {
     return el
   if (el.childElementCount === 1 && !(el.textContent || "").trim()) {
     const c = el.firstElementChild as HTMLElement | null
-    if (c && c.classList && (c.classList.contains("atom-split") || c.classList.contains("qlang-split")))
+    if (
+      c &&
+      c.classList &&
+      (c.classList.contains("atom-split") || c.classList.contains("qlang-split"))
+    )
       return c
   }
   return null
@@ -77,6 +82,10 @@ function partition(
             title: marker.dataset.title || "",
             chapter: marker.dataset.chapter || "",
             kind: marker.dataset.kind || "",
+            tags: (marker.dataset.tags || "")
+              .split(",")
+              .map((s) => s.trim())
+              .filter(Boolean),
             en: [],
             it: [],
           }
@@ -111,6 +120,10 @@ function chapterOf(t: string): string {
 }
 // TOC leaf under a chapter group: strip the repeated chapter name so a part reads
 // just "Parte 3" instead of "II The Maniac (part 3)".
+// Chip label for a leaf tag: strip the "axis/" prefix, "_" -> space.
+function tagLabel(t: string): string {
+  return t.replace(/^[^/]+\//, "").replace(/_/g, " ")
+}
 function leafLabel(a: Atom): string {
   let s = chapterOf(a.title)
   if (a.chapter && s.startsWith(a.chapter)) {
@@ -144,8 +157,7 @@ function build(reader: HTMLElement) {
 
   const order = atoms.map((a) => a.id)
   const byId = new Map(atoms.map((a) => [a.id, a]))
-  let lang: "en" | "it" =
-    anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
+  let lang: "en" | "it" = anyIt && localStorage.getItem(LANG_KEY) === "it" ? "it" : "en"
 
   // per-atom "Capitoli correlati" (#17): keyed by workSlug#atomId. Loaded async; a
   // re-render fires once it arrives. The router owns this (not relatedWorks.inline.ts)
@@ -199,8 +211,9 @@ function build(reader: HTMLElement) {
   const pane = el("article", "ar-pane")
   shell.append(toc, pane)
   const relatedEl = el("aside", "ar-related")
+  const tagsEl = el("div", "ar-tags")
 
-  reader.replaceChildren(bar, shell, relatedEl)
+  reader.replaceChildren(bar, tagsEl, shell, relatedEl)
 
   // ---- table of contents (grouped by chapter) ----
   const tocList = el("ul", "ar-toc-list")
@@ -262,10 +275,18 @@ function build(reader: HTMLElement) {
       (a.chapter && showLeaf ? " &middot; " : "") +
       (showLeaf ? leaf : "") +
       ` <span class="ar-count">${pos} / ${order.length}</span>`
+    // leaf tag chips: rebuilt fresh every render() call (same pattern as relatedEl
+    // below) so they update per atom and survive micromorph body-diffing on nav.
+    tagsEl.replaceChildren()
+    if (a.tags.length) {
+      for (const t of a.tags) {
+        tagsEl.append(el("span", "ar-tag", tagLabel(t)))
+      }
+    }
     // toc active
-    toc.querySelectorAll(".ar-toc-link").forEach((l) =>
-      l.classList.toggle("active", (l as HTMLElement).dataset.id === a.id),
-    )
+    toc
+      .querySelectorAll(".ar-toc-link")
+      .forEach((l) => l.classList.toggle("active", (l as HTMLElement).dataset.id === a.id))
     const active = toc.querySelector(".ar-toc-link.active") as HTMLElement | null
     active?.scrollIntoView({ block: "nearest" })
     // related chapters for this atom
@@ -275,8 +296,7 @@ function build(reader: HTMLElement) {
     // chapter's related set, so fall back to the chapter id.
     const rel =
       relatedData &&
-      (relatedData[`${workSlug}#${a.id}`] ||
-        relatedData[`${workSlug}#${a.id.split("--")[0]}`])
+      (relatedData[`${workSlug}#${a.id}`] || relatedData[`${workSlug}#${a.id.split("--")[0]}`])
     if (rel && rel.length) {
       relatedEl.className = "ar-related related-works"
       relatedEl.append(el("h2", undefined, "Related chapters"))

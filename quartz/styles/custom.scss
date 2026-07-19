@@ -1144,6 +1144,15 @@ ul.tags {
 .ar-pane { min-width: 0; }
 .ar-pane > :first-child { margin-top: 0; }
 .ar-notr { color: var(--gray); font-style: italic; text-align: center; margin: 2rem 0; }
+// per-leaf tag chips (data-tags on the atom-split marker), rebuilt on every atom nav
+.ar-tags { display: flex; flex-wrap: wrap; gap: .35rem; margin: 0 0 .8rem; }
+.ar-tags:empty { display: none; margin: 0; }
+.ar-tag {
+  display: inline-flex; align-items: center; padding: .18rem .6rem;
+  border: 1px solid var(--lightgray); border-radius: 999px;
+  background: color-mix(in srgb, var(--secondary) 8%, var(--light));
+  color: var(--darkgray); font-size: .74rem; line-height: 1.3;
+}
 @media (max-width: 800px) {
   .ar-tocbtn { display: inline-flex; align-items: center; justify-content: center; }
   .ar-shell { grid-template-columns: 1fr; }
