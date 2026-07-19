@@ -1152,6 +1152,13 @@ ul.tags {
   border: 1px solid var(--lightgray); border-radius: 999px;
   background: color-mix(in srgb, var(--secondary) 8%, var(--light));
   color: var(--darkgray); font-size: .74rem; line-height: 1.3;
+  text-decoration: none;
+}
+// clickable chips (axis has a matching /cerca facet) deep-link to faceted search
+a.ar-tag { cursor: pointer; }
+a.ar-tag:hover, a.ar-tag:focus-visible {
+  background: color-mix(in srgb, var(--secondary) 18%, var(--light));
+  border-color: var(--secondary); color: var(--secondary);
 }
 @media (max-width: 800px) {
   .ar-tocbtn { display: inline-flex; align-items: center; justify-content: center; }

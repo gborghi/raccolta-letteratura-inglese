@@ -120,9 +120,48 @@ function chapterOf(t: string): string {
 }
 // TOC leaf under a chapter group: strip the repeated chapter name so a part reads
 // just "Parte 3" instead of "II The Maniac (part 3)".
-// Chip label for a leaf tag: strip the "axis/" prefix, "_" -> space.
+// KG aggregator axis -> /cerca facet key (must match the FACET.key values in
+// cerca.inline.ts's FACETS array — verified: topoi/archetypes/motifs/concepts/
+// forms/histrefs/settings/characters/cluster).
+const AXIS_TO_FACET: Record<string, string> = {
+  topos: "topoi",
+  archetype: "archetypes",
+  motif: "motifs",
+  concept: "concepts",
+  form: "forms",
+  histref: "histrefs",
+  setting: "settings",
+  character: "characters",
+  cluster: "cluster",
+}
+
+// Chip label for a leaf tag: name the KG aggregator axis explicitly, e.g.
+// "motif/autumn" -> "#motif:autumn", "concept/faith_and_doubt" -> "#concept:faith and doubt".
 function tagLabel(t: string): string {
-  return t.replace(/^[^/]+\//, "").replace(/_/g, " ")
+  const slash = t.indexOf("/")
+  const axis = slash === -1 ? t : t.slice(0, slash)
+  const slug = slash === -1 ? "" : t.slice(slash + 1)
+  return "#" + axis + ":" + slug.replace(/_/g, " ")
+}
+
+// A leaf tag chip that deep-links to /cerca with that facet value preselected —
+// same sessionStorage handoff as the home author cards (see wireAuthorCards in
+// opereTable.inline.ts). Falls back to a plain (non-clickable) span if the axis
+// has no matching /cerca facet.
+function tagChip(t: string, bp: string): HTMLElement {
+  const slash = t.indexOf("/")
+  const axis = slash === -1 ? t : t.slice(0, slash)
+  const slug = slash === -1 ? "" : t.slice(slash + 1)
+  const facetKey = AXIS_TO_FACET[axis]
+  if (!facetKey || !slug) return el("span", "ar-tag", tagLabel(t))
+  const a = el("a", "ar-tag", tagLabel(t))
+  a.href = `${bp}/cerca`
+  a.addEventListener("click", () => {
+    try {
+      sessionStorage.setItem("cercaPreselect", `${facetKey}::${slug}`)
+    } catch {}
+  })
+  return a
 }
 function leafLabel(a: Atom): string {
   let s = chapterOf(a.title)
@@ -280,7 +319,7 @@ function build(reader: HTMLElement) {
     tagsEl.replaceChildren()
     if (a.tags.length) {
       for (const t of a.tags) {
-        tagsEl.append(el("span", "ar-tag", tagLabel(t)))
+        tagsEl.append(tagChip(t, BP))
       }
     }
     // toc active
