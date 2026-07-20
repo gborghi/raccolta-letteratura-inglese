@@ -1176,7 +1176,20 @@ a.ar-tag:hover, a.ar-tag:focus-visible {
 // shrinks, leaving dead space. Pin it unconditionally so this can't regress in any
 // state; the two conditional pins below (inside body.reading-page and
 // body.left-collapsed) become redundant but are left in place, harmless.
-#quartz-body > .center { grid-area: grid-center; min-width: 0; }
+//
+// min-width:0 (needed so long content can't force horizontal overflow) removes
+// the min-width:100% floor base.scss relies on to keep the center box filling
+// its track. Without that floor the box shrinks to content width and base's
+// leftover `margin-inline:auto` CENTERS it, marooning narrow content (e.g. the
+// reading-page reader shell) mid-track with a dead left gutter. Neutralise the
+// auto-margin and force the box to fill its track so it stays flush-left.
+#quartz-body > .center {
+  grid-area: grid-center;
+  min-width: 0;
+  justify-self: stretch;
+  margin-left: 0;
+  margin-right: 0;
+}
 
 // ---- reading page: collapse the global Explorer/search left sidebar ----
 // The reader already carries its own work-nav (ar-toc), so on a reading page the
